@@ -1,0 +1,54 @@
+﻿6911|<O>| tmp += sprintf(ESC HIY "Xác nhận truyền thuyết\ntalk %x# welcome.10\n", getoid(me));
+6912|<O>| tmp += sprintf(ESC HIY "Thu thập tinh thạch\ntalk %x# welcome.12\n", getoid(me));
+6913|<O>| tmp += sprintf(ESC HIY "Thượng tấu Hàn Vương\ntalk %x# welcome.24\n", getoid(me));
+6914|<O>| return PF_FILE_01611->perform_action_npc(this_object(), who); //Ám khí
+6915|<O>| tmp += sprintf(ESC HIY "Tìm công việc\ntalk %x# welcome.12\n", getoid(me));
+6916|<O>| me->set_mail_id(Mails[num]["from"], Mails[num]["id"]);    // Ghi lại người gửi thư
+6917|<O>| tmp += sprintf(ESC HIY "Trừ hại cho dân\ntalk %x# welcome.42\n", getoid(me));
+6918|<O>| tmp += sprintf(ESC HIY "Tìm hiểu chiến báo\ntalk %x# welcome.32\n", getoid(me));
+6919|<O>| tmp += sprintf(ESC HIY "Tìm kiếm phương pháp\ntalk %x# welcome.16\n", getoid(me));
+6920|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 18\n    Phong tỏa hành động của đối thủ, khiến đối thủ không thể rời khỏi phạm vi trận pháp của bạn trong vòng 8 giây。";
+6921|<O>| team = me->correct_bonus_team1(who->get_team(), 30);	//có thể nhận thưởng trong phạm vi 30 ô
+6922|<O>| send_user(me, "%c%s", '!', sprintf("Bạn đã tiêu tốn %d Nguyên bảo。", to_int(key[6])));
+6923|<O>| tmp += sprintf(ESC HIY "Bảo thạch hoàn mỹ\ntalk %x# welcome.12\n", getoid(me));
+6924|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 1, 3,iTask,iKind,"Đã không còn thời gian dư" );
+6925|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 21, "Anh hùng mộng");
+6926|<O>| send_user(member, "%c%c%c%w%s", 0x51, 1, 1, TID_YUANFEN, "Duyên phận đối đối bàng");
+6927|<O>| return HIR + PF_NAME + "\n    Ngưng khí nhất kích, trảm thiên phá không, tăng thêm 15 điểm lực tấn công vật lý, khi gây sát thương đồng thời khiến đối thủ bị thương。";
+6928|<O>| sprintf("%s:\n    Cấp độ của bạn đã vượt qua giai đoạn tân thủ, ta không thể giúp bạn hồi phục được nữa. Tuy nhiên ta vẫn chúc bạn hành trình thuận buồm xuôi gió。\n"
+6929|<O>| tmp += sprintf(ESC HIY "Mang thư cho Quản Trọng\ntalk %x# welcome.1\n", getoid(me));
+6930|<O>| tmp += sprintf(ESC HIY "Lời nhắn của phu khuân vác\ntalk %x# welcome.25\n", getoid(me));
+6931|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 2, "Nhẫn nhục chịu đựng");
+6932|<O>| return "Đạo cụ tạm thời dùng để tham gia bỏ phiếu dự đoán trận đấu World Cup. Giá trị: 10.\nTăng tạm thời 10% giới hạn Khí huyết, hiệu quả duy trì 60 phút。";
+6933|<O>| if (flag >= 0) printf(ECHO "Bạn thiết lập nhân vật triệu hồi ở trạng thái “%s”。", flag ? "Hành động" : "Chờ lệnh");
+6934|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 31, "Thư của Tướng quân");
+6935|<O>| CHAT_D->sys_channel(0, who->get_name() + "người chơi nhận được 10 vạn vàng trong hoạt động "mẹ dặn dò"");
+6936|<O>| result += sprintf(ESC "Quảng Lăng\ntalk %x# welcome.10 Quảng Lăng\n", getoid(me));
+6937|<O>| tmp += sprintf(ESC HIY "Tìm công việc\ntalk %x# welcome.10\n", getoid(me));
+6938|<O>| result += sprintf(ESC "Cao Đường\ntalk %x# welcome.10 Cao Đường\n", getoid(me));
+6939|<O>| call_out("user_authentic_callout", 1, passwd, order);    // Tiếp tục chờ đợi kết quả
+6940|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 6, "Mật kiện hộ tịch");
+6941|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 6, "Kỳ văn trong mộng");
+6942|<O>| tmp += sprintf(ESC HIY "Nghìn dặm tìm thân\ntalk %x# welcome.18\n", getoid(me));
+6943|<O>| write_user( who, ECHO "Bạn tiêu tốn %d vàng để đến %s。\n", money, map->get_name() );
+6944|<O>| && gone_time(owner->get_quest("escort.time")) >= 2400)    // 40 phút
+6945|<O>| private static int PoisonRate;                  // Tăng cường độc tính("@", "@%")
+6946|<O>| send_user(who, "%c%s", ';', "Truyền thuyết Cự Lộc Kinh nghiệm 1800 Tiềm năng 80 Kim tiền 1500 Bản vẽ Dây chuyền vàng 1");
+6947|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 32, "Thăm dò dân gian");
+6948|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 1, 2, TID_ORG, 3, "Trả lại bảo vật bị thất lạc");
+6949|<O>| tmp += sprintf(ESC HIY "Hoàn thành sứ mệnh\ntalk %x# welcome.23\n", getoid(me));
+6950|<O>| tmp += sprintf(ESC HIY "Tìm hiểu nguyên nhân\ntalk %x# welcome.47\n", getoid(me));
+6951|<O>| tmp += sprintf(ESC HIY "Cứu người trong lúc nguy nan\ntalk %x# welcome.1\n", getoid(me));
+6952|<O>| ||      get_effect(who, EFFECT_CHAR_LAZY_0) ) return 2;    // Thực hiện thành công
+6953|<O>| else    if (number_present(me, index, 0, 0)) index = -1;    // Khả năng chịu lỗi
+6954|<O>| case "Cấm Vệ Quân" : if( type != STICK && type!=SPEAR ) flag = -1;  break;
+6955|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 53, "Lâm nguy bất cụ");
+6956|<O>| result = sprintf("%s:\n    Số lượng rối chiến đấu đã đạt 5, không thể thuê thêm。\n", who->get_name());
+6957|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 43, "Trừ khử ác phỉ");
+6958|<O>| result += sprintf(ESC "Tây Thành\ntalk %x# welcome.10 Tây Thành\n", getoid(me));
+6959|<O>| tmp += sprintf(ESC HIY "Bệnh của Thế tử\ntalk %x# welcome.25\n", getoid(me));
+6960|<O>| tmp += sprintf(ESC HIY "Tin tức thần kiếm\ntalk %x# welcome.15\n", getoid(me));
+6961|<O>| tmp += sprintf(ESC HIY "Thiên Môn thám hiểm\ntalk %x# welcome.13\n", getoid(me));
+6962|<O>| tmp += sprintf(ESC HIY "Người thợ khéo tay\ntalk %x# welcome.1\n", getoid(me));
+6963|<O>| SAY_CMD->say(this_object(), "Haha。。。Haha。。。Tối nay lại có thịt tươi để ăn rồi. ?? Ủa? Sao mình lại dùng từ "lại" nhỉ??");
+6964|<O>| tmp += sprintf(ESC HIY "Trừ hại cho dân\ntalk %x# welcome.11\n", getoid(me));

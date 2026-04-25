@@ -1,0 +1,50 @@
+5189|<O>| send_user(who, "%c%s", ':', sprintf("Bạn:\nTa là sứ giả của %s, các ngươi ác ý quấy nhiễu phá hoại nước ta, là đạo lý gì vậy!\n\n\n"
+5190|<O>| "Công thức ngẫu nhiên cấp 95" : "\"/quest/product2\"->get_random_level_blue_product(95,95)",
+5191|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 51, "Trận chiến cuối cùng(hoàn thành)");
+5192|<O>| //	amount = YUTU->get_2(sprintf("player.%d.rabbit",id));//Tăng số lượng thỏ trên bảng xếp hạng của người chơi này。
+5193|<O>| result = sprintf("%s:\n    Được, tiếp tục! Nói đến chiến đấu, không thể tách rời các loại võ công chiêu thức dùng trong lúc chiến đấu. Muốn học được những chiêu thức này, trước hết phải bắt đầu từ những"
+5194|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 12, "Ủy thác của lão thôn trưởng");
+5195|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 10\n    Dùng kim châm kích thích kinh mạch, trong 15 phút tăng 20 điểm công kích pháp thuật cho đồng minh。";
+5196|<O>| sprintf("%s:\n    Bạn đã nhận một Song Tử anh minh rồi, nếu tiếp tục nhận thì hệ thống sẽ tăng thêm 14 ngày thời gian sử dụng cho Song Tử của bạn, bạn xác định muốn làm vậy sao?\n"
+5197|<O>| ESC "Đi " + name[2] + "。\n" + sprintf( "talk %x# goto.? %s\n", id, name[2] ) +
+5198|<O>| send_user(who, "%c%s", ';', sprintf("Vấn đề hợp tác Kinh nghiệm 120 Tiềm năng 20 Tiền 500 Áo tân thủ 1"));
+5199|<O>| if (key[5] != "1") send_user(me, "%c%s", '!', "Kết quả tra cứu cuối cùng không phải 1" + result + "。");
+5200|<O>| "%s: \n Ta là thiên sứ hoạt động đáng yêu nhất nhất nhất nhất, thiên sứ đổi thưởng bên cạnh xấu hơn ta nhiều～ các hoạt động của Đại Thoại Chiến Quốc đều do ta phụ trách, nếu bạn có gì chưa rõ thì cứ tới hỏi ta nhé～\n"
+5201|<O>| if (effect_dream) PF_FILE_04236->effect_thunder_break(me);    // Lôi Long Quyết(ngắt)
+5202|<O>| ESC "Đi " + name[5] + "。\n" + sprintf( "talk %x# goto.? %s\n", id, name[5] ) +
+5203|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 46, "Sức mạnh sa đọa(hoàn thành)");
+5204|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 47, "Bí mật của hòm gỗ（1）");
+5205|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 43, "Thủy quỷ hại người(hoàn thành)");
+5206|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YEWAI, 1, "Mật ong thơm ngon(đã hoàn thành)");
+5207|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHOUGUO, 12, "Sừng trâu vàng(hoàn thành)");
+5208|<O>| private int BZ_ACTIVE_BEFORE2	= 50;			//	Thời điểm thứ hai khi hoạt động bắt đầu (phút) -- lớp này tạm thời không hỗ trợ điều khiển thời điểm này
+5209|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 54, "Sai vặt của sứ giả（1）");
+5210|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 59, "Sự giúp đỡ của bạn bè(hoàn thành)");
+5211|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 49, "Con đường nhân duyên 3(hoàn thành)");
+5212|<O>| write_user(me, ECHO "Bạn thi triển " HIY "Vong Hồn Siêu Độ" ECHO " lên %s, %s đã được giải thoát。", sName, sName);
+5213|<O>| CITY_ZHOU->set_2(sprintf("org.%s", name), npc);    // Cần đồng bộ với /map/city/*
+5214|<O>| result += sprintf(ESC "Mật đạo núi Tuyết Phong\ntalk %x# welcome.10 Mật đạo núi Tuyết Phong\n", getoid(me));
+5215|<O>| tell_user(who, "%c%s", '>', "Thêm thông báo: gonggao add khoảng thời gian(phút) số lần phát(0 là vô hạn) nội dung");
+5216|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 44, "Nguyên liệu nấu rượu");
+5217|<O>| } else if(rate < 9941 ) {	//	i.	Xác suất 100 rơi ra một thẻ biến thân ngẫu nhiên。。	//8-23	ix.	Xác suất 70 rơi ra một thẻ biến thân ngẫu nhiên。
+5218|<O>| send_user(who, "%c%c%d%w%w", 0x2c, 7, getoid(me), -1, -1);    // Cập nhật tọa độ thú triệu hồi
+5219|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 12, "Kinh hồn trên Trường Thành(hoàn thành)");
+5220|<O>| send_user(nPlayer, "%c%c%d%s", 0x43, 10, 0, "Đội quân của Phùng Đình, trung quân Triệu, đã bị quân Tần đánh lui! Sĩ khí quân Triệu bị tổn thất nặng!");
+5221|<O>| static string *SchoolName = ({"Đào Hoa Nguyên","Cấm Vệ Quân","Thục Sơn","Côn Luân Sơn","Mao Sơn","Vân Mộng Trạch","Đường Môn",});
+5222|<O>| result = sprintf(HIY "%s chiếu rằng:“%s đa hành bất nghĩa, chúng ta phụng mệnh Chu Vương đi phạt hắn。”", me->get_name(), name4);
+5223|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 13, "Ác bá Trường Thành(hoàn thành)");
+5224|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 27\n    Mê tung quyền pháp, có thể khiến kinh mạch đối thủ rối loạn, trong 8 giây không thể tự do khống chế hành động của mình。";
+5225|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 101, "Ngàn dặm tìm người thân(hoàn thành)");
+5226|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 33, "Điều kiện của bọn bắt cóc(hoàn thành)");
+5227|<O>| FAMILY_D->org_channel(name, 0, sprintf(HIR "Đã có %d con quái vật phát động tấn công!", npc_count));
+5228|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 79, "Thử sức(hoàn thành)");
+5229|<O>| "Công thức ngẫu nhiên cấp 85" : "\"/quest/product2\"->get_random_level_blue_product(85,85)",
+5230|<O>| result = get_name() + ":\n    Sao vậy? Ông chủ tiệm vũ khí không chịu đưa à? Không thì sao ngươi vẫn chưa mang tới đây. Chẳng lẽ ta nhìn lầm người rồi? Chắc là không đâu!\n"
+5231|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 86, "Đồ phạm pháp trái phép(hoàn thành)");
+5232|<O>| "Công thức ngẫu nhiên cấp 55" : "\"/quest/product2\"->get_random_level_blue_product(55,55)",
+5233|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 5, "Máu của chó đốm(hoàn thành)");
+5234|<O>| send_user(who, "%c%s", ':', me->get_name() + ":\nNgươi đi điều tra các nước xem nơi nào mua được trang bị?\n");
+5235|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 12, "Bí quyết làm ăn của thương nhân(hoàn thành)");
+5236|<O>| //	send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_NEWBIE_01,22,"Trận chiến chính nghĩa" );
+5237|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 20, "Kẻ phản đồ vô sỉ(hoàn thành)");
+5238|<O>| send_user(who, "%c%s", ';', "Tết Trùng Dương（4） Kinh nghiệm 13000 Tiềm năng 750 Tiền 17000 Bản vẽ Kim Ti Hành Trang 1");

@@ -1,0 +1,53 @@
+﻿6588|<O>| tmp += sprintf(ESC HIY "Đòn đánh quyết định\ntalk %x# welcome.3\n", getoid(me));
+6589|<O>| MAILBOX->sys_mail(account, to_int(id), "Thời hạn đặt Tế Thế Hồ Lô của bạn đã hết, hồ lô đã được trả lại cho bạn.");
+6590|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 12, "Truy bắt trọng phạm");
+6591|<O>| if (map = get_map_object(z0)) map->before_jumpout(me);    // Xử lý trước khi nhảy ra
+6592|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 1, "Tráng đinh đào tẩu");
+6593|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 13, "Lừa đảo chiêu trò");
+6594|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 18, "Truy tìm tận gốc");
+6595|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 12, "Truyền thuyết Hàn Ti");
+6596|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 8, "Sự phó thác của bách tính");
+6597|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 44, "Xác thực lời đồn");
+6598|<O>| tmp += sprintf(ESC HIY "Sự giúp đỡ của bạn bè\ntalk %x# welcome.12\n", getoid(me));
+6599|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 52, "Thăm dò chuyện lạ");
+6600|<O>| send_user(who, "%c%s", ';', "Gửi gắm lúc lâm chung Kinh nghiệm 6600 Tiềm năng 240 Kim tiền 6400 Bản vẽ Ngọc Bồ Đề 1");
+6601|<O>| send_user(who, "%c%s", ';', "Sự oán hận của thần linh Kinh nghiệm 1800 Tiềm năng 60 Kim tiền 1300 Bản vẽ Dây chuyền vàng 1");
+6602|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 60, "Thông báo tình hình");
+6603|<O>| tmp += sprintf(ESC HIY "Sự phó thác của Hàn tổng quản\ntalk %x# welcome.9\n", getoid(me));
+6604|<O>| orgnpc->set_enemy_95(npc);  npc->set_enemy_95(orgnpc);    // Ghi lại tổng quản phe địch
+6605|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 35, "Chuyện bao đồng");
+6606|<O>| result = result + sprintf(HIR"%d kinh nghiệm、", 100 + who->get_level() * 35);
+6607|<O>| tmp += sprintf(ESC HIY "Chế tác Tù Và Của Vua\ntalk %x# welcome.9\n", getoid(me));
+6608|<O>| send_user(me, "%c%s", '!', sprintf("Bạn đã trộm thành công %s。", item->get_name()));
+6609|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 31, "Thương nhân khóc lóc");
+6610|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 34, "Sự khó khăn khi đi sứ");
+6611|<O>| tmp += ESC + HIY + "Ngưu Nhị báo ơn。\n" + sprintf("talk %x# welcome.8\n", id);
+6612|<O>| send_user(me, "%c%s", '!', sprintf("Bạn đã nạp thành công %d Nguyên bảo。", to_int(result)));
+6613|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 23, "Vệ binh hối hận");
+6614|<O>| return "［Cường Hóa Mài Giũa］Tăng giới hạn khí huyết, mỗi cấp tăng 6 điểm; tăng lực tấn công vật lý khi trang bị Thương, mỗi cấp tăng 4 điểm; tăng lực tấn công vật lý khi trang bị Côn, mỗi cấp tăng 4 điểm";
+6615|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 21, "Sở thích nghiệp dư");
+6616|<O>| result += sprintf(ESC "Truyền tống đến bản đồ luyện cấp 25-30\ntalk %x# welcome.400\n", id);
+6617|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 34, "Trừ hại cho dân");
+6618|<O>| write_user(who, ECHO "%s cho bạn %s。", me->get_name(), item->get_name());
+6619|<O>| private int active_to		= 51800;		//	Thời gian kết thúc hoạt động [0-6]/[1-31][0-23][0-59]
+6620|<O>| send_user(who, "%c%s", ';', sprintf("Bạn nhận được phần thưởng %s", item->get_name()));
+6621|<O>| ret = CHAR_FIGHT_D->attack_done(me, who, HIT_NORMAL);    // Cẩn thận chuẩn bị me
+6622|<O>| tmp += sprintf(ESC HIY "Huỳnh quang thần bí\ntalk %x# welcome.14\n", getoid(me));
+6623|<O>| result = sprintf("Bạn đã gửi %s vào chỗ %s。", item->get_name(), who->get_name());
+6624|<O>| private static object Owner;            // Định danh người dùng (Ghi chú: Ghi lại chủ nhân, xóa cảnh này khi chủ nhân không có mặt)
+6625|<O>| send_user(who, "%c%s", ';', "Nhẫn nhục chịu đựng Kinh nghiệm 4600 Tiềm năng 170 Kim tiền 3900 Bản vẽ Canh trứng gà 1");
+6626|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 1, 2,TID_MASTER,8,"Nhiệm vụ hỗ trợ trị an" );
+6627|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 39, "Giữ khoảng cách");
+6628|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 5, "Công cụ sản xuất");
+6629|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_CHUGUO,4,"Đúc kiếm kinh thế" );
+6630|<O>| ||      get_effect(who, EFFECT_CHAR_FAINT_0) ) return 2;    // Thực hiện thành công
+6631|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 30, "Ban chỉ tu mộ");
+6632|<O>| send_user(who, "%c%s", '!', sprintf("Bạn không có công cụ khai khoáng cấp %d trở lên！", TOOL_LEVEL));
+6633|<O>| return sprintf("［" PF_NAME "］Pháp thuật hỗ trợ, chuyển %d pháp lực của bản thân thành pháp lực của thú triệu hồi, %s cấp %d có thể dùng\n",
+6634|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 38, "Chứng minh thực lực");
+6635|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 8, "Đi sứ Tần Quốc");
+6636|<O>| return sprintf("［Tinh luyện］ Vật công %+d\n［Trang bị phù hợp］ Vũ khí, Dây chuyền", me->get_diamond_add());
+6637|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 41, "Minh biện thị phi");
+6638|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 42, "Thu mua châu báu");
+6639|<O>| "Công thức ngẫu nhiên cấp 70" : "\"/quest/product2\"->get_random_level_product(70,70)",
+6640|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 35, "Thư đi sứ");

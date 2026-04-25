@@ -1,0 +1,47 @@
+4511|<O>| if( !who->get_max_damage() ) who->init_enemy_damage(me, 0);    // Ghi lại sát thương mạnh nhất(NPC)
+4512|<O>| else if ((cTmp = who->get_2("changping.country")) && cTmp == cCountry2)	//Của đối phương
+4513|<O>| tmp += sprintf(ESC HIY "Bí mật của di sản\ntalk %x# welcome.6\n", getoid(this_object()));
+4514|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 10\n    Pháp tụ khí của Đào Hoa Nguyên, tiêu hao 100 điểm khí huyết của bản thân, liên tục tự động luyện thành nguyên khí trong 30 phút。";
+4515|<O>| USER_D->user_channel("Chúc mừng "+player->get_name()+" nhận được "+HIR"10000 tiền"+" trong hoạt động Trung Thu。\n");
+4516|<O>| if (level > 50) log_file(SKILL_LOG, sprintf("%s %s(%d) xóa kỹ năng %s(%04d) cấp %d。\n",
+4517|<O>| return sprintf("［Tinh luyện］ Công pháp %+d\n［Trang bị áp dụng］ Vũ khí、dây chuyền, giới hạn trang bị dưới cấp 20。", me->get_diamond_add());
+4518|<O>| tmp += sprintf(ESC HIY "Bữa tối kén chọn\ntalk %x# welcome.1\n", getoid(this_object()));
+4519|<O>| tmp += sprintf(ESC HIY "Oán hận của thần linh\ntalk %x# welcome.4\n", getoid(this_object()));
+4520|<O>| tmp += sprintf(ESC HIY "Hỏi thăm phương thuốc\ntalk %x# welcome.16\n", getoid(this_object()));
+4521|<O>| tmp += sprintf(ESC HIY "Chỉ bông và tạo giác\ntalk %x# welcome.4\n", getoid(this_object()));
+4522|<O>| tmp += sprintf(ESC HIY "Khuyên can Tần Vương\ntalk %x# welcome.17\n", getoid(this_object()));
+4523|<O>| result = result + sprintf(ESC HIY "Rèn luyện của anh hùng\ntalk %x# welcome.1\n", getoid(me));
+4524|<O>| send_user(who, "%c%s", ';', "Bái phỏng Ngụy Chiêu Vương Kinh nghiệm 2000 Tiềm năng 50 Tiền 2000 Hành quân tán 5 Chính khí tán 5 Lệnh Thất Quốc 1");
+4525|<O>| DEBUG(team[i],sprintf("Kiểm tra--do_look z=%d,level=%d",z,map->get("copy_level")));
+4526|<O>| tmp += sprintf(ESC HIY "Oan hồn khóc than\ntalk %x# welcome.1\n", getoid(this_object()));
+4527|<O>| tmp += sprintf(ESC "Nhận 《Chiến Quốc Bảo Điển》\ntalk %x# welcome.12\n", getoid(this_object()));
+4528|<O>| &&      inside_screen_2(who, npc) && inside_screen_2(me, npc) )    // Gây sát thương cho chủ nhân
+4529|<O>| tmp += sprintf(ESC HIY "Tín vật của Chu Tử\ntalk %x# welcome.1\n", getoid(this_object()));
+4530|<O>| "Intel(R) Xeon(TM) CPU 3.00GHz i386c0a80610c09fc66588",		//Hoàng Đại Tiên Đài Loan 210.17.20.97
+4531|<O>| tmp += sprintf(ESC HIY "Nguồn gốc của thức ăn\ntalk %x# welcome.3\n", getoid(this_object()));
+4532|<O>| //			send_user(who,"%c%s",':',me->get_name()+":\n    Có người trong đội ngươi đã báo danh rồi!\n"ESC"Rời đi");
+4533|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 20\nTiêu hao đạo cụ: Mê Thần Tán\n    Rắc bột gây ngủ lên người địch, có thể khiến nó rơi vào trạng thái mộng du trong 30 giây。";
+4534|<O>| tmp += sprintf(ESC HIY "Thẻ tre bị mất\ntalk %x# welcome.1\n", getoid(this_object()));
+4535|<O>| //                who->set_latest_city( z * 100 + me->get("out") );    // Phù hồi thành
+4536|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 45, "Nỗi phiền não do kiến mang tới(hoàn thành)");
+4537|<O>| tmp += sprintf(ESC HIY "Vị thuốc còn thiếu\ntalk %x# welcome.16\n", getoid(this_object()));
+4538|<O>| tmp += sprintf(ESC HIY "Xông trận tìm cỏ\ntalk %x# welcome.16\n", getoid(this_object()));
+4539|<O>| tell_user(me, "Cấm cho vật: %-4dCấm truyền tống: %d", who->get_no_give(), who->get_no_trans());
+4540|<O>| tmp += sprintf(ESC HIY "Đất đặc biệt\ntalk %x# welcome.1\n", getoid(this_object()));
+4541|<O>| tmp += sprintf(ESC HIY "Công phá Thiên Môn Trận\ntalk %x# welcome.1\n", getoid(this_object()));
+4542|<O>| tmp += sprintf(ESC HIY "Kho báu trong truyền thuyết\ntalk %x# welcome.1\n", getoid(this_object()));
+4543|<O>| //      				if( !get_effect_3(me, EFFECT_USER_BURN) )    // Triệu chứng tuần hoàn set_effect_2
+4544|<O>| if (objectp(item = me->get_equip(WEAPON_TYPE)) && item->get_name() == "Ngọc Thần Bảo Kiếm")
+4545|<O>| default: send_user(who, "%c%s", ':', sprintf("Bạn:\nTa là sứ giả của %s, mang theo lễ vật để tăng tiến tình hữu nghị giữa hai nước。\n\n\n"
+4546|<O>| tmp += sprintf(ESC HIY "Nghiên cứu nguyên tố đá\ntalk %x# welcome.1\n", getoid(this_object()));
+4547|<O>| if (!who->can_be_fighted(me) || !me->can_fight(who)) continue;    // Dưới đây là hiệu quả cộng thêm!
+4548|<O>| tmp += sprintf(ESC HIY "Tù và xây bang\ntalk %x# welcome.1\n", getoid(this_object()));
+4549|<O>| private static int FightTime;           // Thời gian pet tấn công: thú triệu hồi ghi thời gian tấn công, dùng cho tình huống 110 giây không giết được thì bỏ
+4550|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 104, "Ngọc bội gia tộc(đã hoàn thành)");
+4551|<O>| if (!who->can_be_fighted(me) || !me->can_fight(who)) return 2;    // Dưới đây là hiệu quả cộng thêm!
+4552|<O>| result = sprintf("Bạn xác định luận tội %s với %s?\n", me->get_name(), city->get_master_name_3());
+4553|<O>| result = sprintf("Bạn xác định luận tội %s với %s?\n", me->get_name(), city->get_master_name_2());
+4554|<O>| send_user(who, "%c%s", ';', sprintf("%s 1 Tù Và Chiến Quốc 1 10000 vàng", name->get_name()));
+4555|<O>| tmp += sprintf(ESC HIY "Rèn luyện dũng khí\ntalk %x# welcome.11\n", getoid(this_object()));
+4556|<O>| tmp += sprintf(ESC HIY "Lộ phí đi Yên\ntalk %x# welcome.1\n", getoid(this_object()));
+4557|<O>| tmp += sprintf(ESC HIY "Thổ phỉ tội ác\ntalk %x# welcome.1\n", getoid(this_object()));

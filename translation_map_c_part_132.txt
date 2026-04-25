@@ -1,0 +1,33 @@
+2640|<O>| send_user( who, "%c%c%w%s", ':',3,me->get_char_picid(), me->get_name() + ":\n    Người có duyên của ngươi đâu？Mau tìm được người có duyên rồi hãy quay lại chỗ ta đi！\n"ESC"Rời khỏi" );
+2641|<O>| send_user(get_scene_object_2(me, USER_TYPE), "%c%w%w%w%c%c%c", 0x4f, x1, y1, 9413, 1, OVER_BODY, PF_ONCE);    // Gửi bù chỉ lệnh
+2642|<O>| result = sprintf(HIC"%s(%d cấp)\n" NOR "Yêu cầu kỹ năng:%d cấp\nTiêu hao vật phẩm: thuốc độc\nTiêu hao pháp lực:%d điểm\nThời gian hồi:%d giây\n    Bôi thuốc độc lên vũ khí của đồng minh, khiến mỗi lần tấn công của họ có 40％ xác suất khiến địch trúng độc。\n",
+2643|<O>| send_user(who,"%c%c%w%s",':',3,me->get_char_picid(),sprintf("%s:\n    Ngươi không phải Tân Nhân Vương, ngươi không thể nhận thưởng Tân Nhân Vương！\n"ESC"Rời khỏi",me->get_name(),));
+2644|<O>| result = sprintf("%s:\n    Thông thường sau khi tiêu diệt quái vật, vật phẩm sẽ rơi xuống đất, lúc này chỉ cần nhấp một cái vào vật phẩm trên mặt đất, nó sẽ tự động được đặt vào ô đạo cụ của ngươi. Như vậy phần giải thích cơ bản về đạo cụ cũng gần như xong rồi, nếu còn thắc mắc gì khác, ngươi có thể đi hỏi các vị thần tiên khác nhé。\n"
+2645|<O>| else        send_user(who, "%c%c%w%s", ':', 3, 4153, get_name() + ":\nVị " + NPC_RANK_D->get_respect(who) + " này muốn về môn phái sao？\n"
+2646|<O>| log_file("newbie.txt", sprintf("%s %s %d nhận %s thất bại\n", short_time(), me->get_id(), me->get_number(), item->get_name()));
+2647|<O>| send_user(who,"%c%c%w%s",':',3,me->get_char_picid(),sprintf("Tả Khâu Minh:\n    Với thực lực hiện tại của ngươi, cứ như vậy tiến vào Phong Yêu Kính là rất nguy hiểm！Đợi cấp độ của ngươi vượt quá 35 rồi, ta sẽ để ngươi đi。\n"));
+2648|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Giấy chứng nhận vượt cực hạn của ngươi đâu？\n"ESC"Rời khỏi", me->get_name(), ));
+2649|<O>| log_file(LIST_LOG, sprintf(htm, name, level, "Nam", "Đào Hoa Nguyên<BR>Thục Sơn<BR>Cấm Vệ Quân", dp, pp, lasting / 100, lasting / 100, value));
+2650|<O>| CHAT_D->sys_channel(0,HIY"Ông lão Trùng Dương trong thời gian ở Chiến Quốc đã nhận được rất nhiều sự giúp đỡ từ những người chơi nhiệt tình, cảm động đến mức nước mắt chảy ròng ròng, còn không muốn rời đi nữa. Đột nhiên một hố đen xuất hiện kéo ông lão Trùng Dương đang quyến luyến không nỡ rời đi mất, cuối cùng từ trong đó còn mơ hồ vọng ra một giọng nói không cam lòng: “Ta không muốn đi a！……”");
+2651|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Chuyện ta nhờ ngươi làm đâu？Làm xong chưa？\n"ESC"Rời khỏi", me->get_name()));
+2652|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Thế này thì dân chúng ở đó sẽ gặp tai ương rồi。\n"ESC"Rời khỏi", me->get_name()));
+2653|<O>| log_file("newbie.txt", sprintf("%s %s %d nhận %s thành công\n", short_time(), me->get_id(), me->get_number(), item->get_name()));
+2654|<O>| log_file(LIST_LOG, sprintf(htm, name, level, "Nữ", "Đào Hoa Nguyên<BR>Thục Sơn<BR>Cấm Vệ Quân", dp, pp, lasting / 100, lasting / 100, value));
+2655|<O>| send_user(get_scene_object_2(me, USER_TYPE), "%c%w%w%w%c%c%c", 0x4f, x0, y0, 9413, 1, OVER_BODY, PF_ONCE);    // Gửi bù chỉ lệnh
+2656|<O>| send_user(who, "%c%c%w%s", ':', 3, 9968, "Đạo trưởng khu thi:\n    Sinh tử tới lui, con rối đầu sạp. Một sợi chỉ đứt, liền rơi rã tan tành. Hi hi, sinh mệnh con người chẳng qua chỉ là con rối gỗ trong tay bần đạo, cũng giống như những cương thi này vậy, dây điều khiển vừa đứt, mọi thứ liền kết thúc。\n" +
+2657|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Mau đi đi, hắn đã đợi đến sốt ruột rồi。\n"ESC"Rời khỏi", me->get_name()));
+2658|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Kẻ đến là ai！？Ta sẽ gọi vệ binh đấy！\n"ESC"Rời khỏi", me->get_name()));
+2659|<O>| send_user(me, "%c%c%w%s", ':', 3, 0, sprintf("Sau khi sử dụng sẽ nhận được thần thú, có muốn sử dụng không？\n"ESC"Xác định\nuse ! %x#\n"ESC"Hủy bỏ", getoid(this_object())));
+2660|<O>| log_file("deposit.dat", sprintf("%s %s(%d) nạp thành công %d\n", short_time(), me->get_id(), me->get_number(), to_int(result)));
+2661|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Bộ công cụ nhà ta thật sự không dùng được nữa rồi！\n"ESC"Rời khỏi", me->get_name()));
+2662|<O>| log_file("marry.txt",sprintf("%s %s(%s %d)  xin cưỡng ép ly hôn\n",short_time(),who->get_name(),who->get_id(),who->get_number()));
+2663|<O>| if (War%11==0) CHAT_D->sys_channel(0,HIY"Yêu ma đến từ dị giới đã đại quân xâm lấn các thành đô của các nước, hiện nay chỗ "HIR"đại tướng quân bảy nước"HIY" đã triển khai gấp việc chiêu mộ binh lính. Xin các dũng sĩ tình nguyện mau chóng tới chỗ tướng quân tập hợp, gia nhập đại quân chinh phạt yêu ma！");
+2664|<O>| "Đại vương của chúng ta thích nhất kiểu người trẻ tuổi tiến thủ như ngươi. Nếu ngươi đã hội đủ mọi điều kiện, biết đâu phong hầu bái tướng cũng chẳng còn xa nữa！\n"ESC"Hoàn thành nhiệm vụ\ntalk %x# welcome.9\n"ESC"Rời khỏi", me->get_name(), getoid(me)));
+2665|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi đã có danh hiệu như vậy rồi！\n"ESC"Rời khỏi", me->get_name(), ));
+2666|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Bổn quan đâu có nhận được nhiều thuế như vậy！\n"ESC"Rời khỏi", me->get_name()));
+2667|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), me->get_name() + ":\n    Người có duyên của ngươi đâu？Mau tìm được người có duyên rồi hãy quay lại chỗ ta đi！\n"ESC"Rời khỏi");
+2668|<O>| send_user(who,"%c%c%w%s",':',3,me->get_char_picid(),sprintf("%s:\n    Cấp độ của ngươi vẫn chưa đạt cấp 50, theo quy củ ta vẫn chưa thể tặng quà cho ngươi。\n",me->get_name()));
+2669|<O>| "Kỳ Liên Sơn" : ({ 511, 169, 222 }), "Kỳ Liên Thảo Nguyên" : ({ 510, 167, 222 }), "Mang Sơn Bí Đạo" : ({ 527, 37, 125 }), "Lang Nha Bí Đạo" : ({ 526, 238, 81 }),
+2670|<O>| see = get_range_object(z, x, y, seek, USER_TYPE) + get_range_object(z, x, y, seek, CHAR_TYPE) - ({ me });    // Phạm vi có thể nhìn thấy
+2671|<O>| send_user(player,"%c%c%w%s",':',3,npc->get_char_picid(),npc->get_name()+":\n"+"    Ngươi đã nhận phần thưởng này rồi, không thể nhận lặp lại đâu！\n"+ESC"Xác định\n");
+2672|<O>| send_user( who, "%c%c%w%s", ':',3,me->get_char_picid(), sprintf("%s:\n    Hiện giờ không phải thời gian công thành, đơn xin vô hiệu！\n"ESC"Rời khỏi",me->get_name()));

@@ -1,0 +1,38 @@
+3163|<O>| #define ADD_AP          me->get_pf_value_2(THIS_SKILL, SKILL_LEVEL_SQUARE, 16, 160)    // Cảnh báo:me cần chuẩn bị sẵn
+3164|<O>| ret += sprintf("%sMũ Liệp Báo\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"猎豹头巾"))?PPM:WHT);
+3165|<O>| if( is_god(who) ) tell_user( who, "r%s ám khí-> %s, trúng:%d thất bại", me->get_name(), who->get_name(), rate );
+3166|<O>| result = sprintf("%s:\n    Ngươi còn %d phút nữa là có thể chọn bước vào lục đạo luân hồi, nhưng ngươi vẫn còn cơ hội hủy bỏ ý định tự sát. Ngươi có muốn từ bỏ ý định tự sát không？\n", me->get_name(), time);
+3167|<O>| "Bổn tổng quản cảm ơn hắn đã đưa tới một vị tráng sĩ như vậy, dụng tâm lương khổ của hắn, bổn tổng quản hiểu。\n"ESC"Nhận nhiệm vụ\ntalk %x# welcome.10\n"ESC"Rời khỏi", me->get_name(), getoid(me)));
+3168|<O>| result = sprintf("Ngươi nhận được kinh nghiệm %d, tiềm năng %d, tiền %d, cống hiến bang phái %d điểm, độ nổi tiếng bang tăng 1 điểm, độ an định tăng 1 điểm。", exp, pot, cash, 1 + order * 2 / 9);
+3169|<O>| send_user(me, "%c%w%w%c%c%c%c%c%s", 0x64, THIS_PERFORM, SUB_MP, 0, 1, MAGIC_ACT_BEGIN, 0, 9, "Phù cương thi");
+3170|<O>| ret += sprintf("%sHài Mãnh Hổ\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"猛虎之靴"))?PPM:WHT);
+3171|<O>| send_user(me, "%c%c%d%s", '?', 16, 60, "Xin hãy nhập số lần hợp server và thời gian kết thúc hợp server(ví dụ:2 200707190900):\n"ESC"party 203.%s\n");
+3172|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng:15 cấp\n    Pháp thuật miễn dịch đặc hữu của Thục Sơn, có thể bảo vệ bản thân không rơi vào trạng thái choáng, dưới hiệu quả này không thể thay đổi vũ khí。\n    Dùng lại Thanh Tỉnh Thuật có thể giải trừ hiệu quả này。\n";
+3173|<O>| ESC "Giáng Sinh vui vẻ\ntalk %x# welcome.63\n", me->get_name(), getoid(me), getoid(me), getoid(me), getoid(me)));
+3174|<O>| if (effect2 & 0x00000400) effect += ({ sprintf("Dược vật tăng pháp lực: %d", get_effect(what, EFFECT_USE_ITEM_2)) });
+3175|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nTiêu hao nguyên khí:%d điểm\nThời gian hồi:%d giây\n    Thi triển khí công cầu tấn công một mục tiêu trong tầm nhìn, đồng thời khiến hắn rơi vào trạng thái làm chậm trong 2 giây。",
+3176|<O>| case 16: send_user(who, "%c%s", ':', sprintf("%s:\nCác hạ dạy dỗ phải lắm, ta sẽ không tin chuyện quỷ thần nữa。(tôn giáo %+d)", me->get_name(), p));
+3177|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), "Bác sĩ thú cưng:\n    Số thú cưng ngươi mang theo hiện tại đã đạt giới hạn！\n"ESC"Rời khỏi", );
+3178|<O>| write_user(who, ECHO "Kinh nghiệm quân quan của ngài +60, chính nghĩa +60, trung thực +1, dũng cảm +60, danh vọng +6, tiền %+d, kinh nghiệm %+d, tiềm năng +6。", gold, exp);
+3179|<O>| //                                if( !get_effect_3(me, EFFECT_CHAR_BLOOD) )    // Trạng thái tuần hoàn set_effect_2
+3180|<O>| int use_equip(object equip) { return NPC_EQUIP_D->use_equip(this_object(), equip); }    // Chỉ có trang bị, không có tháo xuống
+3181|<O>| send_user(team[i],"%c%c%w%s",':',3,me->get_char_picid(),sprintf("%s:\n    Chính là tiên đan này sao？Cảm ơn các ngươi quá！Chúng ta nhất định sẽ hậu báo。\n"
+3182|<O>| case 11: send_user(who, "%c%s", ':', sprintf("%s:\nThật sao？Ngày mai ta sẽ vận động thêm người thân bạn bè đi đào。(khoáng nghiệp %+d)", me->get_name(), p));
+3183|<O>| send_user(me, "%c%w%w%c%c%c%c%c%s", 0x64, THIS_PERFORM, SUB_MP, 0, 1, MAGIC_ACT_BEGIN, 0, 9, "Đậu nành");
+3184|<O>| send_user(who, "%c%c%d%s", '?', 1, 100000, sprintf("%s:\nLương mỗi ngày của ngài là %d vàng, xin hỏi ngài muốn sửa thành bao nhiêu？(phạm vi:10000～100000)\n"
+3185|<O>| send_user(who, "%c%c%w%s", ':', 3, npc->get_char_picid(), npc->get_name() + ":\n    Đợi ta với, ta sẽ theo ngươi đi tìm mẹ。");
+3186|<O>| #define ADD_SIZE        me->get_pf_value_2(THIS_SKILL, SKILL_LEVEL_SQUARE, 4, 800)    // Cảnh báo:me cần chuẩn bị sẵn
+3187|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng:22 cấp\n    Cộng thêm 20 điểm độc tính. Phóng độc vụ trong phạm vi 7×7 lấy bản thân làm trung tâm, tức thì lây nhiễm toàn bộ mục tiêu đối địch trong phạm vi này, đồng thời kẻ địch bị lây nhiễm sẽ rơi vào trạng thái làm chậm。";
+3188|<O>| ret += sprintf("%sMũ Linh Hồ\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"灵狐绒帽"))?PPM:WHT);
+3189|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng:17 cấp\n    Tuyệt kỹ đặc biệt của côn pháp, khi tấn công cộng thêm 15 điểm sát thương, đồng thời có xác suất nhất định đánh rơi trang bị trên người đối thủ trong 5 giây. Nếu dùng với quái vật, có thể làm giảm 30 điểm phòng ngự vật lý của nó。";
+3190|<O>| return sprintf("［" PF_NAME "］Trong thời gian duy trì, chuyển hóa một phần sát thương lên bản thân thành sát thương pháp lực. Tiêu hao pháp lực:%d, lần dùng kế tiếp cần cách %d giây, %s%d cấp có thể dùng\nYêu cầu kỹ năng cơ bản: Đại Thừa Đạo Pháp\n",
+3191|<O>| send_user(who, "%c%s", ';', sprintf("Bí mật của hòm gỗ（4）  Kinh nghiệm 120000  Tiềm năng 1500  Tiền 110000  %s 1", tmp->get_name()));
+3192|<O>| if (ret && who && !who->is_die() && (rate = me->get("double_attack")) && random(100) < rate)	//Tấn công 2 lần
+3193|<O>| send_user(me, "%c%w%w%c%c%c%c%c%s", 0x64, THIS_PERFORM, SUB_MP, 0, 1, MAGIC_ACT_BEGIN, 0, 9, "Bùa giấy");
+3194|<O>| case 7: send_user(who, "%c%s", ':', sprintf("%s:\nTa đã sớm muốn học rồi, giờ có thể nộp ít tiền thuế hơn。(thuế thu %+d)", me->get_name(), p));
+3195|<O>| send_user(who, "%c%s", ';', sprintf("Yên Vương thích đồ quý（4）  Kinh nghiệm 100000  Tiềm năng 1400  Tiền 100000  %s 1", tmp->get_name()));
+3196|<O>| #define TIME_INTERVAL   me->get_pf_value(THIS_SKILL, SKILL_LEVEL_SQUARE, 20, 4000)    // Cảnh báo:me cần chuẩn bị sẵn
+3197|<O>| send_user(me, "%c%w%w%c%c%c%c%c%s", 0x64, THIS_PERFORM, SUB_MP, 0, 1, MAGIC_ACT_BEGIN, 0, 5, "Bùa giấy");
+3198|<O>| send_user(who, "%c%s", ';', sprintf("Kiến nghị nhiệt tình（4）  Kinh nghiệm 230000  Tiềm năng 2400  Tiền 220000  %s 1", tmp->get_name()));
+3199|<O>| case 16: send_user(who, "%c%s", ':', sprintf("%s:\nTrẻ con nói chuyện, chớ trách chớ trách, đừng nói những chuyện tổn âm đức như vậy, cẩn thận trời trách tội！", me->get_name()));
+3200|<O>| result = sprintf("%s:\n    Ngươi còn %d ngày nữa là có thể chọn bước vào lục đạo luân hồi, nhưng ngươi vẫn còn cơ hội hủy bỏ ý định tự sát. Ngươi có muốn từ bỏ ý định tự sát không？\n", me->get_name(), time);

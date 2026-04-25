@@ -1,0 +1,47 @@
+4417|<O>| send_user( who, "%c%s", '>',sprintf("Bạn nhận được thưởng: Kinh nghiệm %d Tiền %d Tiềm năng %d",exp,cash,pot));
+4418|<O>| private mapping skill_cache = ([]);    // Bộ nhớ đệm: skill_id -> { level, timestamp }
+4419|<O>| tmp += sprintf(ESC HIY "Câu hỏi của quan tài chính\ntalk %x# welcome.1\n", getoid(this_object()));
+4420|<O>| tell_user(me, "Cấm kết bạn: %-4dCấm tổ đội: %d", who->get_no_friend(), who->get_no_team());
+4421|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 17\n    Vô tình nhất kích, tăng 30 điểm công kích, tức thời đâm xuyên địch, đồng thời khiến đối thủ rơi vào trạng thái bị thương trong 6 giây。";
+4422|<O>| return "Tín vật môn phái của Mao Sơn，\ntương truyền là vật Thái Thượng Lão Quân dùng để quan sát âm dương luân hồi。\nNhấp chuột phải dùng có thể trực tiếp truyền tống về Mao Sơn。\nThời gian hồi:1 phút\nMỗi lần dùng tốn 50 vàng。";
+4423|<O>| else    write_user(me, ECHO "Bạn dùng " HIY "Vong Hồn Siêu Độ" ECHO " lên %s thất bại。", who->get_name());
+4424|<O>| // - Chặn "gửi cho chính mình" (dòng ~507): gọi lại time() + get_perform(PF_FLAG_03172)
+4425|<O>| who->set_name(sprintf("%s(%s)", PlantName[level], me->get_name()));    // Đổi tên
+4426|<O>| if (sec % 110 == 0) NPC_BATTLE_D->add_comrade_to_battle(map, 3);    // Xử lý mỗi 110 giây
+4427|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 19, "Ủy thác của bù nhìn(đã hoàn thành)");
+4428|<O>| tmp += sprintf(ESC HIY "Quân cờ đen bị mất\ntalk %x# welcome.1\n", getoid(this_object()));
+4429|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    Ta là tiểu tinh quái do Trương Quả Lão phái đến, ngươi muốn quay về Chu Quốc sao? Ta có thể đưa ngươi trở về。\n"
+4430|<O>| result = sprintf("［Nhiệm vụ vận tiêu］\n"BLK"Còn %d phút\n" BLK "Cùng đồng đội %s hộ tống người đến chỗ " HIR "%s" BLK "。\n",
+4431|<O>| send_user(who, "%c%s", ':', me->get_name() + ":\nKinh nghiệm của ‘" + name + "’ của bạn không đủ, không thể nâng cấp。");
+4432|<O>| result += sprintf(ESC"Xây dựng %s mới\ntalk %x# info.1\n", me->get_name(), getoid(me));
+4433|<O>| notify(sprintf("%s còn %d giờ nữa là Khóa Càn Khôn mất hiệu lực。", obj->get_name(), obj->is_locked() / 3600));
+4434|<O>| private int NoGive;                     // Không thể cho(không thể give, exchange, store)(chết không rơi)
+4435|<O>| result = sprintf("［Nhiệm vụ vận tiêu］\n"BLK"Còn %d phút\n" BLK "Cùng đồng đội %s hộ tống vật phẩm đến chỗ " HIR "%s" BLK "。\n",
+4436|<O>| else    send_user( this_player(1), "%c%s", '>', HIR "Bạn phát hiện một BUG, xin hãy lập tức thông báo cho GM, cảm ơn!" );
+4437|<O>| set_effect_2(me, EFFECT_USER_WORK,  iTime/SUB_STR+2, TIME_INTERVAL);	//Gọi một lần mỗi 20 giây
+4438|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 25, "Chứng đau đầu（2）(hoàn thành)");
+4439|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 117, "Vòng tay bị mất(đã hoàn thành)");
+4440|<O>| tmp += sprintf(ESC HIY "Dạ minh châu bị mất\ntalk %x# welcome.6\n", getoid(this_object()));
+4441|<O>| tmp += sprintf(ESC HIY "Hồng bảo thạch quý giá\ntalk %x# welcome.1\n", getoid(this_object()));
+4442|<O>| if (owner->get_attack_mode()!=0) notify( "%s chưa bật chế độ tấn công vô hạn。", owner->get_name() );
+4443|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 44, "Nguyên liệu nấu rượu(đã hoàn thành)");
+4444|<O>| tmp += sprintf(ESC + HIY + "Cô độc\ntalk %x# welcome.4\n", getoid(this_object()));
+4445|<O>| if (pf_name == "Hái thuốc" || pf_name == "Thực tài") { item->set_amount(me->get("time")); }
+4446|<O>| result += sprintf( HIR "%d％ Đang chuẩn bị\n",	point *	100 / name->get_time_interval()	);
+4447|<O>| return "Chỉ có thể rèn tạo trang bị 4 sao trở lên, có thể tăng cường thuộc tính cộng thêm của trang bị。\nNếu rèn tạo thất bại, trang bị sẽ giảm một sao thuộc tính。\nSố lần rèn tạo càng cao thì tỷ lệ thành công sẽ càng thấp。";
+4448|<O>| tmp = sprintf(ESC + HIY"Ủy thác của bù nhìn\ntalk %x# welcome.1\n", getoid(this_object()));
+4449|<O>| send_user(me, "%c%s", '!', sprintf("Bạn nhận được" HIY "%s" NOR "。", item->get_name()));
+4450|<O>| return HIC+get_name()+"\nThú cưng có kỹ năng này, khi tấn công đối phương có thể khiến đối phương rơi vào trạng thái\nchoáng trong 6 giây, hiệu quả kỹ năng không cộng dồn。（Thời gian hồi kỹ năng 20 giây。）";
+4451|<O>| call_out("user_check_callout_2", 1, passwd, name, gender, order);    // Tiếp tục chờ kết quả
+4452|<O>| send_user(me, "%c%c%d%w%w", 0x54, 12, getoid(me), x0, y0);    // Mượn dùng getoid(me)
+4453|<O>| write_user(team[i], ECHO "Bạn đánh chết %s, kinh nghiệm %+d, tiềm năng %+d。", me->get_name(), exp2, pot2);
+4454|<O>| if( query_effect_cached(who, EFFECT_CHAR_DREAM_1) ) return 0;    // Bảo hộ mộng du(không chịu sát thương)
+4455|<O>| return HIC+get_name()+"\nThú cưng có kỹ năng này, khi tấn công đối phương có thể khiến đối phương rơi vào trạng thái\nđóng băng trong 6 giây, hiệu quả kỹ năng không cộng dồn。（Thời gian hồi kỹ năng 20 giây。）";
+4456|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 27\n    Chiêu thức có thể tiêu hao pháp lực của đối thủ, sau khi đánh trúng sẽ khiến đối thủ tổng cộng mất 100 điểm pháp lực trong 20 giây。";
+4457|<O>| else    tell_user(me, "Trạng thái khí huyết:%s(%d) %s %s", who->get_name(), who->get_number(),
+4458|<O>| send_user(team[i], "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHOUGUO, 102, "Đầu bếp tà ác(hoàn thành)");
+4459|<O>| tmp += sprintf(ESC HIY "Món quà của người trong lòng\ntalk %x# welcome.1\n", getoid(this_object()));
+4460|<O>| return sprintf(PF_NAME ":\n　　Triệt tiêu %d điểm sát thương của đối thủ, tiêu hao lượng pháp lực tương đương。\n", me->get_save("pf.miss"));
+4461|<O>| result += ESC "Xin hãy giúp ta giải trừ đóng băng kinh nghiệm gấp đôi\n" + sprintf("talk %x# welcome.101\n", getoid(me));
+4462|<O>| else    write_user(me, ECHO "Bạn dùng " HIY "Khu Thần Trục Quỷ" ECHO " lên %s thất bại。", who->get_name());
+4463|<O>| send_user(who, "%c%s", ';', "Chứng đau đầu（2） Kinh nghiệm 550 Tiềm năng 30 Linh chi thảo 1\nHãy nhấp phải Linh chi thảo trong túi đồ để kích hoạt nhiệm vụ tiếp theo");

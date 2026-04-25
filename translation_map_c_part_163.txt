@@ -1,0 +1,42 @@
+3799|<O>| if (objectp(item = present("Hoàng tinh thạch đẹp", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3800|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng:25 cấp\n    Triệu gọi thiên sư thần lôi tấn công địch nhân. Trong 6 giây liên tục gây sát thương pháp thuật 500 lên toàn bộ địch nhân trong phạm vi 5×5 xung quanh。";
+3801|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Xin hãy chờ phản hồi của đồng đội……\n"
+3802|<O>| char = filter_array( see, (: objectp($1) && $1->get_enemy() == $2 :), me );    // Có địch ý với mình
+3803|<O>| ESC "Ta chỉ tùy tiện xem thôi\nCLOSE\n", who->get_name(), getoid(this_object()), getoid(this_object())));
+3804|<O>| send_user(who, "%c%c%w%s", ':', 3, 6010, sprintf("%s:\n    Chức năng báo danh đã mở。\n", me->get_name()));
+3805|<O>| me->get_name() + ":\n    Mã serial nhận thưởng của ngươi là:" + tmp + "\n    Dựa vào mã này, trong server nội trắc, sau khi đạt cấp 20 có thể nhận các gói quà lớn khác nhau. Hãy ghi nhớ。");
+3806|<O>| result = sprintf("%s ở giữa theo hướng %s。", map->get_name(), PF_NO_00031->get_direction(x0, y0, x, y));
+3807|<O>| if (objectp(item = present("Gỗ sửa chữa", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3808|<O>| count = set_heart_count_2(me, count - abs(heart - get_heart_timer_2(me)));    // Chênh lệch nhịp tim chính phụ
+3809|<O>| if (who->get_hit_rate_3()) prop += ({ sprintf("Ám khí mệnh trung:%+3d%%", who->get_hit_rate_3()) });
+3810|<O>| void heart_beat_callout(object me)    // Mỗi 0.1 giây heart_timer + 1, khi heart_count là 0 thì vào
+3811|<O>| && who->get_quest("escort.escort") == sprintf("%x#", getoid(this_object())))    // Tìm đúng người rồi
+3812|<O>| if (arrayp(team3 = who->get("pending_team")) && member_array(me, team3) != -1)    // Phản hồi
+3813|<O>| send_user(me, "%c%w%w%w%c%c%c", 0x4f, x0, y0, 32411, 1, OVER_BODY, PF_ONCE);    // Phát bù chỉ lệnh
+3814|<O>| result = result + ESC + HIY + "Cơ hội rèn luyện\n" + sprintf("talk %x# welcome.36\n", getoid(me));
+3815|<O>| NPC_ENERGY_D->init_copy_npc(this_object(), 58 + random(3), ({ "Nhân hình","Cường tráng","Vũ khí" }));    //
+3816|<O>| result = result + ESC + HIY + "Truyền thuyết lập bang\n" + sprintf("talk %x# welcome.50\n", getoid(me));
+3817|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), "Sứ giả hoạt động Chiến Quốc:\n    Ngài đã không còn thời gian kinh nghiệm gấp đôi nữa！");
+3818|<O>| if (p = me->get_skill(0430)) damage = damage * (100 + p * 2) / 100 + 7 * p;		// Cường hóa sát thương bang phái
+3819|<O>| /*---------------------------------------Hoàn tất------------------------------------------*/
+3820|<O>| NPC_ENERGY_D->init_copy_npc(this_object(), 49 + random(2), ({ "Nhân hình","Cường tráng","Tay không" }));    //
+3821|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nTiêu hao pháp lực:%d điểm\nThời gian hồi:%d giây\n    Tức thì giải trừ một trạng thái bất thường đang gắn trên bản thân。",
+3822|<O>| if (objectp(item = present("Bạch tinh thạch hoàn mỹ", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3823|<O>| if (objectp(item = present("Hòn đá phát sáng", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3824|<O>| if (who->get_anti_poison()) prop += ({ sprintf("Kháng độc:%+3d%%", who->get_anti_poison()) });
+3825|<O>| name = sprintf("%s(%d cấp)", PF_NAME, (me->get_skill(THIS_SKILL) - SKILL_LEVEL) / 15 + 1);
+3826|<O>| NPC_ENERGY_D->init_copy_npc(this_object(), 49 + random(2), ({ "Nhân hình","Cường tráng","Ngũ Lôi" }));    //
+3827|<O>| NPC_ENERGY_D->init_copy_npc(this_object(), 46 + random(2), ({ "Nhân hình","Cường tráng","Ám khí" }));    //
+3828|<O>| if (objectp(item = present("Gỗ làm giường", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3829|<O>| if( objectp( item = present("Hoàng Kim Thánh Y", who, 1, MAX_CARRY) ) && item->is_sacred_clothes() )
+3830|<O>| if (who->get_hit_rate_2()) prop += ({ sprintf("Pháp thuật mệnh trung:%+3d%%", who->get_hit_rate_2()) });
+3831|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng:30 cấp\n    Thiên thần hộ thân, trong một khoảng thời gian, toàn bộ sát thương vốn sẽ khiến khí huyết của ngươi giảm xuống dưới 1 đều sẽ được đổi thành chỉ giảm khí huyết của ngươi còn 1。";
+3832|<O>| NPC_ENERGY_D->init_copy_npc(this_object(), 59 + random(3), ({ "Nhân hình","Cường tráng","Ngũ Lôi" }));    //
+3833|<O>| NPC_ENERGY_D->init_copy_npc(this_object(), 49 + random(2), ({ "Nhân hình","Cường tráng","Vũ khí" }));    //
+3834|<O>| NPC_ENERGY_D->init_copy_npc(this_object(), 55 + random(2), ({ "Nhân hình","Cường tráng","Vũ khí" }));    //
+3835|<O>| NPC_ENERGY_D->init_copy_npc(this_object(), 44 + random(2), ({ "Nhân hình","Cường tráng","Vũ khí" }));    //
+3836|<O>| tell_user(me, "Tải xử lý:%s  %d", get_load_average(), MAIN_D->get_absolute_random_number());
+3837|<O>| name = sprintf("%s(%d cấp)", PF_NAME, (me->get_skill(THIS_SKILL) - SKILL_LEVEL) / 20 + 1);
+3838|<O>| if (get_effect(me, EFFECT_CHAR_BLOOD)) set_effect(me, EFFECT_CHAR_BLOOD, 1);    // Trạng thái chảy máu
+3839|<O>| if (objectp(item = present("Hoàng tinh thạch hoàn mỹ", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3840|<O>| //	if ( iHour == 9 || iHour == 15 || iHour == 16 || iHour == 20 || iHour == 23 )	// Dự báo gấp đôi

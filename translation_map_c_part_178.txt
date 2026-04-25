@@ -1,0 +1,47 @@
+4464|<O>| result += sprintf("Nhiệm vụ(%d):%d *%d ＝ Vật phẩm(%d):%d ＋Nhân vật(%d):%d *%d  Đánh quái(%d):%d *%d\n",
+4465|<O>| /*                              for( i = level; i < size; i ++ )    // Cách này khá ngốc
+4466|<O>| tmp += sprintf(ESC HIY "Tìm Lã Bất Vi trò chuyện\ntalk %x# welcome.3\n", getoid(this_object()));
+4467|<O>| send_user(who, "%c%s", ':', sprintf("Bạn xác định kiến nghị %s ban bố %s?\n", me->get_name(), name3) +
+4468|<O>| //              tell_user( who, "%s nói rằng:“Thực không giấu gì ngài, gần đây có %s gây chuyện ở %s（%d,%d）, làm hàng xóm láng giềng không được yên ổn。”",
+4469|<O>| //      string *name = ({ "Giáp", "Ất", "Bính", "Đinh", "Mậu", "Kỷ", "Canh", "Tân", "Nhâm", "Quý" });
+4470|<O>| send_user(me, "%c%c%w%s", ':', 3, 0, "Vì tội nghiệt ngươi quá nặng, thần linh hộ thân tạm thời rời xa ngươi. Ngươi hãy lang thang nơi ranh giới địa ngục, đón nhận sự tẩy lễ của chiến hỏa đi。\n"
+4471|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 22\n    Toàn lực chém mạnh, cộng thêm 30 điểm công kích vật lý, đồng thời khiến đối thủ rơi vào trạng thái choáng 3 giây。";
+4472|<O>| ESC "Đắt quá, ta không giám định nữa\nCLOSE\n", who->get_name(), level, getoid(who), getoid(item)));
+4473|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 20\n    Nhắm chuẩn mục tiêu, tung ra một đòn chí mạng. Khi đánh trúng đối thủ sẽ cộng thêm 50 điểm sát thương và tăng 10％ tỷ lệ bạo kích。";
+4474|<O>| //		result = result + sprintf( ESC "Đòi kiếm gỗ\ntalk %x# welcome.1\n", getoid(me) );
+4475|<O>| } else if(rate < 9985 ) {	//	viii.	Xác suất 10 rơi ra Dược thủy trị liệu nhỏ tức hiệu。	//8-23	xvi.	Xác suất 15 rơi ra Dược thủy trị liệu nhỏ tức hiệu。
+4476|<O>| dailogue = npc->get_name() + ":\n" + "    " + choice_question + "\n";//Nhận câu hỏi tùy chọn của cha
+4477|<O>| else if (soldier[i] == "Binh sĩ số 4" || soldier[i] == "Binh sĩ số 5" || soldier[i] == "Binh sĩ số 6")
+4478|<O>| //        "Intel(R) Pentium(R) D CPU 3.40GHz i386ca69df50173157a424",	// Mới 245
+4479|<O>| result = "Bạn đã chết, bạn có thể chọn tự động hồi sinh hoặc chờ bác sĩ Vân Mộng Trạch cứu viện. Nếu được bác sĩ hồi sinh, tổn thất khi chết sẽ giảm đi rất nhiều, nhưng đồng thời phải trả một ít phí thuốc men cho bác sĩ。\n";
+4480|<O>| result = sprintf("%s:\n    Tổng quản bang này nâng cấp vẫn cần chờ %d giây nữa。\n", who->get_name(), time - time());
+4481|<O>| ret = CHAR_FIGHT_D->attack_done(me, who, HIT_STICK, 0, 0, -100);    // Cẩn thận chuẩn bị me
+4482|<O>| result = sprintf("Sau khi rèn tạo thất bại, số sao cộng thêm của trang bị sẽ về 0，\nTỷ lệ thành công rèn tạo hiện tại của trang bị là"HIR" %d％"NOR"，\nBạn xác định muốn rèn tạo %s chứ?\n"
+4483|<O>| tmp += sprintf(ESC HIY "Nỗi khó trong việc dâng thư\ntalk %x# welcome.17\n", getoid(this_object()));
+4484|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 26\    Ăn mòn tâm phách, khiến kẻ địch liên tục tiêu hao pháp lực trong 8 giây, cứ mỗi 2 giây kết toán một lần, mỗi lần mất 20 điểm。";
+4485|<O>| tmp += sprintf(ESC HIY "Lời nhắn của đại vương\ntalk %x# welcome.1\n", getoid(this_object()));
+4486|<O>| set_heart_timer(item, set_heart_timer_2(item, getoid(item) % 10));    // Nhịp tim ngẫu nhiên
+4487|<O>| if (!get_effect(me, EFFECT_CHAR_INVISIBLE)) set_invisible(me, 0);    // Khi không tàng hình
+4488|<O>| send_user(player, "%c%s", '!', sprintf("Chủ nhân hồ lô %s đã thu hồi Tế Thế Hồ Lô。", who->get_name()));
+4489|<O>| send_user(who, "%c%s", ':', "Bạn muốn kiến nghị " + me->get_name() + " thực hiện loại chiến lược ngoại giao nào?(tiêu hao 50 thể lực)\n"
+4490|<O>| if( abs( me->get_time("talk") - get_heart_timer(me) ) < 2 )    // 0.2 giây, có ảnh hưởng bởi nhịp tim
+4491|<O>| tmp += sprintf(ESC HIY "Lời cầu cứu bất đắc dĩ\ntalk %x# welcome.1\n", getoid(this_object()));
+4492|<O>| tmp += sprintf(ESC HIY "Trừ khử ác phỉ\ntalk %x# welcome.11\n", getoid(this_object()));
+4493|<O>| tmp += sprintf(ESC HIY "Bệnh tương tư mãn tính\ntalk %x# welcome.1\n", getoid(this_object()));
+4494|<O>| tmp += sprintf(ESC HIY "Kẻ phản đồ vô sỉ\ntalk %x# welcome.1\n", getoid(this_object()));
+4495|<O>| tmp += sprintf(ESC HIY "Con đường bái phỏng\ntalk %x# welcome.16\n", getoid(this_object()));
+4496|<O>| send_user(who, "%c%c%s", ':', 2, "Tinh linh tiên đảo:\n    Ngươi là ai vậy? Chúng ta từng gặp nhau chưa?\n"ESC" \nCLOSE\n");
+4497|<O>| send_user(who, "%c%s", ':', me->get_name() + ":\n" + desc[i] + " của bạn không đủ, không thể nâng cấp。");
+4498|<O>| tmp += sprintf(ESC HIY "Món quà thích hợp\ntalk %x# welcome.1\n", getoid(this_object()));
+4499|<O>| iTaskTime = 2400 - gone_time(who->get_quest("escort.iTaskTime"));    // 40 phút
+4500|<O>| return sprintf("［Tinh luyện］ Công vật %+d\n［Trang bị áp dụng］ Vũ khí、dây chuyền, giới hạn trang bị dưới cấp 20。", me->get_diamond_add());
+4501|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 15, "Gà rừng đáng ghét(đã hoàn thành)");
+4502|<O>| tmp += sprintf(ESC HIY "Giải quyết khó khăn\ntalk %x# welcome.16\n", getoid(this_object()));
+4503|<O>| tmp += sprintf(ESC HIY "Di sản của ông nội\ntalk %x# welcome.1\n", getoid(this_object()));
+4504|<O>| result += ESC "Xin hãy giúp ta đóng băng thời gian kinh nghiệm gấp đôi\n" + sprintf("talk %x# welcome.91\n", getoid(me));
+4505|<O>| tmp += sprintf(ESC HIY "Bội kiếm bị lãng quên\ntalk %x# welcome.5\n", getoid(this_object()));
+4506|<O>| who->add_strength(-10);    // Thể lực -10, kinh nghiệm quân quan +20, chính nghĩa +20, trung thành +1, dũng cảm +20, danh vọng +20
+4507|<O>| send_user(me, "%c%c%s", 0x59, 1, sprintf("Trước khi gia nhập đội mới, bạn phải giải tán tổ đội của mình trước, bạn xác định muốn giải tán tổ đội của mình chứ?\n"
+4508|<O>| return HIC+get_name()+"\nThú cưng có kỹ năng này, khi dùng kỹ năng có thể dụ bất kỳ\nmột con quái nào trong tầm nhìn của chủ nhân tới tấn công chính thú cưng, hồi chiêu kỹ năng 2 giây。";
+4509|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_DONGTINGHU, 2, "Mất dê sửa chuồng(3)(hoàn thành)");
+4510|<O>| USER_D->user_channel("Chúc mừng "+player->get_name()+" nhận được "+HIR"20000 tiền"+" trong hoạt động Trung Thu。\n");

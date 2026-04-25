@@ -1,0 +1,48 @@
+4653|<O>| log_file(CHANNEL_LOG, sprintf("%s %s(%d)%s đóng kênh rumor của %s(%d)%s trong %d phút。\n",
+4654|<O>| send_user(who, "%c%s", ';', "Truy tận gốc（3） Kinh nghiệm 145000 Tiềm năng 1500 Tiền 148000 Bản vẽ Phi Thiên Chiến Khôi 1");
+4655|<O>| tmp += sprintf(ESC HIY "Khuyên can Tần Vương\ntalk %x# welcome.6\n", getoid(this_object()));
+4656|<O>| tmp += sprintf(ESC HIY "Nguy hiểm đã giải trừ\ntalk %x# welcome.4\n", getoid(this_object()));
+4657|<O>| //			//send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_NEWBIE_01,22,"Trận chiến chính nghĩa" );
+4658|<O>| if (sec % 80 == 0) NPC_BATTLE_D->add_comrade_to_battle(map, 1);    // Xử lý mỗi 80 giây
+4659|<O>| CHAT_D->sys_channel(0,HIY"Ông già Noel cưỡi xe trượt tuyết rải những con gà tây Giáng Sinh nóng hổi khắp đại địa Chiến Quốc, mọi người mau đi tìm nhé～ đồng thời ông già Noel chúc mọi người Giáng Sinh vui vẻ。");
+4660|<O>| send_user(who, "%c%s", '!', sprintf("Bạn không có công cụ %s từ cấp %d trở lên!", TOOL_LEVEL, PF_NAME));
+4661|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 43, "Yên Vương thích đồ chơi quý（4）(hoàn thành)");
+4662|<O>| send_user(who, "%c%c%d%s", '?', 1, 0, sprintf("Bạn có %d phiếu, bạn muốn bỏ phiếu cho ai? Hãy nhập ID số của đối phương:"
+4663|<O>| tmp += sprintf(ESC HIY "Bảo thạch hoàn mỹ\ntalk %x# welcome.8\n", getoid(this_object()));
+4664|<O>| result += sprintf(ESC "Truyền tống tới bản đồ PVP cấp 105~110\ntalk %x# welcome.7\n", getoid(me));
+4665|<O>| tmp += sprintf(ESC HIY "Tình huynh đệ thắm thiết\ntalk %x# welcome.1\n", getoid(this_object()));
+4666|<O>| return sprintf("Tăng thuộc tính nhân vật\n"HIC"Chiếc nhẫn do Ngưu Lang Chức Nữ tặng, sở hữu sức mạnh thần kỳ\nYêu cầu trang bị:"HIR"Nữ giới\n"HIB"Kỷ niệm hoạt động Thất Tịch");
+4667|<O>| case 14: send_user(who, "%c%s", ':', "Bạn:\nDân lấy ăn làm trời, ngươi nói mấy kẻ ca hát đàn đúm kia, tứ thể không siêng, ngũ cốc không phân, thì có ích gì?");
+4668|<O>| result = sprintf("%s:\n    May mà ngươi cứu kịp thời, giờ ta thấy đỡ nhiều rồi. Ta lập tức đưa thư về bang phái!\n", who->get_name());
+4669|<O>| result = result + sprintf(ESC HIY "Ba cây linh chi\ntalk %x# welcome.1\n", getoid(me));
+4670|<O>| tmp += sprintf(ESC HIY "Bá vương đường sông\ntalk %x# welcome.1\n", getoid(this_object()));
+4671|<O>| if( me->is_npc() || objectp(user) && me != user || arrayp(user) )    // Gửi cho người khác
+4672|<O>| tmp += sprintf(ESC HIY "Lấy lại hàng hóa\ntalk %x# welcome.1\n", getoid(this_object()));
+4673|<O>| tmp += sprintf(ESC HIY "Nói đỡ cho người\ntalk %x# welcome.4\n", getoid(this_object()));
+4674|<O>| tmp += sprintf(ESC HIY "Hỏi Mã Đồng\ntalk %x# welcome.1\n", getoid(this_object()));
+4675|<O>| CITY_ZHOU->set_2(sprintf("org.%s", name[i]), npc);    // Phải đồng bộ với /cmd/user/org
+4676|<O>| tmp += sprintf(ESC HIY "Tìm kiếm bảo vật\ntalk %x# welcome.1\n", getoid(this_object()));
+4677|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 16, "Gà con cục tác(đã hoàn thành)");
+4678|<O>| tmp += sprintf(ESC HIY "Đổi tín vật\ntalk %x# welcome.1\n", getoid(this_object()));
+4679|<O>| tmp += sprintf(ESC HIY "Chuyện lạ nơi hồ nước\ntalk %x# welcome.1\n", getoid(this_object()));
+4680|<O>| tmp += sprintf(ESC HIY "Dò hỏi tin tức\ntalk %x# welcome.4\n", getoid(this_object()));
+4681|<O>| tmp += sprintf(ESC HIY "Đối mặt khiêu khích\ntalk %x# welcome.4\n", getoid(this_object()));
+4682|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 12\n    Công kích như khí thế dời sông lấp biển, sau khi trúng đối thủ sẽ khiến nó tổng cộng mất 96 điểm khí huyết trong 16 giây。";
+4683|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_NEWBIE_01,14,"Giao dịch của ông chủ tiệm cầm đồ(hoàn thành)" );
+4684|<O>| tmp += sprintf(ESC HIY "Giải trừ chuyện lạ\ntalk %x# welcome.4\n", getoid(this_object()));
+4685|<O>| FAMILY_D->city_channel(name1, 0, sprintf(HIY "Thành chủ %s(%d) đóng kênh %s(%d) của %s trong %d phút。",
+4686|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_DONGHAIDAO, 1, "Tiêu Độc Quý（3）(hoàn thành)");
+4687|<O>| else    result = sprintf("Quân đội:%s(%d)\n", who->get_name(), who->get_number());
+4688|<O>| send_user(who, "%c%s", ';', "Vinh quang vô thượng（3） Kinh nghiệm 200000 Tiềm năng 1500 Tiền 197000 Bản vẽ Phi Long Hài 1");
+4689|<O>| tmp += sprintf(ESC HIY "Đánh thức ký ức\ntalk %x# welcome.1\n", getoid(this_object()));
+4690|<O>| tmp += sprintf(ESC HIY "Sừng trâu vàng\ntalk %x# welcome.1\n", getoid(this_object()));
+4691|<O>| tmp += sprintf(ESC HIY "Chuyển giao thư tín\ntalk %x# welcome.6\n", getoid(this_object()));
+4692|<O>| if (pf_name == "Hái thuốc") { if (get_effect_3(who, EFFECT_PROGRESS)) { return; } }
+4693|<O>| result = result + sprintf(ESC HIY "Con đường rèn tạo\ntalk %x# welcome.1\n", getoid(me));
+4694|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    Ngươi đang đùa ta sao? Chỗ ta chẳng có thứ gì để ngươi nhận cả。\n",
+4695|<O>| FAMILY_D->org_channel(name, 0, HIR "Vì số quái bị tấn công đã vượt quá giới hạn 300 con mà bang phái này có thể chịu được, nhiệm vụ lần này đã thất bại hoàn toàn。");
+4696|<O>| return sprintf("［Tinh luyện］ Phòng vật %+d\n［Trang bị áp dụng］ Quần áo、đai lưng、dây chuyền、giày、mũ", me->get_diamond_add());
+4697|<O>| log_file(LIST_LOG_2, "---------- /quest/stone (Đá quý)(Bản đồ kho báu tàn vỡ) đã đầy đủ ----------\n");
+4698|<O>| return sprintf("［Tinh luyện］ Pháp lực %+d\n［Trang bị áp dụng］ Quần áo、đai lưng、dây chuyền、giày、mũ", me->get_diamond_add());
+4699|<O>| tmp += sprintf(ESC HIY "Kiếp nạn thứ nhất\ntalk %x# welcome.1\n", getoid(this_object()));
+4700|<O>| if (gone_time(me->get_perform(PF_START)) < interval) return 1;    // Cẩn thận chuẩn bị me

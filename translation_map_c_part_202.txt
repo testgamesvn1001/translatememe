@@ -1,0 +1,51 @@
+5645|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 31, "Yêu ngôn hoặc chúng");
+5646|<O>| send_user(who, "%c%c%s", 0x59, 1, sprintf("Ngươi có dùng 'Bùa Man Thiên Quá Hải' để xóa thời gian cách quãng nhiệm vụ của mình không?\n"
+5647|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 31, "Trà hoa nhài（4）");
+5648|<O>| result = sprintf("Ở ngay quanh bạn về hướng %s。", PF_NO_00031->get_direction(x0, y0, x, y));
+5649|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 58, "Truy tận gốc（3）");
+5650|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 11, "Đại triển thần uy（1）");
+5651|<O>| if(get_save_2(sprintf("player.%d.name",id))== name)//Tìm được người chơi đã có ghi chép trên bảng xếp hạng từ trước，
+5652|<O>| result += sprintf(ESC "Mật đạo Lang Nha\ntalk %x# welcome.10 Mật đạo Lang Nha\n", getoid(me));
+5653|<O>| write_user(who, ECHO "%s dùng " HIY "Khu Thần Trục Quỷ" ECHO " đuổi bạn đi。", me->get_name());
+5654|<O>| //        log_file("test", sprintf("%s Dọn vật phẩm, NPC và nhân vật\n", short_time()));
+5655|<O>| &&      who->get_mp() >= PF_FILE_02321->get_sub_mp_2(who) )    // Trừ pháp lực
+5656|<O>| private static int War;                 // Trạng thái chiến tranh  0 chưa bắt đầu 1 bắt đầu có quái công thành 2 đã kết thúc
+5657|<O>| FAMILY_D->city_channel(name1, 0, sprintf(HIY "Thành chủ %s(%d) giải phong kênh %s(%d) của %s。",
+5658|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 12, "Đại triển thần uy（2）");
+5659|<O>| return sprintf("［" PF_NAME "］Kỹ năng bị động, sau khi tích lũy đủ sát thương công kích vật lý sẽ tự động tạo ra một “nguyên khí”, có thể dùng ở %s%d cấp\n",
+5660|<O>| result = sprintf("Ở gần bạn về hướng %s。", PF_NO_00031->get_direction(x0, y0, x, y));
+5661|<O>| send_user(who, "%c%s", ';', "Xin thần kiếm 5 Kinh nghiệm 100000 Tiềm năng 1500 Tiền 93000 Khốn Địch Tác 1");
+5662|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 8, "Bá vương đường sông(hoàn thành)");
+5663|<O>| send_user(me, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 32, "Di sản của ông nội（2）");
+5664|<O>| else result = sprintf("Ngươi muốn dùng %s để thay thế ba lô nào?\n%s", item->get_name(), result);
+5665|<O>| send_user(who, "%c%s", ';', "Tai họa ôn dịch Kinh nghiệm 84000 Tiềm năng 1040 Tiền 73000 Bản vẽ Lục Thần Đan 1");
+5666|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 37, "Uy hiếp đối thủ(hoàn thành)");
+5667|<O>| send_user(who, "%c%s", ';', sprintf("Ngươi không có đủ %s bộ", gift_name[flag - 1]));
+5668|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 10, "Nhắn lời cho Trình Phong（2）");
+5669|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 65, "Lời kiến nghị nhiệt tình（2）");
+5670|<O>| write_user(who, ECHO "%s(%d) đẩy bạn ra。", me->get_name(), me->get_number());
+5671|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHOUGUO, 6, "Mua hộp trả ngọc(5)");
+5672|<O>| result = sprintf(HIY "Thành chủ %s đặt lương của chính mình là %d vàng mỗi ngày。", who->get_name(), salary);
+5673|<O>| result = sprintf("Ở không xa bạn về hướng %s", PF_NO_00031->get_direction(x0, y0, x, y));
+5674|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 45, "Điêu khắc(hoàn thành)");
+5675|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_CHUGUO,3,"Tiêu diệt thằn lằn bốn chân(hoàn thành)" );
+5676|<O>| if (sscanf(arg, "%d,%d,%d,%d", z, x, y, level) != 4)    // Hỗ trợ tọa độ, tìm người hai cách
+5677|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHOUGUO, 9, "Tứ diện Sở ca（5）");
+5678|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 10, "Ngưu Nhị báo ân");
+5679|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 41, "Bộ xương ở Vạn Nhân Khanh");
+5680|<O>| tmp = sprintf(ESC"Nan y tạp chứng\ntalk %x# welcome.3\n", getoid(this_object()));
+5681|<O>| sprintf("%s:\n    Trên người ngươi không có sừng Niên Thú! Hiện giờ Niên Thú đầy khắp các nước, ngươi mau đi tìm pháo trúc để xua đuổi Niên Thú, rồi mang chiếc sừng trên người nó về cho ta!\n"
+5682|<O>| result = sprintf("Ở rất xa bạn về hướng %s", PF_NO_00031->get_direction(x0, y0, x, y));
+5683|<O>| send_user(who, "%c%s", ';', "Trừng trị ác tướng Kinh nghiệm 550 Tiềm năng 60 Tiền 2600 Quýt 10 Ưng Mục Đầu Cân 1");
+5684|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 32, "Rèn luyện bản thân");
+5685|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 70, "Vinh quang vô thượng（2）");
+5686|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHOUGUO, 8, "Tứ diện Sở ca（4）");
+5687|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHOUGUO, 4, "Mua hộp trả ngọc(3)");
+5688|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 9\n    Đồng thời thu hút toàn bộ quái vật trong phạm vi 9×9 lấy bản thân làm trung tâm tới tấn công bạn。";
+5689|<O>| //	send_user(me, "%c%s", ';', sprintf("Chúc mừng bạn nhận được %s。", item->get_name()));
+5690|<O>| result = sprintf("%s:\n    Ngươi đã nhận nhiệm vụ Xuyên Việt Cực Hạn, ta tạm không tiếp đãi nữa。\n", who->get_name());
+5691|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 1, 2,TID_VALENTINE,5,"Truyền thuyết ngày Valentine" );
+5692|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 46, "Giải trừ nghi hoặc(hoàn thành)");
+5693|<O>| //	send_user(who,  "%c%s", '!', sprintf("Bạn mua được %s。", item->get_name()) );
+5694|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_HANGUO,5,"Sự ồn ào nơi cung đình(hoàn thành)" );
+5695|<O>| send_user(who, "%c%s", ';', "Quét sạch chướng ngại Kinh nghiệm 13000 Tiềm năng 340 Tiền 10000 Bản vẽ Thùy Vân Phi Bào 1");

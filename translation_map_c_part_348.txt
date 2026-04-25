@@ -1,0 +1,80 @@
+﻿14813|<O>| else if (p < 3196 * rate / 100)    // 金钱
+14814|<O>| string get_skill_name() { return "炼丹"; }
+14815|<O>| else if (p < 9950 * rate / 100)    // 装备
+14816|<O>| send_user(who, "%c%s", '!', "恶官叙三 1/1");
+14817|<O>| else if (p < 5690 * rate / 100)    // 金钱
+14818|<O>| else if (p < 9195 * rate / 100)    // 金钱
+14819|<O>| send_user(me, "%c%s", '!', "您不能对自己授课。");
+14820|<O>| USER_ENERGY_D->count_dp(me);    // 提升防御力
+14821|<O>| notify(item->get_name() + "是暗器，没办法修理！");
+14822|<O>| string get_skill_name() { return "裁缝"; }
+14823|<O>| ESC HIY"领取VIP试用包\ntalk %x# welcome.89\n"
+14824|<O>| else if (p < 3272 * rate / 100)    // 金钱
+14825|<O>| else if (p < 8944 * rate / 100)    // 金钱
+14826|<O>| void turn_on_alarm_clock();				//	开启闹钟功能
+14827|<O>| else if (p < 7012 * rate / 100)    // 金钱
+14828|<O>| else if (p < 6151 * rate / 100)    // 金钱
+14829|<O>| if (!arrayp(user = users())    // 获取所有玩家
+14830|<O>| send_user(me, "%c%s", '!', "战国王者领奖开启!");
+14831|<O>| send_user(me, "%c%s", '!', "炼药功能尚未开放。");
+14832|<O>| if (objectp(me->get_owner()))    // 自动战斗
+14833|<O>| else if (who->is_seller() == 2)  // 云游商人
+14834|<O>| else if (p < 8047 * rate / 100)    // 金钱
+14835|<O>| gift = new("item/final/16/1609");	//永动核心
+14836|<O>| else if (p < 5728 * rate / 100)    // 金钱
+14837|<O>| ESC"我再考虑考虑", me->get_name(), getoid(me))
+14838|<O>| else if (p < 9012 * rate / 100)    // 金钱
+14839|<O>| send_user(me, "%c%s", '!', "您正在工作之中呢。");
+14840|<O>| string get_skill_name() { return "毒经"; }
+14841|<O>| send_user(who, "%c%s", '!', "你的搜魂法器呢?");
+14842|<O>| case 4: result = "它枝叶上爬着一些小虫子。";  break;
+14843|<O>| else if (p < 9207 * rate / 100)    // 金钱
+14844|<O>| return "机械小宠物，很可爱，能给主人提高2%血气上限，使用次数30。";
+14845|<O>| else if (p < 3044 * rate / 100)    // 金钱
+14846|<O>| else if (p < 5978 * rate / 100)    // 金钱
+14847|<O>| send_user(me,"%c%s",';',"你得到"HIY"家族玉佩");
+14848|<O>| else if (p < 6695 * rate / 100)    // 金钱
+14849|<O>| send_user(me, "%c%s", '!', "宝箱和钥匙不配套！");
+14850|<O>| else if (p < 5464 * rate / 100)    // 金钱
+14851|<O>| else if (p < 6179 * rate / 100)    // 金钱
+14852|<O>| else if (p < 9192 * rate / 100)    // 金钱
+14853|<O>| //                notify( "无法找到这个文件。" );
+14854|<O>| log_file(LIST_LOG, "<!-- 进阶书籍 -->\n\n");
+14855|<O>| case "富家小姐": type = "RICH_LADY";  break;
+14856|<O>| send_user(who, "%c%s", '!', "你的怨鬼之灵呢?");
+14857|<O>| send_user(who, "%c%s", '!', "你取回了一只宠物");
+14858|<O>| set_heart_loop(me, 100);    // 循环心跳:１０秒钟
+14859|<O>| else if (p < 5256 * rate / 100)    // 金钱
+14860|<O>| return "铁矿石，通过生活技能的矿冶熔炼成铁锭可以供铁匠、机关制造装备";
+14861|<O>| me->force_me("store");    // 发出 store 命令
+14862|<O>| string get_skill_name() { return "药师"; }
+14863|<O>| notify(item->get_name() + "已经上架，不能移动。");
+14864|<O>| else if (p < 3038 * rate / 100)    // 金钱
+14865|<O>| return "能对防御临时提高，临时提高10%防御，持续10分钟，冷却2秒";
+14866|<O>| ESC "场景戒严\n" + "gmfight forbbit all\n" +
+14867|<O>| else if (p < 9326 * rate / 100)    // 金钱
+14868|<O>| YUTU->delete_2("player");//删除玩家兔子数量记录。*/
+14869|<O>| return "小瓶的特效药水，可马上恢复自身800点气血值。冷却时间2秒。";
+14870|<O>| send_user(who, "%c%s", '!', "一箱黄金 1/1");
+14871|<O>| send_user(who, "%c%s", '!', "你的家族玉佩呢?");
+14872|<O>| result += ESC "隐身\ngmset invisible 1\n";
+14873|<O>| send_user(me, "%c%s", '!', "对方刚遇到蒙面人。");
+14874|<O>| else if (p < 5197 * rate / 100)    // 金钱
+14875|<O>| + ESC"300金收购小山鸡一只\ntalk %x# welcome.1\n"
+14876|<O>| send_user(me, "%c%s", ':', "您想飞去哪个地图？\n"
+14877|<O>| else if (rate < 99998)	//增加法术所造成的治疗效果33点
+14878|<O>| send_user(me, "%c%s", '!', "您距离鱼有些远了。");
+14879|<O>| send_user(who, "%c%s", '!', "黄鼠狼精 1/1");
+14880|<O>| return "银矿石，通过生活技能的矿冶熔炼成银锭可以供铁匠、机关制造装备";
+14881|<O>| send_user(who, "%c%s", '!', "你携带的物品太多");
+14882|<O>| else if (p < 8060 * rate / 100)    // 金钱
+14883|<O>| SAY_CMD->say(me, "冰镇猪肉能保持肉的鲜味，很好，很好！！");
+14884|<O>| string get_skill_name() { return "磨练"; }
+14885|<O>| else if (p < 4905 * rate / 100)    // 金钱
+14886|<O>| else if (p < 2890 * rate / 100)    // 金钱
+14887|<O>| who->add_occupation_level(0);    // 刷新资料
+14888|<O>| return "铜矿石，通过生活技能的矿冶熔炼成金锭可以供铁匠、机关制造装备";
+14889|<O>| return "副本" + ::get_name();	//告诉客户端是副本地图
+14890|<O>| return "［枪棍步法］提升使用枪和棍的防御力，每级提升 0.6点。\n";
+14891|<O>| else if (p < 5360 * rate / 100)    // 金钱
+14892|<O>| item = new("item/final/91/1809");	//仙山灵芝

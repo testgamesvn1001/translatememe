@@ -1,0 +1,57 @@
+﻿7854|<O>| send_user(me, "%c%c%w%w%s", 0x60, 4, get_number(), 1, "机关制作");
+7855|<O>| 75  : ([ "file":"/npc/copy/0109","attr":({"亡灵","厉害","空手"}) ]),
+7856|<O>| if( item = load_object(file) ) me->use_equip(item);    // 复制属性
+7857|<O>| if ( family=="蜀山" && (!item||item->get_weapon_type()!=SWORD) )
+7858|<O>| send_user(who, "%c%s", ';', "陈述实情 经验 99000 潜能 1800 金钱 91000");
+7859|<O>| private static object* dbBOSS = ({ });          // 怪物数组(小BOSS)
+7860|<O>| result += sprintf(ESC"完成任务\ntalk %x# welcome\n", getoid(who));
+7861|<O>| "冯亭80" : ({ 480000,  480000,  800,  670,  800,  620,  420, }),
+7862|<O>| //log_file("reset_good.txt",sprintf("%s 变身卡\n",short_time()));
+7863|<O>| void on_active_playing(int callout_delay_time);		//	活动开始时执行的函数
+7864|<O>| write_user(me, ECHO "伴随着优美的旋律，您在%s身边放声歌唱……", who->get_name());
+7865|<O>| CHAT_D->rumor_channel(0, CHAT + "据说犬太郎又出没在海滨的东莱峡一带等待着勇士的挑战。");
+7866|<O>| return HIC+get_name()+"\n拥有此技能的宠物，将提高其当前（物理攻击/法术攻击）\n暴击几率的5%";
+7867|<O>| else    set_heart_count(me, count);    // 重设心跳标志(主), 0.? 秒进入心跳
+7868|<O>| send_user(who, "%c%s", ';', "百姓的好心 经验 41000 潜能 600 金钱 41000");
+7869|<O>| tmp = sprintf(ESC HIY "挑战\ntalk %x# welcome.1\n", getoid(me));
+7870|<O>| send_user(who, "%c%s", ';', "探访民情 经验 98000 潜能 1800 金钱 89000");
+7871|<O>| tmp += sprintf(ESC + HIY + "妖言惑众\ntalk %x# welcome.11\n", id);
+7872|<O>| tmp = sprintf(ESC HIY "拜访\ntalk %x# welcome.1\n", getoid(me));
+7873|<O>| send_user(who, "%c%s", ';', "询查战报 经验 95000 潜能 1650 金钱 85000");
+7874|<O>| tmp = sprintf(ESC HIY "差事\ntalk %x# welcome.1\n", getoid(me));
+7875|<O>| pf = me->get_gender() == 1 ? 23 : 23;    // 抄自 /sys/user/fight
+7876|<O>| "蒙骜80" : ({ 480000,  480000,  800,  670,  800,  620,  420, }),
+7877|<O>| ESC "离开。\n" + sprintf("talk %x# visit.cancel\n", getoid(me)));
+7878|<O>| 85  : ([ "file":"/npc/copy/0111","attr":({"亡灵","强壮","空手"}) ]),
+7879|<O>| send_user(who, "%c%s", ';', "游魂（3） 经验 16000 潜能 260 金钱 17000");
+7880|<O>| send_user(who, "%c%s", ';', "罪恶的源泉 经验 68000 潜能 915 金钱 57000");
+7881|<O>| write_user(who, ECHO "伴随着优美的旋律，%s在您身边放声歌唱……", me->get_name());
+7882|<O>| case BATTLE_MAP: send_user(me, "%c%s", '!', "对方在战场，不能使用此法宝。");
+7883|<O>| send_user(who, "%c%s", ';', "情锁秦宫（1） 经验 4500 潜能 140 金钱 3500");
+7884|<O>| private int NoGet;                      // 不可直接取得(不能get)(死亡不掉)
+7885|<O>| send_user(me, "%c%c%d", 0x49, 0x03, time());    // time() 防加速器
+7886|<O>| send_user(who, "%c%s", ';', "询问战果 经验 94000 潜能 1550 金钱 84000");
+7887|<O>| send_user(who, "%c%s", ';', "通报情况 经验 80000 潜能 1150 金钱 70000");
+7888|<O>| send_user(who, "%c%s", ';', "烹鱼的佐料 经验 26000 潜能 440 金钱 25000");
+7889|<O>| int get_stuff_number() { return stuff_number; }			// 函数:获取资源编号
+7890|<O>| write_user(who, ECHO "%s只听得滴下几滴泪水，悄悄把物价改动了。", me->get_name());
+7891|<O>| tell_user(me, "您向%s买下%s。", who->get_name(), file->get_name());
+7892|<O>| send_user(who, "%c%s", ';', "遗忘的佩剑 经验 35000 潜能 600 金钱 30000");
+7893|<O>| case 10800..18000: return 50;      // 5 x 60 x 60 = 18000  五小时
+7894|<O>| set_save_2(sprintf("elect.蜀山.%d.name",i),sprintf("test%d",i));
+7895|<O>| send_user(who, "%c%s", ';', "九道谷里的宝物 经验 2600 潜能 100 金钱 1900");
+7896|<O>| set_effect(who, EFFECT_CHAR_NO_PF, interval);    // 小心准备 level
+7897|<O>| send_user(who, "%c%s", ';', "权力的象征 经验 90000 潜能 970 金钱 93000");
+7898|<O>| send_user(who, "%c%s", '!', sprintf("您使用财神符，充值%d个元宝", price));
+7899|<O>| tmp += sprintf(ESC"拜访魏昭王\ntalk %x# welcome.21\n", getoid(me));
+7900|<O>| log_file(LIST_LOG, "--- 结束, 记得把最后一个 case 改为 default ---\n\n");
+7901|<O>| return HIR + PF_NAME + "\n技能需求:10级\n    持续30分钟内提升自身30点物理防御力。";
+7902|<O>| send_user(who, "%c%s", ';', "小试身手 经验 97000 潜能 1700 金钱 88000");
+7903|<O>| send_user(who, "%c%s", ';', "大展神威（1） 经验 7500 潜能 280 金钱 6500");
+7904|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    狂暴状态下不能更换师门。\n",
+7905|<O>| send_user(who, "%c%s", ';', "带口信给齐国使节 经验 2500 潜能 60 金钱 2000");
+7906|<O>| user = get_scene_object(z0, x0, y0, USER_TYPE, dx);    // 删除对象
+7907|<O>| send_user(who, "%c%s", ';', "平阳之乱3 经验 92000 潜能 980 金钱 93000");
+7908|<O>| 90  : ([ "file":"/npc/copy/0112","attr":({"亡灵","强壮","空手"}) ]),
+7909|<O>| send_user(who, "%c%s", ';', "炼药之路2 经验 89000 潜能 990 金钱 92000");
+7910|<O>| log_file("wg_scum2.txt",sprintf("%s 开始刷败类。 \n",short_time()));

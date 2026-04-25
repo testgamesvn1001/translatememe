@@ -1,0 +1,56 @@
+﻿7459|<O>| result = sprintf(HIY "%s援救ＧＭ成功，获得了30000金钱奖励。", who->get_name());
+7460|<O>| TASK_LEGEND_D->give_item(who,"/item/sell/0004",1);     		//大法石×1
+7461|<O>| "50级随机配方" : "\"/sys/item/product\"->get_random_drop_product(8)",
+7462|<O>| send_user(who, "%c%s", ':', me->get_name() + ":\n你还没有加入帮派呢！\n");
+7463|<O>| return HIR + PF_NAME + "\n技能需求:33级\n    持续一段时间内，提升可见队伍成员的攻击伤害。";
+7464|<O>| send_user(who, "%c%s", ';', "长城惊魂 经验 6100 潜能 240 金钱 6000 铁丝 2");
+7465|<O>| tmp = sprintf(ESC HIY "询察起因\ntalk %x# welcome.6\n", getoid(me));
+7466|<O>| tell_user(me, "%s公众频道已经被封闭 %d 分。", who->get_name(), n / 60 + 1);
+7467|<O>| send_user(who, "%c%s", ';', "宫廷的喧闹 经验 1300 潜能 70 金钱 1200 桔子 3");
+7468|<O>| send_user(me, "%c%w%w%c%w", 0x07, x0, y0, 14, count);    // 坐标修正
+7469|<O>| send_user(who, "%c%s", ':', me->get_name() + ":\n您的声望不足，无法升级。");
+7470|<O>| tmp += sprintf(ESC HIY "炼药\ntalk %x# welcome.12\n", getoid(me));
+7471|<O>| tmp = sprintf(ESC HIY "追捕重犯\ntalk %x# welcome.1\n", getoid(me));
+7472|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 57, "叛徒");
+7473|<O>| p_str += ({ FINAL_D->file_final_fam_type_lv2("桃花源",69,30,90) });
+7474|<O>| "白起100" : ({ 1500000, 1500000, 1100,  880, 1050,  830,  540, }),
+7475|<O>| send_user(who, "%c%s", ';', "究根问底（2） 经验 40000 潜能 658 金钱 38000");
+7476|<O>| //tell_user( who, "您击毙%s，经验 %+d, 潜能 %+d。", get_name(), exp, 1 );
+7477|<O>| "郭开150" : ({ 1000000, 1000000, 1500, 1230, 1500, 1180,  780, }),
+7478|<O>| tmp += sprintf(ESC HIY "讨好\ntalk %x# welcome.13\n", getoid(me));
+7479|<O>| send_user(who, "%c%s", ';', "四面楚歌（2） 经验 37000 潜能 640 金钱 38000");
+7480|<O>| send_user(who, "%c%s", ';', "漂亮的床（2） 经验 50000 潜能 700 金钱 48000");
+7481|<O>| send_user(who, "%c%s", ';', "飞鸽传书 经验 290 潜能 20 金钱 200 普通鉴定镜 1");
+7482|<O>| "廉颇120" : ({ 1900000, 1900000, 1300, 1040, 1250,  990,  660, }),
+7483|<O>| "蒙骜150" : ({ 1000000, 1000000, 1500, 1230, 1500, 1180,  780, }),
+7484|<O>| result += sprintf(ESC "确定\ntalk %x# welcome.41\n", getoid(who));
+7485|<O>| tmp += sprintf(ESC HIY "紫葡萄\ntalk %x# welcome.7\n", getoid(me));
+7486|<O>| //      USER_ENERGY_D->count_pp(me);    // cp/pp 影响 ap/dp, 所以放前
+7487|<O>| send_user(me, "%c%c%d%s", '?', 1, MAX_NUMBER, "请输入禁锢目标玩家的ID:\n"
+7488|<O>| "赵括120" : ({ 684000,  684000, 1350,  990, 1200,  940,  660, }),
+7489|<O>| private int HP_Cent;                     // 气血比例(注意:0/50～50/50)
+7490|<O>| send_user(who, "%c%s", ';', "枉法之徒 经验 100000 潜能 1950 金钱 90000");
+7491|<O>| string* name = ({ "小乖", "叮当", "驼驼", "独角", "胖胖", "紫毛", "笨笨", });
+7492|<O>| private static int HitRate3;                    // 暗器命中率("t!%")
+7493|<O>| "蒙骜100" : ({ 600000,  600000,  900,  830, 1000,  770,  540, }),
+7494|<O>| set_save_2(sprintf("player.%d.count",id),amount);//保存玩家交还月兔的数目。
+7495|<O>| "乐乘120" : ({ 760000,  760000, 1200,  990, 1200,  940,  660, }),
+7496|<O>| "廉颇80" : ({ 1200000, 1200000,  900,  720,  850,  670,  420, }),
+7497|<O>| &&    ( npc = find_char(id) ) && npc->is_robber() )    // 60 分钟
+7498|<O>| send_user(who, "%c%s", ';', "朋友的帮助 经验 91000 潜能 1000 金钱 92000");
+7499|<O>| "王陵120" : ({ 760000,  760000, 1200,  990, 1200,  940,  660, }),
+7500|<O>| send_user(who, "%c%s", ';', "你用一只花球兑换了“一小时内增加物理攻击力100点”的临时效果");
+7501|<O>| send_user(me, "%c%c%d%s", '?', 16, 40, sprintf("请输入乱世英雄的序列号:\n"
+7502|<O>| tmp = sprintf(ESC HIY "长城泪\ntalk %x# welcome.1\n", getoid(me));
+7503|<O>| send_user(who, "%c%s", ';', "寻回名单 经验 110000 潜能 1850 金钱 93000");
+7504|<O>| send_user(who, "%c%s", ';', "韩总管的托付 经验 20000 潜能 210 金钱 22000");
+7505|<O>| result += sprintf(ESC "我打消自杀的念头了。\ntalk %x# welcome.20\n", id);
+7506|<O>| send_user(who, "%c%s", ';', "魏管家的劫难（2） 经验 1800 潜能 40 金钱 1500");
+7507|<O>| send_user(who, "%c%s", ';', "家族玉佩 经验 260 潜能 30 金钱 500 新手项链 1");
+7508|<O>| //        me->set_perform_file(__FILE__);    // 以下模拟物理出招（法术＋出招）
+7509|<O>| if (pf_name == "采药" || pf_name == "食材") { me->set("time", 0); }
+7510|<O>| //string *nFamily = ({"桃花源","蜀山","禁卫军","唐门","茅山","昆仑山","云梦泽"});
+7511|<O>| "司马错80" : ({ 480000,  480000,  800,  670,  800,  620,  420, }),
+7512|<O>| "云梦泽" : ([	60: ({1225,"Côn trùng","Cường tráng","Tay không",}),
+7513|<O>| send_user(who, "%c%s", ';', "肖独贵（2） 经验 36000 潜能 600 金钱 40000");
+7514|<O>| return "一种神气的绣花针，聚集了天地灵气，在帮派\n安定低于1000时，使用后能使帮派安定增加1000。冷却2秒。";

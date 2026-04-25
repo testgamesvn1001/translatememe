@@ -1,0 +1,49 @@
+5090|<O>| send_user(nPlayer, "%c%c%d%s", 0x43, 10, 0, "Đội quân của Mông Ngao, tiên phong hữu quân Tần, đã bị quân Triệu đánh lui! Sĩ khí quân Tần bị tổn thất nặng!");
+5091|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 60, "Bóng tối trước bình minh(hoàn thành)");
+5092|<O>| return "Bánh trung thu khiến người ta không nhịn được muốn cắn một miếng, vô cùng ngon miệng。\nCó thể giao cho tỷ tỷ Hằng Nga để đổi quà Trung Thu。\nBánh trung thu có thể hồi 350 điểm khí huyết và 400 điểm pháp lực trong 10 giây。";
+5093|<O>| case 4: send_user(who, "%c%s", ':', "Bạn:\nNghe nói có vài linh đan diệu dược, ăn vào là mặt nóng bừng lên ngay, dùng để giả bệnh là tốt nhất rồi.");
+5094|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 9\n    Thi triển khí công cầu công kích một mục tiêu trong tầm nhìn, đồng thời khiến nó rơi vào trạng thái trì trệ 2 giây。";
+5095|<O>| send_user(team, "%c%c%d%s", 0x43, 7, 0, sprintf(WHT "%s(%d) gia nhập đội theo lời mời của %s。",
+5096|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 52, "Bảo thạch hoàn mỹ（3）(hoàn thành)");
+5097|<O>| if (get_effect(who, EFFECT_CHAR_POISON_2)) continue;    // Thực thi thành công    // Khiên Cơ Độc
+5098|<O>| result = sprintf("%s:\n    Tài chính bang phái không đủ %d。\n", who->get_name(), level * 10000);
+5099|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 67, "Tình người ấm lạnh（2）(hoàn thành)");
+5100|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 59, "Biểu tượng của quyền lực(hoàn thành)");
+5101|<O>| sprintf("%s:\n    Ha ha, xem ra Niên Thú lại bị chúng ta đuổi đi rồi! Ngươi muốn lì xì không? Bây giờ đang là dịp tân xuân, nếu muốn lì xì thì ngươi phải nói với ta câu gì đây? He he~~\n"
+5102|<O>| send_user(nPlayer, "%c%c%d%s", 0x43, 10, 0, "Đội quân của Nhạc Thừa, tiên phong tả quân Triệu, đã bị quân Tần đánh lui! Sĩ khí quân Triệu bị tổn thất nặng!");
+5103|<O>| send_user(nPlayer, "%c%c%d%s", 0x43, 10, 0, "Đội quân của Tư Mã Thác, trung quân Tần, đã bị quân Triệu đánh lui! Sĩ khí quân Tần bị tổn thất nặng!");
+5104|<O>| if (equip->is_equip() == 0 && equip->get_real_name() != "Đá rèn tạo")  return 0;
+5105|<O>| result = sprintf("%s:\n    Ta đã giải thích xong phần thuộc tính năng lực rồi, còn vấn đề gì nữa không?\n", me->get_name());
+5106|<O>| send_user( team[0], "%c%c%c%w%w%s", 0x51, 1, 2,TID_QIXI,12,"Thất Tịch trời ban kỳ duyên（3）" );
+5107|<O>| result = sprintf(HIY "Thành chủ %s đặt lương của phó thành chủ thứ hai là %d vàng mỗi ngày。", who->get_name(), salary);
+5108|<O>| tell_user(me, "Bạn dùng Thiên Nhãn nhìn thấy %s ở %s(%d,%d)。", monster[i]->get_name(), name, x, y);
+5109|<O>| if (!from_to(z0, x0, y0, x - x0, y - y0, MAP_BLOCK)) return 1;    // Không thể xuyên qua
+5110|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 26, "Vết máu ở thôn Hồ Khẩu(hoàn thành)");
+5111|<O>| case "date": keyH = "$date$H";  keyL = "$date$L";  break;    // Tiền nhận từ hoạt động(lễ hội)
+5112|<O>| result += sprintf("Yêu cầu nhiệm vụ: kiếm được %d vàng", me->get_save_2("mastertask.targetxy"));
+5113|<O>| send_user(me, "%c%c%d%s", '?', 16, 10, sprintf("Mời nhân vật tới đây。\n\nHãy nhập ID số của đối phương:\n"
+5114|<O>| send_user(who, "%c%s", ':', sprintf("%s:\nĐây là một %s%s, chúng ta đã tìm được một mảnh đất tốt ở ngoài thành, ngài mau tới đó cày cấy đi。",
+5115|<O>| sprintf(ESC + HIY + "Bồ câu đưa thư\ntalk %x# welcome.3\n", getoid(this_object()));
+5116|<O>| send_user(who, "%c%s", ':', me->get_name() + ":\nHôm nay ngài đã lĩnh lương rồi, mai hãy tới tìm ta nhé。\n");
+5117|<O>| USER_D->user_channel("Chúc mừng " + player->get_name() + " nhận được 50000 vàng trong hoạt động Đào Bảo Tổng Động Viên。");
+5118|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_DONGTINGHU, 2, "Mất dê sửa chuồng(3)");
+5119|<O>| result = sprintf("［Nhiệm vụ đột phát］\n"BLK"Đưa" HIR " %d " BLK "vàng cho" HIR "%s" BLK "。\n",
+5120|<O>| int set_stuff_number(int num) { return stuff_number = num; }	// Hàm: thiết lập mã số tài nguyên
+5121|<O>| if (objectp(who)) char = char - ({ who }) + ({ who });    // Thêm đối tượng ưu tiên (có thể là người chơi)
+5122|<O>| private static object Enemy5;           // Đối tượng phản kích(thuận thế đẩy thuyền)    // effect/attack
+5123|<O>| return "Gà tây còn bốc hơi nóng mang tới cho bạn sự ấm áp Giáng Sinh。\nCó thể giao cho ông già Noel để đổi quà。\n"HIR"Gà tây có thể hồi 350 điểm khí huyết và 400 điểm pháp lực trong 10 giây。";
+5124|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 34, "Vị khách thích ăn cay(hoàn thành)");
+5125|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 51, "Bảo thạch hoàn mỹ（2）(hoàn thành)");
+5126|<O>| if ( z < mktime(2006,6,5,0,0,0) || z > mktime(2006,7,9,0,0,0) )	//Phạm vi thời gian rơi thẻ
+5127|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 27, "Di cốt ở Long Cốt Pha(hoàn thành)");
+5128|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_DONGTINGHU, 1, "Mất dê sửa chuồng(2)");
+5129|<O>| send_user(me, "%c%c%c%w", 0x30, get_item_type_2(), 0, 1800);    // Cập nhật khoảng cách sử dụng
+5130|<O>| send_user(who, "%c%s", ';', "Trà hoa nhài（3） Kinh nghiệm 22000 Tiềm năng 300 Tiền 21000 Bản vẽ Dây Chuyền U Hồn 1");
+5131|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 24, "Hồng bảo thạch quý giá(hoàn thành)");
+5132|<O>| send_user(me, "%c%s", '!', sprintf("Thời gian đóng băng đạo cụ còn lại %d giây", get_effect(me, type)));
+5133|<O>| send_user(who, "%c%s", ';', "Trà hoa nhài（4） Kinh nghiệm 63000 Tiềm năng 860 Tiền 63000 Bản vẽ Dây Chuyền U Hồn 1");
+5134|<O>| result += sprintf(ESC + HIY + "Chứng đau đầu\ntalk %x# welcome.5\n", getoid(me));
+5135|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 53, "Tết Trùng Dương（4）(hoàn thành)");
+5136|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Tiền của bạn tăng thêm %s。", active_bonus[2]));
+5137|<O>| ESC "Đi " + name[1] + "。\n" + sprintf( "talk %x# goto.? %s\n", id, name[1] ) +
+5138|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 60, "Tiêu Độc Quý（1）(hoàn thành)");

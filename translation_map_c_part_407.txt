@@ -1,111 +1,111 @@
-﻿20244|<O>| "燕国巡逻兵" : "在巨鹿可以杀到赵国巡逻兵 ",
-20245|<O>| return "轻柔的线，裁缝生活技能需要的材料";
-20246|<O>| // 自动生成:/make/npc/make8005
-20247|<O>| desc = "14秒内恢复玩家665点法力值。";
-20248|<O>| "帽缨" : "在燕长城杀燕国刀盾兵可以得到帽缨",
-20249|<O>| flag = 0;//这个标志用来标识是否获得物品。
-20250|<O>| return "一小时内增加法力上限200点\n";
-20251|<O>| // 自动生成:/make/item/make35a
-20252|<O>| // 函数:设置经验属性(一般用add_exp())
-20253|<O>| return "一小时内增加法术攻击100点\n";
-20254|<O>| "筝" : "\"/item/36/3609\"",
-20255|<O>| return "一小时内增加 12% 物理防御力";
-20256|<O>| // 自动生成:/make/item/make37c
-20257|<O>| "再造丸":"\"/item/91/9125\"",
-20258|<O>| // 自动生成:/make/npc/make8008
-20259|<O>| me->log_money("舞蹈", gold);
-20260|<O>| printf( ECHO "对方已获得救援。" );
-20261|<O>| //队员脱离队伍取消任务;队长脱离队伍,队员取消任务
-20262|<O>| if (sec > 0)    // 离线时间为正数
-20263|<O>| // 函数:带缓存的技能查询 (PHASE 9优化)
-20264|<O>| // 自动生成:/make/npc/make0015
-20265|<O>| DEBUG("测试-->有称谓玩家上线提示成功");
-20266|<O>| sprintf("门派招募员:\n    %s\n"
-20267|<O>| // 自动生成:/make/npc/make0001
-20268|<O>| "锣" : "\"/item/36/3601\"",
-20269|<O>| DEBUG("测试-->为在线玩家添加称谓成功");
-20270|<O>| notify( "您死了，门派频道已被禁止。" );
-20271|<O>| return "任务物品。一种可医治百病的仙桃。";
-20272|<O>| // 自动生成:/make/item/make37d
-20273|<O>| return "相传是由蓝色精灵流下的怨泪结晶体";
-20274|<O>| task == "有" ? "  " : "//",
-20275|<O>| "刀柄" : "在赵长城杀赵国刀盾兵可以得到刀柄",
-20276|<O>| "这年头兵荒马乱的，想找个合适的保镖都不容易……",
-20277|<O>| printf(ECHO "这里已经布有阵形了。");
-20278|<O>| cmd = "哇哇哇哇～～我的压岁钱怎么这么少？";
-20279|<O>| "剑鞘" : "在赵长城杀赵国剑盾兵可以得到剑鞘",
-20280|<O>| "咦～那个谁谁谁，怎么跟人家长得差不多？！#05",
-20281|<O>| return "用来装剑的扁形铁制桶，作出售品用";
-20282|<O>| "碎玉" : "在将军古墓一层杀石狮可以得到碎玉",
-20283|<O>| notify( "您死了，国家频道已被禁止。" );
-20284|<O>| int skill_level;				//技能等级
-20285|<O>| else if (p < 31)    // 玉灵液
-20286|<O>| check_time();//这里开启检查时间函数。
-20287|<O>| printf(ECHO "对方设置了禁飞开关。");
-20288|<O>| return "任务物品。一种竹子，君子的象征。";
-20289|<O>| // 自动生成:/make/npc/make8003
-20290|<O>| return "任务物品。用来喂小鸡咕咕的饲料。";
-20291|<O>| else switch (z)    // 获得草药
-20292|<O>| // 自动生成:/make/npc/make8002
-20293|<O>| // 自动生成:/make/item/make37b
-20294|<O>| "侍卫亡灵" : "在灵谷洞二层可以捉到侍卫亡灵",
-20295|<O>| // 自动生成:/make/item/make38b
-20296|<O>| return "四脚蛇头部鲜红的火冠，作出售品用";
-20297|<O>| int FamilyType;				// 门派类别
-20298|<O>| "狗尾巴" : "在首阳山杀独眼兽可以得到狗尾巴",
-20299|<O>| return "［宝石合成材料］增加抗毒性百分比";
-20300|<O>| return "一种很结实的动物经脉，作出售品用";
-20301|<O>| // 自动生成:/make/item/make35b
-20302|<O>| return "精细的线，裁缝生活技能需要的材料";
-20303|<O>| "萧" : "\"/item/36/3607\"",
-20304|<O>| else if (rate < 24)	//战国号角
-20305|<O>| // 比较服务器记录的走路记录和玩家发来的对不对得上
-20306|<O>| if( i < 10000 )    // 年兽的角
-20307|<O>| return "传说干将打造武器时所使用的宝石。";
-20308|<O>| return "任务物品。一件象征着荣誉的战甲。";
-20309|<O>| return "记载着能呼唤亡者灵魂法咒的书籍。";
-20310|<O>| _DEBUG("DEBUG -- 成功关闭活动");
-20311|<O>| return "一种长棍，能对小动物造成重击。";
-20312|<O>| else if (p < 30)    // 妖怪
-20313|<O>| return "任务物品。纹有龙鳞的一种宝珠。";
-20314|<O>| else if (rate < 98)	//百宝囊
-20315|<O>| return "散发出淡淡的清香，似乎可以吃。";
-20316|<O>| return "［装备合成材料］减少伤害百分比";
-20317|<O>| 每使用一张可以增加济世葫芦5万的可存经验上限。";
-20318|<O>| ESC "撤销频道管理员。\n" + cmd2 +
-20319|<O>| return "吸收物理伤害，法宝代替主人受伤";
-20320|<O>| return "寒铁打造的剑身部件，作出售品用";
-20321|<O>| set_real_name("炼丹41~60");
-20322|<O>| if (time % 10 == 0) //1分钟
-20323|<O>| ESC "禁卫军(基本)\n" + cmd30 +
-20324|<O>| f1 * 100 + f2,    // 等级不够
-20325|<O>| ESC "昆仑山(基本)\n" + cmd60 +
-20326|<O>| else notify("您取消了无敌状态。");
-20327|<O>| return "任务物品。百姓告状的一种文书。";
-20328|<O>| "燕国枪兵" : "在燕长城可以杀到燕国枪兵 ",
-20329|<O>| set_real_name("石刻31~46");
-20330|<O>| else if (rate < 60)	//法力石
-20331|<O>| return "［装备合成材料］增加闪躲百分比";
-20332|<O>| return "任务物品。形似水晶的一面镜子。";
-20333|<O>| return "一小时内增加 20% 法力上限";
-20334|<O>| buf + ESC "离开。\nCLOSE\n";
-20335|<O>| tell_user(me, "有重复的原料！");
-20336|<O>| result = "请选择挖宝总动员操作:\n";
-20337|<O>| "秦国枪兵" : "在秦长城可以杀到秦国枪兵 ",
-20338|<O>| set_real_name("裁缝40~48");
-20339|<O>| result = "您希望对那个背包续费？\n";
-20340|<O>| "飞行扇" : "在马陵道杀飞贼可以得到飞行扇",
-20341|<O>| return "［宝石合成材料］减少伤害百分比";
-20342|<O>| return "任务物品。送给门派向导的棋谱。";
-20343|<O>| return "死者遗骸变体的一种，作出售品用";
-20344|<O>| return "任务物品。鬼谷子用来炼丹的鼎。";
-20345|<O>| return "死者遗留下来的物品，作出售品用";
-20346|<O>| return "［装备合成材料］增加气血百分比";
-20347|<O>| return "给帽子或腰带赋予40法防的能力";
-20348|<O>| set_real_name("裁缝59~68");
-20349|<O>| case "list":		// 查询可购买的点卡
-20350|<O>| else if ( cKind == "五雷" )
-20351|<O>| "破布衣" : "在郑国渠杀壮丁可以得到破布衣",
-20352|<O>| else if (rate < 74)	//藏宝图
-20353|<O>| // 自动生成:/make/item/make97
-20354|<O>| // 函数:清空技能缓存 (当技能变化时自动调用)
+﻿20244|<O>| "Yên Quốc Tuần La Binh" : "Ở Cự Lộc có thể giết được Triệu Quốc Tuần La Binh ",
+20245|<O>| return "Sợi tơ mềm mại, nguyên liệu kỹ năng sinh hoạt thợ may cần dùng";
+20246|<O>| // Tự động tạo:/make/npc/make8005
+20247|<O>| desc = "Trong 14 giây hồi phục 665 điểm pháp lực cho người chơi.";
+20248|<O>| "Mạo Anh" : "Ở Yên Trường Thành giết Yên Quốc Đao Thuẫn Binh có thể nhận được Mạo Anh",
+20249|<O>| flag = 0;//Cờ này dùng để đánh dấu có nhận được vật phẩm hay không.
+20250|<O>| return "Trong một giờ tăng giới hạn pháp lực 200 điểm\n";
+20251|<O>| // Tự động tạo:/make/item/make35a
+20252|<O>| // Hàm: Thiết lập thuộc tính kinh nghiệm (thường dùng add_exp())
+20253|<O>| return "Trong một giờ tăng 100 điểm tấn công pháp thuật\n";
+20254|<O>| "Tranh" : "\"/item/36/3609\"",
+20255|<O>| return "Trong một giờ tăng 12% lực phòng thủ vật lý";
+20256|<O>| // Tự động tạo:/make/item/make37c
+20257|<O>| "Tái Tạo Hoàn":"\"/item/91/9125\"",
+20258|<O>| // Tự động tạo:/make/npc/make8008
+20259|<O>| me->log_money("Vũ Đạo", gold);
+20260|<O>| printf( ECHO "Đối phương đã được cứu viện." );
+20261|<O>| //Đội viên rời đội huỷ nhiệm vụ; đội trưởng rời đội, đội viên huỷ nhiệm vụ
+20262|<O>| if (sec > 0)    // Thời gian offline là số dương
+20263|<O>| // Hàm: Truy vấn kỹ năng có bộ nhớ đệm (PHASE 9 tối ưu)
+20264|<O>| // Tự động tạo:/make/npc/make0015
+20265|<O>| DEBUG("Kiểm tra-->Người chơi có danh hiệu lên mạng thông báo thành công");
+20266|<O>| sprintf("Nhân viên tuyển mộ môn phái:\n    %s\n"
+20267|<O>| // Tự động tạo:/make/npc/make0001
+20268|<O>| "La" : "\"/item/36/3601\"",
+20269|<O>| DEBUG("Kiểm tra-->Thêm danh hiệu cho người chơi đang trực tuyến thành công");
+20270|<O>| notify( "Bạn đã chết, kênh môn phái đã bị cấm." );
+20271|<O>| return "Vật phẩm nhiệm vụ. Một loại tiên đào có thể chữa bách bệnh.";
+20272|<O>| // Tự động tạo:/make/item/make37d
+20273|<O>| return "Tương truyền là kết tinh thể oán lệ do tinh linh xanh rơi xuống";
+20274|<O>| task == "Có" ? "  " : "//",
+20275|<O>| "Đao Bính" : "Ở Triệu Trường Thành giết Triệu Quốc Đao Thuẫn Binh có thể nhận được Đao Bính",
+20276|<O>| "Thời buổi binh hoang mã loạn, muốn tìm một bảo tiêu thích hợp cũng không dễ……",
+20277|<O>| printf(ECHO "Nơi đây đã bố trí trận hình rồi.");
+20278|<O>| cmd = "Oa oa oa oa~~ Tiền mừng tuổi của tôi sao ít vậy?";
+20279|<O>| "Kiếm Tiêu" : "Ở Triệu Trường Thành giết Triệu Quốc Kiếm Thuẫn Binh có thể nhận được Kiếm Tiêu",
+20280|<O>| "Ơ~ cái người kia kia kia, sao giống người ta thế?!#05",
+20281|<O>| return "Ống sắt dẹt dùng để đựng kiếm, dùng làm vật bán";
+20282|<O>| "Toái Ngọc" : "Ở tầng một Tướng Quân Cổ Mộ giết Thạch Sư có thể nhận được Toái Ngọc",
+20283|<O>| notify( "Bạn đã chết, kênh quốc gia đã bị cấm." );
+20284|<O>| int skill_level;				//Cấp độ kỹ năng
+20285|<O>| else if (p < 31)    // Ngọc Linh Dịch
+20286|<O>| check_time();//Ở đây mở hàm kiểm tra thời gian.
+20287|<O>| printf(ECHO "Đối phương đã thiết lập cấm bay.");
+20288|<O>| return "Vật phẩm nhiệm vụ. Một loại trúc, biểu tượng của quân tử.";
+20289|<O>| // Tự động tạo:/make/npc/make8003
+20290|<O>| return "Vật phẩm nhiệm vụ. Thức ăn để cho gà con cục cục ăn.";
+20291|<O>| else switch (z)    // Nhận được thảo dược
+20292|<O>| // Tự động tạo:/make/npc/make8002
+20293|<O>| // Tự động tạo:/make/item/make37b
+20294|<O>| "Thị Vệ Vong Linh" : "Ở tầng hai Linh Cốc Động có thể bắt được Thị Vệ Vong Linh",
+20295|<O>| // Tự động tạo:/make/item/make38b
+20296|<O>| return "Mào lửa đỏ tươi trên đầu thằn lằn bốn chân, dùng làm vật bán";
+20297|<O>| int FamilyType;				// Loại môn phái
+20298|<O>| "Cẩu Vĩ Ba" : "Ở Thủ Dương Sơn giết Độc Nhãn Thú có thể nhận được Cẩu Vĩ Ba",
+20299|<O>| return "［Nguyên liệu hợp thành Bảo Thạch］Tăng phần trăm kháng độc tính";
+20300|<O>| return "Một loại kinh mạch động vật rất chắc, dùng làm vật bán";
+20301|<O>| // Tự động tạo:/make/item/make35b
+20302|<O>| return "Sợi tơ tinh xảo, nguyên liệu kỹ năng sinh hoạt thợ may cần dùng";
+20303|<O>| "Tiêu" : "\"/item/36/3607\"",
+20304|<O>| else if (rate < 24)	//Chiến Quốc Hiệu Giác
+20305|<O>| // So sánh bản ghi đi bộ của máy chủ và bản ghi người chơi gửi có khớp không
+20306|<O>| if( i < 10000 )    // Sừng Niên Thú
+20307|<O>| return "Truyền thuyết là bảo thạch Can Tương dùng khi đúc vũ khí.";
+20308|<O>| return "Vật phẩm nhiệm vụ. Một bộ chiến giáp tượng trưng cho vinh dự.";
+20309|<O>| return "Thư tịch ghi chép pháp chú có thể triệu hồi linh hồn người chết.";
+20310|<O>| _DEBUG("DEBUG -- Đóng hoạt động thành công");
+20311|<O>| return "Một loại gậy dài, có thể gây trọng kích lên động vật nhỏ.";
+20312|<O>| else if (p < 30)    // Yêu quái
+20313|<O>| return "Vật phẩm nhiệm vụ. Một loại bảo châu có văn lân long.";
+20314|<O>| else if (rate < 98)	//Bách Bảo Nang
+20315|<O>| return "Toả ra hương thơm nhẹ nhàng, dường như có thể ăn được.";
+20316|<O>| return "［Nguyên liệu hợp thành trang bị］Giảm phần trăm sát thương";
+20317|<O>| Mỗi lần sử dụng một tấm có thể tăng giới hạn kinh nghiệm có thể lưu của Tế Thế Hồ Lô thêm 5 vạn.";
+20318|<O>| ESC "Thu hồi quản lý viên kênh.\n" + cmd2 +
+20319|<O>| return "Hấp thụ sát thương vật lý, pháp bảo thay chủ nhân chịu thương";
+20320|<O>| return "Bộ phận thân kiếm đúc bằng hàn thiết, dùng làm vật bán";
+20321|<O>| set_real_name("Luyện Đan 41~60");
+20322|<O>| if (time % 10 == 0) //1 phút
+20323|<O>| ESC "Cấm Vệ Quân (cơ bản)\n" + cmd30 +
+20324|<O>| f1 * 100 + f2,    // Cấp độ không đủ
+20325|<O>| ESC "Côn Lôn Sơn (cơ bản)\n" + cmd60 +
+20326|<O>| else notify("Bạn đã huỷ trạng thái vô địch.");
+20327|<O>| return "Vật phẩm nhiệm vụ. Một loại văn thư bách tính kiện cáo.";
+20328|<O>| "Yên Quốc Thương Binh" : "Ở Yên Trường Thành có thể giết được Yên Quốc Thương Binh ",
+20329|<O>| set_real_name("Thạch Khắc 31~46");
+20330|<O>| else if (rate < 60)	//Pháp Lực Thạch
+20331|<O>| return "［Nguyên liệu hợp thành trang bị］Tăng phần trăm né tránh";
+20332|<O>| return "Vật phẩm nhiệm vụ. Một tấm gương giống như thuỷ tinh.";
+20333|<O>| return "Trong một giờ tăng 20% giới hạn pháp lực";
+20334|<O>| buf + ESC "Rời đi.\nCLOSE\n";
+20335|<O>| tell_user(me, "Có nguyên liệu trùng lặp!");
+20336|<O>| result = "Xin chọn thao tác Đào Bảo Tổng Động Viên:\n";
+20337|<O>| "Tần Quốc Thương Binh" : "Ở Tần Trường Thành có thể giết được Tần Quốc Thương Binh ",
+20338|<O>| set_real_name("Thợ may 40~48");
+20339|<O>| result = "Bạn muốn gia hạn ba lô nào?\n";
+20340|<O>| "Phi Hành Phiến" : "Ở Mã Lăng Đạo giết Phi Tặc có thể nhận được Phi Hành Phiến",
+20341|<O>| return "［Nguyên liệu hợp thành Bảo Thạch］Giảm phần trăm sát thương";
+20342|<O>| return "Vật phẩm nhiệm vụ. Kỳ phổ tặng hướng dẫn viên môn phái.";
+20343|<O>| return "Một dạng biến thể di hài của người chết, dùng làm vật bán";
+20344|<O>| return "Vật phẩm nhiệm vụ. Đỉnh luyện đan của Quỷ Cốc Tử.";
+20345|<O>| return "Vật phẩm người chết để lại, dùng làm vật bán";
+20346|<O>| return "［Nguyên liệu hợp thành trang bị］Tăng phần trăm khí huyết";
+20347|<O>| return "Phú cho mũ hoặc đai lưng khả năng 40 phòng thủ pháp thuật";
+20348|<O>| set_real_name("Thợ may 59~68");
+20349|<O>| case "list":		// Truy vấn thẻ điểm có thể mua
+20350|<O>| else if ( cKind == "Ngũ Lôi" )
+20351|<O>| "Phá Bố Y" : "Ở Trịnh Quốc Cừ giết Tráng Đinh có thể nhận được Phá Bố Y",
+20352|<O>| else if (rate < 74)	//Tàng Bảo Đồ
+20353|<O>| // Tự động tạo:/make/item/make97
+20354|<O>| // Hàm: Xoá bộ nhớ đệm kỹ năng (tự động gọi khi kỹ năng thay đổi)

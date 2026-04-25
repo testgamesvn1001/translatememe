@@ -1,0 +1,53 @@
+6376|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 19, "Biết quay đầu");
+6377|<O>| "Công thức ngẫu nhiên cấp 80" : "\"/quest/product2\"->get_random_level_product(80,80)",
+6378|<O>| tmp += sprintf(ESC HIG "Tranh bá Tiêu Vương\ntalk %x# welcome.21\n", getoid(me));
+6379|<O>| tmp = sprintf(ESC HIY "Cuộc chiến vì thức ăn\ntalk %x# welcome.1\n", getoid(me));
+6380|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 50, "Bí ẩn thân thế");
+6381|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 5, "Lộ phí đi Yên");
+6382|<O>| //                me->log_money("Giao dịch "+who->get_id(), gold2 - gold);
+6383|<O>| result = sprintf("%s:\n    Bạn đã tốn 30000 vàng thuê một lính đánh thuê。\n", who->get_name());
+6384|<O>| send_user(me, "%c%s", '!', sprintf("Số dư của bạn là %d nguyên bảo。", to_int(result)));
+6385|<O>| send_user(who, "%c%s", ';', sprintf("Bạn nhận được"HIR" %d "NOR"thuế", duty));
+6386|<O>| case 6: send_user(who, "%c%s", ':', "Bạn:\nNghe nói có một cách dùng lương thực để ủ thành rượu ngon, thật là quá ngon luôn。");
+6387|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 59, "Công phá Thiên Môn Trận");
+6388|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 19, "Chứng minh bản thân");
+6389|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 51, "Bóng tối bao phủ");
+6390|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 24, "Dâng tấu Hàn vương");
+6391|<O>| private static int Clean = 2;                  // Thời gian reset(phút)    // 10
+6392|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 9, "Thắt chặt chi tiêu");
+6393|<O>| return HIC+get_name()+"\nThú cưng có kỹ năng này, khi dùng kỹ năng gây\nsát thương vật lý cho địch sẽ đồng thời hồi 5% khí huyết theo sát thương。";
+6394|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 29, "Khó khăn xây dựng");
+6395|<O>| tmp += sprintf(ESC HIY "Thỉnh giáo phép dụng binh\ntalk %x# welcome.1\n", getoid(me));
+6396|<O>| //                      tell_user(me, "%s", result);    // Chú ý: chuỗi có %
+6397|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 22, "Thách thức bản thân");
+6398|<O>| tmp += sprintf(ESC HIY "Kiến nghị của ngự sử\ntalk %x# welcome.13\n", getoid(me));
+6399|<O>| "Công thức ngẫu nhiên cấp 60-90" : "\"/sys/item/product\"->get_random_drop_product(5)",
+6400|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 17, "Xóa bỏ uy hiếp");
+6401|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 1, 2,TID_THIEF,2,"Tìm lại vật bị mất" );
+6402|<O>| string* cityname = ({ "齐国", "韩国", "赵国", "魏国", "秦国", "楚国", "燕国", });
+6403|<O>| tmp += sprintf(ESC HIY "Biểu tượng của quyền lực\ntalk %x# welcome.21\n", getoid(me));
+6404|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHOUGUO, 3, "Bái phỏng sư gia");
+6405|<O>| tmp += sprintf(ESC HIY "Tìm hỏi người biết chuyện\ntalk %x# welcome.47\n", getoid(me));
+6406|<O>| int set_char_picid(int pic) { return pic_id = pic; }			// Hàm: đặt tạo hình nhân vật
+6407|<O>| me->set_change_hurt(me->get("pf.change%"));    // Chưa đưa vào USER_ENERGY_D
+6408|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 35, "Tìm người lánh nạn");
+6409|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 93, "Xin một việc làm");
+6410|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 66, "Ủy thác lúc lâm chung");
+6411|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 44, "Trừ bỏ kẻ lừa đảo");
+6412|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 2, "Thổ phỉ tội ác");
+6413|<O>| send_user(who, "%c%s", ';', "Kho báu trong lời đồn Kinh nghiệm 1300 Tiềm năng 60 Tiền 1200 Bản vẽ Cổ Đằng Bào 1");
+6414|<O>| tmp += sprintf(ESC HIY "Chế tác Tù Và Vương Giả\ntalk %x# welcome.3\n", getoid(me));
+6415|<O>| send_user(who, "%c%s", ';', "Kinh hồn đường sông Kinh nghiệm 4900 Tiềm năng 160 Tiền 4100 Bản vẽ Tuyên Minh Quan 1");
+6416|<O>| send_user(me, "%c%s", ':', sprintf("Kỹ năng 「%s」 của bạn đã có %d/%d cấp rồi, bạn muốn từ bỏ nó không？\n"
+6417|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 16, "Đòi bản đồ báu");
+6418|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 55, "Truy sát đạo tặc");
+6419|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 27, "Tìm kiếm giúp đỡ");
+6420|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 22, "Nguy cơ an toàn");
+6421|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 5, "Sự ồn ào nơi cung đình");
+6422|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 17, "Kỳ văn hồ nước");
+6423|<O>| write_user(me, ECHO "Rất không may, rèn tạo đã thất bại. Thuộc tính %s của bạn giảm một sao。", item[0]->get_name());
+6424|<O>| tmp += sprintf(ESC HIY "Minh châu ban đêm bị mất\ntalk %x# welcome.4\n", getoid(me));
+6425|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 43, "Nghe ngóng đầu đường");
+6426|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 45, "Tội liên lụy");
+6427|<O>| me->add_cash2(-gold);  me->add_gold_log("learn", gold);    // Tiền mặt＋tiền gửi
+6428|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 54, "Thử luyện thân thủ");

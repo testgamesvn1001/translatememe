@@ -1,0 +1,41 @@
+3633|<O>| int correct_damage_3( object me, object who, int damage, int cp )    // Chép từ correct_damage_2
+3634|<O>| send_user(who, "%c%c%w%s", ':', 3, get_char_picid(), get_name() + ":\n    Ngươi không nhìn thấy ta……ngươi không nhìn thấy ta……");
+3635|<O>| tell_user(me, "Thời gian hoạt động của game được thiết lập là:%s", short_time(set_party_time(year, mon, day, hour, min, sec)));
+3636|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng:44 cấp\nTiêu hao đạo cụ:4 lá bùa giấy\n    Triệu gọi sức mạnh của Hắc Ám Thần Long tấn công địch nhân, tăng 100 điểm công pháp thuật, đồng thời tăng 5％ tỷ lệ bạo kích pháp thuật。";
+3637|<O>| result = sprintf("%s ở hướng %s cách trung tâm rất xa。", map->get_name(), PF_NO_00031->get_direction(x0, y0, x, y));
+3638|<O>| send_user(who, "%c%c%w%s", ':', 3, get_char_picid(), get_name() + ":\n    Ngươi nói xem ta là Hổ Vương thật hay Hổ Vương giả?");
+3639|<O>| if (equip->get_real_name() == "Đá rèn" && item->get_forge_index() != equip->get_forge_index())
+3640|<O>| if( ( point = who->get_hurt_rate_2() ) && random(100) < who->get_hurt_rand_2() )    // Phản đòn sát thương
+3641|<O>| result = sprintf("%s ở hướng %s rất gần trung tâm。", map->get_name(), PF_NO_00031->get_direction(x0, y0, x, y));
+3642|<O>| INTERIOR_D->do_build_finish(who, this_object());    // Dùng this_object để đề phòng BUG！cần set_city_name
+3643|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nTiêu hao pháp lực:%d điểm\nThời gian hồi:%d giây\n    Hoàn toàn né tránh lần tấn công sắp nhận tiếp theo, trạng thái này sẽ duy trì 5 giây。",
+3644|<O>| add_alarm_clock("year", "2007-07-11 11:42", "minute", ({ "test_func_1","main gọi 1" }), 3, 1);
+3645|<O>| if (objectp(npc = who->get_quest("escort.robber#")) && npc->is_escort_robber())    // Tìm người bịt mặt
+3646|<O>| printf(ECHO "Ngươi lấy %s giao dịch với %s(%d)%s。", result[0], who->get_name(), who->get_number(), result[1]);
+3647|<O>| //	if ( objectp(who) && who->get("overdue") == 1 && sizeof(member) == 0 )//không có người chơi và NPC hết hạn, xóa chủ nhân)
+3648|<O>| case 7: send_user(who, "%c%s", ':', sprintf("%s:\nTa là người thành thật bổn phận, không học mấy thứ tà môn ngoại đạo này。", me->get_name()));
+3649|<O>| send_user(who, "%c%s", ';', sprintf("Nỗi tiếc nuối của thủ vệ  Kinh nghiệm 7000  Tiềm năng 270  Tiền 6300  %s 1", tmp->get_name()));
+3650|<O>| send_user(player, "%c%c%d%s", 0x43, 6, 0, CHAT + HIY + "Các ngươi có thể dùng "HIR"tín vật môn phái"NOR" và các đạo cụ truyền tống khác để rời khỏi chiến trường này。");
+3651|<O>| //                send_user( who, "%c%s", '!', sprintf( "Còn %d giây nữa mới có thể hủy nhiệm vụ mất trộm。", 180 - time ) );
+3652|<O>| if (!(obj = find_any_object(file)) && (err = catch (call_other(file, "???"))))    // Nạp tập tin chỉ định
+3653|<O>| if (!get_effect(me, EFFECT_USER_RECOVER)) effect_recover_break(me);    // Trạng thái tuần hoàn set_effect_2
+3654|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng:27 cấp\nTiêu hao đạo cụ:3 lá bùa giấy\n    Triệu gọi Thương Long tấn công địch nhân, tăng 30 điểm công pháp thuật, đồng thời khiến địch rơi vào trạng thái băng đông 6 giây。";
+3655|<O>| if (!objectp(item[i] = present(sprintf("%x#", id[i]), me, 1, MAX_CARRY * 4)))    // Vật phẩm có tồn tại không？
+3656|<O>| send_user(player, "%c%c%d%s", 0x43, 6, 0, CHAT + HIY + "Bản thành đang bị quái vật tà ác xâm lấn！Đợt quái đầu tiên sẽ bắt đầu tấn công sau 60 giây！");
+3657|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nTiêu hao pháp lực:%d điểm\nThời gian hồi:%d giây\n    Kỹ năng tức thì di chuyển, có thể tức thì di chuyển tới vị trí chỉ định trong phạm vi tầm nhìn。",
+3658|<O>| return "Nhìn bề ngoài thế nào cũng chỉ là một cây búa gỗ bình thường, nhưng bên trong lại ẩn chứa ma lực kỳ dị。\n（Kéo thả chùy ma lực lên trang bị mục tiêu là có thể sử dụng）\nCó thể sửa chữa giới hạn độ bền vốn có của trang bị chỉ định，\nđồng thời không gây bất kỳ tổn hao nào cho trang bị。";
+3659|<O>| CHAT_D->sys_channel(0,HIR"Ầm～ một tiếng, người truyền tống thám hiểm cổ mộ（Chu:276，163）lại ngủ mất rồi, hoạt động thám hiểm cổ mộ hôm nay kết thúc rồi! Hoan nghênh mọi người ngày mai đúng giờ này tiếp tục nhiệt tình tham gia thám hiểm cổ mộ！");
+3660|<O>| ret += sprintf("%sNến\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"蜡烛"))?PPM:WHT);
+3661|<O>| send_user(me, "%c%c%d%d%s", '?', 2, amount, value2, sprintf("Đơn giá của %s là %d vàng, ngài dự định bán ra bao nhiêu？(thuế %d%%)\n"
+3662|<O>| short_time_2(), who->get_acountid(), MAIN_D->get_region(), MAIN_D->get_host()));    // Khấu phí！
+3663|<O>| send_user( who, "%c%c%w%s", ':',3,picid,name+":\n    Vị sư đệ này, chỉ tiêu tranh cử trong tuần này đã đầy, ngươi hãy đợi tham gia tranh cử thủ tịch đại đệ tử vào tuần sau đi！\n"+
+3664|<O>| write_user(me, ECHO "%s tinh luyện thành công！Ngươi nhận được %s＋%d。", item[0]->get_name(), item[0]->get_name(), level);
+3665|<O>| send_user(user, "%c%d%w%c%c%c", 0x6f, getoid(me), 9000, 1, UNDER_FOOT, PF_LOOP);    // Bán trong suốt
+3666|<O>| if (objectp(who = me->get_quest("escort.robber#")) && who->is_escort_robber())    // Tìm người bịt mặt
+3667|<O>| send_user(who, "%c%s", ';', sprintf("Lời thề bị lãng quên  Kinh nghiệm 1300  Tiềm năng 70  Tiền 1200  %s 1", tmp->get_name()));
+3668|<O>| //			send_user(who,"%c%s",':',me->get_name()+":\n    Trong đội ngươi có người không cùng khung cấp với đội, không thể báo danh！\n"ESC"Rời khỏi");
+3669|<O>| if (p = who->get_skill(0431)) damage2 = damage2 * (100 - p * 2) / 100 - 7 * p;		// Cường hóa kháng của bang phái
+3670|<O>| send_user(nPlayer, "%c%c%d%s", 0x43, 10, 0, HIR"Chủ tướng quân Triệu Liêm Pha đã bị quân Tần đánh bại！Trường Bình Chiến kết thúc với chiến thắng của quân Tần, sau 1 phút mọi người sẽ quay về nước Chu。");
+3671|<O>| send_user(player, "%c%s", ':', sprintf("Ngươi sẽ nhận được %d điểm bồi thường kinh nghiệm, nhưng kinh nghiệm hiện tại của ngươi quá nhiều, xin hãy dọn bớt một phần kinh nghiệm rồi quay lại nhận bồi thường。", exp));
+3672|<O>| //        player->set_2("rabbit.day",localtime(get_party_time())[TIME_MDAY]);//Ghi lại thời gian tương tác với Hằng Nga。
+3673|<O>| && !inside_screen(x, y, get_x(who), get_y(who)))    // Di chuyển bị hạn chế  // !inside_screen_2(me, who)

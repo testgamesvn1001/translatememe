@@ -1,0 +1,53 @@
+6058|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 92, "Hoàn thành sứ mệnh");
+6059|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHOUGUO, 12, "Sừng bò màu vàng");
+6060|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 25, "Oán hận của thần linh");
+6061|<O>| result += sprintf(ESC HIY"Danh Nhân Đường Chiến Quốc\ntalk %x# welcome.1\n", getoid(me));
+6062|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_MAOSHAN, 1, "Du hồn（2）");
+6063|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 74, "Con đường luyện dược 1");
+6064|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 20\n    Thuật cường thân, trong 15 phút tăng 50 điểm khí huyết tối đa cho đồng đội。";
+6065|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 70, "Loạn Bình Dương 2");
+6066|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 37, "Nỗi bất đắc dĩ của nhạc sư");
+6067|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 91, "Tìm lại danh sách");
+6068|<O>| send_user(me, "%c%c%d%s", '?', 1, 0, sprintf("Quản lý kênh %s, hãy nhập ID số của đối phương:\n"
+6069|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 21\n    Trong 9 giây tăng 30 điểm công vật lý và 60 điểm phòng ngự vật lý cho bản thân。";
+6070|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YEWAI, 2, "Ong mật nhỏ đốt người lung tung");
+6071|<O>| if (get_login_flag() != 3) set_invisible(me, 1);    // Chuẩn bị chưa sẵn sàng, NPC không tấn công
+6072|<O>| case "赵国": cmd1 = sprintf("talk %x# relation.?.%d.1\n", id, number);
+6073|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 82, "Bẩm báo Triệu vương");
+6074|<O>| send_user(who, "%c%s", '!', sprintf("Muốn báo danh lại phải đợi %d giây。", 180 - sec));
+6075|<O>| send_user(who, "%c%s", '!', sprintf("%s từ chối đơn xin tổ đội của bạn", me->get_name()));
+6076|<O>| tmp += sprintf(ESC HIY "Tâm sự của quan nội chính\ntalk %x# welcome.16\n", getoid(me));
+6077|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 72, "Cái cuốc trồng trọt");
+6078|<O>| return HIR + PF_NAME + "\nCận chiến đơn thể。\n    Giải phóng nguyên khí toàn thân đánh đối thủ, mỗi tiêu hao 1 nguyên khí tăng 20 điểm công kích。";
+6079|<O>| tmp += sprintf(ESC"Mua công thức kỹ năng thợ rèn cấp 1-20\nlist %s\n", me->get_char_id());
+6080|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 76, "Con đường luyện dược 3");
+6081|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 85, "Đòi thần kiếm 2");
+6082|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 84, "Đòi thần kiếm 1");
+6083|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 88, "Đòi thần kiếm 5");
+6084|<O>| sprintf("Quần áo:(%d)%s %x#", get_d(obj), obj->get_name(), getoid(obj)));
+6085|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 25, "Bí mật của Châu Khâu");
+6086|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 74, "Hỏi thăm chiến quả");
+6087|<O>| result = sprintf("%s:\n    Dự trữ gỗ của bang phái chưa đủ 200, không thể bắt đầu nghiên cứu。\n", who->get_name());
+6088|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 20, "Đòn đánh quyết định");
+6089|<O>| tmp += sprintf(ESC HIY "Chìa khóa mở rương gỗ\ntalk %x# welcome.1\n", getoid(me));
+6090|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 45, "Bội kiếm bị lãng quên");
+6091|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 34, "Cô độc");
+6092|<O>| result = sprintf("%s:\n    Ta đã nói trước rồi, đây là một học vấn rất sâu xa. Có phương án cộng điểm tốt nhất hay không vẫn khó kết luận. Nhưng thường thì "
+6093|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 32, "Nỗi lo của ngự sử");
+6094|<O>| tmp += sprintf(ESC"Mua công thức kỹ năng khắc đá cấp 1-30\nlist %s\n", me->get_char_id());
+6095|<O>| //        CHAT_D->rumor_channel( 0, sprintf( HIM "%s:%s(%d) đã bị đá khỏi trò chơi。",
+6096|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 80, "Phá bỏ tin đồn 2");
+6097|<O>| //		result = sprintf("%s:\nĐệ tử %s đến thỉnh giáo sư thúc, không biết sư thúc có ở trong không？\n\n%s:\nĐược, ngươi vào đi。",
+6098|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 25, "Hỗn nghi（1）");
+6099|<O>| ESC"Rời khỏi", id, id, id, id, id, id, id, id, id, id, id, id, id, id, ));
+6100|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_NEWBIE_01,21,"Bách Bộ Tiên" );
+6101|<O>| if (get_effect(who, EFFECT_CHAR_HALFGOD)) return 2;    // Đang ở trạng thái thần đả thì không thành công
+6102|<O>| case "秦国": cmd1 = sprintf("talk %x# relation.?.%d.1\n", id, number);
+6103|<O>| case "魏国": cmd1 = sprintf("talk %x# relation.?.%d.1\n", id, number);
+6104|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 46, "Tiến sâu vào mục trường");
+6105|<O>| case "燕国": cmd1 = sprintf("talk %x# relation.?.%d.1\n", id, number);
+6106|<O>| send_user(who, "%c%c%s", 0x59, 1, sprintf("%s cấp %d của %s mời bạn gia nhập đội, bạn có đồng ý không？\n"
+6107|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_MAOSHAN, 4, "Du hồn（5）");
+6108|<O>| FAMILY_D->family_channel(name, 0, sprintf(HIY "%s(%d) quyết định rời khỏi môn hạ “%s”！！！",
+6109|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 2, "Lễ vật của người trong lòng");
+6110|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 68, "Người thợ khéo tay");

@@ -1,0 +1,44 @@
+4013|<O>| if (objectp(item = present("Đá từ", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4014|<O>| notify(sprintf("%s còn %d giờ nữa là Khóa Càn Khôn mất hiệu lực。", obj[i]->get_name(), obj[i]->is_locked() / 3600));
+4015|<O>| result += sprintf("Công nghiệp:%8d  Thương nghiệp:%8d\n", city->get_industry(), city->get_commercial());
+4016|<O>| if (objectp(item = present("Ớt", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4017|<O>| _DEBUG(sprintf("DEBUG -- Z-%d X-%d Y-%d lão cặn bã đã bị giết", get_z(me), get_x(me), get_y(me)));
+4018|<O>| if (objectp(item = present("Áo sặc sỡ", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4019|<O>| if (objectp(item = present("Hùng hoàng", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4020|<O>| send_user(who, "%c%s", ':', sprintf("%s:\nTrong thành đang thi công, nhưng có %s quấy rối ở %s（%d,%d）, ảnh hưởng tiến độ, xin các hạ đi duy trì trật tự。\n",
+4021|<O>| /*----------------------------------Hàm chức năng------------------------------------------*/
+4022|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    Nói đến việc giám định đồ cổ, e rằng trên đời này chẳng mấy ai sánh bằng ta!\n", get_name())
+4023|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 21\nTiêu hao đạo cụ: Thần Nông Bảo Điển\n    Cường hóa Kim Châm Độ Ách, đồng thời thi triển pháp thuật Kim Châm Độ Ách lên toàn bộ thành viên tổ đội trong tầm nhìn。";
+4024|<O>| result = get_name() + ":\n    Tiền trên người ngươi có vẻ không nhiều, như vậy ta không thể giúp ngươi hồi phục được. Nếu thật sự túng thiếu, ta khuyên ngươi đi tìm lão tiêu đầu Uất Trì hoặc Vương Bộ Đầu nhờ giúp đỡ。\n"
+4025|<O>| case "exchange2": keyH = "$exchange2$H";  keyL = "$exchange2$L";  break;    // Tiền nhận được khi giao dịch
+4026|<O>| /*------------------------------------Biến riêng của lớp---------------------------------------*/
+4027|<O>| if (objectp(item = present("Ngọc thạch", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4028|<O>| if (objectp(item = present("Than đá", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4029|<O>| if (objectp(item = present("Rượu ngon", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4030|<O>| send_user(who, "%c%s", ':', get_name() + ":\nNhà ta lão đầu ra ngoài vẫn chưa về, chắc cũng tới giờ ăn rồi chứ! Thật khiến người ta lo lắng, không biết có xảy ra chuyện gì không。\n"
+4031|<O>| return sprintf("［Tinh luyện］ Tỷ lệ bạo kích %+.2f％\n［Trang bị áp dụng］ Vũ khí", to_float(me->get_diamond_add()) / 100);
+4032|<O>| if (who->get_less_prop()) prop += ({ sprintf("Miễn trang bị:%+3d%%", who->get_less_prop()) });
+4033|<O>| if (objectp(item = present("Củ cải", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4034|<O>| if (gone_time(me->get_perform(PF_START)) < TIME_INTERVAL) return 1;    // Cẩn thận chuẩn bị level
+4035|<O>| send_user(who, "%c%s", ':', sprintf(get_name() + ":\n    Ngươi có muốn tiêu hao %d điểm công đức để phân phối lại điểm thuộc tính của mình không?\n"
+4036|<O>| if (objectp(item = present("Táo tàu", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4037|<O>| send_user(me, "%c%c%d%s", 0x26, 1, who->get_number(), who->get_name());    // Mở cửa sổ giao dịch
+4038|<O>| if (objectp(item = present("Củ sen", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4039|<O>| tmp += sprintf(ESC + HIY + "Chứng đau đầu（3）\ntalk %x# welcome.7\n", getoid(this_object()));
+4040|<O>| if (objectp(item = present("Hoàng liên", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4041|<O>| if (objectp(item = present("Nếp", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4042|<O>| if (objectp(item = present("Đá đúc kiếm", who, 1, MAX_CARRY)) && item->is_xuantieshi() == 1)
+4043|<O>| if (objectp(item = present("Sơn dược", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4044|<O>| me->add_strength(-1);    // Thể lực -1, kinh nghiệm nghệ nhân +10, trung thành +1, dũng cảm +10, trí mưu +10, danh vọng +10, cống hiến quốc gia +1
+4045|<O>| if (objectp(item = present("Kẹp tóc", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4046|<O>| if (objectp(owner = me->get_owner()) || objectp(owner = environment()))    // Lấy đối tượng chủ nhân
+4047|<O>| if (objectp(item = present("Trúc văn", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4048|<O>| if (objectp(item = present("Vòng tròn", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4049|<O>| void heart_beat_loop(int effect1, int effect2, int effect3, int effect4)    // Xử lý mỗi 1 phút
+4050|<O>| send_user(me, "%c%s", ';', "Sau khi hợp thành, hai vật phẩm có giới hạn thời gian sẽ cộng dồn thời hạn hiệu lực。\nVật phẩm đã hết hạn sẽ không làm giảm thời hạn của vật phẩm chưa hết hạn, nhưng sẽ tự động bị xóa。\n");
+4051|<O>| //        if( ( time = gone_time( who->get_quest("thief.time") ) ) < 180 )    // 3 phút
+4052|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 21\nTiêu hao đạo cụ: Thần Nông Bảo Điển\n    Cường hóa Ngân Châm Độ Ách, đồng thời thi triển pháp thuật Ngân Châm Độ Ách lên toàn bộ thành viên tổ đội trong tầm nhìn。";
+4053|<O>| if (objectp(item = present("Gỗ", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4054|<O>| _DEBUG(sprintf("DEBUG -- %s bắt đầu callback hàm người dùng có mã số %d", show_time_stamp(now_time), next_st));
+4055|<O>| if (!objectp(item = present("Ngọc tỷ", who, 1, MAX_CARRY)) || item->get("dodolook") != 1)
+4056|<O>| if( !objectp( item = present("Bản đồ kho báu", who, 1, MAX_CARRY) ) || item->is_xunbao() != 1 )

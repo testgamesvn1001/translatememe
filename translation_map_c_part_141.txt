@@ -1,0 +1,36 @@
+2944|<O>| if (stringp(id = who->get_save_2("xiamama")) && objectp(obj = find_char(id)) && obj->is_daughter())	// Đã nhận
+2945|<O>| send_user(leader,"%c%c%w%s",':',3,me->get_char_picid(),sprintf("Tả Khâu Minh:\n    %s không đồng ý đặt lại kính tượng。\n",who->get_name()));
+2946|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nTiêu hao pháp lực:%d điểm\nThời gian hồi:%d giây\n    Khiến quái vật rơi vào trạng thái mê hồn, thậm chí bị người chơi khống chế. Tỷ lệ thành công của mê hồn sẽ tăng theo cấp kỹ năng。",
+2947|<O>| ret += sprintf("%sYêu Đới Bạch Lang\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"白狼腰带"))?PPM:WHT);
+2948|<O>| case 15: send_user(who, "%c%s", ':', sprintf("%s:\nQuả thật có lý, vẫn là để thằng nhóc nhà ta ngừng đọc sách, chuyên tâm trồng trọt đi。(giáo dục %+d)", me->get_name(), p));
+2949|<O>| result = sprintf("%s:\n    Ngài đã nhận %d tiềm năng %d vàng, vẫn còn %d tiềm năng %d vàng chưa nhận。\n", me->get_name(), get, get * 20, less, less * 20);
+2950|<O>| ret += sprintf("%sHạng Liên Linh Hồ\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"灵狐项链"))?PPM:WHT);
+2951|<O>| send_user(who, "%c%s", ':', sprintf("%s\n    Thật sự quá khâm phục ngươi！Ngươi vậy mà cái gì cũng biết！Ngươi nên đổi tên thành “Bách Sự Thông” đi！\n"ESC"Rời khỏi\n", me->get_name()));
+2952|<O>| if( !who->get_max_damage() && who->get_action_mode()==1 ) who->init_enemy_damage(me, 0);    // Ghi lại sát thương mạnh nhất(NPC)
+2953|<O>| say_word = sprintf("Ngài vượt ải thành công, sẽ nhận được phần thưởng %s tiền Chiến Quốc và danh hiệu “"HIR"%s"NOR"”，xin tới chỗ thiên sứ đổi thưởng hoạt động để nhận thưởng。", active_bonus[2], active_bonus[1]);
+2954|<O>| send_user(who, "%c%c%w%s", ':', 3, this_object()->get_char_picid(), sprintf("Tướng quân thảo nghịch:\n    Doanh trại Thành Kiệu chỉ có thể vào theo tổ đội。\n"));
+2955|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi xác định muốn dùng một quả cầu đen, một quả cầu lam và một quả cầu đỏ để đổi lấy phần thưởng ngẫu nhiên không？\n"
+2956|<O>| if (name1 != "Nước Tề") result += sprintf("Nước Tề:%s(độ hữu hảo %4d)\n", city->get_relation_name(1), city->get_friend(1));
+2957|<O>| if (name1 != "Nước Yên") result += sprintf("Nước Yên:%s(độ hữu hảo %4d)\n", city->get_relation_name(7), city->get_friend(7));
+2958|<O>| send_user(who, "%c%c%w%s", ':', 3, this_object()->get_char_picid(), "Như Ý Tiên Tử:\n    Cấp độ của ngươi vẫn chưa đạt cấp 15, rèn luyện thêm rồi hãy quay lại。");
+2959|<O>| ret += sprintf("%sHạng Liên Mãnh Hổ\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"猛虎项链"))?PPM:WHT);
+2960|<O>| cmd6 = sprintf(ESC "Mao Sơn: %d/%d\nenergy %d 5\n", COUND_d->get_1(type2, 5), COUND_d->get_2(type2, 5), type2);
+2961|<O>| send_user(who, "%c%c%w%s", ':', 3, this_object()->get_char_picid(), "Như Ý Tiên Tử:\n    Cấp độ của ngươi vẫn chưa đạt cấp 35, rèn luyện thêm rồi hãy quay lại。");
+2962|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    Sao có thể？Chẳng lẽ chó đốm ở Hoa Sơn đã bị người ta giết sạch rồi sao？Trên Triều Dương Phong cũng không còn nữa sao？\n"ESC"Rời khỏi", me->get_name()));
+2963|<O>| send_user(me, "%c%c%d%s", '?', 16, 60, "Xin hãy nhập thời gian bắt đầu và kết thúc của hoạt động online săn bảo（ví dụ:20070517-20070721 ）:\n"ESC"party 38.%s\n");
+2964|<O>| if (name1 != "Nước Ngụy") result += sprintf("Nước Ngụy:%s(độ hữu hảo %4d)\n", city->get_relation_name(4), city->get_friend(4));
+2965|<O>| tell_user(me, "%s(%d) tọa độ: %d (%d, %d) %O", who->get_name(), who->get_number(), z, x, y, get_map_object(z));
+2966|<O>| //                      if( z != z0 ) if( map = get_map_object(z) ) notify( map->get_name() );    // Hiển thị tên bản đồ
+2967|<O>| result += sprintf(ESC"Bạch Hổ Môn Bảo Vệ Chiến(81 cấp trở lên)(số người:%d/40)\ntalk %x# defence.14\n", all[3]->sizeof_player_dbase(), id);
+2968|<O>| if (name1 != "Nước Hàn") result += sprintf("Nước Hàn:%s(độ hữu hảo %4d)\n", city->get_relation_name(2), city->get_friend(2));
+2969|<O>| cmd5 = sprintf(ESC "Đường Môn: %d/%d\nenergy %d 4\n", COUND_d->get_1(type2, 4), COUND_d->get_2(type2, 4), type2);
+2970|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), me->get_name() + ":\n    Vẫn nên đợi đội viên đủ cả rồi hãy nói！\n"ESC"Rời khỏi");
+2971|<O>| get_name() + ":\n    Nếu ngài là người chơi từng tham gia đợt thử nghiệm đóng của của 《Đại Thoại Chiến Quốc》 và đã nhận được mã nhận thưởng, vậy thì ngài có thể dùng mã đó tại chỗ ta để nhận về phần thưởng vô cùng phong phú。\n    Cảm ơn ngài đã ủng hộ trò chơi của chúng tôi, chúc ngài chơi game vui vẻ。\n"
+2972|<O>| send_user( who, "%c%s", ':', npc->get_name() + ":\nVị " + NPC_RANK_D->get_respect(who) + " này, dạo gần đây ngài có phải hơi túng thiếu trong tay không？\n");
+2973|<O>| log_file("getitem.txt", sprintf("%s %s %d nhận %d thành công\n", short_time(), me->get_id(), me->get_number(), type));
+2974|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi xác định muốn dùng một quả cầu đen, một quả cầu lam và một quả cầu đỏ để đổi lấy Tử Sâm Đan không？\n"
+2975|<O>| case WAR_READY_2: if (sec % 5 == 0) NPC_BATTLE_D->war_begin_count_down_notice(map, 30 - sec);    // Mỗi 5 giây xử lý
+2976|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), me->get_name() + ":\n    Đừng dẫn theo người không liên quan tới！\n"ESC"Rời khỏi");
+2977|<O>| ret += sprintf("%sYêu Đới Cự Tượng\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"巨象腰带"))?PPM:WHT);
+2978|<O>| cmd1 = sprintf("%s:\n     Trong thời gian ràng buộc VIP, ngài tổng cộng có thể nhận "HIR"%d giờ 30 phút"NOR" thời gian VIP gấp đôi。Xin hỏi ngài có muốn nhận thời gian VIP gấp đôi không？\n", me->get_name(), y);
+2979|<O>| ret += sprintf("%sYêu Đới Cuồng Sư\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"狂狮腰带"))?PPM:WHT);

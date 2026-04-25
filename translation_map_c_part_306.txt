@@ -1,0 +1,68 @@
+﻿11731|<O>| set_name("挑衅人" + NPC_NAME_D->get_banditi_name());
+11732|<O>| else if (rate < 2500 * rate1 / 100)	//80级随机蓝色配方1个
+11733|<O>| case 'S': send_user(me, "%c%s", '!', "此服务器未登记！");
+11734|<O>| log_file("updatefile.txt", "重新编译" + file + "\n");
+11735|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 10, "查看中……");
+11736|<O>| return  color + "威力很大的炸弹，对目标3X3范围内的敌对方造成1000点伤害";
+11737|<O>| && who->get_equip(HAND_TYPE) == item    // 装备在法宝栏
+11738|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"给楚管家的口信");
+11739|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"漂亮的床（2）");
+11740|<O>| npc->set_name(sprintf("天兵(%s)", me->get_name()));
+11741|<O>| npc->set_name(sprintf("神将(%s)", me->get_name()));
+11742|<O>| if (get_effect(pet, EFFECT_MAGIC_CARD))	//取消变身的效果
+11743|<O>| DEBUG(sprintf("测试-->Dizi_players size=%d",size));
+11744|<O>| 虞万支柯 咎管卢莫 经房裘缪 干解应宗 丁宣贲邓 郁单杭洪 包诸左石 崔吉钮龚 程嵇邢滑 裴陆荣翁
+11745|<O>| send_user(who, "%c%s", '!', "抱歉，贵帮的安定不需要使用该道具。");
+11746|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"蚂蚁带来的烦恼");
+11747|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 10, "取物中……");
+11748|<O>| send_user(who, "%c%s", '!', "对方在副本内，不能使用同心锁传送。");
+11749|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"大展神威（5）");
+11750|<O>| tell_user(me, sprintf(HIY "你送走了%d个玩家。", number));
+11751|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"四面楚歌（1）");
+11752|<O>| private int GiftPoint;                  // 可分配属性点
+11753|<O>| log_file("boss.txt", short_time() + " 飞贼王被消灭\n");
+11754|<O>| set_name("重犯" + NPC_NAME_D->get_criminal_name());
+11755|<O>| send_user(who, "%c%c%w%s", ':', 3, 0, "帮派资金不足！");
+11756|<O>| return "一种神奇的绣花针，聚集了天地灵气，\使用后能使帮派安定增加1000。冷却2秒。";
+11757|<O>| 温别庄晏 柴翟阎充 慕连茹习 宦艾鱼容 向古易慎 戈廖庚终 暨居衡步 都耿满弘 匡国文寇 广禄阙东
+11758|<O>| 宁仇栾暴 甘钭厉戎 祖武符刘 景詹束龙 叶幸司韶 郜黎蓟薄 印宿白怀 蒲台从鄂 索咸籍赖 卓蔺屠蒙
+11759|<O>| private static int Level2 = 1;          // 等级(升级)
+11760|<O>| return sprintf("［" PF_NAME "］按配方炼制药物，%s%d 级可用\n",
+11761|<O>| item = present("给信使的疗伤药", who, 1, MAX_CARRY * 4);
+11762|<O>| return "活动专属骑宠笨笨。\n有效期至2007年5月24日。\n该道具使用后绑定。\n";
+11763|<O>| //	《真假虎王》效果调用时执行的回调函数--使用progress2进度条在进度条时间完毕之后执行
+11764|<O>| "/cmd/user/talk"->main(me, result);    // 获得相关道具！
+11765|<O>| case 3: write_user(me, ECHO "你占得否卦，不利君子贞，大往小来。");
+11766|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 6, "召唤僵尸中……");
+11767|<O>| private int FeeStart;                   // 扣费开始时间
+11768|<O>| private int Level;                     	// 技能要求等级
+11769|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"四面楚歌（3）");
+11770|<O>| return HIC+get_name()+"\n拥有此技能的宠物，增加其当前法术防御的5%。";
+11771|<O>| 熊纪舒屈 项祝董粱 杜阮蓝闵 席季麻强 贾路娄危 江童颜郭 梅盛林刁 钟徐邱骆 高夏蔡田 樊胡凌霍
+11772|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 10, "挖掘中……");
+11773|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"茉莉花茶（2）");
+11774|<O>| send_user(me, "%c%s", ':', "您获得" + result + "。");
+11775|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"漂亮的床（1）");
+11776|<O>| return	mix1(me, ({ item[0],item[1] }));	//锻造石锻造装备
+11777|<O>| if (work == 5 && who->get("time") >= 10)    // 收割
+11778|<O>| private static object* dbHire = ({ });		// 攻击方的佣兵
+11779|<O>| else if (rate < 6000 * rate1 / 100)	//80等级段随机蓝色配方
+11780|<O>| private string Owner;                   // 邮箱主人标识
+11781|<O>| send_user(who, "%c%s", '!', "分红率得在 40～80%% 之间。");
+11782|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"烽火台上的烟雾");
+11783|<O>| &&      item2->get_talisman_type() == 3    // 摄魂铃
+11784|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"完美宝石（2）");
+11785|<O>| // 并且，item 要提供其点数，以及其唯一标识, 这里借用:get_value(), 8888
+11786|<O>| case 'P': send_user(me, "%c%s", '!', "传入KEY错误！");
+11787|<O>| send_user(who, "%c%s", ';', "亡羊补牢 经验 500 潜能 10");
+11788|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"大展神威（2）");
+11789|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"大展神威（3）");
+11790|<O>| tell_user(me, "现在:%s  ＩＰ:%s  发呆:%d 秒 account:%d",
+11791|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"买椟还珠(1)");
+11792|<O>| npc->set_name(sprintf("豆兵(%s)", me->get_name()));
+11793|<O>| /*              me->set_login_flag(2);    // 跳转保护
+11794|<O>| // NGUYÊN NHÂN: NPC heart_beat 被禁用，不知道 player 在附近
+11795|<O>| ESC "打开传送地图\n"+sprintf("talk %x# goto.map\n",id)+
+11796|<O>| iFinish = mktime(year,mon,day,hour,min,0);	//结束时间
+11797|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"唇亡齿寒（4）");
+11798|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"茉莉花茶（4）");

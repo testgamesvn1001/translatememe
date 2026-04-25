@@ -1,0 +1,45 @@
+4189|<O>| result = sprintf("%s:\n    Ra là vậy… không ngờ nhanh như vậy đã đến lúc chia tay rồi. Nhưng một khi ngươi rời khỏi tiên giới này, sau này sẽ không thể quay lại nữa. Ngươi thật sự xác định muốn như vậy chứ?\n"
+4190|<O>| sprintf("%s(%x#) phòng ngự:%d, hãy nhập giá trị mới:\n", who->get_name(), getoid(who), who->get_dp()) +
+4191|<O>| result = "Hãy nhập thời gian bắt đầu và kết thúc hoạt động, ví dụ:\"50900-60000\" biểu thị thứ sáu hằng tuần từ 9 giờ-24 giờ là thời gian bắt đầu hoạt động \n"ESC"party 134.%s\n";
+4192|<O>| result = sprintf("%s:\n    Bạn đã nhận %d tiềm năng và %d vàng, đã nhận hết toàn bộ。\n", me->get_name(), get, get * 20);
+4193|<O>| cmd2 = sprintf(ESC "Thuế bán ra của người trong nước。(%d%%)\ntalk %x# tax.2.?\n", city->get_sell_tax(), id);
+4194|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 10\nTiêu hao đạo cụ: 1 lá bùa giấy\n    Phong tỏa hành động của một kẻ địch, khiến nó trong 6 giây không thể di chuyển. Kỹ năng này vô hiệu với người chơi。";
+4195|<O>| sprintf("%s(%x#) tốc độ:%d, hãy nhập giá trị mới:\n", who->get_name(), getoid(who), who->get_sp()) +
+4196|<O>| /*--------------------------------Giao diện hàm công khai----------------------------------------*/
+4197|<O>| if (who->get_hurt_rand()) prop += ({ sprintf("Xảy ra phản chấn:%4d", who->get_hurt_rand()) });
+4198|<O>| int ip_cmp(string ip1, string ip2)    // ip1 = "127.0.0.1";  ip2 = "127.0.0";  trả về 1
+4199|<O>| log_file(CHANNEL_LOG, sprintf("%s %s(%d)%s đóng kênh vipchat của %s(%d)%s trong %d phút。(GM)\n",
+4200|<O>| if (who->get_immunity()) prop += ({ sprintf("Miễn dị thường:%+3d%%", who->get_immunity()) });
+4201|<O>| //      if( !who->can_be_fighted(me) || !me->can_fight(who) ) return 2;    // Thực thi thành công
+4202|<O>| return sprintf("［" PF_NAME "］Tập kích mục tiêu quay lưng về phía mình, gây sát thương nghiêm trọng lên mục tiêu。Tiêu hao pháp lực:%d, lần sau dùng phải cách %d giây, có thể dùng ở %s%d cấp\n",
+4203|<O>| damage = correct_damage(me, who, range_value(damage, 1, ap2), ap);    // Ám khí AP không hiệu chỉnh
+4204|<O>| log_file("schoolvote.txt",sprintf("%s %s bắt đầu vòng tranh cử mới\n",short_time(),SchoolName[i],));
+4205|<O>| if (!objectp(item = present("Ngọc bội gia tộc", who, 1, MAX_CARRY)) || item->is_xunbao() != 1)
+4206|<O>| private int active_from		= 51700;		//	Thời gian bắt đầu hoạt động [0-6]/[1-31][0-23][0-59] -- dựa theo chế độ luân phiên hoạt động
+4207|<O>| if (objectp(item = present("Vòng tay bị mất", who, 1, MAX_CARRY)) && item->is_souzuo() == 1)
+4208|<O>| result = get_name() + ":\n    Phàm là người mới đến thôn tân thủ đều sẽ đi qua chỗ ta, ừm, ngươi vừa mới tới đây, chắc chắn vẫn chưa hiểu gì cả, có cần ta giới thiệu cho ngươi một chút không?\n";
+4209|<O>| send_user(me, "%c%s", '!', sprintf("Cấp cơ quan của bạn chưa đủ %d, không thể sử dụng %s", SKILL_LEVEL, get_name()));
+4210|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nTiêu hao pháp lực:%d điểm\nThời gian hồi:%d giây\n    Có thể giải trừ một chú nguyền trên người đồng minh。",
+4211|<O>| return efun::log_file(file, sprintf("%s Thứ %s，%s\n", short_time(), result, legend));
+4212|<O>| default: send_user(who, "%c%s", ':', sprintf("%s:\nChuyện như thế này là phải ngồi tù đấy。", me->get_name()));
+4213|<O>| call_out("user_authentic_callout_2", 1, passwd, name, gender, order);    // Tiếp tục chờ kết quả
+4214|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 16\n    Xua tan hiệu quả trên người mục tiêu, có thể xua một trạng thái tăng ích trên người địch hoặc xua một trạng thái xấu trên người đồng minh。";
+4215|<O>| result = sprintf("Bạn xác định muốn bán "HIR"%d" NOR" nguyên bảo với giá "HIR"%d" NOR" chứ?\n", price, value);
+4216|<O>| return HIC+get_name()+"\nThú cưng có kỹ năng này, khi dùng kỹ năng này tấn công đối phương có thể làm chậm\n3 giây tốc độ di chuyển của đối phương, hiệu quả kỹ năng không cộng dồn。（Thời gian hồi kỹ năng 20 giây。）";
+4217|<O>| result += sprintf(ESC "Từ bỏ %s\ntalk %x# abandon.%d\n", name[(i - 610) / 10], id, i);
+4218|<O>| send_user(who, "%c%s", ';', sprintf("Bạn dùng %d huy chương lao động Chiến Quốc để đổi %s", count, item->get_name()));
+4219|<O>| result += sprintf("An định:%8d  Bệnh dịch:%8d\n", city->get_stability(), city->get_disease());
+4220|<O>| if (name->get_stuff_type()==0) result += sprintf( "%d cấp pháp bảo\n", name->get_level() );
+4221|<O>| sprintf("%s(%x#) công pháp:%d, hãy nhập giá trị mới:\n", who->get_name(), getoid(who), who->get_cp()) +
+4222|<O>| "/cmd/pro/family"->main(me, sprintf("%d %d", i * 10, j));    // i: không cơ bản; i * 10 cơ bản
+4223|<O>| send_user( who, "%c%s", ':', me->get_name() + ":\n    Chuyện tiến hành đến đâu rồi? Việc nhỏ này chắc không làm khó ngươi chứ?\n"
+4224|<O>| if (item->get_lasting() >= 100) item->get_use_effect_2(me, who, arg);    // Độ bền đủ
+4225|<O>| send_user(who, "%c%s", ';', sprintf(HIR"Bạn đã hoàn thành nhiệm vụ kỳ duyên trời ban Thất Tịch, nhận được 50000 tiền, 50000 kinh nghiệm, Nhẫn Tình Bỉ Kim Kiên "));
+4226|<O>| tmp += sprintf(ESC + HIY + "Trang trí nhà cửa\ntalk %x# welcome.10\n", getoid(this_object()));
+4227|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 15\nTiêu hao đạo cụ: 3 lá bùa giấy\n    Triệu hồi thiên binh hỗ trợ chiến đấu. Khi thiên binh tấn công có xác suất nhất định khiến địch rơi vào trạng thái bị thương。";
+4228|<O>| //			send_user(who,"%c%s",':',me->get_name()+":\n    Có người trong đội của ngươi không có mặt tại hiện trường, không thể báo danh。\n"ESC"Rời đi");
+4229|<O>| case "exchange": keyH = "$exchange$H";  keyL = "$exchange$L";  break;    // Tiền đưa khi giao dịch
+4230|<O>| short_time(), me->get_name(), me->get_id(), obj->get_name(), file));    // Ghi file nhật ký
+4231|<O>| else    result = sprintf("［Nhiệm vụ vận tiêu］\n"BLK"Còn %d phút\n" BLK "Hộ tống người đến chỗ " HIR "%s" BLK "。\n",
+4232|<O>| map->set_war_attack(me->get_org_name());  map->set_war_defense(arg);    // Ghi lại hai bên chiến tranh
+4233|<O>| write_user(owner, ECHO "Kẻ cướp bóc %s của bạn đã bị đánh chết, kinh nghiệm %+d, tiềm năng %+d。", me->get_name(), exp2, pot2);

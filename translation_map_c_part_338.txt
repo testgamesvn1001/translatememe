@@ -1,0 +1,77 @@
+﻿14029|<O>| if (me->get_2("changping.country") == "秦国")
+14030|<O>| if (get_char_type() != OFFICER_TYPE)	//普通状态
+14031|<O>| return desc = "增加宠物忠诚的一种口粮，每食用一次，忠诚度增加20。";
+14032|<O>| send_user(me, "%c%s", ':', "您想复制哪种门派的武器？\n"
+14033|<O>| switch (who->get_occupation())    // 列示职业指令
+14034|<O>| write_user(me, ECHO "您将%s涂在自己的武器上。", name);
+14035|<O>| send_user(who, "%c%s", '!', "您获得了"HIY"毛笔");
+14036|<O>| send_user( who, "%c%s", '!', HIY"斑点狗 1/1");
+14037|<O>| if (me->add_heart_sec(1) > 5)    // ５分后处理以下
+14038|<O>| send_user(me, "%c%s", ':', "您想把自己设为哪种门派？\n"
+14039|<O>| int Photo;                           	// 头像
+14040|<O>| size2 = 2 + random(level / 15);    // 窥看道具数
+14041|<O>| send_user(me, "%c%s", '!', "您不是书生，不懂得授课。");
+14042|<O>| result = sprintf("你得到了治疗，花费了%d的金钱。", cash);
+14043|<O>| me->set_save("dodolook_yuanfen", 1);	//有缘分卡
+14044|<O>| send_user(me, "%c%s", '!', "带着钱票不能使用回城符。");
+14045|<O>| send_user(who, "%c%s", ';', "你得到"HIY"出货单");
+14046|<O>| send_user(me, "%c%s", ':', "这是一棵成长中的农作物。");
+14047|<O>| send_user(me, "%c%s", '!', "带着钱票不能使用回帮符。");
+14048|<O>| __DIR__ "00014"->can_perform(me);	// 自动物理攻击
+14049|<O>| tell_user(me, obj->get_name() + "已复制在身上。");
+14050|<O>| if (hour) result += sprintf(" %d 时", hour);
+14051|<O>| send_user(who, "%c%s", '!', "变身状态下不能开宝箱。");
+14052|<O>| notify("%s只能用经验来学习。", fileobj->get_name());
+14053|<O>| send_user(who, "%c%s", '!', "你在身边种了一棵圣诞树");
+14054|<O>| case 4 :	result += sprintf( "适用门派: %s唐门\n",
+14055|<O>| who->get_name() + ":\n    您的申请正在处理中，请稍候。\n"
+14056|<O>| add_dp(-1 * get_dp() * 20 / 100);    //物理防御
+14057|<O>| send_user(me, "%c%s", '!', "在战场不能使用回门符。");
+14058|<O>| else if (rate < 3500 * rate1 / 100)		//紫参丹
+14059|<O>| send_user(me, "%c%s", '!', "您得有乾坤绳才能捕抓。");
+14060|<O>| case "桃花源" : hp = me->get_con() * 55 / 10;
+14061|<O>| return sprintf("%d级水灵石", me->get_level());
+14062|<O>| who->have_been_slave(1);    // 记录曾被魅惑，不再掉宝
+14063|<O>| tell_user(me, "物品[%2d]:%s", size, result);
+14064|<O>| else if (p < 10000 * rate / 100)    // 杂物３
+14065|<O>| if (!who->is_user()) return 1;    // 必须是玩家
+14066|<O>| private int ExtraDoubleTime;		// 战国令双倍经验时间
+14067|<O>| return "能对法力临时提高，临时提高10%最大法力，持续10分钟，冷却2秒";
+14068|<O>| string get_skill_name() { return "阴阳五行"; }
+14069|<O>| return ({"破损的头盔" , "在楚方城杀楚军刀兵可以得到破损的头盔"});
+14070|<O>| set_heart_loop(item, 100);    // 循环心跳:１０秒钟
+14071|<O>| ESC "领取三十分钟VIP双倍时间\ntalk %x# welcome.85\n"
+14072|<O>| else if (rate < 10000 * rate1 / 100)	//战国令
+14073|<O>| send_user(me, "%c%s", '!', "你不能携带更多的宠物了");
+14074|<O>| item = present("开门芝麻", who, 1, MAX_CARRY);
+14075|<O>| string get_skill_name() { return "逆天法咒"; }
+14076|<O>| send_user(who, "%c%s", '!', "您身上没有神秘的种子");
+14077|<O>| z = get_z(enemy);z0 = get_z(me);//获得对手的地图。
+14078|<O>| private static int iWarDamage;		// 怪物攻城的损伤
+14079|<O>| case "蜀山": if (get_weapon_code() == BLADE)
+14080|<O>| send_user(me, "%c%s", '!', "您能力不够，不能授课。");
+14081|<O>| send_user(me, "%c%s", '!', "取回点卡出售所得成功！");
+14082|<O>| send_user(who, "%c%s", '!', "城里好象太多人了……");
+14083|<O>| send_user(me, "%c%s", '!', "您现在正遇到蒙面人呢。");
+14084|<O>| return sprintf("%d级月晶石", me->get_level());
+14085|<O>| string get_skill_name() { return "招架之术"; }
+14086|<O>| return Mail[id] = name;    // 过多发信人，数组会过大！
+14087|<O>| string get_skill_name() { return "暗器投射"; }
+14088|<O>| send_user(me, "%c%s", '!', "你不能携带太多的宠物。");
+14089|<O>| "听到~想到~心到，说到~做到~得到，时间到，我的美好祝福和思念已经全让你收到。",
+14090|<O>| send_user(me, "%c%s", '!', "您没有申请序列号验证。");
+14091|<O>| string get_skill_name() { return "唐门毒经"; }
+14092|<O>| printf( ECHO "您需要装备剑才能使用“" PF_NAME "”。" );
+14093|<O>| string get_skill_name() { return "唐门心法"; }
+14094|<O>| notify("您的存款只有 %d 金。", me->get_savings());
+14095|<O>| string get_skill_name() { return "拳脚招架"; }
+14096|<O>| string get_skill_name() { return "顺天法咒"; }
+14097|<O>| int get_item_value() { return 9975; }	//价格
+14098|<O>| string get_skill_name() { return "护体金罡"; }
+14099|<O>| who->set("pf.fmp", -damage);    // 小心准备 me
+14100|<O>| return "由蜂王浆中提炼出来的精华,马上恢复850点气血，900点法力值。";
+14101|<O>| return "任务物品。据说可以治疗头疼的一种中药材。\n右击使用可触发任务。";
+14102|<O>| else if (rate < 2500 * rate1 / 100)		//紫参丹
+14103|<O>| printf(ECHO "您采集到 %s。", item->get_name());
+14104|<O>| notify(obj3->get_name() + "已经摆摊上架，不能交易。");
+14105|<O>| void weapon_callout(object me)    // 每１分处理

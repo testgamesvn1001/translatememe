@@ -1,0 +1,55 @@
+﻿7184|<O>| tmp += sprintf(ESC HIY "Thượng tấu Hàn Vương\ntalk %x# welcome.7\n", getoid(me));
+7185|<O>| national2 = sprintf(ESC HIY"Mua Quà Tặng Quốc Khánh Điên Cuồng\ntalk %x# bonus.43\n", id);
+7186|<O>| private static int Fighter;                     // Số lượng quái vật    // 150
+7187|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 43, "Đơn đao");
+7188|<O>| send_user(who, "%c%s", '!', sprintf("%s và %s không có đồng minh。", name2, name4));
+7189|<O>| tmp += sprintf(ESC HIY "Khóa đồng tâm\ntalk %x# welcome.22\n", getoid(me));
+7190|<O>| tmp += sprintf(ESC HIY "Giải trừ chuyện lạ\ntalk %x# welcome.1\n", getoid(me));
+7191|<O>| tmp += sprintf(ESC HIY "Chứng minh bản thân\ntalk %x# welcome.1\n", getoid(me));
+7192|<O>| tmp += sprintf(ESC HIY "Thăm dò nguyên nhân\ntalk %x# welcome.1\n", getoid(me));
+7193|<O>| tmp += sprintf(ESC HIY "Sự khó khăn của tu sửa\ntalk %x# welcome.1\n", getoid(me));
+7194|<O>| CHAT_D->rumor_player_channel(0, sprintf(CHAT "%s%s", "Kẻ nào đó", arg));
+7195|<O>| tmp += sprintf(ESC HIY "Giải quyết vấn đề\ntalk %x# welcome.1\n", getoid(me));
+7196|<O>| tmp += sprintf(ESC HIY "Nghe ngóng tin đồn\ntalk %x# welcome.8\n", getoid(me));
+7197|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 46, "Giao hảo");
+7198|<O>| ret = CHAR_FIGHT_D->attack_done(me, who, HIT_NONE);    // Cẩn thận chuẩn bị me
+7199|<O>| result = sprintf("%s:\n    Số lượng lính đánh thuê đã đạt 20, không thể thuê thêm。\n", who->get_name());
+7200|<O>| tmp += sprintf(ESC HIY "Chân tướng đại bạch\ntalk %x# welcome.6\n", getoid(me));
+7201|<O>| tmp += sprintf(ESC HIY "Tìm kiếm giúp đỡ\ntalk %x# welcome.8\n", getoid(me));
+7202|<O>| tmp += sprintf(ESC HIY "Cô hồn oán thán\ntalk %x# welcome.8\n", getoid(me));
+7203|<O>| tmp += sprintf(ESC HIY "Oán quỷ chi linh\ntalk %x# welcome.6\n", getoid(me));
+7204|<O>| tmp += sprintf(ESC HIY "Tâu xin vương mệnh\ntalk %x# welcome.1\n", getoid(me));
+7205|<O>| tmp += sprintf(ESC HIY "Tìm kiếm thực đơn\ntalk %x# welcome.1\n", getoid(me));
+7206|<O>| send_user(who, "%c%s", ';', "Giải cứu thợ thủ công Kinh nghiệm 2000 Tiềm năng 80 Kim tiền 1800 Khí huyết sơ cấp 1");
+7207|<O>| tmp += sprintf(ESC HIY "Tìm kiếm ủng hộ\ntalk %x# welcome.7\n", getoid(me));
+7208|<O>| send_user(who, "%c%s", ';', "Tình yêu của võ sĩ (1) Kinh nghiệm 20000 Tiềm năng 290 Kim tiền 20000");
+7209|<O>| result += sprintf(ESC "Tôi muốn làm lại từ đầu, bạn giúp tôi với。\ntalk %x# welcome.1\n", id);
+7210|<O>| tmp += sprintf(ESC HIY "Tìm người lánh nạn\ntalk %x# welcome.1\n", getoid(me));
+7211|<O>| if( point = who->get_anti_hurt_2() ) damage -= point;    // Miễn sát thương phép
+7212|<O>| tmp += sprintf(ESC HIY "Truy tìm tận gốc\ntalk %x# welcome.1\n", getoid(me));
+7213|<O>| tmp += sprintf(ESC HIY "Liên minh với Sở\ntalk %x# welcome.4\n", getoid(me));
+7214|<O>| case 7: send_user(who, "%c%s", ':', "Bạn:\nNghe nói có người thông qua nghiên cứu pháp điển đã tìm được cách tránh thuế。");
+7215|<O>| tmp += sprintf(ESC HIY "Thư của Tướng quân\ntalk %x# welcome.1\n", getoid(me));
+7216|<O>| tmp += sprintf(ESC HIY "Thu thập vòng tròn\ntalk %x# welcome.4\n", getoid(me));
+7217|<O>| tmp += sprintf(ESC HIY "Đòi lấy bảo đồ\ntalk %x# welcome.4\n", getoid(me));
+7218|<O>| result = sprintf("Số lượng cá ở đây là %d, %s bạn muốn:\n", who->get("fish"), result);
+7219|<O>| send_user(who, "%c%s", '!', "Chúc mừng! Bạn mở Quà Trùng Cửu nhận được " + item->get_name());
+7220|<O>| send_user(who, "%c%s", ';', "Bái phỏng Ngụy Chiêu Vương Kinh nghiệm 1000 Tiềm năng 50 Kim tiền 1000 Hành Quân Sát 5");
+7221|<O>| "Tư Mã Thác 150" : ({ 1000000, 1000000, 1500, 1230, 1500, 1180,  780, }),
+7222|<O>| tmp += sprintf(ESC HIY "Chuẩn bị đi sứ\ntalk %x# welcome.3\n", getoid(me));
+7223|<O>| tmp += sprintf(ESC HIY "Tội danh liên lụy\ntalk %x# welcome.1\n", getoid(me));
+7224|<O>| send_user(who, "%c%s", ';', "Kiến nghị nhiệt tình (3) Kinh nghiệm 51000 Tiềm năng 778 Kim tiền 50300");
+7225|<O>| if (sizeof(get_2(sprintf("%d.%d.Tần Quốc", level, wId))) >= MAX_SIZE &&
+7226|<O>| //              send_user(me, "%c%w%w", 0x07, x0, y0);    // Sửa lại tọa độ
+7227|<O>| send_user(who, "%c%s", ';', "Kiến nghị nhiệt tình (2) Kinh nghiệm 48000 Tiềm năng 750 Kim tiền 50000");
+7228|<O>| tmp += sprintf(ESC HIY "Tâm sự nặng nề\ntalk %x# welcome.1\n", getoid(me));
+7229|<O>| tmp += sprintf(ESC HIY "Bẩm báo Ngụy Vương\ntalk %x# welcome.6\n", getoid(me));
+7230|<O>| send_user(who, "%c%s", '!', sprintf("%s và %s vẫn đang đồng minh！", name2, name4));
+7231|<O>| send_user(who, "%c%s", ';', "Di sản của ông nội (2) Kinh nghiệm 31000 Tiềm năng 605 Kim tiền 30000");
+7232|<O>| if (!number_present(me, i + begin, begin, end)) break;    // Tìm chỗ trống
+7233|<O>| tmp += sprintf(ESC HIY "Tai họa tiết lộ bí mật\ntalk %x# welcome.5\n", getoid(me));
+7234|<O>| send_user(who, "%c%s", ';', "Đúc kiếm kinh thế Kinh nghiệm 500 Tiềm năng 50 Kim tiền 1300 Một miếng thịt 3");
+7235|<O>| tmp += sprintf(ESC HIY "Sự khó khăn khi đi sứ\ntalk %x# welcome.3\n", getoid(me));
+7236|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 18, "Thách thức");
+7237|<O>| tmp += sprintf(ESC HIY "Nghe ngóng tin đồn\ntalk %x# welcome.1\n", getoid(me));
+7238|<O>| //        if( get_heart_count_2(me) > 20 )    // Trong khi chiến đấu, trong khi đi bộ(sai số 0.2)

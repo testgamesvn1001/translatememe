@@ -1,0 +1,49 @@
+4992|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 17, "Tìm trí giả lão nhân trò chuyện");
+4993|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 35, "Rượu ngon của Triệu Quốc(hoàn thành)");
+4994|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 119, "Sai vặt ngon của Vương Bộ Đầu");
+4995|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 19\n    Cường hóa pháp thuật Tiểu Chu Thiên, đồng thời thi triển Tiểu Chu Thiên lên toàn bộ thành viên tổ đội trong tầm nhìn。";
+4996|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_NEWBIE_01,16,"Gà con cục tác(hoàn thành)" );
+4997|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 50, "Linh hồn bất an(hoàn thành)");
+4998|<O>| result += sprintf(ESC + HIY + "Xin cỏ linh chi\ntalk %x# welcome.5\n", getoid(me));
+4999|<O>| int main(object me, object who, int x, int y, string arg)    // Đồng bộ sửa đổi “Linh Tê Hoàn”
+5000|<O>| set_heart_timer( me, set_heart_timer_2(me, getoid(me) % 10) );    // Nhịp tim ngẫu nhiên
+5001|<O>| result += sprintf(ESC HIG"Nhận tặng thời gian VIP gấp đôi\ntalk %x# welcome.84\n", getoid(me));
+5002|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 8\n    Chú pháp Chu Thiên, trong 15 phút tăng phòng ngự vật lý và pháp thuật cho bản thân hoặc đồng đội。";
+5003|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 37, "Món quà thích hợp(hoàn thành)");
+5004|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 19, "Hồ lô lớn（5）(hoàn thành)");
+5005|<O>| send_user(me, "%c%c%d%s", '?', 1, iCash, sprintf("Trên người bạn có %d tiền mặt, bạn định gửi bao nhiêu?\n"
+5006|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 24, "Vụ án treo ở thôn Hồ Khẩu(hoàn thành)");
+5007|<O>| if ((cTmp = who->get_2("changping.country")) && cTmp == cCountry1)	//Cùng phe
+5008|<O>| TASK_LEGEND_D->give_item(who,BOOK_FILE->get_book_file(),1);     //Sách tiến giai kỹ năng ngẫu nhiên
+5009|<O>| send_user(nPlayer, "%c%c%d%s", 0x43, 10, 0, "Đội quân của Quách Khai, tiên phong hữu quân Triệu, đã bị quân Tần đánh lui! Sĩ khí quân Triệu bị tổn thất nặng!");
+5010|<O>| CHAR_FIGHT_D->throwing_done(me, who, HIT_THROWING, ADD_AP);    // Cẩn thận chuẩn bị me
+5011|<O>| if ((level = gone_time(who->get_save_2("advice.time"))) < 300)    // Sau năm phút
+5012|<O>| return "Tương truyền bảo điển này ghi chép những nơi mà người chơi ở mỗi tầng cấp có thể đi mạo hiểm。\nMỗi khi người chơi tăng một cấp sẽ có một lần cơ hội quay thưởng, nhưng nếu không nắm lấy cơ hội này thì nó sẽ mất đi。";
+5013|<O>| send_user(who, "%c%c%s", 0x59, 1, sprintf("Bạn sẽ thông qua "HIR"Hạt Vừng Mở Cửa"NOR" để tiến vào phó bản Lăng Mộ Ly Sơn。\n"
+5014|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YUNMENZE, 2, "Cầu y（4）(hoàn thành)");
+5015|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 7, "Tiếng khóc trong kênh Trịnh Quốc(hoàn thành)");
+5016|<O>| if (!enemy && iAttack_time && gone_time(iAttack_time) > 10)	//Trong 10 giây không chiến đấu thì về điểm sinh
+5017|<O>| if (p = owner->get_quest("escort.id")) npc->set("task2", p);    // Ghi lại ID đồng đội
+5018|<O>| me->get_name() + ":\n    Ta chính là lão nhân Trùng Dương, thấy tiểu hữu này khí độ bất phàm, hẳn không phải người thường, không biết có nguyện giúp lão hủ thu thập Trùng Dương tứ bảo chăng?\n"
+5019|<O>| if (city = CITY_D->get_city_object(me))    // Dùng me để đề phòng BUG! Cần set_city_name
+5020|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 50, "Yêu trong hũ và tiên trong hũ(hoàn thành)");
+5021|<O>| result += sprintf(ESC + HIY + "Tiêu diệt bù nhìn\ntalk %x# welcome.9\n", getoid(me));
+5022|<O>| if( objectp( who = me->get_owner() ) && who->is_user() )    // Có chủ NPC(cương thi)
+5023|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 68, "Tình người ấm lạnh（3）(hoàn thành)");
+5024|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 28, "Nan y tạp chứng（2）");
+5025|<O>| send_user(who, "%c%s", ':', get_name() + ":\n    Vừa rồi ta hình như thấy vị lão nhân kia ở phía sau tiệm sửa chữa。\n");
+5026|<O>| send_user(nPlayer, "%c%c%d%s", 0x43, 10, 0, "Đội quân của Vương Lăng, tiên phong tả quân Tần, đã bị quân Triệu đánh lui! Sĩ khí quân Tần bị tổn thất nặng!");
+5027|<O>| if (soldier[i] == "Binh sĩ số 1" || soldier[i] == "Binh sĩ số 2" || soldier[i] == "Binh sĩ số 3")
+5028|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 60, "Cầu y（1）(hoàn thành)");
+5029|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 18, "Hồ lô lớn（4）(hoàn thành)");
+5030|<O>| send_user(who, "%c%s", ':', me->get_name() + ":\n    Hãy sắp xếp lại đồ đạc trên người rồi quay lại。\n" +
+5031|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YUNMENZE, 1, "Cầu y（3）(hoàn thành)");
+5032|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 6, "Gián điệp bộ tộc Sơn Nhung（1）(hoàn thành)");
+5033|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 4\n    Ẩn giấu thân hình, lặng lẽ tiềm hành. Trong trạng thái tàng hình cứ mỗi 10 giây tự động tiêu hao 10 điểm pháp lực。";
+5034|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 30, "Nỗi khổ của quản gia(hoàn thành)");
+5035|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 76, "Dũng xông Thiên Môn Trận(hoàn thành)");
+5036|<O>| send_user(who, "%c%c%s", 0x59, 1, sprintf("Bạn sẽ thông qua "HIR"Hạt Vừng Mở Cửa"NOR" để tiến vào phó bản quân doanh Thành Kiểu。\n"
+5037|<O>| send_user(who, "%c%s", '!', sprintf("Độ thuần thục %s của bạn không đủ %d!", pf_name, skill_exp));
+5038|<O>| result = result + sprintf( ESC "Vận chuyển thùng\ntalk %x# welcome.6\n", getoid(me) );
+5039|<O>| #define SMART_ALARM_CLOCK_F	"/inh/clock/smart_alarm_clock"		//	Sử dụng một phần hàm chức năng của đồng hồ báo thức
+5040|<O>| result = sprintf(HIY "%s bắt đầu áp dụng chiến lược ngoại giao “%s” với %s。", me->get_name(), name4, name3);

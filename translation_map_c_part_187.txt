@@ -1,0 +1,49 @@
+4894|<O>| CHAT_D->sys_channel(0,HIR"Ngọc Thố của tiên tử Hằng Nga vì ham ăn mà chạy xuống nhân gian, rồi lẫn vào đàn thỏ hoang, xin chư vị anh hùng giúp ra ngoài thành các nước tìm lại và giao cho tiên tử Hằng Nga。");
+4895|<O>| send_user(player, "%c%s", ';', sprintf("Chúc mừng bạn nhận được "HIR"%s"NOR"！", item_name));
+4896|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 50\    Tinh thần đối thủ rơi vào trạng thái hỗn loạn, trong 15 giây mọi kỹ năng và pháp thuật sử dụng đều tiêu hao gấp đôi。";
+4897|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 15, "Đại triển thần uy（5）(hoàn thành)");
+4898|<O>| case "lock": me->set_enemy_2(0);    // Hủy mục tiêu tấn công(ám khí, pháp thuật, y thuật, thi độc khóa định), chỉ lệnh:set lock 0
+4899|<O>| ESC "Đi " + name[13] + "。\n" + sprintf( "talk %x# goto.? %s\n", id, name[13] ) +
+4900|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 41, "Bộ xương ở Vạn Nhân Khanh(hoàn thành)");
+4901|<O>| write_user(who, ECHO "%s thi triển " HIY "Vong Hồn Siêu Độ" ECHO " lên bạn, bạn đã được giải thoát。", me->get_name());
+4902|<O>| send_user(who, "%c%c%w%s", ':', 3, 5420, "Thương nhân du hành:\n    Ha ha, ta là giả thôi!\n"ESC"Rời đi");
+4903|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 57, "Truy tận gốc（2）(hoàn thành)");
+4904|<O>| send_user(me, "%c%c%w%s", 0x5a, 0,iTime/SUB_STR*TIME_INTERVAL, "Đang lao động chăm chỉ……");
+4905|<O>| if( !who->can_be_fighted(me) || !me->can_fight(who) ) continue;    // Thực thi thành công
+4906|<O>| tmp += sprintf(ESC HIY "Thiệp mời\ntalk %x# welcome.3\n", getoid(this_object()));
+4907|<O>| ESC "Đi " + name[10] + "。\n" + sprintf( "talk %x# goto.? %s\n", id, name[10] ) +
+4908|<O>| else    result = sprintf("Bạn cất %s vào chỗ %s。", item->get_name(), who->get_name());
+4909|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 26, "Chứng đau đầu（3）");
+4910|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 64, "Chiếc giường đẹp（3）(hoàn thành)");
+4911|<O>| tmp += sprintf(ESC HIY "Triệu Cơ\ntalk %x# welcome.1\n", getoid(this_object()));
+4912|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHOUGUO, 21, "Bái phỏng danh sĩ Chu Quốc(hoàn thành)");
+4913|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 26\n    Phóng kiếm khí, tăng 45 điểm công kích pháp thuật, đồng thời khiến mục tiêu rơi vào trạng thái đóng băng trong 6 giây。";
+4914|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 31, "Yêu ngôn hoặc chúng(hoàn thành)");
+4915|<O>| result[0] = "/make/item/itemlist"->get_item_file(item9[j]);    // Cần duy trì danh sách vật phẩm!
+4916|<O>| send_user(who, "%c%c%s", 0x59, 1, sprintf("%s %s (%d) mời bạn gia nhập đại gia đình của họ, bạn có đồng ý không?\n"
+4917|<O>| tmp += sprintf(ESC HIY "Tượng đất\ntalk %x# welcome.1\n", getoid(this_object()));
+4918|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 25, "Chứng đau đầu（2）");
+4919|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 69, "Vinh quang vô thượng（1）(hoàn thành)");
+4920|<O>| me->set_pawn(sprintf("%02d", which3 - 1), pawn2->get_pawn());    // Cập nhật bộ nhớ đệm trong RAM
+4921|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 70, "Vinh quang vô thượng（2）(hoàn thành)");
+4922|<O>| || gone_time(item->get(SEAL_START)) > item->get(SEAL_INTERVAL))    // Trận pháp đã xong chưa
+4923|<O>| result = sprintf("［Nhiệm vụ xây dựng］\n"BLK"Còn %d phút\n" BLK "Tìm “" HIR "%s" BLK "” cho Nội Chính Quan。\n",
+4924|<O>| tmp += sprintf(ESC HIY "Dây buộc tóc\ntalk %x# welcome.1\n", getoid(this_object()));
+4925|<O>| //                ESC "Phản rời sư môn。\n" + sprintf( "talk %x# betrayer.?\n", id ) +
+4926|<O>| tmp += sprintf(ESC HIY "Bảo kiếm\ntalk %x# welcome.1\n", getoid(this_object()));
+4927|<O>| write_user(who, ECHO "Bạn nghe lời dạy dỗ của %s, cảm thấy thu hoạch không ít。(%s %+d)", me->get_name(), gift, x);
+4928|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 64, "Lời kiến nghị nhiệt tình（1）(hoàn thành)");
+4929|<O>| if( !who->can_be_fighted(me) || !me->can_fight(who) ) return 2;    // Thực thi thành công
+4930|<O>| send_user(me, "%c%c%d%s", '?', 1, 0, sprintf("Cảnh báo! Quản lý quyền người dùng。\n\nHãy nhập ID số của đối phương:\n"
+4931|<O>| //		send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_NEWBIE_01,11,"Nỗi khổ của Ngưu Nhị" );
+4932|<O>| return HIC+get_name()+"\nThú cưng có kỹ năng này, khi dùng kỹ năng này công kích pháp thuật sẽ bỏ qua\n15% phòng ngự pháp thuật của đối phương。Kỹ năng có khoảng cách hồi chiêu 5 giây。";
+4933|<O>| printf(ECHO "Bạn nhận được %s%d%s。", item->get_name(), item->get_amount(), unit_str);
+4934|<O>| ESC "Đi " + name[12] + "。\n" + sprintf( "talk %x# goto.? %s\n", id, name[12] ) +
+4935|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 3\n    Thuật phục ma, tăng 35 điểm công kích pháp thuật, gây sát thương lên một mục tiêu trong tầm nhìn。";
+4936|<O>| return HIC+get_name()+"\nThú cưng có kỹ năng này, khi dùng kỹ năng này công kích vật lý sẽ bỏ qua\n15% phòng ngự vật lý của đối phương。Kỹ năng có khoảng cách hồi chiêu 5 giây。";
+4937|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 34, "Pháo hoa trên Trường Thành(hoàn thành)");
+4938|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 21, "Âm thanh trong đêm trời(hoàn thành)");
+4939|<O>| ESC "Đi " + name[11] + "。\n" + sprintf( "talk %x# goto.? %s\n", id, name[11] ) +
+4940|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 1\nTiêu hao đạo cụ: 2 lá bùa giấy\n    Triệu hồi quỷ tốt hỗ trợ chiến đấu. Quỷ tốt sẽ dùng Hỏa Diệm Thuật để tấn công địch。";
+4941|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 1, 2,TID_VALENTINE,6,"Thiên sứ yêu cái đẹp(đã hoàn thành)" );
+4942|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 32, "Rèn luyện bản thân(hoàn thành)");

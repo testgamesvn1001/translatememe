@@ -1,0 +1,59 @@
+﻿8606|<O>| p_str += ({ FINAL_D->file_final_fam_type_lv("Đào Hoa Nguyên",69,30) });
+8607|<O>| /*              else if( p < 170014 * rate / 100 )    // Vật phẩm linh tinh 5
+8608|<O>| sprintf("%s:\n    Kinh doanh tiệm cầm đồ trên hòn đảo này cần có dũng khí, ta không sợ thổ phỉ cướp bóc, mà sợ bị lũ cự thú quái vật bắt đi!\n"
+8609|<O>| int index, size, flag = 0;//Cờ hiệu flag phán đoán có thể nhận được Cuốc hay không, 0 là có thể nhận, 1 là không thể nhận.
+8610|<O>| send_user(who, "%c%s", ';', "Huỳnh Quang Thần Bí Kinh nghiệm 7000 Tiềm năng 260 Kim tiền 6300");
+8611|<O>| /*              else if( p < 210000 * rate / 100 )    // Vật phẩm linh tinh 5
+8612|<O>| /*              else if( p < 100000 * rate / 100 )    // Vật phẩm linh tinh 5
+8613|<O>| /*              else if( p < 480000 * rate / 100 )    // Vật phẩm linh tinh 5
+8614|<O>| /*              else if( p < 250016 * rate / 100 )    // Vật phẩm linh tinh 5
+8615|<O>| /*              else if( p < 230000 * rate / 100 )    // Vật phẩm linh tinh 5
+8616|<O>| /*              else if( p < 530000 * rate / 100 )    // Vật phẩm linh tinh 5
+8617|<O>| send_user(who, "%c%s", ';', "Nghìn dặm tìm thân Kinh nghiệm 16800 Tiềm năng 500 Kim tiền 9600");
+8618|<O>| //_DEBUG(sprintf("DEBUG -- Tạo quái vật tại %d_%d:%d-%d",level,z,x,y));
+8619|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 1\n    Pháp thuật hệ y liệu, trực tiếp hồi phục 45 điểm khí huyết cho bản thân.";
+8620|<O>| /*              else if( p < 100008 * rate / 100 )    // Vật phẩm linh tinh 5
+8621|<O>| private static int ChangeHurt;                  // Tỷ lệ chuyển hóa sát thương (MP)
+8622|<O>| sprintf("\n"ESC"Tu sửa và Giám định\ntalk %x# welcome.99\n", getoid(me)) +
+8623|<O>| return sprintf(PF_NAME ":\n　　Mỗi khi chịu tấn công vật lý cận chiến, phản lại %d điểm sát thương cho kẻ tấn công.\n",
+8624|<O>| send_user(me, "%c%d%c", 0x31, getoid(weapon), 0);    // Cập nhật mô tả
+8625|<O>| private static int broadcast_time  = 10;				//	Thời gian luân chuyển thông báo Đơn vị (phút)
+8626|<O>| /*              else if( p < 930000 * rate / 100 )    // Vật phẩm linh tinh 5
+8627|<O>| /*              else if( p < 320000 * rate / 100 )    // Vật phẩm linh tinh 5
+8628|<O>| cmd2 = sprintf(ESC"Giao những con thú xấu đã bắt được cho Bác Dưa Hấu。\ntalk %x# bonus.8\n", id);
+8629|<O>| return "［Huyền Học Chính Đạo］ Kỹ năng nâng cao của Đạo gia, tăng giới hạn Pháp lực, mỗi cấp tăng 4 điểm; tăng Lực tấn công phép thuật, mỗi cấp tăng 1 điểm\n";
+8630|<O>| if( get_effect(who, EFFECT_CHAR_9145) ) return 2;    // Thực hiện thành công
+8631|<O>| sprintf("%s:\n    Nghe nói quái vật trên đảo này cao hơn cả người! Không biết bạn đã thấy chưa?\n    Xin hỏi bạn cần dịch vụ gì?\n"
+8632|<O>| //				send_user( team[i], "%c%s", ';', HIY"Đội của chúng ta đã vào cảnh chiến đấu。" );
+8633|<O>| send_user(me, "%c%c%w%w%s", 0x60, 4, get_number(), 6, "Ám khí");
+8634|<O>| /*              else if( p < 350000 * rate / 100 )    // Vật phẩm linh tinh 5
+8635|<O>| send_user(who, "%c%s", '!', "Do hạn chế về số lượng người, đội của bạn không thể đăng ký chiến trường hiện tại, vui lòng chờ trận sau!");
+8636|<O>| send_user(who, "%c%s", ';', "Nhận phần thưởng Túi 1 Chiến Quốc Lệnh Bài 3 Pháp Lực Thạch 1 Huyết Lực Thạch 1");
+8637|<O>| /*              else if( p < 510000 * rate / 100 )    // Vật phẩm linh tinh 5
+8638|<O>| /*              else if( p < 190000 * rate / 100 )    // Vật phẩm linh tinh 5
+8639|<O>| /*              else if( p < 340000 * rate / 100 )    // Vật phẩm linh tinh 5
+8640|<O>| &&      objectp( item2 = me->get_equip(HAND_TYPE) )    // Pháp bảo
+8641|<O>| send_user(who, "%c%s", ';', "Cuốc trồng trọt Kinh nghiệm 2500 Tiềm năng 65 Kim tiền 2000");
+8642|<O>| /*              else if( p < 710000 * rate / 100 )    // Vật phẩm linh tinh 5
+8643|<O>| tmp += sprintf(ESC HIY "Bảo vật trong Cửu Đạo Cốc\ntalk %x# welcome.6\n", id);
+8644|<O>| /*              else if( p < 280000 * rate / 100 )    // Vật phẩm linh tinh 5
+8645|<O>| if (get_block(z, x, y) & IS_CHAR_BLOCK) return 0;    // Không thể hạ chân
+8646|<O>| if (who = item[i]) MAP_D->add_to_void(who);    // Di chuyển vào cảnh VOID
+8647|<O>| if (TASK_LEGEND_D->check_task_item(who, "Chiếc rương đựng sừng bò vàng", 1) != 1)
+8648|<O>| /*              else if( p < 230016 * rate / 100 )    // Vật phẩm linh tinh 5
+8649|<O>| return "Tiên đan mà Vương Mẫu Nương Nương ban cho Chức Nữ。\nChỉ cần mang tiên đan"HIR"Giao (Alt+G)"NOR" cho Chức Nữ, họ có thể tự do rồi.";
+8650|<O>| tell_user(who, "%s đã tăng cho bạn %d giờ thời gian nhân đôi.", me->get_name(), iHours);
+8651|<O>| /*              else if( p < 660000 * rate / 100 )    // Vật phẩm linh tinh 5
+8652|<O>| /*              else if( p < 400000 * rate / 100 )    // Vật phẩm linh tinh 5
+8653|<O>| /*              else if( p < 160000 * rate / 100 )    // Vật phẩm linh tinh 5
+8654|<O>| /*              else if( p < 160013 * rate / 100 )    // Vật phẩm linh tinh 5
+8655|<O>| /*              else if( p < 920000 * rate / 100 )    // Vật phẩm linh tinh 5
+8656|<O>| /*              else if( p < 290016 * rate / 100 )    // Vật phẩm linh tinh 5
+8657|<O>| private static int PayMoneyBuyItem = 0;         // Đang mua đạo cụ thông qua điểm số
+8658|<O>| /*              else if( p < 770000 * rate / 100 )    // Vật phẩm linh tinh 5
+8659|<O>| sprintf(ESC HIY "Ma trơi trong đường núi\ntalk %x# welcome.1\n", getoid(me));
+8660|<O>| /*              else if( p < 140012 * rate / 100 )    // Vật phẩm linh tinh 5
+8661|<O>| /*              else if( p < 470000 * rate / 100 )    // Vật phẩm linh tinh 5
+8662|<O>| /*              else if( p < 250000 * rate / 100 )    // Vật phẩm linh tinh 5
+8663|<O>| ESC + sprintf("Chấp nhận nhiệm vụ。\ntalk %x# valentine.7\n", getoid(me)) +
+8664|<O>| ESC "Lấy Tân Thủ Thôn làm điểm quay về của tôi。\n" + sprintf("talk %x# welcome.1\n", id) +

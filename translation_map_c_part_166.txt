@@ -1,0 +1,43 @@
+3927|<O>| name = sprintf("%s(%d cấp)", PF_NAME, (me->get_skill(THIS_SKILL) - SKILL_LEVEL) / 7 + 1);
+3928|<O>| tell_user(me, "Xử lý: %s  %d", get_load_average(), MAIN_D->get_absolute_random_number());
+3929|<O>| CHAT_D->sys_channel(0, sprintf(HIR"Chúc mừng người chơi %s nhận được phần thưởng %s", who->get_name(), item->get_name()));
+3930|<O>| NPC_ENERGY_D->init_copy_npc(this_object(), 53 + random(2), ({ "Không","Cường tráng","Ám khí" }));    //
+3931|<O>| send_user(me, "%c%s", ':', sprintf("Hãy thiết lập giá trị của %s(%x#):\n", who->get_name(), getoid(who)) +
+3932|<O>| if (objectp(item = present("Quân cờ đen", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3933|<O>| return sprintf("［" PF_NAME "］Nhanh chóng di chuyển đến bên cạnh người khác, pháp lực của đối phương càng thấp thì tỷ lệ thành công càng cao. Tiêu hao pháp lực:%d, có thể dùng ở %s%d cấp\nYêu cầu kỹ năng cơ bản: Đại Thừa Đạo Pháp\n",
+3934|<O>| if( !objectp( item = present("Bánh trung thu", who, 1, MAX_CARRY) ) || item->is_zhongqiu() != 1 )
+3935|<O>| case 6: send_user(who, "%c%s", ':', sprintf("%s:\nBây giờ lương thực quý giá, đem ủ thành rượu thật là lãng phí.", me->get_name()));
+3936|<O>| if (objectp(item = present("Kim ngân hoa", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3937|<O>| if (objectp(item = present("Phật long châu", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3938|<O>| ret = CHAR_FIGHT_D->attack_done(me, who, HIT_NONE, ADD_AP, 0, 0, rate);    // Cẩn thận chuẩn bị me
+3939|<O>| USER_D->user_channel("Chúc mừng "+player->get_name()+" nhận được "+HIR+item->get_name()+" trong hoạt động Trung Thu.\n");
+3940|<O>| if (gold > get_max_cash()) send_user(this_object(), "%c%s", '!', "Tiền mặt của bạn đã đạt giới hạn trên, không thể tăng thêm nữa.");
+3941|<O>| if (!objectp(item = present("Bách Bộ Tiên", who, 1, MAX_CARRY)) || !item->is_baibuxian() == 1)
+3942|<O>| if (objectp(item = present("Hoa bách hợp", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3943|<O>| case 13: send_user(who, "%c%s", ':', sprintf("%s:\nTa chưa nghe nói tới, có phải tin đồn không?", me->get_name()));
+3944|<O>| send_user(me, "%c%s", '>', sprintf("Kích thước bản đồ %s là %d, %d", map->get_name(), max_x, max_y));
+3945|<O>| if (objectp(item = present("Đông trùng thảo", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3946|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 40\n    Bộc phát khí thế mạnh mẽ, tăng 40 điểm công kích vật lý, gây sát thương lên toàn bộ đối thủ xung quanh và tạo hiệu ứng choáng 1 giây。";
+3947|<O>| else write_user( who, ECHO "Bạn đánh chết %s, %skinh nghiệm %+d。", me->get_name(), flag ? "gấp đôi ":"", exp2 );
+3948|<O>| if (objectp(item = present("Hạt cải dầu", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3949|<O>| send_user(who, "%c%s", ':', me->get_name() + ":\n    Công đức của ngươi vẫn chưa đủ, hãy dẫn dắt đồ đệ nhiều hơn để tích công đức rồi quay lại chỗ lão phu.\n" +
+3950|<O>| result = sprintf("Bạn đã chết, bạn có thể chọn tự động hồi sinh hoặc chờ bác sĩ Vân Mộng Trạch đến cứu. Nếu được bác sĩ hồi sinh, tổn thất do tử vong của bạn sẽ giảm đáng kể, nhưng đồng thời phải trả một ít phí thuốc men cho bác sĩ。\n"
+3951|<O>| if (!objectp(item = present("Đá đúc kiếm", who, 1, MAX_CARRY)) || item->is_xuantieshi() != 1)
+3952|<O>| if (!objectp(item = present("Bào tử", who, 1, MAX_CARRY)) || item->is_legend_item() != 1)
+3953|<O>| if (objectp(item = present("Xuyên tâm liên", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3954|<O>| CHAR_CHAR_D->send_loop_perform(who, get_scene_object_2(who, USER_TYPE));    // Hiển thị hiệu ứng duy trì
+3955|<O>| "    Ta nghe nói chú Đinh ở Thanh Khê từng lấy được không ít linh thạch tại Thiên Trì Trường Bạch, nếu dùng những linh thạch đó làm đầu cho ta thì hẳn là rất tuyệt. Đáng tiếc ta không có chân, không thể đi tới đó. Nếu ngươi có thể giúp ta việc này, ta sẽ vô cùng cảm kích。\n"
+3956|<O>| if (objectp(item = present("Điều binh phù", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3957|<O>| result += sprintf("Mua tại thành này:%2d%%%%  Bán:%2d%%%%  Người ngoài mua:%2d%%%%  Bán:%2d%%%%  Chia lợi:%2d%%%%\n",
+3958|<O>| if (who->get_absorb_hp()) prop += ({ sprintf("Hút khí huyết:%+3d%%", who->get_absorb_hp()) });
+3959|<O>| if (!objectp(item = present("Lương khô", who, 1, MAX_CARRY)) || item->is_legend_item() != 1)
+3960|<O>| if (objectp(item = present("Bí đỏ lớn", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3961|<O>| case 2: result = sprintf("［Nhiệm vụ tung hoành］\n"BLK"Với tư cách là sứ giả của %s, đưa ra " HIR "cảnh cáo" BLK " với " HIR "%s" BLK "。\n",
+3962|<O>| result = sprintf( "%s" ESC "%s(%d cấp)\nNONE\n", result, file, who->get_skill(skill) );
+3963|<O>| /*-----------------------------------Ít dùng-------------------------------------------*/
+3964|<O>| if (objectp(item = present("Cứu cấp đan", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3965|<O>| if (objectp(item = present("Hoa hồng", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3966|<O>| tell_user(team, "Bạn dùng Thiên Nhãn thấy %s ở %s(%d,%d).", npc->get_name(), name, x, y);    // write_user
+3967|<O>| tell_user(who,"Thời gian hoạt động của trò chơi được thiết lập là:%s",short_time(set_party_time(year,mon,day,hour,min,sec)));
+3968|<O>| ret += CHAR_FIGHT_D->throwing_done(me, who, HIT_NONE); if (!who) return 2;    // Thực thi thành công
+3969|<O>| if (objectp(item = present("Nữ nhi hồng", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)

@@ -1,0 +1,49 @@
+4845|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 15\    Ăn mòn tâm trí, sau khi rơi vào trạng thái này mọi sát thương gây ra đều giảm 10％. Hiệu quả kéo dài 120 giây";
+4846|<O>| if ("sys/party/chongyang"->get_status() == 0) tell_user(me, "Hoạt động Tết Trùng Dương đang đóng");
+4847|<O>| tell_user(team, "Bạn dùng Thiên Nhãn nhìn thấy %s ở %s(%d,%d)。", monster[i]->get_name(), name, x, y);
+4848|<O>| case 4 : send_user( who, "%c%s", ':', sprintf( "%s:\nChúng ta đã tìm được %s rồi, không cần làm phiền bạn nữa。\n",
+4849|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 31, "Bệnh lạ của phu nhân（2）(hoàn thành)");
+4850|<O>| mpList[i] = (["time":60 * min, "msg" : arg, "count" : count]);	//Khoảng cách thời gian, tin nhắn, số lần
+4851|<O>| send_user(who, "%c%s", ';', "Tứ diện Sở ca（5） Kinh nghiệm 200500 Tiềm năng 2255 Tiền 200500 Bản vẽ Kỳ Lân Khôi 1");
+4852|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 49, "Di sản của ông nội（1）(hoàn thành)");
+4853|<O>| me->add_strength(-1);    // Thể lực -1, kinh nghiệm thư sinh +10, nhân ái +10, trí mưu +10, danh vọng +1, cống hiến quốc gia +1
+4854|<O>| return HIC+get_name()+"\nThú cưng có kỹ năng này, có thể dò ra mọi mục tiêu tàng hình trong phạm vi\n7×7 ô lấy bản thân thú cưng làm trung tâm, kỹ năng có thời gian đóng băng 20 giây";
+4855|<O>| if (pf_name == "Hái thuốc" || pf_name == "Thực tài") { me->set("time", 1 + random(3)); }
+4856|<O>| //	                                notify( "%s đang ở trong một đội khác。", who->get_name() );
+4857|<O>| send_user(team, "%c%c%d%s", 0x43, 7, 0, sprintf(WHT "Đội trưởng %s(%d) quyết định nhường vị trí cho %s(%d)。",
+4858|<O>| tmp += sprintf(ESC HIY "Dọn bãi\ntalk %x# welcome.1\n", getoid(this_object()));
+4859|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 35\n    Tuyệt kỹ kết thúc của Bá Vương Thương Pháp, tăng 30 điểm công kích, lập tức gây hai lần liên kích sát thương lên mục tiêu。";
+4860|<O>| return "Tín vật môn phái của Cấm Vệ Quân，\nvật dụng thiên tử nhà Chu dùng khi xuất chinh。\nNhấp chuột phải dùng có thể trực tiếp truyền tống về đại doanh Đại Chu。\nThời gian hồi:1 phút\nMỗi lần dùng tốn 50 vàng。";
+4861|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 35\n    Phóng kiếm khí, tăng 60 điểm công kích pháp thuật, đồng thời khiến mục tiêu bị choáng 3 giây。";
+4862|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 33\n    Tuyệt kỹ kết thúc của côn pháp, khi tấn công cộng thêm 25 điểm sát thương, đồng thời tạo hiệu quả bạo kích 100％。";
+4863|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHOUGUO, 8, "Tứ diện Sở ca（4）(hoàn thành)");
+4864|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 34, "Điều kiện trở thành thủ vệ(hoàn thành)");
+4865|<O>| if (sec == WAR_TIME - 600) NPC_BATTLE_D->war_end_notice(map);    // 10 phút cuối
+4866|<O>| send_user(who, "%c%c%d%s", '?', 1, 0, sprintf("Bạn muốn tiến cử ai làm phó thành chủ cho %s? Hãy nhập ID số của đối phương:\n"
+4867|<O>| result += sprintf(ESC "Truyền tống tới bản đồ PVP cấp 55~60\ntalk %x# welcome.2\n", getoid(me));
+4868|<O>| if (!MAP_D->is_inside_copy(z0) && (p = get_jumpout(z0, x, y))    // Nhảy sang cảnh khác
+4869|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 14, "Đại triển thần uy（4）(hoàn thành)");
+4870|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 62, "Chiếc giường đẹp（1）(hoàn thành)");
+4871|<O>| result += sprintf(ESC "Truyền tống tới bản đồ PVP cấp 65~70\ntalk %x# welcome.3\n", getoid(me));
+4872|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 1, 2,TID_VALENTINE,2,"Phi tặc quỷ dị(đã hoàn thành)" );
+4873|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 116, "Giao dịch của ông chủ tiệm cầm đồ");
+4874|<O>| result += sprintf(ESC "Truyền tống tới bản đồ PVP cấp 45~50\ntalk %x# welcome.1\n", getoid(me));
+4875|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHOUGUO, 5, "Mua hộp trả ngọc(4)(hoàn thành)");
+4876|<O>| ret = CHAR_FIGHT_D->attack_done(me, who, HIT_SPEAR, ADD_AP);    // Cẩn thận chuẩn bị me
+4877|<O>| //		result2 = sprintf(HIR"Người chơi %s"NOR" trong hoạt động Du Ngoạn Thất Quốc đã dùng Lệnh Thất Quốc đổi được "HIR, who->get_name());
+4878|<O>| tmp += sprintf(ESC HIY "Thư nhà\ntalk %x# welcome.1\n", getoid(this_object()));
+4879|<O>| result += sprintf("Binh chủng:%-4s  Số lượng:%4d  Trang bị:%4d  Huấn luyện:%4d  Sĩ khí:%4d  Cơ động:%4d", type,
+4880|<O>| tmp += sprintf(ESC HIY "Luyện dược\ntalk %x# welcome.8\n", getoid(this_object()));
+4881|<O>| send_user(user, "%c%c%c%w%w%s", 0x51, 1, 2, TID_HONGNIANG, 1, "Dạy dỗ kẻ bắt mối bá đạo(hoàn thành)");
+4882|<O>| who->add_strength(-1);    // Thể lực -1, kinh nghiệm quân quan +60, chính nghĩa +60, trung thành +1, dũng cảm +60, danh vọng +6
+4883|<O>| //        	send_user( me, "%c%w%w", 0x50, 0xffff,THIS_PERFORM);	//Hủy hiển thị lệnh bắt giữ
+4884|<O>| //		send_user( who, "%c%c%c%w%w%s", 0x51, 1, 2,TID_WUYIHUODONG,1,"Xuyên Việt Cực Hạn" );
+4885|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 18\n    Phóng kiếm khí, tăng 40 điểm công kích pháp thuật, đồng thời khiến mục tiêu rơi vào trạng thái trì trệ trong 6 giây。";
+4886|<O>| send_user(me, "%c%c%s", 0x59, 1, sprintf("Trên người ngươi đã có một viên Thiên Nguyên Đan đang phát huy tác dụng, ngươi xác định muốn ghi đè hiệu quả của nó chứ?\n"
+4887|<O>| log_file(CHANNEL_LOG, sprintf("%s %s(%d)%s mở kênh rumor của %s(%d)%s。(GM)\n",
+4888|<O>| send_user(who, "%c%s", ':', "Bạn muốn để " + me->get_name() + " ban bố pháp lệnh gì?(tiêu hao 50 thể lực)\n"
+4889|<O>| tmp += sprintf(ESC HIY "Nhị hồ\ntalk %x# welcome.8\n", getoid(this_object()));
+4890|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    Rời khỏi “%s” sẽ mất toàn bộ kỹ năng sư môn, bạn đã nghĩ kỹ chưa?\n"
+4891|<O>| result += sprintf(ESC "Truyền tống tới bản đồ PVP cấp 85~90\ntalk %x# welcome.5\n", getoid(me));
+4892|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHOUGUO, 4, "Mua hộp trả ngọc(3)(hoàn thành)");
+4893|<O>| tmp += sprintf(ESC HIY "Bái phỏng sư gia\ntalk %x# visit.3\n", getoid(this_object()));

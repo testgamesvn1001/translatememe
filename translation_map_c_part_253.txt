@@ -1,0 +1,58 @@
+﻿8432|<O>| result = sprintf("你是否要使用%s开启一个永久的背包空间？\n", item->get_name());
+8433|<O>| /*              else if( p < 4790 * rate / 100 )    // 武器(基本)
+8434|<O>| /*              else if( p < 2783 * rate / 100 )    // 武器(基本)
+8435|<O>| /*              else if( p < 9040 * rate / 100 )    // 防具(基本)
+8436|<O>| || get_effect(who, EFFECT_CHAR_CHAOS_0)) return 2;    // 执行成功
+8437|<O>| /*              else if( p < 5902 * rate / 100 )    // 防具(基本)
+8438|<O>| /*              else if( p < 5580 * rate / 100 )    // 防具(基本)
+8439|<O>| send_user(who, "%c%s", ';', "求份差事 经验 48000 潜能 610 金钱 45000");
+8440|<O>| private static object MainEnemy = 0;    // 最重要的敌人:NPC 优先的攻击对象
+8441|<O>| /*              else if( p < 2553 * rate / 100 )    // 防具(基本)
+8442|<O>| /*              else if( p < 2537 * rate / 100 )    // 防具(基本)
+8443|<O>| /*              else if( p < 9478 * rate / 100 )    // 防具(门派)
+8444|<O>| /*              else if( p < 6254 * rate / 100 )    // 防具(基本)
+8445|<O>| /*              else if( p < 3300 * rate / 100 )    // 武器(基本)
+8446|<O>| /*              else if( p < 3580 * rate / 100 )    // 防具(基本)
+8447|<O>| /*              else if( p < 5614 * rate / 100 )    // 防具(基本)
+8448|<O>| send_user(who, "%c%s", ';', "明辨是非 经验 65000 潜能 780 金钱 51000");
+8449|<O>| /*              else if( p < 8938 * rate / 100 )    // 武器(基本)
+8450|<O>| /*              else if( p < 5803 * rate / 100 )    // 武器(基本)
+8451|<O>| /*              else if( p < 9207 * rate / 100 )    // 武器(基本)
+8452|<O>| /*              else if( p < 9049 * rate / 100 )    // 武器(基本)
+8453|<O>| private static mapping Database2 = ([]);       // 普通数据集(多层结构)
+8454|<O>| /*              else if( p < 4440 * rate / 100 )    // 防具(门派)
+8455|<O>| /*              else if( p < 5771 * rate / 100 )    // 防具(基本)
+8456|<O>| /*              else if( p < 2954 * rate / 100 )    // 武器(基本)
+8457|<O>| /*              else if( p < 4664 * rate / 100 )    // 武器(基本)
+8458|<O>| /*              else if( p < 5100 * rate / 100 )    // 武器(门派)
+8459|<O>| /*              else if( p < 5002 * rate / 100 )    // 防具(基本)
+8460|<O>| ESC"离开", id, id, id, id, id, id, id, id, id, id, id, id, ) );
+8461|<O>| /*              else if( p < 1010000 * rate / 100 )    // 杂物５
+8462|<O>| /*              else if( p < 3003 * rate / 100 )    // 武器(基本)
+8463|<O>| "Intel(R) Xeon(TM) CPU 2.80GHz i3867d405c310c09f6d68d5",	//四川
+8464|<O>| /*              else if( p < 3004 * rate / 100 )    // 武器(基本)
+8465|<O>| || get_effect(who, EFFECT_CHAR_NO_PF_0)) return 2;    // 执行成功
+8466|<O>| /*              else if( p < 2642 * rate / 100 )    // 武器(基本)
+8467|<O>| if (err = catch (obj = new(get_file_name(obj))))    // 复制指定物体
+8468|<O>| /*              else if( p < 5197 * rate / 100 )    // 武器(基本)
+8469|<O>| if( objectp( soldier = who->get("soldier") ) )    // 对其它天兵有敌意
+8470|<O>| send_user(who, "%c%s", ';', "官府备案 经验 73000 潜能 910 金钱 63000");
+8471|<O>| send_user(who, "%c%s", ';', "除掉骗子 经验 72000 潜能 900 金钱 61000");
+8472|<O>| /*              else if( p < 6814 * rate / 100 )    // 武器(基本)
+8473|<O>| /*              else if( p < 8944 * rate / 100 )    // 防具(基本)
+8474|<O>| /*              else if( p < 3500 * rate / 100 )    // 武器(门派)
+8475|<O>| /*              else if( p < 4993 * rate / 100 )    // 武器(基本)
+8476|<O>| /*              else if( p < 3206 * rate / 100 )    // 防具(基本)
+8477|<O>| /*              else if( p < 3080 * rate / 100 )    // 防具(基本)
+8478|<O>| /*              else if( p < 6254 * rate / 100 )    // 武器(基本)
+8479|<O>| /*              else if( p < 4677 * rate / 100 )    // 武器(门派)
+8480|<O>| /*              else if( p < 4860 * rate / 100 )    // 防具(门派)
+8481|<O>| /*              else if( p < 2579 * rate / 100 )    // 武器(基本)
+8482|<O>| send_user(who, "%c%s", ';', "上奏韩王 经验 36000 潜能 520 金钱 35000");
+8483|<O>| if (objectp(item = present("勇敢的双子", me, 1, MAX_CARRY * 4))) {
+8484|<O>| /*              else if( p < 5286 * rate / 100 )    // 武器(基本)
+8485|<O>| ESC "离开", me->get_name(), team[0]->get_name(),getoid(me) ) );
+8486|<O>| /*              else if( p < 7412 * rate / 100 )    // 武器(基本)
+8487|<O>| return desc = "给召唤兽食用的一种果子，每食用一次，宠物寿命增加\n当前寿命的10，并且有1％几率中毒。";
+8488|<O>| /*              else if( p < 3029 * rate / 100 )    // 武器(基本)
+8489|<O>| /*              else if( p < 5260 * rate / 100 )    // 防具(门派)

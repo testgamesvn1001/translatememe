@@ -1,0 +1,49 @@
+5041|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 24, "Tiếng vọng trong sơn cốc(hoàn thành)");
+5042|<O>| buf = sprintf("Nghe nói thương nhân du hành sẽ mang theo bảo vật thần bí xuất hiện ở khu vực %s (bản đồ) XXX (%d,%d) sau 5 phút nữa, hì hì～～ người thường ta còn chẳng thèm nói đâu!",
+5043|<O>| //		tmp = sprintf(ESC"Trận chiến chính nghĩa\ntalk %x# welcome.1\n",getoid(this_object()));
+5044|<O>| send_user(owner, "%c%s", '!', "Độ trung thành của thú cưng " + me->get_name() + " của bạn đã đạt mức tối đa 100");
+5045|<O>| if ((id = me->get("task")) && (id == who->get_number()))//Chính người chơi đã thả cướp ra giết nó.
+5046|<O>| result = sprintf("%s:\n    Tài chính bang phái không đủ %d。\n", who->get_name(), 50000 * level);
+5047|<O>| //        send_user( me, "%c%w%c%w", 0x50, 0, 0xff, 2 );    // Tất cả chiêu thức 2 giây sau có thể dùng
+5048|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 50, "Tết Trùng Dương（1）(hoàn thành)");
+5049|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 20, "Mê hồn ở đường Thương Ngô(hoàn thành)");
+5050|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 1, 2, TID_CRIMINAL, 1, "Tiễu diệt tù phạm bỏ trốn(đã hoàn thành)");
+5051|<O>| case "buy2": keyH = "$buy2$H";  keyL = "$buy2$L";  break;    // Tiền mua đồ(lập sạp)
+5052|<O>| result += sprintf(ESC "Nhận nhiệm vụ xây dựng。(%s %d%%)\ntalk %x# build\n", name, p, id);
+5053|<O>| sprintf(ESC + HIY + "Dò hỏi tin tức\ntalk %x# welcome.1\n", getoid(this_object()));
+5054|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 66, "Tình người ấm lạnh（1）(hoàn thành)");
+5055|<O>| write_user(who, ECHO "%s(%d) đã thêm bạn làm bạn tốt。", me->get_name(), me->get_number());
+5056|<O>| if (!who->can_be_fighted(me) || !me->can_fight(who)) return 2;    // Thực thi thành công
+5057|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 1, 2, TID_DAPANG, 1, "Giết 20 con " + tmp1);
+5058|<O>| send_user(who, "%c%s", '!', sprintf("Độ thuần thục %s của bạn không đủ %d!", PF_NAME, SKILL_EXP));
+5059|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 28, "Quỷ hỏa trong sơn đạo(hoàn thành)");
+5060|<O>| if( distance_between(me, who) >= 25 && me->get_action()!=0 )    // Trở về bên chủ nhân
+5061|<O>| send_user(who, "%c%s", ';', "Tình yêu của võ sĩ（3） Kinh nghiệm 20000 Tiềm năng 290 Tiền 20000 Bản vẽ Hỗn Thiên Quan 1");
+5062|<O>| if (level >= 30) TEAM_D->check_bonus_task(me->get_leader());    // Kiểm tra có dẫn người mới không
+5063|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 7, "Sứ giả bộ tộc Cô Trúc（2）(hoàn thành)");
+5064|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHOUGUO, 11, "Thẻ tre bị mất(hoàn thành)");
+5065|<O>| send_user(who, "%c%s", ';', "Yêu trong hũ và tiên trong hũ Kinh nghiệm 83000 Tiềm năng 1040 Tiền 72000 Bản vẽ Quy Nguyên Đan 1");
+5066|<O>| who->add_strength(-10);    // Thể lực -10, kinh nghiệm quân quan +1, chính nghĩa +1, trung thành +1, dũng cảm +1, danh vọng +1
+5067|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 3, "Tình khóa Tần cung（1）(hoàn thành)");
+5068|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 45, "Nỗi phiền não do kiến mang tới");
+5069|<O>| if (!who->can_be_fighted(me) || !me->can_fight(who)) return 0;    // Thực thi thành công
+5070|<O>| if ( me->get("no_fight")||owner->get("no_fight")) notify( "Hai người các ngươi không thể phát sinh chiến tranh" );
+5071|<O>| set_effect_2(who, EFFECT_USER_BURN, (ADD_INTERVAL) / 3, 3);    // Cẩn thận chuẩn bị me
+5072|<O>| tell_user(me, "Hãy kiểm tra /log/make/ và tọa độ trong /log/list.txt, danh sách trong list2.txt (tọa độ).");
+5073|<O>| lefttime = 2400 - gone_time( who->get_quest("escort.time") );    // 40 phút
+5074|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 1, 2, TID_HONGNIANG, 1, "Dạy dỗ kẻ bắt mối bá đạo(hoàn thành)");
+5075|<O>| set_effect_2(who, EFFECT_USER_BURN, (ADD_INTERVAL) / 2, 2);    // Cẩn thận chuẩn bị me
+5076|<O>| } else if(rate < 9946 ) {	//	ii.	Xác suất 40 rơi ra ngẫu nhiên 1 viên tinh thạch cấp 1	//8-23	x.	Xác suất 5 rơi ra ngẫu nhiên 1 viên tinh thạch cấp 1
+5077|<O>| log_file(CHANNEL_LOG, sprintf("%s %s(%d)%s mở kênh chat của %s(%d)%s。(GM)\n",
+5078|<O>| //               		tmp += sprintf(ESC "Xẻng sắt hư hỏng\ntalk %x# welcome.3\n",id) ;
+5079|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 37, "Khóa đồng tâm（2）(hoàn thành)");
+5080|<O>| send_user(me, "%c%c%d%s", '?', 16, 16, sprintf("Tìm người chơi cùng IP。\n\nHãy nhập IP của đối phương:\n"
+5081|<O>| send_user(me, "%c%c%d%s", '?', 16, 16, sprintf("Thiết lập trị số NPC。\n\nHãy nhập ID của NPC:\n"
+5082|<O>| CHAT_D->sys_channel(0, HIY"Với nỗ lực chung của mọi người, đã thành công tiêu diệt phi tặc cướp bảo. Sau khi chịu không ít đau khổ, có lẽ đám phi tặc đó sẽ không dám xuất hiện nữa。");
+5083|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHOUGUO, 103, "Bản đồ cơ quan bí mật(hoàn thành)");
+5084|<O>| result = get_name() + ":\n    Bạn xác định muốn giải trừ đóng băng kinh nghiệm gấp đôi bây giờ chứ? Dĩ nhiên, nếu cần đóng băng kinh nghiệm gấp đôi thì bất cứ lúc nào cũng có thể quay lại tìm ta。\n";
+5085|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 29, "Nan y tạp chứng（3）");
+5086|<O>| //			send_user( who, "%c%c%c%w%s", 0x51, 1, 1,TID_MASTERFIGHT,"Nhiệm vụ khiêu chiến sư môn" );
+5087|<O>| send_user(who, "%c%s", ':', me->get_name() + ":\nBạn muốn đặt lương cho ai?(tiêu hao 50 thể lực)\n" +
+5088|<O>| send_user( team[1], "%c%c%c%w%w%s", 0x51, 1, 2,TID_QIXI,12,"Thất Tịch trời ban kỳ duyên（3）" );
+5089|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_NEWBIE_01,20,"Trừng trị ác tướng(hoàn thành)" );

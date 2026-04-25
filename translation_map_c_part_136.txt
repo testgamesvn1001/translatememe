@@ -1,0 +1,34 @@
+2772|<O>| "Trung Nguyên Bí Đạo" : ({ 525, 107, 81 }), "Tung Sơn Bí Đạo" : ({ 524, 37, 125 }), "Mạnh Tân" : ({ 517, 254, 160 }), "Hoằng Nông" : ({ 516, 294, 124 }),
+2773|<O>| //		send_user(who, "%c%s", ':', sprintf("%s:\nKẻ chuột nhắt phương nào, dám đến địa bàn bổn môn giương oai！\n%s:Ông đây đứng đây cản ngươi à？Muốn ăn đòn～", who->get_name(), get_name() ) );
+2774|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Xem ra ngươi vẫn không được rồi！\n"ESC"Rời khỏi", me->get_name()));
+2775|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ta khuyên ngươi vẫn nên về nhà đi！\n"ESC"Rời khỏi", me->get_name()));
+2776|<O>| CHAT_D->sys_channel(0, sprintf(HIY"%s"HIG" người chơi vì dũng mãnh giết BOSS nên đặc biệt nhận được phần thưởng của Chu Vương "HIY"%s"HIG"！", who->get_name(), item->get_name()));
+2777|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Đá thí luyện của ngươi đâu？\n"ESC"Rời khỏi", me->get_name(), ));
+2778|<O>| send_user(player,"%c%c%w%s",':',3,npc->get_char_picid(),npc->get_name()+":\n"+"    Rất xin lỗi, hình như ngươi không bắt được nguyệt thỏ。\n"+ESC"Xác định\n");
+2779|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Thế đạo này thật là loạn quá！\n"ESC"Rời khỏi", me->get_name()));
+2780|<O>| send_user(who, "%c%s", ':', me->get_name() + ":\n    "HIR + player->get_name() + NOR" trong đội ngươi không có mặt tại hiện trường, không thể báo danh。\n"ESC"Rời khỏi");
+2781|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng:18 cấp\Tiêu hao đạo cụ:3 lá bùa giấy\nn    Triệu gọi hỏa long liệt diễm thiêu đốt kẻ địch không thương tiếc, tăng 30 điểm công pháp thuật, khiến địch rơi vào trạng thái thiêu đốt trong 12 giây. Trong trạng thái thiêu đốt, cứ mỗi 3 giây ít nhất chịu 30 điểm sát thương。";
+2782|<O>| //				send_user( nPlayer, "%c%c%d%s", 0x43, 10, 0, sprintf(HIR"Chủ tướng quân Triệu Liêm Pha đã bị quân Tần đánh bại！Trận Trường Bình kết thúc với chiến thắng của quân Tần, sau %d giây mọi người sẽ quay về nước Chu。",count));
+2783|<O>| log_file(LIST_LOG, sprintf(htm, name, level, "Nam、Nữ", "Đường Môn<BR>Vân Mộng Trạch", dp, pp, lasting / 100, lasting / 100, value));
+2784|<O>| if (type == 2) USER_D->user_channel(sprintf("Chúc mừng người chơi %s mở rương báu nhận được phần thưởng "HIR" %s "NOR"，hãy cùng chúc mừng cho họ！", me->get_name(), name));
+2785|<O>| if (arg != "Yên" && arg != "07") result += sprintf("Yên:(%d)%s  ", city->get_friend(7), city->get_relation_name(7));
+2786|<O>| if (arg != "Triệu" && arg != "03") result += sprintf("Triệu:(%d)%s  ", city->get_friend(3), city->get_relation_name(3));
+2787|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Tốt lắm tốt lắm, người trẻ tuổi, ngươi đủ gan, đủ liều, đủ tinh, tự nghĩ xem còn thiếu gì đi, nghĩ xong rồi lại tới tìm ta，"
+2788|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), "Như Ý Tiên Tử:\n    Vật phẩm trên người ngài hình như hơi nhiều rồi, trước tiên hãy tới cửa hàng dọn bớt túi rồi quay lại chỗ tỷ tỷ nhận quà nhé～", );
+2789|<O>| //				send_user( nPlayer, "%c%c%d%s", 0x43, 10, 0, sprintf(HIR"Chủ tướng quân Tần Bạch Khởi đã bị quân Triệu đánh bại！Trận Trường Bình kết thúc với chiến thắng của quân Triệu, sau %d giây mọi người sẽ quay về nước Chu。",count));
+2790|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nTiêu hao pháp lực:%d điểm\nThời gian hồi:%d giây\n    Hy sinh triệu hoán thú của chính mình, đồng thời tất cả thành viên trong đội trong phạm vi 21×21 đều có thể nhận được lượng khí huyết bằng 25％ tổng khí huyết của nó。",
+2791|<O>| if (arg != "Sở" && arg != "06") result += sprintf("Sở:(%d)%s  ", city->get_friend(6), city->get_relation_name(6));
+2792|<O>| else if (sizeof_range_object(z, x, y, 1, CHAR_TYPE) + sizeof_range_object(z, x, y, 1, USER_TYPE) < 9)    // Đi loạn ngẫu nhiên
+2793|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Đã nghĩ xong tên chưa？\n"ESC"Rời khỏi", me->get_name()));
+2794|<O>| return ({ "Nước Tề", "Nước Hàn", "Nước Triệu", "Nước Ngụy", "Nước Tần", "Nước Sở", "Nước Yên", "Nước Chu", "Thôn Tân Thủ", "Đào Hoa Nguyên", "Thục Sơn", "Đường Môn", "Côn Lôn Sơn", "Mao Sơn", "Vân Mộng Trạch","Cấm Vệ Quân" });
+2795|<O>| FAMILY_D->family_channel(result, 0, sprintf(HIY "%s(%d) quyết định đầu nhập môn hạ “%s”。", me->get_name(), me->get_number(), result));
+2796|<O>| log_file("buycard.dat", sprintf("%s %s(%d) mua thẻ điểm tiêu tốn %d thất bại\n", short_time(), me->get_id(), me->get_number(), price));
+2797|<O>| log_file(LIST_LOG, sprintf(htm, name, level, "Nam、Nữ", "Mao Sơn<BR>Côn Lôn Sơn", dp, pp, lasting / 100, lasting / 100, value));
+2798|<O>| log_file("buycard.dat", sprintf("%s %s(%d) mua thẻ điểm tiêu tốn %d thành công\n", short_time(), me->get_id(), me->get_number(), price));
+2799|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nTiêu hao đạo cụ: Thần Nông Bảo Điển\nTiêu hao pháp lực:%d điểm\nThời gian hồi:%d giây\n    Cường hóa Kim Châm Độ Ách, đồng thời thi triển pháp thuật Kim Châm Độ Ách lên toàn bộ thành viên trong đội trong phạm vi tầm nhìn。\n",
+2800|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nTiêu hao đạo cụ: Thần Nông Bảo Điển\nTiêu hao pháp lực:%d điểm\nThời gian hồi:%d giây\n    Cường hóa Ngân Châm Độ Ách, đồng thời thi triển pháp thuật Ngân Châm Độ Ách lên toàn bộ thành viên trong đội trong phạm vi tầm nhìn。\n",
+2801|<O>| log_file(LIST_LOG, sprintf(htm, name, level, "Nam、Nữ", "Đường Môn<BR>Vân Mộng Trạch", ap, cp, lasting / 100, lasting / 100, value));
+2802|<O>| if (arg != "Tề" && arg != "01") result += sprintf("Tề:(%d)%s  ", city->get_friend(1), city->get_relation_name(1));
+2803|<O>| if (arg != "Ngụy" && arg != "04") result += sprintf("Ngụy:(%d)%s  ", city->get_friend(4), city->get_relation_name(4));
+2804|<O>| #define ADD_POISON      me->get_pf_value_2(THIS_SKILL, SKILL_LEVEL_SQUARE, poison, 100)    // Cảnh báo:me, poison cần chuẩn bị sẵn
+2805|<O>| if (arg != "Tần" && arg != "05") result += sprintf("Tần:(%d)%s  ", city->get_friend(5), city->get_relation_name(5));

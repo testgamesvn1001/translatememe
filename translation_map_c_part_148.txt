@@ -1,0 +1,38 @@
+3201|<O>| else    result = sprintf("%s ở rất xa khu trung tâm của %s。", map->get_name(), PF_NO_00031->get_direction(x0, y0, x, y));
+3202|<O>| send_user(me, "%c%s", ':', "Ngài muốn sửa giá trị nào trong công thức của " + get_type_word(type2) + " thuộc " + get_fam_word(index) + "？\n"
+3203|<O>| if (who->get_anti_hurt_rate_2()) prop += ({ sprintf("Miễn sát thương pháp thuật:%+3d%%", who->get_anti_hurt_rate_2()) });
+3204|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Cảm ơn ngươi đã giúp ta hái dưa hấu！Xin hãy chọn phần thưởng ngươi muốn。\n"
+3205|<O>| //              who->add_strength(-1);    // Thể lực -1, kinh nghiệm quân quan +60, chính nghĩa +60, trung thực +1, dũng cảm +60, danh vọng +6, cống hiến quốc gia +1
+3206|<O>| send_user(me, "%c%w%w%c%c%c%c%c%s", 0x64, THIS_PERFORM, SUB_MP, 0, 1, MAGIC_ACT_BEGIN, 0, 2, "Bùa giấy");
+3207|<O>| send_user(me, "%c%c%d%s", '?', 1, me->get_max_skill_level_2(), sprintf("Tạo kỹ năng và trang bị “%s”。\n\nXin hãy nhập cấp kỹ năng:\n"
+3208|<O>| result = sprintf("%s:\n    Ta đang dốc toàn lực gia cố công trình phòng ngự của bang, đại nhân chỉ cần chờ thêm %d giây nữa là có thể thấy kết quả。\n", who->get_name(), time - time()));
+3209|<O>| default: send_user(who, "%c%s", ':', sprintf("%s:\nTa muốn đổi một lô khác！Lần này phát tài rồi, hê hê hê……(vốn %+d)", me->get_name(), p));
+3210|<O>| FAMILY_D->org_channel(name, 0, sprintf(HIR "Kẻ phá rối đang tiến hành phá hoại, mức độ hư hại hiện tại của bang là:%d/100。", orgnpc->get_wardamage()));
+3211|<O>| case 6: send_user(who, "%c%s", ':', sprintf("%s:\nA, trong thành vừa hay có một lượng lớn lương thảo quân đội……kiếm bộn rồi。(lương thảo %+d)", me->get_name(), p));
+3212|<O>| #define SUB_EFFECT_AP   me->get_pf_value_2(THIS_SKILL, SKILL_LEVEL_SQUARE, 80, 30)    // Cảnh báo:me cần chuẩn bị sẵn
+3213|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nTiêu hao pháp lực:%d điểm\nThời gian hồi:%d giây\n    Chiêu thức chí mạng tương truyền có thể nhiếp hồn đoạt phách, sau khi đánh trúng mục tiêu sẽ khiến hắn rơi vào trạng thái đóng băng 6 giây。\n",
+3214|<O>| result = sprintf("Người chơi:%s(%d)  Bang phái:%s  %s\n", who->get_name(), who->get_number(), who->get_org_name(),
+3215|<O>| //			send_user(who,"%c%s",':',me->get_name()+":\n    Trong đội ngươi có người còn nhỏ tuổi, chưa phù hợp tham gia Trường Bình Chiến, đợi hắn sau cấp 40 rồi hãy tới！\n"ESC"Rời khỏi");
+3216|<O>| send_user(who, "%c%s", ':', me->get_name() + ":\n    Ngươi còn nhỏ tuổi, chưa thích hợp tham gia Trường Bình Chiến, đợi sau cấp 40 hãy quay lại！Ha ha ha ha。\n"ESC"Rời khỏi");
+3217|<O>| send_user(me, "%c%c%d%c", 0xA2, 6, who->get_number(), who->get_save_2("online_rank.level"));	// Cấp tu vi
+3218|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Tiểu hữu đã giúp ta tìm được Trùng Dương tứ bảo rồi sao？Thật cảm ơn ngươi quá！\n"
+3219|<O>| send_user(me, "%c%w%w%c%c%c%c%c%s", 0x64, THIS_PERFORM, SUB_MP, 1, 1, MAGIC_ACT_BEGIN, 0, 5, "Trận kỳ");
+3220|<O>| ret += sprintf("%sMũ Mãnh Hổ\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"猛虎帽冠"))?PPM:WHT);
+3221|<O>| #define ADD_AP          me->get_pf_value_2(THIS_SKILL, SKILL_LEVEL_SQUARE, 36, 80)    // Cảnh báo:me cần chuẩn bị sẵn
+3222|<O>| send_user(who, "%c%s", ';', sprintf("Di sản của tổ phụ（4）  Kinh nghiệm 160000  Tiềm năng 2000  Tiền 150000  %s 1", tmp->get_name()));
+3223|<O>| case 1: send_user(who, "%c%s", ':', sprintf("%s:\nVậy sao？Thật có chuyện đó à？Tối nay ta sẽ đi xem thử……(thành phòng %+d)", me->get_name(), p));
+3224|<O>| result = sprintf(me->get_name() + ":\n    Ngươi muốn tới bản đồ luyện cấp từ cấp 105 đến dưới cấp 110 sao？Nào, chọn đi！Nhấn Alt+M có thể xem chủng loại quái cụ thể ở những bản đồ này đó。\n");
+3225|<O>| if( is_god(me) ) tell_user( me, "r%s thi pháp-> %s, trúng:%d thất bại", me->get_name(), who->get_name(), rate );
+3226|<O>| send_user(who, "%c%s", ';', sprintf("Bảo thạch hoàn mỹ（4）  Kinh nghiệm 200000  Tiềm năng 2250  Tiền 200000  %s 1", tmp->get_name()));
+3227|<O>| ret += sprintf("%sNgoại tình\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"婚外情"))?PPM:WHT);
+3228|<O>| if (!arrayp(team = who->get("pending_fly")) || member_array(me, team) == -1) return 1;    // Chủ nhân không ghi lại
+3229|<O>| #define ADD_INTERVAL    me->get_pf_value(THIS_SKILL, SKILL_LEVEL_SQUARE, 30, 200)    // Cảnh báo:me cần chuẩn bị sẵn
+3230|<O>| //                        log_file("test", sprintf("%s %s rời khỏi cảnh\n", short_time(), who->get_name()));
+3231|<O>| return "Tê ngưu là một trong những kỵ sủng xuất sắc nhất của dòng cưỡi trong Đại Thoại Chiến Quốc，\nngoại hình uy mãnh thần vũ, khi chạy khí thế hùng tráng，\nchiếc sừng xanh lam sáng lấp lánh\nđối lập rõ rệt với làn da màu đồng cổ，xứng đáng là\nbá chủ của thế hệ kỵ sủng mới！Thời hạn sử dụng là 300 ngày。";
+3232|<O>| #define SUB_MP          me->get_pf_value(THIS_SKILL, SKILL_LEVEL_SQUARE, 3, 1300)    // Cảnh báo:me cần chuẩn bị sẵn
+3233|<O>| if( is_god(me) ) tell_user( me, "r%s ám khí-> %s, trúng:%d thất bại", me->get_name(), who->get_name(), rate );
+3234|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), me->get_name() + ":\n    Ngươi đã nhận gói VIP dùng thử rồi。");
+3235|<O>| //      send_user( who, "%c%s", ':', sprintf( "%s:\nAi, chuyện nhỏ thế này cũng làm không xong, sau này sao gánh đại sự được？！\n", me->get_name() ) );
+3236|<O>| CHAT_D->sys_channel(0,HIY"Chúc các vị người chơi Quốc Khánh vui vẻ, trong ngày hội vui mừng khắp cả nước này, Đại Thoại Chiến Quốc cũng tổ chức hoạt động kéo dài 7 ngày, để hành trình Chiến Quốc của bạn không bao giờ buồn tẻ. Hoạt động đặc sắc sắp bắt đầu, xin mọi người chú ý！");
+3237|<O>| write_user(who, ECHO "Ngươi lấy %s giao dịch %s(%d) %s。", result[1], me->get_name(), me->get_number(), result[0]);
+3238|<O>| if (iBagTime - time() > 24 * 3600) cmd2 = sprintf("Thời hạn sử dụng còn %d ngày", (iBagTime - time()) / (24 * 3600));

@@ -1,0 +1,37 @@
+3052|<O>| default: result = sprintf("［Nhiệm vụ ngoại giao］\n"BLK"còn %d phút\n" BLK "Lấy thân phận sứ giả %s tiến hành ngoại giao " HIR "hữu hảo" BLK " với " HIR "%s" BLK "。\n",
+3053|<O>| result = sprintf("［Nhiệm vụ xây dựng］\n"BLK"còn %d phút\n" BLK "Tới chỗ quan tài chính giúp " HIR "tính sổ mấy ngày" BLK "。\n", (2400 - iTaskTime) / 60);
+3054|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nTiêu hao đạo cụ: Mê Thần Tán\nTiêu hao pháp lực:%d điểm\nThời gian hồi:%d giây\n    Rắc bột thôi miên lên người địch, có thể khiến hắn rơi vào trạng thái mộng du trong 30 giây。",
+3055|<O>| send_user(who, "%c%s", ':', me->get_name() + ":\n    Tạm thời xin đừng quấy rầy ta, ta đang suy ngẫm một triết lý nhân sinh rất cao thâm. Đợi ngươi lấy được linh thạch rồi hãy quay lại tìm ta！\n"ESC"Rời khỏi");
+3056|<O>| see = get_range_object(z, x, y, 10, USER_TYPE) + get_range_object(z, x, y, 10, CHAR_TYPE);    // Phạm vi nhìn thấy của thiên binh
+3057|<O>| _DEBUG(sprintf("DEBUG -- trả về một chu kỳ thời gian tương đối %d", tmp_time + class_cycle_time[time_be_check[max_unit][2] + 1]));
+3058|<O>| //		                if( ( iFlag = 1800 - gone_time( who->get_quest("thief.time") ) ) > 0 )    // 15 phút
+3059|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nThời gian hồi:%d giây\n    Chỉ có thể sử dụng kỹ năng này khi sinh mệnh thấp hơn 70％. Tức thì khôi phục toàn bộ nguyên khí, hủy toàn bộ thời gian hồi của các kỹ năng hiện tại。",
+3060|<O>| send_user(me, "%c%c%c%w%w%w%c%s", 0xa5, 5, 3, 00031, 00032, 00041, 4, "Truy tra Một số kỹ năng mà người chơi bắt buộc phải dùng khi làm nhiệm vụ sứ mệnh và nhiệm vụ sư gia。");
+3061|<O>| result = sprintf("Ngươi nhận được kinh nghiệm %d, tiềm năng %d, tiền %d, cống hiến bang phái %d điểm, độ nổi tiếng bang tăng 1 điểm, độ an định tăng 1 điểm。\n", exp, pot, cash, 1 + order * 2 / 9);
+3062|<O>| "Quấy nhiễu bách tính, thật là đại họa. Hiện giờ quân đội nước ta không rảnh để để ý bọn thổ phỉ đó, việc này phải xem ngươi có thể vận dụng mưu lược, giết mỗi loại 8 tên canh giữ của Địa Sát Môn và Thái Cực Môn, 10 Kim Tinh ở Hư Lăng Động, 4 Đao Hồn, rồi toàn thân rút lui hay không. Đợi sau khi ngươi thành công, hãy đi tìm lão Tề quản gia, đồng thời nói với hắn，"
+3063|<O>| ret += sprintf("%sHài Bạch Lang\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"白狼之靴"))?PPM:WHT);
+3064|<O>| ret += sprintf("%sGiáp Liệp Báo\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"猎豹披风"))?PPM:WHT);
+3065|<O>| result = sprintf("Ngươi nhận được kinh nghiệm %d, tiềm năng %d, tiền %d, cống hiến bang phái %d điểm, độ nổi tiếng bang tăng 2 điểm, độ an định tăng 2 điểm。\n", exp, pot, cash, 1 + order * 2 / 9);
+3066|<O>| //			                if( ( time = 1800 - gone_time( who->get_quest("thief.time") ) ) > 0 )    // 15 phút
+3067|<O>| send_user(me, "%c%w%w%c%c%c%c%c%s", 0x64, THIS_PERFORM, SUB_MP, 0, 10, MAGIC_ACT_BEGIN, 0, 5, "Thần Nông Bảo Điển");
+3068|<O>| if (get_effect(me, EFFECT_CHAR_INVISIBLE)) set_effect_2(me, EFFECT_CHAR_INVISIBLE, 1, 1);    // Ẩn thân(gián đoạn)
+3069|<O>| ret += sprintf("%sĐèn giao thông\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"红绿灯"))?PPM:WHT);
+3070|<O>| CHAT_D->sys_channel(0, sprintf(HIG"Chúc mừng "HIY"%s"HIG" trở thành Tân Nhân Vương Chiến Quốc, mong rằng "HIY"%s"HIG" sẽ có biểu hiện càng xuất sắc hơn trong thế giới Chiến Quốc！", file, file));
+3071|<O>| send_user(me, "%c%s", '!', "Ngươi không phải người chơi của " + item->get_family_name() + "，không thể lĩnh hội áo nghĩa của " + item->get_name() + "。");
+3072|<O>| ret += sprintf("%sMũ Tuyết Điêu\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"雪雕羽帽"))?PPM:WHT);
+3073|<O>| send_user(who, "%c%c%w%s", ':', 3, 6010, sprintf("%s:\n    Ngươi đã đăng ký tham gia hoạt động thành công, xin chờ thông báo liên quan。\n", me->get_name()));
+3074|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    Hàng hóa đâu？Tìm được chưa？Chắc chắn nó ở trên thành Sở Phương！Tìm cho ta tử tế vào！！\n"ESC"Rời khỏi", me->get_name()));
+3075|<O>| ret += sprintf("%sCó 3 loại tình\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"有三情"))?PPM:WHT);
+3076|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi xác định muốn dùng một quả cầu đen và một quả cầu lam để đổi 2 tấm bảo đồ không？\n"
+3077|<O>| case 2: result = sprintf("［Nhiệm vụ ngoại giao］\n"BLK"còn %d phút\n" BLK "Lấy thân phận sứ giả %s tiến hành ngoại giao " HIR "gây thù" BLK " với " HIR "%s" BLK "。\n",
+3078|<O>| ret += sprintf("%sGiáp Cự Tượng\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"巨象盔甲"))?PPM:WHT);
+3079|<O>| send_user(me, "%c%c%d%s", '?', 16, 60, "Xin hãy nhập thời gian bắt đầu và kết thúc hoạt động（ví dụ:20070315-20070430 ）:\n"ESC"party 15.%s\n");
+3080|<O>| ret += sprintf("%sCó 3 điểm diệu\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"有三妙"))?PPM:WHT);
+3081|<O>| FAMILY_D->org_channel(name, 0, HIR "Bang này vì bị quái vật tập kích nên cơ sở vật chất bang phái chịu tổn hại nghiêm trọng. Việc nâng cấp quy mô bang phái thất bại, độ an định giảm 300 điểm, độ nổi tiếng giảm 100 điểm, độ huấn luyện giảm 2 điểm。");
+3082|<O>| else if (who->get_quest("valentine.flag") == 7 && !objectp(item = present("Đậu sô cô la", who, 1, MAX_CARRY)))
+3083|<O>| ret += sprintf("%sCó 3 điểm khéo\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"有三巧"))?PPM:WHT);
+3084|<O>| CHAT_D->sys_channel(0,HIY"Yêu ma đến từ dị giới đã đại quân xâm lấn các thành đô của các nước, hiện nay chỗ "HIR"đại tướng quân bảy nước"HIY" đã triển khai gấp việc chiêu mộ binh lính. Xin các dũng sĩ tình nguyện mau chóng tới chỗ tướng quân tập hợp, gia nhập đại quân chinh phạt yêu ma！");
+3085|<O>| write_user(me, ECHO "Kinh nghiệm nghệ nhân của ngài +10, trung thực +1, dũng cảm +10, trí mưu +10, danh vọng +10, cống hiến quốc gia +1, kinh nghiệm %+d, tiềm năng +1。", level + 10);
+3086|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nTiêu hao pháp lực:%d điểm\nThời gian hồi:%d giây\n    Ẩn giấu thân hình của mình, chậm rãi tiềm hành. Trong trạng thái ẩn thân, cứ mỗi 10 giây tự động tiêu hao 10 điểm pháp lực。\n",
+3087|<O>| send_user(who, "%c%s", ':', get_name() + ": \n    Mở một quán rượu trên đảo này cũng không tệ mà～！Sơn hào hải vị, thứ gì cũng đủ cả！\n    Khách quan, cần đổi thứ gì không？\n" + tmp);
+3088|<O>| ret += sprintf("%sGiáp Cuồng Sư\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"狂狮战甲"))?PPM:WHT);

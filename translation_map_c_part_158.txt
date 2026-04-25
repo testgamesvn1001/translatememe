@@ -1,0 +1,41 @@
+3592|<O>| "Đai B+30" : "\"/item/87/2030\"", "Đai B+40" : "\"/item/87/2040\"", "Đai B+50" : "\"/item/87/2050\"",
+3593|<O>| "Giày C+30" : "\"/item/88/3030\"", "Giày C+40" : "\"/item/88/3040\"", "Giày C+50" : "\"/item/88/3050\"",
+3594|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    Ta là ai, ta không nhớ nữa, ta muốn làm gì, ta cũng không nhớ nữa, làm sao đây？Làm sao đây？\n", get_name())
+3595|<O>| "Sức A+30" : "\"/item/86/1030\"", "Sức A+40" : "\"/item/86/1040\"", "Sức A+50" : "\"/item/86/1050\"",
+3596|<O>| result = sprintf(HIY "%s(%d) dự định tranh cử thành chủ, xin mọi người nhiệt tình tham gia tranh cử và bỏ phiếu！", who->get_name(), who->get_number(), name1);
+3597|<O>| send_user(me, "%c%s", '!', sprintf("Thời gian hồi đạo cụ còn %d giây", 1800 - time() + me->get_save("huntian")));
+3598|<O>| return HIB"Hoàn trăng rằm, tinh hoa của trăng đã tràn ngập trong đó và tuôn trào ra ngoài。\n"HIY"Công kích:+8%\n"HIY"Công kích pháp thuật:+8%\nNgoài ra còn tăng 100 công vật lý, 100 công pháp thuật, 100 phòng ngự vật lý";
+3599|<O>| CHAT_D->sys_channel(0,"Hoạt động Trung Thu của Đại Thoại Chiến Quốc đang diễn ra sôi nổi, nếu muốn tham gia thì hãy đi tìm nhân viên hoạt động Trung Thu —— "HIR"Hằng Nga"NOR" nhé, nàng đang đợi ngươi tại "HIR"nước Chu"NOR" đó。");
+3600|<O>| send_user(who, "%c%s", ';', sprintf("Khổ dịch phản loạn  Kinh nghiệm 5000  Tiềm năng 160  Tiền 3500  %s 1", tmp->get_name()));
+3601|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nTiêu hao nguyên khí:%d điểm\nThời gian hồi:%d giây\n    Phát ra tiếng gầm rung trời, khiến toàn bộ địch nhân bên cạnh rơi vào trạng thái choáng 3 giây。",
+3602|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng:12 cấp\nTiêu hao vật phẩm: độc dược\n    Thi triển một đoàn độc vụ, toàn bộ mục tiêu đối địch đi vào vùng khí độc này sẽ rơi vào trạng thái trúng độc, đồng thời không thể di chuyển trong 6 giây。";
+3603|<O>| log_file("changping.txt", sprintf("%s cấp sai của %s là %d\n", short_time(), npc->get_name(), level));
+3604|<O>| send_user(who, "%c%c%d%s", '?', 1, 20, sprintf("%s:\nHiện thuế bán ra của người ngoại địa là %d%%, xin hỏi ngài muốn sửa thành bao nhiêu？(phạm vi:1～20%%)\n"
+3605|<O>| case 9: send_user(who, "%c%s", ':', sprintf("%s:\nTa thấy thời tiết khá tốt, không giống sắp có lũ, ngài lo xa rồi。", me->get_name()));
+3606|<O>| send_user(me, "%c%c%w%s", ':', 3, who->get_char_picid(), sprintf("%s:\n    Chúng tôi thành thật xin lỗi vì sự bất tiện đã gây ra。\n"
+3607|<O>| int get_use_effect_2_callout(object me, object who, object item, string arg)    // Đồng bộ thay đổi “Thần Du”
+3608|<O>| result += sprintf(ESC"Tiêu hao %d tiềm năng, %d tiền\nlearn %s ! %d\n", pot, gold, who->get_char_id(), skill);
+3609|<O>| if (who->get_dodge_rate_2()) prop += ({ sprintf("Né pháp thuật:%+3d%%", who->get_dodge_rate_2()) });
+3610|<O>| send_user(who, "%c%c%d%s", '?', 1, 20, sprintf("%s:\nHiện thuế mua vào của người ngoại địa là %d%%, xin hỏi ngài muốn sửa thành bao nhiêu？(phạm vi:1～20%%)\n"
+3611|<O>| send_user(who, "%c%s", ';', sprintf("Tiếng vọng trong sơn cốc  Kinh nghiệm 1700  Tiềm năng 70  Tiền 1500  %s 1", tmp->get_name()));
+3612|<O>| cWord = sprintf(me->get_name() + ":\n    Đúng đúng đúng, chính là những món này, ta phải ăn diện cho tử tế mới được, lát nữa ngươi lại tới tìm ta, ta sẽ nói cho ngươi biết làm sao để có được sô cô la。\n");
+3613|<O>| int set_billion_exp(int exp) { return BillionExp = range_value(exp, 0, 1000); }    // Giới hạn trên: vạn ức
+3614|<O>| case 10: send_user(who, "%c%s", ':', sprintf("%s:\nĐây không phải ý hay đâu, nếu cá tuyệt chủng thì chúng ta toi mất。", me->get_name()));
+3615|<O>| CHAT_D->sys_channel(0,HIY"Giải bóng đá của quái vật đã bắt đầu！Xin các dũng sĩ vào vị trí, cướp lấy quả bóng của bọn chúng, đừng để những kẻ phá hoại ruộng đồng này tiếp tục ngông cuồng！"HIR"Có thể dùng bóng đá đổi lấy phần thưởng xuất kích ở thiên sứ đổi thưởng！");
+3616|<O>| more_look_menu(who, get_name() + ":\nVị " + NPC_RANK_D->get_respect(who) + " này muốn tới đấu trường tìm người luận bàn sao？\n"
+3617|<O>| send_user(who, "%c%c%d%s", '?', 1, 20, sprintf("%s:\nHiện thuế bán ra của người bản quốc là %d%%, xin hỏi ngài muốn sửa thành bao nhiêu？(phạm vi:1～20%%)\n"
+3618|<O>| if (who->is_die() || who->is_store_open() || who->get_no_fight()) return 1;    // Tử vong, bày sạp, khu an toàn
+3619|<O>| result = sprintf("%s ở hướng %s cách trung tâm không xa。", map->get_name(), PF_NO_00031->get_direction(x0, y0, x, y));
+3620|<O>| //		if( !objectp( item = present("Tất dài", who, 1, MAX_CARRY) ) || item->is_christmas() != 1 )
+3621|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này, khi thực hiện công kích vật lý hoặc pháp thuật, giá trị\ncông kích của nó đều lấy giá trị lớn nhất. Còn bên bị thú cưng tấn công, giá trị\nphòng ngự vật lý và phòng ngự pháp thuật đều lấy giá trị nhỏ nhất。 ";
+3622|<O>| send_user(member[i], "%c%s", ';', sprintf(HIY"Vẫn còn %d tên bại loại võ lâm", 500 - map->get("copy_npc_die")));
+3623|<O>| string* PlantName = ({ "Mầm non", "Một phần", "Hai phần", "Ba phần", "Bốn phần", "Năm phần", "Sáu phần", "Bảy phần", "Tám phần", "Chín phần", "Trưởng thành" });
+3624|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), "Sứ giả hoạt động Chiến Quốc:\n    Ngài đã không còn thời gian kinh nghiệm gấp đôi để nhận nữa！");
+3625|<O>| ret += sprintf("%sY Tá\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"护士"))?PPM:WHT);
+3626|<O>| send_user(who, "%c%c%d%s", '?', 1, 20, sprintf("%s:\nHiện thuế mua vào của người bản quốc là %d%%, xin hỏi ngài muốn sửa thành bao nhiêu？(phạm vi:1～20%%)\n"
+3627|<O>| case 11: send_user(who, "%c%s", ':', sprintf("%s:\nTa không hiểu kỹ thuật đào mỏ, đào bừa sẽ phản tác dụng đấy。", me->get_name()));
+3628|<O>| //              write_user( me, ECHO "%s(%d) đã ném ngài ra ngoài。", who->get_name(), who->get_number() );
+3629|<O>| result = get_name() + ":\n    Ngươi đã đổi thành công 1 giờ thời gian kinh nghiệm gấp đôi, tuần này ngươi đã không còn thời gian gấp đôi bổ sung nào để nhận nữa, hãy tận dụng tốt giờ gấp đôi cuối cùng này nhé。\n";
+3630|<O>| ret += sprintf("%sLoli\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"萝莉"))?PPM:WHT);
+3631|<O>| //_DEBUG(sprintf("DEBUG -- thời gian thông báo lần sau %s",SMART_ALARM_CLOCK_F->show_time_stamp(time()+10*60)));
+3632|<O>| send_user(who, "%c%c%d%s", '?', 1, DEFAULT_TIME, sprintf("Quản lý kênh %s, xin nhập số phút muốn phong bế:\n(0 nghĩa là mở kênh)\n"

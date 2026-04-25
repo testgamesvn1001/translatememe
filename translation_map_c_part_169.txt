@@ -1,0 +1,44 @@
+4057|<O>| if (objectp(item = present("Tượng đất", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4058|<O>| if (objectp(item = present("Ngô", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4059|<O>| /*------------------------------------Hàm khởi tạo của lớp---------------------------------------*/
+4060|<O>| if (objectp(item = present("Chỉ bông", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4061|<O>| send_user(me, "%c%s", '!', sprintf("Bạn đã đặt dấu mốc tại " HIY " %s(%d,%d) " NOR "。", name, x, y));
+4062|<O>| if (objectp(item = present("Lương khô", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4063|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 15\n    Tập kích một kẻ địch từ phía sau. Khi tấn công sẽ cộng thêm 20 điểm công kích, đồng thời gây hiệu quả sát thương bạo kích 100％。";
+4064|<O>| if (objectp(item = present("Lúa", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4065|<O>| if (objectp(item = present("Đơn đao", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4066|<O>| //        log_file("test", sprintf("%s cleanup_char_and_item thực thi xong\n", short_time()));
+4067|<O>| return sprintf(PF_NAME ":\n　　Phòng ngự giảm %d điểm\n", -me->get_save("02614") - me->get("02614"));
+4068|<O>| send_user(who, "%c%c%w%s", ':', 3, 0252, "Sơn Đại Vương:\n    Loài người ngu xuẩn! Dám bước vào lãnh thổ của bản vương!! Xem ra ngươi chán sống rồi!!\n" +
+4069|<O>| if (!objectp(item = present("Đá hỏa diễm", who, 1, MAX_CARRY)) || item->is_huoyanshi() != 1)
+4070|<O>| cmd4 = sprintf(ESC "Thuế bán ra của người ngoại thành。(%d%%)\ntalk %x# tax.4.?\n", city->get_sell_tax_2(), id);
+4071|<O>| if (objectp(item = present("Lợi kiếm", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4072|<O>| if (objectp(item = present("Bí ngô", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4073|<O>| if (objectp(item = present("Vải thiều", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4074|<O>| if (objectp(item = present("Cuốc", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4075|<O>| if (objectp(item = present("Kê", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4076|<O>| send_user(who, "%c%c%w%s", ':', 3, 0202, "Phi Tặc Vương:\n    Loài người ngu xuẩn! Dám bước vào lãnh thổ của bản vương!! Xem ra ngươi chán sống rồi!!\n" +
+4077|<O>| if( me->get_perform(PF_FLAG_03173) && ( p = me->get_skill(SKILL_0317) ) )    // Hộ thể kim cương
+4078|<O>| result = sprintf("%s:\n    Với tu vi hiện tại của ngươi vẫn chưa thể đến bổn môn bái sư, đợi ngươi tăng thêm chút lịch duyệt（≥10 cấp）rồi hãy đến tìm ta!\n", me->get_name());
+4079|<O>| private int NoDrop;                     // Không thể vứt bỏ(không thể drop, give, exchange, store)(chết không rơi)
+4080|<O>| if (objectp(item = present("Khoái đao", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4081|<O>| send_user(who, "%c%s", ':', sprintf("%s:\nLàm lính vừa mệt vừa khổ, lại còn có thể mất mạng bất cứ lúc nào, thôi ngươi bỏ ý đó đi!", me->get_name()));
+4082|<O>| if (objectp(item = present("Linh chi", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4083|<O>| if (objectp(item = present("Sừng thú", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4084|<O>| sprintf("%s:\n     Công đức của ngươi hình như chưa đủ 3 điểm. Cách nhận điểm công đức là sau cấp 50 hãy thường xuyên dẫn người mới dưới cấp 30 luyện cấp, hoặc sau khi đồ đệ của ngươi xuất sư cũng có thể nhận được không ít điểm công đức。\n"
+4085|<O>| //        				send_user( me, "%c%s", '!', sprintf( "Số dư tài khoản của bạn là %d。", to_int(key[1]) ) );
+4086|<O>| send_user(who, "%c%s", ':', get_name() + ":\n    …………\n        (Một con bù nhìn trông có phần khác thường。)\n" +
+4087|<O>| if (objectp(item = present("Lông vũ", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4088|<O>| if (objectp(item = present("Quần áo", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4089|<O>| } else if(rate < 9871 ) {	//	viii.	Xác suất 1500 rơi ra một sách tiến giai kỹ năng ngẫu nhiên。//8-23	viii.	Xác suất 1571 rơi ra một sách tiến giai kỹ năng ngẫu nhiên。
+4090|<O>| send_user(who, "%c%s", ':', sprintf("%s:\nXin hãy nộp %d vàng phí nâng cấp。", me->get_name(), point));
+4091|<O>| if (objectp(item = present("Sừng hươu", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4092|<O>| write_user(who, ECHO "Bạn đã cứu sống %s(%d), tiền %+d。", me->get_name(), me->get_number(), point);
+4093|<O>| if (gone_time(me->get_attack_time()) > 10) me->init_enemy_damage(0, 0);    // Xóa trạng thái sát thương
+4094|<O>| if (objectp(item = present("Tạo giác", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4095|<O>| if (objectp(item = present("Ván gỗ", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4096|<O>| if (objectp(item = present("Chứng cứ", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4097|<O>| if (!MAP_D->is_inside_copy(z0) && (p = get_jumpout(z0, x, y))    // Nhảy sang cảnh khác, cảnh phó bản không cho phép nhảy
+4098|<O>| send_user(who, "%c%c%d%s", 0x43, 6, 0, CHAT "Đường Truy: Những người này có thể giúp ngươi hoàn hồn! Chỉ cần mang tam hồn lục phách của ngươi đi để họ niệm chú “hồn hề quy lai” với cơ thể ngươi…");
+4099|<O>| ESC "Ta chỉ đi ngang qua dạo chơi thôi\nCLOSE\n", who->get_name(), getoid(who), getoid(who), getoid(who)));
+4100|<O>| if (objectp(item = present("Ngọc điêu", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)

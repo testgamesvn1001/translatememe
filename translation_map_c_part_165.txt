@@ -1,0 +1,46 @@
+3881|<O>| if (who->get_anti_hurt_2()) prop += ({ sprintf("Miễn sát thương pháp thuật:%4d", who->get_anti_hurt_2()) });
+3882|<O>| return HIC+get_name()+"\nThú cưng có kỹ năng này, khi được triệu hồi ra thì sát thương pháp thuật của chủ nhân sẽ tăng 5%%,\nkhi thú cưng này bị thu hồi hoặc tử vong thì giới hạn sát thương pháp thuật của chủ nhân sẽ trở lại bình thường。";
+3883|<O>| //      "Intel(R) Xeon(TM) CPU 3.00GHz i386c0a80550c09fc66363",    // 203.67.80.85(Đài Loan)
+3884|<O>| ret = CHAR_FIGHT_D->attack_done(me, who, HIT_NONE, ADD_AP, 0, 0, 0, 10);    // Cẩn thận chuẩn bị me
+3885|<O>| name = sprintf("%s(%d cấp)", PF_NAME, (me->get_skill(THIS_SKILL) - SKILL_LEVEL) / 5 + 1);
+3886|<O>| /*------------------------------------Thường dùng--------------------------------------------*/
+3887|<O>| NPC_ENERGY_D->init_copy_npc(this_object(), 54 + random(2), ({ "Không","Cường tráng","Vũ khí" }));    //
+3888|<O>| send_user(who, "%c%s", ':', get_name() + ":\n    Xin chân thành cảm ơn bạn đã ủng hộ Đại Thoại Chiến Quốc, chúng tôi sẽ đồng lòng hiệp sức làm cho Đại Thoại Chiến Quốc ngày càng tốt hơn!!!\n");
+3889|<O>| _DEBUG(sprintf("DEBUG -- Thời gian callback đồng hồ lúc này:%s số lần callback:%d", show_time_stamp(tmp_time), cycle_times));
+3890|<O>| if (!get_effect(me, EFFECT_03643)) send_user(me, "%c%c%c", 0x3d, 241, 1);    // Thay đổi số bước đi
+3891|<O>| //-----------------------------------------Gọi từ xa-------------------------------------//
+3892|<O>| if (gone_time(me->get_login_time()) < 20) USER_TASK_D->auto_give_task(me);    // Chỉ khi đăng nhập
+3893|<O>| write_user(leader, ECHO "Bạn đã giúp" HIY "%s" ECHO "lên %d cấp(%+d)，công đức của bạn " HIY "%+d.%d" ECHO "。",
+3894|<O>| if (who->get_hurt_rate_2()) prop += ({ sprintf("Tỷ lệ chấn pháp:%4d", who->get_hurt_rate_2()) });
+3895|<O>| name = sprintf("%s(%d cấp)", PF_NAME, (me->get_skill(THIS_SKILL) - SKILL_LEVEL) / 9 + 1);
+3896|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    Xem ra chiến tích của ngươi vẫn chưa đủ, hãy chịu khó rèn luyện thêm trên chiến trường đi, có thêm nhiều chiến tích rồi hãy quay lại tìm bổn tiên.\n"
+3897|<O>| sprintf("%s(%x#) pháp lực:%d, hãy nhập giá trị mới:\n", who->get_name(), getoid(who), who->get_max_mp()) +
+3898|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 31\n    Hy sinh triệu hồi thú của bản thân, đồng thời tất cả thành viên tổ đội trong phạm vi 21×21 đều nhận được lượng khí huyết bằng 25%% tổng khí huyết của họ。";
+3899|<O>| sprintf("%s(%x#) khí huyết:%d, hãy nhập giá trị mới:\n", who->get_name(), getoid(who), who->get_max_hp()) +
+3900|<O>| if (objectp(item = present("Đất đặc biệt", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3901|<O>| if (who->get_hurt_rand_2()) prop += ({ sprintf("Xác suất chấn pháp:%4d", who->get_hurt_rand_2()) });
+3902|<O>| else    printf(ECHO "%s(%d) lấy ra %s giao dịch với bạn。", who->get_name(), who->get_number(), result[1]);
+3903|<O>| && who->get_save_2("orgtask2.id") == sprintf("%x#", getoid(this_object())))    // Tìm đúng người rồi
+3904|<O>| send_user(who, "%c%c%w%s", ':', 3, get_char_picid(), get_name() + ":\n    Cút đi! Đừng xen vào chuyện người khác!");
+3905|<O>| return HIC+get_name()+"\nThú cưng có kỹ năng này, khi được triệu hồi ra thì phòng ngự pháp thuật của chủ nhân sẽ tăng 5%%,\nkhi thú cưng này bị thu hồi hoặc tử vong thì giới hạn phòng ngự pháp thuật của chủ nhân sẽ trở lại bình thường。";
+3906|<O>| send_user(who, "%c%s", ':', sprintf("Bạn muốn kiến nghị %s thực hiện chiến lược ngoại giao \"%s\" với nước nào?\n", me->get_name(), name3) +
+3907|<O>| write_user(me, ECHO "%s(%d) cứu sống bạn, tiền %+d。", who->get_name(), who->get_number(), -point);
+3908|<O>| send_user(me, "%c%s", '!', sprintf("Thời gian đóng băng đạo cụ còn lại %d giây", get_effect(me, EFFECT_USE_JIGUAN)));
+3909|<O>| string get_char_id() { return sprintf("%x#", getoid(this_object())); }    // Ảnh hưởng quá rộng, cấm sửa đổi
+3910|<O>| if (objectp(item = present("Trà Thiết Quan Âm", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3911|<O>| send_user(who, "%c%s", ':', sprintf("Bạn đã vượt ải thành công, có muốn tiếp tục ải thứ %d không? Nếu thất bại, bạn sẽ mất toàn bộ phần thưởng, nhưng phần thưởng sau khi thành công sẽ vô cùng phong phú。\n"
+3912|<O>| if( inside_map(z0, x, y) && !( get_block(z0, x, y) & IS_CHAR_BLOCK ) )    // Tọa độ hợp lệ, có thể xuyên qua
+3913|<O>| private string* familys = ({ "Đào Hoa Nguyên","Thục Sơn","Cấm Vệ Quân","Đường Môn","Mao Sơn","Côn Luân Sơn","Vân Mộng Trạch" });		//	Thuộc tính môn phái, dùng khi rơi báu vật
+3914|<O>| if (objectp(item = present("Chuỗi ngọc phỉ thúy", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3915|<O>| NPC_ENERGY_D->init_copy_npc(this_object(), 65 + random(2), ({ "Không","Cường tráng","Ám khí" }));    //
+3916|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 30\n    Chỉ có thể dùng kỹ năng này khi sinh mệnh dưới 70%%. Lập tức hồi toàn bộ nguyên khí, hủy thời gian hồi chiêu của tất cả kỹ năng hiện tại。";
+3917|<O>| name = sprintf("%s(%d cấp)", PF_NAME, (me->get_skill(THIS_SKILL) - SKILL_LEVEL) / 8 + 1);
+3918|<O>| if ((iTaskTime = 1800 - gone_time(who->get_quest("thief.iTaskTime"))) > 0)    // 15 phút
+3919|<O>| send_user(me, "%c%c%d%d%s", '?', 3, 0, me->get_save("fly"), "Bạn muốn triệu hồi đồng đội nào? Hãy nhập ID đồng đội ở bên dưới。\n"
+3920|<O>| else    FAMILY_D->org_channel(name, 0, sprintf(HIR "%s đã hết tiền để nghiên cứu kỹ năng rồi!", org->get_name()));
+3921|<O>| result += sprintf("Bị trộm(%d):$%d %d *%d  Vận tiêu(%d):$%d %d ＝ Thành công(%d):$%d %d ＋Thất bại(%d):$%d %d\n",
+3922|<O>| send_user(me, "%c%c%d%s", '?', 1, DEFAULT_TIME, sprintf("Đóng kênh %s(%d)。\n\nHãy nhập số phút muốn đóng:\n"
+3923|<O>| string cWord, * cMain = ({ "Câu 1:","Câu 2:","Câu 3:","Câu 4:" }), * res = ({}), * tmp = ({});
+3924|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 9\n    Khi ám sát sẽ tăng thêm 50 điểm công kích. Kẻ địch bị ám sát sau khi chịu sát thương thường sẽ tiếp tục chịu lượng sát thương tương đương trong 16 giây。";
+3925|<O>| send_user(me, "%c%w%w%w%c%c%c", 0x4f, x0, y0, 3421, 1, OVER_BODY, PF_ONCE);    // Gửi lại lệnh bổ sung
+3926|<O>| return HIC+get_name()+"\nThú cưng có kỹ năng này, khi được triệu hồi ra thì phòng ngự vật lý của chủ nhân sẽ tăng 5%%,\nkhi thú cưng này bị thu hồi hoặc tử vong thì giới hạn phòng ngự vật lý của chủ nhân sẽ trở lại bình thường。";

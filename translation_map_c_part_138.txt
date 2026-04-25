@@ -1,0 +1,35 @@
+2836|<O>| write_user(me, ECHO "Kinh nghiệm nông phu của ngài +60, trung thực +3, thành tín +60, dũng cảm +60, danh vọng +3, cống hiến quốc gia +10, tiền %+d, kinh nghiệm %+d, tiềm năng +10。", gold, exp);
+2837|<O>| ESC"Rời khỏi", get_name(), level, wId, who->get_2("changping.country"), __FILE__->count_sign_up(level, wId), id, id)
+2838|<O>| dailogue += "    Trung Thu vui vẻ！Hôm nay là tết Trung Thu, ta mang theo Ngọc Thỏ từ Nguyệt Cung chuyên tới Chiến Quốc để chúc mừng ngày lễ cùng mọi người, nhưng ta vừa mới đến nơi thì phát hiện Ngọc Thỏ đã biến mất！Ai, có lẽ nó lại không nghe lời, hóa trang thành nguyệt thỏ rồi rong chơi tự tại trong Chiến Quốc mất rồi. Ngươi có thể giúp ta bắt nó về không？\n";
+2839|<O>| send_user(who, "%c%c%d%s", '?', 16, 40, "Xin hãy nhập mã nhận thưởng:\n" + sprintf(ESC"talk %x# get_bonus", getoid(me)) + ".%s\n");
+2840|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Tốt quá, như vậy ta có thể làm bánh ú ném xuống sông, để phòng thi thể đại nhân Khuất bị cá cắn hỏng。\n"
+2841|<O>| log_file(LIST_LOG, sprintf(htm, name, level, "Nữ", "Đường Môn<BR>Vân Mộng Trạch", dp, pp, lasting / 100, lasting / 100, value));
+2842|<O>| case 4: send_user(who, "%c%s", ':', sprintf("%s:\nCái này thật không tệ, đúng lúc thằng nhóc nhà ta lúc huấn luyện có thể dùng tới。(huấn luyện %+d)", me->get_name(), p *= 10));
+2843|<O>| //                      CHAR_DIE_D->is_enemy_die(who, me, damage * point / 100);    // Vì ME có khả năng bị DEST, nên xử lý sau cùng
+2844|<O>| send_user(me, "%c%c%w%s", ':', 3, 5501, sprintf("Nhân vật sứ mệnh" HIR "%s" NOR " hiện ở:\n\n%s\n", who->get_name(), result));
+2845|<O>| send_user(char, "%c%c%d%s", 0x43, 6, 0, sprintf(CHAT + HIY + "Yêu ma đang tiến hành phá hoại, mức độ thiệt hại hiện tại của thành này là:%d/100。", map->get_damage()));
+2846|<O>| send_user(who, "%c%c%d%s", '?', 16, 30, "Xin hãy nhập số serial:\n" + sprintf(ESC"talk %x# get_bonus", getoid(me)) + ".%s\n");
+2847|<O>| //			  CHAT_D->rumor_channel( 0, sprintf( HIM "Nghe nói %s ở %s đại triển thần thông, cứu sống %s。", who->get_name(), name, me->get_name() ) );
+2848|<O>| log_file(LIST_LOG, sprintf(htm, name, level, "Nam", "Đường Môn<BR>Vân Mộng Trạch", dp, pp, lasting / 100, lasting / 100, value));
+2849|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    Ta chỉ là một thư sinh nghèo khổ, gia cảnh bần hàn, một lần tình cờ trông thấy tiểu thư Bối Bối trong Tần Cung, liền nảy sinh một loại thương yêu và trìu mến chưa từng có đối với nàng。\n", get_name())
+2850|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nTiêu hao pháp lực:%d điểm\nThời gian hồi:%d giây\n    Chỉ có thể phát động kỹ năng này trong trạng thái ẩn thân, sau khi sử dụng thì trong trạng thái ẩn thân cũng sẽ không làm chậm tốc độ di chuyển. Hiệu quả duy trì 30 giây。",
+2851|<O>| "Đông Võ":({ 501, 256 ,159 }), "Tiểu Bái" : ({ 502, 257, 156 }), "Bành Thành" : ({ 503, 65, 108 }), "Tuyết Phong Sơn Bí Đạo" : ({ 530, 241, 83 }),
+2852|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Không biết cảm nghĩ của ngươi sau khi chu du liệt quốc thế nào？Chỉ riêng về chính sách chiêu hiền đãi sĩ thôi, đại vương của chúng ta đã là người khai sáng nhất rồi，"
+2853|<O>| log_file(LIST_LOG, sprintf(htm, name, level, "Nữ", "Mao Sơn<BR>Côn Lôn Sơn", dp, pp, lasting / 100, lasting / 100, value));
+2854|<O>| buf = sprintf("Nghe nói du thương sẽ mang theo bảo vật thần bí xuất hiện ở khu vực "HIR"%s(%d,%d)"NOR" sau khoảng năm phút nữa, hê hê～～ người thường ta còn chẳng thèm nói cho đâu！", map->get_name(), x - 7, y - 7);
+2855|<O>| "Cho dù là phàm phu tẩu tốt, chỉ cần có năng lực thì đại vương của chúng ta đều chỉ nhìn tài mà dùng, không biết ngươi có bằng lòng đi giúp ta một việc nhỏ không？\n"ESC"Hoàn thành nhiệm vụ\ntalk %x# welcome.7\n"ESC"Rời khỏi", me->get_name(), getoid(me)));
+2856|<O>| result = sprintf("%s:\n    Những gì có thể dạy ngươi ta đều đã dạy rồi, sau này có lẽ ngươi vẫn còn phải đối mặt với nhiều cửa ải khó khăn hơn. Mọi việc đều phải xem tạo hóa của chính mình. Nếu còn chỗ nào không hiểu thì hãy đi bái phỏng những vị sư phụ khác. Nếu muốn rời khỏi Tiên Linh Đảo, chỉ cần tìm Bách Hợp Tiên Tử giúp đỡ là được。\n"
+2857|<O>| "Hán Trung" : ({ 522, 260,91 }), "Tử Ngọ Cốc" : ({ 520,171, 35 }), "Dương Bình Quan" : ({ 523, 220, 178 }), "Tây Thành" : ({ 521, 278, 140 }),
+2858|<O>| if (!stringp(id = who->get_save_2("xiamama")) || !objectp(obj = find_char(id)) || !obj->is_daughter())	// Chưa nhận
+2859|<O>| send_user(who, "%c%s", ':', sprintf("%s\n    Người xấu hơn ta thì không ngu bằng ta, người ngu hơn ta thì không xấu bằng ta, ngươi dám khiêu chiến ta không, ta chính là AYASHIZI lừng lẫy đại danh\n"ESC"Rời khỏi", get_name()));
+2860|<O>| log_file(LIST_LOG, sprintf(htm, name, level, "Nam、Nữ", "Không", dp, pp, rate, lasting / 100, lasting / 100, value));
+2861|<O>| sprintf("%s:\n    Thật ra, Vương Mẫu Nương Nương đã sớm biết các ngươi sẽ tới tìm bà ấy, vì vậy nương nương đã để lại tiên đan. Chỉ cần các ngươi vượt qua khảo nghiệm là có thể có được tiên đan. Ngưu Lang Chức Nữ uống tiên đan vào, sau này sẽ được tự do. Mau đưa cho họ bằng lệnh "HIR"(ALT+G)"NOR" đi！\n"
+2862|<O>| "Thiên Thặng" : ({ 509, 201, 205 }), "Cao Đường" : ({ 508, 260, 154 }), "Lạc Lăng" : ({ 507, 55, 107 }), "Tức Mặc" : ({ 506, 63, 103 }),
+2863|<O>| write_user(who, ECHO "Kinh nghiệm quân quan của ngài +40, chính nghĩa +40, trung thực +1, dũng cảm +40, danh vọng +4, cống hiến quốc gia +1, tiền %+d, kinh nghiệm %+d, tiềm năng +4。", gold, exp);
+2864|<O>| ret += sprintf("%sHạng Liên Tuyết Điêu\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"雪雕项链"))?PPM:WHT);
+2865|<O>| send_user( CHAT_D->get_chat(), "%c%s", 0xA3, sprintf(HIY+"%s người chơi đã nhận được phần thưởng hạng %d trong hoạt động tuyển chọn Tân Nhân Vương！",who->get_name(),level) );
+2866|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    Chàng bị bắt đi ngay trong đêm tân hôn của chúng ta, suốt tròn 10 năm, chúng ta không gặp lại nhau dù chỉ một lần. Chàng biết mà, ta vẫn luôn chờ chàng, cho đến khi chàng quay về。\n", get_name())
+2867|<O>| log_file("wu_duty.dat", sprintf("%s %s(%d) nhận tiền thuế %d\n", short_time(), who->get_id(), who->get_number(), duty));
+2868|<O>| log_file(LIST_LOG, sprintf(htm, name, level, "Nữ", "Không", dp, pp, hp, mp, lasting / 100, lasting / 100, value));
+2869|<O>| log_file(LIST_LOG, sprintf(htm, name, level, "Nam", "Không", dp, pp, hp, mp, lasting / 100, lasting / 100, value));
+2870|<O>| result += sprintf("Nghệ thuật:%8d  Giáo dục:%8d  Tôn giáo:%8d\n", city->get_arts(), city->get_education(), city->get_religion());

@@ -1,0 +1,46 @@
+4279|<O>| send_user(this_player(), "%c%c%d", 0x25, 3, getoid(this_object()));    // Mở giao diện hợp thành
+4280|<O>| result = result + sprintf(ESC + HIY + "Ngọc bội gia tộc\ntalk %x# welcome.1\n", getoid(me));
+4281|<O>| return sprintf(PF_NAME "\n    Tăng cường công kích pháp thuật của bản thân, giảm 20％ toàn bộ sát thương tự thân phải chịu. Nhưng trong trạng thái này, không thể sử dụng bất kỳ kỹ năng hệ trị liệu nào\n");
+4282|<O>| if (objectp(npc = me->get(sprintf("guard%d", i))))//Nếu NPC cướp chết, thì phải xóa hai vệ sĩ đi。
+4283|<O>| tmp += sprintf(ESC + HIY + "Rèn luyện bản thân\ntalk %x# welcome.4\n", getoid(this_object()));
+4284|<O>| CHAR_FIGHT_D->attack_done(me, who, HIT_NONE, ADD_AP, 0, 0, 0, 10);    // Cẩn thận chuẩn bị me
+4285|<O>| "Nghề này vĩ đại lắm phải không, đừng chậc chậc nữa, kẻ trộm mộ chẳng qua chỉ là cách gọi phổ thông của những kẻ vô tri không biết nội tình mà thôi, cũng giống như hồi nhỏ ta có tên cúng cơm của con chó nhà ta… à, ta đang nói đến đâu nhỉ, đúng rồi, gần đây ta nhận được một tin đáng tin cậy，"
+4286|<O>| sprintf("%s:\n    Thật vui vì ngươi chịu nghe hết lời ta. Xem ra muội muội Bách Hợp nói ngươi là một người chăm chỉ quả không sai chút nào. Hãy giữ tâm trạng tốt và tiếp tục cố gắng nhé. Ta sẽ mãi chúc ngươi lên đường bình an。\n"
+4287|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 5\    Ăn mòn giáp trụ, khiến phòng ngự vật lý của đối thủ giảm 30 điểm. Phòng ngự pháp thuật giảm 20 điểm. Hiệu quả kéo dài 120 giây。";
+4288|<O>| write_user(me, ECHO "Bạn đã hợp thành thành công hai %s cấp %d, nhận được một %s cấp %d。", name, level, name, level + 1);
+4289|<O>| result = result + sprintf(ESC + HIY + "Vấn đề hợp tác\ntalk %x# welcome.1\n", getoid(me));
+4290|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 15\n    Khiến quái vật rơi vào trạng thái mê hồn, thậm chí bị người chơi khống chế. Tỷ lệ thành công của mê hồn sẽ tăng theo cấp kỹ năng。";
+4291|<O>| result = sprintf(HIY "%s chiếu rằng:“%s vì tư lợi cá nhân mà xâm phạm nước ta, chúng ta muốn nằm gai nếm mật, chờ ngày báo phục。”", me->get_name(), name4);
+4292|<O>| log_file( FILE_UPDATE, sprintf( "%s Cập nhật danh nhân đường\n", short_time(get_party_time() ) ) );
+4293|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 35\nTiêu hao đạo cụ: Cương thi phù\n    Triệu hồi cương thi hỗ trợ chiến đấu. Khi cương thi tấn công có xác suất nhất định khiến địch rơi vào trạng thái trúng độc。";
+4294|<O>| tmp1 = sprintf(ESC"%s\ntalk %x# welcome.4\n", father_choice1, getoid(npc));//Tùy chọn của cha
+4295|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), "Tiên tử Như Ý:\n    Bạn đã nhận rồi!");
+4296|<O>| return sprintf(PF_NAME ":\n　　Chuyển hóa %d％ sát thương bản thân phải chịu thành tiêu hao pháp lực。\n", me->get("pf.change%"));
+4297|<O>| ESC "Đắt quá, ta không giám định nữa\nCLOSE\n", who->get_name(), level, getoid(who), getoid(item) ) );
+4298|<O>| USER_D->user_channel(sprintf(HIY"Chúc mừng %s trở thành bang hội số một thiên hạ, mong %s sẽ có biểu hiện xuất sắc hơn nữa trong thế giới Chiến Quốc!", name, name));
+4299|<O>| tmp += sprintf(ESC HIY "Tiếng khóc trong chân núi Đại Cô\ntalk %x# welcome.6\n", getoid(this_object()));
+4300|<O>| send_user(who, "%c%c%w%s", ':', 3, 1255, "Phản đồ âm gian:\n    Không ai hiểu được oán hận của ta… không ai hiểu được oán hận của ta…\n" +
+4301|<O>| USER_D->user_channel(sprintf("%s hoạt động đã bắt đầu rồi, để có được trang bị tốt hơn, mau ra ngoài thành bảy nước tiêu diệt lão cặn bã đi!",active_name));
+4302|<O>| result = result + sprintf(ESC + HIY + "Vấn đề hợp tác\ntalk %x# welcome.3\n", getoid(me));
+4303|<O>| send_user(who, "%c%s", ':', me->get_name() + " đã dùng " HIY "Linh Tê Thiểm Hiện" NOR " lên bạn, có nhận truyền tống không?\n"
+4304|<O>| tmp += sprintf(ESC + HIY + "Bồ câu đưa thư\ntalk %x# welcome.3\n", getoid(this_object()));
+4305|<O>| else if( point = me->get_skill_cached(SKILL_0161) ) ap0 += point / 2;    // Ám khí phóng xạ
+4306|<O>| result = result + sprintf(ESC + HIY + "Thử sức\ntalk %x# welcome.1\n", getoid(me));
+4307|<O>| private static string *nFamily 	   = ({"Đào Hoa Nguyên","Thục Sơn","Cấm Vệ Quân","Đường Môn","Mao Sơn","Côn Luân Sơn","Vân Mộng Trạch"});
+4308|<O>| if (!objectp(item = present("Búa sắt", who, 1, MAX_CARRY)) || item->is_tiecui() != 1)
+4309|<O>| add_alarm_clock("second", "30", "second", ({ "test_func_2","Hàm 3 gọi trễ 2" }), 1, 0);
+4310|<O>| //		tmp = sprintf("\n"ESC"Tìm trí giả lão nhân trò chuyện\ntalk %x# welcome.1\n",getoid(this_object()));
+4311|<O>| return sprintf("［" PF_NAME "］Công kích cận chiến đơn thể, tăng %d điểm công kích。Tiêu hao pháp lực:%d, lần sau dùng phải cách %d giây, có thể dùng ở %s%d cấp\n",
+4312|<O>| say_word = sprintf("Tổng cộng bạn đã qua %d ải, có thể nhận phần thưởng danh hiệu “"HIR"%s"NOR"”。", level, active_bonus[1]);
+4313|<O>| send_user(me, "%c%s", '!', sprintf("Bạn thu thập được " HIY "%s" NOR "。", item->get_name()));
+4314|<O>| if (objectp(item = present("Tiểu mạch", who, 1, MAX_CARRY)) && item->is_xiaomai() == 1)
+4315|<O>| result = result + sprintf(ESC + HIY + "Bồ câu đưa thư\ntalk %x# welcome.1\n", getoid(me));
+4316|<O>| ret = CHAR_FIGHT_D->attack_done(me, who, HIT_UNARMED, 0, 0, -100);    // Cẩn thận chuẩn bị me
+4317|<O>| result = result + sprintf(ESC + HIY + "Truy tìm kho báu mạo hiểm\ntalk %x# welcome.9\n", getoid(me));
+4318|<O>| result = result + sprintf(ESC + HIY + "Truy tìm kho báu mạo hiểm\ntalk %x# welcome.3\n", getoid(me));
+4319|<O>| result = sprintf("Giới hạn độ bền của trang bị này đã đạt mức tối đa %d điểm, không thể sửa thêm nữa。", equip->get_max_lasting() / 100);
+4320|<O>| result = result + sprintf(ESC + HIY + "Ngọc bội gia tộc\ntalk %x# welcome.8\n", getoid(me));
+4321|<O>| return "Một loại thẻ biến thân sở hữu sức mạnh kỳ diệu, sau khi sử dụng không chỉ có thể biến thành hình dáng Niên Thú mà còn có thể sở hữu sức mạnh của Niên Thú。\nGiới hạn khí huyết tối đa tăng 10％, phòng ngự vật lý và phòng ngự pháp thuật tăng 10％。";
+4322|<O>| result = sprintf(HIY "%s chiếu rằng:“%s vì tư lợi cá nhân mà xâm phạm nước ta, chúng ta trên dưới một lòng, sẽ nghiêm trận chờ đợi。”", me->get_name(), name4);
+4323|<O>| send_user(me, "%c%s", ';', sprintf("Thật tiếc, con thỏ bạn bắt được không phải Ngọc Thố của Hằng Nga, nhưng vẫn sẽ nhận được %d kinh nghiệm thưởng nhé!",iExp));
+4324|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 13\n    Pháp thuật hệ trị liệu, hồi sinh một người chơi đã chết. Sau khi hồi sinh người chơi có thể khôi phục 50 điểm khí huyết và 80 điểm pháp lực。";

@@ -1,0 +1,81 @@
+﻿15053|<O>| return ADD_POISON;    // 小心准备 me, poison
+15054|<O>| else if (p < 2954 * rate / 100)    // 金钱
+15055|<O>| private string* Presbyter = ({ });	// 长老
+15056|<O>| if (level < 1) level = 1;    // 防止后面除数为０
+15057|<O>| send_user(me, "%c%s", '!', "您不能对死人授课。");
+15058|<O>| send_user(who, "%c%s", '!', "幽明鬼魂 1/1");
+15059|<O>| ESC "恢复某一玩家\n" + "gmfight recover ?\n" +
+15060|<O>| else if (p < 5640 * rate / 100)    // 金钱
+15061|<O>| string get_skill_name() { return "冥思"; }
+15062|<O>| DEBUG(sprintf("测试-->当前在线玩家数目录%d",size));
+15063|<O>| else if (rate < 56000)	//增加法术所造成的治疗效果12点
+15064|<O>| if (!me->get_chat_open())    // 使用可以打开频道
+15065|<O>| send_user(me, "%c%s", '!', "提供的激活码已使用");
+15066|<O>| me->set_perform_file(0);    // 重要:清除非法特技
+15067|<O>| inv[i]->remove_from_user();    // 删除所有装备
+15068|<O>| else if (p < 3338 * rate / 100)    // 金钱
+15069|<O>| send_user(me, "%c%s", '!', "对方身上带着钱票。");
+15070|<O>| "随机秘籍" : "BOOK_FILE->get_book_file_2()",
+15071|<O>| else if (p < 3334 * rate / 100)    // 金钱
+15072|<O>| printf(ECHO "对方在城内，不能使用“" PF_NAME "”。");
+15073|<O>| if (!me->get_city_open())    // 使用可以打开频道
+15074|<O>| else if (p < 2642 * rate / 100)    // 金钱
+15075|<O>| send_user(who, "%c%s", '!', "恶官马三 1/1");
+15076|<O>| write_user(me, ECHO "您的等级不够，无法调整PK模式。");
+15077|<O>| else if (p < 5206 * rate / 100)    // 金钱
+15078|<O>| log_file(LIST_LOG, "<!-- 门派信物 -->\n\n");
+15079|<O>| else if (p < 5284 * rate / 100)    // 金钱
+15080|<O>| else if (p < 9206 * rate / 100)    // 金钱
+15081|<O>| log_file(LIST_LOG, "<!-- 完美宝石 -->\n\n");
+15082|<O>| printf(ECHO "不能对非玩家对象使用“" PF_NAME "”。");
+15083|<O>| return "由萤光石炼制而成,让隐藏在暗处的敌人马上现形，冷却时间30秒";
+15084|<O>| printf(ECHO "您得有乾坤绳才能使用“" PF_NAME "”。");
+15085|<O>| printf(ECHO "使用“" PF_NAME "”得先学会大乘道法。");
+15086|<O>| write_user(me, ECHO "您现在的攻击模式是:伏击保护。");
+15087|<O>| //				ESC"换取战场奖励\ntalk %x# welcome.4\n"
+15088|<O>| ESC "工业。\ntalk " + id + " stir_up.12\n"
+15089|<O>| desc = "利用上等红豆制成的糕点,20秒内恢复玩家1400点气血值。";
+15090|<O>| ESC "矿业。\ntalk " + id + " stir_up.11\n"
+15091|<O>| move_to_user(player,1,YUEHUAN,npc);//月环
+15092|<O>| if (!me->get_org_open())    // 使用可以打开频道
+15093|<O>| notify(	"您距离%s太远了。", who->get_name() );
+15094|<O>| send_user(who, "%c%s", '!', "冥之妖 1/1");
+15095|<O>| send_user(me, "%c%s", '!', "你没有师门信物。");
+15096|<O>| return "有着神奇功效的丹药,马上恢复950点气血，1050点法力值";
+15097|<O>| 的下一个时间点，并根据改变情况对当前需要回调的函数次序作出修改，保证实时更新，
+15098|<O>| send_user(me, "%c%s", '!', "您身上没有空位！");
+15099|<O>| return "恭喜發財！恭喜發財！恭喜大家發財～～”（滑鼠右鍵點擊使用）";
+15100|<O>| send_user(who, "%c%s", '!', "你的铸剑石呢?");
+15101|<O>| string get_city_name() { return "齐国"; }
+15102|<O>| SAY_CMD->say(me, "死吧！死吧！！一切都化为虚无吧！！！");
+15103|<O>| private int demissnumber;		// 禅让的number
+15104|<O>| send_user(who, "%c%s", '!', "功能尚未开放！");
+15105|<O>| send_user(who, "%c%s", '!', "请重新输入号码");
+15106|<O>| void effect_break(object me)    // 召唤中断
+15107|<O>| ({"酒店老板处可以","购买酒食的材料","喝茶","吃饭","存钱"}),
+15108|<O>| send_user(me, "%c%s", '!', "新人王奖励开启！");
+15109|<O>| int Exp;                        // 职业经验
+15110|<O>| notify("谣言频道将于 %d 分钟后开启。", t / 60 + 1);
+15111|<O>| else if( iKind == 2 )    // 2. 运镖任务(人物)
+15112|<O>| CITY_D->city_everyday(city);    // 每天处理
+15113|<O>| send_user(who, "%c%s", '!', "心之魔 1/1");
+15114|<O>| 用时钟有0-3秒的误差，超过这个范围的时钟没有被执行或重复执行都属于错误状态。
+15115|<O>| string get_city_name() { return "燕国"; }
+15116|<O>| send_user(who, "%c%s", '!', "蜘蛛精 1/1");
+15117|<O>| send_user(who, "%c%s", '!', "鬼精怪 1/1");
+15118|<O>| ESC "将" + name2 + "作为我的回城点。\n" + cmd2 +
+15119|<O>| send_user(who, "%c%s", '!', "夫妻任务失败！");
+15120|<O>| send_user(who, "%c%s", '!', "石大龙 1/1");
+15121|<O>| item = new ("/item/01/6000");    // 男布衣
+15122|<O>| return "金星精灵死后的魂魄精华，石刻、裁缝、铁匠生活技能需要的材料";
+15123|<O>| send_user(me, "%c%s", '!', "春节活动关闭了!");
+15124|<O>| ESC"离开", who->get_name(), id, id, id));
+15125|<O>| send_user(me, "%c%s", '!', "申请的返回值不对");
+15126|<O>| && inside_screen_2(me, npc))    // 同屏幕内
+15127|<O>| send_user(who, "%c%s", '!', "你的出货单呢?");
+15128|<O>| notify(who->get_name() + "要再过5秒才有得卖。");
+15129|<O>| send_user(who, "%c%s", '!', "51活动关闭！");
+15130|<O>| else if (p < 100 * rate / 100)    // 金钱
+15131|<O>| send_user(who, "%c%s", '!', "你已经领过了！");
+15132|<O>| //              notify( "您在摆摊，不能乱跑。" );
+15133|<O>| send_user(team[0],"%c%s",'!',"你的仙丹呢?");

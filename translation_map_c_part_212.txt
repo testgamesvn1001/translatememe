@@ -1,0 +1,53 @@
+6164|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 83, "Phá bỏ tin đồn 5");
+6165|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 40, "Khởi nguồn từ thức ăn");
+6166|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 71, "Loạn Bình Dương 3");
+6167|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 47, "Con đường nhân duyên 1");
+6168|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 24, "Ánh sáng kỳ dị");
+6169|<O>| send_user(who, "%c%s", ';', sprintf("Thăm lão tiêu đầu Úy Trì Kinh nghiệm 300 Tiềm năng 35 Tiền 500"));
+6170|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 16, "Kiếm hồn trầm mặc");
+6171|<O>| result += sprintf(ESC HIY "Thần binh tuyệt thế\ntalk %x# welcome.6\n", getoid(me));
+6172|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 18, "Truyền thuyết thần y");
+6173|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 4, "Rượu tặng huynh Đinh");
+6174|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 103, "Hồn hề trở về");
+6175|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 72, "Loạn Bình Dương 4");
+6176|<O>| tmp += sprintf(ESC HIY "Chạm khắc Tù Và Vương Giả\ntalk %x# welcome.8\n", getoid(me));
+6177|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_MAOSHAN, 6, "Du hồn（7）");
+6178|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 40, "Bí mật（3）");
+6179|<O>| tmp += sprintf(ESC HIY "Chạm khắc Tù Và Vương Giả\ntalk %x# welcome.4\n", getoid(me));
+6180|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 65, "Truyền thuyết Đao Hồn 2");
+6181|<O>| FAMILY_D->org_channel(name, 0, sprintf(HIR "Đợt quái thứ %d bắt đầu phát động tấn công！", time));
+6182|<O>| DEBUG(sprintf("check_time, thời gian game hiện tại %s",short_time(get_party_time())));
+6183|<O>| CHAT_D->sys_channel(0,HIR"Đội trưởng vệ đội cứ đến đầu giờ lẻ lại bắt đầu tưởng mình là Hoàng Kim Thánh Đấu Sĩ, mau đi xem hắn cần giúp gì！");
+6184|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 30, "Khảo nghiệm cuối cùng");
+6185|<O>| tell_user(team, "Bạn dùng thiên nhãn thấy %s ở %s(%d,%d)。", npc->get_name(), name, x, y);
+6186|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 1, 2,TID_QIXI,9,"Thất Tịch trời ban kỳ duyên（2）" );
+6187|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 79, "Phá bỏ tin đồn 1");
+6188|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_NEWBIE_01,5,"Ngọc bội gia tộc" );
+6189|<O>| return HIC+get_name()+"\nThú cưng có kỹ năng này khi bị cận chiến vật lý tấn công, kẻ tấn công có\n10% xác suất rơi vào trạng thái mộng du trong 6 giây。";
+6190|<O>| if (sec % 180 == 0) NPC_BATTLE_D->war_begin_notice(map);    // Xử lý mỗi 3 phút
+6191|<O>| sprintf("Vũ khí:(%d)%s %x#", get_d(obj), obj->get_name(), getoid(obj)));
+6192|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 73, "Hỏi thăm tin tức");
+6193|<O>| return sprintf(PF_NAME ":\n　　Mỗi 2 giây tiêu hao %d điểm khí huyết。\n", me->get("pf.fmp"));
+6194|<O>| result += sprintf(ESC HIY "Kỳ ngộ lang bạt\ntalk %x# welcome.1\n", getoid(me));
+6195|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 26, "Bữa tối khó chiều");
+6196|<O>| return HIC+get_name()+"\nThú cưng có kỹ năng này khi gây sát thương vật lý cho địch sẽ đồng thời\nhồi cho bản thân lượng khí huyết bằng 10% sát thương gây ra lên địch。";
+6197|<O>| return "Một loại rối gỗ hình người gọi là Vua Nhân Khí được lưu truyền từ thời thượng cổ, khi\nnhân khí bang phái dưới 1000, dùng nó sẽ tăng nhân khí bang phái thêm 1000. Hồi chiêu 2 giây。";
+6198|<O>| tmp += sprintf(ESC HIY "Thiệp mời của Thôi đại quan nhân\ntalk %x# welcome.8\n", getoid(me));
+6199|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 29, "Con gấu ngốc ăn trộm tiền");
+6200|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHOUGUO, 15, "Dò xét hư thực");
+6201|<O>| } else if(rate < 9956 ) {	//	iv.	10 xác suất rơi đá pháp lực nhỏ		//8-23	xii.	5 xác suất rơi đá pháp lực nhỏ
+6202|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 64, "Truyền thuyết Đao Hồn 1");
+6203|<O>| tmp += sprintf(ESC HIY "Thu thập linh kiện cơ quan\ntalk %x# welcome.24\n", getoid(me));
+6204|<O>| private int CP0, CP;                            // Tấn công pháp thuật("cp", "cp%")
+6205|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 28, "Cướp bóc nhà dân");
+6206|<O>| CHAT_D->sys_channel(0,HIY"Các bằng hữu người chơi Đại Thoại Chiến Quốc ơi, hoạt động Trùng Dương sẽ bắt đầu sau mười phút nữa, mọi người mau chuẩn bị nhé！");
+6207|<O>| result = sprintf("%s\n    Hãy căn cứ theo cấp của bạn để chọn chiến trường phù hợp với cấp độ。\n", who->get_name());
+6208|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 33, "Điều kiện của bọn bắt cóc");
+6209|<O>| send_user(me, "%c%s", '!', sprintf("Bạn đã trộm thành công %s。", item->get_name()));
+6210|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 28, "Kiến nghị của ngự sử");
+6211|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 85, "Trình bày sự thật");
+6212|<O>| CHAR_FIGHT_D->attack_done(me, who, HIT_SPEAR, ADD_AP);    // Cẩn thận chuẩn bị me
+6213|<O>| send_user(who, "%c%s", ';', "Trừ ác phạt hung Kinh nghiệm 6350 Tiềm năng 260 Tiền 5500 Bản vẽ Dây Chuyền Viêm Dương 1");
+6214|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 12, "Kinh hồn Trường Thành");
+6215|<O>| tmp += sprintf(ESC"Mua công thức kỹ năng luyện đan cấp 1-20\nlist %s\n", me->get_char_id());
+6216|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 81, "Phá bỏ tin đồn 3");

@@ -1,0 +1,40 @@
+3841|<O>| name = sprintf("%s(%d cấp)", PF_NAME, (me->get_skill(THIS_SKILL) - SKILL_LEVEL) / 16 + 1);
+3842|<O>| name = sprintf("%s(%d cấp)", PF_NAME, (me->get_skill(THIS_SKILL) - SKILL_LEVEL) / 11 + 1);
+3843|<O>| result = sprintf("%s\n    Thật xin lỗi, số người tham gia chiến trường này đã đạt giới hạn tối đa. Ngươi vẫn nên chọn một chiến trường khác phù hợp hơn。\n", who->get_name() );
+3844|<O>| NPC_ENERGY_D->init_copy_npc(this_object(), 63 + random(2), ({ "Nhân hình","Cường tráng","Vũ khí" }));    //
+3845|<O>| if (who->get_lost_poison()) prop += ({ sprintf("Ngự độc:%+3d%%", who->get_lost_poison()) });
+3846|<O>| send_user(me, "%c%c%d%d%s", '?', 3, 0, me->get_save("fly"), "Ngài muốn di chuyển tới bên người chơi nào？Xin nhập ID số của đối phương:\n"
+3847|<O>| NPC_ENERGY_D->init_copy_npc(this_object(), 46 + random(2), ({ "Nhân hình","Cường tráng","Vũ khí" }));    //
+3848|<O>| "Bọn chúng tưởng rằng bỏ đồ vào rương báu thì sẽ là của mình, nên phải cẩn thận đòn tấn công của chúng. Còn Tru Tiên Trận thì đi từ Thái Công Phủ vào, sau khi vào cứ đi thẳng về phía trước là rất dễ phát hiện ra, có lẽ ở ngay bên cạnh tượng dũng đó, lần trước ta đã gặp hung hồn Cùng Kỳ ở đó，"
+3849|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này, khi công kích vật lý có 15％ xác suất khiến địch trúng độc，\nngười trúng độc cứ mỗi 2 giây chịu 15 điểm sát thương độc tính, kéo dài 20 giây, hiệu quả kỹ năng\nkhông cộng dồn。";
+3850|<O>| result += sprintf( "Môn phái áp dụng: %s%s\n", name2 != me->get_family_name() ? HIR : NOR, name2	);
+3851|<O>| if (get_effect(me, EFFECT_CHAR_WOUND)) set_effect(me, EFFECT_CHAR_WOUND, 1);    // Trạng thái bị thương
+3852|<O>| ESC "Đóng\nCLOSE\n", me->get_name(), who->get_double_time() - p - who->get_game_time()));
+3853|<O>| NPC_ENERGY_D->init_copy_npc(this_object(), 44 + random(2), ({ "Nhân hình","Cường tráng","Tay không" }));    //
+3854|<O>| ESC "Đóng\nCLOSE\n", me->get_name(), who->get_double_time() - i - who->get_game_time()));
+3855|<O>| int set_mtask_xy(int z, int x, int y, string id, string intro)    // id:tham khảo send_mtask_xy
+3856|<O>| if( ( point = who->get_hurt_rate() ) && random(100) < who->get_hurt_rand() )    // Phản đòn sát thương
+3857|<O>| NPC_ENERGY_D->init_copy_npc(this_object(), 54 + random(3), ({ "Vong linh","Cường tráng","Vũ khí" }));    //
+3858|<O>| name = sprintf("%s(%d cấp)", PF_NAME, (me->get_skill(THIS_SKILL) - SKILL_LEVEL) / 10 + 1);
+3859|<O>| name = sprintf("%s(%d cấp)", PF_NAME, (me->get_skill(THIS_SKILL) - SKILL_LEVEL) / 19 + 1);
+3860|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng:15 cấp\n    Chu Thiên pháp chú, trong 60 phút liên tục tăng phòng ngự vật lý và phòng ngự pháp thuật cho bản thân hoặc đồng đội。\nTiêu hao vật phẩm: Chu Thiên Tâm Pháp\n";
+3861|<O>| result += sprintf("Phó thành chủ:%s、%s\n", city->get_master_name_2(), city->get_master_name_3());
+3862|<O>| NPC_ENERGY_D->init_copy_npc(this_object(), 53 + random(2), ({ "Nhân hình","Cường tráng","Vũ khí" }));    //
+3863|<O>| if (get_effect(me, EFFECT_CHAR_CHAN)) set_effect(me, EFFECT_CHAR_CHAN, 1);    // Gỡ hiệu quả dính tay
+3864|<O>| NPC_ENERGY_D->init_copy_npc(this_object(), 58 + random(3), ({ "Nhân hình","Cường tráng","Ám khí" }));    //
+3865|<O>| name = sprintf("%s(%d cấp)", PF_NAME, (me->get_skill(THIS_SKILL) - SKILL_LEVEL) / 14 + 1);
+3866|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng:13 cấp\n    Một nhát chém phá tà chú, cộng thêm 20 điểm công vật lý, đồng thời khi gây sát thương có thể xua tan một trạng thái tăng ích trên người mục tiêu。";
+3867|<O>| if (objectp(who) && who->get("overdue") == 1 && sizeof(member) == 0)//không có người chơi và NPC hết hạn, xóa chủ nhân)
+3868|<O>| /*------------------------------------Hoàn tất--------------------------------------------*/
+3869|<O>| send_user(who, "%c%s", ':', get_name() + ":\nTừ sau khi dạy dỗ bù nhìn rơm, chúng không dám tới nữa, nhưng gần đây lại có rất nhiều ong nhỏ đi chích người, cũng đáng ghét lắm！\n"
+3870|<O>| if (objectp(item = present("Thư tín hộ tịch", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3871|<O>| /************************************************Hàm nội bộ********************************/
+3872|<O>| NPC_ENERGY_D->init_copy_npc(this_object(), 54 + random(3), ({ "Yêu","Cường tráng","Ngũ Lôi" }));    //
+3873|<O>| if (objectp(item = present("Khôi giáp nước Tần", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3874|<O>| me->get_name() + ":\n    Mã nhận thưởng của ngươi là:" + res + "\n    Dựa vào mã này, trong server nội trắc, sau khi đạt cấp 20 có thể nhận các gói quà lớn khác nhau. Hãy ghi nhớ。");
+3875|<O>| private int in_time_area(int time_int, int time_from, int time_to);	//	Phán đoán một thời điểm có nằm trong một đoạn thời gian hay không
+3876|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này, khi nó được triệu hồi ra, sát thương vật lý của chủ nhân tăng 5%，\nkhi thú cưng này bị thu hồi hoặc chết đi, giới hạn sát thương vật lý của chủ nhân trở lại bình thường。";
+3877|<O>| send_user(who, "%c%s", ':', sprintf("%s\n    Ngài dường như không phải hội viên VIP。\n"ESC"Rời khỏi", me->get_name()));
+3878|<O>| if ((sLeader = me->get_leader()) && sLeader==owner->get_leader() ) notify( "Không thể tấn công đồng đội" );
+3879|<O>| if ((p = get_jumpout(z0, x, y)) && MAP_D->can_jump(me, z0, z = p / 1000000)  // Nhảy sang cảnh khác
+3880|<O>| if (objectp(item = present("Linh kiện cơ quan", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)

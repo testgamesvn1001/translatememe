@@ -1,0 +1,66 @@
+﻿11396|<O>| case 'U': send_user(me, "%c%s", '!', "中文名含有敏感字串！");
+11397|<O>| case '-': send_user(me, "%c%s", '!', "无法增加新的玩家号！");
+11398|<O>| if (arrayp(user = me->get_team()))    // 更新队员坐标(删除)
+11399|<O>| who->add_hp( - who->get_hp() / 2 );    // 气血、法力减少一半
+11400|<O>| object item214_1 = new ("item/04/0421");    //神秘的种子
+11401|<O>| return HIC+get_name()+"\n拥有此技能的宠物，抵御火系攻击法术30%的伤害。";
+11402|<O>| ({"如果你想很轻松的去周国，应该要找谁？","驿站老板","门派向导","酒店老板","牛二"}),
+11403|<O>| result = sprintf("                   欢迎进入战国排行榜\n");
+11404|<O>| who->set_city_name(me->get_city_name());    // 用于战场
+11405|<O>| damage += damage * damage_rate / 100;    // 特殊技附加伤害
+11406|<O>| send_user( who, "%c%s", '!', "你的等级太低了，不适合路途的颠簸。" );
+11407|<O>| case "茅山": z = 269;  p = get_jumpin(z, 20);  break;
+11408|<O>| private static string ProgressArg;       // 带进度条的参数
+11409|<O>| sprintf("%s:\n    你――你不――不是队长，这――这个重任不――不能交――交托给你。"
+11410|<O>| for (i = 0, size = sizeof(inv);i < size;i++)	//拿走葫芦
+11411|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 3, "百步穿杨施放中……");
+11412|<O>| if( rate < 1000 ) {	//	i.	1000的几率掉落一件同等级段的随机门派蓝色装备。
+11413|<O>| printf( ECHO "使用“" PF_NAME "”需要 %d 点法力。", SUB_MP );
+11414|<O>| send_user(me, "%c%s", '!', "当前团队已达到组队上限，不可再加入队伍！");
+11415|<O>| private static int* FighterRate = ({ });	// 怪物的分配比例
+11416|<O>| result = sprintf(ESC "脱离师门！\nlearn x.? %x#\n", id);
+11417|<O>| if (p = get_valid_xy(z, x, y, IS_ITEM_BLOCK))	//小血石
+11418|<O>| case "蜀山": z = 273;  p = get_jumpin(z, 20);  break;
+11419|<O>| send_mingren_data(who,Cash_players,"cash"); //发送财富表
+11420|<O>| private int Cash;                       // 资金(流动资金)
+11421|<O>| p_str += ({ FINAL_D->file_final("桃花源",70,85,-1) });
+11422|<O>| send_user(who, "%c%s", '!', "恭喜您！您打开重阳礼包得到了5000金");
+11423|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 20, "准备逃离战场……");
+11424|<O>| if (p = get_valid_xy(z, x, y, IS_ITEM_BLOCK))	//小法石
+11425|<O>| if (get_heart_state(me) == FIGHT_STAT)    // 走路取消战斗
+11426|<O>| + ESC"领取补偿\n" + sprintf("talk %x# welcome.1\n", id)
+11427|<O>| && file->perform_done(me, who) == 2)    // 特技攻击(完成)
+11428|<O>| if (gone_time(get("birthday")) >= 1200)    // 20 分钟
+11429|<O>| send_user(who, "%c%s", '!', "恭喜您已经获得了三天的VIP包试用服务");
+11430|<O>| log_file(CLONE_LOG, sprintf("%s %s(%s) 复制 %s %s\n",
+11431|<O>| return HIC+get_name()+"\n拥有此技能的宠物，抵御土系攻击法术60%的伤害。";
+11432|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 10, "旋风诀施放中……");
+11433|<O>| SAY_CMD->say(me, enemy->get_name() + "，快来接受挑战吧！！");
+11434|<O>| string *week_day = ({"日","一","二","三","四","五","六"});
+11435|<O>| return HIC+get_name()+"\n拥有此技能的宠物，抵御土系攻击法术30%的伤害。";
+11436|<O>| private int active_is_open  	   = 1;					//	活动的开关状态
+11437|<O>| "相思是一种浓浓的酒，总在举杯时散发出醉人的芬芳；乡愁是一份厚厚的情，总在月圆时轻唤起难言的惆怅。",
+11438|<O>| private static int Zombie = 0;          // 召唤兽(被魅惑)
+11439|<O>| write_user(me, ECHO "您还不足以控制%s。", who->get_name());
+11440|<O>| // int is_moveable() { return 0; }    // 禁止使用 go 命令
+11441|<O>| p_str += ({ FINAL_D->file_final("桃花源",69,30,-1) });
+11442|<O>| ESC"等我充值了再说\ntalk %x# bonus.41\n", id, id, id, id);
+11443|<O>| CHAT_D->rumor_channel(0, CHAT + "驱尸道长已经被勇敢的玩家所消灭");
+11444|<O>| 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, });    // 传奇记录表(主线任务)
+11445|<O>| if (p = get_valid_xy(z, x, y, IS_ITEM_BLOCK))	//玉灵液
+11446|<O>| return HIC+get_name()+"\n拥有此技能的宠物，抵御火系攻击法术60%的伤害。";
+11447|<O>| send_user(who, "%c%s", ';', "酿酒的原材料 经验 220 潜能 10");
+11448|<O>| case CAVE_MAP: printf(ECHO "这里不能使用“" PF_NAME "”。");
+11449|<O>| p_str += ({ FINAL_D->file_final("桃花源",70,30,90) });
+11450|<O>| printf(ECHO "你拿出 %d 金给%s。", gold, who->get_name());
+11451|<O>| delete_save_2(sprintf("player.%d",oldid));//删除这个旧记录
+11452|<O>| if( me->get_enemy() == who ) return 1;    // 有对手则继续
+11453|<O>| iStart1 = mktime(year,mon,day,hour,min,0);	//活动开始时间
+11454|<O>| send_user(me, "%c%s", '!', "你并无分配点数到精神中，不能使用洗点丸。");
+11455|<O>| case "昆仑山" : if( type != SWORD ) flag = -1;  break;
+11456|<O>| else if (city->get_save_2("war.attack"))    // 发动战争
+11457|<O>| write_user(who, ECHO "您的声望 %+d, 金钱 %+d。", p, gold);
+11458|<O>| npc->set_city_name(me->get_city_name());    // 用于战场
+11459|<O>| //			send_user( who, "%c%s", ';', HIY"请等待其他玩家选择" );
+11460|<O>| if (gone_time(get("birthday")) >= 3600)    // 30 分钟
+11461|<O>| result = me->get_name() + ":\n    使用骑宠必须拜入某个门派。\n";

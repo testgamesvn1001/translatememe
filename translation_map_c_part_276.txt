@@ -1,0 +1,62 @@
+﻿9807|<O>| if (!objectp(item_q = present("黑球", who, 1, MAX_CARRY)))
+9808|<O>| tmp += sprintf(ESC HIY "远征\ntalk %x# welcome.17\n", id);
+9809|<O>| HIR "耐力" NOR "决定了你的物理防御能力高低，这个属性与力量是相对的，你的耐力越高，敌人对你所造成的"
+9810|<O>| //		npc->set_name(sprintf("%s的师叔", player->get_name()));
+9811|<O>| private static int Color1;              // 衣着颜色(色码２，色码１)
+9812|<O>| private static mapping mpNPC = ([]);           // NPC 数组
+9813|<O>| send_user(me, "%c%s", ';', sprintf("你已成功购买了%d点元宝！", i));
+9814|<O>| send_user(who, "%c%s", ';', "百步仙 经验 200 金钱 3000 回城符 5");
+9815|<O>| case 6: name3 = "商业";  city->add_money(-500000);  break;
+9816|<O>| case 9: point = item->get_heart_sec();  break;    // 招魂幡
+9817|<O>| if (TASK_LEGEND_D->check_task_item(who, "秦国盔甲", 5) != 1)
+9818|<O>| send_user(who, "%c%s", '!', sprintf(HIY"救急丸 %d/20", i));
+9819|<O>| if (TASK_LEGEND_D->check_task_item(who, "油菜籽", 10) != 1)
+9820|<O>| if (TASK_LEGEND_D->check_task_item(who, "云雾茶叶", 1) != 1)
+9821|<O>| send_user( who, "%c%s", '!', "不能向“" + name + "”发动战争。" );
+9822|<O>| case 7: name3 = "艺术";  city->add_money(-500000);  break;
+9823|<O>| if (objectp(soldier = me->get("soldier")))    // 停止召唤兽攻击
+9824|<O>| buf += sprintf(ESC"领取奖励\ntalk %x# bonus\n",getoid(npc));
+9825|<O>| private static mapping mpXY = ([]);            // NPC 定义
+9826|<O>| send_user(me, "%c%s", '!', sprintf("您防御提升还剩%d秒", time));
+9827|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 10, PF_NAME+"进行中……");
+9828|<O>| if (TASK_LEGEND_D->check_task_item(who, "救急丸", 20) != 1)
+9829|<O>| case 1: send_user(who, "%c%s", ':', "您:\n听说官府要加重渔业税了。");
+9830|<O>| case 5: name3 = "工业";  city->add_money(-500000);  break;
+9831|<O>| case 2: name3 = "农业";  city->add_money(-500000);  break;
+9832|<O>| tmp = sprintf(ESC HIY "寻找宝物\ntalk %x# welcome.6\n", id);
+9833|<O>| send_user(who, "%c%s", '!', sprintf(HIY"螳螂妖 %d/10", i));
+9834|<O>| string* desc = ({ "仁爱", "正义", "忠实", "诚信", "勇敢", "智谋" });
+9835|<O>| //	send_user( this_player(), "%c%s", '!', "合成功能尚未开放。" );
+9836|<O>| if (TASK_LEGEND_D->check_task_item(who, "贵重物品", 1) != 1)
+9837|<O>| me->add_mp(-PF_FILE_02321->get_sub_mp_2(me));    // 扣减法力
+9838|<O>| private static mapping Beast = ([]);           // 召唤兽对应表
+9839|<O>| case 3: send_user(who, "%c%s", ':', "您:\n听说官府要加重工业税了。");
+9840|<O>| if (TASK_LEGEND_D->check_task_item(who, "小鸡饲料", 1) != 1)
+9841|<O>| write_user(who, ECHO "%s对征兵没兴趣，已经走开了。", me->get_name());
+9842|<O>| send_user(who, "%c%s", '!', sprintf(HIY"罐中妖 %d/20", i));
+9843|<O>| case 2: level = 30;  log_file(LIST_LOG, "蜀山\n");  break;
+9844|<O>| if (TASK_LEGEND_D->check_task_item(who, "平阳信函", 1) != 1)
+9845|<O>| if (TASK_LEGEND_D->check_task_item(who, "凤凰玉佩", 1) != 1)
+9846|<O>| send_user(who, "%c%s", '!', "建设“" + name3 + "”任务还未完成。");
+9847|<O>| orgnpc->set_battle(z);  npc->set_battle(z);    // 记录战场编号
+9848|<O>| if (!objectp(item = present("年兽的角", who, 1, MAX_CARRY)))
+9849|<O>| _DEBUG(sprintf("DEBUG -- 本次时钟编号是:%d", all_clocks_size));
+9850|<O>| write_user(who, ECHO "您用 %d 点功德兑换了 %d 金。", p1 / 10, p2);
+9851|<O>| if (TASK_LEGEND_D->check_task_item(who, "桦木神笔", 1) != 1)
+9852|<O>| private int Con;                 // 体魄，根骨   Constitution
+9853|<O>| send_user(me, "%c%s", '!', who->get_name() + "不想跟你交易。");
+9854|<O>| if (item->get_name() != "济世宝玉" || !item->is_jishihulu())
+9855|<O>| notify("您向%s兑到 %s。", who->get_name(), file->get_name());
+9856|<O>| send_user(who, "%c%s", '!', "离你上次食用喜糖还不到一小时，此时你还不能食用！");
+9857|<O>| if (level >= me->get_max_skill_level_3())    // 限制:等级、最高
+9858|<O>| return "［迷魂诀］云梦泽的特殊技法，可迷魂怪物为玩家所用。且每级可追加0.05％的法术暴击效果。\n";
+9859|<O>| CHAT_D->rumor_channel(0, CHAT + "据说威武大将军正带着他的部下在牧场练兵。");
+9860|<O>| if (TASK_LEGEND_D->check_task_item(who, "魔晴石", 10) != 1)
+9861|<O>| tmp = sprintf(ESC HIY "买椟还珠\ntalk %x# welcome.1\n", id);
+9862|<O>| send_user(who, "%c%s", '!', sprintf(HIY"罐中妖 %d/10", i));
+9863|<O>| iFinish_n = mktime(year, mon, day, hour, min, 0);	//结束时间
+9864|<O>| private static object* dbTower2 = ({ });        // 防守方箭塔
+9865|<O>| if (TASK_LEGEND_D->check_task_item(who, "施政奏章", 1) != 1)
+9866|<O>| tmp += ESC + sprintf("追捕%s。\n", npc->get_name()) + cmd2;
+9867|<O>| send_user(who, "%c%s", ']', "您得到" HIY "潜能" NOR " 2 点！");
+9868|<O>| send_user(who, "%c%s", '!', sprintf(HIY"叛军剑兵 %d/4", i));

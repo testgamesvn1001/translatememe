@@ -1,0 +1,32 @@
+2608|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Chẳng lẽ đao pháp của Hồ Tử Sơn lại tiến bộ rồi sao？\n"ESC"Rời khỏi", me->get_name()));
+2609|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Không có hùng hoàng thì không có cách nào ủ rượu hùng hoàng đâu。\n"ESC"Rời khỏi", me->get_name()));
+2610|<O>| send_user(player,"%c%c%w%s",':',3,npc->get_char_picid(),sprintf("%s:\n   Rất xin lỗi, hình như ngươi vẫn chưa bắt được nguyệt thỏ。\n"ESC"Xác định",npc->get_name()));
+2611|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Haizz, lần sau ngươi tới thì nhặt xác cho ta luôn đi。\n"ESC"Rời khỏi", me->get_name()));
+2612|<O>| log_file("getitem.txt", sprintf("%s %s %d nhận %s thất bại\n", short_time(), me->get_id(), me->get_number(), item->get_name()));
+2613|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Xem ra ngươi vẫn chưa đủ tư cách làm một vệ binh đâu！\n"ESC"Rời khỏi", me->get_name()));
+2614|<O>| //	CHAT_D->sys_channel(0,HIY"Một đám đạo tặc vừa cướp xong hoàng cung vẫn đang nhởn nhơ ngoài vòng pháp luật, nghe nói hiện đang lẩn trốn bên ngoài. Có lẽ ở bất cứ đâu trên thế giới ngươi cũng có thể bất ngờ chạm mặt chúng！Bọn đạo tặc này hung ác vô cùng, hãy gọi bạn bè và đồng môn sư huynh đệ của ngươi cùng đi lùng bắt đi！Nghe nói bảo vật mà bọn chúng mang theo cũng cực kỳ phong phú đấy！");
+2615|<O>| send_user( who, "%c%c%w%s", ':',3,me->get_char_picid(), sprintf("%s:\n    Bang phái của ngươi không đăng ký đánh Vô Song Thành hôm nay！\n"ESC"Rời khỏi",me->get_name()));
+2616|<O>| if (!sizeof(nXy) || !(owner = item->get("owner")) || gone_time(item->get("begin")) > item->get("interval"))    // Trận pháp đã xong chưa
+2617|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Chẳng lẽ bảo kiếm đã bị người khác lấy mất rồi sao？\n"ESC"Rời khỏi", me->get_name()));
+2618|<O>| send_user( get_scene_object_2(who, USER_TYPE), "%c%w%w%w%c%c%c", 0x4f, x, y, 2571, 1, OVER_BODY, PF_ONCE );    // Gửi bù chỉ lệnh
+2619|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Người quá đông, thưởng không dễ chia đâu！\n"ESC"Rời khỏi", me->get_name(), ));
+2620|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Vẫn chưa truyền đạt ý của ta cho quan tài chính sao?\n"ESC"Rời khỏi", me->get_name()));
+2621|<O>| send_user(who,"%c%c%w%s",':',3,me->get_char_picid(),sprintf("%s:\n    Hoạt động nhận đôi ở đây đã kết thúc rồi。Chúc ngươi chơi game vui vẻ！\n"ESC"Rời khỏi",me->get_name()));
+2622|<O>| send_user( who, "%c%c%w%s", ':',3,me->get_char_picid(), sprintf("%s:\n    Bang phái của ngươi chưa đăng ký công thành, không thể chiếm lĩnh！\n"ESC"Rời khỏi",me->get_name()));
+2623|<O>| send_user(player, "%c%c%w%s", ':', 3, npc->get_char_picid(), npc->get_name() + ":\n	Chỗ trống ô đạo cụ trên người ngài không đủ, xin hãy chừa ra một ô rồi quay lại nhận cuốc nhỏ đào bảo.");
+2624|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Xem ra ta phải tự mình đi tìm tấm bảo kính đó。\n"ESC"Rời khỏi", me->get_name()));
+2625|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Hộp của ta đâu？Công Thâu Ban làm xong chưa？\n"ESC"Rời khỏi", me->get_name()));
+2626|<O>| send_user(who,"%c%c%w%s",':',3,me->get_char_picid(),sprintf("%s:\n    Hôm nay ngài chẳng phải đã nhận một lần rồi sao？Ngày mai hãy quay lại nhé。\n"ESC"Rời khỏi",me->get_name()));
+2627|<O>| send_user(me, "%c%c%w%s", ':', 3, who->get_char_picid(), sprintf("%s\n    Xin lỗi, tiền trên người ngươi không đủ。\n"ESC"Rời khỏi", who->get_name(), ));
+2628|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi cũng không phải đối thủ sao？Vậy biết làm sao đây？\n"ESC"Rời khỏi", me->get_name()));
+2629|<O>| send_user(who, "%c%c%w%s", ':', 3, get_char_picid(), sprintf("%s:\n    " + "Gần đây ta vì một chuyện nào đó mà hơi đau đầu。\n", get_name(), getoid(me)) +
+2630|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi không phải đội trưởng, không thể nhận nhiệm vụ！\n"ESC"Rời khỏi", me->get_name(), ));
+2631|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ta thấy ngươi vẫn nên dẹp ý định lấy bảo vật đi thì hơn！\n"ESC"Rời khỏi", me->get_name()));
+2632|<O>| send_user( who, "%c%c%w%s", ':',3,me->get_char_picid(), sprintf("%s:\n    Chỉ có bang chủ mới có tư cách đăng ký công chiếm Vô Song Thành！\n"ESC"Rời khỏi",me->get_name()));
+2633|<O>| rawurlencode(who->get_id()), time(), MAIN_D->get_region(), MAIN_D->get_host(), 1, price, get_ip_name(who)));    // Trừ điểm！
+2634|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Xem ra ta vẫn nên tìm người khác giúp đỡ thì hơn！\n"ESC"Rời khỏi", me->get_name()));
+2635|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ta định để con trai ta đi tìm viên bảo châu đó。\n"ESC"Rời khỏi", me->get_name()));
+2636|<O>| log_file(file, sprintf(cpp, famtype, name, pic, pic, level, value, lasting, dp, pp, sex == "Nam" ? 1 : 2, armor, name));
+2637|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi đã dò la được tin tức ở chỗ Tần quản gia chưa？\n"ESC"Rời khỏi", me->get_name()));
+2638|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), "Sứ giả hoạt động Chiến Quốc:\n    Vật phẩm trên người ngài hình như hơi nhiều rồi, trước tiên hãy tới cửa hàng hoặc tiệm cầm đồ dọn bớt túi rồi quay lại chỗ sứ giả này nhận quà nhé～");
+2639|<O>| send_user(who, "%c%c%w%s", ':', 3, this_object()->get_char_picid(), "Như Ý Tiên Tử:\n    Sao nào？Hiệu quả của tinh thạch không tệ chứ～ Sau khi tinh luyện, hiệu suất tiêu diệt quái vật của vũ khí nhất định sẽ cao hơn.");

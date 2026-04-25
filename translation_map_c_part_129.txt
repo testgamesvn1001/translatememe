@@ -1,0 +1,32 @@
+2544|<O>| CHAT_D->sys_channel(0,HIY"Không hay rồi, một số khỉ hư, heo hư và gấu lớn hư đã xuất hiện trong ruộng dưa của "HIR"Tây Qua Bá Bá"HIY"，chúng nhất định đang muốn cướp dưa hấu, mọi người mau bắt chúng lại rồi giao cho "HIR"Tây Qua Bá Bá"HIY" xử phạt nhẹ chúng đi！");
+2545|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Được thôi, nhưng gói quà này chỉ bán trong thời gian Quốc Khánh thôi, bỏ lỡ thì tiếc lắm đấy。Có muốn ta lén giữ lại cho ngươi một phần không？Hê hê！\n"
+2546|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Nếu không tìm được thì vĩnh viễn đừng mong biết tại sao！\n"ESC"Rời khỏi", me->get_name()));
+2547|<O>| ESC "Ta chỉ đi ngang qua dạo chơi thôi\nCLOSE\n", who->get_name(), "/quest/word"->get_normal_word(who), getoid(who), getoid(who), getoid(who)));
+2548|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Xem ra cái mạng này của ta sẽ phải bỏ lại trên Trường Thành rồi。\n"ESC"Rời khỏi", me->get_name()));
+2549|<O>| if (who->get_legend(TASK_23, 11) && !who->get_legend(TASK_23, 13) && objectp(pet = USER_BEAST_D->have_beast(who, "Chó đốm")))
+2550|<O>| case EFFECT_CHAR_DREAM_0: GO_CMD->main(me, sprintf("%d,%d %d", get_x(me), get_y(me), random(8) + 1), 1);    // Đi bộ ngẫu nhiên(hệ thống kiểm tra)
+2551|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Kiếm đâu？Đừng làm lỡ đại kế hành quân của bổn tướng quân！\n"ESC"Rời khỏi", me->get_name()));
+2552|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi vẫn chưa mang tới linh hồn oan quỷ sao？Thật lo quá！\n"ESC"Rời khỏi", me->get_name()));
+2553|<O>| rate += me->get_hit_rate() - who->get_dodge_rate() - who->get_2("suit_effect.dodge") + hit_rate;    // Bổ sung chính xác đánh trúng－bổ sung né tránh＋chính xác đánh trúng cộng thêm của kỹ năng đặc biệt
+2554|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Chúc mừng ngươi trở thành Tân Nhân Vương được vạn người chú ý！\n"ESC"Rời khỏi", me->get_name(), ));
+2555|<O>| send_user(who, "%c%s", ':', me->get_name() + ":\n    " + "/quest/word"->get_country_word(me) + "\n    Ta là quan hộ tịch của thành này, ngài có việc gì？\n"
+2556|<O>| tell_user(me, "Ngài đã mua %s từ %s với giá %d, chỉ số giá đá tinh thể %s biến thành %d。", name, who->get_name(), price, name, who->get_save_2("diamond." + dtype));
+2557|<O>| result = get_name() + ":\n    Ông chủ tiệm vũ khí thật sảng khoái nhỉ！Ha ha, ta đã nói rồi, ông ấy là người thẳng thắn。Ta thích giao thiệp với kiểu người như vậy nhất。Thanh kiếm gỗ này tuy không đáng bao nhiêu tiền, nhưng với ta nó có tác dụng lớn lắm。Cụ thể có tác dụng gì, ta không nói cho ngươi biết đâu, hê hê。Đây là chút bí mật của lão già ta！\n"
+2558|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi vẫn nên tới cùng người có duyên của mình đi！\n"ESC"Rời khỏi", me->get_name(), ));
+2559|<O>| send_user(who,"%c%c%w%s",':',3,me->get_char_picid(),sprintf("%s:\n    Ngài đã nhận thành công 1 giờ kinh nghiệm gấp đôi, hãy tận dụng cho tốt nhé！\n"ESC"Rời khỏi",me->get_name()));
+2560|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi cũng dung túng cho tên tiểu tử đó, còn ai có thể đè nổi hắn nữa！\n"ESC"Rời khỏi", me->get_name()));
+2561|<O>| send_user( get_scene_object_2(who, USER_TYPE), "%c%w%w%w%c%c%c", 0x4f, x1, y1, 2571, 1, OVER_BODY, PF_ONCE );    // Gửi bù chỉ lệnh
+2562|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Không đủ gỗ thì không thể làm ra hộp tốt đâu……\n"ESC"Rời khỏi", me->get_name()));
+2563|<O>| return HIC+get_name()+"\nHổ sở hữu kỹ năng này, sau khi sử dụng kỹ năng,\ncon hổ sẽ tiến vào trạng thái siêu cấp, khí huyết, phòng vật lý,\nphòng pháp thuật, công vật lý và tất cả hiệu quả thuộc tính khác\nsẽ tăng gấp đôi. Trạng thái này\nsẽ kéo dài 15 phút, sau 15 phút sẽ khôi phục bình thường。\nThời gian hồi kỹ năng là 30 phút。";
+2564|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Không trừ bỏ tên gian tặc này, e rằng khó rửa sạch oan khuất cho đại tướng quân。\n"ESC"Rời khỏi", me->get_name()));
+2565|<O>| send_user(who, "%c%c%w%s", ':', 3, 40000, sprintf("%s:\n    Ở chỗ ta ngươi có thể học tất cả kỹ năng thạch khắc có thể học ở nước Sở, nhưng công thức cao cấp thì ngươi phải tới nước Sở tìm thợ thủ công mua。\n", get_name()));
+2566|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Xem ra chuyện ta mơ thấy là thật, đáng sợ quá。\n"ESC"Rời khỏi", me->get_name()));
+2567|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Haizz, xem ra bộ xương già này của lão hủ cũng phải bỏ mạng rồi。\n"ESC"Rời khỏi", me->get_name()));
+2568|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Xem ra loại rượu ngon hiếm có này là không thể xuất hiện được rồi。\n"ESC"Rời khỏi", me->get_name()));
+2569|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Hiện tại ngài không có bất kỳ khoản bồi thường nào có thể nhận！\n"ESC"Rời khỏi", me->get_name(), ));
+2570|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Đáng sợ quá, sau này sẽ không bao giờ tới nơi đó nữa！\n"ESC"Rời khỏi", me->get_name()));
+2571|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s: \nSao ngươi không thử chơi trò vượt ải này xem？\n"ESC"Rời khỏi", me->get_name()));
+2572|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    Đã bỏ ra nhiều bạc như vậy mà vẫn chưa có ai giết được lũ sâu bọ đáng chết đó sao！？Nếu không giết đủ mười tám con thằn lằn bốn chân thì đừng hòng lấy được một đồng nào！\n"ESC"Rời khỏi", me->get_name()));
+2573|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Xem ra nguyện vọng này của ta không có cách nào thực hiện được rồi。\n"ESC"Rời khỏi", me->get_name()));
+2574|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ừm, phụ thân già của ta ngày nào cũng nhắc mãi, ngươi có thể nhanh lên không？\n"ESC"Rời khỏi", me->get_name()));
+2575|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này, khi chết vào lúc kỹ năng\nkhông trong thời gian hồi, sẽ tự động hồi sinh sau 10 giây。\nSau khi hồi sinh, khí huyết và pháp thuật của nó đều còn lại\n50％。Kỹ năng có thời gian hồi sử dụng 30 phút。Sau khi hồi sinh, tuổi thọ của thú cưng\ntrừ đi 50, độ trung thành trừ đi 20。";

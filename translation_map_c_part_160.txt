@@ -1,0 +1,41 @@
+3674|<O>| send_user( member, "%c%c%d%s", 0x43, 7, 0, HIY"Tiểu đội của các ngươi đã mở được con đường kính tượng dẫn tới Yêu Kính, giờ ngươi có thể để Tả Khâu Minh đưa ngươi vào bên trong Phong Yêu Kính rồi。" );
+3675|<O>| //                        write_user(me, ECHO "Ngài lần theo manh mối %s, tìm thấy %s。", name, item->get_name() );
+3676|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng:31 cấp\nTiêu hao đạo cụ:6 lá bùa giấy\n    Phong tỏa hành động của toàn bộ địch nhân trong khu vực 3×3 của mục tiêu, khiến chúng không thể di chuyển trong 6 giây. Kỹ năng này vô hiệu với người chơi。";
+3677|<O>| "Intel(R) Pentium(R) D CPU 2.80GHz i386dde78949017a48f161da19c549017a48f161e", 	// Máy thử nghiệm 6.2
+3678|<O>| object* get_all_equip() { return ({ 0, 0, 0, 0, 0, 0, 0, 0 }); }    // Mảng trang bị: đầu、cổ、tay、thân、eo、chân、pháp bảo
+3679|<O>| result = sprintf("Thưởng kinh nghiệm:%s(%d)  %d\n", who->get_name(), who->get_number(), who->get_exp());
+3680|<O>| /*--------------------------------------Hồi gọi----------------------------------------------*/
+3681|<O>| send_user(who, "%c%s", ';', sprintf("Truyền thuyết Minh Kính  Kinh nghiệm 5800  Tiềm năng 210  Tiền 5000  %s 1", tmp->get_name()));
+3682|<O>| result = sprintf("Ngài xác định bỏ phiếu cho %s(%d) sao？\n", city->get_save_2(sprintf("elect.name.%d", id)), id);
+3683|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng:30 cấp\nTiêu hao đạo cụ:cờ trận×2\n    Bày một trận pháp trong khu vực 5×5 mục tiêu, trong 8 giây liên tục gây sát thương pháp thuật lên toàn bộ địch nhân trong trận pháp。";
+3684|<O>| send_user(nPlayer, "%c%c%d%s", 0x43, 10, 0, HIR"Chủ tướng quân Tần Bạch Khởi đã bị quân Triệu đánh bại！Trường Bình Chiến kết thúc với chiến thắng của quân Triệu, sau 1 phút mọi người sẽ quay về nước Chu。");
+3685|<O>| if (objectp(npc = me->get_quest("escort.robber#")) && npc->is_escort_robber())    // Tìm người bịt mặt
+3686|<O>| int get_max_potential() { return range_value(Level, 1, MAX_NUMBER) * 1000; }    // Chú ý tình huống mới đăng nhập
+3687|<O>| result = sprintf("%s ở hướng %s gần trung tâm。", map->get_name(), PF_NO_00031->get_direction(x0, y0, x, y));
+3688|<O>| send_user(who, "%c%s", ':', sprintf("Ngài xác định đề nghị %s thực hiện “%s” với %s？\n", me->get_name(), name3, name4) +
+3689|<O>| send_user(player, "%c%s", ':', sprintf("Ngươi sẽ nhận được %d điểm bồi thường tiềm năng, nhưng tiềm năng hiện có của ngươi quá nhiều, xin hãy dọn bớt một phần tiềm năng rồi quay lại nhận bồi thường。", pot));
+3690|<O>| if (damage >= who->get_max_damage()) who->init_enemy_damage(me, damage);    // Ghi lại sát thương mạnh nhất(NPC)
+3691|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    Ba khối đá đúc kiếm……sao nào？Mang tới chưa？\n"ESC"Rời khỏi", me->get_name()));
+3692|<O>| if (objectp(item = present("Chiếc rương đựng sừng trâu vàng", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3693|<O>| //                                        ESC "Bảo hộ phục kích, có thể tấn công người chơi danh đỏ. Nhưng ngươi cũng sẽ ở trạng thái tự do công kích。\nset attack 2\n"
+3694|<O>| send_user(me, "%c%s", ':', "Ngài muốn sao chép y phục của môn phái nào？(" + (me->get_gender() == 1 ? "nam" : "nữ") + ")\n"
+3695|<O>| result = sprintf("%s ở quanh trung tâm theo hướng %s。", map->get_name(), PF_NO_00031->get_direction(x0, y0, x, y));
+3696|<O>| send_user(who, "%c%s", ';', sprintf("Truyền thuyết thần bí  Kinh nghiệm 1300  Tiềm năng 70  Tiền 1000  %s 1", tmp->get_name()));
+3697|<O>| send_user(who, "%c%s", ';', sprintf("Công cụ sản xuất  Kinh nghiệm 6500  Tiềm năng 265  Tiền 5600  %s 1", tmp->get_name()));
+3698|<O>| send_user(who, "%c%s", ';', sprintf("Bữa tối kén chọn  Kinh nghiệm 3000  Tiềm năng 60  Tiền 2000  %s 1", tmp->get_name()));
+3699|<O>| sprintf("%s:\n     Điểm cống hiến môn phái của ngươi không đủ 3 điểm. Cách duy nhất để nhận cống hiến môn phái là hoàn thành nhiệm vụ sư môn do sư phụ môn phái giao cho ngươi, mỗi ngày chỉ cần ngươi siêng năng hoàn thành nhiệm vụ sư môn thì sẽ nhận được điểm cống hiến môn phái tương ứng。\n"
+3700|<O>| result = sprintf("%s:\n    Vốn bang phái không đủ %d。\n", who->get_name(), 400000 + (level - 1) * 200000);
+3701|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này, sau khi dùng kỹ năng, công vật lý và công pháp thuật của nó\nđều tăng 10%, kéo dài 10 giây, nhưng trong 10 giây này hiệu quả trị liệu mà nó nhận sẽ giảm 50%。";
+3702|<O>| if (b > 0 && b != level) result += sprintf(ESC "Thay túi đạo cụ cột thứ hai\nbag %x# 31\n", getoid(item));
+3703|<O>| "Trượng+30" : "\"/item/76/1030\"", "Trượng+40" : "\"/item/76/1040\"", "Trượng+50" : "\"/item/76/1050\"",
+3704|<O>| if (!objectp(item = present("Bùa giấy", me, 1, MAX_CARRY * 4)))    // || item->get_amount() < 3
+3705|<O>| result += sprintf("Sức bền:%3d =%3d+%3d", who->get_cps(), who->get_cps_1(), who->get_cps_2());
+3706|<O>| result = sprintf("%s ở hướng %s khá gần。", map->get_name(), PF_NO_00031->get_direction(x0, y0, x, y));
+3707|<O>| send_user(who, "%c%s", ':', sprintf("%s:\nHộ tịch của ngài vẫn còn ở %s, xin hãy tới hủy trước rồi quay lại。\n", me->get_name(), name1));
+3708|<O>| return sprintf("［" PF_NAME "］Trong thời gian duy trì, gây sát thương lên mục tiêu tiếp cận, có khả năng khiến đối phương trúng độc. Tiêu hao pháp lực:%d, lần dùng kế tiếp cần cách %d giây, %s%d cấp có thể dùng\n",
+3709|<O>| USER_D->user_channel(sprintf(HIY"Chúc mừng người chơi %s nhận được %s khi đổi thưởng, mọi người hãy chúc mừng！", me->get_name(), result));
+3710|<O>| return sprintf(PF_NAME ":\n　　Tăng %d điểm công pháp thuật。\n", me->get_save("05012") + me->get("05012"));
+3711|<O>| send_user(who, "%c%s", ';', sprintf("Kinh hồn đầm lầy  Kinh nghiệm 2400  Tiềm năng 80  Tiền 1800  %s 1", tmp->get_name()));
+3712|<O>| //              write_user( me, ECHO "%s(%d) đã đẩy ngài ra。", who->get_name(), who->get_number() );
+3713|<O>| char = filter_array( see, (: objectp($1) && $1->get_enemy() == $2 :), who );    // Có địch ý với chủ nhân
+3714|<O>| send_user(who, "%c%s", ':', get_name() + "\n    Công đức của ngươi vẫn chưa đủ……người trẻ còn phải tích nhiều thiện quả, hỗ trợ tân thủ tu luyện thì mới nhận thêm được công đức。");

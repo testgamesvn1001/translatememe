@@ -1,0 +1,55 @@
+﻿7349|<O>| send_user(who, "%c%s", ';', "人情冷暖（1） 经验 51000 潜能 778 金钱 50300");
+7350|<O>| send_user(who, "%c%s", ';', get_name() + "已经逃匿得无影无踪，这次任务失败了……");
+7351|<O>| "王陵150" : ({ 1000000, 1000000, 1500, 1230, 1500, 1180,  780, }),
+7352|<O>| send_user(who, "%c%s", '!', "恭喜您！您打开大礼包得到了" + item->get_name());
+7353|<O>| "Intel(R) Xeon(TM) CPU 2.80GHz i3867d5d356401143e898a4",	// 五羊逐梦
+7354|<O>| tmp += sprintf(ESC HIY "黄晶石\ntalk %x# welcome.1\n", getoid(me));
+7355|<O>| if (objectp(item214_1 = present("忘情婆婆要的梳子", who, 1, MAX_CARRY)))
+7356|<O>| send_user(who, "%c%c%c%w%s", 0x51, 2, 1, TID_DONGHAIDAO, "东海岛");
+7357|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 56, "远征");
+7358|<O>| CHAT_D->rumor_channel(0, sprintf(HIR "据说%s的家园正受到怪物的袭击！", name));
+7359|<O>| if (this_object()->get_max_level() >= 30) return 0;    // 自己等级太高
+7360|<O>| send_user(who, "%c%s", ';', "完美宝石（1） 经验 32000 潜能 608 金钱 30000");
+7361|<O>| tell_user(me, "请查看 /log/make/ 下的文件，及 list.txt, list2.txt, 重要！");
+7362|<O>| printf(ECHO "您想与%s(%d)交易，正在等待对方的回应。", name2, who->get_number());
+7363|<O>| tmp += ESC "牛二的苦恼。\n"  + sprintf( "talk %x# welcome.10\n", id );
+7364|<O>| send_user(me, "%c%s", '!', sprintf("玩家 %d 不是好友，无法发信！", number));
+7365|<O>| if (to_int(arg)) me->set_save("fly", to_int(arg));    // 记录前次飞的人
+7366|<O>| tmp += sprintf(ESC HIY "文竹\ntalk %x# welcome.23\n", getoid(me));
+7367|<O>| tmp = sprintf(ESC HIY "净化灵魂\ntalk %x# welcome.1\n", getoid(me));
+7368|<O>| tmp += sprintf(ESC HIY "油菜籽\ntalk %x# welcome.5\n", getoid(me));
+7369|<O>| DEBUG(sprintf("测试-->else 当前玩家%s name=%s",type,who->get_name()));
+7370|<O>| ESC "我只是来看看\nCLOSE\n", me->get_name(), getoid(me), getoid(me)));
+7371|<O>| if (get_effect(me, EFFECT_CHAR_BLIND)) rate /= 2;    // 失明(命中减半)
+7372|<O>| //                                ESC "我同意\nrepair !! %x# %x#\n"
+7373|<O>| TASK_LEGEND_D->give_item(who,"/item/sell/0002",1);     		//大血石×1
+7374|<O>| if (objectp(item214_1 = present("忘情婆婆要的头钗", who, 1, MAX_CARRY)))
+7375|<O>| "司马错120" : ({ 760000,  760000, 1200,  990, 1200,  940,  660, }),
+7376|<O>| result += sprintf("名称:%s(%x#)\n", obj->get_name(), getoid(obj));
+7377|<O>| if (inv[i]->get_name() != "铸剑石" || inv[i]->is_xuantieshi() != 1)
+7378|<O>| send_user(who, "%c%s", ';', "将军之难 经验 2200 潜能 80 金钱 1500 豆腐干 3");
+7379|<O>| tmp += sprintf(ESC HIY "油菜籽\ntalk %x# welcome.1\n", getoid(me));
+7380|<O>| "40级随机配方" : "\"/sys/item/product\"->get_random_drop_product(2)",
+7381|<O>| if (get_effect(who, EFFECT_CHAR_ARMORFALL)) return 2;    // 执行成功
+7382|<O>| //---------------------------------------------------------//新服的
+7383|<O>| tmp = sprintf(ESC HIY "出使重任\ntalk %x# welcome.1\n", getoid(me));
+7384|<O>| tell_user(me, "%s谣言频道已经被封闭 %d 分。", who->get_name(), n / 60 + 1);
+7385|<O>| if (objectp(item214_1 = present("忘情婆婆要的胭脂", who, 1, MAX_CARRY)))
+7386|<O>| send_user(who, "%c%s", '!', sprintf("您的采矿熟练度不足%d！", SKILL_EXP));
+7387|<O>| tmp = sprintf(ESC HIY "侍卫亡灵\ntalk %x# welcome.1\n", getoid(me));
+7388|<O>| send_user(who, "%c%s", ';', "漂亮的床（1） 经验 50000 潜能 700 金钱 48000");
+7389|<O>| "廉颇100" : ({ 1500000, 1500000, 1100,  880, 1050,  830,  540, }),
+7390|<O>| send_user(who, "%c%s", '!', sprintf("恭喜您！您打开小宝箱得到了%d点潜能", pot));
+7391|<O>| result += sprintf(ESC "确定\ntalk %x# welcome.31\n", getoid(who));
+7392|<O>| &&    ( npc = find_char(id) ) && npc->is_banditi() )    // 30 分钟
+7393|<O>| send_user(who, "%c%c%c%w%s", 0x51, 1, 1, TID_HONGNIANG, "红娘任务");
+7394|<O>| send_user(who, "%c%s", ';', "人情冷暖（2） 经验 51000 潜能 778 金钱 50300");
+7395|<O>| return HIR + PF_NAME + "\n技能需求:7级\n    将该技能消耗法术力的150％转移到召唤兽身上。";
+7396|<O>| tmp = sprintf(ESC HIY "明镜传说\ntalk %x# welcome.1\n", getoid(me));
+7397|<O>| result += sprintf( "使用次数: %d / %d\n", use /	100, maxuse / 100 );
+7398|<O>| tmp = sprintf(ESC HIY "探听虚实\ntalk %x# welcome.1\n", getoid(me));
+7399|<O>| send_user(who, "%c%s", ';', "四面楚歌（3） 经验 36000 潜能 600 金钱 35000");
+7400|<O>| int  del_alarm_clock(int clock_num);			//	删除一个闹钟提醒，成功返回 1 失败返回 0
+7401|<O>| tmp += sprintf(ESC HIY "通缉犯\ntalk %x# welcome.1\n", getoid(me));
+7402|<O>| send_user(member[i], "%c%s", ';', HIY"杀死守护灵兽，采得灵药，赶快回去找王母娘娘吧！");
+7403|<O>| "白起120" : ({ 1900000, 1900000, 1300, 1040, 1250,  990,  660, }),

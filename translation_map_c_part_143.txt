@@ -1,0 +1,36 @@
+3016|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), me->get_name() + ":\n    Xin hãy chờ người chơi khác lựa chọn！\n"ESC"Xác định");
+3017|<O>| case 4: send_user(who, "%c%s", ':', sprintf("%s:\nVậy sao？Ta phải nói cho dân làng biết không thể tiếp tục đi buôn nữa。(thương nghiệp %+d)", me->get_name(), -level));
+3018|<O>| DEBUG(sprintf("Kiểm tra-->cập nhật bảng thực lực id người chơi hiện tại=%d level=%d skills_level=%d sum_exp=%d",id,level,skills_level,sum_exp));
+3019|<O>| send_user(me, "%c%c%d%s", '?', 16, 60, "Xin hãy nhập thời gian bắt đầu và kết thúc của hoạt động 1/5（ví dụ:20070501-20070508 ）:\n"ESC"party 42.%s\n");
+3020|<O>| result = sprintf("%s\n    Với thực lực hiện tại của ngươi, vẫn chưa đủ để tham gia bảo vệ chiến %s. Vì sự an toàn của ngươi, vẫn nên chọn một chiến trường phù hợp với cấp độ của mình để thử thách。\n", who->get_name(), name);
+3021|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi xác định muốn dùng hai quả cầu khác loại（đen + lam）để đổi lấy phần thưởng ngẫu nhiên không？\n"
+3022|<O>| result = sprintf("［Nhiệm vụ xây dựng］\n"BLK"còn %d phút\n" BLK "Hãy mang thực phẩm giao cho " HIR "thợ thủ công" BLK " ở khắp trong thành。\n", (2400 - iTaskTime) / 60);
+3023|<O>| log_file(LIST_LOG, sprintf(htm, name, level, "Nam、Nữ", "Không", pp, cp, lasting / 100, lasting / 100, value));
+3024|<O>| "Nhưng ngươi cứ yên tâm, hắn sẽ không xuất hiện đâu, vì nghe nói đại ca của hắn đã gọi hắn về rồi。\n"ESC"Nhận nhiệm vụ\ntalk %x# welcome.8\n"ESC"Rời khỏi", me->get_name(), getoid(me)));
+3025|<O>| case 1: send_user(who, "%c%s", ':', sprintf("%s:\nVậy sao？Ta phải nói cho dân làng biết không thể tiếp tục làm ngư nghiệp nữa。(ngư nghiệp %+d)", me->get_name(), -level));
+3026|<O>| result += sprintf("  Kinh nghiệm:(%d)%9d - %d", who->get_billion_exp(), who->get_exp(), who->get_upgrade_exp());
+3027|<O>| CHAT_D->sys_channel(0,HIR"Tuần lộc kéo xe của ông già Noel đã uống quá nhiều rượu rum, bị một đám ác nhân Giáng Sinh cướp mất túi quà Giáng Sinh. Hãy tiêu diệt Gấu Ngốc Giáng Sinh, Yêu Quán Giáng Sinh, Phi Tặc Giáng Sinh ngoài thành của bảy nước, những chiếc tất dài nhận được có thể dùng để đổi quà với ông già Noel đấy。");
+3028|<O>| case 2: send_user(who, "%c%s", ':', sprintf("%s:\nVậy sao？Ta phải nói cho dân làng biết không thể tiếp tục làm khoáng nghiệp nữa。(khoáng nghiệp %+d)", me->get_name(), -level));
+3029|<O>| if (!clonep(me)) return "Vật liệu đặc biệt dùng để cường hóa trang bị, thuộc tính tăng thêm chịu ảnh hưởng bởi cấp độ linh thạch. Linh thạch cùng loại cùng cấp cũng có thể kết hợp với tinh thạch hoặc linh thạch cùng loại cùng cấp để nâng cấp。\n［Tinh luyện］ Tỷ lệ bạo kích\n［Trang bị áp dụng］ Vũ khí";
+3030|<O>| //                                CHAT_D->rumor_channel( 0, sprintf( HIM "Quản trị viên game ＧＭ đã phong bế kênh tin đồn của %s(%d) trong %d phút。",
+3031|<O>| else if (!objectp(item = present("Hạt giống thần bí", who, 1, MAX_CARRY)) && who->get_quest("valentine.flag") == 3)
+3032|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi xác định muốn dùng mỗi loại một quả cầu đen, lam, đỏ và hoa cầu để đổi lấy trang bị màu vàng không？\n"
+3033|<O>| case WAR_TIMEOUT: if (sec % 5 == 0) NPC_BATTLE_D->war_end_count_down_notice(map, 30 - sec);    // Mỗi 5 giây xử lý
+3034|<O>| result = sprintf("%s:\n    Hiện nay bang phái này đang toàn lực tiến hành nghiên cứu chế tạo xe bắn đá, đại nhân chỉ cần chờ thêm %d giây nữa là có thể thấy thành quả nghiên cứu。\n", who->get_name(), weapon - time());
+3035|<O>| send_user(who, "%c%c%w%s", ':', 3, 0, sprintf("Có muốn sử dụng Hồ Lô Tế Thế không\n"ESC"Xác định\nuse ! %x#\n"ESC"Hủy bỏ", getoid(item)));
+3036|<O>| case "Tay không": seek = 4;  weapon[1] = "UNARMED";  weapon[2] = "0; }    // XXXXX";  weapon[3] = "*";  break;
+3037|<O>| result = get_name() + ":\n    Đây là nước Chu, ngươi đã từng tới chưa？Chỗ ta đây là nơi trung tâm nhất của nước Chu, bốn phương thông suốt, muốn đi đâu cũng phải qua chỗ ta. Ngươi hỏi nơi này gọi là gì à？Thiên Đàn, biết chứ？Đó là cái tên vang dội lắm đấy！\n";
+3038|<O>| ret += sprintf("%sHài Tuyết Điêu\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"雪雕羽靴"))?PPM:WHT);
+3039|<O>| //		CHAT_D->sys_channel(0,sprintf(HIY"%s"HIR" người chơi vì dũng mãnh giết BOSS nên đặc biệt nhận được phần thưởng kinh nghiệm %d của Chu Vương！",who->get_name(),exp));
+3040|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s: \nChân giả Hổ Vương là một hoạt động vượt ải, ngươi có thể tìm hiểu tình hình chi tiết ở chỗ ta。\n"
+3041|<O>| send_user(who, "%c%c%d%s", '?', 1, 100000, sprintf("%s:\nLương mỗi ngày của phó thành chủ thứ hai là %d vàng, xin hỏi ngài muốn sửa thành bao nhiêu？(phạm vi:10000～100000)\n"
+3042|<O>| ret += sprintf("%sGiáp Bạch Lang\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"白狼皮衣"))?PPM:WHT);
+3043|<O>| say_word = sprintf("Ngươi tổng cộng đã vượt qua %d ải, có thể nhận thưởng %s tiền Chiến Quốc và danh hiệu “"HIR"%s"NOR"”。", level, active_bonus[2], active_bonus[1]);
+3044|<O>| if( pot ) write_user( who, ECHO "Ngài đánh chết %s，%s kinh nghiệm %+d, tiềm năng %+d。", me->get_name(), flag ? "gấp đôi":"", exp2, pot );
+3045|<O>| send_user(who, "%c%c%d%s", '?', 1, 100000, sprintf("%s:\nLương mỗi ngày của phó thành chủ thứ nhất là %d vàng, xin hỏi ngài muốn sửa thành bao nhiêu？(phạm vi:10000～100000)\n"
+3046|<O>| return sizeof(get_2(sprintf("%d.%d.Nước Tần", level, wId))) + sizeof(get_2(sprintf("%d.%d.Nước Triệu", level, wId)));
+3047|<O>| tell_user(me, "Nhịp tim: %d ＝ nhân vật(%d) rảnh(%d) ＋ người chơi(%d)", sizeof(char), sizeof(npc), sizeof(npc2), sizeof(user));
+3048|<O>| if( query_effect_cached(me, EFFECT_CHAR_CHANGE) ) set_effect(me, EFFECT_CHAR_CHANGE, 1);    // Càn Khôn Na Di(gián đoạn)
+3049|<O>| "Mộc Tinh" : (["prop":({ 1475,1079,1189,1004,0806,0906,1426 }), "ski" : ({ "Phòng Thuẫn Cao Cấp","Cuồng Công Cao Cấp","Bạo Kích Cao Cấp","Phi Hành Thuật Cao Cấp" })]),
+3050|<O>| CHAT_D->sys_channel(0, CHAT + sprintf("Chúc mừng "HIR"%s"NOR" nhận được phần thưởng "HIR"%s", who->get_name(), item->get_name()));
+3051|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Sau khi tìm được người có duyên của ngươi, hãy đưa người đó vào đội của ngươi, rồi đi tìm Nguyệt Lão，\n"

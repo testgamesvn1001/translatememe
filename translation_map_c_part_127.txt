@@ -1,0 +1,31 @@
+2482|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Đáng sợ quá, sau này ta sẽ không bao giờ đi ngang qua đó nữa。\n"ESC"Rời khỏi", me->get_name()));
+2483|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Nếu việc này không thành, ngươi phải gánh một nửa trách nhiệm đấy！\n"ESC"Rời khỏi", me->get_name()));
+2484|<O>| send_user( player, "%c%c%w%s", ':',3,npc->get_char_picid(), sprintf("Bảng anh hùng bắt thỏ（hiện tại ngươi đã nộp %d con nguyệt thỏ） \n",player->get_save("tuzi"))+cmd
+2485|<O>| send_user(me, "%c%s", '!', sprintf("Yêu cầu nhiệm vụ kinh thương sư môn đã đạt, mau về sư môn tìm %s để bàn giao。", "/sys/task/quest1"->get_manager_name(me->get_fam_name())));
+2486|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ừm, thật xin lỗi, xem ra quân đội chúng ta không cần ngươi。\n"ESC"Rời khỏi", me->get_name()));
+2487|<O>| send_user(get_scene_object_2(who, USER_TYPE), "%c%d%w%c%c%c", 0x6f, getoid(who), 21142, 1, OVER_BODY, PF_ONCE);    // Kỹ năng thành công
+2488|<O>| send_user(me, "%c%c%w%s", ':', 3, 0, sprintf("Trên người ngươi đã có một Nhân Sâm Vương đang phát huy tác dụng, ngươi có chắc muốn ghi đè hiệu quả của nó không？\n"ESC"Xác định\nuse ! %x#\n"ESC"Hủy bỏ", getoid(item)));
+2489|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Đây có lẽ chỉ là một truyền thuyết thôi！Sao ta có thể tin là thật chứ？\n"ESC"Rời khỏi", me->get_name()));
+2490|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Hoạt động này đã kết thúc, cảm ơn ngươi đã tham gia！\n"ESC"Rời khỏi", me->get_name(), ));
+2491|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Cũng làm khó ngươi rồi, dù sao bây giờ thứ này cũng hiếm đi。\n"ESC"Rời khỏi", me->get_name()));
+2492|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Xem ra ta phải đích thân ra tay mới tìm được hàn ti đó。\n"ESC"Rời khỏi", me->get_name()));
+2493|<O>| send_user(who, "%c%c%w%s", ':', 3, 0, sprintf("Ngươi có chắc muốn sử dụng%s không？\n"ESC"Xác định\nuse ! %x#\n"ESC"Hủy bỏ", item->get_name(), getoid(item)));
+2494|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("Như Ý Tiên Tử:\n    Thật xin lỗi, cấp của ngài vẫn chưa đủ%d cấp, tỷ tỷ vẫn chưa thể tặng quà cho ngài đâu～", (i + 1) * 10));
+2495|<O>| send_user(who, "%c%c%w%s", ':', 3, 0, sprintf("Trên người ngươi đã có một Huyết Thạch đang phát huy tác dụng, ngươi có chắc muốn ghi đè hiệu quả của nó không？\n"ESC"Xác định\nuse ! %x#\n"ESC"Hủy bỏ", getoid(item)));
+2496|<O>| send_user(get_scene_object_2(who, USER_TYPE), "%c%d%w%c%c%c", 0x6f, getoid(who), 21141, 1, OVER_BODY, PF_ONCE);    // Kỹ năng thành công
+2497|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Nếu ngươi không làm được việc này, ta sẽ đi mời cao minh khác！\n"ESC"Rời khỏi", me->get_name()));
+2498|<O>| if( is_god(me) ) tell_user( me, "r%s thi pháp-> %s, CP:%d - PP:%d = sát thương:%d", me->get_name(), who->get_name(), cp2, pp2, damage );
+2499|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Nơi này sẽ không yên tĩnh đâu, xem ra ta phải mau chóng chuyển nhà rồi。\n"ESC"Rời khỏi", me->get_name()));
+2500|<O>| send_user( who, "%c%c%w%s", ':',3,me->get_char_picid(), sprintf("%s:\n    Trong Vô Song Cung còn có người chơi bang hội khác, đơn xin không được phê chuẩn！\n"ESC"Rời khỏi",me->get_name()));
+2501|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    Kỳ lạ？Lâu như vậy rồi mà ngươi vẫn chưa tiêu diệt được chúng sao？Chẳng lẽ độc tính và sức tấn công của chúng lại tăng lên rồi？Việc này làm tăng độ khó, ngươi phải nhanh lên đấy！\n"ESC"Rời khỏi", me->get_name()));
+2502|<O>| send_user(who, "%c%c%w%s", ':', 3, 4153, get_name() + ":\nVị " + NPC_RANK_D->get_respect(who) + " này nếu muốn đến danh sơn thắng địa nơi cao nhân ẩn cư, chỗ ta không thu phí。\n"
+2503|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Không có hoa hồng, ta phải biểu đạt tâm ý của mình thế nào đây？\n"ESC"Rời khỏi", me->get_name()));
+2504|<O>| cmd1 = sprintf(ESC"Giới thiệu quy tắc hoạt động\ntalk %x# bonus.6\n"ESC"Tra cứu thời gian hoạt động\ntalk %x# bonus.7\n"ESC"Giao Trùng Dương tứ bảo\ntalk %x# bonus.2\n", id, id, id);
+2505|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ha ha……dám đi tìm đại ca ta gây phiền phức, đúng là tự chuốc khổ vào thân！\n"ESC"Rời khỏi", me->get_name()));
+2506|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Xem ra ta phải bẩm báo Ngự Sử đại nhân đổi một người có năng lực hơn tới。\n"ESC"Rời khỏi", me->get_name()));
+2507|<O>| send_user(who, "%c%c%w%s", ':', 3, 4153, sprintf("%s\n    Người trẻ tuổi, làm việc phải tích cực lên, chậm chạp như vậy, chẳng có chút khí thế nào cả！Lão thôn trưởng bên kia đang gấp lắm, ngươi mau đi đi！\n"ESC"Rời khỏi", get_name()));
+2508|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ca ca ta cũng nhớ ta rồi nhỉ？Huynh ấy còn nói gì nữa không？\n"ESC"Rời khỏi", me->get_name()));
+2509|<O>| send_user(who, "%c%c%w%s", ':', 3, this_object()->get_char_picid(), "Cơ quan của tượng sư tử đá này đã bị đóng rồi, xem ra phải đánh bại toàn bộ địch nhân ở đây trước thì mới có thể mở lại cơ quan tượng sư tử đá này。\n"ESC"Rời khỏi");
+2510|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Không trừ diệt cây yêu này, e rằng Tần cung sẽ vĩnh viễn không có ngày yên ổn。\n"ESC"Rời khỏi", me->get_name()));
+2511|<O>| send_user(me, "%c%c%d%s", 0x43, 10, 0, HIY "Ngài đã bước vào thời gian chơi game không lành mạnh, vì sức khỏe của ngài, xin hãy lập tức xuống mạng nghỉ ngơi。Nếu không xuống mạng, cơ thể ngài sẽ bị tổn hại, lợi ích của ngài đã giảm về không, cho đến khi tổng thời gian offline tích lũy đủ 5 giờ mới có thể khôi phục bình thường。");
+2512|<O>| DEBUG(sprintf("Kiểm tra-->xy_check_upline_title() id=%d sizeof(xy_id_table)=%d titlecode=%s",id,sizeof(xy_id_table),titlecode));

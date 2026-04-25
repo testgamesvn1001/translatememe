@@ -1,0 +1,51 @@
+5747|<O>| orgnpc->set_war(time() + 60);  npc->set_war(time() + 60);    // Ghi lại thời gian chiến tranh
+5748|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 63, "Chiếc giường đẹp（2）");
+5749|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 34, "Pháo hoa trên Trường Thành");
+5750|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 62, "Chiếc giường đẹp（1）");
+5751|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 34, "Điều kiện trở thành thủ vệ");
+5752|<O>| send_user(who, "%c%s", ';', "Tâu lên Triệu Vương Kinh nghiệm 93000 Tiềm năng 1600 Tiền 83000 Bản vẽ Xích Vân Quan 1");
+5753|<O>| if ( iHour == 10 || iHour == 15 || iHour == 19 || iHour == 22 )	//Làm mới ác nhân
+5754|<O>| send_user(who, "%c%s", ';', "Tìm người lánh nạn Kinh nghiệm 41000 Tiềm năng 600 Tiền 40000 Bản vẽ Huyền Thiết Tạc Đạn 1");
+5755|<O>| return HIC+get_name()+"\nThú cưng có kỹ năng này có thể tăng 20% né tránh của bản thân thú cưng\nvà tăng 40% tốc độ công kích vật lý của thú cưng。"; //12
+5756|<O>| int set_tool_type(int type) { return tool_type = type; }		// Hàm: thiết lập loại công cụ
+5757|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 30, "Trà hoa nhài（3）");
+5758|<O>| send_user(who, "%c%s", ';', "Hành động bí mật Kinh nghiệm 52500 Tiềm năng 730 Tiền 50000 Bản vẽ Phiên Vân Đầu Cân 1");
+5759|<O>| send_user(who, "%c%s", ';', "Trận chiến cuối cùng Kinh nghiệm 51000 Tiềm năng 705 Tiền 48800 Bản vẽ Băng Phách Ngân Châm 1");
+5760|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 35, "Tội phạm bị truy nã(hoàn thành)");
+5761|<O>| int set_skill_exp(int exp) { return skill_exp = exp; }		// Hàm: thiết lập thưởng kinh nghiệm hái lượm
+5762|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 53, "Bình tĩnh trước nguy nan(hoàn thành)");
+5763|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 4, "Kinh hồn trên sông(hoàn thành)");
+5764|<O>| "Công thức ngẫu nhiên cấp 120" : "\"/quest/product2\"->get_random_level_product(120,120)",
+5765|<O>| result += sprintf(ESC "Mật đạo Vũ Lăng\ntalk %x# welcome.10 Mật đạo Vũ Lăng\n", getoid(me));
+5766|<O>| send_user(who, "%c%s", '!', "Muốn chuyển chức thành " + occupation[index - 1] + " thì trước tiên phải gia nhập quốc gia.");
+5767|<O>| "Công thức ngẫu nhiên cấp 110" : "\"/quest/product2\"->get_random_level_product(110,110)",
+5768|<O>| result += sprintf(ESC "Mật đạo Hành Sơn\ntalk %x# welcome.10 Mật đạo Hành Sơn\n", getoid(me));
+5769|<O>| CHAR_FIGHT_D->attack_done(me, who, HIT_UNARMED, ADD_AP);    // Cẩn thận chuẩn bị me
+5770|<O>| send_user(who, "%c%s", ';', "Hồ lô lớn（4） Kinh nghiệm 6000 Tiềm năng 190 Tiền 3700 Bản vẽ Tử Diễm Hạng Liên 1");
+5771|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 54, "Tai họa ôn dịch(hoàn thành)");
+5772|<O>| send_user(who, "%c%s", ';', "Khảo nghiệm cuối cùng Kinh nghiệm 38000 Tiềm năng 550 Tiền 37000 Bản vẽ Đỗ Khang Tửu 1");
+5773|<O>| result += sprintf( "Áp dụng cho: %snữ giới\n", me->get_gender()	== 2 ? NOR : HIR );
+5774|<O>| send_user(who, "%c%s", ';', "Du hồn（6） Kinh nghiệm 17000 Tiềm năng 280 Tiền 19000 Bản vẽ Thần Phong Khôi 1");
+5775|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 5, "Thiên phạt của sự gian trá(hoàn thành)");
+5776|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 39, "Dọn bãi(hoàn thành)");
+5777|<O>| send_user(who, "%c%s", ';', "Oan hồn đáng chết Kinh nghiệm 35000 Tiềm năng 510 Tiền 33000 Bản vẽ Cuồng Long Hài 1");
+5778|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 71, "Vinh quang vô thượng（3）");
+5779|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 43, "Trừ khử ác phỉ(hoàn thành)");
+5780|<O>| result += sprintf(ESC "Thảo nguyên Kỳ Liên\ntalk %x# welcome.10 Thảo nguyên Kỳ Liên\n", getoid(me));
+5781|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 16, "Tìm kiếm quan ấn(hoàn thành)");
+5782|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHOUGUO, 13, "Tìm kiếm sự giúp đỡ của nhà vua");
+5783|<O>| private static int HP_Cent;                     // Tỷ lệ khí huyết(chú ý:0/50～50/50)
+5784|<O>| send_user(who, "%c%s", ';', "Bí mật（3） Kinh nghiệm 40000 Tiềm năng 650 Tiền 37000 Bản vẽ Huyền Vân Hài 1");
+5785|<O>| cTmp = sprintf("%s\n    Hãy chọn thú cưng bạn muốn rút ra:（%d/3）:\n", me->get_name(), size);
+5786|<O>| send_user(who, "%c%s", ';', "Thi hành nhân chính Kinh nghiệm 96000 Tiềm năng 1900 Tiền 92000 Bản vẽ Bá Vương Thương 1");
+5787|<O>| send_user(who, "%c%s", ';', "Khuyên can Tần Vương Kinh nghiệm 25000 Tiềm năng 420 Tiền 24000 Bản vẽ Cuốc Huyền Thiết 1");
+5788|<O>| write_user(me, ECHO "Thật không may, rèn tạo thất bại. %s của bạn đã bị khôi phục về trạng thái chưa rèn tạo。", item[0]->get_name());
+5789|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 47, "Trừ khử ác bá(hoàn thành)");
+5790|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 42, "Một mình xông cổ mộ(hoàn thành)");
+5791|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 54, "Dạ minh châu bị mất");
+5792|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 4, "Tìm lại niềm vui tuổi thơ");
+5793|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 50, "Yêu trong hũ và tiên trong hũ");
+5794|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_CHUGUO,1,"Lấy lại hàng hóa(hoàn thành)" );
+5795|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 7, "Mua hộp trả ngọc(1)");
+5796|<O>| notify(sprintf("Xin lỗi, bạn không thể dùng tinh thạch này trên trang bị cao hơn cấp %d。", item[1]->get_mix_level()));
+5797|<O>| send_user(me, "%c%s", '!', sprintf("Cấp độ của bạn không đủ để khống chế %s。", who->get_name()));

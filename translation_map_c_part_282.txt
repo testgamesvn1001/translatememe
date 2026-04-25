@@ -1,0 +1,62 @@
+﻿10180|<O>| send_user(who, "%c%s", '!', sprintf(HIY"发夹 %d/10", i));
+10181|<O>| "%s:\n我们两国关系还没有如此密切，阁下请回吧。\n", name3, me->get_name()));
+10182|<O>| private static int AntiPoison;                  // 抗毒几率
+10183|<O>| private int OwnerNumber;                // 主人对象(Number)
+10184|<O>| send_user(who, "%c%s", '!', sprintf(HIY"枪俑 %d/30", i));
+10185|<O>| send_user(who, "%c%s", '!', "你接受了"HIY"当铺老板的交易"NOR"任务");
+10186|<O>| if(    !get_effect(me, EFFECT_CHAR_SUPPRESS)    // 没有压制
+10187|<O>| send_user(who, "%c%s", '!', sprintf(HIY"冤魂 %d/20", i));
+10188|<O>| send_user(who, "%c%s", '!', sprintf(HIY"刀魂 %d/30", i));
+10189|<O>| if (TASK_LEGEND_D->check_task_item(who, "救急丹", 5) != 1)
+10190|<O>| write_user(who, ECHO "您获得两个" + item->get_name() + "。");
+10191|<O>| if (TASK_LEGEND_D->check_task_item(who, "诉苦书", 1) != 1)
+10192|<O>| if (gone_time(me->get("birthday")) >= 2400)    // 40 分钟
+10193|<O>| tell_user(me, "%s谣言频道被封闭 %d 分。", who->get_name(), min);
+10194|<O>| set_effect(who, EFFECT_CHAR_NO_MOVE, 20);    // 小心准备 me
+10195|<O>| private static int Hurt;                        // 反弹伤害
+10196|<O>| send_user(who, "%c%s", '!', "你接受了"HIY"找智慧老人谈谈"NOR"任务");
+10197|<O>| send_user(me, "%c%w%w%c", 0x07, x0, y0, 11);    // 坐标修正
+10198|<O>| && file->perform_done_npc(me, who) == 2)    // 特技攻击(完成)
+10199|<O>| HIR "气血" NOR "，体魄越高，气血也会越多。\n    气血吗？气血就是你的生命力，当你每次战斗中"
+10200|<O>| if (TASK_LEGEND_D->check_task_item(who, "苦力钱", 1) != 1)
+10201|<O>| if (TASK_LEGEND_D->check_task_item(who, "锄头", 20) != 1)
+10202|<O>| cWord = "官府告示:\n　　"HIR"泰山山洞"NOR"已被封锁，闲杂人等不得入内，否则后果自负。";
+10203|<O>| private static mapping mpOther = ([]);         // 临时数据集
+10204|<O>| send_user(who, "%c%c%d", 0x7b, 0xfd, price);    // 交易记录
+10205|<O>| if (TASK_LEGEND_D->check_task_item(who, "首饰箱", 1) != 1)
+10206|<O>| send_user(who, "%c%s", '!', sprintf(HIY"火焰石 %d/5", i));
+10207|<O>| if (gone_time(me->get_time("exchange")) < 1)    // 时间限制
+10208|<O>| write_user(me, ECHO "跳舞没效果，%s已经走开了。", who->get_name());
+10209|<O>| p_str += ({ FINAL_D->file_final_fam_lv2("蜀山",24,44) });
+10210|<O>| send_user(who, "%c%s", ';', "美味的蜜糖 经验 380 潜能 20 桔子 8");
+10211|<O>| if (TASK_LEGEND_D->check_task_item(who, "金龙珠", 1) != 1)
+10212|<O>| send_user(who, "%c%s", '!', sprintf(HIY"疫鬼 %d/20", i));
+10213|<O>| private static int WalkStep = 1;                // 走路步数
+10214|<O>| send_user(who,"%c%s",'!',sprintf("您成功领取了%d级称谓！",flag));
+10215|<O>| cmd = sprintf(ESC HIY "邪恶的厨师\ntalk %x# visit.1\n", id);
+10216|<O>| return "只能锻造在2星或3星的装备上，可加强该装备的属性。\n两个中级锻造石可合成一个高级锻造石。";
+10217|<O>| //        return "任务物品。野外的（88、62）暗藏着什么秘密。（到达地点后右击使用）。";
+10218|<O>| if (TASK_LEGEND_D->check_task_item(who, "土鸡蛋", 7) != 1)
+10219|<O>| private static mapping mpAP = ([]);            // 临时数据集
+10220|<O>| send_user(who, "%c%s", '!', sprintf(HIY"灵芝草 %d/1", 1));
+10221|<O>| if (TASK_LEGEND_D->check_task_item(who, "玉龙睛", 1) != 1)
+10222|<O>| if (TASK_LEGEND_D->check_task_item(who, "棋子", 10) != 1)
+10223|<O>| if (TASK_LEGEND_D->check_task_item(who, "雄黄散", 1) != 1)
+10224|<O>| if (TASK_LEGEND_D->check_task_item(who, "大枣", 10) != 1)
+10225|<O>| send_user(who, "%c%s", '!', sprintf(HIY"棋子 %d/20", i));
+10226|<O>| if (TASK_LEGEND_D->check_task_item(who, "南瓜", 20) != 1)
+10227|<O>| send_user(who, "%c%s", '!', sprintf(HIY"石炭 %d/10", i));
+10228|<O>| if (TASK_LEGEND_D->check_task_item(who, "御风丹", 1) != 1)
+10229|<O>| send_user(who, "%c%s", '!', sprintf(HIY"大枣 %d/10", i));
+10230|<O>| CHAR_CHAR_D->stop_loop_perform_go(me);    // 中断走路会影响的效果
+10231|<O>| tiger_str = sprintf(ESC"真假虎王\ntalk %x# tiger.1\n", id);
+10232|<O>| send_user(who, "%c%s", '!', sprintf(HIY"水精 %d/10", i));
+10233|<O>| private static mapping mpHP = ([]);            // 临时数据集
+10234|<O>| private static int iWeapon;		// 战斗傀儡 1 表示已经有了，否则就是完成的时间
+10235|<O>| private static object BonusMember;              // 带的新手
+10236|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 3, PF_NAME+"进行中……");
+10237|<O>| private static int HurtRate;                    // 反伤害率
+10238|<O>| send_user(who, "%c%s", '!', sprintf(HIY"罐中仙 %d/6", i));
+10239|<O>| send_user(who, "%c%s", ':', "请选择建设城市的项目:(消耗 50 体力)\n" +
+10240|<O>| CHAT_D->rumor_channel(0, CHAT + "据说阴间叛徒又出现在了万人坑的最深层。");
+10241|<O>| send_user(who, "%c%s", '!', sprintf(HIY"锄头 %d/20", i));

@@ -1,0 +1,53 @@
+6323|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 78, "Tra hỏi nguyên nhân");
+6324|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 86, "Kẻ làm trái pháp luật");
+6325|<O>| if (!MAP_D->is_inside_battle(get_z(me))) switch (Level)    // Cập nhật loại người chơi
+6326|<O>| tmp += sprintf(ESC HIY "Chế tác Tù Và Vương Giả\ntalk %x# welcome.19\n", getoid(me));
+6327|<O>| tmp += sprintf(ESC HIY "Âm thanh trong bầu trời đêm\ntalk %x# welcome.19\n", getoid(me));
+6328|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 1, "Môi hở răng lạnh（1）");
+6329|<O>| send_user(who, "%c%s", ';', "Nỗi khổ của quản gia Kinh nghiệm 6900 Tiềm năng 260 Tiền 6600 Bản vẽ Chìa khóa bạc 1");
+6330|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_NEWBIE_01,4,"Phiêu lưu tìm báu" );
+6331|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 36\n    Tung ra hai đòn chí mạng liên tiếp với địch và khiến hắn rơi vào trạng thái mù trong 6 giây。";
+6332|<O>| private int alarm_clock_size = 0;			//	Số đồng hồ báo thức hiệu lực hiện có -- DEBUG
+6333|<O>| if (!objectp(item_q = present("Hồ lô thần kỳ chứa Gấu Xấu Lớn", who, 1, MAX_CARRY * 4)))
+6334|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 39, "Bí mật（2）");
+6335|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 69, "Dò la tung tích");
+6336|<O>| tmp += sprintf(ESC HIY "Chế tác Tù Và Vương Giả\ntalk %x# welcome.13\n", getoid(me));
+6337|<O>| case "楚国": cmd1 = sprintf("talk %x# relation.?.%d.1\n", id, number);
+6338|<O>| tmp += sprintf(ESC HIY "Tìm con đường giải cứu\ntalk %x# welcome.29\n", getoid(me));
+6339|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 64, "Rèn vũ khí");
+6340|<O>| send_user(who, "%c%s", ';', "Kỳ ngộ lang bạt Kinh nghiệm 7000 Tiềm năng 260 Tiền 6500 Bản vẽ Bom Nổ Mạnh 1");
+6341|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 30, "Ngọc trong cổ mộ");
+6342|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 70, "Thử thăm thực lực");
+6343|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHOUGUO, 16, "Bái phỏng sư gia");
+6344|<O>| int get_pf_value_2(int skill, int square, int a, int b)    // Liên quan cùng chuyển sinh
+6345|<O>| send_user(who, "%c%s", '!', sprintf("%s và %s đã là đồng minh rồi。", name2, name4));
+6346|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 3, "Tiêu diệt rắn bốn chân");
+6347|<O>| send_user(who, "%c%s", ';', "Thuần phục ác bá Kinh nghiệm 68000 Tiềm năng 800 Tiền 51000 Tử Kim Đan 2");
+6348|<O>| result += sprintf(ESC "Truyền tống đến bản đồ luyện cấp 31－40\ntalk %x# welcome.500\n", id);
+6349|<O>| DEBUG(sprintf("Thử nghiệm-->else if id người chơi hiện tại=%d,size=%d,pos=%d",id,size,pos));
+6350|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 49, "Giúp người làm vui");
+6351|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 42, "Tìm hiểu tình hình");
+6352|<O>| ret = CHAR_FIGHT_D->throwing_done(me, who, HIT_NONE);    // Cẩn thận chuẩn bị me
+6353|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 24, "Bản vẽ cung điện");
+6354|<O>| tmp += sprintf(ESC HIY "Tấm lòng tốt của bách tính\ntalk %x# welcome.16\n", getoid(me));
+6355|<O>| tmp += sprintf(ESC HIY "Đòi Tù Và Vương Giả\ntalk %x# welcome.9\n", getoid(me));
+6356|<O>| "    Ta sẽ giảng giải cho bạn những kiến thức cơ bản về thao tác giao diện trò chơi. Dĩ nhiên, nếu bạn đã nắm được những điều này thì có thể bỏ qua bước này, đi tìm các vị thầy khác học tri thức khác。\n"
+6357|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 61, "Bẩm báo Ngụy vương");
+6358|<O>| "Công thức ngẫu nhiên cấp 50-80" : "\"/sys/item/product\"->get_random_drop_product(4)",
+6359|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 10, "Nước mắt Trường Thành");
+6360|<O>| tmp += sprintf(ESC HIY "Đòi Tù Và Vương Giả\ntalk %x# welcome.4\n", getoid(me));
+6361|<O>| tmp += sprintf(ESC HIY "Chế tác Tù Và Vương Giả\ntalk %x# welcome.8\n", getoid(me));
+6362|<O>| case "魏国": return sprintf("data/org-4/%s%s", name, SAVE_EXTENSION);
+6363|<O>| _DEBUG(sprintf("DEBUG -- %s thêm đồng hồ: bắt đầu phân tích chuỗi", show_time_stamp(time())));
+6364|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_CHUGUO,2,"Lễ vật của người trong lòng" );
+6365|<O>| send_user(me, "%c%s", ':', "Đội trưởng, bạn chắc chắn muốn đuổi " + who->get_name() + " ra khỏi đội chứ？\n"
+6366|<O>| CHAR_FIGHT_D->attack_done(me, who, HIT_NONE, ADD_AP);    // Cẩn thận chuẩn bị me
+6367|<O>| tmp += sprintf(ESC HIY "Hỏi Quỷ Cốc Tử\ntalk %x# welcome.25\n", getoid(me));
+6368|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 11, "Tâm sự nặng trĩu");
+6369|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 56, "Giải trừ kỳ sự");
+6370|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 45, "Ghi hồ sơ quan phủ");
+6371|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 11, "Ba chiếc lông vũ");
+6372|<O>| player->set_save_2("question.day", mxTime[TIME_YDAY]);//Ghi lại là ngày thứ mấy trả lời câu hỏi。
+6373|<O>| result=sprintf(me->get_name()+":\n    Đội viên của ngươi chưa đến đủ phải không？Sao vẫn còn mấy người ta không nhìn thấy thế？\n");
+6374|<O>| send_user(who, "%c%s", '!', "Ba lô của bạn không đủ 15 ô trống, hãy dọn bớt ô đạo cụ rồi mới dùng gói quà thú cưng năm mới nhé。");
+6375|<O>| send_user(who, "%c%s", ';', "Tên cướp cuồng vọng Kinh nghiệm 1600 Tiềm năng 70 Tiền 1500 Bản vẽ Áo Gai Mịn 1");

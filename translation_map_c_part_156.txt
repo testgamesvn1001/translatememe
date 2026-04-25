@@ -1,0 +1,40 @@
+3512|<O>| if (damage >= who->get_max_damage()) who->init_enemy_damage(owner, damage);    // Ghi lại sát thương mạnh nhất(NPC)
+3513|<O>| result += sprintf("Xin hãy mau giao thuốc này cho tín sứ %s của %s。\n", me->get_save_2("orgtask2.place"), me->get_org_name());
+3514|<O>| && (!objectp(who = me->get_quest("escort.robber#")) || !who->is_escort_robber()))    // Tìm người bịt mặt
+3515|<O>| if (flag == 1) USER_D->user_channel(sprintf(HIR"Chúc mừng người chơi %s mở cẩm nang nhận được %s！", who->get_name(), result));
+3516|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), "Bác sĩ thú cưng:\n    Thú cưng của ngươi đều rất khỏe mạnh mà！\n"ESC"Rời khỏi", );
+3517|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi có thể dùng một quả hoa cầu đổi các phần thưởng sau:\n"
+3518|<O>| prop += ({ sprintf("Công pháp:%+d %+d%%", who->get_temp_cp("mascot"), who->get_temp_cp("cp10%")) });
+3519|<O>| prop += ({ sprintf("Công kích:%+d %+d%%", who->get_temp_ap("mascot"), who->get_temp_ap("ap10%")) });
+3520|<O>| result = sprintf("［Nhiệm vụ xây dựng］\n"BLK"còn %d phút\n" BLK "Tới " HIR "%s(%d,%d)" BLK " dạy dỗ " HIR "%s" BLK "。\n",
+3521|<O>| prop += ({ sprintf("Phòng pháp:%+d %+d%%", who->get_temp_pp("mascot"), who->get_temp_pp("pp12%")) });
+3522|<O>| ret += sprintf("%sTiếng萌\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"声萌"))?PPM:WHT);
+3523|<O>| prop += ({ sprintf("Phòng ngự:%+d %+d%%", who->get_temp_dp("mascot"), who->get_temp_dp("dp12%")) });
+3524|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng:28 cấp\n    Ném ngọn trường thương trong tay để giết một mục tiêu trong tầm nhìn, cộng thêm 80 điểm công vật lý, đồng thời khi tấn công khiến mục tiêu bị choáng 2 giây。";
+3525|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), "Bác sĩ thú cưng:\n    Số lượng ký gửi đã đạt giới hạn！\n"ESC"Rời khỏi", );
+3526|<O>| send_user(me, "%c%c%d%s", '?', 16, 60, "Xin hãy nhập thời gian bắt đầu của hoạt động Duyên Phận Đối Đối Bính（ví dụ:20070416 ）:\n"ESC"party 29.%s\n");
+3527|<O>| else    me->more_look_menu(who, me->get_name() + ":\nBây giờ làm thương nhân rất được ưa chuộng, vừa có thể cống hiến cho môn phái hoặc bang phái, lại còn tự phát được một món tài nhỏ。\n");
+3528|<O>| varargs int main(object me, string arg, int server)    // server có phải hệ thống đi đường hay không, dùng cho EFFECT_CHAR_DREAM
+3529|<O>| //              if( !who->get_max_damage() ) who->init_enemy_damage(me, 0);    // Ghi lại sát thương mạnh nhất(NPC)
+3530|<O>| char = heart_beats();    // objects( (: get_heart_beat($1) :) );    // Chú ý:get_heart_beat hiệu suất quá thấp
+3531|<O>| send_user(who, "%c%c%w%s", ':', 3, get_char_picid(), get_name() + ":\n    Cút đi！Bổn đại gia chẳng hứng thú với loại cá tạp như ngươi！");
+3532|<O>| CHAT_D->sys_channel(0, sprintf(HIR"Chúc mừng %s nhận được phần thưởng %s trong hoạt động Đại Tầm Bảo Tàng", who->get_name(), item->get_name()));
+3533|<O>| add_alarm_clock("second", "10", "second", ({ "test_func_4","hàm 3 gọi định thời 4",3 }), 2, CYCLE_MINUTE);
+3534|<O>| tell_user(me, "Thời gian kinh nghiệm gấp đôi của ngài còn %d giây。", me->get_double_time() - iOnlineTime - me->get_game_time());
+3535|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), "Bác sĩ thú cưng:\n    Thú cưng của ngươi đều rất trung thành mà！\n"ESC"Rời khỏi", );
+3536|<O>| if (is_store_open()) send_user(who, "%c%c%d%s", 0x3d, 81, id, get_store_name());    // Hiển thị tên bày sạp
+3537|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    Không biết nước Sơn Nhung này khi nào mới thôi xâm phạm nước Yên, thật tội nghiệp cho những con dân nước Yên đó～\n", get_name())
+3538|<O>| result = sprintf("［Nhiệm vụ tuần tra］\n"BLK"còn %d phút\n" BLK "Tới " HIR "%s(%d,%d)" BLK " dạy dỗ " HIR "%s" BLK "。\n",
+3539|<O>| send_user(who, "%c%s", ';', sprintf("Tình khóa Tần Cung（4）  Kinh nghiệm 4300  Tiềm năng 138  Tiền 3800  %s 1", tmp->get_name()));
+3540|<O>| USER_D->user_channel("Chúc mừng người chơi " + player->get_name() + " nhận được " + goods->get_name() + " trong hoạt động Tổng Động Viên Đào Bảo。");
+3541|<O>| "Sức C+30" : "\"/item/86/3030\"", "Sức C+40" : "\"/item/86/3040\"", "Sức C+50" : "\"/item/86/3050\"",
+3542|<O>| return sprintf("［Tinh luyện］ Tỷ lệ né vật lý %+.2f％\n［Trang bị áp dụng］ Đai lưng、dây chuyền、giày", to_float(me->get_diamond_add()) / 100);
+3543|<O>| if (con < con0 || spi < spi0 || str < str0 || cps < cps0 || dex < dex0) return 1;    // Không thể gọi ngược
+3544|<O>| //      if( gone_time( me->get_perform(PF_START) ) < TIME_INTERVAL ) return 1;    // Cẩn thận chuẩn bị me
+3545|<O>| send_user(who, "%c%s", ':', get_name() + ":\n    Rảnh thì ghé qua nếm món tiểu thái ta làm, người từng ăn chưa ai chê không ngon cả, đây chính là điều ta đắc ý nhất đời！\n" +
+3546|<O>| send_user( member, "%c%c%d%w%w", 0x54, 12, getoid(member), -1, -1 );    // Mượn dùng getoid(member)
+3547|<O>| else if (who->is_zombie())    // Chỉ có thể mê hoặc quái ngoài đồng và triệu hoán thú của người chơi    // who->is_badman() || who->is_zombie()
+3548|<O>| send_user(me, "%c%s", '>', sprintf("Tọa độ của %s là %d,%d", who->get_name(), get_x(who), get_y(who)));
+3549|<O>| if (item->get_lock_time() == 0) item->set_lock_time(time() + 14 * 24 * 60 * 60);//Xử lý phần điều khiển thời gian ở trên。
+3550|<O>| send_user(me, "%c%s", '!', sprintf("Dùng Tử Sâm Đan còn phải chờ %d giây", 30 - gone_time(me->get_time("eat_zs"))));
+3551|<O>| if( map	= get_map_object(z) ) result +=	sprintf( "Vị trí:	%s(%d,%d)\n", map->get_name(), x, y );

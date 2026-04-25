@@ -1,0 +1,58 @@
+﻿8548|<O>| && (flag == 2 || flag == 4)    // 2. Nhiệm vụ mất trộm (Vật phẩm)  // 4. Nhiệm vụ mất trộm (Nhân vật)
+8549|<O>| send_user(who, "%c%s", ';', "Khảo nghiệm bản thân Kinh nghiệm 60000 Tiềm năng 780 Kim tiền 51000");
+8550|<O>| send_user(who, "%c%s", ';', "Truy tìm tận gốc Kinh nghiệm 32000 Tiềm năng 500 Kim tiền 31000");
+8551|<O>| else if (rand < 9180)//Bản vẽ trắng ngẫu nhiên cấp 50-90, item/product/62070-62080.
+8552|<O>| /*              else if( p < 5640 * rate / 100 )    // Vũ khí (Cơ bản)
+8553|<O>| /*              else if( p < 8116 * rate / 100 )    // Vũ khí (Cơ bản)
+8554|<O>| /*              else if( p < 6544 * rate / 100 )    // Vũ khí (Cơ bản)
+8555|<O>| /*              else if( p < 2494 * rate / 100 )    // Phòng cụ (Cơ bản)
+8556|<O>| /*              else if( p < 2382 * rate / 100 )    // Phòng cụ (Cơ bản)
+8557|<O>| /*              else if( p < 7591 * rate / 100 )    // Vũ khí (Cơ bản)
+8558|<O>| send_user(who, "%c%s", ';', "Độc chiến cổ mộ Kinh nghiệm 69000 Tiềm năng 800 Kim tiền 55000");
+8559|<O>| /*              else if( p < 5909 * rate / 100 )    // Vũ khí (Môn phái)
+8560|<O>| /*              else if( p < 4616 * rate / 100 )    // Phòng cụ (Cơ bản)
+8561|<O>| case "Ngụy Quốc": z = 40;  p = get_jumpin(z, me->get("in"));  break;
+8562|<O>| tmp += sprintf(ESC"Tìm lại Ngọc Tỷ\ntalk %x# welcome.21\n", getoid(me));
+8563|<O>| /*              else if( p < 4587 * rate / 100 )    // Vũ khí (Môn phái)
+8564|<O>| user2 = get_scene_object(z0, x, y, USER_TYPE, dy);    // Đối tượng mới
+8565|<O>| /*              else if( p < 2454 * rate / 100 )    // Vũ khí (Cơ bản)
+8566|<O>| send_user(who, "%c%s", ';', "Đòi hỏi bảo đồ Kinh nghiệm 31000 Tiềm năng 480 Kim tiền 30000");
+8567|<O>| /*              else if( p < 6580 * rate / 100 )    // Vũ khí (Cơ bản)
+8568|<O>| /*              else if( p < 6009 * rate / 100 )    // Phòng cụ (Cơ bản)
+8569|<O>| return "［" PF_NAME "］\nBắt quái vật huấn luyện thành thú cưng của mình, khi sử dụng phải tiêu hao một sợi Càn Khôn Thừng (có bán tại tiệm tạp hóa).\n";
+8570|<O>| /*              else if( p < 8838 * rate / 100 )    // Phòng cụ (Cơ bản)
+8571|<O>| send_user(who, "%c%s", ';', "Hỏi han nguyên nhân Kinh nghiệm 48000 Tiềm năng 680 Kim tiền 50000");
+8572|<O>| /*              else if( p < 9255 * rate / 100 )    // Vũ khí (Cơ bản)
+8573|<O>| /*              else if( p < 6382 * rate / 100 )    // Vũ khí (Cơ bản)
+8574|<O>| /*              else if( p < 7510 * rate / 100 )    // Phòng cụ (Cơ bản)
+8575|<O>| /*              else if( p < 1030000 * rate / 100 )    // Vật phẩm linh tinh 5
+8576|<O>| /*              else if( p < 7886 * rate / 100 )    // Vũ khí (Cơ bản)
+8577|<O>| /*              else if( p < 2754 * rate / 100 )    // Vũ khí (Cơ bản)
+8578|<O>| if (!objectp(item_q2 = present("Thù Du", who, 1, MAX_CARRY * 4)))
+8579|<O>| /*              else if( p < 4360 * rate / 100 )    // Vũ khí (Môn phái)
+8580|<O>| /*              else if( p < 5146 * rate / 100 )    // Phòng cụ (Cơ bản)
+8581|<O>| /*              else if( p < 1060000 * rate / 100 )    // Vật phẩm linh tinh 5
+8582|<O>| /*              else if( p < 2689 * rate / 100 )    // Phòng cụ (Cơ bản)
+8583|<O>| /*              else if( p < 6659 * rate / 100 )    // Vũ khí (Cơ bản)
+8584|<O>| case 95: result = "Thủ Lĩnh Sơn Tặc Trường Bạch Sơn";  pic = 8011;  level2 = 7;  break;
+8585|<O>| /*              else if( p < 4993 * rate / 100 )    // Vũ khí (Môn phái)
+8586|<O>| /*              else if( p < 6326 * rate / 100 )    // Phòng cụ (Cơ bản)
+8587|<O>| /*              else if( p < 6354 * rate / 100 )    // Vũ khí (Cơ bản)
+8588|<O>| /*              else if( p < 5100 * rate / 100 )    // Phòng cụ (Môn phái)
+8589|<O>| /*              else if( p < 5093 * rate / 100 )    // Phòng cụ (Môn phái)
+8590|<O>| /*              else if( p < 9206 * rate / 100 )    // Vũ khí (Cơ bản)
+8591|<O>| send_user(who, "%c%s", ';', "Đại Hồ Lô (2) Kinh nghiệm 3830 Tiềm năng 165 Kim tiền 3500");
+8592|<O>| send_user(who, "%c%s", ';', "Chứng minh thực lực Kinh nghiệm 71000 Tiềm năng 890 Kim tiền 60000");
+8593|<O>| /*              else if( p < 5252 * rate / 100 )    // Vũ khí (Cơ bản)
+8594|<O>| /*              else if( p < 3510 * rate / 100 )    // Vũ khí (Cơ bản)
+8595|<O>| if (objectp(item = present("Anh Minh Song Tử", me, 1, MAX_CARRY * 4))) {
+8596|<O>| private static int Lucky;                       // Tỷ lệ may mắn("??%")
+8597|<O>| /*              else if( p < 5360 * rate / 100 )    // Vũ khí (Cơ bản)
+8598|<O>| result = sprintf("%s:\n    Bạn chưa học kỹ năng sống này.\n", me->get_name());
+8599|<O>| send_user(who, "%c%s", ';', "Kiểm soát số lượng Kinh nghiệm 80000 Tiềm năng 960 Kim tiền 70000");
+8600|<O>| /*              else if( p < 5211 * rate / 100 )    // Vũ khí (Cơ bản)
+8601|<O>| /*              else if( p < 5338 * rate / 100 )    // Phòng cụ (Cơ bản)
+8602|<O>| send_user(me, "%c%w%c%w", 0x50, 0, 0xff, 2);    // Có thể sử dụng sau khi ra chiêu 2 giây
+8603|<O>| /*              else if( p < 9326 * rate / 100 )    // Vũ khí (Cơ bản)
+8604|<O>| /*              else if( p < 2553 * rate / 100 )    // Vũ khí (Cơ bản)
+8605|<O>| me->set_change_hurt(20 + level / 3);    // Không đưa vào USER_ENERGY_D

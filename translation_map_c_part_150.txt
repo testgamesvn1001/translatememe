@@ -1,0 +1,38 @@
+3277|<O>| send_user( who, "%c%s", ':', me->get_name() + ":\n    Ngươi biểu hiện vô cùng xuất sắc, như vậy quan phủ chúng ta cũng bớt được không ít công phu. Đây là thù lao của ngươi, cứ cầm lấy cho tốt đi！\n"
+3278|<O>| send_user(who, "%c%c%w%s", ':', 3, 6010, get_name() + ":\n    Rất cảm ơn ngài đã ủng hộ Đại Thoại Chiến Quốc, chúng tôi sẽ đồng lòng hiệp lực làm cho trò chơi ngày càng tốt hơn！！！\n"
+3279|<O>| send_user(who, "%c%s", ';', sprintf("Tiêu Độc Quý（4）  Kinh nghiệm 210000  Tiềm năng 2300  Tiền 210000  %s 1", tmp->get_name()));
+3280|<O>| else    result = sprintf("%s ở hướng %s khá xa。", map->get_name(), PF_NO_00031->get_direction(x0, y0, x, y));
+3281|<O>| if (who->get_quest("valentine.flag") == 7 && !objectp(item = present("Đậu sô cô la", who, 1, MAX_CARRY)))
+3282|<O>| send_user(who, "%c%c%w%s", ':', 3, npc->get_char_picid(), npc->get_name() + ":\n    Xin lỗi, ta không thể đi cùng ngươi。");
+3283|<O>| result = sprintf("Đã dùng tín vật bang phái, vốn bang:+%d, độ nổi tiếng bang:+%d, độ an định bang:+%d, dự trữ bang:+%d。", Gold, iFavour, iStable, iStore);
+3284|<O>| #define INIT_PP         me->get_pf_value(THIS_SKILL, SKILL_LEVEL_SQUARE, 71, 34)    // Cảnh báo:me cần chuẩn bị sẵn
+3285|<O>| #define INIT_HP         me->get_pf_value(THIS_SKILL, SKILL_LEVEL_SQUARE, 264, 4)    // Cảnh báo:me cần chuẩn bị sẵn
+3286|<O>| #define INIT_SP         me->get_pf_value(THIS_SKILL, SKILL_LEVEL_SQUARE, 72, 34)    // Cảnh báo:me cần chuẩn bị sẵn
+3287|<O>| //                        CHAT_D->rumor_channel( 0, sprintf( HIM "Quản trị viên %s(%d) phong bế kênh tin đồn của %s(%d) trong %d phút。",
+3288|<O>| #define INIT_SP         me->get_pf_value(THIS_SKILL, SKILL_LEVEL_SQUARE, 72, 50)    // Cảnh báo:me cần chuẩn bị sẵn
+3289|<O>| if (con == con0 && spi == spi0 && str == str0 && cps == cps0 && dex == dex0) return 1;    // Không thay đổi
+3290|<O>| #define INIT_PP         me->get_pf_value(THIS_SKILL, SKILL_LEVEL_SQUARE, 40, 30)    // Cảnh báo:me cần chuẩn bị sẵn
+3291|<O>| return sprintf("Ấm trà dùng để thu thập linh hồn yêu quái. Khi thu đủ linh hồn yêu quái, tịnh hóa chiếc ấm này có thể nhận phần thưởng。\nLượng linh hồn đã thu thập:%d/450", me->get_save_2("refine.count"));
+3292|<O>| if (objectp(item = present("Hạt giống thần bí", who, 1, MAX_CARRY)) && who->get_quest("valentine.flag") == 4)
+3293|<O>| && arrayp(zombie = filter_array(zombie - ({ 0 }), (: $1->get_owner() == $2 : ), me))    // Xóa quái phản loạn
+3294|<O>| result = sprintf(me->get_name() + ":\n    Ngươi muốn tới bản đồ luyện cấp từ trên cấp 95 đến dưới cấp 100 sao？Nào, chọn đi！Nhấn Alt+M có thể xem chủng loại quái cụ thể ở những bản đồ này đó。\n");
+3295|<O>| #define INIT_HP         me->get_pf_value(THIS_SKILL, SKILL_LEVEL_SQUARE, 163, 5)    // Cảnh báo:me cần chuẩn bị sẵn
+3296|<O>| #define INIT_SP         me->get_pf_value(THIS_SKILL, SKILL_LEVEL_SQUARE, 49, 50)    // Cảnh báo:me cần chuẩn bị sẵn
+3297|<O>| if (effect3 & 0x00000040) effect += ({ sprintf("Không trúng độc: %d", get_effect(what, EFFECT_CHAR_9140)) });
+3298|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng:12 cấp\n    Ám khí bắn ra xuyên thủng giáp trụ，khi đánh trúng mục tiêu sẽ khiến phòng ngự vật lý của hắn giảm 10 điểm trong 20 giây, đồng thời tổng cộng mất 120 điểm khí huyết trong 12 giây。";
+3299|<O>| #define INIT_PP         me->get_pf_value(THIS_SKILL, SKILL_LEVEL_SQUARE, 82, 33)    // Cảnh báo:me cần chuẩn bị sẵn
+3300|<O>| #define INIT_PP         me->get_pf_value(THIS_SKILL, SKILL_LEVEL_SQUARE, 12, 34)    // Cảnh báo:me cần chuẩn bị sẵn
+3301|<O>| send_user(player, "%c%s", ':', sprintf("%s:\nNgươi có thể vào thành hỏi ông chủ tửu điếm, hắn là bách sự thông, chẳng có gì là không biết。", master->get_name()));
+3302|<O>| CHAT_D->sys_channel(0, HIY + map->get_city() + " của " + map->get_name() + " đã chịu sự phá hoại điên cuồng của quái vật, quốc lực bị đả kích nghiêm trọng。");
+3303|<O>| #define INIT_AP         me->get_pf_value(THIS_SKILL, SKILL_LEVEL_SQUARE, 89, 20)    // Cảnh báo:me cần chuẩn bị sẵn
+3304|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nTiêu hao nguyên khí:%d điểm\nThời gian hồi:%d giây\n    Đồng thời hấp dẫn toàn bộ quái vật trong phạm vi 9×9 lấy bản thân làm trung tâm phát động tấn công về phía ngươi。",
+3305|<O>| tell_user(me, "%s(%03d) %d[%d]/%d + %d con quái，còn %d phút %d giây /%d phút làm mới。Điểm quái: %d, nhân vật: %d, làm mới: %d。", name, id[i],
+3306|<O>| #define ADD_RATE        me->get_pf_value(THIS_SKILL, SKILL_LEVEL_SQUARE, 5, 500)    // Cảnh báo:me cần chuẩn bị sẵn
+3307|<O>| #define INIT_AP         me->get_pf_value(THIS_SKILL, SKILL_LEVEL_SQUARE, 60, 20)    // Cảnh báo:me cần chuẩn bị sẵn
+3308|<O>| //		                        ESC "Đắt quá, ta không sửa nữa\nCLOSE\n", who->get_name(), allvalue, getoid(who) ) );
+3309|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng:25 cấp\nTiêu hao đạo cụ:2 lá bùa giấy\n    Có thể tức thì truyền tống tới bên cạnh một người chơi có ID chỉ định. Nếu người chơi đó đang ở khu an toàn hoặc trong hang động, không thể dùng kỹ năng này để truyền tống。";
+3310|<O>| if (effect3 & 0x00000080) effect += ({ sprintf("Không dị thường: %d", get_effect(what, EFFECT_CHAR_9145)) });
+3311|<O>| send_user(me, "%c%s", ';', sprintf("Ngài đã ký gửi thành công "HIR"%d"NOR" nguyên bảo，hệ thống đã khấu trừ "HIR"1 nguyên bảo"NOR" làm phí thủ tục。", value));
+3312|<O>| #define INIT_SP         me->get_pf_value(THIS_SKILL, SKILL_LEVEL_SQUARE, 93, 33)    // Cảnh báo:me cần chuẩn bị sẵn
+3313|<O>| #define INIT_AP         me->get_pf_value(THIS_SKILL, SKILL_LEVEL_SQUARE, 50, 19)    // Cảnh báo:me cần chuẩn bị sẵn
+3314|<O>| #define INIT_HP         me->get_pf_value(THIS_SKILL, SKILL_LEVEL_SQUARE, 439, 4)    // Cảnh báo:me cần chuẩn bị sẵn

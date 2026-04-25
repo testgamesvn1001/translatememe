@@ -1,0 +1,62 @@
+﻿9683|<O>| send_user(who, "%c%s", '!', sprintf(HIY"守阵天兵 %d/7", i));
+9684|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 6, PF_NAME + "中……");
+9685|<O>| if (!objectp(item_q = present("花球", who, 1, MAX_CARRY)))
+9686|<O>| return HIC+get_name()+"\n拥有此技能的宠物，宠物受到的所有法术攻击伤害均会增加5％。";
+9687|<O>| send_user(who, "%c%s", '!', sprintf(HIY"魔晴石 %d/10", i));
+9688|<O>| case 4: level = 30;  log_file(LIST_LOG, "唐门\n");  break;
+9689|<O>| if (TASK_LEGEND_D->check_task_item(who, "茉莉花茶", 1) != 1)
+9690|<O>| tmp += sprintf(ESC HIY "玫瑰花\ntalk %x# welcome.1\n", id);
+9691|<O>| if (num < num2 + 1 || num > num2 + MAX_CARRY)    // 同栏之中
+9692|<O>| if (TASK_LEGEND_D->check_task_item(who, "稀世宝玉", 1) != 1)
+9693|<O>| if (TASK_LEGEND_D->check_task_item(who, "请命奏书", 1) != 1)
+9694|<O>| send_user(who, "%c%s", '!', sprintf(HIY"罐中妖 %d/18", i));
+9695|<O>| notify("修理%s要 %d 金，您手上的现金不够。", item->get_name(), value);
+9696|<O>| tmp = ESC "继续任务链。\n" + sprintf("talk %x# buy.82\n", id);
+9697|<O>| send_user(who, "%c%c%s", 0x7b, 0xfe, result);    // 交易记录
+9698|<O>| result = me->get_name() + ":\n    您可以用“给予”指令，将晶石交给我。\n";
+9699|<O>| SAY_CMD->say(me, enemy->get_name() + "，我要你瞧瞧本将军剑法的厉害！");
+9700|<O>| if (TASK_LEGEND_D->check_task_item(who, "翡翠珠串", 1) != 1)
+9701|<O>| if (TASK_LEGEND_D->check_task_item(who, "虎皮遗书", 1) != 1)
+9702|<O>| tmp = sprintf(ESC HIY "水落石出\ntalk %x# welcome.6\n", id);
+9703|<O>| tmp = sprintf(ESC HIY "招摇撞骗\ntalk %x# welcome.1\n", id);
+9704|<O>| send_user(who, "%c%s", '!', sprintf(HIY"油菜籽 %d/10", i));
+9705|<O>| private static object* dbComrade2 = ({ });      // 防守方士兵
+9706|<O>| case 8: name3 = "教育";  city->add_money(-500000);  break;
+9707|<O>| case 6: send_user(who, "%c%s", ':', "您:\n听说官府就要废止教育了。");
+9708|<O>| if (TASK_LEGEND_D->check_task_item(who, "女儿红", 10) != 1)
+9709|<O>| send_user(who, "%c%s", ';', "锻炼自己 经验 280 潜能 15 金钱 500");
+9710|<O>| case 4: name3 = "矿业";  city->add_money(-500000);  break;
+9711|<O>| path = path[0 ..strchr(path, '/', -1) + 1];    // 运算绝对路径
+9712|<O>| cmd = sprintf(ESC HIY "索要灵芝草\ntalk %x# visit.11\n", id);
+9713|<O>| if (get_login_flag() == 2) return HP->Point;    // 未准备就绪
+9714|<O>| send_user(who, "%c%s", '!', sprintf(HIY"红宝石 %d/10", i));
+9715|<O>| send_user(who, "%c%s", ';', "探望病人 经验 290 潜能 20 金钱 500");
+9716|<O>| if (TASK_LEGEND_D->check_task_item(who, "宫殿图纸", 1) != 1)
+9717|<O>| result = sprintf("当前装备的精练成功率为"HIR"%d"NOR"，\n你确定要精炼%s？\n"
+9718|<O>| case 5: level = 30;  log_file(LIST_LOG, "茅山\n");  break;
+9719|<O>| if (sscanf(arg, ">>%s %d %s", who, id, arg))    // GM 专用
+9720|<O>| send_user(who, "%c%s", '!', sprintf("乱蛰人的小蜜蜂 %d/8", i));
+9721|<O>| 有 NoDrop, NoGet, NoGive, NoSell 标志，或者 Value <= 1 不能 pawn
+9722|<O>| if (TASK_LEGEND_D->check_task_item(who, "抵押契约", 1) != 1)
+9723|<O>| if (TASK_LEGEND_D->check_task_item(who, "玫瑰花", 11) != 1)
+9724|<O>| tmp = ESC "保存任务链。\n" + sprintf("talk %x# buy.83\n", id);
+9725|<O>| send_user(who, "%c%s", '!', sprintf(HIY"守阵神将 %d/4", i));
+9726|<O>| if (TASK_LEGEND_D->check_task_item(who, "翠玉之睛", 1) != 1)
+9727|<O>| tmp = sprintf(ESC HIY "赵的求助\ntalk %x# welcome.1\n", id);
+9728|<O>| if (TASK_LEGEND_D->check_task_item(who, "准放奏书", 1) != 1)
+9729|<O>| if (objectp(item = present("水瓶", me, 1, MAX_CARRY * 4)))
+9730|<O>| USER_SKILL_D->cancel_enabled_perform(me, "");    // 扣减法力
+9731|<O>| send_user( this_player(1), "%c%s", '>', "编译错误:" + msg );
+9732|<O>| private static int SmartCaster;                 // 游击战模式
+9733|<O>| if(    !get_effect(who, EFFECT_CHAR_SUPPRESS)    // 没有压制
+9734|<O>| send_user(who, "%c%s", '!', sprintf(HIY"罐中仙 %d/10", i));
+9735|<O>| if (TASK_LEGEND_D->check_task_item(who, "大萝卜", 12) != 1)
+9736|<O>| tmp = sprintf(ESC HIY "沼泽寻宝\ntalk %x# welcome.1\n", id);
+9737|<O>| send_user(who, "%c%s", '!', obj3->get_name() + "不能交易。");
+9738|<O>| case 3: name3 = "渔业";  city->add_money(-500000);  break;
+9739|<O>| send_user(who, "%c%s", '!', sprintf(HIY"锻炼自己 %d/3", i));
+9740|<O>| return "［强化刀剑格挡］提升使用刀和剑的防御力，每级提升 1.5 点；提升爆击率，每级提升0.08％";
+9741|<O>| item->set("from", sprintf("其他 %s", get_file_name(obj)));
+9742|<O>| send_user(who, "%c%s", '!', sprintf(HIY"守阵天兵 %d/3", i));
+9743|<O>| send_user(who, "%c%s", '!', sprintf(HIY"铜甲尸 %d/20", i));
+9744|<O>| result += sprintf( ESC "返回。\nlook %x#\n", getoid(who) );

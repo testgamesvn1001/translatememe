@@ -1,0 +1,45 @@
+4234|<O>| write_user(team[i], ECHO "Bạn đã tham gia đánh chết %s, kinh nghiệm %+d, tiềm năng %+d。", me->get_name(), exp2, pot2);
+4235|<O>| tell_user(me, "Công cộng: %-4dTin đồn: %-4dQuốc gia: %-4dBang phái: %-4dMôn phái: %-4dBản địa: %-4dĐội ngũ: %-4dGiao dịch: %-4d",
+4236|<O>| if (who->get_hurt_rate()) prop += ({ sprintf("Tỷ lệ phản chấn:%4d", who->get_hurt_rate()) });
+4237|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 29\n    Kỹ năng công kích bằng côn pháp dữ dội như sóng biển cuồn cuộn, cộng thêm 20 điểm sát thương, đồng thời khi trúng đòn sẽ khiến đối thủ choáng 3 giây。";
+4238|<O>| tmp += sprintf(ESC + HIY + "Chứng đau đầu\ntalk %x# welcome.7\n", getoid(this_object()));
+4239|<O>| return "Khác với hạt vừng thông thường, khi nở hoa lại là thấp dần từng đốt，\ncó thể vào phó bản có giai đoạn cấp thấp hơn cấp hiện tại của mình mà không bị giới hạn cấp độ。\nMỗi lần vào phó bản có giai đoạn cấp thấp hơn mình sẽ tự động tiêu hao một Hạt Vừng Mở Cửa。";
+4240|<O>| if (who->get_hit_rate()) prop += ({ sprintf("Mệnh trung:%+3d%%", who->get_hit_rate()) });
+4241|<O>| if( ( enemy = who->get_enemy() ) == me || enemy == owner ) return 1;    // Tấn công mục tiêu thù địch
+4242|<O>| cmd1 = sprintf(ESC "Thuế mua vào của người trong nước。(%d%%)\ntalk %x# tax.1.?\n", city->get_buy_tax(), id);
+4243|<O>| if ("sys/party/national"->get_status() == 0) tell_user(me, "Hoạt động Quốc Khánh -- Bá Bá Dưa Hấu đang ở trạng thái đóng");
+4244|<O>| send_user(who, "%c%s", ':', get_name() + ":\nHì hì. Ta thích ăn đồ ngọt nhất, ví dụ như bánh đậu đỏ, bánh đậu xanh, còn cả kẹo hồ lô nữa。\n"
+4245|<O>| result = sprintf("%s:\n    Gỗ của bang phái không đủ %d。\n", who->get_name(), 40 + (level - 1) * 30);
+4246|<O>| send_user(me, "%c%c%d%d%s", '?', 2, amount, value, sprintf("Đơn giá của %s là %d vàng, bạn định bán bao nhiêu?\n"
+4247|<O>| result += sprintf(ESC "Xác nhận\nconsign sale2 %d %d %d\n", value, time * 3600, price);
+4248|<O>| send_user(me, "%c%c%s", 0x59, 1, sprintf(item->get_name() + " sẽ biến mất sau khi bị vứt bỏ。Bạn có chắc muốn vứt không?\n"
+4249|<O>| send_user(who, "%c%s", ':', get_name() + ":\n    Những loại sô-cô-la khác nhau đều mang những hàm ý khác nhau, nhưng tất cả đều biểu đạt tình yêu nồng đậm。\n" +
+4250|<O>| HIR "Tiềm năng" NOR " và tiền bạc。Kỹ năng tu luyện càng cao thì tiêu hao này sẽ càng lớn。\n    Ngoài võ công môn phái, sau khi gia nhập bang phái bạn còn có thể học được một số võ công kỹ năng bang phái đặc biệt。\n"
+4251|<O>| return "［Hỗn Nguyên Chân Khí］Tăng giới hạn pháp lực, mỗi cấp tăng 2 điểm. Tăng giới hạn phòng ngự pháp thuật, mỗi cấp tăng 1 điểm。\n";    // level / 9.5 = level * 0.1
+4252|<O>| if (who->get_save("dodolook") >= 4 && objectp(present("Lệnh Thất Quốc", who, 1, MAX_CARRY)))
+4253|<O>| else    result = sprintf("［Nhiệm vụ vận tiêu］\n"BLK"Còn %d phút\n" BLK "Hộ tống vật phẩm đến chỗ " HIR "%s" BLK "。\n",
+4254|<O>| if (gone_time(me->get_perform(PF_START)) < TIME_INTERVAL) return 1;    // Cẩn thận chuẩn bị me
+4255|<O>| write_user(me, ECHO "Bạn cẩn thận bôi đều %s lên %s。", item->get_name(), weapon->get_name());
+4256|<O>| tell_user(me, sprintf(line[i] + "Thiếu /skill/%d/%d", skill / 10, skill * 100 + id));
+4257|<O>| send_user(me, "%c%c%w%s", ':', 3, 0, "Chế độ tấn công của bạn là “" + data + "”, bạn muốn đổi thành:(phím tắt: Ctrl+H)\n"
+4258|<O>| if (!objectp(item = present("Phiếu xuất hàng", who, 1, MAX_CARRY)) || item->is_huodan() != 1)
+4259|<O>| item = new (sprintf("/item/54/%04d", change54[random(sizeof(change54))]));//Thẻ biến thân ngẫu nhiên
+4260|<O>| if( distance_between(me, owner) > 1 && inside_screen_2(me, owner) )    // Đi theo:mỗi giây 3 bước
+4261|<O>| result = sprintf("%s:\n    Hãy chọn cách nâng cấp %s:\n", who->get_name(), fileobj->get_name());
+4262|<O>| //		//send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_NEWBIE_01,22,"Trận chiến chính nghĩa(đã hoàn thành)" );
+4263|<O>| //                send_user( me, "%c%w%c%w", 0x50, 0, 0xff, 2 );    // Tất cả chiêu thức 2 giây sau có thể dùng
+4264|<O>| send_user(who, "%c%s", ':', me->get_name() + ":\n    Đây là hòm dự trữ mà ngươi cần, mau mang về nộp cho tiên sinh phòng sổ đi。\n" +
+4265|<O>| if (!objectp(item = present("Bản đồ kho báu", who, 1, MAX_CARRY)) || item->is_xunbao() != 1)
+4266|<O>| * Giả định hai điểm trên đường thẳng là (x1, y1), (x2, y2), vậy phương trình đường thẳng là:(x - x1) / (y - y1) = (x1 - x2) / (y1 - y2)
+4267|<O>| string* soldier = ({ "Binh sĩ số 1","Binh sĩ số 2","Binh sĩ số 3","Binh sĩ số 4","Binh sĩ số 5","Binh sĩ số 6","Binh sĩ số 7","Binh sĩ số 8", });
+4268|<O>| tell_user(me, "Bảo vệ mật khẩu: %-4sKhóa người dùng: %d", who->get_id_protect(), who->get_id_locked());
+4269|<O>| z = p / 1000000;  x = (p % 1000000) / 1000;  y = p % 1000;    // get_jumpout có chứa z
+4270|<O>| result = result + sprintf(ESC + HIY + "Thăm người bệnh\ntalk %x# welcome.13\n", getoid(me));
+4271|<O>| send_user(nTeam[i], "%c%s", ';', "Ầm, ầm, ầm, cơ quan của sư tử đá cơ quan đã được mở, bây giờ ngươi có thể kéo sư tử đá cơ quan ở cuối khu mộ thất để tiến vào tầng tiếp theo rồi。");
+4272|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 15\nTiêu hao đạo cụ: Đậu nành\n    Rải đậu nành, triệu hồi một đậu binh hỗ trợ chiến đấu. Đậu binh có xác suất nhất định thu hút quái vật tấn công。";
+4273|<O>| if (gone_time(me->get_perform(PF_FLAG)) < TIME_INTERVAL) return 1;    // Cẩn thận chuẩn bị me
+4274|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nTiêu hao pháp lực:%d điểm\nTiêu hao đạo cụ: 1 lá bùa giấy\n    Tức thời truyền tống đến vị trí đã đánh dấu。",
+4275|<O>| else    result = sprintf("Ở khá xa bạn về hướng %s。", PF_NO_00031->get_direction(x0, y0, x, y));
+4276|<O>| "Ngươi biết điều ngươi biết là đúng chứ? Ngươi nói đúng thì là đúng, đã đúng thì sao còn có người không tin chứ, không tin thì sao gọi là đúng được, ha ha ha, nói thật cho ngươi biết, nhà ta ba đời gia truyền là một nhà sưu tầm bảo vật phong thủy vĩ đại，"
+4277|<O>| send_user(who, "%c%s", ';', sprintf("Bạn đã dùng một quả cầu đen, một quả cầu xanh và một quả cầu đỏ để đổi %s", item->get_name()));
+4278|<O>| tmp += sprintf(ESC HIY "Dập tắt oai phong của Tôn thiếu gia\ntalk %x# welcome.4\n", getoid(this_object()));

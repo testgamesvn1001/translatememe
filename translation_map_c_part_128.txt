@@ -1,0 +1,31 @@
+2513|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Bánh ngọt để lâu sẽ hỏng, vẫn nên mau mang đi thôi！\n"ESC"Rời khỏi", me->get_name()));
+2514|<O>| send_user( player, "%c%s", '!', sprintf("Nhiệm vụ đã hoàn thành, hãy báo cáo với %s。","/sys/task/quest1"->get_manager_name(player->get_fam_name())) );
+2515|<O>| send_user(who,"%c%c%w%s",':',3,me->get_char_picid(),sprintf("%s:\n    Hình như đồ trên người ngươi quá nhiều rồi, dọn bớt rồi hãy đến đổi quà nhé～\n"ESC"Rời khỏi",me->get_name()));
+2516|<O>| CHAT_D->sys_channel(0,HIY"Nghe nói yêu ma đến từ dị giới đang rục rịch hành động, dự tính sẽ tấn công hoàng thành các nước sau "HIR"10 phút nữa"HIY"。Hiện nay "HIR"đại tướng quân các nước"HIY" đã bắt đầu khẩn cấp chiêu mộ binh lính, xin các tình nguyện viên mau tới chỗ tướng quân các nước báo danh, gia nhập trận chiến bảo vệ hoàng thành！");
+2517|<O>| send_user(get_scene_object_2(who, USER_TYPE), "%c%d%w%c%c%c", 0x6f, getoid(who), 2813, 1, OVER_BODY, PF_ONCE);    // Kỹ năng thành công
+2518|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi đừng làm lỡ việc của Yến Thương Thiên, hiện giờ ông ấy đang rất gấp！\n"ESC"Rời khỏi", me->get_name()));
+2519|<O>| send_user( who, "%c%c%w%s", ':',3,me->get_char_picid(), sprintf("%s:\n    Bang phái của ngươi đã chiếm lĩnh Vô Song Thành, không cần chiếm nữa！\n"ESC"Rời khỏi",me->get_name()));
+2520|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Xem ra ta chỉ còn cách báo quan mới giải quyết được vấn đề này。\n"ESC"Rời khỏi", me->get_name()));
+2521|<O>| send_user(who, "%c%c%w%s", ':', 3, 5404, sprintf("%s:\n    Đám gà rừng đáng ghét đó hôm qua lại tới quấy rối rồi, ngươi vẫn chưa tìm thấy chúng sao？Ngay bên ngoài thôn đó！\n"ESC"Rời khỏi", me->get_name()));
+2522|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Nếu bỏ lỡ mùa gieo trồng thì không ổn đâu。\n"ESC"Rời khỏi", me->get_name()));
+2523|<O>| send_user(me, "%c%c%w%s", ':', 3, 0, sprintf("Trên người ngươi đã có một nhân sâm đang phát huy tác dụng, ngươi có chắc muốn ghi đè hiệu quả của nó không？\n"ESC"Xác định\nuse ! %x#\n"ESC"Hủy bỏ", getoid(item)));
+2524|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi phải cố lên, đừng phụ kỳ vọng của ta dành cho ngươi。\n"ESC"Rời khỏi", me->get_name()));
+2525|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Xem ra sau này làm ăn không thể đi qua đó nữa rồi。\n"ESC"Rời khỏi", me->get_name()));
+2526|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Qua Tết Trùng Dương rồi mà còn đốt tiền cho người đã khuất thì sẽ là bất kính。\n"ESC"Rời khỏi", me->get_name()));
+2527|<O>| send_user(me, "%c%c%d%s", '?', 16, 60, "Xin hãy nhập thời gian bắt đầu và kết thúc của hoạt động Quốc Khánh - Quốc Khánh tặng lễ（ví dụ:200706190900-200706192300 ）:\n"ESC"party 155.%s\n");
+2528|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), "Như Ý Tiên Tử:\n    Qua khoảng thời gian khảo nghiệm này cùng với nỗ lực của chính ngươi, ngươi đã trở thành Tân Nhân Vương được vạn người chú ý, đây là đại lễ bao dành cho ngươi để khích lệ～！");
+2529|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n   Không có nguyên liệu sửa chữa, ta phải sửa cho ngươi thế nào đây？\n"ESC"Rời khỏi", me->get_name()));
+2530|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Thật quá đáng sợ, sau này ta sẽ không bao giờ tới đó nữa。\n"ESC"Rời khỏi", me->get_name()));
+2531|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), "Như Ý Tiên Tử:\n    Qua khoảng thời gian khảo nghiệm này cùng với nỗ lực của chính ngươi, ngươi đã trở thành kỹ năng sư được vạn người chú ý, đây là đại lễ bao dành cho ngươi để khích lệ～！");
+2532|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi niệm chú với cô nương Nhược Thiền rằng “Hồn hề quy lai”。\n"ESC"Rời khỏi", me->get_name(), ));
+2533|<O>| if (me->get_city_name() && me->get_city_name()!="" && me->get_city_name()==owner->get_city_name() ) notify( "Không thể tấn công người cùng quốc gia" );
+2534|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi phải nhanh lên, đừng làm lỡ đại kế dời chuyển của ta！\n"ESC"Rời khỏi", me->get_name()));
+2535|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Không có kẹp tóc, ta lấy gì để làm ăn đồ trang sức đây？\n"ESC"Rời khỏi", me->get_name()));
+2536|<O>| if (damage >= who->get_max_damage() && who->get_action_mode() != 0) who->init_enemy_damage(me, damage);    // Ghi lại sát thương mạnh nhất(NPC)
+2537|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Hê hê, còn chưa đấu nổi lão đại của bọn ta mà còn dám tới cứng với ta？\n"ESC"Rời khỏi", me->get_name()));
+2538|<O>| //                log_file("test", sprintf("%s Trong bản đồ có %s %d %d\n", short_time(), who->get_name(), get_x(who), get_y(who)));
+2539|<O>| FAMILY_D->family_channel( fam_name, 0, CHAT + sprintf("Người chơi %s đã bỏ cho %s một phiếu trong cuộc bình chọn thủ tịch đại đệ tử, điểm danh hiệu của người chơi %s tăng %d điểm",who->get_name(),name,name,p) );
+2540|<O>| HIR "Ａｌｔ＋Ｗ" NOR "'，đây là phím tắt tương ứng với giao diện thuộc tính nhân vật。\n    Khi cấp độ của bạn tăng lên, cả năm thuộc tính sẽ tự động tăng thêm một điểm。\n    Hãy chú ý các mũi tên nhỏ xuất hiện bên cạnh mỗi thuộc tính。Mỗi khi tăng cấp, ngoài việc các thuộc tính tự động tăng một điểm, bạn còn nhận thêm 4 điểm thuộc tính thưởng，"
+2541|<O>| case EFFECT_CHAR_DREAM_1: GO_CMD->main(me, sprintf("%d,%d %d", get_x(me), get_y(me), random(8) + 1), 1);    // Đi bộ ngẫu nhiên(hệ thống kiểm tra)
+2542|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Đã nói linh chi này không dễ tìm, ngươi phải cố gắng hơn nhé！\n"ESC"Rời khỏi", me->get_name()));
+2543|<O>| log_file("insurance.txt", sprintf("%s %s(%d %s) mua bảo hiểm\n", short_time(), who->get_name(), who->get_number(), who->get_id()));

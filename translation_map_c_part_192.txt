@@ -1,0 +1,50 @@
+5139|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 47, "Nguồn gốc của tội ác(hoàn thành)");
+5140|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 46, "Tiến sâu vào mục trường(hoàn thành)");
+5141|<O>| "Công thức ngẫu nhiên cấp 75" : "\"/quest/product2\"->get_random_level_blue_product(75,75)",
+5142|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 49, "Bí mật của hòm gỗ（3）");
+5143|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_DONGHAIDAO, 2, "Tiêu Độc Quý（4）");
+5144|<O>| send_user(who, "%c%s", ';', "Cầu y（5） Kinh nghiệm 230000 Tiềm năng 2450 Tiền 225000 Bản vẽ Minh Quang Hài 1");
+5145|<O>| //        if( !get_user_id() ) set_user_id( who->get_id() );    // Người nhận đầu tiên
+5146|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_MAOSHAN, 5, "Du hồn（6）(hoàn thành)");
+5147|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 10, "Người canh gác hiếu thuận(hoàn thành)");
+5148|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 86, "Xin thần kiếm 3(hoàn thành)");
+5149|<O>| send_user(who, "%c%s", ':', me->get_name() + ":\nLương thực quân đội trong thành đã đủ rồi, không cần mua thêm nữa。\n");
+5150|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 50, "Tiếp tế quân doanh(hoàn thành)");
+5151|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 102, "Phá hoại quy mô lớn(hoàn thành)");
+5152|<O>| tmp = sprintf(ESC"Tình hoa\ntalk %x# welcome.214\n", getoid(this_object()));
+5153|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 53, "Hành động bí mật(hoàn thành)");
+5154|<O>| return sprintf(PF_NAME ":\n　　Mỗi 2 giây hồi %d điểm sinh mệnh\n", me->get("pf.recover"));
+5155|<O>| result = me->get_name() + ":\n    Tự chọn một con mình thích đi! 10000 vàng có thể cưỡi 5 phút, đừng làm bảo bối của ta mệt quá nhé!\n";
+5156|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 70, "Thăm dò thực lực(hoàn thành)");
+5157|<O>| _DEBUG(sprintf("DEBUG-- Hiện tại hoạt động đang diễn ra, sẽ gọi lại hàm hoạt động sau (%d) phút nữa",callout_delay_time));
+5158|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 17, "Gửi gắm lúc lâm chung(hoàn thành)");
+5159|<O>| ESC "Để người chơi %s(%d) cứu sống。\ndesc revive$\n", who->get_name(), who->get_number());
+5160|<O>| //			send_user( who, "%c%s", '!', "Nhận được "HIY"Cỏ linh chi"BLK"，hãy nhấp phải Cỏ linh chi trong túi đồ để kích hoạt nhiệm vụ tiếp theo");
+5161|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHOUGUO, 20, "Bái phỏng sư phụ kỹ năng sinh hoạt");
+5162|<O>| send_user(who, "%c%s", ':', get_name() + ":\nTừ sau khi dạy cho bọn thỏ hoang một bài học, chúng ít tới trong làng trộm đồ ăn hơn rồi。\n"
+5163|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 40, "Tình yêu của võ sĩ（3）");
+5164|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_NEWBIE_01,21,"Bách Bộ Tiên(hoàn thành)" );
+5165|<O>| string get_char_id() { return sprintf("%d", IdNumber); }    // Liên quan quá rộng, cấm sửa đổi
+5166|<O>| result = sprintf("%s\nỪm, tiểu cô nương xem ra tiền đồ vô lượng đấy, ta vốn định tặng ngươi chút đồ, nhưng ngặt nỗi chẳng có thứ gì lấy ra được。", who->get_name());
+5167|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 30, "Khảo nghiệm cuối cùng(hoàn thành)");
+5168|<O>| case "trade": keyH = "$trade$H";  keyL = "$trade$L";  break;    // Tiền kiếm được từ buôn bán
+5169|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_DONGTINGHU,2,"Mất dê sửa chuồng(3)" );
+5170|<O>| && MAP_D->is_inside_safe_zone(z0, x, y)) return 1;    // Quái vật không được vào thành (chú ý người thân, pet)
+5171|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 40, "Bắt nguồn từ thức ăn(hoàn thành)");
+5172|<O>| private static int Action = 1;	// Chế độ hành động  0 chờ 1 có động tác(đối với thú triệu hồi là đi theo) 2: trở về bên chủ nhân
+5173|<O>| send_user( team[0], "%c%c%c%w%w%s", 0x51, 1, 2,TID_QIXI,9,"Thất Tịch trời ban kỳ duyên（2）" );
+5174|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 46, "Thỏ hoang ham ăn");
+5175|<O>| send_user(who, "%c%s", ':', me->get_name() + ":\nNgươi đi điều tra các nước xem nơi nào mua được quân lương?\n");
+5176|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 52, "Chứng minh thực lực(hoàn thành)");
+5177|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_NEWBIE_01,4,"Truy tìm kho báu mạo hiểm(hoàn thành)" );
+5178|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 25, "Hồn thiên nghi（1）(hoàn thành)");
+5179|<O>| send_user(who, "%c%s", ':', me->get_name() + ":\nTrang bị trong thành đã đủ rồi, không cần mua thêm nữa。\n");
+5180|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 30, "Ngọc trong cổ mộ(hoàn thành)");
+5181|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 31, "Cứu người khỏi nguy nan(hoàn thành)");
+5182|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 58, "Dũng xông Hư Lăng Động(hoàn thành)");
+5183|<O>| send_user(who, "%c%s", ';', "Khói trên phong hỏa đài Kinh nghiệm 6500 Tiềm năng 240 Tiền 6600 Bản vẽ Bò xào trứng gà 1");
+5184|<O>| result += sprintf(ESC "Ta muốn hiểu kiến thức liên quan tới vật phẩm。\ntalk %x# welcome.1\n", getoid(me));
+5185|<O>| case "learn": keyH = "$learn$H";  keyL = "$learn$L";  break;    // Tiền tiêu để học
+5186|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 67, "Truyền thuyết đao hồn 4(hoàn thành)");
+5187|<O>| if (p = get_valid_xy(z, x, y, IS_ITEM_BLOCK))	//Một món trang bị vàng môn phái ngẫu nhiên cấp 90 hoặc 100 (chọn một trong hai)
+5188|<O>| send_user(who, "%c%s", ';', "Môi hở răng lạnh（4） Kinh nghiệm 3300 Tiềm năng 100 Tiền 3000 Bản vẽ Khoai lang chiên 1");

@@ -1,0 +1,36 @@
+2980|<O>| return "Đan dược kỳ dị chứa đầy sinh mệnh lực, nghe nói có thể cứu vớt linh hồn người chết。\nSau khi người chơi tử vong, có thể giúp người chơi hồi sinh, miễn trừ hình phạt tử vong。\nNgười chơi có thể chọn hai cách hồi sinh: tại chỗ hoặc ngẫu nhiên tại một điểm nhảy trong cảnh hiện tại。\nSau khi hồi sinh, khí huyết và pháp lực sẽ hồi phục toàn bộ。";
+2981|<O>| if (!clonep(me)) return "Vật liệu đặc biệt dùng để cường hóa trang bị, thuộc tính tăng thêm chịu ảnh hưởng bởi cấp độ linh thạch. Linh thạch cùng loại cùng cấp cũng có thể kết hợp với tinh thạch hoặc linh thạch cùng loại cùng cấp để nâng cấp。\n［Tinh luyện］ Công vật lý\n［Trang bị áp dụng］ Vũ khí, dây chuyền";
+2982|<O>| "Thủy Tinh" : (["prop":({ 1475,1079,1189,1004,0806,0906,1426 }), "ski" : ({ "Pháp Thuẫn Cao Cấp","Phúc Tinh Cao Chiếu","Tấn Công Điểm Yếu Cao Cấp","Phi Hành Thuật Cao Cấp" })]),
+2983|<O>| send_user( who, "%c%c%w%s", ':',3,picid,name +":\n    Ta là thủ tịch đại đệ tử của bổn môn, đệ tử bổn môn ai cũng lấy việc được bầu làm thủ tịch đại đệ tử làm vinh. Ngươi muốn đạt được vinh quang này sao？Vậy thì ngươi còn phải cố gắng hơn nữa！\n"+
+2984|<O>| log_file(LIST_LOG, sprintf(htm, pic2, name, level, "Nam、Nữ", "Không", ap, lasting / 100, lasting / 100, value));
+2985|<O>| ret += sprintf("%sYêu Đới Liệp Báo\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"猎豹腰带"))?PPM:WHT);
+2986|<O>| return "Pháp khí của Nguyên Thủy Thiên Tôn, tương truyền được đúc từ hàn thiết ngàn năm, có thể khóa chặt vạn vật thế gian. Khóa Càn Khôn này không thể giao dịch。\nCó thể khóa vật phẩm trong 14 ngày。\nTrong thời gian đó, vật phẩm này sẽ không thể bị giao dịch, mua bán hay vứt bỏ。\nCách dùng: kéo thả nó lên vật phẩm cần khóa。\n";
+2987|<O>| if (!clonep(me)) return "Vật liệu đặc biệt dùng để cường hóa trang bị, thuộc tính tăng thêm chịu ảnh hưởng bởi cấp độ linh thạch. Linh thạch cùng loại cùng cấp cũng có thể kết hợp với tinh thạch hoặc linh thạch cùng loại cùng cấp để nâng cấp。\n［Tinh luyện］ Công pháp thuật\n［Trang bị áp dụng］ Vũ khí, dây chuyền";
+2988|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi đã nhận quà biếu rồi！", me->get_name()));
+2989|<O>| &&      arrayp( zombie = filter_array( zombie - ({ 0 }), (: $1->get_owner() == $2 :), me ) )    // Xóa quái phản loạn
+2990|<O>| send_user( who, "%c%c%w%s", ':',3,me->get_char_picid(), me->get_name() + ":\n    Đừng dẫn theo người không liên quan tới！\n"ESC"Rời khỏi" );
+2991|<O>| result = sprintf(BLK"Mục tiêu nhiệm vụ:\n"BLK"    Đánh bại linh thú, lấy linh dược。\n"BLK"    Linh dược（1/1）\n"BLK"Mô tả nhiệm vụ:\n"BLK"    Đã hoàn thành, quay về tìm du thương đi！");
+2992|<O>| send_user(nPlayer, "%c%c%d%s", 0x43, 10, 0, sprintf("%s đã phát động tấn công vào tướng quân %s của %s。", cTmp, me->get_name(), cTmp1));
+2993|<O>| if (owner = me->get_owner()) send_user(owner, "%c%c%d%w%w", 0x54, 11, getoid(me), -1, -1);    // Cập nhật tọa độ triệu hoán thú
+2994|<O>| CHAT_D->sys_channel(0,HIY"Đại thi nhân Khuất Nguyên đã gieo mình xuống sông Mịch La mà chết, mọi người mau đi tìm nguyên liệu gói bánh ú rơi rớt ở nước Sở, rồi giao cho người lái đò ở Động Đình Hồ（161,177）để làm bánh ú ném xuống sông, ngăn không cho cá cắn thi thể ngài Khuất。");
+2995|<O>| send_user(me, "%c%w%d%w%w", 0x73, 0, getoid(who), 1, who->is_basic_master() == 1 ? 40 : 20);    // Võ giáo đầu nhân đôi
+2996|<O>| HIR "Tấn công vật lý" NOR " là chính thì nên phân bổ nhiều điểm hơn vào sức mạnh, sức bền và thể phách, còn môn phái chú trọng "HIR"tấn công pháp thuật"NOR" thì nên phân bổ điểm vào tinh thần. Dĩ nhiên đây chỉ là quan điểm cá nhân, phân bổ điểm thế nào vẫn phải do chính ngươi quyết định。\n"
+2997|<O>| log_file("hulu.txt", sprintf("%s %s(%d) mở rộng hồ lô %d/%d\n", short_time(), who->get_name(), id, exp, iLimit));
+2998|<O>| case 3: send_user(who, "%c%s", ':', sprintf("%s:\nVậy sao？Ta phải nói cho dân làng biết không thể tiếp tục mở công xưởng nữa。(công nghiệp %+d)", me->get_name(), -level));
+2999|<O>| result += sprintf("%s(%x#) cấp:%d\n", zombie[i]->get_name(), getoid(zombie[i]), zombie[i]->get_level_2());
+3000|<O>| case 7: send_user(who, "%c%s", ':', sprintf("%s:\nVậy sao？Ta phải nói cho dân làng biết không thể tiếp tục đi bái thần nữa。(tôn giáo %+d)", me->get_name(), -level));
+3001|<O>| ret += sprintf("%sYêu Đới Mãnh Hổ\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"猛虎腰带"))?PPM:WHT);
+3002|<O>| result = sprintf(HIY "%s hoàn thành nhiệm vụ cuối cùng của việc xây dựng %s “%s”。(%s +100 đến %d)", who->get_name(), name, result, result, point);
+3003|<O>| case 6: send_user(who, "%c%s", ':', sprintf("%s:\nVậy sao？Ta phải nói cho dân làng biết không thể tiếp tục tới học đường nữa。(giáo dục %+d)", me->get_name(), -level));
+3004|<O>| case 5: send_user(who, "%c%s", ':', sprintf("%s:\nVậy sao？Ta phải nói cho dân làng biết không thể tiếp tục làm nghệ thuật nữa。(nghệ thuật %+d)", me->get_name(), -level));
+3005|<O>| //                      if( !who->get_max_damage() ) who->init_enemy_damage(owner, 0);    // Ghi lại sát thương mạnh nhất(NPC)
+3006|<O>| send_user(who, "%c%c%d%s", '?', 1, 30, sprintf("Xin hãy nhập số lần hoạt động\n"ESC"talk %x# setit.2.", getoid(npc)) + "%s");
+3007|<O>| result = sprintf(me->get_name() + ":\n    Với những bằng hữu yêu thích thử thách, ta có thể cung cấp một số bãi luyện cấp đặc biệt cho ngươi. Hãy chọn một nơi phù hợp với bản thân rồi tận tình phát huy bản lĩnh của mình đi~！\n");
+3008|<O>| ret += sprintf("%sYêu Đới Linh Hồ\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"灵狐腰带"))?PPM:WHT);
+3009|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Bang phái tạm thời chưa mở。", me->get_name()));
+3010|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    Giang hồ tranh chấp, vĩnh viễn không có điểm dừng. Vinh hoa phú quý cũng chỉ như mây khói thoảng qua, sinh không mang đến, chết không mang đi, chẳng có giá trị gì để theo đuổi。\n", get_name())
+3011|<O>| default: send_user(who, "%c%s", ':', sprintf("%s:\nVậy sao？Ta phải nói cho dân làng biết không thể tiếp tục làm nông nữa。(nông nghiệp %+d)", me->get_name(), -level));
+3012|<O>| if (orgnpc->get_weapon() == 1) result += sprintf(ESC "Chiến đấu khôi lỗi(50000)\ntalk %x# welcome.52\n", getoid(who));
+3013|<O>| ret += sprintf("%sGiáp Tuyết Điêu\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"雪雕羽衣"))?PPM:WHT);
+3014|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    Lão Lý kia không chịu phải không？Hay còn điều kiện gì khác？Việc gì ta giúp được ngươi nhất định ta sẽ giúp！\n"ESC"Rời khỏi", me->get_name()));
+3015|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng:30 cấp\n    Triệu gọi linh khí tự nhiên hộ thể, bản thân tiến vào trạng thái phòng ngự. Tăng 35％ phòng ngự vật lý, nhưng công vật lý sẽ giảm 50％. Trong trạng thái phòng ngự, không thể thay đổi bất kỳ trang bị nào。";

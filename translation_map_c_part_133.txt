@@ -1,0 +1,33 @@
+2673|<O>| else    send_user(team, "%c%c%d%s", 0x43, 7, 0, sprintf(WHT "Đội trưởng %s(%d) đã rời khỏi đội này rồi。", me->get_name(), me->get_number()));
+2674|<O>| //                                        set_heart_count(me, speed - heart % speed);    // Đặt lại cờ nhịp tim(chủ), 0.? giây vào nhịp tim(chiến đấu)
+2675|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi muốn xen vào chuyện của ta à, còn non lắm！\n"ESC"Rời khỏi", me->get_name()));
+2676|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Những ngày sau này biết sống sao đây！\n"ESC"Rời khỏi", me->get_name()));
+2677|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Bảo hiểm của ngài đã hết hạn rồi！\n"ESC"Rời khỏi", me->get_name(), ));
+2678|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ồ！Nếu khi ngươi gặp nàng ấy, mong ngươi báo cho ta một tiếng！", me->get_name()));
+2679|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi vẫn chưa đi tiêu diệt phản tặc sao？\n"ESC"Rời khỏi", me->get_name()));
+2680|<O>| if (TASK_LEGEND_D->check_task_item_amount(who, "Kiếm gỗ đào") == 0 || TASK_LEGEND_D->check_task_item_amount(who, "Bùa giấy") < 10)
+2681|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Giờ biết ăn nói sao với người nhà đây！\n"ESC"Rời khỏi", me->get_name()));
+2682|<O>| send_user(player,"%c%c%w%s",':',3,npc->get_char_picid(),npc->get_name()+":\n"+"    Xin lỗi, tên của ngươi không có trong bảng xếp hạng bắt thỏ đâu！\n"+ESC"Xác định\n");
+2683|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Xem ra ta phải chuẩn bị dọn nhà đi lánh nạn rồi。\n"ESC"Rời khỏi", me->get_name()));
+2684|<O>| send_user( who, "%c%s", ':', npc->get_name() + ":\nVị " + NPC_RANK_D->get_respect(who) + " này muốn quay về "+place2+" sao？Ta có thể giúp ngươi việc đó。\n"
+2685|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Anh hùng đã gặp huynh trưởng của ta chưa？\n"ESC"Rời khỏi", me->get_name(), ));
+2686|<O>| if( is_god(who) ) tell_user( who, "R%s VS %s, trúng:%d random %d thất bại", me->get_name(), who->get_name(), rate, random );
+2687|<O>| send_user(player, "%c%c%w%s", ':', 3, npc->get_char_picid(), npc->get_name() + ":\n	Ngài đã nhận cuốc nhỏ đào bảo rồi, xin hãy dùng cuốc nhỏ đào bảo xong rồi quay lại tìm ta nhận tiếp。");
+2688|<O>| //	                        send_user( me, "%c%w%w%w%c%c%c", 0x4f, x0, y0, 32411, 1, OVER_BODY, PF_ONCE );    // Gửi bù chỉ lệnh
+2689|<O>| send_user(player,"%c%c%w%s",':',3,npc->get_char_picid(),npc->get_name()+":\n"+"    Ngươi đã nhận phần thưởng này rồi, không thể nhận lặp lại đâu。\n"+ESC"Xác định\n");
+2690|<O>| send_user(who, "%c%s", ':', sprintf(get_name() + ":\n    Ngài có %d điểm công đức, có gì ta có thể giúp ngài không？\n", who->get_bonus() / 10) + cmd101 +
+2691|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Lần này trong lòng ta thật sự khó chịu quá！\n"ESC"Rời khỏi", me->get_name()));
+2692|<O>| send_user(who, "%c%c%w%s", ':', 3, 0, sprintf("Sau khi dùng đạo cụ này các chỉ số bang phái sẽ đầy hết, ngươi có chắc muốn sử dụng không？\n"ESC"Xác định\nuse ! %x#\n"ESC"Hủy bỏ", getoid(item)));
+2693|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Điểm của ngài không đủ để đổi danh hiệu này\n"ESC"Rời khỏi", me->get_name()));
+2694|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Đời này đúng là chuyện lạ gì cũng có thật！\n"ESC"Rời khỏi", me->get_name()));
+2695|<O>| send_user(who, "%c%s", ':', me->get_name() + "\n    " + "/quest/word"->get_country_word(me) + "\n    Ngài xác định muốn tăng cấp nghề nghiệp không？\n"
+2696|<O>| log_file("zgwangzhe.txt", sprintf("%s %s(%d) nhận thưởng hạng %d của Vương Giả Chiến Quốc %s\n", short_time(), name, id, level, who->get_fam_name()));
+2697|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    …………………………\n"ESC"Rời khỏi", me->get_name(), ));
+2698|<O>| //			send_user(who,"%c%c%w%s",':',3,me->get_char_picid(),sprintf("%s:\n    Ngài đã nhận thú cưng Song Ngư rồi\n"ESC"Rời khỏi\n",me->get_name()));
+2699|<O>| send_user( who, "%c%c%w%s", ':',3,me->get_char_picid(), sprintf("%s:\n    Chỉ có bang chủ mới có thể xin chiếm lĩnh Vô Song Thành！\n"ESC"Rời khỏi",me->get_name()));
+2700|<O>| result += sprintf("Nông nghiệp:%8d  Ngư nghiệp:%8d  Khoáng nghiệp:%8d\n", city->get_agriculture(), city->get_fishculture(), city->get_mining());
+2701|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nTiêu hao đạo cụ:6 lá bùa giấy\nTiêu hao pháp lực:%d điểm\nThời gian hồi:%d giây\n    Phong tỏa hành động của toàn bộ địch nhân trong khu vực 3×3 của mục tiêu, khiến chúng không thể di chuyển trong 6 giây. Kỹ năng này vô hiệu với người chơi。",
+2702|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Xem ra lần này làm việc sẽ khiến ta mệt rã người mất。\n"ESC"Rời khỏi", me->get_name()));
+2703|<O>| sprintf("%s:\n    Công dụng của kênh trò chuyện đại khái là như vậy……Ừm……Nếu có lúc ngươi cảm thấy thông tin trong kênh quá nhiều khiến mình phiền, có thể dùng chức năng quản lý kênh để chặn bớt những kênh quá ồn ào là được. Đôi lúc chặn hết toàn bộ kênh để tận hưởng một chút yên tĩnh cũng thật không tệ。\n"
+2704|<O>| return sprintf(PF_NAME ":\n　　Phòng ngự vật lý giảm %d điểm，\n    phòng ngự pháp thuật giảm %d điểm。\n", me->get("pf.armorfall"), me->get("pf.armorfall2"));
+2705|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Chẳng lẽ mắt ta hoa rồi sao？\n"ESC"Rời khỏi", me->get_name()));

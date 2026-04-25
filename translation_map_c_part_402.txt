@@ -1,107 +1,107 @@
-﻿19705|<O>| printf(ECHO "对方不是您的召唤生物。");
-19706|<O>| "泥块" : "\"/item/49/4905\"",
-19707|<O>| "猴子尾巴" : "在朝阳峰杀狒狒可以得到猴子尾巴",
-19708|<O>| return "任务物品。孙少爷晚餐做汤的原材料。";
-19709|<O>| "柿饼" : "\"/item/99/9941\"",
-19710|<O>| return "一种美丽的七彩羽毛制品，作出售品用";
-19711|<O>| "珍珠" : "\"/item/99/9913\"",
-19712|<O>| return "任务物品。诸侯之间交往的一种文书。";
-19713|<O>| // ministry of interior 内政官
-19714|<O>| #define PF_NAME        "蚀甲"
-19715|<O>| "西瓜" : "\"/item/32/3280\"",
-19716|<O>| ESC"离开", me->get_name(), id
-19717|<O>| result = "你的装备不错！一件优秀的装备。";
-19718|<O>| #define PF_NAME        "闷杀"
-19719|<O>| notify("超过一级的锻造石请找公输班分解。");
-19720|<O>| if (type == "show")		//宠物参战
-19721|<O>| return "熊身上御寒防护之体肤，裁缝所需材料";
-19722|<O>| return "［宝石合成材料］减少法术伤害百分比";
-19723|<O>| "熊掌" : "\"/item/41/4105\"",
-19724|<O>| "杨梅" : "\"/item/32/3286\"",
-19725|<O>| #define PF_NAME        "驱散"
-19726|<O>| "花椒" : "\"/item/99/9931\"",
-19727|<O>| return "任务物品。一种赵王特别爱吃的水果。";
-19728|<O>| "香蕉" : "\"/item/32/3281\"",
-19729|<O>| "火种" : "\"/item/40/4023\"",
-19730|<O>| if (id == 0)    // 给 GM 提建议
-19731|<O>| "石炭" : "\"/item/41/4107\"",
-19732|<O>| // 函数:列示给新玩家(对方进场景)(NPC 专用)
-19733|<O>| return "［疯魔棍法］禁卫军棍法特殊技。\n";
-19734|<O>| return "据说是东海乌龟所驮的壳，作出售品用";
-19735|<O>| #define PF_NAME        "蚀心"
-19736|<O>| #define PF_NAME        "炼丹"
-19737|<O>| "粘液" : "\"/item/40/4007\"",
-19738|<O>| return "微微闪烁着黄光的小石头，作出售品用";
-19739|<O>| #define PF_NAME        "摆摊"
-19740|<O>| "蛙蹼" : "\"/item/40/4042\"",
-19741|<O>| 率。此类设定为标准基类，一定要被继承后才能使用，呵呵。
-19742|<O>| "灵芝" : "\"/item/99/9923\"",
-19743|<O>| ESC"帽子\nlearn "+arg+" 20\n"
-19744|<O>| "螳螂臂" : "在桃花源杀绿臂螳螂可以得到螳螂臂",
-19745|<O>| cmd = "哇哇哇哇～～看不见下雪了～～～哇哇～";
-19746|<O>| "砚台" : "\"/item/38/3853\"",
-19747|<O>| "蜥蜴尾巴" : "在泰山杀赤炎蛇可以得到蜥蜴尾巴",
-19748|<O>| "稻草" : "\"/item/40/4004\"",
-19749|<O>| else if (p < 45)    // 蓝色药品
-19750|<O>| result = "任务物品，一种疗伤的药粉。\n";
-19751|<O>| "羽毛" : "\"/item/40/4001\"",
-19752|<O>| "金碗" : "\"/item/35/3503\"",
-19753|<O>| "桃花" : "\"/item/30/3008\"",
-19754|<O>| "印章" : "\"/item/49/4982\"",
-19755|<O>| "皮革" : "\"/item/99/9961\"",
-19756|<O>| "铁犁" : "\"/item/34/3403\"",
-19757|<O>| "人参" : "\"/item/99/9943\"",
-19758|<O>| "刀盾骷髅" : "在万人坑一层可以杀到刀盾骷髅 ",
-19759|<O>| if (!me) return;    // 死亡退出
-19760|<O>| result = "你的装备不错！一件的优秀装备。";
-19761|<O>| return "任务物品。赵国准备送给楚王的礼物。";
-19762|<O>| "信封" : "\"/item/38/3854\"",
-19763|<O>| return "任务物品。秦管家送给赵总管的礼物。";
-19764|<O>| return "任务物品。被糊涂的县官弄丢的官印。";
-19765|<O>| "柳条" : "\"/item/49/4908\"",
-19766|<O>| "水粉" : "\"/item/35/3551\"",
-19767|<O>| "礼记" : "\"/item/97/9707\"",
-19768|<O>| "周易" : "\"/item/97/9708\"",
-19769|<O>| "胭脂" : "\"/item/35/3550\"",
-19770|<O>| "大枣" : "\"/item/99/9921\"",
-19771|<O>| "绒球" : "\"/item/41/4101\"",
-19772|<O>| "钉耙" : "\"/item/34/3405\"",
-19773|<O>| me->add_pk(0);    // 显示ＰＫ状态
-19774|<O>| "侍卫亡灵" : "在灵谷洞二层可以杀到侍卫亡灵 ",
-19775|<O>| return "能返还玩家所有力量点数的神奇丹药。";
-19776|<O>| ESC "蜀山/禁卫军/桃花源\n" + cmd2 +
-19777|<O>| return "一小时内增加法术防御力30％。\n";
-19778|<O>| "菜刀" : "\"/item/35/3512\"",
-19779|<O>| "鼻环" : "\"/item/40/4040\"",
-19780|<O>| set_no_save(1);		//活动结束，不存盘
-19781|<O>| return "任务物品。卫队长最喜欢的一种花卉。";
-19782|<O>| "石材" : "\"/item/99/9952\"",
-19783|<O>| return "任务物品。老虎身上御寒防护之体肤。";
-19784|<O>| #define PF_NAME        "疾射"
-19785|<O>| "玩家可以继续挖宝。让我们期待下次的活动时间吧~");
-19786|<O>| reset		初始化活动场景或者解禁所有玩家，解除戒严
-19787|<O>| #define PF_NAME        "投射"
-19788|<O>| notify("对方已经拥有帮派，不能接受邀请。");
-19789|<O>| return "任务物品。治好怪病的珍贵药材之一。";
-19790|<O>| int skill_exp;					//采集经验奖励
-19791|<O>| return "任务物品。秦国士兵用来御寒的盔甲。";
-19792|<O>| "剑盾骷髅" : "在困魔阵一层可以杀到剑盾骷髅 ",
-19793|<O>| "兵符" : "\"/item/49/4983\"",
-19794|<O>| "海盐" : "\"/item/99/9911\"",
-19795|<O>| return "［装备合成材料］增加法术攻击百分比";
-19796|<O>| "勺子" : "\"/item/35/3510\"",
-19797|<O>| // 自动生成:/make/npc/make-biao
-19798|<O>| return "任务物品。由青纹竹片制作成的宝图。";
-19799|<O>| return "使用后能使帮派的人气增加1000。";
-19800|<O>| SAY_CMD->say(me, "谁都别想跑！");
-19801|<O>| "琵琶" : "\"/item/36/3610\"",
-19802|<O>| "令箭" : "\"/item/49/4984\"",
-19803|<O>| #define PF_NAME        "粘手"
-19804|<O>| #define PF_NAME        "神游"
-19805|<O>| "唢呐" : "\"/item/36/3606\"",
-19806|<O>| "檀香" : "\"/item/34/3452\"",
-19807|<O>| "手镜" : "\"/item/35/3564\"",
-19808|<O>| tmp += ESC"极限挖宝。\n" + cmd4;
-19809|<O>| #define PF_NAME        "采集"
-19810|<O>| "手杖" : "\"/item/40/4027\"",
-19811|<O>| "铜罐" : "\"/item/40/4058\"",
+﻿19705|<O>| printf(ECHO "Đối phương không phải sinh vật triệu hồi của bạn.");
+19706|<O>| "Nê Khối" : "\"/item/49/4905\"",
+19707|<O>| "Hầu Tử Vĩ Ba" : "Ở Triêu Dương Phong giết Phỉ Phỉ có thể nhận được Hầu Tử Vĩ Ba",
+19708|<O>| return "Vật phẩm nhiệm vụ. Nguyên liệu nấu canh cho bữa tối của Tôn thiếu gia.";
+19709|<O>| "Thị Bính" : "\"/item/99/9941\"",
+19710|<O>| return "Một loại sản phẩm lông vũ bảy màu tuyệt đẹp, dùng làm vật bán";
+19711|<O>| "Trân Châu" : "\"/item/99/9913\"",
+19712|<O>| return "Vật phẩm nhiệm vụ. Một loại văn thư giao hảo giữa các chư hầu.";
+19713|<O>| // ministry of interior Nội Chính Quan
+19714|<O>| #define PF_NAME        "Thực Giáp"
+19715|<O>| "Tây Qua" : "\"/item/32/3280\"",
+19716|<O>| ESC"Rời đi", me->get_name(), id
+19717|<O>| result = "Trang bị của bạn không tệ! Một món trang bị ưu tú.";
+19718|<O>| #define PF_NAME        "Muộn Sát"
+19719|<O>| notify("Đá đan tạo trên cấp một xin tìm Công Thâu Ban phân giải.");
+19720|<O>| if (type == "show")		//Thú cưng tham chiến
+19721|<O>| return "Da lông chống lạnh trên thân gấu, nguyên liệu thợ may cần dùng";
+19722|<O>| return "［Nguyên liệu hợp thành Bảo Thạch］Giảm phần trăm sát thương pháp thuật";
+19723|<O>| "Hùng Chưởng" : "\"/item/41/4105\"",
+19724|<O>| "Dương Mai" : "\"/item/32/3286\"",
+19725|<O>| #define PF_NAME        "Khu Tán"
+19726|<O>| "Hoa Tiêu" : "\"/item/99/9931\"",
+19727|<O>| return "Vật phẩm nhiệm vụ. Một loại trái cây mà Triệu Vương đặc biệt thích ăn.";
+19728|<O>| "Hương Tiêu" : "\"/item/32/3281\"",
+19729|<O>| "Hoả Chủng" : "\"/item/40/4023\"",
+19730|<O>| if (id == 0)    // Gửi đề xuất cho GM
+19731|<O>| "Thạch Thán" : "\"/item/41/4107\"",
+19732|<O>| // Hàm: Hiển thị cho người chơi mới (đối phương vào cảnh)(NPC chuyên dụng)
+19733|<O>| return "［Phong Ma Côn Pháp］Đặc kỹ côn pháp của Cấm Vệ Quân.\n";
+19734|<O>| return "Nghe nói là mai rùa Đông Hải cõng trên lưng, dùng làm vật bán";
+19735|<O>| #define PF_NAME        "Thực Tâm"
+19736|<O>| #define PF_NAME        "Luyện Đan"
+19737|<O>| "Niêm Dịch" : "\"/item/40/4007\"",
+19738|<O>| return "Viên đá nhỏ phát ra ánh sáng vàng lấp lánh, dùng làm vật bán";
+19739|<O>| #define PF_NAME        "Bãi Than"
+19740|<O>| "Oa Bộc" : "\"/item/40/4042\"",
+19741|<O>| suất. Loại thiết lập này là lớp cơ sở chuẩn, nhất định phải được kế thừa mới có thể sử dụng, hehe.
+19742|<O>| "Linh Chi" : "\"/item/99/9923\"",
+19743|<O>| ESC"Mũ\nlearn "+arg+" 20\n"
+19744|<O>| "Đường Lang Tý" : "Ở Đào Hoa Nguyên giết Lục Tý Đường Lang có thể nhận được Đường Lang Tý",
+19745|<O>| cmd = "Oa oa oa oa~~không thấy tuyết rơi nữa rồi~~~oa oa~";
+19746|<O>| "Nghiễn Đài" : "\"/item/38/3853\"",
+19747|<O>| "Tích Dịch Vĩ Ba" : "Ở Thái Sơn giết Xích Viêm Xà có thể nhận được Tích Dịch Vĩ Ba",
+19748|<O>| "Đạo Thảo" : "\"/item/40/4004\"",
+19749|<O>| else if (p < 45)    // Dược phẩm màu xanh
+19750|<O>| result = "Vật phẩm nhiệm vụ, một loại bột thuốc trị thương.\n";
+19751|<O>| "Vũ Mao" : "\"/item/40/4001\"",
+19752|<O>| "Kim Oản" : "\"/item/35/3503\"",
+19753|<O>| "Đào Hoa" : "\"/item/30/3008\"",
+19754|<O>| "Ấn Chương" : "\"/item/49/4982\"",
+19755|<O>| "Bì Cách" : "\"/item/99/9961\"",
+19756|<O>| "Thiết Lê" : "\"/item/34/3403\"",
+19757|<O>| "Nhân Sâm" : "\"/item/99/9943\"",
+19758|<O>| "Đao Thuẫn Khô Lâu" : "Ở tầng một Vạn Nhân Khanh có thể giết được Đao Thuẫn Khô Lâu ",
+19759|<O>| if (!me) return;    // Chết thoát ra
+19760|<O>| result = "Trang bị của bạn không tệ! Một món trang bị ưu tú.";
+19761|<O>| return "Vật phẩm nhiệm vụ. Món quà Triệu Quốc chuẩn bị tặng cho Sở Vương.";
+19762|<O>| "Tín Phong" : "\"/item/38/3854\"",
+19763|<O>| return "Vật phẩm nhiệm vụ. Món quà Tần quản gia tặng cho Triệu tổng quản.";
+19764|<O>| return "Vật phẩm nhiệm vụ. Quan ấn bị viên huyện quan hồ đồ làm mất.";
+19765|<O>| "Liễu Điều" : "\"/item/49/4908\"",
+19766|<O>| "Thuỷ Phấn" : "\"/item/35/3551\"",
+19767|<O>| "Lễ Ký" : "\"/item/97/9707\"",
+19768|<O>| "Chu Dịch" : "\"/item/97/9708\"",
+19769|<O>| "Yên Chi" : "\"/item/35/3550\"",
+19770|<O>| "Đại Táo" : "\"/item/99/9921\"",
+19771|<O>| "Nhung Cầu" : "\"/item/41/4101\"",
+19772|<O>| "Đinh Ba" : "\"/item/34/3405\"",
+19773|<O>| me->add_pk(0);    // Hiển thị trạng thái PK
+19774|<O>| "Thị Vệ Vong Linh" : "Ở tầng hai Linh Cốc Động có thể giết được Thị Vệ Vong Linh ",
+19775|<O>| return "Đan dược thần kỳ có thể hoàn trả toàn bộ điểm lực lượng cho người chơi.";
+19776|<O>| ESC "Thục Sơn/Cấm Vệ Quân/Đào Hoa Nguyên\n" + cmd2 +
+19777|<O>| return "Trong một giờ tăng lực phòng thủ pháp thuật 30%.\n";
+19778|<O>| "Thái Đao" : "\"/item/35/3512\"",
+19779|<O>| "Tị Hoàn" : "\"/item/40/4040\"",
+19780|<O>| set_no_save(1);		//Hoạt động kết thúc, không lưu
+19781|<O>| return "Vật phẩm nhiệm vụ. Một loại hoa mà đội trưởng vệ binh yêu thích nhất.";
+19782|<O>| "Thạch Tài" : "\"/item/99/9952\"",
+19783|<O>| return "Vật phẩm nhiệm vụ. Da lông chống rét trên thân hổ.";
+19784|<O>| #define PF_NAME        "Tật Xạ"
+19785|<O>| "Người chơi có thể tiếp tục đào bảo. Hãy cùng mong đợi thời gian hoạt động lần sau nhé~");
+19786|<O>| reset		Khởi tạo cảnh hoạt động hoặc giải cấm tất cả người chơi, giải trừ giới nghiêm
+19787|<O>| #define PF_NAME        "Đầu Xạ"
+19788|<O>| notify("Đối phương đã có bang phái, không thể chấp nhận lời mời.");
+19789|<O>| return "Vật phẩm nhiệm vụ. Một trong những dược liệu quý hiếm chữa được bệnh lạ.";
+19790|<O>| int skill_exp;					//Thưởng kinh nghiệm thu thập
+19791|<O>| return "Vật phẩm nhiệm vụ. Khôi giáp quân lính Tần Quốc dùng để chống rét.";
+19792|<O>| "Kiếm Thuẫn Khô Lâu" : "Ở tầng một Khốn Ma Trận có thể giết được Kiếm Thuẫn Khô Lâu ",
+19793|<O>| "Binh Phù" : "\"/item/49/4983\"",
+19794|<O>| "Hải Diêm" : "\"/item/99/9911\"",
+19795|<O>| return "［Nguyên liệu hợp thành trang bị］Tăng phần trăm tấn công pháp thuật";
+19796|<O>| "Chước Tử" : "\"/item/35/3510\"",
+19797|<O>| // Tự động tạo:/make/npc/make-biao
+19798|<O>| return "Vật phẩm nhiệm vụ. Bảo đồ được chế tác từ phiến trúc Thanh Văn.";
+19799|<O>| return "Sau khi sử dụng có thể tăng 1000 nhân khí cho bang phái.";
+19800|<O>| SAY_CMD->say(me, "Ai cũng đừng hòng chạy!");
+19801|<O>| "Tỳ Bà" : "\"/item/36/3610\"",
+19802|<O>| "Lệnh Tiễn" : "\"/item/49/4984\"",
+19803|<O>| #define PF_NAME        "Niêm Thủ"
+19804|<O>| #define PF_NAME        "Thần Du"
+19805|<O>| "Tỏa Nạp" : "\"/item/36/3606\"",
+19806|<O>| "Đàn Hương" : "\"/item/34/3452\"",
+19807|<O>| "Thủ Kính" : "\"/item/35/3564\"",
+19808|<O>| tmp += ESC"Cực hạn đào bảo.\n" + cmd4;
+19809|<O>| #define PF_NAME        "Thái Tập"
+19810|<O>| "Thủ Trượng" : "\"/item/40/4027\"",
+19811|<O>| "Đồng Quán" : "\"/item/40/4058\"",

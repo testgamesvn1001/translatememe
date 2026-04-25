@@ -1,0 +1,44 @@
+4145|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\n    Pháp tụ khí của Đào Hoa Nguyên, tiêu hao 100 điểm khí huyết của bản thân, liên tục tự động luyện thành nguyên khí trong 30 phút。",
+4146|<O>| else if (rand < 9985)//Một góc tàn đồ item/std/8001,item/std/8002,item/std/8003,item/std/8004
+4147|<O>| result += sprintf("Trọng phạm(%d):%d *%d  Bản đồ báu(%d):%d *%d ＝ Giết đồ(%d):%d *%d ＋ Thả đồ(%d):%d *%d\n",
+4148|<O>| send_user( who, "%c%c%d%w%w", 0x54, 12, getoid(who), -1, -1 );    // Mượn dùng getoid(who)
+4149|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nTiêu hao nguyên khí:%d điểm\nThời gian hồi:%d giây\n    Phản chấn có thể gây 100％ sát thương bạo kích。",
+4150|<O>| //	tell_user(who,"Kinh nghiệm gốc %d cấp độ 1 %d cấp độ 2 %d hồ lô tăng thêm %d kinh nghiệm",exp,mpInfo["level"],level,exp1);
+4151|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 30\n    Điều khiển cuồng phong tấn công một kẻ địch ở xa, tăng 250 điểm công kích pháp thuật, khiến nó liên tục chịu sát thương pháp thuật trong 8 giây。";
+4152|<O>| if (me->get_cash() < gold && me->get_cash() + me->get_savings() < gold)    // Tiền mặt＋tiền gửi
+4153|<O>| return HIC+get_name()+"\nThú cưng có kỹ năng này, khi dùng kỹ năng này tấn công đối phương có thể khiến đối phương rơi vào\ntrạng thái choáng 3 giây, hiệu quả kỹ năng không cộng dồn。（Thời gian hồi kỹ năng 20 giây。）";
+4154|<O>| return HIC+get_name()+"\nThú cưng có kỹ năng này, khi dùng kỹ năng này tấn công đối phương có thể khiến đối phương rơi vào\ntrạng thái đóng băng 3 giây, hiệu quả kỹ năng không cộng dồn。（Thời gian hồi kỹ năng 20 giây。）";
+4155|<O>| case 2: send_user(who, "%c%s", ':', sprintf("Bạn:\nTa là sứ giả của %s, gần đây các ngươi bất lợi với nước ta, nhiều lần quấy nhiễu, mong hãy tự trọng。\n\n\n"
+4156|<O>| else if( get_effect(who, EFFECT_SLEEP) ) set_effect(who, EFFECT_SLEEP, 1);    // Hôn mê
+4157|<O>| //		send_user( who, "%c%s", ':', sprintf( "%s:\n    Lần phản bội này của bạn đã tích lũy %d điểm tiềm năng và %d vàng, bạn có thể đến ta nhận。\n",
+4158|<O>| send_user(char, "%c%d%d%c", 0x40, getoid(me), time2(), MAGIC_ACT_END);    // Kết thúc động tác thi pháp
+4159|<O>| cmd3 = sprintf(ESC "Thuế mua vào của người ngoại thành。(%d%%)\ntalk %x# tax.3.?\n", city->get_buy_tax_2(), id);
+4160|<O>| send_user(who, "%c%s", ';', sprintf("Bạn đã dùng mỗi loại một quả cầu đen, xanh, đỏ, hoa để đổi trang bị vàng: %s", item->get_name()));
+4161|<O>| send_user(who, "%c%c%d%s", 0x26, 1, me->get_number(), me->get_name());    // Mở cửa sổ giao dịch
+4162|<O>| write_user(team[i], ECHO "Bạn tham gia đánh chết %s, kinh nghiệm %+d, tiềm năng %+d。", me->get_name(), exp2, pot2);
+4163|<O>| case 4: send_user(who, "%c%s", ':', sprintf("%s:\nLoại trò tiểu nhân này, ta khinh thường không làm。", me->get_name()));
+4164|<O>| result = "Hãy nhập thời gian bắt đầu và kết thúc hoạt động, ví dụ:\"51700-51800\" biểu thị thứ sáu hằng tuần từ 17 giờ-18 giờ là thời gian bắt đầu hoạt động \n"ESC"party 124.%s\n";
+4165|<O>| ret = CHAR_FIGHT_D->attack_done(me, who, HIT_UNARMED, (ADD_AP)*yuan);    // Cẩn thận chuẩn bị me
+4166|<O>| write_user(who, ECHO "Kinh nghiệm quân quan của bạn +1, chính nghĩa +1, trung thành +1, dũng cảm +1, danh vọng +1, kinh nghiệm %+d, tiềm năng +1。", exp);
+4167|<O>| send_user(who, "%c%s", ':', sprintf("%s:\nNgươi đang đùa ta sao? Đại hiệp %s danh chấn thiên hạ lại phản bội sư môn ư? Thứ lỗi tại hạ không thể giúp ngươi việc này。\n",
+4168|<O>| case 2: send_user(who, "%c%s", ':', sprintf("%s:\n%s gần đây ức hiếp ta quá đáng, xin ngươi đảm nhiệm sứ giả, trong vòng 40 phút thể hiện phong thái nước lớn của ta!",
+4169|<O>| if (objectp(item = present("Đá hỏa diễm", who, 1, MAX_CARRY)) && item->is_huoyanshi() == 1)
+4170|<O>| return HIC+get_name()+"\nThú cưng có kỹ năng này, khi công kích vật lý có 15％ xác suất khiến địch trúng độc, người trúng\nđộc sẽ cứ mỗi 2 giây chịu 30 điểm sát thương độc, kéo dài 20 giây, hiệu quả không cộng dồn";
+4171|<O>| CHAT_D->sys_channel(0,HIY"Hôm nay hoạt động Quốc Khánh đến đây là kết thúc, "HIR"Bá Bá Dưa Hấu"NOR" rất cảm ơn sự giúp đỡ của mọi người, mong ngày mai mọi người lại tiếp tục giúp ông ấy thu thập dưa hấu。");
+4172|<O>| send_user(who, "%c%s", ';', sprintf("Sai vặt ngon của Vương Bộ Đầu Kinh nghiệm %d Tiềm năng %d Tiền %d", exp, pot, money));
+4173|<O>| sprintf("%s(%x#) phòng thủ pháp thuật:%d, hãy nhập giá trị mới:\n", who->get_name(), getoid(who), who->get_pp()) +
+4174|<O>| send_user(me, "%c%c%c%w", 0x30, get_item_type_2(), 0, ITEM_USE_TIME);    // Cập nhật khoảng cách sử dụng
+4175|<O>| ESC"Hủy bỏ", me->get_name(), x + y, x, who->get_save_2("changping.score"), getoid(me))
+4176|<O>| return HIC+get_name()+"\nThú cưng có kỹ năng này, khi tấn công đối phương có 20% xác suất khiến đối phương rơi vào trạng thái chảy máu，\nkéo dài 10 giây, cứ mỗi 2 giây giảm 20 khí huyết, hiệu quả kỹ năng không cộng dồn。";
+4177|<O>| CHAT_D->sys_channel(0,HIR"Ngọc Thố của Hằng Nga vì tham ăn bánh trung thu chốn nhân gian, đã trốn khỏi cung trăng, ước tính không lâu nữa sẽ đến nhân gian, xin chư vị anh hùng ra ngoài thành các nước giúp tìm kiếm Ngọc Thố。");
+4178|<O>| return "Chỉ có thể rèn tạo trang bị 4 sao trở lên, có thể tăng cường thuộc tính cộng thêm của trang bị。\nNếu rèn tạo thất bại, trang bị sẽ trở về trạng thái chưa gắn bất kỳ đá rèn tạo nào。\nSố lần rèn tạo càng cao thì tỷ lệ thành công sẽ càng thấp。";
+4179|<O>| if (sizeof_inventory(who, 1, MAX_CARRY * 4) >= MAX_CARRY * 4) return 0;    // Kiểm tra chỗ trống
+4180|<O>| result = sprintf(HIY "%s thực hiện chiến lược ngoại giao “%s” với %s, hoan nghênh đến chỗ sứ giả nhận nhiệm vụ。", me->get_name(), name4, name3);
+4181|<O>| return HIC+get_name()+"\nThú cưng có kỹ năng này, khi được triệu hồi ra, khí huyết của chủ nhân sẽ tăng 5%，\nkhi thú cưng này bị thu hồi hoặc tử vong thì giới hạn khí huyết của chủ nhân trở lại bình thường。";
+4182|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), "Sứ giả bồi thường:\n    Bạn đã nhận bồi thường rồi!");
+4183|<O>| result = sprintf("%s:\n    Có vẻ ngươi vẫn còn rất yếu, hãy hoàn thành vài nhiệm vụ quanh thôn tân thủ, đạt cấp 10 rồi quay lại tìm ta nhé。\n", who->get_name());
+4184|<O>| me->add_strength(-1);    // Thể lực -1, kinh nghiệm nông phu +10, trung thành +1, thành tín +10, dũng cảm +10, danh vọng +1, cống hiến quốc gia +1
+4185|<O>| send_user(who, "%c%s", ':', sprintf("Bạn muốn kiến nghị %s tiến hành “%s” với nước nào?\n", me->get_name(), name3) +
+4186|<O>| if (who->get_anti_hurt()) prop += ({ sprintf("Miễn sát thương vật lý:%4d", who->get_anti_hurt()) });
+4187|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nTiêu hao pháp lực:%d điểm\nThời gian hồi:%d giây\n    Giải trừ hiệu quả trúng độc trên người bản thân。\n",
+4188|<O>| sprintf("%s(%x#) công kích:%d, hãy nhập giá trị mới:\n", who->get_name(), getoid(who), who->get_ap()) +

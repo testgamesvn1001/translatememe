@@ -1,0 +1,46 @@
+4371|<O>| CHAR_FIGHT_D->attack_done(me, who, HIT_NONE, ADD_AP, 0, 0, rate);    // Cẩn thận chuẩn bị me
+4372|<O>| if (objectp(item = present("Mật ong", who, 1, MAX_CARRY)) && item->is_mitang() == 1)
+4373|<O>| result += sprintf("Trang bị:%8d  Huấn luyện:%8d\n", city->get_armor(), city->get_training());
+4374|<O>| tmp += sprintf(ESC HIY "Lời nhắn cho quản gia nước Sở\ntalk %x# welcome.4\n", getoid(this_object()));
+4375|<O>| send_user(who, "%c%s", ':', me->get_name() + ":\nBạn đã bỏ phiếu giải tán bang phái “" + name + "” rồi!\n");
+4376|<O>| send_user(who, "%c%s", ':', get_name() + ":\n    Lão phu đã giúp ngươi thực hiện nguyện vọng, còn gì cần lão phu giúp nữa không?\n"
+4377|<O>| return HIC+get_name()+"\nThú cưng có kỹ năng này, khi dùng kỹ năng có thể kích hoạt quái vật trong\nphạm vi\n21×21 mà thú cưng nhìn thấy đi tấn công chính thú cưng đó, hồi chiêu kỹ năng 15 giây。";
+4378|<O>| send_user(me, "%c%s", '!', sprintf("Bạn nhận được " HIY "%s" NOR "。", item->get_name()));
+4379|<O>| if (inv[i]->get("make")) { send_user(who, "%c%s", ';', "Trong túi đồ của bạn có trang bị tinh luyện。");return; }
+4380|<O>| if (is_paying && me->get_buy_item_cmd_string() != "")   // Đang mua đạo cụ bằng điểm số? Có tồn tại chuỗi lệnh mua đạo cụ?
+4381|<O>| write_user( who, ECHO "Trong %d ngày đầu, %s chia hoa hồng là %d, bạn được chia %d vàng。", day, name, salary, salary2 );
+4382|<O>| send_user(who, "%c%s", ':', sprintf("%s:\nĐa tạ vị sư huynh này đã nương tay, xin mời về～", who->get_name(), ));
+4383|<O>| if (gone_time(me->get_perform(PF_START)) < interval) return 1;    // Cẩn thận chuẩn bị level
+4384|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 20\nTiêu hao đạo cụ: Thần Nông Bảo Điển\n    Thuật cường thân, trong 60 phút có thể tăng 50 điểm khí huyết tối đa cho đồng minh。";
+4385|<O>| if (abs(x - me->get_xx()) > 1 || abs(y - me->get_yy()) > 1)    // Khi tọa độ cũ mới >1 thì gửi lại tọa độ
+4386|<O>| write_user(who, ECHO"Vì sự chân thành và dũng khí của bạn, bạn nhận được ba viên quà Valentine " + item->get_name() + "，mau tặng cho người ấy đi!");
+4387|<O>| //_DEBUG(sprintf("Lần callback kế tiếp %s",SMART_ALARM_CLOCK_F->show_time_stamp(next_time)));
+4388|<O>| send_user(who, "%c%s", ';', "Sau khi dùng công văn truy bắt, chỉ cần bạn đến đúng cảnh được chỉ định, qua bản đồ nhỏ và nhấn “ALT+D” để mở đại bản đồ là có thể tìm được mục tiêu cần truy bắt。");
+4389|<O>| send_user(me, "%c%c%c%d%s", 0x90, 1, 0, getoid(who), who->get_name());	//Mở cửa sổ trao vật
+4390|<O>| send_user(who, "%c%c%d%s", 0x43, 6, 0, CHAT "Nhược Thiền: Đừng lo cho ta, chỉ mong kiếp sau có thể cùng Đường lang trên trời làm chim liền cánh, dưới đất thành cành liền thân…");
+4391|<O>| return HIC+get_name()+"\nThú cưng có kỹ năng này, khi cận chiến đánh trúng đối phương có 30% xác suất khiến đối phương\nbị kẹt trong phạm vi 3×3 suốt 6 giây, hồi chiêu kỹ năng 15 giây。";
+4392|<O>| else    result = sprintf("Ở cực xa bạn về hướng %s。", PF_NO_00031->get_direction(x0, y0, x, y));
+4393|<O>| write_user(who, ECHO"Vì sự chân thành và dũng khí của bạn, bạn nhận được ba cành quà Valentine " + item->get_name() + "，mau tặng cho nàng đi!");
+4394|<O>| 12: ([ "finish":32*13+6,"legend":({32*13+4,32*13+5}),"objname" : ({"Hàn ti" ,}) ]),
+4395|<O>| me->set_pawn(sprintf("%02d", me->get("pawn#")), pawn->get_pawn());    // Cập nhật bộ nhớ đệm trong RAM
+4396|<O>| send_user(who, "%c%c%d%s", '?', 1, 1000, sprintf("%s:\nCâu %d, %d cộng %d bằng bao nhiêu?\n"
+4397|<O>| CHAR_FIGHT_D->throwing_done(me, who, HIT_NONE, me->get_ap() * 2);    // Quay lưng, công kích gấp đôi
+4398|<O>| send_user(me, "%c%s", '!', sprintf("Bạn thu thập được" HIY "%s" NOR "。", item->get_name()));
+4399|<O>| tmp += sprintf(ESC HIY "Thức ăn cho gà con cục tác\ntalk %x# welcome.1\n", getoid(this_object()));
+4400|<O>| log_file(CHANNEL_LOG, sprintf("%s %s(%d)%s đóng kênh chat của %s(%d)%s trong %d phút。(GM)\n",
+4401|<O>| result = sprintf(HIY "%s cứu GM thành công, nhận được %s và hai vạn đồng。", who->get_name(), item->get_name());
+4402|<O>| send_user(who,"%c%c%w%s",':',3,me->get_char_picid(),"Tả Khâu Minh:\n    Xin chờ câu trả lời của các thành viên khác。\n");
+4403|<O>| tmp += sprintf(ESC + HIY + "Mật ong thơm ngon\ntalk %x# visit.9\n", getoid(this_object()));
+4404|<O>| tmp += sprintf(ESC HIY "Tìm hạt giống hồ lô lớn\ntalk %x# welcome.1\n", getoid(this_object()));
+4405|<O>| //                LOGIN_0_D->new_login_1(me, passwd, name);    // Không có người dùng này(mở giao diện đăng nhập mới)
+4406|<O>| add_alarm_clock("second", "3", "second", ({ "test_func_2","Hàm 3 gọi định kỳ 2" }), 1, 0);
+4407|<O>| tmp += sprintf(ESC HIY "Rèn thanh kiếm kinh thế\ntalk %x# welcome.1\n", getoid(this_object()));
+4408|<O>| if (userp(who)) log_file(SUMMON_LOG, sprintf("%s %s mời %s(%s) đến %d (%d,%d)。\n",
+4409|<O>| if (!objectp(item = present("Kỳ phổ", who, 1, MAX_CARRY)) || item->is_qipu() != 1)
+4410|<O>| "Intel(R) Xeon(TM) CPU 3.00GHz i386c0a806e0c09fc6636c",		//Tam Thái Tử Đài Loan 210.17.20.110
+4411|<O>| else    result = sprintf("Ở cực xa bạn về hướng %s", PF_NO_00031->get_direction(x0, y0, x, y));
+4412|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 110, "Nan y tạp chứng（2）(hoàn thành)");
+4413|<O>| return "Tín vật môn phái của Đào Hoa Nguyên，\ntương truyền được chế tác từ gỗ đào ngàn năm trên đảo Đào Hoa。\nNhấp chuột phải dùng có thể trực tiếp truyền tống về Đào Hoa Nguyên。\nThời gian hồi:1 phút\nMỗi lần dùng tốn 50 vàng。";
+4414|<O>| send_user(me, "%c%c%w%s", ':', 3, 0, "Bạn sẽ tiến vào trạng thái bảo hộ hoàn toàn, bạn sẽ không bị bất kỳ người chơi nào tấn công, cũng sẽ không gây tổn thương lên bất kỳ loại người chơi nào。\n"
+4415|<O>| if (gone_time(me->get_perform(PF_FLAG)) < interval) return 1;    // Cẩn thận chuẩn bị level
+4416|<O>| tmp += sprintf(ESC HIY "Tiếng vọng trong sơn cốc\ntalk %x# welcome.1\n", getoid(this_object()));

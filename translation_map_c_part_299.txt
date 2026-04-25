@@ -1,0 +1,66 @@
+﻿11264|<O>| write_user(who, ECHO "你忽然觉得心里涌出一股暖流，整个人懒洋洋地，舒服无比。");
+11265|<O>| return "居家旅行时所用的小背包，\n可增加使用者6格的背包空间。\n包裹10天后会自动损坏。";
+11266|<O>| send_user(me, "%c%s", '!', "您经验不足以看懂" + book + "。");
+11267|<O>| player->delete_save_2("vip_package.trial");	//试用VIP包
+11268|<O>| "%s:\n那我就收下了，愿两国继续友好合作。\n", name3, me->get_name()));
+11269|<O>| private string Master2;                 // 城主２(副城主)
+11270|<O>| cTmp += "|" + map->get_2("win_country") + "|赵国|秦国";
+11271|<O>| if( get_effect(me, EFFECT_NPC_0531_1) )    // 被魅惑状态
+11272|<O>| return HIC+get_name()+"\n拥有此技能的宠物，抵御雷系攻击法术30%的伤害。";
+11273|<O>| write_user(me, ECHO "您的余额为%d个元宝。", to_int(result));
+11274|<O>| return "“天宫宝库的收藏品”\n攻击目标时有一定的几率\n对目标产生200点的额外物理伤害";
+11275|<O>| send_user(me, "%c%s", '!', "你并无分配点数到力量中，不能使用洗点丸。");
+11276|<O>| send_user(who, "%c%s", '!', "你的双倍经验时间已经寄存到神仙爷爷处。");
+11277|<O>| send_user(me, "%c%s", '!', "您无法从翻阅得残破不全的书中领悟到什么。");
+11278|<O>| send_user(who, "%c%s", ';', "你的济世葫芦可存经验增加了50000！");
+11279|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 300, "药店连接中……");
+11280|<O>| if (p = get_valid_xy(z, x, y, IS_ITEM_BLOCK))	//战国令
+11281|<O>| sprintf("%s:\n    终于来救我了，好勇敢呀！我要谢谢你的救命之恩，好好的重谢你！\n"
+11282|<O>| send_user(who, "%c%s", ';', "您将按百分之五十经验加成的方式刷败类。");
+11283|<O>| send_user(member, "%c%s", ';', "缘分对对碰 凤镯 1 七国令 1");
+11284|<O>| result += sprintf("剿匪(%d):%d *%d  师爷(%d):%d *%d\n",
+11285|<O>| sprintf("%s:\n    请等待其他队员回应。\n", me->get_name()) );
+11286|<O>| printf(ECHO "使用“" PF_NAME "”需要 %d 点元气。", SUB_YUAN);
+11287|<O>| send_user(who, "%c%s", '!', "你已经放弃了进入长平战场，请重新报名！");
+11288|<O>| send_user(me, "%c%s", ';', "您输入的字符格式不符合要求！没有修改成功");
+11289|<O>| item = new(STONE_FILE->get_diamond_file());//随机1级晶石
+11290|<O>| case "唐门": z = 324;  p = get_jumpin(z, 20);  break;
+11291|<O>| if (get_effect(me, EFFECT_CHAR_CHAN)    // 被人缠住(粘手)
+11292|<O>| return sprintf(desc + "\n使用要求 %d 级", get("level"));
+11293|<O>| result = "您得到了神仙爷爷的奖励 20 点经验、20 点潜能、500 金和半小时双倍经验";
+11294|<O>| case 2: point = item->get_hp();  break;    // 九龙神火罩
+11295|<O>| who->set_latest_city(00110);    // 回城符:新手村(001 #10)
+11296|<O>| if ((npc = who->get_quest("escort.npc"))    // 运镖人物
+11297|<O>| count = max - mpTmp1["user"][userid][team];	//允许投票数
+11298|<O>| if (price < 1 || value != price / total)	// 避免溢出出问题
+11299|<O>| send_user(me, "%c%c%c", 0x3d, 241, 1);    // 更改走路步数
+11300|<O>| who->set_save_2("task.story",iLegend);	//已经接的剧情任务总数
+11301|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 3, "稳定心神施放中……");
+11302|<O>| log_file("christmas.txt",short_time() + " 放火鸡\n" );
+11303|<O>| private static int ThisTime = time();   // 同时用于断线僵尸
+11304|<O>| else if (rate < 2600 * rate1 / 100)		//100级随机门派金色装备
+11305|<O>| write_user(me, ECHO "您还不足以迷惑%s。", who->get_name());
+11306|<O>| if (gone_time(get("birthday")) >= 1800)    // 30 分钟
+11307|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"魏管家的劫难（3）");
+11308|<O>| } else if(rate < 4000 ) {	//	vi.	500的几率掉落道具“紫参丹”一颗。
+11309|<O>| log_file(LIST_LOG_2, "// 进阶书籍，放到 /quest/book\n\n");
+11310|<O>| send_user(me, "%c%s", '!', "您已经给嫦娥找到玉兔了，为什么还来找呢？");
+11311|<O>| tell_user(me, "目录:" DIR_COLOR + path);    // 列示目录内容
+11312|<O>| #define AUTH_TIMEOUT           	1800      // 连线超时限制
+11313|<O>| set_save_2(sprintf("%s.size",type),pos);//重设当前表数记录数
+11314|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 300, "当铺连接中……");
+11315|<O>| if (!clonep(me)) return "［精炼］ 命中\n［适用装备］ 武器、项链、腰带";
+11316|<O>| if (gone_time(get("birthday")) >= 3600)    // 60 分钟
+11317|<O>| if (gone_time(me->get_time("give")) < 1)    // 时间限制
+11318|<O>| case "云梦泽" : if( type != SWORD ) flag = -1;  break;
+11319|<O>| "    最后"HIR" 云梦泽 "NOR"的法器你只要到"HIR" 魏国 "NOR"便可以找到了。"
+11320|<O>| //                me->set_login_flag(2);    // 跳转保护
+11321|<O>| send_user(me, "%c%s", '!', "连接出错，请重新连接。" + result);
+11322|<O>| set_char_type(FIGHTER_TYPE_2);    // init_level 要用到
+11323|<O>| SAY_CMD->say(this_object(), "没有的闯入者，快快放下手中武器投降吧！");
+11324|<O>| case 3: begin = 81; end = 200; name = "白虎门"; break;
+11325|<O>| send_user(me, "%c%c%c", 0x3d, 241, 2);    // 恢复走路步数
+11326|<O>| if (p = get_valid_xy(z, x, y, IS_ITEM_BLOCK))	//天恩令
+11327|<O>| // int get_cast_seal() { return 41100; }    // 符纸逆旋
+11328|<O>| write_user(me, ECHO "您掘地挖出了%s！", obj2->get_name());
+11329|<O>| if (gone_time(me->get_time("team")) < 1)    // 时间限制

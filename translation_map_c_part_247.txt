@@ -1,0 +1,58 @@
+﻿8084|<O>| send_user(who, "%c%s", ';', "挑战自己 经验 34000 潜能 510 金钱 34000");
+8085|<O>| /*              else if( p < 5595 * rate / 100 )    // 防具(基本)
+8086|<O>| send_user(who, "%c%s", ';', "探访奇事 经验 77000 潜能 990 金钱 69000");
+8087|<O>| /*              else if( p < 5144 * rate / 100 )    // 武器(基本)
+8088|<O>| /*              else if( p < 9212 * rate / 100 )    // 防具(基本)
+8089|<O>| /*              else if( p < 5197 * rate / 100 )    // 防具(基本)
+8090|<O>| /*              else if( p < 5030 * rate / 100 )    // 武器(门派)
+8091|<O>| /*              else if( p < 3272 * rate / 100 )    // 武器(基本)
+8092|<O>| send_user(who, "%c%s", ';', "道听途说 经验 22000 潜能 410 金钱 21000");
+8093|<O>| if (!objectp(item_q1 = present("黄菊", who, 1, MAX_CARRY * 4)))
+8094|<O>| /*              else if( p < 2842 * rate / 100 )    // 防具(基本)
+8095|<O>| /*              else if( p < 9064 * rate / 100 )    // 防具(基本)
+8096|<O>| if (!objectp(item = present("战国宝典", me, 1, MAX_CARRY * 4))) {
+8097|<O>| send_user(who, "%c%s", ';', "身世之谜 经验 30000 潜能 400 金钱 22000");
+8098|<O>| send_user(who, "%c%s", ';', "接受考验 经验 53000 潜能 710 金钱 53000");
+8099|<O>| /*              else if( p < 2446 * rate / 100 )    // 防具(基本)
+8100|<O>| send_user(who, "%c%s", ';', "搜寻官印 经验 30000 潜能 498 金钱 30000");
+8101|<O>| send_user(who, "%c%s", ';', "降旨修墓 经验 15000 潜能 370 金钱 14000");
+8102|<O>| int get_this_skill() { return this_skill; }			// 函数:获取对应的技能类型
+8103|<O>| /*              else if( p < 2907 * rate / 100 )    // 防具(基本)
+8104|<O>| send_user(who, "%c%s", ';', "夜空中的灵光 经验 6600 潜能 250 金钱 6200");
+8105|<O>| send_user(who, "%c%s", ';', "民间探访 经验 57000 潜能 790 金钱 50000");
+8106|<O>| /*              else if( p < 4650 * rate / 100 )    // 武器(门派)
+8107|<O>| /*              else if( p < 9246 * rate / 100 )    // 防具(基本)
+8108|<O>| set_effect_2(me, EFFECT_CHAR_INVISIBLE, 100, 10);    // 每十秒减血
+8109|<O>| send_user(who, "%c%s", ';', "换份工作 经验 38000 潜能 600 金钱 35000");
+8110|<O>| /*              else if( p < 5728 * rate / 100 )    // 武器(基本)
+8111|<O>| /*              else if( p < 6288 * rate / 100 )    // 防具(基本)
+8112|<O>| if( point = who->get_anti_hurt() ) damage -= point;    // 免伤害
+8113|<O>| if (result != "") tell_user(me, "%s", result);    // 注意:字串有 %
+8114|<O>| /*              else if( p < 8953 * rate / 100 )    // 武器(基本)
+8115|<O>| /*              else if( p < 4518 * rate / 100 )    // 武器(基本)
+8116|<O>| /*              else if( p < 4564 * rate / 100 )    // 武器(基本)
+8117|<O>| send_user(who, "%c%s", ';', "水落石出 经验 52000 潜能 720 金钱 54000");
+8118|<O>| send_user(who, "%c%s", ';', "有备无患 经验 35000 潜能 510 金钱 33000");
+8119|<O>| send_user(who, "%c%s", ';', "陈述冤情 经验 21000 潜能 410 金钱 22000");
+8120|<O>| case 9: send_user(who, "%c%s", ':', "您:\n听说洪水快要来了，赶紧抢收庄稼吧！");
+8121|<O>| /*              else if( p < 4924 * rate / 100 )    // 武器(基本)
+8122|<O>| /*              else if( p < 4592 * rate / 100 )    // 武器(基本)
+8123|<O>| return sprintf(PF_NAME ":\n　　隐藏自己身影，缓慢潜行。隐身时，移动速度减少 50％。\n");
+8124|<O>| tmp += sprintf(ESC + HIY + "收购铁锤\ntalk %x# welcome.1\n", id);
+8125|<O>| /*              else if( p < 7591 * rate / 100 )    // 防具(基本)
+8126|<O>| if ( !(iHour%2) && (YUTU->get("send_yb") != iHour+1) )	//刷新月饼
+8127|<O>| /*              else if( p < 3376 * rate / 100 )    // 武器(基本)
+8128|<O>| send_user(who, "%c%s", ';', "求医（1）经验 51500 潜能 780 金钱 51000");
+8129|<O>| send_user(who, "%c%s", ';', "出谋献策 经验 35000 潜能 520 金钱 34000");
+8130|<O>| /*              else if( p < 1090000 * rate / 100 )    // 杂物５
+8131|<O>| /*              else if( p < 5494 * rate / 100 )    // 武器(基本)
+8132|<O>| /*              else if( p < 5446 * rate / 100 )    // 武器(基本)
+8133|<O>| /*              else if( p < 3297 * rate / 100 )    // 防具(基本)
+8134|<O>| send_user( who, "%c%c%c%w%s", 0x51, 2, 1,TID_HUANJIAO,"幽谷" );
+8135|<O>| return "缘分信物，据说找到持有相同信物的异性，然后组队找到月老，\n按照月老的指引完成任务就有意想不到的惊喜。";
+8136|<O>| /*              else if( p < 8838 * rate / 100 )    // 武器(基本)
+8137|<O>| /*              else if( p < 2754 * rate / 100 )    // 防具(基本)
+8138|<O>| /*              else if( p < 5870 * rate / 100 )    // 防具(基本)
+8139|<O>| /*              else if( p < 5260 * rate / 100 )    // 武器(门派)
+8140|<O>| if (gone_time(who->get_time("desc_char")) > 300)    // 五分钟后显示
+8141|<O>| /*              else if( p < 4564 * rate / 100 )    // 武器(门派)

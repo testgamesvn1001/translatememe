@@ -1,0 +1,51 @@
+5390|<O>| _DEBUG(sprintf("DEBUG-- Hiện tại hoạt động vừa mới kết thúc, sẽ gọi lại hàm hoạt động sau (%d) phút nữa",callout_delay_time));
+5391|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 30, "Bệnh lạ của phu nhân（1）");
+5392|<O>| } else if(rate < 9969 ) {	//	vi.	Xác suất 5 rơi ra thức ăn thú cưng cấp thấp		//8-23	xiv.	Xác suất 7 rơi ra một bình Ngọc Linh Dịch。
+5393|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 36, "Nhởn nhơ ngoài vòng pháp luật(hoàn thành)");
+5394|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 22, "Thử thách bản thân(hoàn thành)");
+5395|<O>| send_user(who, "%c%s", ';', "Xin thần kiếm 4 Kinh nghiệm 93000 Tiềm năng 1300 Tiền 92000 Bộ nối tiệm thuốc 1");
+5396|<O>| if (!item) send_user(me, "%c%s", '!', "Lá bùa 'Man Thiên Quá Hải' của bạn đã dùng hết, xin bổ sung kịp thời để tránh gây bất tiện cho bạn!");
+5397|<O>| result += sprintf(ESC "Đâu có trang bị phù hợp với ta?\ntalk %x# welcome.99\n", getoid(me));
+5398|<O>| result = sprintf("Phòng pháp:%4d -%5d (%+5d %+3d%%%%)  Né tránh:%4d (%+5d)  Tiền gửi:%10d",
+5399|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 11, "Trừng ác dương thiện(hoàn thành)");
+5400|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 21, "Truy bắt tù phạm bỏ trốn(hoàn thành)");
+5401|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 42, "Mồi quế móc vàng(hoàn thành)");
+5402|<O>| send_user(who, "%c%s", ';', "Loạn Bình Dương 4 Kinh nghiệm 92000 Tiềm năng 980 Tiền 93000 Bản vẽ Long Lân Chiến Giáp 1");
+5403|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 41, "Vạn chúng kính ngưỡng(hoàn thành)");
+5404|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 5\n    Trong 8 giây liên tục hồi khí huyết cho thú triệu hồi, cứ mỗi 2 giây hồi một lần, mỗi lần hồi 10 điểm。";
+5405|<O>| send_user(me, "%c%c%w%w%c%w%w%s", 0x60, 3, 630, 6301, 0, 0, 0, "Luyện chế đan dược");
+5406|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 23\n    Hy sinh thú triệu hồi của bản thân, đồng thời chuyển hóa 50％ tổng khí huyết của nó thành khí huyết của bản thân。";
+5407|<O>| send_user(who, "%c%s", ';', "Kiếp nạn của quản gia nước Ngụy（3） Kinh nghiệm 5800 Tiềm năng 200 Tiền 5000 Pháp lực sơ cấp 1");
+5408|<O>| return sprintf("［" PF_NAME "］Nhanh chóng đến vị trí đã đánh dấu。Tiêu hao pháp lực:%d, có thể dùng ở %s%d cấp\nYêu cầu kỹ năng cơ bản: Đạo gia học thuyết\n",
+5409|<O>| tmp = sprintf(ESC"Lời an ủi của Mạnh thị\ntalk %x# welcome.1\n", getoid(this_object()));
+5410|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 16, "Kế hoạch săn bắn(hoàn thành)");
+5411|<O>| send_user(who, "%c%s", ';', "Lời cầu cứu bất đắc dĩ（2） Kinh nghiệm 6000 Tiềm năng 190 Tiền 4500 Bản vẽ Thanh Long Quan 1");
+5412|<O>| SAY_CMD->say(this_object(), "Cái chết của ngươi sẽ khiến tâm trạng ta càng vui hơn, đừng vùng vẫy vô ích nữa. Ta tràn đầy sức mạnh. Ha ha ha ha...!");
+5413|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 26, "Quét sạch chướng ngại(hoàn thành)");
+5414|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 103, "Truy tìm kho báu mạo hiểm");
+5415|<O>| send_user(player, "%c%s", '!', sprintf("Muốn đăng ký lại thì phải chờ %d giây nữa。", 180 - sec));
+5416|<O>| send_user(who, "%c%s", ':', get_name() + ":\n1 điểm công đức có thể đổi 1500 vàng, bạn muốn đổi thế nào?\n"
+5417|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 59, "Công phá Thiên Môn Trận(hoàn thành)");
+5418|<O>| if( !objectp( item_qx1 = present("Tiên đan tặng Ngưu Lang Chức Nữ", team[0], 1, MAX_CARRY) ) )
+5419|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 47, "Tiêu diệt bù nhìn");
+5420|<O>| send_user(who, "%c%s", ';', "Vén mở bí ẩn kho báu Kinh nghiệm 33000 Tiềm năng 500 Tiền 33000 Bản vẽ Long Tiên Thảo 1");
+5421|<O>| write_user( me, ECHO "Thông qua lao động chăm chỉ, bạn đã nhận được "+EXP_BONUS+" điểm kinh nghiệm và "+CASH_BONUS+" vàng。");
+5422|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 58, "Tứ diện Sở ca（1）");
+5423|<O>| result += sprintf(ESC "Đâu có vũ khí phù hợp với ta?\ntalk %x# welcome.99\n", getoid(me));
+5424|<O>| send_user(me, "%c%c%c%w", 0x30, get_item_type_2(), 0, 30);    // Cập nhật khoảng cách sử dụng
+5425|<O>| send_user(who, "%c%c%w%s", ':', 3, 0, "Đã hủy sửa chữa của " + me->get_name() + "。");
+5426|<O>| send_user(who, "%c%s", ';', "Sự trỗi dậy của Đại Tề Kinh nghiệm 84000 Tiềm năng 1048 Tiền 73000 Bộ nối tiệm cầm đồ 1");
+5427|<O>| send_user(me, "%c%c%c%w", 0x30, get_item_type_2(), 0, 60);    // Cập nhật khoảng cách sử dụng
+5428|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 35, "Nguồn gốc của thức ăn");
+5429|<O>| send_user(who, "%c%s", ':', me->get_name() + ":\nNgươi tuần tra quanh đây xem có ai bị bọn lưu manh quấy nhiễu không。\n");
+5430|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 22, "Chuyến đi Linh Cốc Động(hoàn thành)");
+5431|<O>| send_user(who, "%c%s", ';', "Bệnh lạ của phu nhân（2） Kinh nghiệm 5000 Tiềm năng 200 Tiền 3500 Bản vẽ Ngân Xà Kiếm 1");
+5432|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 23, "Thanh trừ gian tặc(hoàn thành)");
+5433|<O>| else    printf(ECHO "Ngươi lấy %s đưa cho %s。", obj[i]->get_name(), who->get_name());
+5434|<O>| send_user(me, "%c%c%w%w%c%w%w%s", 0x60, 3, 610, 6101, 0, 0, 0, "Chế biến rượu món ăn");
+5435|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 1, 2, TID_WUYIHUODONG, 2, "Thiên đạo thù cần");
+5436|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 16, "Kiếp nạn ngàn năm(hoàn thành)");
+5437|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 103, "Linh hồn oán quỷ(hoàn thành)");
+5438|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 55, "Khống chế số lượng(hoàn thành)");
+5439|<O>| //              npc->set_name( sprintf( "Quỷ tốt(%d)", me->get_number() ) );
+5440|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 61, "Lời kiến nghị nhiệt tình（3）");

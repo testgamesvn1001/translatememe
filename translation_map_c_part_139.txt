@@ -1,0 +1,38 @@
+2871|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng:35 cấp\nTiêu hao đạo cụ:3 lá bùa giấy\n    Có xác suất nhất định biến một kẻ địch thành một con vật nhỏ, mục tiêu bị biến thành động vật nhỏ sẽ không thể tấn công, cũng không thể sử dụng bất kỳ pháp thuật hay kỹ năng nào（nhưng vẫn có thể dùng đạo cụ）。";
+2872|<O>| MAILBOX->sys_mail(owner->get_id(), owner->get_number(), HIY"Quá thời hạn, nhiệm vụ Thất Tịch trời ban kỳ duyên đã thất bại. Ngươi có thể hủy nhiệm vụ rồi tới chỗ "HIR"Ngưu Lang Chức Nữ"HIY" để bắt đầu lại。");
+2873|<O>| result = sprintf("Hiện tại độ bền của %s này là %d / %d, đang trong quá trình sửa chữa, ngươi có muốn dừng công trình sửa chữa tháp phòng ngự không？\n", me->get_name(), me->get_hp(), me->get_max_hp());
+2874|<O>| if( ( point = who->get_hurt_rate() ) && who->get_mp() >= 6 && random(100) < who->get_hurt_rand() )    // Phản đòn sát thương
+2875|<O>| write_user(who, ECHO "Kinh nghiệm quân quan của ngài +60, chính nghĩa +60, trung thực +1, dũng cảm +60, danh vọng +6, cống hiến quốc gia +1, tiền %+d, kinh nghiệm %+d, tiềm năng +6。", gold, exp);
+2876|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Hê hê, ngươi có biết ta làm nghề gì không, biết không, không biết chứ gì, ngươi thật sự cảm thấy mình biết sao，"
+2877|<O>| if (!clonep(me)) return "Vật liệu đặc biệt dùng để cường hóa trang bị, thuộc tính tăng thêm chịu ảnh hưởng bởi cấp độ linh thạch. Linh thạch cùng loại cùng cấp cũng có thể kết hợp với tinh thạch hoặc linh thạch cùng loại cùng cấp để nâng cấp。\n［Tinh luyện］ Mệnh trung\n［Trang bị áp dụng］ Vũ khí, dây chuyền, đai lưng";
+2878|<O>| log_file("getitem.txt", sprintf("%s %s %d nhận %d thành công\n", short_time(), who->get_id(), who->get_number(), type));
+2879|<O>| //                                        printf( ECHO "Đội trưởng đội này:%s(%d)。", who->get_name(), who->get_number() );
+2880|<O>| send_user(who, "%c%s", ':', sprintf(get_name() + ":\n    Do cấp tối đa của kỹ năng tửu thực sinh hoạt đã bị điều chỉnh xuống cấp 80, nên xin mọi người cập nhật kỹ năng tửu thực. Chúng tôi xin lỗi sâu sắc vì sự bất tiện này。\n" +
+2881|<O>| char = get_range_object(z, x, y, seek, USER_TYPE) + get_range_object(z, x, y, seek, CHAR_TYPE);    // Phạm vi nhân vật có thể thấy
+2882|<O>| result = HIY + sprintf("Chúc mừng %s(%d) đã thành công luyện %s lên ＋%d。", me->get_name(), me->get_number(), item[0]->get_name(), level);
+2883|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nTiêu hao pháp lực:%d điểm\nThời gian hồi:%d giây\n    Xua tan hiệu quả trên người mục tiêu, có thể xua một trạng thái tăng ích trên người địch hoặc xua một trạng thái bất lợi trên người đồng minh。",
+2884|<O>| //				result = result + BLK + sprintf("Nhiệm vụ còn lại %d phút\n", (me->get_save_2("mastertask.endtime") - time()) / 60);
+2885|<O>| ESC "Ta chỉ đi ngang qua dạo chơi thôi\nCLOSE\n", who->get_name(), "/quest/word"->get_normal_word(who), getoid(who), getoid(who)));
+2886|<O>| send_user(me, "%c%s", ':', sprintf("Cảnh báo！Quản lý quyền hạn người dùng。\n\nNgài muốn đặt %s(%d) thành cấp độ nào？\n", who->get_name(), who->get_number()) +
+2887|<O>| result = sprintf("%s\n    Với thực lực hiện tại của ngươi, chiến đấu ở %s đối với ngươi là quá dễ dàng. Nếu ngươi muốn tiến thêm một tầng nữa, vẫn nên chọn một chiến trường phù hợp với cấp độ của mình để thử thách đi。\n", who->get_name(), name);
+2888|<O>| ret += sprintf("%sHạng Liên Bạch Lang\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"白狼项链"))?PPM:WHT);
+2889|<O>| "Những điểm thưởng này sẽ được giữ lại trong khung thuộc tính. Chỉ cần nhấp một cái vào dấu cộng nhỏ bên cạnh thuộc tính tương ứng, ngươi sẽ tiêu hao một điểm thưởng thuộc tính, và điểm đó sẽ được phân phối vào thuộc tính cơ bản tương ứng。\n    Hãy nhớ, một khi đã phân phối điểm thuộc tính thì không thể hối hận được nữa, cách phân bổ điểm thuộc tính một cách hợp lý cũng là một môn học vấn khá cao thâm。\n"
+2890|<O>| //                                set_heart_count(me, speed - heart % speed);    // Đặt lại cờ nhịp tim(chủ), 0.? giây vào nhịp tim(đi bộ)
+2891|<O>| HIR "Tấn công tầm xa" NOR "。\n    Lực công vật lý do thuộc tính sức mạnh quyết định sẽ được áp dụng vào việc tính toán toàn bộ kỹ năng tấn công không phải pháp thuật. Bao gồm đòn đánh thường, sử dụng chiêu thức võ công, tất cả đều được tính dựa trên công vật lý, còn thứ khống chế lớn nhỏ của sát thương vật lý chính là phòng ngự vật lý。”\n"
+2892|<O>| char = get_range_object(z, x0, y0, 8, USER_TYPE) + get_range_object(z, x0, y0, 8, CHAR_TYPE);    // 7 x 7 ngẫu nhiên
+2893|<O>| static mapping mpPic = (["Cấm Vệ Quân":40000,"Mao Sơn":80000,"Vân Mộng Trạch":70000,"Đào Hoa Nguyên":20100,"Thục Sơn":30100,"Côn Lôn Sơn":60100,"Đường Môn":50100]);
+2894|<O>| send_user(CHAT_D->get_chat(), "%c%s", 0xA3, sprintf(HIY"Chúc mừng %s hoàn thành nhiệm vụ Thất Tịch trời ban kỳ duyên, giúp Ngưu Lang Chức Nữ có thể hạnh phúc sống bên nhau。", who->get_name()));
+2895|<O>| int  find_next_time_stamp(string max_unit, string time_str, string min_unit);							//	Theo thông tin chuỗi ký tự tìm ra số dương thời gian kế tiếp phù hợp yêu cầu
+2896|<O>| sprintf("%s:\n    Ngươi có thể dùng lệnh "HIR"cho（Alt＋G）"NOR" để đưa cho ta đá rèn đã hợp thành. Tùy theo cấp của đá rèn, ta có thể giúp ngươi phân giải ra thành hai viên đá rèn thấp hơn một cấp. Dĩ nhiên, đá rèn cấp 1 thì không thể phân giải nữa。\n"
+2897|<O>| if (level>0) result += sprintf(	"Yêu cầu trang bị: %s%d	cấp\n", level > me->get_level() ? HIR : NOR,  name->get_level() );
+2898|<O>| //                                set_heart_count(me, speed - heart % speed);    // Đặt lại cờ nhịp tim(chủ), 0.? giây vào nhịp tim(chiến đấu)
+2899|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nTiêu hao đạo cụ:1 lá bùa giấy\nTiêu hao pháp lực:%d điểm\nThời gian hồi:%d giây\n    Phong tỏa hành động của một kẻ địch, khiến hắn không thể di chuyển trong 6 giây. Kỹ năng này vô hiệu với người chơi。",
+2900|<O>| sprintf("%s:\n    Chúc mừng ngươi, nhanh như vậy đã vượt qua khảo nghiệm của khóa học, chắc hẳn cũng nhận được không ít phần thưởng của các vị sư phụ rồi nhỉ？Ngươi đã gặp tỷ tỷ của ta chưa？Tỷ ấy đúng là đại mỹ nhân đó～～ vừa xinh đẹp lại hiền thục, luôn là mục tiêu mà ta ngưỡng mộ～～\n    Hi hi, xin lỗi nhé, ta lại lạc đề rồi。\n"
+2901|<O>| case 2: send_user(who, "%c%s", ':', sprintf("%s:\nA……đứa con út nhà ta năm nay mới nhập ngũ, ta phải nghĩ cách cho nó mau chóng quay về。(binh sĩ %+d)", me->get_name(), p));
+2902|<O>| "Thượng Đảng" : ({ 532,256,160 }), "Bình Dương" : ({ 531, 165, 215 }), "Vũ Quan" : ({ 519, 231, 179 }), "Đồng Quan" : ({ 518, 84, 83 }),
+2903|<O>| if (!who->get_max_damage() && who->get_action_mode() == 1) who->init_enemy_damage(me, 0);    // Ghi lại sát thương mạnh nhất(NPC)
+2904|<O>| see = get_range_object(z, x, y, seek, USER_TYPE) + get_range_object(z, x, y, seek, CHAR_TYPE);    // Phạm vi nhân vật có thể thấy
+2905|<O>| cmd2 = sprintf(ESC "Đào Hoa Nguyên: %d/%d\nenergy %d 1\n", COUND_d->get_1(type2, 1), COUND_d->get_2(type2, 1), type2);
+2906|<O>| result += sprintf(ESC"Trận bảo vệ Thanh Long Môn(60～80 cấp)(số người:%d/40)\ntalk %x# defence.13\n", all[2]->sizeof_player_dbase(), id);
+2907|<O>| //			send_user( team[i],"%c%s",';',sprintf(HIY"Người có duyên của ngươi đã từ bỏ nhiệm vụ Thất Tịch trời ban kỳ duyên rồi, nếu ngươi muốn hoàn thành nhiệm vụ này, cần hủy nhiệm vụ hiện tại rồi cùng người có duyên tới chỗ Ngưu Lang Chức Nữ bắt đầu lại。"));
+2908|<O>| send_user(who,"%c%c%w%s",':',3,me->get_char_picid(),sprintf("%s:\n    Ngươi đã nhận thưởng rồi！\n"ESC"Rời khỏi",me->get_name(),));

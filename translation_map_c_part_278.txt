@@ -1,0 +1,63 @@
+﻿9931|<O>| send_user(who, "%c%s", '!', sprintf(HIY"苦役 %d/30", i));
+9932|<O>| send_user(who, "%c%s", '!', sprintf(HIY"骷髅妖 %d/5", i));
+9933|<O>| ESC "我只是随便看看\nCLOSE\n", who->get_name(), getoid(who)));
+9934|<O>| private int BZ_ACTIVE_BEFORE1	= 5;			//	活动开始前的第一个时间点（分）
+9935|<O>| send_user(me, "%c%s", '!', "你所佩戴的门派信物不符合使用要求，无法提升等级。");
+9936|<O>| write_user(me, ECHO "唱歌没效果，%s已经走开了。", who->get_name());
+9937|<O>| send_user(who, "%c%s", '!', sprintf(HIY"古石灰 %d/5", i));
+9938|<O>| if (TASK_LEGEND_D->check_task_item(who, "兽角", 20) != 1)
+9939|<O>| ESC "放弃生活技能。\n" + sprintf("talk %x# abandon.?\n", id) +
+9940|<O>| send_user( who, "%c%c%c%w%s", 0x51, 1, 1,0001,"游戏辅助" );
+9941|<O>| USER_ENERGY_D->count_pp(me);    // cp/pp 影响 ap/dp, 所以放前
+9942|<O>| if (TASK_LEGEND_D->check_task_item(who, "金钥匙", 1) != 1)
+9943|<O>| private mapping mpTask = ([]);                 // 任务数据集
+9944|<O>| result += ESC "使用VIP免费复活次数在原地复活。\ndesc vip_revive19\n";
+9945|<O>| return "好好保存此物，来日必有重用！\n不仅可换取丰富实物大奖，\n还有机会得到游戏中的极品装备！";
+9946|<O>| tell_user(me, "%s所有频道被封闭 %d 分。", who->get_name(), min);
+9947|<O>| if (TASK_LEGEND_D->check_task_item(who, "利剑", 10) != 1)
+9948|<O>| send_user(who, "%c%s", '!', sprintf(HIY"刀俑 %d/30", i));
+9949|<O>| return sprintf("小法力石:\n    使用后每2秒可恢复%d点法力值", iStoneMp);
+9950|<O>| log_file("wushuang.txt",sprintf("%s %s(%d) %s 占领无双城\n",
+9951|<O>| SAY_CMD->say(me, enemy->get_name() + "，你的怨恨我已经全部接收了。");
+9952|<O>| send_user(who, "%c%s", '!', sprintf(HIY"鹿角 %d/20", i));
+9953|<O>| return "传说是神行老君所用的法宝。装备上该物品后，可消除一切任务间隔时间，从而提高玩家的任务效率。";
+9954|<O>| cWord = "官府告示:\n　　"HIR"太行山洞"NOR"已被封锁，闲杂人等不得入内，否则后果自负。";
+9955|<O>| set_save_2(sprintf("player.%d.name",id),name);//保存玩家的姓名
+9956|<O>| send_user(who, "%c%s", '!', sprintf(HIY"猪妖 %d/20", i));
+9957|<O>| send_user(who, "%c%s", '!', sprintf(HIY"褐尾蝎 %d/7", i));
+9958|<O>| if (TASK_LEGEND_D->check_task_item(who, "名酒", 10) != 1)
+9959|<O>| SAY_CMD->say(me, enemy->get_name() + "，看本王如何将你剁成肉酱！！");
+9960|<O>| tell_user(who, "%c%s", '>', sprintf("已经删除第%d条公告!", i));
+9961|<O>| send_user(who, "%c%s", '!', sprintf(HIY"骷髅妖 %d/8", i));
+9962|<O>| if (gone_time(me->get("birthday")) >= 1200)    // 20 分钟
+9963|<O>| if (TASK_LEGEND_D->check_task_item(who, "开山锄", 1) != 1)
+9964|<O>| result = sprintf("您希望使用%s替换哪个背包？\n", item->get_name());
+9965|<O>| && file->perform_done(me, who) == 2)    // 特技攻击(循环)(完成)
+9966|<O>| send_user(who, "%c%s", '!', sprintf(HIY"荔枝 %d/10", i));
+9967|<O>| private int Str;                 // 力量         Strength
+9968|<O>| tell_user(me, "请查看 /log/make/ 文件及 /log/list.txt 坐标点。");
+9969|<O>| send_user(who, "%c%s", '!', sprintf(HIY"豆兵 %d/20", i));
+9970|<O>| send_user(who, "%c%s", '!', sprintf(HIY"火精 %d/30", i));
+9971|<O>| tell_user(me, "%s\n等级:%4d	     级别:%4d 级\n升级所需:%d	点经验\n"
+9972|<O>| if (TASK_LEGEND_D->check_task_item(who, "玉明珠", 1) != 1)
+9973|<O>| damage = damage * (100 - skill_0431*2)/100;		// 帮派的抵抗强化
+9974|<O>| if (TASK_LEGEND_D->check_task_item(who, "同心锁", 1) != 1)
+9975|<O>| private static string* fileFighter = ({ });     // 怪物文件
+9976|<O>| "%s:\n阁下误会了，我们两国世代友好，并无它意。\n", name3, me->get_name()));
+9977|<O>| if (master->get_hp() <= master->get_max_hp() / 20)	//胜利
+9978|<O>| send_user(who, "%c%s", '!', sprintf(HIY"土匪 %d/15", i));
+9979|<O>| if (TASK_LEGEND_D->check_task_item(who, "金银花", 8) != 1)
+9980|<O>| if (TASK_LEGEND_D->check_task_item(who, "僵尸粉", 1) != 1)
+9981|<O>| if (TASK_LEGEND_D->check_task_item(who, "灵芝草", 1) != 1)
+9982|<O>| if (TASK_LEGEND_D->check_task_item(who, "神行露", 1) != 1)
+9983|<O>| if (TASK_LEGEND_D->check_task_item(who, "发绳", 20) != 1)
+9984|<O>| send_user( who, "%c%s", '>', sprintf("你得到 %s", name) );
+9985|<O>| if (distance_between(me, who) > 5) return 1;    // 距离过远
+9986|<O>| if (TASK_LEGEND_D->check_task_item(who, "火焰石", 5) != 1)
+9987|<O>| send_user(who, "%c%s", '!', sprintf(HIY"剑俑 %d/12", i));
+9988|<O>| send_user(who, "%c%s", ';', "你打开锦囊，获得" + result + "。");
+9989|<O>| if (distance_between(me, who) > 6) return 0;    // 距离过远
+9990|<O>| private static mapping mpCP = ([]);            // 临时数据集
+9991|<O>| return sprintf("大法力石:\n    使用后每2秒可恢复%d点法力值", iStoneMp);
+9992|<O>| send_user(who, "%c%s", '!', sprintf(HIY"黑棋子 %d/3", i));
+9993|<O>| private int Die;                                // 死亡标志

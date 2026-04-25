@@ -1,0 +1,58 @@
+﻿8490|<O>| /*              else if( p < 2537 * rate / 100 )    // Vũ khí (Cơ bản)
+8491|<O>| /*              else if( p < 6929 * rate / 100 )    // Vũ khí (Cơ bản)
+8492|<O>| /*              else if( p < 5273 * rate / 100 )    // Vũ khí (Cơ bản)
+8493|<O>| /*              else if( p < 5547 * rate / 100 )    // Phòng cụ (Cơ bản)
+8494|<O>| private class Health HP = new(class Health);  // Điểm sinh mệnh (Health)
+8495|<O>| /*              else if( p < 4701 * rate / 100 )    // Vũ khí (Môn phái)
+8496|<O>| /*              else if( p < 5049 * rate / 100 )    // Vũ khí (Cơ bản)
+8497|<O>| send_user(who, "%c%s", ';', "Cơ Quan Mật Đồ Kinh nghiệm 16800 Tiềm năng 650 Kim tiền 16800");
+8498|<O>| /*              else if( p < 6891 * rate / 100 )    // Phòng cụ (Cơ bản)
+8499|<O>| send_user(who, "%c%s", ';', "Đại Hồ Lô (1) Kinh nghiệm 3800 Tiềm năng 165 Kim tiền 3550");
+8500|<O>| /*              else if( p < 3044 * rate / 100 )    // Phòng cụ (Cơ bản)
+8501|<O>| /*              else if( p < 5393 * rate / 100 )    // Phòng cụ (Môn phái)
+8502|<O>| HIR "Môn phái" NOR " mà nói là cực kỳ quan trọng. Sát thương gây ra bởi pháp thuật, sát thương phòng ngự pháp thuật đều bị giới hạn bởi giá trị Tinh thần.\n    "
+8503|<O>| || get_effect(who, EFFECT_CHAR_WOUND_0)) return 2;    // Thực hiện thành công
+8504|<O>| /*              else if( p < 7268 * rate / 100 )    // Phòng cụ (Cơ bản)
+8505|<O>| send_user(who, "%c%s", ';', "Tết Trùng Cửu (1) Kinh nghiệm 7800 Tiềm năng 280 Kim tiền 8000");
+8506|<O>| /*              else if( p < 9400 * rate / 100 )    // Phòng cụ (Môn phái)
+8507|<O>| /*              else if( p < 6622 * rate / 100 )    // Phòng cụ (Cơ bản)
+8508|<O>| send_user(who, "%c%s", ';', "Kim Câu Quế Nhị Kinh nghiệm 27000 Tiềm năng 448 Kim tiền 25600");
+8509|<O>| case "Tần Quốc": z = 50;  p = get_jumpin(z, me->get("in"));  break;
+8510|<O>| /*              else if( p < 3043 * rate / 100 )    // Vũ khí (Cơ bản)
+8511|<O>| ret = CHAR_FIGHT_D->cast_done(me, who, ADD_AP);    // Cẩn thận chuẩn bị me
+8512|<O>| /*              else if( p < 5190 * rate / 100 )    // Vũ khí (Cơ bản)
+8513|<O>| /*              else if( p < 9400 * rate / 100 )    // Vũ khí (Môn phái)
+8514|<O>| send_user(who, "%c%s", ';', "Tìm kiếm trợ giúp Kinh nghiệm 36000 Tiềm năng 550 Kim tiền 38000");
+8515|<O>| /*              else if( p < 5049 * rate / 100 )    // Phòng cụ (Cơ bản)
+8516|<O>| case 55: result = "Thủ Lĩnh Sơn Tặc Thái Hành";  pic = 8011;  level2 = 4;  break;
+8517|<O>| /*              else if( p < 4951 * rate / 100 )    // Phòng cụ (Cơ bản)
+8518|<O>| send_user(who, "%c%s", ';', "Tìm hiểu nguyên nhân Kinh nghiệm 62000 Tiềm năng 770 Kim tiền 53000");
+8519|<O>| write_user( who, ECHO "Bạn đã hoàn thành nhiệm vụ tân thủ, Kim tiền %+d, Kinh nghiệm %+d.", gold, exp );
+8520|<O>| /*              else if( p < 9224 * rate / 100 )    // Phòng cụ (Cơ bản)
+8521|<O>| /*              else if( p < 6852 * rate / 100 )    // Vũ khí (Cơ bản)
+8522|<O>| &&      me->get_hp() <= me->get_max_hp() / 2 )    // Sinh mệnh thấp hơn 50%
+8523|<O>| if (p = who->get_save_2("build.flag")) switch (p)    // 40 Phút
+8524|<O>| /*              else if( p < 6770 * rate / 100 )    // Phòng cụ (Cơ bản)
+8525|<O>| case "Chu Quốc": z = 80;  p = get_jumpin(z, me->get("in"));  break;
+8526|<O>| send_user(who, "%c%s", ';', "Thương Nhân Khóc Lóc Kinh nghiệm 38000 Tiềm năng 570 Kim tiền 38000");
+8527|<O>| /*              else if( p < 4844 * rate / 100 )    // Phòng cụ (Môn phái)
+8528|<O>| /*              else if( p < 8953 * rate / 100 )    // Phòng cụ (Cơ bản)
+8529|<O>| /*              else if( p < 8856 * rate / 100 )    // Phòng cụ (Cơ bản)
+8530|<O>| /*              else if( p < 1020000 * rate / 100 )    // Vật phẩm linh tinh 5
+8531|<O>| private mapping SaveDbase2 = ([]);             // Tập dữ liệu lưu trữ (Cấu trúc nhiều lớp)
+8532|<O>| send_user(who, "%c%s", ';', "Chờ Xem Thế Nào Kinh nghiệm 45500 Tiềm năng 640 Kim tiền 44000");
+8533|<O>| send_user(who, "%c%s", ';', "Sự Khó Khăn Của Tu Sửa Kinh nghiệm 14000 Tiềm năng 360 Kim tiền 13000");
+8534|<O>| /*              else if( p < 3008 * rate / 100 )    // Vũ khí (Cơ bản)
+8535|<O>| /*              else if( p < 8958 * rate / 100 )    // Vũ khí (Cơ bản)
+8536|<O>| /*              else if( p < 4357 * rate / 100 )    // Vũ khí (Môn phái)
+8537|<O>| /*              else if( p < 8944 * rate / 100 )    // Vũ khí (Cơ bản)
+8538|<O>| /*              else if( p < 4677 * rate / 100 )    // Phòng cụ (Môn phái)
+8539|<O>| more_look_menu(who, get_name() + ":\nỞ đây tôi có bán số lượng lớn quân lương, trang bị, bạn có hứng thú xem thử không?\n"
+8540|<O>| /*              else if( p < 3334 * rate / 100 )    // Vũ khí (Cơ bản)
+8541|<O>| /*              else if( p < 4638 * rate / 100 )    // Phòng cụ (Môn phái)
+8542|<O>| /*              else if( p < 3300 * rate / 100 )    // Phòng cụ (Cơ bản)
+8543|<O>| send_user(who, "%c%s", ';', "Tìm Kiếm Nhân Tài Kinh nghiệm 48000 Tiềm năng 610 Kim tiền 45000");
+8544|<O>| /*              else if( p < 9242 * rate / 100 )    // Phòng cụ (Cơ bản)
+8545|<O>| send_user(who, "%c%s", ';', "Tìm Hiểu Tình Hiểu Kinh nghiệm 73000 Tiềm năng 900 Kim tiền 63000");
+8546|<O>| /*              else if( p < 3029 * rate / 100 )    // Phòng cụ (Cơ bản)
+8547|<O>| send_user(who, "%c%c%c%w%s", 0x51, 2, 1, TID_HUANJIAO, "U Cốc");

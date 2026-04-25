@@ -1,0 +1,48 @@
+4797|<O>| sprintf("%s:\n     Chào mừng bạn, thời gian liên kết VIP của bạn sẽ kéo dài đến %d-%02d-%02d %02d:%02d:%02d, cần hỗ trợ gì không?\n"
+4798|<O>| ESC "Đóng\nCLOSE\n", me->get_name(), city[z], name[z], name[z], getoid(me)));
+4799|<O>| CHAT_D->sys_channel(0,sprintf("Chúc mừng %s đổi được "HIR"%s" từ bánh trung thu",who->get_name(),name));
+4800|<O>| FAMILY_D->org_channel(me->get_org_name(), 0, sprintf(HIR "%s tiếp nhận %s(%d) gia nhập bang này!",
+4801|<O>| dp -= dp * sub_dp_rate / 100;  dp0 -= dp0 * sub_dp_rate / 100;    // Giảm phòng ngự％
+4802|<O>| log_file(CHANNEL_LOG, sprintf("%s %s(%d)%s đóng toàn bộ kênh của %s(%d)%s trong %d phút。(GM)\n",
+4803|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHOUGUO, 7, "Bí mật của hòm gỗ（4）(hoàn thành)");
+4804|<O>| || !sscanf(what, "%s;%d;%*s", file2, size) || !load_object(file2))    // Di chuyển
+4805|<O>| case 2: send_user(who, "%c%s", ':', "Bạn:\nNghe nói Man tộc chuẩn bị tấn công thành lớn, binh lính đều phải làm bia đỡ đạn rồi, chúng ta mau chạy thôi。");
+4806|<O>| case 1 : send_user( who, "%c%s", ':', sprintf( "%s:\nChúng ta đã tìm được %s rồi, không cần làm phiền bạn nữa。\n",
+4807|<O>| if (who->get_lucky()) prop += ({ sprintf("May mắn:%+3d%%", who->get_lucky()) });
+4808|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 112, "Trang trí nhà cửa(hoàn thành)");
+4809|<O>| tmp += sprintf(ESC HIY "Tiêu Độc Quý\ntalk %x# welcome.1\n", getoid(this_object()));
+4810|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 62, "Lời kiến nghị nhiệt tình（4）(hoàn thành)");
+4811|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 23, "Khói trên phong hỏa đài(hoàn thành)");
+4812|<O>| tmp += sprintf(ESC HIY "Rượu hùng hoàng\ntalk %x# welcome.4\n", getoid(this_object()));
+4813|<O>| if (sizeof(key) != 6) send_user(me, "%c%s", '!', "Mục tra cứu không đủ 6 ký tự" + result + "。");
+4814|<O>| send_user(who, "%c%s", ':', me->get_name() + ":\nKhông có bang phái “" + name + "” này!\n");
+4815|<O>| return HIC+get_name()+"\nThú cưng có kỹ năng này, khi đánh trúng đối phương có thể khiến đối phương trong 6 giây không thể\nsử dụng pháp thuật và gây cho đối phương một ít sát thương, hồi chiêu kỹ năng 15 giây。";
+4816|<O>| send_user(me, "%c%d%c", 0x4e, getoid(item), item->get_amount());    // Gửi bù tin nhắn
+4817|<O>| send_user(who, "%c%s", ';', "Chiếc giường đẹp（3） Kinh nghiệm 180000 Tiềm năng 1400 Tiền 190000 Bản vẽ Thấu Hồn Đinh 1");
+4818|<O>| ret = CHAR_FIGHT_D->attack_done(me, who, HIT_BLADE, ADD_AP2);    // Cẩn thận chuẩn bị me
+4819|<O>| write_user(me, ECHO "Pháp bảo của %s bị bạn dùng " HIY "Uy Hám" ECHO " dọa cho sợ, không dám vọng động。", who->get_name());
+4820|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_NEWBIE_01,1,"Dặn dò của tiên ông(hoàn thành)" );
+4821|<O>| result = sprintf("%s:\n    Hê～ ngươi đến rồi, quả nhiên là một đứa trẻ ham học, ngươi muốn biết điều gì nào?\n", me->get_name());
+4822|<O>| result=sprintf(me->get_name()+":\n    Thám hiểm đâu phải trò đùa, ta vẫn khuyên ngươi tìm thêm vài người cùng đi, ít nhất còn có thể hỗ trợ lẫn nhau!\n");
+4823|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 4\n    Đao như cuồng phong, cộng thêm 15 điểm công kích vật lý, sau khi chém trúng sẽ khiến đối thủ liên tục chịu sát thương trong một khoảng thời gian。";
+4824|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 9, "Kiếp nạn của quản gia nước Ngụy（2）(hoàn thành)");
+4825|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 1, "Lời cầu cứu bất đắc dĩ（2）(hoàn thành)");
+4826|<O>| if (arrayp(char = map->get_fighter_dbase()))    // caster là tập con của fighter, không cần dọn
+4827|<O>| if (!(p = from_here(z0, x0, y0, arg, IS_CHAR_BLOCK))) return 1;    // Có thể đi qua không?
+4828|<O>| write_user(who, ECHO "%s(%d) đã từ chối đơn xin vào đội của bạn。", me->get_name(), me->get_number());
+4829|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 8, "Kiếp nạn của quản gia nước Ngụy（1）(hoàn thành)");
+4830|<O>| return "Tín vật môn phái của Vân Mộng Trạch，\nlá cờ dùng khi tổ sư Vân Mộng thi triển pháp thuật bổn môn。\nNhấp chuột phải dùng có thể trực tiếp truyền tống về Vân Mộng Trạch。\nThời gian hồi:1 phút\nMỗi lần dùng tốn 50 vàng。";
+4831|<O>| else    result = sprintf("Bạn lấy lại %s từ chỗ %s。", item->get_name(), who->get_name());
+4832|<O>| send_user(member, "%c%c%c%w%w%s", 0x51, 1, 2, TID_YUANFEN, 1, "Tiêu diệt Ma Phệ Tình(hoàn thành)");
+4833|<O>| write_user(who, ECHO "Pháp bảo của bạn bị %s dùng " HIY "Uy Hám" ECHO " dọa cho sợ, không dám vọng động。", me->get_name());
+4834|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 6\n    Quét ngang tám hướng xung quanh, tăng 20 điểm công kích, đồng thời gây sát thương lên toàn bộ kẻ địch trong phạm vi này。";
+4835|<O>| "Sao băng lướt qua bầu trời, ta lỡ điều ước; sóng vỗ lên ghềnh đá, ta lỡ lời chúc; câu chuyện kể qua một lần, ta lỡ lắng nghe; đời người chỉ có một lần, ta mừng vì không bỏ lỡ người bạn như ngươi! Tối nay mời ngươi cùng thưởng trăng! ",
+4836|<O>| CHAT_D->sys_channel(0,HIR"5 phút nữa tiên tử Hằng Nga sẽ rải những chiếc bánh trung thu vừa to vừa tròn xuống đại địa Chiến Quốc, mọi người mau chuẩn bị đi tìm nhé～ Hằng Nga chúc mọi người lễ hội vui vẻ。");
+4837|<O>| case "repair": keyH = "$repair$H";  keyL = "$repair$L";  break;    // Tiền dùng để sửa chữa
+4838|<O>| //			send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_BAQIU,1,"Nguyên liệu nấu rượu(hoàn thành)" );
+4839|<O>| if( me->get_manager() == owner->get_manager() ) notify( "Người cùng phe trên chiến trường không thể tấn công lẫn nhau" );
+4840|<O>| case EFFECT_CHAR_CHAOS_0: send_user(me, "%c%c%c", 0x3d, 242, 0);    // Chuột bình thường
+4841|<O>| return "Tương truyền là vua của các loại nhân sâm do lão sâm nông giàu kinh nghiệm đào được ở Trường Bạch Sơn, có công hiệu sinh cơ bạch cốt。\nTrong 1 giờ liên tục có thể tăng giới hạn khí huyết của người chơi thêm 2000 điểm。\nThời gian hồi 2 giây。";
+4842|<O>| return sprintf("［" PF_NAME "］Nhanh chóng xem vị trí của mục tiêu liên quan nhiệm vụ。Tiêu hao pháp lực:%d, lần sau dùng phải cách %d giây, có thể dùng ở %s%d cấp\n",
+4843|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 113, "Chứng đau đầu（1）");
+4844|<O>| return "Ngọc bội được khắc thần thú trong truyền thuyết, ẩn chứa ma lực vô cùng mạnh mẽ。\nCó thể nâng tín vật môn phái cấp 1 lên cấp 2。\nNgười chơi phải đạt cấp 45 mới có thể dùng Kỳ Lân Ngọc Bội。";

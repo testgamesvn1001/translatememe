@@ -1,0 +1,40 @@
+3552|<O>| tell_user(me, HIY "Ngài đã đổi cấp của %s(%s) từ %s thành %s。", who->get_name(), who->get_id(), class0, class1);
+3553|<O>| //		if ( objectp( item = present("Củ cải", who, 1, MAX_CARRY) ) && item->is_legend_item() == 1 )
+3554|<O>| send_user(who, "%c%s", ';', sprintf("Hồng bảo thạch quý giá  Kinh nghiệm 6000  Tiềm năng 240  Tiền 4800  %s 1", tmp->get_name()));
+3555|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này, khi thực hiện công kích vật lý hoặc pháp thuật，\ngiá trị công kích của nó đều lấy giá trị nhỏ nhất. Còn bên bị thú cưng tấn công，\nphòng ngự vật lý và phòng ngự pháp thuật đều lấy giá trị lớn nhất。";
+3556|<O>| result = sprintf("%s:\n    Quái vật trên đảo này bị người ta thi triển yêu pháp, khiến chúng cao hơn người ba thước, hoàn toàn chẳng sợ loài người. Ngươi nhất định phải mang đủ thuốc men rồi mới đi mạo hiểm nhé～！\n", me->get_name());
+3557|<O>| send_user(who, "%c%s", ';', sprintf("Dâng tấu Hàn Vương  Kinh nghiệm 43000  Tiềm năng 630  Tiền 43000  %s 1", tmp->get_name()));
+3558|<O>| send_user( who, "%c%s", ':', get_name() + ":\n    Công đức của ngươi vẫn chưa đủ……người trẻ còn phải tích thêm nhiều thiện quả, hỗ trợ tân thủ tu luyện thì mới nhận thêm được công đức。" );
+3559|<O>| send_user( who, "%c%c%w%s", ':',3,picid,name+":\n    Ngươi tới bổn môn có việc gì？Nếu tới gây chuyện sinh sự, với tư cách là thủ tịch đại đệ tử của bổn môn, ta nhất định sẽ không tha nhẹ cho ngươi！\n"+
+3560|<O>| (name2 != "Vân Mộng Trạch" && name2 != "Mao Sơn" && name2 != "Thục Sơn" && name2 != "Côn Lôn Sơn" ) ? HIR	: NOR );  break;
+3561|<O>| send_user(who, "%c%s", ';', sprintf("Quỷ hỏa trong sơn đạo  Kinh nghiệm 2800  Tiềm năng 110  Tiền 2000  %s 1", tmp->get_name()));
+3562|<O>| send_user(who, "%c%c%w%s", ':', 3, 5201, "Uy Vũ Đại Tướng Quân:\n    Nuôi quân ngàn ngày, dùng quân một lúc. Chỉ cần ngày thường tăng cường huấn luyện, đến lúc thật sự lên chiến trường mới không loạn trận chân tay。\n" +
+3563|<O>| "Ta muốn dùng đầu của tên ác tặc này để tế oan hồn của người em quá cố của ta！\n"ESC"Hoàn thành nhiệm vụ\ntalk %x# welcome.7\n"ESC"Rời khỏi", me->get_name(), getoid(me)));
+3564|<O>| send_user(player, "%c%c%d%s", 0x43, 6, 0, CHAT + HIY + "Bởi vì thương tổn mà bản thành nhận phải đã vượt quá giới hạn 100 có thể chịu đựng, nhiệm vụ lần này đã hoàn toàn thất bại。");
+3565|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng:20 cấp\nTiêu hao đạo cụ:3 lá bùa giấy\n    Kim quang pháp thuật, tăng 130 điểm công pháp thuật, đồng thời gây sát thương pháp thuật cho toàn bộ địch nhân trong phạm vi 5×5 quanh mục tiêu。";
+3566|<O>| //		if ( who->get_legend(TASK_48,9) && objectp( item = present("Ngọc bội gia tộc", who, 1, MAX_CARRY) ))
+3567|<O>| "Giày A+30" : "\"/item/88/1030\"", "Giày A+40" : "\"/item/88/1040\"", "Giày A+50" : "\"/item/88/1050\"",
+3568|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nTiêu hao nguyên khí:%d\nThời gian hồi:%d giây\n    Tuyệt kỹ đặc biệt của côn pháp, đánh mạnh khiến đối thủ rơi vào trạng thái hôn mê 30 giây。\n",
+3569|<O>| "Sức B+30" : "\"/item/86/2030\"", "Sức B+40" : "\"/item/86/2040\"", "Sức B+50" : "\"/item/86/2050\"",
+3570|<O>| "Intel(R) Xeon(TM) CPU 2.80GHz i386ddeb351601422fe75ea1bc11601422fe75f",	// 221.235.53.22 Vô Song
+3571|<O>| send_user(who, "%c%s", ';', sprintf("Thông báo bách tính  Kinh nghiệm 69000  Tiềm năng 830  Tiền 57000  %s 1", tmp->get_name()));
+3572|<O>| _DEBUG(sprintf("DEBUG -- đã xóa thành công đồng hồ số %d, hiện còn %d đồng hồ", clock_num, sizeof(alarm_clock_now)));
+3573|<O>| int get_use_effect_2_callout(object me, object who, object item, string arg)    // Đồng bộ thay đổi “Phi Hành Phù”
+3574|<O>| case 12: send_user(who, "%c%s", ':', sprintf("%s:\nMỗi người có số mệnh của riêng mình, ta vẫn nên làm tốt bổn phận của chính mình thôi。", me->get_name()));
+3575|<O>| send_user( who, "%c%s", ':', me->get_name() + ":\n    Ngươi đang đùa lão phu à？Muốn đổi vật thay thế thì trước tiên ngươi phải tới chỗ tiên sinh quản sổ bang phái nhận nhiệm vụ dự trữ\n"+
+3576|<O>| send_user(who, "%c%s", ';', sprintf("Khó khăn khi dâng thư  Kinh nghiệm 25500  Tiềm năng 430  Tiền 24000  %s 1", tmp->get_name()));
+3577|<O>| //        if( gone_time( me->get_perform(PF_START) ) < interval ) return 1;    // Cẩn thận chuẩn bị level
+3578|<O>| send_user(who,"%c%s",';',"Ngươi nhận được một Quyển Sách Tiến Giai Kỹ Năng ngẫu nhiên, Nước Thuốc Tiểu Trị Liệu Tốc Hiệu×5, Nước Thuốc Tiểu Hồi Phục Tốc Hiệu×5, Đại Huyết Thạch×1, Đại Pháp Thạch×1, Nhân Sâm×5, Kêu Gọi Hữu Tình×5, Ngọc Linh Dịch×1");
+3579|<O>| OnlineTime = range_value(range_value(OnlineTime, -1, 18000) - sec, 0, 18000);    // Trừ từ mức tối đa năm giờ
+3580|<O>| send_user(who,"%c%c%w%s",':',3,npc->get_char_picid(),npc->get_name()+":\n    Xin hãy chừa đủ chỗ trống trên người!");
+3581|<O>| send_user(who, "%c%c%d%s", '?', 1, 80, sprintf("%s:\nTỷ lệ chia hồng thuế hằng ngày hiện tại là %d%%，xin hỏi ngài muốn sửa thành bao nhiêu？(phạm vi:40～80%%)\n"
+3582|<O>| return sprintf("［Tinh luyện］ Tỷ lệ né pháp thuật %+.2f％\n［Trang bị áp dụng］ Đai lưng、dây chuyền、giày", to_float(me->get_diamond_add()) / 100);
+3583|<O>| "Đai C+30" : "\"/item/87/3030\"", "Đai C+40" : "\"/item/87/3040\"", "Đai C+50" : "\"/item/87/3050\"",
+3584|<O>| "Giày B+30" : "\"/item/88/2030\"", "Giày B+40" : "\"/item/88/2040\"", "Giày B+50" : "\"/item/88/2050\"",
+3585|<O>| //				result = result + ESC +HIY+ "Bái phỏng sư gia\n" + sprintf("talk %x# welcome.30\n", getoid( me ));
+3586|<O>| send_user(who,"%c%c%w%s",':', 3,npc->get_char_picid(),npc->get_name()+":\n    Trên người ngươi không có đủ cầu bài。");
+3587|<O>| if( me->get_no_fight() && !me->cannot_enter_city() ) return 0;    // Ở khu an toàn, và có thể vào thành(khiến người chơi có thể đánh quái vốn không nên vào thành)
+3588|<O>| result += sprintf(ESC"Tiêu hao %d kinh nghiệm，%d tiền\nlearn %s !! %d\n", pot, gold, who->get_char_id(), skill);
+3589|<O>| send_user(me, "%c%s", '!', sprintf("Còn phải cách %d giây nữa mới dùng được Khu Thần Lệnh。", 600 + me->get_save("9541") - time()));
+3590|<O>| "Đai A+30" : "\"/item/87/1030\"", "Đai A+40" : "\"/item/87/1040\"", "Đai A+50" : "\"/item/87/1050\"",
+3591|<O>| send_user(me, "%c%s", '!', sprintf("Dùng Bát Tiên Đan còn phải chờ %d giây", 30 - gone_time(me->get_time("eat_bx"))));

@@ -1,0 +1,33 @@
+2706|<O>| log_file(LIST_LOG, sprintf(htm, pic2, name, level, "Nam、Nữ", "Không", ap, cp, rate, lasting / 100, lasting / 100, value));
+2707|<O>| if (time < 24) result = sprintf("%s:\n    Ngươi còn %d giờ nữa là có thể chọn bước vào lục đạo luân hồi, nhưng ngươi vẫn còn cơ hội hủy bỏ ý định tự sát. Ngươi muốn từ bỏ ý định tự sát không？\n", me->get_name(), time);
+2708|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ai, cuộc sống khó khăn rồi……\n"ESC"Rời khỏi", me->get_name(), ));
+2709|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Mau đi mau về, tình hình khẩn cấp lắm！\n"ESC"Rời khỏi", me->get_name()));
+2710|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Hạ Hầu Đảng không cho ngươi ý kiến sao？\n"ESC"Rời khỏi", me->get_name()));
+2711|<O>| "Vũ Lăng Bí Đạo" : ({ 529, 243, 86 }), "Hành Sơn Bí Đạo" : ({ 528, 185, 47 }), "Âm Sơn" : ({ 513, 154, 216 }), "Âm Sơn Thảo Nguyên" : ({ 512, 177, 213 }),
+2712|<O>| tell_user(who,sprintf("Thời gian hoạt động là:%02d giờ %02d phút－%02d giờ %02d phút",START_ATT_HOUR,START_ATT_MIN,FINISH_ATT_HOUR,FINISH_ATT_MIN));
+2713|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Lần sau ta sẽ không bao giờ tới đó chơi nữa。\n"ESC"Rời khỏi", me->get_name()));
+2714|<O>| send_user(who, "%c%c%w%s", ':', 3, this_object()->get_char_picid(), sprintf("Người truyền tống cảnh cảnh:\n     Ngươi cần truyền tống ra ngoài sao？Ta có thể giúp ngươi rời khỏi nơi thị phi này！\n"
+2715|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Xem ra ngươi phải luyện võ nhiều hơn nữa rồi！\n"ESC"Rời khỏi", me->get_name()));
+2716|<O>| send_user( who, "%c%c%w%s", ':',3,picid,name+":\n    Sư đệ！Sư phụ thấy gần đây ngươi chăm học khổ luyện, quả thực đã góp không ít công sức cho việc phát dương quang đại bổn môn. Sư phụ đã chuẩn bị sẵn vài món bảo vật làm phần thưởng tại đây, nhưng ngươi phải dùng điểm cống hiến môn phái để đổi lấy những phần thưởng này。\n"+
+2717|<O>| "/inh/user/mail"->sys_mail(me->get_id(), me->get_number(), sprintf("Ngươi đã mua thành công %d nguyên bảo, số nguyên bảo tương ứng đã được nạp vào tài khoản của ngài！Cảm ơn sự ủng hộ của ngài, hoan nghênh lần sau ghé lại。", i));
+2718|<O>| send_user( who, "%c%c%w%s", ':',3,me->get_char_picid(), sprintf("%s:\n    Hiện tại vẫn chưa có bang phái nào đăng ký công thành。\n"ESC"Rời khỏi",me->get_name()));
+2719|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi đã có danh hiệu như vậy rồi！\n"ESC"Rời khỏi", me->get_name()));
+2720|<O>| send_user(who, "%c%c%w%s", ':', 3, get_char_picid(), sprintf("%s:\nNể mặt ngươi, bọn ta sẽ không tiếp tục nhòm ngó thành này nữa, ha ha……Hẹn ngày gặp lại。", get_name()));
+2721|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Mau mang qua đó đi, đừng làm mất。\n"ESC"Rời khỏi", me->get_name()));
+2722|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Hoa cúc đâu？Ngươi lấy về cho ta chưa？\n"ESC"Rời khỏi", me->get_name()));
+2723|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Chẳng lẽ không ai có thể giúp hắn sao？\n"ESC"Rời khỏi", me->get_name()));
+2724|<O>| send_user(who, "%c%c%w%s", ':', 3, get_char_picid(), sprintf("%s:\n    Ở chỗ ta ngươi có thể học toàn bộ kỹ năng dược sư có thể học tại nước Triệu đó。\n", get_name()));
+2725|<O>| result = get_name() + ":\n    Ngài có thể dùng "HIR"điểm công đức hoặc điểm cống hiến môn phái"NOR" để đổi lấy thêm thời gian kinh nghiệm gấp đôi. Nhưng "HIR"mỗi tuần nhiều nhất chỉ đổi được 3 lần, mỗi lần một giờ"NOR"。Nhất định đừng bỏ lỡ cơ hội quý giá này nhé。\n";
+2726|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Đồng đội của ngươi không có mặt tại hiện trường！\n"ESC"Rời khỏi", me->get_name()));
+2727|<O>| result=sprintf(me->get_name()+":\nTương truyền sau khi một vị đại tướng nước Tần chết đi, Tần Vương ban thưởng kỳ trân dị bảo làm vật chôn theo. Chính những kỳ trân ấy đã hấp dẫn vô số dũng giả đến thám hiểm, nhưng rốt cuộc đều vì không phá nổi trận thạch dũng trong mộ mà tay trắng quay về！Ngươi cũng muốn thử một phen sao？\n");
+2728|<O>| send_user(who, "%c%c%w%s", ':', 3, get_char_picid(), sprintf("%s:\n    Ở chỗ ta ngươi có thể học toàn bộ kỹ năng khoáng luyện có thể học tại nước Yên đó。\n", get_name()));
+2729|<O>| FAMILY_D->org_channel(name, 0, HIR "Nhờ sự đồng tâm hiệp lực của toàn thể thành viên trong bang, cuối cùng đã đánh lui được đợt tấn công của quái vật, độ an định của bang tăng 300 điểm, độ nổi tiếng tăng 150 điểm, độ huấn luyện giảm 1 điểm. Đồng thời sau 24 giờ, quy mô bang phái sẽ tăng thêm một cấp。");
+2730|<O>| log_file("wu_duty.dat", sprintf("%s %s(%d) nộp thuế %d\n", short_time(), me->get_id(), me->get_number(), price / 100));
+2731|<O>| if( is_god(me) ) tell_user( me, "R%s VS %s, trúng:%d random %d thất bại", me->get_name(), who->get_name(), rate, random );
+2732|<O>| result = sprintf(BLK"Ngày hết hạn của bảo hiểm là %d năm %d tháng %d ngày %d giờ。",mxTmp[TIME_YEAR],mxTmp[TIME_MON]+1,mxTmp[TIME_MDAY],mxTmp[TIME_HOUR]);
+2733|<O>| if (!clonep(me)) return "Vật liệu đặc biệt dùng để cường hóa trang bị, thuộc tính tăng thêm chịu ảnh hưởng bởi cấp độ linh thạch. Linh thạch cùng loại cùng cấp cũng có thể kết hợp với tinh thạch hoặc linh thạch cùng loại cùng cấp để nâng cấp。\n［Tinh luyện］ Phòng vật lý\n［Trang bị áp dụng］ Y phục, đai lưng, dây chuyền, giày, mũ";
+2734|<O>| log_file(LIST_LOG, sprintf(htm, pic2, name, level, "Nam、Nữ", "Cấm Vệ Quân", ap, rate1, lasting / 100, lasting / 100, value));
+2735|<O>| log_file(LIST_LOG, sprintf(htm, pic2, name, level, "Nam、Nữ", "Đường Môn", ap, rate1, lasting / 100, lasting / 100, value));
+2736|<O>| send_user(me, "%c%c%d%s", '?', 16, 60, "Xin hãy nhập thời gian bắt đầu và kết thúc của hoạt động tổng động viên đào bảo（ví dụ:200706190900-200706192300 ）:\n"ESC"party 113.%s\n");
+2737|<O>| sprintf("%s:\n    Muốn thể hiện oai phong giữa đông đảo người chơi sao？Muốn dương danh thiên hạ sao？Muốn giành lấy giải thưởng hậu hĩnh do chính thức trao tặng sao？Hãy đăng ký tham gia hoạt động người chơi vào thứ bảy đi！Chỉ cần phí đăng ký 10000 đồng game, chỉ cần ngươi có thể giành quán quân trong giải PK cá nhân ngày thứ bảy, mọi thứ sẽ không còn là mơ ước nữa！\n"
+2738|<O>| case 3: send_user(who, "%c%s", ':', sprintf("%s:\nĐúng vậy đấy, thằng nhóc nhà ta đang oán trách ta đây, ta bảo nó lén đổi một bộ nhẹ hơn thử xem。(trang bị %+d)", me->get_name(), p *= 10));

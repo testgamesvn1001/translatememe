@@ -1,0 +1,89 @@
+﻿16907|<O>| "水果拼盘" : "\"/item/final/33/1707\"",
+16908|<O>| "初级物防" : "\"/item/final/15/1503\"",
+16909|<O>| desc = "很好吃的荷包蛋，14秒内恢复玩家1120点气血值。";
+16910|<O>| string get_name() { return "桃源村"; }
+16911|<O>| "虎王之爪" : "\"/item/final/70/1115\"",
+16912|<O>| string get_name() { return "御毒术"; }
+16913|<O>| "神龙噬火" : "\"/item/final/74/1100\"",
+16914|<O>| "高级物防" : "\"/item/final/15/1515\"",
+16915|<O>| result += ESC"开放合服补偿\nparty 202\n";
+16916|<O>| desc = "一种烧烤的面饼，20秒内恢复玩家1800点气血值。";
+16917|<O>| string get_name() { return "东海岛"; }
+16918|<O>| desc = "都是苹果的牛肉，14秒内恢复玩家1120点气血值。";
+16919|<O>| me->set_2("jiguan.do", 500);	//	爆击+
+16920|<O>| "永动核心" : "\"/item/final/16/1609\"",
+16921|<O>| string get_name() { return "附妖术"; }
+16922|<O>| ESC "魏国\n" + "findgm setmap 40\n" +
+16923|<O>| string get_name() { return "御命术"; }
+16924|<O>| else if (p < 60)    // 坏的事件(职业经验加倍)
+16925|<O>| string get_name() { return "马踏湖"; }
+16926|<O>| "高级血气" : "\"/item/final/15/1512\"",
+16927|<O>| "极效法攻" : "\"/item/final/15/1528\"",
+16928|<O>| item = new ("/item/08/0015");//干将宝石
+16929|<O>| return "［阴阳五行］提升法术攻击力，每级提升 2 点。\n";
+16930|<O>| "飓风拳套" : "\"/item/final/70/1090\"",
+16931|<O>| gold = obj->get_money();    // 钱票的钱
+16932|<O>| ESC"离开", who->get_name(), id, id));
+16933|<O>| "血饮狂刀" : "\"/item/final/72/1060\"",
+16934|<O>| item = new("item/std/5211");		//鹤顶红
+16935|<O>| tell_user(me, "ＩＰ是 %s 的玩家有:", arg);
+16936|<O>| case "老板": type = "SELLER";  break;
+16937|<O>| string get_name() { return "东海岸"; }
+16938|<O>| "高级物攻" : "\"/item/final/15/1514\"",
+16939|<O>| case "布衣": type = "F_BUYI";  break;
+16940|<O>| "星梅点点" : "\"/item/final/71/1115\"",
+16941|<O>| "耀日神针" : "\"/item/final/71/1100\"",
+16942|<O>| item = new ("/item/01/0202");//紫金宝箱
+16943|<O>| "追星赶月" : "\"/item/final/72/1110\"",
+16944|<O>| string get_name() { return "上庸关"; }
+16945|<O>| "玄铁钥匙" : "\"/item/final/16/1630\"",
+16946|<O>| ESC"查看已交令牌数目\ntalk %x# welcome.7\n"
+16947|<O>| result += ESC"设置活动时间\nparty 123\n";
+16948|<O>| else if (arrayp(team2))    // 对方有队伍
+16949|<O>| + sprintf(ESC"检查活动状态\nparty 160\n")
+16950|<O>| ESC "禁锢玩家\n" + "gmfight busy ?\n" +
+16951|<O>| "破军蛇矛" : "\"/item/final/74/1105\"",
+16952|<O>| "钻石星尘" : "\"/item/final/70/1105\"",
+16953|<O>| "极效物防" : "\"/item/final/15/1527\"",
+16954|<O>| ESC"个人参加长平之战\ntalk %x# welcome.1\n"
+16955|<O>| if (remove_from_user())    // 是否在身上
+16956|<O>| "雷光拳套" : "\"/item/final/70/1080\"",
+16957|<O>| else if (npc->get_name() == "陵墓宝箱")
+16958|<O>| "高爆炸弹" : "\"/item/final/16/1617\"",
+16959|<O>| string get_name() { return "海滨2"; }
+16960|<O>| sprintf("%s:\n    你的现金不足%d，无法鉴定%s。"
+16961|<O>| return "增加制造物品数值提升几率的道具，增加20%的成功率";
+16962|<O>| string get_name() { return "封神台"; }
+16963|<O>| "初级法防" : "\"/item/final/15/1505\"",
+16964|<O>| notify( "在学习这样技能之前，您得先学会“中医药理”。" );
+16965|<O>| result += ESC"检查活动状态\nparty 156\n";
+16966|<O>| write_user(who, ECHO "您获得1000金钱。");
+16967|<O>| "初级血气" : "\"/item/final/15/1500\"",
+16968|<O>| write_user(me, ECHO "您一不小心让鱼溜走了。");
+16969|<O>| return "［金刚不坏］自动减少物理攻击对自身造成的伤害。\n";
+16970|<O>| notify( "在学习这样技能之前，您得先学会“道家学说”。" );
+16971|<O>| if (inv[i]->get_name() != "战国劳动奖章")
+16972|<O>| ESC "我要鉴定装备\nrepair %x# identify\n"
+16973|<O>| return "任务物品。请尽快交与东海岛东北方的极限穿越审查官。";
+16974|<O>| return "这是你成功捕获的月兔，很有可能会是玉兔所伪装的哟。";
+16975|<O>| "玄铁炸弹" : "\"/item/final/16/1631\"",
+16976|<O>| result += ESC "换取额外的双倍时间\n" + cmd6;
+16977|<O>| "一缕情思一颗红豆，月圆时分我会让玉兔送去我特制的月饼！中秋快乐！",
+16978|<O>| string get_name() { return "大别山"; }
+16979|<O>| "高级法力" : "\"/item/final/15/1513\"",
+16980|<O>| "中级血气" : "\"/item/final/15/1508\"",
+16981|<O>| else    total = 1;    // 非叠加物品数量为 1
+16982|<O>| #define THIS_SORT      	4				// 小类别
+16983|<O>| string get_name() { return "云梦泽"; }
+16984|<O>| return "［潜隐心法］提升法术力上限，每级提升1.6点。\n";
+16985|<O>| SAY_CMD->say(me, "让你们尝试下上古太拳的厉害！");
+16986|<O>| name2 != "蜀山"	? HIR :	NOR );	break;
+16987|<O>| "天玑拳套" : "\"/item/final/70/1120\"",
+16988|<O>| return "持续1小时内变身为燕军剑兵，可提升2%法术攻击力。";
+16989|<O>| string get_name() { return "无双宫"; }
+16990|<O>| case "僵尸": type = "ZOMBIE";  break;
+16991|<O>| "中级法力" : "\"/item/final/15/1506\"",
+16992|<O>| "强效法攻" : "\"/item/final/15/1523\"",
+16993|<O>| //	for(i=0;i<number*4;i++)	//4个游魂祸害
+16994|<O>| return "持续1小时内变身为高级天兵，可提升2%物理防御力。";
+16995|<O>| ESC"如何精炼装备？\ntalk %x# welcome.53\n"

@@ -1,0 +1,58 @@
+﻿8142|<O>| /*              else if( p < 3000 * rate / 100 )    // 武器(基本)
+8143|<O>| private int CP0, CP;                            // 法术攻击(Cast)
+8144|<O>| /*              else if( p < 7367 * rate / 100 )    // 武器(基本)
+8145|<O>| /*              else if( p < 8938 * rate / 100 )    // 防具(基本)
+8146|<O>| /*              else if( p < 7412 * rate / 100 )    // 防具(基本)
+8147|<O>| /*              else if( p < 4921 * rate / 100 )    // 武器(基本)
+8148|<O>| /*              else if( p < 7752 * rate / 100 )    // 防具(基本)
+8149|<O>| /*              else if( p < 3076 * rate / 100 )    // 武器(基本)
+8150|<O>| /*              else if( p < 5690 * rate / 100 )    // 武器(基本)
+8151|<O>| private int SP;                                 // 腾挪躲闪("sp")
+8152|<O>| case 45: result = "山西土匪头目";  pic = 0251;  level2 = 2;  break;
+8153|<O>| /*              else if( p < 5284 * rate / 100 )    // 武器(基本)
+8154|<O>| /*              else if( p < 5978 * rate / 100 )    // 防具(基本)
+8155|<O>| /*              else if( p < 2907 * rate / 100 )    // 武器(基本)
+8156|<O>| /*              else if( p < 7886 * rate / 100 )    // 防具(基本)
+8157|<O>| /*              else if( p < 4924 * rate / 100 )    // 武器(门派)
+8158|<O>| /*              else if( p < 9326 * rate / 100 )    // 防具(基本)
+8159|<O>| + sprintf(ESC"输入领奖码获取奖励\ntalk %x# inputx\n"ESC"离开", id, id));
+8160|<O>| /*              else if( p < 9208 * rate / 100 )    // 武器(门派)
+8161|<O>| return HIR + PF_NAME + "\n技能需求:3级\n    挑衅一个怪物，让其在6秒内不断地攻击你。";
+8162|<O>| result2 = sprintf("%s(进行中……)\nCLOSE\n", task[i]->get_name());
+8163|<O>| /*              else if( p < 6732 * rate / 100 )    // 武器(基本)
+8164|<O>| send_user(me, "%c%s", '!', "您已经习得法术" + book + "，无需再使用该书籍了。");
+8165|<O>| /*              else if( p < 5523 * rate / 100 )    // 防具(基本)
+8166|<O>| /*              else if( p < 6814 * rate / 100 )    // 防具(基本)
+8167|<O>| /*              else if( p < 4508 * rate / 100 )    // 防具(基本)
+8168|<O>| send_user(who, "%c%s", ';', "出使之难 经验 16500 潜能 370 金钱 16000");
+8169|<O>| if( objectp( soldier = who->get("soldier") ) )    // 其它天兵攻击目标
+8170|<O>| /*              else if( p < 9195 * rate / 100 )    // 防具(基本)
+8171|<O>| /*              else if( p < 4360 * rate / 100 )    // 防具(门派)
+8172|<O>| send_user(who, "%c%s", ';', "威慑对手 经验 67000 潜能 790 金钱 53000");
+8173|<O>| /*              else if( p < 9208 * rate / 100 )    // 防具(基本)
+8174|<O>| /*              else if( p < 3043 * rate / 100 )    // 防具(基本)
+8175|<O>| /*              else if( p < 9012 * rate / 100 )    // 防具(基本)
+8176|<O>| more_look_menu(me, who, who->get_name() + ":\n你找我有什么事情吗？\n");
+8177|<O>| /*              else if( p < 3510 * rate / 100 )    // 防具(基本)
+8178|<O>| /*              else if( p < 3334 * rate / 100 )    // 防具(基本)
+8179|<O>| DEBUG(sprintf("测试-->if当前玩家%s name=%s",type,who->get_name()));
+8180|<O>| /*              else if( p < 1100000 * rate / 100 )    // 杂物５
+8181|<O>| /*              else if( p < 6300 * rate / 100 )    // 武器(基本)
+8182|<O>| /*              else if( p < 4664 * rate / 100 )    // 武器(门派)
+8183|<O>| /*              else if( p < 8958 * rate / 100 )    // 防具(基本)
+8184|<O>| /*              else if( p < 2368 * rate / 100 )    // 武器(基本)
+8185|<O>| /*              else if( p < 1080000 * rate / 100 )    // 杂物５
+8186|<O>| /*              else if( p < 8810 * rate / 100 )    // 武器(基本)
+8187|<O>| send_user(who, "%c%s", ';', "打听消息 经验 13000 潜能 350 金钱 12000");
+8188|<O>| send_user(who, "%c%s", ';', "助人为乐 经验 20000 潜能 220 金钱 25000");
+8189|<O>| || get_effect(who, EFFECT_CHAR_FAINT_0)) return 2;    // 执行成功
+8190|<O>| send_user(who, "%c%s", ';', "寻宝历险 经验 71000 潜能 910 金钱 62000");
+8191|<O>| /*              else if( p < 3038 * rate / 100 )    // 武器(基本)
+8192|<O>| /*              else if( p < 6770 * rate / 100 )    // 武器(基本)
+8193|<O>| result = sprintf(HIY "%s发布了招贤令，诚邀天下能人异士晋见。", me->get_name());
+8194|<O>| /*              else if( p < 6700 * rate / 100 )    // 防具(基本)
+8195|<O>| /*              else if( p < 3008 * rate / 100 )    // 防具(基本)
+8196|<O>| send_user(who, "%c%s", ';', "侍卫亡灵 经验 45000 潜能 640 金钱 44500");
+8197|<O>| /*              else if( p < 2770 * rate / 100 )    // 武器(门派)
+8198|<O>| /*              else if( p < 2897 * rate / 100 )    // 防具(基本)
+8199|<O>| /*              else if( p < 6929 * rate / 100 )    // 防具(基本)

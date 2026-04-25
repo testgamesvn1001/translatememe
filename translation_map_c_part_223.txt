@@ -1,0 +1,54 @@
+﻿6749|<O>| } else if(rate < 9951 ) {	//	iii.	10% tỷ lệ rơi Tiểu Huyết Thạch		//8-23	xi.	5% tỷ lệ rơi Tiểu Huyết Thạch
+6750|<O>| tmp += sprintf(ESC HIY "Thăm dò tung tích\ntalk %x# welcome.13\n", getoid(me));
+6751|<O>| tmp = sprintf(ESC HIY "Âm phong ở Trịnh Quốc Cừ\ntalk %x# welcome.1\n", getoid(me));
+6752|<O>| result += sprintf(ESC "Bành Thành\ntalk %x# welcome.10 Bành Thành\n", getoid(me));
+6753|<O>| result += sprintf(ESC "Đồng Quan\ntalk %x# welcome.10 Đồng Quan\n", getoid(me));
+6754|<O>| case "Thục Sơn" : if( type != SWORD && type!=BLADE  ) flag = -1;  break;
+6755|<O>| tmp += sprintf(ESC HIY "Thượng tấu Triệu Vương\ntalk %x# welcome.13\n", getoid(me));
+6756|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_CHUGUO,3,"Tiêu diệt Bốn Chân Xà" );
+6757|<O>| tmp += sprintf(ESC HIY "Kiến nghị của Ngự Sử\ntalk %x# welcome.8\n", getoid(me));
+6758|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 8, "Huynh đệ tình thâm");
+6759|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 34, "Mất mà tìm lại được");
+6760|<O>| result += sprintf(ESC "Tiểu Bái\ntalk %x# welcome.10 Tiểu Bái\n", getoid(me));
+6761|<O>| tmp += sprintf(ESC HIY "Phỉ báng chân hung\ntalk %x# welcome.12\n", getoid(me));
+6762|<O>| tmp += sprintf(ESC HIY "Sự hối tiếc của vệ binh\ntalk %x# welcome.4\n", getoid(me));
+6763|<O>| tmp += sprintf(ESC HIY "Tướng Tần bác bỏ tin đồn\ntalk %x# welcome.12\n", getoid(me));
+6764|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 75, "Hỏi giá cả");
+6765|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 37, "Hoa hồng");
+6766|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 8, "Bá vương hà đạo");
+6767|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 67, "Tâm nguyện");
+6768|<O>| ret = CHAR_FIGHT_D->attack_done(me, who, HIT_STICK);    // Cẩn thận chuẩn bị me
+6769|<O>| tmp += sprintf(ESC HIY "Ngọc trong cổ mộ\ntalk %x# welcome.1\n", getoid(me));
+6770|<O>| private mapping Skills_0 = ([]);       // Cấp kỹ năng (Trước khi chuyển sinh)  // Khi chuyển sinh, ghi lại kỹ năng môn phái
+6771|<O>| send_user(who, "%c%s", '!', "Đẩy ra " + me->get_name() + " cần 10 điểm Pháp lực.");
+6772|<O>| tmp += sprintf(ESC HIY "Như Ý Ngọc Bài\ntalk %x# welcome.25\n", getoid(me));
+6773|<O>| who->get_name() + ":\n    Bạn nhận được một " + item->get_name() + "，5 vạn vàng。\n");
+6774|<O>| tmp += sprintf(ESC HIY "Bẩm báo Triệu Vương\ntalk %x# welcome.19\n", getoid(me));
+6775|<O>| who->log_money("Tranh cử", -price);    // FIX: SCHOOL-L1 - add log_money
+6776|<O>| //                                ESC "Tôi cần tu sửa đặc biệt hoàn mỹ\nrepair %x# 1\n"
+6777|<O>| result += sprintf(ESC "Chiêu mộ lính đánh thuê\ntalk %x# welcome.50\n", getoid(who));
+6778|<O>| result += sprintf(ESC "Đông Võ\ntalk %x# welcome.10 Đông Võ\n", getoid(me));
+6779|<O>| me->get_number(), sprintf( CYN "%s nói:%s", me->get_name(), arg ) );
+6780|<O>| tmp += sprintf(ESC HIY "Lời nhắn của Vương Khải\ntalk %x# welcome.1\n", getoid(me));
+6781|<O>| tmp += sprintf(ESC HIY "Gỗ làm giường\ntalk %x# welcome.1\n", getoid(me));
+6782|<O>| write_user(who, ECHO + me->get_name() + " kêu lên: “Đại hiệp tha cho tôi đi, tôi không dám trộm đồ nữa đâu!”\n"
+6783|<O>| if (team[index]->get_number() == me->get("task"))//Trong đội viên có người chơi đã thả ra cướp.
+6784|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 39, "Dọn bãi");
+6785|<O>| tmp += sprintf(ESC HIY "Gia vị nấu cá\ntalk %x# welcome.8\n", getoid(me));
+6786|<O>| send_user(who, "%c%s", '!', sprintf("Kỹ năng khai khoáng của bạn không đủ cấp %d!", SKILL_LEVEL));
+6787|<O>| tmp += sprintf(ESC HIY "Hỏi thăm chiến quả\ntalk %x# welcome.18\n", getoid(me));
+6788|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 45, "Hỏi thăm tiểu thương");
+6789|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 36, "Minh biện thị phi");
+6790|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 3,iTask,iKind,"Đã không còn thời gian dư" );
+6791|<O>| tmp += sprintf(ESC HIY "Bái phỏng Tướng Tần\ntalk %x# welcome.15\n", getoid(me));
+6792|<O>| send_user(who, "%c%s", ';', "Kẻ phản quốc Kinh nghiệm 7100 Tiềm năng 270 Kim tiền 6200 Bom nổ mạnh 5");
+6793|<O>| ||      get_effect(who, EFFECT_CHAR_SLOW_0) ) return 2;    // Thực hiện thành công
+6794|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 49, "Thông cáo bách tính");
+6795|<O>| sprintf("%s:\n     Tuần này bạn đã tích lũy nhận quá 4 giờ phần thưởng kinh nghiệm nhân đôi, hãy đợi %d tiếng nữa rồi quay lại nhận. \n"
+6796|<O>| result += sprintf(ESC "Vũ Quan\ntalk %x# welcome.10 Vũ Quan\n", getoid(me));
+6797|<O>| result = sprintf(HIY "Thành chủ %s thiết lập thuế mua vào cho người nước ngoài là %d%%。", who->get_name(), tax);
+6798|<O>| send_user(who, "%c%s", ';', "Lừa đảo chiêu trò Kinh nghiệm 1000 Tiềm năng 70 Kim tiền 1200 Bản vẽ Sa Trường Giáp 1");
+6799|<O>| case "Sở Quốc": cmd1 = sprintf("talk %x# advice.?.%d.1\n", id, number);
+6800|<O>| tmp += sprintf(ESC HIY "Nguồn gốc tội ác\ntalk %x# welcome.9\n", getoid(me));
+6801|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 3, "Truyền thuyết hà đạo");
+6802|<O>| tmp += sprintf(ESC HIY "Trần thuật thực tình\ntalk %x# welcome.10\n", getoid(me));

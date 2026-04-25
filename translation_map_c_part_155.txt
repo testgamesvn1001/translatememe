@@ -1,0 +1,40 @@
+3472|<O>| //				result = result + ESC +HIY+ "Mỹ sai của Vương bộ đầu\n" + sprintf("talk %x# welcome.32\n", getoid( me ));
+3473|<O>| case 2: send_user(who, "%c%s", ':', sprintf("%s:\nTrong thành đang bận xây dựng, ngươi hãy tới chỗ quan tài chính giúp tính sổ mấy ngày đi。\n", me->get_name()));
+3474|<O>| return sprintf(HIR"%s và %s là kẹo cưới vào ngày %s năm %s tháng %s。\nDùng xong khí huyết và ma pháp hồi đầy, đồng thời có xác suất nhất định nhận được thưởng thêm。", name1, name2, x, y, z);
+3475|<O>| if (flag && (obj[i]->get_no_drop() || obj[i]->get_no_give()))    // NPC không chịu hạn chế no_drop, no_give
+3476|<O>| send_user(me, "%c%w%w%c%w", 0x07, x0, y0, 5, current_count - get_heart_timer(me));    // Dấu thời gian không đúng
+3477|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), me->get_name() + ":\n    Mau đi truy bắt phạm nhân đi！");
+3478|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi đã làm nhiệm vụ Thất Tịch rồi, không thể nhận nữa\n"
+3479|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng:40 cấp\n    Tức thì phóng ra vô số ám khí tấn công, gây sát thương lên toàn bộ địch nhân trong phạm vi 5×5 quanh mục tiêu. Sau khi kỹ năng đạt cấp 70, phạm vi tấn công mở rộng lên 7×7。";
+3480|<O>| ret += sprintf("%sTai mèo\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"猫耳"))?PPM:WHT);
+3481|<O>| send_user(who, "%c%s", ';', sprintf("Tiếng khóc trong chân núi Đại Cô Sơn  Kinh nghiệm 2700  Tiềm năng 100  Tiền 2000  %s 1", tmp->get_name()));
+3482|<O>| me->get_name() + ":\n    Mã serial nhận thưởng của ngươi là:\n    " + tmp + "\n    Dựa vào mã này, trong server nội trắc, sau khi đạt cấp 20, có thể nhận các gói quà lớn khác nhau. Hãy ghi nhớ kỹ。");
+3483|<O>| send_user(who, "%c%s", ';', sprintf("Đại Hồ Lô（5）  Kinh nghiệm 10000  Tiềm năng 680  Tiền 15000  %s 1", tmp->get_name()));
+3484|<O>| send_user(who, "%c%s", ';', sprintf("Cầu cứu bất đắc dĩ（4）  Kinh nghiệm 4500  Tiềm năng 145  Tiền 3900  %s 1", tmp->get_name()));
+3485|<O>| return "Pháp khí của Nguyên Thủy Thiên Tôn, tương truyền được đúc từ hàn thiết ngàn năm, có thể khóa chặt vạn vật thế gian。\nCó thể khóa vật phẩm trong 14 ngày。\nTrong thời gian đó, vật phẩm này sẽ không thể bị giao dịch, mua bán hay vứt bỏ。\nCách dùng: kéo thả nó lên vật phẩm cần khóa。";
+3486|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngân hà vạn dặm nước biếc cuồn cuộn, đêm đêm trời xanh ngóng hôm nay。\n"
+3487|<O>| send_user(me, "%c%s", ':', sprintf("Ngài muốn phong bế kênh nào của %s(%d)？\n", who->get_name(), who->get_number()) +
+3488|<O>| ret += sprintf("%sNgự Tỷ\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"御姐"))?PPM:WHT);
+3489|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi có thể dùng một quả cầu đen đổi các phần thưởng sau:\n"
+3490|<O>| send_user( who, "%c%s", ':', me->get_name() + ":\n    Cấp độ hiện tại của ngươi vẫn còn quá thấp, đợi sau cấp 10 rồi hãy quay lại tìm ta, chỗ ta có vài công việc muốn giao cho ngươi làm。\n"
+3491|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    Lão tiêu đầu Úy Trì của Kinh Đô Tiêu Cục nước Chu võ nghệ cao cường, tính cách hào sảng, đúng là một hảo hán！\n", get_name(), )
+3492|<O>| send_user(me, "%c%s", ':', sprintf("Ngài muốn quản lý kênh nào của %s(%d)？\n", who->get_name(), who->get_number()) +
+3493|<O>| if (0 > add_alarm_clock("second", "5", "second", ({ "do_nothing","Giữa chừng thêm một hàm kiểm tra thành công！" }), 3, 1)) {
+3494|<O>| mapping mpPet = (["Thạch sư":0700, "Thạch hổ" : 0701, "Đao dũng" : 0850, "Cung tiễn thạch dũng":0853, "Thương dũng":0852, "Kiếm dũng":0851, ]);
+3495|<O>| if (me->get_enemy() == who || me->get_attack_mode() != 1)    // !me->get_attack_mode()  công kích không hạn chế
+3496|<O>| case 8: send_user(who, "%c%s", ':', sprintf("%s:\nKhông thể nói vậy được, ta thấy thành chủ của chúng ta vẫn là người rất tốt。", me->get_name()));
+3497|<O>| if (gone_time(me->get_login_time()) < 25) USER_TASK_D->auto_give_task(me);    // Chỉ lúc đăng nhập(cố ý dư 5 giây)
+3498|<O>| else    write_user(who, ECHO "%s(%d) lấy %s giao dịch với ngươi。", me->get_name(), me->get_number(), result[0]);
+3499|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng:12 cấp\nTiêu hao đạo cụ:1 lá bùa giấy\n    Điều khiển Thiên Sư Ngũ Lôi Thần Chú tấn công một kẻ địch, tăng 30 điểm công pháp thuật, đồng thời khiến hắn rơi vào trạng thái choáng 1 giây。";
+3500|<O>| cmd1 = sprintf(ESC "Lương của thành chủ ta。(%d vàng)\ntalk %x# salary.1.?\n", city->get_save_2("salary.1"), id);
+3501|<O>| //        if( con2 > 1 || spi2 > 1 || str2 > 1 || cps2 > 1 || dex2 > 1 ) return 1;    // Từng chút một
+3502|<O>| send_user(who, "%c%s", ';', sprintf("Nhận thưởng  Tiền 20000  %s 1  Chiến Quốc Lệnh 1  %s 1", res1, res2->get_name()));
+3503|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi có thể dùng một quả cầu đỏ đổi các phần thưởng sau:\n"
+3504|<O>| /*                              d = gone_time( user->get_last_on() ) / 3600 / 24;    // Ｘ ngày không lên tuyến
+3505|<O>| send_user(who, "%c%s", ';', sprintf("Bẩm báo Ngụy Vương  Kinh nghiệm 81000  Tiềm năng 1100  Tiền 71000  %s 1", tmp->get_name()));
+3506|<O>| send_user(me, "%c%c%d%s", '?', 16, 60, "Xin hãy nhập thời gian kết thúc hoạt động tứ sắc cầu(ví dụ:200707190900):\n"ESC"party 56.%s\n");
+3507|<O>| "Trong lúc hoảng hốt chỉ đành dùng Phi Hành Phù chạy trốn, trở về mới phát hiện đã làm rơi cây kim thêu của Cầm Bảo Trai nước Tề mà phu nhân dặn ta đi mua ở góc nào đó. Giờ phu nhân trách tội, mỗi ngày về nhà ta đều phải nghe pháp môn niệm chú của phu nhân hơn một canh giờ, khổ không chịu nổi. Hiện giờ cơ hội thử thách ngươi đã tới，"
+3508|<O>| return sprintf("［" PF_NAME "］Trong thời gian duy trì, khiến bản thân tăng thêm 20％ phòng ngự vật lý. Tiêu hao pháp lực:%d，tiêu hao nguyên khí:%d, lần dùng kế tiếp cần cách %d giây，%s%d cấp có thể dùng\n",
+3509|<O>| send_user(who, "%c%s", ';', sprintf("Đại triển thần uy（5）  Kinh nghiệm 9000  Tiềm năng 330  Tiền 8000  %s 1", tmp->get_name()));
+3510|<O>| if (who->get_temp_sp("mascot")) prop += ({ sprintf("Tốc độ:%+5d", who->get_temp_sp("mascot")) });
+3511|<O>| tmp = sprintf("Xin hãy nhập số phiếu ngươi bầu cho đội %s\n"ESC"talk %x# bet.%d.%d.%d",name,getoid(npc),2,id,team)+".%s\n";

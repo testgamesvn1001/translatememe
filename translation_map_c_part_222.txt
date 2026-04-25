@@ -1,0 +1,54 @@
+﻿6695|<O>| tmp += sprintf(ESC HIY "Con đường tìm kiếm bảo kiếm\ntalk %x# welcome.15\n", getoid(me));
+6696|<O>| tmp += sprintf(ESC HIY "Căn bệnh lạ của phu nhân\ntalk %x# welcome.7\n", getoid(me));
+6697|<O>| tmp += sprintf(ESC HIY "Thách thức bản thân\ntalk %x# welcome.11\n", getoid(me));
+6698|<O>| tmp += sprintf(ESC HIY "Thăm dò nguyên nhân\ntalk %x# welcome.37\n", getoid(me));
+6699|<O>| DEBUG(sprintf("Kiểm tra-->else if người chơi hiện tại %s tên=%s",type,who->get_name()));
+6700|<O>| tmp = sprintf(ESC HIY "Vụ án treo ở Hồ Khẩu Thôn\ntalk %x# welcome.1\n", getoid(me));
+6701|<O>| send_user(who, "%c%s", '!', sprintf("Còn lại %d mục tiêu chưa hoàn thành。", 4 - status));
+6702|<O>| tmp += sprintf(ESC HIY "Con đường bái phỏng\ntalk %x# welcome.13\n", getoid(me));
+6703|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 38, "Bảo kiếm");
+6704|<O>| tmp += sprintf(ESC HIY "Diện kiến Triệu Vương Thiên\ntalk %x# welcome.3\n", getoid(me));
+6705|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 40, "Sâu sát dân gian");
+6706|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 37, "Uy hiếp đối thủ");
+6707|<O>| tmp += sprintf(ESC HIY "Báo đáp Đại Vương\ntalk %x# welcome.15\n", getoid(me));
+6708|<O>| tmp += sprintf(ESC HIY "Cướp bóc đánh gia\ntalk %x# welcome.19\n", getoid(me));
+6709|<O>| result += sprintf(ESC "Hán Trung\ntalk %x# welcome.10 Hán Trung\n", getoid(me));
+6710|<O>| return PF_FILE_04232->perform_action_npc(this_object(), who); //Ngũ Lôi
+6711|<O>| else    more_look_menu(who, get_name() + ":\nHôm nay bạn đã mệt thế này rồi, hay là về nhà nghỉ ngơi đi。\n");
+6712|<O>| tmp = sprintf(ESC HIY "Nỗi phiền muộn của Nội chính quan\ntalk %x# welcome.1\n", getoid(me));
+6713|<O>| result += sprintf(ESC "Dịch Kinh\ntalk %x# welcome.10 Dịch Kinh\n", getoid(me));
+6714|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 30, "Thăm hỏi Tướng quân");
+6715|<O>| send_user(who, "%c%s", ';', "Chuyện lạ hồ nước Kinh nghiệm 2500 Tiềm năng 90 Kim tiền 1800 Bản vẽ Ngọc Dung Cao 1");
+6716|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 27, "Tiếp nhận khảo nghiệm");
+6717|<O>| send_user(me, "%c%s", ':', sprintf("%s(%x#) tốc độ đi bộ: %d.%d giây, vui lòng nhập giá trị mới:\n",
+6718|<O>| tmp += sprintf(ESC HIY "Phát hiện đáng sợ\ntalk %x# welcome.1\n", getoid(me));
+6719|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 1, 2,TID_VALENTINE,3,"Cầu tìm" );
+6720|<O>| tmp += sprintf(ESC HIY "Trần thuật oan tình\ntalk %x# welcome.12\n", getoid(me));
+6721|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 18, "Có chuẩn bị thì không sợ tai họa");
+6722|<O>| result += sprintf(ESC "Ô Giang\ntalk %x# welcome.10 Ô Giang\n", getoid(me));
+6723|<O>| result = sprintf("%s:\n    Trên người bạn có vật phẩm quý giá, ta tạm thời không tiếp đãi。\n", who->get_name());
+6724|<O>| send_user( who, "%c%c%w%s", ':',3,picid,name+":\n    Bạn đã tham gia tranh cử rồi！\n"+
+6725|<O>| tmp += sprintf(ESC HIY "Nỗi phiền muộn của phu khuân vác\ntalk %x# welcome.1\n", getoid(me));
+6726|<O>| tmp += sprintf(ESC HIY "Hỏi thăm nguyên do\ntalk %x# welcome.20\n", getoid(me));
+6727|<O>| tmp += sprintf(ESC HIY "Trời đông giá rét\ntalk %x# welcome.12\n", getoid(me));
+6728|<O>| tmp += sprintf(ESC HIY "Tráng đinh đào tẩu\ntalk %x# welcome.1\n", getoid(me));
+6729|<O>| send_user(who, "%c%s", ':', "Bạn cùng " + me->get_name() + " đàm luận về chuyện Phó thành chủ。\n"
+6730|<O>| tmp += sprintf(ESC HIY "Thăm dò dân tình\ntalk %x# welcome.42\n", getoid(me));
+6731|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 56, "Luận Ngữ");
+6732|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 42, "Độc hành cổ mộ");
+6733|<O>| tmp += sprintf(ESC HIY "Bái phỏng Tướng Tần\ntalk %x# welcome.12\n", getoid(me));
+6734|<O>| nSkill1 -= ({ 430,431,432,433,434,435,436,437,438, });	//Loại bỏ các kỹ năng không thể tăng thêm
+6735|<O>| result += sprintf(ESC "Tức Mặc\ntalk %x# welcome.10 Tức Mặc\n", getoid(me));
+6736|<O>| tmp += sprintf(ESC HIY "Tìm kiếm chiến báo\ntalk %x# welcome.32\n", getoid(me));
+6737|<O>| tmp += sprintf(ESC HIY "Tướng Tần bác bỏ tin đồn\ntalk %x# welcome.10\n", getoid(me));
+6738|<O>| tell_user(me, HIR "Bạn hét lớn một tiếng: “Chết đi！”, biến " + who->get_name() + " thành một đống tro tàn。");
+6739|<O>| tmp += sprintf(ESC HIY "Khổ sai phản loạn\ntalk %x# welcome.4\n", getoid(me));
+6740|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 16, "Tìm kiếm quan ấn");
+6741|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 41, "Thương nhân than vãn");
+6742|<O>| case "Hàn Quốc": cmd1 = sprintf("talk %x# advice.?.%d.1\n", id, number);
+6743|<O>| tmp += sprintf(ESC HIY "Bẩm báo Tề Vương\ntalk %x# welcome.10\n", getoid(me));
+6744|<O>| result += sprintf(ESC "Âm Sơn\ntalk %x# welcome.10 Âm Sơn\n", getoid(me));
+6745|<O>| result = sprintf("%s:\n    Cấp độ huấn luyện của bộ đội không thể vượt quá cấp độ của tổng quản。\n", who->get_name());
+6746|<O>| tmp += sprintf(ESC HIY "Mỹ tửu ngon lành\ntalk %x# welcome.10\n", getoid(me));
+6747|<O>| tmp += sprintf(ESC HIY "Trừ hại cho dân\ntalk %x# welcome.19\n", getoid(me));
+6748|<O>| tmp += sprintf(ESC HIY "Phòng ngừa tiết lộ bí mật\ntalk %x# welcome.24\n", getoid(me));

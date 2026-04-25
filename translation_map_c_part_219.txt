@@ -1,0 +1,53 @@
+﻿6535|<O>| send_user(who, "%c%c%d%s", 0x43, 10, 0, HIY "Thời gian kinh nghiệm nhân đôi của bạn đã được gửi tại Thần Tiên Gia Gia.");
+6536|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 42, "Chân Tướng Đại Bạch");
+6537|<O>| case "Hàn Quốc": return sprintf("data/org-2/%s%s", name, SAVE_EXTENSION);
+6538|<O>| tmp += sprintf(ESC HIY "Khô lâu ở Vạn Nhân Khanh\ntalk %x# welcome.1\n", getoid(me));
+6539|<O>| //                me->set_force_command("pf " + arg);    // Tạm lưu mệnh lệnh kỹ năng đặc biệt
+6540|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 11, "Con đường rèn đúc");
+6541|<O>| if (gone_time(who->get_save_2("relation.time")) < 2400)    // 40 phút
+6542|<O>| tmp += sprintf(ESC HIY "Kẻ vong ơn bội nghĩa\ntalk %x# welcome.5\n", getoid(me));
+6543|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 53, "Hỏi thăm tình hình");
+6544|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 21, "Hiến kế góp sức");
+6545|<O>| case 11: send_user(who, "%c%s", ':', "Bạn:\nQuặng sắt là thứ tốt đấy, nghe nói bán ra bên ngoài có thể kiếm được rất nhiều tiền.");
+6546|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 41, "Vạn chúng kính ngưỡng");
+6547|<O>| void delete_boss(object npc) { dbBOSS -= ({ npc, 0 }); }    // Dùng cho mê hồn
+6548|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 3, "Nỗi phiền muộn của Ngự Sử");
+6549|<O>| tmp += sprintf(ESC HIY "Sự trỗi dậy của Đại Tề\ntalk %x# welcome.17\n", getoid(me));
+6550|<O>| log_file(MANAGER_LOG, sprintf("%s %s(%d)%s bổ nhiệm %s(%d)%s làm quản lý kênh。\n",
+6551|<O>| if ( sizeof(org_name) &&  org_name == who->get_org_name() )	//Bang phái chiếm đóng
+6552|<O>| tell_user(me, "Bạn hiện đang ở:%d (%d, %d)", get_z(me), get_x(me), get_y(me));
+6553|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 45, "Thu thập đại táo");
+6554|<O>| send_user(who, "%c%s", ';', "Kỳ văn trong mộng Kinh nghiệm 5000 Tiềm năng 180 Kim tiền 4500 Bản vẽ Hoán Vân Hài 1");
+6555|<O>| tmp += sprintf(ESC HIY "Linh quang trong đêm tối\ntalk %x# welcome.4\n", getoid(me));
+6556|<O>| result += sprintf(ESC "Truyền tống đến bản đồ luyện cấp 15-19\ntalk %x# welcome.200\n", id);
+6557|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 94, "Chuyện ủy thác");
+6558|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 37, "Bẩm báo Tần Vương");
+6559|<O>| if (mapp(skls = me->get_skill_dbase()) && sizeof(skls))    // Liệt kê kỹ năng đặc biệt
+6560|<O>| case "Triệu Quốc": return sprintf("data/org-3/%s%s", name, SAVE_EXTENSION);
+6561|<O>| case "Sở Quốc": return sprintf("data/org-6/%s%s", name, SAVE_EXTENSION);
+6562|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_YEWAI,2,"Lũ ong mật nhỏ hay chích người" );
+6563|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 22, "Hành trình Linh Cốc Động");
+6564|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 16, "Kiếp nạn ngàn năm");
+6565|<O>| send_user(who, "%c%s", ';', "Bệnh nan y (3) Kinh nghiệm 600 Tiềm năng 25 Kim tiền 2000 Giày cỏ tân thủ 1");
+6566|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 39, "Phòng ngừa tiết lộ bí mật");
+6567|<O>| tmp += sprintf(ESC HIY "Tiếng khóc trên Trường Thành\ntalk %x# welcome.4\n", getoid(me));
+6568|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 31, "Trừ khử ác bá");
+6569|<O>| result += sprintf(ESC + HIY + "Giao dịch của ông chủ tiệm cầm đồ\ntalk %x# welcome.5\n", id);
+6570|<O>| send_user(who, "%c%s", ';', "Bá vương hà đạo Kinh nghiệm 5100 Tiềm năng 200 Kim tiền 4700 Bản vẽ Giày Cá Chép 1");
+6571|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 42, "Kim Câu Quế Nhị");
+6572|<O>| tmp += sprintf(ESC HIY "Kinh nghiệm làm ăn của thương nhân\ntalk %x# welcome.5\n", getoid(me));
+6573|<O>| ESC "Đắt quá, tôi không sửa nữa\nCLOSE\n", who->get_name(), allvalue, getoid(who)));
+6574|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 28, "Dò hỏi tin tức");
+6575|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 25, "Liên minh với Sở");
+6576|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 14, "Minh chính hình điển");
+6577|<O>| } else if(rate < 9962 ) {	//	v.	10% tỷ lệ rơi Chiến Quốc Hào Giác		//8-23	xiii.	6% tỷ lệ rơi Chiến Quốc Hào
+6578|<O>| #define ACTIVE_ANGEL_NPC	"npc/party/gtt_active_angel"			//	Vị trí đặt Thiên sứ hoạt động
+6579|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 23, "Trừ khử gian tặc");
+6580|<O>| "Công thức ngẫu nhiên cấp 40-50" : "\"/sys/item/product\"->get_random_drop_product(3)",
+6581|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 103, "Oán quỷ chi linh");
+6582|<O>| send_user( who, "%c%s", ':', sprintf( "%s:\nChúng ta đã dạy dỗ %s rồi, không cần làm phiền bạn nữa。\n",
+6583|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 16, "Kế hoạch săn bắn");
+6584|<O>| tmp += sprintf(ESC HIY "Pháo hoa trên Trường Thành\ntalk %x# welcome.7\n", getoid(me));
+6585|<O>| tmp += sprintf(ESC HIY "Sự lo lắng của Ngự Sử\ntalk %x# welcome.19\n", getoid(me));
+6586|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 58, "Sự trỗi dậy của Đại Tề");
+6587|<O>| if (get_effect(me, EFFECT_CHAR_FAINT_2)) return 0;  // choáng (Ma Phế Tán)

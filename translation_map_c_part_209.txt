@@ -1,0 +1,52 @@
+6006|<O>| case "drop": keyH = "$drop$H";  keyL = "$drop$L";  break;    // Tiền đánh rơi trên đất
+6007|<O>| send_user(who, "%c%s", ';', "Diệt trừ tai họa Kinh nghiệm 66000 Tiềm năng 790 Tiền 52000 Bản vẽ Giày Huỳnh Quang 1");
+6008|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 30, "Nỗi khổ của quản gia");
+6009|<O>| tell_user(who, "%s(%d) miễn nhiệm chức quản lý kênh của bạn。", me->get_name(), me->get_number());
+6010|<O>| log_file(LIST_LOG_2, "---------- /quest/stone (đá quý) không đầy đủ ----------\n");
+6011|<O>| log_file(CHANNEL_LOG, sprintf("%s %s(%d)%s mở toàn bộ kênh của %s(%d)%s。(GM)\n",
+6012|<O>| send_user(who, "%c%s", ';', "Phân biệt đúng sai Kinh nghiệm 22000 Tiềm năng 410 Tiền 21000 Bản vẽ Bánh Bí Ngô 1");
+6013|<O>| && who->get_quest("escort.city") + "国" == get_city_name())    // Tìm đúng người rồi
+6014|<O>| private class clock_struct* all_alarm_clocks = ({});	//	Lưu tất cả cấu trúc đồng hồ hiện có
+6015|<O>| send_user(who, "%c%s", ';', "Tội phạm truy nã Kinh nghiệm 60000 Tiềm năng 900 Tiền 50000 Bản vẽ Chiến Ngoa Vân Long 1");
+6016|<O>| return sprintf(PF_NAME ":\n　　Tăng %d điểm giới hạn khí huyết。\n", me->get_save("05014"));
+6017|<O>| send_user(who, "%c%s", ':', me->get_name() + ":\nChỉ có bang chủ mới có thể chủ động đề nghị giải tán bang phái！\n");
+6018|<O>| if ( iHour == 9 || iHour == 14 || iHour == 18 || iHour == 21 )	//Thông báo trước Ngọc Thỏ
+6019|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 18, "Linh quang ở Long Cốt Pha");
+6020|<O>| send_user(who, "%c%s", ';', "Trừng trị Lương thiếu Kinh nghiệm 71000 Tiềm năng 930 Tiền 60000 Bản vẽ Quả Thần Bí 1");
+6021|<O>| case "give": keyH = "$give$H";  keyL = "$give$L";  break;    // Tiền đưa cho người khác
+6022|<O>| send_user(who, "%c%s", '!', sprintf("Trên người bạn chỉ có %d vàng。", who->get_cash()));
+6023|<O>| set_effect_2(who, EFFECT_MP_FALL, ADD_INTERVAL / 2, 2);    // Cẩn thận chuẩn bị me
+6024|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 5, "Tình khóa Tần cung（3）");
+6025|<O>| send_user(who, "%c%s", ';', "Biết quay đầu Kinh nghiệm 2500 Tiềm năng 80 Tiền 1900 Bản vẽ Canh Giải Nhiệt Khoai Lang 1");
+6026|<O>| send_user(me, "%c%s", '!', sprintf("%s đã bị khóa, không thể phóng sinh。", who->get_name()));
+6027|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 22, "Giấc mơ xa xôi");
+6028|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 101, "Ngàn dặm tìm người thân");
+6029|<O>| sprintf("Cầm trong tay:(%d)%s %x#", get_d(obj), obj->get_name(), getoid(obj)));
+6030|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 90, "Giải trừ uy hiếp");
+6031|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 79, "Thử thân thủ");
+6032|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 26, "Hỗn nghi（2）");
+6033|<O>| send_user(me, "%c%s", '!', sprintf("Bạn cần đợi %d phút nữa mới có thể vào game。", result / 60));
+6034|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 1, 2, TID_CRIMINAL, 1, "Tiêu diệt đào phạm");
+6035|<O>| write_user(who, ECHO "Bạn lộ dị quang, thao thao bất tuyệt kể cho %s nghe đủ điều gian nan trong việc buôn bán của mình……", me->get_name());
+6036|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 52, "Chứng minh thực lực");
+6037|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 80, "Trừ khử thích khách");
+6038|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_MAOSHAN, 5, "Du hồn（6）");
+6039|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_CHUGUO,7,"Mua hộp trả ngọc(1)" );
+6040|<O>| case "韩国": cmd1 = sprintf("talk %x# relation.?.%d.1\n", id, number);
+6041|<O>| private int AP0, AP;                            // Tấn công vật lý("ap", "ap%")
+6042|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 1, 2,TID_QIXI,3,"Thất Tịch trời ban kỳ duyên（1）" );
+6043|<O>| send_user(who, "%c%s", ';', "Tiến sâu vào mục trường Kinh nghiệm 49000 Tiềm năng 690 Tiền 47000 Phòng ngự vật lý cường hiệu 1");
+6044|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 2, "Phiền não của quan nội chính");
+6045|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 60, "Tiêu Độc Quý（1）");
+6046|<O>| ESC"Rời khỏi", me->get_name(), amount01, amount02, amount03, id, id, id));
+6047|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 75, "Tra hỏi chiến báo");
+6048|<O>| send_user(who, "%c%s", ';', "Lời tiên tri đáng sợ Kinh nghiệm 5600 Tiềm năng 220 Tiền 4800 Bản vẽ Giáp Đạp Vân 1");
+6049|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 14, "Mỹ tửu hảo tửu");
+6050|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 66, "Truyền thuyết Đao Hồn 3");
+6051|<O>| me->set_save_2(sprintf("friend_info.%d.max_degree", id), max);	//Giá trị lớn nhất
+6052|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 83, "Thăm hỏi dân tình");
+6053|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 45, "Du hồn（1）");
+6054|<O>| return sprintf(PF_NAME ":\n　　Mỗi lần giảm %d điểm pháp lực。\n", -me->get_save("02616"));
+6055|<O>| tmp += sprintf(ESC HIY "Tìm lại niềm vui tuổi thơ\ntalk %x# welcome.13\n", getoid(me));
+6056|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 67, "Truyền thuyết Đao Hồn 4");
+6057|<O>| TASK_LEGEND_D->give_item(who,"/item/sell/0009",5);     		//Thuốc hồi phục nhỏ tức thời x5

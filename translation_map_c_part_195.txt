@@ -1,0 +1,50 @@
+5289|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 70, "Loạn Bình Dương 2(hoàn thành)");
+5290|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 14, "Rèn luyện của anh hùng(hoàn thành)");
+5291|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_MAOSHAN, 4, "Du hồn（5）(hoàn thành)");
+5292|<O>| DEBUG(sprintf("Kiểm tra-->%s.%d.%s=%d",type,id,power_name,power[power_name]));
+5293|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 1, 2, TID_DODOLOOK, 3, "Tìm lại ngọc tỷ(hoàn thành)");
+5294|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 9, "Xin hạt giống rau（1）(hoàn thành)");
+5295|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 40\nTiêu hao vật phẩm: Hồi Thiên Tâm Pháp\n    Chú pháp Chu Thiên, có thể hồi sinh một người chơi đã chết。";
+5296|<O>| string *schoolname = ({"Đào Hoa Nguyên", "Thục Sơn", "Cấm Vệ Quân", "Đường Môn", "Mao Sơn", "Côn Luân Sơn", "Vân Mộng Trạch", });
+5297|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 26, "Bữa tối kén chọn(hoàn thành)");
+5298|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 4, "Rượu tặng huynh Đinh(hoàn thành)");
+5299|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 22, "Tiếng chuông đêm khuya(hoàn thành)");
+5300|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 84, "Trừ hại cho dân(hoàn thành)");
+5301|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 3, "Môi hở răng lạnh（3）(hoàn thành)");
+5302|<O>| if (!from_to(z, x0, y0, x - x0, y - y0, MAP_BLOCK)) return 1;    // Không thể xuyên qua
+5303|<O>| case "give2": keyH = "$give2$H";  keyL = "$give2$L";  break;    // Tiền người khác cho
+5304|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 41, "Gia vị nấu cá(hoàn thành)");
+5305|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 1, "Âm phong ở Trịnh Quốc Cừ(hoàn thành)");
+5306|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 13, "Lời tiên tri đáng sợ(hoàn thành)");
+5307|<O>| sprintf(ESC HIY "Tiếng khóc trong kênh Trịnh Quốc\ntalk %x# welcome.1\n", getoid(this_object()));
+5308|<O>| send_user(who, "%c%s", ':', sprintf("%s:\nNgươi đừng lừa ta, ta không tin。", me->get_name()));
+5309|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 16, "Ác ma giáng lâm(hoàn thành)");
+5310|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 2, "Món quà của người trong lòng(hoàn thành)");
+5311|<O>| len > 0 ? sprintf("[%d chuyển]", len) : "", get_invisible(who) ? "[Ẩn]" : "");
+5312|<O>| //                if( me->is_user() ) me->set_enemy(0);    // Khi người chơi rời đi, không tấn công nữa
+5313|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 26, "Hồn thiên nghi（2）(hoàn thành)");
+5314|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 80, "Trừ khử thích khách(hoàn thành)");
+5315|<O>| if (!from_to(z, x0, y0, x - x0, y - y0, MAP_BLOCK)) return 0;    // Không thể xuyên qua
+5316|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 31\n    Pháp thuật hệ trị liệu, có thể khôi phục 250 điểm khí huyết cho toàn bộ đồng minh trong phạm vi 3×3 quanh mục tiêu。";
+5317|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 6, "Thược dược đổi lộ phí(hoàn thành)");
+5318|<O>| send_user( team[1], "%c%c%c%w%w%s", 0x51, 1, 2,TID_QIXI,9,"Thất Tịch trời ban kỳ duyên（2）" );
+5319|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 19, "Oan hồn khóc than(hoàn thành)");
+5320|<O>| cWord = sprintf(me->get_name() + ":\n    Hãy mang hạt giống thần bí này giao cho Nguyệt Lão đi, ta nghĩ ông ấy hẳn biết phải làm thế nào!");
+5321|<O>| send_user(who, "%c%s", ';', sprintf(HIY"Bạn đã đổi được danh hiệu %s。", who->get_title()));
+5322|<O>| _DEBUG(sprintf("DEBUG-- Hiện tại hoạt động vẫn chưa bắt đầu, sẽ gọi lại hàm hoạt động sau (%d) phút",callout_delay_time));
+5323|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 90, "Giải trừ uy hiếp(hoàn thành)");
+5324|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 11, "Quân cờ đen bị mất(hoàn thành)");
+5325|<O>| result = sprintf("%s\nỪm, tiểu huynh đệ xem ra tiền đồ vô lượng đấy, ta vốn định tặng ngươi chút đồ, nhưng ngặt nỗi chẳng có thứ gì lấy ra được。", who->get_name());
+5326|<O>| sprintf("%s:\n    Bạn đã nhận một Song Tử trung hậu rồi, nếu tiếp tục nhận thì hệ thống sẽ tăng thêm 14 ngày thời gian sử dụng cho Song Tử của bạn, bạn xác định muốn làm vậy sao?\n"
+5327|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 50, "Con đường nhân duyên 4(hoàn thành)");
+5328|<O>| result = result + sprintf(HIR"%d kinh nghiệm、", 50 + level * 100 + level * level);
+5329|<O>| return "Sau khi trang bị sẽ tăng 8% công kích vật lý và công kích pháp thuật, ngoài ra còn tăng 100 công kích vật lý, 100 công kích pháp thuật, 100 phòng ngự vật lý. Thời hạn 999 ngày. Nhận được sẽ khóa。";
+5330|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 117, "Vòng tay bị mất");
+5331|<O>| ESC "Đi " + name[8] + "。\n" + sprintf( "talk %x# goto.? %s\n", id, name[8] ) +
+5332|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 1, 3,TID_CHAIN,type,BLK"Đã không còn thời gian còn lại" );
+5333|<O>| tmp = sprintf(ESC"Ong mật nhỏ đốt lung tung\ntalk %x# welcome.1\n",getoid(this_object()));
+5334|<O>| ESC "Đi " + name[3] + "。\n" + sprintf( "talk %x# goto.? %s\n", id, name[3] ) +
+5335|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 20, "Đòn đánh quyết định(hoàn thành)");
+5336|<O>| ESC "Đi " + name[4] + "。\n" + sprintf( "talk %x# goto.? %s\n", id, name[4] ) +
+5337|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 28, "Cướp bóc nhà dân(hoàn thành)");
+5338|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 31, "Kẻ phản quốc(hoàn thành)");

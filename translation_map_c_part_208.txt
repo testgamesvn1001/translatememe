@@ -1,0 +1,52 @@
+5954|<O>| //	send_user( who, "%c%c%c%w%s", 0x51, 1, 1,TID_MASTER_HIDE,"Nhiệm vụ sư môn" );
+5955|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 62, "Bốn bề thọ địch（2）");
+5956|<O>| result += sprintf(ESC HIY "Giấc mộng của thợ may\ntalk %x# welcome.1\n", getoid(me));
+5957|<O>| case "task": keyH = "$task$H";  keyL = "$task$L";  break;    // Tiền nhận được từ nhiệm vụ
+5958|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YUNMENZE, 2, "Cầu y（4）");
+5959|<O>| result = sprintf("%s:\n    Cảm ơn bạn đã giúp ta mang thư nhà về, bang các bạn quả là bang trọng tình trọng nghĩa.\n", who->get_name());
+5960|<O>| result += sprintf(ESC "Tử Ngọ Cốc \ntalk %x# welcome.10 Tử Ngọ Cốc\n", getoid(me));
+5961|<O>| log_file(CHANNEL_LOG, sprintf("%s %s(%d)%s mở phong ấn kênh city của %s(%d)%s。\n",
+5962|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 24, "Tiếng vọng trong sơn cốc");
+5963|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 21, "Ma trơi rừng Tương Phi");
+5964|<O>| return sprintf(PF_NAME ":\n　　Mỗi 2 giây chịu %d điểm sát thương.\n", me->get("pf.fall"));
+5965|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 27, "Huỳnh quang thần bí");
+5966|<O>| result += sprintf("Mua vào:%d %09d  Bán ra:%d %09d  Sạp mua:%d %09d  Sạp bán:%d %09d\n",
+5967|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 6, "Tình khóa Tần cung（4）");
+5968|<O>| tmp += sprintf(ESC"Mua công thức kỹ năng luyện đan cấp 21-40\nlist %s\n", me->get_char_id());
+5969|<O>| tmp += sprintf(ESC"Mua công thức kỹ năng may vá cấp 40-48\nlist %s\n", me->get_char_id());
+5970|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_ZHOUGUO,6,"Mua hộp trả ngọc(5)" );
+5971|<O>| result=sprintf(me->get_name()+":\n    Gọi đội trưởng của các ngươi tới gặp ta～！Người không phải đội trưởng mà xin nhận, ta tuyệt đối không xử lý！\n");
+5972|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 7, "Ma Tình Thạch(hoàn thành)");
+5973|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_00, 1, "Sứ mệnh đưa thư");
+5974|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 18, "Hồ lô lớn（4）");
+5975|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 14, "Yêu quái trong bình(hoàn thành)");
+5976|<O>| send_user(who, "%c%s", ';', "Thiên phạt của sự lừa dối Kinh nghiệm 3500 Tiềm năng 112 Tiền 3000 Bản vẽ Bích Long hành trang 1");
+5977|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 67, "Lạnh ấm tình người（2）");
+5978|<O>| case 1: send_user(who, "%c%s", ':', "Bạn:\nNghe nói năm xưa khi xây trường thành bên dưới có chôn một số báu vật làm bảo vật trấn thành.");
+5979|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 34, "Vị khách thích ăn cay");
+5980|<O>| send_user(who, "%c%c%c%w%s", 0x51, 1, 1, TID_DODOLOOK, "Tìm dodolook");
+5981|<O>| send_user(who, "%c%s", ':', sprintf("Bạn:\n%s trước có sói sau có hổ, chỉ có kết minh với %s mới là thượng sách.\n\n\n"
+5982|<O>| write_user(me, ECHO"Bạn nhận được lời chúc chân thành của " + item->get_user_id() + " , phòng ngự pháp thuật tăng 30％。");
+5983|<O>| private static int Immunity;                    // Miễn hiệu ứng bất thường("/%")(thuốc BUSY)
+5984|<O>| string* name = ({ "Rượu thức ăn", "Thợ rèn", "Luyện đan", "May vá", "Khắc đá", "Cơ quan", "Khai luyện", "Dược sư", });
+5985|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHOUGUO, 11, "Thẻ tre bị mất");
+5986|<O>| send_user(who, "%c%s", ';', "Tình khóa Tần cung（3） Kinh nghiệm 5500 Tiềm năng 180 Tiền 4000 Vật công trung cấp 1");
+5987|<O>| send_user(who, "%c%s", ';', "Tấu xin vương mệnh Kinh nghiệm 74000 Tiềm năng 930 Tiền 62000 Bản vẽ Tử Tâm Đan 1");
+5988|<O>| string *nFamily = ({"Đào Hoa Nguyên", "Thục Sơn", "Cấm Vệ Quân", "Đường Môn", "Mao Sơn", "Côn Luân Sơn", "Vân Mộng Trạch", });
+5989|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    Ta chỉ phụ trách đưa chiến sĩ của %s quay về, chuyện khác ta mặc kệ.\n"
+5990|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 76, "Dũng xông Thiên Môn Trận");
+5991|<O>| result2 = sprintf(HIR"Người chơi %s"NOR" trong hoạt động Quốc Khánh đã đổi được bằng Hầu Con Hư"HIR, who->get_name());
+5992|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 33, "Vận rương");
+5993|<O>| && gone_time(owner->get_save_2("orgtask2.time")) >= 2400)    // 40 phút
+5994|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 20, "Tượng bùn(hoàn thành)");
+5995|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 61, "Cầu y（2）");
+5996|<O>| return HIC+get_name()+"\nThú cưng có kỹ năng này khi tấn công vật lý sẽ bỏ qua 30%\nphòng ngự vật lý của đối phương. Kỹ năng có thời gian hồi 5 giây。";
+5997|<O>| set_upgrade_exp(UpgradeExp + exp);    // Đồng bộ ảnh hưởng upgrade_exp, trước set_exp
+5998|<O>| CHAT_D->sys_channel( 0, HIR"Một đợt đại lễ bao mới lại xuất hiện ngoài thành các nước, mọi người mau đi tìm nhé, biết đâu sẽ có niềm vui bất ngờ～" );
+5999|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 7, "Tiếng khóc trong kênh Trịnh Quốc");
+6000|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 89, "Tìm hỏi người biết chuyện");
+6001|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 26, "Tâm sự của quan nội chính");
+6002|<O>| //                        write_user(owner, ECHO "Nhiệm vụ vận tiêu thất bại, hãy về báo với lão tiêu đầu Úy Trì。");
+6003|<O>| if (!mapp(list = me->get_pawn(sprintf("%02d", which))))    // Dùng bộ nhớ đệm?
+6004|<O>| case "biao": keyH = "$biao$H";  keyL = "$biao$L";  break;    // Tiền kiếm được từ vận tiêu
+6005|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_ZHOUGUO,4,"Mua hộp trả ngọc(3)" );

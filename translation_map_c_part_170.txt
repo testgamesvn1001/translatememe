@@ -1,0 +1,44 @@
+4101|<O>| if (objectp(item = present("Khoai lang", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4102|<O>| /*------------------------------------Hàm công khai của lớp---------------------------------------*/
+4103|<O>| tell_user(me, "Bạn dùng %d vàng mua %s từ %s。", price * total, who->get_name(), item->get_name());
+4104|<O>| cmd5 = sprintf(ESC "Tỷ lệ chia hoa hồng thuế mỗi ngày。(%d%%)\ntalk %x# tax.5.?\n", city->get_tax_2_cash(), id);
+4105|<O>| send_user(user, "%c%d%d%c", 0x40, getoid(me), time2(), MAGIC_ACT_END);    // Kết thúc động tác thi pháp
+4106|<O>| say_word = sprintf("Bạn vượt ải thành công, sẽ nhận phần thưởng danh hiệu “"HIR"%s"NOR"”, hãy đến chỗ thiên sứ đổi hoạt động để nhận thưởng。", active_bonus[1]);
+4107|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 18\n    Dịch chuyển tức thời ra sau lưng địch để tấn công, tăng 10 điểm công kích vật lý, đồng thời cộng thêm 20％ sát thương khi đánh trúng mục tiêu。";
+4108|<O>| me->get_name() + ":\n    Bản thân ta được tổng quản thương phố nhờ vả, đứng đây để công chứng công bằng cho việc ký gửi thẻ điểm, ngươi cứ yên tâm giao thẻ điểm cho ta, ta nhất định sẽ công chứng xử lý theo yêu cầu của người ủy thác!\n"
+4109|<O>| send_user(who, "%c%s", ':', sprintf("%s:\nChào mừng bạn trở thành một thành viên của %s。\n", me->get_name(), name2));
+4110|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    Điều khiến ta tự hào nhất chính là cả đời này chưa từng cầu xin ai!\n", get_name())
+4111|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 3\nTiêu hao vật phẩm: Độc dược\n    Bôi độc dược lên vũ khí của đồng minh, khiến mỗi lần tấn công có 40％ xác suất làm kẻ địch trúng độc。";
+4112|<O>| result = result + sprintf(ESC + HIY + "Nỗi phiền não do kiến mang tới\ntalk %x# welcome.8\n", getoid(me));
+4113|<O>| send_user(me, "%c%s", ';', sprintf("Nguyên bảo trên người bạn không đủ "HIR"%d"NOR" điểm, hãy nạp tiền rồi mới ký gửi。", value + 1));
+4114|<O>| write_user( me, ECHO "Thông qua lao động chăm chỉ, bạn nhận được "+EXP_BONUS+" điểm kinh nghiệm、"+money+" vàng và "+POT_BONUS+" điểm tiềm năng。");
+4115|<O>| send_user(who, "%c%c%w%s", ':', 3, 0501, "Hổ Vương:\n    Loài người ngu xuẩn! Dám bước vào lãnh thổ của bản vương!! Xem ra ngươi chán sống rồi!!\n" +
+4116|<O>| result = sprintf(HIY "%s công bố nhiệm vụ xây dựng %s “%s”, hoan nghênh đến chỗ Nội Chính Quan nhận nhiệm vụ。", who->get_name(), name2, name3);
+4117|<O>| if (objectp(item = present("Kiếm", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4118|<O>| 41100, 1, UNDER_FOOT, 42100, 1, UNDER_FOOT, PF_STOP);    // Ký hiệu kết thúc hiệu ứng phù pháp  get_cast_seal()
+4119|<O>| return HIC+get_name()+"\nThú cưng có kỹ năng này, khi tấn công đối phương có 30% xác suất khiến đối phương rơi vào\ntrạng thái thiêu đốt trong 20 giây, cứ mỗi 2 giây giảm 10 điểm khí huyết, hiệu quả kỹ năng không cộng dồn。";
+4120|<O>| ESC "Đặt "+npc->get_city_name()+" làm điểm hồi thành của ta。\n" + sprintf( "talk %x# goto.here\n", id ) +
+4121|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 5\n    Kỹ năng cơ bản của kiếm pháp, có thể gây sát thương lên một mục tiêu trong tầm nhìn, đồng thời có 2％ xác suất bỏ qua phòng ngự pháp thuật của đối phương。";
+4122|<O>| who->add_strength(-1);    // Thể lực -1, kinh nghiệm quân quan +40, chính nghĩa +40, trung thành +1, dũng cảm +40, danh vọng +4, cống hiến quốc gia +1
+4123|<O>| tmp += sprintf(ESC + HIY + "Giao dịch của ông chủ tiệm cầm đồ\ntalk %x# welcome.1\n", getoid(this_object()));
+4124|<O>| CHAR_FIGHT_D->attack_done(me, who, HIT_BLADE, ADD_AP, 0, ADD_DAMAGE);    // Cẩn thận chuẩn bị me
+4125|<O>| write_user(me, HIR "Bạn đã cứu tỉnh %s(%d), người đó sẽ quyết định có nhận sự cứu giúp của bạn hay không。", who->get_name(), who->get_number());
+4126|<O>| result = sprintf("Đối tượng:%O [%d]\n", obj, sizeof(children(get_file_name(obj) + ".c")));
+4127|<O>| //#define VIP_TIME	(who->get("test_vip")?who->get("test_vip"):3600*24*31)	//Thời gian liên kết vip
+4128|<O>| if (objectp(item = present("Hành", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4129|<O>| return HIC+get_name()+"\nThú cưng có kỹ năng này sẽ khóa một mục tiêu bất kỳ trong phạm vi tầm nhìn của thú cưng，\nchớp mắt đến bên cạnh để tấn công, đồng thời làm mục tiêu được chọn choáng 1 giây, hồi chiêu 30 giây";
+4130|<O>| default: send_user(who, "%c%s", ':', sprintf("%s:\nNước ta muốn hữu hảo với %s, vậy xin ngươi đảm nhiệm sứ giả, trong vòng 40 phút hoàn thành nhiệm vụ tu hảo!",
+4131|<O>| 5 : ([ "finish":32*12+15,"legend":({32*12+13,32*12+14}) ,"objname" : ({"Ngọc Linh Lung" ,})]),
+4132|<O>| /*-----------------------------------Giao diện hàm công khai--------------------------------------*/
+4133|<O>| ESC "Ta chỉ tiện xem qua thôi\nCLOSE\n", get_name(), getoid(this_object()), getoid(this_object())));
+4134|<O>| return sprintf("［" PF_NAME "］Sau khi nhìn trộm vật phẩm mà mục tiêu mang theo, trộm vật phẩm mà mục tiêu mang theo。Tiêu hao pháp lực:%d, lần sau dùng phải cách %d giây, có thể dùng ở %s%d cấp\n",
+4135|<O>| if (!who->get_legend(TASK_NEWBIE_00, 0)) result += sprintf(ESC "Sứ mệnh đưa thư\n%s\n", cmd1);
+4136|<O>| private string cycle_way	= "week";		//	Quy tắc luân phiên hoạt động BZ_WEEK / BZ_MONTH / BZ_DAY / BZ_HOUR
+4137|<O>| result = result + sprintf(ESC "Giao dịch\nlist %x#\n" ESC "Ta chỉ tiện xem qua thôi\nCLOSE\n", getoid(me));
+4138|<O>| tell_user(me, "Bạn dùng Thiên Nhãn thấy %s ở %s(%d,%d)。", npc->get_name(), name, x, y);    // write_user
+4139|<O>| send_user(me, "%c%s", '!', sprintf("Bạn đã đến thành công " HIY " %s(%d,%d) " NOR "。", name, x, y));
+4140|<O>| else    if( pot ) write_user( team[i], ECHO "Bạn đánh chết %s, tiềm năng %+d。", me->get_name(), pot );
+4141|<O>| log_file("yunyou.txt", sprintf("Vân du tại %s ，spawn gần %d(%d,%d)。 \n", short_time(), z, x, y));
+4142|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 34\n    Đánh rơi vũ khí của đối thủ, khiến đối thủ trong 8 giây không thể trang bị và sử dụng vũ khí. Dùng với quái vật sẽ làm suy yếu 30 điểm công kích vật lý của chúng。";
+4143|<O>| send_user(who, "%c%s", ';', "Gà rừng đáng ghét Kinh nghiệm 110 Tiềm năng 10 Tiền 600 " + item->get_name() + " 1");
+4144|<O>| result = sprintf(BLK"Bạn đã đóng băng %d phút thời gian kinh nghiệm gấp đôi", who->get_save_2("double_time.freeze")/60);

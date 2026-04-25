@@ -1,0 +1,32 @@
+2576|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi nghĩ bổn thiếu gia đây sao có thể làm chuyện lỗ vốn được chứ。\n"ESC"Rời khỏi", me->get_name()));
+2577|<O>| send_user(get_scene_object_2(me, USER_TYPE), "%c%d%w%c%c%c", 0x6f, getoid(me), 10101, 1, OVER_BODY, PF_STOP);    // Xóa tụ khí
+2578|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Thôi bỏ đi, món nợ kiếp trước kiếp này là không trả nổi rồi。\n"ESC"Rời khỏi", me->get_name()));
+2579|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Hu hu……xem ra ta thật sự sắp không còn nhà để về rồi。\n"ESC"Rời khỏi", me->get_name()));
+2580|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Tráng sĩ đã đi tìm mật đồ cơ quan chưa？\n"ESC"Rời khỏi", me->get_name(), ));
+2581|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Hiện tại Vô Song Thành đang ở trạng thái không ai chiếm lĩnh。\n"ESC"Rời khỏi", me->get_name()));
+2582|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Đây là tiền cứu mạng của cả nhà trên dưới chúng ta đấy！\n"ESC"Rời khỏi", me->get_name()));
+2583|<O>| send_user(who, "%c%c%w%s", ':', 3, this_object()->get_char_picid(), "Như Ý Tiên Tử:\n    Cấp độ hiện tại của ngươi vẫn chưa tới cấp 10, tạm thời vẫn chưa thể tặng quà cho ngươi. Đợi tới sau cấp 10 rồi hãy quay lại tìm ta.");
+2584|<O>| send_user(who, "%c%c%w%s", ':', 3, 0, sprintf("Trên người ngươi đã có thời gian x2 tồn tại, ngươi có chắc muốn cộng dồn hiệu quả của nó không？\n"ESC"Xác định\nuse ! %x#\n"ESC"Hủy bỏ", getoid(item)));
+2585|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), me->get_name() + ":\n    Đây là con nhà ai chạy ra nghịch loạn đồ đạc vậy, còn không mau tới dẫn về đi！\n"ESC"Rời khỏi");
+2586|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Hu, tướng công, sao chàng có thể bỏ thiếp lại một mình……\n"ESC"Rời khỏi", me->get_name()));
+2587|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Sao ngươi lại còn để mặc chúng nhởn nhơ ngoài vòng pháp luật như vậy！\n"ESC"Rời khỏi", me->get_name()));
+2588|<O>| log_file("buycard.dat", sprintf("%s %s(%d) lấy lại lợi tức thẻ điểm%d\n", short_time(), me->get_id(), me->get_number(), to_int(key[1])));
+2589|<O>| log_file(LIST_LOG, sprintf(htm, name, level, "Nam、Nữ", "Đào Hoa Nguyên<BR>Thục Sơn<BR>Cấm Vệ Quân", pp, ap, lasting / 100, lasting / 100, value));
+2590|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Việc này thật đáng sợ, sau này phải cẩn thận hành sự mới được。\n"ESC"Rời khỏi", me->get_name()));
+2591|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngài chưa từng mua bất kỳ bảo hiểm nào cả！\n"ESC"Rời khỏi", me->get_name(), ));
+2592|<O>| send_user(get_scene_object_2(me, USER_TYPE), "%c%d%w%c%c%c", 0x6f, getoid(me), 9000, 1, UNDER_FOOT, PF_LOOP);    // Bán trong suốt
+2593|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi không phải đội trưởng, không thể nhận nhiệm vụ！\n"ESC"Rời khỏi", me->get_name(), ));
+2594|<O>| send_user( who, "%c%c%w%s", ':',3,me->get_char_picid(), sprintf("%s:\n    Bang hội công thành gần đây gồm có:\n%s\n"ESC"Rời khỏi",me->get_name(),cTmp));
+2595|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    A, xem ra chúng ta lại phải đi đường vòng xa hơn rồi……\n"ESC"Rời khỏi", me->get_name()));
+2596|<O>| tell_user(me, sprintf("%d: %x# %d %d %d vị trí không đúng", i + 1, getoid(temp[i]), get_z(temp[i]), get_x(temp[i]), get_y(temp[i])));
+2597|<O>| if (who->get_legend(TASK_49, 3) && !who->get_legend(TASK_49, 4) && objectp(pet = USER_BEAST_D->have_beast(who, "Kiến nâu đỏ")))
+2598|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Xem ra việc này nhất định sẽ bị đại vương trách mắng rồi……\n"ESC"Rời khỏi", me->get_name()));
+2599|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi không phải đội trưởng, không thể hoàn thành nhiệm vụ！\n"ESC"Rời khỏi", me->get_name(), ));
+2600|<O>| send_user( who, "%c%c%w%s", ':',3,me->get_char_picid(), sprintf("%s:\n    Số tiền ngươi mang theo không đủ để thanh toán phí công thành！\n"ESC"Rời khỏi",me->get_name()));
+2601|<O>| send_user(who, "%c%s", ';', sprintf("Ngươi nhận được kinh nghiệm %d, tiềm năng %d, tiền %d, bang cống tăng %d, độ nổi tiếng của bang tăng 2 điểm, độ an định tăng 2 điểm。", exp, pot, cash, 1 + order * 2 / 9));
+2602|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    " + "/quest/word"->get_country_word(me) + "\n    %s, nước ta muốn cùng %s%s, có hứng chạy một chuyến không？\n",
+2603|<O>| log_file(LIST_LOG, sprintf(htm, name, level, "Nam、Nữ", "Đào Hoa Nguyên<BR>Thục Sơn<BR>Cấm Vệ Quân", dp, pp, lasting / 100, lasting / 100, value));
+2604|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nTiêu hao vật phẩm: thuốc độc\nTiêu hao pháp lực:%d điểm\nThời gian hồi:%d giây\n    Phóng ra một đoàn độc vụ, tất cả mục tiêu đối địch tiến vào vùng khí độc này sẽ rơi vào trạng thái trúng độc, đồng thời trong 6 giây sẽ không thể di chuyển。\n",
+2605|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Xem ra chuyện này là niềm tiếc nuối lớn nhất đời ta rồi。\n"ESC"Rời khỏi", me->get_name()));
+2606|<O>| //                        send_user( who, "%c%s", ':', get_name() + ":“Cục cục！Cục！Cục～”\n    “Cục～cục～cục cục！”\n  Chú gà con vui vẻ ăn lúa mì mà ngươi cho nó.");
+2607|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ta vẫn nên thành thật làm dân thường của ta thôi！\n"ESC"Rời khỏi", me->get_name()));

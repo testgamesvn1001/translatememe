@@ -1,0 +1,61 @@
+﻿9317|<O>| tmp += sprintf(ESC HIY "勇闯虚陵洞\ntalk %x# welcome.8\n", id);
+9318|<O>| send_user(who, "%c%s", ';', "孝顺的守卫 经验 850 潜能 50 金钱 1500");
+9319|<O>| tell_user(me, "请查看 /log/make/ 下的文件及 /log/list.txt 的坐标点。");
+9320|<O>| &&      random(100) < item2->get_active_rate() )    // 成功率
+9321|<O>| if (me->get_login_flag() < 3)    // 与 effect/user/login 同步
+9322|<O>| private static int HurtRand2;                   // 反法术伤害发生
+9323|<O>| /*      if( me->get_mp() < ( mp = SUB_MP ) )    // 小心准备 me
+9324|<O>| if (item->get_item_type() != ITEM_TYPE_TALISMAN    // 不是法宝
+9325|<O>| send_user(who, "%c%s", '!', "您获得了"HIY + item->get_name());
+9326|<O>| me->to_front_xy( get_x(who), get_y(who) );    // 此时转身，后面不用
+9327|<O>| send_user(who, "%c%s", '!', sprintf(HIY"秦国刀盾兵 %d/20", i));
+9328|<O>| tmp += sprintf(ESC HIY "通告百姓\ntalk %x# welcome.15\n", id);
+9329|<O>| /*              else if( p < 9500 * rate / 100 )    // 杂物３
+9330|<O>| write_user(me, ECHO "%s听了您的歌声，只觉得心旷神怡。", who->get_name());
+9331|<O>| tmp += sprintf(ESC HIY "修理木桶\ntalk %x# welcome.20\n", id);
+9332|<O>| tell_user(me, "当前活动时间是:%s", short_time(get_party_time()));
+9333|<O>| default: write_user(me, ECHO "你占得乾卦，见群龙无首，大吉。对方气血、法力增加。");
+9334|<O>| write_user(who, ECHO "您听了%s的歌声，只觉得心旷神怡。", me->get_name());
+9335|<O>| tmp += sprintf(ESC HIY "深入民间\ntalk %x# welcome.12\n", id);
+9336|<O>| write_user( this_object(), GAME_NAME "游戏正在维护，请过一会儿再来吧。" );
+9337|<O>| send_user(who, "%c%s", ';', "紫葡萄 经验 4000 潜能 130 金钱 4000");
+9338|<O>| tmp += sprintf(ESC HIY "弟弟的问候\ntalk %x# welcome.8\n", id);
+9339|<O>| tmp = sprintf(" ""%2d．%12s%4s%4s",index,blank,":\t","空缺");
+9340|<O>| tmp = ESC "领取《战国宝典》\n"+sprintf("talk %x# goto.dict\n",id);
+9341|<O>| send_user(who, "%c%s", '!', sprintf(HIY"赵国刀盾兵 %d/15", i));
+9342|<O>| tmp += sprintf(ESC HIY "保持距离\ntalk %x# welcome.16\n", id);
+9343|<O>| send_user(who, "%c%s", '!', sprintf(HIY"秦国刀盾兵 %d/10", i));
+9344|<O>| sprintf(ESC "农业(%d)。\n", city->get_agriculture()) + cmd2 +
+9345|<O>| int get_tool_level() { return tool_level; }			// 函数:获取工具等级
+9346|<O>| #define DEFAULT_TIME    43200                   // 缺省封闭一个月
+9347|<O>| default: name3 = "城防";  city->add_money(-1000000);  break;
+9348|<O>| result = sprintf("%s:\n    您的技能已经放弃了。\n", me->get_name());
+9349|<O>| SAY_CMD->say(this_object(), "看你资质不错，就留下来跟我一起养马吧。哈哈哈哈。。。");
+9350|<O>| tmp += sprintf(ESC HIY "该死的冤魂\ntalk %x# welcome.6\n", id);
+9351|<O>| if (objectp(item = get_2(sprintf("%s.item", id))))	//有玩家领取
+9352|<O>| return sprintf(PF_NAME ":\n　　增加自身 %d％ 的物理防御力。\n", ADD_AP);
+9353|<O>| tmp += sprintf(ESC HIY "交换心得\ntalk %x# welcome.11\n", id);
+9354|<O>| sprintf(ESC "渔业(%d)。\n", city->get_fishculture()) + cmd3 +
+9355|<O>| if (TASK_LEGEND_D->check_task_item(who, "做床的木头", 30) != 1)
+9356|<O>| write_user(who, ECHO "您看了%s的舞蹈，只觉得心旷神怡。", me->get_name());
+9357|<O>| case BATTLE_MAP: printf(ECHO "对方在战场，不能使用“" PF_NAME "”。");
+9358|<O>| send_user(who, "%c%s", '!', sprintf(HIY"刀盾骷髅 %d/20", i));
+9359|<O>| tmp += sprintf(ESC HIY "询问小贩\ntalk %x# welcome.1\n", id);
+9360|<O>| send_user(who, "%c%s", ';', "你身上的道具空间不太足够，腾出7个空位置后再来吧。");
+9361|<O>| /*              else if( p < 6700 * rate / 100 )    // 金钱
+9362|<O>| tmp += sprintf(ESC HIY "证明实力\ntalk %x# welcome.1\n", id);
+9363|<O>| tmp += sprintf(ESC HIY "水落石出\ntalk %x# welcome.4\n", id);
+9364|<O>| /*              else if( p < 9058 * rate / 100 )    // 金钱
+9365|<O>| return "［诵经］诵读经文，使修行者的精神境界更上一层楼，可提升法术攻击力。每级提升1点法术攻击力。\n";
+9366|<O>| if (TASK_LEGEND_D->check_task_item(who, "做床的锯子", 1) != 1)
+9367|<O>| send_user(who, "%c%s", '!', sprintf(HIY"秦国弓兵 %d/10", i));
+9368|<O>| /*              else if( p < 4488 * rate / 100 )    // 金钱
+9369|<O>| /*              else if( p < 7412 * rate / 100 )    // 金钱
+9370|<O>| /*              else if( p < 3840 * rate / 100 )    // 金钱
+9371|<O>| send_user(who, "%c%s", '!', sprintf(HIY"修理的木头 %d/5", i));
+9372|<O>| tmp += sprintf(ESC"疑难杂症\ntalk %x# visit.6\n",getoid(me));
+9373|<O>| case "蜀山" : if( flag != 2 && flag!=9 ) flag = -1;  break;
+9374|<O>| case 6: level = 30;  log_file(LIST_LOG, "昆仑山\n");  break;
+9375|<O>| if( !objectp( item = present("乾坤绳", me, 1, MAX_CARRY) ) )
+9376|<O>| tmp += sprintf(ESC HIY "茉莉花茶\ntalk %x# welcome.9\n", id);
+9377|<O>| send_user(who, "%c%s", '!', sprintf(HIY"秦国枪兵 %d/20", i));

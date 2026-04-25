@@ -1,0 +1,42 @@
+3757|<O>| send_user( who, "%c%c%w%s", ':', 3, get_char_picid(),  get_name() + ":\n    Cút đi！Đừng xen vào chuyện không liên quan！" );
+3758|<O>| short_time_2(), me->get_acountid(), MAIN_D->get_region(), MAIN_D->get_host()));    // Khấu phí！
+3759|<O>| result += sprintf("Sức mạnh:%3d =%3d+%3d", who->get_str(), who->get_str_1(), who->get_str_2());
+3760|<O>| send_user(who, "%c%s", ';', sprintf("Truy bắt trọng phạm  Kinh nghiệm 1900  Tiềm năng 70  Tiền 1600  %s 1", tmp->get_name()));
+3761|<O>| send_user(who, "%c%c%w%s", ':', 3, 0, sprintf("Có muốn hoàn trả Hồ Lô Tế Thế không\n"ESC"Hoàn trả hồ lô\nhulu 7\n"ESC"Hủy bỏ", ));
+3762|<O>| return sprintf("［" PF_NAME "］Đặt một dấu mốc ở vị trí đang đứng hiện tại, thông qua xuyên việt thời không có thể nhanh chóng tới được vị trí này. Tiêu hao pháp lực:%d，%s%d cấp có thể dùng\nYêu cầu kỹ năng cơ bản: Đạo gia học thuyết\n",
+3763|<O>| "Côn+30" : "\"/item/75/1030\"", "Côn+40" : "\"/item/75/1040\"", "Côn+50" : "\"/item/75/1050\"",
+3764|<O>| result += sprintf("Thể phách:%3d =%3d+%3d", who->get_con(), who->get_con_1(), who->get_con_2());
+3765|<O>| if (who->get_poison_rate()) prop += ({ sprintf("Tăng độc tính:%+3d%%", who->get_poison_rate()) });
+3766|<O>| send_user(who, "%c%s", ':', me->get_name() + ":\n    Gần đây chuyện phiền phức trong thôn ngày càng nhiều, xem ra chỉ dựa vào lực lượng đoàn vệ thôn vẫn chưa đủ a……\n" +
+3767|<O>| if (random(1000) < 5 && load_object(file = BOOK_FILE->get_book_file()))    // 1% // Bí tịch tiến giai
+3768|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nTiêu hao pháp lực:%d điểm\nThời gian hồi:%d giây\n    Khiến một kẻ địch trong tầm nhìn rơi vào trạng thái câm lặng 6 giây。",
+3769|<O>| + sprintf(ESC"Nhập mã hoạt động\ntalk %x# bonus.1\n"ESC"Tra cứu số dư\ntalk %x# bonus.3\n"ESC"Rời khỏi", id, id));
+3770|<O>| send_user(who, "%c%s", ';', sprintf("Mua hộp lấy ngọc  Kinh nghiệm 800  Tiềm năng 50  Tiền 2000  %s 1", tmp->get_name()));
+3771|<O>| //                        CHAT_D->chat_channel( 0, sprintf( HIC "Quản trị viên game ＧＭ mở toàn bộ kênh của %s(%d)。",
+3772|<O>| if (me->get_perform_file() && gone_time(me->get_perform_enable_time()) > 8)    // Xóa hiệu quả tụ khí
+3773|<O>| 51311, 16, OVER_BODY, 51312, 1, OVER_BODY, 51313, 1, UNDER_FOOT, PF_ONCE);    // Tốc độ đan đỉnh đặc biệt！
+3774|<O>| return sprintf("［" PF_NAME "］Công kích cận chiến đơn thể, tăng %d điểm công kích. Tiêu hao pháp lực:%d，tiêu hao nguyên khí:%d, lần dùng tiếp theo cần cách %d giây，%s%d cấp có thể dùng\n",
+3775|<O>| 52121, 16, OVER_BODY, 52122, 1, OVER_BODY, 52123, 1, UNDER_FOOT, PF_ONCE);    // Tốc độ đan đỉnh đặc biệt！
+3776|<O>| result += sprintf(ESC "Thay túi đạo cụ thứ %s, %s\nbag %x# %d\n", cmd1, cmd2, getoid(item), 31 + i);
+3777|<O>| if (me->get_skill(660) < SKILL_LEVEL) color = HIR + sprintf("Yêu cầu cấp cơ quan:%d\n", SKILL_LEVEL);
+3778|<O>| USER_D->user_channel("Chúc mừng "+player->get_name()+" nhận được "+HIR+present->get_name()+" trong hoạt động Trung Thu。\n");
+3779|<O>| return sprintf(PF_NAME ":\n　　Tăng %d điểm giới hạn khí huyết。\n", me->get("05014") + me->get_save("05014"));
+3780|<O>| if( item ) send_user( me, "%c%d%c", 0x4e, getoid(item), item->get_amount() );    // Phát bù tin nhắn
+3781|<O>| if (gold > get_max_savings()) send_user(this_object(), "%c%s", '!', "Tiền gửi của ngài đã đạt giới hạn, không thể tăng thêm nữa。");
+3782|<O>| if (who->get("anti_dream") || get_effect_3(who, EFFECT_CHAR_DREAM)) return 2;    // Thực thi thành công
+3783|<O>| if (objectp(item = present("Tinh thạch chu hồng hoàn mỹ", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3784|<O>| else    send_user(me, "%c%s", ':', sprintf("%s%s%s", text, result, ESC "Rời khỏi。\nCLOSE\n"));
+3785|<O>| send_user(who, "%c%c%d%s", 0x43, 6, 0, CHAT "Đường Truy:……Thiền nhi……nàng còn trách ta sao……ta sai rồi……nàng nghe thấy chứ……khí tức áp chế nàng đã tan rồi nhỉ……");
+3786|<O>| write_user(who, ECHO "Kinh nghiệm quân quan của ngài +20, chính nghĩa +20, trung thực +1, dũng cảm +20, danh vọng +20, kinh nghiệm %+d, tiềm năng +20。", exp);
+3787|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nTiêu hao nguyên khí:%d điểm\nThời gian hồi:%d giây\n    Khiêu khích một con quái vật, khiến nó liên tục tấn công ngươi trong 6 giây。",
+3788|<O>| default: result = sprintf("［Nhiệm vụ tung hoành］\n"BLK"Với thân phận sứ giả %s cùng " HIR "%s" BLK " bàn đại kế " HIR "kết minh" BLK "。\n",
+3789|<O>| if (who->get_save("dodolook") == 4 && objectp(item = present("Thất Quốc Lệnh", who, 1, MAX_CARRY)))
+3790|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nTiêu hao pháp lực:%d điểm\nThời gian hồi:%d giây\n    Tuyệt kỹ đặc biệt của Mê Hồn Quyết, khiến địch nhân rơi vào trạng thái mù 6 giây。",
+3791|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng:23 cấp\n    Phóng nước rút tấn công một mục tiêu trong tầm nhìn, tăng 70 điểm công kích, khi đánh trúng đồng thời khiến mục tiêu rơi vào trạng thái choáng 2 giây。";
+3792|<O>| // CHAR_FIGHT_D->throwing_done(me, who, HIT_NORMAL);    // Sao chép từ CHAR_FIGHT_D bên dưới ##########
+3793|<O>| else if (me->get_pay_money_buy_item() == 8 && me->get_pay_type() == 1)    // Mua đạo cụ bằng điểm số thành công！
+3794|<O>| send_user(who, "%c%c%w%s", ':', 3, 6010, sprintf("%s:\n    Chức năng báo danh đã đóng。\n", me->get_name()));
+3795|<O>| result = (file = load_object(SKILL->get_skill_file(skill))) ? file->get_name() : "Kỹ năng không rõ";
+3796|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này, khi dùng kỹ năng tấn công đối phương sẽ có 15% xác suất khiến đối phương\nrơi vào trạng thái thiêu đốt 20 giây, cứ mỗi 2 giây giảm 10 điểm khí huyết, hiệu quả kỹ năng không cộng dồn。";
+3797|<O>| 50311, 16, OVER_BODY, 50312, 1, OVER_BODY, 50313, 1, UNDER_FOOT, PF_ONCE);    // Tốc độ đan đỉnh đặc biệt！
+3798|<O>| who->get_name(), who->get_number(), who->get_id(), who->get_gender() == 1 ? "nam" : "nữ",

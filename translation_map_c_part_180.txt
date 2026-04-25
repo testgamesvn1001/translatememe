@@ -1,0 +1,47 @@
+4558|<O>| //	send_user( who, "%c%c%c%w%w%s", 0x51, 1, 2,TID_MASTER_HIDE,1,"Nhiệm vụ ẩn(hoàn thành)" );
+4559|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_DONGTINGHU, 1, "Mất dê sửa chuồng(2)(hoàn thành)");
+4560|<O>| tmp += sprintf(ESC HIY "Kiếm hồn trầm mặc\ntalk %x# welcome.1\n", getoid(this_object()));
+4561|<O>| send_user(team, "%c%c%d%s", 0x43, 7, 0, sprintf(WHT "Đội trưởng %s(%d) đã khai trừ %s(%d) khỏi đội。",
+4562|<O>| if (iTaskTime = who->get_save_2("build.flag")) switch (iTaskTime)    // 40 phút
+4563|<O>| result = result + sprintf(ESC HIY "Bệnh lạ của phu nhân\ntalk %x# welcome.1\n", getoid(me));
+4564|<O>| write_user( who, ECHO "Trong %d ngày đầu, %s chia hoa hồng là %d, bạn được chia %d vàng。", day, name, salary, point );
+4565|<O>| if (sscanf(arg, "%d %d", what, total) != 2    // what, total thứ tự không thể ngược, sscanf có lỗi
+4566|<O>| int set_stuff_number2(int num) { return stuff_number2 = num; }	// Hàm: thiết lập số hiệu tài nguyên bổ sung
+4567|<O>| tmp += sprintf(ESC HIY "Dũng xông Tru Tiên Trận\ntalk %x# welcome.4\n", getoid(this_object()));
+4568|<O>| string set_reset_file(string file) { return reset_file = file; }	// Hàm: thiết lập file làm mới
+4569|<O>| result = result + ESC "Giao nộp kiếm gỗ\n" + sprintf("talk %x# welcome.5\n", getoid(me));
+4570|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 103, "Truy tìm kho báu mạo hiểm(đã hoàn thành)");
+4571|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    Chốn khuê phòng sâu kín làm ta có chút không biết thích ứng thế nào……\n", get_name())
+4572|<O>| tmp += sprintf(ESC HIY "Nguy hiểm đã giải trừ\ntalk %x# welcome.10\n", getoid(this_object()));
+4573|<O>| send_user( who, "%c%s", '!', sprintf( "Hãy tìm " HIY " %s " NOR " mang về cho Vương Bộ Đầu。", name ) );
+4574|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 28, "Nan y tạp chứng（2）(hoàn thành)");
+4575|<O>| tmp += sprintf(ESC HIY "Sự giúp đỡ của bạn bè\ntalk %x# welcome.4\n", getoid(this_object()));
+4576|<O>| tmp += sprintf(ESC HIY "Nghe ngóng tin tức\ntalk %x# welcome.11\n", getoid(this_object()));
+4577|<O>| who->add_to_scene(get_z(who), get_x(who), get_y(who), get_d(who));    // Vào lại cảnh
+4578|<O>| send_user(who, "%c%s", ':', me->get_name() + ":\nĐịa vị của bạn trong “" + name + "” chưa đủ!\n");
+4579|<O>| //        ||      get_effect(who, EFFECT_CHAR_FAINT_0) ) return 2;    // Thực thi thành công
+4580|<O>| tmp += sprintf(ESC HIY "Tín vật của Trình Cường\ntalk %x# welcome.1\n", getoid(this_object()));
+4581|<O>| tmp += sprintf(ESC HIY "Tiêu diệt thằn lằn bốn chân\ntalk %x# welcome.1\n", getoid(this_object()));
+4582|<O>| send_user(who, "%c%s", ':', me->get_name() + ":\nBạn muốn đặt thuế suất khía cạnh nào của thành này?(tiêu hao 10 thể lực)\n" +
+4583|<O>| } else if(rate < 10000) {	//	ix.	Xác suất 10 rơi ra Dược thủy hồi phục nhỏ tức hiệu。	//8-23	xvii.	Xác suất 15 rơi ra Dược thủy hồi phục nhỏ tức hiệu。
+4584|<O>| send_user( me, "%c%d%c", 0x4e, getoid(item), item->get_amount() );    // Gửi bù tin nhắn
+4585|<O>| tmp += sprintf(ESC HIY "Sai vặt ngon của Vương Bộ Đầu\ntalk %x# visit.1\n", getoid(this_object()));
+4586|<O>| tmp += sprintf(ESC HIY "Hỏi thăm tin tức\ntalk %x# welcome.1\n", getoid(this_object()));
+4587|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_NEWBIE_01,8,"Búa sắt của ông chủ tiệm sửa chữa(hoàn thành)" );
+4588|<O>| tmp += sprintf(ESC HIY "Phiền não từ giấc mơ\ntalk %x# welcome.4\n", getoid(this_object()));
+4589|<O>| case "sell2": keyH = "$sell2$H";  keyL = "$sell2$L";  break;    // Tiền bán đồ(lập sạp)
+4590|<O>| if (p = get_valid_xy(z, x, y, IS_ITEM_BLOCK))	//Một món trang bị vàng môn phái ngẫu nhiên cấp 60 hoặc 70 (chọn một trong hai) (hoặc vũ khí)
+4591|<O>| tmp += sprintf(ESC HIY "Thử luyện thân thủ\ntalk %x# welcome.4\n", getoid(this_object()));
+4592|<O>| me->add_strength(-1);    // Kinh nghiệm nông phu +60, trung thành +3, thành tín +60, dũng cảm +60, danh vọng +3, cống hiến quốc gia +10
+4593|<O>| send_user(who, "%c%s", '!', sprintf("Bạn không có công cụ %s từ cấp %d trở lên!", tool_level, pf_name));
+4594|<O>| case EFFECT_CHAR_LAZY_0: send_user(me, "%c%c%c", 0x3d, 241, 2);    // Khôi phục số bước đi
+4595|<O>| tmp += sprintf(ESC HIY "Ba chiếc lông vũ\ntalk %x# welcome.1\n", getoid(this_object()));
+4596|<O>| return sprintf("［Tinh luyện］ Phòng pháp %+d\n［Trang bị áp dụng］ Quần áo、đai lưng、dây chuyền、giày、mũ", me->get_diamond_add());
+4597|<O>| CHAT_D->rumor_channel(0, CHAT + "Nghe nói Đại tướng quân uy vũ đã bị dũng sĩ " + who->get_name() + " tiêu diệt!");
+4598|<O>| tmp += sprintf(ESC HIY "Kiếp nạn thứ ba\ntalk %x# welcome.7\n", getoid(this_object()));
+4599|<O>| if( ( level = skill_317 ) >= 1 || ( level = skill_348 ) >= 1 )    // Hộ thể kim cương－tụ khí
+4600|<O>| tmp += sprintf(ESC HIY "Trừ khử ác phỉ\ntalk %x# welcome.6\n", getoid(this_object()));
+4601|<O>| &&      inside_screen_2(who, npc) && inside_screen_2(me, npc) )    // Chủ nhân tấn công mục tiêu
+4602|<O>| //        if( ( time = gone_time( npc->get("birthday") ) ) < 180 )    // 3 phút
+4603|<O>| result += sprintf(ESC"Xin học cường hóa kỹ năng môn phái\ntalk %x# apprentice.15\n",getoid(master));
+4604|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 20\n    Ban cho đồng đội hoặc bản thân sự bảo hộ Kim Cương, mỗi lần chịu công kích vật lý cận chiến sẽ phản lại sát thương cho kẻ tấn công。";

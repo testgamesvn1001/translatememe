@@ -1,0 +1,33 @@
+2739|<O>| if (!clonep(me)) return "Vật liệu đặc biệt dùng để cường hóa trang bị, thuộc tính tăng thêm chịu ảnh hưởng bởi cấp độ linh thạch. Linh thạch cùng loại cùng cấp cũng có thể kết hợp với tinh thạch hoặc linh thạch cùng loại cùng cấp để nâng cấp。\n［Tinh luyện］ Phòng pháp thuật\n［Trang bị áp dụng］ Y phục, đai lưng, dây chuyền, giày, mũ";
+2740|<O>| USER_EFFECT_D->into_effect(me, effect1, effect2, effect3, effect4, effect5, effect6, effect7, effect8);    // Xử lý trạng thái
+2741|<O>| if (!clonep(me)) return "Vật liệu đặc biệt dùng để cường hóa trang bị, thuộc tính tăng thêm chịu ảnh hưởng bởi cấp độ linh thạch. Linh thạch cùng loại cùng cấp cũng có thể kết hợp với tinh thạch hoặc linh thạch cùng loại cùng cấp để nâng cấp。\n［Tinh luyện］ Khí huyết\n［Trang bị áp dụng］ Y phục, đai lưng, dây chuyền, giày, mũ";
+2742|<O>| result = get_name() + ":\n    Ngươi vừa mới đến thôn này, có lẽ vẫn chưa quá quen thuộc với hoàn cảnh ở đây. Thế này nhé, ngươi cứ men theo con đường đá xanh bên cạnh ta mà đi thẳng lên, qua tiệm cầm đồ, tìm ông chủ tiệm vũ khí, thay ta hỏi xin ông ấy một thanh kiếm gỗ. Ông ấy sẽ rất sảng khoái mà giao cho ngươi！\n"
+2743|<O>| send_user(who,"%c%c%w%s",':',3,me->get_char_picid(),sprintf("%s:\n    Vẫn chưa tới thời gian nhận đôi。Chúc ngươi chơi game vui vẻ！\n"ESC"Rời khỏi",me->get_name()));
+2744|<O>| //	if (rand<=2) USER_D->user_channel( sprintf("Chúc mừng người chơi %s mở rương báu nhận được phần thưởng %s, hãy cùng chúc mừng cho họ！", me->get_name(), item->get_name()));
+2745|<O>| log_file(LIST_LOG, sprintf(htm, pic2, name, level, "Nam、Nữ", "Đào Hoa Nguyên", ap, rate1, lasting / 100, lasting / 100, value));
+2746|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi xác định muốn dùng một quả hoa cầu để đổi lấy hiệu quả tạm thời “trong 1 giờ tăng 100 điểm công vật lý” không？\n"
+2747|<O>| if (member_array(get_d(who) - 1, ({ (d + 2) % 8, (d + 3) % 8, (d + 4) % 8 })) != -1)    // Chính diện hoặc quay lưng:(d - 1 + 4) % 8 + 1
+2748|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này khi tấn công vật lý có thể gây\nsát thương lên các vật thể trong phạm vi thẳng 2 ô trước mặt.\nVật thể ở ô thứ nhất chịu 100% sát thương vật lý của thú cưng, còn vật thể ở\nô thứ hai chịu 80% sát thương vật lý của thú cưng";
+2749|<O>| ITEM_EFFECT_D->into_effect(me, effect1, effect2, effect3, effect4, effect5, effect6, effect7, effect8);    // Xử lý trạng thái
+2750|<O>| //                                      set_heart_count(me, speed - heart % speed);    // Đặt lại cờ nhịp tim(chủ), 0.? giây vào nhịp tim(đi bộ)
+2751|<O>| FAMILY_D->family_channel(result, 0, sprintf(HIY "%s(%d) quyết định rời khỏi môn hạ “%s”！！！", me->get_name(), me->get_number(), result));
+2752|<O>| if (!clonep(me)) return "Vật liệu đặc biệt dùng để cường hóa trang bị, thuộc tính tăng thêm chịu ảnh hưởng bởi cấp độ linh thạch. Linh thạch cùng loại cùng cấp cũng có thể kết hợp với tinh thạch hoặc linh thạch cùng loại cùng cấp để nâng cấp。\n［Tinh luyện］ Pháp lực\n［Trang bị áp dụng］ Y phục, đai lưng, dây chuyền, giày, mũ";
+2753|<O>| &&      inside_screen_2(me, member) && member->get_quest("escort.time")==who->get_quest("escort.time"))    // Tổ đội hoàn thành
+2754|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi xác định muốn dùng một quả hoa cầu để đổi lấy hiệu quả tạm thời “trong 1 giờ tăng 100 điểm công pháp thuật” không？\n"
+2755|<O>| send_user(me, "%c%c%w%s", ':', 3, who->get_char_picid(), sprintf("%s:\n    Ngài không phù hợp điều kiện nhận thưởng！！！"ESC"Rời khỏi", who->get_name()));
+2756|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Loại người này thật quá đáng ghét！\n"ESC"Rời khỏi", me->get_name()));
+2757|<O>| NPC_EFFECT_D->into_effect(me, effect1, effect2, effect3, effect4, effect5, effect6, effect7, effect8);    // Xử lý trạng thái
+2758|<O>| log_file("deposit.dat", sprintf("%s %s(%d) dùng Phù Thần Tài nạp %d\n", short_time(), who->get_id(), who->get_number(), price));
+2759|<O>| if (result2 != "") CHAT_D->sys_channel(0, CHAT + sprintf("Chúc mừng "HIR"%s"NOR" nhận được phần thưởng "HIR"%s", who->get_name(), result2));
+2760|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi xác định muốn dùng một quả cầu đỏ để đổi lấy hiệu quả tạm thời “trong 1 giờ tăng 200 điểm giới hạn pháp lực” không？\n"
+2761|<O>| cWord = sprintf(me->get_name() + ":\n    %s, gặp được ngươi đúng lúc quá。\n    Vốn ta định mua %s về, nhưng vì vướng bận công vụ không thể rời thân, ngươi có thể giúp ta việc này không？",who->get_name(),name);
+2762|<O>| log_file("schoolvote.txt",sprintf("%s %s %d %s tham gia tranh cử\n",short_time(),fam_name,who->get_number(),who->get_name()));
+2763|<O>| CHAT_D->rumor_gm_channel(0, sprintf(CHAT "%s:%s" HIM " -- %s(%d)", "Người nào đó", arg, me->get_name(), me->get_number()));
+2764|<O>| send_user(who,"%c%c%w%s",':',3,me->get_char_picid(),sprintf("%s:\n    Chúc mừng ngươi trở thành Tân Nhân Vương được vạn người chú ý！\n"ESC"Rời khỏi",me->get_name(),));
+2765|<O>| send_user(player,"%c%c%w%s",':',3,npc->get_char_picid(),npc->get_name()+":\n"+"    Cảm ơn ngươi đã giúp đỡ, đây là phần thưởng dành cho ngươi。\n"+ESC"Xác định\n");
+2766|<O>| sprintf("%s:\n    A, ngươi chính là %s phải không. Ta đã thấy tên ngươi trong sổ danh bộ rồi, nhìn tư chất của ngươi không tệ, hẳn là nguyên liệu tốt để luyện võ。\n    Nói ngắn gọn, ta sẽ giải thích cho ngươi kiến thức lý thuyết liên quan đến thuộc tính nhân vật và kỹ xảo chiến đấu thực tế. Nếu nghe hiểu thì khóa học sẽ bắt đầu ngay！\n"
+2767|<O>| send_user(me, "%c%c%d%s", '?', 16, 60, "Xin hãy nhập thời gian bắt đầu và kết thúc của hoạt động Tết Đoan Ngọ（ví dụ:200706190900-200706192300 ）:\n"ESC"party 53.%s\n");
+2768|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Tìm được bản vẽ cung điện chưa？\n"ESC"Rời khỏi", me->get_name()));
+2769|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), "Như Ý Tiên Tử:\n    Vật phẩm trên người ngài hình như hơi nhiều rồi, trước tiên hãy tới cửa hàng dọn bớt túi rồi quay lại chỗ bản tiên tử nhận quà nhé～", );
+2770|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    Ngươi xác định muốn hủy báo danh chiến trường Trường Bình không？Nếu làm vậy, muốn tham gia trận chiến tiếp theo thì ngươi bắt buộc phải chờ ít nhất 3 phút mới có thể báo danh lại. Ngươi xác định muốn làm như vậy sao？\n"
+2771|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi xác định muốn dùng một quả cầu đỏ để đổi lấy hiệu quả tạm thời “trong 1 giờ tăng 200 điểm giới hạn khí huyết” không？\n"

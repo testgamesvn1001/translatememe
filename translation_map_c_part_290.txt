@@ -1,0 +1,64 @@
+﻿10685|<O>| sprintf(ESC"12点兑换高级药品一个\ntalk %x# exchange.3\n",id) +
+10686|<O>| send_user(me, "%c%s", ':', "您的宠物:英明的双子,使用时间增加了14天。");
+10687|<O>| if (objectp(item = present("复生丹", me, 1, MAX_CARRY)))
+10688|<O>| #define SKILL_FINAL	"/item/final/86/7065"				// 制作的结果
+10689|<O>| #define SKILL_FINAL	"/item/final/70/1055"				// 制作的结果
+10690|<O>| #define SKILL_FINAL	"/item/final/86/5035"				// 制作的结果
+10691|<O>| #define SKILL_FINAL	"/item/final/88/4055"				// 制作的结果
+10692|<O>| #define SKILL_FINAL	"/item/final/88/7055"				// 制作的结果
+10693|<O>| #define SKILL_FINAL	"/item/final/65/3065"				// 制作的结果
+10694|<O>| #define SKILL_FINAL	"/item/final/65/2105"				// 制作的结果
+10695|<O>| #define SKILL_FINAL	"/item/final/60/6095"				// 制作的结果
+10696|<O>| send_user(who, "%c%s", '!', "你的包裹已满，不能得到赔偿，请清空后再来。");
+10697|<O>| #define SKILL_FINAL	"/item/final/88/7105"				// 制作的结果
+10698|<O>| #define SKILL_FINAL	"/item/final/88/6045"				// 制作的结果
+10699|<O>| #define SKILL_FINAL	"/item/final/60/5115"				// 制作的结果
+10700|<O>| #define SKILL_FINAL	"/item/final/65/4110"				// 制作的结果
+10701|<O>| #define SKILL_FINAL	"/item/final/86/1085"				// 制作的结果
+10702|<O>| return "居家旅行时所用的小背包，\n可增加使用者12格的背包空间。\n包裹10天后会自动损坏。";
+10703|<O>| #define SKILL_FINAL	"/item/final/88/4075"				// 制作的结果
+10704|<O>| #define SKILL_FINAL	"/item/final/75/1035"				// 制作的结果
+10705|<O>| #define SKILL_FINAL	"/item/final/76/1105"				// 制作的结果
+10706|<O>| #define SKILL_FINAL	"/item/final/65/1095"				// 制作的结果
+10707|<O>| #define SKILL_FINAL	"/item/final/65/1075"				// 制作的结果
+10708|<O>| #define SKILL_FINAL	"/item/final/65/2115"				// 制作的结果
+10709|<O>| #define SKILL_FINAL	"/item/final/86/6035"				// 制作的结果
+10710|<O>| #define SKILL_FINAL	"/item/final/74/1115"				// 制作的结果
+10711|<O>| #define SKILL_FINAL	"/item/final/60/5085"				// 制作的结果
+10712|<O>| #define SKILL_FINAL	"/item/final/60/6085"				// 制作的结果
+10713|<O>| send_user(me, "%c%s", '!', "您正在研读" + result + "之中。");
+10714|<O>| #define SKILL_FINAL	"/item/final/65/3115"				// 制作的结果
+10715|<O>| #define SKILL_FINAL	"/item/final/65/7095"				// 制作的结果
+10716|<O>| #define SKILL_FINAL	"/item/final/75/1120"				// 制作的结果
+10717|<O>| SAY_CMD->say(me, who->get_name() + "，死亡的拥抱不一定是冰冷的。");
+10718|<O>| #define SKILL_FINAL	"/item/final/70/1115"				// 制作的结果
+10719|<O>| return HIR + PF_NAME + "\n    基本棍法攻击技，攻击的同时追加10点伤害。";
+10720|<O>| if (MAP_D->is_inside_safe_zone(z0, x, y))    // 安全区判断
+10721|<O>| send_user(who, "%c%s", ';', "很抱歉，你抓的坏小猴数量不足哦，继续努力吧");
+10722|<O>| #define SKILL_FINAL	"/item/final/65/4115"				// 制作的结果
+10723|<O>| #define SKILL_FINAL	"/item/final/86/4095"				// 制作的结果
+10724|<O>| if (me->get_action_mode()!=1) return;	// 在回主人身边的时候不攻击
+10725|<O>| if (gone_time(me->get_time("remove")) < 1)    // 时间限制
+10726|<O>| #define SKILL_FINAL	"/item/final/86/5075"				// 制作的结果
+10727|<O>| #define SKILL_FINAL	"/item/final/88/3055"				// 制作的结果
+10728|<O>| #define SKILL_FINAL	"/item/final/88/4065"				// 制作的结果
+10729|<O>| #define SKILL_FINAL	"/item/final/60/1095"				// 制作的结果
+10730|<O>| #define SKILL_FINAL	"/item/final/65/7065"				// 制作的结果
+10731|<O>| send_user(who, "%c%s", '!', sprintf(HIY"葱 %d/3", i));
+10732|<O>| send_user( who, "%c%s", '>', sprintf("你得到%s",name) );
+10733|<O>| #define SKILL_FINAL	"/item/final/88/7075"				// 制作的结果
+10734|<O>| call_out("message_box", 1, me, 1, sprintf("%d金", i));
+10735|<O>| #define SKILL_FINAL	"/item/final/88/6105"				// 制作的结果
+10736|<O>| #define SKILL_FINAL	"/item/final/76/1085"				// 制作的结果
+10737|<O>| ESC "关闭\nCLOSE\n", me->get_name(), y / (24 * 3600)));
+10738|<O>| #define SKILL_FINAL	"/item/final/88/6075"				// 制作的结果
+10739|<O>| #define SKILL_FINAL	"/item/final/86/7045"				// 制作的结果
+10740|<O>| #define SKILL_FINAL	"/item/final/65/5120"				// 制作的结果
+10741|<O>| #define SKILL_FINAL	"/item/final/88/6055"				// 制作的结果
+10742|<O>| result += sprintf("  潜能:%10d", who->get_potential());
+10743|<O>| #define SKILL_FINAL	"/item/final/76/1115"				// 制作的结果
+10744|<O>| #define SKILL_FINAL	"/item/final/71/1065"				// 制作的结果
+10745|<O>| #define SKILL_FINAL	"/item/final/70/1035"				// 制作的结果
+10746|<O>| #define SKILL_FINAL	"/item/final/76/1075"				// 制作的结果
+10747|<O>| #define SKILL_FINAL	"/item/final/74/1075"				// 制作的结果
+10748|<O>| #define SKILL_FINAL	"/item/final/65/2095"				// 制作的结果

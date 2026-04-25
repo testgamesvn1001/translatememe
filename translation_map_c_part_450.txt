@@ -1,146 +1,146 @@
-﻿26006|<O>| set_name("乾坤挪移");
-26007|<O>| set_name("寒星披风");
-26008|<O>| set_name("水贼头目");
-26009|<O>| "金之魂" : "\"26\"",
-26010|<O>| return "学习制作长戟。";
-26011|<O>| set_name("魏国使节");
-26012|<O>| set_name("翠玉腰带");
-26013|<O>| "金片" : "\"284\"",
-26014|<O>| set_name("《周易》");
-26015|<O>| return "包粽子用的蓼叶";
-26016|<O>| set_name("猎鹰项链");
-26017|<O>| set_name("圣诞老人");
-26018|<O>| set_name("绿臂螳螂");
-26019|<O>| set_name("杏风腰带");
-26020|<O>| set_name("飞云将军");
-26021|<O>| set_name("楚军剑兵");
-26022|<O>| set_name("金片锻造");
-26023|<O>| set_name("小山鸡卡");
-26024|<O>| set_name("霸刀统帅");
-26025|<O>| set_name("土匪马大");
-26026|<O>| set_name("石刻进阶");
-26027|<O>| set_name("燕国百姓");
-26028|<O>| set_name("传风腰带");
-26029|<O>| set_name("恶霸张山");
-26030|<O>| set_name("炎鳞战衣");
-26031|<O>| "锡环" : "\"248\"",
-26032|<O>| set_name("抵抗强化");
-26033|<O>| set_name("唤云头巾");
-26034|<O>| set_name("天尊战靴");
-26035|<O>| set_name("英杰拳刃");
-26036|<O>| set_name("腾龙盔甲");
-26037|<O>| "萝卜" : "\"150\"",
-26038|<O>| set_name("赶日腰带");
-26039|<O>| set_name("炼药配方");
-26040|<O>| set_name("“二筒”");
-26041|<O>| set_name("青铜护手");
-26042|<O>| result = "3000金";
-26043|<O>| "锡丝" : "\"319\"",
-26044|<O>| set_name("黄芪加工");
-26045|<O>| set_name("铁棒图纸");
-26046|<O>| return "学习制作银套。";
-26047|<O>| set_name("梁王残魄");
-26048|<O>| set_name("龙神圣袍");
-26049|<O>| set_name("战神腰带");
-26050|<O>| set_name("兽牙项链");
-26051|<O>| set_name("舞天行装");
-26052|<O>| set_name("炫御帽冠");
-26053|<O>| set_name("秋水巾帽");
-26054|<O>| set_name("骷髅统领");
-26055|<O>| set_name("银丝图纸");
-26056|<O>| set_name("玄天神甲");
-26057|<O>| "白芪" : "\"125\"",
-26058|<O>| set_name("《春秋》");
-26059|<O>| 由cjxx 创建 07-07-04
-26060|<O>| set_name("白芪加工");
-26061|<O>| set_name("周国药师");
-26062|<O>| set_name("雷神之链");
-26063|<O>| set_name("守阵天兵");
-26064|<O>| set_name("鲁班宝石");
-26065|<O>| set_name("翻云头巾");
-26066|<O>| set_name("鹰爪拳套");
-26067|<O>| set_name("刀剑格挡");
-26068|<O>| "锡套" : "\"247\"",
-26069|<O>| set_name("战狼皮帽");
-26070|<O>| set_name("龙神战盔");
-26071|<O>| //	返回下一次需要回调的时钟编号
-26072|<O>| "莲藕" : "\"155\"",
-26073|<O>| set_name("泰阿锻造");
-26074|<O>| set_name("青铜炸弹");
-26075|<O>| set_name("炎阳项链");
-26076|<O>| return "学习制造赤虎盔";
-26077|<O>| "大蒜" : "\"167\"",
-26078|<O>| if ( pos )	//重新排序
-26079|<O>| set_name("降魔法咒");
-26080|<O>| set_name("持扇草人");
-26081|<O>| set_name("强效物防");
-26082|<O>| set_name("祁龙彩衣");
-26083|<O>| return "学习制作铁片。";
-26084|<O>| set_name("龙睛之链");
-26085|<O>| set_name("日月星辰");
-26086|<O>| set_name("炫御腰带");
-26087|<O>| set_name("韩国工匠");
-26088|<O>| "白菜" : "\"151\"",
-26089|<O>| set_name("虎头素裙");
-26090|<O>| set_name("《中庸》");
-26091|<O>| case 2: // 用于钱庄物品
-26092|<O>| set_name("混鳞披风");
-26093|<O>| set_name("凤凰珠链");
-26094|<O>| "元魄" : "\"310\"",
-26095|<O>| notify("技能尚未开放");
-26096|<O>| set_name("神游进阶");
-26097|<O>| set_name("翻云彩衣");
-26098|<O>| "松木棒" : "\"18\"",
-26099|<O>| "桃木" : "\"104\"",
-26100|<O>| set_name("幽明项链");
-26101|<O>| set_name("云龙彩衣");
-26102|<O>| return "学习制造流云巾";
-26103|<O>| set_name("银片图纸");
-26104|<O>| set_name("沙场腰带");
-26105|<O>| return "学习锻造麻蜂针";
-26106|<O>| set_name("冰魄战甲");
-26107|<O>| set_name("甘草加工");
-26108|<O>| set_name("生命项链");
-26109|<O>| "紫玉石" : "\"74\"",
-26110|<O>| set_name("猎豹腰带");
-26111|<O>| set_name("鹤顶红粉");
-26112|<O>| set_name("戮魂项链");
-26113|<O>| set_name("铁匠进阶");
-26114|<O>| return "学习锻造蓬莱矛";
-26115|<O>| set_name("开门芝麻");
-26116|<O>| set_name("虎翼镜魔");
-26117|<O>| set_name("含魂之链");
-26118|<O>| set_name("守阵神将");
-26119|<O>| set_name("天门阵法");
-26120|<O>| set_name("帮派信物");
-26121|<O>| set_name("水魂项链");
-26122|<O>| set_name("水青腰带");
-26123|<O>| else    // 跨越场景行走
-26124|<O>| set_name("神龙噬火");
-26125|<O>| set_name("地灵长靴");
-26126|<O>| _DEBUG("没有战国宝典");
-26127|<O>| set_name("紫云霞冠");
-26128|<O>| set_name("地狱恶贼");
-26129|<O>| set_name("云龙战袍");
-26130|<O>| set_name("云龙战帽");
-26131|<O>| return "学习制作铜棍。";
-26132|<O>| set_name("铁管制作");
-26133|<O>| set_name("风雷头巾");
-26134|<O>| set_name("追云素裙");
-26135|<O>| set_name("神行项链");
-26136|<O>| set_name("荧光腰带");
-26137|<O>| set_name("速风披风");
-26138|<O>| set_name("神游秘籍");
-26139|<O>| set_name("野菊花粉");
-26140|<O>| set_name("闪耀之链");
-26141|<O>| else    // 近身攻击的怪
-26142|<O>| set_name("腾龙之靴");
-26143|<O>| ESC "取消\nCLOSE");
-26144|<O>| set_name("铜剑图纸");
-26145|<O>| set_name("腾龙腰带");
-26146|<O>| set_name("混雷霞冠");
-26147|<O>| set_name("裁缝秘籍");
-26148|<O>| set_name("子恒道人");
-26149|<O>| set_name("测试场景");
-26150|<O>| set_name("云龙战盔");
-26151|<O>| set_name("判命道士");
+﻿26006|<O>| set_name("Càn Khôn Na Di");
+26007|<O>| set_name("Hàn Tinh Phi Phong");
+26008|<O>| set_name("Đầu mục thuỷ tặc");
+26009|<O>| "Kim Chi Hồn" : "\"26\"",
+26010|<O>| return "Học chế tạo Trường Kích.";
+26011|<O>| set_name("Sứ Tiết Nguỵ Quốc");
+26012|<O>| set_name("Thuý Ngọc Yêu Đái");
+26013|<O>| "Kim Phiến" : "\"284\"",
+26014|<O>| set_name("《Chu Dịch》");
+26015|<O>| return "Lá liễu dùng để gói bánh chưng";
+26016|<O>| set_name("Liệp Ưng Hạng Liên");
+26017|<O>| set_name("Ông Già Noel");
+26018|<O>| set_name("Lục Tý Đường Lang");
+26019|<O>| set_name("Hạnh Phong Yêu Đái");
+26020|<O>| set_name("Phi Vân Tướng Quân");
+26021|<O>| set_name("Kiếm binh Sở Quân");
+26022|<O>| set_name("Đoạn tạo Kim Phiến");
+26023|<O>| set_name("Thẻ Tiểu Sơn Kê");
+26024|<O>| set_name("Bá Đao Thống Soái");
+26025|<O>| set_name("Thổ phỉ Mã Đại");
+26026|<O>| set_name("Thạch Khắc Tiến Giai");
+26027|<O>| set_name("Bách Tính Yên Quốc");
+26028|<O>| set_name("Truyền Phong Yêu Đái");
+26029|<O>| set_name("Ác bá Trương Sơn");
+26030|<O>| set_name("Viêm Lân Chiến Y");
+26031|<O>| "Tích Hoàn" : "\"248\"",
+26032|<O>| set_name("Để Kháng Cường Hoá");
+26033|<O>| set_name("Hoán Vân Đầu Cân");
+26034|<O>| set_name("Thiên Tôn Chiến Ngoa");
+26035|<O>| set_name("Anh Kiệt Quyền Nhẫn");
+26036|<O>| set_name("Đằng Long Khôi Giáp");
+26037|<O>| "Củ Cải" : "\"150\"",
+26038|<O>| set_name("Cản Nhật Yêu Đái");
+26039|<O>| set_name("Luyện Dược Phối Phương");
+26040|<O>| set_name(""Nhị Đồng"");
+26041|<O>| set_name("Thanh Đồng Hộ Thủ");
+26042|<O>| result = "3000 vàng";
+26043|<O>| "Tích Ti" : "\"319\"",
+26044|<O>| set_name("Gia công Hoàng Kỳ");
+26045|<O>| set_name("Đồ chỉ Thiết Bổng");
+26046|<O>| return "Học chế tạo Ngân Sáo.";
+26047|<O>| set_name("Lương Vương Tàn Phách");
+26048|<O>| set_name("Long Thần Thánh Bào");
+26049|<O>| set_name("Chiến Thần Yêu Đái");
+26050|<O>| set_name("Thú Nha Hạng Liên");
+26051|<O>| set_name("Vũ Thiên Hành Trang");
+26052|<O>| set_name("Huyễn Ngự Mạo Quán");
+26053|<O>| set_name("Thu Thuỷ Cân Mạo");
+26054|<O>| set_name("Khô Lâu Thống Lĩnh");
+26055|<O>| set_name("Đồ chỉ Ngân Ti");
+26056|<O>| set_name("Huyền Thiên Thần Giáp");
+26057|<O>| "Bạch Kỳ" : "\"125\"",
+26058|<O>| set_name("《Xuân Thu》");
+26059|<O>| Do cjxx tạo 07-07-04
+26060|<O>| set_name("Gia công Bạch Kỳ");
+26061|<O>| set_name("Dược sư Chu Quốc");
+26062|<O>| set_name("Lôi Thần Chi Liên");
+26063|<O>| set_name("Thủ Trận Thiên Binh");
+26064|<O>| set_name("Lỗ Ban Bảo Thạch");
+26065|<O>| set_name("Phiên Vân Đầu Cân");
+26066|<O>| set_name("Ưng Trảo Quyền Sáo");
+26067|<O>| set_name("Đao Kiếm Cách Đáng");
+26068|<O>| "Tích Sáo" : "\"247\"",
+26069|<O>| set_name("Chiến Lang Bì Mạo");
+26070|<O>| set_name("Long Thần Chiến Khôi");
+26071|<O>| //	Trả về số hiệu đồng hồ cần gọi lại tiếp theo
+26072|<O>| "Liên Ngẫu" : "\"155\"",
+26073|<O>| set_name("Đoạn tạo Thái A");
+26074|<O>| set_name("Thanh Đồng Tạc Đạn");
+26075|<O>| set_name("Viêm Dương Hạng Liên");
+26076|<O>| return "Học chế tạo Xích Hổ Khôi";
+26077|<O>| "Tỏi" : "\"167\"",
+26078|<O>| if ( pos )	//Sắp xếp lại
+26079|<O>| set_name("Hàng Ma Pháp Chú");
+26080|<O>| set_name("Người rơm cầm quạt");
+26081|<O>| set_name("Cường Hiệu Vật Phòng");
+26082|<O>| set_name("Kỳ Long Thái Y");
+26083|<O>| return "Học chế tạo Thiết Phiến.";
+26084|<O>| set_name("Long Tình Chi Liên");
+26085|<O>| set_name("Nhật Nguyệt Tinh Thần");
+26086|<O>| set_name("Huyễn Ngự Yêu Đái");
+26087|<O>| set_name("Thợ thủ công Hàn Quốc");
+26088|<O>| "Bắp Cải" : "\"151\"",
+26089|<O>| set_name("Hổ Đầu Tố Quần");
+26090|<O>| set_name("《Trung Dung》");
+26091|<O>| case 2: // Dùng cho vật phẩm tiền trang
+26092|<O>| set_name("Hỗn Lân Phi Phong");
+26093|<O>| set_name("Phượng Hoàng Châu Liên");
+26094|<O>| "Nguyên Phách" : "\"310\"",
+26095|<O>| notify("Kỹ năng chưa mở");
+26096|<O>| set_name("Thần Du Tiến Giai");
+26097|<O>| set_name("Phiên Vân Thái Y");
+26098|<O>| "Tùng Mộc Bổng" : "\"18\"",
+26099|<O>| "Đào Mộc" : "\"104\"",
+26100|<O>| set_name("U Minh Hạng Liên");
+26101|<O>| set_name("Vân Long Thái Y");
+26102|<O>| return "Học chế tạo Lưu Vân Cân";
+26103|<O>| set_name("Đồ chỉ Ngân Phiến");
+26104|<O>| set_name("Sa Trường Yêu Đái");
+26105|<O>| return "Học đoạn tạo Ma Phong Châm";
+26106|<O>| set_name("Băng Phách Chiến Giáp");
+26107|<O>| set_name("Gia công Cam Thảo");
+26108|<O>| set_name("Sinh Mệnh Hạng Liên");
+26109|<O>| "Tử Ngọc Thạch" : "\"74\"",
+26110|<O>| set_name("Liệp Báo Yêu Đái");
+26111|<O>| set_name("Hạc Đỉnh Hồng Phấn");
+26112|<O>| set_name("Lục Hồn Hạng Liên");
+26113|<O>| set_name("Thiết Tượng Tiến Giai");
+26114|<O>| return "Học đoạn tạo Bồng Lai Mâu";
+26115|<O>| set_name("Mở Cửa Mè Ơi");
+26116|<O>| set_name("Hổ Dực Kính Ma");
+26117|<O>| set_name("Hàm Hồn Chi Liên");
+26118|<O>| set_name("Thủ Trận Thần Tướng");
+26119|<O>| set_name("Thiên Môn Trận Pháp");
+26120|<O>| set_name("Tín Vật Bang Phái");
+26121|<O>| set_name("Thuỷ Hồn Hạng Liên");
+26122|<O>| set_name("Thuỷ Thanh Yêu Đái");
+26123|<O>| else    // Đi bộ xuyên cảnh
+26124|<O>| set_name("Thần Long Thệ Hoả");
+26125|<O>| set_name("Địa Linh Trường Ngoa");
+26126|<O>| _DEBUG("Không có Chiến Quốc Bảo Điển");
+26127|<O>| set_name("Tử Vân Hà Quán");
+26128|<O>| set_name("Địa Ngục Ác Tặc");
+26129|<O>| set_name("Vân Long Chiến Bào");
+26130|<O>| set_name("Vân Long Chiến Mạo");
+26131|<O>| return "Học chế tạo Đồng Côn.";
+26132|<O>| set_name("Chế tạo Thiết Quản");
+26133|<O>| set_name("Phong Lôi Đầu Cân");
+26134|<O>| set_name("Truy Vân Tố Quần");
+26135|<O>| set_name("Thần Hành Hạng Liên");
+26136|<O>| set_name("Huỳnh Quang Yêu Đái");
+26137|<O>| set_name("Tốc Phong Phi Phong");
+26138|<O>| set_name("Thần Du Bí Kíp");
+26139|<O>| set_name("Dã Cúc Hoa Phấn");
+26140|<O>| set_name("Thiểm Diệu Chi Liên");
+26141|<O>| else    // Quái cận chiến
+26142|<O>| set_name("Đằng Long Chi Ngoa");
+26143|<O>| ESC "Huỷ\nCLOSE");
+26144|<O>| set_name("Đồ chỉ Đồng Kiếm");
+26145|<O>| set_name("Đằng Long Yêu Đái");
+26146|<O>| set_name("Hỗn Lôi Hà Quán");
+26147|<O>| set_name("Tài Phùng Bí Kíp");
+26148|<O>| set_name("Tử Hằng Đạo Nhân");
+26149|<O>| set_name("Cảnh Thử Nghiệm");
+26150|<O>| set_name("Vân Long Chiến Khôi");
+26151|<O>| set_name("Phán Mệnh Đạo Sĩ");

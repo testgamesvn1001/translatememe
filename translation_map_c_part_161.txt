@@ -1,0 +1,42 @@
+3715|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này, khi dùng kỹ năng có thể dò ra toàn bộ mục tiêu ẩn thân\ntrong phạm vi 5×5 lấy bản thân thú cưng làm trung tâm, thời gian hồi kỹ năng 20 giây, khiến chúng hiện nguyên hình。";
+3716|<O>| //                        send_user( me, "%c%w%c%w", 0x50, 0, 0xff, 2 );    // Tất cả chiêu thức có thể dùng sau 2 giây
+3717|<O>| "Kiếm+30" : "\"/item/73/1030\"", "Kiếm+40" : "\"/item/73/1040\"", "Kiếm+50" : "\"/item/73/1050\"",
+3718|<O>| if (!objectp(item = present("Bùa giấy", me, 1, MAX_CARRY * 4)))    // || item->get_amount() < 2
+3719|<O>| else if (objectp(item = present("Dây chuyền trân châu", who, 1, MAX_CARRY)) && item->is_xianglian() == 1)
+3720|<O>| send_user(player, "%c%s", ':', get_name() + ":\n    Rất cảm ơn ngài đã ủng hộ Đại Thoại Chiến Quốc, chúng tôi sẽ đồng lòng hiệp lực làm cho Đại Thoại Chiến Quốc tốt hơn nữa！！！\n");
+3721|<O>| result += sprintf("Nhanh nhẹn:%3d =%3d+%3d", who->get_dex(), who->get_dex_1(), who->get_dex_2());
+3722|<O>| private static object* Equip = ({ 0, 0, 0, 0, 0, 0, 0, 0, 0 });    // Mảng trang bị: đầu、cổ、tay、thân、eo、chân、pháp bảo
+3723|<O>| else write_user( team[i], ECHO "Ngài đánh chết %s, %s kinh nghiệm %+d。", me->get_name(), flag ? "gấp đôi":"", exp2 );
+3724|<O>| write_user( who, ECHO "Ngài hoàn thành nhiệm vụ Vương Bộ Đầu(vòng %d), tiền %+d, kinh nghiệm %+d, tiềm năng %+d。",count+1, gold, exp, pot );
+3725|<O>| return sprintf("［Tinh luyện］ Mệnh trung %+.2f％\n［Trang bị áp dụng］ Vũ khí、dây chuyền、đai lưng", to_float(me->get_diamond_add()) / 100);
+3726|<O>| result += sprintf("Tinh thần:%3d =%3d+%3d", who->get_spi(), who->get_spi_1(), who->get_spi_2());
+3727|<O>| return sprintf(PF_NAME ":\n　　Tăng %d điểm công vật lý。\n", me->get_save("05011") + me->get("05011"));
+3728|<O>| if (c > 0 && c != level) result += sprintf(ESC "Thay túi đạo cụ cột thứ ba\nbag %x# 32\n", getoid(item));
+3729|<O>| send_user(me, "%c%c%w%s", ':', 3, who->get_char_picid(), sprintf("%s:\n    Ngươi không phải người chơi cần được phát bù。\n"
+3730|<O>| log_file("hulu.txt", sprintf("%s %s(%s) hết hạn ký gửi, hoàn trả\n", short_time(), mpInfo["name"], id));
+3731|<O>| return sprintf("［" PF_NAME "］Trong thời gian duy trì, ẩn giấu thân hình, chậm rãi tiềm hành, sẽ ảnh hưởng tốc độ di chuyển. Tiêu hao pháp lực:%d, lần dùng kế tiếp cần cách %d giây, %s%d cấp có thể dùng\n",
+3732|<O>| send_user(who, "%c%s", ':', sprintf("%s\n    Thời gian VIP gấp đôi của ngài đã dùng hết。\n"ESC"Rời khỏi", me->get_name()));
+3733|<O>| send_user(user, "%c%s", 0xA3, sprintf(HIY"Chúc mừng người chơi %s nhận được %s khi đổi thưởng！", me->get_name(), result));
+3734|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), "Sứ giả hoạt động Chiến Quốc:\n    Ngài không thể nhận nhiều thời gian kinh nghiệm gấp đôi như vậy！");
+3735|<O>| "Trảo+30" : "\"/item/70/1030\"", "Trảo+40" : "\"/item/70/1040\"", "Trảo+50" : "\"/item/70/1050\"",
+3736|<O>| ESC "Đóng\nCLOSE\n", me->get_name(), who->get_double_time() - i - who->get_game_time() ) );
+3737|<O>| case 2: send_user(who, "%c%s", ':', sprintf("%s:\nBảo gia vệ quốc là trách nhiệm của binh sĩ, cũng là vinh quang của hắn。", me->get_name()));
+3738|<O>| send_user(me, "%c%d%w%c%c%c", 0x6f, getoid(me), 10101, 1, OVER_BODY, PF_STOP);    // Xóa tụ khí
+3739|<O>| if (pf != 3686 && pf != 3643) set_effect_2(me, EFFECT_CHAR_INVISIBLE, 1, 1);    // Ẩn thân(gián đoạn)
+3740|<O>| more_look_menu(who, sprintf("%s:\n    Theo ý ta, nếu đại vương không trừ bỏ bốn kẻ chỉ biết xa xỉ dâm lạc bên cạnh mình, thì nước sẽ chẳng ra nước nữa～～\n", get_name()));
+3741|<O>| send_user(who, "%c%s", ';', sprintf("Vong dương bổ lao  Kinh nghiệm 900  Tiềm năng 100  Tiền 1800  %s 1", tmp->get_name()));
+3742|<O>| if (d > 0 && d != level) result += sprintf(ESC "Thay túi đạo cụ cột thứ tư\nbag %x# 33\n", getoid(item));
+3743|<O>| send_user(me, "%c%c%d%d%s", '?', 3, 0, me->get_save("fly"), "Ngài muốn truyền tống người chơi nào tới bên mình？Xin nhập ID số của đối phương:\n"
+3744|<O>| if (point > get_max_potential()) send_user(this_object(), "%c%s", '!', "Tiềm năng của ngài đã đầy, không thể tăng thêm nữa。");
+3745|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), "Bác sĩ thú cưng:\n    Thú cưng của ngươi đâu？\n"ESC"Rời khỏi", );
+3746|<O>| case 3: send_user(who, "%c%s", ':', sprintf("%s:\nĐi lính thì phải đổ mồ hôi máu, chịu khó huấn luyện mới có hiệu quả。", me->get_name()));
+3747|<O>| send_user(who, "%c%s", ':', me->get_name() + ":\n    Đổi vật thay thế cho nhiệm vụ dự trữ bang phái phải tiêu hao 5 điểm công đức. Ngươi xác định muốn đổi không？\n" +
+3748|<O>| "Đao+30" : "\"/item/72/1030\"", "Đao+40" : "\"/item/72/1040\"", "Đao+50" : "\"/item/72/1050\"",
+3749|<O>| ret = CHAR_FIGHT_D->throwing_done(me, who, HIT_THROWING);  if (!who) return 2;    // Thực thi thành công
+3750|<O>| "Ám+30" : "\"/item/71/1030\"", "Ám+40" : "\"/item/71/1040\"", "Ám+50" : "\"/item/71/1050\"",
+3751|<O>| result = (city->get_2("fish.total") > city->get_2("fish.kill") * 2) ? "" : "đã bị đánh bắt gần cạn kiệt rồi，";
+3752|<O>| "Thương+30" : "\"/item/74/1030\"", "Thương+40" : "\"/item/74/1040\"", "Thương+50" : "\"/item/74/1050\"",
+3753|<O>| send_user(who, "%c%s", ':', me->get_name() + " đang ở " + map->get_name() + " gọi ngươi tới bên hắn, ngươi có muốn qua không？\n"
+3754|<O>| send_user(who, "%c%c%w%s", ':', 3, 6010, sprintf("%s:\n    Báo danh vẫn chưa bắt đầu đâu。\n", me->get_name()));
+3755|<O>| else    send_user(who, "%c%s", ':', sprintf("%s%s%s", text, result, ESC "Rời khỏi。\nCLOSE\n"));
+3756|<O>| //                        CHAT_D->rumor_channel( 0, sprintf( HIM "Quản trị viên game ＧＭ mở kênh tin đồn của %s(%d)。",

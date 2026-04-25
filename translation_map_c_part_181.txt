@@ -1,0 +1,48 @@
+4605|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_DONGTINGHU,1,"Mất dê sửa chuồng(2)(hoàn thành)" );
+4606|<O>| send_user(member[i], "%c%c%c%w%w%s", 0x51, 1, 2, TID_QIXI, 10, "Thất Tịch trời ban kỳ duyên（2）");
+4607|<O>| "Ý nghĩa của phong thủy này ấy mà, chính là cái vỏ bọc của bọn ta là thầy phong thủy, còn sưu tầm bảo vật ấy, chính là thu gom những bảo vật người khác chôn dưới đất mà chẳng dùng làm gì, để chúng được bảo quản tốt hơn và thể hiện giá trị kinh tế lớn hơn，"
+4608|<O>| tmp += sprintf(ESC HIY "Ủy thác lúc lâm chung\ntalk %x# welcome.1\n", getoid(this_object()));
+4609|<O>| CHAT_D->sys_channel(0,HIG"Ông già Noel cưỡi xe trượt tuyết rải những con gà tây Giáng Sinh nóng hổi khắp đại địa Chiến Quốc, mọi người mau đi tìm nhé～ đồng thời ông già Noel chúc mọi người Giáng Sinh vui vẻ。");
+4610|<O>| tmp += sprintf(ESC HIY "Trả lại công cụ\ntalk %x# welcome.4\n", getoid(this_object()));
+4611|<O>| tmp += sprintf(ESC HIY "Hỏi tin tức\ntalk %x# welcome.4\n", getoid(this_object()));
+4612|<O>| tmp = sprintf(ESC HIY "Lời tiên tri đáng sợ\ntalk %x# welcome.1\n", getoid(this_object()));
+4613|<O>| CHAT_D->sys_channel(0,HIR"Ông già Noel cưỡi xe trượt tuyết rải những con gà tây Giáng Sinh nóng hổi khắp đại địa Chiến Quốc, mọi người mau đi tìm nhé～ đồng thời ông già Noel chúc mọi người Giáng Sinh vui vẻ。");
+4614|<O>| send_user(who, "%c%s", ':', me->get_name() + ":\nTrong thành có vài tên lưu manh đang quấy rối, ngươi hãy đi tuần tra khắp nơi nghe ngóng xem。\n");
+4615|<O>| && (z = get_z(owner)) && (x = get_x(owner)) && (y = get_y(owner))    // Tọa độ hợp lệ
+4616|<O>| if (who->get_hurt_2()) prop += ({ sprintf("Phản chấn pháp thuật:%4d", who->get_hurt_2()) });
+4617|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    Kinh nghiệm và tiềm năng trả về từ lần phản sư trước của bạn vẫn chưa lấy lại, chưa thể phản sư nữa。\n",
+4618|<O>| tmp += sprintf(ESC HIY "Kiếp nạn thứ hai\ntalk %x# welcome.4\n", getoid(this_object()));
+4619|<O>| tmp += sprintf(ESC HIY "Hỏi tình hình\ntalk %x# welcome.6\n", getoid(this_object()));
+4620|<O>| send_user(nTeam[i], "%c%c%c%w%w%s", 0x51, 1, 2, TID_WUYIHUODONG, 1, "Xuyên Việt Cực Hạn");
+4621|<O>| tmp += sprintf(ESC HIY "Trổ tài\ntalk %x# welcome.1\n", getoid(this_object()));
+4622|<O>| printf( ECHO "Bạn đã vứt xuống %d %s %s。", amount, item->get_unit(), item->get_name() );
+4623|<O>| tmp += sprintf(ESC HIY "Đổi nghề\ntalk %x# welcome.9\n", getoid(this_object()));
+4624|<O>| return "Tín vật môn phái của Thục Sơn，\nđược luyện chế từ linh khí của kiếm do người sáng lập Thục Sơn trích ra。\nNhấp chuột phải dùng có thể trực tiếp truyền tống về Thục Sơn。\nThời gian hồi:1 phút\nMỗi lần dùng tốn 50 vàng。";
+4625|<O>| tmp += sprintf(ESC HIY "Nước mắt Lam Ma\ntalk %x# welcome.4\n", getoid(this_object()));
+4626|<O>| tmp += sprintf(ESC HIY "Hỏi nguyên nhân\ntalk %x# welcome.1\n", getoid(this_object()));
+4627|<O>| if (sec % 95 == 0) NPC_BATTLE_D->add_comrade_to_battle(map, 2);    // Xử lý mỗi 95 giây
+4628|<O>| tmp += sprintf(ESC HIY "Nỗi khó trong việc dâng thư\ntalk %x# welcome.4\n", getoid(this_object()));
+4629|<O>| tmp += sprintf(ESC HIY "Thu mua châu báu\ntalk %x# welcome.1\n", getoid(this_object()));
+4630|<O>| case "pay": keyH = "$pay$H";  keyL = "$pay$L";  break;    // Tiền đưa cho hệ thống: nhiệm vụ, vào thành....
+4631|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 40, "Tình yêu của võ sĩ（3）(hoàn thành)");
+4632|<O>| //                      write_user( me, ECHO "Bạn dùng " HIY "Kỳ Môn Thổ Độn" ECHO " thành công。" );
+4633|<O>| "Intel(R) Xeon(TM) CPU 3.00GHz i3863d87aa380145e7f8176",	// Mop 61.135.170.56
+4634|<O>| result += sprintf(ESC"Tu sửa %s\ntalk %x# info.3\n", me->get_name(), getoid(me));
+4635|<O>| result += sprintf(ESC"Tu sửa %s\ntalk %x# info.2\n", me->get_name(), getoid(me));
+4636|<O>| return sprintf("［Tinh luyện］ Khí huyết %+d\n［Trang bị áp dụng］ Quần áo、đai lưng、dây chuyền、giày、mũ", me->get_diamond_add());
+4637|<O>| tmp += sprintf(ESC HIY "Hỏi về di sản\ntalk %x# welcome.6\n", getoid(this_object()));
+4638|<O>| tmp += sprintf(ESC HIY "Đánh thức ký ức\ntalk %x# welcome.4\n", getoid(this_object()));
+4639|<O>| SAY_CMD->say(me, sprintf("Ha ha～～! %s mà cũng dám đấu pháp với bần đạo!? Về tu luyện thêm vài kiếp nữa rồi hẵng đến!", enemy->get_name()));
+4640|<O>| return sprintf("Tăng thuộc tính nhân vật\n"HIC"Chiếc nhẫn do Ngưu Lang Chức Nữ tặng, sở hữu sức mạnh thần kỳ\nYêu cầu trang bị:"HIR"Nam giới\n"HIB"Kỷ niệm hoạt động Thất Tịch");
+4641|<O>| tmp += sprintf(ESC HIY "Báo thù rửa hận\ntalk %x# welcome.1\n", getoid(this_object()));
+4642|<O>| tmp += sprintf(ESC HIY "Họp mặt gia đình\ntalk %x# welcome.7\n", getoid(this_object()));
+4643|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 46, "Con thỏ rừng ham ăn(hoàn thành)");
+4644|<O>| tmp += sprintf(ESC HIY "Thăm dò hư thực\ntalk %x# welcome.1\n", getoid(this_object()));
+4645|<O>| tmp += sprintf(ESC HIY "Điều tra lời đồn\ntalk %x# welcome.9\n", getoid(this_object()));
+4646|<O>| tmp += sprintf(ESC HIY "Thăm dò chuyện lạ\ntalk %x# welcome.6\n", getoid(this_object()));
+4647|<O>| _DEBUG(sprintf("Thời gian callback lần sau là %s",show_time_stamp(time()+callout_delay_time*60)));
+4648|<O>| CHAT_D->rumor_channel(0, CHAT + sprintf("Nghe nói phản đồ âm gian đã bị %s tịnh hóa", who->get_name()));
+4649|<O>| ret = CHAR_FIGHT_D->attack_done(me, who, HIT_UNARMED, ADD_AP);    // Cẩn thận chuẩn bị me
+4650|<O>| tmp += sprintf(ESC HIY "Truy tận gốc\ntalk %x# welcome.4\n", getoid(this_object()));
+4651|<O>| else    write_user(me, ECHO "Bạn dùng " HIY "Uy Hám" ECHO " lên %s thất bại。", who->get_name());
+4652|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHOUGUO, 20, "Thăm sư phụ kỹ năng sinh hoạt của Chu Quốc(hoàn thành)");

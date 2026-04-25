@@ -1,0 +1,52 @@
+5902|<O>| send_user(who, "%c%c%w%s", ':', 3, get_char_picid(), "Ngươi không nhìn thấy ta, ngươi không nhìn thấy ta.");
+5903|<O>| "sys/sys/manager"->org_mail(0,nTmp[i],HIY"    Bang ta sắp tấn công Vô Song Thành, xin chư vị bang chúng mau tới trợ trận!");
+5904|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 21, "Bách Bộ Tiên");
+5905|<O>| send_user(who, "%c%c%w%s", ':', 3, 0352, "Khuyển Thái Lang:\n    Sao các ngươi cứ thích gây phiền phức cho ta thế!?\n" +
+5906|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 53, "Tết Trùng Dương（4）");
+5907|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 26, "Vết máu ở thôn Hồ Khẩu");
+5908|<O>| send_user(who, "%c%s", ':', get_name() + ":\nHôm đó ta với lão Trần uống rượu, hai đứa đều say bí tỉ cả。\n"
+5909|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 1, 2,TID_QIXI,10,"Thất Tịch trời ban kỳ duyên（2）" );
+5910|<O>| int accept_use_effect_2_callout(object me, object who)    // Đồng bộ sửa đổi “Thần Du”
+5911|<O>| send_user(who, "%c%s", ';', "Bách tính nước Ngụy Kinh nghiệm 73000 Tiềm năng 900 Tiền 60000 Bản vẽ Tử Kim Đan 1");
+5912|<O>| write_user(me, ECHO"Bạn nhận được lời chúc chân thành của " + item->get_user_id() + ", công kích pháp thuật tăng 30％。");
+5913|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 43, "Đơn đao(hoàn thành)");
+5914|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 28, "Nhị hồ(hoàn thành)");
+5915|<O>| result += sprintf("Lễ hội:%d %09d  Nhiệm vụ:%d %09d  Vận tiêu:%d %09d  Kinh thương:%d %09d\n",
+5916|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHOUGUO, 1, "Sai vặt ngon của Vương Bộ Đầu");
+5917|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 3, "Tình khóa Tần cung（1）");
+5918|<O>| result = sprintf("Ngân phiếu thông thương（chuyên dùng cho nhiệm vụ）\nMệnh giá gốc:  %d vàng\n", obj->get_orgin_money());
+5919|<O>| tmp += sprintf(ESC + HIY + "Đường đi khó khăn\ntalk %x# welcome.13\n", getoid(me));
+5920|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 32, "Sư tử đá(hoàn thành)");
+5921|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 8, "Mua hộp trả ngọc(2)");
+5922|<O>| send_user(me, "%c%c%d%s", '?', 1, 0, sprintf("Quản lý kênh。\n\nHãy nhập ID số của đối phương:\n"
+5923|<O>| result = sprintf("%s:\n    Tài chính bang phái không đủ 500000, không thể bắt đầu nghiên cứu。\n", who->get_name());
+5924|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 42, "Viện trợ(hoàn thành)");
+5925|<O>| tmp += sprintf(ESC"شراء công thức kỹ năng cơ quan cấp 61-79\nlist %s\n", me->get_char_id());
+5926|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 51, "Tết Trùng Dương（2）");
+5927|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 6, "Gián điệp bộ tộc Sơn Nhung（1）");
+5928|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_ZHOUGUO,5,"Mua hộp trả ngọc(4)" );
+5929|<O>| result += sprintf(ESC HIY "Bộ y phục sặc sỡ thần kỳ\ntalk %x# welcome.1\n", getoid(me));
+5930|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 4, "Tình khóa Tần cung（2）");
+5931|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 35, "Rượu ngon của Triệu Quốc");
+5932|<O>| return "Một chiếc sừng thần kỳ, chỉ có hiệu lực khi người dùng là đội trưởng。\nTrong một giờ liên tục, toàn bộ thành viên cùng đội sau khi tiêu diệt quái vật có thể nhận thêm 20％ thưởng kinh nghiệm。";
+5933|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 1, 2, TID_VALENTINE, 7, "Kẹo hạt sô-cô-la");
+5934|<O>| tmp += sprintf(ESC"شراء công thức kỹ năng luyện đan cấp 61-80\nlist %s\n", me->get_char_id());
+5935|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 27, "Hồ lô lớn（2）");
+5936|<O>| send_user(who, "%c%s", ';', sprintf("Lời nhắn cho quản gia nước Sở Kinh nghiệm 600 Tiềm năng 35 Tiền 1000"));
+5937|<O>| map->set_2("zhao_score", map->get_2("totalscore.赵国") * 10000 / 2050);
+5938|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 65, "Lời thăm hỏi của đệ đệ");
+5939|<O>| send_user(who, "%c%s", ';', "Trừ khử ác phỉ Kinh nghiệm 68000 Tiềm năng 830 Tiền 56000 Bản vẽ Trảm Hầu Hài 1");
+5940|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 1, 2, TID_DODOLOOK, 1, "Bái phỏng Ngụy Chiêu Vương");
+5941|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 8, "Nhắn lời cho Quản Trọng（3）");
+5942|<O>| send_user(who, "%c%s", ';', "Âm thanh trong đêm trời Kinh nghiệm 6400 Tiềm năng 230 Tiền 6400 Bản vẽ Bổ Tâm Đan 1");
+5943|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 60, "Bóng tối trước bình minh");
+5944|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 10, "Hồ lô lớn（3）");
+5945|<O>| result += sprintf(ESC "Tìm hiểu nguồn gốc gỗ\ntalk %x# welcome.10\n", getoid(who));
+5946|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 48, "Đường đi khó khăn");
+5947|<O>| send_user(who, "%c%s", ';', "Chân tướng sáng tỏ Kinh nghiệm 23000 Tiềm năng 420 Tiền 22000 Bản vẽ Nữ Nhi Hồng 1");
+5948|<O>| send_user(this_object(), "%c%d", 0x74, time2());    // Đồng hồ động tác (hiệu chỉnh 2.x phút)
+5949|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHOUGUO, 103, "Bản đồ cơ quan bí mật");
+5950|<O>| tmp += sprintf(ESC HIY "Chạm khắc Vương chi Hào Giác\ntalk %x# welcome.13\n", getoid(me));
+5951|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 50, "Linh hồn bất an");
+5952|<O>| if( get_effect(me, EFFECT_CHAR_WOUND) ) ap -= ap * 30 / 100;    // Bị thương
+5953|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHOUGUO, 10, "Tù và xây bang");

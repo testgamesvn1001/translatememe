@@ -1,132 +1,132 @@
-﻿21690|<O>| set_real_name("李兑");
-21691|<O>| //交还月兔，获得金色装备或者金色武器。
-21692|<O>| set_name("锁链护心甲图纸");
-21693|<O>| notify("只能将装备变成蓝色");
-21694|<O>| ESC "无门派\n" + cmd0);
-21695|<O>| notify("对方是频道管理员。");
-21696|<O>| ESC "赵国。\n" + cmd3 +
-21697|<O>| ({"皮衣","赵国的防具店老板"}),
-21698|<O>| return "十二星座之一的金牛座";
-21699|<O>| set_name("乱世星人大礼包");
-21700|<O>| "壮丁" : "在郑国渠可以捉到壮丁",
-21701|<O>| set_real_name("齐姜");
-21702|<O>| result += HIR "未鉴定";
-21703|<O>| if (p < 9510)		// 裁缝
-21704|<O>| set_name("幻影狼行装图纸");
-21705|<O>| 508 : (["name":"太湖",
-21706|<O>| if (p < 3260)		// 防具
-21707|<O>| set_real_name("李斯");
-21708|<O>| notify("您不能自己抓自己。");
-21709|<O>| set_real_name("苌弘");
-21710|<O>| notify("您要打死哪个人物？");
-21711|<O>| set_real_name("虞卿");
-21712|<O>| notify("无法找到这位玩家。");
-21713|<O>| notify("对方已经设置了奖励");
-21714|<O>| // 函数:寻找指定物体(用于GM指令)
-21715|<O>| ESC "返回\nCLOSE\n" );
-21716|<O>| notify("请加入合法的帮派。");
-21717|<O>| notify("您连自己都想打死？");
-21718|<O>| notify("您想炼制什么东西？");
-21719|<O>| set_real_name("子豹");
-21720|<O>| // 函数:获取主人对象(Number)
-21721|<O>| set_name("牛肉炒鸡蛋图纸");
-21722|<O>| notify("您的功德点数不够。");
-21723|<O>| case 2: return "攻击";
-21724|<O>| //        {暂时不开放改为给钱
-21725|<O>| set_real_name("王敖");
-21726|<O>| set_real_name("宫他");
-21727|<O>| set_city_name("齐国");
-21728|<O>| case 6 : // 6. 天使爱美丽
-21729|<O>| else    return "西方";
-21730|<O>| if (p < 9960)		// 法药
-21731|<O>| set_name("给信使的疗伤药");
-21732|<O>| return "学习制作玄铁袖里箭。";
-21733|<O>| notify("您想购买什么东西？");
-21734|<O>| // 注意:任何失败返回，都应当补发消息
-21735|<O>| notify("无法找到这个文件。");
-21736|<O>| return "普通采集师使用的工具";
-21737|<O>| notify("您想精炼什么东西？");
-21738|<O>| set_real_name("田真");
-21739|<O>| ESC "龟丞相\n" + cmd4 +
-21740|<O>| return "可以打开大宝箱的钥匙";
-21741|<O>| return "传送到最近去过的城市";
-21742|<O>| return "学习制作钢铁护心甲。";
-21743|<O>| set_name("韩国御史的奏书");
-21744|<O>| case 4: gift = "诚信";
-21745|<O>| if ( cKind == "五雷" )
-21746|<O>| notify("精炼需要一个宝石。");
-21747|<O>| set_real_name("医和");
-21748|<O>| set_real_name("姬平");
-21749|<O>| notify("无法找到这样东西。");
-21750|<O>| return "增加物理防御力。\n";
-21751|<O>| ESC "退下。\nCLOSE\n");
-21752|<O>| set_real_name("如姬");
-21753|<O>| set_real_name("樊姬");
-21754|<O>| set_name("乱世英雄大礼包");
-21755|<O>| notify("您不是频道管理员。");
-21756|<O>| set_real_name("田忌");
-21757|<O>| case 5: gift = "勇敢";
-21758|<O>| set_real_name("熊泰");
-21759|<O>| case 3: return "防御";
-21760|<O>| if (p < 5260)		// 矿石
-21761|<O>| ({"铁矛","楚国的武器店老板"}),
-21762|<O>| return 1;    // 打到空地
-21763|<O>| "国庆节活动之——西瓜伯伯的操作:\n"
-21764|<O>| set_real_name("黔娄");
-21765|<O>| "水鬼" : "在弯道可以杀到水鬼 ",
-21766|<O>| ESC "取消。\nCLOSE\n");
-21767|<O>| set_name("极限穿越证明书");
-21768|<O>| ESC "楚国。\n" + cmd5 +
-21769|<O>| set_real_name("宁到");
-21770|<O>| notify("您无法摧毁这玩艺。");
-21771|<O>| set_real_name("子阳");
-21772|<O>| // 注意，这里最后一个右括号在后面判断
-21773|<O>| return "蛇的皮，裁缝所需材料";
-21774|<O>| case 1: return "友好";
-21775|<O>| ESC "齐国。\n" + cmd1 +
-21776|<O>| ESC "昆仑山\n" + cmd6 +
-21777|<O>| "蜀山"          : 892,
-21778|<O>| set_name("风魔袖里箭图纸");
-21779|<O>| set_real_name("秦开");
-21780|<O>| set_city_name("魏国");
-21781|<O>| return "学习制作神秘老火汤。";
-21782|<O>| set_real_name("姬延");
-21783|<O>| set_name("地瓜解暑汤烹饪");
-21784|<O>| notify("对方不在队伍当中。");
-21785|<O>| set_real_name("乐毅");
-21786|<O>| // 只见$N伸手凌空一指，变出了$n。
-21787|<O>| return "学习制造高级麻布行装";
-21788|<O>| notify("您连自己都想清除？");
-21789|<O>| notify("您想把东西给自己？");
-21790|<O>| set_real_name("燕姜");
-21791|<O>| return "学习制作暴雨梨花针。";
-21792|<O>| result = "不能修复该物品！";
-21793|<O>| set_name("地瓜解暑汤图纸");
-21794|<O>| return "普通石刻师使用的工具";
-21795|<O>| set_name("幻影狼皮衣图纸");
-21796|<O>| set_name("钢铁护心甲制作");
-21797|<O>| notify("不能收起贵重物品。");
-21798|<O>| notify("您自己想砍倒自己？");
-21799|<O>| set_name("古墓探险传送人");
-21800|<O>| "魍魉" : "在白云峰可以捉到魍魉",
-21801|<O>| // 函数:寻找指定人物(用于GM指令)
-21802|<O>| return 2;    //	执行成功
-21803|<O>| set_name("九环金莲棍锻造");
-21804|<O>| //	获取对手受到攻击时所执行的函数指针
-21805|<O>| * 注意:左下角是攻击方，右上角是防守方
-21806|<O>| return "学习制作七彩灵芝丸。";
-21807|<O>| return "学习制作当铺链接器。";
-21808|<O>| set_city_name("楚国");
-21809|<O>| set_real_name("步文");
-21810|<O>| notify("不能强迫自己离线。");
-21811|<O>| 510 : (["name":"泰山",
-21812|<O>| "桃花源"        : "村民",
-21813|<O>| notify("您要抢自己的东西？");
-21814|<O>| set_real_name("傅母");
-21815|<O>| set_name("神仙爷爷的木剑");
-21816|<O>| ESC "离开。\nCLOSE\n");
-21817|<O>| "寒铁雕刻刀" : "\"518\"",
-21818|<O>| result += "你获得了物品:";
-21819|<O>| case 6: gift = "智谋";
-21820|<O>| "昆仑山"        : "石狮",
-21821|<O>| set_name("丰盛的晚餐图纸");
+﻿21690|<O>| set_real_name("Lý Đoái");
+21691|<O>| //Trả lại Nguyệt Thố, nhận trang bị vàng hoặc vũ khí vàng.
+21692|<O>| set_name("Đồ chỉ Toả Liên Hộ Tâm Giáp");
+21693|<O>| notify("Chỉ có thể biến trang bị thành màu xanh");
+21694|<O>| ESC "Vô Môn Phái\n" + cmd0);
+21695|<O>| notify("Đối phương là quản lý viên kênh.");
+21696|<O>| ESC "Triệu Quốc.\n" + cmd3 +
+21697|<O>| ({"Bì Y","Lão bản cửa hàng phòng cụ Triệu Quốc"}),
+21698|<O>| return "Chòm sao Kim Ngưu trong mười hai cung hoàng đạo";
+21699|<O>| set_name("Đại lễ bao Loạn Thế Tinh Nhân");
+21700|<O>| "Tráng Đinh" : "Ở Trịnh Quốc Cừ có thể bắt được Tráng Đinh",
+21701|<O>| set_real_name("Tề Khương");
+21702|<O>| result += HIR "Chưa giám định";
+21703|<O>| if (p < 9510)		// Thợ may
+21704|<O>| set_name("Đồ chỉ Hành Trang Huyễn Ảnh Lang");
+21705|<O>| 508 : (["name":"Thái Hồ",
+21706|<O>| if (p < 3260)		// Phòng cụ
+21707|<O>| set_real_name("Lý Tư");
+21708|<O>| notify("Bạn không thể tự bắt mình.");
+21709|<O>| set_real_name("Thương Hoằng");
+21710|<O>| notify("Bạn muốn đánh chết nhân vật nào?");
+21711|<O>| set_real_name("Ngu Khanh");
+21712|<O>| notify("Không thể tìm thấy người chơi này.");
+21713|<O>| notify("Đối phương đã thiết lập phần thưởng");
+21714|<O>| // Hàm: Tìm vật thể chỉ định (dùng cho lệnh GM)
+21715|<O>| ESC "Quay lại\nCLOSE\n" );
+21716|<O>| notify("Xin gia nhập bang phái hợp lệ.");
+21717|<O>| notify("Bạn muốn đánh chết cả mình sao?");
+21718|<O>| notify("Bạn muốn luyện chế vật gì?");
+21719|<O>| set_real_name("Tử Báo");
+21720|<O>| // Hàm: Lấy đối tượng chủ nhân (Number)
+21721|<O>| set_name("Đồ chỉ Thịt Bò Xào Trứng");
+21722|<O>| notify("Điểm công đức của bạn không đủ.");
+21723|<O>| case 2: return "Tấn Công";
+21724|<O>| //        {Tạm thời không mở, đổi thành cho tiền
+21725|<O>| set_real_name("Vương Ngao");
+21726|<O>| set_real_name("Cung Tha");
+21727|<O>| set_city_name("Tề Quốc");
+21728|<O>| case 6 : // 6. Thiên Sứ Ái Mỹ Lệ
+21729|<O>| else    return "Phương tây";
+21730|<O>| if (p < 9960)		// Pháp dược
+21731|<O>| set_name("Thuốc trị thương cho sứ giả");
+21732|<O>| return "Học chế tạo Huyền Thiết Tụ Lý Tiễn.";
+21733|<O>| notify("Bạn muốn mua vật gì?");
+21734|<O>| // Lưu ý: Mọi lần trả về thất bại đều phải bổ phát tin nhắn
+21735|<O>| notify("Không thể tìm thấy tệp này.");
+21736|<O>| return "Công cụ thợ thu hái thường dùng";
+21737|<O>| notify("Bạn muốn tinh luyện vật gì?");
+21738|<O>| set_real_name("Điền Chân");
+21739|<O>| ESC "Quy Thừa Tướng\n" + cmd4 +
+21740|<O>| return "Chìa khoá có thể mở rương báu lớn";
+21741|<O>| return "Truyền tống đến thành phố gần nhất đã đến";
+21742|<O>| return "Học chế tạo Cương Thiết Hộ Tâm Giáp.";
+21743|<O>| set_name("Tấu thư ngự sử Hàn Quốc");
+21744|<O>| case 4: gift = "Thành Tín";
+21745|<O>| if ( cKind == "Ngũ Lôi" )
+21746|<O>| notify("Tinh luyện cần một viên bảo thạch.");
+21747|<O>| set_real_name("Y Hoà");
+21748|<O>| set_real_name("Cơ Bình");
+21749|<O>| notify("Không thể tìm thấy vật này.");
+21750|<O>| return "Tăng phòng thủ vật lý.\n";
+21751|<O>| ESC "Lui xuống.\nCLOSE\n");
+21752|<O>| set_real_name("Như Cơ");
+21753|<O>| set_real_name("Phàn Cơ");
+21754|<O>| set_name("Đại lễ bao Loạn Thế Anh Hùng");
+21755|<O>| notify("Bạn không phải quản lý viên kênh.");
+21756|<O>| set_real_name("Điền Kỵ");
+21757|<O>| case 5: gift = "Dũng Cảm";
+21758|<O>| set_real_name("Hùng Thái");
+21759|<O>| case 3: return "Phòng Thủ";
+21760|<O>| if (p < 5260)		// Quặng
+21761|<O>| ({"Thiết Mâu","Lão bản cửa hàng vũ khí Sở Quốc"}),
+21762|<O>| return 1;    // Đánh vào chỗ trống
+21763|<O>| "Thao tác hoạt động Quốc Khánh - Dưa Hấu Bá Bá:\n"
+21764|<O>| set_real_name("Kiềm Lâu");
+21765|<O>| "Thuỷ Quỷ" : "Ở khúc cua có thể giết được Thuỷ Quỷ ",
+21766|<O>| ESC "Huỷ bỏ.\nCLOSE\n");
+21767|<O>| set_name("Giấy chứng nhận Cực Hạn Xuyên Việt");
+21768|<O>| ESC "Sở Quốc.\n" + cmd5 +
+21769|<O>| set_real_name("Ninh Đáo");
+21770|<O>| notify("Bạn không thể phá huỷ thứ này.");
+21771|<O>| set_real_name("Tử Dương");
+21772|<O>| // Lưu ý, dấu ngoặc phải cuối cùng ở phía sau phán đoán
+21773|<O>| return "Da rắn, nguyên liệu thợ may cần dùng";
+21774|<O>| case 1: return "Hữu hảo";
+21775|<O>| ESC "Tề Quốc.\n" + cmd1 +
+21776|<O>| ESC "Côn Lôn Sơn\n" + cmd6 +
+21777|<O>| "Thục Sơn"          : 892,
+21778|<O>| set_name("Đồ chỉ Phong Ma Tụ Lý Tiễn");
+21779|<O>| set_real_name("Tần Khai");
+21780|<O>| set_city_name("Nguỵ Quốc");
+21781|<O>| return "Học chế tạo Thần Bí Lão Hoả Thang.";
+21782|<O>| set_real_name("Cơ Diên");
+21783|<O>| set_name("Nấu Canh Giải Nhiệt Địa Qua");
+21784|<O>| notify("Đối phương không ở trong đội ngũ.");
+21785|<O>| set_real_name("Nhạc Nghị");
+21786|<O>| // Chỉ thấy $N giơ tay chỉ lên không trung, biến ra $n.
+21787|<O>| return "Học chế tạo Hành Trang Ma Bố Cao Cấp";
+21788|<O>| notify("Bạn muốn xoá cả chính mình sao?");
+21789|<O>| notify("Bạn muốn đưa đồ cho chính mình?");
+21790|<O>| set_real_name("Yên Khương");
+21791|<O>| return "Học chế tạo Bạo Vũ Lê Hoa Châm.";
+21792|<O>| result = "Không thể sửa chữa vật phẩm này!";
+21793|<O>| set_name("Đồ chỉ Canh Giải Nhiệt Địa Qua");
+21794|<O>| return "Công cụ thợ thạch khắc thường dùng";
+21795|<O>| set_name("Đồ chỉ Bì Y Huyễn Ảnh Lang");
+21796|<O>| set_name("Chế tạo Cương Thiết Hộ Tâm Giáp");
+21797|<O>| notify("Không thể thu hồi vật phẩm quý giá.");
+21798|<O>| notify("Bạn muốn tự chặt chính mình sao?");
+21799|<O>| set_name("Người truyền tống thám hiểm cổ mộ");
+21800|<O>| "Võng Lượng" : "Ở Bạch Vân Phong có thể bắt được Võng Lượng",
+21801|<O>| // Hàm: Tìm nhân vật chỉ định (dùng cho lệnh GM)
+21802|<O>| return 2;    //	Thực thi thành công
+21803|<O>| set_name("Đoạn tạo Cửu Hoàn Kim Liên Côn");
+21804|<O>| //	Lấy con trỏ hàm thực thi khi đối thủ bị tấn công
+21805|<O>| * Lưu ý: Góc dưới trái là bên tấn công, góc trên phải là bên phòng thủ
+21806|<O>| return "Học chế tạo Thất Thái Linh Chi Hoàn.";
+21807|<O>| return "Học chế tạo Đương Phố Liên Kết Khí.";
+21808|<O>| set_city_name("Sở Quốc");
+21809|<O>| set_real_name("Bộ Văn");
+21810|<O>| notify("Không thể ép bản thân rời mạng.");
+21811|<O>| 510 : (["name":"Thái Sơn",
+21812|<O>| "Đào Hoa Nguyên"        : "Thôn Dân",
+21813|<O>| notify("Bạn muốn cướp đồ của mình?");
+21814|<O>| set_real_name("Phó Mẫu");
+21815|<O>| set_name("Mộc kiếm Thần Tiên Ông Ông");
+21816|<O>| ESC "Rời đi.\nCLOSE\n");
+21817|<O>| "Hàn Thiết Điêu Khắc Đao" : "\"518\"",
+21818|<O>| result += "Bạn nhận được vật phẩm:";
+21819|<O>| case 6: gift = "Trí Mưu";
+21820|<O>| "Côn Lôn Sơn"        : "Thạch Sư",
+21821|<O>| set_name("Đồ chỉ Bữa Tối Thịnh Soạn");

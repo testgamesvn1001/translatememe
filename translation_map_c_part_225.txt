@@ -1,0 +1,54 @@
+﻿6857|<O>| tmp = sprintf(ESC HIY "Mê hồn ở Thương Ngô Đạo\ntalk %x# welcome.1\n", getoid(me));
+6858|<O>| result = sprintf(HIY "Thành chủ %s thiết lập thuế bán ra cho người nước ngoài là %d%%。", who->get_name(), tax);
+6859|<O>| sprintf("%s:\n    %s này, bạn có cảm thấy không khỏe trong người không? Có cần tôi giúp không? Đừng coi thường tôi nhé, tôi là đồ đệ của Dược Thần đấy~ \n"
+6860|<O>| CHAT_D->rumor_player_channel(0, sprintf(CHAT "%s:%s", "Kẻ nào đó", arg));
+6861|<O>| tmp += sprintf(ESC HIY "Thủy quỷ hại người\ntalk %x# welcome.8\n", getoid(me));
+6862|<O>| tmp += sprintf(ESC HIY "Hiến kế góp sức\ntalk %x# welcome.11\n", getoid(me));
+6863|<O>| tmp += sprintf(ESC HIY "Nỗi khổ của quản gia\ntalk %x# welcome.1\n", getoid(me));
+6864|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 21, "Vong linh thị vệ");
+6865|<O>| write_user(me, ECHO "Lương thảo của thành phố %s bội thu! Lương thảo tăng 1000 điểm。", city->get_name());
+6866|<O>| send_user(who, "%c%s", ';', "Tượng đất Kinh nghiệm 5700 Tiềm năng 220 Kim tiền 4600 Bản vẽ Hạc Khiếu Hành Trang 1");
+6867|<O>| result = sprintf(HIY "Thành chủ %s thiết lập thuế mua vào cho người trong nước là %d%%。", who->get_name(), tax);
+6868|<O>| tmp += sprintf(ESC HIY "Báo thù cho Lý Đồ\ntalk %x# welcome.1\n", getoid(me));
+6869|<O>| tmp += sprintf(ESC HIY "Hỏi thăm nguyên do\ntalk %x# welcome.13\n", getoid(me));
+6870|<O>| tmp += sprintf(ESC HIY "Kỳ ngộ Trường Thành\ntalk %x# welcome.11\n", getoid(me));
+6871|<O>| result = sprintf(HIY "Thành chủ %s thiết lập tỷ lệ chia cổ tức thuế mỗi ngày là %d%%。", who->get_name(), tax);
+6872|<O>| send_user(who, "%c%s", '!', sprintf("%d giây nữa mới có thể tiếp tục đề xuất kiến nghị。", 300 - level));
+6873|<O>| tmp += sprintf(ESC HIY "Đòi lấy bảo đồ\ntalk %x# welcome.11\n", getoid(me));
+6874|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 35, "Tội phạm truy nã");
+6875|<O>| result += sprintf(ESC "Hoằng Nông\ntalk %x# welcome.10 Hoằng Nông\n", getoid(me));
+6876|<O>| tmp += sprintf(ESC HIY "Nỗi phiền muộn của Trình Phong\ntalk %x# welcome.1\n", getoid(me));
+6877|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 23\n    Quyền pháp có thể phong ấn mọi tà ma, khiến đối thủ rơi vào trạng thái câm lặng trong 6 giây.";
+6878|<O>| if (sizeof(line) <= 2)  send_user(me, "%c%s", '!', "Lỗi kết nối, vui lòng kết nối lại。");
+6879|<O>| if (  name1==name2 || "Đồ nam"+name2 == name1 || "Đồ nữ"+name2 == name1 )
+6880|<O>| if (!Leader || !(who = find_player(Leader))) return 0;    // Không tìm thấy đội trưởng
+6881|<O>| tmp += sprintf(ESC HIY "Trang phục của vệ binh\ntalk %x# welcome.1\n", getoid(me));
+6882|<O>| if (strlen(text) > 10 && text[< 6.. < 1] == "CLOSE\n")    // Có lựa chọn đóng
+6883|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 9, "Oan hồn hà đạo");
+6884|<O>| tmp += sprintf(ESC HIY "Thượng tấu Triệu Vương\ntalk %x# welcome.17\n", getoid(me));
+6885|<O>| tmp += sprintf(ESC HIY "Tìm kiếm trợ giúp\ntalk %x# welcome.16\n", getoid(me));
+6886|<O>| send_user(who, "%c%s", ';', "Bệnh nan y (3) Kinh nghiệm 600 Tiềm năng 70 Kim tiền 2000 Hành Quân Sát 5");
+6887|<O>| write_user(who, ECHO "Bạn say mê trong điệu múa của %s, để lại %d vàng。", me->get_name(), gold);
+6888|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 44, "Lộc Giác");
+6889|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 36, "Triệu Cơ");
+6890|<O>| result += sprintf(ESC "Thượng Đảng\ntalk %x# welcome.10 Thượng Đảng\n", getoid(me));
+6891|<O>| send_user(who, "%c%s", ';', "Giấc mơ xa vời Kinh nghiệm 1600 Tiềm năng 70 Kim tiền 1400 Bản vẽ Mâu đồng 1");
+6892|<O>| send_user(who, "%c%s", ';', "Ma trơi ở Tương Phi Lâm Kinh nghiệm 2500 Tiềm năng 90 Kim tiền 2000 Bột diêm tiêu 5");
+6893|<O>| case "Tần Quốc": cmd1 = sprintf("talk %x# advice.?.%d.1\n", id, number);
+6894|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 33, "Tiệm trang sức");
+6895|<O>| case "Ngụy Quốc": cmd1 = sprintf("talk %x# advice.?.%d.1\n", id, number);
+6896|<O>| result += sprintf(ESC "Thiên Thừa\ntalk %x# welcome.10 Thiên Thừa\n", getoid(me));
+6897|<O>| tmp += sprintf(ESC HIY "Hoàng thành bảo vệ chiến\ntalk %x# defence.1\n", getoid(me));
+6898|<O>| case "get": keyH = "$get$H";  keyL = "$get$L";  break;    // Tiền nhặt trên đất
+6899|<O>| tmp += sprintf(ESC HIY "Nỗi khổ tâm của nhạc sư\ntalk %x# welcome.1\n", getoid(me));
+6900|<O>| case "Triệu Quốc": cmd1 = sprintf("talk %x# advice.?.%d.1\n", id, number);
+6901|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 90, "Nho tím");
+6902|<O>| return "Đạo cụ tạm thời dùng để tham gia bỏ phiếu dự đoán trận đấu World Cup. Giá trị: 10.\nTăng tạm thời 10% giới hạn Pháp lực, hiệu quả duy trì 60 phút.";
+6903|<O>| tmp += sprintf(ESC HIY "Tìm người lánh nạn\ntalk %x# welcome.11\n", getoid(me));
+6904|<O>| result += sprintf(ESC "Hồ Quan\ntalk %x# welcome.10 Hồ Quan\n", getoid(me));
+6905|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 29, "Tìm kiếm bảo vật");
+6906|<O>| tmp += sprintf(ESC HIY "Nhắn lời cho Trình Phong\ntalk %x# welcome.1\n", getoid(me));
+6907|<O>| send_user(who, "%c%c%c%w%s", 0x51, 1, 1, TID_WUYIHUODONG, "Hoạt động 1/5");
+6908|<O>| write_user(me, ECHO "say mê điệu múa của bạn, để lại %d vàng。", who->get_name(), gold);
+6909|<O>| tmp += sprintf(ESC HIY "Kẻ phạm pháp\ntalk %x# welcome.10\n", getoid(me));
+6910|<O>| tmp += sprintf(ESC HIY "Lời nhắn của em họ\ntalk %x# welcome.4\n", getoid(me));

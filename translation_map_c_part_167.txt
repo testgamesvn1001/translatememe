@@ -1,0 +1,43 @@
+3970|<O>| if (objectp(item = present("Trứng gà ta", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3971|<O>| if (objectp(item = present("Khí mạch đan", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3972|<O>| if (position >= 8) result += sprintf(ESC "Nâng cấp tháp tên\ntalk %x# welcome.30\n", getoid(who));
+3973|<O>| if (objectp(item = present("Ngọc long tinh", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3974|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Biết làm sao đây……\n"
+3975|<O>| tell_user( me, "Chiến đấu: %d ＝ Nhân vật(%d) ＋ Người chơi(%d)", sizeof(char), sizeof(npc), sizeof(user) );
+3976|<O>| if (who->get_dodge_rate()) prop += ({ sprintf("Né tránh:%+3d%%", who->get_dodge_rate()) });
+3977|<O>| if (!arg || arg == "?")    // Phát nhiệm vụ ##################################################
+3978|<O>| if (objectp(item = present("Ma Tình Thạch", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3979|<O>| //        db_user_fee( me, me->get_login_time(), time, me->get_feetime() );    // Trừ phí!
+3980|<O>| if (objectp(item = present("Sơn thược dược", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3981|<O>| if (objectp(item = present("Cứu cấp hoàn", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3982|<O>| return sprintf("［" PF_NAME "］Nhanh chóng di chuyển đến bên cạnh người khác, pháp lực của đối phương càng thấp thì tỷ lệ thành công càng cao. Tiêu hao pháp lực:%d, có thể dùng ở %s%d cấp\nYêu cầu kỹ năng cơ bản: Đạo gia học thuyết\n",
+3983|<O>| if (objectp(item = present("Hồng bảo thạch", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3984|<O>| if( !objectp( item=present("Dây chuyền trân châu", who, 1, MAX_CARRY) ) || item->is_xianglian() != 1)
+3985|<O>| if ((iTaskTime = gone_time(who->get_save_2("relation.iTaskTime"))) < 2400    // 40 phút
+3986|<O>| result = sprintf("%s:\n    Bạn xác định muốn rời khỏi sân viện bang phái của %s chứ?\n", who->get_name(), who->get_org_name());
+3987|<O>| case 1: send_user(who, "%c%s", ':', sprintf("%s:\nNhưng đó là báu vật trấn thành, không thể đi đào được.", me->get_name()));
+3988|<O>| "Nếu ngươi có thể đi một chuyến đến tầng 1 Tru Tiên Trận để tìm lại kim thêu cho ta, thì chứng tỏ ngươi có đủ sự cẩn thận này. Ngươi phải nhìn thật kỹ đấy, có khi nó nằm trong một chiếc rương báu nào đó. Đao hồn kiếm hồn bên trong rất có thói quen tốt là nhặt được thứ gì cũng bỏ vào rương giấu đi,"
+3989|<O>| if (objectp(item = present("Hoa nhài", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3990|<O>| more_look_menu( who, get_name() + ":\nVị " + NPC_RANK_D->get_respect(who) + " này muốn trở về Chu Quốc sao?\n"
+3991|<O>| //	        if( !who->can_be_fighted(me) || !me->can_fight(who) ) return 1;    // Thực thi thành công
+3992|<O>| if (position >= 8) result += sprintf(ESC "Huấn luyện quân đội\ntalk %x# welcome.20\n", getoid(who));
+3993|<O>| if (objectp(item = present("Củ cải lớn", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3994|<O>| send_user(me, "%c%c%d%s", '?', 1, me->get_savings(), sprintf("Tiền gửi của bạn có %d vàng, xin hỏi bạn định rút bao nhiêu?\n"
+3995|<O>| if (position >= 8) result += sprintf(ESC "Nâng cấp tổng quản\ntalk %x# welcome.40\n", getoid(who));
+3996|<O>| if (who->get_absorb_mp()) prop += ({ sprintf("Hút pháp lực:%+3d%%", who->get_absorb_mp()) });
+3997|<O>| if (objectp(item = present("Vôi cổ", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+3998|<O>| add_alarm_clock("day", "11 11:43:05", "second", ({ "test_func_2","main gọi 2" }), 2, 2);
+3999|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 16\n    Đặt một dấu mốc tại vị trí đang đứng hiện tại, thông qua xuyên không có thể nhanh chóng đến vị trí này. Số lượng mốc định vị hiện có thể đặt là 1。";
+4000|<O>| result = result + sprintf(ESC + HIY + "Búa sắt của ông chủ tiệm sửa chữa\ntalk %x# welcome.5\n", getoid(me));
+4001|<O>| send_user(who, "%c%c%d%s", '?', 1, who->get_cash(), "Bạn muốn nhận ngân phiếu mệnh giá bao nhiêu? Hãy nhập số tiền cụ thể:\n" + cmd);
+4002|<O>| /*------------------------------------Biến được định nghĩa sẵn---------------------------------------*/
+4003|<O>| if (objectp(item = present("Dây buộc tóc", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4004|<O>| send_user(who, "%c%s", ':', sprintf("%s:\nTa cũng đang đói bụng, cảm ơn ngươi đã kịp thời mang thức ăn tới cho ta!\n", me->get_name()));
+4005|<O>| if (objectp(item = present("Danh tửu", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4006|<O>| /*------------------------------------Hàm debug lớp---------------------------------------*/
+4007|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 36\n    Chỉ có thể phát động kỹ năng này trong trạng thái tàng hình, sau khi dùng thì khi đang tàng hình cũng sẽ không làm chậm tốc độ di chuyển. Hiệu quả có thể duy trì 30 giây。";
+4008|<O>| if (objectp(item = present("Quân cờ", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4009|<O>| if (objectp(item = present("Tiền giấy", who, 1, MAX_CARRY)) && item->is_legend_item() == 1)
+4010|<O>| result = result + sprintf(ESC + HIY + "Búa sắt của ông chủ tiệm sửa chữa\ntalk %x# welcome.3\n", getoid(me));
+4011|<O>| send_user(who, "%c%s", '!', sprintf("Trả " HIY " %s " NOR " lại cho Vương Bộ Đầu.", item->get_name()));
+4012|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    Chỉ dựa vào việc bán dược liệu thì có lẽ không kiếm được tiền, ta phải nghĩ cách khác mới được.\n", get_name())

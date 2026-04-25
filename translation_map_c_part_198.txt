@@ -1,0 +1,51 @@
+5441|<O>| write_user(me, ECHO "Kinh nghiệm thư sinh của bạn +10, nhân ái +10, trí mưu +10, kinh nghiệm %+d。", level + 10);
+5442|<O>| result = result + sprintf(HIR"%d kinh nghiệm、", 50 + level * 25 + level * level);
+5443|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 1, "Lời cầu cứu bất đắc dĩ（2）");
+5444|<O>| more_look_menu(who, get_name() + ":\nTa nhưng là diệu thủ danh chấn thiên hạ, có thể biến điều không thể thành có thể, ngài tìm ta có việc gì?\n"
+5445|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 39, "Giữ khoảng cách(hoàn thành)");
+5446|<O>| send_user(who, "%c%s", ';', "Liên minh với Sở Kinh nghiệm 36000 Tiềm năng 540 Tiền 37000 Bản vẽ Bữa Tối Thịnh Soạn 1");
+5447|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 47, "Tình yêu của võ sĩ（2）");
+5448|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 5, "Công cụ sản xuất(hoàn thành)");
+5449|<O>| tmp = sprintf(ESC"Khuyên bác Mạnh về nhà\ntalk %x# welcome.1\n",getoid(this_object()));
+5450|<O>| if (gone_time(me->get(PF_START)) < interval) return 1;    // Cẩn thận chuẩn bị level
+5451|<O>| send_user(member, "%c%c%c%w%w%s", 0x51, 1, 2, TID_YUANFEN, 1, "Tiêu diệt Ma Phệ Tình");
+5452|<O>| if (who->can_be_fighted(me) && me->can_fight(who)) continue;    // Thực thi thành công
+5453|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 19, "Phát hiện đáng sợ(hoàn thành)");
+5454|<O>| set_effect_2(who, EFFECT_CHAR_FALL, ADD_INTERVAL / 2, 2);    // Cẩn thận chuẩn bị me
+5455|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 5, "Sự ồn ào nơi cung đình(hoàn thành)");
+5456|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 10, "Mỗi người một lời(hoàn thành)");
+5457|<O>| tmp += sprintf(ESC "Hòm gỗ lớn\ntalk %x# welcome.3\n", getoid(this_object()));
+5458|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 36, "Trà Thiết Quan Âm(hoàn thành)");
+5459|<O>| send_user(who, "%c%s", ':', get_name() + ":\n    Nhà của lão thôn trưởng ở tận cùng phía đông nam của thôn。\n");
+5460|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 23, "Người canh gác hối hận(hoàn thành)");
+5461|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 8, "Kiếp nạn của quản gia nước Ngụy（1）");
+5462|<O>| send_user(who, "%c%s", ';', "Con đường luyện dược 4 Kinh nghiệm 88000 Tiềm năng 910 Tiền 93000 Bản vẽ Phá Vân Hành Trang 1");
+5463|<O>| tmp += sprintf(ESC"Một phen thăm dò hư thực\ntalk %x# welcome.3\n", getoid(this_object()));
+5464|<O>| string get_reset_file(string file) { return reset_file; }		// Hàm: lấy file làm mới
+5465|<O>| if (p = get_valid_xy(z, x, y, IS_ITEM_BLOCK))	//Một món trang bị vàng môn phái ngẫu nhiên cấp 70 hoặc 80 (chọn một trong hai)
+5466|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 2, "Lời cầu cứu bất đắc dĩ（3）");
+5467|<O>| send_user(who, "%c%s", ';', "Du hồn（5） Kinh nghiệm 17000 Tiềm năng 280 Tiền 19000 Bản vẽ Hỗn Thiên Chiến Khôi 1");
+5468|<O>| write_user(who, ECHO "Bạn dùng " HIY "Linh Tê Thiểm Hiện" ECHO " lên %s thất bại。", me->get_name());
+5469|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 34, "Trừ hại cho dân(hoàn thành)");
+5470|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 104, "Ngọc bội gia tộc");
+5471|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_NEWBIE_01,19,"Ủy thác của bù nhìn" );
+5472|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 43, "Chứng thực bản thân(hoàn thành)");
+5473|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_CHUGUO,2,"Món quà của người trong lòng(hoàn thành)" );
+5474|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 39, "Ngăn chặn lộ bí mật(hoàn thành)");
+5475|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 12, "Truy bắt trọng phạm(hoàn thành)");
+5476|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 112, "Trang trí nhà cửa");
+5477|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 11, "Ba chiếc lông vũ(hoàn thành)");
+5478|<O>| tell_user(me, "%O dùng %s / %d byte bộ nhớ。", obj, byte_expression(size), size);
+5479|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 15, "Gà rừng đáng ghét");
+5480|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 14, "Minh chính hình điển(hoàn thành)");
+5481|<O>| int Region, Host, HostType;                               // Phân khu máy chủ game, ký hiệu
+5482|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 39, "Chấp nhận thỉnh cầu(hoàn thành)");
+5483|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 101, "Thu thập linh kiện cơ quan");
+5484|<O>| //              npc->set_name( sprintf( "Thiên binh(%d)", me->get_number() ) );
+5485|<O>| send_user(nTeam[i], "%c%s", ';', sprintf("Ngươi hoàn thành nhiệm vụ, nhận được %d huy chương lao động Chiến Quốc", amount));
+5486|<O>| send_user(who, "%c%s", ';', "Khởi công động thổ Kinh nghiệm 15000 Tiềm năng 360 Tiền 13000 Bản vẽ Thúy Ngọc Bào 1", );
+5487|<O>| //      send_user( me, "%c%w%c%w", 0x50, 0, 0xff, 2 );    // Tất cả chiêu thức 2 giây sau có thể dùng
+5488|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 23, "Khói trên phong hỏa đài");
+5489|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_CHUGUO,5,"Máu của chó đốm(hoàn thành)" );
+5490|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_CHUGUO,4,"Rèn kiếm kinh thế(hoàn thành)" );
+5491|<O>| if (!arg)    // Nhận nhiệm vụ ##################################################

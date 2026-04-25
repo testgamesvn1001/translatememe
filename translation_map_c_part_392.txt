@@ -1,0 +1,100 @@
+﻿18681|<O>| if (!clonep(me)) return "暗灵石";
+18682|<O>| result += ESC"开启\nparty 44\n";
+18683|<O>| "铁轮" : "\"/item/stuff/0209\"",
+18684|<O>| else if ( rate < 9500 )	//炼丹成品
+18685|<O>| ESC "离开", me->get_name(), ) );
+18686|<O>| "番薯" : "\"/item/stuff/0153\"",
+18687|<O>| "甘草" : "\"/item/stuff/0124\"",
+18688|<O>| #define PF_NAME        "修仙冠制作"
+18689|<O>| "狼皮" : "\"/item/stuff/0192\"",
+18690|<O>| "攻击:%4d - %4d  防御:%4d - %4d\n"
+18691|<O>| if (!clonep(me)) return "风灵石";
+18692|<O>| "龙骨" : "\"/item/stuff/0130\"",
+18693|<O>| else if ( rate < 6035 )	//战国号角
+18694|<O>| who->log_money("试骑宠", -10000);
+18695|<O>| "鸭蛋" : "\"/item/stuff/0172\"",
+18696|<O>| ESC"放弃进入\ndesc changping no\n"
+18697|<O>| "川贝" : "\"/item/stuff/0127\"",
+18698|<O>| return "任务物品。百年难得一见的价值连城的玉佩。";
+18699|<O>| case 2: data = "伏击保护";  break;
+18700|<O>| "田七" : "\"/item/stuff/0109\"",
+18701|<O>| who->set_action(0);    // 被我魅惑
+18702|<O>| "精致宝石矿" : "\"/item/89/8993\"",
+18703|<O>| for (i = 3;i < 5;i++)	//2个僵尸守卫
+18704|<O>| "残缺绿晶石" : "\"/item/89/8910\"",
+18705|<O>| #define PF_NAME        "一拳定山河"
+18706|<O>| #define PF_NAME        "混天戟锻造"
+18707|<O>| "蝎子" : "\"/item/stuff/0189\"",
+18708|<O>| return "由铜锭和锡锭熔炼而成，铁匠、机关所需材料";
+18709|<O>| #define PF_NAME        "天狼剑锻造"
+18710|<O>| "狗肺" : "\"/item/stuff/0185\"",
+18711|<O>| return "任务物品。魏国工匠做给齐家小姐的首饰箱。";
+18712|<O>| #define PF_NAME        "召唤兽医疗"
+18713|<O>| "纱布包裹" : "\"/item/std/6005\"",
+18714|<O>| #define PF_NAME        "攻击加延缓"
+18715|<O>| "残缺补天石" : "\"/item/89/8923\"",
+18716|<O>| "山参" : "\"/item/stuff/0123\"",
+18717|<O>| "狼心" : "\"/item/stuff/0184\"",
+18718|<O>| "四季图·夏" : "\"/item/97/9721\"",
+18719|<O>| if (me->is_leader())		//队员跟随队长
+18720|<O>| // NPC 创建时禁用 heart beat，等待事件激活
+18721|<O>| "小米" : "\"/item/stuff/0145\"",
+18722|<O>| result += ESC"开启\nparty 13\n";
+18723|<O>| ESC"确定\ntalk %x# bonus.1023\n"
+18724|<O>| else if (flag == 3)    // 售出商品
+18725|<O>| #define PF_NAME        "精铁棍锻造"
+18726|<O>| if (!clonep(me)) return "金灵石";
+18727|<O>| "白芪" : "\"/item/stuff/0125\"",
+18728|<O>| "雄黄" : "\"/item/stuff/0136\"",
+18729|<O>| "银矿" : "\"/item/stuff/0008\"",
+18730|<O>| //me->log_money("购买", -price);
+18731|<O>| return "普通的松木棒，由石刻技能分解出来并使用。";
+18732|<O>| else if (num == 4)    // 乾坤袋之内
+18733|<O>| "蛇皮" : "\"/item/stuff/0190\"",
+18734|<O>| DEBUG("测试-->发送首次有称谓玩家上线信息成功");
+18735|<O>| log_file(LIST_LOG, "# 财政官\n");
+18736|<O>| interval = 3600;    // 小心准备 me
+18737|<O>| #define PF_NAME        "空手入白刃"
+18738|<O>| #define PF_NAME        "龙尖枪锻造"
+18739|<O>| "残缺紫晶石" : "\"/item/89/8920\"",
+18740|<O>| if ( level2 == 9  )	//完成10次的奖励
+18741|<O>| "锡锭" : "\"/item/stuff/0010\"",
+18742|<O>| ESC "接受任务\ntalk %x# qixi.19\n"
+18743|<O>| return "打开后能让你获得意想不到的惊喜的小布袋。";
+18744|<O>| result = result + HIR"1000潜能";
+18745|<O>| cWord = "赠君一言:\n　　人为财死，鸟为食亡。";
+18746|<O>| result = result + HIR"20000金";
+18747|<O>| ESC "继续\ntalk %x# welcome.2\n"
+18748|<O>| #define PF_NAME        "迅豹盔制作"
+18749|<O>| "破损的头盔" : "\"/item/40/4013\"",
+18750|<O>| result = result + HIR"1000经验";
+18751|<O>| #define PF_NAME        "侠客巾制作"
+18752|<O>| if (get_z(me) == z)    // 同一城市
+18753|<O>| ESC "继续鉴定\ntalk %x# welcome\n"
+18754|<O>| "鸟蛋" : "\"/item/stuff/0173\"",
+18755|<O>| set_char_picid(452);    // 蒙面人
+18756|<O>| who->log_money("职业变更", -1000);
+18757|<O>| result = result + HIR"Vip试用包";
+18758|<O>| "萝卜" : "\"/item/stuff/0150\"",
+18759|<O>| // 法术  TIPS:[PF_SELF_AREA]  变异
+18760|<O>| if (!clonep(me)) return "土晶石";
+18761|<O>| "黄豆" : "\"/item/stuff/0160\"",
+18762|<O>| log_file(LIST_LOG, "# 典狱官\n");
+18763|<O>| for (i = 0;i < 4;i++)	//4个游魂祸害
+18764|<O>| "劣质宝石矿" : "\"/item/89/8990\"",
+18765|<O>| "牛肉" : "\"/item/stuff/0181\"",
+18766|<O>| if (!clonep(me)) return "木灵石";
+18767|<O>| tell_user(me, "载入失败: " + err);
+18768|<O>| #define PF_NAME        "远征鞋制作"
+18769|<O>| #define PF_NAME        "玉衡针锻造"
+18770|<O>| "四季图·春" : "\"/item/97/9720\"",
+18771|<O>| set_char_picid(0252);    // 强盗
+18772|<O>| #define PF_NAME        "压耳帽制作"
+18773|<O>| return "任务物品。能化解魏管家第三个劫难的泥人。";
+18774|<O>| "黄芪" : "\"/item/stuff/0112\"",
+18775|<O>| if (!clonep(me)) return "月晶石";
+18776|<O>| #define PF_NAME        "查使命人物"
+18777|<O>| ESC "马上自动复活。\ndesc revive\n");
+18778|<O>| default: name3 = "城防";  break;
+18779|<O>| + sprintf(ESC"关闭\nparty 25\n")
+18780|<O>| "吡石" : "\"/item/stuff/0137\"",

@@ -1,0 +1,65 @@
+﻿11069|<O>| private int Dex;                 // 敏捷，机敏   Dexterity
+11070|<O>| #define SKILL_FINAL	"/item/final/65/5075"				// 制作的结果
+11071|<O>| sprintf("%s:\n    传送法术马上就要发动了，不要紧张，深呼吸，闭上双眼～开始罗～～～\n"
+11072|<O>| #define SKILL_FINAL	"/item/final/60/1075"				// 制作的结果
+11073|<O>| result = sprintf("%s 您起了自杀的念头！", short_time(time()));
+11074|<O>| return "缘分手镯的一只，相传只要与一位佩带龙镯的玩家组队，\n双方的气血魔法恢复将会增加10%";
+11075|<O>| + sprintf(ESC"调整当前时间至国庆节活动之——西瓜伯伯的起始时间\nparty 147\n")
+11076|<O>| #define SKILL_FINAL	"/item/final/86/4085"				// 制作的结果
+11077|<O>| #define SKILL_FINAL	"/item/final/65/2065"				// 制作的结果
+11078|<O>| //        	send_user(me, "%c%s", '!', "不能修改对应项目的值");
+11079|<O>| return "［道家学说］蕴含丰富哲理的学说，可提升修行者的法术力上限。每级增加5点法力上限。\n";
+11080|<O>| if (price < 1 || price1 != price / total)	// 避免溢出出问题
+11081|<O>| "", "", "<子目录>", dfile[i][0]) });    // time1[2..<4]
+11082|<O>| who->add_contribute(gold2 / 1000);    // 1000 金 = 贡献
+11083|<O>| sprintf("%s(%d)邀请您加入其队伍。", name, me->get_number()));
+11084|<O>| if (!is_player(me)) tell_user(me, "R困敌 %d％", rate);
+11085|<O>| sprintf(ESC"64点兑换技能进阶书\ntalk %x# exchange.2\n",id) +
+11086|<O>| result = sprintf(HIR"恭喜%s打开红包，获得", who->get_name());
+11087|<O>| log_file("distribute.txt",short_time() + " 放金钱\n" );
+11088|<O>| send_user(who, "%c%s", '!', "你接受了"HIY"探望病人"NOR"任务");
+11089|<O>| return HIC+get_name()+"\n拥有此技能的宠物，将提高其当前物理攻击力的10%。";
+11090|<O>| case "桃花源": z = 289;  p = get_jumpin(z, 20);  break;
+11091|<O>| int set_grade(int i) { return grade = i; }// 函数:心跳处理
+11092|<O>| return "居家旅行时所用的小背包，\n可增加使用者8格的背包空间。\n包裹10天后会自动损坏。";
+11093|<O>| who->get_name() + ":\n    你的包袱已满，请清理一下你的包包再来找我吧～！\n"
+11094|<O>| if (MAP_D->is_inside_safe_zone(z, x, y))    // 安全区判断
+11095|<O>| say_word = "挑战虎王需要10000战国币的门票，你进活动场景后也可以让你的朋友来帮助你！";
+11096|<O>| "五雷" : ({0900,0901,0702,0901,0900,0900,0953,0402 }),
+11097|<O>| result = me->get_name() + ":\n    您身上的金钱不够支付本次租金\n";
+11098|<O>| sprintf("%s(%d)申请加入您的队伍。", name, me->get_number()));
+11099|<O>| if( point ) result += sprintf( "潜能: %+d\n", point );
+11100|<O>| write_user(me, ECHO "%s精炼失败！", item[0]->get_name());
+11101|<O>| tell_user(owner, "你的" + me->get_name() + "寿命增加50点");
+11102|<O>| private static object* dbPower2 = ({ });	// 防守方的战斗傀儡
+11103|<O>| ESC "我只是来看看\nCLOSE\n", me->get_name(), getoid(me)));
+11104|<O>| send_user( who, "%c%s", '!', "你领取了情人节任务————诡异的飞贼！");
+11105|<O>| case 'X': send_user(me, "%c%s", '!', "您输入了不正确的数据！");
+11106|<O>| say_word = "你太厉害了，居然过了6关，可以领取100万战国币与增加物防与法防称号的奖励！";
+11107|<O>| return HIR + PF_NAME + "\n技能需求:1级\n    回收自己操纵的召唤兽。";
+11108|<O>| send_user(who, "%c%s", '!', "你接受了"HIY"飞鸽传书"NOR"任务");
+11109|<O>| send_user(team[i],"%c%s",'!',HIY"请注意:守墓石将，已经苏醒！！！");
+11110|<O>| private static string Perform2;         // 特殊技文件(循环)
+11111|<O>| //  case "茅山" : if( !objectp( me->get("soldier") ) )
+11112|<O>| return "［强化混元真气］提升法力上限，每级提升2.5点；提升法术防御力上限，每级提升1.5点";
+11113|<O>| send_user(who, "%c%s", '!', sprintf("赤褐蚁 %d/1", i));
+11114|<O>| /*	delete_save_2("record");//抓兔英雄榜的记录在第二天活动开始前都是有效的。
+11115|<O>| private int NoFight;                    // 禁战标志(安全区)
+11116|<O>| if (random(100) < item->get_active_rate())    // 成功率
+11117|<O>| if (sscanf(arg, "! %s", arg)) flag = 1;    // 强行丢掉垃圾
+11118|<O>| //        team->set_task("robber#", -1);    // 任务完成数
+11119|<O>| say_word = "你上次闯关的奖励还没有领取，确定要再次进去挑战吗？这样会让你失去上次的奖励！";
+11120|<O>| result = sprintf(HIC "您的“%s”升至 %d 级！", name, level);
+11121|<O>| send_user(who, "%c%s", '!', "你接受了"HIY"寻宝历险"NOR"任务");
+11122|<O>| set_effect(who, EFFECT_CHAR_FAINT, 2);    // 小心准备 me
+11123|<O>| tell_user(who, "%c%s", '>', "列出所有公告: gonggao list");
+11124|<O>| exp = NPC_ENERGY_D->get_exp_bonus(level);    // 查表取值
+11125|<O>| else if (arrayp(user = me->get_team()))    // 更新队员坐标
+11126|<O>| result = sprintf("您想把这里设成哪个时空导标？(最多 %d 个)\n", size);
+11127|<O>| send_user(who, "%c%s", '!', sprintf("获得经验%d", exp));
+11128|<O>| who->set_quit_ip(get_ip_name(who));    // 注意 quit 命令
+11129|<O>| send_user( player, "%c%s", '!', "任务已经完成了，请向师傅报告。" );
+11130|<O>| send_user(who, "%c%s", ';', "疑难杂症（1） 经验 150 潜能 20");
+11131|<O>| send_user( who, "%c%s", '!', "你领取了情人节任务————天使爱美丽！");
+11132|<O>| if (me->get_login_flag() < 3) return 1;    // 没有准备就绪
+11133|<O>| if (who = me->get_main_enemy())    // 搜索何人攻击(最重要的敌人)

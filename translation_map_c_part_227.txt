@@ -1,0 +1,54 @@
+﻿6965|<O>| write_user(who, ECHO "Bạn say mê tiếng hát của %s, để lại %d vàng。", me->get_name(), gold);
+6966|<O>| tell_user(me, "Bạn bắt đầu giám sát %s(%d)。", who->get_name(), who->get_number());
+6967|<O>| send_user(me, "%c%s", ':', "Dưới đây là công thức của " + get_type_word(type2) + ":\n"
+6968|<O>| case "Yên Quốc": cmd1 = sprintf("talk %x# advice.?.%d.1\n", id, number);
+6969|<O>| tmp += sprintf(ESC HIY "Hỏi thăm tin tức\ntalk %x# welcome.28\n", getoid(me));
+6970|<O>| result += sprintf(ESC "Bình Dương\ntalk %x# welcome.10 Bình Dương\n", getoid(me));
+6971|<O>| tmp += sprintf(ESC HIY "Trừ khử gian tặc\ntalk %x# welcome.11\n", getoid(me));
+6972|<O>| result += sprintf(ESC "Nghiên cứu rối chiến đấu\ntalk %x# welcome.1\n", getoid(me));
+6973|<O>| send_user(me, "%c%s", ':', sprintf("Tấn công của %s(%x#): %d.%d giây, vui lòng nhập giá trị mới:\n",
+6974|<O>| send_user(who, "%c%s", ';', "Gợi lại ký ức Kinh nghiệm 4000 Tiềm năng 50 Kim tiền 2800 Bản vẽ Hạc Đỉnh Hồng 1");
+6975|<O>| if (who->get_login_flag() < 2) continue;    // Chú thích cũ (từng có trường hợp người chơi khởi động lại dữ liệu bị xóa hết về 0)
+6976|<O>| tmp += sprintf(ESC HIY "Lòng tốt của bách tính\ntalk %x# welcome.1\n", getoid(me));
+6977|<O>| send_user(who, "%c%s", '!', "Chúc mừng! Bạn mở Quà Trung Thu Lớn nhận được " + item->get_name());
+6978|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 7, "Nỗi ám ảnh của giấc mơ");
+6979|<O>| private class Health MP = new(class Health);  // Điểm pháp lực("mp", "mp%")
+6980|<O>| tmp += sprintf(ESC HIY "Lời hỏi thăm của em trai\ntalk %x# welcome.5\n", getoid(me));
+6981|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 47, "Trừ khử ác bá");
+6982|<O>| tmp += sprintf(ESC HIY "Đòi lấy hạt giống rau\ntalk %x# welcome.1\n", getoid(me));
+6983|<O>| tmp += sprintf(ESC HIY "Minh biện thị phi\ntalk %x# welcome.1\n", getoid(me));
+6984|<O>| send_user(who, "%c%c%w%s", ':', 3, 0, "Bắt đầu xây dựng " + me->get_name() + " mới");
+6985|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 28, "Nhị hồ");
+6986|<O>| return "Chu Vương đặc biệt mời thợ khéo tay chế tạo để cất giấu kho báu.\nNhấp chuột phải vào hộp bảo vật, nó sẽ ở trạng thái phóng to (có thể dùng "HIR"Chìa khóa Thanh Đồng"NOR" để mở).";
+6987|<O>| tmp += sprintf(ESC HIY "Hiến kế góp sức\ntalk %x# welcome.1\n", getoid(me));
+6988|<O>| tmp += sprintf(ESC HIY "Giải quyết khó khăn\ntalk %x# welcome.3\n", getoid(me));
+6989|<O>| send_user(who, "%c%s", ':', me->get_name() + ":\nBạn muốn tra cứu tình hình phương diện nào của thành này?\n"
+6990|<O>| //	send_user( me, "%c%c%w%w%s", 0x60, 4, get_number(), 5, "Thắt lưng" );
+6991|<O>| tmp = sprintf(ESC HIY "Hồn phách bất an\ntalk %x# welcome.1\n", getoid(me));
+6992|<O>| item = new (sprintf("item/std/800%d", random(4) + 1));//Một góc ngẫu nhiên của bản đồ kho báu bị khuyết
+6993|<O>| send_user(who, "%c%s", ';', "Vinh quang vô thượng (2) Kinh nghiệm 55000 Tiềm năng 830 Kim tiền 53000");
+6994|<O>| ESC "Đóng\nCLOSE\n", me->get_name(), who->get_name(), getoid(me)));
+6995|<O>| "Intel(R) Pentium(R) D CPU 3.40GHz i386ca69df601731523b66",	// Chiến Quốc
+6996|<O>| tmp += sprintf(ESC HIY "Thu thập đại táo\ntalk %x# welcome.1\n", getoid(me));
+6997|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 6\n    Thương như Giao Long xuất hải, nhanh nhẹn sắc bén, có thể tăng 8% tỷ lệ đánh trúng.";
+6998|<O>| tmp += sprintf(ESC HIY "Trừ khử thích khách\ntalk %x# welcome.1\n", getoid(me));
+6999|<O>| tmp += sprintf(ESC HIY "Trừ khử ác bá\ntalk %x# welcome.1\n", getoid(me));
+7000|<O>| if (!get_effect_3(me, EFFECT_CHAR_BLOOD))    // Triệu chứng tuần hoàn set_effect_2
+7001|<O>| } else if(rate < 9970 ) {	//	vii.	5% tỷ lệ rơi Chiến Quốc Lệnh		//8-23	xv.	1% tỷ lệ rơi Chiến Quốc Lệnh
+7002|<O>| tmp += sprintf(ESC HIY "Trừ khử ác nhân\ntalk %x# welcome.1\n", getoid(me));
+7003|<O>| tmp += sprintf(ESC HIY "Phá bỏ tin đồn\ntalk %x# welcome.9\n", getoid(me));
+7004|<O>| national2 = sprintf(ESC HIY"Nhanh tay thì còn chậm tay thì mất, nhấn vào để mua ngay\ntalk %x# bonus.38\n"
+7005|<O>| return "Đạo cụ tạm thời dùng để tham gia bỏ phiếu dự đoán trận đấu World Cup. Giá trị: 10.\nTăng vật công 8%, hiệu quả duy trì 60 phút.";
+7006|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 13\n    Né tránh hoàn toàn đòn tấn công tiếp theo, trạng thái duy trì 5 giây.";
+7007|<O>| tmp = sprintf(ESC HIY "Nguyện vọng của thợ thủ công\ntalk %x# welcome.1\n", getoid(me));
+7008|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này có thể tăng 10% né tránh\nvà 20% tốc độ tấn công vật lý.";
+7009|<O>| tmp += sprintf(ESC HIY "Bẩm báo Tề Vương\ntalk %x# welcome.6\n", getoid(me));
+7010|<O>| 1  : ([ "finish":2,"legend":({1}),"objname" : ({"Thư của Bách Hợp Tiên Tử" ,}) ]),
+7011|<O>| //	send_user( me, "%c%c%w%w%s", 0x60, 4, get_number(), 4, "Dây chuyền" );
+7012|<O>| send_user(member[i], "%c%c%c%w%s", 0x51, 1, 1, TID_QIXI, "Nhiệm vụ Thất Tịch");
+7013|<O>| tmp = sprintf(ESC HIY "Vệ binh hối hận\ntalk %x# welcome.1\n", getoid(me));
+7014|<O>| tmp += sprintf(ESC HIY "Thượng tấu Hàn Vương\ntalk %x# welcome.4\n", getoid(me));
+7015|<O>| if (!objectp(item214_1 = present("Trâm cài đầu Vong Tình Bà Bà cần", who, 1, MAX_CARRY)))
+7016|<O>| if (lowhp == 0 && get_hp() * 100 / get_max_hp() < 30)	//Sinh mệnh dưới 40%
+7017|<O>| tmp += sprintf(ESC HIY "Con đường tìm kiếm kiếm\ntalk %x# welcome.7\n", getoid(me));
+7018|<O>| if (lowhp == 0 && get_hp() * 100 / get_max_hp() < 30)	//Sinh mệnh dưới 30%

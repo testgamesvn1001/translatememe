@@ -1,107 +1,107 @@
-﻿19919|<O>| "板栗" : "\"/item/99/9971\"",
-19920|<O>| "凿子" : "\"/item/34/3412\"",
-19921|<O>| ESC "确定\nmix3 0# %x# %x#\n"
-19922|<O>| "墨块" : "\"/item/38/3851\"",
-19923|<O>| ESC"确定\ntalk %x# bonus.9\n"
-19924|<O>| #define PF_NAME        "蚀魄"
-19925|<O>| else if (dy < 0)    // 第三象限
-19926|<O>| printf(ECHO "你中止了“自动射击”。");
-19927|<O>| "燕国刀盾兵" : "在燕长城可以杀到燕国刀盾兵 ",
-19928|<O>| _DEBUG("DEBUG-- 地图处理没有成功");
-19929|<O>| "二胡" : "\"/item/36/3611\"",
-19930|<O>| return "一小时内增加法术攻击力30％。\n";
-19931|<O>| "木板" : "\"/item/49/4910\"",
-19932|<O>| "桔子" : "\"/item/32/3282\"",
-19933|<O>| "龟壳" : "\"/item/40/4047\"",
-19934|<O>| "骨盾" : "在万人坑一层杀刀盾骷髅可以得到骨盾",
-19935|<O>| HIR"周国的王捕头"NOR"处领取挖宝小锄头。");
-19936|<O>| "腰牌" : "\"/item/40/4015\"",
-19937|<O>| if (flag == 1)    // 输入商品个数
-19938|<O>| notify("不是刷怪地图，不宜作为活动地图。");
-19939|<O>| "发束" : "\"/item/40/4028\"",
-19940|<O>| "黄酒" : "\"/item/31/3151\"",
-19941|<O>| "草叉" : "\"/item/34/3406\"",
-19942|<O>| tell_user(me, "无法清除旧的程序。");
-19943|<O>| "奶嘴" : "\"/item/40/4025\"",
-19944|<O>| "老酒" : "\"/item/31/3152\"",
-19945|<O>| "银器" : "\"/item/99/9953\"",
-19946|<O>| return "［宝石合成材料］增加法术攻击百分比";
-19947|<O>| "木槌" : "\"/item/34/3411\"",
-19948|<O>| "白纸" : "\"/item/38/3850\"",
-19949|<O>| #define PF_NAME        "医疗"
-19950|<O>| "鱼叉" : "\"/item/40/4057\"",
-19951|<O>| result += ESC"取消\nCLOSE\n";
-19952|<O>| return "任务物品。秦国百姓急需的一种药品。";
-19953|<O>| "水瓢" : "\"/item/35/3511\"",
-19954|<O>| "桑麻" : "\"/item/99/9912\"",
-19955|<O>| return "任务物品。干农活时必需的一种工具。";
-19956|<O>| "汾酒" : "\"/item/31/3154\"",
-19957|<O>| "蜘蛛丝" : "在长白山杀绿壳蜘蛛可以得到蜘蛛丝",
-19958|<O>| int hptime, sumtime;//召唤时间。
-19959|<O>| "蜡烛" : "\"/item/34/3451\"",
-19960|<O>| // 暗器技能  TIPS:[PF_THROWING]
-19961|<O>| "箭筒" : "\"/item/40/4055\"",
-19962|<O>| int stuff_number;				//资源编号
-19963|<O>| "漆器" : "\"/item/99/9973\"",
-19964|<O>| printf( ECHO "这里不能丢弃东西。" );
-19965|<O>| "玉玺" : "\"/item/49/4980\"",
-19966|<O>| #define	PF_NAME	       "群疗"
-19967|<O>| ESC"挑战\ntalk %x# tiger.4\n"
-19968|<O>| private int Mode;			// 显示模式
-19969|<O>| "FIGHTER_TYPE",   // 小怪，大怪？
-19970|<O>| tmp = ESC "情人节的传说\n" + cmd;
-19971|<O>| "玉盖" : "\"/item/40/4076\"",
-19972|<O>| return "［宝石合成材料］增加法术闪避百分比";
-19973|<O>| return "被肋击状态:减少10％防御力。\n";
-19974|<O>| #define PF_NAME        "施毒"
-19975|<O>| "葡萄" : "\"/item/32/3287\"",
-19976|<O>| "骸骨碎片" : "在长平杀骷髅兵可以得到骸骨碎片",
-19977|<O>| return "［装备合成材料］增加法术闪躲百分比";
-19978|<O>| "锯子" : "\"/item/34/3414\"",
-19979|<O>| set_name("紫金钥匙、青铜钥匙、红木钥匙");
-19980|<O>| #define MASTER_NEED	"修理店老板"
-19981|<O>| "拐杖" : "\"/item/40/4022\"",
-19982|<O>| return "粗糙的绳线，裁缝生活技能需要的材料";
-19983|<O>| "守阵天兵" : "在天门阵一层可以杀到守阵天兵 ",
-19984|<O>| "铜骸" : "\"/item/40/4062\"",
-19985|<O>| me->log_money("藏宝图", gold);
-19986|<O>| "蛋壳" : "\"/item/40/4002\"",
-19987|<O>| "赵国剑盾兵" : "在赵长城可以杀到赵国剑盾兵 ",
-19988|<O>| "兰花" : "\"/item/30/3002\"",
-19989|<O>| tell_user(me, "指定ＩＰ已经开放。");
-19990|<O>| case 1: // 用于小贩物品(货物不显示卖出价)
-19991|<O>| "弓箭石俑" : "在将军古墓三层可以捉到弓箭石俑",
-19992|<O>| #define PF_NAME        "炼毒"
-19993|<O>| return "任务物品。一颗发出奇异之光的宝珠。";
-19994|<O>| "文竹" : "\"/item/30/3003\"",
-19995|<O>| "菊花" : "\"/item/30/3004\"",
-19996|<O>| "烤鸭" : "\"/item/99/9972\"",
-19997|<O>| "秦国刀盾兵" : "在秦长城可以杀到秦国刀盾兵 ",
-19998|<O>| "龙眼" : "\"/item/32/3288\"",
-19999|<O>| "煎饼" : "\"/item/33/3302\"",
-20000|<O>| "黄金" : "\"/item/99/9963\"",
-20001|<O>| #define PF_NAME        "窥物"
-20002|<O>| "皮带" : "\"/item/40/4049\"",
-20003|<O>| return "一小时内增加物理攻击力30％。\n";
-20004|<O>| // ministry of resident 户籍官
-20005|<O>| #define PF_NAME        "自疗"
-20006|<O>| who->log_money("舞蹈", gold);
-20007|<O>| return "一种用来装箭的一种器物，作出售品用";
-20008|<O>| "茶壶" : "\"/item/35/3514\"",
-20009|<O>| "法笔" : "\"/item/34/3456\"",
-20010|<O>| "拂尘" : "\"/item/40/4075\"",
-20011|<O>| return "任务物品。一种用来滋补的名贵药材。";
-20012|<O>| result += NOR"，让我们大家表示祝贺！";
-20013|<O>| "诗经" : "\"/item/97/9705\"",
-20014|<O>| return "碎散的布料，裁缝生活技能需要的材料";
-20015|<O>| "剧毒刺" : "在沼泽边缘杀毒刺蜂可以得到剧毒刺",
-20016|<O>| // make/item/make_ss_item生成
-20017|<O>| "荔枝" : "\"/item/32/3289\"",
-20018|<O>| notify("你需要在活动地图才能执行这些指令");
-20019|<O>| notify("您需达到15级才能使用这个频道。");
-20020|<O>| "尚书" : "\"/item/97/9706\"",
-20021|<O>| "甲胄" : "\"/item/40/4072\"",
-20022|<O>| "锄头" : "\"/item/34/3402\"",
-20023|<O>| tell_user(me, "取消开放指定ＩＰ。");
-20024|<O>| "刨子" : "\"/item/34/3413\"",
-20025|<O>| "令旗" : "\"/item/49/4985\"",
+﻿19919|<O>| "Bản Lật" : "\"/item/99/9971\"",
+19920|<O>| "Tạc Tử" : "\"/item/34/3412\"",
+19921|<O>| ESC "Xác nhận\nmix3 0# %x# %x#\n"
+19922|<O>| "Mặc Khối" : "\"/item/38/3851\"",
+19923|<O>| ESC"Xác nhận\ntalk %x# bonus.9\n"
+19924|<O>| #define PF_NAME        "Thực Phách"
+19925|<O>| else if (dy < 0)    // Tượng hạn thứ ba
+19926|<O>| printf(ECHO "Bạn đã dừng "Tự Động Xạ Kích".");
+19927|<O>| "Yên Quốc Đao Thuẫn Binh" : "Ở Yên Trường Thành có thể giết được Yên Quốc Đao Thuẫn Binh ",
+19928|<O>| _DEBUG("DEBUG-- Xử lý bản đồ không thành công");
+19929|<O>| "Nhị Hồ" : "\"/item/36/3611\"",
+19930|<O>| return "Trong một giờ tăng lực tấn công pháp thuật 30%.\n";
+19931|<O>| "Mộc Bản" : "\"/item/49/4910\"",
+19932|<O>| "Quất Tử" : "\"/item/32/3282\"",
+19933|<O>| "Quy Xác" : "\"/item/40/4047\"",
+19934|<O>| "Cốt Thuẫn" : "Ở tầng một Vạn Nhân Khanh giết Đao Thuẫn Khô Lâu có thể nhận được Cốt Thuẫn",
+19935|<O>| HIR"Vương Bộ Đầu của Chu Quốc"NOR"nhận cuốc nhỏ đào bảo.");
+19936|<O>| "Yêu Bài" : "\"/item/40/4015\"",
+19937|<O>| if (flag == 1)    // Nhập số lượng hàng hoá
+19938|<O>| notify("Không phải bản đồ quái vật, không nên dùng làm bản đồ hoạt động.");
+19939|<O>| "Phát Thúc" : "\"/item/40/4028\"",
+19940|<O>| "Hoàng Tửu" : "\"/item/31/3151\"",
+19941|<O>| "Thảo Xoa" : "\"/item/34/3406\"",
+19942|<O>| tell_user(me, "Không thể xoá chương trình cũ.");
+19943|<O>| "Nãi Chủy" : "\"/item/40/4025\"",
+19944|<O>| "Lão Tửu" : "\"/item/31/3152\"",
+19945|<O>| "Ngân Khí" : "\"/item/99/9953\"",
+19946|<O>| return "［Nguyên liệu hợp thành Bảo Thạch］Tăng phần trăm tấn công pháp thuật";
+19947|<O>| "Mộc Chùy" : "\"/item/34/3411\"",
+19948|<O>| "Bạch Chỉ" : "\"/item/38/3850\"",
+19949|<O>| #define PF_NAME        "Y Liệu"
+19950|<O>| "Ngư Xoa" : "\"/item/40/4057\"",
+19951|<O>| result += ESC"Huỷ bỏ\nCLOSE\n";
+19952|<O>| return "Vật phẩm nhiệm vụ. Một loại dược phẩm bách tính Tần Quốc cần gấp.";
+19953|<O>| "Thuỷ Biều" : "\"/item/35/3511\"",
+19954|<O>| "Tang Ma" : "\"/item/99/9912\"",
+19955|<O>| return "Vật phẩm nhiệm vụ. Một loại dụng cụ cần thiết khi làm ruộng.";
+19956|<O>| "Phần Tửu" : "\"/item/31/3154\"",
+19957|<O>| "Tri Châu Ty" : "Ở Trường Bạch Sơn giết Lục Xác Tri Châu có thể nhận được Tri Châu Ty",
+19958|<O>| int hptime, sumtime;//Thời gian triệu hồi.
+19959|<O>| "Lạp Chúc" : "\"/item/34/3451\"",
+19960|<O>| // Kỹ năng ám khí  TIPS:[PF_THROWING]
+19961|<O>| "Tiễn Đồng" : "\"/item/40/4055\"",
+19962|<O>| int stuff_number;				//Số hiệu tài nguyên
+19963|<O>| "Tất Khí" : "\"/item/99/9973\"",
+19964|<O>| printf( ECHO "Ở đây không thể vứt bỏ đồ vật." );
+19965|<O>| "Ngọc Tỷ" : "\"/item/49/4980\"",
+19966|<O>| #define	PF_NAME	       "Quần Liệu"
+19967|<O>| ESC"Khiêu chiến\ntalk %x# tiger.4\n"
+19968|<O>| private int Mode;			// Chế độ hiển thị
+19969|<O>| "FIGHTER_TYPE",   // Tiểu quái, đại quái?
+19970|<O>| tmp = ESC "Truyền thuyết Tình Nhân Tiết\n" + cmd;
+19971|<O>| "Ngọc Cái" : "\"/item/40/4076\"",
+19972|<O>| return "［Nguyên liệu hợp thành Bảo Thạch］Tăng phần trăm né tránh pháp thuật";
+19973|<O>| return "Trạng thái bị Lặc Kích: Giảm 10% lực phòng thủ.\n";
+19974|<O>| #define PF_NAME        "Thi Độc"
+19975|<O>| "Bồ Đào" : "\"/item/32/3287\"",
+19976|<O>| "Hài Cốt Toái Phiến" : "Ở Trường Bình giết Khô Lâu Binh có thể nhận được Hài Cốt Toái Phiến",
+19977|<O>| return "［Nguyên liệu hợp thành trang bị］Tăng phần trăm né tránh pháp thuật";
+19978|<O>| "Cứ Tử" : "\"/item/34/3414\"",
+19979|<O>| set_name("Tử Kim Thược Thì, Thanh Đồng Thược Thì, Hồng Mộc Thược Thì");
+19980|<O>| #define MASTER_NEED	"Tu Lý Điếm Lão Bản"
+19981|<O>| "Quải Trượng" : "\"/item/40/4022\"",
+19982|<O>| return "Dây thừng thô, nguyên liệu kỹ năng sinh hoạt thợ may cần dùng";
+19983|<O>| "Thủ Trận Thiên Binh" : "Ở tầng một Thiên Môn Trận có thể giết được Thủ Trận Thiên Binh ",
+19984|<O>| "Đồng Hài" : "\"/item/40/4062\"",
+19985|<O>| me->log_money("Tàng Bảo Đồ", gold);
+19986|<O>| "Đản Xác" : "\"/item/40/4002\"",
+19987|<O>| "Triệu Quốc Kiếm Thuẫn Binh" : "Ở Triệu Trường Thành có thể giết được Triệu Quốc Kiếm Thuẫn Binh ",
+19988|<O>| "Lan Hoa" : "\"/item/30/3002\"",
+19989|<O>| tell_user(me, "IP chỉ định đã được mở.");
+19990|<O>| case 1: // Dùng cho vật phẩm tiểu phiến (hàng hoá không hiển thị giá bán)
+19991|<O>| "Cung Tiễn Thạch Dũng" : "Ở tầng ba Tướng Quân Cổ Mộ có thể bắt được Cung Tiễn Thạch Dũng",
+19992|<O>| #define PF_NAME        "Luyện Độc"
+19993|<O>| return "Vật phẩm nhiệm vụ. Một viên bảo châu phát ra ánh sáng kỳ dị.";
+19994|<O>| "Văn Trúc" : "\"/item/30/3003\"",
+19995|<O>| "Cúc Hoa" : "\"/item/30/3004\"",
+19996|<O>| "Khảo Áp" : "\"/item/99/9972\"",
+19997|<O>| "Tần Quốc Đao Thuẫn Binh" : "Ở Tần Trường Thành có thể giết được Tần Quốc Đao Thuẫn Binh ",
+19998|<O>| "Long Nhãn" : "\"/item/32/3288\"",
+19999|<O>| "Tiên Bính" : "\"/item/33/3302\"",
+20000|<O>| "Hoàng Kim" : "\"/item/99/9963\"",
+20001|<O>| #define PF_NAME        "Khuy Vật"
+20002|<O>| "Bì Đái" : "\"/item/40/4049\"",
+20003|<O>| return "Trong một giờ tăng lực tấn công vật lý 30%.\n";
+20004|<O>| // ministry of resident Hộ Tịch Quan
+20005|<O>| #define PF_NAME        "Tự Liệu"
+20006|<O>| who->log_money("Vũ Đạo", gold);
+20007|<O>| return "Một loại đồ vật dùng để đựng tên, dùng làm vật bán";
+20008|<O>| "Trà Hồ" : "\"/item/35/3514\"",
+20009|<O>| "Pháp Bút" : "\"/item/34/3456\"",
+20010|<O>| "Phất Trần" : "\"/item/40/4075\"",
+20011|<O>| return "Vật phẩm nhiệm vụ. Một loại dược liệu danh quý dùng để bồi bổ.";
+20012|<O>| result += NOR", hãy cùng chúc mừng!";
+20013|<O>| "Thi Kinh" : "\"/item/97/9705\"",
+20014|<O>| return "Vải vụn, nguyên liệu kỹ năng sinh hoạt thợ may cần dùng";
+20015|<O>| "Kịch Độc Thích" : "Ở rìa đầm lầy giết Độc Thích Phong có thể nhận được Kịch Độc Thích",
+20016|<O>| // make/item/make_ss_item tạo
+20017|<O>| "Lệ Chi" : "\"/item/32/3289\"",
+20018|<O>| notify("Bạn cần ở bản đồ hoạt động mới có thể thực hiện các lệnh này");
+20019|<O>| notify("Bạn cần đạt cấp 15 mới có thể sử dụng kênh này.");
+20020|<O>| "Thượng Thư" : "\"/item/97/9706\"",
+20021|<O>| "Giáp Trụ" : "\"/item/40/4072\"",
+20022|<O>| "Sừ Đầu" : "\"/item/34/3402\"",
+20023|<O>| tell_user(me, "Huỷ mở IP chỉ định.");
+20024|<O>| "Bào Tử" : "\"/item/34/3413\"",
+20025|<O>| "Lệnh Kỳ" : "\"/item/49/4985\"",

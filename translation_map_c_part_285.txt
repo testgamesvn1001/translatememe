@@ -1,0 +1,63 @@
+﻿10368|<O>| if (TASK_LEGEND_D->check_task_item(who, "蜜糖", 3) != 1)
+10369|<O>| max_exp = mpInfo["limit"] - mpInfo["exp"];	//最多可以充的经验值
+10370|<O>| send_user(who, "%c%s", '!', sprintf(HIY"单刀 %d/8", i));
+10371|<O>| send_user(who, "%c%s", ';', "得到奖励 乾坤袋 2 法力石 1 血力石 1");
+10372|<O>| result += sprintf(ESC"完成任务\nlook %x#\n", getoid(who));
+10373|<O>| if (TASK_LEGEND_D->check_task_item(who, "单刀", 8) != 1)
+10374|<O>| private int MaxLevel;                   // 最高等级(用于属性点)
+10375|<O>| if (who->get_2("suit_effect.no_drop")) return 0;  //套装
+10376|<O>| ESC HIY"领取官方赠送新手礼包\ntalk %x# bonus.34\n", id, id, id);
+10377|<O>| //                        me->log_money("给npc", gold);
+10378|<O>| send_user(who, "%c%s", '!', sprintf(HIY"山药 %d/5", i));
+10379|<O>| send_user(who, "%c%s", '!', sprintf(HIY"木精 %d/7", i));
+10380|<O>| if (who->get_2("suit_effect.no_drop")) return 2;  //套装
+10381|<O>| if (TASK_LEGEND_D->check_task_item(who, "密件", 1) != 1)
+10382|<O>| return ("花语:浪漫真情\n使用后法术攻击增加30%，持续60分钟\n"HIR"使用者需为女性");
+10383|<O>| send_user(who, "%c%s", '!', sprintf(HIY"皂角 %d/7", i));
+10384|<O>| if (TASK_LEGEND_D->check_task_item(who, "铁箍", 1) != 1)
+10385|<O>| if (TASK_LEGEND_D->check_task_item(who, "信函", 1) != 1)
+10386|<O>| case "赵国": z = 30;  p = get_jumpin(z, me->get("out"));
+10387|<O>| if (TASK_LEGEND_D->check_task_item(who, "萝卜", 4) != 1)
+10388|<O>| ESC "确定\n" + sprintf("talk %x# buy.5\n", getoid(me)) +
+10389|<O>| result += sprintf(ESC"小乖\ntalk %x# welcome.21\n", id);
+10390|<O>| if (who->is_npc()) who->start_fight(me);    // 玩家需主动还击
+10391|<O>| send_user(who, "%c%s", '!', sprintf("获得金钱 %d", cash));
+10392|<O>| if (TASK_LEGEND_D->check_task_item(who, "羽毛", 1) != 1)
+10393|<O>| send_user(who, "%c%s", '!', sprintf(HIY"玉米 %d/2", i));
+10394|<O>| sprintf("%s\n买入价格 %d 金。\n余 %d 个。\n", name->get_desc(),
+10395|<O>| result += sprintf(ESC"笨笨\ntalk %x# welcome.27\n", id);
+10396|<O>| //        if( !who->is_user() ) return 1;    // 只对玩家有效
+10397|<O>| result += sprintf(ESC"驼驼\ntalk %x# welcome.23\n", id);
+10398|<O>| if (TASK_LEGEND_D->check_task_item(who, "樱桃", 1) != 1)
+10399|<O>| desc = "杜康酒属浓香型酒，以优质小麦、精选糯米、高梁酿制而成，20秒内恢复玩家1800点法术力。";
+10400|<O>| send_user(who, "%c%s", '!', sprintf(HIY"棉线 %d/5", i));
+10401|<O>| send_user(me, "%c%w%w%c", 0x07, x0, y0, 9);    // 坐标修正
+10402|<O>| send_user(who, "%c%s", '!', "你接受了"HIY"稻草人的委托"NOR"任务");
+10403|<O>| if (!objectp(item = present("迷神散", me, 1, MAX_CARRY)))
+10404|<O>| if (TASK_LEGEND_D->check_task_item(who, "剑", 20) != 1)
+10405|<O>| send_user(who, "%c%s", '!', sprintf(HIY"剑魂 %d/8", i));
+10406|<O>| if (TASK_LEGEND_D->check_task_item(who, "论语", 1) != 1)
+10407|<O>| send_user(who, "%c%s", ':', "您打算对哪方面造谣？每次消耗体力 10 点。\n"
+10408|<O>| if (TASK_LEGEND_D->check_task_item(who, "锯子", 1) != 1)
+10409|<O>| send_user(who, "%c%s", '!', sprintf(HIY"木板 %d/8", i));
+10410|<O>| SAY_CMD->say(me, who->get_name() + "，你这可悲的家伙，想死一次吗？");
+10411|<O>| if (TASK_LEGEND_D->check_task_item(who, "灵芝", 3) != 1)
+10412|<O>| write_user(who, HIY "%s强行中止了涉及您的战斗。", me->get_name());
+10413|<O>| if (TASK_LEGEND_D->check_task_item(who, "官印", 1) != 1)
+10414|<O>| if (TASK_LEGEND_D->check_task_item(who, "毛笔", 1) != 1)
+10415|<O>| if (objectp(item = who->get_equip(HAND_TYPE))    // 法宝
+10416|<O>| send_user(who, "%c%s", '!', sprintf(HIY"刀俑 %d/8", i));
+10417|<O>| if (TASK_LEGEND_D->check_task_item(who, "山药", 5) != 1)
+10418|<O>| "茅山" : ([	60: ({1256,"Yêu","Cường tráng","Ngũ lôi",}),
+10419|<O>| && who->get_quest("thief.flag") == 4    // 3. 失窃任务(人物)
+10420|<O>| result += ESC "使用VIP免费复活次数在原地复活。\ndesc vip_revive1\n";
+10421|<O>| if (TASK_LEGEND_D->check_task_item(who, "雄黄", 3) != 1)
+10422|<O>| send_user(player, "%c%c%w%s", 0x5a, 0, 12, "挖宝活动中……");
+10423|<O>| ESC "我还是考虑考虑吧\nCLOSE\n", me->get_name(), getoid(me)));
+10424|<O>| return ("寓意:情场高手\n使用后物理防御增加30%，持续60分钟\n"HIR"使用者需为男性");
+10425|<O>| private static mapping Store = ([]);           // 商品资料
+10426|<O>| if (TASK_LEGEND_D->check_task_item(who, "神剑", 1) != 1)
+10427|<O>| if (TASK_LEGEND_D->check_task_item(who, "木板", 8) != 1)
+10428|<O>| result += sprintf(ESC"驼驼\ntalk %x# welcome.13\n", id);
+10429|<O>| log_file(RECOVER_LOG, sprintf("%s %s 使 %s(%s)完全恢复。\n",
+10430|<O>| send_user(who, "%c%s", '!', sprintf(HIY"美酒 %d/5", i));

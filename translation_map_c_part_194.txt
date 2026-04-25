@@ -1,0 +1,50 @@
+5239|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 81, "Phá bỏ lời đồn 3(hoàn thành)");
+5240|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 4, "Rèn kiếm kinh thế(hoàn thành)");
+5241|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 2, "Nỗi phiền não của quan nội chính(hoàn thành)");
+5242|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 13, "Quần áo của người canh gác(hoàn thành)");
+5243|<O>| string set_pf_name(string name) { return pf_name = name; }		// Hàm: thiết lập tên kỹ năng
+5244|<O>| write_user(who, ECHO "%s(%d) đã ném bạn ra ngoài。", me->get_name(), me->get_number());
+5245|<O>| send_user( team[1], "%c%c%c%w%w%s", 0x51, 1, 2,TID_QIXI,3,"Thất Tịch trời ban kỳ duyên（1）" );
+5246|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 10\n    Dùng ngân châm kích thích kinh mạch, trong 15 phút tăng 20 điểm công kích vật lý cho đồng minh。";
+5247|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 65, "Truyền thuyết đao hồn 2(hoàn thành)");
+5248|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 22, "Giấc mộng xa xôi(hoàn thành)");
+5249|<O>| if (!who->can_be_fighted(me) || !me->can_fight(who)) continue;   // Thực thi thành công
+5250|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 40, "Bí mật（3）(hoàn thành)");
+5251|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 25, "Oán hận của thần linh(hoàn thành)");
+5252|<O>| else    GO_CMD->main_npc( me, sprintf("%d", random(8) + 1) );    // Đi ngẫu nhiên
+5253|<O>| who->get_name() + ":\n    Ngươi có thẻ đổi thưởng không? Nếu có thì hãy đưa (phím Alt+G) cho ta đi! Ngươi sẽ có thu hoạch bất ngờ đấy～!\n"
+5254|<O>| send_user(me, "%c%w%w%c%w", 0x07, x0, y0, 6, time2 - time());    // Sửa tọa độ
+5255|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 25, "Cô hồn oán thán(hoàn thành)");
+5256|<O>| send_user( team[0], "%c%c%c%w%w%s", 0x51, 1, 2,TID_QIXI,3,"Thất Tịch trời ban kỳ duyên（1）" );
+5257|<O>| //        YUTU->add_2(sprintf("player.%d.rabbit",id),1);//Tăng số lượng thỏ trên bảng xếp hạng của người chơi này。
+5258|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nYêu cầu thuần thục:%d\nYêu cầu thể lực:%d\n    Chế tạo kiếm đồng。",
+5259|<O>| sprintf("%s:\n    Bạn đã nhận một Song Tử dũng cảm rồi, nếu tiếp tục nhận thì hệ thống sẽ tăng thêm 14 ngày thời gian sử dụng cho Song Tử của bạn, bạn xác định muốn làm vậy sao?\n"
+5260|<O>| me->add_to_scene(get_z(me), get_x(me), get_y(me), get_d(me));    // Vào lại cảnh
+5261|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_NEWBIE_01,2,"Thử sức(hoàn thành)" );
+5262|<O>| CHAT_D->sys_channel(0,sprintf(HIR"Chúc mừng %s nhận được quà Giáng Sinh %s!",who->get_name(),name));
+5263|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_NEWBIE_01,8,"Búa sắt của ông chủ tiệm sửa chữa" );
+5264|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 10, "Kiếp nạn của quản gia nước Ngụy（3）");
+5265|<O>| if (get_effect(who, EFFECT_MAGIC_4243)) return SP * 3;  // Trong trạng thái biến thân tạm tăng gấp 2 né tránh
+5266|<O>| ESC "Đi " + name[6] + "。\n" + sprintf( "talk %x# goto.? %s\n", id, name[6] ) +
+5267|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 19, "Ủy thác của bù nhìn");
+5268|<O>| DEBUG(team[i],sprintf("Kiểm tra--NPC tiếp theo key=%d x=%d y=%d",key+1,xy[0],xy[1]));
+5269|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 101, "Tiễu diệt phản quân(hoàn thành)");
+5270|<O>| log_file(CHANNEL_LOG, sprintf("%s %s(%d)%s mở kênh VIP của %s(%d)%s。(GM)\n",
+5271|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 20, "Tên phỉ cuồng vọng(hoàn thành)");
+5272|<O>| if( ( size = sizeof(dir) ) && ( p = dir[ random(size) ] ) )    // Tìm được đường đi được
+5273|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 29, "Con gấu ngốc trộm tiền(hoàn thành)");
+5274|<O>| ESC "Đóng\nCLOSE\n", me->get_name(), getoid(me), getoid(me), getoid(me)));
+5275|<O>| send_user(who, "%c%s", ':', "Bạn xác định muốn chuyển chức thành ‘" + occupation[index - 1] + "’ chứ?\n"
+5276|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_NEWBIE_01,14,"Giao dịch của ông chủ tiệm cầm đồ" );
+5277|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 1, 2, TID_YUANFEN, 1, "Tiêu diệt Ma Phệ Tình(hoàn thành)");
+5278|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 1, "Dặn dò của tiên ông");
+5279|<O>| result = sprintf("Bạn muốn làm gì với người chơi %s(%d):\n", who->get_name(), who->get_number());
+5280|<O>| ESC "Đi " + name[0] + "。\n" + sprintf( "talk %x# goto.? %s\n", id, name[0] ) +
+5281|<O>| "Công thức ngẫu nhiên cấp 65" : "\"/quest/product2\"->get_random_level_blue_product(65,65)",
+5282|<O>| ESC "Đi " + name[9] + "。\n" + sprintf( "talk %x# goto.? %s\n", id, name[9] ) +
+5283|<O>| send_user(who, "%c%s", ';', "Chúc mừng bạn! Bạn đã nhận được quà Trung Thu do Hằng Nga tặng ——"HIG+item->get_name());
+5284|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 71, "Loạn Bình Dương 3(hoàn thành)");
+5285|<O>| return sprintf("［" PF_NAME "］Nhìn trộm vật phẩm mà mục tiêu mang theo。Tiêu hao pháp lực:%d, lần sau dùng phải cách %d giây, có thể dùng ở %s%d cấp\n",
+5286|<O>| send_user(who, "%c%s", ':', me->get_name() + ":\nBinh lính trong thành đã đủ rồi, không cần tuyển thêm nữa。\n");
+5287|<O>| team = filter_array(team, (: $1 && get_z($1) == $2 : ), z);    // Cập nhật tọa độ đội viên
+5288|<O>| send_user(who, "%c%s", ';', "Phá bỏ lời đồn 4 Kinh nghiệm 95000 Tiềm năng 1200 Tiền 97000 Bản vẽ Nhiếp Hồn Hành Trang 1");

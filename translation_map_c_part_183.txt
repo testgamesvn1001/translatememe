@@ -1,0 +1,48 @@
+4701|<O>| tmp += sprintf(ESC HIY "Hỏi tình hình\ntalk %x# welcome.4\n", getoid(this_object()));
+4702|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_DONGHAIDAO, 2, "Tiêu Độc Quý（4）(hoàn thành)");
+4703|<O>| tmp += sprintf(ESC HIY "Tìm tín vật\ntalk %x# welcome.1\n", getoid(this_object()));
+4704|<O>| //                ESC "Nhận lại tiềm năng và tiền。\n" + sprintf( "talk %x# getback.?\n", id ) +
+4705|<O>| if (level>0) result += sprintf(	"Yêu cầu kỹ năng: %s%d	cấp\n", NOR,  name->get_level() );
+4706|<O>| tmp += sprintf(ESC HIY "Tội liên lụy\ntalk %x# welcome.6\n", getoid(this_object()));
+4707|<O>| tmp += sprintf(ESC HIY "Thư của chồng\ntalk %x# welcome.1\n", getoid(this_object()));
+4708|<O>| tmp += sprintf(ESC HIY "Truy hỏi chi tiết\ntalk %x# welcome.9\n", getoid(this_object()));
+4709|<O>| tmp += sprintf(ESC HIY "Tìm lại tang vật\ntalk %x# welcome.6\n", getoid(this_object()));
+4710|<O>| tmp += sprintf(ESC HIY "Lạc đường biết quay đầu\ntalk %x# welcome.1\n", getoid(this_object()));
+4711|<O>| tmp += sprintf(ESC HIY "Truy sát tặc phỉ\ntalk %x# welcome.4\n", getoid(this_object()));
+4712|<O>| //                        send_user(owner, "%c%s", '!', "Nhiệm vụ vận tiêu thất bại, hãy quay về báo cáo với lão tiêu đầu Uất Trì。");
+4713|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_DONGTINGHU,2,"Mất dê sửa chuồng(3)(hoàn thành)" );
+4714|<O>| string get_bulletin() { return Bulletin ? Bulletin : "Hãy nhấn “Chỉnh sửa” để sửa đổi, hoàn tất rồi nhấn “Xác định”。"; }
+4715|<O>| tmp += sprintf(ESC HIY "Hung thủ giết người\ntalk %x# welcome.6\n", getoid(this_object()));
+4716|<O>| tmp += sprintf(ESC HIY "Truyền đạt tin vui\ntalk %x# welcome.4\n", getoid(this_object()));
+4717|<O>| tmp += sprintf(ESC HIY "Mỗi người một lời\ntalk %x# welcome.7\n", getoid(this_object()));
+4718|<O>| ESC "Đóng\nCLOSE\n", "/quest/word"->get_family_word(name), name, getoid(me)));
+4719|<O>| send_user(who, "%c%s", '!', sprintf("Số lượng %s mà bạn muốn giao dịch không đúng。", obj2[i]->get_name()));
+4720|<O>| tmp += sprintf(ESC HIY "Khống chế số lượng\ntalk %x# welcome.5\n", getoid(this_object()));
+4721|<O>| "Intel(R) Xeon(TM) CPU 3.00GHz i3863d87aa370145e7f824c",	// Mop 61.135.170.55
+4722|<O>| tmp += sprintf(ESC HIY "Mang tín vật đi\ntalk %x# welcome.1\n", getoid(this_object()));
+4723|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 20, "Trừng trị ác tướng(đã hoàn thành)");
+4724|<O>| send_user(who, "%c%s", ';', "Tình người ấm lạnh（3） Kinh nghiệm 190000 Tiềm năng 1450 Tiền 193000 Bản vẽ Quyền Sáo Cuồng Phong 1");
+4725|<O>| tmp += sprintf(ESC HIY "Sở thích nghiệp dư\ntalk %x# welcome.3\n", getoid(this_object()));
+4726|<O>| else if((size = get_save_2(sprintf("record.size"))) < 10)//Kiểm tra kích cỡ bảng xếp hạng đã vượt quá 10 hay chưa。
+4727|<O>| return HIC+get_name()+"\nThú cưng có kỹ năng này, khi tấn công đối phương có thể làm chậm đối phương trong 6 giây\nvề tốc độ di chuyển, hiệu quả kỹ năng không cộng dồn。（Thời gian hồi kỹ năng 10 giây）";
+4728|<O>| // --------------------------------------------------------------- Gọi từ xa ----
+4729|<O>| //	send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_NEWBIE_01,22,"Trận chiến chính nghĩa(hoàn thành)" );
+4730|<O>| send_user(who, "%c%s", ':', "Bạn muốn kiến nghị " + me->get_name() + " ban bố chính lệnh gì?(tiêu hao 50 thể lực)\n"
+4731|<O>| if ((who->get_save_2("insurance.timeover") / 3600) > (time() / 3600)) 	//Đúng giờ tròn
+4732|<O>| tmp += sprintf(ESC HIY "Bột cương thi\ntalk %x# welcome.1\n", getoid(this_object()));
+4733|<O>| tmp += sprintf(ESC HIY "Bắt trai tráng\ntalk %x# welcome.1\n", getoid(this_object()));
+4734|<O>| tmp += sprintf(ESC HIY "Hà thủ ô\ntalk %x# welcome.1\n", getoid(this_object()));
+4735|<O>| send_user(who, "%c%s", ':', get_name() + ":\nChỗ ta bán rất nhiều quân lương, trang bị…… bạn có việc gì thì hãy quay lại sau。\n");
+4736|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 1, 2,TID_VALENTINE,2,"Phi tặc quỷ dị(nhiệm vụ thất bại)" );
+4737|<O>| log_file(CHANNEL_LOG, sprintf("%s %s(%d)%s đóng kênh city của %s(%d)%s trong %d phút。\n",
+4738|<O>| "Công thức ngẫu nhiên cấp 105" : "\"/quest/product2\"->get_random_level_blue_product(105,105)",
+4739|<O>| //			send_user( who, "%c%c%c%w%w%s", 0x51, 1, 2,TID_MASTERFIGHT,1,"Nhiệm vụ khiêu chiến" );
+4740|<O>| case 5 : send_user( who, "%c%s", ':', sprintf( "%s:\nChúng ta đã tìm được %s rồi, không cần làm phiền bạn nữa。\n",
+4741|<O>| else    send_user(me, "%c%d%c", 0x5e, getoid(me), get_d(me));    // Client yêu cầu phản hồi
+4742|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 1, 2, TID_VALENTINE, 6, "Thiên sứ yêu cái đẹp(đã hoàn thành)");
+4743|<O>| set_effect_2(me, EFFECT_CHAR_INVISIBLE, interval / 10 + 1, 10);    // Mỗi mười giây trừ máu
+4744|<O>| send_user(who, "%c%s", '!', sprintf("Kỹ năng %s của bạn chưa đủ cấp %d!", PF_NAME, SKILL_LEVEL));
+4745|<O>| else    tell_user(me, "Tình trạng triệu chứng:%s(%d)", what->get_name(), what->get_number());
+4746|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 53, "Sai vặt của sứ giả（2）(hoàn thành)");
+4747|<O>| write_user(me, ECHO "Số dư khả dụng của tài khoản bạn là %d, tổng điểm số là %d。", to_int(key[3]), to_int(key[4]));
+4748|<O>| case 15: send_user(who, "%c%s", ':', "Bạn:\nBỏ thánh bỏ trí, dân lợi gấp trăm; bỏ nhân bỏ nghĩa, dân lại hiếu từ; bỏ khéo bỏ lợi, trộm cướp không còn。");

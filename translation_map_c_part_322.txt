@@ -1,0 +1,72 @@
+﻿12850|<O>| if (!inside_map(z, x, y)) return 0;    // 坐标非法
+12851|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"脚夫留言");
+12852|<O>| //                        ESC "砍价。\n" + cmd2 +
+12853|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"天门探险");
+12854|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"寻人避难");
+12855|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"机关密图");
+12856|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"面见赵王");
+12857|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"道听途说");
+12858|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"杀人恶魔");
+12859|<O>| if (!clonep(me)) return "［精炼］ 暴击率\n［适用装备］ 武器";
+12860|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"挖掘人才");
+12861|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"河道传说");
+12862|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"金色牛角");
+12863|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"降旨修墓");
+12864|<O>| SAY_CMD->say(me, "你打我啊打我啊，我靠你还真打！尝尝我的佛山香港脚！");
+12865|<O>| tell_user(me, "扫描目录: %s size=%d", path, size);
+12866|<O>| send_user(me, "%c%s", '!', "您得一次充满 2000 潜能。");
+12867|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"打听消息");
+12868|<O>| tell_user(me, "禁止私聊: %d", who->get_no_tell());
+12869|<O>| ESC "去大周军营。\n" + sprintf("talk %x# 3\n", id) +
+12870|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"有备无患");
+12871|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"身世之谜");
+12872|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"与楚联盟");
+12873|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"求份差事");
+12874|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"净化灵魂");
+12875|<O>| name = ({ "州侯","夏侯","鄢陵君","寿跟君" })[random(4)];
+12876|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"惩治恶将");
+12877|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"研究石头");
+12878|<O>| 备注:该命令主要用于将系统端一些功能，放到客户端去，而减少系统的负载。特别针对于涉及心跳的。
+12879|<O>| return "加一由数种珍贵药材炼制而成的药丸,马上恢复1400点气血，冷却时间15秒";
+12880|<O>| if (MaxLasting / 100 != time / 100)    // 更新描述
+12881|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"了解情况");
+12882|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"夜半钟声");
+12883|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"明镜传说");
+12884|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"官府备案");
+12885|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"除恶惩凶");
+12886|<O>| sprintf(ESC"领取三级称谓\ntalk %x# hornor.3\n",id) +
+12887|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"多管闲事");
+12888|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"迷途知返");
+12889|<O>| /*      if( present("钱票", who, 1, MAX_CARRY) )
+12890|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"怨鬼之灵");
+12891|<O>| return "Dodolook的小口袋，能从口袋里掏出很多不一样的道具，让你惊喜连连。";
+12892|<O>| return sprintf("包含技能:%s\n", oSki->get_name());
+12893|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"逍遥法外");
+12894|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"唤醒记忆");
+12895|<O>| desc = "什么都放进去煮了,不知道吃了会怎么样，14秒内恢复玩家1540点气血值。";
+12896|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"千年之劫");
+12897|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"交换心得");
+12898|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"报仇雪恨");
+12899|<O>| private int BuyTax;                     // 买入税
+12900|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"证实自己");
+12901|<O>| if( !who->get_quest("thief.flag") )    // 失窃任务
+12902|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"黑暗笼罩");
+12903|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"民间探访");
+12904|<O>| if (name != "") me->set_name(name);    // 修正姓名
+12905|<O>| case "唐门" : if( flag != 4 ) flag = -1;  break;
+12906|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"奇异之光");
+12907|<O>| "看到那轮明月，就想起远方的你；沐浴月辉的温馨，就感受到你温柔的笑容。亲爱的，我想你。 ",
+12908|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"河道冤魂");
+12909|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"证明实力");
+12910|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"出使重任");
+12911|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"万众敬仰");
+12912|<O>| private int Training;                   // 训练度
+12913|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"深入民间");
+12914|<O>| if (level < 0) level = random(110);    // 随机地图
+12915|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"通告百姓");
+12916|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"寻求帮助");
+12917|<O>| set_name("恶人" + NPC_NAME_D->get_thief_name());
+12918|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"询问原由");
+12919|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"梦中奇闻");
+12920|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"沼泽寻宝");
+12921|<O>| private string Creator;                 // 创始人

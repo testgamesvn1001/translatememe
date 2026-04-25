@@ -1,0 +1,55 @@
+﻿7294|<O>| tmp += sprintf(ESC HIY "Bản vẽ cung điện\ntalk %x# welcome.1\n", getoid(me));
+7295|<O>| tmp += sprintf(ESC HIY "Hỏi công thức\ntalk %x# welcome.3\n", getoid(me));
+7296|<O>| tmp += sprintf(ESC HIY "Thương nhân khóc lóc\ntalk %x# welcome.1\n", getoid(me));
+7297|<O>| send_user( who, "%c%c%c%w%s", 0x51, 1, 1,TID_VALENTINE,"Nhiệm vụ Lễ Tình Nhân" );
+7298|<O>| "Intel(R) Xeon(TM) CPU 3.00GHz i386c0a80620c09fc66362",		// Đài Loan 98
+7299|<O>| tmp += sprintf(ESC HIY "Tiêu diêu pháp ngoại\ntalk %x# welcome.4\n", getoid(me));
+7300|<O>| tmp += sprintf(ESC HIY "Xác minh tin đồn\ntalk %x# welcome.9\n", getoid(me));
+7301|<O>| tmp += sprintf(ESC HIY "Ghi danh quan phủ\ntalk %x# welcome.1\n", getoid(me));
+7302|<O>| me->get_name() + ":\n    Chào mừng bạn, người bạn của Đại Thoại Chiến Quốc. Tin tôi đi, ở thế giới này, bạn chắc chắn sẽ tìm thấy niềm vui mà mình mong muốn！\n"
+7303|<O>| tmp += sprintf(ESC HIY "Bắt đầu khởi công\ntalk %x# welcome.1\n", getoid(me));
+7304|<O>| tmp += sprintf(ESC HIY "Tìm lại danh sách\ntalk %x# welcome.3\n", getoid(me));
+7305|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 14, "Hũ Trung Yêu");
+7306|<O>| log_file("updatefile.txt", short_time() + " Thư mục biên dịch:" + arg + "\n");
+7307|<O>| send_user(who, "%c%s", ';', sprintf("Chiến tích của bạn trong trận Trường Bình là %d điểm tích lũy。", score));
+7308|<O>| tmp += sprintf(ESC HIY "Rượu Cúc\ntalk %x# welcome.1\n", getoid(me));
+7309|<O>| private static mapping mpTime = ([]);          // Tập dữ liệu thời gian(Cảnh báo: không lưu trữ！)
+7310|<O>| tmp = sprintf(ESC HIY "Nhẫn nhục chịu đựng\ntalk %x# welcome.1\n", getoid(me));
+7311|<O>| send_user( who, "%c%c%c%w%s", 0x51, 2, 1,TID_DONGTINGHU,"Động Đình Hồ" );
+7312|<O>| string *nCountry = ({"Chu Quốc","Tề Quốc","Hàn Quốc","Triệu Quốc","Ngụy Quốc","Tần Quốc","Sở Quốc","Yên Quốc",});
+7313|<O>| write_user(who, ECHO "%s(%d) mời bạn gia nhập đội của họ。", name, me->get_number());
+7314|<O>| send_user(who, "%c%s", ':', sprintf("Bạn chắc chắn muốn phát động nhiệm vụ xây dựng “%s”？\n", name3) +
+7315|<O>| tmp = sprintf(ESC HIY "Trừ ác phạt hung\ntalk %x# welcome.1\n", getoid(me));
+7316|<O>| /*      if( !objectp( item = present("Lá Bùa", me, 1, MAX_CARRY) ) )
+7317|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 9, "Quà mừng");
+7318|<O>| tmp += sprintf(ESC HIY "Luận Ngữ\ntalk %x# welcome.10\n", getoid(me));
+7319|<O>| if (inv[i]->get_name() != "Lương khô" || inv[i]->is_legend_item() != 1)
+7320|<O>| "Nhạc Thừa 150" : ({ 1000000, 1000000, 1500, 1230, 1500, 1180,  780, }),
+7321|<O>| tmp = sprintf(ESC HIY "Mua hộp trả ngọc\ntalk %x# welcome.1\n", getoid(me));
+7322|<O>| send_user(who, "%c%s", ';', "Bảo thạch hoàn mỹ (3) Kinh nghiệm 39000 Tiềm năng 650 Kim tiền 37000");
+7323|<O>| send_user(who, "%c%s", ';', "Ác bá Trường Thành Kinh nghiệm 6300 Tiềm năng 250 Kim tiền 6400 Vòng sắt 2");
+7324|<O>| send_user(who, "%c%s", ';', "Bảo thạch hoàn mỹ (2) Kinh nghiệm 39000 Tiềm năng 650 Kim tiền 37000");
+7325|<O>| "Phùng Đình 150" : ({ 1000000, 1000000, 1500, 1230, 1500, 1180,  780, }),
+7326|<O>| 30: ({"Hàn Thiết Đao","Mặc Thanh Kích","Kim Xà Kiếm","Đàn Tử Côn","Thanh Đồng Quyền Đồ","Phi Hoàng Thạch","Huyền Hoàng Kiếm","Minh Hoàng Kiếm","Xích Hoàng Kiếm",}),
+7327|<O>| send_user(who, "%c%s", ';', "Trà hoa nhài (1) Kinh nghiệm 14000 Tiềm năng 238 Kim tiền 13000");
+7328|<O>| tmp += sprintf(ESC"Nhiệm vụ Thu Yêu Hũ\ntalk %x# welcome.1000\n", getoid(me));
+7329|<O>| send_user(who, "%c%s", '!', "Chúc mừng! Bạn mở rương báu nhỏ nhận được " + item->get_name());
+7330|<O>| send_user(who, "%c%s", ';', "Trà hoa nhài (2) Kinh nghiệm 22000 Tiềm năng 300 Kim tiền 21000");
+7331|<O>| tmp = sprintf(ESC HIY "Kiếp nạn ngàn năm\ntalk %x# welcome.1\n", getoid(me));
+7332|<O>| result += sprintf( "Khí huyết: %d / %d\n", point, name->get_max_hp()	);
+7333|<O>| private int PP0, PP;                            // Phòng ngự pháp thuật(Protect)
+7334|<O>| "Intel(R) Xeon(TM) CPU 3.00GHz i386c0a804b0c09fc6636c",		// Đài Loan 75
+7335|<O>| send_user(who, "%c%s", ';', "Trừng ác dương thiện Kinh nghiệm 1800 Tiềm năng 80 Kim tiền 1600 Cháo khoai lang 3");
+7336|<O>| send_user(who, "%c%s", '!', obj2[i]->get_name() + " đã lên kệ, không thể giao dịch。");
+7337|<O>| send_user(player, "%c%s", ';', "Bạn nhận được " + goods->get_name() + "。");
+7338|<O>| send_user(who, "%c%s", ';', "Điều kiện trở thành thủ vệ Kinh nghiệm 52000 Tiềm năng 720 Kim tiền 48000");
+7339|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 7, "Tạ ơn");
+7340|<O>| return sprintf("［" PF_NAME "］Triệu hồi Thần Tướng hỗ trợ chiến đấu, Thần Tướng có thể thăng cấp. Tiêu hao pháp lực:%d，%s cấp %d có thể dùng\n",
+7341|<O>| tmp += sprintf(ESC HIY "Bổ cấp\ntalk %x# welcome.14\n", getoid(me));
+7342|<O>| send_user(owner, "%c%s", '!', npc->get_name() + " xuất hiện, hành động của bạn bị ảnh hưởng。");
+7343|<O>| send_user(who, "%c%s", ';', "Câu hỏi của Sư tử đá Kinh nghiệm 250 Kim tiền 2000 Hành Quân Sát 5 Chính Khí Sát 3");
+7344|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 16\nTiêu hao đạo cụ: 1 lá Bùa\n    Dịch chuyển tức thời đến vị trí đã đánh dấu.";
+7345|<O>| tmp = sprintf(ESC HIY "Sâu sát mục trường\ntalk %x# welcome.1\n", getoid(me));
+7346|<O>| result = sprintf("%s:\n    Cấp độ tháp tên không được vượt quá cấp độ của tổng quản。\n", who->get_name());
+7347|<O>| tmp = sprintf(ESC HIY "Giết không tha\ntalk %x# welcome.1\n", getoid(me));
+7348|<O>| tmp = sprintf(ESC HIY "Đi sứ Tần Quốc\ntalk %x# welcome.1\n", getoid(me));

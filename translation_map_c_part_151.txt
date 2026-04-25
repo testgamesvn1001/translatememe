@@ -1,0 +1,39 @@
+3315|<O>| #define INIT_HP         me->get_pf_value(THIS_SKILL, SKILL_LEVEL_SQUARE, 508, 4)    // Cảnh báo:me cần chuẩn bị sẵn
+3316|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi xác định muốn dùng một quả cầu lam để đổi 1 tấm bảo đồ không？\n"
+3317|<O>| #define INIT_DP         me->get_pf_value(THIS_SKILL, SKILL_LEVEL_SQUARE, 95, 29)    // Cảnh báo:me cần chuẩn bị sẵn
+3318|<O>| send_user(who, "%c%s", ';', sprintf("Danh hiệu Tân Nhân Vương Chiến Quốc  Túi Càn Khôn 1  Đại Lễ Bao 1  %s 1  Chiến Quốc Hào Giác 1  10000 vàng", name->get_name()));
+3319|<O>| ret += sprintf("%sĂn cỏ non\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"吃嫩草"))?PPM:WHT);
+3320|<O>| /*      if( !is_god(me) && gone_time( me->get_time("pf2") ) < 1 )    // Nguyên nhân:có vài chỉ lệnh là pf2 XXXX.???? do sinh ra
+3321|<O>| send_user(me, "%c%s", ';', sprintf("Sửa thời gian hoạt động thành công, hoạt động đã được đặt lại\n%s", "sys/party/feizei"->get_active_time()));
+3322|<O>| #define INIT_DP         me->get_pf_value(THIS_SKILL, SKILL_LEVEL_SQUARE, 45, 30)    // Cảnh báo:me cần chuẩn bị sẵn
+3323|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi xác định muốn dùng một quả cầu đen để đổi 5 tấm Hồi Bang Phù không？\n"
+3324|<O>| send_user(who, "%c%s", ';', sprintf("Ngài hoàn thành nhiệm vụ bắt %s，kinh nghiệm %+d, tiềm năng %+d, tiền +%d。", name, exp, pot, money));
+3325|<O>| if(    !query_effect_cached(who, EFFECT_CHAR_SUPPRESS)    // Không có áp chế (FIX: F-P2 - use cached lookup)
+3326|<O>| #define INIT_AP         me->get_pf_value(THIS_SKILL, SKILL_LEVEL_SQUARE, 40, 20)    // Cảnh báo:me cần chuẩn bị sẵn
+3327|<O>| #define INIT_DP         me->get_pf_value(THIS_SKILL, SKILL_LEVEL_SQUARE, 23, 30)    // Cảnh báo:me cần chuẩn bị sẵn
+3328|<O>| send_user(who, "%c%c%w%s", ':', 3, this_object()->get_char_picid(), "Như Ý Tiên Tử:\n    Ngươi chưa bái sư đâu, không thể nhận quà。");
+3329|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nTiêu hao pháp lực:%d điểm\nThời gian hồi:%d giây\n    Hy sinh triệu hoán thú của mình, đồng thời chuyển hóa 50％ tổng khí huyết của nó thành khí huyết cho chính mình。",
+3330|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nTiêu hao pháp lực:%d điểm\nThời gian hồi:%d giây\n    Khiến một kẻ địch trong tầm nhìn rơi vào trạng thái câm lặng 6 giây（không thể dùng pháp thuật）。",
+3331|<O>| ESC "Đắt quá, ta không sửa nữa\nCLOSE\n", who->get_name(), item->get_name(), value, getoid(who), getoid(item)));
+3332|<O>| ret += sprintf("%sThân tình\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"亲情"))?PPM:WHT);
+3333|<O>| if (who->get_quest("valentine.flag") == 8 && objectp(item = present("Đậu sô cô la", who, 1, MAX_CARRY)))
+3334|<O>| CHAT_D->sys_channel(0,HIY"Hoạt động bảy ngày Quốc Khánh đến đây đã hoàn toàn kết thúc, cảm ơn sự tham gia của mọi người. "HIR"Tây Qua Bá Bá"HIY" cũng chân thành cảm ơn sự giúp đỡ tận tâm của mọi người, cuối cùng chúc tất cả Quốc Khánh vui vẻ, chơi game càng vui hơn nữa。");
+3335|<O>| result = sprintf("%s khi đào bảo đã thả ra %s，%s hiện đã chạy trốn tới "HIR"%s quốc", player->get_name(), name, name, map->get_name());
+3336|<O>| send_user(who, "%c%s", ';', sprintf("Tình khóa Tần Cung（4）  Kinh nghiệm 4300  Tiềm năng 138  Tiền 3800  %s 1", tmp->get_name()));
+3337|<O>| result = sprintf(me->get_name() + ":\n    Ngươi muốn tới bản đồ luyện cấp từ trên cấp 65 đến dưới cấp 70 sao？Nào, chọn đi！Nhấn Alt+M có thể xem chủng loại quái cụ thể ở những bản đồ này đó。\n");
+3338|<O>| case EFFECT_CHAR_DREAM_1: GO_CMD->main_npc(me, sprintf("%d", random(8) + 1));    // Đi ngẫu nhiên(hệ thống không cần kiểm tra)
+3339|<O>| case EFFECT_CHAR_DREAM_0: GO_CMD->main_npc(me, sprintf("%d", random(8) + 1));    // Đi ngẫu nhiên(hệ thống không cần kiểm tra)
+3340|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), "Sứ giả bồi thường:\n    Ngài đã nhận 10 giờ thời gian gấp đôi đền bù, chúc ngài chơi game vui vẻ！");
+3341|<O>| case 10: send_user(who, "%c%s", ':', sprintf("%s:\nỪm, nói rất đúng, ta sẽ đi thử ngay。(ngư nghiệp %+d)", me->get_name(), p));
+3342|<O>| sprintf("%s:\n    Ở chỗ thương nhân thần bí tại Thiên Đàn nước Chu có thể mua được tinh thạch cấp thấp nhất. Có tổng cộng 10 loại tinh thạch, mỗi loại có thuộc tính khác nhau. Chỉ cần ngươi mang tinh thạch tới đây, ta có thể giúp ngươi cường hóa trang bị hoặc vũ khí trong tay。\n"
+3343|<O>| result = sprintf(me->get_name() + ":\n    Ngươi muốn tới bản đồ luyện cấp từ trên cấp 75 đến dưới cấp 80 sao？Nào, chọn đi！Nhấn Alt+M có thể xem chủng loại quái cụ thể ở những bản đồ này đó。\n");
+3344|<O>| result = sprintf(me->get_name() + ":\n    Ngươi muốn tới bản đồ luyện cấp từ trên cấp 45 đến dưới cấp 50 sao？Nào, chọn đi！Nhấn Alt+M có thể xem chủng loại quái cụ thể ở những bản đồ này đó。\n");
+3345|<O>| add_alarm_clock("week", "3 11:44:20", "second", ({ "test_func_3","main gọi 3" }), 3, CYCLE_MINUTE);
+3346|<O>| send_user(who, "%c%s", '!', sprintf(HIC "“%s” của ngài đã tăng lên cấp %d！", name, who->get_occupation_level()));
+3347|<O>| //                db_user_fee( who, who->get_login_time(), time, who->get_feetime() );    // Khấu phí！
+3348|<O>| send_user(me, "%c%s", '!', sprintf("Thời gian hồi dùng Khu Ma Tán còn %d giây", 30 - gone_time(me->get_time("eat_9145"))));
+3349|<O>| if (!who->get_legend(TASK_NEWBIE_03, 2) && objectp(item = present("Hàng hóa của Tiền Lão Cửu", who, 1, MAX_CARRY)))
+3350|<O>| ret += sprintf("%sĐẩy khéo\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"推的巧"))?PPM:WHT);
+3351|<O>| if (me->get_org_name() == who->get_org_name()) return 0;    // Cấm tấn công bang chúng    // get_org_name() là phép toán chuỗi
+3352|<O>| result = sprintf(me->get_name() + ":\n    Ngươi muốn tới bản đồ luyện cấp từ trên cấp 85 đến dưới cấp 90 sao？Nào, chọn đi！Nhấn Alt+M có thể xem chủng loại quái cụ thể ở những bản đồ này đó。\n");
+3353|<O>| write_user(me, ECHO "Kinh nghiệm nông phu của ngài %+d, trung thực +1, thành tín %+d, dũng cảm %+d, danh vọng +1, cống hiến quốc gia +1, tiền %+d, kinh nghiệm %+d, tiềm năng +1。",

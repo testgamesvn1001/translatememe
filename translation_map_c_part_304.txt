@@ -1,0 +1,67 @@
+﻿11596|<O>| //                        ESC "查看狱中玩家。\n" + cmd2 +
+11597|<O>| string get_suit_name() { return "女仆套装"; }	//属于某某套装
+11598|<O>| if (oSki->get_perform_type() == ON_ME_P)	//对己使用的法术
+11599|<O>| if (gone_time(get("birthday")) >= 600)    // 10 分钟
+11600|<O>| move_to_user(player, 1, "item/91/9121",npc);//活心丹。
+11601|<O>| //write_user(me, ECHO "起始坐标(%d,%d)不一致。", x0, y0 );
+11602|<O>| if (me->get_fam_name() == "") return 0;    // 没有门派
+11603|<O>| iStart = mktime(year,mon,day,hour,min,0);	//活动开始时间
+11604|<O>| log_file("boss.txt", short_time() + " 威武大将军出现\n");
+11605|<O>| tell_user(who, "列示“%s”技能信息。", me->get_org_name());
+11606|<O>| return HIC+get_name()+"\n拥有此技能的宠物，增加其当前物理防御的25%。";
+11607|<O>| return "用蜂王的蜜炼制出来。对恢复法力有一定的帮助，马上恢复850点法力，冷却时间15秒";
+11608|<O>| return sprintf(PF_NAME ":\n　　增加自身 20％ 的物理防御力。\n");
+11609|<O>| /*              who->set_login_flag(2);    // 跳转保护
+11610|<O>| invalidate_skill_cache(skill);  // PHASE 9: 清空技能缓存
+11611|<O>| //			send_user(who,"%c%s",'!',"恭喜你得到宠物道具"HIR"水瓶");
+11612|<O>| return "［基本枪法］入门枪法，能增加持枪时候的作战能力。每级提升1点枪的物理攻击力。\n";
+11613|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"无奈的求助（4）");
+11614|<O>| sprintf("%s:\n    从头再来的话你需要重新练级，赚取经验和钱，你愿意这样子吗？\n"
+11615|<O>| if (sscanf(arg, "%d %d,%d", pf, x, y) == 3)		//对座标
+11616|<O>| //                        ESC "查看狱中玩家。\n" + cmd1 +
+11617|<O>| set_save_2(sprintf("%s.%d.pos",type,id),pos); //排名
+11618|<O>| result = sprintf("你成功地加强了%s。", equip->get_name());
+11619|<O>| tell_user(me, "共清除 %d 个无用变量。", reclaim_objects());
+11620|<O>| who->set_member_quit(number, time());    // 设置帮众离线
+11621|<O>| ESC"水精（技能:高级法盾、福星高照、高级弱点攻击、高级飞行）\nuse %x# pet.3\n"
+11622|<O>| return "［" PF_NAME "］\n追查新手村、幽谷、清溪一带出现使命人物的方位。\n";
+11623|<O>| return HIC+get_name()+"\n拥有此技能的宠物，增加其当前气血上限的30%。";
+11624|<O>| private int is_clock_running = 0;			//	时钟是否正在运行的标志
+11625|<O>| _DEBUG(sprintf("DEBUG -- 下次回调时钟编号为 %d", next_st));
+11626|<O>| HIR "体魄、精神、力量、耐力、敏捷" NOR "是影响人物能力的五个最根本的属性。\n    "
+11627|<O>| result = me->get_name() + ":\n    变身状态下不能使用骑宠。\n";
+11628|<O>| printf(ECHO "你拿出%s给%s。", result, who->get_name());
+11629|<O>| private  int ArmorColor1;         // 衣着颜色(色码２，色码１)
+11630|<O>| private static object* AllBeast;		//宠物对象的指针数组,暂时未用
+11631|<O>| if (gone_time(get_drop_time()) > 3000)    // 100分钟
+11632|<O>| send_user(who, "%c%s", ';', "牛二的苦恼 经验 100 潜能 50");
+11633|<O>| result = sprintf("%s:\n    不知道去哪里买称心的武器？我告诉你好了。\n"
+11634|<O>| move_to_user(player, 1, "item/91/9120",npc);//救急丹。
+11635|<O>| #define SEAL_SIZE       2               // (5×5)阵法
+11636|<O>| && who->get_quest("escort.leader") == 1    // 队长完成
+11637|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"无上的荣耀（3）");
+11638|<O>| #define PLUNDER_PROTECT_TIME    120     // 战利品保护时间
+11639|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"武士的爱情（1）");
+11640|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 3, "回门符使用中……");
+11641|<O>| SAY_CMD->say(me, "这里正好缺少苦力，你们对这里那么有兴趣就加入苦力的队伍吧！");
+11642|<O>| send_user(who, "%c%s", '!', "您获得紫金钥匙、青铜钥匙、红木钥匙！");
+11643|<O>| x1 = p / 1000;  y1 = p % 1000;  break;//从中取得一个x,y.
+11644|<O>| private mapping Skills_2 = ([]);       // 技能等级(二转)
+11645|<O>| else    tell_user(me, "ERR: %04d 坐标: %s", id, xy);
+11646|<O>| tell_user(who, "列示“%s”申请信息。", me->get_org_name());
+11647|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"头疼的毛病（2）");
+11648|<O>| result = me->get_name() + ":\n    你已经免费试乘过七次了。\n";
+11649|<O>| iFinish1 = mktime(year,mon,day,hour,min,0);	//结束时间
+11650|<O>| return HIC+get_name()+"\n拥有此技能的宠物，增加其当前法术防御的13%。";
+11651|<O>| send_user(who, "%c%s", '!', "你的帮派规模不足2级，无法领取赔偿。");
+11652|<O>| send_user(me, "%c%s", '!', "购买道具返回值不对。" + result);
+11653|<O>| if (me->get_fam_name() == "唐门") ap = me->get_ap();
+11654|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 10, "召唤神将中……");
+11655|<O>| string get_suit_name() { return "御姐套装"; }	//属于某某套装
+11656|<O>| // KHAI THÁC: Player 可以免受部分 NPCs 攻击（timing window）
+11657|<O>| send_user(who, "%c%s", ';', "得到奖励 金 20000 法力石 1");
+11658|<O>| result = "您得到了武器店老板的奖励 100 点经验、30 点潜能、800 金和5个桔子";
+11659|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 10, "金刚释放中……");
+11660|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"热心的建议（2）");
+11661|<O>| send_user(who, "%c%s", ';', "请清理一下你的包包，再来兑换物品吧！");
+11662|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"使节的差事（2）");

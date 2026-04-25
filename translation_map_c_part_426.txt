@@ -1,136 +1,136 @@
-﻿22627|<O>| return "裁缝师傅使用的工具";
-22628|<O>| set_name("金刚不坏进阶");
-22629|<O>| "精铁锄头" : "\"526\"",
-22630|<O>| // 记录死亡时需要记录的使用限制时间
-22631|<O>| return "学习制作雷神法袍。";
-22632|<O>| set_name("随风行装制作");
-22633|<O>| return "学习制作天尊圣冠。";
-22634|<O>| set_name("碧龙头巾制作");
-22635|<O>| set_name("精致的雕刻刀");
-22636|<O>| set_name("风神之冠制作");
-22637|<O>| return "学习制作烟白玉石。";
-22638|<O>| "昆仑山"        : 896,
-22639|<O>| return "学习制作精准构件。";
-22640|<O>| set_name("龙神项链制作");
-22641|<O>| set_name("龙鳞战甲制作");
-22642|<O>| return "学习制作星宿战衣。";
-22643|<O>| set_name("摄魂行装图纸");
-22644|<O>| set_name("紫水晶鞋制作");
-22645|<O>| return "学习制作天尊圣袍。";
-22646|<O>| set_hide(0);		//已鉴定
-22647|<O>| set_name("虚空法袍图纸");
-22648|<O>| set_name("鹤啸头巾制作");
-22649|<O>| set_name("天尊神铠图纸");
-22650|<O>| set_name("定魂项链制作");
-22651|<O>| return "学习制作虎爪拳套。";
-22652|<O>| set_name("传动机构图纸");
-22653|<O>| set_name("波形头巾图纸");
-22654|<O>| set_name("风神法袍制作");
-22655|<O>| return "学习制作亡魂之铠。";
-22656|<O>| set_name("铁制轴承图纸");
-22657|<O>| return "学习制作雷神战靴。";
-22658|<O>| int iFlag;		//0 为关闭
-22659|<O>| ESC "天将\n" + cmd6 +
-22660|<O>| return "学习制作摄魂头巾。";
-22661|<O>| set_name("黄昏项链制作");
-22662|<O>| set_name("压耳头巾制作");
-22663|<O>| return "学习制作强效物攻。";
-22664|<O>| return "学习制作混天战靴。";
-22665|<O>| set_name("祁龙头巾图纸");
-22666|<O>| set_name("龙骨战甲制作");
-22667|<O>| set_name("幻境拳师头领");
-22668|<O>| set_name("神行战盔图纸");
-22669|<O>| set_name("幻境守卫头领");
-22670|<O>| set_name("虎王之爪锻造");
-22671|<O>| "精铁镰刀" : "\"521\"",
-22672|<O>| return "学习制作土制炸弹。";
-22673|<O>| set_name("亡魂之盔图纸");
-22674|<O>| return "学习制作混天行装。";
-22675|<O>| set_name("血饮狂刀锻造");
-22676|<O>| return "学习制作无极长袍。";
-22677|<O>| return "学习制作帝王之盔。";
-22678|<O>| set_name("追风战甲制作");
-22679|<O>| "你不能半路丢下人家不管啊。#75",
-22680|<O>| return "学习制作金丝头巾。";
-22681|<O>| return "学习制作长空浩月。";
-22682|<O>| set_name("战国劳动奖章");
-22683|<O>| result = "开放ＩＰ:\n";
-22684|<O>| set_name("虎爪拳套图纸");
-22685|<O>| return "学习制作云龙战盔。";
-22686|<O>| return "学习制作天神斗篷。";
-22687|<O>| return "学习制作冰晶珑手。";
-22688|<O>| "玄铁锄头" : "\"527\"",
-22689|<O>| set_name("苍穹法袍制作");
-22690|<O>| set_name("极品宠物椰果");
-22691|<O>| set_name("初级物防图纸");
-22692|<O>| set_name("金罡法咒秘籍");
-22693|<O>| set_name("真武斗篷图纸");
-22694|<O>| return "学习制作云龙披甲。";
-22695|<O>| set_name("绫布包裹制作");
-22696|<O>| set_name("强效物攻图纸");
-22697|<O>| return "学习制作极效血气。";
-22698|<O>| set_name("帝王之盔制作");
-22699|<O>| set_name("鹰爪拳套锻造");
-22700|<O>| // 函数:获取数据集内容(多层结构)
-22701|<O>| "欧冶宝石" : "\"323\"",
-22702|<O>| set_name("赶日头巾图纸");
-22703|<O>| set_name("强化中医药理");
-22704|<O>| set_name("小玄铁片图纸");
-22705|<O>| return "学习制作龙骨斗篷。";
-22706|<O>| return "学习制作踏青头巾。";
-22707|<O>| set_name("乾坤战衣图纸");
-22708|<O>| return "学习制作瞄准构件。";
-22709|<O>| set_name("青柳头巾制作");
-22710|<O>| set_name("基本拳脚秘籍");
-22711|<O>| set_name("云龙铠袍图纸");
-22712|<O>| return "学习制作铁制轴承。";
-22713|<O>| set_name("高级法攻制作");
-22714|<O>| return "学习制作天玑拳套。";
-22715|<O>| set_name("水纹项链图纸");
-22716|<O>| set_name("天罡战甲制作");
-22717|<O>| set_name("金丝行装图纸");
-22718|<O>| "那个人怎么老盯着人家看……#24",
-22719|<O>| string name="圣诞火鸡";
-22720|<O>| return "美女才能用的物品。";
-22721|<O>| set_name("亡魂之铠制作");
-22722|<O>| return "学习制作虎王之爪。";
-22723|<O>| set_name("炎阳项链制作");
-22724|<O>| case 3 : // 5. 寻物任务
-22725|<O>| set_name("流云斗笠图纸");
-22726|<O>| set_name("高级宠物食物");
-22727|<O>| return "学习制作麒麟战盔。";
-22728|<O>| "小精铁片" : "\"265\"",
-22729|<O>| set_name("残缺碧绿晶石");
-22730|<O>| return "学习制作软皮行装。";
-22731|<O>| set_name("龙骨斗篷图纸");
-22732|<O>| set_name("玄铁机关构件");
-22733|<O>| set_name("玄铁锄头制作");
-22734|<O>| set_name("无极长袍制作");
-22735|<O>| return "学习制作含沙射影。";
-22736|<O>| set_name("风神之冠图纸");
-22737|<O>| set_name("唐门毒经进阶");
-22738|<O>| return "学习制作恒金项链。";
-22739|<O>| return "采冶大师使用的工具";
-22740|<O>| set_name("荧光披袍图纸");
-22741|<O>| set_name("初级血气图纸");
-22742|<O>| set_name("玉白玉石图纸");
-22743|<O>| set_name("强化奇门遁甲");
-22744|<O>| set_name("亡魂之盔制作");
-22745|<O>| set_name("桔子酱汁牛肉");
-22746|<O>| set_name("强化阴阳五行");
-22747|<O>| return "学习制作白虎拳套。";
-22748|<O>| set_name("初级物攻图纸");
-22749|<O>| set_name("流云斗篷图纸");
-22750|<O>| set_name("天神斗篷图纸");
-22751|<O>| set_name("天尊神履图纸");
-22752|<O>| set_name("飞龙战袍制作");
-22753|<O>| set_name("蚕丝护手锻造");
-22754|<O>| return "学习制作斩侯披袍。";
-22755|<O>| set_name("灵魂头带图纸");
-22756|<O>| return "学习制作破云行装。";
-22757|<O>| set_name("唐门毒经秘籍");
-22758|<O>| set_name("神行项链制作");
-22759|<O>| return "学习制作炽纹战袍。";
-22760|<O>| return "学习制作天罡战盔。";
-22761|<O>| set_name("飞龙战袍图纸");
-22762|<O>| set_name("金丝头巾制作");
+﻿22627|<O>| return "Công cụ sư phụ thợ may sử dụng";
+22628|<O>| set_name("Kim Cương Bất Hoại Tiến Giai");
+22629|<O>| "Tinh Thiết Sừ Đầu" : "\"526\"",
+22630|<O>| // Ghi lại thời gian giới hạn sử dụng cần ghi khi chết
+22631|<O>| return "Học chế tạo Lôi Thần Pháp Bào.";
+22632|<O>| set_name("Chế tạo Tuỳ Phong Hành Trang");
+22633|<O>| return "Học chế tạo Thiên Tôn Thánh Quán.";
+22634|<O>| set_name("Chế tạo Bích Long Đầu Cân");
+22635|<O>| set_name("Điêu Khắc Đao Tinh Xảo");
+22636|<O>| set_name("Chế tạo Phong Thần Chi Quán");
+22637|<O>| return "Học chế tạo Yên Bạch Ngọc Thạch.";
+22638|<O>| "Côn Lôn Sơn"        : 896,
+22639|<O>| return "Học chế tạo Cấu Kiện Chính Xác.";
+22640|<O>| set_name("Chế tạo Long Thần Hạng Liên");
+22641|<O>| set_name("Chế tạo Long Lân Chiến Giáp");
+22642|<O>| return "Học chế tạo Tinh Tú Chiến Y.";
+22643|<O>| set_name("Đồ chỉ Nhiếp Hồn Hành Trang");
+22644|<O>| set_name("Chế tạo Tử Thuỷ Tinh Hài");
+22645|<O>| return "Học chế tạo Thiên Tôn Thánh Bào.";
+22646|<O>| set_hide(0);		//Đã giám định
+22647|<O>| set_name("Đồ chỉ Hư Không Pháp Bào");
+22648|<O>| set_name("Chế tạo Hạc Khiếu Đầu Cân");
+22649|<O>| set_name("Đồ chỉ Thiên Tôn Thần Khải");
+22650|<O>| set_name("Chế tạo Định Hồn Hạng Liên");
+22651|<O>| return "Học chế tạo Hổ Trảo Quyền Sáo.";
+22652|<O>| set_name("Đồ chỉ Truyền Động Cơ Cấu");
+22653|<O>| set_name("Đồ chỉ Ba Hình Đầu Cân");
+22654|<O>| set_name("Chế tạo Phong Thần Pháp Bào");
+22655|<O>| return "Học chế tạo Vong Hồn Chi Khải.";
+22656|<O>| set_name("Đồ chỉ Thiết Chế Trục Thừa");
+22657|<O>| return "Học chế tạo Lôi Thần Chiến Hài.";
+22658|<O>| int iFlag;		//0 là đóng
+22659|<O>| ESC "Thiên Tướng\n" + cmd6 +
+22660|<O>| return "Học chế tạo Nhiếp Hồn Đầu Cân.";
+22661|<O>| set_name("Chế tạo Hoàng Hôn Hạng Liên");
+22662|<O>| set_name("Chế tạo Áp Nhĩ Đầu Cân");
+22663|<O>| return "Học chế tạo Cường Hiệu Vật Công.";
+22664|<O>| return "Học chế tạo Hỗn Thiên Chiến Hài.";
+22665|<O>| set_name("Đồ chỉ Kỳ Long Đầu Cân");
+22666|<O>| set_name("Chế tạo Long Cốt Chiến Giáp");
+22667|<O>| set_name("Đầu lĩnh Quyền Sư Huyễn Cảnh");
+22668|<O>| set_name("Đồ chỉ Thần Hành Chiến Khôi");
+22669|<O>| set_name("Đầu lĩnh Thủ Vệ Huyễn Cảnh");
+22670|<O>| set_name("Đoạn tạo Hổ Vương Chi Trảo");
+22671|<O>| "Tinh Thiết Liềm Đao" : "\"521\"",
+22672|<O>| return "Học chế tạo Thổ Chế Tạc Đạn.";
+22673|<O>| set_name("Đồ chỉ Vong Hồn Chi Khôi");
+22674|<O>| return "Học chế tạo Hỗn Thiên Hành Trang.";
+22675|<O>| set_name("Đoạn tạo Huyết Ẩm Cuồng Đao");
+22676|<O>| return "Học chế tạo Vô Cực Trường Bào.";
+22677|<O>| return "Học chế tạo Đế Vương Chi Khôi.";
+22678|<O>| set_name("Chế tạo Truy Phong Chiến Giáp");
+22679|<O>| "Bạn không thể bỏ rơi người ta giữa đường được.#75",
+22680|<O>| return "Học chế tạo Kim Ti Đầu Cân.";
+22681|<O>| return "Học chế tạo Trường Không Hạo Nguyệt.";
+22682|<O>| set_name("Huân chương lao động Chiến Quốc");
+22683|<O>| result = "Mở IP:\n";
+22684|<O>| set_name("Đồ chỉ Hổ Trảo Quyền Sáo");
+22685|<O>| return "Học chế tạo Vân Long Chiến Khôi.";
+22686|<O>| return "Học chế tạo Thiên Thần Đẩu Bồng.";
+22687|<O>| return "Học chế tạo Băng Tinh Lung Thủ.";
+22688|<O>| "Huyền Thiết Sừ Đầu" : "\"527\"",
+22689|<O>| set_name("Chế tạo Thương Khung Pháp Bào");
+22690|<O>| set_name("Dừa cực phẩm cho thú cưng");
+22691|<O>| set_name("Đồ chỉ Sơ Cấp Vật Phòng");
+22692|<O>| set_name("Bí kíp Kim Cương Pháp Chú");
+22693|<O>| set_name("Đồ chỉ Chân Vũ Đẩu Bồng");
+22694|<O>| return "Học chế tạo Vân Long Phi Giáp.";
+22695|<O>| set_name("Chế tạo Lăng Bố Bao Quả");
+22696|<O>| set_name("Đồ chỉ Cường Hiệu Vật Công");
+22697|<O>| return "Học chế tạo Cực Hiệu Huyết Khí.";
+22698|<O>| set_name("Chế tạo Đế Vương Chi Khôi");
+22699|<O>| set_name("Đoạn tạo Ưng Trảo Quyền Sáo");
+22700|<O>| // Hàm: Lấy nội dung tập dữ liệu (cấu trúc đa tầng)
+22701|<O>| "Âu Dã Bảo Thạch" : "\"323\"",
+22702|<O>| set_name("Đồ chỉ Cản Nhật Đầu Cân");
+22703|<O>| set_name("Cường hoá Trung Y Dược Lý");
+22704|<O>| set_name("Đồ chỉ Tiểu Huyền Thiết Phiến");
+22705|<O>| return "Học chế tạo Long Cốt Đẩu Bồng.";
+22706|<O>| return "Học chế tạo Đạp Thanh Đầu Cân.";
+22707|<O>| set_name("Đồ chỉ Càn Khôn Chiến Y");
+22708|<O>| return "Học chế tạo Cấu Kiện Ngắm Bắn.";
+22709|<O>| set_name("Chế tạo Thanh Liễu Đầu Cân");
+22710|<O>| set_name("Bí kíp Cơ Bản Quyền Cước");
+22711|<O>| set_name("Đồ chỉ Vân Long Khải Bào");
+22712|<O>| return "Học chế tạo Thiết Chế Trục Thừa.";
+22713|<O>| set_name("Chế tạo Cao Cấp Pháp Công");
+22714|<O>| return "Học chế tạo Thiên Cơ Quyền Sáo.";
+22715|<O>| set_name("Đồ chỉ Thuỷ Văn Hạng Liên");
+22716|<O>| set_name("Chế tạo Thiên Cương Chiến Giáp");
+22717|<O>| set_name("Đồ chỉ Kim Ti Hành Trang");
+22718|<O>| "Sao người đó cứ nhìn người ta hoài vậy……#24",
+22719|<O>| string name="Thánh Đản Hoả Kê";
+22720|<O>| return "Vật phẩm chỉ dành cho mỹ nữ.";
+22721|<O>| set_name("Chế tạo Vong Hồn Chi Khải");
+22722|<O>| return "Học chế tạo Hổ Vương Chi Trảo.";
+22723|<O>| set_name("Chế tạo Viêm Dương Hạng Liên");
+22724|<O>| case 3 : // 5. Nhiệm vụ tìm vật
+22725|<O>| set_name("Đồ chỉ Lưu Vân Đẩu Lạp");
+22726|<O>| set_name("Thức ăn cao cấp cho thú cưng");
+22727|<O>| return "Học chế tạo Kỳ Lân Chiến Khôi.";
+22728|<O>| "Tiểu Tinh Thiết Phiến" : "\"265\"",
+22729|<O>| set_name("Tàn Khuyết Bích Lục Tinh Thạch");
+22730|<O>| return "Học chế tạo Nhuyễn Bì Hành Trang.";
+22731|<O>| set_name("Đồ chỉ Long Cốt Đẩu Bồng");
+22732|<O>| set_name("Cấu Kiện Cơ Quan Huyền Thiết");
+22733|<O>| set_name("Chế tạo Huyền Thiết Sừ Đầu");
+22734|<O>| set_name("Chế tạo Vô Cực Trường Bào");
+22735|<O>| return "Học chế tạo Hàm Sa Xạ Ảnh.";
+22736|<O>| set_name("Đồ chỉ Phong Thần Chi Quán");
+22737|<O>| set_name("Đường Môn Độc Kinh Tiến Giai");
+22738|<O>| return "Học chế tạo Hằng Kim Hạng Liên.";
+22739|<O>| return "Công cụ đại sư khai mỏ sử dụng";
+22740|<O>| set_name("Đồ chỉ Huỳnh Quang Phi Bào");
+22741|<O>| set_name("Đồ chỉ Sơ Cấp Huyết Khí");
+22742|<O>| set_name("Đồ chỉ Ngọc Bạch Ngọc Thạch");
+22743|<O>| set_name("Cường hoá Kỳ Môn Độn Giáp");
+22744|<O>| set_name("Chế tạo Vong Hồn Chi Khôi");
+22745|<O>| set_name("Thịt bò sốt quýt");
+22746|<O>| set_name("Cường hoá Âm Dương Ngũ Hành");
+22747|<O>| return "Học chế tạo Bạch Hổ Quyền Sáo.";
+22748|<O>| set_name("Đồ chỉ Sơ Cấp Vật Công");
+22749|<O>| set_name("Đồ chỉ Lưu Vân Đẩu Bồng");
+22750|<O>| set_name("Đồ chỉ Thiên Thần Đẩu Bồng");
+22751|<O>| set_name("Đồ chỉ Thiên Tôn Thần Lý");
+22752|<O>| set_name("Chế tạo Phi Long Chiến Bào");
+22753|<O>| set_name("Đoạn tạo Tàm Ti Hộ Thủ");
+22754|<O>| return "Học chế tạo Trảm Hầu Phi Bào.";
+22755|<O>| set_name("Đồ chỉ Linh Hồn Đầu Đái");
+22756|<O>| return "Học chế tạo Phá Vân Hành Trang.";
+22757|<O>| set_name("Bí kíp Đường Môn Độc Kinh");
+22758|<O>| set_name("Chế tạo Thần Hành Hạng Liên");
+22759|<O>| return "Học chế tạo Xí Văn Chiến Bào.";
+22760|<O>| return "Học chế tạo Thiên Cương Chiến Khôi.";
+22761|<O>| set_name("Đồ chỉ Phi Long Chiến Bào");
+22762|<O>| set_name("Chế tạo Kim Ti Đầu Cân");

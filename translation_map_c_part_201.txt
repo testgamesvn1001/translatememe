@@ -1,0 +1,51 @@
+5594|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 89, "Bảo thạch hoàn mỹ（4）");
+5595|<O>| result += sprintf(ESC HIY "Vết máu ở thôn Hồ Khẩu\ntalk %x# welcome.4\n", getoid(me));
+5596|<O>| send_user(who, "%c%s", ':', sprintf("Bạn:\nTa thay mặt %s đến đây, mong muốn cùng quý quốc chung tay mưu đồ nghiệp bá vương。\n\n\n"
+5597|<O>| send_user( who, "%c%s", ':', get_name() + ":\n    Ngươi tiêu hao 20 điểm công đức để tẩy đi một tên đỏ。" ) ;
+5598|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 9, "Oan hồn dưới sông(hoàn thành)");
+5599|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 42, "Khóa đồng tâm（1）");
+5600|<O>| result2 = sprintf(HIR"Người chơi %s"NOR" trong hoạt động Du Ngoạn Thất Quốc đã dùng Lệnh Thất Quốc đổi được "HIR, who->get_name());
+5601|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHOUGUO, 102, "Đầu bếp tà ác");
+5602|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 48, "Thiệp mời của Thôi đại quan nhân");
+5603|<O>| result += sprintf(ESC "Mật đạo Tung Sơn\ntalk %x# welcome.10 Mật đạo Tung Sơn\n", getoid(me));
+5604|<O>| sprintf("%s:\n    Giờ đâu phải Giáng Sinh đâu, năm mới mà nói sai thì vốn không có lì xì. Nhưng ta mong năm mới ai cũng vui vẻ, lần này vẫn cho ngươi lì xì vậy!\n"
+5605|<O>| result += sprintf(ESC "Nhận 《Chiến Quốc Bảo Điển》\ntalk %x# welcome.102\n", getoid(me));
+5606|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 15, "Đại triển thần uy（5）");
+5607|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 20, "Trừng trị ác tướng");
+5608|<O>| //			//send_user( who, "%c%c%c%w%s", 0x51, 2, 1,TID_NEWBIE_01,"Thôn tân thủ" );
+5609|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 43, "Khóa đồng tâm（4）");
+5610|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 21, "Vong linh thị vệ(hoàn thành)");
+5611|<O>| send_user(who, "%c%s", ';', "Tìm chiến báo Kinh nghiệm 92000 Tiềm năng 1700 Tiền 85000 Bản vẽ Toái Tinh Kiếm 1");
+5612|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 24, "Rửa mắt chờ xem(hoàn thành)");
+5613|<O>| if (result[0] == "") tell_user(me, "ERR: %04d Tạp vật 2: %s", id, item9[j]);
+5614|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 13, "Đại triển thần uy（3）");
+5615|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 18, "Hữu bị vô hoạn(hoàn thành)");
+5616|<O>| if (result[0] == "") tell_user(me, "ERR: %04d Tạp vật 5: %s", id, item9[j]);
+5617|<O>| log_file(MANAGER_LOG, sprintf("%s %s(%d)%s miễn nhiệm %s(%d)%s khỏi chức quản trị viên kênh。(╳)\n",
+5618|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 9, "Xẻng sắt hư hỏng");
+5619|<O>| result += sprintf( "Áp dụng cho: %snam giới\n", me->get_gender()	== 1 ? NOR : HIR );
+5620|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 2, "Nuốt giận chịu nhục(hoàn thành)");
+5621|<O>| send_user(who, "%c%s", ';', "Loạn Bình Dương 5 Kinh nghiệm 94000 Tiềm năng 950 Tiền 92000 Bản vẽ Phượng Vũ Hài 1");
+5622|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 56, "Truy tận gốc（1）");
+5623|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 27, "Nhận khảo nghiệm(hoàn thành)");
+5624|<O>| tell_user(me, "Bạn đã truy tung được %s ở %s。", npc->get_name(), result);    // write_user
+5625|<O>| return  color + "Có thể tự động chạy đến kẻ địch chỉ định, rồi tự phát nổ, gây 900 điểm sát thương lên phe địch trong phạm vi 3X3 quanh mục tiêu và làm choáng 3 giây, số lần dùng 5";
+5626|<O>| send_user(who, "%c%s", '!', sprintf("%s của ngươi vỡ tan theo tiếng động, biến mất không còn dấu vết。", get_name()));
+5627|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HUANJIAO, 1, "Cuộc cãi vã giữa vợ chồng");
+5628|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 1, 2,TID_VALENTINE,8,"Sô-cô-la ngày Valentine" );
+5629|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 20, "Linh quang trong đêm trời");
+5630|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_NEWBIE_01,15,"Gà rừng đáng ghét" );
+5631|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 33, "Tiệm đồ trang sức(hoàn thành)");
+5632|<O>| default: send_user(who, "%c%s", ':', "Bạn:\nNghe nói có người dùng tiền giả đổi tiền thật, mấy đồng tiền đó làm giống y như thật。");
+5633|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 22\n    Khiến một kẻ địch trong tầm nhìn rơi vào trạng thái câm lặng 6 giây (không thể dùng pháp thuật)。";
+5634|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 37, "Hoa hồng(hoàn thành)");
+5635|<O>| if (result[0] == "") tell_user(me, "ERR: %04d Tạp vật 4: %s", id, item9[j]);
+5636|<O>| send_user(who, "%c%c%d%w%w", 0x2c, 7, getoid(me), x, y);    // Cập nhật tọa độ thú triệu hồi
+5637|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHOUGUO, 21, "Bái phỏng danh sĩ Chu Quốc");
+5638|<O>| private int birthday;                   // Thời gian sinh (có thể cùng ID người sở hữu đầu tiên tạo thành dấu hiệu duy nhất của pet)
+5639|<O>| send_user(who, "%c%c%w%s", ':', 3, get_char_picid(), "Cút đi! Không thấy lão tử đang bận sao!");
+5640|<O>| write_user(who, ECHO "Kinh nghiệm thư sinh của bạn +20, trí mưu +20, kinh nghiệm %+d。", level * 10 + 200);
+5641|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 1, 2,TID_THIEF,1,"Dạy dỗ tên trộm(nhiệm vụ thất bại)" );
+5642|<O>| CHAT_D->sys_channel(0,HIY"Ngưu Lang Chức Nữ sẽ hạ phàm đến chốn phồn hoa nhân gian -- Chu Quốc sau 10 phút nữa, để tìm kiếm người hữu duyên giúp đỡ, mọi người mau tới Chu Quốc nào!");
+5643|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 14, "Đại triển thần uy（4）");
+5644|<O>| result += sprintf(ESC "Mật đạo Trung Nguyên\ntalk %x# welcome.10 Mật đạo Trung Nguyên\n", getoid(me));

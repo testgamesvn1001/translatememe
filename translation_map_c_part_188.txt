@@ -1,0 +1,49 @@
+4943|<O>| tmp += sprintf(ESC HIY "Trị liệu\ntalk %x# welcome.1\n", getoid(this_object()));
+4944|<O>| tmp += sprintf(ESC HIY "Đưa thư\ntalk %x# welcome.4\n", getoid(this_object()));
+4945|<O>| CHAT_D->rumor_channel(0, sprintf(HIR "Nghe nói %s đã bị quái vật tấn công dữ dội, công trình bang phái bị tổn hại nghiêm trọng。", name));
+4946|<O>| CHAT_D->rumor_channel(0, CHAT + "Khuyển Thái Lang đã bị người chơi dũng cảm " + who->get_name() + " tiêu diệt!");
+4947|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 109, "Nan y tạp chứng（1）");
+4948|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 63, "Chiếc giường đẹp（2）(hoàn thành)");
+4949|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    Bạn chưa đủ một ngày kể từ lần phản bội sư môn trước, xin hãy suy nghĩ thêm。\n",
+4950|<O>| case 16: send_user(who, "%c%s", ':', "Bạn:\nTrên đời không có thần tiên gì cả, vạn sự vạn vật đều có nguyên do của nó, không có chuyện quỷ thần huyễn hoặc.");
+4951|<O>| //                                notify( "%s không phải đội trưởng của đội。", who->get_name() );
+4952|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_NEWBIE_01,15,"Gà rừng đáng ghét(hoàn thành)" );
+4953|<O>| result += sprintf(ESC "Truyền tống tới bản đồ PVP cấp 75~80\ntalk %x# welcome.4\n", getoid(me));
+4954|<O>| _DEBUG(sprintf("DEBUG-- Hiện tại còn mấy phút nữa là tới hoạt động, hoạt động chính thức bắt đầu sau (%d) phút",callout_delay_time));
+4955|<O>| string* skillname = ({ "Quyền cước cơ bản", "Đao pháp cơ bản", "Kiếm pháp cơ bản", "Thương pháp cơ bản", "Côn pháp cơ bản", "Phóng ám khí", });
+4956|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 30, "Trà hoa nhài（3）(hoàn thành)");
+4957|<O>| tmp += sprintf(ESC HIY "Thư nhà\ntalk %x# welcome.4\n", getoid(this_object()));
+4958|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YEWAI, 2, "Ong mật nhỏ đốt lung tung(đã hoàn thành)");
+4959|<O>| send_user(me, "%c%c%d%s", '?', 1, 0, sprintf("Sao chép kỹ năng, trang bị của người chơi。\n\nHãy nhập ID số của đối phương:\n"
+4960|<O>| result = sprintf("%s(%d) sáng lập “%s”!", me->get_name(), me->get_number(), name);
+4961|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 58, "Truy tận gốc（3）(hoàn thành)");
+4962|<O>| default: return range_value(Level, 1, MAX_NUMBER) * 1000000;    // Chú ý tình huống đăng nhập mới
+4963|<O>| if (who->get_poison()) prop += ({ sprintf("Trúng độc:%4d", who->get_poison()) });
+4964|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 56, "Truy tận gốc（1）(hoàn thành)");
+4965|<O>| &&      gone_time( who->get_quest("escort.time") ) > 2400 )    // Quá 40 phút
+4966|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 15, "Tiếng khóc trên Trường Thành(hoàn thành)");
+4967|<O>| return "Tín vật môn phái của Côn Luân，\nđược chạm khắc từ ngọc như ý do thiên tử ban thưởng。\nNhấp chuột phải dùng có thể trực tiếp truyền tống về Côn Luân Sơn。\nThời gian hồi:1 phút\nMỗi lần dùng tốn 50 vàng。";
+4968|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 30, "Trang trí nhà cửa(hoàn thành)");
+4969|<O>| pos = get_save_2(sprintf("player.%d.pos",player->get_number()));//Vị trí trên bảng xếp hạng。
+4970|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 110, "Nan y tạp chứng（2）");
+4971|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 11\n    Phóng kiếm khí, tăng 35 điểm công kích pháp thuật, đồng thời khiến mục tiêu rơi vào trạng thái hỗn loạn trong 8 giây。";
+4972|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 11, "Đại triển thần uy（1）(hoàn thành)");
+4973|<O>| send_user(who, "%c%s", ':', me->get_name() + ":\nNgươi đi vận động khắp thành xem có ai muốn nhập ngũ không。\n");
+4974|<O>| send_user(me, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 115, "Chứng đau đầu（3）");
+4975|<O>| //				CHAT_D->sys_channel(0,HIR"Đội trưởng vệ đội cứ mỗi giờ lẻ đúng giờ lại bắt đầu ảo tưởng mình là Hoàng Kim Thánh Đấu Sĩ, mau đi xem hắn cần giúp gì nào!");
+4976|<O>| tmp += sprintf(ESC HIY "Trò chuyện\ntalk %x# welcome.1\n", getoid(this_object()));
+4977|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 29, "Trà hoa nhài（2）(hoàn thành)");
+4978|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 111, "Nan y tạp chứng（3）");
+4979|<O>| ret = CHAR_FIGHT_D->attack_done(me, who, HIT_NONE, ADD_AP);    // Cẩn thận chuẩn bị me
+4980|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 27, "Nan y tạp chứng（1）");
+4981|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_ZHOUGUO,4,"Mua hộp trả ngọc(3)(hoàn thành)" );
+4982|<O>| if (!who->can_be_fighted(me) || !me->can_fight(who)) return 1;    // Thực thi thành công
+4983|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_NEWBIE_01, 48, "Đường đi khó khăn(hoàn thành)");
+4984|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 5, "Tình khóa Tần cung（3）(hoàn thành)");
+4985|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_ZHOUGUO,5,"Mua hộp trả ngọc(4)(hoàn thành)" );
+4986|<O>| result = sprintf(HIY "Thành chủ %s đặt lương của phó thành chủ thứ nhất là %d vàng mỗi ngày。", who->get_name(), salary);
+4987|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 1, "Dây buộc tóc của tiểu thư Sa Tiêm(hoàn thành)");
+4988|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_CHUGUO, 21, "Quỷ hỏa ở rừng Tương Phi(hoàn thành)");
+4989|<O>| result += sprintf(ESC "Lính đánh thuê thường(30000)\ntalk %x# welcome.51\n", getoid(who));
+4990|<O>| CHAR_FIGHT_D->attack_done(me, who, HIT_SPEAR, 0, ADD_RATE);    // Cẩn thận chuẩn bị me
+4991|<O>| write_user( who, ECHO "Trong %d ngày đầu %s chia hoa hồng là %d, bạn được chia %d vàng。", day, name, salary, 0 );
