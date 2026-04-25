@@ -1,128 +1,128 @@
-﻿21562|<O>| set_real_name("沈诸梁");
-21563|<O>| set_real_name("孟尝君");
-21564|<O>| set_real_name("成快嘴");
-21565|<O>| ESC "楚国\n" + cmd[5] +
-21566|<O>| set_real_name("风晶石");
-21567|<O>| notify("您现在不在队伍当中。");
-21568|<O>| ({"鲤鱼帽","韩国的防具店老板"}),
-21569|<O>| case -1: return "敌视";
-21570|<O>| "蜀山"          : "司库",
-21571|<O>| if ( iHour%2 )	//预告月饼
-21572|<O>| if (rate < 1000)//变身卡
-21573|<O>| ({"檀紫棍","周国的武器店老板"}),
-21574|<O>| "小蚂蚁" : "在清溪可以捉到小蚂蚁",
-21575|<O>| ({"舞天衣","燕国的防具店老板"}),
-21576|<O>| case -2: return "战争";
-21577|<O>| return "老虎身上御寒防护之体肤";
-21578|<O>| ESC "我要出城。\n" + cmd +
-21579|<O>| set_name("锋利的雕刻刀图纸");
-21580|<O>| ESC "魏国\n" + cmd[3] +
-21581|<O>| ({"飞蝗石","韩国的武器店老板"}),
-21582|<O>| ({"金蛇剑","燕国的武器店老板"}),
-21583|<O>| 602 : (["name":"东海岸",
-21584|<O>| ({"碧龙衣","燕国的防具店老板"}),
-21585|<O>| return "学习制作铜制机关构件。";
-21586|<O>| set_real_name("徐夫人");
-21587|<O>| notify("您得先打开组队开关。");
-21588|<O>| ({"玉露鞋","齐国的饰品店老板"}),
-21589|<O>| default: gift = "仁爱";
-21590|<O>| set_name("锋利的雕刻刀锻造");
-21591|<O>| ({"传风冠","魏国的防具店老板"}),
-21592|<O>| notify("自己的召唤兽不能打!");
-21593|<O>| ({"天水鞋","韩国的饰品店老板"}),
-21594|<O>| case "樵夫": case "猎户":
-21595|<O>| return "学习制作青铜机关构件。";
-21596|<O>| ({"玉露帽","齐国的防具店老板"}),
-21597|<O>| ({"鲤鱼衣","韩国的防具店老板"}),
-21598|<O>| ({"细麻帽","秦国的防具店老板"}),
-21599|<O>| ({"青柳裙","燕国的防具店老板"}),
-21600|<O>| set_real_name("北宫黝");
-21601|<O>| ({"沙场鞋","周国的饰品店老板"}),
-21602|<O>| "癞蛤蟆" : "在太湖可以捉到癞蛤蟆",
-21603|<O>| case 2 : return "姑娘";
-21604|<O>| ({"随风裙","韩国的防具店老板"}),
-21605|<O>| return 0;    // 目的不存在
-21606|<O>| ESC "我要进城。\n" + cmd +
-21607|<O>| "精制寒铁丹炉" : "\"509\"",
-21608|<O>| return "妖魔的心脏，作出售品用";
-21609|<O>| return "增加10％的气血。\n";
-21610|<O>| ({"细麻裙","秦国的防具店老板"}),
-21611|<O>| ESC "韩国\n" + cmd[1] +
-21612|<O>| return "牛的皮毛，裁缝所需材料";
-21613|<O>| if (cCountry == "秦国")
-21614|<O>| if (p < 8610)		// 宝石矿
-21615|<O>| "钝钝的雕刻刀" : "\"515\"",
-21616|<O>| ({"玉露裙","齐国的防具店老板"}),
-21617|<O>| set_real_name("魏昭王");
-21618|<O>| 605 : (["name":"东海岛",
-21619|<O>| set_name("高级麻布行装图纸");
-21620|<O>| return "武功秘籍，提升一级技能";
-21621|<O>| set_real_name("燕王喜");
-21622|<O>| ESC "我要捕鱼。\n" + cmd +
-21623|<O>| set_name("齐国守卫的挑战书");
-21624|<O>| // 函数:删除存盘数据集内容(多层结构)
-21625|<O>| return "任务物品。周子的信物。";
-21626|<O>| ({"寒铁棍","楚国的武器店老板"}),
-21627|<O>| case 1 : return "大爷";
-21628|<O>| return "学习制作玄铁机关构件。";
-21629|<O>| set_name("到雁门关的传送人");
-21630|<O>| set_real_name("日晶石");
-21631|<O>| notify("您在摆摊，不能闲聊。");
-21632|<O>| notify("您离别的摊档太近了！");
-21633|<O>| return "水星精灵死后的魂魄精华";
-21634|<O>| ({"精钢镖","韩国的武器店老板"}),
-21635|<O>| ({"青龙衣","秦国的防具店老板"}),
-21636|<O>| return "学习制作寒铁机关构件。";
-21637|<O>| // 函数:添加存盘数据集内容(多层结构)
-21638|<O>| ESC "恢复原样\n" + cmd0);
-21639|<O>| return "能储存 1000 潜能";
-21640|<O>| //清除任务变量,发送任务取消信息到客户端
-21641|<O>| "土精" : "在虚灵洞可以杀到土精 ",
-21642|<O>| set_real_name("韩康子");
-21643|<O>| ({"朝阳剑","秦国的武器店老板"}),
-21644|<O>| ({"古藤鞋","齐国的饰品店老板"}),
-21645|<O>| ({"碧龙裙","燕国的防具店老板"}),
-21646|<O>| ({"玄木剑","魏国的武器店老板"}),
-21647|<O>| return "可以打开高级箱子的钥匙";
-21648|<O>| set_real_name("平原君");
-21649|<O>| "精致的雕刻刀" : "\"519\"",
-21650|<O>| if (p < 3)    // 突发事件
-21651|<O>| ({"青柳甲","燕国的防具店老板"}),
-21652|<O>| case "小二": case "渔夫":
-21653|<O>| "小蜜蜂" : "在清溪可以捉到小蜜蜂",
-21654|<O>| ({"丝绸衣","赵国的防具店老板"}),
-21655|<O>| "独眼兽":"在首阳山可以杀到独眼兽 ",
-21656|<O>| ESC "男装布衣\n" + cmd1 +
-21657|<O>| "螳螂妖" : "在泰山可以捉到螳螂妖",
-21658|<O>| else if (p < 61) //秘籍
-21659|<O>| 408 : (["name":"太行山",
-21660|<O>| 506 : (["name":"鄱阳湖",
-21661|<O>| notify("您携带的东西太多了。");
-21662|<O>| set_city_name("新手村");
-21663|<O>| "赤褐蚁" : "在巴丘可以捉到赤褐蚁",
-21664|<O>| "锋利的雕刻刀" : "\"517\"",
-21665|<O>| return "学习制作锋利的雕刻刀。";
-21666|<O>| "茅山"          : "鬼卒",
-21667|<O>| ({"古甲鞋","魏国的饰品店老板"}),
-21668|<O>| //	判断一个星期/日的数字结构包含的秒数
-21669|<O>| notify("您不是本队伍的队长。");
-21670|<O>| ({"赤胆剑","魏国的武器店老板"}),
-21671|<O>| case 5 : // 5. 情人节的传说
-21672|<O>| ({"细麻衣","秦国的防具店老板"}),
-21673|<O>| 402 : (["name":"萁关",
-21674|<O>| set_real_name("田需");
-21675|<O>| case 5: return "茅山";
-21676|<O>| "精制寒铁锤" : "\"504\"",
-21677|<O>| case 2: gift = "正义";
-21678|<O>| notify("本队伍的人数过多。");
-21679|<O>| set_real_name("荆轲");
-21680|<O>| return "高级采冶工使用的工具";
-21681|<O>| set_real_name("晋鄙");
-21682|<O>| notify("请勿频繁发送邮件。");
-21683|<O>| set_real_name("毛遂");
-21684|<O>| set_real_name("姬思");
-21685|<O>| case 5: return "法攻";
-21686|<O>| notify("您得加入一个帮派！");
-21687|<O>| notify("您要列示什么东西？");
-21688|<O>| set_real_name("田建");
-21689|<O>| set_name("速效小恢复药水");
+﻿21562|<O>| set_real_name("Thẩm Chư Lương");
+21563|<O>| set_real_name("Mạnh Thường Quân");
+21564|<O>| set_real_name("Thành Khoái Chủy");
+21565|<O>| ESC "Sở Quốc\n" + cmd[5] +
+21566|<O>| set_real_name("Phong Tinh Thạch");
+21567|<O>| notify("Bạn hiện không ở trong đội ngũ.");
+21568|<O>| ({"Lý Ngư Mạo","Lão bản cửa hàng phòng cụ Hàn Quốc"}),
+21569|<O>| case -1: return "Thù địch";
+21570|<O>| "Thục Sơn"          : "Tư Khố",
+21571|<O>| if ( iHour%2 )	//Dự báo bánh trung thu
+21572|<O>| if (rate < 1000)//Thẻ biến thân
+21573|<O>| ({"Đàn Tử Côn","Lão bản cửa hàng vũ khí Chu Quốc"}),
+21574|<O>| "Tiểu Mã Nghĩ" : "Ở Thanh Khê có thể bắt được Tiểu Mã Nghĩ",
+21575|<O>| ({"Vũ Thiên Y","Lão bản cửa hàng phòng cụ Yên Quốc"}),
+21576|<O>| case -2: return "Chiến tranh";
+21577|<O>| return "Lớp da trên thân hổ dùng chống lạnh";
+21578|<O>| ESC "Tôi muốn ra thành.\n" + cmd +
+21579|<O>| set_name("Đồ chỉ Điêu Khắc Đao Sắc Bén");
+21580|<O>| ESC "Nguỵ Quốc\n" + cmd[3] +
+21581|<O>| ({"Phi Hoàng Thạch","Lão bản cửa hàng vũ khí Hàn Quốc"}),
+21582|<O>| ({"Kim Xà Kiếm","Lão bản cửa hàng vũ khí Yên Quốc"}),
+21583|<O>| 602 : (["name":"Đông Hải Ngạn",
+21584|<O>| ({"Bích Long Y","Lão bản cửa hàng phòng cụ Yên Quốc"}),
+21585|<O>| return "Học chế tạo cấu kiện cơ quan Đồng.";
+21586|<O>| set_real_name("Từ Phu Nhân");
+21587|<O>| notify("Bạn phải mở công tắc tổ đội trước.");
+21588|<O>| ({"Ngọc Lộ Hài","Lão bản cửa hàng sức phẩm Tề Quốc"}),
+21589|<O>| default: gift = "Nhân Ái";
+21590|<O>| set_name("Đoạn tạo Điêu Khắc Đao Sắc Bén");
+21591|<O>| ({"Truyền Phong Quán","Lão bản cửa hàng phòng cụ Nguỵ Quốc"}),
+21592|<O>| notify("Không thể đánh triệu hoán thú của mình!");
+21593|<O>| ({"Thiên Thuỷ Hài","Lão bản cửa hàng sức phẩm Hàn Quốc"}),
+21594|<O>| case "Tiều Phu": case "Liệp Hộ":
+21595|<O>| return "Học chế tạo cấu kiện cơ quan Thanh Đồng.";
+21596|<O>| ({"Ngọc Lộ Mạo","Lão bản cửa hàng phòng cụ Tề Quốc"}),
+21597|<O>| ({"Lý Ngư Y","Lão bản cửa hàng phòng cụ Hàn Quốc"}),
+21598|<O>| ({"Tế Ma Mạo","Lão bản cửa hàng phòng cụ Tần Quốc"}),
+21599|<O>| ({"Thanh Liễu Quần","Lão bản cửa hàng phòng cụ Yên Quốc"}),
+21600|<O>| set_real_name("Bắc Cung Dũ");
+21601|<O>| ({"Sa Trường Hài","Lão bản cửa hàng sức phẩm Chu Quốc"}),
+21602|<O>| "Lại Hà Mô" : "Ở Thái Hồ có thể bắt được Lại Hà Mô",
+21603|<O>| case 2 : return "Cô Nương";
+21604|<O>| ({"Tuỳ Phong Quần","Lão bản cửa hàng phòng cụ Hàn Quốc"}),
+21605|<O>| return 0;    // Mục tiêu không tồn tại
+21606|<O>| ESC "Tôi muốn vào thành.\n" + cmd +
+21607|<O>| "Tinh Chế Hàn Thiết Đan Lô" : "\"509\"",
+21608|<O>| return "Trái tim yêu ma, dùng làm vật bán";
+21609|<O>| return "Tăng 10% khí huyết.\n";
+21610|<O>| ({"Tế Ma Quần","Lão bản cửa hàng phòng cụ Tần Quốc"}),
+21611|<O>| ESC "Hàn Quốc\n" + cmd[1] +
+21612|<O>| return "Lông da bò, nguyên liệu thợ may cần dùng";
+21613|<O>| if (cCountry == "Tần Quốc")
+21614|<O>| if (p < 8610)		// Mỏ bảo thạch
+21615|<O>| "Điêu Khắc Đao Cùn" : "\"515\"",
+21616|<O>| ({"Ngọc Lộ Quần","Lão bản cửa hàng phòng cụ Tề Quốc"}),
+21617|<O>| set_real_name("Nguỵ Chiêu Vương");
+21618|<O>| 605 : (["name":"Đông Hải Đảo",
+21619|<O>| set_name("Đồ chỉ Hành Trang Ma Bố Cao Cấp");
+21620|<O>| return "Bí kíp võ công, nâng một cấp kỹ năng";
+21621|<O>| set_real_name("Yên Vương Hỉ");
+21622|<O>| ESC "Tôi muốn đánh cá.\n" + cmd +
+21623|<O>| set_name("Thư thách đấu thủ vệ Tề Quốc");
+21624|<O>| // Hàm: Xoá nội dung tập dữ liệu lưu trữ (cấu trúc đa tầng)
+21625|<O>| return "Vật phẩm nhiệm vụ. Tín vật của Chu Tử.";
+21626|<O>| ({"Hàn Thiết Côn","Lão bản cửa hàng vũ khí Sở Quốc"}),
+21627|<O>| case 1 : return "Đại Gia";
+21628|<O>| return "Học chế tạo cấu kiện cơ quan Huyền Thiết.";
+21629|<O>| set_name("Người truyền tống đến Nhạn Môn Quan");
+21630|<O>| set_real_name("Nhật Tinh Thạch");
+21631|<O>| notify("Bạn đang bày quầy, không thể nói chuyện phiếm.");
+21632|<O>| notify("Bạn ở quá gần quầy hàng khác!");
+21633|<O>| return "Tinh hoa hồn phách sau khi Thuỷ Tinh Tinh Linh chết";
+21634|<O>| ({"Tinh Cương Tiêu","Lão bản cửa hàng vũ khí Hàn Quốc"}),
+21635|<O>| ({"Thanh Long Y","Lão bản cửa hàng phòng cụ Tần Quốc"}),
+21636|<O>| return "Học chế tạo cấu kiện cơ quan Hàn Thiết.";
+21637|<O>| // Hàm: Thêm nội dung tập dữ liệu lưu trữ (cấu trúc đa tầng)
+21638|<O>| ESC "Khôi phục nguyên trạng\n" + cmd0);
+21639|<O>| return "Có thể trữ 1000 tiềm năng";
+21640|<O>| //Xoá biến nhiệm vụ, gửi thông tin huỷ nhiệm vụ đến client
+21641|<O>| "Thổ Tinh" : "Ở Hư Linh Động có thể giết được Thổ Tinh ",
+21642|<O>| set_real_name("Hàn Khang Tử");
+21643|<O>| ({"Triều Dương Kiếm","Lão bản cửa hàng vũ khí Tần Quốc"}),
+21644|<O>| ({"Cổ Đằng Hài","Lão bản cửa hàng sức phẩm Tề Quốc"}),
+21645|<O>| ({"Bích Long Quần","Lão bản cửa hàng phòng cụ Yên Quốc"}),
+21646|<O>| ({"Huyền Mộc Kiếm","Lão bản cửa hàng vũ khí Nguỵ Quốc"}),
+21647|<O>| return "Chìa khoá có thể mở hòm cao cấp";
+21648|<O>| set_real_name("Bình Nguyên Quân");
+21649|<O>| "Điêu Khắc Đao Tinh Xảo" : "\"519\"",
+21650|<O>| if (p < 3)    // Sự kiện đột phát
+21651|<O>| ({"Thanh Liễu Giáp","Lão bản cửa hàng phòng cụ Yên Quốc"}),
+21652|<O>| case "Tiểu Nhị": case "Ngư Phu":
+21653|<O>| "Tiểu Mật Ong" : "Ở Thanh Khê có thể bắt được Tiểu Mật Ong",
+21654|<O>| ({"Ti Trù Y","Lão bản cửa hàng phòng cụ Triệu Quốc"}),
+21655|<O>| "Độc Nhãn Thú":"Ở Thủ Dương Sơn có thể giết được Độc Nhãn Thú ",
+21656|<O>| ESC "Nam trang bố y\n" + cmd1 +
+21657|<O>| "Đường Lang Yêu" : "Ở Thái Sơn có thể bắt được Đường Lang Yêu",
+21658|<O>| else if (p < 61) //Bí kíp
+21659|<O>| 408 : (["name":"Thái Hành Sơn",
+21660|<O>| 506 : (["name":"Bà Dương Hồ",
+21661|<O>| notify("Bạn mang theo quá nhiều đồ.");
+21662|<O>| set_city_name("Tân Thủ Thôn");
+21663|<O>| "Xích Hạt Nghĩ" : "Ở Ba Khâu có thể bắt được Xích Hạt Nghĩ",
+21664|<O>| "Điêu Khắc Đao Sắc Bén" : "\"517\"",
+21665|<O>| return "Học chế tạo Điêu Khắc Đao Sắc Bén.";
+21666|<O>| "Mao Sơn"          : "Quỷ Tốt",
+21667|<O>| ({"Cổ Giáp Hài","Lão bản cửa hàng sức phẩm Nguỵ Quốc"}),
+21668|<O>| //	Phán đoán số giây chứa trong cấu trúc số ngày/tuần
+21669|<O>| notify("Bạn không phải đội trưởng.");
+21670|<O>| ({"Xích Đảm Kiếm","Lão bản cửa hàng vũ khí Nguỵ Quốc"}),
+21671|<O>| case 5 : // 5. Truyền thuyết ngày Tình Nhân
+21672|<O>| ({"Tế Ma Y","Lão bản cửa hàng phòng cụ Tần Quốc"}),
+21673|<O>| 402 : (["name":"Kỳ Quan",
+21674|<O>| set_real_name("Điền Nhu");
+21675|<O>| case 5: return "Mao Sơn";
+21676|<O>| "Tinh Chế Hàn Thiết Chuỳ" : "\"504\"",
+21677|<O>| case 2: gift = "Chính Nghĩa";
+21678|<O>| notify("Đội ngũ này quá đông người.");
+21679|<O>| set_real_name("Kinh Kha");
+21680|<O>| return "Công cụ thợ khai mỏ cao cấp sử dụng";
+21681|<O>| set_real_name("Tấn Bỉ");
+21682|<O>| notify("Xin đừng gửi thư quá thường xuyên.");
+21683|<O>| set_real_name("Mao Toại");
+21684|<O>| set_real_name("Cơ Tư");
+21685|<O>| case 5: return "Pháp Công";
+21686|<O>| notify("Bạn phải gia nhập một bang phái!");
+21687|<O>| notify("Bạn muốn liệt kê vật gì?");
+21688|<O>| set_real_name("Điền Kiến");
+21689|<O>| set_name("Dược thuỷ hồi phục nhỏ tốc hiệu");

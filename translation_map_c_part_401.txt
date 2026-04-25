@@ -1,105 +1,105 @@
-﻿19600|<O>| if( me->is_user() )    // 玩家
-19601|<O>| "蚂蚁卵" : "\"/item/40/4006\"",
-19602|<O>| "小风车" : "\"/item/49/4903\"",
-19603|<O>| "芍药花" : "\"/item/30/3010\"",
-19604|<O>| return "任务物品。一种能用来败毒抗癌的药材。";
-19605|<O>| "杜康酒" : "\"/item/31/3155\"",
-19606|<O>| + sprintf(ESC"上一页\nparty\n")
-19607|<O>| "白泽图" : "\"/item/97/9733\"",
-19608|<O>| #define PF_NAME        "治愈术"
-19609|<O>| return "［御风心法］能驾驭风的法术技能。\n";
-19610|<O>| // 函数:移到目标身上(用于 inventory.c)
-19611|<O>| 警告:更改此处任何数值，注意是否需要同时更改客户端！！！
-19612|<O>| "雕刻刀" : "\"/item/49/4907\"",
-19613|<O>| enemy = get_enemy();//获得攻击者。
-19614|<O>| "商人", "铁匠", "药师", "渔夫", "猎人"
-19615|<O>| return "任务物品。酿雄黄酒必不可少的原材料。";
-19616|<O>| return "任务物品。一种用来抑制僵尸毒的食物。";
-19617|<O>| "拂尘" : "在天门阵二层杀太极门众守可以得到拂尘",
-19618|<O>| else if ( rate < 6055 )	//血石
-19619|<O>| item = new (cTmp);//随机门派技能秘籍
-19620|<O>| mpInfo["advance"] = 1;		//高级
-19621|<O>| "白棋子" : "\"/item/37/3781\"",
-19622|<O>| "豆腐干" : "\"/item/33/3321\"",
-19623|<O>| "再造丸" : "\"/item/91/9125\"",
-19624|<O>| result = sprintf("是否合成宝石？\n"
-19625|<O>| printf(ECHO "您距离过远，不足以偷窃。");
-19626|<O>| #define PF_NAME        "透骨钉"
-19627|<O>| path = "/item";    // 获取绝对路径
-19628|<O>| else if ( level == 3 )	//三等奖
-19629|<O>| if(     flag == 1    // 护送物品
-19630|<O>| "“帅”" : "\"/item/37/3750\"",
-19631|<O>| "“将”" : "\"/item/37/3760\"",
-19632|<O>| return "用红色与黑色丝线编织的球，可用来兑奖";
-19633|<O>| //      return 1;    // 打到空地
-19634|<O>| ESC"确定\ntalk %x# bonus.31\n"
-19635|<O>| "金桑散" : "\"/item/91/9163\"",
-19636|<O>| int iForbbit = 0;				// 戒严标志
-19637|<O>| #define PF_NAME        "催眠术"
-19638|<O>| #define PF_NAME        "旋风诀"
-19639|<O>| "绿豆糕" : "\"/item/33/3304\"",
-19640|<O>| #define PF_NAME        "御剑诀"
-19641|<O>| #define PF_NAME        "小周天"
-19642|<O>| #define PF_NAME        "清风诀"
-19643|<O>| // 自动生成:/make/weapon/make72b
-19644|<O>| "古镜记" : "\"/item/97/9715\"",
-19645|<O>| printf( ECHO "您没有领取剿匪任务。" );
-19646|<O>| "炒花生" : "\"/item/33/3324\"",
-19647|<O>| #define PF_NAME        "清心诀"
-19648|<O>| #define PF_NAME        "瞬影步"
-19649|<O>| "黄蜂刺" : "\"/item/40/4021\"",
-19650|<O>| #define PF_NAME        "隐身术"
-19651|<O>| return "装有极品宠物宝宝和丰富礼品的大礼包。";
-19652|<O>| return "直接将使用者传送回战场中的帮派总管处";
-19653|<O>| {             // 仁 义 忠 信 勇 智
-19654|<O>| #define PF_NAME        "瞬步法"
-19655|<O>| "天王散" : "\"/item/91/9150\"",
-19656|<O>| private int Mouse;			// 鼠标模式
-19657|<O>| "鹤嘴炉" : "\"/item/34/3461\"",
-19658|<O>| set_max_seek(10);    // 全屏搜索
-19659|<O>| #define PF_NAME        "回天术"
-19660|<O>| return "任务物品。被施法的能吸人灵魂的铜镜。";
-19661|<O>| "太极门众守" : "在天门阵二层可以捉到太极门众守",
-19662|<O>| "玄清丹" : "\"/item/91/9175\"",
-19663|<O>| #define PF_NAME        "遁甲阵"
-19664|<O>| #define PF_NAME        "梅花针"
-19665|<O>| who->log_money("重犯", money);
-19666|<O>| ESC"确定\ntalk %x# bonus.16\n"
-19667|<O>| "小蝌蚪" : "\"/item/40/4008\"",
-19668|<O>| "黑棋子" : "\"/item/37/3780\"",
-19669|<O>| // 法术＋出招  TIPS:[PF_CAST]  变异
-19670|<O>| return "一种用来保护自己的骨制品，作出售品用";
-19671|<O>| #define PF_NAME        "灵气甲"
-19672|<O>| // 函数:读取装备对象(用于 inventory.c)
-19673|<O>| "蛇之冠" : "\"/item/40/4019\"",
-19674|<O>| "桃木钉" : "\"/item/40/4066\"",
-19675|<O>| result += ESC"向师傅请安\nCLOSE";
-19676|<O>| "茉莉花" : "\"/item/30/3006\"",
-19677|<O>| "水仙花" : "\"/item/30/3013\"",
-19678|<O>| notify("“%s”已经有人用了。", name);
-19679|<O>| return "任务物品。记录着制作号角方法的书简。";
-19680|<O>| return "任务物品。小守卫想用来做大事的石头。";
-19681|<O>| return "任务物品。百姓常用来充饥的一种食物。";
-19682|<O>| #define PF_NAME        "伏魔诀"
-19683|<O>| "魔之心" : "\"/item/40/4073\"",
-19684|<O>| #define PF_NAME        "封魔诀"
-19685|<O>| "朱砂粉" : "\"/item/99/9951\"",
-19686|<O>| if (WalkStatus == 1)		//持续走路
-19687|<O>| "打火石" : "\"/item/35/3515\"",
-19688|<O>| "和氏璧" : "\"/item/97/9755\"",
-19689|<O>| return "用黑色与白色丝线编织的球，可用来兑奖";
-19690|<O>| "寒铁" : "\"/item/41/4119\"",
-19691|<O>| // 函数:列示给玩家看(新进入场景)(NPC 专用)
-19692|<O>| "中庸" : "\"/item/97/9702\"",
-19693|<O>| return "任务物品。出访他国所用的一种信件。";
-19694|<O>| result = "你的装备很普通，没什么特别的。";
-19695|<O>| && obj->get_name() == "食物")
-19696|<O>| #define PF_NAME        "迷魂"
-19697|<O>| return "一小时内增加法术防御力12％。\n";
-19698|<O>| "%s:\n有这回事吗？我可没有收到这种消息。\n",
-19699|<O>| "粉扑" : "\"/item/35/3561\"",
-19700|<O>| "盘子" : "\"/item/35/3507\"",
-19701|<O>| "你闷吗？我唱首《世上只有妈妈好》给你听……#75",
-19702|<O>| return "任务物品。燕国守卫需要的一种药物。";
-19703|<O>| #define PF_NAME        "神打"
-19704|<O>| return "能返还玩家所有耐力点数的神奇丹药。";
+﻿19600|<O>| if( me->is_user() )    // Người chơi
+19601|<O>| "Mã Nghĩ Noãn" : "\"/item/40/4006\"",
+19602|<O>| "Tiểu Phong Xa" : "\"/item/49/4903\"",
+19603|<O>| "Thược Dược Hoa" : "\"/item/30/3010\"",
+19604|<O>| return "Vật phẩm nhiệm vụ. Một loại dược liệu có thể dùng để giải độc chống ung thư.";
+19605|<O>| "Đỗ Khang Tửu" : "\"/item/31/3155\"",
+19606|<O>| + sprintf(ESC"Trang trước\nparty\n")
+19607|<O>| "Bạch Trạch Đồ" : "\"/item/97/9733\"",
+19608|<O>| #define PF_NAME        "Trị Dũ Thuật"
+19609|<O>| return "［Ngự Phong Tâm Pháp］Có thể điều khiển gió, kỹ năng pháp thuật.\n";
+19610|<O>| // Hàm: Di chuyển đến mục tiêu (dùng cho inventory.c)
+19611|<O>| Cảnh báo: Thay đổi bất kỳ giá trị nào ở đây, chú ý có cần thay đổi client đồng thời không!!!
+19612|<O>| "Điêu Khắc Đao" : "\"/item/49/4907\"",
+19613|<O>| enemy = get_enemy();//Lấy đối tượng tấn công.
+19614|<O>| "Thương Nhân", "Thiết Tượng", "Dược Sư", "Ngư Phu", "Liệp Nhân"
+19615|<O>| return "Vật phẩm nhiệm vụ. Nguyên liệu không thể thiếu để ủ Hùng Hoàng Tửu.";
+19616|<O>| return "Vật phẩm nhiệm vụ. Một loại thức ăn dùng để ức chế độc Cương Thi.";
+19617|<O>| "Phất Trần" : "Ở tầng hai Thiên Môn Trận giết Thái Cực Môn Chúng Thủ có thể nhận được Phất Trần",
+19618|<O>| else if ( rate < 6055 )	//Huyết Thạch
+19619|<O>| item = new (cTmp);//Bí kíp kỹ năng môn phái ngẫu nhiên
+19620|<O>| mpInfo["advance"] = 1;		//Cao cấp
+19621|<O>| "Bạch Kỳ Tử" : "\"/item/37/3781\"",
+19622|<O>| "Đậu Phụ Can" : "\"/item/33/3321\"",
+19623|<O>| "Tái Tạo Hoàn" : "\"/item/91/9125\"",
+19624|<O>| result = sprintf("Có hợp thành Bảo Thạch không?\n"
+19625|<O>| printf(ECHO "Bạn ở quá xa, không đủ để trộm cắp.");
+19626|<O>| #define PF_NAME        "Thấu Cốt Đinh"
+19627|<O>| path = "/item";    // Lấy đường dẫn tuyệt đối
+19628|<O>| else if ( level == 3 )	//Giải ba
+19629|<O>| if(     flag == 1    // Hộ tống vật phẩm
+19630|<O>| ""Soái"" : "\"/item/37/3750\"",
+19631|<O>| ""Tướng"" : "\"/item/37/3760\"",
+19632|<O>| return "Quả cầu dệt bằng sợi tơ đỏ và đen, có thể dùng để đổi thưởng";
+19633|<O>| //      return 1;    // Đánh vào chỗ trống
+19634|<O>| ESC"Xác nhận\ntalk %x# bonus.31\n"
+19635|<O>| "Kim Tang Tán" : "\"/item/91/9163\"",
+19636|<O>| int iForbbit = 0;				// Cờ giới nghiêm
+19637|<O>| #define PF_NAME        "Thôi Miên Thuật"
+19638|<O>| #define PF_NAME        "Toàn Phong Quyết"
+19639|<O>| "Lục Đậu Cao" : "\"/item/33/3304\"",
+19640|<O>| #define PF_NAME        "Ngự Kiếm Quyết"
+19641|<O>| #define PF_NAME        "Tiểu Chu Thiên"
+19642|<O>| #define PF_NAME        "Thanh Phong Quyết"
+19643|<O>| // Tự động tạo:/make/weapon/make72b
+19644|<O>| "Cổ Kính Ký" : "\"/item/97/9715\"",
+19645|<O>| printf( ECHO "Bạn chưa nhận nhiệm vụ tiễu phỉ." );
+19646|<O>| "Sao Hoa Sinh" : "\"/item/33/3324\"",
+19647|<O>| #define PF_NAME        "Thanh Tâm Quyết"
+19648|<O>| #define PF_NAME        "Thuấn Ảnh Bộ"
+19649|<O>| "Hoàng Phong Thích" : "\"/item/40/4021\"",
+19650|<O>| #define PF_NAME        "Ẩn Thân Thuật"
+19651|<O>| return "Túi quà lớn chứa thú cưng cực phẩm và nhiều phần thưởng phong phú.";
+19652|<O>| return "Trực tiếp truyền tống người sử dụng về chỗ Tổng Quản bang phái trên chiến trường";
+19653|<O>| {             // Nhân Nghĩa Trung Tín Dũng Trí
+19654|<O>| #define PF_NAME        "Thuấn Bộ Pháp"
+19655|<O>| "Thiên Vương Tán" : "\"/item/91/9150\"",
+19656|<O>| private int Mouse;			// Chế độ chuột
+19657|<O>| "Hạc Chủy Lô" : "\"/item/34/3461\"",
+19658|<O>| set_max_seek(10);    // Tìm kiếm toàn màn hình
+19659|<O>| #define PF_NAME        "Hồi Thiên Thuật"
+19660|<O>| return "Vật phẩm nhiệm vụ. Chiếc gương đồng bị niệm chú có thể hút linh hồn người.";
+19661|<O>| "Thái Cực Môn Chúng Thủ" : "Ở tầng hai Thiên Môn Trận có thể bắt được Thái Cực Môn Chúng Thủ",
+19662|<O>| "Huyền Thanh Đan" : "\"/item/91/9175\"",
+19663|<O>| #define PF_NAME        "Độn Giáp Trận"
+19664|<O>| #define PF_NAME        "Mai Hoa Châm"
+19665|<O>| who->log_money("Trọng Phạm", money);
+19666|<O>| ESC"Xác nhận\ntalk %x# bonus.16\n"
+19667|<O>| "Tiểu Khoa Đẩu" : "\"/item/40/4008\"",
+19668|<O>| "Hắc Kỳ Tử" : "\"/item/37/3780\"",
+19669|<O>| // Pháp thuật＋Xuất chiêu  TIPS:[PF_CAST]  Biến dị
+19670|<O>| return "Một loại đồ chế tác bằng xương dùng để bảo vệ bản thân, dùng làm vật bán";
+19671|<O>| #define PF_NAME        "Linh Khí Giáp"
+19672|<O>| // Hàm: Đọc đối tượng trang bị (dùng cho inventory.c)
+19673|<O>| "Xà Chi Quan" : "\"/item/40/4019\"",
+19674|<O>| "Đào Mộc Đinh" : "\"/item/40/4066\"",
+19675|<O>| result += ESC"Vấn an sư phụ\nCLOSE";
+19676|<O>| "Mạt Lị Hoa" : "\"/item/30/3006\"",
+19677|<O>| "Thuỷ Tiên Hoa" : "\"/item/30/3013\"",
+19678|<O>| notify(""%s" đã có người sử dụng rồi.", name);
+19679|<O>| return "Vật phẩm nhiệm vụ. Cuộn thư ghi chép cách chế tạo Hào Giác.";
+19680|<O>| return "Vật phẩm nhiệm vụ. Viên đá mà tiểu thị vệ muốn dùng để làm việc lớn.";
+19681|<O>| return "Vật phẩm nhiệm vụ. Một loại thức ăn bách tính thường dùng để no bụng.";
+19682|<O>| #define PF_NAME        "Phục Ma Quyết"
+19683|<O>| "Ma Chi Tâm" : "\"/item/40/4073\"",
+19684|<O>| #define PF_NAME        "Phong Ma Quyết"
+19685|<O>| "Chu Sa Phấn" : "\"/item/99/9951\"",
+19686|<O>| if (WalkStatus == 1)		//Tiếp tục đi bộ
+19687|<O>| "Đả Hoả Thạch" : "\"/item/35/3515\"",
+19688|<O>| "Hoà Thị Bích" : "\"/item/97/9755\"",
+19689|<O>| return "Quả cầu dệt bằng sợi tơ đen và trắng, có thể dùng để đổi thưởng";
+19690|<O>| "Hàn Thiết" : "\"/item/41/4119\"",
+19691|<O>| // Hàm: Hiển thị cho người chơi xem (khi mới vào cảnh)(NPC chuyên dụng)
+19692|<O>| "Trung Dung" : "\"/item/97/9702\"",
+19693|<O>| return "Vật phẩm nhiệm vụ. Một loại thư tín dùng khi đi thăm nước khác.";
+19694|<O>| result = "Trang bị của bạn rất bình thường, không có gì đặc biệt.";
+19695|<O>| && obj->get_name() == "Thực Vật")
+19696|<O>| #define PF_NAME        "Mê Hồn"
+19697|<O>| return "Trong một giờ tăng lực phòng thủ pháp thuật 12%.\n";
+19698|<O>| "%s:\nCó chuyện này sao? Ta không hề nhận được loại tin nhắn này.\n",
+19699|<O>| "Phấn Phác" : "\"/item/35/3561\"",
+19700|<O>| "Bàn Tử" : "\"/item/35/3507\"",
+19701|<O>| "Bạn buồn chán à? Ta hát bài《Thế Thượng Chỉ Hữu Mẹ Là Tốt》cho bạn nghe……#75",
+19702|<O>| return "Vật phẩm nhiệm vụ. Một loại thuốc mà thị vệ Yên Quốc cần.";
+19703|<O>| #define PF_NAME        "Thần Đả"
+19704|<O>| return "Đan dược thần kỳ có thể hoàn trả toàn bộ điểm thể lực cho người chơi.";

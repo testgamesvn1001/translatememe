@@ -1,163 +1,163 @@
-﻿29788|<O>| // 函数:设置双倍经验时间
-29789|<O>| return "鹤啸头巾";
-29790|<O>| // 函数:获取技能数据集合
-29791|<O>| return "雷霆头盔";
-29792|<O>| //	计算一段相对时间的差值
-29793|<O>| return "软皮行装";
-29794|<O>| return "猎鹰羽帽";
-29795|<O>| return "腾龙腰带";
-29796|<O>| return "破敌素裙";
-29797|<O>| return "浑霜头巾";
-29798|<O>| return "悍将腰带";
-29799|<O>| // 函数:获取描述(持续)
-29800|<O>| return "云龙霞冠";
-29801|<O>| return "灵狐绒帽";
-29802|<O>| return "衾天腰带";
-29803|<O>| // 函数:获取带新手的队长
-29804|<O>| return "残阳腰带";
-29805|<O>| // 函数:返回字节缩减表达
-29806|<O>| "name" : "系统",
-29807|<O>| return "斩侯披袍";
-29808|<O>| return "神威战靴";
-29809|<O>| return "寒星头巾";
-29810|<O>| return "金刚护胫";
-29811|<O>| return "金属头盔";
-29812|<O>| return "唤云腰带";
-29813|<O>| return "飞天战靴";
-29814|<O>| return "跃天腰带";
-29815|<O>| return "龙鳞战衣";
-29816|<O>| return "真武斗篷";
-29817|<O>| return "黄金战铠";
-29818|<O>| return "斗魂项链";
-29819|<O>| return "白狼之靴";
-29820|<O>| return "速风之靴";
-29821|<O>| // 函数:生成直线坐标距离
-29822|<O>| return "绿青头巾";
-29823|<O>| return "残阳霞冠";
-29824|<O>| return "炫御帽冠";
-29825|<O>| return "飞天战盔";
-29826|<O>| return "秋水腰带";
-29827|<O>| return "唤云头巾";
-29828|<O>| set_name("竽");
-29829|<O>| return "飞玉腰带";
-29830|<O>| return "风雷头巾";
-29831|<O>| set_unit("金");
-29832|<O>| return "乾云霞冠";
-29833|<O>| return "水魂项链";
-29834|<O>| // 函数:增添某日领取工资
-29835|<O>| return "战将彩衣";
-29836|<O>| return "霸王霞冠";
-29837|<O>| set_name("剑");
-29838|<O>| // 有可能成品也是一种原料
-29839|<O>| return "追风法冠";
-29840|<O>| return "斥云巾帽";
-29841|<O>| return "碧月项链";
-29842|<O>| return "细麻腰带";
-29843|<O>| return "随风行装";
-29844|<O>| //检查上线玩家称谓的合法性
-29845|<O>| return "豹纹素裙";
-29846|<O>| return "舞天巾帽";
-29847|<O>| // 函数:设置最大搜索范围
-29848|<O>| return "踏青头巾";
-29849|<O>| return "沙场腰带";
-29850|<O>| return "翻云巾帽";
-29851|<O>| return "金丝巾帽";
-29852|<O>| return "火凤项链";
-29853|<O>| return "麒麟彩衣";
-29854|<O>| //65级的随机门派套装衣服
-29855|<O>| return "雷霆项链";
-29856|<O>| return "神风彩衣";
-29857|<O>| // 函数:使能接收登录命令
-29858|<O>| return "垂云披风";
-29859|<O>| return "冥域项链";
-29860|<O>| return "血色头巾";
-29861|<O>| "救命啊～妖怪啊！#09",
-29862|<O>| set_unit("棵");
-29863|<O>| return "生命项链";
-29864|<O>| return "战龙巾帽";
-29865|<O>| return "彻云巾帽";
-29866|<O>| // 法剑，法术门派可以装备
-29867|<O>| set_name("葱");
-29868|<O>| return "新手项链";
-29869|<O>| return "乾坤战衣";
-29870|<O>| return "飞羽巾帽";
-29871|<O>| set_unit("串");
-29872|<O>| // 函数:获取扣费开始时间
-29873|<O>| return "猎豹腰带";
-29874|<O>| return "灵狐腰带";
-29875|<O>| set_unit("粒");
-29876|<O>| return "青天之魂";
-29877|<O>| return "龙骨战衣";
-29878|<O>| return "猛虎皮衣";
-29879|<O>| return "龙骨斗笠";
-29880|<O>| return "狂狮腰带";
-29881|<O>| return "麒麟战盔";
-29882|<O>| return "天水行装";
-29883|<O>| return "丝绸头巾";
-29884|<O>| //		case "茅山":
-29885|<O>| return "鸳鸯玉佩";
-29886|<O>| return "银丝长靴";
-29887|<O>| return "踏青腰带";
-29888|<O>| // 函数:增加NPC 定义
-29889|<O>| "黄金卫队长活动操作:\n"
-29890|<O>| return "天株项链";
-29891|<O>| return "破云战衣";
-29892|<O>| return "珍稀藏品";
-29893|<O>| return "天神斗笠";
-29894|<O>| return "灵狐项链";
-29895|<O>| return "狂龙行装";
-29896|<O>| set_name("钱");
-29897|<O>| return "白金项链";
-29898|<O>| return "速风头巾";
-29899|<O>| return "猎豹项链";
-29900|<O>| return "心骅腰带";
-29901|<O>| return "蕲木巾帽";
-29902|<O>| return "风神战盔";
-29903|<O>| return "追风腰带";
-29904|<O>| // 函数:获取最近去过城市
-29905|<O>| return "混天战帽";
-29906|<O>| return "破云行装";
-29907|<O>| return "玄天神甲";
-29908|<O>| return "飞玉披风";
-29909|<O>| set_name("梨");
-29910|<O>| return "轩缘战衣";
-29911|<O>| // 函数:检查用户是否存在
-29912|<O>| return "混天行装";
-29913|<O>| return "围棋棋盘";
-29914|<O>| return "天威腰带";
-29915|<O>| return "斥云披风";
-29916|<O>| set_unit("件");
-29917|<O>| return "云龙彩衣";
-29918|<O>| set_unit("枝");
-29919|<O>| return "逍遥彩衣";
-29920|<O>| return "翠玉素裙";
-29921|<O>| return "照世巾帽";
-29922|<O>| return "天狼行装";
-29923|<O>| return "祁龙彩衣";
-29924|<O>| return "猎鹰羽靴";
-29925|<O>| set_unit("杆");
-29926|<O>| return "流云项链";
-29927|<O>| return "凤羽彩衣";
-29928|<O>| return "欣风腰带";
-29929|<O>| "守阵神将" : 4133,
-29930|<O>| return "速风披风";
-29931|<O>| return "狂龙披风";
-29932|<O>| return "青柳头巾";
-29933|<O>| "87" : "弓箭石俑",
-29934|<O>| return "苍昆巾帽";
-29935|<O>| return "撼天战袍";
-29936|<O>| return "残阳战袍";
-29937|<O>| return "摄魂行装";
-29938|<O>| return "轩缘霞冠";
-29939|<O>| // 函数:获取NPC 数据
-29940|<O>| return "神灵项链";
-29941|<O>| return "追风法袍";
-29942|<O>| //可以设置的相对的游戏时间
-29943|<O>| return "天乾霞冠";
-29944|<O>| return "雪雕羽靴";
-29945|<O>| return "土域项链";
-29946|<O>| result = "商业";
-29947|<O>| return "拂晓头巾";
-29948|<O>| return "混雷战袍";
-29949|<O>| //  移除糯米、猪肉、蓼叶
-29950|<O>| return "麻布腰带";
+﻿29788|<O>| // Hàm: Thiết lập thời gian kinh nghiệm gấp đôi
+29789|<O>| return "Hạc Khiếu Đầu Cân";
+29790|<O>| // Hàm: Lấy tập dữ liệu kỹ năng
+29791|<O>| return "Lôi Đình Đầu Khôi";
+29792|<O>| //	Tính toán chênh lệch một khoảng thời gian tương đối
+29793|<O>| return "Nhuyễn Bì Hành Trang";
+29794|<O>| return "Liệp Ưng Vũ Mạo";
+29795|<O>| return "Đằng Long Yêu Đái";
+29796|<O>| return "Phá Địch Tố Quần";
+29797|<O>| return "Hồn Sương Đầu Cân";
+29798|<O>| return "Hãn Tướng Yêu Đái";
+29799|<O>| // Hàm: Lấy mô tả (liên tục)
+29800|<O>| return "Vân Long Hà Quán";
+29801|<O>| return "Linh Hồ Nhung Mạo";
+29802|<O>| return "Khâm Thiên Yêu Đái";
+29803|<O>| // Hàm: Lấy đội trưởng dẫn tân thủ
+29804|<O>| return "Tàn Dương Yêu Đái";
+29805|<O>| // Hàm: Trả về biểu diễn rút gọn byte
+29806|<O>| "name" : "Hệ thống",
+29807|<O>| return "Trảm Hầu Phi Bào";
+29808|<O>| return "Thần Uy Chiến Ngoa";
+29809|<O>| return "Hàn Tinh Đầu Cân";
+29810|<O>| return "Kim Cương Hộ Hĩnh";
+29811|<O>| return "Kim Thuộc Đầu Khôi";
+29812|<O>| return "Hoán Vân Yêu Đái";
+29813|<O>| return "Phi Thiên Chiến Ngoa";
+29814|<O>| return "Dược Thiên Yêu Đái";
+29815|<O>| return "Long Lân Chiến Y";
+29816|<O>| return "Chân Vũ Đấu Bồng";
+29817|<O>| return "Hoàng Kim Chiến Khải";
+29818|<O>| return "Đấu Hồn Hạng Liên";
+29819|<O>| return "Bạch Lang Chi Ngoa";
+29820|<O>| return "Tốc Phong Chi Ngoa";
+29821|<O>| // Hàm: Tạo khoảng cách toạ độ đường thẳng
+29822|<O>| return "Lục Thanh Đầu Cân";
+29823|<O>| return "Tàn Dương Hà Quán";
+29824|<O>| return "Huyễn Ngự Mạo Quán";
+29825|<O>| return "Phi Thiên Chiến Khôi";
+29826|<O>| return "Thu Thuỷ Yêu Đái";
+29827|<O>| return "Hoán Vân Đầu Cân";
+29828|<O>| set_name("Vu");
+29829|<O>| return "Phi Ngọc Yêu Đái";
+29830|<O>| return "Phong Lôi Đầu Cân";
+29831|<O>| set_unit("Vàng");
+29832|<O>| return "Càn Vân Hà Quán";
+29833|<O>| return "Thuỷ Hồn Hạng Liên";
+29834|<O>| // Hàm: Thêm ngày nhận lương
+29835|<O>| return "Chiến Tướng Thái Y";
+29836|<O>| return "Bá Vương Hà Quán";
+29837|<O>| set_name("Kiếm");
+29838|<O>| // Có thể thành phẩm cũng là một loại nguyên liệu
+29839|<O>| return "Truy Phong Pháp Quán";
+29840|<O>| return "Xích Vân Cân Mạo";
+29841|<O>| return "Bích Nguyệt Hạng Liên";
+29842|<O>| return "Tế Ma Yêu Đái";
+29843|<O>| return "Tuỳ Phong Hành Trang";
+29844|<O>| //Kiểm tra tính hợp lệ danh xưng người chơi khi lên mạng
+29845|<O>| return "Báo Văn Tố Quần";
+29846|<O>| return "Vũ Thiên Cân Mạo";
+29847|<O>| // Hàm: Thiết lập phạm vi tìm kiếm tối đa
+29848|<O>| return "Đạp Thanh Đầu Cân";
+29849|<O>| return "Sa Trường Yêu Đái";
+29850|<O>| return "Phiên Vân Cân Mạo";
+29851|<O>| return "Kim Ti Cân Mạo";
+29852|<O>| return "Hoả Phượng Hạng Liên";
+29853|<O>| return "Kỳ Lân Thái Y";
+29854|<O>| //Trang bị bộ ngẫu nhiên cấp 65 môn phái y phục
+29855|<O>| return "Lôi Đình Hạng Liên";
+29856|<O>| return "Thần Phong Thái Y";
+29857|<O>| // Hàm: Cho phép nhận lệnh đăng nhập
+29858|<O>| return "Thuỳ Vân Phi Phong";
+29859|<O>| return "Minh Vực Hạng Liên";
+29860|<O>| return "Huyết Sắc Đầu Cân";
+29861|<O>| "Cứu mạng ơi～ Yêu quái đấy！#09",
+29862|<O>| set_unit("Cây");
+29863|<O>| return "Sinh Mệnh Hạng Liên";
+29864|<O>| return "Chiến Long Cân Mạo";
+29865|<O>| return "Triệt Vân Cân Mạo";
+29866|<O>| // Pháp kiếm, môn phái pháp thuật có thể trang bị
+29867|<O>| set_name("Hành");
+29868|<O>| return "Hạng Liên Tân Thủ";
+29869|<O>| return "Càn Khôn Chiến Y";
+29870|<O>| return "Phi Vũ Cân Mạo";
+29871|<O>| set_unit("Xiên");
+29872|<O>| // Hàm: Lấy thời gian bắt đầu trừ phí
+29873|<O>| return "Liệp Báo Yêu Đái";
+29874|<O>| return "Linh Hồ Yêu Đái";
+29875|<O>| set_unit("Viên");
+29876|<O>| return "Thanh Thiên Chi Hồn";
+29877|<O>| return "Long Cốt Chiến Y";
+29878|<O>| return "Mãnh Hổ Bì Y";
+29879|<O>| return "Long Cốt Đấu Lạp";
+29880|<O>| return "Cuồng Sư Yêu Đái";
+29881|<O>| return "Kỳ Lân Chiến Khôi";
+29882|<O>| return "Thiên Thuỷ Hành Trang";
+29883|<O>| return "Ti Trù Đầu Cân";
+29884|<O>| //		case "Mao Sơn":
+29885|<O>| return "Uyên Ương Ngọc Bội";
+29886|<O>| return "Ngân Ti Trường Ngoa";
+29887|<O>| return "Đạp Thanh Yêu Đái";
+29888|<O>| // Hàm: Thêm định nghĩa NPC
+29889|<O>| "Thao tác hoạt động đội trưởng Hoàng Kim Vệ:\n"
+29890|<O>| return "Thiên Châu Hạng Liên";
+29891|<O>| return "Phá Vân Chiến Y";
+29892|<O>| return "Trân Quý Tàng Phẩm";
+29893|<O>| return "Thiên Thần Đấu Lạp";
+29894|<O>| return "Linh Hồ Hạng Liên";
+29895|<O>| return "Cuồng Long Hành Trang";
+29896|<O>| set_name("Tiền");
+29897|<O>| return "Bạch Kim Hạng Liên";
+29898|<O>| return "Tốc Phong Đầu Cân";
+29899|<O>| return "Liệp Báo Hạng Liên";
+29900|<O>| return "Tâm Hoa Yêu Đái";
+29901|<O>| return "Kỳ Mộc Cân Mạo";
+29902|<O>| return "Phong Thần Chiến Khôi";
+29903|<O>| return "Truy Phong Yêu Đái";
+29904|<O>| // Hàm: Lấy thành phố gần nhất đã đi qua
+29905|<O>| return "Hỗn Thiên Chiến Mạo";
+29906|<O>| return "Phá Vân Hành Trang";
+29907|<O>| return "Huyền Thiên Thần Giáp";
+29908|<O>| return "Phi Ngọc Phi Phong";
+29909|<O>| set_name("Lê");
+29910|<O>| return "Hiên Duyên Chiến Y";
+29911|<O>| // Hàm: Kiểm tra người dùng có tồn tại không
+29912|<O>| return "Hỗn Thiên Hành Trang";
+29913|<O>| return "Bàn Cờ Vây";
+29914|<O>| return "Thiên Uy Yêu Đái";
+29915|<O>| return "Xích Vân Phi Phong";
+29916|<O>| set_unit("Món");
+29917|<O>| return "Vân Long Thái Y";
+29918|<O>| set_unit("Nhánh");
+29919|<O>| return "Tiêu Dao Thái Y";
+29920|<O>| return "Thuý Ngọc Tố Quần";
+29921|<O>| return "Chiếu Thế Cân Mạo";
+29922|<O>| return "Thiên Lang Hành Trang";
+29923|<O>| return "Kỳ Long Thái Y";
+29924|<O>| return "Liệp Ưng Vũ Ngoa";
+29925|<O>| set_unit("Cần");
+29926|<O>| return "Lưu Vân Hạng Liên";
+29927|<O>| return "Phượng Vũ Thái Y";
+29928|<O>| return "Hân Phong Yêu Đái";
+29929|<O>| "Thần Tướng Thủ Trận" : 4133,
+29930|<O>| return "Tốc Phong Phi Phong";
+29931|<O>| return "Cuồng Long Phi Phong";
+29932|<O>| return "Thanh Liễu Đầu Cân";
+29933|<O>| "87" : "Cung Tiễn Thạch Dũng",
+29934|<O>| return "Thương Côn Cân Mạo";
+29935|<O>| return "Hám Thiên Chiến Bào";
+29936|<O>| return "Tàn Dương Chiến Bào";
+29937|<O>| return "Nhiếp Hồn Hành Trang";
+29938|<O>| return "Hiên Duyên Hà Quán";
+29939|<O>| // Hàm: Lấy dữ liệu NPC
+29940|<O>| return "Thần Linh Hạng Liên";
+29941|<O>| return "Truy Phong Pháp Bào";
+29942|<O>| //Có thể thiết lập thời gian game tương đối
+29943|<O>| return "Thiên Càn Hà Quán";
+29944|<O>| return "Tuyết Điêu Vũ Ngoa";
+29945|<O>| return "Thổ Vực Hạng Liên";
+29946|<O>| result = "Thương nghiệp";
+29947|<O>| return "Phất Hiểu Đầu Cân";
+29948|<O>| return "Hỗn Lôi Chiến Bào";
+29949|<O>| //  Loại bỏ gạo nếp, thịt heo, lá liêu
+29950|<O>| return "Ma Bố Yêu Đái";

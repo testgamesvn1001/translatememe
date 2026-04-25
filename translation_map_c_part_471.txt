@@ -1,157 +1,157 @@
-﻿29154|<O>| set_name("锡套");
-29155|<O>| // 从国家到其他国家以及门派
-29156|<O>| set_name("铜矛");
-29157|<O>| set_name("松木");
-29158|<O>| set_name("信封");
-29159|<O>| set_name("禅定");
-29160|<O>| set_name("蒙骜");
-29161|<O>| set_name("竹矛");
-29162|<O>| set_name("酒食");
-29163|<O>| set_name("墨块");
-29164|<O>| set_name("海盐");
-29165|<O>| set_name("灵宝");
-29166|<O>| set_name("皂角");
-29167|<O>| set_name("眼镜");
-29168|<O>| set_name("织女");
-29169|<O>| set_name("狗肺");
-29170|<O>| set_name("马贼");
-29171|<O>| set_name("硫磺");
-29172|<O>| set_name("毛笔");
-29173|<O>| set_name("马鬼");
-29174|<O>| set_name("豪掘");
-29175|<O>| set_name("铁铲");
-29176|<O>| set_name("水贼");
-29177|<O>| set_name("玉蝶");
-29178|<O>| tmp += ESC"离开";
-29179|<O>| set_name("灵石");
-29180|<O>| set_name("恶少");
-29181|<O>| set_name("绿豆");
-29182|<O>| set_name("信函");
-29183|<O>| set_name("飞贼");
-29184|<O>| set_name("陶碗");
-29185|<O>| set_name("白芪");
-29186|<O>| //王府总管的 do_look
-29187|<O>| set_name("狼妖");
-29188|<O>| // 函数:设置攻击速度(秒)
-29189|<O>| set_name("古甲");
-29190|<O>| set_name("茱萸");
-29191|<O>| set_name("皮带");
-29192|<O>| "请选择春节活动的操作:\n"
-29193|<O>| set_name("红枣");
-29194|<O>| set_name("亲兵");
-29195|<O>| set_name("人参");
-29196|<O>| set_name("怨灵");
-29197|<O>| set_name("熊肉");
-29198|<O>| set_name("桑麻");
-29199|<O>| // 函数:获取武器代码／类型
-29200|<O>| return "学习天璇刀";
-29201|<O>| set_name("地痞");
-29202|<O>| return "学习开阳剑";
-29203|<O>| set_name("解药");
-29204|<O>| set_name("神剑");
-29205|<O>| set_name("辣椒");
-29206|<O>| tmp = "勤劳的小蜜蜂";
-29207|<O>| set_name("铜棍");
-29208|<O>| set_name("炽焰");
-29209|<O>| set_name("绸帽");
-29210|<O>| "锡矿" : "\"2\"",
-29211|<O>| set_name("爱情");
-29212|<O>| set_name("令旗");
-29213|<O>| // 函数:获取某日贡献(源)
-29214|<O>| //不执行ITEM的RESET
-29215|<O>| set_name("独角");
-29216|<O>| set_name("泰阿");
-29217|<O>| set_name("铜刀");
-29218|<O>| set_name("羽毛");
-29219|<O>| set_name("铁胖");
-29220|<O>| set_name("牛肉");
-29221|<O>| set_name("水鬼");
-29222|<O>| return "学习困魔棍";
-29223|<O>| set_name("毒经");
-29224|<O>| set_name("银管");
-29225|<O>| set_name("周易");
-29226|<O>| // 函数:增加防守方战斗傀儡
-29227|<O>| return "工具的一种";
-29228|<O>| set_name("瘟神");
-29229|<O>| set_name("铁箍");
-29230|<O>| set_name("月环");
-29231|<O>| set_name("短刀");
-29232|<O>| set_name("锦线");
-29233|<O>| set_name("盘缠");
-29234|<O>| set_name("州侯");
-29235|<O>| else    // 捕鱼过量
-29236|<O>| set_name("韩哀");
-29237|<O>| set_name("巨犀");
-29238|<O>| set_name("腐骨");
-29239|<O>| set_name("展五");
-29240|<O>| // 函数:复位处理(１小时)
-29241|<O>| set_name("玉丝");
-29242|<O>| // 函数:获取进度条相关文件
-29243|<O>| set_name("铜环");
-29244|<O>| set_name("金牛");
-29245|<O>| set_name("丝线");
-29246|<O>| set_name("铁锹");
-29247|<O>| set_name("霸海");
-29248|<O>| set_name("斩月");
-29249|<O>| return "红宝石项链";
-29250|<O>| set_name("剌绣");
-29251|<O>| // 函数:获取购买道具命令串
-29252|<O>| set_name("月饼");
-29253|<O>| set_name("竹筒");
-29254|<O>| set_name("树妖");
-29255|<O>| set_name("离魂");
-29256|<O>| set_name("兵符");
-29257|<O>| set_name("恶屠");
-29258|<O>| set_name("灵桃");
-29259|<O>| set_name("蜡烛");
-29260|<O>| set_name("打手");
-29261|<O>| set_name("莲藕");
-29262|<O>| "62" : "赵国刀盾兵",
-29263|<O>| set_name("卓滑");
-29264|<O>| // 函数:取地图内的所有玩家
-29265|<O>| set_name("羽衣");
-29266|<O>| return "学习方天戟";
-29267|<O>| set_name("冥思");
-29268|<O>| set_name("铁片");
-29269|<O>| set_name("金精");
-29270|<O>| set_name("锡矿");
-29271|<O>| set_name("金碗");
-29272|<O>| "我好象在哪里见过你耶……",
-29273|<O>| set_name("棕熊");
-29274|<O>| set_name("木棒");
-29275|<O>| set_name("杜赫");
-29276|<O>| set_name("草寇");
-29277|<O>| set_name("凌云");
-29278|<O>| set_name("种子");
-29279|<O>| set_name("怨魔");
-29280|<O>| set_name("蜜糖");
-29281|<O>| // 函数:设置标识(客户端)
-29282|<O>| set_name("神将");
-29283|<O>| set_name("芝麻");
-29284|<O>| case "持续恢复气血类":
-29285|<O>| set_name("九歌");
-29286|<O>| set_name("狒狒");
-29287|<O>| set_name("红球");
-29288|<O>| "铜矿" : "\"1\"",
-29289|<O>| set_name("沈文");
-29290|<O>| // 函数:获取装备颜色:灰色
-29291|<O>| set_name("白菜");
-29292|<O>| set_name("泥块");
-29293|<O>| set_name("总管");
-29294|<O>| set_name("蚀魔");
-29295|<O>| set_name("狗肉");
-29296|<O>| set_name("朱狂");
-29297|<O>| case 2: // 敌对外交
-29298|<O>| set_name("吴孜");
-29299|<O>| set_name("虎肉");
-29300|<O>| set_name("刀魂");
-29301|<O>| /*****四色足球****/
-29302|<O>| set_name("骷髅");
-29303|<O>| return "学习天枢枪";
-29304|<O>| set_name("香蕉");
-29305|<O>| set_name("邪灵");
-29306|<O>| set_name("密探");
-29307|<O>| set_name("钉耙");
-29308|<O>| set_name("清水");
-29309|<O>| set_name("檀香");
-29310|<O>| set_name("李屠");
+﻿29154|<O>| set_name("Tích Sáo");
+29155|<O>| // Từ quốc gia đến các quốc gia khác và môn phái
+29156|<O>| set_name("Đồng Mâu");
+29157|<O>| set_name("Tùng Mộc");
+29158|<O>| set_name("Phong Bì");
+29159|<O>| set_name("Thiền Định");
+29160|<O>| set_name("Mông Ngao");
+29161|<O>| set_name("Trúc Mâu");
+29162|<O>| set_name("Tửu Thực");
+29163|<O>| set_name("Mặc Khối");
+29164|<O>| set_name("Hải Diêm");
+29165|<O>| set_name("Linh Bảo");
+29166|<O>| set_name("Tạo Giác");
+29167|<O>| set_name("Kính");
+29168|<O>| set_name("Chức Nữ");
+29169|<O>| set_name("Cẩu Phế");
+29170|<O>| set_name("Mã Tặc");
+29171|<O>| set_name("Lưu Hoàng");
+29172|<O>| set_name("Mao Bút");
+29173|<O>| set_name("Mã Quỷ");
+29174|<O>| set_name("Hào Quật");
+29175|<O>| set_name("Thiết Xẻng");
+29176|<O>| set_name("Thuỷ Tặc");
+29177|<O>| set_name("Ngọc Điệp");
+29178|<O>| tmp += ESC"Rời đi";
+29179|<O>| set_name("Linh Thạch");
+29180|<O>| set_name("Ác Thiếu");
+29181|<O>| set_name("Đậu Xanh");
+29182|<O>| set_name("Thư Hàm");
+29183|<O>| set_name("Phi Tặc");
+29184|<O>| set_name("Đào Oản");
+29185|<O>| set_name("Bạch Kỳ");
+29186|<O>| //do_look của Vương Phủ Tổng Quản
+29187|<O>| set_name("Lang Yêu");
+29188|<O>| // Hàm: Thiết lập tốc độ tấn công (giây)
+29189|<O>| set_name("Cổ Giáp");
+29190|<O>| set_name("Thù Du");
+29191|<O>| set_name("Bì Đái");
+29192|<O>| "Vui lòng chọn thao tác hoạt động Tết:\n"
+29193|<O>| set_name("Hồng Táo");
+29194|<O>| set_name("Thân Binh");
+29195|<O>| set_name("Nhân Sâm");
+29196|<O>| set_name("Oán Linh");
+29197|<O>| set_name("Hùng Nhục");
+29198|<O>| set_name("Tang Ma");
+29199|<O>| // Hàm: Lấy mã vũ khí/loại vũ khí
+29200|<O>| return "Học Thiên Tuyền Đao";
+29201|<O>| set_name("Địa Bì");
+29202|<O>| return "Học Khai Dương Kiếm";
+29203|<O>| set_name("Giải Dược");
+29204|<O>| set_name("Thần Kiếm");
+29205|<O>| set_name("Ớt");
+29206|<O>| tmp = "Chú ong nhỏ chăm chỉ";
+29207|<O>| set_name("Đồng Côn");
+29208|<O>| set_name("Sí Diễm");
+29209|<O>| set_name("Trù Mạo");
+29210|<O>| "Tích Khoáng" : "\"2\"",
+29211|<O>| set_name("Ái Tình");
+29212|<O>| set_name("Lệnh Kỳ");
+29213|<O>| // Hàm: Lấy đóng góp ngày (nguồn)
+29214|<O>| //Không thực thi RESET của ITEM
+29215|<O>| set_name("Độc Giác");
+29216|<O>| set_name("Thái A");
+29217|<O>| set_name("Đồng Đao");
+29218|<O>| set_name("Vũ Mao");
+29219|<O>| set_name("Thiết Bàn");
+29220|<O>| set_name("Ngưu Nhục");
+29221|<O>| set_name("Thuỷ Quỷ");
+29222|<O>| return "Học Khốn Ma Côn";
+29223|<O>| set_name("Độc Kinh");
+29224|<O>| set_name("Ngân Quản");
+29225|<O>| set_name("Chu Dịch");
+29226|<O>| // Hàm: Tăng bù nhìn chiến đấu phòng thủ
+29227|<O>| return "Một loại công cụ";
+29228|<O>| set_name("Ôn Thần");
+29229|<O>| set_name("Thiết Cổ");
+29230|<O>| set_name("Nguyệt Hoàn");
+29231|<O>| set_name("Đoản Đao");
+29232|<O>| set_name("Cẩm Tuyến");
+29233|<O>| set_name("Bàn Triền");
+29234|<O>| set_name("Châu Hầu");
+29235|<O>| else    // Đánh bắt cá quá nhiều
+29236|<O>| set_name("Hàn Ai");
+29237|<O>| set_name("Cự Tê");
+29238|<O>| set_name("Hủ Cốt");
+29239|<O>| set_name("Triển Ngũ");
+29240|<O>| // Hàm: Xử lý phục hồi (1 giờ)
+29241|<O>| set_name("Ngọc Ti");
+29242|<O>| // Hàm: Lấy tệp thanh tiến trình
+29243|<O>| set_name("Đồng Hoàn");
+29244|<O>| set_name("Kim Ngưu");
+29245|<O>| set_name("Ti Tuyến");
+29246|<O>| set_name("Thiết Xẻng");
+29247|<O>| set_name("Bá Hải");
+29248|<O>| set_name("Trảm Nguyệt");
+29249|<O>| return "Hạng Liên Hồng Bảo Thạch";
+29250|<O>| set_name("Thêu Thùa");
+29251|<O>| // Hàm: Lấy chuỗi lệnh mua đạo cụ
+29252|<O>| set_name("Bánh Trung Thu");
+29253|<O>| set_name("Trúc Ống");
+29254|<O>| set_name("Thụ Yêu");
+29255|<O>| set_name("Ly Hồn");
+29256|<O>| set_name("Binh Phù");
+29257|<O>| set_name("Ác Đồ");
+29258|<O>| set_name("Linh Đào");
+29259|<O>| set_name("Nến");
+29260|<O>| set_name("Đả Thủ");
+29261|<O>| set_name("Liên Ngẫu");
+29262|<O>| "62" : "Đao Thuẫn Binh Triệu Quốc",
+29263|<O>| set_name("Trác Hoạt");
+29264|<O>| // Hàm: Lấy tất cả người chơi trong bản đồ
+29265|<O>| set_name("Vũ Y");
+29266|<O>| return "Học Phương Thiên Kích";
+29267|<O>| set_name("Minh Tư");
+29268|<O>| set_name("Thiết Phiến");
+29269|<O>| set_name("Kim Tinh");
+29270|<O>| set_name("Tích Khoáng");
+29271|<O>| set_name("Kim Oản");
+29272|<O>| "Hình như tôi gặp bạn ở đâu đó rồi...",
+29273|<O>| set_name("Gấu Nâu");
+29274|<O>| set_name("Mộc Bổng");
+29275|<O>| set_name("Đỗ Hách");
+29276|<O>| set_name("Thảo Khấu");
+29277|<O>| set_name("Lăng Vân");
+29278|<O>| set_name("Hạt Giống");
+29279|<O>| set_name("Oán Ma");
+29280|<O>| set_name("Mật Đường");
+29281|<O>| // Hàm: Thiết lập mã định danh (phía máy khách)
+29282|<O>| set_name("Thần Tướng");
+29283|<O>| set_name("Mè");
+29284|<O>| case "Loại hồi phục khí huyết liên tục":
+29285|<O>| set_name("Cửu Ca");
+29286|<O>| set_name("Phỉ Phỉ");
+29287|<O>| set_name("Hồng Cầu");
+29288|<O>| "Đồng Khoáng" : "\"1\"",
+29289|<O>| set_name("Thẩm Văn");
+29290|<O>| // Hàm: Lấy màu trang bị: xám
+29291|<O>| set_name("Bắp Cải");
+29292|<O>| set_name("Nê Khối");
+29293|<O>| set_name("Tổng Quản");
+29294|<O>| set_name("Thực Ma");
+29295|<O>| set_name("Cẩu Nhục");
+29296|<O>| set_name("Chu Cuồng");
+29297|<O>| case 2: // Ngoại giao thù địch
+29298|<O>| set_name("Ngô Tử");
+29299|<O>| set_name("Hổ Nhục");
+29300|<O>| set_name("Đao Hồn");
+29301|<O>| /*****Bóng đá bốn sắc****/
+29302|<O>| set_name("Khô Lâu");
+29303|<O>| return "Học Thiên Xu Thương";
+29304|<O>| set_name("Chuối");
+29305|<O>| set_name("Tà Linh");
+29306|<O>| set_name("Mật Thám");
+29307|<O>| set_name("Đinh Ba");
+29308|<O>| set_name("Thanh Thuỷ");
+29309|<O>| set_name("Đàn Hương");
+29310|<O>| set_name("Lý Đồ");

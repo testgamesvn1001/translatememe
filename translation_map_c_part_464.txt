@@ -1,151 +1,151 @@
-﻿28080|<O>| set_name("银钥匙");
-28081|<O>| set_name("寒星鞋");
-28082|<O>| set_name("灵鹿角");
-28083|<O>| set_name("藏宝图");
-28084|<O>| set_name("重翎枪");
-28085|<O>| set_name("金精卡");
-28086|<O>| set_name("吴三桂");
-28087|<O>| set_name("夫子服");
-28088|<O>| case 110://挖宝总动员
-28089|<O>| set_name("麒麟靴");
-28090|<O>| set_name("飞镖客");
-28091|<O>| set_name("玲珑鞋");
-28092|<O>| set_name("痒痒挠");
-28093|<O>| set_name("秋水袍");
-28094|<O>| set_name("叙旧信");
-28095|<O>| set_name("螳螂妖");
-28096|<O>| set_name("回门符");
-28097|<O>| set_name("烤番薯");
-28098|<O>| set_name("浑霜袍");
-28099|<O>| set_name("神行袍");
-28100|<O>| set_name("番红花");
-28101|<O>| set_name("同心锁");
-28102|<O>| set_name("碧龙衣");
-28103|<O>| set_name("战天冠");
-28104|<O>| set_name("水晶石");
-28105|<O>| set_name("赶日袍");
-28106|<O>| set_name("狂龙鞋");
-28107|<O>| set_name("凤天帽");
-28108|<O>| set_name("福哇哇");
-28109|<O>| set_name("精铁套");
-28110|<O>| set_name("天枢枪");
-28111|<O>| set_name("紫阳剑");
-28112|<O>| // 函数:建设任务(接收物品)
-28113|<O>| //	回调:战斗胜利后的奖励处理
-28114|<O>| set_name("左丘明");
-28115|<O>| set_name("蓝缎帽");
-28116|<O>| set_name("紫魂剑");
-28117|<O>| case 3:					//取回
-28118|<O>| set_name("飞豹冠");
-28119|<O>| // 函数:设置法术防御(基值)
-28120|<O>| set_name("青龙衣");
-28121|<O>| set_name("刀魂卡");
-28122|<O>| set_name("昆吾刀");
-28123|<O>| set_name("青柳甲");
-28124|<O>| set_name("斩侯鞋");
-28125|<O>| set_name("小精怪");
-28126|<O>| set_name("豺狗卡");
-28127|<O>| set_name("土匪卡");
-28128|<O>| set_name("人气王");
-28129|<O>| set_name("云雾茶");
-28130|<O>| "金棒" : "\"22\"",
-28131|<O>| set_name("细麻鞋");
-28132|<O>| set_name("小泥人");
-28133|<O>| set_name("油菜籽");
-28134|<O>| set_name("有三色");
-28135|<O>| set_name("烤地瓜");
-28136|<O>| set_name("金乾剑");
-28137|<O>| set_name("狂龙冠");
-28138|<O>| set_name("细棉衣");
-28139|<O>| set_name("钨钢剑");
-28140|<O>| set_name("翻云履");
-28141|<O>| set_name("黑玉石");
-28142|<O>| set_name("清心丹");
-28143|<O>| return "农产品的一种";
-28144|<O>| set_name("神行履");
-28145|<O>| set_name("承影剑");
-28146|<O>| set_name("斑点蛙");
-28147|<O>| set_name("赤炼刀");
-28148|<O>| set_name("金项链");
-28149|<O>| set_name("飞羽鞋");
-28150|<O>| set_name("战神帽");
-28151|<O>| set_name("沙场帽");
-28152|<O>| case 7://月饼兑换(后)
-28153|<O>| set_name("檀木剑");
-28154|<O>| set_name("普洱茶");
-28155|<O>| set_name("勾镰枪");
-28156|<O>| set_name("蕲木履");
-28157|<O>| //杀死一个敌人加20000气血
-28158|<O>| set_name("小乖蛋");
-28159|<O>| set_name("毒蒺藜");
-28160|<O>| set_name("暗晶石");
-28161|<O>| set_name("刘大叔");
-28162|<O>| set_name("李小毛");
-28163|<O>| set_name("强盗卡");
-28164|<O>| ({"桔子","酒店老板"}),
-28165|<O>| set_name("小血石");
-28166|<O>| set_name("舞天履");
-28167|<O>| set_name("地坤衣");
-28168|<O>| set_name("侠士装");
-28169|<O>| set_name("皮革靴");
-28170|<O>| set_name("寒铁管");
-28171|<O>| set_name("青柳鞋");
-28172|<O>| set_name("神将卡");
-28173|<O>| set_name("虎头袍");
-28174|<O>| set_name("黑棋子");
-28175|<O>| set_name("丧命散");
-28176|<O>| // 函数:增添中毒点数(暗器)
-28177|<O>| set_name("劝谏书");
-28178|<O>| "糖" : "\"224\"",
-28179|<O>| set_name("杜康酒");
-28180|<O>| set_name("严世藩");
-28181|<O>| //	获取对手死亡时所执行的函数
-28182|<O>| set_name("飞龙履");
-28183|<O>| // 函数:获取NPC 数据尺寸
-28184|<O>| set_name("棉布帽");
-28185|<O>| set_name("神行冠");
-28186|<O>| set_name("玉菩提");
-28187|<O>| set_name("拳法师");
-28188|<O>| set_name("丝绸盔");
-28189|<O>| set_name("无尘鞋");
-28190|<O>| set_name("精铁棒");
-28191|<O>| set_name("风雷履");
-28192|<O>| set_name("青云裙");
-28193|<O>| set_name("青竹棍");
-28194|<O>| "蛇" : "\"188\"",
-28195|<O>| set_name("踏云盔");
-28196|<O>| set_name("破甲针");
-28197|<O>| set_name("“車”");
-28198|<O>| set_name("玄天履");
-28199|<O>| set_name("宣明袍");
-28200|<O>| set_name("玄武剑");
-28201|<O>| set_name("小月兔");
-28202|<O>| set_name("蜘蛛精");
-28203|<O>| set_name("有三巧");
-28204|<O>| set_name("炽纹履");
-28205|<O>| set_name("铜矿石");
-28206|<O>| // 函数:获取物理防御(基值)
-28207|<O>| set_name("军教头");
-28208|<O>| set_name("飞行符");
-28209|<O>| set_name("联盟函");
-28210|<O>| set_name("请战书");
-28211|<O>| set_name("锁魔链");
-28212|<O>| set_name("狂龙履");
-28213|<O>| set_name("粗布帽");
-28214|<O>| set_name("倾露冠");
-28215|<O>| set_name("玄木剑");
-28216|<O>| set_name("小铜片");
-28217|<O>| set_name("百宝囊");
-28218|<O>| set_name("彻云履");
-28219|<O>| // 函数:获取法术防御(基值)
-28220|<O>| set_name("罐中仙");
-28221|<O>| set_name("荧光鞋");
-28222|<O>| set_name("细棉帽");
-28223|<O>| set_name("古甲裙");
-28224|<O>| set_name("牛头怪");
-28225|<O>| set_name("有三件");
-28226|<O>| set_name("金丝帽");
-28227|<O>| set_name("马大龙");
-28228|<O>| set_name("玉兰石");
-28229|<O>| set_name("苍昆裙");
-28230|<O>| set_name("残阳冠");
+﻿28080|<O>| set_name("Ngân Chìa Khoá");
+28081|<O>| set_name("Hàn Tinh Hài");
+28082|<O>| set_name("Linh Lộc Giác");
+28083|<O>| set_name("Tàng Bảo Đồ");
+28084|<O>| set_name("Trọng Linh Thương");
+28085|<O>| set_name("Thẻ Kim Tinh");
+28086|<O>| set_name("Ngô Tam Quế");
+28087|<O>| set_name("Phu Tử Phục");
+28088|<O>| case 110://Đào bảo tổng động viên
+28089|<O>| set_name("Kỳ Lân Ngoa");
+28090|<O>| set_name("Phi Tiêu Khách");
+28091|<O>| set_name("Linh Lung Hài");
+28092|<O>| set_name("Gãi Ngứa");
+28093|<O>| set_name("Thu Thuỷ Bào");
+28094|<O>| set_name("Thư Tự Cựu");
+28095|<O>| set_name("Bọ Ngựa Yêu");
+28096|<O>| set_name("Hồi Môn Phù");
+28097|<O>| set_name("Khoai Lang Nướng");
+28098|<O>| set_name("Hồn Sương Bào");
+28099|<O>| set_name("Thần Hành Bào");
+28100|<O>| set_name("Phiên Hồng Hoa");
+28101|<O>| set_name("Đồng Tâm Toả");
+28102|<O>| set_name("Bích Long Y");
+28103|<O>| set_name("Chiến Thiên Quán");
+28104|<O>| set_name("Thuỷ Tinh Thạch");
+28105|<O>| set_name("Cản Nhật Bào");
+28106|<O>| set_name("Cuồng Long Hài");
+28107|<O>| set_name("Phượng Thiên Mạo");
+28108|<O>| set_name("Phúc Oa Oa");
+28109|<O>| set_name("Tinh Thiết Sáo");
+28110|<O>| set_name("Thiên Xu Thương");
+28111|<O>| set_name("Tử Dương Kiếm");
+28112|<O>| // Hàm: Nhiệm vụ xây dựng (nhận vật phẩm)
+28113|<O>| //	Callback: Xử lý thưởng sau khi thắng trận
+28114|<O>| set_name("Tả Khâu Minh");
+28115|<O>| set_name("Lam Đoạn Mạo");
+28116|<O>| set_name("Tử Hồn Kiếm");
+28117|<O>| case 3:					//Thu hồi
+28118|<O>| set_name("Phi Báo Quán");
+28119|<O>| // Hàm: Thiết lập phòng thủ pháp thuật (giá trị cơ sở)
+28120|<O>| set_name("Thanh Long Y");
+28121|<O>| set_name("Thẻ Đao Hồn");
+28122|<O>| set_name("Côn Ngô Đao");
+28123|<O>| set_name("Thanh Liễu Giáp");
+28124|<O>| set_name("Trảm Hầu Hài");
+28125|<O>| set_name("Tiểu Tinh Quái");
+28126|<O>| set_name("Thẻ Sài Cẩu");
+28127|<O>| set_name("Thẻ Thổ Phỉ");
+28128|<O>| set_name("Nhân Khí Vương");
+28129|<O>| set_name("Vân Vụ Trà");
+28130|<O>| "Kim Bổng" : "\"22\"",
+28131|<O>| set_name("Tế Ma Hài");
+28132|<O>| set_name("Tiểu Nê Nhân");
+28133|<O>| set_name("Du Thái Tử");
+28134|<O>| set_name("Hữu Tam Sắc");
+28135|<O>| set_name("Khoai Lang Nướng");
+28136|<O>| set_name("Kim Càn Kiếm");
+28137|<O>| set_name("Cuồng Long Quán");
+28138|<O>| set_name("Tế Miên Y");
+28139|<O>| set_name("Ô Cương Kiếm");
+28140|<O>| set_name("Phiên Vân Lý");
+28141|<O>| set_name("Hắc Ngọc Thạch");
+28142|<O>| set_name("Thanh Tâm Đan");
+28143|<O>| return "Một loại nông sản";
+28144|<O>| set_name("Thần Hành Lý");
+28145|<O>| set_name("Thừa Ảnh Kiếm");
+28146|<O>| set_name("Ếch Đốm");
+28147|<O>| set_name("Xích Luyện Đao");
+28148|<O>| set_name("Kim Hạng Liên");
+28149|<O>| set_name("Phi Vũ Hài");
+28150|<O>| set_name("Chiến Thần Mạo");
+28151|<O>| set_name("Sa Trường Mạo");
+28152|<O>| case 7://Đổi bánh Trung Thu (sau)
+28153|<O>| set_name("Đàn Mộc Kiếm");
+28154|<O>| set_name("Trà Phổ Nhĩ");
+28155|<O>| set_name("Câu Liêm Thương");
+28156|<O>| set_name("Kỳ Mộc Lý");
+28157|<O>| //Giết một kẻ địch cộng 20000 khí huyết
+28158|<O>| set_name("Tiểu Ngoan Đản");
+28159|<O>| set_name("Tật Lê Độc");
+28160|<O>| set_name("Ám Tinh Thạch");
+28161|<O>| set_name("Lưu Đại Thúc");
+28162|<O>| set_name("Lý Tiểu Mao");
+28163|<O>| set_name("Thẻ Cường Đạo");
+28164|<O>| ({"Quýt","Chủ khách sạn"}),
+28165|<O>| set_name("Tiểu Huyết Thạch");
+28166|<O>| set_name("Vũ Thiên Lý");
+28167|<O>| set_name("Địa Khôn Y");
+28168|<O>| set_name("Hiệp Sĩ Trang");
+28169|<O>| set_name("Bì Cách Ngoa");
+28170|<O>| set_name("Hàn Thiết Quản");
+28171|<O>| set_name("Thanh Liễu Hài");
+28172|<O>| set_name("Thẻ Thần Tướng");
+28173|<O>| set_name("Hổ Đầu Bào");
+28174|<O>| set_name("Hắc Kỳ Tử");
+28175|<O>| set_name("Táng Mệnh Tán");
+28176|<O>| // Hàm: Tăng thêm điểm trúng độc (ám khí)
+28177|<O>| set_name("Thư Khuyến Giản");
+28178|<O>| "Đường" : "\"224\"",
+28179|<O>| set_name("Đỗ Khang Tửu");
+28180|<O>| set_name("Nghiêm Thế Phiên");
+28181|<O>| //	Lấy hàm thực thi khi đối thủ chết
+28182|<O>| set_name("Phi Long Lý");
+28183|<O>| // Hàm: Lấy kích thước dữ liệu NPC
+28184|<O>| set_name("Miên Bố Mạo");
+28185|<O>| set_name("Thần Hành Quán");
+28186|<O>| set_name("Ngọc Bồ Đề");
+28187|<O>| set_name("Quyền Pháp Sư");
+28188|<O>| set_name("Ti Trù Khôi");
+28189|<O>| set_name("Vô Trần Hài");
+28190|<O>| set_name("Tinh Thiết Bổng");
+28191|<O>| set_name("Phong Lôi Lý");
+28192|<O>| set_name("Thanh Vân Quần");
+28193|<O>| set_name("Thanh Trúc Côn");
+28194|<O>| "Rắn" : "\"188\"",
+28195|<O>| set_name("Đạp Vân Khôi");
+28196|<O>| set_name("Phá Giáp Châm");
+28197|<O>| set_name(""Xa"");
+28198|<O>| set_name("Huyền Thiên Lý");
+28199|<O>| set_name("Tuyên Minh Bào");
+28200|<O>| set_name("Huyền Vũ Kiếm");
+28201|<O>| set_name("Tiểu Nguyệt Thố");
+28202|<O>| set_name("Nhện Tinh");
+28203|<O>| set_name("Hữu Tam Xảo");
+28204|<O>| set_name("Xí Văn Lý");
+28205|<O>| set_name("Đồng Khoáng Thạch");
+28206|<O>| // Hàm: Lấy phòng thủ vật lý (giá trị cơ sở)
+28207|<O>| set_name("Quân Giáo Đầu");
+28208|<O>| set_name("Phi Hành Phù");
+28209|<O>| set_name("Liên Minh Hàm");
+28210|<O>| set_name("Thỉnh Chiến Thư");
+28211|<O>| set_name("Toả Ma Liên");
+28212|<O>| set_name("Cuồng Long Lý");
+28213|<O>| set_name("Thô Bố Mạo");
+28214|<O>| set_name("Khuynh Lộ Quán");
+28215|<O>| set_name("Huyền Mộc Kiếm");
+28216|<O>| set_name("Tiểu Đồng Phiến");
+28217|<O>| set_name("Bách Bảo Nang");
+28218|<O>| set_name("Triệt Vân Lý");
+28219|<O>| // Hàm: Lấy phòng thủ pháp thuật (giá trị cơ sở)
+28220|<O>| set_name("Quán Trung Tiên");
+28221|<O>| set_name("Huỳnh Quang Hài");
+28222|<O>| set_name("Tế Miên Mạo");
+28223|<O>| set_name("Cổ Giáp Quần");
+28224|<O>| set_name("Ngưu Đầu Quái");
+28225|<O>| set_name("Hữu Tam Kiện");
+28226|<O>| set_name("Kim Ti Mạo");
+28227|<O>| set_name("Mã Đại Long");
+28228|<O>| set_name("Ngọc Lan Thạch");
+28229|<O>| set_name("Thương Côn Quần");
+28230|<O>| set_name("Tàn Dương Quán");
