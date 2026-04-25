@@ -1,117 +1,117 @@
-﻿20582|<O>| ESC "封闭公众频道。\n" + cmd1 +
-20583|<O>| Value: -1  不能 sell, pawn
-20584|<O>| return "任务物品。放贵重物品的箱子。";
-20585|<O>| set_no_sell(1);		//	不可出售
-20586|<O>| return "给武器永久赋予10法攻的能力";
-20587|<O>| return "永久增加 20 点物理防御力";
-20588|<O>| return "［装备合成材料］降低装备条件";
-20589|<O>| "双刀骷髅" : "在万人坑可以捉到双刀骷髅",
-20590|<O>| return "任务物品。通身碧绿的球状物。";
-20591|<O>| return "道家做法用的法器，作出售品用";
-20592|<O>| me->set_fam_title("弟子");
-20593|<O>| ESC "领取征兵任务。\n" + cmd2 +
-20594|<O>| "玉盖" : "在九曲桥杀罐中仙可以得到玉盖",
-20595|<O>| return "任务物品。能用来换钱的野花。";
-20596|<O>| notify("你的等级不足于学习这样技能");
-20597|<O>| ESC "投票选举城主。\n" + cmd2 +
-20598|<O>| "铜甲尸" : "在灵谷洞一层可以捉到铜甲尸",
-20599|<O>| ESC "蜀山(基本)\n" + cmd20 +
-20600|<O>| return "神秘的金刀，似乎藏有某些秘密";
-20601|<O>| ESC "管理所有频道。\n" + cmd1 +
-20602|<O>| ESC "离开\nCLOSE\n", p1));
-20603|<O>| return "刷败类时增加百分之五十的经验";
-20604|<O>| return "任务物品。传说中的一面宝镜。";
-20605|<O>| "珠串" : "在无定河畔杀幽灵可以得到珠串",
-20606|<O>| else if (rate < 1000)//钱
-20607|<O>| ESC "帮派安全保护。\n" + cmd5 +
-20608|<O>| return "一种废弃的皮制品，作出售品用";
-20609|<O>| return "［宝石合成材料］降低装备条件";
-20610|<O>| ESC "唐门(基本)\n" + cmd40 +
-20611|<O>| return "永久增加 15 点法术攻击力";
-20612|<O>| use_bonus(player);//开始挖宝
-20613|<O>| ESC "查询本城属性。\n" + cmd1 +
-20614|<O>| //	判断一个时间整数是否在当前指定的时间范围内
-20615|<O>| notify("对方帮派成员数目已达上限。");
-20616|<O>| return "中药，炼丹生活技能所需的材料";
-20617|<O>| notify("封魔免疫状态下不能更换装备");
-20618|<O>| return "永久增加 150 点气血上限";
-20619|<O>| else if (rate < 650)//蓝装
-20620|<O>| notify("高级锻造石不需要进行合成。");
-20621|<O>| ESC "是的。\nlearn x %x#\n"
-20622|<O>| set_picid_1(1016);//未确定。
-20623|<O>| return "任务物品。一种朱红色的晶石。";
-20624|<O>| "赵国弓兵" : "在赵长城可以捉到赵国弓兵",
-20625|<O>| return "任务物品。天子所把玩的玉珠。";
-20626|<O>| notify("你已完成了帮派经商的任务。");
-20627|<O>| "石虎" : "在将军古墓二层可以杀到石虎 ",
-20628|<O>| _DEBUG("DEBUG -- 关闭活动");
-20629|<O>| if( i < 3000 )    //麻布包裹
-20630|<O>| ESC "申请创立帮派。\n" + cmd1 +
-20631|<O>| else if (rate < 900)//蓝装
-20632|<O>| return "任务物品。机关密图中部碎片。";
-20633|<O>| "毒刺蜂" : "在沼泽边缘可以杀到毒刺蜂 ",
-20634|<O>| "巡城小兵" : "在巨鹿可以杀到巡城小兵 ",
-20635|<O>| notify("您死了，谣言频道已被禁止。");
-20636|<O>| ESC "茅山(基本)\n" + cmd50 +
-20637|<O>| return "装置在武器上，提高1%爆击率";
-20638|<O>| return "闪闪发光的小石头，作出售品用";
-20639|<O>| return "［装备合成材料］增加法术攻击";
-20640|<O>| return "一种废弃的布制品，作出售品用";
-20641|<O>| DEBUG("测试-->无任何称谓玩家上线");
-20642|<O>| if (p < 4260)		// 机关中间产品
-20643|<O>| _DEBUG("DEBUG -- 开启活动");
-20644|<O>| case 12: // 4. 七夕天赐奇缘（3）
-20645|<O>| ESC "查询本城情况。\n" + cmd1 +
-20646|<O>| // 因为怪物攻击超过100，战争消失，自行检测
-20647|<O>| return "水稻秸杆的一部分，作出售品用";
-20648|<O>| ESC "封闭谣言频道。\n" + cmd2 +
-20649|<O>| tmp = ESC "做粽子\n" + cmd;
-20650|<O>| return "古墓探险活动处于正常开启状态";
-20651|<O>| ESC "查询外交状况。\n" + cmd2 +
-20652|<O>| return "一小时内可获得双倍经验奖励。";
-20653|<O>| ESC "参加城内巡逻。\n" + cmd1 +
-20654|<O>| return "［宝石合成材料］增加法术防御";
-20655|<O>| npc->set_name("帮派捣乱份子");
-20656|<O>| else if (rate < 100)//蓝装
-20657|<O>| "石狮" : "在将军古墓一层可以杀到石狮 ",
-20658|<O>| if (p < 5110)		// 机关中间产品
-20659|<O>| ESC "副城主的事情。\n" + cmd3 +
-20660|<O>| set_real_name("裁缝1~29");
-20661|<O>| notify("一次只能使用一个鲁班宝石！");
-20662|<O>| ESC "学习技能\nlearn ? %s\n"
-20663|<O>| if (exp1 == 0)	//不能增加经验了
-20664|<O>| else if (rate < 850)//白装
-20665|<O>| return "［宝石合成材料］增加法术攻击";
-20666|<O>| return "助玩家追踪任务目标的神奇公文";
-20667|<O>| return "从怪物尾部抽取的绒毛绣制而成";
-20668|<O>| return "装置在武器上，提高2%爆击率";
-20669|<O>| ESC "制定外交策略。\n" + cmd2 +
-20670|<O>| "骷髅妖":"在将军古墓三层可以杀到骷髅妖 ",
-20671|<O>| notify("眩晕免疫状态下不能更换装备");
-20672|<O>| // 函数:获取出招公式值(用于 /skill)
-20673|<O>| ESC "是的。\nlearn @ %x#\n"
-20674|<O>| buf += ESC"离开\nclose\n";
-20675|<O>| else if (rate < 370)//白装
-20676|<O>| ESC "查询税率状况。\n" + cmd3 +
-20677|<O>| else if (rate < 700)//金装
-20678|<O>| cTmp += nTmp[i] + "帮会、";
-20679|<O>| return "神秘的拳刃，似乎藏有某些秘密";
-20680|<O>| ESC"离开", me->get_name())
-20681|<O>| else if (rate < 26)	//血石
-20682|<O>| notify("您的权限不足于邀请NPC。");
-20683|<O>| //在交还月兔的时候，更新月兔的数量记录排行榜。
-20684|<O>| _DEBUG("杀死了一个敌人，现在在加血");
-20685|<O>| _DEBUG("DEBUG -- 关闭闹钟");
-20686|<O>| "绿臂螳螂" : "在桃花源可以捉到绿臂螳螂",
-20687|<O>| //	do_next_stage 的在线更新函数
-20688|<O>| return "永久增加 200 点法力上限";
-20689|<O>| if (dy > 0) return "北方";
-20690|<O>| "秦国枪兵" : "在秦长城可以捉到秦国枪兵",
-20691|<O>| return "给鞋子永久赋予40法力的能力";
-20692|<O>| "刀盾骷髅" : "在万人坑可以捉到刀盾骷髅",
-20693|<O>| case 9 : // 3. 七夕天赐奇缘（2）
-20694|<O>| time = sec / 5;	// 第几拨怪物
-20695|<O>| // 函数:获取气血比例(不显示血条，超过50)
-20696|<O>| return "永久增加 16 点物理攻击力";
-20697|<O>| 作者:由cjxx 创建用来配合活动“惊天大爆装”
-20698|<O>| set_real_name("铁匠1~20");
+﻿20582|<O>| ESC "Đóng kênh công cộng.\n" + cmd1 +
+20583|<O>| Value: -1  không thể sell, pawn
+20584|<O>| return "Vật phẩm nhiệm vụ. Hộp đựng vật phẩm quý giá.";
+20585|<O>| set_no_sell(1);		//	Không thể bán
+20586|<O>| return "Vĩnh viễn phú cho vũ khí khả năng 10 pháp công";
+20587|<O>| return "Vĩnh viễn tăng 20 điểm phòng thủ vật lý";
+20588|<O>| return "［Nguyên liệu hợp thành trang bị］Giảm điều kiện trang bị";
+20589|<O>| "Song Đao Khô Lâu" : "Ở Vạn Nhân Khanh có thể bắt được Song Đao Khô Lâu",
+20590|<O>| return "Vật phẩm nhiệm vụ. Vật thể hình cầu xanh biếc toàn thân.";
+20591|<O>| return "Pháp khí đạo gia dùng khi làm phép, dùng làm vật bán";
+20592|<O>| me->set_fam_title("Đệ Tử");
+20593|<O>| ESC "Nhận nhiệm vụ trưng binh.\n" + cmd2 +
+20594|<O>| "Ngọc Cái" : "Ở Cửu Khúc Kiều giết Quán Trung Tiên có thể nhận được Ngọc Cái",
+20595|<O>| return "Vật phẩm nhiệm vụ. Hoa dại có thể đổi lấy tiền.";
+20596|<O>| notify("Cấp độ của bạn không đủ để học kỹ năng này");
+20597|<O>| ESC "Bỏ phiếu bầu Thành Chủ.\n" + cmd2 +
+20598|<O>| "Đồng Giáp Thi" : "Ở tầng một Linh Cốc Động có thể bắt được Đồng Giáp Thi",
+20599|<O>| ESC "Thục Sơn (cơ bản)\n" + cmd20 +
+20600|<O>| return "Kim đao thần bí, dường như ẩn chứa bí mật nào đó";
+20601|<O>| ESC "Quản lý tất cả kênh.\n" + cmd1 +
+20602|<O>| ESC "Rời đi\nCLOSE\n", p1));
+20603|<O>| return "Khi đánh loại thường tăng 50% kinh nghiệm";
+20604|<O>| return "Vật phẩm nhiệm vụ. Một tấm bảo kính trong truyền thuyết.";
+20605|<O>| "Châu Xuyến" : "Ở bờ Vô Định Hà giết U Linh có thể nhận được Châu Xuyến",
+20606|<O>| else if (rate < 1000)//Tiền
+20607|<O>| ESC "Bảo vệ an toàn bang phái.\n" + cmd5 +
+20608|<O>| return "Một loại sản phẩm da phế thải, dùng làm vật bán";
+20609|<O>| return "［Nguyên liệu hợp thành Bảo Thạch］Giảm điều kiện trang bị";
+20610|<O>| ESC "Đường Môn (cơ bản)\n" + cmd40 +
+20611|<O>| return "Vĩnh viễn tăng 15 điểm tấn công pháp thuật";
+20612|<O>| use_bonus(player);//Bắt đầu đào bảo
+20613|<O>| ESC "Truy vấn thuộc tính thành này.\n" + cmd1 +
+20614|<O>| //	Phán đoán một số nguyên thời gian có nằm trong phạm vi thời gian chỉ định hiện tại không
+20615|<O>| notify("Số lượng thành viên bang phái đối phương đã đạt giới hạn.");
+20616|<O>| return "Trung dược, nguyên liệu kỹ năng sinh hoạt Luyện Đan cần dùng";
+20617|<O>| notify("Trạng thái miễn dịch Phong Ma không thể thay đổi trang bị");
+20618|<O>| return "Vĩnh viễn tăng 150 điểm giới hạn khí huyết";
+20619|<O>| else if (rate < 650)//Lam Trang
+20620|<O>| notify("Đoạn tạo thạch cao cấp không cần hợp thành.");
+20621|<O>| ESC "Đúng vậy.\nlearn x %x#\n"
+20622|<O>| set_picid_1(1016);//Chưa xác định.
+20623|<O>| return "Vật phẩm nhiệm vụ. Một loại tinh thạch màu đỏ chu sa.";
+20624|<O>| "Triệu Quốc Cung Binh" : "Ở Triệu Trường Thành có thể bắt được Triệu Quốc Cung Binh",
+20625|<O>| return "Vật phẩm nhiệm vụ. Ngọc châu thiên tử thường chơi.";
+20626|<O>| notify("Bạn đã hoàn thành nhiệm vụ kinh doanh bang phái.");
+20627|<O>| "Thạch Hổ" : "Ở tầng hai Tướng Quân Cổ Mộ có thể giết được Thạch Hổ ",
+20628|<O>| _DEBUG("DEBUG -- Đóng hoạt động");
+20629|<O>| if( i < 3000 )    //Ma Bố Bao Quả
+20630|<O>| ESC "Đề nghị sáng lập bang phái.\n" + cmd1 +
+20631|<O>| else if (rate < 900)//Lam Trang
+20632|<O>| return "Vật phẩm nhiệm vụ. Mảnh giữa mật đồ Cơ Quan.";
+20633|<O>| "Độc Thích Phong" : "Ở rìa đầm lầy có thể giết được Độc Thích Phong ",
+20634|<O>| "Tuần Thành Tiểu Binh" : "Ở Cự Lộc có thể giết được Tuần Thành Tiểu Binh ",
+20635|<O>| notify("Bạn đã chết, kênh tin đồn đã bị cấm.");
+20636|<O>| ESC "Mao Sơn (cơ bản)\n" + cmd50 +
+20637|<O>| return "Lắp đặt trên vũ khí, tăng 1% tỷ lệ bạo kích";
+20638|<O>| return "Hòn đá nhỏ lấp lánh, dùng làm vật bán";
+20639|<O>| return "［Nguyên liệu hợp thành trang bị］Tăng tấn công pháp thuật";
+20640|<O>| return "Một loại sản phẩm vải phế thải, dùng làm vật bán";
+20641|<O>| DEBUG("Kiểm tra-->Người chơi không có danh hiệu lên mạng");
+20642|<O>| if (p < 4260)		// Sản phẩm trung gian Cơ Quan
+20643|<O>| _DEBUG("DEBUG -- Mở hoạt động");
+20644|<O>| case 12: // 4. Thất Tịch Thiên Tứ Kỳ Duyên (3)
+20645|<O>| ESC "Truy vấn tình hình thành này.\n" + cmd1 +
+20646|<O>| // Vì quái vật tấn công vượt quá 100, chiến tranh biến mất, tự kiểm tra
+20647|<O>| return "Một phần thân cây lúa nước, dùng làm vật bán";
+20648|<O>| ESC "Đóng kênh tin đồn.\n" + cmd2 +
+20649|<O>| tmp = ESC "Làm bánh tro\n" + cmd;
+20650|<O>| return "Hoạt động thám hiểm cổ mộ đang ở trạng thái mở bình thường";
+20651|<O>| ESC "Truy vấn tình hình ngoại giao.\n" + cmd2 +
+20652|<O>| return "Trong một giờ có thể nhận thưởng kinh nghiệm gấp đôi.";
+20653|<O>| ESC "Tham gia tuần tra trong thành.\n" + cmd1 +
+20654|<O>| return "［Nguyên liệu hợp thành Bảo Thạch］Tăng phòng thủ pháp thuật";
+20655|<O>| npc->set_name("Phần tử quấy rối bang phái");
+20656|<O>| else if (rate < 100)//Lam Trang
+20657|<O>| "Thạch Sư" : "Ở tầng một Tướng Quân Cổ Mộ có thể giết được Thạch Sư ",
+20658|<O>| if (p < 5110)		// Sản phẩm trung gian Cơ Quan
+20659|<O>| ESC "Công việc của Phó Thành Chủ.\n" + cmd3 +
+20660|<O>| set_real_name("Thợ may 1~29");
+20661|<O>| notify("Một lần chỉ có thể sử dụng một Lỗ Ban Bảo Thạch!");
+20662|<O>| ESC "Học kỹ năng\nlearn ? %s\n"
+20663|<O>| if (exp1 == 0)	//Không thể tăng kinh nghiệm nữa
+20664|<O>| else if (rate < 850)//Bạch Trang
+20665|<O>| return "［Nguyên liệu hợp thành Bảo Thạch］Tăng tấn công pháp thuật";
+20666|<O>| return "Công văn thần kỳ giúp người chơi truy tìm mục tiêu nhiệm vụ";
+20667|<O>| return "Lông tơ rút từ đuôi quái vật thêu dệt mà thành";
+20668|<O>| return "Lắp đặt trên vũ khí, tăng 2% tỷ lệ bạo kích";
+20669|<O>| ESC "Chế định sách lược ngoại giao.\n" + cmd2 +
+20670|<O>| "Khô Lâu Yêu":"Ở tầng ba Tướng Quân Cổ Mộ có thể giết được Khô Lâu Yêu ",
+20671|<O>| notify("Trạng thái miễn dịch huyễn vựng không thể thay đổi trang bị");
+20672|<O>| // Hàm: Lấy giá trị công thức xuất chiêu (dùng cho /skill)
+20673|<O>| ESC "Đúng vậy.\nlearn @ %x#\n"
+20674|<O>| buf += ESC"Rời đi\nclose\n";
+20675|<O>| else if (rate < 370)//Bạch Trang
+20676|<O>| ESC "Truy vấn tình hình thuế suất.\n" + cmd3 +
+20677|<O>| else if (rate < 700)//Kim Trang
+20678|<O>| cTmp += nTmp[i] + "Bang hội,";
+20679|<O>| return "Quyền nhẫn thần bí, dường như ẩn chứa bí mật nào đó";
+20680|<O>| ESC"Rời đi", me->get_name())
+20681|<O>| else if (rate < 26)	//Huyết Thạch
+20682|<O>| notify("Quyền hạn của bạn không đủ để mời NPC.");
+20683|<O>| //Khi trả lại Nguyệt Thố, cập nhật bảng xếp hạng số lượng Nguyệt Thố.
+20684|<O>| _DEBUG("Giết chết một kẻ địch, đang hồi máu");
+20685|<O>| _DEBUG("DEBUG -- Tắt chuông báo");
+20686|<O>| "Lục Tý Đường Lang" : "Ở Đào Hoa Nguyên có thể bắt được Lục Tý Đường Lang",
+20687|<O>| //	Hàm cập nhật trực tuyến của do_next_stage
+20688|<O>| return "Vĩnh viễn tăng 200 điểm giới hạn pháp lực";
+20689|<O>| if (dy > 0) return "Phương bắc";
+20690|<O>| "Tần Quốc Thương Binh" : "Ở Tần Trường Thành có thể bắt được Tần Quốc Thương Binh",
+20691|<O>| return "Vĩnh viễn phú cho giày khả năng 40 pháp lực";
+20692|<O>| "Đao Thuẫn Khô Lâu" : "Ở Vạn Nhân Khanh có thể bắt được Đao Thuẫn Khô Lâu",
+20693|<O>| case 9 : // 3. Thất Tịch Thiên Tứ Kỳ Duyên (2)
+20694|<O>| time = sec / 5;	// Đợt quái vật thứ mấy
+20695|<O>| // Hàm: Lấy tỷ lệ khí huyết (không hiển thị thanh máu, vượt quá 50)
+20696|<O>| return "Vĩnh viễn tăng 16 điểm tấn công vật lý";
+20697|<O>| Tác giả: Do cjxx tạo dùng để phối hợp hoạt động "Kinh Thiên Đại Bạo Trang"
+20698|<O>| set_real_name("Thiết Tượng 1~20");

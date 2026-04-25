@@ -1,110 +1,110 @@
-﻿20134|<O>| return "给帽子或腰带赋予100法防的能力";
-20135|<O>| tmp = ESC "教训小偷\n" + cmd3;
-20136|<O>| // 自动生成:/make/item/make38a
-20137|<O>| tmp = ESC "追捕窃贼\n" + cmd3;
-20138|<O>| // 自动生成:/make/npc/make8014
-20139|<O>| "梨" : "\"/item/32/3284\"",
-20140|<O>| // 自动生成:/make/npc/make8019
-20141|<O>| "大钳子" : "在东海渔村杀虾兵可以得到大钳子",
-20142|<O>| tell_user(me, "无法生成这种道具");
-20143|<O>| _DEBUG("DEBUG -- 成功开启活动");
-20144|<O>| // 自动生成:/make/item/make37a
-20145|<O>| // 自动生成:/make/npc/make0002
-20146|<O>| if(power["tudi"]>0)//名师表更新
-20147|<O>| return "任务物品。有避寒之用的一种宝物。";
-20148|<O>| // 自动生成:/make/npc/make0010
-20149|<O>| else if (rate < 90)	//绿豆汤5
-20150|<O>| "守阵神将" : "在天门阵一层可以捉到守阵神将",
-20151|<O>| // 自动生成:/make/item/make89a
-20152|<O>| set("lasting", 1);	// 永久可用
-20153|<O>| "竽" : "\"/item/36/3608\"",
-20154|<O>| "骸骨精" : "在将军古墓三层可以杀到骸骨精 ",
-20155|<O>| notify("您输入的不是同队伍玩家的ID。");
-20156|<O>| // minister of finance 财政官
-20157|<O>| return "据说可自行飞动的扇子，作出售品用";
-20158|<O>| return "任务物品。一种用竹子做成的玩具。";
-20159|<O>| ESC"离开", me->get_name()));
-20160|<O>| ESC "查看频道封闭情况。\n" + cmd3 +
-20161|<O>| int tool_level;					//工具等级
-20162|<O>| // 自动生成:/make/npc/make8004
-20163|<O>| ESC "我想使用当铺\npawn %x# 1\n"
-20164|<O>| return "任务物品。一种受大众欢迎的茶叶。";
-20165|<O>| return "任务物品。孙老头托守卫买的锄头。";
-20166|<O>| else if (p < 60)	//高法防低物防型
-20167|<O>| result = "你的装备很普通没什么特别的。";
-20168|<O>| notify("对方的物品太多，请其腾出位置！");
-20169|<O>| result = "请选择镖王争霸战的操作:\n";
-20170|<O>| return "任务物品。一种含水分丰富的蔬菜。";
-20171|<O>| result+=sprintf(ESC "离开");
-20172|<O>| "守阵天兵" : "在天门阵一层可以捉到守阵天兵",
-20173|<O>| 07-06-27  18:46 调试完成时间控制框架
-20174|<O>| else if ( i == 29 )	//是否完成
-20175|<O>| // 触发点: add_hp(negative) 时
-20176|<O>| notify("您的工具耐久度不足，无法使用。");
-20177|<O>| ESC "投降。(0 体力)\n" + cmd6 +
-20178|<O>| ESC "查看频道封闭情况。\n" + cmd5 +
-20179|<O>| // 自动生成:/make/npc/make0007
-20180|<O>| notify("“%s”不合规范。", name);
-20181|<O>| // 自动生成:/make/npc/make8018
-20182|<O>| else if (p < 70)	//长血型:拳脚类
-20183|<O>| notify( "您死了，公众频道已被禁止。" );
-20184|<O>| return "任务物品。挖壕沟所需的一种工具。";
-20185|<O>| // 自动生成:/make/npc/make8006
-20186|<O>| else if (p < 40)	//高物防低法防型
-20187|<O>| // 自动生成:/make/npc/make8088
-20188|<O>| if ( iGen != 1 )	//没生成的就生成
-20189|<O>| return "任务物品。赵姬送给吕不韦的礼物。";
-20190|<O>| int reset_time;					//刷新时间
-20191|<O>| tmp = ESC "诡异的飞贼\n" + cmd;
-20192|<O>| result = "请选择皇城守卫战的操作:\n";
-20193|<O>| return "一种没有用途的陶制品，作出售品用";
-20194|<O>| me->log_money("捡", total);
-20195|<O>| return "任务物品。一种有特殊功效的药材。";
-20196|<O>| if( i < 100 )    // 10000金
-20197|<O>| "燕国剑盾兵" : "在燕长城可以捉到燕国剑盾兵",
-20198|<O>| "燕国刀盾兵" :	"在燕长城可以捉到燕国刀盾兵",
-20199|<O>| // 自动生成:/make/item/make34b
-20200|<O>| "水贼头巾" : "在赤壁杀水贼可以得到水贼头巾",
-20201|<O>| // 自动生成:/make/item/make98c
-20202|<O>| case "sale2":		// 确认提交寄售点卡
-20203|<O>| "长寿石" : "在九曲桥杀龟仙人可以得到长寿石",
-20204|<O>| else if (rate < 16)	//战国号角
-20205|<O>| me->log_money("农夫", gold);
-20206|<O>| return "一小时内增加气血上限200点\n";
-20207|<O>| printf(ECHO "您无法偷窃这样东西。");
-20208|<O>| return "［装备合成材料］增加毒免疫百分比";
-20209|<O>| return "任务物品。宝石商想要储备的商品。";
-20210|<O>| result = "请选择端午节活动的操作:\n";
-20211|<O>| // 自动生成:/make/npc/make8001
-20212|<O>| HaveBag = flag;    // 提前更新
-20213|<O>| // 自动生成:/make/item/make34a
-20214|<O>| return "［装备合成材料］增加抗毒性百分比";
-20215|<O>| return "任务物品。一种能生肌止血的药材。";
-20216|<O>| me->log_money("农夫", 1000);
-20217|<O>| // 自动生成:/make/item/make32b
-20218|<O>| //	重新设置系统时钟状态，并计算下次回调时间等标志
-20219|<O>| // 自动生成:/make/item/make98a
-20220|<O>| int OrgContrib;				// 帮派贡献
-20221|<O>| return "任务物品。红色的像火焰的小石头。";
-20222|<O>| ESC "ＧＭ等级。(gm)\n" + cmd2 +
-20223|<O>| // 自动生成:/make/item/make31c
-20224|<O>| // 自动生成:/make/item/make32a
-20225|<O>| if (time % 30 == 0)		//3分钟
-20226|<O>| tmp = ESC "物品采购\n" + cmd3;
-20227|<O>| return "［药师］采集制作药剂的原料。\n";
-20228|<O>| return "一小时内增加 12% 法术防御力";
-20229|<O>| "狗皮药膏" : "在桂陵杀草寇可以得到狗皮膏药",
-20230|<O>| "赵国刀盾兵" : "在赵长城可以捉到赵国刀盾兵",
-20231|<O>| // 自动生成:/make/npc/make8020
-20232|<O>| notify("级别不同的锻造石无法进行合成。");
-20233|<O>| return "轻的毛状类，颜色多彩，作出售品用";
-20234|<O>| result = "该装备不处于装备绑定的状态。";
-20235|<O>| return "［宝石合成材料］增加毒免疫百分比";
-20236|<O>| ESC "等待其他玩家救援。\nCLOSE\n");
-20237|<O>| else if (rate < 70)	//一口肉5
-20238|<O>| // 自动生成:/make/item/make89b
-20239|<O>| // 自动生成:/make/npc/make8084
-20240|<O>| "赵国剑盾兵" : "在赵长城可以捉到赵国剑盾兵",
-20241|<O>| // 自动生成:/make/item/make31b
-20242|<O>| int TargetX, TargetY;	//终点
-20243|<O>| ESC"继续\ndesc tiger_next\n"
+﻿20134|<O>| return "Phú cho mũ hoặc đai lưng khả năng 100 phòng thủ pháp thuật";
+20135|<O>| tmp = ESC "Dạy dỗ kẻ trộm\n" + cmd3;
+20136|<O>| // Tự động tạo:/make/item/make38a
+20137|<O>| tmp = ESC "Truy bắt thiết tặc\n" + cmd3;
+20138|<O>| // Tự động tạo:/make/npc/make8014
+20139|<O>| "Lê" : "\"/item/32/3284\"",
+20140|<O>| // Tự động tạo:/make/npc/make8019
+20141|<O>| "Đại Kiềm Tử" : "Ở Đông Hải Ngư Thôn giết Hà Binh có thể nhận được Đại Kiềm Tử",
+20142|<O>| tell_user(me, "Không thể tạo loại đạo cụ này");
+20143|<O>| _DEBUG("DEBUG -- Mở hoạt động thành công");
+20144|<O>| // Tự động tạo:/make/item/make37a
+20145|<O>| // Tự động tạo:/make/npc/make0002
+20146|<O>| if(power["tudi"]>0)//Cập nhật bảng danh sư
+20147|<O>| return "Vật phẩm nhiệm vụ. Một loại bảo vật có tác dụng tránh lạnh.";
+20148|<O>| // Tự động tạo:/make/npc/make0010
+20149|<O>| else if (rate < 90)	//Lục Đậu Thang 5
+20150|<O>| "Thủ Trận Thần Tướng" : "Ở tầng một Thiên Môn Trận có thể bắt được Thủ Trận Thần Tướng",
+20151|<O>| // Tự động tạo:/make/item/make89a
+20152|<O>| set("lasting", 1);	// Vĩnh viễn khả dụng
+20153|<O>| "Vu" : "\"/item/36/3608\"",
+20154|<O>| "Hài Cốt Tinh" : "Ở tầng ba Tướng Quân Cổ Mộ có thể giết được Hài Cốt Tinh ",
+20155|<O>| notify("ID bạn nhập không phải là người chơi cùng đội.");
+20156|<O>| // minister of finance Tài Chính Quan
+20157|<O>| return "Nghe nói là chiếc quạt có thể tự bay, dùng làm vật bán";
+20158|<O>| return "Vật phẩm nhiệm vụ. Một loại đồ chơi làm bằng tre.";
+20159|<O>| ESC"Rời đi", me->get_name()));
+20160|<O>| ESC "Xem tình trạng đóng kênh.\n" + cmd3 +
+20161|<O>| int tool_level;					//Cấp độ công cụ
+20162|<O>| // Tự động tạo:/make/npc/make8004
+20163|<O>| ESC "Tôi muốn sử dụng tiệm cầm đồ\npawn %x# 1\n"
+20164|<O>| return "Vật phẩm nhiệm vụ. Một loại trà được đại chúng yêu thích.";
+20165|<O>| return "Vật phẩm nhiệm vụ. Cuốc mà Tôn lão đầu nhờ thủ vệ mua.";
+20166|<O>| else if (p < 60)	//Loại pháp phòng cao, vật phòng thấp
+20167|<O>| result = "Trang bị của bạn rất bình thường, không có gì đặc biệt.";
+20168|<O>| notify("Vật phẩm đối phương quá nhiều, xin hãy dọn chỗ!");
+20169|<O>| result = "Xin chọn thao tác Tiêu Vương Tranh Bá Chiến:\n";
+20170|<O>| return "Vật phẩm nhiệm vụ. Một loại rau chứa nhiều nước.";
+20171|<O>| result+=sprintf(ESC "Rời đi");
+20172|<O>| "Thủ Trận Thiên Binh" : "Ở tầng một Thiên Môn Trận có thể bắt được Thủ Trận Thiên Binh",
+20173|<O>| 07-06-27  18:46 Gỡ lỗi hoàn thành khung điều khiển thời gian
+20174|<O>| else if ( i == 29 )	//Đã hoàn thành chưa
+20175|<O>| // Điểm kích hoạt: Khi add_hp(negative)
+20176|<O>| notify("Độ bền công cụ của bạn không đủ, không thể sử dụng.");
+20177|<O>| ESC "Đầu hàng. (0 thể lực)\n" + cmd6 +
+20178|<O>| ESC "Xem tình trạng đóng kênh.\n" + cmd5 +
+20179|<O>| // Tự động tạo:/make/npc/make0007
+20180|<O>| notify(""%s" không hợp quy phạm.", name);
+20181|<O>| // Tự động tạo:/make/npc/make8018
+20182|<O>| else if (p < 70)	//Loại nhiều máu: Quyền cước
+20183|<O>| notify( "Bạn đã chết, kênh công cộng đã bị cấm." );
+20184|<O>| return "Vật phẩm nhiệm vụ. Một loại dụng cụ cần thiết để đào hào.";
+20185|<O>| // Tự động tạo:/make/npc/make8006
+20186|<O>| else if (p < 40)	//Loại vật phòng cao, pháp phòng thấp
+20187|<O>| // Tự động tạo:/make/npc/make8088
+20188|<O>| if ( iGen != 1 )	//Chưa tạo thì tạo
+20189|<O>| return "Vật phẩm nhiệm vụ. Quà Triệu Cơ tặng Lã Bất Vi.";
+20190|<O>| int reset_time;					//Thời gian làm mới
+20191|<O>| tmp = ESC "Phi tặc quỷ dị\n" + cmd;
+20192|<O>| result = "Xin chọn thao tác Hoàng Thành Thủ Vệ Chiến:\n";
+20193|<O>| return "Một loại đồ gốm không có công dụng, dùng làm vật bán";
+20194|<O>| me->log_money("Nhặt", total);
+20195|<O>| return "Vật phẩm nhiệm vụ. Một loại dược liệu có công hiệu đặc biệt.";
+20196|<O>| if( i < 100 )    // 10000 vàng
+20197|<O>| "Yên Quốc Kiếm Thuẫn Binh" : "Ở Yên Trường Thành có thể bắt được Yên Quốc Kiếm Thuẫn Binh",
+20198|<O>| "Yên Quốc Đao Thuẫn Binh" :	"Ở Yên Trường Thành có thể bắt được Yên Quốc Đao Thuẫn Binh",
+20199|<O>| // Tự động tạo:/make/item/make34b
+20200|<O>| "Thuỷ Tặc Đầu Cân" : "Ở Xích Bích giết Thuỷ Tặc có thể nhận được Thuỷ Tặc Đầu Cân",
+20201|<O>| // Tự động tạo:/make/item/make98c
+20202|<O>| case "sale2":		// Xác nhận gửi bán thẻ điểm
+20203|<O>| "Trường Thọ Thạch" : "Ở Cửu Khúc Kiều giết Quy Tiên Nhân có thể nhận được Trường Thọ Thạch",
+20204|<O>| else if (rate < 16)	//Chiến Quốc Hiệu Giác
+20205|<O>| me->log_money("Nông Phu", gold);
+20206|<O>| return "Trong một giờ tăng giới hạn khí huyết 200 điểm\n";
+20207|<O>| printf(ECHO "Bạn không thể trộm vật này.");
+20208|<O>| return "［Nguyên liệu hợp thành trang bị］Tăng phần trăm miễn dịch độc";
+20209|<O>| return "Vật phẩm nhiệm vụ. Hàng hoá mà Bảo Thạch Thương muốn dự trữ.";
+20210|<O>| result = "Xin chọn thao tác hoạt động Đoan Ngọ Tiết:\n";
+20211|<O>| // Tự động tạo:/make/npc/make8001
+20212|<O>| HaveBag = flag;    // Cập nhật sớm
+20213|<O>| // Tự động tạo:/make/item/make34a
+20214|<O>| return "［Nguyên liệu hợp thành trang bị］Tăng phần trăm kháng độc tính";
+20215|<O>| return "Vật phẩm nhiệm vụ. Một loại dược liệu có thể sinh cơ cầm máu.";
+20216|<O>| me->log_money("Nông Phu", 1000);
+20217|<O>| // Tự động tạo:/make/item/make32b
+20218|<O>| //	Thiết lập lại trạng thái đồng hồ hệ thống và tính toán thời gian gọi lại tiếp theo
+20219|<O>| // Tự động tạo:/make/item/make98a
+20220|<O>| int OrgContrib;				// Cống hiến bang phái
+20221|<O>| return "Vật phẩm nhiệm vụ. Hòn đá nhỏ màu đỏ giống ngọn lửa.";
+20222|<O>| ESC "Cấp bậc GM. (gm)\n" + cmd2 +
+20223|<O>| // Tự động tạo:/make/item/make31c
+20224|<O>| // Tự động tạo:/make/item/make32a
+20225|<O>| if (time % 30 == 0)		//3 phút
+20226|<O>| tmp = ESC "Mua sắm vật phẩm\n" + cmd3;
+20227|<O>| return "［Dược Sư］Thu thập nguyên liệu chế tạo dược tễ.\n";
+20228|<O>| return "Trong một giờ tăng 12% lực phòng thủ pháp thuật";
+20229|<O>| "Cẩu Bì Dược Cao" : "Ở Quế Lăng giết Thảo Khấu có thể nhận được Cẩu Bì Cao Dược",
+20230|<O>| "Triệu Quốc Đao Thuẫn Binh" : "Ở Triệu Trường Thành có thể bắt được Triệu Quốc Đao Thuẫn Binh",
+20231|<O>| // Tự động tạo:/make/npc/make8020
+20232|<O>| notify("Đoạn tạo thạch cấp bậc khác nhau không thể hợp thành.");
+20233|<O>| return "Loại lông nhẹ, nhiều màu sắc, dùng làm vật bán";
+20234|<O>| result = "Trang bị này không ở trạng thái khoá trang bị.";
+20235|<O>| return "［Nguyên liệu hợp thành Bảo Thạch］Tăng phần trăm miễn dịch độc";
+20236|<O>| ESC "Chờ đợi người chơi khác cứu viện.\nCLOSE\n");
+20237|<O>| else if (rate < 70)	//Nhất Khẩu Nhục 5
+20238|<O>| // Tự động tạo:/make/item/make89b
+20239|<O>| // Tự động tạo:/make/npc/make8084
+20240|<O>| "Triệu Quốc Kiếm Thuẫn Binh" : "Ở Triệu Trường Thành có thể bắt được Triệu Quốc Kiếm Thuẫn Binh",
+20241|<O>| // Tự động tạo:/make/item/make31b
+20242|<O>| int TargetX, TargetY;	//Điểm đích
+20243|<O>| ESC"Tiếp tục\ndesc tiger_next\n"

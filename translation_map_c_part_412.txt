@@ -1,120 +1,120 @@
-﻿20817|<O>| else if ( i<80 )	//中间产品
-20818|<O>| 新手物品:战国宝典。详情见文档《战国宝典设定》
-20819|<O>| notify("锻造石类型不符，无法精炼");
-20820|<O>| result = "对方没有剧情任务。\n";
-20821|<O>| notify("您已经是本队伍的队长了。");
-20822|<O>| "豆兵" : "在灵谷洞二层可以杀到豆兵 ",
-20823|<O>| if (rate == 1)  //紫参丹3个
-20824|<O>| else if (cName == "蒙骜")
-20825|<O>| return "任务物品。赵王府的地形图。";
-20826|<O>| return "任务物品。一种耕种的工具。";
-20827|<O>| return "任务物品。一种冰冷的蚕丝。";
-20828|<O>| // 自用技能  TIPS:[PF_SELF]
-20829|<O>| return "给腰带赋予200血气的能力";
-20830|<O>| notify("你没有领取帮派经商任务。");
-20831|<O>| "花豹精" : "在白云峰可以杀到花豹精 ",
-20832|<O>| ESC "禁卫军(棍)\n" + cmd6 +
-20833|<O>| ESC "禁卫军(枪)\n" + cmd5 +
-20834|<O>| //临时因为客户端不更新升级经验，所以加上这个
-20835|<O>| if( size > 1 )    // 多人
-20836|<O>| notify("您想给予的金钱数量不对。");
-20837|<O>| return "任务物品。一种金色的宝珠。";
-20838|<O>| return "不能使用的钢盔，作出售品用";
-20839|<O>| "褐尾蝎" : "在沼泽边缘可以捉到褐尾蝎",
-20840|<O>| return "任务物品。一种奇异的药材。";
-20841|<O>| // 自动生成:/make/equip/60b
-20842|<O>| ESC "兑换储备箱。\n" + cmd4 +
-20843|<O>| return "任务物品。官府库银的一类。";
-20844|<O>| "蛙蹼" : "在太湖杀癞蛤蟆可以得到蛙蹼",
-20845|<O>| set_name("装着坏小猴的神奇葫芦");
-20846|<O>| // 自动生成:/make/equip/86y
-20847|<O>| else if (p < 67) //6级晶石
-20848|<O>| "大笨熊" : "在玉柱峰可以杀到大笨熊 ",
-20849|<O>| notify( "您携带的东西太多了。" );
-20850|<O>| cTmp = "一只"HIR"可爱的兔娃娃";
-20851|<O>| "僵尸" : "在万人坑四层可以杀到僵尸 ",
-20852|<O>| // 自动生成:/make/equip/88z
-20853|<O>| else if (cName == "郭开")
-20854|<O>| "奶嘴" : "在马陵道杀飞贼可以得到奶嘴",
-20855|<O>| else if (cName == "王陵")
-20856|<O>| return "任务物品。一种罕见的草药。";
-20857|<O>| ESC "确认设置。\n" + cmd11);
-20858|<O>| else if (cName == "赵括")
-20859|<O>| notify("没有位置摆卖这只宠物了。");
-20860|<O>| result = "它长出了沉甸甸的果实。";
-20861|<O>| ESC "唐门/云梦泽\n" + cmd3 +
-20862|<O>| return "鱼的骨头呈齿状，作出售品用";
-20863|<O>| result = "帮派开始提升箭塔等级。";
-20864|<O>| total = 1;    // 只能一个个买
-20865|<O>| return "相互碰击能摩擦出火花的石头";
-20866|<O>| return "类似兔眼的化石，作出售品用";
-20867|<O>| notify("您想交易的金钱数量不对。");
-20868|<O>| notify("对方的帮派数据出问题了。");
-20869|<O>| return "给衣服赋予100物防的能力";
-20870|<O>| ({"鲤鱼腰带","韩国的饰品店老板",}),
-20871|<O>| set_item_color(3);	//紫色
-20872|<O>| notify("你没有接筹集资金的任务。");
-20873|<O>| 《真假虎王》活动配置NPC ---- 活动天使
-20874|<O>| return "任务物品。炼药的一种药单。";
-20875|<O>| return "任务物品。一种普通的线绳。";
-20876|<O>| me = this_object();//劫匪
-20877|<O>| return "一种特殊的纤维，作出售品用";
-20878|<O>| tell_user(me, "检查完毕。");
-20879|<O>| return "任务物品。一种白色的晶石。";
-20880|<O>| set_real_name("仓库管理员");
-20881|<O>| case "cancel":		// 取消寄售
-20882|<O>| result = "现有使命物品列表:\n";
-20883|<O>| ESC "调整采药技能\n" + cmd7 +
-20884|<O>| printf(ECHO "这里不能放毒。");
-20885|<O>| else if (cName == "乐乘")
-20886|<O>| notify("定的价格不能大于五千万。");
-20887|<O>| return "［装备合成材料］恢复耐久度";
-20888|<O>| else if (rate < 99)//金装
-20889|<O>| notify("您要将哪样东西变成金色？");
-20890|<O>| return "给腰带赋予100血气的能力";
-20891|<O>| "铜甲尸":"在灵谷洞一层可以杀到铜甲尸 ",
-20892|<O>| if ( type == 2 )	//冠军抽奖
-20893|<O>| // 程序:为 makenpc.c 准备杂物表
-20894|<O>| "邪灵" : "在困魔阵二层可以杀到邪灵 ",
-20895|<O>| if ( level == 1 )	//一等奖
-20896|<O>| return "可永久增加24格背包空间。";
-20897|<O>| case 2 : // 1. 失窃任务(物品)
-20898|<O>| ESC "什么都不做。\nCLOSE\n");
-20899|<O>| // 自动生成:/make/equip/88b
-20900|<O>| return "青蛙的后腿部分，作出售品用";
-20901|<O>| // 自动生成:/make/equip/86b
-20902|<O>| return ({"桔子","酒店老板"});
-20903|<O>| // 自动生成:/make/equip/86z
-20904|<O>| set_name("六道轮回(角色自杀)");
-20905|<O>| // 自动生成:/make/equip/88y
-20906|<O>| "牛头怪" : "在大别山脚可以捉到牛头怪",
-20907|<O>| // 隐含技能  TIPS:[PF_NONE]
-20908|<O>| else if (rate < 95)//蓝装
-20909|<O>| return "用碱泡好，制作粽子用的糯米";
-20910|<O>| return "持续1小时内变身圣诞罐妖。";
-20911|<O>| notify("请勿频繁使用VIP频道。");
-20912|<O>| else if (rate < 850)//钱
-20913|<O>| ESC "茅山/昆仑山\n" + cmd4 +
-20914|<O>| else if (cName == "冯亭")
-20915|<O>| case 11..21://子选项所对应的答案
-20916|<O>| "怨灵" : "在困魔阵二层可以杀到怨灵 ",
-20917|<O>| return "涂在武器上，使武器具有毒性";
-20918|<O>| set_family_name("桃花源");
-20919|<O>| "燕国枪兵": "在燕长城可以捉到燕国枪兵",
-20920|<O>| npc->set_name("首席大弟子");
-20921|<O>| //发送(10)/取消(11)vip标志给朋友
-20922|<O>| "疫鬼" : "在灵谷洞二层可以杀到疫鬼 ",
-20923|<O>| ESC"离开", me->get_name()
-20924|<O>| return "任务物品。生产工具的一种。";
-20925|<O>| set_name("装着坏大熊的神奇葫芦");
-20926|<O>| return "永动的装置，机关所需的零件";
-20927|<O>| "巡城小兵" : "在巨鹿可以捉到巡城小兵",
-20928|<O>| set("boxname", "师门宝箱");
-20929|<O>| else if (cName == "廉颇")
-20930|<O>| if (sec % 5 == 0)	//每5秒
-20931|<O>| "石狮" : "在将军古墓一层可以捉到石狮",
-20932|<O>| "恶灵" : "在灵谷洞二层可以杀到恶灵 ",
-20933|<O>| case 1://乐意帮忙，我想知道月兔在哪里
-20934|<O>| case 1 : // 2. 失窃任务(人物)
-20935|<O>| case "get":		// 拿回卖点卡的钱
-20936|<O>| 《真假虎王》活动配置NPC ---- 真假虎王
+﻿20817|<O>| else if ( i<80 )	//Sản phẩm trung gian
+20818|<O>| Vật phẩm tân thủ: Chiến Quốc Bảo Điển. Chi tiết xem tài liệu《Thiết Lập Chiến Quốc Bảo Điển》
+20819|<O>| notify("Loại đoạn tạo thạch không phù hợp, không thể tinh luyện");
+20820|<O>| result = "Đối phương không có nhiệm vụ kịch tình.\n";
+20821|<O>| notify("Bạn đã là đội trưởng của đội rồi.");
+20822|<O>| "Đậu Binh" : "Ở tầng hai Linh Cốc Động có thể giết được Đậu Binh ",
+20823|<O>| if (rate == 1)  //Tử Sâm Đan 3 cái
+20824|<O>| else if (cName == "Mông Ngao")
+20825|<O>| return "Vật phẩm nhiệm vụ. Địa hình đồ phủ Triệu Vương.";
+20826|<O>| return "Vật phẩm nhiệm vụ. Một loại công cụ canh tác.";
+20827|<O>| return "Vật phẩm nhiệm vụ. Một loại tơ tằm lạnh giá.";
+20828|<O>| // Kỹ năng tự dùng  TIPS:[PF_SELF]
+20829|<O>| return "Phú cho đai lưng khả năng 200 khí huyết";
+20830|<O>| notify("Bạn chưa nhận nhiệm vụ kinh doanh bang phái.");
+20831|<O>| "Hoa Báo Tinh" : "Ở Bạch Vân Phong có thể giết được Hoa Báo Tinh ",
+20832|<O>| ESC "Cấm Vệ Quân (côn)\n" + cmd6 +
+20833|<O>| ESC "Cấm Vệ Quân (thương)\n" + cmd5 +
+20834|<O>| //Tạm thời vì client không cập nhật kinh nghiệm thăng cấp nên thêm cái này
+20835|<O>| if( size > 1 )    // Nhiều người
+20836|<O>| notify("Số tiền bạn muốn tặng không đúng.");
+20837|<O>| return "Vật phẩm nhiệm vụ. Một loại bảo châu màu vàng kim.";
+20838|<O>| return "Cương khôi không thể sử dụng, dùng làm vật bán";
+20839|<O>| "Hạt Vĩ Hạt" : "Ở rìa đầm lầy có thể bắt được Hạt Vĩ Hạt",
+20840|<O>| return "Vật phẩm nhiệm vụ. Một loại dược liệu kỳ dị.";
+20841|<O>| // Tự động tạo:/make/equip/60b
+20842|<O>| ESC "Đổi hòm dự trữ.\n" + cmd4 +
+20843|<O>| return "Vật phẩm nhiệm vụ. Một loại kho bạc quan phủ.";
+20844|<O>| "Oa Bát" : "Ở Thái Hồ giết Lại Hà Mô có thể nhận được Oa Bát",
+20845|<O>| set_name("Hồ lô thần kỳ đựng tiểu hầu hư");
+20846|<O>| // Tự động tạo:/make/equip/86y
+20847|<O>| else if (p < 67) //Tinh thạch cấp 6
+20848|<O>| "Đại Bần Hùng" : "Ở Ngọc Trụ Phong có thể giết được Đại Bần Hùng ",
+20849|<O>| notify( "Bạn mang theo quá nhiều đồ." );
+20850|<O>| cTmp = "Một con "HIR"thỏ búp bê dễ thương";
+20851|<O>| "Cương Thi" : "Ở tầng bốn Vạn Nhân Khanh có thể giết được Cương Thi ",
+20852|<O>| // Tự động tạo:/make/equip/88z
+20853|<O>| else if (cName == "Quách Khai")
+20854|<O>| "Nãi Chủy" : "Ở Mã Lăng Đạo giết Phi Tặc có thể nhận được Nãi Chủy",
+20855|<O>| else if (cName == "Vương Lăng")
+20856|<O>| return "Vật phẩm nhiệm vụ. Một loại thảo dược hiếm gặp.";
+20857|<O>| ESC "Xác nhận thiết lập.\n" + cmd11);
+20858|<O>| else if (cName == "Triệu Quát")
+20859|<O>| notify("Không còn chỗ để bày bán thú cưng này.");
+20860|<O>| result = "Cây đã kết quả nặng trĩu.";
+20861|<O>| ESC "Đường Môn/Vân Mộng Trạch\n" + cmd3 +
+20862|<O>| return "Xương cá hình răng cưa, dùng làm vật bán";
+20863|<O>| result = "Bang phái bắt đầu nâng cấp tiễn tháp.";
+20864|<O>| total = 1;    // Chỉ có thể mua từng cái
+20865|<O>| return "Hòn đá có thể cọ xát tạo tia lửa";
+20866|<O>| return "Hoá thạch giống mắt thỏ, dùng làm vật bán";
+20867|<O>| notify("Số tiền bạn muốn giao dịch không đúng.");
+20868|<O>| notify("Dữ liệu bang phái đối phương có vấn đề.");
+20869|<O>| return "Phú cho áo khả năng 100 vật phòng";
+20870|<O>| ({"Lý Ngư Yêu Đái","Lão bản cửa hàng sức phẩm Hàn Quốc",}),
+20871|<O>| set_item_color(3);	//Tím
+20872|<O>| notify("Bạn chưa nhận nhiệm vụ quyên góp vốn.");
+20873|<O>| Cấu hình NPC hoạt động《Chân Giả Hổ Vương》---- Thiên Sứ Hoạt Động
+20874|<O>| return "Vật phẩm nhiệm vụ. Một loại đơn thuốc luyện dược.";
+20875|<O>| return "Vật phẩm nhiệm vụ. Một loại dây thừng thông thường.";
+20876|<O>| me = this_object();//Cướp
+20877|<O>| return "Một loại sợi đặc biệt, dùng làm vật bán";
+20878|<O>| tell_user(me, "Kiểm tra hoàn tất.");
+20879|<O>| return "Vật phẩm nhiệm vụ. Một loại tinh thạch màu trắng.";
+20880|<O>| set_real_name("Quản Lý Viên Kho");
+20881|<O>| case "cancel":		// Huỷ gửi bán
+20882|<O>| result = "Danh sách vật phẩm sứ mệnh hiện có:\n";
+20883|<O>| ESC "Điều chỉnh kỹ năng hái thuốc\n" + cmd7 +
+20884|<O>| printf(ECHO "Ở đây không thể hạ độc.");
+20885|<O>| else if (cName == "Nhạc Thừa")
+20886|<O>| notify("Giá đặt không được lớn hơn năm mươi triệu.");
+20887|<O>| return "［Nguyên liệu hợp thành trang bị］Phục hồi độ bền";
+20888|<O>| else if (rate < 99)//Kim Trang
+20889|<O>| notify("Bạn muốn biến vật nào thành màu vàng kim?");
+20890|<O>| return "Phú cho đai lưng khả năng 100 khí huyết";
+20891|<O>| "Đồng Giáp Thi":"Ở tầng một Linh Cốc Động có thể giết được Đồng Giáp Thi ",
+20892|<O>| if ( type == 2 )	//Rút thưởng vô địch
+20893|<O>| // Chương trình: Chuẩn bị bảng tạp vật cho makenpc.c
+20894|<O>| "Tà Linh" : "Ở tầng hai Khốn Ma Trận có thể giết được Tà Linh ",
+20895|<O>| if ( level == 1 )	//Giải nhất
+20896|<O>| return "Có thể vĩnh viễn tăng 24 ô ba lô.";
+20897|<O>| case 2 : // 1. Nhiệm vụ mất cắp (vật phẩm)
+20898|<O>| ESC "Không làm gì cả.\nCLOSE\n");
+20899|<O>| // Tự động tạo:/make/equip/88b
+20900|<O>| return "Chân sau của ếch, dùng làm vật bán";
+20901|<O>| // Tự động tạo:/make/equip/86b
+20902|<O>| return ({"Quất Tử","Lão bản quán rượu"});
+20903|<O>| // Tự động tạo:/make/equip/86z
+20904|<O>| set_name("Lục Đạo Luân Hồi (tự sát nhân vật)");
+20905|<O>| // Tự động tạo:/make/equip/88y
+20906|<O>| "Ngưu Đầu Quái" : "Ở chân Đại Biệt Sơn có thể bắt được Ngưu Đầu Quái",
+20907|<O>| // Kỹ năng ẩn  TIPS:[PF_NONE]
+20908|<O>| else if (rate < 95)//Lam Trang
+20909|<O>| return "Gạo nếp đã ngâm kiềm, dùng để làm bánh chưng";
+20910|<O>| return "Trong 1 giờ biến thân thành Quán Yêu Giáng Sinh.";
+20911|<O>| notify("Xin đừng sử dụng kênh VIP quá thường xuyên.");
+20912|<O>| else if (rate < 850)//Tiền
+20913|<O>| ESC "Mao Sơn/Côn Lôn Sơn\n" + cmd4 +
+20914|<O>| else if (cName == "Phùng Đình")
+20915|<O>| case 11..21://Đáp án tương ứng với tuỳ chọn con
+20916|<O>| "Oán Linh" : "Ở tầng hai Khốn Ma Trận có thể giết được Oán Linh ",
+20917|<O>| return "Bôi lên vũ khí, khiến vũ khí có tính độc";
+20918|<O>| set_family_name("Đào Hoa Nguyên");
+20919|<O>| "Yên Quốc Thương Binh": "Ở Yên Trường Thành có thể bắt được Yên Quốc Thương Binh",
+20920|<O>| npc->set_name("Thủ Tịch Đại Đệ Tử");
+20921|<O>| //Gửi (10)/huỷ (11) cờ VIP cho bạn bè
+20922|<O>| "Dịch Quỷ" : "Ở tầng hai Linh Cốc Động có thể giết được Dịch Quỷ ",
+20923|<O>| ESC"Rời đi", me->get_name()
+20924|<O>| return "Vật phẩm nhiệm vụ. Một loại công cụ sản xuất.";
+20925|<O>| set_name("Hồ lô thần kỳ đựng đại hùng hư");
+20926|<O>| return "Thiết bị vĩnh động, linh kiện Cơ Quan cần dùng";
+20927|<O>| "Tuần Thành Tiểu Binh" : "Ở Cự Lộc có thể bắt được Tuần Thành Tiểu Binh",
+20928|<O>| set("boxname", "Sư Môn Bảo Rương");
+20929|<O>| else if (cName == "Liêm Pha")
+20930|<O>| if (sec % 5 == 0)	//Mỗi 5 giây
+20931|<O>| "Thạch Sư" : "Ở tầng một Tướng Quân Cổ Mộ có thể bắt được Thạch Sư",
+20932|<O>| "Ác Linh" : "Ở tầng hai Linh Cốc Động có thể giết được Ác Linh ",
+20933|<O>| case 1://Sẵn lòng giúp đỡ, tôi muốn biết Nguyệt Thố ở đâu
+20934|<O>| case 1 : // 2. Nhiệm vụ mất cắp (nhân vật)
+20935|<O>| case "get":		// Lấy lại tiền bán thẻ điểm
+20936|<O>| Cấu hình NPC hoạt động《Chân Giả Hổ Vương》---- Chân Giả Hổ Vương

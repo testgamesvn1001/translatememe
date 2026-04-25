@@ -1,123 +1,123 @@
-﻿20937|<O>| return "能插在头发上做装饰用的钗。";
-20938|<O>| return "怪物猴子的尾巴，作出售品用";
-20939|<O>| "尸魔" : "在困魔阵二层可以杀到尸魔 ",
-20940|<O>| notify("我这里只收特产类的商品。");
-20941|<O>| ({"破敌腰带","周国的饰品店老板",}),
-20942|<O>| return "不能使用的布巾，作出售品用";
-20943|<O>| // 自动生成:/make/equip/87b
-20944|<O>| return "任务物品。相当美味的蜜糖。";
-20945|<O>| "龟仙人" : "在九曲桥可以杀到龟仙人 ",
-20946|<O>| return "任务物品。记录机密的要函。";
-20947|<O>| // 召唤技能  TIPS:[PF_CALL]
-20948|<O>| set_family_name("禁卫军");
-20949|<O>| ESC "弹劾副城主。\n" + cmd2 +
-20950|<O>| ({"绿青腰带","赵国的饰品店老板",}),
-20951|<O>| result = "帮派开始提升总管等级。";
-20952|<O>| return "一种玉做的器具，作出售品用";
-20953|<O>| "冤魂" : "在灵谷洞二层可以杀到冤魂 ",
-20954|<O>| "绿壳蜘蛛":"在长白山可以杀到绿壳蜘蛛 ",
-20955|<O>| return 1;    // 只召唤，不攻击
-20956|<O>| return "给鞋子赋予200法力的能力";
-20957|<O>| notify("处于ＰＫ状态时不能摆摊。");
-20958|<O>| ESC "同别国修好。\n" + cmd1 +
-20959|<O>| tmp = ESC "求索\n" + cmd;
-20960|<O>| ESC "举荐副城主。\n" + cmd1 +
-20961|<O>| notify("您复制自己的技能、装备？");
-20962|<O>| // 函数:获取技能等级（0、普通；1、高级）
-20963|<O>| ESC "我再想想……\nCLOSE\n");
-20964|<O>| // 自动生成:/make/equip/86x
-20965|<O>| ({"鲤鱼鞋","韩国的饰品店老板",}),
-20966|<O>| ESC "评价别人。\n" + cmd4 +
-20967|<O>| ({"精钢拳套","赵国的武器店老板"}),
-20968|<O>| ({"青铜拳套","赵国的武器店老板"}),
-20969|<O>| ({"古甲头巾","魏国的防具店老板"}),
-20970|<O>| return "给武器赋予40法攻的能力";
-20971|<O>| return "［装备合成材料］减少伤害";
-20972|<O>| if(vip)//给出VIP效果到玩家身上。
-20973|<O>| return "给鞋子赋予60法力的能力";
-20974|<O>| 102 : (["name":"楚方城２",
-20975|<O>| "大笨熊" : "在玉柱峰可以捉到大笨熊",
-20976|<O>| ({"鱼鳞拳套","赵国的武器店老板"}),
-20977|<O>| notify("只能结附在高级锻造石上");
-20978|<O>| "刺尾蜂" : "在桃花源可以捉到刺尾蜂",
-20979|<O>| notify("您的帮派数据出问题了。");
-20980|<O>| notify("存入现金必须是正整数。");
-20981|<O>| "321世界网游日双倍经验时间的操作:\n"
-20982|<O>| notify("取出存款必须是正整数。");
-20983|<O>| ESC "我要除虫。\n" + cmd4 +
-20984|<O>| npc->set_name("圣诞罐妖");
-20985|<O>| default: return "云梦泽";
-20986|<O>| else//这里是计算晶石锻造装备的成功率。
-20987|<O>| notify( "请勿频繁使用指令。" );
-20988|<O>| "蟹将" : "在东海渔村可以杀到蟹将 ",
-20989|<O>| if (!arg)    // 列示所有帮派
-20990|<O>| "蛛蛛怪" : "在沼泽可以杀到蜘蛛怪 ",
-20991|<O>| if (!arg)    // 显示摆摊界面
-20992|<O>| notify("宝石类型不符，无法精炼");
-20993|<O>| ({"古藤头巾","齐国的防具店老板"}),
-20994|<O>| notify("请勿频繁使用交易频道。");
-20995|<O>| notify("您的好友数目已达上限。");
-20996|<O>| case 2: // 1. 失窃任务(物品)
-20997|<O>| ({"长木棍","新手村的武器店老板"}),
-20998|<O>| "好无聊啊，你唱首歌给我听听好吗？#63",
-20999|<O>| if (iFinish)		//到期不能使用
-21000|<O>| "枪魂" : "在诛仙阵五层可以捉到枪魂",
-21001|<O>| if (p < 7710)		// 草药资源
-21002|<O>| set_name("战国令");	//绑定的
-21003|<O>| return "给武器赋予40物攻的能力";
-21004|<O>| total[k]++;    // 首个数值
-21005|<O>| ESC "蜀山(剑)\n" + cmd4 +
-21006|<O>| if (flag == 1)	//精炼成功率
-21007|<O>| // 物理技能  TIPS:[PF_HIT]
-21008|<O>| ESC "接外交任务。\n" + cmd +
-21009|<O>| if (p < 6560)		// 草药资源
-21010|<O>| set_real_name("楚考烈王");
-21011|<O>| set_family_name("蜀山");
-21012|<O>| ESC "1.0秒。\n" + cmd1 +
-21013|<O>| "发束" : "在桂陵杀草寇可以得到发束",
-21014|<O>| return "给衣服赋予60物防的能力";
-21015|<O>| case 2 : return "小姑娘";
-21016|<O>| npc->set_name("叛军马夫");
-21017|<O>| ({"狂战腰带","周国的饰品店老板"}),
-21018|<O>| ({"破敌素裙","周国的防具店老板"}),
-21019|<O>| ESC "气血公式\nenergy 0\n"
-21020|<O>| ESC "发布政令。\n" + cmd1 +
-21021|<O>| return "［装备合成材料］增加防御";
-21022|<O>| // 函数:获取软筋散(5215)减少攻击力
-21023|<O>| ({"舞天履","燕国的饰品店老板",}),
-21024|<O>| 由 cjxx 于 2007-09-04 创建
-21025|<O>| printf(ECHO "不能对其使用");
-21026|<O>| return "［装备合成材料］增加法力";
-21027|<O>| "罐中仙" : "在九曲桥可以捉到罐中仙",
-21028|<O>| else    name = "无名地图";
-21029|<O>| 601 : (["name":"东海渔村",
-21030|<O>| ESC "初学者木刀\n" + cmd1 +
-21031|<O>| ESC "蜀山(刀)\n" + cmd3 +
-21032|<O>| else if (p < 82) //精元丹
-21033|<O>| ESC "我要施肥。\n" + cmd2 +
-21034|<O>| notify("绑定的锻造石不能合成！");
-21035|<O>| "尸魔" : "在困魔阵二层可以捉到尸魔",
-21036|<O>| ({"青柳腰带","燕国的饰品店老板"}),
-21037|<O>| return "给武器赋予30法攻的能力";
-21038|<O>| notify("狂暴状态下不能更换装备");
-21039|<O>| notify("您不能更改玩家的数值。");
-21040|<O>| "独眼兽" : "在首阳山可以捉到独眼兽",
-21041|<O>| ({"唤云素裙","齐国的防具店老板"}),
-21042|<O>| // “物体->函数(参数)”格式命令的处理
-21043|<O>| "黑熊" : "在泰山山脚可以杀到黑熊 ",
-21044|<O>| if (p < 7460)		// 镶嵌资源
-21045|<O>| if (p < 8310)		// 镶嵌资源
-21046|<O>| ESC "0.6秒。\n" + cmd2 +
-21047|<O>| return "骸骨的碎状物，作出售品用";
-21048|<O>| ({"皮紫头巾","赵国的防具店老板"}),
-21049|<O>| "小野兔" : "在新手村可以捉到小野兔",
-21050|<O>| "僵尸" : "在万人坑四层可以捉到僵尸",
-21051|<O>| ESC "我要锄草。\n" + cmd1 +
-21052|<O>| if (flag)    // 详细列示模式
-21053|<O>| //	取得活动开始结束时间以 “-” 分割开
-21054|<O>| ESC "1.2秒。\n" + cmd5 +
-21055|<O>| cmd = "哈哈哈哈～～春天真暖和～～";
-21056|<O>| return "物理攻击时，可使对方眩晕";
-21057|<O>| cmd = "哈哈哈哈～～我好开心哦～～";
-21058|<O>| "螳螂妖" : "在泰山可以杀到螳螂妖 ",
-21059|<O>| if (what < 100)	//物品列表
+﻿20937|<O>| return "Trâm có thể cài lên tóc làm trang sức.";
+20938|<O>| return "Đuôi của quái vật khỉ, dùng làm vật bán";
+20939|<O>| "Thi Ma" : "Ở tầng hai Khốn Ma Trận có thể giết được Thi Ma ",
+20940|<O>| notify("Tôi ở đây chỉ thu mua hàng đặc sản.");
+20941|<O>| ({"Phá Địch Yêu Đái","Lão bản cửa hàng sức phẩm Chu Quốc",}),
+20942|<O>| return "Khăn vải không thể sử dụng, dùng làm vật bán";
+20943|<O>| // Tự động tạo:/make/equip/87b
+20944|<O>| return "Vật phẩm nhiệm vụ. Mật đường rất ngon.";
+20945|<O>| "Quy Tiên Nhân" : "Ở Cửu Khúc Kiều có thể giết được Quy Tiên Nhân ",
+20946|<O>| return "Vật phẩm nhiệm vụ. Yếu hàm ghi chép cơ mật.";
+20947|<O>| // Kỹ năng triệu hoán  TIPS:[PF_CALL]
+20948|<O>| set_family_name("Cấm Vệ Quân");
+20949|<O>| ESC "Đàn hặc Phó Thành Chủ.\n" + cmd2 +
+20950|<O>| ({"Lục Thanh Yêu Đái","Lão bản cửa hàng sức phẩm Triệu Quốc",}),
+20951|<O>| result = "Bang phái bắt đầu nâng cấp tổng quản.";
+20952|<O>| return "Một loại khí cụ bằng ngọc, dùng làm vật bán";
+20953|<O>| "Oan Hồn" : "Ở tầng hai Linh Cốc Động có thể giết được Oan Hồn ",
+20954|<O>| "Lục Xác Tri Châu":"Ở Trường Bạch Sơn có thể giết được Lục Xác Tri Châu ",
+20955|<O>| return 1;    // Chỉ triệu hoán, không tấn công
+20956|<O>| return "Phú cho giày khả năng 200 pháp lực";
+20957|<O>| notify("Đang trong trạng thái PK không thể bày quầy.");
+20958|<O>| ESC "Hoà hảo với nước khác.\n" + cmd1 +
+20959|<O>| tmp = ESC "Cầu Sách\n" + cmd;
+20960|<O>| ESC "Tiến cử Phó Thành Chủ.\n" + cmd1 +
+20961|<O>| notify("Bạn sao chép kỹ năng, trang bị của chính mình?");
+20962|<O>| // Hàm: Lấy cấp độ kỹ năng (0: thường; 1: cao cấp)
+20963|<O>| ESC "Để tôi suy nghĩ lại……\nCLOSE\n");
+20964|<O>| // Tự động tạo:/make/equip/86x
+20965|<O>| ({"Lý Ngư Hài","Lão bản cửa hàng sức phẩm Hàn Quốc",}),
+20966|<O>| ESC "Đánh giá người khác.\n" + cmd4 +
+20967|<O>| ({"Tinh Cương Quyền Sáo","Lão bản cửa hàng vũ khí Triệu Quốc"}),
+20968|<O>| ({"Thanh Đồng Quyền Sáo","Lão bản cửa hàng vũ khí Triệu Quốc"}),
+20969|<O>| ({"Cổ Giáp Đầu Cân","Lão bản cửa hàng phòng cụ Nguỵ Quốc"}),
+20970|<O>| return "Phú cho vũ khí khả năng 40 pháp công";
+20971|<O>| return "［Nguyên liệu hợp thành trang bị］Giảm sát thương";
+20972|<O>| if(vip)//Áp dụng hiệu ứng VIP lên người chơi.
+20973|<O>| return "Phú cho giày khả năng 60 pháp lực";
+20974|<O>| 102 : (["name":"Sở Phương Thành 2",
+20975|<O>| "Đại Bần Hùng" : "Ở Ngọc Trụ Phong có thể bắt được Đại Bần Hùng",
+20976|<O>| ({"Ngư Lân Quyền Sáo","Lão bản cửa hàng vũ khí Triệu Quốc"}),
+20977|<O>| notify("Chỉ có thể kết phụ trên đoạn tạo thạch cao cấp");
+20978|<O>| "Thích Vĩ Phong" : "Ở Đào Hoa Nguyên có thể bắt được Thích Vĩ Phong",
+20979|<O>| notify("Dữ liệu bang phái của bạn có vấn đề.");
+20980|<O>| notify("Gửi tiền phải là số nguyên dương.");
+20981|<O>| "Thời gian kinh nghiệm gấp đôi ngày 321 Thế Giới Net Du Nhật:\n"
+20982|<O>| notify("Rút tiền phải là số nguyên dương.");
+20983|<O>| ESC "Tôi muốn trừ sâu.\n" + cmd4 +
+20984|<O>| npc->set_name("Quán Yêu Giáng Sinh");
+20985|<O>| default: return "Vân Mộng Trạch";
+20986|<O>| else//Đây là tính toán tỷ lệ thành công đoạn tạo trang bị bằng tinh thạch.
+20987|<O>| notify( "Xin đừng sử dụng lệnh quá thường xuyên." );
+20988|<O>| "Giải Tướng" : "Ở Đông Hải Ngư Thôn có thể giết được Giải Tướng ",
+20989|<O>| if (!arg)    // Liệt kê tất cả bang phái
+20990|<O>| "Châu Châu Quái" : "Ở đầm lầy có thể giết được Châu Châu Quái ",
+20991|<O>| if (!arg)    // Hiển thị giao diện bày quầy
+20992|<O>| notify("Loại bảo thạch không phù hợp, không thể tinh luyện");
+20993|<O>| ({"Cổ Đằng Đầu Cân","Lão bản cửa hàng phòng cụ Tề Quốc"}),
+20994|<O>| notify("Xin đừng sử dụng kênh giao dịch quá thường xuyên.");
+20995|<O>| notify("Số bạn bè của bạn đã đạt giới hạn.");
+20996|<O>| case 2: // 1. Nhiệm vụ mất cắp (vật phẩm)
+20997|<O>| ({"Trường Mộc Côn","Lão bản cửa hàng vũ khí Tân Thủ Thôn"}),
+20998|<O>| "Chán quá, bạn hát một bài cho tôi nghe được không?#63",
+20999|<O>| if (iFinish)		//Hết hạn không thể sử dụng
+21000|<O>| "Thương Hồn" : "Ở tầng năm Tru Tiên Trận có thể bắt được Thương Hồn",
+21001|<O>| if (p < 7710)		// Tài nguyên thảo dược
+21002|<O>| set_name("Chiến Quốc Lệnh");	//Khoá
+21003|<O>| return "Phú cho vũ khí khả năng 40 vật công";
+21004|<O>| total[k]++;    // Giá trị đầu tiên
+21005|<O>| ESC "Thục Sơn (kiếm)\n" + cmd4 +
+21006|<O>| if (flag == 1)	//Tỷ lệ tinh luyện thành công
+21007|<O>| // Kỹ năng vật lý  TIPS:[PF_HIT]
+21008|<O>| ESC "Nhận nhiệm vụ ngoại giao.\n" + cmd +
+21009|<O>| if (p < 6560)		// Tài nguyên thảo dược
+21010|<O>| set_real_name("Sở Khảo Liệt Vương");
+21011|<O>| set_family_name("Thục Sơn");
+21012|<O>| ESC "1.0 giây.\n" + cmd1 +
+21013|<O>| "Phát Thúc" : "Ở Quế Lăng giết Thảo Khấu có thể nhận được Phát Thúc",
+21014|<O>| return "Phú cho áo khả năng 60 vật phòng";
+21015|<O>| case 2 : return "Tiểu Cô Nương";
+21016|<O>| npc->set_name("Phản Quân Mã Phu");
+21017|<O>| ({"Cuồng Chiến Yêu Đái","Lão bản cửa hàng sức phẩm Chu Quốc"}),
+21018|<O>| ({"Phá Địch Tố Quần","Lão bản cửa hàng phòng cụ Chu Quốc"}),
+21019|<O>| ESC "Công thức khí huyết\nenergy 0\n"
+21020|<O>| ESC "Phát bố chính lệnh.\n" + cmd1 +
+21021|<O>| return "［Nguyên liệu hợp thành trang bị］Tăng phòng thủ";
+21022|<O>| // Hàm: Lấy giá trị giảm tấn công của Nhuyễn Cân Tán (5215)
+21023|<O>| ({"Vũ Thiên Lý","Lão bản cửa hàng sức phẩm Yên Quốc",}),
+21024|<O>| Do cjxx tạo vào ngày 2007-09-04
+21025|<O>| printf(ECHO "Không thể sử dụng cho đối tượng này");
+21026|<O>| return "［Nguyên liệu hợp thành trang bị］Tăng pháp lực";
+21027|<O>| "Quán Trung Tiên" : "Ở Cửu Khúc Kiều có thể bắt được Quán Trung Tiên",
+21028|<O>| else    name = "Bản đồ vô danh";
+21029|<O>| 601 : (["name":"Đông Hải Ngư Thôn",
+21030|<O>| ESC "Sơ Học Giả Mộc Đao\n" + cmd1 +
+21031|<O>| ESC "Thục Sơn (đao)\n" + cmd3 +
+21032|<O>| else if (p < 82) //Tinh Nguyên Đan
+21033|<O>| ESC "Tôi muốn bón phân.\n" + cmd2 +
+21034|<O>| notify("Đoạn tạo thạch đã khoá không thể hợp thành!");
+21035|<O>| "Thi Ma" : "Ở tầng hai Khốn Ma Trận có thể bắt được Thi Ma",
+21036|<O>| ({"Thanh Liễu Yêu Đái","Lão bản cửa hàng sức phẩm Yên Quốc"}),
+21037|<O>| return "Phú cho vũ khí khả năng 30 pháp công";
+21038|<O>| notify("Trạng thái cuồng bạo không thể thay đổi trang bị");
+21039|<O>| notify("Bạn không thể thay đổi số liệu người chơi.");
+21040|<O>| "Độc Nhãn Thú" : "Ở Thủ Dương Sơn có thể bắt được Độc Nhãn Thú",
+21041|<O>| ({"Hoán Vân Tố Quần","Lão bản cửa hàng phòng cụ Tề Quốc"}),
+21042|<O>| // Xử lý lệnh định dạng "vật thể->hàm(tham số)"
+21043|<O>| "Hắc Hùng" : "Ở chân Thái Sơn có thể giết được Hắc Hùng ",
+21044|<O>| if (p < 7460)		// Tài nguyên khảm nạm
+21045|<O>| if (p < 8310)		// Tài nguyên khảm nạm
+21046|<O>| ESC "0.6 giây.\n" + cmd2 +
+21047|<O>| return "Mảnh vụn hài cốt, dùng làm vật bán";
+21048|<O>| ({"Bì Tử Đầu Cân","Lão bản cửa hàng phòng cụ Triệu Quốc"}),
+21049|<O>| "Tiểu Dã Thố" : "Ở Tân Thủ Thôn có thể bắt được Tiểu Dã Thố",
+21050|<O>| "Cương Thi" : "Ở tầng bốn Vạn Nhân Khanh có thể bắt được Cương Thi",
+21051|<O>| ESC "Tôi muốn làm cỏ.\n" + cmd1 +
+21052|<O>| if (flag)    // Chế độ liệt kê chi tiết
+21053|<O>| //	Lấy thời gian bắt đầu kết thúc hoạt động phân tách bằng "-"
+21054|<O>| ESC "1.2 giây.\n" + cmd5 +
+21055|<O>| cmd = "Hahahaha~~ Mùa xuân thật ấm áp~~";
+21056|<O>| return "Khi tấn công vật lý, có thể khiến đối phương choáng váng";
+21057|<O>| cmd = "Hahahaha~~ Tôi vui quá~~";
+21058|<O>| "Đường Lang Yêu" : "Ở Thái Sơn có thể giết được Đường Lang Yêu ",
+21059|<O>| if (what < 100)	//Danh sách vật phẩm

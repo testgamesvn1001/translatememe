@@ -1,108 +1,108 @@
-﻿20026|<O>| #define PF_NAME        "涂毒"
-20027|<O>| #define PF_NAME        "授课"
-20028|<O>| "玉石" : "\"/item/49/4940\"",
-20029|<O>| return "能返还玩家所有敏捷点数的神奇丹药。";
-20030|<O>| "陶碗" : "\"/item/35/3502\"",
-20031|<O>| "发夹" : "\"/item/35/3562\"",
-20032|<O>| "竹筒" : "\"/item/41/4102\"",
-20033|<O>| else if (dy < 0)    // 第四象限
-20034|<O>| if (me->get_name() == "白起")
-20035|<O>| tell_user(me, "所有用户已经存盘！");
-20036|<O>| "蜘蛛丝" : "在沼泽边缘杀蛛蛛怪可以得到蜘蛛丝",
-20037|<O>| #define PF_NAME        "休整"
-20038|<O>| return "［宝石合成材料］增加异常免疫百分比";
-20039|<O>| who->log_money("军官", gold);
-20040|<O>| #define PF_NAME        "隐身"
-20041|<O>| ESC"离开", who->get_name()));
-20042|<O>| ESC"衣服\nlearn "+arg+" 10\n"
-20043|<O>| "铜镜" : "\"/item/35/3563\"",
-20044|<O>| result += ESC"离开\nCLOSE\n";
-20045|<O>| "脚镣" : "\"/item/40/4035\"",
-20046|<O>| int endcount;				// 战争完成的计数
-20047|<O>| return "传说欧冶子打造武器时所使用的宝石。";
-20048|<O>| tell_user(me, "取消关闭指定ＩＰ。");
-20049|<O>| "红茶" : "\"/item/31/3101\"",
-20050|<O>| if ( i < iStart214 )	//没到时间
-20051|<O>| return "任务物品。王铁匠需要收集的一种炭。";
-20052|<O>| private int iGrade;			// 规模
-20053|<O>| "论语" : "\"/item/97/9703\"",
-20054|<O>| #define PF_NAME        "背袭"
-20055|<O>| #define PF_NAME        "破咒"
-20056|<O>| #define PF_NAME        "炼药"
-20057|<O>| ESC"确定\ntalk %x# bonus.4\n"
-20058|<O>| #define PF_NAME        "重辟"
-20059|<O>| #define PF_NAME        "困敌"
-20060|<O>| return "任务物品。内有王铁匠解决方法的信。";
-20061|<O>| "碟子" : "\"/item/35/3506\"",
-20062|<O>| return "上好的巧克力豆，可以用来做巧克力。";
-20063|<O>| "笛子" : "\"/item/36/3605\"",
-20064|<O>| "毛笔" : "\"/item/38/3852\"",
-20065|<O>| #define PF_NAME        "刺杀"
-20066|<O>| case 14://交还5个月饼以向朋友发出温馨的祝福
-20067|<O>| "僵尸冠" : "在万人坑四层杀僵尸可以得到僵尸冠",
-20068|<O>| else if (p < 80)    // 挖出药材
-20069|<O>| who->log_money("重犯", -500);
-20070|<O>| #define PF_NAME        "肋击"
-20071|<O>| case "茅山": dir = 77; break;
-20072|<O>| "蜂翼" : "\"/item/40/4005\"",
-20073|<O>| npc->set_name("窃贼" + name);
-20074|<O>| return "青蛙分泌出来的一种液体，作出售品用";
-20075|<O>| "冰块" : "\"/item/49/4906\"",
-20076|<O>| return "穿上后能变成黄金圣斗士的神奇战衣。";
-20077|<O>| "官印" : "\"/item/49/4981\"",
-20078|<O>| "桃子" : "\"/item/32/3285\"",
-20079|<O>| return "邪恶的僵尸所佩戴的帽冠，作出售品用";
-20080|<O>| return "一种提供给石刻师来分解为宝石的原料";
-20081|<O>| #define PF_NAME        "金刚"
-20082|<O>| "黄纸" : "\"/item/34/3453\"",
-20083|<O>| desc = "学习制作" + name + "。";
-20084|<O>| #define PF_NAME        "占卜"
-20085|<O>| result = "请选择“真假虎王”的操作:\n";
-20086|<O>| return "一种生长千年的藤本植物，作出售品用";
-20087|<O>| "信件" : "\"/item/38/3855\"",
-20088|<O>| "银筷" : "\"/item/35/3505\"",
-20089|<O>| #define PF_NAME        "定标"
-20090|<O>| if (name == "玉心") continue;
-20091|<O>| // 函数:设置映射变量 db 中属性 key 的内容
-20092|<O>| "剪刀" : "\"/item/35/3513\"",
-20093|<O>| "情信" : "\"/item/38/3856\"",
-20094|<O>| "油漆" : "\"/item/99/9942\"",
-20095|<O>| "鱼骨" : "\"/item/40/4016\"",
-20096|<O>| return "任务物品。一种果实，可以用作洗涤。";
-20097|<O>| notify("请找公输班将宝石分解为初级宝石");
-20098|<O>| return "任务物品。可解软骨散的一种药材。";
-20099|<O>| if (arg == "?")    // 收集任务
-20100|<O>| notify( "您死了，交易频道已被禁止。" );
-20101|<O>| return "作照明用的一种棉制品，作出售品用";
-20102|<O>| // 自动生成:/make/item/make31a
-20103|<O>| else if (type == 2)	//幽冥法阵
-20104|<O>| return "一小时内增加 10% 物理攻击力";
-20105|<O>| "铜骸" : "在灵谷洞一层杀铜甲尸可以得到铜骸",
-20106|<O>| notify( "您死了，帮派频道已被禁止。" );
-20107|<O>| else if (p < 10)    // 玉灵液
-20108|<O>| me->log_money("残图", gold);
-20109|<O>| notify("您已经拥有帮派，不能接受邀请。");
-20110|<O>| // 自动生成:/make/npc/make8007
-20111|<O>| "钹" : "\"/item/36/3603\"",
-20112|<O>| else if (rate < 40)	//桔子5个
-20113|<O>| //	07-07-16 P12:26 修改为定点坐标
-20114|<O>| return "传送其它玩家到当前场景的随机位置";
-20115|<O>| // 自动生成:/make/npc/make8012
-20116|<O>| "铜罐" : "在灵谷洞一层杀罐中妖可以得到铜罐",
-20117|<O>| "铁骸" : "在灵谷洞二层杀铁甲尸可以得到铁骸",
-20118|<O>| // 自动生成:/make/npc/make8010
-20119|<O>| mpResult = ([]);	//投票结束的信息
-20120|<O>| return "一小时内增加物理攻击100点\n";
-20121|<O>| ESC "我都懂了，继续下一个课程吧\n%s\n",
-20122|<O>| return "任务物品。查阅户名用的一种信函。";
-20123|<O>| notify("请输入目录:0～9, a～z。");
-20124|<O>| "鼓" : "\"/item/36/3602\"",
-20125|<O>| string pf_name;					//技能名称
-20126|<O>| else if (rate < 80)	//烤地瓜5
-20127|<O>| ESC "给相同的背包续费。\n" + cmd2 +
-20128|<O>| else if (rate < 50)	//米酒5坛
-20129|<O>| tmp = ESC "天使爱美丽\n" + cmd;
-20130|<O>| ap = ADD_AP;    // 小心准备 me
-20131|<O>| return "一小时内增加 10% 法术攻击力";
-20132|<O>| else if (p < 90)	//法宝 改为给钱
-20133|<O>| tmp = ESC "神秘的种子\n" + cmd;
+﻿20026|<O>| #define PF_NAME        "Đồ Độc"
+20027|<O>| #define PF_NAME        "Thụ Khoá"
+20028|<O>| "Ngọc Thạch" : "\"/item/49/4940\"",
+20029|<O>| return "Đan dược thần kỳ có thể hoàn trả toàn bộ điểm mẫn tiệp cho người chơi.";
+20030|<O>| "Đào Oản" : "\"/item/35/3502\"",
+20031|<O>| "Phát Giáp" : "\"/item/35/3562\"",
+20032|<O>| "Trúc Đồng" : "\"/item/41/4102\"",
+20033|<O>| else if (dy < 0)    // Tượng hạn thứ tư
+20034|<O>| if (me->get_name() == "Bạch Khởi")
+20035|<O>| tell_user(me, "Tất cả người dùng đã lưu!");
+20036|<O>| "Tri Châu Ty" : "Ở rìa đầm lầy giết Châu Châu Quái có thể nhận được Tri Châu Ty",
+20037|<O>| #define PF_NAME        "Hưu Chỉnh"
+20038|<O>| return "［Nguyên liệu hợp thành Bảo Thạch］Tăng phần trăm miễn dịch trạng thái dị thường";
+20039|<O>| who->log_money("Quân Quan", gold);
+20040|<O>| #define PF_NAME        "Ẩn Thân"
+20041|<O>| ESC"Rời đi", who->get_name()));
+20042|<O>| ESC"Quần áo\nlearn "+arg+" 10\n"
+20043|<O>| "Đồng Kính" : "\"/item/35/3563\"",
+20044|<O>| result += ESC"Rời đi\nCLOSE\n";
+20045|<O>| "Cước Liêu" : "\"/item/40/4035\"",
+20046|<O>| int endcount;				// Số đếm hoàn thành chiến tranh
+20047|<O>| return "Truyền thuyết là bảo thạch Âu Dã Tử dùng khi đúc vũ khí.";
+20048|<O>| tell_user(me, "Huỷ đóng IP chỉ định.");
+20049|<O>| "Hồng Trà" : "\"/item/31/3101\"",
+20050|<O>| if ( i < iStart214 )	//Chưa đến giờ
+20051|<O>| return "Vật phẩm nhiệm vụ. Một loại than Vương Thiết Tượng cần thu thập.";
+20052|<O>| private int iGrade;			// Quy mô
+20053|<O>| "Luận Ngữ" : "\"/item/97/9703\"",
+20054|<O>| #define PF_NAME        "Bối Tập"
+20055|<O>| #define PF_NAME        "Phá Chú"
+20056|<O>| #define PF_NAME        "Luyện Dược"
+20057|<O>| ESC"Xác nhận\ntalk %x# bonus.4\n"
+20058|<O>| #define PF_NAME        "Trùng Tịch"
+20059|<O>| #define PF_NAME        "Khốn Địch"
+20060|<O>| return "Vật phẩm nhiệm vụ. Bức thư chứa phương pháp giải quyết của Vương Thiết Tượng.";
+20061|<O>| "Điệp Tử" : "\"/item/35/3506\"",
+20062|<O>| return "Hạt sô cô la thượng hạng, có thể dùng để làm sô cô la.";
+20063|<O>| "Địch Tử" : "\"/item/36/3605\"",
+20064|<O>| "Mao Bút" : "\"/item/38/3852\"",
+20065|<O>| #define PF_NAME        "Thích Sát"
+20066|<O>| case 14://Trả lại 5 cái bánh trung thu để gửi lời chúc ấm áp đến bạn bè
+20067|<O>| "Cương Thi Quan" : "Ở tầng bốn Vạn Nhân Khanh giết Cương Thi có thể nhận được Cương Thi Quan",
+20068|<O>| else if (p < 80)    // Đào được dược liệu
+20069|<O>| who->log_money("Trọng Phạm", -500);
+20070|<O>| #define PF_NAME        "Lặc Kích"
+20071|<O>| case "Mao Sơn": dir = 77; break;
+20072|<O>| "Phong Dực" : "\"/item/40/4005\"",
+20073|<O>| npc->set_name("Thiết Tặc" + name);
+20074|<O>| return "Một loại chất lỏng do ếch tiết ra, dùng làm vật bán";
+20075|<O>| "Băng Khối" : "\"/item/49/4906\"",
+20076|<O>| return "Mặc vào có thể biến thành Hoàng Kim Thánh Đấu Sĩ, chiến y thần kỳ.";
+20077|<O>| "Quan Ấn" : "\"/item/49/4981\"",
+20078|<O>| "Đào Tử" : "\"/item/32/3285\"",
+20079|<O>| return "Mũ quan do Cương Thi tà ác đội, dùng làm vật bán";
+20080|<O>| return "Một loại nguyên liệu cung cấp cho Thạch Khắc Sư phân giải thành bảo thạch";
+20081|<O>| #define PF_NAME        "Kim Cương"
+20082|<O>| "Hoàng Chỉ" : "\"/item/34/3453\"",
+20083|<O>| desc = "Học chế tạo " + name + ".";
+20084|<O>| #define PF_NAME        "Chiêm Bốc"
+20085|<O>| result = "Xin chọn thao tác "Chân Giả Hổ Vương":\n";
+20086|<O>| return "Một loại thực vật dây leo sinh trưởng nghìn năm, dùng làm vật bán";
+20087|<O>| "Tín Kiện" : "\"/item/38/3855\"",
+20088|<O>| "Ngân Khoái" : "\"/item/35/3505\"",
+20089|<O>| #define PF_NAME        "Định Tiêu"
+20090|<O>| if (name == "Ngọc Tâm") continue;
+20091|<O>| // Hàm: Thiết lập nội dung thuộc tính key trong biến ánh xạ db
+20092|<O>| "Tiễn Đao" : "\"/item/35/3513\"",
+20093|<O>| "Tình Tín" : "\"/item/38/3856\"",
+20094|<O>| "Du Tất" : "\"/item/99/9942\"",
+20095|<O>| "Ngư Cốt" : "\"/item/40/4016\"",
+20096|<O>| return "Vật phẩm nhiệm vụ. Một loại quả có thể dùng để giặt rửa.";
+20097|<O>| notify("Xin tìm Công Thâu Ban phân giải bảo thạch thành bảo thạch sơ cấp");
+20098|<O>| return "Vật phẩm nhiệm vụ. Một loại dược liệu có thể giải Nhuyễn Cốt Tán.";
+20099|<O>| if (arg == "?")    // Nhiệm vụ thu thập
+20100|<O>| notify( "Bạn đã chết, kênh giao dịch đã bị cấm." );
+20101|<O>| return "Một loại sản phẩm bông dùng để chiếu sáng, dùng làm vật bán";
+20102|<O>| // Tự động tạo:/make/item/make31a
+20103|<O>| else if (type == 2)	//U Minh Pháp Trận
+20104|<O>| return "Trong một giờ tăng 10% lực tấn công vật lý";
+20105|<O>| "Đồng Hài" : "Ở tầng một Linh Cốc Động giết Đồng Giáp Thi có thể nhận được Đồng Hài",
+20106|<O>| notify( "Bạn đã chết, kênh bang phái đã bị cấm." );
+20107|<O>| else if (p < 10)    // Ngọc Linh Dịch
+20108|<O>| me->log_money("Tàn Đồ", gold);
+20109|<O>| notify("Bạn đã có bang phái, không thể chấp nhận lời mời.");
+20110|<O>| // Tự động tạo:/make/npc/make8007
+20111|<O>| "Bạt" : "\"/item/36/3603\"",
+20112|<O>| else if (rate < 40)	//Quất Tử 5 cái
+20113|<O>| //	07-07-16 P12:26 Sửa thành toạ độ cố định
+20114|<O>| return "Truyền tống người chơi khác đến vị trí ngẫu nhiên trong cảnh hiện tại";
+20115|<O>| // Tự động tạo:/make/npc/make8012
+20116|<O>| "Đồng Quán" : "Ở tầng một Linh Cốc Động giết Quán Trung Yêu có thể nhận được Đồng Quán",
+20117|<O>| "Thiết Hài" : "Ở tầng hai Linh Cốc Động giết Thiết Giáp Thi có thể nhận được Thiết Hài",
+20118|<O>| // Tự động tạo:/make/npc/make8010
+20119|<O>| mpResult = ([]);	//Thông tin kết thúc bỏ phiếu
+20120|<O>| return "Trong một giờ tăng 100 điểm tấn công vật lý\n";
+20121|<O>| ESC "Tôi đều hiểu rồi, tiếp tục khoá học tiếp theo nhé\n%s\n",
+20122|<O>| return "Vật phẩm nhiệm vụ. Một loại thư hàm dùng để tra cứu hộ danh.";
+20123|<O>| notify("Xin nhập thư mục: 0~9, a~z.");
+20124|<O>| "Cổ" : "\"/item/36/3602\"",
+20125|<O>| string pf_name;					//Tên kỹ năng
+20126|<O>| else if (rate < 80)	//Khảo Địa Qua 5
+20127|<O>| ESC "Gia hạn cho ba lô giống nhau.\n" + cmd2 +
+20128|<O>| else if (rate < 50)	//Mễ Tửu 5 đàn
+20129|<O>| tmp = ESC "Thiên Sứ Yêu Mỹ Lệ\n" + cmd;
+20130|<O>| ap = ADD_AP;    // Cẩn thận chuẩn bị me
+20131|<O>| return "Trong một giờ tăng 10% lực tấn công pháp thuật";
+20132|<O>| else if (p < 90)	//Pháp bảo, đổi thành cho tiền
+20133|<O>| tmp = ESC "Hạt Giống Thần Bí\n" + cmd;

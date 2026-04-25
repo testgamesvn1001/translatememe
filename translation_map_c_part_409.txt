@@ -1,114 +1,114 @@
-﻿20468|<O>| return "一种用盛物品的铜器，作出售品用";
-20469|<O>| printf(ECHO "您开始采集草药……");
-20470|<O>| "蝎尾" : "在沼泽边缘杀褐尾蝎可以得到蝎尾",
-20471|<O>| return "任务物品。类似翡翠的一种宝珠。";
-20472|<O>| time = sec / 90;	// 第几拨怪物
-20473|<O>| return "神秘的赤缨枪，似乎藏有某些秘密";
-20474|<O>| set_real_name("石刻47~59");
-20475|<O>| ESC "要不先留着吧……。\nCLOSE\n",
-20476|<O>| pet->set_owner(who);	//必须
-20477|<O>| ESC "管理VIP频道。\n" + cmd4 +
-20478|<O>| return "任务物品。回复使命的一种信函。";
-20479|<O>| notify("%s现在只有 %s 数量不足。",
-20480|<O>| result += ESC"离开\nCLOSE";
-20481|<O>| "铁甲尸" : "在灵谷洞二层可以杀到铁甲尸 ",
-20482|<O>| return "任务物品。建造房子所用的图纸。";
-20483|<O>| "蛛网" : "在长白山杀绿壳蜘蛛可以得到蛛网",
-20484|<O>| result = "请选择合服补偿的控制:\n";
-20485|<O>| else if (rate < 64)	//正气散
-20486|<O>| "快走快走，这么多人在看，人家会害羞的。#26",
-20487|<O>| // 单体远程技能  TIPS:[PF_CAST]
-20488|<O>| else    result = "您想:\n";
-20489|<O>| return "寒铁打造的枪体部件，作出售品用";
-20490|<O>| return "任务物品。调动军队的一种信物。";
-20491|<O>| return "加满气血、法力，冷却时间30秒";
-20492|<O>| ESC "确定\nset !attack 0\n"
-20493|<O>| return "一小时内增加 18% 气血上限";
-20494|<O>| return "给帽子或腰带赋予80法防的能力";
-20495|<O>| return "一种适合女孩穿戴的初学者防具。";
-20496|<O>| else if (rate < 55)	//藏宝图
-20497|<O>| return "任务物品。官员交往的一种文书。";
-20498|<O>| return "用来捕鱼的一种工具，作出售品用";
-20499|<O>| mpVote = ([]);		//正在投票的信息
-20500|<O>| else if (rate < 36)	//法力石
-20501|<O>| return "任务物品。一种上好的千年寒铁。";
-20502|<O>| notify("不能扫描 /data 目录！");
-20503|<O>| else if (p < 26)    // 金钱
-20504|<O>| printf(ECHO "您一不小心中毒了！");
-20505|<O>| notify("你的鉴定镜不足以鉴定这件装备");
-20506|<O>| //	修改一个闹钟提醒，成功返回 1 失败返回 0
-20507|<O>| return "任务物品。药食兼用的一种作物。";
-20508|<O>| notify("您的潜能不够%d。", pot);
-20509|<O>| return "寒铁打造的刀身部件，作出售品用";
-20510|<O>| //		flag = 1;	初始化经验为50000
-20511|<O>| else if (type == 3)	//尸偶术
-20512|<O>| return "任务物品。一种用来锤击的工具。";
-20513|<O>| return "任务物品。一种多汁味甜的水果。";
-20514|<O>| // 自动生成:/make/item/make33
-20515|<O>| result = "您死了，您有以下选择:\n";
-20516|<O>| // 函数:移到目标身上(只用于 equip.c)
-20517|<O>| return "任务物品。上奏大王的一种文书。";
-20518|<O>| else if (rate < 99)	//百宝囊
-20519|<O>| set_real_name("铁匠41~60");
-20520|<O>| return "任务物品。一块雕工细美的宝玉。";
-20521|<O>| return "［装备合成材料］增加攻击百分比";
-20522|<O>| // 函数:获取武器等级价值所对应的颜色，还没写完
-20523|<O>| notify("战场中不允许与敌人结成队伍！");
-20524|<O>| return "任务物品。上禀官方的一种文书。";
-20525|<O>| result = result + "、一万金";
-20526|<O>| npc->set_city_name("秦国");
-20527|<O>| // 自动生成:/make/item/make30
-20528|<O>| else if ( cKind == "暗器" )
-20529|<O>| // 自动生成:/make/std/makemap
-20530|<O>| return "任务物品。领兵打仗的一个凭证。";
-20531|<O>| return "一种适合男孩穿戴的初学者防具。";
-20532|<O>| int StartX, StartY;	//初始点
-20533|<O>| return "任务物品。相传是鹿王折断的角。";
-20534|<O>| // 自用持续技能  TIPS:[PF_SELF]
-20535|<O>| result ="现在你需要选择发展的系别:\n"
-20536|<O>| return "纺织类的一种原材料，作出售品用";
-20537|<O>| if (rate2 < 90)	//随机门派进阶书
-20538|<O>| "火种" : "在无定河一带杀鬼火可以得到火种",
-20539|<O>| "箭筒" : "在赵长城杀赵国弓兵可以得到箭筒",
-20540|<O>| return "神秘的玉剑，似乎藏有某些秘密";
-20541|<O>| ESC "管理公众频道。\n" + cmd2 +
-20542|<O>| return "任务物品。机关密图下部碎片。";
-20543|<O>| return "做法场的一种器物，作出售品用";
-20544|<O>| ESC "设定城主薪水。\n" + cmd3 +
-20545|<O>| notify("黑名单人数不能超过50人。");
-20546|<O>| printf(ECHO "您距离目标太远。");
-20547|<O>| return "任务物品。送给卫队长的酒钱。";
-20548|<O>| 《真假虎王》活动配置NPC ---- 临时传送工
-20549|<O>| notify("你已经完成筹集资金的任务。");
-20550|<O>| return "神秘的暗器，似乎藏有某些秘密";
-20551|<O>| // 函数文件: inh/npc/event.c
-20552|<O>| return "给武器永久赋予20物攻的能力";
-20553|<O>| else if (rate < 630)//金装
-20554|<O>| _DEBUG("DEBUG -- 开启闹钟");
-20555|<O>| ESC "管理谣言频道。\n" + cmd3 +
-20556|<O>| "罐中妖" : "在灵谷洞一层可以捉到罐中妖",
-20557|<O>| else if (rate < 440)//白装
-20558|<O>| ESC "领取战备任务。\n" + cmd3 +
-20559|<O>| ESC "用功德点洗点。\n" + cmd6 +
-20560|<O>| return "任务物品。调查案件所用之物。";
-20561|<O>| return "［装备合成材料］增加法术防御";
-20562|<O>| set_no_give(1);		//	不可给予
-20563|<O>| me->set_org_title("帮主");
-20564|<O>| return "［霸王枪法］枪法装备技能\n";
-20565|<O>| else if (rate < 850)//金装
-20566|<O>| return "永久增加 20 点法术防御力";
-20567|<O>| return "螳螂肢体的一部分，作出售品用";
-20568|<O>| ESC "等待自动复活。\nCLOSE\n");
-20569|<O>| return "给鞋子永久赋予20法力的能力";
-20570|<O>| ESC "我想看看商品\nlist %x#\n"
-20571|<O>| ESC "设定本城税率。\n" + cmd2 +
-20572|<O>| "楚军刀兵" : "在楚方城可以捉到楚军刀兵",
-20573|<O>| "    ‘%s’没错吧？真是不错的名字。\n"
-20574|<O>| 摇奖查询等命令:目前主要用于配合《战国宝典》设定
-20575|<O>| notify("做生意得得有钱票或者银票。");
-20576|<O>| return "传送自己到当前场景的指定坐标";
-20577|<O>| if (num == 2)    // 包裹之内
-20578|<O>| return "［炼丹术］按配方炼制药物\n";
-20579|<O>| notify("您做生意得出示商会的钱票。");
-20580|<O>| tell_user(me, "清除怪物成功");
-20581|<O>| ESC "查看竞选行情。\n" + cmd3 +
+﻿20468|<O>| return "Một loại đồ đồng dùng để đựng vật phẩm, dùng làm vật bán";
+20469|<O>| printf(ECHO "Bạn bắt đầu thu thập thảo dược……");
+20470|<O>| "Hạt Vĩ" : "Ở rìa đầm lầy giết Hạt Vĩ Hạt có thể nhận được Hạt Vĩ",
+20471|<O>| return "Vật phẩm nhiệm vụ. Một loại bảo châu giống phỉ thuý.";
+20472|<O>| time = sec / 90;	// Đợt quái vật thứ mấy
+20473|<O>| return "Xích Anh Thương thần bí, dường như ẩn chứa bí mật nào đó";
+20474|<O>| set_real_name("Thạch Khắc 47~59");
+20475|<O>| ESC "Thôi để đó đã……\nCLOSE\n",
+20476|<O>| pet->set_owner(who);	//Bắt buộc
+20477|<O>| ESC "Quản lý kênh VIP.\n" + cmd4 +
+20478|<O>| return "Vật phẩm nhiệm vụ. Một loại thư hàm hồi phục sứ mệnh.";
+20479|<O>| notify("%s hiện chỉ có %s, số lượng không đủ.",
+20480|<O>| result += ESC"Rời đi\nCLOSE";
+20481|<O>| "Thiết Giáp Thi" : "Ở tầng hai Linh Cốc Động có thể giết được Thiết Giáp Thi ",
+20482|<O>| return "Vật phẩm nhiệm vụ. Bản vẽ dùng để xây nhà.";
+20483|<O>| "Châu Võng" : "Ở Trường Bạch Sơn giết Lục Xác Tri Châu có thể nhận được Châu Võng",
+20484|<O>| result = "Xin chọn điều khiển bù đắp hợp máy chủ:\n";
+20485|<O>| else if (rate < 64)	//Chính Khí Tán
+20486|<O>| "Đi nhanh đi nhanh, nhiều người nhìn vậy, người ta ngại lắm.#26",
+20487|<O>| // Kỹ năng tầm xa đơn thể  TIPS:[PF_CAST]
+20488|<O>| else    result = "Bạn muốn:\n";
+20489|<O>| return "Bộ phận thân thương đúc bằng hàn thiết, dùng làm vật bán";
+20490|<O>| return "Vật phẩm nhiệm vụ. Một loại tín vật điều động quân đội.";
+20491|<O>| return "Hồi đầy khí huyết, pháp lực, thời gian hồi chiêu 30 giây";
+20492|<O>| ESC "Xác nhận\nset !attack 0\n"
+20493|<O>| return "Trong một giờ tăng 18% giới hạn khí huyết";
+20494|<O>| return "Phú cho mũ hoặc đai lưng khả năng 80 phòng thủ pháp thuật";
+20495|<O>| return "Một loại phòng cụ sơ cấp thích hợp cho nữ.";
+20496|<O>| else if (rate < 55)	//Tàng Bảo Đồ
+20497|<O>| return "Vật phẩm nhiệm vụ. Một loại văn thư quan viên giao tiếp.";
+20498|<O>| return "Một loại công cụ dùng để bắt cá, dùng làm vật bán";
+20499|<O>| mpVote = ([]);		//Thông tin đang bỏ phiếu
+20500|<O>| else if (rate < 36)	//Pháp Lực Thạch
+20501|<O>| return "Vật phẩm nhiệm vụ. Một loại hàn thiết thượng hạng nghìn năm.";
+20502|<O>| notify("Không thể quét thư mục /data!");
+20503|<O>| else if (p < 26)    // Tiền
+20504|<O>| printf(ECHO "Bạn sơ ý bị trúng độc!");
+20505|<O>| notify("Kính giám định của bạn không đủ để giám định trang bị này");
+20506|<O>| //	Sửa đổi một nhắc nhở chuông báo, thành công trả về 1, thất bại trả về 0
+20507|<O>| return "Vật phẩm nhiệm vụ. Một loại cây trồng vừa làm thuốc vừa làm thực phẩm.";
+20508|<O>| notify("Tiềm năng của bạn không đủ %d.", pot);
+20509|<O>| return "Bộ phận thân đao đúc bằng hàn thiết, dùng làm vật bán";
+20510|<O>| //		flag = 1;	Khởi tạo kinh nghiệm 50000
+20511|<O>| else if (type == 3)	//Thi Ngẫu Thuật
+20512|<O>| return "Vật phẩm nhiệm vụ. Một loại dụng cụ dùng để đập.";
+20513|<O>| return "Vật phẩm nhiệm vụ. Một loại trái cây nhiều nước vị ngọt.";
+20514|<O>| // Tự động tạo:/make/item/make33
+20515|<O>| result = "Bạn đã chết, bạn có các lựa chọn sau:\n";
+20516|<O>| // Hàm: Di chuyển đến mục tiêu (chỉ dùng cho equip.c)
+20517|<O>| return "Vật phẩm nhiệm vụ. Một loại văn thư tấu lên đại vương.";
+20518|<O>| else if (rate < 99)	//Bách Bảo Nang
+20519|<O>| set_real_name("Thiết Tượng 41~60");
+20520|<O>| return "Vật phẩm nhiệm vụ. Một khối bảo ngọc chạm khắc tinh mỹ.";
+20521|<O>| return "［Nguyên liệu hợp thành trang bị］Tăng phần trăm tấn công";
+20522|<O>| // Hàm: Lấy màu tương ứng với giá trị cấp độ vũ khí, chưa viết xong
+20523|<O>| notify("Trên chiến trường không được kết đội với kẻ địch!");
+20524|<O>| return "Vật phẩm nhiệm vụ. Một loại văn thư bẩm báo quan phương.";
+20525|<O>| result = result + ", một vạn vàng";
+20526|<O>| npc->set_city_name("Tần Quốc");
+20527|<O>| // Tự động tạo:/make/item/make30
+20528|<O>| else if ( cKind == "Ám Khí" )
+20529|<O>| // Tự động tạo:/make/std/makemap
+20530|<O>| return "Vật phẩm nhiệm vụ. Một bằng chứng lĩnh binh ra trận.";
+20531|<O>| return "Một loại phòng cụ sơ cấp thích hợp cho nam.";
+20532|<O>| int StartX, StartY;	//Điểm bắt đầu
+20533|<O>| return "Vật phẩm nhiệm vụ. Tương truyền là sừng Lộc Vương bị gãy.";
+20534|<O>| // Kỹ năng tự dùng liên tục  TIPS:[PF_SELF]
+20535|<O>| result ="Bây giờ bạn cần chọn hệ phát triển:\n"
+20536|<O>| return "Một loại nguyên liệu dệt vải, dùng làm vật bán";
+20537|<O>| if (rate2 < 90)	//Sách tiến giai môn phái ngẫu nhiên
+20538|<O>| "Hoả Chủng" : "Ở một dải Vô Định Hà giết Quỷ Hoả có thể nhận được Hoả Chủng",
+20539|<O>| "Tiễn Đồng" : "Ở Triệu Trường Thành giết Triệu Quốc Cung Binh có thể nhận được Tiễn Đồng",
+20540|<O>| return "Ngọc kiếm thần bí, dường như ẩn chứa bí mật nào đó";
+20541|<O>| ESC "Quản lý kênh công cộng.\n" + cmd2 +
+20542|<O>| return "Vật phẩm nhiệm vụ. Mảnh dưới mật đồ Cơ Quan.";
+20543|<O>| return "Một loại khí vật dùng cho pháp trường, dùng làm vật bán";
+20544|<O>| ESC "Thiết lập lương Thành Chủ.\n" + cmd3 +
+20545|<O>| notify("Số người trong danh sách đen không thể vượt quá 50.");
+20546|<O>| printf(ECHO "Bạn ở quá xa mục tiêu.");
+20547|<O>| return "Vật phẩm nhiệm vụ. Tiền rượu tặng Vệ Đội Trưởng.";
+20548|<O>| Hoạt động《Chân Giả Hổ Vương》NPC cấu hình ---- Lâm thời truyền tống công
+20549|<O>| notify("Bạn đã hoàn thành nhiệm vụ quyên góp vốn.");
+20550|<O>| return "Ám khí thần bí, dường như ẩn chứa bí mật nào đó";
+20551|<O>| // Tệp hàm: inh/npc/event.c
+20552|<O>| return "Vĩnh viễn phú cho vũ khí khả năng 20 vật công";
+20553|<O>| else if (rate < 630)//Kim Trang
+20554|<O>| _DEBUG("DEBUG -- Bật chuông báo");
+20555|<O>| ESC "Quản lý kênh tin đồn.\n" + cmd3 +
+20556|<O>| "Quán Trung Yêu" : "Ở tầng một Linh Cốc Động có thể bắt được Quán Trung Yêu",
+20557|<O>| else if (rate < 440)//Bạch Trang
+20558|<O>| ESC "Nhận nhiệm vụ chiến bị.\n" + cmd3 +
+20559|<O>| ESC "Dùng Công Đức điểm tẩy điểm.\n" + cmd6 +
+20560|<O>| return "Vật phẩm nhiệm vụ. Vật dùng để điều tra vụ án.";
+20561|<O>| return "［Nguyên liệu hợp thành trang bị］Tăng phòng thủ pháp thuật";
+20562|<O>| set_no_give(1);		//	Không thể tặng
+20563|<O>| me->set_org_title("Bang Chủ");
+20564|<O>| return "［Bá Vương Thương Pháp］Kỹ năng trang bị thương pháp\n";
+20565|<O>| else if (rate < 850)//Kim Trang
+20566|<O>| return "Vĩnh viễn tăng 20 điểm phòng thủ pháp thuật";
+20567|<O>| return "Một bộ phận chi thể của bọ ngựa, dùng làm vật bán";
+20568|<O>| ESC "Chờ đợi tự động hồi sinh.\nCLOSE\n");
+20569|<O>| return "Vĩnh viễn phú cho giày khả năng 20 pháp lực";
+20570|<O>| ESC "Tôi muốn xem hàng hoá\nlist %x#\n"
+20571|<O>| ESC "Thiết lập thuế suất thành này.\n" + cmd2 +
+20572|<O>| "Sở Quân Đao Binh" : "Ở Sở Phương Thành có thể bắt được Sở Quân Đao Binh",
+20573|<O>| "    '%s' không sai chứ? Thật là cái tên hay.\n"
+20574|<O>| Truy vấn xổ số và các lệnh: hiện chủ yếu dùng để phối hợp thiết lập《Chiến Quốc Bảo Điển》
+20575|<O>| notify("Làm ăn phải có tiền phiếu hoặc ngân phiếu.");
+20576|<O>| return "Truyền tống bản thân đến toạ độ chỉ định trong cảnh hiện tại";
+20577|<O>| if (num == 2)    // Trong bao gói
+20578|<O>| return "［Luyện Đan Thuật］Luyện chế dược phẩm theo công thức\n";
+20579|<O>| notify("Bạn làm ăn phải xuất trình tiền phiếu của thương hội.");
+20580|<O>| tell_user(me, "Xoá quái vật thành công");
+20581|<O>| ESC "Xem tình hình tranh cử.\n" + cmd3 +

@@ -1,163 +1,163 @@
-﻿30440|<O>| return "古甲头巾";
-30441|<O>| return "衾天战袍";
-30442|<O>| return "混天彩衣";
-30443|<O>| return "凤羽头巾";
-30444|<O>| return "古甲腰带";
-30445|<O>| case 1:	//	主对白
-30446|<O>| return "天尊战盔";
-30447|<O>| return "灵鹿项链";
-30448|<O>| // 函数:设置购买道具标志
-30449|<O>| set_name("羊");
-30450|<O>| return "天神战袍";
-30451|<O>| // 函数:设置受到最大伤害
-30452|<O>| // 函数:删除文件中注释行
-30453|<O>| return "王府信件";
-30454|<O>| return "翼飞素裙";
-30455|<O>| // 函数:获取刷新数组尺寸
-30456|<O>| return "紫云战衣";
-30457|<O>| // 函数:设置敏捷成长系数
-30458|<O>| // 函数:设置法力成长系数
-30459|<O>| return "碧龙头巾";
-30460|<O>| return "飞云彩衣";
-30461|<O>| return "追风战甲";
-30462|<O>| // 帮派规模提升的结束时间
-30463|<O>| return "鹤啸素裙";
-30464|<O>| return "垂云巾帽";
-30465|<O>| set_unit("两");
-30466|<O>| return "猎豹披风";
-30467|<O>| return "幽明项链";
-30468|<O>| set_unit("团");
-30469|<O>| set_unit("盘");
-30470|<O>| return "星辰霞冠";
-30471|<O>| return "斥云彩衣";
-30472|<O>| // 函数:获取反法术伤害率
-30473|<O>| set_unit("封");
-30474|<O>| return "翻云腰带";
-30475|<O>| // 函数:设置同中线Ｘ距离
-30476|<O>| return "欣风巾帽";
-30477|<O>| return "九天战甲";
-30478|<O>| return "踏青巾帽";
-30479|<O>| case 6:		//洗红名
-30480|<O>| return "女性装备";
-30481|<O>| return "苍昆腰带";
-30482|<O>| return "巨象之靴";
-30483|<O>| return "豹纹巾帽";
-30484|<O>| return "神威战盔";
-30485|<O>| return "玉缕头巾";
-30486|<O>| // 函数:获取敏捷成长系数
-30487|<O>| return "龙神项链";
-30488|<O>| return "龙头素裙";
-30489|<O>| // 函数:设置法防成长系数
-30490|<O>| //// 函数:特技攻击对手
-30491|<O>| return "龙头腰带";
-30492|<O>| return "战龙披风";
-30493|<O>| return "兽牙项链";
-30494|<O>| // 函数:设置法攻成长系数
-30495|<O>| set_unit("份");
-30496|<O>| return "彻云素裙";
-30497|<O>| return "亡魂之盔";
-30498|<O>| // 帮派战争相关的临时数据
-30499|<O>| set_unit("张");
-30500|<O>| return "紫云战袍";
-30501|<O>| return "青云腰带";
-30502|<O>| return "青龙头巾";
-30503|<O>| return "追云腰带";
-30504|<O>| return "乾云战袍";
-30505|<O>| return "星宿战盔";
-30506|<O>| return "神蕴项链";
-30507|<O>| return "倾露披风";
-30508|<O>| return "冥光巾帽";
-30509|<O>| return "天威行装";
-30510|<O>| return "战天巾帽";
-30511|<O>| return "欣风披风";
-30512|<O>| return "浑霜腰带";
-30513|<O>| return "风雷腰带";
-30514|<O>| "58" : "燕国枪兵",
-30515|<O>| default: // 修好
-30516|<O>| return "巨象腰带";
-30517|<O>| return "灵石项链";
-30518|<O>| return "压耳头巾";
-30519|<O>| return "镶铁腰带";
-30520|<O>| return "残阳战盔";
-30521|<O>| return "守护行装";
-30522|<O>| return "玉清素裙";
-30523|<O>| // 函数:是否在路线３上面
-30524|<O>| // 函数:是否有持续特殊技
-30525|<O>| // 函数:增加NPC 数据
-30526|<O>| // 函数:设置远程攻击模式
-30527|<O>| return "破敌腰带";
-30528|<O>| // 函数:获取免法术伤害率
-30529|<O>| return "残阳战衣";
-30530|<O>| return "黑铁项链";
-30531|<O>| return "云龙战鞋";
-30532|<O>| // 函数:设置综合任务坐标
-30533|<O>| return "天神战衣";
-30534|<O>| return "鹅绒头巾";
-30535|<O>| // 函数:获取部队升级时间
-30536|<O>| return "潮汐法袍";
-30537|<O>| return "云龙战袍";
-30538|<O>| return "青柳腰带";
-30539|<O>| return "摄魂霞冠";
-30540|<O>| return "战神铠甲";
-30541|<O>| return "金丝腰带";
-30542|<O>| return "龙骨战甲";
-30543|<O>| return "衾天战衣";
-30544|<O>| // 设置唯一编号和失效时间
-30545|<O>| set_unit("盒");
-30546|<O>| return "含魂之链";
-30547|<O>| // 函数:允许是否载入物体
-30548|<O>| return "飞龙巾帽";
-30549|<O>| return "鹤啸巾帽";
-30550|<O>| return "炎阳项链";
-30551|<O>| return "灵鹿绒帽";
-30552|<O>| return "飞虎素裙";
-30553|<O>| // 函数:运行时段错误处理
-30554|<O>| "他们都在干嘛呢？#67",
-30555|<O>| return "流云行装";
-30556|<O>| return "狂龙头巾";
-30557|<O>| return "炎鳞战袍";
-30558|<O>| return "碧龙腰带";
-30559|<O>| set_name("姜");
-30560|<O>| return "玄金项链";
-30561|<O>| return "战龙腰带";
-30562|<O>| return "风神法袍";
-30563|<O>| else				//队伍跟随
-30564|<O>| return "飞云腰带";
-30565|<O>| return "冥光披风";
-30566|<O>| return "杏风腰带";
-30567|<O>| return "飞羽腰带";
-30568|<O>| return "混天披甲";
-30569|<O>| return "斩侯披风";
-30570|<O>| return "七霞项链";
-30571|<O>| return "祁龙巾帽";
-30572|<O>| return "速风项链";
-30573|<O>| //// 函数:获取装备代码
-30574|<O>| set_name("糖");
-30575|<O>| return "丝绸腰带";
-30576|<O>| return "寒星行装";
-30577|<O>| return "龙鳞战袍";
-30578|<O>| return "跃天素裙";
-30579|<O>| return "龙神战盔";
-30580|<O>| return "神风项链";
-30581|<O>| return "玄魔神甲";
-30582|<O>| return "雷霆战甲";
-30583|<O>| return "凤天战巾";
-30584|<O>| return "战天腰带";
-30585|<O>| return "环雾行装";
-30586|<O>| result = "工业";
-30587|<O>| return "战空腰带";
-30588|<O>| return "秋娥项链";
-30589|<O>| return "青龙腰带";
-30590|<O>| return "云龙战盔";
-30591|<O>| return "宣明头巾";
-30592|<O>| //设置春节活动的开启和关闭
-30593|<O>| return "紫云霞冠";
-30594|<O>| "51" : "绿壳蜘蛛",
-30595|<O>| return "哓风腰带";
-30596|<O>| return "星宿战靴";
-30597|<O>| //设置仇恨值(无打击对象)
-30598|<O>| // 函数:职业升级所需经验
-30599|<O>| return "神行腰带";
-30600|<O>| //不是完成任务时不掉耐久度
-30601|<O>| return "云龙披甲";
-30602|<O>| return "天乾腰带";
+﻿30440|<O>| return "Cổ Giáp Đầu Cân";
+30441|<O>| return "Khâm Thiên Chiến Bào";
+30442|<O>| return "Hỗn Thiên Thái Y";
+30443|<O>| return "Phượng Vũ Đầu Cân";
+30444|<O>| return "Cổ Giáp Yêu Đái";
+30445|<O>| case 1:	//	Đối thoại chính
+30446|<O>| return "Thiên Tôn Chiến Khôi";
+30447|<O>| return "Linh Lộc Hạng Liên";
+30448|<O>| // Hàm: Thiết lập cờ mua đạo cụ
+30449|<O>| set_name("Dê");
+30450|<O>| return "Thiên Thần Chiến Bào";
+30451|<O>| // Hàm: Thiết lập sát thương tối đa nhận được
+30452|<O>| // Hàm: Xoá dòng ghi chú trong tệp
+30453|<O>| return "Thư Tín Vương Phủ";
+30454|<O>| return "Dực Phi Tố Quần";
+30455|<O>| // Hàm: Lấy kích thước mảng làm mới
+30456|<O>| return "Tử Vân Chiến Y";
+30457|<O>| // Hàm: Thiết lập hệ số tăng trưởng nhanh nhẹn
+30458|<O>| // Hàm: Thiết lập hệ số tăng trưởng pháp lực
+30459|<O>| return "Bích Long Đầu Cân";
+30460|<O>| return "Phi Vân Thái Y";
+30461|<O>| return "Truy Phong Chiến Giáp";
+30462|<O>| // Thời gian kết thúc nâng cấp quy mô bang phái
+30463|<O>| return "Hạc Khiếu Tố Quần";
+30464|<O>| return "Thuỳ Vân Cân Mạo";
+30465|<O>| set_unit("Lạng");
+30466|<O>| return "Liệp Báo Phi Phong";
+30467|<O>| return "U Minh Hạng Liên";
+30468|<O>| set_unit("Cục");
+30469|<O>| set_unit("Đĩa");
+30470|<O>| return "Tinh Thần Hà Quán";
+30471|<O>| return "Xích Vân Thái Y";
+30472|<O>| // Hàm: Lấy tỷ lệ phản sát thương pháp thuật
+30473|<O>| set_unit("Phong");
+30474|<O>| return "Phiên Vân Yêu Đái";
+30475|<O>| // Hàm: Thiết lập khoảng cách X đồng trung tuyến
+30476|<O>| return "Hân Phong Cân Mạo";
+30477|<O>| return "Cửu Thiên Chiến Giáp";
+30478|<O>| return "Đạp Thanh Cân Mạo";
+30479|<O>| case 6:		//Rửa tên đỏ
+30480|<O>| return "Trang bị nữ";
+30481|<O>| return "Thương Côn Yêu Đái";
+30482|<O>| return "Cự Tượng Chi Ngoa";
+30483|<O>| return "Báo Văn Cân Mạo";
+30484|<O>| return "Thần Uy Chiến Khôi";
+30485|<O>| return "Ngọc Lũ Đầu Cân";
+30486|<O>| // Hàm: Lấy hệ số tăng trưởng nhanh nhẹn
+30487|<O>| return "Long Thần Hạng Liên";
+30488|<O>| return "Long Đầu Tố Quần";
+30489|<O>| // Hàm: Thiết lập hệ số tăng trưởng pháp phòng
+30490|<O>| //// Hàm: Đặc kỹ tấn công đối thủ
+30491|<O>| return "Long Đầu Yêu Đái";
+30492|<O>| return "Chiến Long Phi Phong";
+30493|<O>| return "Thú Nha Hạng Liên";
+30494|<O>| // Hàm: Thiết lập hệ số tăng trưởng pháp công
+30495|<O>| set_unit("Phần");
+30496|<O>| return "Triệt Vân Tố Quần";
+30497|<O>| return "Vong Hồn Chi Khôi";
+30498|<O>| // Dữ liệu tạm thời liên quan chiến tranh bang phái
+30499|<O>| set_unit("Tờ");
+30500|<O>| return "Tử Vân Chiến Bào";
+30501|<O>| return "Thanh Vân Yêu Đái";
+30502|<O>| return "Thanh Long Đầu Cân";
+30503|<O>| return "Truy Vân Yêu Đái";
+30504|<O>| return "Càn Vân Chiến Bào";
+30505|<O>| return "Tinh Tú Chiến Khôi";
+30506|<O>| return "Thần Uẩn Hạng Liên";
+30507|<O>| return "Khuynh Lộ Phi Phong";
+30508|<O>| return "Minh Quang Cân Mạo";
+30509|<O>| return "Thiên Uy Hành Trang";
+30510|<O>| return "Chiến Thiên Cân Mạo";
+30511|<O>| return "Hân Phong Phi Phong";
+30512|<O>| return "Hồn Sương Yêu Đái";
+30513|<O>| return "Phong Lôi Yêu Đái";
+30514|<O>| "58" : "Thương Binh Yên Quốc",
+30515|<O>| default: // Sửa xong
+30516|<O>| return "Cự Tượng Yêu Đái";
+30517|<O>| return "Linh Thạch Hạng Liên";
+30518|<O>| return "Áp Nhĩ Đầu Cân";
+30519|<O>| return "Tương Thiết Yêu Đái";
+30520|<O>| return "Tàn Dương Chiến Khôi";
+30521|<O>| return "Thủ Hộ Hành Trang";
+30522|<O>| return "Ngọc Thanh Tố Quần";
+30523|<O>| // Hàm: Có nằm trên tuyến 3 không
+30524|<O>| // Hàm: Có đặc kỹ liên tục không
+30525|<O>| // Hàm: Tăng dữ liệu NPC
+30526|<O>| // Hàm: Thiết lập chế độ tấn công tầm xa
+30527|<O>| return "Phá Địch Yêu Đái";
+30528|<O>| // Hàm: Lấy tỷ lệ miễn sát thương pháp thuật
+30529|<O>| return "Tàn Dương Chiến Y";
+30530|<O>| return "Hắc Thiết Hạng Liên";
+30531|<O>| return "Vân Long Chiến Hài";
+30532|<O>| // Hàm: Thiết lập toạ độ nhiệm vụ tổng hợp
+30533|<O>| return "Thiên Thần Chiến Y";
+30534|<O>| return "Nga Nhung Đầu Cân";
+30535|<O>| // Hàm: Lấy thời gian nâng cấp bộ đội
+30536|<O>| return "Triều Tịch Pháp Bào";
+30537|<O>| return "Vân Long Chiến Bào";
+30538|<O>| return "Thanh Liễu Yêu Đái";
+30539|<O>| return "Nhiếp Hồn Hà Quán";
+30540|<O>| return "Chiến Thần Khải Giáp";
+30541|<O>| return "Kim Ti Yêu Đái";
+30542|<O>| return "Long Cốt Chiến Giáp";
+30543|<O>| return "Khâm Thiên Chiến Y";
+30544|<O>| // Thiết lập mã số duy nhất và thời gian hết hạn
+30545|<O>| set_unit("Hộp");
+30546|<O>| return "Hàm Hồn Chi Liên";
+30547|<O>| // Hàm: Cho phép nạp vật thể hay không
+30548|<O>| return "Phi Long Cân Mạo";
+30549|<O>| return "Hạc Khiếu Cân Mạo";
+30550|<O>| return "Viêm Dương Hạng Liên";
+30551|<O>| return "Linh Lộc Nhung Mạo";
+30552|<O>| return "Phi Hổ Tố Quần";
+30553|<O>| // Hàm: Xử lý lỗi thời gian chạy
+30554|<O>| "Họ đang làm gì vậy?#67",
+30555|<O>| return "Lưu Vân Hành Trang";
+30556|<O>| return "Cuồng Long Đầu Cân";
+30557|<O>| return "Viêm Lân Chiến Bào";
+30558|<O>| return "Bích Long Yêu Đái";
+30559|<O>| set_name("Gừng");
+30560|<O>| return "Huyền Kim Hạng Liên";
+30561|<O>| return "Chiến Long Yêu Đái";
+30562|<O>| return "Phong Thần Pháp Bào";
+30563|<O>| else				//Đội đi theo
+30564|<O>| return "Phi Vân Yêu Đái";
+30565|<O>| return "Minh Quang Phi Phong";
+30566|<O>| return "Hạnh Phong Yêu Đái";
+30567|<O>| return "Phi Vũ Yêu Đái";
+30568|<O>| return "Hỗn Thiên Phi Giáp";
+30569|<O>| return "Trảm Hầu Phi Phong";
+30570|<O>| return "Thất Hà Hạng Liên";
+30571|<O>| return "Kỳ Long Cân Mạo";
+30572|<O>| return "Tốc Phong Hạng Liên";
+30573|<O>| //// Hàm: Lấy mã trang bị
+30574|<O>| set_name("Đường");
+30575|<O>| return "Ti Trù Yêu Đái";
+30576|<O>| return "Hàn Tinh Hành Trang";
+30577|<O>| return "Long Lân Chiến Bào";
+30578|<O>| return "Dược Thiên Tố Quần";
+30579|<O>| return "Long Thần Chiến Khôi";
+30580|<O>| return "Thần Phong Hạng Liên";
+30581|<O>| return "Huyền Ma Thần Giáp";
+30582|<O>| return "Lôi Đình Chiến Giáp";
+30583|<O>| return "Phượng Thiên Chiến Cân";
+30584|<O>| return "Chiến Thiên Yêu Đái";
+30585|<O>| return "Hoàn Vụ Hành Trang";
+30586|<O>| result = "Công nghiệp";
+30587|<O>| return "Chiến Không Yêu Đái";
+30588|<O>| return "Thu Nga Hạng Liên";
+30589|<O>| return "Thanh Long Yêu Đái";
+30590|<O>| return "Vân Long Chiến Khôi";
+30591|<O>| return "Tuyên Minh Đầu Cân";
+30592|<O>| //Thiết lập mở và đóng hoạt động Tết
+30593|<O>| return "Tử Vân Hà Quán";
+30594|<O>| "51" : "Nhện Vỏ Lục",
+30595|<O>| return "Hiểu Phong Yêu Đái";
+30596|<O>| return "Tinh Tú Chiến Ngoa";
+30597|<O>| //Thiết lập giá trị thù hận (không có đối tượng tấn công)
+30598|<O>| // Hàm: Kinh nghiệm cần để nâng cấp nghề
+30599|<O>| return "Thần Hành Yêu Đái";
+30600|<O>| //Không phải lúc hoàn thành nhiệm vụ thì không giảm độ bền
+30601|<O>| return "Vân Long Phi Giáp";
+30602|<O>| return "Thiên Càn Yêu Đái";

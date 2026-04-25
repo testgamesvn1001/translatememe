@@ -1,170 +1,170 @@
-﻿30772|<O>| // 函数:设置时间数据集
-30773|<O>| else    // 邀请
-30774|<O>| return "古藤鞋";
-30775|<O>| return "沙场裙";
-30776|<O>| return "战天靴";
-30777|<O>| return "赶日鞋";
-30778|<O>| return "战空履";
-30779|<O>| //	爆装活动相关变量设置
-30780|<O>| return "绿青裙";
-30781|<O>| return "古甲鞋";
-30782|<O>| // 函数:设置免异常效果
-30783|<O>| case 2: // 问罪
-30784|<O>| return "天神履";
-30785|<O>| return "飞豹冠";
-30786|<O>| // 函数:删除瞬移数据集
-30787|<O>| //删除技能的影响(收回)
-30788|<O>| return "破敌靴";
-30789|<O>| return "斥云履";
-30790|<O>| // 函数:删除攻击方玩家
-30791|<O>| return "武生帽";
-30792|<O>| return "龙骨盔";
-30793|<O>| return "地坤鞋";
-30794|<O>| return "传风裙";
-30795|<O>| // 函数:设置法术闪避率
-30796|<O>| return "心骅衣";
-30797|<O>| // 函数:放入巧克力精灵
-30798|<O>| //47到57随机金色图纸
-30799|<O>| return "天水衣";
-30800|<O>| return "飞羽冠";
-30801|<O>| return "战空衣";
-30802|<O>| return "拂晓裙";
-30803|<O>| return "麻布甲";
-30804|<O>| //增加强化技能学习选项。
-30805|<O>| return "追云鞋";
-30806|<O>| // 函数:获取免装备条件
-30807|<O>| // 函数:获取最初获得者
-30808|<O>| return "狂战盔";
-30809|<O>| return "豹纹鞋";
-30810|<O>| return "追风履";
-30811|<O>| //	//询问队友是否加入
-30812|<O>| return "战将靴";
-30813|<O>| return "星宿履";
-30814|<O>| "81" : "铜甲尸",
-30815|<O>| return "玉露裙";
-30816|<O>| // 函数:获取申请人数量
-30817|<O>| return "皮革帽";
-30818|<O>| return "战天冠";
-30819|<O>| return "倾露冠";
-30820|<O>| return "蕲木冠";
-30821|<O>| return "神风冠";
-30822|<O>| return "碧龙裙";
-30823|<O>| // 函数:删除典当数据集
-30824|<O>| return "丝绸鞋";
-30825|<O>| type2 = "暗器";
-30826|<O>| return "白虎裙";
-30827|<O>| return "冥光袍";
-30828|<O>| return "嗜天鞋";
-30829|<O>| return "青柳裙";
-30830|<O>| return "神风靴";
-30831|<O>| return "鲤鱼鞋";
-30832|<O>| // 函数:设置反伤害发生
-30833|<O>| return "玉露鞋";
-30834|<O>| return "玉清履";
-30835|<O>| // 函数:清空防守方玩家
-30836|<O>| // 函数:删除攻击方士兵
-30837|<O>| type2 = "剑法";
-30838|<O>| // 函数:删除任务数据集
-30839|<O>| return "紫云冠";
-30840|<O>| name = "战国令";
-30841|<O>| return "豹纹袍";
-30842|<O>| // 函数:初始任务数据集
-30843|<O>| return "吃嫩草";
-30844|<O>| return "绿青靴";
-30845|<O>| return "蓝缎鞋";
-30846|<O>| return "麒麟盔";
-30847|<O>| // 函数:初始临时数据集
-30848|<O>| // 函数:删除防守方箭塔
-30849|<O>| return "轩缘履";
-30850|<O>| //	判断当前活动是否开启
-30851|<O>| return "彻云履";
-30852|<O>| return "寒星鞋";
-30853|<O>| return "沙场鞋";
-30854|<O>| // 函数:删除攻击方佣兵
-30855|<O>| return "雷神履";
-30856|<O>| return "传风衣";
-30857|<O>| return "哓风裙";
-30858|<O>| return "云龙帽";
-30859|<O>| return "撼天鞋";
-30860|<O>| // 函数:获取税收分红率
-30861|<O>| return "丝绸帽";
-30862|<O>| // 函数:是否在路线１内
-30863|<O>| return "浑霜履";
-30864|<O>| return "杏风鞋";
-30865|<O>| // 函数:设置城主２姓名
-30866|<O>| return "金丝鞋";
-30867|<O>| return "古甲帽";
-30868|<O>| return "狂战衣";
-30869|<O>| cName = "水鬼";
-30870|<O>| _DEBUG("开奖");
-30871|<O>| // 函数:情人节任务信息
-30872|<O>| //	活动临近时执行的函数
-30873|<O>| return "战龙冠";
-30874|<O>| // 函数:获取法术命中率
-30875|<O>| // 函数:设置申请人等级
-30876|<O>| return "火珠链";
-30877|<O>| else// 单个人的情况
-30878|<O>| return "丝绸靴";
-30879|<O>| return "狂战甲";
-30880|<O>| cName = "枪魂";
-30881|<O>| // 函数:设置城主２ＩＤ
-30882|<O>| return "随风裙";
-30883|<O>| return "龙神履";
-30884|<O>| // 不研究奇门遁甲和神游
-30885|<O>| // 函数:获取帮主姓名２
-30886|<O>| // 函数:设置服务器分区
-30887|<O>| // 函数:初始存盘数据集
-30888|<O>| return "魔王巾";
-30889|<O>| return "蓝缎帽";
-30890|<O>| // 函数:获取发信人标识
-30891|<O>| return "有三色";
-30892|<O>| return "细棉衣";
-30893|<O>| name += "锻造";
-30894|<O>| return "天乾履";
-30895|<O>| return "翻云鞋";
-30896|<O>| return "欣风帽";
-30897|<O>| return "玉清袍";
-30898|<O>| return "细麻衣";
-30899|<O>| // 根据存档格式生成文件
-30900|<O>| return "炽纹鞋";
-30901|<O>| return "修仙冠";
-30902|<O>| // 函数:初始日志数据集
-30903|<O>| // 函数:设置出怪点总数
-30904|<O>| return "冥光冠";
-30905|<O>| "线上打宝活动操作:\n"
-30906|<O>| "22" : "恶老头",
-30907|<O>| return "神行鞋";
-30908|<O>| "双刀骷髅" : 802,
-30909|<O>| return "破云鞋";
-30910|<O>| return "飞虎履";
-30911|<O>| return "麒麟甲";
-30912|<O>| //	设置NPC的一般属性
-30913|<O>| return "唤云冠";
-30914|<O>| // 函数:设置免法术伤害
-30915|<O>| return "追风袍";
-30916|<O>| return "哓风帽";
-30917|<O>| return "嗜天帽";
-30918|<O>| name = "斑点蛙";
-30919|<O>| return "麒麟冠";
-30920|<O>| "113" : "剑魂",
-30921|<O>| // 函数:获取城主２ＩＤ
-30922|<O>| return "寒星靴";
-30923|<O>| return "彩锦衣";
-30924|<O>| //发送团队信息给团队成员
-30925|<O>| return "心骅履";
-30926|<O>| // 函数:获取防守方士兵
-30927|<O>| return "斩侯冠";
-30928|<O>| return "玉露袍";
-30929|<O>| // 函数:宠物 识别函数
-30930|<O>| return "垂云帽";
-30931|<O>| return "战空冠";
-30932|<O>| // 函数:设置预执行命令
-30933|<O>| return "飞虎袍";
-30934|<O>| return "凤天鞋";
-30935|<O>| return "飞龙履";
-30936|<O>| return "凤天帽";
-30937|<O>| name += "炼制";
-30938|<O>| // 函数:获取申请人数据
-30939|<O>| // 函数:添加时间数据集
-30940|<O>| // 研究力提升的结束时间
-30941|<O>| return "蓝缎衣";
+﻿30772|<O>| // Hàm: Thiết lập tập dữ liệu thời gian
+30773|<O>| else    // Mời
+30774|<O>| return "Cổ Đằng Hài";
+30775|<O>| return "Sa Trường Quần";
+30776|<O>| return "Chiến Thiên Ngoa";
+30777|<O>| return "Cản Nhật Hài";
+30778|<O>| return "Chiến Không Lý";
+30779|<O>| //	Thiết lập biến liên quan hoạt động nổ trang bị
+30780|<O>| return "Lục Thanh Quần";
+30781|<O>| return "Cổ Giáp Hài";
+30782|<O>| // Hàm: Thiết lập miễn hiệu ứng bất thường
+30783|<O>| case 2: // Hỏi tội
+30784|<O>| return "Thiên Thần Lý";
+30785|<O>| return "Phi Báo Quán";
+30786|<O>| // Hàm: Xoá tập dữ liệu dịch chuyển tức thời
+30787|<O>| //Xoá ảnh hưởng kỹ năng (thu hồi)
+30788|<O>| return "Phá Địch Ngoa";
+30789|<O>| return "Xích Vân Lý";
+30790|<O>| // Hàm: Xoá người chơi bên tấn công
+30791|<O>| return "Vũ Sinh Mạo";
+30792|<O>| return "Long Cốt Khôi";
+30793|<O>| return "Địa Khôn Hài";
+30794|<O>| return "Truyền Phong Quần";
+30795|<O>| // Hàm: Thiết lập tỷ lệ né pháp thuật
+30796|<O>| return "Tâm Hoa Y";
+30797|<O>| // Hàm: Bỏ vào tinh linh sô cô la
+30798|<O>| //47 đến 57 đồ chỉ vàng ngẫu nhiên
+30799|<O>| return "Thiên Thuỷ Y";
+30800|<O>| return "Phi Vũ Quán";
+30801|<O>| return "Chiến Không Y";
+30802|<O>| return "Phất Hiểu Quần";
+30803|<O>| return "Ma Bố Giáp";
+30804|<O>| //Thêm tuỳ chọn học kỹ năng cường hoá.
+30805|<O>| return "Truy Vân Hài";
+30806|<O>| // Hàm: Lấy điều kiện miễn trang bị
+30807|<O>| // Hàm: Lấy người sở hữu ban đầu
+30808|<O>| return "Cuồng Chiến Khôi";
+30809|<O>| return "Báo Văn Hài";
+30810|<O>| return "Truy Phong Lý";
+30811|<O>| //	//Hỏi đồng đội có muốn gia nhập không
+30812|<O>| return "Chiến Tướng Ngoa";
+30813|<O>| return "Tinh Tú Lý";
+30814|<O>| "81" : "Đồng Giáp Thi",
+30815|<O>| return "Ngọc Lộ Quần";
+30816|<O>| // Hàm: Lấy số lượng người nộp đơn
+30817|<O>| return "Bì Cách Mạo";
+30818|<O>| return "Chiến Thiên Quán";
+30819|<O>| return "Khuynh Lộ Quán";
+30820|<O>| return "Kỳ Mộc Quán";
+30821|<O>| return "Thần Phong Quán";
+30822|<O>| return "Bích Long Quần";
+30823|<O>| // Hàm: Xoá tập dữ liệu cầm đồ
+30824|<O>| return "Ti Trù Hài";
+30825|<O>| type2 = "Ám khí";
+30826|<O>| return "Bạch Hổ Quần";
+30827|<O>| return "Minh Quang Bào";
+30828|<O>| return "Thệ Thiên Hài";
+30829|<O>| return "Thanh Liễu Quần";
+30830|<O>| return "Thần Phong Ngoa";
+30831|<O>| return "Lý Ngư Hài";
+30832|<O>| // Hàm: Thiết lập kích hoạt phản sát thương
+30833|<O>| return "Ngọc Lộ Hài";
+30834|<O>| return "Ngọc Thanh Lý";
+30835|<O>| // Hàm: Xoá sạch người chơi bên phòng thủ
+30836|<O>| // Hàm: Xoá binh sĩ tấn công
+30837|<O>| type2 = "Kiếm pháp";
+30838|<O>| // Hàm: Xoá tập dữ liệu nhiệm vụ
+30839|<O>| return "Tử Vân Quán";
+30840|<O>| name = "Chiến Quốc Lệnh";
+30841|<O>| return "Báo Văn Bào";
+30842|<O>| // Hàm: Khởi tạo tập dữ liệu nhiệm vụ
+30843|<O>| return "Ăn Cỏ Non";
+30844|<O>| return "Lục Thanh Ngoa";
+30845|<O>| return "Lam Đoạn Hài";
+30846|<O>| return "Kỳ Lân Khôi";
+30847|<O>| // Hàm: Khởi tạo tập dữ liệu tạm thời
+30848|<O>| // Hàm: Xoá tháp tiễn phòng thủ
+30849|<O>| return "Hiên Duyên Lý";
+30850|<O>| //	Kiểm tra hoạt động hiện tại có đang mở không
+30851|<O>| return "Triệt Vân Lý";
+30852|<O>| return "Hàn Tinh Hài";
+30853|<O>| return "Sa Trường Hài";
+30854|<O>| // Hàm: Xoá lính đánh thuê tấn công
+30855|<O>| return "Lôi Thần Lý";
+30856|<O>| return "Truyền Phong Y";
+30857|<O>| return "Hiểu Phong Quần";
+30858|<O>| return "Vân Long Mạo";
+30859|<O>| return "Hám Thiên Hài";
+30860|<O>| // Hàm: Lấy tỷ lệ phân chia thuế
+30861|<O>| return "Ti Trù Mạo";
+30862|<O>| // Hàm: Có nằm trong tuyến 1 không
+30863|<O>| return "Hồn Sương Lý";
+30864|<O>| return "Hạnh Phong Hài";
+30865|<O>| // Hàm: Thiết lập tên Thành Chủ 2
+30866|<O>| return "Kim Ti Hài";
+30867|<O>| return "Cổ Giáp Mạo";
+30868|<O>| return "Cuồng Chiến Y";
+30869|<O>| cName = "Thuỷ Quỷ";
+30870|<O>| _DEBUG("Mở thưởng");
+30871|<O>| // Hàm: Thông tin nhiệm vụ ngày Tình Nhân
+30872|<O>| //	Hàm thực thi khi hoạt động sắp đến
+30873|<O>| return "Chiến Long Quán";
+30874|<O>| // Hàm: Lấy tỷ lệ trúng pháp thuật
+30875|<O>| // Hàm: Thiết lập cấp người nộp đơn
+30876|<O>| return "Hoả Châu Liên";
+30877|<O>| else// Trường hợp một người
+30878|<O>| return "Ti Trù Ngoa";
+30879|<O>| return "Cuồng Chiến Giáp";
+30880|<O>| cName = "Thương Hồn";
+30881|<O>| // Hàm: Thiết lập ID Thành Chủ 2
+30882|<O>| return "Tuỳ Phong Quần";
+30883|<O>| return "Long Thần Lý";
+30884|<O>| // Không nghiên cứu Kỳ Môn Độn Giáp và Thần Du
+30885|<O>| // Hàm: Lấy tên Bang Chủ 2
+30886|<O>| // Hàm: Thiết lập phân vùng máy chủ
+30887|<O>| // Hàm: Khởi tạo tập dữ liệu lưu trữ
+30888|<O>| return "Ma Vương Cân";
+30889|<O>| return "Lam Đoạn Mạo";
+30890|<O>| // Hàm: Lấy mã định danh người gửi
+30891|<O>| return "Hữu Tam Sắc";
+30892|<O>| return "Tế Miên Y";
+30893|<O>| name += "Đúc rèn";
+30894|<O>| return "Thiên Càn Lý";
+30895|<O>| return "Phiên Vân Hài";
+30896|<O>| return "Hân Phong Mạo";
+30897|<O>| return "Ngọc Thanh Bào";
+30898|<O>| return "Tế Ma Y";
+30899|<O>| // Tạo tệp theo định dạng lưu trữ
+30900|<O>| return "Sí Văn Hài";
+30901|<O>| return "Tu Tiên Quán";
+30902|<O>| // Hàm: Khởi tạo tập dữ liệu nhật ký
+30903|<O>| // Hàm: Thiết lập tổng số điểm ra quái
+30904|<O>| return "Minh Quang Quán";
+30905|<O>| "Thao tác hoạt động đánh bảo online:\n"
+30906|<O>| "22" : "Ác Lão Đầu",
+30907|<O>| return "Thần Hành Hài";
+30908|<O>| "Song Đao Khô Lâu" : 802,
+30909|<O>| return "Phá Vân Hài";
+30910|<O>| return "Phi Hổ Lý";
+30911|<O>| return "Kỳ Lân Giáp";
+30912|<O>| //	Thiết lập thuộc tính chung của NPC
+30913|<O>| return "Hoán Vân Quán";
+30914|<O>| // Hàm: Thiết lập miễn sát thương pháp thuật
+30915|<O>| return "Truy Phong Bào";
+30916|<O>| return "Hiểu Phong Mạo";
+30917|<O>| return "Thệ Thiên Mạo";
+30918|<O>| name = "Ếch Đốm";
+30919|<O>| return "Kỳ Lân Quán";
+30920|<O>| "113" : "Kiếm Hồn",
+30921|<O>| // Hàm: Lấy ID Thành Chủ 2
+30922|<O>| return "Hàn Tinh Ngoa";
+30923|<O>| return "Thái Cẩm Y";
+30924|<O>| //Gửi thông tin đội nhóm cho thành viên đội
+30925|<O>| return "Tâm Hoa Lý";
+30926|<O>| // Hàm: Lấy binh sĩ phòng thủ
+30927|<O>| return "Trảm Hầu Quán";
+30928|<O>| return "Ngọc Lộ Bào";
+30929|<O>| // Hàm: Hàm nhận dạng thú cưng
+30930|<O>| return "Thuỳ Vân Mạo";
+30931|<O>| return "Chiến Không Quán";
+30932|<O>| // Hàm: Thiết lập lệnh thực thi trước
+30933|<O>| return "Phi Hổ Bào";
+30934|<O>| return "Phượng Thiên Hài";
+30935|<O>| return "Phi Long Lý";
+30936|<O>| return "Phượng Thiên Mạo";
+30937|<O>| name += "Luyện chế";
+30938|<O>| // Hàm: Lấy dữ liệu người nộp đơn
+30939|<O>| // Hàm: Thêm tập dữ liệu thời gian
+30940|<O>| // Thời gian kết thúc nâng cấp lực nghiên cứu
+30941|<O>| return "Lam Đoạn Y";

@@ -1,113 +1,113 @@
-﻿20355|<O>| npc->set_city_name("赵国");
-20356|<O>| return "任务物品。一种酿酒的上等材料。";
-20357|<O>| else if (rate < 64)	//法力石
-20358|<O>| notify("您的经验不够%d。", pot);
-20359|<O>| return "任务物品。赋有神力的一柄重锤。";
-20360|<O>| return "任务物品。一种木质很好的木头。";
-20361|<O>| tell_user(me, "技能已设置好！");
-20362|<O>| npc->set_name("小偷"+name);
-20363|<O>| //	必出物品 -- 25 堆 10000 游戏币
-20364|<O>| return "仙人施法的一种器具，作出售品用";
-20365|<O>| // 自动生成:/make/item/make90
-20366|<O>| ESC "桃花源(基本)\n" + cmd10 +
-20367|<O>| return "［宝石合成材料］增加攻击百分比";
-20368|<O>| "鼻环" : "在大别山脚杀牛头怪可以得到鼻环",
-20369|<O>| ESC "任命频道管理员。\n" + cmd1 +
-20370|<O>| case 10 : // 3. 七夕天赐奇缘（2）
-20371|<O>| set_real_name("炼丹21~40");
-20372|<O>| return "无人收埋的死者遗骸，作出售品用";
-20373|<O>| else if (rate < 58)	//复生丹
-20374|<O>| return "一个碧绿色的小石头，作出售品用";
-20375|<O>| "秦国弓兵" : "在秦长城可以杀到秦国弓兵 ",
-20376|<O>| notify("宝石合成必须是同类型的宝石。");
-20377|<O>| return "任务物品。写着同心锁所在的信件";
-20378|<O>| return "任务物品。孟求去燕需要的路费。";
-20379|<O>| // 自动生成:/make/item/make36
-20380|<O>| return "沉重的包裹，里面似乎有好东西。";
-20381|<O>| set_real_name("裁缝49~58");
-20382|<O>| set_real_name("裁缝30~39");
-20383|<O>| // 自动生成:/make/item/make09
-20384|<O>| switch (index)    // 移动道具
-20385|<O>| ESC "确定\nset !attack 1\n"
-20386|<O>| return "任务物品。韩国百姓兄长的玉佩。";
-20387|<O>| // 开关技能  TIPS:[PF_SWITCH]
-20388|<O>| return "一种哺育幼体的工具，作出售品用";
-20389|<O>| result+=sprintf(ESC"离开");
-20390|<O>| result = "请选择宝箱系统的操作:\n";
-20391|<O>| return "［装备合成材料］增加法力百分比";
-20392|<O>| set_real_name("机关21~40");
-20393|<O>| return "出入城门的一种信物，作出售品用";
-20394|<O>| else if (p < 38)    // 僵尸
-20395|<O>| tell_user(me, "附身已经完成！");
-20396|<O>| "巡城小兵" : "在马陵道可以杀到巡城小兵 ",
-20397|<O>| return "任务物品。一种营养丰富的食物。";
-20398|<O>| "黄蜂刺" : "在桃花源刺尾蜂可以得到黄蜂刺",
-20399|<O>| return "任务物品。若蝉姑娘的三魂六魄。";
-20400|<O>| result = "请选择五一活动的操作:\n";
-20401|<O>| return "［宝石合成材料］增加气血百分比";
-20402|<O>| ESC "云梦泽(基本)\n" + cmd70 +
-20403|<O>| return "任务物品。私人通信的一种文书。";
-20404|<O>| else if (p < 66)    // 装备
-20405|<O>| "甲胄" : "在困魔阵二层杀尸魔可以得到甲胄",
-20406|<O>| set_real_name("机关61~79");
-20407|<O>| else	//同挖宝者等级段的生活技能随机配方一个
-20408|<O>| private int Hair;			// 头发
-20409|<O>| int iFinish = 0;	//活动是否结束
-20410|<O>| "赵国巡逻兵" : "在巨鹿可以捉到赵国巡逻兵",
-20411|<O>| *   - Movement 行为 100% 相同
-20412|<O>| printf( ECHO "这里不能放毒。" );
-20413|<O>| // 自动生成:/make/npc/makenpc
-20414|<O>| set_real_name("七国游活动向导");
-20415|<O>| return "战场上使用，20 秒后逃离战场";
-20416|<O>| return "［宝石合成材料］增加法力百分比";
-20417|<O>| set_real_name("机关41~60");
-20418|<O>| "腐骨" : "在灵谷洞三层杀恶灵可以得到腐骨",
-20419|<O>| set_real_name("铁匠21~40");
-20420|<O>| if (fam == "无") fam = "";
-20421|<O>| return "［宝石合成材料］增加闪避百分比";
-20422|<O>| return "战场上使用，15 秒后自动复活";
-20423|<O>| set_real_name("炼丹61~80");
-20424|<O>| return "给帽子或腰带赋予60法防的能力";
-20425|<O>| // 函数:毁灭环境处理(目前只有身上物品有环境)
-20426|<O>| notify("宝石和装备的精炼等级不匹配。");
-20427|<O>| return "［金丹法门］按配方炼制药物\n";
-20428|<O>| // 自动生成:/make/item/make49
-20429|<O>| // 用于: Normal combat NPCs
-20430|<O>| // 自动生成:/make/item/make95
-20431|<O>| notify("您在摆摊，不能使用生活技能。");
-20432|<O>| "牛筋" : "在大别山脚杀牛头怪可以得到牛筋",
-20433|<O>| set_real_name("铁匠61~80");
-20434|<O>| return "任务物品。朋友往来的一种书信。";
-20435|<O>| return "任务物品。一种香甜多汁的水果。";
-20436|<O>| set_real_name("石刻60~79");
-20437|<O>| return "任务物品。抵押物品的一种文书。";
-20438|<O>| return "任务物品。类似龙睛的一种宝石。";
-20439|<O>| "小太极" : "在虚灵洞杀金精可以得到小太极",
-20440|<O>| return "任务物品。官方交流的一种文书。";
-20441|<O>| "赵国刀盾兵":"在赵长城可以杀到赵国刀盾兵 ",
-20442|<O>| return "重阳老人在重阳节赠送的贵重礼物";
-20443|<O>| "罐中妖" : "在灵谷洞二层可以杀到罐中妖 ",
-20444|<O>| return "任务物品。一种散发灵光的宝石。";
-20445|<O>| "梅花":"\"/item/30/3001\"",
-20446|<O>| return "神秘的古方棍，似乎藏有某些秘密";
-20447|<O>| tmp = ESC "巧克力豆\n" + cmd;
-20448|<O>| notify("宝石合成必须是同等级的宝石。");
-20449|<O>| //	删除一个闹钟提醒，成功返回 1 失败返回 0
-20450|<O>| return "动物外面的一层躯体，作出售品用";
-20451|<O>| "蛇之冠" : "在华山杀四脚蛇可以得到蛇之冠",
-20452|<O>| //set_no_get(1);	//	不可存当铺
-20453|<O>| tmp = ESC "完成任务\n" + cmd;
-20454|<O>| // 自动生成:/make/item/make96
-20455|<O>| notify("上次寻找gm的活动尚未结束！");
-20456|<O>| else if (rate < 50)	//行军散
-20457|<O>| "赵国弓兵" : "在赵长城可以杀到赵国弓兵 ",
-20458|<O>| "魍魉鬼" : "在灵谷洞二层可以杀到魍魉鬼 ",
-20459|<O>| return "任务物品。战国时期的一种货币。";
-20460|<O>| return "任务物品。一种能代表爱情的花。";
-20461|<O>| notify("定的价格必须在正常范围之内。");
-20462|<O>| return "任务物品。晶莹刺眼的一种冰丝。";
-20463|<O>| else if (p < 9)    // 精元丹
-20464|<O>| who->log_money("功德", p2);
-20465|<O>| int tool_type;					//工具类型
-20466|<O>| return "免死，相当于自己被其他玩家救活";
-20467|<O>| "枪头" : "在秦长城杀秦国枪兵可以得到枪头",
+﻿20355|<O>| npc->set_city_name("Triệu Quốc");
+20356|<O>| return "Vật phẩm nhiệm vụ. Một loại nguyên liệu thượng hạng để nấu rượu.";
+20357|<O>| else if (rate < 64)	//Pháp Lực Thạch
+20358|<O>| notify("Kinh nghiệm của bạn không đủ %d.", pot);
+20359|<O>| return "Vật phẩm nhiệm vụ. Một chiếc búa nặng mang thần lực.";
+20360|<O>| return "Vật phẩm nhiệm vụ. Một khúc gỗ có chất gỗ tốt.";
+20361|<O>| tell_user(me, "Kỹ năng đã thiết lập xong!");
+20362|<O>| npc->set_name("Tiểu Thâu"+name);
+20363|<O>| //	Vật phẩm chắc chắn rơi -- 25 đống 10000 tiền game
+20364|<O>| return "Một loại khí cụ tiên nhân dùng khi thi pháp, dùng làm vật bán";
+20365|<O>| // Tự động tạo:/make/item/make90
+20366|<O>| ESC "Đào Hoa Nguyên (cơ bản)\n" + cmd10 +
+20367|<O>| return "［Nguyên liệu hợp thành Bảo Thạch］Tăng phần trăm tấn công";
+20368|<O>| "Tỵ Hoàn" : "Ở chân Đại Biệt Sơn giết Ngưu Đầu Quái có thể nhận được Tỵ Hoàn",
+20369|<O>| ESC "Bổ nhiệm quản lý viên kênh.\n" + cmd1 +
+20370|<O>| case 10 : // 3. Thất Tịch Thiên Tứ Kỳ Duyên (2)
+20371|<O>| set_real_name("Luyện Đan 21~40");
+20372|<O>| return "Di hài người chết không ai chôn, dùng làm vật bán";
+20373|<O>| else if (rate < 58)	//Phục Sinh Đan
+20374|<O>| return "Một hòn đá nhỏ màu xanh biếc, dùng làm vật bán";
+20375|<O>| "Tần Quốc Cung Binh" : "Ở Tần Trường Thành có thể giết được Tần Quốc Cung Binh ",
+20376|<O>| notify("Hợp thành bảo thạch phải là bảo thạch cùng loại.");
+20377|<O>| return "Vật phẩm nhiệm vụ. Bức thư ghi vị trí Đồng Tâm Khoá";
+20378|<O>| return "Vật phẩm nhiệm vụ. Lộ phí Mạnh Cầu cần đi Yên.";
+20379|<O>| // Tự động tạo:/make/item/make36
+20380|<O>| return "Gói hàng nặng nề, bên trong dường như có đồ tốt.";
+20381|<O>| set_real_name("Thợ may 49~58");
+20382|<O>| set_real_name("Thợ may 30~39");
+20383|<O>| // Tự động tạo:/make/item/make09
+20384|<O>| switch (index)    // Di chuyển đạo cụ
+20385|<O>| ESC "Xác nhận\nset !attack 1\n"
+20386|<O>| return "Vật phẩm nhiệm vụ. Ngọc bội của anh trai bách tính Hàn Quốc.";
+20387|<O>| // Kỹ năng bật tắt  TIPS:[PF_SWITCH]
+20388|<O>| return "Một loại dụng cụ nuôi dưỡng ấu thể, dùng làm vật bán";
+20389|<O>| result+=sprintf(ESC"Rời đi");
+20390|<O>| result = "Xin chọn thao tác hệ thống Bảo Rương:\n";
+20391|<O>| return "［Nguyên liệu hợp thành trang bị］Tăng phần trăm pháp lực";
+20392|<O>| set_real_name("Cơ Quan 21~40");
+20393|<O>| return "Một loại tín vật ra vào cổng thành, dùng làm vật bán";
+20394|<O>| else if (p < 38)    // Cương Thi
+20395|<O>| tell_user(me, "Phụ thân đã hoàn tất!");
+20396|<O>| "Tuần Thành Tiểu Binh" : "Ở Mã Lăng Đạo có thể giết được Tuần Thành Tiểu Binh ",
+20397|<O>| return "Vật phẩm nhiệm vụ. Một loại thực phẩm dinh dưỡng phong phú.";
+20398|<O>| "Hoàng Phong Thích" : "Ở Đào Hoa Nguyên Thích Vĩ Phong có thể nhận được Hoàng Phong Thích",
+20399|<O>| return "Vật phẩm nhiệm vụ. Tam hồn lục phách của Nhược Thiền cô nương.";
+20400|<O>| result = "Xin chọn thao tác hoạt động Ngũ Nhất:\n";
+20401|<O>| return "［Nguyên liệu hợp thành Bảo Thạch］Tăng phần trăm khí huyết";
+20402|<O>| ESC "Vân Mộng Trạch (cơ bản)\n" + cmd70 +
+20403|<O>| return "Vật phẩm nhiệm vụ. Một loại văn thư liên lạc tư nhân.";
+20404|<O>| else if (p < 66)    // Trang bị
+20405|<O>| "Giáp Trụ" : "Ở tầng hai Khốn Ma Trận giết Thi Ma có thể nhận được Giáp Trụ",
+20406|<O>| set_real_name("Cơ Quan 61~79");
+20407|<O>| else	//Công thức ngẫu nhiên kỹ năng sinh hoạt cùng cấp bậc người đào bảo
+20408|<O>| private int Hair;			// Tóc
+20409|<O>| int iFinish = 0;	//Hoạt động đã kết thúc chưa
+20410|<O>| "Triệu Quốc Tuần La Binh" : "Ở Cự Lộc có thể bắt được Triệu Quốc Tuần La Binh",
+20411|<O>| *   - Movement hành vi 100% giống nhau
+20412|<O>| printf( ECHO "Ở đây không thể hạ độc." );
+20413|<O>| // Tự động tạo:/make/npc/makenpc
+20414|<O>| set_real_name("Hướng dẫn hoạt động du lịch Thất Quốc");
+20415|<O>| return "Sử dụng trên chiến trường, sau 20 giây thoát khỏi chiến trường";
+20416|<O>| return "［Nguyên liệu hợp thành Bảo Thạch］Tăng phần trăm pháp lực";
+20417|<O>| set_real_name("Cơ Quan 41~60");
+20418|<O>| "Hủ Cốt" : "Ở tầng ba Linh Cốc Động giết Ác Linh có thể nhận được Hủ Cốt",
+20419|<O>| set_real_name("Thiết Tượng 21~40");
+20420|<O>| if (fam == "Không") fam = "";
+20421|<O>| return "［Nguyên liệu hợp thành Bảo Thạch］Tăng phần trăm né tránh";
+20422|<O>| return "Sử dụng trên chiến trường, sau 15 giây tự động hồi sinh";
+20423|<O>| set_real_name("Luyện Đan 61~80");
+20424|<O>| return "Phú cho mũ hoặc đai lưng khả năng 60 phòng thủ pháp thuật";
+20425|<O>| // Hàm: Xử lý huỷ diệt môi trường (hiện chỉ có vật phẩm trên người có môi trường)
+20426|<O>| notify("Cấp bậc bảo thạch và trang bị tinh luyện không khớp.");
+20427|<O>| return "［Kim Đan Pháp Môn］Luyện chế dược phẩm theo công thức\n";
+20428|<O>| // Tự động tạo:/make/item/make49
+20429|<O>| // Dùng cho: Normal combat NPCs
+20430|<O>| // Tự động tạo:/make/item/make95
+20431|<O>| notify("Bạn đang bày quầy, không thể sử dụng kỹ năng sinh hoạt.");
+20432|<O>| "Ngưu Cân" : "Ở chân Đại Biệt Sơn giết Ngưu Đầu Quái có thể nhận được Ngưu Cân",
+20433|<O>| set_real_name("Thiết Tượng 61~80");
+20434|<O>| return "Vật phẩm nhiệm vụ. Một loại thư tín bạn bè qua lại.";
+20435|<O>| return "Vật phẩm nhiệm vụ. Một loại trái cây ngọt và nhiều nước.";
+20436|<O>| set_real_name("Thạch Khắc 60~79");
+20437|<O>| return "Vật phẩm nhiệm vụ. Một loại văn thư cầm cố vật phẩm.";
+20438|<O>| return "Vật phẩm nhiệm vụ. Một loại bảo thạch giống Long Tinh.";
+20439|<O>| "Tiểu Thái Cực" : "Ở Hư Linh Động giết Kim Tinh có thể nhận được Tiểu Thái Cực",
+20440|<O>| return "Vật phẩm nhiệm vụ. Một loại văn thư quan phương giao lưu.";
+20441|<O>| "Triệu Quốc Đao Thuẫn Binh":"Ở Triệu Trường Thành có thể giết được Triệu Quốc Đao Thuẫn Binh ",
+20442|<O>| return "Món quà quý giá Trùng Dương lão nhân tặng vào Trùng Dương Tiết";
+20443|<O>| "Quán Trung Yêu" : "Ở tầng hai Linh Cốc Động có thể giết được Quán Trung Yêu ",
+20444|<O>| return "Vật phẩm nhiệm vụ. Một loại bảo thạch toả ra linh quang.";
+20445|<O>| "Mai Hoa":"\"/item/30/3001\"",
+20446|<O>| return "Cổ phương côn thần bí, dường như ẩn chứa bí mật nào đó";
+20447|<O>| tmp = ESC "Hạt Sô Cô La\n" + cmd;
+20448|<O>| notify("Hợp thành bảo thạch phải là bảo thạch cùng cấp bậc.");
+20449|<O>| //	Xoá một nhắc nhở chuông báo, thành công trả về 1, thất bại trả về 0
+20450|<O>| return "Lớp thân thể bên ngoài của động vật, dùng làm vật bán";
+20451|<O>| "Xà Chi Quan" : "Ở Hoa Sơn giết Tứ Cước Xà có thể nhận được Xà Chi Quan",
+20452|<O>| //set_no_get(1);	//	Không thể gửi tiệm cầm đồ
+20453|<O>| tmp = ESC "Hoàn thành nhiệm vụ\n" + cmd;
+20454|<O>| // Tự động tạo:/make/item/make96
+20455|<O>| notify("Hoạt động tìm GM lần trước chưa kết thúc!");
+20456|<O>| else if (rate < 50)	//Hành Quân Tán
+20457|<O>| "Triệu Quốc Cung Binh" : "Ở Triệu Trường Thành có thể giết được Triệu Quốc Cung Binh ",
+20458|<O>| "Võng Lượng Quỷ" : "Ở tầng hai Linh Cốc Động có thể giết được Võng Lượng Quỷ ",
+20459|<O>| return "Vật phẩm nhiệm vụ. Một loại tiền tệ thời Chiến Quốc.";
+20460|<O>| return "Vật phẩm nhiệm vụ. Một loại hoa có thể đại diện cho tình yêu.";
+20461|<O>| notify("Giá đặt phải nằm trong phạm vi bình thường.");
+20462|<O>| return "Vật phẩm nhiệm vụ. Một loại băng ty lấp lánh chói mắt.";
+20463|<O>| else if (p < 9)    // Tinh Nguyên Đan
+20464|<O>| who->log_money("Công Đức", p2);
+20465|<O>| int tool_type;					//Loại công cụ
+20466|<O>| return "Miễn chết, tương đương với được người chơi khác cứu sống";
+20467|<O>| "Thương Đầu" : "Ở Tần Trường Thành giết Tần Quốc Thương Binh có thể nhận được Thương Đầu",
