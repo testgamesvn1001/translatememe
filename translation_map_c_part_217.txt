@@ -7,12 +7,12 @@
 6435|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 40, "Phiêu lưu tìm báu");
 6436|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QINGUO, 33, "Chuẩn bị xuất sứ");
 6437|<O>| tmp += sprintf(ESC HIY "Vị khách thích ăn cay\ntalk %x# welcome.5\n", getoid(me));
-6438|<O>| case "齐国": return sprintf("data/org-1/%s%s", name, SAVE_EXTENSION);
+6438|<O>| case "TềQuốc": return sprintf("data/org-1/%s%s", name, SAVE_EXTENSION);
 6439|<O>| return sprintf("［Tinh luyện］ Pháp công %+d\n［Trang bị áp dụng］ Vũ khí、Dây chuyền", me->get_diamond_add());
 6440|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_WEIGUO, 41, "Bách tính nước Ngụy");
 6441|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 38, "Tìm kiếm phương pháp");
 6442|<O>| tmp += sprintf(ESC HIY "Cái cuốc đào chiến hào\ntalk %x# welcome.1\n", getoid(me));
-6443|<O>| case "燕国": return sprintf("data/org-7/%s%s", name, SAVE_EXTENSION);
+6443|<O>| case "YênQuốc": return sprintf("data/org-7/%s%s", name, SAVE_EXTENSION);
 6444|<O>| HIR "Đào Hoa Nguyên、Cấm Vệ Quân、Thục Sơn、Đường Môn、Mao Sơn、Côn Luân Sơn và Vân Mộng Trạch" NOR "’。Bảy môn phái đều có đặc sắc riêng và phân tán khắp thiên hạ. Khi đó bạn có thể đi tìm những người lưu lại ở"
 6445|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 40, "Dâng tấu Hàn vương");
 6446|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 44, "Thanh tẩy linh hồn");
@@ -34,7 +34,7 @@
 6462|<O>| result = sprintf("Bạn lấy lại %s từ chỗ %s。", item->get_name(), who->get_name());
 6463|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 33, "Thử thăm thực lực");
 6464|<O>| write_user(who, ECHO + get_name() + " nói rằng:“Đại hiệp tha mạng, ta còn phải nuôi con nhỏ ba tuổi và mẹ già tám mươi đây！”\n"
-6465|<O>| case "秦国": return sprintf("data/org-5/%s%s", name, SAVE_EXTENSION);
+6465|<O>| case "TầnQuốc": return sprintf("data/org-5/%s%s", name, SAVE_EXTENSION);
 6466|<O>| z = get_z(me);  x0 = get_x(me);  y0 = get_y(me);    // Phía dưới sẽ dùng x0, y0
 6467|<O>| tmp += sprintf(ESC HIY "Đòi Tù Và Vương Giả\ntalk %x# welcome.8\n", getoid(me));
 6468|<O>| private static int Reset = -1;                  // Số lần reset(phút)    // 0

@@ -20,7 +20,7 @@
 2230|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Bạn đã nhận được %d vàng tiền bồi thường! %s\n"ESC"Rời khỏi", me->get_name(), iMoney, cTmp));
 2231|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Lần này xong rồi, khi đi sứ mà không mang ra được Ngọc Long Tình, Đại Vương nhất định sẽ giết ta mất。\n"ESC"Rời khỏi", me->get_name()));
 2232|<O>| send_user(who, "%c%c%w%s", ':', 3, get_char_picid(), sprintf("%s:\n    Ở chỗ ta bạn có thể học được tất cả các kỹ năng Cơ Quan có thể học được ở Tề Quốc, nhưng các công thức cao cấp thì bạn phải đến Tề Quốc tìm thợ thủ công để mua đấy。\n", get_name()));
-2233|<O>| rate += me->get_hit_rate_2() - who->get_dodge_rate_2()  - who->get_2("suit_effect.dodge");    // 附加命中－附加闪避＋特殊技附加命中    // + hit_rate
+2233|<O>| rate += me->get_hit_rate_2() - who->get_dodge_rate_2()  - who->get_2("suit_effect.dodge");    // Phụ gia mệnh trúng - Phụ gia thiểm tỵ + Đặc thù kỹ phụ gia mệnh trúng    // + hit_rate
 2234|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Hửm? Không có Lý Nhẫn? Phải chăng ông ta biết tàng hình hay tất cả chỉ là những truyền thuyết huyền bí?\n"ESC"Rời khỏi", me->get_name()));
 2235|<O>| send_user(who, "%c%c%w%s", ':', 3, get_char_picid(), sprintf("%s:\n    Ở chỗ ta bạn có thể học được tất cả các kỹ năng Luyện Đan có thể học được ở Ngụy Quốc, nhưng các công thức cao cấp thì bạn phải đến Ngụy Quốc tìm thợ thủ công để mua đấy。\n", get_name()));
 2236|<O>| //			send_user(who,"%c%c%w%s",':',3,me->get_char_picid(),sprintf("%s:\n    Cấp độ tu vi của bạn vẫn chưa đủ cấp 27, đạt đến cấp 27 rồi hãy quay lại nhận nhé。\n"ESC"Rời khỏi\n",me->get_name()));

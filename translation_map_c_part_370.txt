@@ -1,87 +1,87 @@
-﻿16646|<O>| private object* nNpc = ({});		//副本的怪
-16647|<O>| "战斗鞋茅山" : "\"/item/final/88/5055\"",
-16648|<O>| result = sprintf("要等%s之后才有使命物品任务。\n"
-16649|<O>| string get_name() { return "九曲桥２"; }
-16650|<O>| string get_name() { return "无定河１"; }
-16651|<O>| string get_name() { return "灵魂枷锁"; }
-16652|<O>| "紫霞冠茅山" : "\"/item/final/65/5075\"",
-16653|<O>| string get_name() { return "祈连草原"; }
-16654|<O>| string get_name() { return "燕长城１"; }
-16655|<O>| USER_D->user_channel(HIR "系统异常中止！");
-16656|<O>| "跃兔靴唐门" : "\"/item/final/88/4095\"",
-16657|<O>| #define BZ_DAY			  "day"			//	天数轮寻标志
-16658|<O>| string get_name() { return "昏迷免疫"; }
-16659|<O>| if (me->get("never_refresh"))		//不刷新
-16660|<O>| return "御妹套装其中之一,相传穿上\n全套就会拥有神秘的力量";
-16661|<O>| string get_name() { return "高级暴击"; }
-16662|<O>| send_user(me, "%c%s", '!', "错误的格式");
-16663|<O>| file = path + dfile[i];    // 取绝对路径名
-16664|<O>| string get_name() { return "燕长城２"; }
-16665|<O>| string get_name() { return "绝对屏障"; }
-16666|<O>| "寒星靴唐门" : "\"/item/final/88/4080\"",
-16667|<O>| do_advice(who, me, "");    // 完成纵横任务
-16668|<O>| return "少量恢复气血，马上恢复1850点气血，冷却时间15秒";
-16669|<O>| string get_name() { return "游戏系统"; }
-16670|<O>| ESC"了解超级无敌帮会奖\ntalk %x# welcome.8\n"
-16671|<O>| "翼飞冠茅山" : "\"/item/final/65/5050\"",
-16672|<O>| string get_name() { return "楚方城２"; }
-16673|<O>| return "护士套装其中之一,相传穿上\n全套就会拥有神秘的力量";
-16674|<O>| string get_name() { return "燕长城３"; }
-16675|<O>| "御风鞋蜀山" : "\"/item/final/88/2095\"",
-16676|<O>| string get_name() { return "天门阵２"; }
-16677|<O>| result += sprintf(ESC"取消\nCLOSE\n");
-16678|<O>| string get_name() { return "衰神附体"; }
-16679|<O>| if (me == who) return 1;    // 不能是自己
-16680|<O>| //       以进入相应保护状态。注意出招时要判断是否处于保护状态！
-16681|<O>| ESC+HIY"补发七夕戒指\ntalk %x# bonus.31\n"
-16682|<O>| result += ESC"允许活动号登录\nparty 102\n";
-16683|<O>| string get_name() { return "万人坑３"; }
-16684|<O>| ESC"“一个七国令”兑换\ntalk %x# welcome.3\n"
-16685|<O>| printf( ECHO "使用“" PF_NAME "”失败。" );
-16686|<O>| "地瓜解暑汤" : "\"/item/final/33/1771\"",
-16687|<O>| ESC "我想开启报名功能\ntalk %x# welcome.2\n"
-16688|<O>| private string productfile;		// 成品路径
-16689|<O>| "龙骨鞋蜀山" : "\"/item/final/88/2119\"",
-16690|<O>| string get_name() { return "延缓免疫"; }
-16691|<O>| item = new ("/item/sell/0002");//大血石
-16692|<O>| return "任务物品。一种传说对治疗某种疾病有特殊效果的玉制品。";
-16693|<O>| return "灵狐套装其中之一,相传穿上\n全套就会拥有神秘的力量";
-16694|<O>| SAY_CMD->say(me, "我已经感受到你们内心的怨恨了。");
-16695|<O>| ESC"七国令兑换虚拟物品\ntalk %x# welcome.2\n"
-16696|<O>| "光之鞋蜀山" : "\"/item/final/88/2045\"",
-16697|<O>| "天香续命丹" : "\"/item/final/91/1814\"",
-16698|<O>| case 1: result = "它四周杂草丛生。";  break;
-16699|<O>| string get_name() { return "灭天火法"; }
-16700|<O>| string get_name() { return "万人坑５"; }
-16701|<O>| string get_name() { return "困魔阵３"; }
-16702|<O>| "粘糊糊的饭" : "\"/item/final/33/1705\"",
-16703|<O>| string get_name() { return "高级毒牙"; }
-16704|<O>| return "［强化枪棍步法］提升使用枪和棍的防御力，每级提升2点";
-16705|<O>| "翠玉冠茅山" : "\"/item/final/65/5060\"",
-16706|<O>| "旭光冠茅山" : "\"/item/final/65/5055\"",
-16707|<O>| string get_name() { return "天门阵１"; }
-16708|<O>| string get_name() { return "磁能波动"; }
-16709|<O>| map->init_herb_dbase();    // 清除草药数组
-16710|<O>| return "女王套装其中之一,相传穿上\n全套就会拥有神秘的力量";
-16711|<O>| case "背子": type = "F_BEIZI";  break;
-16712|<O>| item->remove_from_user();    // 空出位置
-16713|<O>| notify("对方不能携带" + obj3->get_name());
-16714|<O>| "九环金莲棍" : "\"/item/final/75/1085\"",
-16715|<O>| string get_name() { return "沼泽地带"; }
-16716|<O>| void do_answer1(string arg);//回答问题模板
-16717|<O>| if (random(100) < rate1)	//必掉(有等级修正)
-16718|<O>| string get_name() { return "秦长城３"; }
-16719|<O>| string get_name() { return "血气光环"; }
-16720|<O>| ESC "离开\nCLOSE\n", exp, pot, money);
-16721|<O>| sprintf(ESC "气血: %d\n", hp) + cmd1 +
-16722|<O>| return "农家自酿的一种水酒,20秒内恢复玩家700点法术力。";
-16723|<O>| return "［" PF_NAME "］\n在城外田里采集草药\n";
-16724|<O>| "随风靴唐门" : "\"/item/final/88/4020\"",
-16725|<O>| send_user(me, "%c%s", '!', "道具已过期");
-16726|<O>| "斥云鞋茅山" : "\"/item/final/88/5090\"",
-16727|<O>| "翻云鞋蜀山" : "\"/item/final/88/2080\"",
-16728|<O>| "翠玉鞋茅山" : "\"/item/final/88/5060\"",
-16729|<O>| item = new ("item/08/0013");//绑定的战国令
-16730|<O>| "药店连接器" : "\"/item/final/16/1620\"",
-16731|<O>| result += ESC"查看活动状态\nparty 1224\n";
-16732|<O>| + sprintf(ESC"强行关闭活动\nparty 7004\n")
+﻿16646|<O>| private object* nNpc = ({});		//phó bảncủaquái
+16647|<O>| "chiến đấuHiaMao Sơn" : "\"/item/final/88/5055\"",
+16648|<O>| result = sprintf("cầnĐẳng%sSau đóTàiCósử Mệnh Vật PhẩmNhiệm vụ。\n"
+16649|<O>| string get_name() { return "Cửu khúc kiều２"; }
+16650|<O>| string get_name() { return "vô định Hà１"; }
+16651|<O>| string get_name() { return "Linh Hồn già Tỏa"; }
+16652|<O>| "Tử Hà QuanMao Sơn" : "\"/item/final/65/5075\"",
+16653|<O>| string get_name() { return "Kỳ Liên Thảo nguyên"; }
+16654|<O>| string get_name() { return "YêndàiThành１"; }
+16655|<O>| USER_D->user_channel(HIR "hệ thốngdị thườnggiữachỉ！");
+16656|<O>| "dược thỏ HiaĐường Môn" : "\"/item/final/88/4095\"",
+16657|<O>| #define BZ_DAY			  "day"			//	ngàysố Luân tìm tiêu Chí
+16658|<O>| string get_name() { return "hôn mê Miễn dịch"; }
+16659|<O>| if (me->get("never_refresh"))		//khôngloátmới
+16660|<O>| return "Ngự Muội bộ trang kỳgiữaChi Nhất,Tương truyền khi mặc\ntoàn bộ sẽ sở hữu sức mạnh thần bí";
+16661|<O>| string get_name() { return "caocấpBạo kích"; }
+16662|<O>| send_user(me, "%c%s", '!', "sai ngộcủacách thức");
+16663|<O>| file = path + dfile[i];    // thủ Tuyệtđối vớiLộ kính Danh
+16664|<O>| string get_name() { return "YêndàiThành２"; }
+16665|<O>| string get_name() { return "Tuyệtđối vớibình chướng"; }
+16666|<O>| "Hàn Tinh HiaĐường Môn" : "\"/item/final/88/4080\"",
+16667|<O>| do_advice(who, me, "");    // Hoàn thànhtung hoànhNhiệm vụ
+16668|<O>| return "ítlượngPhục hồiKhí Huyết，ngay lập tức phục hồi1850điểm Khí Huyết，Thời gian hồi15giây";
+16669|<O>| string get_name() { return "du híhệ thống"; }
+16670|<O>| ESC"Giải Siêucấpvô Địch Bangsẽthưởng\ntalk %x# welcome.8\n"
+16671|<O>| "Dực Phi QuanMao Sơn" : "\"/item/final/65/5050\"",
+16672|<O>| string get_name() { return "Sở Phương Thành２"; }
+16673|<O>| return "Hộ Sĩ bộ trang kỳgiữaChi Nhất,Tương truyền khi mặc\ntoàn bộ sẽ sở hữu sức mạnh thần bí";
+16674|<O>| string get_name() { return "YêndàiThành３"; }
+16675|<O>| "NgựPhongHiaThục Sơn" : "\"/item/final/88/2095\"",
+16676|<O>| string get_name() { return "Thiên Môn Trận２"; }
+16677|<O>| result += sprintf(ESC"Hủy bỏ\nCLOSE\n");
+16678|<O>| string get_name() { return "suyThầnphụ Thể"; }
+16679|<O>| if (me == who) return 1;    // không thểLàbản thân
+16680|<O>| //       DĩĐi vàoTương ứng bảo Hộ trạng thái。Chú ýXuất chiêugiờcầnphán đoạnLàphủ xử vu bảo Hộ trạng thái！
+16681|<O>| ESC+HIY"bổ phát Thất tịchGiới Chỉ\ntalk %x# bonus.31\n"
+16682|<O>| result += ESC"doãn hứahoạt độnghiệu đăng lục\nparty 102\n";
+16683|<O>| string get_name() { return "vạn Nhân khanh３"; }
+16684|<O>| ESC"“NhấtThất Quốc Lệnh”đổi hoán\ntalk %x# welcome.3\n"
+16685|<O>| printf( ECHO "Sử dụng“" PF_NAME "”Thất bại。" );
+16686|<O>| "Địa qua Giải thử thang" : "\"/item/final/33/1771\"",
+16687|<O>| ESC "tôimuốnMởBáo Danh Công Năng\ntalk %x# welcome.2\n"
+16688|<O>| private string productfile;		// thành Phẩm Lộ kính
+16689|<O>| "LongCốt HiaThục Sơn" : "\"/item/final/88/2119\"",
+16690|<O>| string get_name() { return "diên hoãn Miễn dịch"; }
+16691|<O>| item = new ("/item/sell/0002");//Đại Huyết Thạch
+16692|<O>| return "Vật phẩm nhiệm vụ。Một loạiTruyền nóiđối vớiTrị liệumỗloạitật bệnhCóđặc thù hiệu QuảcủaNgọc chế Phẩm。";
+16693|<O>| return "Linh Hồ bộ trang kỳgiữaChi Nhất,Tương truyền khi mặc\ntoàn bộ sẽ sở hữu sức mạnh thần bí";
+16694|<O>| SAY_CMD->say(me, "tôiđãcảm thụđếnbạntrongTâmcủaoán hận。");
+16695|<O>| ESC"Thất Quốc Lệnhđổi hoán hư nghĩ Vật Phẩm\ntalk %x# welcome.2\n"
+16696|<O>| "QuangChi HiaThục Sơn" : "\"/item/final/88/2045\"",
+16697|<O>| "ngàyhương tục Mệnh Đơn" : "\"/item/final/91/1814\"",
+16698|<O>| case 1: result = "nóTứ Chu tạp Thảo tùng sinh。";  break;
+16699|<O>| string get_name() { return "DiệtngàyHỏaPháp"; }
+16700|<O>| string get_name() { return "vạn Nhân khanh５"; }
+16701|<O>| string get_name() { return "khốnMaTrận３"; }
+16702|<O>| "niêm hồ hồcủaphạn" : "\"/item/final/33/1705\"",
+16703|<O>| string get_name() { return "caocấpĐộcNha"; }
+16704|<O>| return "［Cường hóaThương CônbướcPháp］NângSử dụngThươngvàCôncủaPhòng thủLực，Mỗi cấp tăng2điểm";
+16705|<O>| "Thúy Ngọc QuanMao Sơn" : "\"/item/final/65/5060\"",
+16706|<O>| "húcQuangQuanMao Sơn" : "\"/item/final/65/5055\"",
+16707|<O>| string get_name() { return "Thiên Môn Trận１"; }
+16708|<O>| string get_name() { return "từ Năng Ba Động"; }
+16709|<O>| map->init_herb_dbase();    // Thanh trừ Thảo Dược số tổ
+16710|<O>| return "NữVương bộ trang kỳgiữaChi Nhất,Tương truyền khi mặc\ntoàn bộ sẽ sở hữu sức mạnh thần bí";
+16711|<O>| case "bối Tử": type = "F_BEIZI";  break;
+16712|<O>| item->remove_from_user();    // Không Xuất vị trí
+16713|<O>| notify("đối vớiPhươngkhông thểhuề Đái" + obj3->get_name());
+16714|<O>| "Cửu hoànVàngLiên Côn" : "\"/item/final/75/1085\"",
+16715|<O>| string get_name() { return "chiểu trạch Địa Đái"; }
+16716|<O>| void do_answer1(string arg);//Hồi đápvấn đềmô bản
+16717|<O>| if (random(100) < rate1)	//tất rơi(CóCấp độTu chính)
+16718|<O>| string get_name() { return "TầndàiThành３"; }
+16719|<O>| string get_name() { return "Huyết khíQuanghoàn"; }
+16720|<O>| ESC "Rời khỏi\nCLOSE\n", exp, pot, money);
+16721|<O>| sprintf(ESC "Khí Huyết: %d\n", hp) + cmd1 +
+16722|<O>| return "nông Gia Tự nhưỡngcủaMột loạiThủyTửu,20giây phục hồi cho người chơi700điểm Pháp thuật lực。";
+16723|<O>| return "［" PF_NAME "］\nTạiThànhngoàiđiềntrongThu thậpThảo Dược\n";
+16724|<O>| "tùyPhongHiaĐường Môn" : "\"/item/final/88/4020\"",
+16725|<O>| send_user(me, "%c%s", '!', "Đạo cụ đã qua kỳ");
+16726|<O>| "xích Vân HiaMao Sơn" : "\"/item/final/88/5090\"",
+16727|<O>| "phiên Vân HiaThục Sơn" : "\"/item/final/88/2080\"",
+16728|<O>| "Thúy Ngọc HiaMao Sơn" : "\"/item/final/88/5060\"",
+16729|<O>| item = new ("item/08/0013");//bảng địnhcủaChiến Quốc Lệnh
+16730|<O>| "Dược điếm Liên tiếp Khí" : "\"/item/final/16/1620\"",
+16731|<O>| result += ESC"tra xemhoạt độngtrạng thái\nparty 1224\n";
+16732|<O>| + sprintf(ESC"Cường HànhĐónghoạt động\nparty 7004\n")

@@ -1,62 +1,62 @@
-﻿10056|<O>| if (TASK_LEGEND_D->check_task_item(who, "精灵珠", 1) != 1)
-10057|<O>| send_user(who, "%c%c%c%w%s", 0x51, 1, 1, 0001, "游戏辅助");
-10058|<O>| } else if(rate < 3000 ) {	//	iii.	1000的几率掉落一个随机的低级宠物食物。
-10059|<O>| send_user(who, "%c%s", '!', sprintf(HIY"土精 %d/30", i));
-10060|<O>| send_user(who, "%c%s", '!', sprintf(HIY"壮丁 %d/30", i));
-10061|<O>| send_user(who, "%c%s", '!', sprintf("小蚂蚁 完成 %d/3", i));
-10062|<O>| if (TASK_LEGEND_D->check_task_item(who, "英雄甲", 1) != 1)
-10063|<O>| private static mapping mpPP = ([]);            // 临时数据集
-10064|<O>| if (!objectp(item = present("雄黄散", who, 1, MAX_CARRY)))
-10065|<O>| tell_user(team, "您用天眼看到:%s。", result);    // write_user
-10066|<O>| if (player->get_hp() <= player->get_max_hp() / 20)	//失败
-10067|<O>| int get_max_cash() { return MAX_NUMBER; }    // 注意新登录情况
-10068|<O>| if (TASK_LEGEND_D->check_task_item(who, "黑棋子", 1) != 1)
-10069|<O>| if (player->get_hp() <= player->get_max_hp() / 10)	//失败
-10070|<O>| send_user(who, "%c%s", '!', sprintf(HIY"密探 %d/10", i));
-10071|<O>| if (TASK_LEGEND_D->check_task_item(who, "将军函", 1) != 1)
-10072|<O>| send_user(who, "%c%s", ';', "您得到了5点帮贡、2000经验、50潜能的奖励");
-10073|<O>| private mapping SaveDatabase = ([]);           // 存盘数据集
-10074|<O>| if (TASK_LEGEND_D->check_task_item(who, "联盟函", 1) != 1)
-10075|<O>| if (TASK_LEGEND_D->check_task_item(who, "碧龙球", 1) != 1)
-10076|<O>| sprintf(HIY "%s(%d) " NOR "上线了。", me->get_name(), id));
-10077|<O>| npc->set_name(sprintf("诡异的飞贼(%d)", who->get_number()));
-10078|<O>| if (TASK_LEGEND_D->check_task_item(who, "玉鹿角", 1) != 1)
-10079|<O>| CHAR_FIGHT_D->cast_done(me, who, ADD_AP);    // 小心准备 me
-10080|<O>| int Con;                        // 体魄，根骨   Constitution
-10081|<O>| send_user(who, "%c%s", '!', sprintf(HIY"大南瓜 %d/8", i));
-10082|<O>| send_user(who, "%c%c%w%s", ':', 3, 5901, "您的技能不需要调整。");
-10083|<O>| if( !item->is_char() && !item->get_value() )    // 丢弃垃圾
-10084|<O>| log_file(KICKOUT_LOG, sprintf("%s %s 将 %s(%s) 踢出系统。\n",
-10085|<O>| && me->get_buy_item_cmd_string() != ""    // 存在购买道具命令串？
-10086|<O>| private int slipt_time	   	   = 2;					//	刷新间隔时间	单位（小时）
-10087|<O>| if (TASK_LEGEND_D->check_task_item(who, "劝谏书", 1) != 1)
-10088|<O>| SAY_CMD->say(me, "以前经常有些鸟站在我的手上吱吱叫，现在是经常有好多人站在我附近呱呱嘈");
-10089|<O>| sprintf(ESC "宗教(%d)。\n", city->get_religion()) + cmd9 +
-10090|<O>| if (TASK_LEGEND_D->check_task_item(who, "回信函", 1) != 1)
-10091|<O>| send_user(who, "%c%s", '!', sprintf(HIY"金精 %d/30", i));
-10092|<O>| send_user(who, "%c%s", '!', sprintf(HIY"疫鬼 %d/30", i));
-10093|<O>| if (TASK_LEGEND_D->check_task_item(who, "百合花", 3) != 1)
-10094|<O>| send_user(who, "%c%s", '!', sprintf(HIY"小山鸡 %d/5", i));
-10095|<O>| private mapping mpFly = ([]);                  // 瞬移数据集
-10096|<O>| send_user(who, "%c%s", '!', sprintf(HIY"石狮 %d/30", i));
-10097|<O>| send_user(who, "%c%s", '!', sprintf(HIY"气脉丹 %d/5", i));
-10098|<O>| send_user(who, "%c%s", '!', sprintf(HIY"剑魂 %d/10", i));
-10099|<O>| if (id = get_friend_id(number)) return id;    // 不需记录好友
-10100|<O>| call_out("get_more_tips", 30, me);//三十秒后执行get_more_tips
-10101|<O>| send_user(who, "%c%s", '!', sprintf(HIY"救急丹 %d/5", i));
-10102|<O>| if (TASK_LEGEND_D->check_task_item(who, "荔枝", 10) != 1)
-10103|<O>| send_user(me, "%c%w%w%c", 0x07, x0, y0, 12);    // 坐标修正
-10104|<O>| if (TASK_LEGEND_D->check_task_item(who, "宝龙珠", 1) != 1)
-10105|<O>| if (TASK_LEGEND_D->check_task_item(who, "泥雕", 10) != 1)
-10106|<O>| if (p = get_valid_xy(z, x, y, IS_ITEM_BLOCK))	//随机宠物技能书
-10107|<O>| send_user(who, "%c%s", '!', sprintf(HIY"水精 %d/30", i));
-10108|<O>| send_user(who, "%c%s", '!', sprintf(HIY"僵尸 %d/20", i));
-10109|<O>| private mapping mpLOG = ([]);                  // 日志数据集
-10110|<O>| if (TASK_LEGEND_D->check_task_item(who, "大南瓜", 8) != 1)
-10111|<O>| if (TASK_LEGEND_D->check_task_item(who, "辣椒", 20) != 1)
-10112|<O>| return sprintf("增加%d％的回避率。\n", me->get_save("02422#"));
-10113|<O>| else if (objectp(present("钱老九的货物", who, 1, MAX_CARRY)))
-10114|<O>| send_user(who, "%c%s", '!', sprintf(HIY"骸骨精 %d/5", i));
-10115|<O>| if (TASK_LEGEND_D->check_task_item(who, "拜访信", 1) != 1)
-10116|<O>| "随机配方" : "\"/sys/item/product\"->get_random_product()",
-10117|<O>| private mapping mpQuest = ([]);                // 任务数据集
+﻿10056|<O>| if (TASK_LEGEND_D->check_task_item(who, "Tinh Linh Châu", 1) != 1)
+10057|<O>| send_user(who, "%c%c%c%w%s", 0x51, 1, 1, 0001, "du hí phụ Trợ");
+10058|<O>| } else if(rate < 3000 ) {	//	iii.	1000củamấy suất rơi lạc NhấtNgẫu nhiêncủathấpcấpsủng vậtThực Vật。
+10059|<O>| send_user(who, "%c%s", '!', sprintf(HIY"ThổTinh %d/30", i));
+10060|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Tráng Đinh %d/30", i));
+10061|<O>| send_user(who, "%c%s", '!', sprintf("nhỏMã Nghĩ Hoàn thành %d/3", i));
+10062|<O>| if (TASK_LEGEND_D->check_task_item(who, "Anh Hùng Giáp", 1) != 1)
+10063|<O>| private static mapping mpPP = ([]);            // Tập dữ liệu tạm
+10064|<O>| if (!objectp(item = present("Hùng Hoàng tán", who, 1, MAX_CARRY)))
+10065|<O>| tell_user(team, "Bạn dùngngàyNhãn xemđến:%s。", result);    // write_user
+10066|<O>| if (player->get_hp() <= player->get_max_hp() / 20)	//Thất bại
+10067|<O>| int get_max_cash() { return MAX_NUMBER; }    // Chú ýmớiđăng lụctình huống
+10068|<O>| if (TASK_LEGEND_D->check_task_item(who, "Hắc kỳ Tử", 1) != 1)
+10069|<O>| if (player->get_hp() <= player->get_max_hp() / 10)	//Thất bại
+10070|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Mật Thám %d/10", i));
+10071|<O>| if (TASK_LEGEND_D->check_task_item(who, "Tướng quân hàm", 1) != 1)
+10072|<O>| send_user(who, "%c%s", ';', "Bạnnhận được5điểmBang cống、2000Kinh nghiệm、50Tiềm năngcủaphần thưởng");
+10073|<O>| private mapping SaveDatabase = ([]);           // tồn Bàndữ liệutập
+10074|<O>| if (TASK_LEGEND_D->check_task_item(who, "liên minh hàm", 1) != 1)
+10075|<O>| if (TASK_LEGEND_D->check_task_item(who, "bíchLongcầu", 1) != 1)
+10076|<O>| sprintf(HIY "%s(%d) " NOR "trêntuyến。", me->get_name(), id));
+10077|<O>| npc->set_name(sprintf("quỷ dịcủaPhi tặc(%d)", who->get_number()));
+10078|<O>| if (TASK_LEGEND_D->check_task_item(who, "Ngọc Lộc giác", 1) != 1)
+10079|<O>| CHAR_FIGHT_D->cast_done(me, who, ADD_AP);    // cẩn thận chuẩn bị me
+10080|<O>| int Con;                        // Thể phách，căn Cốt   Constitution
+10081|<O>| send_user(who, "%c%s", '!', sprintf(HIY"lớnNam qua %d/8", i));
+10082|<O>| send_user(who, "%c%c%w%s", ':', 3, 5901, "BạncủaKỹ năngkhôngcầnđiều chỉnh。");
+10083|<O>| if( !item->is_char() && !item->get_value() )    // mất khí rác rác
+10084|<O>| log_file(KICKOUT_LOG, sprintf("%s %s Tướng %s(%s) thế Xuấthệ thống。\n",
+10085|<O>| && me->get_buy_item_cmd_string() != ""    // tồnTạiMuaĐạo cụ Mệnh Lệnh xuyến？
+10086|<O>| private int slipt_time	   	   = 2;					//	loátmớigian cáchgiờgian	đơn vị（giờ）
+10087|<O>| if (TASK_LEGEND_D->check_task_item(who, "khuyến gián thư", 1) != 1)
+10088|<O>| SAY_CMD->say(me, "DĩtrướcKinh thườngCóta Điểu trạmTạitôicủaThủtrênchi chi khiếu，hiệnTạiLàKinh thườngCótốtnhiềuNhân trạmTạitôiphụ cận qua qua tào");
+10089|<O>| sprintf(ESC "Tông Giáo(%d)。\n", city->get_religion()) + cmd9 +
+10090|<O>| if (TASK_LEGEND_D->check_task_item(who, "Hồi Tín hàm", 1) != 1)
+10091|<O>| send_user(who, "%c%s", '!', sprintf(HIY"VàngTinh %d/30", i));
+10092|<O>| send_user(who, "%c%s", '!', sprintf(HIY"dịchQuỷ %d/30", i));
+10093|<O>| if (TASK_LEGEND_D->check_task_item(who, "Bách Hợp Hoa", 3) != 1)
+10094|<O>| send_user(who, "%c%s", '!', sprintf(HIY"nhỏSơn Kê %d/5", i));
+10095|<O>| private mapping mpFly = ([]);                  // thuấn Didữ liệutập
+10096|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Thạch Sư %d/30", i));
+10097|<O>| send_user(who, "%c%s", '!', sprintf(HIY"khí Mạch Đơn %d/5", i));
+10098|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Kiếm Hồn %d/10", i));
+10099|<O>| if (id = get_friend_id(number)) return id;    // khôngnhu ký lụctốthữu
+10100|<O>| call_out("get_more_tips", 30, me);//Tam Thậpgiâysauchấp Hànhget_more_tips
+10101|<O>| send_user(who, "%c%s", '!', sprintf(HIY"cứu cấp Đơn %d/5", i));
+10102|<O>| if (TASK_LEGEND_D->check_task_item(who, "lệ chi", 10) != 1)
+10103|<O>| send_user(me, "%c%w%w%c", 0x07, x0, y0, 12);    // Hiệu chỉnh tọa độ
+10104|<O>| if (TASK_LEGEND_D->check_task_item(who, "BảoLongChâu", 1) != 1)
+10105|<O>| if (TASK_LEGEND_D->check_task_item(who, "nê Điêu", 10) != 1)
+10106|<O>| if (p = get_valid_xy(z, x, y, IS_ITEM_BLOCK))	//Ngẫu nhiênsủng vậtKỹ năngthư
+10107|<O>| send_user(who, "%c%s", '!', sprintf(HIY"ThủyTinh %d/30", i));
+10108|<O>| send_user(who, "%c%s", '!', sprintf(HIY"cương thi %d/20", i));
+10109|<O>| private mapping mpLOG = ([]);                  // Nhật Chídữ liệutập
+10110|<O>| if (TASK_LEGEND_D->check_task_item(who, "lớnNam qua", 8) != 1)
+10111|<O>| if (TASK_LEGEND_D->check_task_item(who, "lạt tiêu", 20) != 1)
+10112|<O>| return sprintf("Tăng%d％củaHồi tỵ suất。\n", me->get_save("02422#"));
+10113|<O>| else if (objectp(present("tiền Lão Cửucủahóa Vật", who, 1, MAX_CARRY)))
+10114|<O>| send_user(who, "%c%s", '!', sprintf(HIY"hài Cốt Tinh %d/5", i));
+10115|<O>| if (TASK_LEGEND_D->check_task_item(who, "bái phỏng Tín", 1) != 1)
+10116|<O>| "Ngẫu nhiênPhối Phương" : "\"/sys/item/product\"->get_random_product()",
+10117|<O>| private mapping mpQuest = ([]);                // Nhiệm vụdữ liệutập

@@ -6,7 +6,7 @@
 3477|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), me->get_name() + ":\n    Mau đi truy bắt phạm nhân đi！");
 3478|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi đã làm nhiệm vụ Thất Tịch rồi, không thể nhận nữa\n"
 3479|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng:40 cấp\n    Tức thì phóng ra vô số ám khí tấn công, gây sát thương lên toàn bộ địch nhân trong phạm vi 5×5 quanh mục tiêu. Sau khi kỹ năng đạt cấp 70, phạm vi tấn công mở rộng lên 7×7。";
-3480|<O>| ret += sprintf("%sTai mèo\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"猫耳"))?PPM:WHT);
+3480|<O>| ret += sprintf("%sTai mèo\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Miêu Nhĩ"))?PPM:WHT);
 3481|<O>| send_user(who, "%c%s", ';', sprintf("Tiếng khóc trong chân núi Đại Cô Sơn  Kinh nghiệm 2700  Tiềm năng 100  Tiền 2000  %s 1", tmp->get_name()));
 3482|<O>| me->get_name() + ":\n    Mã serial nhận thưởng của ngươi là:\n    " + tmp + "\n    Dựa vào mã này, trong server nội trắc, sau khi đạt cấp 20, có thể nhận các gói quà lớn khác nhau. Hãy ghi nhớ kỹ。");
 3483|<O>| send_user(who, "%c%s", ';', sprintf("Đại Hồ Lô（5）  Kinh nghiệm 10000  Tiềm năng 680  Tiền 15000  %s 1", tmp->get_name()));
@@ -14,7 +14,7 @@
 3485|<O>| return "Pháp khí của Nguyên Thủy Thiên Tôn, tương truyền được đúc từ hàn thiết ngàn năm, có thể khóa chặt vạn vật thế gian。\nCó thể khóa vật phẩm trong 14 ngày。\nTrong thời gian đó, vật phẩm này sẽ không thể bị giao dịch, mua bán hay vứt bỏ。\nCách dùng: kéo thả nó lên vật phẩm cần khóa。";
 3486|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngân hà vạn dặm nước biếc cuồn cuộn, đêm đêm trời xanh ngóng hôm nay。\n"
 3487|<O>| send_user(me, "%c%s", ':', sprintf("Ngài muốn phong bế kênh nào của %s(%d)？\n", who->get_name(), who->get_number()) +
-3488|<O>| ret += sprintf("%sNgự Tỷ\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"御姐"))?PPM:WHT);
+3488|<O>| ret += sprintf("%sNgự Tỷ\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Ngự Tỷ"))?PPM:WHT);
 3489|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi có thể dùng một quả cầu đen đổi các phần thưởng sau:\n"
 3490|<O>| send_user( who, "%c%s", ':', me->get_name() + ":\n    Cấp độ hiện tại của ngươi vẫn còn quá thấp, đợi sau cấp 10 rồi hãy quay lại tìm ta, chỗ ta có vài công việc muốn giao cho ngươi làm。\n"
 3491|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    Lão tiêu đầu Úy Trì của Kinh Đô Tiêu Cục nước Chu võ nghệ cao cường, tính cách hào sảng, đúng là một hảo hán！\n", get_name(), )

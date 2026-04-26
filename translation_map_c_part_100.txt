@@ -14,12 +14,12 @@
 1739|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Haiz! Thật là một lời khó nói hết!\n"ESC"Hoàn thành nhiệm vụ\ntalk %x# welcome.10\n"ESC"Rời khỏi", me->get_name(), getoid(me)));
 1740|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ừm~! Tốt lắm, tốt lắm!\n"ESC"Hoàn thành nhiệm vụ\ntalk %x# welcome.7\n"ESC"Rời khỏi", me->get_name(), getoid(me)));
 1741|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Lâm Hà xem như có cứu rồi。\n"ESC"Hoàn thành nhiệm vụ\ntalk %x# welcome.11\n"ESC"Rời khỏi", me->get_name(), getoid(me)));
-1742|<O>| void heart_beat_loop_callout(object map, int effect1, int effect2, int effect3, int effect4, int effect5, int effect6, int effect7, int effect8)    // 每１分处理
+1742|<O>| void heart_beat_loop_callout(object map, int effect1, int effect2, int effect3, int effect4, int effect5, int effect6, int effect7, int effect8)    // Mỗi 1 phút xử lý
 1743|<O>| send_user(who, "%c%s", ':', me->get_name() + ":\n    Tuyệt quá!! Cuối cùng giấc mơ của ta cũng thành hiện thực rồi~ Ngươi thực sự đã giúp ta một tay lớn đấy. Thật sự cảm ơn ngươi rất nhiều。\n" + sprintf(ESC"Hoàn thành nhiệm vụ\ntalk %x# welcome.3\n", getoid(me)) + ESC"Rời khỏi");
-1744|<O>| void heart_beat_loop_callout(object me, int effect1, int effect2, int effect3, int effect4, int effect5, int effect6, int effect7, int effect8)    // 每１５秒处理
+1744|<O>| void heart_beat_loop_callout(object me, int effect1, int effect2, int effect3, int effect4, int effect5, int effect6, int effect7, int effect8)    // Mỗi 15 giây xử lý
 1745|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ta sẽ mang đi dâng lên Đại Vương ngay!\n"ESC"Hoàn thành nhiệm vụ\ntalk %x# welcome.9\n"ESC"Rời khỏi", me->get_name(), getoid(me)));
 1746|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi quả nhiên là một tay thợ săn giỏi!\n"ESC"Hoàn thành nhiệm vụ\ntalk %x# welcome.3\n"ESC"Rời khỏi", me->get_name(), getoid(me)));
-1747|<O>| void heart_beat_loop_callout(object map, int effect1, int effect2, int effect3, int effect4, int effect5, int effect6, int effect7, int effect8)    // 每2秒处理
-1748|<O>| void heart_beat_loop_callout(object me, int effect1, int effect2, int effect3, int effect4, int effect5, int effect6, int effect7, int effect8)    // 每１０秒处理
+1747|<O>| void heart_beat_loop_callout(object map, int effect1, int effect2, int effect3, int effect4, int effect5, int effect6, int effect7, int effect8)    // Mỗi 2 giây xử lý
+1748|<O>| void heart_beat_loop_callout(object me, int effect1, int effect2, int effect3, int effect4, int effect5, int effect6, int effect7, int effect8)    // Mỗi 10 giây xử lý
 1749|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Cuối cùng cũng có ngày ngóc đầu lên được rồi。\n"ESC"Hoàn thành nhiệm vụ\ntalk %x# welcome.3\n"ESC"Rời khỏi", me->get_name(), getoid(me)));
-1750|<O>| void heart_beat_loop_callout(object map, int effect1, int effect2, int effect3, int effect4, int effect5, int effect6, int effect7, int effect8)    // 每５秒处理
+1750|<O>| void heart_beat_loop_callout(object map, int effect1, int effect2, int effect3, int effect4, int effect5, int effect6, int effect7, int effect8)    // Mỗi 5 giây xử lý

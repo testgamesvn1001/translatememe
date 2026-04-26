@@ -1,97 +1,97 @@
-﻿18288|<O>| owner->log_money("蒙面人", -gold);
-18289|<O>| log_file(LIST_LOG, "# 基本项链\n");
-18290|<O>| #define PF_NAME        "苍穹之冠制作"
-18291|<O>| if (is_player(me))    // ＧＭ查看任务
-18292|<O>| #define PF_NAME        "星辰战甲制作"
-18293|<O>| for (i = 0;i < 121;i++)		//发送效果
-18294|<O>| return "任务物品。交给齐国大将军的一种锐利的兵器。";
-18295|<O>| "寒铁管" : "\"/item/stuff/0276\"",
-18296|<O>| for (i = 0;i < 3;i++)	//3堆5000金
-18297|<O>| "火凤之翼" : "在天门阵一层杀守阵神将可以得到火凤之翼",
-18298|<O>| return "持续1小时内变身为蜘蛛，可提升2%躲闪值。";
-18299|<O>| "寒铁锭" : "\"/item/stuff/0014\"",
-18300|<O>| desc = "豆腐的干，14秒内恢复玩家385点气血值。";
-18301|<O>| return "持续1小时内变身为强盗，可提升1%命中率。";
-18302|<O>| return SUB_MP;    // 小心准备 level
-18303|<O>| log_file(LIST_LOG, "# 衣服\n\n");
-18304|<O>| #define PF_NAME        "天罡战甲制作"
-18305|<O>| log_file(LIST_LOG, "# 敏捷项链\n");
-18306|<O>| #define PF_NAME        "火红头巾制作"
-18307|<O>| "精铁丝" : "\"/item/stuff/0041\"",
-18308|<O>| else if (flag == 2)    // 确认卖出？
-18309|<O>| #define PF_NAME        "黄金战铠制作"
-18310|<O>| set("anti_05311", 1);    //不会迷魂
-18311|<O>| #define PF_NAME        "波形头带制作"
-18312|<O>| "黑宝石" : "\"/item/stuff/0090\"",
-18313|<O>| log_file(LIST_LOG, "# 法剑\n\n");
-18314|<O>| notify("不能封闭以 *, +, ? 结尾的ＩＰ。");
-18315|<O>| result = "这是一件很难得的一件珍贵装备，恭喜你。";
-18316|<O>| #define PF_NAME        "耀日长袍制作"
-18317|<O>| private int PersonPhoto;		// 头像
-18318|<O>| desc = "粘粘的饭，14秒内恢复玩家525点气血值。";
-18319|<O>| ESC"放弃报名\ntalk %x# welcome.5\n"
-18320|<O>| desc = "营养丰富，14秒内恢复玩家980点法力值。";
-18321|<O>| result = sprintf("目前的ＧＭ主管号有:");
-18322|<O>| result = result + HIR"15000金、";
-18323|<O>| #define PF_NAME        "星辰战盔制作"
-18324|<O>| tell_user(me, "鲁班宝石 %d", rate);
-18325|<O>| #define PF_NAME        "神狱项链制作"
-18326|<O>| private int md_grow;			//法防成长系数
-18327|<O>| log_file(LIST_LOG, "# 近攻项链\n");
-18328|<O>| // 原理: 在100ms窗口内重复查询同一技能将返回缓存结果
-18329|<O>| "蓝玉石" : "\"/item/stuff/0069\"",
-18330|<O>| #define PF_NAME        "血色斗篷制作"
-18331|<O>| log_file(LIST_LOG, "# 基本鞋子\n");
-18332|<O>| #define PF_NAME        "天旋斗笠制作"
-18333|<O>| "01":"/item/91/9120",    // 救急丹
-18334|<O>| return "持续1小时内变身为黄蜂，可提升1%防御力。";
-18335|<O>| "青宝石" : "\"/item/stuff/0086\"",
-18336|<O>| "寒铁片" : "\"/item/stuff/0274\"",
-18337|<O>| return "任务物品。一种用来进行木料表面加工的工具。";
-18338|<O>| "灰玉石" : "\"/item/stuff/0057\"",
-18339|<O>| "白玉石" : "\"/item/stuff/0059\"",
-18340|<O>| "破损的盔甲" : "在楚方城杀楚军剑兵可以得到破损的盔甲",
-18341|<O>| return "［踏雪无痕］提升躲闪，每级提升 3 点\n";
-18342|<O>| ESC "10 功德换 550 潜能。\n" + cmd1 +
-18343|<O>| return "经过矿冶技能熔炼的金矿，铁匠、机关所需材料";
-18344|<O>| npc->set_name("重犯" + criminal);
-18345|<O>| return "持续1小时内变身为土精，可提升2%气血值。";
-18346|<O>| log_file(LIST_LOG, "# 宠物法术\n");
-18347|<O>| if (who->is_npc())    // 给予 NPC
-18348|<O>| return "持续1小时内变身为逃犯，可提升2%躲闪值。";
-18349|<O>| #define PF_NAME        "帝王之盔制作"
-18350|<O>| "魔睛石" : "\"/item/stuff/0032\"",
-18351|<O>| who->win_bonus(me);    // 清除蒙面人
-18352|<O>| return "经过矿冶技能熔炼的锡矿，铁匠、机关所需材料";
-18353|<O>| "写意花草·菊" : "\"/item/97/9726\"",
-18354|<O>| return "持续1小时内变身为恶狼，可提升2%躲闪值。";
-18355|<O>| return "挖宝总动员特有的挖宝专用小锄头，右击使用。";
-18356|<O>| #define PF_NAME        "星梅点点锻造"
-18357|<O>| "玄铁丝" : "\"/item/stuff/0043\"",
-18358|<O>| return "任务物品。古董商需要的一种用泥做成的雕塑。";
-18359|<O>| else    return sprintf("狂暴\n");
-18360|<O>| if (p % 120 == 0)    // 每２分处理以下
-18361|<O>| ESC"离开", who->get_name(), id));
-18362|<O>| set_char_picid(8010);    // 蒙面人
-18363|<O>| "红玉石" : "\"/item/stuff/0066\"",
-18364|<O>| "土之魂" : "\"/item/stuff/0030\"",
-18365|<O>| case 2: name3 = "敌对外交";  break;
-18366|<O>| return "动物尾部喷射出做攻击用的剧毒刺，作出售品用";
-18367|<O>| "九转混天丹" : "\"/item/std/0088\"",
-18368|<O>| me->win_bonus(who);    // 清除蒙面人
-18369|<O>| #define PF_NAME        "乾坤战衣制作"
-18370|<O>| if (xy < 1000 / 3) return "东方";
-18371|<O>| "驴肝肺" : "\"/item/stuff/0186\"",
-18372|<O>| #define PF_NAME        "黄金拳套锻造"
-18373|<O>| else if ( rate < 8100 )	//圣诞树种子
-18374|<O>| log_file(LIST_LOG, "# 基本腰带\n");
-18375|<O>| "黑玉石" : "\"/item/stuff/0067\"",
-18376|<O>| "红宝石" : "\"/item/stuff/0089\"",
-18377|<O>| log_file(LIST_LOG, "# 敏捷腰带\n");
-18378|<O>| return "［金罡法咒］以群体攻击法术为主的技能。\n";
-18379|<O>| return "持续1小时内变身为刺客，可提升2%躲闪值。";
-18380|<O>| //		result += NOR"，让我们大家表示祝贺！";
-18381|<O>| #define PF_NAME        "虎王之爪锻造"
-18382|<O>| "青玉石" : "\"/item/stuff/0063\"",
-18383|<O>| "木之魂" : "\"/item/stuff/0027\"",
-18384|<O>| result += ESC"开启\nparty 153\n";
+﻿18288|<O>| owner->log_money("Mông Diện Nhân", -gold);
+18289|<O>| log_file(LIST_LOG, "# Cơ bảnHạng Liên\n");
+18290|<O>| #define PF_NAME        "thương khung Chi QuanChế tạo"
+18291|<O>| if (is_player(me))    // ＧＭtra xemNhiệm vụ
+18292|<O>| #define PF_NAME        "Tinh thần Chiến GiápChế tạo"
+18293|<O>| for (i = 0;i < 121;i++)		//phát tống hiệu Quả
+18294|<O>| return "Vật phẩm nhiệm vụ。giaochoTề QuốclớnTướng quâncủaMột loạinhuệ LợicủaBinh Khí。";
+18295|<O>| "HànSắtquản" : "\"/item/stuff/0276\"",
+18296|<O>| for (i = 0;i < 3;i++)	//3đôi5000Vàng
+18297|<O>| "HỏaPhượngChi Dực" : "TạiThiên Môn TrậnNhấttầngSát thủ TrậnThầnTướngcó thểnhận đượcHỏaPhượngChi Dực",
+18298|<O>| return "kéo dài1giờtrongbiến Thân vì tri thù，Có thể nâng2%Giá trị né tránh。";
+18299|<O>| "HànThiết đĩnh" : "\"/item/stuff/0014\"",
+18300|<O>| desc = "đậu hủcủacan，14giây phục hồi cho người chơi385điểm Khí Huyết。";
+18301|<O>| return "kéo dài1giờtrongbiến Thân vì Cường Đạo，Có thể nâng1%Mệnhgiữasuất。";
+18302|<O>| return SUB_MP;    // cẩn thận chuẩn bị level
+18303|<O>| log_file(LIST_LOG, "# Y phục\n\n");
+18304|<O>| #define PF_NAME        "ngàycương Chiến GiápChế tạo"
+18305|<O>| log_file(LIST_LOG, "# mẫn tiệpHạng Liên\n");
+18306|<O>| #define PF_NAME        "HỏaHồng đầu CânChế tạo"
+18307|<O>| "TinhSắtTi" : "\"/item/stuff/0041\"",
+18308|<O>| else if (flag == 2)    // xác nhận bán Xuất？
+18309|<O>| #define PF_NAME        "HoàngVàngChiến khảiChế tạo"
+18310|<O>| set("anti_05311", 1);    //khôngsẽmê Hồn
+18311|<O>| #define PF_NAME        "Ba hình đầu ĐáiChế tạo"
+18312|<O>| "HắcBảo Thạch" : "\"/item/stuff/0090\"",
+18313|<O>| log_file(LIST_LOG, "# Pháp Kiếm\n\n");
+18314|<O>| notify("không thểPhong bế Dĩ *, +, ? Kết vĩcủaＩＰ。");
+18315|<O>| result = "nàyLàNhấtkiệnrất nan đượccủaNhấtkiệnTrân quýTrang bị，cung hỷbạn。";
+18316|<O>| #define PF_NAME        "diệu NhậtdàiBàoChế tạo"
+18317|<O>| private int PersonPhoto;		// đầu tượng
+18318|<O>| desc = "niêm niêmcủaphạn，14giây phục hồi cho người chơi525điểm Khí Huyết。";
+18319|<O>| ESC"Từ bỏBáo Danh\ntalk %x# welcome.5\n"
+18320|<O>| desc = "doanh dưỡng Phong phú，14giây phục hồi cho người chơi980điểm Pháp Lực。";
+18321|<O>| result = sprintf("MụctrướccủaＧＭchủ quản hiệuCó:");
+18322|<O>| result = result + HIR"15000Vàng、";
+18323|<O>| #define PF_NAME        "Tinh thần Chiến khôiChế tạo"
+18324|<O>| tell_user(me, "Lỗ banBảo Thạch %d", rate);
+18325|<O>| #define PF_NAME        "ThầnngụcHạng LiênChế tạo"
+18326|<O>| private int md_grow;			//Pháp phòngthànhdàihệ số
+18327|<O>| log_file(LIST_LOG, "# cận CôngHạng Liên\n");
+18328|<O>| // nguyên lý: Tại100mssong khẩutrongtrọng phục tra tuần Đồng NhấtKỹ năngTướngQuay vềhoãn tồnkết quả
+18329|<O>| "Lam Ngọc Thạch" : "\"/item/stuff/0069\"",
+18330|<O>| #define PF_NAME        "Huyết Sắc Đấu bồngChế tạo"
+18331|<O>| log_file(LIST_LOG, "# Cơ bảnHia\n");
+18332|<O>| #define PF_NAME        "ngàyToàn Đấu lạpChế tạo"
+18333|<O>| "01":"/item/91/9120",    // cứu cấp Đơn
+18334|<O>| return "kéo dài1giờtrongbiến Thân vì Hoàng phong，Có thể nâng1%Phòng thủLực。";
+18335|<O>| "ThanhBảo Thạch" : "\"/item/stuff/0086\"",
+18336|<O>| "HànSắtphiến" : "\"/item/stuff/0274\"",
+18337|<O>| return "Vật phẩm nhiệm vụ。Một loạidùng đến tiến HànhMộcliệu biểu Diện Gia côngcủacông cụ。";
+18338|<O>| "hôi Ngọc Thạch" : "\"/item/stuff/0057\"",
+18339|<O>| "Bạch Ngọc Thạch" : "\"/item/stuff/0059\"",
+18340|<O>| "Phá tổncủaKhôi Giáp" : "TạiSở Phương Thành Sát Sở quân Kiếm Binhcó thểnhận đượcPhá tổncủaKhôi Giáp",
+18341|<O>| return "［đạp Tuyết vô ngấn］Nângtrốn Thiểm，Mỗi cấp tăng 3 điểm\n";
+18342|<O>| ESC "10 Công Đức hoán 550 Tiềm năng。\n" + cmd1 +
+18343|<O>| return "Kinh qua khoáng dãKỹ năngdung LuyệncủaVàngkhoáng，Thiết Tượng、Nguyên liệu cần cho Cơ Quan";
+18344|<O>| npc->set_name("trọng phạm" + criminal);
+18345|<O>| return "kéo dài1giờtrongbiến Thân vìThổTinh，Có thể nâng2%Giá trị Khí Huyết。";
+18346|<O>| log_file(LIST_LOG, "# sủng vậtPháp Thuật\n");
+18347|<O>| if (who->is_npc())    // chodư NPC
+18348|<O>| return "kéo dài1giờtrongbiến Thân vì đào phạm，Có thể nâng2%Giá trị né tránh。";
+18349|<O>| #define PF_NAME        "Đế Vương Chi khôiChế tạo"
+18350|<O>| "Matình Thạch" : "\"/item/stuff/0032\"",
+18351|<O>| who->win_bonus(me);    // Thanh trừMông Diện Nhân
+18352|<O>| return "Kinh qua khoáng dãKỹ năngdung Luyệncủatích khoáng，Thiết Tượng、Nguyên liệu cần cho Cơ Quan";
+18353|<O>| "tả Ý Hoa Thảo·Cúc" : "\"/item/97/9726\"",
+18354|<O>| return "kéo dài1giờtrongbiến Thân vì ÁcLang，Có thể nâng2%Giá trị né tránh。";
+18355|<O>| return "đào Bảo tổng Động viên đặcCócủađào Bảo chuyên dùngnhỏsừ đầu，phảikíchSử dụng。";
+18356|<O>| #define PF_NAME        "Tinh maiđiểmđiểmđoạn tạo"
+18357|<O>| "HuyềnSắtTi" : "\"/item/stuff/0043\"",
+18358|<O>| return "Vật phẩm nhiệm vụ。Cổ Đổng thươngcầncủaMột loạidùng nê làm thànhcủaĐiêu tố。";
+18359|<O>| else    return sprintf("Cuồng Bạo\n");
+18360|<O>| if (p % 120 == 0)    // mỗi２phútxử lý Dĩdưới
+18361|<O>| ESC"Rời khỏi", who->get_name(), id));
+18362|<O>| set_char_picid(8010);    // Mông Diện Nhân
+18363|<O>| "Hồng Ngọc Thạch" : "\"/item/stuff/0066\"",
+18364|<O>| "ThổChi Hồn" : "\"/item/stuff/0030\"",
+18365|<O>| case 2: name3 = "Địchđối vớingoàigiao";  break;
+18366|<O>| return "Động Vật vĩ bộ phún xạ Xuất làmTấn côngdùngcủaKịchĐộcThích，tácBánPhẩm dùng";
+18367|<O>| "Cửu chuyển hỗnngàyĐơn" : "\"/item/std/0088\"",
+18368|<O>| me->win_bonus(who);    // Thanh trừMông Diện Nhân
+18369|<O>| #define PF_NAME        "càn khôn Chiến YChế tạo"
+18370|<O>| if (xy < 1000 / 3) return "Đông Phương";
+18371|<O>| "lừa can phế" : "\"/item/stuff/0186\"",
+18372|<O>| #define PF_NAME        "HoàngVàngQuyền bộ đoạn tạo"
+18373|<O>| else if ( rate < 8100 )	//Thánhđản thụloạiTử
+18374|<O>| log_file(LIST_LOG, "# Cơ bảnYêu Đái\n");
+18375|<O>| "Hắc Ngọc Thạch" : "\"/item/stuff/0067\"",
+18376|<O>| "HồngBảo Thạch" : "\"/item/stuff/0089\"",
+18377|<O>| log_file(LIST_LOG, "# mẫn tiệpYêu Đái\n");
+18378|<O>| return "［Vàngcương Pháp chú］Dĩ quần ThểTấn côngPháp Thuật vì chủcủaKỹ năng。\n";
+18379|<O>| return "kéo dài1giờtrongbiến Thân vìThích Khách，Có thể nâng2%Giá trị né tránh。";
+18380|<O>| //		result += NOR"，đểtôimọi ngườibiểu thị Chúc Hạ！";
+18381|<O>| #define PF_NAME        "HổVương Chi Trảo đoạn tạo"
+18382|<O>| "Thanh Ngọc Thạch" : "\"/item/stuff/0063\"",
+18383|<O>| "MộcChi Hồn" : "\"/item/stuff/0027\"",
+18384|<O>| result += ESC"Mở\nparty 153\n";

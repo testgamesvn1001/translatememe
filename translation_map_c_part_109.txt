@@ -11,7 +11,7 @@
 1970|<O>| send_user(who,"%c%c%w%s",':',3,me->get_char_picid(),sprintf("%s:\n    Bạn đã nhận được món quà Giáng sinh từ ta, "HIR"%d điểm tiềm năng"NOR" , chúc bạn một mùa Giáng sinh vui vẻ nhé~\n"ESC"Rời khỏi",me->get_name(),pot));
 1971|<O>| 052142115 : ([32 * 20 + 24:(["legend2":32 * 20 + 25, "obj" : "item/98/0095", "taskid" : TID_QINGUO, "taskno" : 25, "taskname" : "Thiên Niên Hồng Mộc(Hoàn thành)"])]),
 1972|<O>| //			send_user( who, "%c%c%w%s", ':',3,me->get_char_picid(), sprintf("%s:\n    Chẳng lẽ ông chủ tiệm phòng cụ không đồng ý sao? Đây là việc tốt có lợi cho mọi người mà!\n"ESC"Rời khỏi",me->get_name(),getoid(me)));
-1973|<O>| //                	send_user( get_scene_object_2(who, USER_TYPE), "%c%d%w%c%c%c", 0x6f, getoid(who), 21181, 1, OVER_BODY, PF_ONCE );    // 技能成功
+1973|<O>| //                	send_user( get_scene_object_2(who, USER_TYPE), "%c%d%w%c%c%c", 0x6f, getoid(who), 21181, 1, OVER_BODY, PF_ONCE );    // Kỹ năng thành công
 1974|<O>| 152060069 : ([32 * 12 + 13:(["legend2":32 * 12 + 14, "obj" : "item/98/0050", "taskid" : TID_YANGUO, "taskno" : 5, "taskname" : "Nỗi phiền muộn của Trình Phong(Hoàn thành)"])]),
 1975|<O>| cWord = sprintf(me->get_name() + ":\n    Cảm ơn cháu nhé, cô bé! Còn về ngày Lễ Tình Nhân ấy à, điều quan trọng nhất chính là bạn trai tặng bạn gái hoa hồng, còn bạn gái tặng bạn trai sô-cô-la! Ô? Cháu hỏi sô-cô-la mua ở đâu à? Cái này thì ta không biết đâu, nhưng chỗ ta có một ít hạt sô-cô-la, ta nghĩ Hồng Nương chắc là biết cách làm hạt sô-cô-la thành sô-cô-la đấy。\n");
 1976|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    Ta cần một khoảng thời gian nữa để phối thuốc, một lát nữa bạn hãy quay lại lấy thuốc nhé!\n"ESC"Hoàn thành nhiệm vụ\ntalk %x# welcome.6\n"ESC"Rời khỏi", me->get_name(), getoid(me)));

@@ -31,11 +31,11 @@
 3622|<O>| send_user(member[i], "%c%s", ';', sprintf(HIY"Vẫn còn %d tên bại loại võ lâm", 500 - map->get("copy_npc_die")));
 3623|<O>| string* PlantName = ({ "Mầm non", "Một phần", "Hai phần", "Ba phần", "Bốn phần", "Năm phần", "Sáu phần", "Bảy phần", "Tám phần", "Chín phần", "Trưởng thành" });
 3624|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), "Sứ giả hoạt động Chiến Quốc:\n    Ngài đã không còn thời gian kinh nghiệm gấp đôi để nhận nữa！");
-3625|<O>| ret += sprintf("%sY Tá\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"护士"))?PPM:WHT);
+3625|<O>| ret += sprintf("%sY Tá\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Hộ Sĩ"))?PPM:WHT);
 3626|<O>| send_user(who, "%c%c%d%s", '?', 1, 20, sprintf("%s:\nHiện thuế mua vào của người bản quốc là %d%%, xin hỏi ngài muốn sửa thành bao nhiêu？(phạm vi:1～20%%)\n"
 3627|<O>| case 11: send_user(who, "%c%s", ':', sprintf("%s:\nTa không hiểu kỹ thuật đào mỏ, đào bừa sẽ phản tác dụng đấy。", me->get_name()));
 3628|<O>| //              write_user( me, ECHO "%s(%d) đã ném ngài ra ngoài。", who->get_name(), who->get_number() );
 3629|<O>| result = get_name() + ":\n    Ngươi đã đổi thành công 1 giờ thời gian kinh nghiệm gấp đôi, tuần này ngươi đã không còn thời gian gấp đôi bổ sung nào để nhận nữa, hãy tận dụng tốt giờ gấp đôi cuối cùng này nhé。\n";
-3630|<O>| ret += sprintf("%sLoli\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"萝莉"))?PPM:WHT);
+3630|<O>| ret += sprintf("%sLoli\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"La Lợi"))?PPM:WHT);
 3631|<O>| //_DEBUG(sprintf("DEBUG -- thời gian thông báo lần sau %s",SMART_ALARM_CLOCK_F->show_time_stamp(time()+10*60)));
 3632|<O>| send_user(who, "%c%c%d%s", '?', 1, DEFAULT_TIME, sprintf("Quản lý kênh %s, xin nhập số phút muốn phong bế:\n(0 nghĩa là mở kênh)\n"

@@ -1,89 +1,89 @@
-﻿16996|<O>| #define THIS_SORT      	5				// 小类别
-16997|<O>| HIR "力量" NOR "能体现出你物理攻击能力的高低，力量越高，"
-16998|<O>| "中级法攻" : "\"/item/final/15/1510\"",
-16999|<O>| item = new ("/item/91/9167"); //紫参丹
-17000|<O>| string get_name() { return "困敌术"; }
-17001|<O>| notify(item->get_name() + "不能卖掉。");
-17002|<O>| else if (rate < 92000)	//气血上限增加100点
-17003|<O>| ESC"领取龙卷风礼包\ntalk %x# bonus.1018\n"
-17004|<O>| set_name(get_city_name() + "帮派总管");
-17005|<O>| "自爆绵羊" : "\"/item/final/16/1622\"",
-17006|<O>| string get_name() { return "巨兽岛"; }
-17007|<O>| string get_name() { return "长白山"; }
-17008|<O>| tell_user(me, HIY "您强行中止了涉及您的战斗。");
-17009|<O>| if (type == 1) notify("您设置为无敌状态。");
-17010|<O>| gift = new("item/std/5211");		//鹤顶红
-17011|<O>| write_user(me, ECHO "您成功地收割了农作物。");
-17012|<O>| sprintf("%s:\n    %s\n请问您需要什么服务？\n"
-17013|<O>| string get_name() { return "弯道１"; }
-17014|<O>| string get_name() { return "子午谷"; }
-17015|<O>| //	       	ESC "学习技能\nlearn ? %s\n"
-17016|<O>| "长空浩月" : "\"/item/final/76/1100\"",
-17017|<O>| "高级法攻" : "\"/item/final/15/1517\"",
-17018|<O>| else if (npc->get_name() == "神秘泥桶")
-17019|<O>| string get_name() { return "洞庭湖"; }
-17020|<O>| "巨熊拳套" : "\"/item/final/70/1060\"",
-17021|<O>| string get_name() { return "玄真洞"; }
-17022|<O>| if (rand < 2000)///item/91/9101,活络丸
-17023|<O>| else    result2 = "(已完成)\nCLOSE\n";
-17024|<O>| "碎骨拳套" : "\"/item/final/70/1040\"",
-17025|<O>| string get_name() { return "昆仑山"; }
-17026|<O>| name2 != "茅山"	? HIR :	NOR );	break;
-17027|<O>| "强效法防" : "\"/item/final/15/1522\"",
-17028|<O>| "祝融火枪" : "\"/item/final/74/1080\"",
-17029|<O>| return "任务物品。一种特殊的物质，加水后能磨出墨用来书写。";
-17030|<O>| map->set_2("defend_country", "赵国");
-17031|<O>| else    tell_user(me, "目前没有这个帮派。");
-17032|<O>| "蚕丝护手" : "\"/item/final/70/1035\"",
-17033|<O>| string get_name() { return "虎牢关"; }
-17034|<O>| return SUB_EFFECT_AP;    // 小心准备 me
-17035|<O>| 用户需要考虑的是程序的主逻辑，可以把时间调用交给本类处理，以提高工作效
-17036|<O>| string get_name() { return "天门宫"; }
-17037|<O>| ESC "秦国\n" + "findgm setmap 50\n" +
-17038|<O>| result += ESC"设置活动时间\nparty 133\n";
-17039|<O>| "青铜炸弹" : "\"/item/final/16/1606\"",
-17040|<O>| "中级物攻" : "\"/item/final/15/1507\"",
-17041|<O>| + sprintf(ESC"国庆赠礼活动\nparty 152\n")
-17042|<O>| "铁制轴承" : "\"/item/final/16/1608\"",
-17043|<O>| "精铁钥匙" : "\"/item/final/16/1611\"",
-17044|<O>| string get_name() { return "首阳山"; }
-17045|<O>| desc = "猴子们的最爱，20秒内恢复玩家1000点气血值。 ";
-17046|<O>| ESC"给予重阳四宝每样3件\ntalk %x# bonus.5\n"
-17047|<O>| return "持续1小时内变身为楚国刀兵，可提升1%法术攻击力。";
-17048|<O>| string get_name() { return "阳平关"; }
-17049|<O>| else if ( iType == ZHOU_WORK )	//周国
-17050|<O>| "国　家:%s\n门　派:%s\n帮　派:%s\n等　级:%d\n",
-17051|<O>| hp1 = ADD_EFFECT;    // 小心准备 me, cp
-17052|<O>| "仙山灵芝" : "\"/item/final/91/1809\"",
-17053|<O>| send_user(me, "%c%s", '>', "记录为:");
-17054|<O>| ESC "韩国\n" + "findgm setmap 20\n" +
-17055|<O>| ESC"给予重阳四宝每样1件\ntalk %x# bonus.4\n"
-17056|<O>| //			if ( map->get("win") == "秦国" )
-17057|<O>| "每逢佳节倍思亲，你我感情似海深，月圆又是月明时，教我怎能不思君！",
-17058|<O>| item = new("/item/88/0001");   //草鞋
-17059|<O>| case "云梦泽": return 0;    // 普通攻击，带毒
-17060|<O>| return "［踏雪无痕］提升躲闪，每级提升躲闪 1.5 点\n";
-17061|<O>| "玄铁锄头" : "\"/item/final/16/1627\"",
-17062|<O>| case "tiger_next":	//	《真假虎王活动》进入下一关
-17063|<O>| printf( ECHO "布阵时，不能有阻挡，或其它人在场。" );
-17064|<O>| item = new ("/item/01/0201");//青铜宝箱
-17065|<O>| item = new ("/item/08/0002");//战国号角
-17066|<O>| "白虎拳套" : "\"/item/final/70/1045\"",
-17067|<O>| "强效法力" : "\"/item/final/15/1520\"",
-17068|<O>| item = new ("/item/01/0200");//红木宝箱
-17069|<O>| string get_name() { return "鄱阳湖"; }
-17070|<O>| ESC"如何合成晶石？\ntalk %x# welcome.52\n"
-17071|<O>| "七彩灵芝" : "\"/item/final/91/1804\"",
-17072|<O>| //			+ sprintf(ESC"情人节\nparty 1\n")
-17073|<O>| + sprintf(ESC"无双攻城战\nparty 7000\n")
-17074|<O>| "虎爪拳套" : "\"/item/final/70/1055\"",
-17075|<O>| "中级法防" : "\"/item/final/15/1511\"",
-17076|<O>| string get_name() { return "紫云洞"; }
-17077|<O>| 测试:以下代码用来调试此类的功能，运行test_main 便可获得结果
-17078|<O>| ESC "我要扩充我的当铺\npawn expand %x# 0\n"
-17079|<O>| "制裁拳套" : "\"/item/final/70/1065\"",
-17080|<O>| string get_name() { return "无双城"; }
-17081|<O>| string get_name() { return "沉睡术"; }
-17082|<O>| notify(obj3->get_name() + "不能交易。");
-17083|<O>| if(other_stat[8]) {				//	8 增加法术攻击力
-17084|<O>| return "［乾坤挪移］提升法术防御力，每级提升 1 点。\n";
+﻿16996|<O>| #define THIS_SORT      	5				// nhỏloại biệt
+16997|<O>| HIR "Lực lượng" NOR "Năng Thể hiện XuấtbạnVật lý tấn côngNăng Lựccủacaothấp，Lực lượng Việtcao，"
+16998|<O>| "giữacấpPháp Công" : "\"/item/final/15/1510\"",
+16999|<O>| item = new ("/item/91/9167"); //Tử Sâm Đơn
+17000|<O>| string get_name() { return "khốn Địch Thuật"; }
+17001|<O>| notify(item->get_name() + "không thểbán rơi。");
+17002|<O>| else if (rate < 92000)	//Khí HuyếttrênhạnTăng100điểm
+17003|<O>| ESC"lĩnh thủLongquyểnPhonglễ bao\ntalk %x# bonus.1018\n"
+17004|<O>| set_name(get_city_name() + "bang pháitổng quản");
+17005|<O>| "Tự Bạo miên dương" : "\"/item/final/16/1622\"",
+17006|<O>| string get_name() { return "Cự thú Đảo"; }
+17007|<O>| string get_name() { return "dàiBạch Sơn"; }
+17008|<O>| tell_user(me, HIY "Bạn Cường Hànhgiữachỉ thiệpvàBạncủachiến đấu。");
+17009|<O>| if (type == 1) notify("Bạn thiết trí vì vô Địch trạng thái。");
+17010|<O>| gift = new("item/std/5211");		//hạc đỉnh Hồng
+17011|<O>| write_user(me, ECHO "BạnThành côngĐịa Thu cát nông tác Vật。");
+17012|<O>| sprintf("%s:\n    %s\nXin hỏiBạncầngìphục vụ？\n"
+17013|<O>| string get_name() { return "loan Đạo１"; }
+17014|<O>| string get_name() { return "Tử ngọ Cốc"; }
+17015|<O>| //	       	ESC "HọcKỹ năng\nlearn ? %s\n"
+17016|<O>| "dàiKhông hạotháng" : "\"/item/final/76/1100\"",
+17017|<O>| "caocấpPháp Công" : "\"/item/final/15/1517\"",
+17018|<O>| else if (npc->get_name() == "ThầnBí nê thùng")
+17019|<O>| string get_name() { return "Động đình hồ"; }
+17020|<O>| "Cự Hùng Quyền bộ" : "\"/item/final/70/1060\"",
+17021|<O>| string get_name() { return "Huyền Chân Động"; }
+17022|<O>| if (rand < 2000)///item/91/9101,hoạt lạc hoàn
+17023|<O>| else    result2 = "(đãHoàn thành)\nCLOSE\n";
+17024|<O>| "toái Cốt Quyền bộ" : "\"/item/final/70/1040\"",
+17025|<O>| string get_name() { return "Côn Lôn Sơn"; }
+17026|<O>| name2 != "Mao Sơn"	? HIR :	NOR );	break;
+17027|<O>| "Cường hiệuPháp phòng" : "\"/item/final/15/1522\"",
+17028|<O>| "Chúc dungHỏaThương" : "\"/item/final/74/1080\"",
+17029|<O>| return "Vật phẩm nhiệm vụ。Một loạiđặc thùcủaVật chất，GiaThủysauNăng ma Xuất mặc dùng đến thư tả。";
+17030|<O>| map->set_2("defend_country", "Triệu Quốc");
+17031|<O>| else    tell_user(me, "Mụctrướckhông cónàybang phái。");
+17032|<O>| "tằm Ti Hộ Thủ" : "\"/item/final/70/1035\"",
+17033|<O>| string get_name() { return "Hổ Lao Quan"; }
+17034|<O>| return SUB_EFFECT_AP;    // cẩn thận chuẩn bị me
+17035|<O>| dùng Hộcầnkhảo lựcủaLàtrình tựcủachủ la tập，có thểđemgiờgian điều dùng giaochoBản loại xử lý，Dĩ Đềcaocông tác hiệu
+17036|<O>| string get_name() { return "ngàyMôn Cung"; }
+17037|<O>| ESC "Tần Quốc\n" + "findgm setmap 50\n" +
+17038|<O>| result += ESC"thiết tríhoạt độnggiờgian\nparty 133\n";
+17039|<O>| "ThanhĐồngtrá đạn" : "\"/item/final/16/1606\"",
+17040|<O>| "giữacấpVật Công" : "\"/item/final/15/1507\"",
+17041|<O>| + sprintf(ESC"Quốc khánh tặng lễhoạt động\nparty 152\n")
+17042|<O>| "Sắtchế trục thừa" : "\"/item/final/16/1608\"",
+17043|<O>| "TinhSắtchìa thì" : "\"/item/final/16/1611\"",
+17044|<O>| string get_name() { return "thủ Dương Sơn"; }
+17045|<O>| desc = "Hầu Tửcủatối Ái，20giây phục hồi cho người chơi1000điểm Khí Huyết。 ";
+17046|<O>| ESC"chodư trọng Dương Tứ Bảomỗidạng3kiện\ntalk %x# bonus.5\n"
+17047|<O>| return "kéo dài1giờtrongbiến Thân vìSở QuốcĐao Binh，Có thể nâng1%Lực tấn công phép thuật。";
+17048|<O>| string get_name() { return "Dương bình quan"; }
+17049|<O>| else if ( iType == ZHOU_WORK )	//Chu Quốc
+17050|<O>| "Quốc　Gia:%s\nMôn　phái:%s\nBang　phái:%s\nĐẳng　cấp:%d\n",
+17051|<O>| hp1 = ADD_EFFECT;    // cẩn thận chuẩn bị me, cp
+17052|<O>| "TiênSơn Linh chi" : "\"/item/final/91/1809\"",
+17053|<O>| send_user(me, "%c%s", '>', "ký lục vì:");
+17054|<O>| ESC "Hàn Quốc\n" + "findgm setmap 20\n" +
+17055|<O>| ESC"chodư trọng Dương Tứ Bảomỗidạng1kiện\ntalk %x# bonus.4\n"
+17056|<O>| //			if ( map->get("win") == "Tần Quốc" )
+17057|<O>| "mỗiphùng giai tiết bội Tư Thân，bạntôicảm Tình tự Hải thâm，thángviênlạiLàthángMinhgiờ，Giáotôithế nàoNăngkhôngTư Quân！",
+17058|<O>| item = new("/item/88/0001");   //Thảo Hia
+17059|<O>| case "Vân Mộng Trạch": return 0;    // phổ thôngTấn công，ĐáiĐộc
+17060|<O>| return "［đạp Tuyết vô ngấn］Nângtrốn Thiểm，Mỗi cấp tăngtrốn Thiểm 1.5 điểm\n";
+17061|<O>| "HuyềnSắtsừ đầu" : "\"/item/final/16/1627\"",
+17062|<O>| case "tiger_next":	//	《Chân GiảHổVươnghoạt động》Đi vàodướiNhất quan
+17063|<O>| printf( ECHO "bố Trậngiờ，không thểCótrở đảng，hoặc kỳnóNhânTạitrường。" );
+17064|<O>| item = new ("/item/01/0201");//ThanhĐồngBảo rương
+17065|<O>| item = new ("/item/08/0002");//Chiến Quốc Hiệu Giác
+17066|<O>| "BạchHổQuyền bộ" : "\"/item/final/70/1045\"",
+17067|<O>| "Cường hiệuPháp Lực" : "\"/item/final/15/1520\"",
+17068|<O>| item = new ("/item/01/0200");//HồngMộcBảo rương
+17069|<O>| string get_name() { return "Bà Dương hồ"; }
+17070|<O>| ESC"như HàHợp thànhtinh Thạch？\ntalk %x# welcome.52\n"
+17071|<O>| "Thất thải Linh chi" : "\"/item/final/91/1804\"",
+17072|<O>| //			+ sprintf(ESC"Tình Nhân tiết\nparty 1\n")
+17073|<O>| + sprintf(ESC"vô song Công Thành Chiến\nparty 7000\n")
+17074|<O>| "HổTrảo Quyền bộ" : "\"/item/final/70/1055\"",
+17075|<O>| "giữacấpPháp phòng" : "\"/item/final/15/1511\"",
+17076|<O>| string get_name() { return "Tử Vân Động"; }
+17077|<O>| Kiểm tra:Dĩdướiđại mã dùng đến điều thử thử loạicủaCông Năng，vận Hànhtest_main tiện có thể hoạch đượckết quả
+17078|<O>| ESC "tôicầnkhuếch sungtôicủađương phố\npawn expand %x# 0\n"
+17079|<O>| "chế Tài Quyền bộ" : "\"/item/final/70/1065\"",
+17080|<O>| string get_name() { return "vô song Thành"; }
+17081|<O>| string get_name() { return "trầm thụy Thuật"; }
+17082|<O>| notify(obj3->get_name() + "Không thể giao dịch。");
+17083|<O>| if(other_stat[8]) {				//	8 TăngLực tấn công phép thuật
+17084|<O>| return "［càn khôn na Di］Nâng Lực phòng thủ phép thuật，Mỗi cấp tăng 1 điểm。\n";

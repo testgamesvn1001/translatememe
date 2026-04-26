@@ -1,58 +1,58 @@
-﻿7968|<O>| /*              else if( p < 6852 * rate / 100 )    // 防具(基本)
-7969|<O>| /*              else if( p < 2382 * rate / 100 )    // 武器(门派)
-7970|<O>| send_user(who, "%c%s", ';', "询问价格 经验 33000 潜能 420 金钱 25000");
-7971|<O>| send_user(who, "%c%s", ';', "试探实力 经验 39000 潜能 580 金钱 39000");
-7972|<O>| /*              else if( p < 5664 * rate / 100 )    // 防具(基本)
-7973|<O>| send_user(who, "%c%s", ';', "接受请求 经验 72000 潜能 900 金钱 61000");
-7974|<O>| send_user(who, "%c%s", ';', "找寻童年乐趣 经验 6400 潜能 258 金钱 5400");
-7975|<O>| /*              else if( p < 4918 * rate / 100 )    // 武器(基本)
-7976|<O>| /*              else if( p < 6509 * rate / 100 )    // 防具(基本)
-7977|<O>| /*              else if( p < 7367 * rate / 100 )    // 防具(基本)
-7978|<O>| send_user(who, "%c%s", ';', "索取菜种（1） 经验 3000 潜能 70 金钱 2000");
-7979|<O>| /*              else if( p < 5978 * rate / 100 )    // 武器(基本)
-7980|<O>| /*              else if( p < 5252 * rate / 100 )    // 防具(基本)
-7981|<O>| private int iBind;			// 0 无绑定 1 装备后绑定 2 装备后已绑定 3 获得绑定 4 获得已绑定
-7982|<O>| /*              else if( p < 9192 * rate / 100 )    // 武器(基本)
-7983|<O>| /*              else if( p < 9220 * rate / 100 )    // 武器(基本)
-7984|<O>| /*              else if( p < 9192 * rate / 100 )    // 防具(基本)
-7985|<O>| /*              else if( p < 4658 * rate / 100 )    // 防具(门派)
-7986|<O>| /*              else if( p < 4844 * rate / 100 )    // 武器(门派)
-7987|<O>| send_user(who, "%c%s", ';', "商人诉苦 经验 70000 潜能 820 金钱 53000");
-7988|<O>| /*              else if( p < 5290 * rate / 100 )    // 武器(基本)
-7989|<O>| /*              else if( p < 3096 * rate / 100 )    // 武器(基本)
-7990|<O>| result += sprintf(ESC HIY "丢失的手镯\ntalk %x# welcome.3\n", id);
-7991|<O>| /*              else if( p < 7012 * rate / 100 )    // 武器(基本)
-7992|<O>| /*              else if( p < 6509 * rate / 100 )    // 武器(基本)
-7993|<O>| /*              else if( p < 2890 * rate / 100 )    // 武器(基本)
-7994|<O>| /*              else if( p < 6416 * rate / 100 )    // 武器(基本)
-7995|<O>| /*              else if( p < 5902 * rate / 100 )    // 武器(基本)
-7996|<O>| /*              else if( p < 5243 * rate / 100 )    // 武器(基本)
-7997|<O>| /*              else if( p < 3186 * rate / 100 )    // 防具(基本)
-7998|<O>| send_user(who, "%c%s", ';', "万众敬仰 经验 91500 潜能 988 金钱 95000");
-7999|<O>| send_user(who, "%c%s", ';', "求医（2）经验 48000 潜能 750 金钱 50000");
-8000|<O>| /*              else if( p < 5002 * rate / 100 )    // 武器(基本)
-8001|<O>| /*              else if( p < 5771 * rate / 100 )    // 武器(基本)
-8002|<O>| case "韩国": z = 20;  p = get_jumpin(z, me->get("in"));  break;
-8003|<O>| if (!objectp(item_dw1 = present("泡过的糯米", who, 1, MAX_CARRY)))
-8004|<O>| /*              else if( p < 5750 * rate / 100 )    // 防具(基本)
-8005|<O>| send_user(who, "%c%s", ';', "湖口村的悬案 经验 2600 潜能 100 金钱 2000");
-8006|<O>| /*              else if( p < 4594 * rate / 100 )    // 防具(基本)
-8007|<O>| /*              else if( p < 5728 * rate / 100 )    // 防具(基本)
-8008|<O>| /*              else if( p < 4616 * rate / 100 )    // 武器(基本)
-8009|<O>| send_user(who, "%c%s", ';', "证明实力 经验 52000 潜能 710 金钱 49000");
-8010|<O>| /*              else if( p < 9058 * rate / 100 )    // 防具(基本)
-8011|<O>| return HIR + PF_NAME + "\n技能需求:10级\n    瞬间解除附加在自己身上的一个异常状态。";
-8012|<O>| /*              else if( p < 4594 * rate / 100 )    // 武器(基本)
-8013|<O>| /*              else if( p < 5263 * rate / 100 )    // 防具(门派)
-8014|<O>| /*              else if( p < 7510 * rate / 100 )    // 武器(基本)
-8015|<O>| string *nFamily = ({"桃花源","蜀山","禁卫军","唐门","茅山","昆仑山","云梦泽"});
-8016|<O>| /*              else if( p < 4488 * rate / 100 )    // 武器(基本)
-8017|<O>| /*              else if( p < 8060 * rate / 100 )    // 防具(基本)
-8018|<O>| /*              else if( p < 5640 * rate / 100 )    // 防具(基本)
-8019|<O>| /*              else if( p < 8116 * rate / 100 )    // 防具(基本)
-8020|<O>| /*              else if( p < 6968 * rate / 100 )    // 武器(基本)
-8021|<O>| send_user(who, "%c%s", ';', "清除奸贼 经验 35000 潜能 530 金钱 36000");
-8022|<O>| send_user(who, "%c%s", ';', "黑暗笼罩 经验 90000 潜能 973 金钱 93500");
-8023|<O>| /*              else if( p < 2446 * rate / 100 )    // 武器(基本)
-8024|<O>| /*              else if( p < 6179 * rate / 100 )    // 武器(基本)
-8025|<O>| /*              else if( p < 6416 * rate / 100 )    // 防具(基本)
+﻿7968|<O>| /*              else if( p < 6852 * rate / 100 )    // Phòng cụ(Cơ bản)
+7969|<O>| /*              else if( p < 2382 * rate / 100 )    // Vũ khí(Môn phái)
+7970|<O>| send_user(who, "%c%s", ';', "tuần hỏi giá cách Kinh nghiệm 33000 Tiềm năng 420 Tiền vàng 25000");
+7971|<O>| send_user(who, "%c%s", ';', "thử Thám thực Lực Kinh nghiệm 39000 Tiềm năng 580 Tiền vàng 39000");
+7972|<O>| /*              else if( p < 5664 * rate / 100 )    // Phòng cụ(Cơ bản)
+7973|<O>| send_user(who, "%c%s", ';', "NhậnXin cầu Kinh nghiệm 72000 Tiềm năng 900 Tiền vàng 61000");
+7974|<O>| send_user(who, "%c%s", ';', "tìm tìm đồngnămlạc thú Kinh nghiệm 6400 Tiềm năng 258 Tiền vàng 5400");
+7975|<O>| /*              else if( p < 4918 * rate / 100 )    // Vũ khí(Cơ bản)
+7976|<O>| /*              else if( p < 6509 * rate / 100 )    // Phòng cụ(Cơ bản)
+7977|<O>| /*              else if( p < 7367 * rate / 100 )    // Phòng cụ(Cơ bản)
+7978|<O>| send_user(who, "%c%s", ';', "sách thủ Tháiloại（1） Kinh nghiệm 3000 Tiềm năng 70 Tiền vàng 2000");
+7979|<O>| /*              else if( p < 5978 * rate / 100 )    // Vũ khí(Cơ bản)
+7980|<O>| /*              else if( p < 5252 * rate / 100 )    // Phòng cụ(Cơ bản)
+7981|<O>| private int iBind;			// 0 vô bảng định 1 Trang bịsaubảng định 2 Trang bịsauđã bảng định 3 hoạch được bảng định 4 hoạch được đã bảng định
+7982|<O>| /*              else if( p < 9192 * rate / 100 )    // Vũ khí(Cơ bản)
+7983|<O>| /*              else if( p < 9220 * rate / 100 )    // Vũ khí(Cơ bản)
+7984|<O>| /*              else if( p < 9192 * rate / 100 )    // Phòng cụ(Cơ bản)
+7985|<O>| /*              else if( p < 4658 * rate / 100 )    // Phòng cụ(Môn phái)
+7986|<O>| /*              else if( p < 4844 * rate / 100 )    // Vũ khí(Môn phái)
+7987|<O>| send_user(who, "%c%s", ';', "Thương Nhântố khổ Kinh nghiệm 70000 Tiềm năng 820 Tiền vàng 53000");
+7988|<O>| /*              else if( p < 5290 * rate / 100 )    // Vũ khí(Cơ bản)
+7989|<O>| /*              else if( p < 3096 * rate / 100 )    // Vũ khí(Cơ bản)
+7990|<O>| result += sprintf(ESC HIY "mất thấtcủaThủ trác\ntalk %x# welcome.3\n", id);
+7991|<O>| /*              else if( p < 7012 * rate / 100 )    // Vũ khí(Cơ bản)
+7992|<O>| /*              else if( p < 6509 * rate / 100 )    // Vũ khí(Cơ bản)
+7993|<O>| /*              else if( p < 2890 * rate / 100 )    // Vũ khí(Cơ bản)
+7994|<O>| /*              else if( p < 6416 * rate / 100 )    // Vũ khí(Cơ bản)
+7995|<O>| /*              else if( p < 5902 * rate / 100 )    // Vũ khí(Cơ bản)
+7996|<O>| /*              else if( p < 5243 * rate / 100 )    // Vũ khí(Cơ bản)
+7997|<O>| /*              else if( p < 3186 * rate / 100 )    // Phòng cụ(Cơ bản)
+7998|<O>| send_user(who, "%c%s", ';', "vạn Chúng kính ngưỡng Kinh nghiệm 91500 Tiềm năng 988 Tiền vàng 95000");
+7999|<O>| send_user(who, "%c%s", ';', "Cầu Y（2）Kinh nghiệm 48000 Tiềm năng 750 Tiền vàng 50000");
+8000|<O>| /*              else if( p < 5002 * rate / 100 )    // Vũ khí(Cơ bản)
+8001|<O>| /*              else if( p < 5771 * rate / 100 )    // Vũ khí(Cơ bản)
+8002|<O>| case "Hàn Quốc": z = 20;  p = get_jumpin(z, me->get("in"));  break;
+8003|<O>| if (!objectp(item_dw1 = present("bào quacủanếp mễ", who, 1, MAX_CARRY)))
+8004|<O>| /*              else if( p < 5750 * rate / 100 )    // Phòng cụ(Cơ bản)
+8005|<O>| send_user(who, "%c%s", ';', "hồ khẩu thôncủahuyền án Kinh nghiệm 2600 Tiềm năng 100 Tiền vàng 2000");
+8006|<O>| /*              else if( p < 4594 * rate / 100 )    // Phòng cụ(Cơ bản)
+8007|<O>| /*              else if( p < 5728 * rate / 100 )    // Phòng cụ(Cơ bản)
+8008|<O>| /*              else if( p < 4616 * rate / 100 )    // Vũ khí(Cơ bản)
+8009|<O>| send_user(who, "%c%s", ';', "chứng Minh thực Lực Kinh nghiệm 52000 Tiềm năng 710 Tiền vàng 49000");
+8010|<O>| /*              else if( p < 9058 * rate / 100 )    // Phòng cụ(Cơ bản)
+8011|<O>| return HIR + PF_NAME + "\nKỹ năng yêu cầu:10cấp\n    thuấn gian Giải trừ phụ GiaTạibản thânThântrêncủaNhất dị thường trạng thái。";
+8012|<O>| /*              else if( p < 4594 * rate / 100 )    // Vũ khí(Cơ bản)
+8013|<O>| /*              else if( p < 5263 * rate / 100 )    // Phòng cụ(Môn phái)
+8014|<O>| /*              else if( p < 7510 * rate / 100 )    // Vũ khí(Cơ bản)
+8015|<O>| string *nFamily = ({"Đào Hoa Nguyên","Thục Sơn","Cấm Vệ Quân","Đường Môn","Mao Sơn","Côn Lôn Sơn","Vân Mộng Trạch"});
+8016|<O>| /*              else if( p < 4488 * rate / 100 )    // Vũ khí(Cơ bản)
+8017|<O>| /*              else if( p < 8060 * rate / 100 )    // Phòng cụ(Cơ bản)
+8018|<O>| /*              else if( p < 5640 * rate / 100 )    // Phòng cụ(Cơ bản)
+8019|<O>| /*              else if( p < 8116 * rate / 100 )    // Phòng cụ(Cơ bản)
+8020|<O>| /*              else if( p < 6968 * rate / 100 )    // Vũ khí(Cơ bản)
+8021|<O>| send_user(who, "%c%s", ';', "Thanh trừ gian tặc Kinh nghiệm 35000 Tiềm năng 530 Tiền vàng 36000");
+8022|<O>| send_user(who, "%c%s", ';', "HắcÁmlung trạo Kinh nghiệm 90000 Tiềm năng 973 Tiền vàng 93500");
+8023|<O>| /*              else if( p < 2446 * rate / 100 )    // Vũ khí(Cơ bản)
+8024|<O>| /*              else if( p < 6179 * rate / 100 )    // Vũ khí(Cơ bản)
+8025|<O>| /*              else if( p < 6416 * rate / 100 )    // Phòng cụ(Cơ bản)

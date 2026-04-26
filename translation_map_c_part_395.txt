@@ -1,102 +1,102 @@
-﻿18981|<O>| #define PF_NAME        "横扫千军"
-18982|<O>| if (fam == "无门派") id = level;
-18983|<O>| "寒铁刀柄" : "\"/item/40/4080\"",
-18984|<O>| // 调用时机: NPC create 或 reset 时
-18985|<O>| return "装有周王奖励物品的礼包，右击即可打开。";
-18986|<O>| "缉捕公文" : "\"/item/98/9871\"",
-18987|<O>| _DEBUG("DEBUG_f -- 添加测试成功！");
-18988|<O>| if (skill == 74101)			//修复BUG
-18989|<O>| #define PF_NAME        "猛兽怒嚎"
-18990|<O>| "寒铁枪头" : "\"/item/40/4082\"",
-18991|<O>| return "任务物品。赵王丢失的价值连城的夜明珠。";
-18992|<O>| #define PF_NAME        "阴间之爪"
-18993|<O>| // 函数:列示给玩家看(新进入场景)(功能NPC 专用)
-18994|<O>| private int Count;			// 成品的数量
-18995|<O>| "蜥蜴尾巴" : "\"/item/40/4044\"",
-18996|<O>| #define PF_NAME        "妙手空空"
-18997|<O>| case 2: name3 = "问罪";  break;
-18998|<O>| ESC "完成任务\ntalk %x# qixi.5\n"
-18999|<O>| #define PF_NAME        "仙人指路"
-19000|<O>| #define PF_NAME        "翻江倒海"
-19001|<O>| #define PF_NAME        "流星追命"
-19002|<O>| f1 * 100 + f2 + 2,    // 答应任务
-19003|<O>| return "任务物品。用来唤醒崔大官人的重要物品。";
-19004|<O>| else if ( rate < 9185 )	//百宝囊
-19005|<O>| + sprintf(ESC"关闭\nparty 6\n")
-19006|<O>| "迷神散" : "\"/item/std/5216\"",
-19007|<O>| "千年草藤" : "\"/item/40/4010\"",
-19008|<O>| tmp = ESC "找回丢失的物品\n" + cmd3;
-19009|<O>| // 说明:以下定义来自 f_others.c (GSE)
-19010|<O>| "“九筒”" : "\"/item/37/3709\"",
-19011|<O>| case 4: name3 = "矿业";  break;
-19012|<O>| "七色串珠" : "\"/item/40/4067\"",
-19013|<O>| "蓝魔之泪" : "\"/item/41/4109\"",
-19014|<O>| return "十二生肖之一的虎\n"HIC"获取绑定";
-19015|<O>| #define PF_NAME        "破釜沉舟"
-19016|<O>| log_file(LIST_LOG, "# 百姓\n");
-19017|<O>| set_attack_speed(11);  //攻击速度
-19018|<O>| "百宝袋" : "\"/item/std/6006\"",
-19019|<O>| "轩辕本记" : "\"/item/97/9710\"",
-19020|<O>| "“五条”" : "\"/item/37/3715\"",
-19021|<O>| result = result + HIR"500潜能";
-19022|<O>| ESC "接受任务\ntalk %x# qixi.6\n"
-19023|<O>| #define PF_NAME        "烟雨缥缈"
-19024|<O>| "围棋残局" : "\"/item/37/3793\"",
-19025|<O>| "地煞门众守" : "在天门阵二层可以杀到地煞门众守 ",
-19026|<O>| #define PF_NAME        "抛开尸体"
-19027|<O>| log_file(LIST_LOG, "# 御史\n");
-19028|<O>| case 6: name3 = "商业";  break;
-19029|<O>| #define PF_NAME        "金光法阵"
-19030|<O>| if (item->get_name() == "钱票")
-19031|<O>| set_attack_speed(13);  //攻击速度
-19032|<O>| else if (dy < 0) return "南方";
-19033|<O>| log_file(LIST_LOG, "# 使节\n");
-19034|<O>| #define PF_NAME        "泰阿锻造"
-19035|<O>| #define PF_NAME        "御剑飞仙"
-19036|<O>| #define PF_NAME        "百万雷鸣"
-19037|<O>| #define PF_NAME        "破空一击"
-19038|<O>| return "从麻布抽出的线,裁缝生活技能需要的材料";
-19039|<O>| #define PF_NAME        "稳定心神"
-19040|<O>| return "男子用来固定头发的一种物品，作出售品用";
-19041|<O>| "“西风”" : "\"/item/37/3733\"",
-19042|<O>| "“八条”" : "\"/item/37/3718\"",
-19043|<O>| notify("可通过点击属性界面中的升级按钮升级。");
-19044|<O>| "寒铁剑鞘" : "\"/item/40/4081\"",
-19045|<O>| // 生成副本第一个怪并把放入第一个指定位置(78,81)
-19046|<O>| result = result + HIR"500金、";
-19047|<O>| "锦" : "\"/item/stuff/0054\"",
-19048|<O>| "干将宝石" : "\"/item/08/0015\"",
-19049|<O>| #define PF_NAME        "九死一生"
-19050|<O>| // 参数:0 复活；1 死亡；2 有人解救；9 战场死亡
-19051|<O>| #define PF_NAME        "龙游四海"
-19052|<O>| result += ESC "返回。\nCLOSE\n";
-19053|<O>| #define PF_NAME        "五雷轰顶"
-19054|<O>| #define PF_NAME        "寒冰法阵"
-19055|<O>| ESC"确定\ntalk %x# welcome.1\n"
-19056|<O>| cmd = "哇哇哇哇～～新年到处放爆竹，好可怕哦～～";
-19057|<O>| return "装有75紫色神器的礼包，右击即可打开。";
-19058|<O>| default: type = "步兵";  break;
-19059|<O>| "云雾茶叶" : "\"/item/31/3117\"",
-19060|<O>| #define PF_NAME        "踏雪无痕"
-19061|<O>| "螳螂之翼" : "在桃花源杀绿臂螳螂可以得到螳螂之翼",
-19062|<O>| //		        cityname = "桃花岛";
-19063|<O>| #define PF_NAME        "斗转星移"
-19064|<O>| + sprintf(ESC"开启\nparty 2\n")
-19065|<O>| #define PF_NAME        "眩光一闪"
-19066|<O>| "麻沸散" : "\"/item/std/5219\"",
-19067|<O>| case 7: name3 = "艺术";  break;
-19068|<O>| #define PF_NAME        "锡矿冶炼"
-19069|<O>| #define PF_NAME        "使用法宝"
-19070|<O>| "“八万”" : "\"/item/37/3728\"",
-19071|<O>| return "十二生肖之一的猪\n"HIC"获取绑定";
-19072|<O>| who->log_money("看舞蹈", -gold);
-19073|<O>| tell_user(me, "你被反外挂程序盯上了。");
-19074|<O>| #define PF_NAME        "直捣黄龙"
-19075|<O>| ESC"真假虎王\ntalk %x# tiger.1\n"
-19076|<O>| "姜" : "\"/item/stuff/0168\"",
-19077|<O>| else if ( rate < 9200 )	//复生丹
-19078|<O>| item = new (cTmp);//随机门派技能进阶书
-19079|<O>| me->set_action(1);    // 恢复正常
-19080|<O>| cmd = "哈哈哈哈～～新年到处爆竹声声，真热闹～～";
-19081|<O>| #define PF_NAME        "赤刀锻造"
-19082|<O>| "围棋棋盘" : "\"/item/37/3792\"",
+﻿18981|<O>| #define PF_NAME        "hoành tảo Thiên quân"
+18982|<O>| if (fam == "vôMôn phái") id = level;
+18983|<O>| "HànSắtĐao bính" : "\"/item/40/4080\"",
+18984|<O>| // điều dùnggiờcơ: NPC create hoặc reset giờ
+18985|<O>| return "trangCóChu Vươngphần thưởngVật Phẩmcủalễ bao，phảikích tức có thể Đả mở。";
+18986|<O>| "tập bổ công Văn" : "\"/item/98/9871\"",
+18987|<O>| _DEBUG("DEBUG_f -- ThêmKiểm traThành công！");
+18988|<O>| if (skill == 74101)			//Tu phụcBUG
+18989|<O>| #define PF_NAME        "Mãnh thú Nộ hào"
+18990|<O>| "HànSắtThương đầu" : "\"/item/40/4082\"",
+18991|<O>| return "Vật phẩm nhiệm vụ。Triệu Vương mất thấtcủagiá Trị Liên Thànhcủadạ Minh Châu。";
+18992|<O>| #define PF_NAME        "Âm gian Chi Trảo"
+18993|<O>| // Hàm:liệt thịchoNgười chơixem(mớiĐi vàotrường cảnh)(Công NăngNPC chuyên dùng)
+18994|<O>| private int Count;			// thành Phẩmcủasố lượng
+18995|<O>| "tích dịch vĩ Ba" : "\"/item/40/4044\"",
+18996|<O>| #define PF_NAME        "Diệu Thủ Không Không"
+18997|<O>| case 2: name3 = "hỏi Tội";  break;
+18998|<O>| ESC "Hoàn thành nhiệm vụ\ntalk %x# qixi.5\n"
+18999|<O>| #define PF_NAME        "TiênNhân Chỉ Lộ"
+19000|<O>| #define PF_NAME        "phiên Giang Đảo Hải"
+19001|<O>| #define PF_NAME        "lưu Tinh truy Mệnh"
+19002|<O>| f1 * 100 + f2 + 2,    // đáp ứngNhiệm vụ
+19003|<O>| return "Vật phẩm nhiệm vụ。dùng đến hoán tỉnh Thôilớnquan NhâncủaQuan trọngVật Phẩm。";
+19004|<O>| else if ( rate < 9185 )	//Bách Bảo Nang
+19005|<O>| + sprintf(ESC"Đóng\nparty 6\n")
+19006|<O>| "mêThầntán" : "\"/item/std/5216\"",
+19007|<O>| "ThiênnămThảo đằng" : "\"/item/40/4010\"",
+19008|<O>| tmp = ESC "tìm Hồi mất thấtcủaVật Phẩm\n" + cmd3;
+19009|<O>| // nói Minh:Dĩdướiđịnh nghĩa đến Tự f_others.c (GSE)
+19010|<O>| "“Cửu đồng”" : "\"/item/37/3709\"",
+19011|<O>| case 4: name3 = "Khoáng Nghiệp";  break;
+19012|<O>| "Thất Sắc xuyến Châu" : "\"/item/40/4067\"",
+19013|<O>| "LamMaChi lệ" : "\"/item/41/4109\"",
+19014|<O>| return "Thập Nhị sinh Tiêu Chi NhấtcủaHổ\n"HIC"hoạch thủ bảng định";
+19015|<O>| #define PF_NAME        "Phá phủ trầm chu"
+19016|<O>| log_file(LIST_LOG, "# Bách tính\n");
+19017|<O>| set_attack_speed(11);  //Tấn côngtốc độ
+19018|<O>| "Bách Bảo đại" : "\"/item/std/6006\"",
+19019|<O>| "hiên viên Bản ký" : "\"/item/97/9710\"",
+19020|<O>| "“Ngũ điều”" : "\"/item/37/3715\"",
+19021|<O>| result = result + HIR"500Tiềm năng";
+19022|<O>| ESC "NhậnNhiệm vụ\ntalk %x# qixi.6\n"
+19023|<O>| #define PF_NAME        "yên vũ phiêu miểu"
+19024|<O>| "vi kỳ tàn cục" : "\"/item/37/3793\"",
+19025|<O>| "Địa sát Môn Chúng thủ" : "TạiThiên Môn TrậnNhịtầngcó thểSátđếnĐịa sát Môn Chúng thủ ",
+19026|<O>| #define PF_NAME        "phao mở thi Thể"
+19027|<O>| log_file(LIST_LOG, "# Ngự Sử\n");
+19028|<O>| case 6: name3 = "Thương Nghiệp";  break;
+19029|<O>| #define PF_NAME        "VàngQuangPháp Trận"
+19030|<O>| if (item->get_name() == "Tiền Phiếu")
+19031|<O>| set_attack_speed(13);  //Tấn côngtốc độ
+19032|<O>| else if (dy < 0) return "Nam Phương";
+19033|<O>| log_file(LIST_LOG, "# sử tiết\n");
+19034|<O>| #define PF_NAME        "thái A đoạn tạo"
+19035|<O>| #define PF_NAME        "Ngự Kiếm PhiTiên"
+19036|<O>| #define PF_NAME        "Bách vạnLôiMinh"
+19037|<O>| #define PF_NAME        "Phá Không Nhất kích"
+19038|<O>| return "từma bố trừu Xuấtcủatuyến,Tài Phùngsinh hoạtKỹ năngcầncủatài liệu";
+19039|<O>| #define PF_NAME        "ổn định TâmThần"
+19040|<O>| return "NamTử dùng đến cố định đầu phátcủaMột loạiVật Phẩm，tácBánPhẩm dùng";
+19041|<O>| "“TâyPhong”" : "\"/item/37/3733\"",
+19042|<O>| "“Bát điều”" : "\"/item/37/3718\"",
+19043|<O>| notify("có thể thông quađiểmkích thuộc tính Giới DiệngiữacủaThăng cấpán nữuThăng cấp。");
+19044|<O>| "HànSắtKiếm tiêu" : "\"/item/40/4081\"",
+19045|<O>| // sinh thànhphó bảnđệ Nhất quái tịnhđemPhóng Nhập đệ Nhất Chỉ định vị trí(78,81)
+19046|<O>| result = result + HIR"500Vàng、";
+19047|<O>| "cẩm" : "\"/item/stuff/0054\"",
+19048|<O>| "can TướngBảo Thạch" : "\"/item/08/0015\"",
+19049|<O>| #define PF_NAME        "Cửu Tử Nhất sinh"
+19050|<O>| // Sâm số:0 Phục sinh；1 Tử vong；2 CóNhân Giải cứu；9 Chiến trườngTử vong
+19051|<O>| #define PF_NAME        "Longdu Tứ Hải"
+19052|<O>| result += ESC "Quay về。\nCLOSE\n";
+19053|<O>| #define PF_NAME        "NgũLôioanh đỉnh"
+19054|<O>| #define PF_NAME        "HànBăngPháp Trận"
+19055|<O>| ESC"Xác nhận\ntalk %x# welcome.1\n"
+19056|<O>| cmd = "oa oa oa oa～～mớinămđếnxử Phóng Bạo Trúc，tốtcó thể phạ ồ～～";
+19057|<O>| return "trangCó75Tử SắcThầnKhícủalễ bao，phảikích tức có thể Đả mở。";
+19058|<O>| default: type = "bướcBinh";  break;
+19059|<O>| "Vân vụ trà Diệp" : "\"/item/31/3117\"",
+19060|<O>| #define PF_NAME        "đạp Tuyết vô ngấn"
+19061|<O>| "đường lang Chi Dực" : "TạiĐào Hoa NguyênSát lục tý đường langcó thểnhận đượcđường lang Chi Dực",
+19062|<O>| //		        cityname = "đào Hoa Đảo";
+19063|<O>| #define PF_NAME        "Đấu chuyển Tinh Di"
+19064|<O>| + sprintf(ESC"Mở\nparty 2\n")
+19065|<O>| #define PF_NAME        "huyễnQuangNhất Thiểm"
+19066|<O>| "ma phí tán" : "\"/item/std/5219\"",
+19067|<O>| case 7: name3 = "nghệ Thuật";  break;
+19068|<O>| #define PF_NAME        "tích khoáng dã Luyện"
+19069|<O>| #define PF_NAME        "Sử dụngPháp Bảo"
+19070|<O>| "“Bát vạn”" : "\"/item/37/3728\"",
+19071|<O>| return "Thập Nhị sinh Tiêu Chi NhấtcủaTrư\n"HIC"hoạch thủ bảng định";
+19072|<O>| who->log_money("xem Vũ đạo", -gold);
+19073|<O>| tell_user(me, "bạnbịphảnngoàiquải trình tự đìnhtrên。");
+19074|<O>| #define PF_NAME        "Trực đảo HoàngLong"
+19075|<O>| ESC"Chân GiảHổVương\ntalk %x# tiger.1\n"
+19076|<O>| "Khương" : "\"/item/stuff/0168\"",
+19077|<O>| else if ( rate < 9200 )	//phục sinh Đơn
+19078|<O>| item = new (cTmp);//Ngẫu nhiênMôn pháiKỹ năngtiến giai thư
+19079|<O>| me->set_action(1);    // Phục hồichính thường
+19080|<O>| cmd = "ha ha ha ha～～mớinămđếnxử Bạo Trúc Thanh Thanh，Chân nhiệt Náo～～";
+19081|<O>| #define PF_NAME        "xích Đao đoạn tạo"
+19082|<O>| "vi kỳ kỳ Bàn" : "\"/item/37/3792\"",

@@ -1,65 +1,65 @@
-﻿11134|<O>| return "居家旅行时所用的小背包，\n可增加使用者4格的背包空间。\n包裹10天后会自动损坏。";
-11135|<O>| case "唐门": if (get_level() >= 35 && random(100) < 5)
-11136|<O>| set_effect(who, EFFECT_CHAR_FAINT, 1);    // 小心准备 me
-11137|<O>| set_effect(who, EFFECT_CHAR_FAINT, 3);    // 小心准备 me
-11138|<O>| case "禁卫军": z = 080;  p = get_jumpin(z, 20);  break;
-11139|<O>| result += sprintf("、%d个" + item->get_name(), total);
-11140|<O>| write_user(me, "你将 1000 潜能充入%s。", item->get_name());
-11141|<O>| int Cps;                        // 耐力，定力   Composure
-11142|<O>| CHAT_D->sys_channel(0,HIR"卫队长已经开始寻找黄金圣衣了，赶快去帮助他吧！");
-11143|<O>| p_str += ({ FINAL_D->file_final_fam_lv("桃花源",24) });
-11144|<O>| result += sprintf("现面值:  %d 金\n", obj->get_money());
-11145|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 600, "浑天仪使用中……");
-11146|<O>| private mapping Researchs;                   // 研究技能
-11147|<O>| else    tell_user(me, who->get_name() + "公众频道:打开。");
-11148|<O>| log_file("zhongqiu.txt",short_time() + " 预告放月饼\n" );
-11149|<O>| write_user(who, ECHO "您把 %d 选票投给%s(%s)，其票数达到 %d。\n",
-11150|<O>| return sprintf(PF_NAME ":\n　　30％ 的几率反击对手近身物理攻击。\n");
-11151|<O>| else    tell_user(me, who->get_name() + "谣言频道:打开。");
-11152|<O>| "%s:\n寡人求之不得，尊驾来得真是太好了。\n", name4, me->get_name()));
-11153|<O>| move_to_user(player,1,"item/44/4488",npc);//随机 宠物技能丹
-11154|<O>| return "［强化中医药理］提升云梦泽的最大气血值，每级提升4点；提升物理防御力，每级提升2点。";
-11155|<O>| sprintf("%s:\n    我知道你们在找王母娘娘，等下"HIR"队长"NOR"再来找我！\n"
-11156|<O>| send_user(me, "%c%s", '!', "灵魂还没有收集满，不可以对收妖壶进行净化。");
-11157|<O>| send_user(team[i], "%c%s", ';', HIY"我们的队伍已进入灵药圣地。");
-11158|<O>| "明月本无价，高山皆有情。愿你的生活就像这十五的月亮一样，圆圆满满！送上香甜的月饼，连同一颗祝福的心",
-11159|<O>| send_user(team[i], "%c%c%w%s", 0x5a, 0, 3, "传送中……");
-11160|<O>| ESC "了解跑环任务。\n" + sprintf("talk %x# buy.80\n", id) +
-11161|<O>| SAY_CMD->say(me, "长得丑不是你的错，出来吓人就是你的不对了，我帮你改变下形象吧！");
-11162|<O>| else    fly = sprintf("(无导标)\npf 4181.%d\n", i + 1);
-11163|<O>| result = sprintf("%s的耐久度为%d/%d，你确定要使用魔力锤恢复其耐久上限吗？\n"
-11164|<O>| if (who->get_save_2("orgtask2.type") == 2    // 运镖任务
-11165|<O>| private int Bonus;                      // 功德 10点算1点
-11166|<O>| && owner->get_quest("escort.random") < 6    // 最多次数６
-11167|<O>| send_user(who, "%c%s", ';', "稻草人的委托 经验 180 潜能 30 ");
-11168|<O>| send_user(who, "%c%s", '!', sprintf("小野兔 %d/3", i));
-11169|<O>| return "［基本拳脚］入门的拳脚武功，能增加空手作战的能力。每级提升1点空手的物理攻击力。\n";
-11170|<O>| __DIR__ "00015"->can_perform(me);     	// 自动法术攻击(暗器)
-11171|<O>| private static int MapId2;              // 数字标识(客户端)
-11172|<O>| send_user(me, "%c%s", '!', "不能向“" + arg + "”发动战争。");
-11173|<O>| send_user(me, "%c%s", '!', "没有" + key[1] + "这样东西。");
-11174|<O>| send_user(who, "%c%s", '!', "恭喜您！您打开重阳礼包得到了20000金");
-11175|<O>| else    fly = sprintf("(无导标)\npf 4081.%d\n", i + 1);
-11176|<O>| send_user(who, "%c%s", '!', "你接受了"HIY"家族玉佩"NOR"任务");
-11177|<O>| log_file("zhongqiu.txt",short_time() + " 预告放玉兔\n" );
-11178|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 10, "野性之力关闭中……");
-11179|<O>| team[i]->set_task("banditi_bonus", level);		//找卫队长领奖
-11180|<O>| send_user(who, "%c%c%c", 0x3d, 241, 1);    // 更改走路步数
-11181|<O>| "/cmd/base/buyitem"->main(me, result);    // 获得相关道具！
-11182|<O>| send_user(who, "%c%s", '!', sprintf("子母蛙 %d/1", i));
-11183|<O>| send_user(who,"%c%s",'!',"您成功兑换了"+item->get_name());
-11184|<O>| result = sprintf("您决定脱离“%s”门下！损失:", get_fam_name());
-11185|<O>| case "茅山": 	z = 269;  p = get_jumpin(z, 20);  break;
-11186|<O>| case "桃花源":	z = 289;  p = get_jumpin(z, 20);  break;
-11187|<O>| send_user(who, "%c%s", '!', "你接受了"HIY"合作事宜"NOR"任务");
-11188|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 10, "野性之力释放中……");
-11189|<O>| private static string RealId;                  // 帐号
-11190|<O>| send_user(who, "%c%s", '!', get_name() + "不想同你打架。");
-11191|<O>| if ( iTask == TID_ZHOUGUO && iKind==15 ) //删除试运镖中的变量
-11192|<O>| return "［护体金罡］可以通过不断地战斗生成“元气”；技能等级高时能自动反弹敌人的物理伤害\n";
-11193|<O>| write_user(me, ECHO "您将" + who->get_name() + "推开。");
-11194|<O>| while( item = present("贵重物品", who, 1, MAX_CARRY*4) )
-11195|<O>| result = sprintf("您想向%s弹劾哪位副城主？\n", me->get_name());
-11196|<O>| tell_user(who, "%c%s", '>', "删除公告: gonggao del 序号");
-11197|<O>| send_user(who, "%c%s", '!', "得到金钥匙与虎皮遗书，虎皮遗书可右击查看");
-11198|<O>| send_user(who, "%c%s", '!', ECHO "恍惚间，您好像丢失了某样物品。");
+﻿11134|<O>| return "cư Gia lữ Hànhgiờsở dùngcủanhỏbối bao，\nCó thể tăng cho người sử dụng4ô trống trong ba lô。\nBao gói10ngày sau sẽ tự động hư hỏng。";
+11135|<O>| case "Đường Môn": if (get_level() >= 35 && random(100) < 5)
+11136|<O>| set_effect(who, EFFECT_CHAR_FAINT, 1);    // cẩn thận chuẩn bị me
+11137|<O>| set_effect(who, EFFECT_CHAR_FAINT, 3);    // cẩn thận chuẩn bị me
+11138|<O>| case "Cấm Vệ Quân": z = 080;  p = get_jumpin(z, 20);  break;
+11139|<O>| result += sprintf("、%d" + item->get_name(), total);
+11140|<O>| write_user(me, "Bạn sẽ 1000 Tiềm năngsung Nhập%s。", item->get_name());
+11141|<O>| int Cps;                        // nại Lực，định Lực   Composure
+11142|<O>| CHAT_D->sys_channel(0,HIR"Vệ độidàiđãBắt đầutìm tìm HoàngVàngThánhY，cảnnhanhđi Bang Trợhắn！");
+11143|<O>| p_str += ({ FINAL_D->file_final_fam_lv("Đào Hoa Nguyên",24) });
+11144|<O>| result += sprintf("hiện Diện Trị:  %d Vàng\n", obj->get_money());
+11145|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 600, "hồnngàyNghiSử dụnggiữa……");
+11146|<O>| private mapping Researchs;                   // nghiên cứuKỹ năng
+11147|<O>| else    tell_user(me, who->get_name() + "công Chúng tần Đạo:Đả mở。");
+11148|<O>| log_file("zhongqiu.txt",short_time() + " dự cáo Phóngthángbính\n" );
+11149|<O>| write_user(who, ECHO "Bạnđem %d tuyển phiếu đầucho%s(%s)，kỳ phiếu số đạtđến %d。\n",
+11150|<O>| return sprintf(PF_NAME ":\n　　30％ củamấy suất phản kíchđối vớiThủ cận ThânVật lý tấn công。\n");
+11151|<O>| else    tell_user(me, who->get_name() + "dao Ngôn tần Đạo:Đả mở。");
+11152|<O>| "%s:\nquả Nhân cầu Chikhôngđược，Tôn giá đến được ChânLàTuyệt vời。\n", name4, me->get_name()));
+11153|<O>| move_to_user(player,1,"item/44/4488",npc);//Ngẫu nhiên sủng vậtKỹ năngĐơn
+11154|<O>| return "［Cường hóagiữaY Dược lý］NângVân Mộng TrạchcủatốilớnGiá trị Khí Huyết，Mỗi cấp tăng4điểm；NângLực phòng thủ vật lý，Mỗi cấp tăng2điểm。";
+11155|<O>| sprintf("%s:\n    tôitri ĐạobạnTạitìm Vương mẫu Nương Nương，Đẳngdưới"HIR"độidài"NOR"lại đến tìmtôi！\n"
+11156|<O>| send_user(me, "%c%s", '!', "Linh Hồnchưa cóThu tập mãn，khôngcó thểđối vớiThuYêuhồ tiến Hành Tịnh Hóa。");
+11157|<O>| send_user(team[i], "%c%s", ';', HIY"tôicủađội ngũ đãĐi vàoLinh DượcThánhĐịa。");
+11158|<O>| "MinhthángBản vô giá，caoSơn giaiCóTình。nguyệnbạncủasinh hoạtliềntượngnàyThập Ngũcủathánglượng Nhất dạng，viên viên mãn mãn！tốngtrênhương điềmcủathángbính，Liên Đồng Nhất khỏa Chúc PhúccủaTâm",
+11159|<O>| send_user(team[i], "%c%c%w%s", 0x5a, 0, 3, "Truyền tốnggiữa……");
+11160|<O>| ESC "Giải bào hoànNhiệm vụ。\n" + sprintf("talk %x# buy.80\n", id) +
+11161|<O>| SAY_CMD->say(me, "dàiđược SửukhôngLàbạncủasai，Xuất đến hách NhânliềnLàbạncủakhôngđối với，tôiBangbạnCải biếndướihình Tượng ！");
+11162|<O>| else    fly = sprintf("(vô đạo tiêu)\npf 4181.%d\n", i + 1);
+11163|<O>| result = sprintf("%scủanại cửu độ vì%d/%d，bạnXác nhậncầnSử dụngMaLực chùyPhục hồikỳ nại cửutrênhạn ？\n"
+11164|<O>| if (who->get_save_2("orgtask2.type") == 2    // Nhiệm vụ vận tiêu
+11165|<O>| private int Bonus;                      // Công Đức 10điểmtoán1điểm
+11166|<O>| && owner->get_quest("escort.random") < 6    // tốinhiềulầnsố６
+11167|<O>| send_user(who, "%c%s", ';', "đạo Thảo Nhâncủaủy thác Kinh nghiệm 180 Tiềm năng 30 ");
+11168|<O>| send_user(who, "%c%s", '!', sprintf("nhỏdã thỏ %d/3", i));
+11169|<O>| return "［Cơ bảnQuyền cước］Nhập MôncủaQuyền cước Vũ Công，NăngTăngKhông Thủtác ChiếncủaNăng Lực。Mỗi cấp tăng1điểmKhông ThủcủaLực tấn công vật lý。\n";
+11170|<O>| __DIR__ "00015"->can_perform(me);     	// Tự Động Pháp ThuậtTấn công(Ám Khí)
+11171|<O>| private static int MapId2;              // số tự tiêu Thức(khách Hộ đoan)
+11172|<O>| send_user(me, "%c%s", '!', "không thểhướng“" + arg + "”Phát Động Chiến Tranh。");
+11173|<O>| send_user(me, "%c%s", '!', "không có" + key[1] + "nàydạngđồ vật。");
+11174|<O>| send_user(who, "%c%s", '!', "Xin chúc mừng！Bạn Đả mở trọng Dương lễ baonhận được20000Vàng");
+11175|<O>| else    fly = sprintf("(vô đạo tiêu)\npf 4081.%d\n", i + 1);
+11176|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận"HIY"Gia tộc Ngọc bội"NOR"Nhiệm vụ");
+11177|<O>| log_file("zhongqiu.txt",short_time() + " dự cáo Phóng Ngọc thỏ\n" );
+11178|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 10, "dã tính Chi LựcĐónggiữa……");
+11179|<O>| team[i]->set_task("banditi_bonus", level);		//tìm Vệ độidàilĩnh thưởng
+11180|<O>| send_user(who, "%c%c%c", 0x3d, 241, 1);    // càng Cải tẩu Lộbướcsố
+11181|<O>| "/cmd/base/buyitem"->main(me, result);    // hoạch được Tương quan Đạo cụ！
+11182|<O>| send_user(who, "%c%s", '!', sprintf("Tử mẫu oa %d/1", i));
+11183|<O>| send_user(who,"%c%s",'!',"BạnThành côngđổi hoán"+item->get_name());
+11184|<O>| result = sprintf("Bạn quyết định thoát ly“%s”Môndưới！tổn thất:", get_fam_name());
+11185|<O>| case "Mao Sơn": 	z = 269;  p = get_jumpin(z, 20);  break;
+11186|<O>| case "Đào Hoa Nguyên":	z = 289;  p = get_jumpin(z, 20);  break;
+11187|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận"HIY"Hợp tác sự nghi"NOR"Nhiệm vụ");
+11188|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 10, "dã tính Chi LựcGiải phónggiữa……");
+11189|<O>| private static string RealId;                  // trướng hiệu
+11190|<O>| send_user(who, "%c%s", '!', get_name() + "khôngmuốn ĐồngbạnĐả giá。");
+11191|<O>| if ( iTask == TID_ZHOUGUO && iKind==15 ) //Xóathử vận tiêugiữacủabiến lượng
+11192|<O>| return "［Hộ ThểVàngcương］có thểthông quakhôngđoạn Địachiến đấusinh thành“Nguyên khí”；Kỹ năngCấp độcaogiờNăng Tự Động phản đạnkẻ thùcủaVật lý Thương hại\n";
+11193|<O>| write_user(me, ECHO "Bạn sẽ" + who->get_name() + "Suy mở。");
+11194|<O>| while( item = present("Vật phẩm quý giá", who, 1, MAX_CARRY*4) )
+11195|<O>| result = sprintf("Bạn muốnhướng%sđạn hạchnàovị phó Thành chủ？\n", me->get_name());
+11196|<O>| tell_user(who, "%c%s", '>', "Xóacông cáo: gonggao del tự hiệu");
+11197|<O>| send_user(who, "%c%s", '!', "nhận đượcVàngchìa thì dữHổBì Di thư，HổBì Di thư có thểphảikích tra xem");
+11198|<O>| send_user(who, "%c%s", '!', ECHO "hoảng hốt gian，Xin chàotượng mất thất mỗ dạng Vật Phẩm。");

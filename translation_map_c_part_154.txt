@@ -1,11 +1,11 @@
-3432|<O>| ret += sprintf("%sKính mắt\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"眼镜"))?PPM:WHT);
+3432|<O>| ret += sprintf("%sKính mắt\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Nhãn Kính"))?PPM:WHT);
 3433|<O>| if (get_effect(me, EFFECT_USER_THUNDER)) PF_FILE_04236->effect_thunder_break(me);    // Lôi Long Quyết(gián đoạn)
 3434|<O>| //      if( gone_time( me->get_perform(PF_START) ) < TIME_INTERVAL ) return 1;    // Cẩn thận chuẩn bị level
 3435|<O>| send_user(who, "%c%s", ';', sprintf("Bóng tối trước bình minh  Kinh nghiệm 98000  Tiềm năng 1120  Tiền 95000  %s 1", tmp->get_name()));
 3436|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nTiêu hao pháp lực:%d điểm\nThời gian hồi:%d giây\n    Tung ra đòn song kích chí mạng vào địch, đồng thời khiến hắn rơi vào trạng thái mù 6 giây。",
 3437|<O>| send_user(who, "%c%s", ';', sprintf("Bệnh lạ của phu nhân（3）  Kinh nghiệm 8500  Tiềm năng 500  Tiền 8600  %s 1", tmp->get_name()));
-3438|<O>| ret += sprintf("%sHầu Gái\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"女仆"))?PPM:WHT);
-3439|<O>| ret += sprintf("%sRoi da\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"皮鞭操"))?PPM:WHT);
+3438|<O>| ret += sprintf("%sHầu Gái\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Nữ Bộc"))?PPM:WHT);
+3439|<O>| ret += sprintf("%sRoi da\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Bì Tiên Thao"))?PPM:WHT);
 3440|<O>| send_user(me, "%c%w%c%w%w%s", 0x50, THIS_PERFORM, get_perform_type(), 1, 0, PF_NAME);	// Hiển thị chỉ lệnh bắt giữ
 3441|<O>| result = sprintf("Phòng ngự:%4d -%5d (%+5d     )  ", who->get_dp_0(), dp, who->get_temp_dp("equip"));
 3442|<O>| #define ADD_AP		( 3 + (me->get_skill(THIS_SKILL) - SKILL_LEVEL)/10*15/10 )    // Cảnh báo:level cần chuẩn bị sẵn
@@ -21,12 +21,12 @@
 3452|<O>| //	sTmp = sprintf("Ngươi muốn đổi bao nhiêu %s%s\n",mpExchange[iFlag][i]["unit"],mpExchange[iFlag][i]["object"]);
 3453|<O>| CHAT_D->rumor_channel(0,sprintf(HIR"%s nổi lên cuồng phong. Sau cơn cuồng phong, dường như có thứ gì đó rơi xuống thôn tân thủ, hoang giao, dã ngoại, Ba Khâu",nCountry[random(8)]));
 3454|<O>| _DEBUG(sprintf("DEBUG -- số lần callback còn lại của %d là %d", tmp_next_st, all_alarm_clocks[tmp_next_st]->times));
-3455|<O>| ret += sprintf("%sÁi tình\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"爱情"))?PPM:WHT);
+3455|<O>| ret += sprintf("%sÁi tình\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Ái Tình"))?PPM:WHT);
 3456|<O>| send_user(who, "%c%s", ':', sprintf("Ngài xác định đề nghị %s thực thi chiến lược ngoại giao “%s” với %s？\n", me->get_name(), name3, name4) +
 3457|<O>| "Intel(R) Xeon(TM) CPU 2.80GHz i386ddeb351701422fd5e8a1bc11701422fd5e9", 	// 221.235.53.23 Trịnh Quốc Cừ
 3458|<O>| //                        CHAT_D->chat_channel( 0, sprintf( HIC "Quản trị viên game ＧＭ phong bế toàn bộ kênh của %s(%d) trong %d phút。",
 3459|<O>| CHAT_D->sys_channel(0, who->get_name() + sprintf(" người chơi đã nhận phần thưởng %s trong hoạt động “Lời dặn của mẹ”", item->get_name()));
-3460|<O>| ret += sprintf("%sTắm rửa\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"洗澡"))?PPM:WHT);
+3460|<O>| ret += sprintf("%sTắm rửa\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Tẩy Tảo"))?PPM:WHT);
 3461|<O>| more_look_menu(who, get_name() + ":\n    Vị " + NPC_RANK_D->get_respect(who) + " này, có gì ta có thể giúp ngươi không？\n"
 3462|<O>| CHAT_D->sys_channel(0,HIY"Hoạt động Quốc Khánh của Đại Thoại Chiến Quốc đã bắt đầu rồi, xin mọi người tới "HIR"126,120 nước Chu"HIY" tìm "HIR"Tây Qua Bá Bá"HIY"，giúp ông ấy thu thập dưa hấu đi。");
 3463|<O>| return sprintf("［" PF_NAME "］Kỹ năng tức thì di chuyển, có thể tức thì di chuyển tới vị trí chỉ định trong phạm vi tầm nhìn. Tiêu hao pháp lực:%d，tiêu hao nguyên khí:%d, lần dùng kế tiếp cần cách %d giây，%s%d cấp có thể dùng\n",
@@ -35,6 +35,6 @@
 3466|<O>| if( z!=get_z(owner) || distance_between(me, owner) >= 25 && me->get_action()!=0 )    // Trở lại bên chủ nhân
 3467|<O>| if (is_store_open()) send_user(user, "%c%c%d%s", 0x3d, 81, id, get_store_name());    // Hiển thị tên bày sạp
 3468|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng:12 cấp\n    Một đòn mạnh như ngàn cân, khi đánh trúng đồng thời chấn rơi vũ khí của đối thủ, khiến vũ khí vô hiệu trong 8 giây. Dùng với quái vật có thể làm suy yếu 30 điểm công kích vật lý của nó。";
-3469|<O>| ret += sprintf("%sNgựa gỗ\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"木马"))?PPM:WHT);
+3469|<O>| ret += sprintf("%sNgựa gỗ\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Mộc Mã"))?PPM:WHT);
 3470|<O>| result = sprintf("%s:\n    Việc này rất đơn giản, mỗi lần ngươi tiêu diệt quái vật, tự nhiên sẽ nhận được một lượng tiềm năng nhất định, nhưng phần thưởng này sẽ được điều chỉnh theo chênh lệch cấp giữa ngươi và quái vật. Chênh lệch cấp giữa ngươi và quái vật càng lớn,",
 3471|<O>| case 14: send_user(who, "%c%s", ':', sprintf("%s:\nNgươi không thấy khi nghe âm nhạc của họ, một ngày mệt mỏi cũng được xua tan sao？", me->get_name()));

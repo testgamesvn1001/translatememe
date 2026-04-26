@@ -1,77 +1,77 @@
-﻿14183|<O>| send_user(who, "%c%s", '!', "你已经领取过领奖码了");
-14184|<O>| private static int DoubleRate2;			// 法术暴击率
-14185|<O>| string get_skill_name() { return "玄学正道"; }
-14186|<O>| else if (p < 10001 * rate / 100)    // 杂物４
-14187|<O>| *   - NPC 默认 disabled heart_beat (CPU = 0)
-14188|<O>| send_user(who, "%c%s", '!', "没有可以提取的经验！");
-14189|<O>| send_user(who, "%c%s", '!', "您已经给过他食物了。");
-14190|<O>| return "寒铁矿石，通过生活技能的矿冶熔炼成寒铁锭可以供铁匠、机关制造装备";
-14191|<O>| string get_skill_name() { return "太古神拳"; }
-14192|<O>| int get_equip_serial() { return 1; }	//第几套
-14193|<O>| string get_skill_name() { return "潜隐心法"; }
-14194|<O>| result = sprintf("%s一旦装备便马上被绑定，你确定要装备吗？\n"
-14195|<O>| void level3_callout(object me)    // 每１分处理
-14196|<O>| send_user(me, "%c%s", '!', "连接出错，请重新连接。");
-14197|<O>| send_user(who, "%c%s", '!', "你携带的物品太多了!");
-14198|<O>| sprintf("%s:\n     您的双倍经验时间还剩 %d 秒，不能领取\n"
-14199|<O>| notify(obj[i]->get_name() + "已经上架，不能交易。");
-14200|<O>| SAY_CMD->say(me, "能进入到这里算你本事，但是你在也出不去了！");
-14201|<O>| string get_skill_name() { return "基本拳脚"; }
-14202|<O>| item2 = present("友情呼唤", me, 1, MAX_CARRY);
-14203|<O>| if (all_inv[index]->get_name() == "挖宝小锄头")
-14204|<O>| string get_skill_name() { return "疯魔棍法"; }
-14205|<O>| send_user(who, "%c%s", '!', "您的等级不足10级。");
-14206|<O>| send_user(who, "%c%s", '!', "帮派人气已达最大值！");
-14207|<O>| else if (p < 10000 * rate / 100)    // 杂物４
-14208|<O>| send_user(me, "%c%s", '!', "安全区不能使用土行珠。");
-14209|<O>| string get_family_name() { return " 蜀山"; }
-14210|<O>| string get_skill_name() { return "枪棍步法"; }
-14211|<O>| notify(item->get_name() + "目前很好，没有必要修理。");
-14212|<O>| send_user(me, "%c%s", '!', "对方身上带着贵重物品。");
-14213|<O>| send_user(me, "%c%s", '!', "在战场不能使用回城符。");
-14214|<O>| string get_skill_name() { return "棍法格档"; }
-14215|<O>| send_user(me, "%c%s", '!', "在战场不能使用土行珠。");
-14216|<O>| //	if (MAIN_D->get_host_type()==4)		//猫扑除外
-14217|<O>| return sprintf("%d级风晶石", me->get_level());
-14218|<O>| string get_skill_name() { return "剑法格挡"; }
-14219|<O>| + sprintf(ESC"把时间还原为标准的系统时间\nparty 161\n")
-14220|<O>| return sprintf("%d级木晶石", me->get_level());
-14221|<O>| string get_skill_name() { return "刀剑格挡"; }
-14222|<O>| send_user(who, "%c%s", '!', "您得先去接军粮任务。");
-14223|<O>| tell_user(me, "气血状态:%s", who->get_name());
-14224|<O>| return sprintf("%d级金晶石", me->get_level());
-14225|<O>| string get_skill_name() { return "天罗刀法"; }
-14226|<O>| result += ESC "200元宝\nconsign list 200\n";
-14227|<O>| else if (rate < 4500 * rate1 / 100)		//紫参丹
-14228|<O>| string get_skill_name() { return "金仙符咒"; }
-14229|<O>| return "吃下后能暂时护住心脉,马上恢复1450点气血，1550点法力值。";
-14230|<O>| string get_skill_name() { return "大乘道法"; }
-14231|<O>| write_user(me, ECHO "您拿出%s给%s修理，花费 %d 金。",
-14232|<O>| send_user(who, "%c%s", '!', "帮派安定已达最大值！");
-14233|<O>| send_user(who, "%c%s", '!', HIY"斑点狗 1/1");
-14234|<O>| tmp += sprintf(ESC"购买食物\nlist %x#\n", id);
-14235|<O>| send_user(me, "%c%s", '!', "摆摊时不能使用飞行符。");
-14236|<O>| *   - Player 接近 20 格时触发 on_player_nearby()
-14237|<O>| return "十二星座之一的水瓶座。将其放出，主人打怪可获得10%的经验加成。";
-14238|<O>| who->set_quest("valentine.name", "情人节流氓");
-14239|<O>| send_user(me, "%c%s", '!', "这个位置已经有道具了。");
-14240|<O>| //	设定活动的开始和结束时间 -- 当开始时间大于结束时间时则为跨时间段区域的操作
-14241|<O>| if ( MAIN_D->get_host_type() == 2 )	//台湾除外
-14242|<O>| notify(item->get_name() + "是无价之宝！没办法修理。");
-14243|<O>| send_user(me, "%c%s", '!', "您还在耕种其它的作物。");
-14244|<O>| send_user(me, "%c%s", '!', "只能在战场使用脱逃符。");
-14245|<O>| private int if_active		= 0;			//	活动是否开始的标志
-14246|<O>| else if (p < 9570 * rate / 100)    // 特殊药物
-14247|<O>| poison = ADD_EFFECT;    // 小心准备 me, poison
-14248|<O>| ESC "查询我的VIP绑定到期时间\ntalk %x# welcome.83\n"
-14249|<O>| string get_skill_name() { return "金丹法门"; }
-14250|<O>| else if (rate < 9040 * rate1 / 100)		//乾坤袋
-14251|<O>| string get_skill_name() { return "基本棍法"; }
-14252|<O>| // 触发点: Player 移动时检查附近 NPCs，或 NPC 被 scan 到
-14253|<O>| string get_skill_name() { return "金刚不坏"; }
-14254|<O>| result += ESC "取消隐身\ngmset invisible 0\n";
-14255|<O>| //      me->set_enemy_2(who);    // 远程目标锁定
-14256|<O>| return sprintf("%d级金灵石", me->get_level());
-14257|<O>| SAY_CMD->say(me, "这些尸魔的诅咒可将你们直接打下十八层地狱！");
-14258|<O>| //		send_user(me,"%c%s",'!',"你在摆摊，不能跟随！");
-14259|<O>| send_user( who, "%c%s", '!', "您已经在传送中。" );
+﻿14183|<O>| send_user(who, "%c%s", '!', "bạnđãlĩnh thủ qua lĩnh thưởng mã");
+14184|<O>| private static int DoubleRate2;			// Pháp Thuật Bạo kích suất
+14185|<O>| string get_skill_name() { return "Huyền Học chính Đạo"; }
+14186|<O>| else if (p < 10001 * rate / 100)    // Tạp vật４
+14187|<O>| *   - NPC mặc nhận disabled heart_beat (CPU = 0)
+14188|<O>| send_user(who, "%c%s", '!', "không cócó thểĐề thủcủaKinh nghiệm！");
+14189|<O>| send_user(who, "%c%s", '!', "BạnđãchoquahắnThực Vật。");
+14190|<O>| return "HànSắtKhoáng thạch，thông qua sinh hoạtKỹ năngcủakhoáng dã dung Luyện thành HànThiết đĩnhcó thểcungThiết Tượng、Cơ Quan chế tạo trang bị";
+14191|<O>| string get_skill_name() { return "Thái CổThầnQuyền"; }
+14192|<O>| int get_equip_serial() { return 1; }	//đệ mấy bộ
+14193|<O>| string get_skill_name() { return "tiềm Ẩn Tâm Pháp"; }
+14194|<O>| result = sprintf("%sNhất đánTrang bịtiện Mãtrênbịbảng định，bạnXác nhậncầnTrang bị？\n"
+14195|<O>| void level3_callout(object me)    // mỗi１phútxử lý
+14196|<O>| send_user(me, "%c%s", '!', "Liên tiếp Xuất sai，Xin trọngmớiLiên tiếp。");
+14197|<O>| send_user(who, "%c%s", '!', "bạnhuề ĐáicủaVật Phẩm Tháinhiều!");
+14198|<O>| sprintf("%s:\n     Bạncủasong bộiKinh nghiệmgiờgiancònthặng %d giây，không thểlĩnh thủ\n"
+14199|<O>| notify(obj[i]->get_name() + "đã đưa lên kệ，Không thể giao dịch。");
+14200|<O>| SAY_CMD->say(me, "NăngĐi vàođếnnàytrongtoánbạnBản sự，NhưngbạnTạicũngXuấtkhôngđi！");
+14201|<O>| string get_skill_name() { return "Cơ bảnQuyền cước"; }
+14202|<O>| item2 = present("hữu Tình hô hoán", me, 1, MAX_CARRY);
+14203|<O>| if (all_inv[index]->get_name() == "đào Bảonhỏsừ đầu")
+14204|<O>| string get_skill_name() { return "phongMaCôn Pháp"; }
+14205|<O>| send_user(who, "%c%s", '!', "BạncủaCấp độkhôngtúc10cấp。");
+14206|<O>| send_user(who, "%c%s", '!', "bang pháiNhân khí đã đạt tốilớnTrị！");
+14207|<O>| else if (p < 10000 * rate / 100)    // Tạp vật４
+14208|<O>| send_user(me, "%c%s", '!', "An Toàn khuKhông thể sử dụngThổHành Châu。");
+14209|<O>| string get_family_name() { return " Thục Sơn"; }
+14210|<O>| string get_skill_name() { return "Thương CônbướcPháp"; }
+14211|<O>| notify(item->get_name() + "Mụctrướcrấttốt，không cótấtcầnTu lý。");
+14212|<O>| send_user(me, "%c%s", '!', "đối vớiPhương ThântrênĐái Vật phẩm quý giá。");
+14213|<O>| send_user(me, "%c%s", '!', "TạiChiến trườngKhông thể sử dụngHồi Thành Phù。");
+14214|<O>| string get_skill_name() { return "Côn Pháp cách đáng"; }
+14215|<O>| send_user(me, "%c%s", '!', "TạiChiến trườngKhông thể sử dụngThổHành Châu。");
+14216|<O>| //	if (MAIN_D->get_host_type()==4)		//Miêu phác trừngoài
+14217|<O>| return sprintf("%dcấpPhongtinh Thạch", me->get_level());
+14218|<O>| string get_skill_name() { return "Kiếm Pháp cách đảng"; }
+14219|<O>| + sprintf(ESC"đemgiờgiancònnguyên vì tiêu chuẩncủahệ thốnggiờgian\nparty 161\n")
+14220|<O>| return sprintf("%dcấpMộctinh Thạch", me->get_level());
+14221|<O>| string get_skill_name() { return "Đao Kiếm cách đảng"; }
+14222|<O>| send_user(who, "%c%s", '!', "Bạn được Tiên đi tiếp quân lươngNhiệm vụ。");
+14223|<O>| tell_user(me, "Khí Huyếttrạng thái:%s", who->get_name());
+14224|<O>| return sprintf("%dcấpVàngtinh Thạch", me->get_level());
+14225|<O>| string get_skill_name() { return "ngàyLa Đao Pháp"; }
+14226|<O>| result += ESC "200Nguyên Bảo\nconsign list 200\n";
+14227|<O>| else if (rate < 4500 * rate1 / 100)		//Tử Sâm Đơn
+14228|<O>| string get_skill_name() { return "VàngTiênPhù chú"; }
+14229|<O>| return "CậtdướisauNăng tạmgiờHộ trụ Tâm Mạch,ngay lập tức phục hồi1450điểm Khí Huyết，1550điểm Pháp Lực。";
+14230|<O>| string get_skill_name() { return "lớnThừa Đạo Pháp"; }
+14231|<O>| write_user(me, ECHO "Bạn nã Xuất%scho%sTu lý，Hoa phí %d Vàng。",
+14232|<O>| send_user(who, "%c%s", '!', "bang pháiAn định đã đạt tốilớnTrị！");
+14233|<O>| send_user(who, "%c%s", '!', HIY"banđiểmcẩu 1/1");
+14234|<O>| tmp += sprintf(ESC"MuaThực Vật\nlist %x#\n", id);
+14235|<O>| send_user(me, "%c%s", '!', "bày thángiờKhông thể sử dụngPhi Hành Phù。");
+14236|<O>| *   - Player tiếp cận 20 cáchgiờxúc phát on_player_nearby()
+14237|<O>| return "Thập Nhị Tinh tọa Chi NhấtcủaThủybình tọa。Tướng kỳ Phóng Xuất，chủ Nhân Đả quái có thể hoạch được10%củaKinh nghiệmGia thành。";
+14238|<O>| who->set_quest("valentine.name", "Tình Nhân tiết lưu manh");
+14239|<O>| send_user(me, "%c%s", '!', "nàyvị tríđãCóĐạo cụ。");
+14240|<O>| //	thiết địnhhoạt độngcủaBắt đầuvàKết thúcgiờgian -- đươngBắt đầugiờgianlớnvuKết thúcgiờgiangiờTắc vì khóagiờgian đoạn khu vựccủaThao tác
+14241|<O>| if ( MAIN_D->get_host_type() == 2 )	//đài loan trừngoài
+14242|<O>| notify(item->get_name() + "Làvô giá Chi Bảo！khôngcáchTu lý。");
+14243|<O>| send_user(me, "%c%s", '!', "BạncònTạicanhloạikỳnócủatác Vật。");
+14244|<O>| send_user(me, "%c%s", '!', "chỉNăngTạiChiến trườngSử dụngthoát đào Phù。");
+14245|<O>| private int if_active		= 0;			//	hoạt độngLàphủBắt đầucủatiêu Chí
+14246|<O>| else if (p < 9570 * rate / 100)    // đặc thù Dược Vật
+14247|<O>| poison = ADD_EFFECT;    // cẩn thận chuẩn bị me, poison
+14248|<O>| ESC "tra tuầntôicủaVIPbảng địnhđếnkỳgiờgian\ntalk %x# welcome.83\n"
+14249|<O>| string get_skill_name() { return "VàngĐơn Pháp Môn"; }
+14250|<O>| else if (rate < 9040 * rate1 / 100)		//càn khôn đại
+14251|<O>| string get_skill_name() { return "Cơ bảnCôn Pháp"; }
+14252|<O>| // xúc phátđiểm: Player Di Độnggiờkiểm tra phụ cận NPCs，hoặc NPC bị scan đến
+14253|<O>| string get_skill_name() { return "Vàngcươngkhôngxấu"; }
+14254|<O>| result += ESC "Hủy bỏẨn Thân\ngmset invisible 0\n";
+14255|<O>| //      me->set_enemy_2(who);    // Viễn trìnhmục tiêuTỏa định
+14256|<O>| return sprintf("%dcấpVàngLinh Thạch", me->get_level());
+14257|<O>| SAY_CMD->say(me, "nàyta thiMacủatrở chú có thể TướngbạnTrực tiếp ĐảdướiThập BáttầngĐịa ngục！");
+14258|<O>| //		send_user(me,"%c%s",'!',"bạnTạibày thán，không thểvớitùy！");
+14259|<O>| send_user( who, "%c%s", '!', "BạnđãTạiTruyền tốnggiữa。" );

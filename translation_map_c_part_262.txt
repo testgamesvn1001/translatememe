@@ -1,59 +1,59 @@
-﻿8960|<O>| send_user(who, "%c%s", ';', "工匠的愿望 经验 1800 潜能 80 金钱 1500");
-8961|<O>| result += ESC"牛二的苦恼。\n" + sprintf("talk %x# task.3\n", id);
-8962|<O>| int get_zombie_type() { return ZOMBIE_TYPE_3; }     // 判断种类
-8963|<O>| if( obj ) log_file( CRASH_LOG, sprintf( "对象:%O\n", obj ) );
-8964|<O>| private static int OnlineTime = -1;                 // 沉迷时间
-8965|<O>| tmp += sprintf(ESC HIY "换盘缠的芍药\ntalk %x# welcome.1\n", id);
-8966|<O>| return "秦国专属骑宠胖胖\n使用条件:使用者为秦国子民或与秦国达到一定的友好度。\n该道具使用后绑定。\n";
-8967|<O>| send_user(who, "%c%s", ';', "佳酿美酒 经验 6300 潜能 240 金钱 6300");
-8968|<O>| return "韩国专属骑宠叮当\n使用条件:使用者为韩国子民或与韩国达到一定的友好度。\n该道具使用后绑定。\n";
-8969|<O>| private int if_step_near_time	= 0;			//	活动开始前的临近时间是否进行倒分钟记时
-8970|<O>| send_user(who, "%c%s", ';', "河道冤魂 经验 5300 潜能 210 金钱 4500");
-8971|<O>| send_user(who, "%c%s", ';', "裁缝的梦想 经验 1100 潜能 70 金钱 1500");
-8972|<O>| if (objectp(item = present("挖宝小锄头", player, 1, MAX_CARRY)))
-8973|<O>| write_user(who, ECHO "%s打开书本，一本正经地给您讲课……", me->get_name());
-8974|<O>| ESC + sprintf("接受任务。\ntalk %x# valentine4\n", getoid(me)) +
-8975|<O>| if (TASK_LEGEND_D->check_task_item(who, "赵国内政官的信", 1) != 1)
-8976|<O>| if (get_effect(who, EFFECT_CHAR_9145)) continue;    // 执行成功
-8977|<O>| /*              else if( p < 90007 * rate / 100 )    // 杂物５
-8978|<O>| /*              else if( p < 70006 * rate / 100 )    // 杂物５
-8979|<O>| if (!objectp(item = present("回天心法", me, 1, MAX_CARRY * 4)))
-8980|<O>| if (!objectp(item = present("神农宝典", me, 1, MAX_CARRY * 4)))
-8981|<O>| if (get_effect(who, EFFECT_CHAR_9145)) return 2;    // 执行成功
-8982|<O>| tmp += sprintf(ESC"惩治恶将\ntalk %x# visit.3\n",getoid(me));*/
-8983|<O>| send_user(who, "%c%s", ';', "金色牛角 经验 3100 潜能 105 金钱 2700");
-8984|<O>| /*              else if( p < 90000 * rate / 100 )    // 杂物５
-8985|<O>| send_user(who, "%c%s", ';', "出使秦国 经验 5500 潜能 230 金钱 5100");
-8986|<O>| result = sprintf("%s:\n    你希望招募什么兵种？\n", who->get_name());
-8987|<O>| /*              else if( p < 10000 * rate / 100 )    // 杂物４
-8988|<O>| ESC + sprintf("完成任务。\ntalk %x# valentine6\n", getoid(me)) +
-8989|<O>| "   修改日期", "载入时间", "文件尺寸", "文件名称", repeat_string("─", 30));
-8990|<O>| send_user(member, "%c%s", '!', "此怪物不是双方齐心合力所杀，此次任务即算失败～！");
-8991|<O>| send_user(who, "%c%s", '!', "恭喜你得到"HIR + file->get_name());
-8992|<O>| && file->perform_done_npc(me, who) == 2)    // 特技攻击(循环)(完成)
-8993|<O>| //              send_user( me, "%c%s", '!', "您得到田地采集草药。" );
-8994|<O>| send_user(who, "%c%s", ';', "援助 经验 62000 潜能 900 金钱 53000");
-8995|<O>| if (TASK_LEGEND_D->check_task_item_amount(who, "米酒") >= 10)
-8996|<O>| send_user(who, "%c%s", ';', "紧缩开支 经验 6500 潜能 265 金钱 5800");
-8997|<O>| send_user(who, "%c%s", ';', "打家劫舍 经验 6900 潜能 260 金钱 6800");
-8998|<O>| send_user( who, "%c%c%c%w%s", 0x51, 2, 1,TID_HANGUO,"韩国" );
-8999|<O>| send_user(who, "%c%s", ';', "千年之劫 经验 4800 潜能 150 金钱 3600");
-9000|<O>| ESC "分解已经合成的锻造石\n" + sprintf("talk %x# welcome.60\n", id) +
-9001|<O>| send_user(who, "%c%s", ';', "韩总管的帮助 经验 600 潜能 35 金钱 1200");
-9002|<O>| ESC "接受。\n" + sprintf("pf2 00903 %d\n", me->get_number()) +
-9003|<O>| send_user(who, "%c%s", ';', "夜半钟声 经验 6600 潜能 230 金钱 6700");
-9004|<O>| _DEBUG(sprintf("DEBUG -- 当前有效时钟个数为:%d", alarm_clock_size));
-9005|<O>| send_user(who, "%c%s", ';', "守卫的衣服 经验 3500 潜能 70 金钱 3000");
-9006|<O>| send_user(me, "%c%s", '!', weapon->get_name() + "已经涂了毒了。");
-9007|<O>| private mapping mpMascot = ([]);               // 福缘数据集(永久)
-9008|<O>| if (!objectp(item = present("神仙爷爷的木剑", who, 1, MAX_CARRY)))
-9009|<O>| SAY_CMD->say(me, enemy->get_name() + "，就凭你这付病猫相也敢挑战本将军！！");
-9010|<O>| CHAR_FIGHT_D->attack_done(me, who, HIT_NONE);    // 小心准备 me
-9011|<O>| send_user(who, "%c%s", ';', "沉默的剑魂 经验 1200 潜能 60 金钱 1000");
-9012|<O>| if (get_effect(who, EFFECT_CHAR_CHAN)) return 2;    // 执行成功
-9013|<O>| send_user(who, "%c%s", ';', "河道传说 经验 4700 潜能 180 金钱 4000");
-9014|<O>| if( get_effect(me, EFFECT_MAGIC_CARD)) return 0;    // 执行成功
-9015|<O>| /*              else if( p < 50000 * rate / 100 )    // 杂物５
-9016|<O>| ESC + sprintf("接受任务。\ntalk %x# valentine2\n", getoid(me)) +
-9017|<O>| send_user(who, "%c%s", ';', "逍遥法外 经验 6800 潜能 260 金钱 5600");
-9018|<O>| ESC "继续\ntalk %x# welcome.2", me->get_name(), getoid(me)));
+﻿8960|<O>| send_user(who, "%c%s", ';', "công tượngcủanguyện vọng Kinh nghiệm 1800 Tiềm năng 80 Tiền vàng 1500");
+8961|<O>| result += ESC"Nỗi Khổ Của Ngưu Nhị。\n" + sprintf("talk %x# task.3\n", id);
+8962|<O>| int get_zombie_type() { return ZOMBIE_TYPE_3; }     // Phán đoán chủng loại
+8963|<O>| if( obj ) log_file( CRASH_LOG, sprintf( "đối tượng:%O\n", obj ) );
+8964|<O>| private static int OnlineTime = -1;                 // trầm mêgiờgian
+8965|<O>| tmp += sprintf(ESC HIY "hoán Bàn triềncủaThược Dược\ntalk %x# welcome.1\n", id);
+8966|<O>| return "Tần Quốcchuyên thuộc Kỵ sủng phán phán\nĐiều kiện sử dụng:Sử dụnggiả vìTần QuốcTử dân hoặc dữTần QuốcđạtđếnNhất địnhcủahữutốtđộ。\nĐạo cụ này sau khi sử dụng sẽ khóa。\n";
+8967|<O>| send_user(who, "%c%s", ';', "giai nhưỡng Mỹ Tửu Kinh nghiệm 6300 Tiềm năng 240 Tiền vàng 6300");
+8968|<O>| return "Hàn Quốcchuyên thuộc Kỵ sủng dặn đương\nĐiều kiện sử dụng:Sử dụnggiả vìHàn QuốcTử dân hoặc dữHàn QuốcđạtđếnNhất địnhcủahữutốtđộ。\nĐạo cụ này sau khi sử dụng sẽ khóa。\n";
+8969|<O>| private int if_step_near_time	= 0;			//	hoạt độngBắt đầutrướccủalâm cậngiờgianLàphủ tiến Hành Đảophútkýgiờ
+8970|<O>| send_user(who, "%c%s", ';', "Hà Đạo oan Hồn Kinh nghiệm 5300 Tiềm năng 210 Tiền vàng 4500");
+8971|<O>| send_user(who, "%c%s", ';', "Tài PhùngcủaMộng muốn Kinh nghiệm 1100 Tiềm năng 70 Tiền vàng 1500");
+8972|<O>| if (objectp(item = present("đào Bảonhỏsừ đầu", player, 1, MAX_CARRY)))
+8973|<O>| write_user(who, ECHO "%sĐả mở thư Bản，Nhất Bản chính Kinh ĐịachoBạn giảng khóa……", me->get_name());
+8974|<O>| ESC + sprintf("NhậnNhiệm vụ。\ntalk %x# valentine4\n", getoid(me)) +
+8975|<O>| if (TASK_LEGEND_D->check_task_item(who, "Triệu Quốctrongchính quancủaTín", 1) != 1)
+8976|<O>| if (get_effect(who, EFFECT_CHAR_9145)) continue;    // thực hiện thành công
+8977|<O>| /*              else if( p < 90007 * rate / 100 )    // Tạp vật５
+8978|<O>| /*              else if( p < 70006 * rate / 100 )    // Tạp vật５
+8979|<O>| if (!objectp(item = present("HồingàyTâm Pháp", me, 1, MAX_CARRY * 4)))
+8980|<O>| if (!objectp(item = present("Thầnnông Bảo Điển", me, 1, MAX_CARRY * 4)))
+8981|<O>| if (get_effect(who, EFFECT_CHAR_9145)) return 2;    // thực hiện thành công
+8982|<O>| tmp += sprintf(ESC"trừng trị Ác Tướng\ntalk %x# visit.3\n",getoid(me));*/
+8983|<O>| send_user(who, "%c%s", ';', "VàngSắc Ngưu giác Kinh nghiệm 3100 Tiềm năng 105 Tiền vàng 2700");
+8984|<O>| /*              else if( p < 90000 * rate / 100 )    // Tạp vật５
+8985|<O>| send_user(who, "%c%s", ';', "Xuất sửTần Quốc Kinh nghiệm 5500 Tiềm năng 230 Tiền vàng 5100");
+8986|<O>| result = sprintf("%s:\n    bạnhi vọng chiêu mộgìBinhloại？\n", who->get_name());
+8987|<O>| /*              else if( p < 10000 * rate / 100 )    // Tạp vật４
+8988|<O>| ESC + sprintf("Hoàn thành nhiệm vụ。\ntalk %x# valentine6\n", getoid(me)) +
+8989|<O>| "   Sửa đổiNhật kỳ", "tải Nhậpgiờgian", "tệp tinxích thốn", "tệp tinTên", repeat_string("─", 30));
+8990|<O>| send_user(member, "%c%s", '!', "thửquái vậtkhôngLàsong Phương Tề Tâm Hợp Lực sở Sát，thửlầnNhiệm vụtức toánThất bại～！");
+8991|<O>| send_user(who, "%c%s", '!', "cung hỷBạn nhận được"HIR + file->get_name());
+8992|<O>| && file->perform_done_npc(me, who) == 2)    // đặc kỹTấn công(tuần hoàn)(Hoàn thành)
+8993|<O>| //              send_user( me, "%c%s", '!', "Bạnnhận đượcđiền ĐịaThu thậpThảo Dược。" );
+8994|<O>| send_user(who, "%c%s", ';', "viện Trợ Kinh nghiệm 62000 Tiềm năng 900 Tiền vàng 53000");
+8995|<O>| if (TASK_LEGEND_D->check_task_item_amount(who, "mễ Tửu") >= 10)
+8996|<O>| send_user(who, "%c%s", ';', "khẩn súc mở chi Kinh nghiệm 6500 Tiềm năng 265 Tiền vàng 5800");
+8997|<O>| send_user(who, "%c%s", ';', "Đả Gia kiếp xả Kinh nghiệm 6900 Tiềm năng 260 Tiền vàng 6800");
+8998|<O>| send_user( who, "%c%c%c%w%s", 0x51, 2, 1,TID_HANGUO,"Hàn Quốc" );
+8999|<O>| send_user(who, "%c%s", ';', "ThiênnămChi kiếp Kinh nghiệm 4800 Tiềm năng 150 Tiền vàng 3600");
+9000|<O>| ESC "Phân giảiđãHợp thànhcủađoạn tạo Thạch\n" + sprintf("talk %x# welcome.60\n", id) +
+9001|<O>| send_user(who, "%c%s", ';', "Hàn tổng quảncủaBang Trợ Kinh nghiệm 600 Tiềm năng 35 Tiền vàng 1200");
+9002|<O>| ESC "Nhận。\n" + sprintf("pf2 00903 %d\n", me->get_number()) +
+9003|<O>| send_user(who, "%c%s", ';', "dạ Bán Chung Thanh Kinh nghiệm 6600 Tiềm năng 230 Tiền vàng 6700");
+9004|<O>| _DEBUG(sprintf("DEBUG -- đươngtrướcCóhiệugiờChung số vì:%d", alarm_clock_size));
+9005|<O>| send_user(who, "%c%s", ';', "thủ VệcủaY phục Kinh nghiệm 3500 Tiềm năng 70 Tiền vàng 3000");
+9006|<O>| send_user(me, "%c%s", '!', weapon->get_name() + "đãđồĐộc。");
+9007|<O>| private mapping mpMascot = ([]);               // Phúc Duyêndữ liệutập(Vĩnh cửu)
+9008|<O>| if (!objectp(item = present("ThầnTiêngia giacủaMộcKiếm", who, 1, MAX_CARRY)))
+9009|<O>| SAY_CMD->say(me, enemy->get_name() + "，liềnBằngbạnnàyphó bệnh Miêu TươngcũngdámThách đấuBản Tướng quân！！");
+9010|<O>| CHAR_FIGHT_D->attack_done(me, who, HIT_NONE);    // cẩn thận chuẩn bị me
+9011|<O>| send_user(who, "%c%s", ';', "trầm mặccủaKiếm Hồn Kinh nghiệm 1200 Tiềm năng 60 Tiền vàng 1000");
+9012|<O>| if (get_effect(who, EFFECT_CHAR_CHAN)) return 2;    // thực hiện thành công
+9013|<O>| send_user(who, "%c%s", ';', "Hà Đạo Truyền nói Kinh nghiệm 4700 Tiềm năng 180 Tiền vàng 4000");
+9014|<O>| if( get_effect(me, EFFECT_MAGIC_CARD)) return 0;    // thực hiện thành công
+9015|<O>| /*              else if( p < 50000 * rate / 100 )    // Tạp vật５
+9016|<O>| ESC + sprintf("NhậnNhiệm vụ。\ntalk %x# valentine2\n", getoid(me)) +
+9017|<O>| send_user(who, "%c%s", ';', "tiêu dao Phápngoài Kinh nghiệm 6800 Tiềm năng 260 Tiền vàng 5600");
+9018|<O>| ESC "Tiếp tục\ntalk %x# welcome.2", me->get_name(), getoid(me)));

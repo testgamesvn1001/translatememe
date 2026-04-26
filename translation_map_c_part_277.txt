@@ -1,62 +1,62 @@
-﻿9869|<O>| private static object* dbUser = ({ });          // 攻击方玩家
-9870|<O>| private static object* dbComrade = ({ });       // 攻击方士兵
-9871|<O>| if (TASK_LEGEND_D->check_task_item(who, "山芍药", 10) != 1)
-9872|<O>| if (random(100) < who->get_anti_NoPF()) return 2;	//抗封魔率
-9873|<O>| if (TASK_LEGEND_D->check_task_item(who, "巨灵神锤", 1) != 1)
-9874|<O>| if (!objectp(item = present("搜魂法器", who, 1, MAX_CARRY)))
-9875|<O>| result += sprintf(ESC"了解活动规则\ntalk %x# defence.2\n",id);
-9876|<O>| if (TASK_LEGEND_D->check_task_item(who, "炼药配方", 1) != 1)
-9877|<O>| case 4: send_user(who, "%c%s", ':', "您:\n听说官府要加重商业税了。");
-9878|<O>| send_user(who, "%c%s", '!', sprintf(HIY"魍魉鬼 %d/20", i));
-9879|<O>| CHAR_CHAR_D->send_loop_perform_2(me, user);    // 显示持续图标
-9880|<O>| send_user(who, "%c%s", '!', sprintf(HIY"山芍药 %d/10", i));
-9881|<O>| send_user(who, "%c%s", '!', sprintf(HIY"茉莉花 %d/20", i));
-9882|<O>| tell_user(who, "%d秒后%s将会出现，请作好应战的准备！", sec, get_name());
-9883|<O>| if (TASK_LEGEND_D->check_task_item(who, "如意玉牌", 1) != 1)
-9884|<O>| ESC "关闭\nCLOSE\n", getoid(me), getoid(me), getoid(me)));
-9885|<O>| ESC + sprintf("交出粽子材料。\ntalk %x# zzy.2\n", getoid(me)) +
-9886|<O>| if (TASK_LEGEND_D->check_task_item(who, "百炼精铁", 1) != 1)
-9887|<O>| if (TASK_LEGEND_D->check_task_item(who, "天门阵法", 1) != 1)
-9888|<O>| write_user(who, ECHO "您获得" + item->get_name() + "30个。");
-9889|<O>| send_user(me, "%c%c%d%s", 0x43, 7, 0, WHT "您自己组成一支队伍。");
-9890|<O>| else if (sscanf(arg, "+ %s %s", id, items))    // 确认己方物品
-9891|<O>| if (TASK_LEGEND_D->check_task_item(who, "蓝魔之泪", 1) != 1)
-9892|<O>| "蜀山" : ([	60: ({1231,"Yêu","Cường tráng","Tay không",}),
-9893|<O>| if (objectp(item = present("神秘的种子", who, 1, MAX_CARRY)))
-9894|<O>| ESC "关于精炼与合成\n" + sprintf("talk %x# welcome.50\n", id) +
-9895|<O>| if (TASK_LEGEND_D->check_task_item(who, "神秘泥人", 1) != 1)
-9896|<O>| return "［刀剑格挡］提升使用刀和剑的防御力，每级提升 1.1 点。提升爆击率，每级提升0.05％\n";
-9897|<O>| case 5: send_user(who, "%c%s", ':', "您:\n听说官府要加重艺术税了。");
-9898|<O>| if (get_login_flag() == 2) return MP->Point;    // 未准备就绪
-9899|<O>| if (TASK_LEGEND_D->check_task_item1(who, "桃木剑", 1) != 1)
-9900|<O>| else if (get_heart_state(me) == MAGIC_STAT)    // 走路取消法术
-9901|<O>| tmp += sprintf(ESC HIY "茉莉花\ntalk %x# welcome.9\n", id);
-9902|<O>| if (TASK_LEGEND_D->check_task_item1(who, "符纸", 10) != 1)
-9903|<O>| private int Spi;                 // 精神，灵性   Spirituality
-9904|<O>| if (random(100) < who->get_anti_NoPF()) continue;	//抗封魔率
-9905|<O>| send_user(who, "%c%s", '!', sprintf(HIY"龟仙人 %d/11", i));
-9906|<O>| if (TASK_LEGEND_D->check_task_item(who, "复命信函", 1) != 1)
-9907|<O>| send_user(who, "%c%s", '!', sprintf(HIY"双刀骷髅 %d/8", i));
-9908|<O>| "随机残缺宝石" : "sprintf(\"/item/89/%%d\", 8901+random(23))",
-9909|<O>| string get_pf_name() { return pf_name; }				// 函数:获取技能名称
-9910|<O>| send_user(who, "%c%s", '!', "您需要13个物品空间，请先整理一下再打开礼包吧！");
-9911|<O>| private static int Hurt2;                       // 反法术伤害
-9912|<O>| tmp = ESC "领取《战国宝典》\n"+sprintf("talk %x# go.dict\n",id);
-9913|<O>| if (me->get_mp() < (mp = SUB_MP(skLevel)))    // 小心准备 me
-9914|<O>| send_user(who, "%c%s", '!', sprintf(HIY"守阵神将 %d/7", i));
-9915|<O>| send_user( team[1], "%c%s", '!', "得到任务 "HIY"七夕天赐奇缘（1）");
-9916|<O>| send_user(who, "%c%s", '!', sprintf(HIY"女儿红 %d/10", i));
-9917|<O>| #define SAC_CALL_OUT_FUNC	"open_alarm_clock"	//	回调函数的名称
-9918|<O>| private static int AntiNoPF;                    // 抗封魔率
-9919|<O>| if (TASK_LEGEND_D->check_task_item(who, "领兵符", 1) != 1)
-9920|<O>| send_user(who, "%c%s", '!', sprintf(HIY"金银花 %d/8", i));
-9921|<O>| if (TASK_LEGEND_D->check_task_item(who, "灵鹿角", 1) != 1)
-9922|<O>| send_user(who, "%c%s", '!', sprintf(HIY"石虎 %d/10", i));
-9923|<O>| if (TASK_LEGEND_D->check_task_item(who, "穿心莲", 5) != 1)
-9924|<O>| SAY_CMD->say(this_object(), "欢迎加入我的行列，我们的怨灵大军又强大了！！！");
-9925|<O>| int Spi;                        // 精神，灵性   Spirituality
-9926|<O>| private static mapping mpDP = ([]);            // 临时数据集
-9927|<O>| default: set_heart_state(me, WALK_STAT);    // 允许 go 指令
-9928|<O>| if (TASK_LEGEND_D->check_task_item(who, "小木桶", 1) != 1)
-9929|<O>| send_user(who, "%c%s", '!', sprintf(HIY"劳役 %d/30", i));
-9930|<O>| send_user(who, "%c%s", '!', sprintf(HIY"恶灵 %d/20", i));
+﻿9869|<O>| private static object* dbUser = ({ });          // Tấn côngPhươngNgười chơi
+9870|<O>| private static object* dbComrade = ({ });       // Tấn côngPhương Sĩ Binh
+9871|<O>| if (TASK_LEGEND_D->check_task_item(who, "Sơn Thược Dược", 10) != 1)
+9872|<O>| if (random(100) < who->get_anti_NoPF()) return 2;	//kháng PhongMasuất
+9873|<O>| if (TASK_LEGEND_D->check_task_item(who, "Cự LinhThầnchùy", 1) != 1)
+9874|<O>| if (!objectp(item = present("sưu Hồn Pháp Khí", who, 1, MAX_CARRY)))
+9875|<O>| result += sprintf(ESC"Giảihoạt độngquy Tắc\ntalk %x# defence.2\n",id);
+9876|<O>| if (TASK_LEGEND_D->check_task_item(who, "Luyện Dược Phối Phương", 1) != 1)
+9877|<O>| case 4: send_user(who, "%c%s", ':', "Bạn:\nthính nói quan phủcầnGia trọngThương Nghiệpthuế。");
+9878|<O>| send_user(who, "%c%s", '!', sprintf(HIY"vọng lượngQuỷ %d/20", i));
+9879|<O>| CHAR_CHAR_D->send_loop_perform_2(me, user);    // hiển thịkéo dàiĐồ tiêu
+9880|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Sơn Thược Dược %d/10", i));
+9881|<O>| send_user(who, "%c%s", '!', sprintf(HIY"mạt Lợi Hoa %d/20", i));
+9882|<O>| tell_user(who, "%dgiâysau%sTướngsẽXuất hiện，Xin táctốtứng Chiếncủachuẩn bị！", sec, get_name());
+9883|<O>| if (TASK_LEGEND_D->check_task_item(who, "như Ý Ngọc bài", 1) != 1)
+9884|<O>| ESC "Đóng\nCLOSE\n", getoid(me), getoid(me), getoid(me)));
+9885|<O>| ESC + sprintf("giao Xuất tông Tử tài liệu。\ntalk %x# zzy.2\n", getoid(me)) +
+9886|<O>| if (TASK_LEGEND_D->check_task_item(who, "Bách Luyện TinhSắt", 1) != 1)
+9887|<O>| if (TASK_LEGEND_D->check_task_item(who, "Thiên Môn TrậnPháp", 1) != 1)
+9888|<O>| write_user(who, ECHO "Bạn nhận được" + item->get_name() + "30。");
+9889|<O>| send_user(me, "%c%c%d%s", 0x43, 7, 0, WHT "Bạnbản thântổ thành Nhất chi đội ngũ。");
+9890|<O>| else if (sscanf(arg, "+ %s %s", id, items))    // xác nhận kỷ Phương Vật Phẩm
+9891|<O>| if (TASK_LEGEND_D->check_task_item(who, "LamMaChi lệ", 1) != 1)
+9892|<O>| "Thục Sơn" : ([	60: ({1231,"Yêu","Cường tráng","Tay không",}),
+9893|<O>| if (objectp(item = present("ThầnBícủaloạiTử", who, 1, MAX_CARRY)))
+9894|<O>| ESC "quan vuTinh luyệndữHợp thành\n" + sprintf("talk %x# welcome.50\n", id) +
+9895|<O>| if (TASK_LEGEND_D->check_task_item(who, "ThầnBí nê Nhân", 1) != 1)
+9896|<O>| return "［Đao Kiếm cách đảng］NângSử dụngĐaovàKiếmcủaPhòng thủLực，Mỗi cấp tăng 1.1 điểm。NângBạo kích suất，Mỗi cấp tăng0.05％\n";
+9897|<O>| case 5: send_user(who, "%c%s", ':', "Bạn:\nthính nói quan phủcầnGia trọng nghệ Thuật thuế。");
+9898|<O>| if (get_login_flag() == 2) return MP->Point;    // vị chuẩn bịliềntự
+9899|<O>| if (TASK_LEGEND_D->check_task_item1(who, "đàoMộcKiếm", 1) != 1)
+9900|<O>| else if (get_heart_state(me) == MAGIC_STAT)    // tẩu LộHủy bỏPháp Thuật
+9901|<O>| tmp += sprintf(ESC HIY "mạt Lợi Hoa\ntalk %x# welcome.9\n", id);
+9902|<O>| if (TASK_LEGEND_D->check_task_item1(who, "Phù Chỉ", 10) != 1)
+9903|<O>| private int Spi;                 // TinhThần，Linh tính   Spirituality
+9904|<O>| if (random(100) < who->get_anti_NoPF()) continue;	//kháng PhongMasuất
+9905|<O>| send_user(who, "%c%s", '!', sprintf(HIY"QuyTiênNhân %d/11", i));
+9906|<O>| if (TASK_LEGEND_D->check_task_item(who, "phục Mệnh Tín hàm", 1) != 1)
+9907|<O>| send_user(who, "%c%s", '!', sprintf(HIY"song Đao khô lâu %d/8", i));
+9908|<O>| "Ngẫu nhiêntàn thiếuBảo Thạch" : "sprintf(\"/item/89/%%d\", 8901+random(23))",
+9909|<O>| string get_pf_name() { return pf_name; }				// Hàm:hoạch thủKỹ năngTên
+9910|<O>| send_user(who, "%c%s", '!', "Bạncần13Vật Phẩm Không gian，Xin Tiên chỉnh lýmột chútlại Đả mở lễ bao ！");
+9911|<O>| private static int Hurt2;                       // phản Pháp Thuật Thương hại
+9912|<O>| tmp = ESC "lĩnh thủ《Chiến QuốcBảo Điển》\n"+sprintf("talk %x# go.dict\n",id);
+9913|<O>| if (me->get_mp() < (mp = SUB_MP(skLevel)))    // cẩn thận chuẩn bị me
+9914|<O>| send_user(who, "%c%s", '!', sprintf(HIY"thủ TrậnThầnTướng %d/7", i));
+9915|<O>| send_user( team[1], "%c%s", '!', "nhận được nhiệm vụ "HIY"Thất tịchngàytứ Kỳ Duyên（1）");
+9916|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Nữnhi Hồng %d/10", i));
+9917|<O>| #define SAC_CALL_OUT_FUNC	"open_alarm_clock"	//	Hồi điềuHàmcủaTên
+9918|<O>| private static int AntiNoPF;                    // kháng PhongMasuất
+9919|<O>| if (TASK_LEGEND_D->check_task_item(who, "lĩnh Binh Phù", 1) != 1)
+9920|<O>| send_user(who, "%c%s", '!', sprintf(HIY"VàngBạcHoa %d/8", i));
+9921|<O>| if (TASK_LEGEND_D->check_task_item(who, "Linh Lộc giác", 1) != 1)
+9922|<O>| send_user(who, "%c%s", '!', sprintf(HIY"ThạchHổ %d/10", i));
+9923|<O>| if (TASK_LEGEND_D->check_task_item(who, "xuyên Tâm Liên", 5) != 1)
+9924|<O>| SAY_CMD->say(this_object(), "Chào mừngGia NhậptôicủaHành liệt，tôicủaoán LinhlớnquânlạiCườnglớn！！！");
+9925|<O>| int Spi;                        // TinhThần，Linh tính   Spirituality
+9926|<O>| private static mapping mpDP = ([]);            // Tập dữ liệu tạm
+9927|<O>| default: set_heart_state(me, WALK_STAT);    // doãn hứa go Chỉ Lệnh
+9928|<O>| if (TASK_LEGEND_D->check_task_item(who, "nhỏMộcthùng", 1) != 1)
+9929|<O>| send_user(who, "%c%s", '!', sprintf(HIY"lao dịch %d/30", i));
+9930|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Ác Linh %d/20", i));

@@ -1,97 +1,97 @@
-﻿18385|<O>| log_file(LIST_LOG, "# 暗器\n\n");
-18386|<O>| #define PF_NAME        "琥珀项链制作"
-18387|<O>| return "任务物品。李大毛愿意拿种子交换的一种药材。";
-18388|<O>| result += ESC"关闭\nparty 112\n";
-18389|<O>| log_file(LIST_LOG, "# 运镖任务\n");
-18390|<O>| #define PF_NAME        "妖精之帽制作"
-18391|<O>| "精铁锭" : "\"/item/stuff/0012\"",
-18392|<O>| "残缺玉白晶石" : "\"/item/89/8906\"",
-18393|<O>| "何首乌" : "\"/item/stuff/0113\"",
-18394|<O>| "碎麻布" : "\"/item/stuff/0044\"",
-18395|<O>| else if (p < thresh3)    // 杂物１
-18396|<O>| #define PF_NAME        "紫水晶鞋制作"
-18397|<O>| map = new(BATTLE);    // 生成虚拟对象
-18398|<O>| #define PF_NAME        "水纹项链制作"
-18399|<O>| case 4: name3 = "废弃同盟";  break;
-18400|<O>| ESC"查询我的元宝寄售\nconsign status\n"
-18401|<O>| return "［强化周天运转］提升气血上限，每级提升6点";
-18402|<O>| tell_user(me, "不能直接往装备栏添加道具。");
-18403|<O>| return "一块充满灵气的灵石，据传有清神醒脑的妙用。";
-18404|<O>| for (i = 0;i < 5;i++)	//5堆5000金
-18405|<O>| case 6: name3 = "抵抗入侵";  break;
-18406|<O>| "金银花" : "\"/item/stuff/0108\"",
-18407|<O>| return "［顺天法咒］顺天神法，以辅助法术为主。\n";
-18408|<O>| "槐木棒" : "\"/item/stuff/0021\"",
-18409|<O>| #define PF_NAME        "残阳之靴制作"
-18410|<O>| "寒铁丝" : "\"/item/stuff/0042\"",
-18411|<O>| if ( iTimes != i )	//生成新一周的首席弟子
-18412|<O>| //		        cityname = "禁卫军营地";
-18413|<O>| "破旧的盔甲" : "在燕长城杀燕国枪兵可以得到破旧的盔甲",
-18414|<O>| return "任务物品。一种石头，打磨镶嵌后可做装饰用。";
-18415|<O>| if (xy < 1000 / 3) return "西方";
-18416|<O>| return "［强化顺天法咒］提升气血上限，每级提升4点";
-18417|<O>| return "持续1小时内变身为苦役，可提升2%气血值。";
-18418|<O>| return "任务物品。庄辛搬迁至赵国时充饥需要的粮食。";
-18419|<O>| "精铁片" : "\"/item/stuff/0264\"",
-18420|<O>| return "［" PF_NAME "］\n使用信物\n";
-18421|<O>| result += ESC"关闭\nparty 154\n";
-18422|<O>| else if (!gId1 && !gId2)	//新建团队
-18423|<O>| #define PF_NAME        "星辰战靴制作"
-18424|<O>| #define PF_NAME        "流云羽衣制作"
-18425|<O>| "油菜籽" : "\"/item/stuff/0164\"",
-18426|<O>| private string pet_id;			//宠物ID
-18427|<O>| write_user(me, ECHO "欢迎下次再来！");
-18428|<O>| "七色串珠" : "在灵谷洞二层杀侍卫亡灵可以得到七色珠串",
-18429|<O>| return "任务物品。一只武林人士梦寐以求的神秘箱子。";
-18430|<O>| else if (p < thresh4)    // 杂物２
-18431|<O>| "金之魂" : "\"/item/stuff/0026\"",
-18432|<O>| #define PF_NAME        "流云斗篷制作"
-18433|<O>| return "任务物品。鬼谷子炼好的医治世子怪病的药丸。";
-18434|<O>| #define PF_NAME        "地灵长靴制作"
-18435|<O>| ESC"黑球兑换奖励\ntalk %x# bonus.2\n"
-18436|<O>| notify("中级锻造石只能锻造在2星或3星的装备上。");
-18437|<O>| log_file(LIST_LOG, "# 敏捷鞋子\n");
-18438|<O>| "玄铁矿" : "\"/item/stuff/0005\"",
-18439|<O>| return "持续1小时内变身为水贼，可提升2%法术力。";
-18440|<O>| #define PF_NAME        "冰晶珑手锻造"
-18441|<O>| "残缺靛青晶石" : "\"/item/89/8916\"",
-18442|<O>| printf(ECHO "蒙面人出现，您的行动受到影响。");
-18443|<O>| SAY_CMD->say(me, "弱小的人类！受死吧！");
-18444|<O>| "绿宝石" : "\"/item/stuff/0087\"",
-18445|<O>| "写意花草·兰" : "\"/item/97/9725\"",
-18446|<O>| return "任务物品。功德老人配制的可解软骨散的解药。";
-18447|<O>| return "持续1小时内变身为蝎子，可提升2%命中率。";
-18448|<O>| me->set_cwf(file);    // 设置当前文件
-18449|<O>| #define PF_NAME        "赤血神靴制作"
-18450|<O>| private int mp_grow;			//法力成长系数
-18451|<O>| return "经过矿冶技能熔炼的银矿，铁匠、机关所需材料";
-18452|<O>| // 返回值: 0 = 可以放弃, 1 = 不能放弃(有依赖)
-18453|<O>| return "任务物品。一本赵管家想与燕总管分享的好书。";
-18454|<O>| else if ( rate < 4120 )	//技能进阶书
-18455|<O>| return "［强化踏雪无痕］提升气血上限，每级提升3点";
-18456|<O>| #define PF_NAME        "衾天之冠制作"
-18457|<O>| log_file(LIST_LOG, "# 法术项链\n");
-18458|<O>| "青蛙肉" : "\"/item/stuff/0177\"",
-18459|<O>| return "任务物品。一封给阔别十年妻子的报平安的信。";
-18460|<O>| #define PF_NAME        "锁链侠衣制作"
-18461|<O>| log_file(LIST_LOG, "# 法术鞋子\n");
-18462|<O>| return "持续1小时内变身为蟾蜍，可提升2%法术力。";
-18463|<O>| #define PF_NAME        "帝王之铠制作"
-18464|<O>| #define PF_NAME        "衾天战袍制作"
-18465|<O>| "写意花草·竹" : "\"/item/97/9727\"",
-18466|<O>| // 部分自动生成:/make/skill/makeski74
-18467|<O>| "玄铁锭" : "\"/item/stuff/0013\"",
-18468|<O>| #define PF_NAME        "潮汐法袍制作"
-18469|<O>| notify("不能开放以 *, +, ? 结尾的ＩＰ。");
-18470|<O>| "黄玉石" : "\"/item/stuff/0075\"",
-18471|<O>| #define PF_NAME        "环雾披风制作"
-18472|<O>| result = result + HIR"30000金、";
-18473|<O>| ESC "我考虑清楚了\ntalk %x# qixi.3\n"
-18474|<O>| #define PF_NAME        "银丝长靴制作"
-18475|<O>| #define PF_NAME        "霓裳天巾制作"
-18476|<O>| else    return sprintf("金刚\n");
-18477|<O>| else if (type == "fuse")	//宠物合成
-18478|<O>| else if (type == "free")	//宠物释放
-18479|<O>| #define PF_NAME        "龙魂项链制作"
-18480|<O>| return "持续1小时内变身为枪魂，可提升2%躲闪值。";
-18481|<O>| verb = get_verb();    // 获取命令动词
+﻿18385|<O>| log_file(LIST_LOG, "# Ám Khí\n\n");
+18386|<O>| #define PF_NAME        "Hổ pháchHạng LiênChế tạo"
+18387|<O>| return "Vật phẩm nhiệm vụ。Lýlớnmao nguyện Ý nãloạiTử giao hoáncủaMột loạiDược liệu。";
+18388|<O>| result += ESC"Đóng\nparty 112\n";
+18389|<O>| log_file(LIST_LOG, "# Nhiệm vụ vận tiêu\n");
+18390|<O>| #define PF_NAME        "YêuTinh Chi MạoChế tạo"
+18391|<O>| "TinhThiết đĩnh" : "\"/item/stuff/0012\"",
+18392|<O>| "tàn thiếu Ngọc Bạch tinh Thạch" : "\"/item/89/8906\"",
+18393|<O>| "Hà thủ ô" : "\"/item/stuff/0113\"",
+18394|<O>| "toái ma bố" : "\"/item/stuff/0044\"",
+18395|<O>| else if (p < thresh3)    // Tạp vật１
+18396|<O>| #define PF_NAME        "TửThủytinh HiaChế tạo"
+18397|<O>| map = new(BATTLE);    // sinh thành hư nghĩđối tượng
+18398|<O>| #define PF_NAME        "ThủyvănHạng LiênChế tạo"
+18399|<O>| case 4: name3 = "phế khí Đồng minh";  break;
+18400|<O>| ESC"tra tuầntôicủaNguyên Bảoký thụ\nconsign status\n"
+18401|<O>| return "［Cường hóaChungàyvận chuyển］Nâng giới hạn Khí Huyết，Mỗi cấp tăng6điểm";
+18402|<O>| tell_user(me, "không thểTrực tiếp vãngTrang bịlanThêmĐạo cụ。");
+18403|<O>| return "Nhất khối sung mãn Linh khícủaLinh Thạch，cứ TruyềnCóThanhThầntỉnh nãocủaDiệu dùng。";
+18404|<O>| for (i = 0;i < 5;i++)	//5đôi5000Vàng
+18405|<O>| case 6: name3 = "để kháng Nhập xâm";  break;
+18406|<O>| "VàngBạcHoa" : "\"/item/stuff/0108\"",
+18407|<O>| return "［thuậnngàyPháp chú］thuậnngàyThầnPháp，Dĩ phụ Trợ Pháp Thuật vì chủ。\n";
+18408|<O>| "hoèMộcbổng" : "\"/item/stuff/0021\"",
+18409|<O>| #define PF_NAME        "tàn Dương Chi HiaChế tạo"
+18410|<O>| "HànSắtTi" : "\"/item/stuff/0042\"",
+18411|<O>| if ( iTimes != i )	//sinh thànhmớiNhất Chucủathủ tịch đệ Tử
+18412|<O>| //		        cityname = "Cấm Vệ Quândoanh Địa";
+18413|<O>| "PhácũcủaKhôi Giáp" : "TạiYêndàiThành SátYên QuốcThương Binhcó thểnhận đượcPhácũcủaKhôi Giáp",
+18414|<O>| return "Vật phẩm nhiệm vụ。Một loạiThạch đầu，Đả ma tương khảmsaucó thể làm trang Sức dùng。";
+18415|<O>| if (xy < 1000 / 3) return "Tây Phương";
+18416|<O>| return "［Cường hóathuậnngàyPháp chú］Nâng giới hạn Khí Huyết，Mỗi cấp tăng4điểm";
+18417|<O>| return "kéo dài1giờtrongbiến Thân vì khổ dịch，Có thể nâng2%Giá trị Khí Huyết。";
+18418|<O>| return "Vật phẩm nhiệm vụ。Trang tân bàn thiên ChíTriệu Quốcgiờsung cơcầncủalương Thực。";
+18419|<O>| "TinhSắtphiến" : "\"/item/stuff/0264\"",
+18420|<O>| return "［" PF_NAME "］\nSử dụngTín Vật\n";
+18421|<O>| result += ESC"Đóng\nparty 154\n";
+18422|<O>| else if (!gId1 && !gId2)	//mớikiến đoàn đội
+18423|<O>| #define PF_NAME        "Tinh thần Chiến HiaChế tạo"
+18424|<O>| #define PF_NAME        "lưu Vân Vũ YChế tạo"
+18425|<O>| "Du Thái Tử" : "\"/item/stuff/0164\"",
+18426|<O>| private string pet_id;			//sủng vậtID
+18427|<O>| write_user(me, ECHO "Chào mừngdướilầnlại đến！");
+18428|<O>| "Thất Sắc xuyến Châu" : "TạiLinh Cốc Động NhịtầngSát thị VệVong Linhcó thểnhận đượcThất Sắc Châu xuyến",
+18429|<O>| return "Vật phẩm nhiệm vụ。NhấtchỉVũ Lâm Nhân Sĩ Mộng mỵ Dĩ cầucủaThầnBí rương Tử。";
+18430|<O>| else if (p < thresh4)    // Tạp vật２
+18431|<O>| "VàngChi Hồn" : "\"/item/stuff/0026\"",
+18432|<O>| #define PF_NAME        "lưu Vân Đấu bồngChế tạo"
+18433|<O>| return "Vật phẩm nhiệm vụ。Quỷ CốcTử LuyệntốtcủaY trị Thế Tử quái bệnhcủaDược hoàn。";
+18434|<O>| #define PF_NAME        "Địa LinhdàiHiaChế tạo"
+18435|<O>| ESC"Hắc cầu đổi hoánphần thưởng\ntalk %x# bonus.2\n"
+18436|<O>| notify("giữacấpđoạn tạo ThạchchỉNăng đoạn tạoTại2Tinh hoặc3TinhcủaTrang bịtrên。");
+18437|<O>| log_file(LIST_LOG, "# mẫn tiệpHia\n");
+18438|<O>| "HuyềnSắtkhoáng" : "\"/item/stuff/0005\"",
+18439|<O>| return "kéo dài1giờtrongbiến Thân vìThủytặc，Có thể nâng2%Pháp thuật lực。";
+18440|<O>| #define PF_NAME        "Băngtinh lung Thủ đoạn tạo"
+18441|<O>| "tàn thiếu điện Thanh tinh Thạch" : "\"/item/89/8916\"",
+18442|<O>| printf(ECHO "Mông Diện NhânXuất hiện，Hành động của bạn bị ảnh hưởng。");
+18443|<O>| SAY_CMD->say(me, "nhượcnhỏcủaNhân loại！thụ Tử ！");
+18444|<O>| "lụcBảo Thạch" : "\"/item/stuff/0087\"",
+18445|<O>| "tả Ý Hoa Thảo·Lan" : "\"/item/97/9725\"",
+18446|<O>| return "Vật phẩm nhiệm vụ。Công Đức Lão Nhân Phối chếcủacó thể Giải nhuyễn Cốt táncủaGiải Dược。";
+18447|<O>| return "kéo dài1giờtrongbiến Thân vì hạt Tử，Có thể nâng2%Mệnhgiữasuất。";
+18448|<O>| me->set_cwf(file);    // thiết trí đươngtrướctệp tin
+18449|<O>| #define PF_NAME        "xích HuyếtThầnHiaChế tạo"
+18450|<O>| private int mp_grow;			//Pháp Lựcthànhdàihệ số
+18451|<O>| return "Kinh qua khoáng dãKỹ năngdung LuyệncủaBạckhoáng，Thiết Tượng、Nguyên liệu cần cho Cơ Quan";
+18452|<O>| // Quay vềTrị: 0 = có thểTừ bỏ, 1 = không thểTừ bỏ(Cóy Lại)
+18453|<O>| return "Vật phẩm nhiệm vụ。Nhất Bản Triệu quản Gia muốn dữ Yên tổng quảnphúthưởngcủatốtthư。";
+18454|<O>| else if ( rate < 4120 )	//Kỹ năngtiến giai thư
+18455|<O>| return "［Cường hóađạp Tuyết vô ngấn］Nâng giới hạn Khí Huyết，Mỗi cấp tăng3điểm";
+18456|<O>| #define PF_NAME        "khâmngàyChi QuanChế tạo"
+18457|<O>| log_file(LIST_LOG, "# Pháp ThuậtHạng Liên\n");
+18458|<O>| "Thanh oa Nhục" : "\"/item/stuff/0177\"",
+18459|<O>| return "Vật phẩm nhiệm vụ。Nhất Phongchokhoát biệt ThậpnămThê TửcủaBáo bình AncủaTín。";
+18460|<O>| #define PF_NAME        "Tỏa Liên Hiệp YChế tạo"
+18461|<O>| log_file(LIST_LOG, "# Pháp ThuậtHia\n");
+18462|<O>| return "kéo dài1giờtrongbiến Thân vì thiềm thừ，Có thể nâng2%Pháp thuật lực。";
+18463|<O>| #define PF_NAME        "Đế Vương Chi khảiChế tạo"
+18464|<O>| #define PF_NAME        "khâmngàyChiến BàoChế tạo"
+18465|<O>| "tả Ý Hoa Thảo·Trúc" : "\"/item/97/9727\"",
+18466|<O>| // bộphútTự Động sinh thành:/make/skill/makeski74
+18467|<O>| "HuyềnThiết đĩnh" : "\"/item/stuff/0013\"",
+18468|<O>| #define PF_NAME        "triều tịch Pháp BàoChế tạo"
+18469|<O>| notify("không thểmở Phóng Dĩ *, +, ? Kết vĩcủaＩＰ。");
+18470|<O>| "Hoàng Ngọc Thạch" : "\"/item/stuff/0075\"",
+18471|<O>| #define PF_NAME        "hoàn vụPhi PhongChế tạo"
+18472|<O>| result = result + HIR"30000Vàng、";
+18473|<O>| ESC "tôikhảo lự Thanh Sở\ntalk %x# qixi.3\n"
+18474|<O>| #define PF_NAME        "BạcTidàiHiaChế tạo"
+18475|<O>| #define PF_NAME        "nghê thườngngàyCânChế tạo"
+18476|<O>| else    return sprintf("Vàngcương\n");
+18477|<O>| else if (type == "fuse")	//sủng vậtHợp thành
+18478|<O>| else if (type == "free")	//sủng vậtGiải phóng
+18479|<O>| #define PF_NAME        "LongHồnHạng LiênChế tạo"
+18480|<O>| return "kéo dài1giờtrongbiến Thân vì Thương Hồn，Có thể nâng2%Giá trị né tránh。";
+18481|<O>| verb = get_verb();    // hoạch thủ Mệnh Lệnh Động từ

@@ -1,102 +1,102 @@
-﻿19185|<O>| "寒铁剑鞘" : "在诛仙阵四层杀剑魂可以得到寒铁剑鞘",
-19186|<O>| #define PF_NAME        "青铜冶炼"
-19187|<O>| HIR "ＧＭ说道:“大家都想你死，你就死一回吧！”");
-19188|<O>| f1 * 100 + f2 + 1,    // 询问任务
-19189|<O>| "僵尸符" : "\"/item/std/0413\"",
-19190|<O>| "回门符" : "\"/item/std/0408\"",
-19191|<O>| #define PF_NAME        "单刀直入"
-19192|<O>| return "机械小宠物，很可爱，但不会为你去战斗。";
-19193|<O>| log_file(LIST_LOG, "# 工匠\n");
-19194|<O>| "鸳鸯玉佩" : "\"/item/97/9754\"",
-19195|<O>| if (rate < 7000)		//物理攻击提升40点
-19196|<O>| "火凤之翼" : "\"/item/40/4079\"",
-19197|<O>| #define PF_NAME        "釜底抽薪"
-19198|<O>| "铁观音茶" : "\"/item/31/3105\"",
-19199|<O>| case 5: name3 = "工业";  break;
-19200|<O>| #define PF_NAME        "金针渡厄"
-19201|<O>| if ( tasktype == 4 )	//有任务时间的
-19202|<O>| "玉束髻" : "在天门阵一层杀守阵天兵可以得到玉束髻",
-19203|<O>| who->log_money("战备任务", gold);
-19204|<O>| result = result + "100000金钱";
-19205|<O>| #define PF_NAME        "战鼓轰鸣"
-19206|<O>| #define PF_NAME        "生命献礼"
-19207|<O>| return "木料制品，做辅助性物品使用，作出售品用";
-19208|<O>| cmd = "哇哇哇哇～～神仙爷爷只给了我很少礼物～～";
-19209|<O>| #define PF_NAME        "瘟疫散布"
-19210|<O>| case "禁卫军": flag = 3;  break;
-19211|<O>| "蛇" : "\"/item/stuff/0188\"",
-19212|<O>| return "任务物品。某个地区的人喜食的一种佐料。";
-19213|<O>| "“一万”" : "\"/item/37/3721\"",
-19214|<O>| #define PF_NAME        "倒行逆施"
-19215|<O>| ESC"同意\ntalk %x# welcome.8\n"
-19216|<O>| #define PF_NAME        "大海惊涛"
-19217|<O>| "“七条”" : "\"/item/37/3717\"",
-19218|<O>| #define PF_NAME        "使用信物"
-19219|<O>| "动物皮毛" : "\"/item/41/4106\"",
-19220|<O>| #define PF_NAME        "困魔法阵"
-19221|<O>| #define PF_NAME        "野性之力"
-19222|<O>| string ret_str   = "\n本活动每周";
-19223|<O>| "软筋散" : "\"/item/std/5215\"",
-19224|<O>| result += ESC "离开。\nCLOSE\n";
-19225|<O>| #define PF_NAME        "神将召唤"
-19226|<O>| tell_user(me, "这个位置已经有道具了。");
-19227|<O>| #define PF_NAME        "双龙夺珠"
-19228|<O>| #define PF_NAME        "银针渡厄"
-19229|<O>| #define PF_NAME        "护体金罡"
-19230|<O>| "“白板”" : "\"/item/37/3737\"",
-19231|<O>| "龙纹玉佩" : "\"/item/97/9750\"",
-19232|<O>| //	活动开始时执行的函数 -- 这里写死在爆装活动中了先
-19233|<O>| ESC "让我想想……要不先留着吧。\nCLOSE\n",
-19234|<O>| #define PF_NAME        "大海无量"
-19235|<O>| #define PF_NAME        "推开尸体"
-19236|<O>| #define PF_NAME        "护身毒环"
-19237|<O>| + sprintf(ESC"关闭\nparty 3\n")
-19238|<O>| #define PF_NAME        "蛟龙入海"
-19239|<O>| log_file(LIST_LOG, "# 君主\n");
-19240|<O>| set_walk_speed(3);     //移动速度
-19241|<O>| else if (rand < 9990)//随机初级法宝
-19242|<O>| who->add_gold_log("角色自杀", 0);
-19243|<O>| "象棋残局" : "\"/item/37/3791\"",
-19244|<O>| "王府信件" : "\"/item/38/3857\"",
-19245|<O>| #define PF_NAME        "雷霆一击"
-19246|<O>| "“二万”" : "\"/item/37/3722\"",
-19247|<O>| "“二筒”" : "\"/item/37/3702\"",
-19248|<O>| if (!me) return 2;    // 执行成功
-19249|<O>| "青铜古镜" : "\"/item/97/9771\"",
-19250|<O>| return "一种平价的布料，裁缝生活技能需要的材料";
-19251|<O>| #define PF_NAME        "精铁冶炼"
-19252|<O>| "象棋棋盘" : "\"/item/37/3790\"",
-19253|<O>| case 3: name3 = "渔业";  break;
-19254|<O>| #define PF_NAME        "瞬间移动"
-19255|<O>| "冰糖葫芦" : "\"/item/33/3325\"",
-19256|<O>| //		        cityname = "蜀岭峰";
-19257|<O>| "雀纹玉佩" : "\"/item/97/9753\"",
-19258|<O>| return "任务物品。魏国工匠想用来做床的原材料。";
-19259|<O>| f1 * 100 + f2 + 5,    // 完成任务
-19260|<O>| return "压制对方法宝，使其在一段时间内失去效用";
-19261|<O>| "葱" : "\"/item/stuff/0166\"",
-19262|<O>| private int iFavour;			// 人气度
-19263|<O>| if (item->get_name() == "阵旗")
-19264|<O>| #define PF_NAME        "金矿加工"
-19265|<O>| "“一筒”" : "\"/item/37/3701\"",
-19266|<O>| tmp = ESC "王捕头的任务。\n" + cmd3;
-19267|<O>| else info = "我马上就会重新上架一批货物。";
-19268|<O>| case 9: name3 = "宗教";  break;
-19269|<O>| //	进行活动 -- 中心时间调配器（本类的中心控制函数）
-19270|<O>| return "丢弃贵重物品，将无法完成运镖任务。\n";
-19271|<O>| "猴子尾巴" : "\"/item/40/4017\"",
-19272|<O>| "“五筒”" : "\"/item/37/3705\"",
-19273|<O>| who->log_money("军粮任务", gold);
-19274|<O>| case "vip_revive1":	//vip原地复活
-19275|<O>| MP->Point = point;    // 设满法力
-19276|<O>| who->log_money("薪水", salary);
-19277|<O>| "“六万”" : "\"/item/37/3726\"",
-19278|<O>| mp = SUB_MP;    // 小心准备 level
-19279|<O>| #define PF_NAME        "铁矿冶炼"
-19280|<O>| return "华丽洁白的布料，裁缝生活技能需要的材料";
-19281|<O>| tell_user(me, "虚拟活动场所生成成功！");
-19282|<O>| else if ( rate < 6080 )	//法力石
-19283|<O>| #define PF_NAME        "僵尸符法"
-19284|<O>| ESC"确定\ntalk %x# welcome.6\n"
-19285|<O>| notify("高级锻造石只能锻造4星或更高的装备。");
-19286|<O>| if (name == "完美玉心") continue;
+﻿19185|<O>| "Hàn Thiết Kiếm Tiêu" : "Ở tầng 4 Tru Tiên Trận giết Kiếm Hồn có thể nhận được Hàn Thiết Kiếm Tiêu",
+19186|<O>| #define PF_NAME        "Thanh Đồng Dã Luyện"
+19187|<O>| HIR "GM nói:"Ai cũng muốn ngươi chết, ngươi chết một lần đi!"");
+19188|<O>| f1 * 100 + f2 + 1,    // Hỏi nhiệm vụ
+19189|<O>| "Cương Thi Phù" : "\"/item/std/0413\"",
+19190|<O>| "Hồi Môn Phù" : "\"/item/std/0408\"",
+19191|<O>| #define PF_NAME        "Đơn Đao Trực Nhập"
+19192|<O>| return "Thú cưng cơ khí nhỏ, rất dễ thương, nhưng không chiến đấu cho bạn.";
+19193|<O>| log_file(LIST_LOG, "# Thợ thủ công\n");
+19194|<O>| "Uyên Ương Ngọc Bội" : "\"/item/97/9754\"",
+19195|<O>| if (rate < 7000)		//Tăng 40 điểm tấn công vật lý
+19196|<O>| "Hỏa Phượng Chi Dực" : "\"/item/40/4079\"",
+19197|<O>| #define PF_NAME        "Phủ Để Trừu Tân"
+19198|<O>| "Trà Thiết Quan Âm" : "\"/item/31/3105\"",
+19199|<O>| case 5: name3 = "Công Nghiệp";  break;
+19200|<O>| #define PF_NAME        "Kim Châm Độ Ách"
+19201|<O>| if ( tasktype == 4 )	//Có thời gian nhiệm vụ
+19202|<O>| "Ngọc Thúc Kế" : "Ở tầng 1 Thiên Môn Trận giết Thủ Trận Thiên Binh có thể nhận được Ngọc Thúc Kế",
+19203|<O>| who->log_money("Nhiệm vụ chiến bị", gold);
+19204|<O>| result = result + "100000 kim tiền";
+19205|<O>| #define PF_NAME        "Chiến Cổ Oanh Minh"
+19206|<O>| #define PF_NAME        "Sinh Mệnh Hiến Lễ"
+19207|<O>| return "Sản phẩm gỗ, dùng làm vật phẩm phụ trợ, dùng làm vật phẩm bán";
+19208|<O>| cmd = "Oa oa oa oa~~ Thần tiên ông ông chỉ cho cháu rất ít quà~~";
+19209|<O>| #define PF_NAME        "Ôn Dịch Tán Bố"
+19210|<O>| case "Cấm Vệ Quân": flag = 3;  break;
+19211|<O>| "Xà" : "\"/item/stuff/0188\"",
+19212|<O>| return "Vật phẩm nhiệm vụ. Một loại gia vị mà người dân một vùng nào đó thích ăn.";
+19213|<O>| ""Nhất Vạn"" : "\"/item/37/3721\"",
+19214|<O>| #define PF_NAME        "Đảo Hành Nghịch Thi"
+19215|<O>| ESC"Đồng ý\ntalk %x# welcome.8\n"
+19216|<O>| #define PF_NAME        "Đại Hải Kinh Đào"
+19217|<O>| ""Thất Điều"" : "\"/item/37/3717\"",
+19218|<O>| #define PF_NAME        "Sử Dụng Tín Vật"
+19219|<O>| "Động Vật Bì Mao" : "\"/item/41/4106\"",
+19220|<O>| #define PF_NAME        "Khốn Ma Pháp Trận"
+19221|<O>| #define PF_NAME        "Dã Tính Chi Lực"
+19222|<O>| string ret_str   = "\nHoạt động này mỗi tuần";
+19223|<O>| "Nhuyễn Cân Tán" : "\"/item/std/5215\"",
+19224|<O>| result += ESC "Rời khỏi.\nCLOSE\n";
+19225|<O>| #define PF_NAME        "Thần Tướng Triệu Hoán"
+19226|<O>| tell_user(me, "Vị trí này đã có đạo cụ rồi.");
+19227|<O>| #define PF_NAME        "Song Long Đoạt Châu"
+19228|<O>| #define PF_NAME        "Ngân Châm Độ Ách"
+19229|<O>| #define PF_NAME        "Hộ Thể Kim Cương"
+19230|<O>| ""Bạch Bản"" : "\"/item/37/3737\"",
+19231|<O>| "Long Văn Ngọc Bội" : "\"/item/97/9750\"",
+19232|<O>| //	Hàm thực thi khi hoạt động bắt đầu -- ở đây viết cứng trong hoạt động bạo trang trước
+19233|<O>| ESC "Để tôi nghĩ nghĩ……hay là cứ giữ lại vậy.\nCLOSE\n",
+19234|<O>| #define PF_NAME        "Đại Hải Vô Lượng"
+19235|<O>| #define PF_NAME        "Đẩy Khai Thi Thể"
+19236|<O>| #define PF_NAME        "Hộ Thân Độc Hoàn"
+19237|<O>| + sprintf(ESC"Đóng\nparty 3\n")
+19238|<O>| #define PF_NAME        "Giao Long Nhập Hải"
+19239|<O>| log_file(LIST_LOG, "# Quân chủ\n");
+19240|<O>| set_walk_speed(3);     //Tốc độ di chuyển
+19241|<O>| else if (rand < 9990)//Pháp bảo sơ cấp ngẫu nhiên
+19242|<O>| who->add_gold_log("Nhân vật tự sát", 0);
+19243|<O>| "Tượng Kỳ Tàn Cuộc" : "\"/item/37/3791\"",
+19244|<O>| "Vương Phủ Tín Kiện" : "\"/item/38/3857\"",
+19245|<O>| #define PF_NAME        "Lôi Đình Nhất Kích"
+19246|<O>| ""Nhị Vạn"" : "\"/item/37/3722\"",
+19247|<O>| ""Nhị Đồng"" : "\"/item/37/3702\"",
+19248|<O>| if (!me) return 2;    // Thực thi thành công
+19249|<O>| "Thanh Đồng Cổ Kính" : "\"/item/97/9771\"",
+19250|<O>| return "Một loại vải bình dân, nguyên liệu cần thiết cho kỹ năng sống thợ may";
+19251|<O>| #define PF_NAME        "Tinh Thiết Dã Luyện"
+19252|<O>| "Tượng Kỳ Kỳ Bàn" : "\"/item/37/3790\"",
+19253|<O>| case 3: name3 = "Ngư Nghiệp";  break;
+19254|<O>| #define PF_NAME        "Thuấn Gian Di Động"
+19255|<O>| "Băng Đường Hồ Lô" : "\"/item/33/3325\"",
+19256|<O>| //		        cityname = "Thục Lĩnh Phong";
+19257|<O>| "Tước Văn Ngọc Bội" : "\"/item/97/9753\"",
+19258|<O>| return "Vật phẩm nhiệm vụ. Nguyên liệu mà thợ thủ công nước Ngụy muốn dùng để làm giường.";
+19259|<O>| f1 * 100 + f2 + 5,    // Hoàn thành nhiệm vụ
+19260|<O>| return "Áp chế pháp bảo đối phương, khiến nó mất hiệu lực trong một khoảng thời gian";
+19261|<O>| "Hành" : "\"/item/stuff/0166\"",
+19262|<O>| private int iFavour;			// Độ nhân khí
+19263|<O>| if (item->get_name() == "Trận Kỳ")
+19264|<O>| #define PF_NAME        "Kim Khoáng Gia Công"
+19265|<O>| ""Nhất Đồng"" : "\"/item/37/3701\"",
+19266|<O>| tmp = ESC "Nhiệm vụ của Vương bộ đầu.\n" + cmd3;
+19267|<O>| else info = "Tôi sẽ lên kệ lại một lô hàng mới ngay.";
+19268|<O>| case 9: name3 = "Tôn Giáo";  break;
+19269|<O>| //	Tiến hành hoạt động -- Bộ điều phối thời gian trung tâm (hàm điều khiển trung tâm của lớp này)
+19270|<O>| return "Vứt bỏ vật phẩm quý giá, sẽ không thể hoàn thành nhiệm vụ vận tiêu.\n";
+19271|<O>| "Hầu Tử Vĩ Ba" : "\"/item/40/4017\"",
+19272|<O>| ""Ngũ Đồng"" : "\"/item/37/3705\"",
+19273|<O>| who->log_money("Nhiệm vụ quân lương", gold);
+19274|<O>| case "vip_revive1":	//VIP phục hoạt tại chỗ
+19275|<O>| MP->Point = point;    // Thiết lập đầy pháp lực
+19276|<O>| who->log_money("Lương Bổng", salary);
+19277|<O>| ""Lục Vạn"" : "\"/item/37/3726\"",
+19278|<O>| mp = SUB_MP;    // Cẩn thận chuẩn bị level
+19279|<O>| #define PF_NAME        "Thiết Khoáng Dã Luyện"
+19280|<O>| return "Vải hoa lệ trắng tinh, nguyên liệu cần thiết cho kỹ năng sống thợ may";
+19281|<O>| tell_user(me, "Tạo địa điểm hoạt động ảo thành công!");
+19282|<O>| else if ( rate < 6080 )	//Pháp Lực Thạch
+19283|<O>| #define PF_NAME        "Cương Thi Phù Pháp"
+19284|<O>| ESC"Xác nhận\ntalk %x# welcome.6\n"
+19285|<O>| notify("Đoạn tạo thạch cao cấp chỉ có thể đoạn tạo trang bị 4 sao trở lên.");
+19286|<O>| if (name == "Hoàn Mỹ Ngọc Tâm") continue;

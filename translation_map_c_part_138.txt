@@ -26,7 +26,7 @@
 2861|<O>| sprintf("%s:\n    Thật ra, Vương Mẫu Nương Nương đã sớm biết các ngươi sẽ tới tìm bà ấy, vì vậy nương nương đã để lại tiên đan. Chỉ cần các ngươi vượt qua khảo nghiệm là có thể có được tiên đan. Ngưu Lang Chức Nữ uống tiên đan vào, sau này sẽ được tự do. Mau đưa cho họ bằng lệnh "HIR"(ALT+G)"NOR" đi！\n"
 2862|<O>| "Thiên Thặng" : ({ 509, 201, 205 }), "Cao Đường" : ({ 508, 260, 154 }), "Lạc Lăng" : ({ 507, 55, 107 }), "Tức Mặc" : ({ 506, 63, 103 }),
 2863|<O>| write_user(who, ECHO "Kinh nghiệm quân quan của ngài +40, chính nghĩa +40, trung thực +1, dũng cảm +40, danh vọng +4, cống hiến quốc gia +1, tiền %+d, kinh nghiệm %+d, tiềm năng +4。", gold, exp);
-2864|<O>| ret += sprintf("%sHạng Liên Tuyết Điêu\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"雪雕项链"))?PPM:WHT);
+2864|<O>| ret += sprintf("%sHạng Liên Tuyết Điêu\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Tuyết Điêu Hạng Liên"))?PPM:WHT);
 2865|<O>| send_user( CHAT_D->get_chat(), "%c%s", 0xA3, sprintf(HIY+"%s người chơi đã nhận được phần thưởng hạng %d trong hoạt động tuyển chọn Tân Nhân Vương！",who->get_name(),level) );
 2866|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    Chàng bị bắt đi ngay trong đêm tân hôn của chúng ta, suốt tròn 10 năm, chúng ta không gặp lại nhau dù chỉ một lần. Chàng biết mà, ta vẫn luôn chờ chàng, cho đến khi chàng quay về。\n", get_name())
 2867|<O>| log_file("wu_duty.dat", sprintf("%s %s(%d) nhận tiền thuế %d\n", short_time(), who->get_id(), who->get_number(), duty));

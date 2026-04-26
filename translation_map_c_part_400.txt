@@ -1,105 +1,105 @@
-﻿19495|<O>| return "由美丽的圆珠串联成的项链，作出售品用";
-19496|<O>| #define PF_NAME        "变身术"
-19497|<O>| // 注释:1: 登录中；2: 登录成功；3: 准备就绪
-19498|<O>| return "任务物品。燕国大将军需要的一种武器。";
-19499|<O>| "逍遥散" : "\"/item/91/9162\"",
-19500|<O>| #define PF_NAME        "波动拳"
-19501|<O>| #define PF_NAME        "金钟罩"
-19502|<O>| "烤番薯" : "\"/item/33/3320\"",
-19503|<O>| else if (rate < 980)//Vip试用包
-19504|<O>| "螳螂臂" : "\"/item/40/4011\"",
-19505|<O>| case "云梦泽": dir = 79; break;
-19506|<O>| "安神丸" : "\"/item/91/9111\"",
-19507|<O>| ESC"确定\ntalk %x# bonus.19\n"
-19508|<O>| mpInfo["advance"] = 0;		//同级
-19509|<O>| #define PF_NAME        "天雷破"
-19510|<O>| ESC"离开", me->get_name(), id,
-19511|<O>| "小香炉" : "\"/item/34/3460\"",
-19512|<O>| return "老虎身上御寒防护之体肤，裁缝所需材料";
-19513|<O>| "“砲”" : "\"/item/37/3765\"",
-19514|<O>| ESC"确定\ntalk %x# bonus.11\n"
-19515|<O>| "行军散" : "\"/item/91/9100\"",
-19516|<O>| if (sex == "女") armor += 20;
-19517|<O>| SAY_CMD->say(me, "看我的千马奔腾");
-19518|<O>| return "使用后能使帮派的安定度增加1000。";
-19519|<O>| return "任务物品。传说生长千年的蚕所吐的丝。";
-19520|<O>| "海棠花" : "\"/item/30/3014\"",
-19521|<O>| "周天丹" : "\"/item/91/9161\"",
-19522|<O>| else if (rate < 9350)		//玉灵液
-19523|<O>| result = sprintf("目前的ＧＭ有:");
-19524|<O>| "救急丹" : "\"/item/91/9120\"",
-19525|<O>| #define PF_NAME        "飓风诀"
-19526|<O>| "小太极" : "\"/item/40/4074\"",
-19527|<O>| tmp = ESC "情人节巧克力。\n" + cmd;
-19528|<O>| #define PF_NAME        "苍龙诀"
-19529|<O>| return "任务物品。守卫的母亲治病需要的药材。";
-19530|<O>| #define PF_NAME        "大周天"
-19531|<O>| "金矿石" : "\"/item/41/4113\"",
-19532|<O>| mixed* func;					//	用户回调函数信息
-19533|<O>| return "任务物品。吕不韦送给赵姬的贵重物品。";
-19534|<O>| "大钳子" : "\"/item/40/4046\"",
-19535|<O>| ESC"确定\ntalk %x# bonus.21\n"
-19536|<O>| #define PF_NAME        "冰寰术"
-19537|<O>| #define PF_NAME        "清醒术"
-19538|<O>| printf(ECHO "不能对该目标使用疗伤术。");
-19539|<O>| "御风丹" : "\"/item/91/9172\"",
-19540|<O>| "“兵”" : "\"/item/37/3756\"",
-19541|<O>| sprintf("%s:\n    我要的灵药呢？\n"
-19542|<O>| #define PF_NAME        "术封印"
-19543|<O>| "“相”" : "\"/item/37/3752\"",
-19544|<O>| else if ( p < 40 )	//高物防低法防型
-19545|<O>| else if (p < 89)    // 残破藏宝图
-19546|<O>| ESC "测试号等级。(gm2)\n" + cmd1 +
-19547|<O>| ESC"确定\ntalk %x# bonus.25\n"
-19548|<O>| ESC "离开\nCLOSE\n", money) );
-19549|<O>| "小木桶" : "\"/item/34/3421\"",
-19550|<O>| #define PF_NAME        "封魔咒"
-19551|<O>| ESC "关闭\n%s\n", cmd2, cmd3);
-19552|<O>| nKind = ({"空手","暗器","五雷",});
-19553|<O>| "牡丹花" : "\"/item/30/3007\"",
-19554|<O>| return "一种用来保护自己的铁制品，作出售品用";
-19555|<O>| #define PF_NAME        "归元术"
-19556|<O>| SAY_CMD->say(me, "看我的金光法阵");
-19557|<O>| "红炎丹" : "\"/item/91/9174\"",
-19558|<O>| #define PF_NAME        "火龙诀"
-19559|<O>| "百合花" : "\"/item/30/3015\"",
-19560|<O>| else if ( level == 2 )	//二等奖
-19561|<O>| HIR "物理伤害" NOR "便会越低。\n    "
-19562|<O>| #define PF_NAME        "雷龙诀"
-19563|<O>| "造化丹" : "\"/item/91/9102\"",
-19564|<O>| who->log_money("商人", -gold);
-19565|<O>| else if (p < 90)    // 挖出藏宝图
-19566|<O>| return "任务物品。一种用玉石雕刻成的装饰品。";
-19567|<O>| else    notify("目前没有任何帮派。");
-19568|<O>| "烧刀子" : "\"/item/31/3153\"",
-19569|<O>| who->log_money("悍匪", money);
-19570|<O>| return "任务物品。公输班做盒子需要用的工具。";
-19571|<O>| "“車”" : "\"/item/37/3753\"",
-19572|<O>| "兔眼石" : "\"/item/40/4003\"",
-19573|<O>| result += sprintf(ESC "离开");
-19574|<O>| ESC"鞋子\nlearn "+arg+" 30\n";
-19575|<O>| "炒瓜子" : "\"/item/33/3323\"",
-19576|<O>| "补心丹" : "\"/item/91/9112\"",
-19577|<O>| "臭豆腐" : "\"/item/33/3322\"",
-19578|<O>| "竹蜻蜓" : "\"/item/49/4902\"",
-19579|<O>| DEBUG(sprintf("测试删除称谓成功 "));
-19580|<O>| case "茅山": flag = 5;  break;
-19581|<O>| case 1: type = "弓兵";  break;
-19582|<O>| #define PF_NAME        "强体术"
-19583|<O>| who->log_money("救人", point);
-19584|<O>| "想找京都镖局护送一批货物，可是他老人家竟然没空……",
-19585|<O>| return "用来束缚罪犯的一种钢制品，作出售品用";
-19586|<O>| "剧毒刺" : "\"/item/40/4038\"",
-19587|<O>| SAY_CMD->say(me, "看我的千里奔袭");
-19588|<O>| "“馬”" : "\"/item/37/3754\"",
-19589|<O>| #define PF_NAME        "烈风诀"
-19590|<O>| "左归丹" : "\"/item/91/9176\"",
-19591|<O>| "正气散" : "\"/item/91/9110\"",
-19592|<O>| return "任务物品。用来给楚国守卫御寒的衣服。";
-19593|<O>| else////随机金色精元丹 item/44/4489
-19594|<O>| return "蚂蚁寻找路所使用的触觉体，作出售品用";
-19595|<O>| "铁矿石" : "\"/item/41/4104\"",
-19596|<O>| interval = 20;    // 小心准备 me
-19597|<O>| ESC"确定\ntalk %x# bonus.29\n"
-19598|<O>| #define PF_NAME        "困魔术"
-19599|<O>| else if (rand < 6000)//放劫匪出来
+﻿19495|<O>| return "Chiếc vòng cổ được kết nối từ những viên ngọc tròn đẹp, dùng làm vật phẩm bán";
+19496|<O>| #define PF_NAME        "Biến Thân Thuật"
+19497|<O>| // Chú thích: 1: Đang đăng nhập; 2: Đăng nhập thành công; 3: Sẵn sàng
+19498|<O>| return "Vật phẩm nhiệm vụ. Một loại vũ khí mà Đại tướng quân nước Yên cần.";
+19499|<O>| "Tiêu Dao Tán" : "\"/item/91/9162\"",
+19500|<O>| #define PF_NAME        "Ba Động Quyền"
+19501|<O>| #define PF_NAME        "Kim Chung Tráo"
+19502|<O>| "Khảo Phiên Thự" : "\"/item/33/3320\"",
+19503|<O>| else if (rate < 980)//Gói dùng thử Vip
+19504|<O>| "Đường Lang Tý" : "\"/item/40/4011\"",
+19505|<O>| case "Vân Mộng Trạch": dir = 79; break;
+19506|<O>| "An Thần Hoàn" : "\"/item/91/9111\"",
+19507|<O>| ESC"Xác nhận\ntalk %x# bonus.19\n"
+19508|<O>| mpInfo["advance"] = 0;		//Cùng cấp
+19509|<O>| #define PF_NAME        "Thiên Lôi Phá"
+19510|<O>| ESC"Rời khỏi", me->get_name(), id,
+19511|<O>| "Tiểu Hương Lô" : "\"/item/34/3460\"",
+19512|<O>| return "Da lông chống rét trên thân hổ, nguyên liệu cần thiết cho thợ may";
+19513|<O>| ""Pháo"" : "\"/item/37/3765\"",
+19514|<O>| ESC"Xác nhận\ntalk %x# bonus.11\n"
+19515|<O>| "Hành Quân Tán" : "\"/item/91/9100\"",
+19516|<O>| if (sex == "Nữ") armor += 20;
+19517|<O>| SAY_CMD->say(me, "Xem chiêu Thiên Mã Bôn Đằng của ta");
+19518|<O>| return "Sau khi sử dụng có thể tăng độ an định của bang phái thêm 1000.";
+19519|<O>| return "Vật phẩm nhiệm vụ. Tơ do tằm ngàn năm truyền thuyết nhả ra.";
+19520|<O>| "Hải Đường Hoa" : "\"/item/30/3014\"",
+19521|<O>| "Chu Thiên Đan" : "\"/item/91/9161\"",
+19522|<O>| else if (rate < 9350)		//Ngọc Linh Dịch
+19523|<O>| result = sprintf("GM hiện tại có:");
+19524|<O>| "Cứu Cấp Đan" : "\"/item/91/9120\"",
+19525|<O>| #define PF_NAME        "Cự Phong Quyết"
+19526|<O>| "Tiểu Thái Cực" : "\"/item/40/4074\"",
+19527|<O>| tmp = ESC "Sô-cô-la ngày lễ Tình Nhân.\n" + cmd;
+19528|<O>| #define PF_NAME        "Thương Long Quyết"
+19529|<O>| return "Vật phẩm nhiệm vụ. Dược liệu cần thiết để chữa bệnh cho mẹ của lính canh.";
+19530|<O>| #define PF_NAME        "Đại Chu Thiên"
+19531|<O>| "Kim Khoáng Thạch" : "\"/item/41/4113\"",
+19532|<O>| mixed* func;					//	Thông tin hàm callback của người dùng
+19533|<O>| return "Vật phẩm nhiệm vụ. Vật phẩm quý giá mà Lã Bất Vi tặng cho Triệu Cơ.";
+19534|<O>| "Đại Kiềm Tử" : "\"/item/40/4046\"",
+19535|<O>| ESC"Xác nhận\ntalk %x# bonus.21\n"
+19536|<O>| #define PF_NAME        "Băng Hoàn Thuật"
+19537|<O>| #define PF_NAME        "Thanh Tỉnh Thuật"
+19538|<O>| printf(ECHO "Không thể sử dụng Liệu Thương Thuật lên mục tiêu này.");
+19539|<O>| "Ngự Phong Đan" : "\"/item/91/9172\"",
+19540|<O>| ""Binh"" : "\"/item/37/3756\"",
+19541|<O>| sprintf("%s:\n    Linh dược ta cần đâu?\n"
+19542|<O>| #define PF_NAME        "Thuật Phong Ấn"
+19543|<O>| ""Tướng"" : "\"/item/37/3752\"",
+19544|<O>| else if ( p < 40 )	//Loại phòng vật lý cao phòng phép thấp
+19545|<O>| else if (p < 89)    // Tàng Bảo Đồ tàn phá
+19546|<O>| ESC "Cấp độ tài khoản thử nghiệm. (gm2)\n" + cmd1 +
+19547|<O>| ESC"Xác nhận\ntalk %x# bonus.25\n"
+19548|<O>| ESC "Rời khỏi\nCLOSE\n", money) );
+19549|<O>| "Tiểu Mộc Thùng" : "\"/item/34/3421\"",
+19550|<O>| #define PF_NAME        "Phong Ma Chú"
+19551|<O>| ESC "Đóng\n%s\n", cmd2, cmd3);
+19552|<O>| nKind = ({"Không Thủ","Ám Khí","Ngũ Lôi",});
+19553|<O>| "Mẫu Đan Hoa" : "\"/item/30/3007\"",
+19554|<O>| return "Một loại sản phẩm sắt dùng để bảo vệ bản thân, dùng làm vật phẩm bán";
+19555|<O>| #define PF_NAME        "Quy Nguyên Thuật"
+19556|<O>| SAY_CMD->say(me, "Xem chiêu Kim Quang Pháp Trận của ta");
+19557|<O>| "Hồng Viêm Đan" : "\"/item/91/9174\"",
+19558|<O>| #define PF_NAME        "Hỏa Long Quyết"
+19559|<O>| "Bách Hợp Hoa" : "\"/item/30/3015\"",
+19560|<O>| else if ( level == 2 )	//Giải nhì
+19561|<O>| HIR "Sát thương vật lý" NOR "sẽ càng thấp.\n    "
+19562|<O>| #define PF_NAME        "Lôi Long Quyết"
+19563|<O>| "Tạo Hóa Đan" : "\"/item/91/9102\"",
+19564|<O>| who->log_money("Thương Nhân", -gold);
+19565|<O>| else if (p < 90)    // Đào ra Tàng Bảo Đồ
+19566|<O>| return "Vật phẩm nhiệm vụ. Một loại đồ trang sức được điêu khắc từ ngọc thạch.";
+19567|<O>| else    notify("Hiện tại không có bang phái nào.");
+19568|<O>| "Thiêu Đao Tử" : "\"/item/31/3153\"",
+19569|<O>| who->log_money("Hãn Phỉ", money);
+19570|<O>| return "Vật phẩm nhiệm vụ. Công cụ mà Công Thâu Ban cần để làm hộp.";
+19571|<O>| ""Xa"" : "\"/item/37/3753\"",
+19572|<O>| "Thố Nhãn Thạch" : "\"/item/40/4003\"",
+19573|<O>| result += sprintf(ESC "Rời khỏi");
+19574|<O>| ESC"Giày\nlearn "+arg+" 30\n";
+19575|<O>| "Sao Qua Tử" : "\"/item/33/3323\"",
+19576|<O>| "Bổ Tâm Đan" : "\"/item/91/9112\"",
+19577|<O>| "Xú Đậu Hủ" : "\"/item/33/3322\"",
+19578|<O>| "Trúc Thanh Đình" : "\"/item/49/4902\"",
+19579|<O>| DEBUG(sprintf("Thử nghiệm xóa danh hiệu thành công "));
+19580|<O>| case "Mao Sơn": flag = 5;  break;
+19581|<O>| case 1: type = "Cung Binh";  break;
+19582|<O>| #define PF_NAME        "Cường Thể Thuật"
+19583|<O>| who->log_money("Cứu Người", point);
+19584|<O>| "Muốn tìm Kinh Đô Tiêu Cục hộ tống một lô hàng hóa, nhưng cụ ấy lại không rảnh……",
+19585|<O>| return "Một loại sản phẩm thép dùng để trói buộc tội phạm, dùng làm vật phẩm bán";
+19586|<O>| "Kịch Độc Thích" : "\"/item/40/4038\"",
+19587|<O>| SAY_CMD->say(me, "Xem chiêu Thiên Lý Bôn Tập của ta");
+19588|<O>| ""Mã"" : "\"/item/37/3754\"",
+19589|<O>| #define PF_NAME        "Liệt Phong Quyết"
+19590|<O>| "Tả Quy Đan" : "\"/item/91/9176\"",
+19591|<O>| "Chính Khí Tán" : "\"/item/91/9110\"",
+19592|<O>| return "Vật phẩm nhiệm vụ. Quần áo dùng để giữ ấm cho lính canh nước Sở.";
+19593|<O>| else////Kim Sắc Tinh Nguyên Đan ngẫu nhiên item/44/4489
+19594|<O>| return "Cơ quan xúc giác mà kiến sử dụng để tìm đường, dùng làm vật phẩm bán";
+19595|<O>| "Thiết Khoáng Thạch" : "\"/item/41/4104\"",
+19596|<O>| interval = 20;    // Cẩn thận chuẩn bị me
+19597|<O>| ESC"Xác nhận\ntalk %x# bonus.29\n"
+19598|<O>| #define PF_NAME        "Khốn Ma Thuật"
+19599|<O>| else if (rand < 6000)//Thả cướp ra

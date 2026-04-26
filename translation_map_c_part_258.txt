@@ -1,59 +1,59 @@
-﻿8724|<O>| /*              else if( p < 430000 * rate / 100 )    // 杂物５
-8725|<O>| /*              else if( p < 740000 * rate / 100 )    // 杂物５
-8726|<O>| || get_effect(who, EFFECT_CHAR_LAZY_0)) return 2;    // 执行成功
-8727|<O>| if (!item) item = new ("item/mop/9001");		//紫金钥匙、红木钥匙、青铜钥匙各1
-8728|<O>| return desc = "给召唤兽食用的一种果子，每食用一次，宠物寿命增加\n当前寿命的50，并且有1％几率中毒";
-8729|<O>| /*              else if( p < 970000 * rate / 100 )    // 杂物５
-8730|<O>| /*              else if( p < 850000 * rate / 100 )    // 杂物５
-8731|<O>| /*              else if( p < 270016 * rate / 100 )    // 杂物５
-8732|<O>| if( get_effect(who, EFFECT_CHAR_CHAN) ) return 2;    // 执行成功
-8733|<O>| "禁卫军" : ([	60: ({1266,"Nhân hình","Cường tráng","Vũ khí",}),
-8734|<O>| || get_effect(who, EFFECT_CHAR_SLOW_0)) return 2;    // 执行成功
-8735|<O>| if (objectp(owner = this_object()->get_owner())    // 停止主人攻击
-8736|<O>| result = sprintf("%s:\n    您需要放弃哪些生活技能？\n", me->get_name());
-8737|<O>| /*              else if( p < 800000 * rate / 100 )    // 杂物５
-8738|<O>| private static int HitRate;                     // 命中率("!%")
-8739|<O>| /*              else if( p < 590000 * rate / 100 )    // 杂物５
-8740|<O>| send_user(who, "%c%s", ';', "浑仪（2） 经验 4000 潜能 140 金钱 2800");
-8741|<O>| if( gone_time( me->get_fight_time() ) > 110 )    // 110 秒打不死
-8742|<O>| private class Health MP = new(class Health);  // 法力点数(Magic)
-8743|<O>| send_user(who, "%c%s", ';', "无耻的叛徒 经验 7000 潜能 280 金钱 7000");
-8744|<O>| send_user(who, "%c%s", ';', "程风的烦恼 经验 4800 潜能 170 金钱 4200");
-8745|<O>| send_user(who, "%c%s", ';', sprintf("老村长的委托 经验 200 潜能 10"));
-8746|<O>| return "王母娘娘赐予牛郎的仙丹。\n只要将仙丹"HIR"给予(Alt+G)"NOR"牛郎，他们就可以自由了。";
-8747|<O>| set_effect_2(pet, EFFECT_CHAR_INVISIBLE, 1, 1);    // 隐身(中断)
-8748|<O>| tell_user(me, "设置%s(%x#)完成。", who->get_name(), getoid(who));
-8749|<O>| send_user(who, "%c%s", ';', "丢失的竹简 经验 3500 潜能 120 金钱 3000");
-8750|<O>| return HIR + PF_NAME + "\n技能需求:3级\n    将自己30点的气血转换为45点法术力。";
-8751|<O>| send_user(who, "%c%s", ';', "您所获得的经验，将会超过您的经验上限，请处理您的经验！！");
-8752|<O>| //	        	send_user(who, "%c%c%w%s", 0x5a, 0, 6, "传送中……");
-8753|<O>| if (objectp(npc = me->get(sprintf("guard%d", i))))//如果宠物存在的话
-8754|<O>| else if (rate < 9400 * rate1 / 100)		//紫参丹3个:50% 2张普通藏宝图:50%
-8755|<O>| /*              else if( p < 610000 * rate / 100 )    // 杂物５
-8756|<O>| /*              else if( p < 880000 * rate / 100 )    // 杂物５
-8757|<O>| if (me->get_fam_name() == "桃花源" && me->get_perform("03191"))
-8758|<O>| /*              else if( p < 990000 * rate / 100 )    // 杂物５
-8759|<O>| /*              else if( p < 180000 * rate / 100 )    // 杂物５
-8760|<O>| /*              else if( p < 860000 * rate / 100 )    // 杂物５
-8761|<O>| send_user(who, "%c%c%c%w%s", 0x51, 2, 1, TID_MAOSHAN, "茅山");
-8762|<O>| /*              else if( p < 950000 * rate / 100 )    // 杂物５
-8763|<O>| /*              else if( p < 750000 * rate / 100 )    // 杂物５
-8764|<O>| /*              else if( p < 290000 * rate / 100 )    // 杂物５
-8765|<O>| send_user(who, "%c%s", ';', "宫殿图纸 经验 12000 潜能 330 金钱 9500");
-8766|<O>| DEBUG(sprintf("%s　重新排序-->id=%d,pos=%d i=%d",type,id,pos,i));
-8767|<O>| private static mapping mpLoop = ([]);          // 特殊技数据集(持续)
-8768|<O>| /*              else if( p < 700000 * rate / 100 )    // 杂物５
-8769|<O>| send_user(me, "%c%c%w%w%s", 0x60, 4, get_number(), 7, "背包");
-8770|<O>| /*              else if( p < 840000 * rate / 100 )    // 杂物５
-8771|<O>| send_user(who, "%c%s", ';', "头疼的毛病（1） 经验 650 潜能 20 金钱 500");
-8772|<O>| /*              else if( p < 360000 * rate / 100 )    // 杂物５
-8773|<O>| tell_user(me, "您给%s增加了%d小时的双倍时间。", who->get_name(), iHours);
-8774|<O>| /*              else if( p < 280016 * rate / 100 )    // 杂物５
-8775|<O>| /*              else if( p < 620000 * rate / 100 )    // 杂物５
-8776|<O>| if (me->get_fam_name() == "蜀山" && me->get_perform("02222#"))
-8777|<O>| /*              else if( p < 120010 * rate / 100 )    // 杂物５
-8778|<O>| /*              else if( p < 500000 * rate / 100 )    // 杂物５
-8779|<O>| /*              else if( p < 200014 * rate / 100 )    // 杂物５
-8780|<O>| /*              else if( p < 960000 * rate / 100 )    // 杂物５
-8781|<O>| /*              else if( p < 180014 * rate / 100 )    // 杂物５
-8782|<O>| /*              else if( p < 490000 * rate / 100 )    // 杂物５
+﻿8724|<O>| /*              else if( p < 430000 * rate / 100 )    // Tạp vật５
+8725|<O>| /*              else if( p < 740000 * rate / 100 )    // Tạp vật５
+8726|<O>| || get_effect(who, EFFECT_CHAR_LAZY_0)) return 2;    // thực hiện thành công
+8727|<O>| if (!item) item = new ("item/mop/9001");		//TửVàngchìa thì、HồngMộcchìa thì、ThanhĐồngchìa thì các1
+8728|<O>| return desc = "choTriệu hồithú Thực dùngcủaMột loạiQuả Tử，mỗiThực dùng Nhấtlần，sủng vậtthọ MệnhTăng\nđươngtrướcthọ Mệnhcủa50，tịnh thảCó1％mấy suấtgiữaĐộc";
+8729|<O>| /*              else if( p < 970000 * rate / 100 )    // Tạp vật５
+8730|<O>| /*              else if( p < 850000 * rate / 100 )    // Tạp vật５
+8731|<O>| /*              else if( p < 270016 * rate / 100 )    // Tạp vật５
+8732|<O>| if( get_effect(who, EFFECT_CHAR_CHAN) ) return 2;    // thực hiện thành công
+8733|<O>| "Cấm Vệ Quân" : ([	60: ({1266,"Nhân hình","Cường tráng","Vũ khí",}),
+8734|<O>| || get_effect(who, EFFECT_CHAR_SLOW_0)) return 2;    // thực hiện thành công
+8735|<O>| if (objectp(owner = this_object()->get_owner())    // đình chỉ chủ NhânTấn công
+8736|<O>| result = sprintf("%s:\n    BạncầnTừ bỏnàota sinh hoạtKỹ năng？\n", me->get_name());
+8737|<O>| /*              else if( p < 800000 * rate / 100 )    // Tạp vật５
+8738|<O>| private static int HitRate;                     // Mệnhgiữasuất("!%")
+8739|<O>| /*              else if( p < 590000 * rate / 100 )    // Tạp vật５
+8740|<O>| send_user(who, "%c%s", ';', "hồn Nghi（2） Kinh nghiệm 4000 Tiềm năng 140 Tiền vàng 2800");
+8741|<O>| if( gone_time( me->get_fight_time() ) > 110 )    // 110 giâyĐảkhôngTử
+8742|<O>| private class Health MP = new(class Health);  // Pháp Lựcđiểmsố(Magic)
+8743|<O>| send_user(who, "%c%s", ';', "vô sỉcủaphản đồ Kinh nghiệm 7000 Tiềm năng 280 Tiền vàng 7000");
+8744|<O>| send_user(who, "%c%s", ';', "trìnhPhongcủaphiền não Kinh nghiệm 4800 Tiềm năng 170 Tiền vàng 4200");
+8745|<O>| send_user(who, "%c%s", ';', sprintf("Lão thôndàicủaủy thác Kinh nghiệm 200 Tiềm năng 10"));
+8746|<O>| return "Vương mẫu Nương Nương tứ dư Ngưu langcủaTiênĐơn。\nchỉcầnTướngTiênĐơn"HIR"chodư(Alt+G)"NOR"Ngưu lang，hắnliềncó thểTự do。";
+8747|<O>| set_effect_2(pet, EFFECT_CHAR_INVISIBLE, 1, 1);    // Ẩn Thân(giữađoạn)
+8748|<O>| tell_user(me, "thiết trí%s(%x#)Hoàn thành。", who->get_name(), getoid(who));
+8749|<O>| send_user(who, "%c%s", ';', "mất thấtcủaTrúc giản Kinh nghiệm 3500 Tiềm năng 120 Tiền vàng 3000");
+8750|<O>| return HIR + PF_NAME + "\nKỹ năng yêu cầu:3cấp\n    Tướngbản thân30điểmcủaKhí Huyếtchuyển hoán vì45điểm Pháp thuật lực。";
+8751|<O>| send_user(who, "%c%s", ';', "Bạn sở hoạch đượccủaKinh nghiệm，TướngsẽSiêu qua BạncủaKinh nghiệmtrênhạn，Xin xử lý BạncủaKinh nghiệm！！");
+8752|<O>| //	        	send_user(who, "%c%c%w%s", 0x5a, 0, 6, "Truyền tốnggiữa……");
+8753|<O>| if (objectp(npc = me->get(sprintf("guard%d", i))))//Nếusủng vậttồnTạicủathoại
+8754|<O>| else if (rate < 9400 * rate1 / 100)		//Tử Sâm Đơn3:50% 2Trương phổ thôngTàng Bảo Đồ:50%
+8755|<O>| /*              else if( p < 610000 * rate / 100 )    // Tạp vật５
+8756|<O>| /*              else if( p < 880000 * rate / 100 )    // Tạp vật５
+8757|<O>| if (me->get_fam_name() == "Đào Hoa Nguyên" && me->get_perform("03191"))
+8758|<O>| /*              else if( p < 990000 * rate / 100 )    // Tạp vật５
+8759|<O>| /*              else if( p < 180000 * rate / 100 )    // Tạp vật５
+8760|<O>| /*              else if( p < 860000 * rate / 100 )    // Tạp vật５
+8761|<O>| send_user(who, "%c%c%c%w%s", 0x51, 2, 1, TID_MAOSHAN, "Mao Sơn");
+8762|<O>| /*              else if( p < 950000 * rate / 100 )    // Tạp vật５
+8763|<O>| /*              else if( p < 750000 * rate / 100 )    // Tạp vật５
+8764|<O>| /*              else if( p < 290000 * rate / 100 )    // Tạp vật５
+8765|<O>| send_user(who, "%c%s", ';', "Cung điện Đồ chỉ Kinh nghiệm 12000 Tiềm năng 330 Tiền vàng 9500");
+8766|<O>| DEBUG(sprintf("%s　trọngmớibài tự-->id=%d,pos=%d i=%d",type,id,pos,i));
+8767|<O>| private static mapping mpLoop = ([]);          // đặc thù kỹdữ liệutập(kéo dài)
+8768|<O>| /*              else if( p < 700000 * rate / 100 )    // Tạp vật５
+8769|<O>| send_user(me, "%c%c%w%w%s", 0x60, 4, get_number(), 7, "bối bao");
+8770|<O>| /*              else if( p < 840000 * rate / 100 )    // Tạp vật５
+8771|<O>| send_user(who, "%c%s", ';', "chứng bệnh đau đầu（1） Kinh nghiệm 650 Tiềm năng 20 Tiền vàng 500");
+8772|<O>| /*              else if( p < 360000 * rate / 100 )    // Tạp vật５
+8773|<O>| tell_user(me, "Bạncho%sTăng%dgiờcủasong bộigiờgian。", who->get_name(), iHours);
+8774|<O>| /*              else if( p < 280016 * rate / 100 )    // Tạp vật５
+8775|<O>| /*              else if( p < 620000 * rate / 100 )    // Tạp vật５
+8776|<O>| if (me->get_fam_name() == "Thục Sơn" && me->get_perform("02222#"))
+8777|<O>| /*              else if( p < 120010 * rate / 100 )    // Tạp vật５
+8778|<O>| /*              else if( p < 500000 * rate / 100 )    // Tạp vật５
+8779|<O>| /*              else if( p < 200014 * rate / 100 )    // Tạp vật５
+8780|<O>| /*              else if( p < 960000 * rate / 100 )    // Tạp vật５
+8781|<O>| /*              else if( p < 180014 * rate / 100 )    // Tạp vật５
+8782|<O>| /*              else if( p < 490000 * rate / 100 )    // Tạp vật５

@@ -25,7 +25,7 @@
 3657|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nTiêu hao pháp lực:%d điểm\nThời gian hồi:%d giây\n    Kỹ năng tức thì di chuyển, có thể tức thì di chuyển tới vị trí chỉ định trong phạm vi tầm nhìn。",
 3658|<O>| return "Nhìn bề ngoài thế nào cũng chỉ là một cây búa gỗ bình thường, nhưng bên trong lại ẩn chứa ma lực kỳ dị。\n（Kéo thả chùy ma lực lên trang bị mục tiêu là có thể sử dụng）\nCó thể sửa chữa giới hạn độ bền vốn có của trang bị chỉ định，\nđồng thời không gây bất kỳ tổn hao nào cho trang bị。";
 3659|<O>| CHAT_D->sys_channel(0,HIR"Ầm～ một tiếng, người truyền tống thám hiểm cổ mộ（Chu:276，163）lại ngủ mất rồi, hoạt động thám hiểm cổ mộ hôm nay kết thúc rồi! Hoan nghênh mọi người ngày mai đúng giờ này tiếp tục nhiệt tình tham gia thám hiểm cổ mộ！");
-3660|<O>| ret += sprintf("%sNến\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"蜡烛"))?PPM:WHT);
+3660|<O>| ret += sprintf("%sNến\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Lạp Chúc"))?PPM:WHT);
 3661|<O>| send_user(me, "%c%c%d%d%s", '?', 2, amount, value2, sprintf("Đơn giá của %s là %d vàng, ngài dự định bán ra bao nhiêu？(thuế %d%%)\n"
 3662|<O>| short_time_2(), who->get_acountid(), MAIN_D->get_region(), MAIN_D->get_host()));    // Khấu phí！
 3663|<O>| send_user( who, "%c%c%w%s", ':',3,picid,name+":\n    Vị sư đệ này, chỉ tiêu tranh cử trong tuần này đã đầy, ngươi hãy đợi tham gia tranh cử thủ tịch đại đệ tử vào tuần sau đi！\n"+

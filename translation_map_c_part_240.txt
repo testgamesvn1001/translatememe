@@ -1,57 +1,57 @@
-﻿7683|<O>| if (get_effect(who, EFFECT_CHAR_SUPPRESS)) return 1;    // 已被压制
-7684|<O>| "郭开120" : ({ 760000,  760000, 1200,  990, 1200,  940,  660, }),
-7685|<O>| private static int HitRate2;                    // 法术命中率("c!%")
-7686|<O>| send_user(who, "%c%c%c%w%s", 0x51, 1, 1, TID_YUANFEN, "缘分对对碰");
-7687|<O>| send_user(who, "%c%s", ';', "破除谣言3 经验 93000 潜能 1350 金钱 86000");
-7688|<O>| send_user(who, "%c%s", ';', "你用一只花球兑换了“一小时内增加法术攻击力100点”的临时效果");
-7689|<O>| "廉颇60" : ({ 1000000, 1000000,  700,  560,  650,  510,  300, }),
-7690|<O>| string* nFamily = ({ "桃花源","蜀山","禁卫军","唐门","茅山","昆仑山","云梦泽" });
-7691|<O>| send_user(who, "%c%s", ';', "买椟还珠 经验 650 潜能 50 金钱 1000 正气散 3");
-7692|<O>| tmp = sprintf(ESC HIY "英雄梦\ntalk %x# welcome.1\n", getoid(me));
-7693|<O>| tmp += sprintf(ESC HIY "单刀\ntalk %x# welcome.7\n", getoid(me));
-7694|<O>| tmp += sprintf(ESC HIY "狗血\ntalk %x# welcome.1\n", getoid(me));
-7695|<O>| printf(ECHO "您获得%d个%s。", item->get_amount(), item->get_name());
-7696|<O>| tmp += sprintf(ESC HIY "恶灵\ntalk %x# welcome.1\n", getoid(me));
-7697|<O>| int add_boss(object who,int z,int x,int y,int level)  //加入大boss
-7698|<O>| send_user(who, "%c%c%c%w%s", 0x51, 1, 1, TID_CRIMINAL, "挖宝任务");
-7699|<O>| HIY"点击右键可以返还济世葫芦", get("jishihulu.exp"), get("jishihulu.limit")
-7700|<O>| send_user(me, "%c%c%d%s", '?', 16, 40, sprintf("请输入帮派争霸的序列号:\n"
-7701|<O>| 10: ({"单刀","铁矛","追风剑","寒铁棍","青藤拳套","碎石子","翠木剑","水木剑","云木剑",}),
-7702|<O>| send_user(who, "%c%s", ';', "询问原由 经验 89000 潜能 1500 金钱 81000");
-7703|<O>| set_effect(who, EFFECT_CHAR_LAZY, ADD_INTERVAL);    // 小心准备 me
-7704|<O>| private static int LessProp;                    // 免装备条件("#%")
-7705|<O>| result += sprintf(ESC "确定\ntalk %x# welcome.1\n", getoid(me));
-7706|<O>| printf(ECHO "%s不收你的%s。", who->get_name(), obj[i]->get_name());
-7707|<O>| 55  : ([ "file":"/npc/copy/0105","attr":({"亡灵","厉害","五雷"}) ]),
-7708|<O>| send_user(who, "%c%s", ';', "姻缘之路3 经验 75000 潜能 940 金钱 66000");
-7709|<O>| 50  : ([ "file":"/npc/copy/0104","attr":({"亡灵","厉害","空手"}) ]),
-7710|<O>| "赵括80" : ({ 432000,  432000,  850,  670,  800,  620,  420, }),
-7711|<O>| "Intel(R) Xeon(TM) CPU 2.80GHz i386da3d04e0e081444f58",		// 泰山
-7712|<O>| "/quest/zg_dict"->player_can_be_gala(me, 1);	//	给予玩家战国宝典以及摇奖机会
-7713|<O>| send_user(who, "%c%s", ';', "铲除祸源 经验 79000 潜能 1100 金钱 70000");
-7714|<O>| send_user(me, "%c%c%w%w%s", 0x60, 4, get_number(), 1, "酒食制作");
-7715|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 1, 2, 0001, 1, "双倍时间" );
-7716|<O>| send_user(who, "%c%s", ';', "试探实力 经验 92000 潜能 1400 金钱 82000");
-7717|<O>| send_user(who, "%c%s", ';', "害人的水鬼 经验 25000 潜能 430 金钱 23000");
-7718|<O>| return sprintf(HIR + desc + "\n"HIR"使用要求 %d 级", get("level"));
-7719|<O>| result = sprintf("你消灭了%s，为帮派获得了%d个木材。", me->get_name(), drop);
-7720|<O>| send_user(who, "%c%s", ';', "你用一只红球兑换了“一小时内增加气血上限200点”的临时效果");
-7721|<O>| private static int PerformTime;         // 特殊技准备时间(用于聚气超时扣减法力)
-7722|<O>| id = get_save_2(sprintf("record.%d",index));//找到index位置所对应的id.
-7723|<O>| id1=get_save_2(sprintf("%s.pos.%d",type,size));//取最后一个位置上玩家的ID
-7724|<O>| //                        notify( "%s忙碌中。", who->get_name() );
-7725|<O>| send_user(who, "%c%s", ';', "王之号角的雕琢 经验 3000 潜能 100 金钱 2500");
-7726|<O>| send_user(who, "%c%s", ';', "刀魂传说1 经验 82000 潜能 980 金钱 68000");
-7727|<O>| result = sprintf(get_name() + ":\n 你需要传送出去吗？我可以帮你送出这是非之地！\n");
-7728|<O>| send_user(who, "%c%s", ';', "收集机关构件 经验 12800 潜能 500 金钱 9600");
-7729|<O>| if( objectp( item = present("忘情婆婆要的梳子", who, 1, MAX_CARRY) ) )
-7730|<O>| send_user(who, "%c%s", ';', "游魂（2） 经验 12000 潜能 215 金钱 11000");
-7731|<O>| "乐乘60" : ({ 400000,  400000,  600,  510,  600,  460,  300, }),
-7732|<O>| send_user(who, "%c%s", ';', "打探下落 经验 91000 潜能 1600 金钱 83000");
-7733|<O>| send_user(who, "%c%s", ';', "买椟还珠 经验 800 潜能 30 金钱 1500 木盒 1");
-7734|<O>| private static int AbsorbMP;                    // 吸取法力("mp*")
-7735|<O>| if (objectp(npc = me->get_quest("escort.robber#"))    // 寻找蒙面人
-7736|<O>| tmp = sprintf(ESC + HIY + "稻草人的委托\ntalk %x# welcome.1\n", id);
-7737|<O>| 35  : ([ "file":"/npc/copy/0101","attr":({"亡灵","厉害","空手"}) ]),
-7738|<O>| tmp += sprintf(ESC + HIY + "丢失的手镯\ntalk %x# welcome.1\n", id);
-7739|<O>| send_user(who, "%c%s", ';', "情锁秦宫（2） 经验 4200 潜能 130 金钱 3500");
+﻿7683|<O>| if (get_effect(who, EFFECT_CHAR_SUPPRESS)) return 1;    // đãbịáp chế
+7684|<O>| "Quách mở120" : ({ 760000,  760000, 1200,  990, 1200,  940,  660, }),
+7685|<O>| private static int HitRate2;                    // Pháp Thuật Mệnhgiữasuất("c!%")
+7686|<O>| send_user(who, "%c%c%c%w%s", 0x51, 1, 1, TID_YUANFEN, "Duyênphútđối vớiđối vớibằng");
+7687|<O>| send_user(who, "%c%s", ';', "Phá Trừ Dao Ngôn3 Kinh nghiệm 93000 Tiềm năng 1350 Tiền vàng 86000");
+7688|<O>| send_user(who, "%c%s", ';', "bạndùng NhấtchỉHoa cầu đổi hoán“NhấtgiờtrongTăngLực tấn công phép thuật100điểm”củalâmgiờhiệu Quả");
+7689|<O>| "liêm phả60" : ({ 1000000, 1000000,  700,  560,  650,  510,  300, }),
+7690|<O>| string* nFamily = ({ "Đào Hoa Nguyên","Thục Sơn","Cấm Vệ Quân","Đường Môn","Mao Sơn","Côn Lôn Sơn","Vân Mộng Trạch" });
+7691|<O>| send_user(who, "%c%s", ';', "Mua Độc Hoàn Châu Kinh nghiệm 650 Tiềm năng 50 Tiền vàng 1000 chính khí tán 3");
+7692|<O>| tmp = sprintf(ESC HIY "Anh Hùng Mộng\ntalk %x# welcome.1\n", getoid(me));
+7693|<O>| tmp += sprintf(ESC HIY "Đơn Đao\ntalk %x# welcome.7\n", getoid(me));
+7694|<O>| tmp += sprintf(ESC HIY "cẩu Huyết\ntalk %x# welcome.1\n", getoid(me));
+7695|<O>| printf(ECHO "Bạn nhận được%d%s。", item->get_amount(), item->get_name());
+7696|<O>| tmp += sprintf(ESC HIY "Ác Linh\ntalk %x# welcome.1\n", getoid(me));
+7697|<O>| int add_boss(object who,int z,int x,int y,int level)  //Gia Nhậplớnboss
+7698|<O>| send_user(who, "%c%c%c%w%s", 0x51, 1, 1, TID_CRIMINAL, "đào BảoNhiệm vụ");
+7699|<O>| HIY"điểmkíchphảikiệncó thểphảncòntế Thế hồ lô", get("jishihulu.exp"), get("jishihulu.limit")
+7700|<O>| send_user(me, "%c%c%d%s", '?', 16, 40, sprintf("Xin thâu Nhậpbang pháitranh Bácủatự liệt hiệu:\n"
+7701|<O>| 10: ({"Đơn Đao","Sắtmâu","truyPhongKiếm","HànSắtCôn","Thanh đằng Quyền bộ","toái Thạch Tử","ThúyMộcKiếm","ThủyMộcKiếm","VânMộcKiếm",}),
+7702|<O>| send_user(who, "%c%s", ';', "tuần hỏi nguyên do Kinh nghiệm 89000 Tiềm năng 1500 Tiền vàng 81000");
+7703|<O>| set_effect(who, EFFECT_CHAR_LAZY, ADD_INTERVAL);    // cẩn thận chuẩn bị me
+7704|<O>| private static int LessProp;                    // MiễnTrang bịđiềukiện("#%")
+7705|<O>| result += sprintf(ESC "Xác nhận\ntalk %x# welcome.1\n", getoid(me));
+7706|<O>| printf(ECHO "%skhôngThubạncủa%s。", who->get_name(), obj[i]->get_name());
+7707|<O>| 55  : ([ "file":"/npc/copy/0105","attr":({"Vong Linh","lợi hại","NgũLôi"}) ]),
+7708|<O>| send_user(who, "%c%s", ';', "Nhân Duyên Chi Lộ3 Kinh nghiệm 75000 Tiềm năng 940 Tiền vàng 66000");
+7709|<O>| 50  : ([ "file":"/npc/copy/0104","attr":({"Vong Linh","lợi hại","Không Thủ"}) ]),
+7710|<O>| "Triệu quát80" : ({ 432000,  432000,  850,  670,  800,  620,  420, }),
+7711|<O>| "Intel(R) Xeon(TM) CPU 2.80GHz i386da3d04e0e081444f58",		// thái Sơn
+7712|<O>| "/quest/zg_dict"->player_can_be_gala(me, 1);	//	chodưNgười chơiChiến QuốcBảo Điểnvàdao thưởng cơsẽ
+7713|<O>| send_user(who, "%c%s", ';', "sản trừ họa Nguyên Kinh nghiệm 79000 Tiềm năng 1100 Tiền vàng 70000");
+7714|<O>| send_user(me, "%c%c%w%w%s", 0x60, 4, get_number(), 1, "Tửu ThựcChế tạo");
+7715|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 1, 2, 0001, 1, "song bộigiờgian" );
+7716|<O>| send_user(who, "%c%s", ';', "thử Thám thực Lực Kinh nghiệm 92000 Tiềm năng 1400 Tiền vàng 82000");
+7717|<O>| send_user(who, "%c%s", ';', "hại NhâncủaThủyQuỷ Kinh nghiệm 25000 Tiềm năng 430 Tiền vàng 23000");
+7718|<O>| return sprintf(HIR + desc + "\n"HIR"Sử dụngcầncầu %d cấp", get("level"));
+7719|<O>| result = sprintf("bạntiêu Diệt%s，vìbang pháihoạch được%dMộc tài。", me->get_name(), drop);
+7720|<O>| send_user(who, "%c%s", ';', "bạndùng NhấtchỉHồng cầu đổi hoán“NhấtgiờtrongTăngKhí Huyếttrênhạn200điểm”củalâmgiờhiệu Quả");
+7721|<O>| private static int PerformTime;         // đặc thù kỹ chuẩn bịgiờgian(dùng vu Tụ khí Siêugiờkhấu giảmPháp Lực)
+7722|<O>| id = get_save_2(sprintf("record.%d",index));//tìmđếnindexvị trí sởđối vớiứngcủaid.
+7723|<O>| id1=get_save_2(sprintf("%s.pos.%d",type,size));//thủ tốisauNhất vị trítrênNgười chơicủaID
+7724|<O>| //                        notify( "%smang lụcgiữa。", who->get_name() );
+7725|<O>| send_user(who, "%c%s", ';', "Vương Chi hiệu giáccủaĐiêu trác Kinh nghiệm 3000 Tiềm năng 100 Tiền vàng 2500");
+7726|<O>| send_user(who, "%c%s", ';', "Đao Hồn Truyền Thuyết1 Kinh nghiệm 82000 Tiềm năng 980 Tiền vàng 68000");
+7727|<O>| result = sprintf(get_name() + ":\n bạncầnTruyền tốngXuất đi ？tôicó thểBangbạntống XuấtnàyLàphi Chi Địa！\n");
+7728|<O>| send_user(who, "%c%s", ';', "Thu tậpCơ Quancấukiện Kinh nghiệm 12800 Tiềm năng 500 Tiền vàng 9600");
+7729|<O>| if( objectp( item = present("Lược mà Vong Tình Bà Bà cần", who, 1, MAX_CARRY) ) )
+7730|<O>| send_user(who, "%c%s", ';', "Du Hồn（2） Kinh nghiệm 12000 Tiềm năng 215 Tiền vàng 11000");
+7731|<O>| "lạc Thừa60" : ({ 400000,  400000,  600,  510,  600,  460,  300, }),
+7732|<O>| send_user(who, "%c%s", ';', "Đả Thámdướilạc Kinh nghiệm 91000 Tiềm năng 1600 Tiền vàng 83000");
+7733|<O>| send_user(who, "%c%s", ';', "Mua Độc Hoàn Châu Kinh nghiệm 800 Tiềm năng 30 Tiền vàng 1500 Mộchạp 1");
+7734|<O>| private static int AbsorbMP;                    // hấp thủPháp Lực("mp*")
+7735|<O>| if (objectp(npc = me->get_quest("escort.robber#"))    // tìm tìmMông Diện Nhân
+7736|<O>| tmp = sprintf(ESC + HIY + "đạo Thảo Nhâncủaủy thác\ntalk %x# welcome.1\n", id);
+7737|<O>| 35  : ([ "file":"/npc/copy/0101","attr":({"Vong Linh","lợi hại","Không Thủ"}) ]),
+7738|<O>| tmp += sprintf(ESC + HIY + "mất thấtcủaThủ trác\ntalk %x# welcome.1\n", id);
+7739|<O>| send_user(who, "%c%s", ';', "Tình Tỏa Tần Cung（2） Kinh nghiệm 4200 Tiềm năng 130 Tiền vàng 3500");

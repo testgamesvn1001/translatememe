@@ -1,85 +1,85 @@
-﻿15962|<O>| "急行鞋昆仑山" : "\"/item/final/88/6065\"",
-15963|<O>| item = new ("/item/sell/0004");//大法力石
-15964|<O>| who->get_gender() == 1 ? "男性" : "女性",
-15965|<O>| "战斗长靴唐门" : "\"/item/final/88/4055\"",
-15966|<O>| /*************PVP场景传送员**************/
-15967|<O>| printf(ECHO "使用“" PF_NAME "”得装备暗器。");
-15968|<O>| "跃天鞋云梦泽" : "\"/item/final/88/7050\"",
-15969|<O>| return "［强化天罗刀法］提升使用刀的攻击力，每级提升3点攻击力";
-15970|<O>| "云龙冠昆仑山" : "\"/item/final/65/6100\"",
-15971|<O>| "战斗鞋昆仑山" : "\"/item/final/88/6055\"",
-15972|<O>| "舞天头巾蜀山" : "\"/item/final/65/2040\"",
-15973|<O>| "破敌盔禁卫军" : "\"/item/final/65/3040\"",
-15974|<O>| string get_name() { return "清溪（2）"; }
-15975|<O>| "苍穹之冠茅山" : "\"/item/final/65/5115\"",
-15976|<O>| "紫焰项链茅山" : "\"/item/final/86/5060\"",
-15977|<O>| "铜制机关构件" : "\"/item/final/16/1600\"",
-15978|<O>| "幽魂项链唐门" : "\"/item/final/86/4070\"",
-15979|<O>| ESC "紫心丹\n" + "findgm setbonus 8\n" +
-15980|<O>| "踏青头巾蜀山" : "\"/item/final/65/2060\"",
-15981|<O>| result = "这是一件稀世珍品呀！很荣幸我能看到这样的一件宝物。";
-15982|<O>| ESC "邀请玩家\n" + "gmfight invite ?\n" +
-15983|<O>| "古甲袍云梦泽" : "\"/item/final/60/7020\"",
-15984|<O>| "彻云袍云梦泽" : "\"/item/final/60/7060\"",
-15985|<O>| "天机法袍茅山" : "\"/item/final/60/5065\"",
-15986|<O>| string get_name() { return "将军古墓２"; }
-15987|<O>| "荧光鞋昆仑山" : "\"/item/final/88/6080\"",
-15988|<O>| "龙骨盔桃花源" : "\"/item/final/65/1119\"",
-15989|<O>| "神武靴禁卫军" : "\"/item/final/88/3085\"",
-15990|<O>| "冥光袍云梦泽" : "\"/item/final/60/7090\"",
-15991|<O>| "迅豹盔桃花源" : "\"/item/final/65/1085\"",
-15992|<O>| "冥光冠云梦泽" : "\"/item/final/65/7090\"",
-15993|<O>| "文曲冠云梦泽" : "\"/item/final/65/7085\"",
-15994|<O>| "耀日长袍茅山" : "\"/item/final/60/5085\"",
-15995|<O>| "水纹项链茅山" : "\"/item/final/86/5045\"",
-15996|<O>| "麻布行装唐门" : "\"/item/final/60/4035\"",
-15997|<O>| "战斗鞋云梦泽" : "\"/item/final/88/7055\"",
-15998|<O>| npc->set_name(SchoolName[i]+"首席大弟子");
-15999|<O>| #define BZ_HOUR			  "hour"		//	小时轮寻标志
-16000|<O>| score = change_score(score);		//转换成战绩
-16001|<O>| string get_name() { return "将军古墓５"; }
-16002|<O>| "豪华的大锅煮" : "\"/item/final/33/1717\"",
-16003|<O>| "细麻鞋昆仑山" : "\"/item/final/88/6020\"",
-16004|<O>| else if (rate < 44000)	//使命中目标的几率提高1%
-16005|<O>| "星宿履无门派" : "\"/item/final/88/8097\"",
-16006|<O>| "霓裳头巾蜀山" : "\"/item/final/65/2095\"",
-16007|<O>| "恒金项链蜀山" : "\"/item/final/86/2095\"",
-16008|<O>| "龙骨斗篷唐门" : "\"/item/final/60/4119\"",
-16009|<O>| send_user(me, "%c%s", '!', "点卡已赎回！");
-16010|<O>| + sprintf(ESC"劫宝飞贼大搜捕\nparty 1220\n")
-16011|<O>| "流云头巾蜀山" : "\"/item/final/65/2105\"",
-16012|<O>| if (iTaskTime == 1)    // 1. 运镖任务(物品)
-16013|<O>| "月牙长袍茅山" : "\"/item/final/60/5055\"",
-16014|<O>| USER_D->save_all_data();    // 保存所有数据
-16015|<O>| "衾天之冠茅山" : "\"/item/final/65/5120\"",
-16016|<O>| "修仙冠昆仑山" : "\"/item/final/65/6045\"",
-16017|<O>| write_user(who, ECHO "您设置了新的回城点。\n");
-16018|<O>| "潮汐之冠茅山" : "\"/item/final/65/5105\"",
-16019|<O>| if ( who->get("familyuse") )	//使用门派信物
-16020|<O>| "金项链昆仑山" : "\"/item/final/86/6020\"",
-16021|<O>| ESC"领取忠厚的双子（一只）\ntalk %x# bonus.34\n"
-16022|<O>| "龙魂项链蜀山" : "\"/item/final/86/2105\"",
-16023|<O>| "琥珀项链唐门" : "\"/item/final/86/4055\"",
-16024|<O>| "金项链桃花源" : "\"/item/final/86/1020\"",
-16025|<O>| "旋风袍昆仑山" : "\"/item/final/60/6045\"",
-16026|<O>| "玉清盔桃花源" : "\"/item/final/65/1060\"",
-16027|<O>| "无尘鞋昆仑山" : "\"/item/final/88/6105\"",
-16028|<O>| "神蕴项链蜀山" : "\"/item/final/86/2090\"",
-16029|<O>| "龙头袍昆仑山" : "\"/item/final/60/6050\"",
-16030|<O>| string get_name() { return "幽谷（3）"; }
-16031|<O>| return sprintf("%d块钱币", get_value());
-16032|<O>| "琥珀项链蜀山" : "\"/item/final/86/2055\"",
-16033|<O>| "赶日行装唐门" : "\"/item/final/60/4050\"",
-16034|<O>| "神行履无门派" : "\"/item/final/88/8057\"",
-16035|<O>| "随风行装唐门" : "\"/item/final/60/4020\"",
-16036|<O>| "旭光冠云梦泽" : "\"/item/final/65/7055\"",
-16037|<O>| "御风鞋云梦泽" : "\"/item/final/88/7095\"",
-16038|<O>| "神风甲桃花源" : "\"/item/final/60/1070\"",
-16039|<O>| printf(ECHO "不能对自己使用“" PF_NAME "”。");
-16040|<O>| "青铜机关构件" : "\"/item/final/16/1605\"",
-16041|<O>| "宣明鞋昆仑山" : "\"/item/final/88/6040\"",
-16042|<O>| "风神履无门派" : "\"/item/final/88/8066\"",
-16043|<O>| "压耳头巾唐门" : "\"/item/final/65/4045\"",
-16044|<O>| "龙魂项链茅山" : "\"/item/final/86/5105\"",
-16045|<O>| return "将魔力锤拖放至目标装备上便可修复该装备原有的耐久上限。";
-16046|<O>| string get_name() { return "雪峰山秘道"; }
+﻿15962|<O>| "cấp Hành HiaCôn Lôn Sơn" : "\"/item/final/88/6065\"",
+15963|<O>| item = new ("/item/sell/0004");//lớnPháp Lực Thạch
+15964|<O>| who->get_gender() == 1 ? "Namtính" : "Nữtính",
+15965|<O>| "chiến đấudàiHiaĐường Môn" : "\"/item/final/88/4055\"",
+15966|<O>| /*************PVPtrường cảnhTruyền tốngviên**************/
+15967|<O>| printf(ECHO "Sử dụng“" PF_NAME "”đượcTrang bịÁm Khí。");
+15968|<O>| "dượcngàyHiaVân Mộng Trạch" : "\"/item/final/88/7050\"",
+15969|<O>| return "［Cường hóangàyLa Đao Pháp］NângSử dụngĐaocủaTấn côngLực，Mỗi cấp tăng3điểm Lực tấn công";
+15970|<O>| "VânLongQuanCôn Lôn Sơn" : "\"/item/final/65/6100\"",
+15971|<O>| "chiến đấuHiaCôn Lôn Sơn" : "\"/item/final/88/6055\"",
+15972|<O>| "Vũngàyđầu CânThục Sơn" : "\"/item/final/65/2040\"",
+15973|<O>| "Phá Địch khôiCấm Vệ Quân" : "\"/item/final/65/3040\"",
+15974|<O>| string get_name() { return "Thanh khê（2）"; }
+15975|<O>| "thương khung Chi QuanMao Sơn" : "\"/item/final/65/5115\"",
+15976|<O>| "Tử DiệmHạng LiênMao Sơn" : "\"/item/final/86/5060\"",
+15977|<O>| "ĐồngchếCơ Quancấukiện" : "\"/item/final/16/1600\"",
+15978|<O>| "U HồnHạng LiênĐường Môn" : "\"/item/final/86/4070\"",
+15979|<O>| ESC "Tử Tâm Đơn\n" + "findgm setbonus 8\n" +
+15980|<O>| "đạp Thanh đầu CânThục Sơn" : "\"/item/final/65/2060\"",
+15981|<O>| result = "nàyLàNhấtkiệnhi Thế Trân Phẩm a！rất vinh hạnhtôiNăng xemđếnnàydạngcủaNhấtkiệnBảo Vật。";
+15982|<O>| ESC "yêu XinNgười chơi\n" + "gmfight invite ?\n" +
+15983|<O>| "Cổ Giáp BàoVân Mộng Trạch" : "\"/item/final/60/7020\"",
+15984|<O>| "triệt Vân BàoVân Mộng Trạch" : "\"/item/final/60/7060\"",
+15985|<O>| "ngàycơ Pháp BàoMao Sơn" : "\"/item/final/60/5065\"",
+15986|<O>| string get_name() { return "Tướng Quân Cổ Mộ２"; }
+15987|<O>| "huỳnhQuangHiaCôn Lôn Sơn" : "\"/item/final/88/6080\"",
+15988|<O>| "LongCốt khôiĐào Hoa Nguyên" : "\"/item/final/65/1119\"",
+15989|<O>| "ThầnVũ HiaCấm Vệ Quân" : "\"/item/final/88/3085\"",
+15990|<O>| "MinhQuangBàoVân Mộng Trạch" : "\"/item/final/60/7090\"",
+15991|<O>| "tấn Báo khôiĐào Hoa Nguyên" : "\"/item/final/65/1085\"",
+15992|<O>| "MinhQuangQuanVân Mộng Trạch" : "\"/item/final/65/7090\"",
+15993|<O>| "Văn khúc QuanVân Mộng Trạch" : "\"/item/final/65/7085\"",
+15994|<O>| "diệu NhậtdàiBàoMao Sơn" : "\"/item/final/60/5085\"",
+15995|<O>| "ThủyvănHạng LiênMao Sơn" : "\"/item/final/86/5045\"",
+15996|<O>| "ma bố Hành trangĐường Môn" : "\"/item/final/60/4035\"",
+15997|<O>| "chiến đấuHiaVân Mộng Trạch" : "\"/item/final/88/7055\"",
+15998|<O>| npc->set_name(SchoolName[i]+"thủ tịchlớnđệ Tử");
+15999|<O>| #define BZ_HOUR			  "hour"		//	giờLuân tìm tiêu Chí
+16000|<O>| score = change_score(score);		//chuyển hoán thành Chiến tích
+16001|<O>| string get_name() { return "Tướng Quân Cổ Mộ５"; }
+16002|<O>| "Hào Hoacủalớnoa chử" : "\"/item/final/33/1717\"",
+16003|<O>| "tế ma HiaCôn Lôn Sơn" : "\"/item/final/88/6020\"",
+16004|<O>| else if (rate < 44000)	//sử Mệnhgiữamục tiêucủamấy suất Đềcao1%
+16005|<O>| "Tinh túc lý vôMôn phái" : "\"/item/final/88/8097\"",
+16006|<O>| "nghê thường đầu CânThục Sơn" : "\"/item/final/65/2095\"",
+16007|<O>| "HằngVàngHạng LiênThục Sơn" : "\"/item/final/86/2095\"",
+16008|<O>| "LongCốt Đấu bồngĐường Môn" : "\"/item/final/60/4119\"",
+16009|<O>| send_user(me, "%c%s", '!', "điểmthẻ đã thục Hồi！");
+16010|<O>| + sprintf(ESC"kiếp Bảo Phi tặclớnsưu bổ\nparty 1220\n")
+16011|<O>| "lưu Vân đầu CânThục Sơn" : "\"/item/final/65/2105\"",
+16012|<O>| if (iTaskTime == 1)    // 1. Nhiệm vụ vận tiêu(Vật Phẩm)
+16013|<O>| "thángNhadàiBàoMao Sơn" : "\"/item/final/60/5055\"",
+16014|<O>| USER_D->save_all_data();    // Lưutất cảdữ liệu
+16015|<O>| "khâmngàyChi QuanMao Sơn" : "\"/item/final/65/5120\"",
+16016|<O>| "TuTiênQuanCôn Lôn Sơn" : "\"/item/final/65/6045\"",
+16017|<O>| write_user(who, ECHO "Bạn thiết trímớicủaHồi Thànhđiểm。\n");
+16018|<O>| "triều tịch Chi QuanMao Sơn" : "\"/item/final/65/5105\"",
+16019|<O>| if ( who->get("familyuse") )	//Sử dụngMôn pháiTín Vật
+16020|<O>| "VàngHạng LiênCôn Lôn Sơn" : "\"/item/final/86/6020\"",
+16021|<O>| ESC"lĩnh thủ Trung hậucủasong Tử（Nhấtchỉ）\ntalk %x# bonus.34\n"
+16022|<O>| "LongHồnHạng LiênThục Sơn" : "\"/item/final/86/2105\"",
+16023|<O>| "Hổ pháchHạng LiênĐường Môn" : "\"/item/final/86/4055\"",
+16024|<O>| "VàngHạng LiênĐào Hoa Nguyên" : "\"/item/final/86/1020\"",
+16025|<O>| "ToànPhongBàoCôn Lôn Sơn" : "\"/item/final/60/6045\"",
+16026|<O>| "Ngọc Thanh khôiĐào Hoa Nguyên" : "\"/item/final/65/1060\"",
+16027|<O>| "vô Trần HiaCôn Lôn Sơn" : "\"/item/final/88/6105\"",
+16028|<O>| "ThầnuẩnHạng LiênThục Sơn" : "\"/item/final/86/2090\"",
+16029|<O>| "Longđầu BàoCôn Lôn Sơn" : "\"/item/final/60/6050\"",
+16030|<O>| string get_name() { return "U Cốc（3）"; }
+16031|<O>| return sprintf("%dkhối tiền tệ", get_value());
+16032|<O>| "Hổ pháchHạng LiênThục Sơn" : "\"/item/final/86/2055\"",
+16033|<O>| "cản Nhật Hành trangĐường Môn" : "\"/item/final/60/4050\"",
+16034|<O>| "ThầnHành lý vôMôn phái" : "\"/item/final/88/8057\"",
+16035|<O>| "tùyPhongHành trangĐường Môn" : "\"/item/final/60/4020\"",
+16036|<O>| "húcQuangQuanVân Mộng Trạch" : "\"/item/final/65/7055\"",
+16037|<O>| "NgựPhongHiaVân Mộng Trạch" : "\"/item/final/88/7095\"",
+16038|<O>| "ThầnPhongGiápĐào Hoa Nguyên" : "\"/item/final/60/1070\"",
+16039|<O>| printf(ECHO "không thểđối vớibản thânSử dụng“" PF_NAME "”。");
+16040|<O>| "ThanhĐồngCơ Quancấukiện" : "\"/item/final/16/1605\"",
+16041|<O>| "tuyên Minh HiaCôn Lôn Sơn" : "\"/item/final/88/6040\"",
+16042|<O>| "PhongThầnlý vôMôn phái" : "\"/item/final/88/8066\"",
+16043|<O>| "áp Nhĩ đầu CânĐường Môn" : "\"/item/final/65/4045\"",
+16044|<O>| "LongHồnHạng LiênMao Sơn" : "\"/item/final/86/5105\"",
+16045|<O>| return "TướngMaLực chùy tha Phóng Chímục tiêuTrang bịtrêntiện có thể Tu phục nênTrang bịnguyênCócủanại cửutrênhạn。";
+16046|<O>| string get_name() { return "Tuyết phong Sơn Bí Đạo"; }

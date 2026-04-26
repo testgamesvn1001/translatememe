@@ -1,67 +1,67 @@
-﻿11462|<O>| "去年圆月时，花灯亮如昼；月上柳梢头，人约黄昏后。今年圆月时，月与灯依旧；不见去年人，泪湿春衫袖。",
-11463|<O>| if (p = get_valid_xy(z, x, y, IS_ITEM_BLOCK))//门派蓝装
-11464|<O>| //              write_user(me, ECHO "……可是没有任何效果。");
-11465|<O>| if (gone_time(get("birthday")) >= 1800)    // 15 分钟
-11466|<O>| else    return sprintf(PF_NAME "\n抵销伤害，消耗双倍法力。\n");
-11467|<O>| result2 = sprintf("属性点 %d", who->get_gift_point());
-11468|<O>| return "［健身］强身健体之术，能大大提升修行者的气血上限。每级可提升1％的气血上限值。\n";
-11469|<O>| default: send_user(me, "%c%s", '!', "连接出错，请重新连接。");
-11470|<O>| send_user(who, "%c%s", ';', "夫妻间的争吵 经验 150 潜能 20");
-11471|<O>| sprintf(ESC "艺术(%d)。\n", city->get_arts()) + cmd7 +
-11472|<O>| "你是月饼我是馅，缠缠绵绵总见面；你是风筝我是线，追追逐逐把你牵；你是明月我是泉，美美满满一万年！",
-11473|<O>| case 0: begin = 40; end = 60; name = "玄武门"; break;
-11474|<O>| tell_user(who, "列示“%s”帮众信息。", me->get_org_name());
-11475|<O>| InitializationTable = ({ });    // 清除痕迹，防止 core 文件
-11476|<O>| + sprintf("%s已经向%s宣战！\n", me->get_name(), name4) +
-11477|<O>| //                tell_user(me, ECHO "超出走路容错！！！");
-11478|<O>| write_user(me, ECHO "您花费了%d个元宝。", to_int(key[6]));
-11479|<O>| send_user(who, "%c%c%c", 0x3d, 243, 1);    // 玩家失明
-11480|<O>| send_user(me, "%c%c%c", 0x3d, 240, 0);    // 客户端走路
-11481|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"热心的建议（1）");
-11482|<O>| log_file("boss.txt", short_time() + " 驱尸道长被消灭\n");
-11483|<O>| me->set_save("pf.hurt", ADD_DAMAGE);    // 小心准备 me
-11484|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"带口信给齐国使节");
-11485|<O>| write_user(me, ECHO "您的帐号余额为%d。", to_int(key[1]));
-11486|<O>| return "［基本刀法］入门刀法，能增加持刀时候的作战能力。每级提升1点刀的物理攻击力。\n";
-11487|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"武士的爱情（4）");
-11488|<O>| send_user(me, "%c%s", '!', "您完全看不懂" + book + "。");
-11489|<O>| send_user(me, "%c%s", '!', "领取道具返回值不对。" + result);
-11490|<O>| send_user(who, "%c%s", '!', "不健康游戏时间禁止解除双倍经验冻结。");
-11491|<O>| send_user(me, "%c%s", '!', "查询余额返回值不对。" + result);
-11492|<O>| string get_suit_name() { return "护士套装"; }	//属于某某套装
-11493|<O>| case 1: write_user(me, ECHO "你占得坤卦，安贞，吉。对方气血增加。");
-11494|<O>| return "［中医药理］提升最大气血值，每级提升6点。提升物理防御力，每级提升0.9点。\n";
-11495|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"无上的荣耀（2）");
-11496|<O>| send_user(me, "%c%s", '!', "开启无敌宝宝包必须有7个以上道具栏空位");
-11497|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 3, "清醒术施放中……");
-11498|<O>| log_file("zhongqiu.txt",short_time() + " 放兔子\n" );
-11499|<O>| notify("您卖断%s得到 %d 金。", item->get_name(), value2);
-11500|<O>| else    arg = EMOTE_D->do_emote(me, "某人", arg, 0);
-11501|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"木箱的秘密（2）");
-11502|<O>| private string FirstOwnerName;          // 最初获得者昵称
-11503|<O>| send_user(who, "%c%s", '!', "请清理一下你的包包，再来兑换物品吧！");
-11504|<O>| who->get_name() + ":\n    您领取了一个" + name + "。\n");
-11505|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"武士的爱情（3）");
-11506|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"热心的建议（4）");
-11507|<O>| return "“历代英杰所流传至今之武器”\n当你在被攻击后有一定\n的几率给予自己一个灵气甲";
-11508|<O>| tell_user(me, "%s\n等级:%4d	     级别:%4d 级\n已达等级上限\n"
-11509|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"带信给管仲（3）");
-11510|<O>| string get_suit_name() { return "人妻套装"; }	//属于某某套装
-11511|<O>| move_to_user(player, 1, "item/91/9111",npc);//安神丸。
-11512|<O>| if(!objectp(present("战国宝典", who, 1, MAX_CARRY))) {
-11513|<O>| + sprintf("%s已经向%s宣战！\n", name4, me->get_name()) +
-11514|<O>| &&      item->get_talisman_type() == 2    // 九龙神火罩
-11515|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"山戎族奸细（1）");
-11516|<O>| else if (who->get_manager() == Manager2)    // 防守方
-11517|<O>| send_user(who, "%c%s", '!', "你领取了情人节任务————巧克力豆！");
-11518|<O>| if (get_2(sprintf("%d.%d.z", level, wId)))	//已经开战了
-11519|<O>| send_user(me, "%c%s", '!', "对方接受极限穿越任务后不能使用驱神令。");
-11520|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"孤竹族使节（2）");
-11521|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"夫人的怪病（1）");
-11522|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"无奈的求助（1）");
-11523|<O>| case 'E': send_user(me, "%c%s", '!', "密码错误次数过多！");
-11524|<O>| amount = player->get_save("tuzi");//获取该玩家的排行榜兔子数量。
-11525|<O>| return "一种能使人恢复正常状态的药丸，解除身上的异常状态，消除变身卡效果，冷却时间30秒";
-11526|<O>| item = new(STONE_FILE->get_diamond_file());	//1级晶石
-11527|<O>| if (gone_time(get_drop_time()) > 6000)    // 100分钟
-11528|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 3, "回帮符使用中……");
+﻿11462|<O>| "đinămviênthánggiờ，Hoa đăng lượng như trú；thángtrênLiễu sao đầu，Nhân ước Hoàng hônsau。Kimnămviênthánggiờ，thángdữ đăng ycũ；khôngkiến đinămNhân，lệ thấp Xuân sam tụ。",
+11463|<O>| if (p = get_valid_xy(z, x, y, IS_ITEM_BLOCK))//Môn pháiLam trang
+11464|<O>| //              write_user(me, ECHO "……có thểLàkhông cónhiệm Hà hiệu Quả。");
+11465|<O>| if (gone_time(get("birthday")) >= 1800)    // 15 phút
+11466|<O>| else    return sprintf(PF_NAME "\nđể tiêu Thương hại，tiêu hao song bộiPháp Lực。\n");
+11467|<O>| result2 = sprintf("thuộc tínhđiểm %d", who->get_gift_point());
+11468|<O>| return "［kiện Thân］Cường Thân kiện Thể Chi Thuật，NănglớnlớnNângTu Hành giảcủaKhí Huyếttrênhạn。mỗicấpCó thể nâng1％củaKhí Huyếttrênhạn Trị。\n";
+11469|<O>| default: send_user(me, "%c%s", '!', "Liên tiếp Xuất sai，Xin trọngmớiLiên tiếp。");
+11470|<O>| send_user(who, "%c%s", ';', "Phu Thê giancủatranh sao Kinh nghiệm 150 Tiềm năng 20");
+11471|<O>| sprintf(ESC "nghệ Thuật(%d)。\n", city->get_arts()) + cmd7 +
+11472|<O>| "bạnLàthángbínhtôiLànhân，triền triền miên miên tổng kiến Diện；bạnLàPhongtranhtôiLàtuyến，truy truy trục trụcđembạnkhiên；bạnLàMinhthángtôiLàTuyền，Mỹ Mỹ mãn mãn Nhất vạnnăm！",
+11473|<O>| case 0: begin = 40; end = 60; name = "Huyền Vũ Môn"; break;
+11474|<O>| tell_user(who, "liệt thị“%s”Bang Chúng Tín tức。", me->get_org_name());
+11475|<O>| InitializationTable = ({ });    // Thanh trừ ngấn tích，phòng chỉ core tệp tin
+11476|<O>| + sprintf("%sđãhướng%stuyên Chiến！\n", me->get_name(), name4) +
+11477|<O>| //                tell_user(me, ECHO "Siêu Xuất tẩu Lộ dung sai！！！");
+11478|<O>| write_user(me, ECHO "Bạn Hoa phí%dNguyên Bảo。", to_int(key[6]));
+11479|<O>| send_user(who, "%c%c%c", 0x3d, 243, 1);    // Người chơiThất minh
+11480|<O>| send_user(me, "%c%c%c", 0x3d, 240, 0);    // khách Hộ đoan tẩu Lộ
+11481|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"nhiệt Tâmcủakiến nghị（1）");
+11482|<O>| log_file("boss.txt", short_time() + " khu thi Đạodàibịtiêu Diệt\n");
+11483|<O>| me->set_save("pf.hurt", ADD_DAMAGE);    // cẩn thận chuẩn bị me
+11484|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Đái khẩu TínchoTề Quốcsử tiết");
+11485|<O>| write_user(me, ECHO "Bạncủatrướng hiệu dư ngạch vì%d。", to_int(key[1]));
+11486|<O>| return "［Cơ bảnĐao Pháp］Nhập Môn Đao Pháp，NăngTăngtrì Đaolúccủatác Chiến Năng Lực。Mỗi cấp tăng1điểmĐaocủaLực tấn công vật lý。\n";
+11487|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Vũ SĩcủaÁi Tình（4）");
+11488|<O>| send_user(me, "%c%s", '!', "Bạn hoàn Toàn xemkhônghiểu" + book + "。");
+11489|<O>| send_user(me, "%c%s", '!', "lĩnh thủ Đạo cụQuay vềTrịkhôngđối với。" + result);
+11490|<O>| send_user(who, "%c%s", '!', "khôngkiện Khang du hígiờgian Cấm chỉ Giải trừ song bộiKinh nghiệmđông Kết。");
+11491|<O>| send_user(me, "%c%s", '!', "tra tuần dư ngạchQuay vềTrịkhôngđối với。" + result);
+11492|<O>| string get_suit_name() { return "Hộ Sĩ bộ trang"; }	//Thuộc bộ trang bị nào đó
+11493|<O>| case 1: write_user(me, ECHO "bạnchiếm được khôn quẻ，An trinh，Cát。đối vớiPhươngKhí HuyếtTăng。");
+11494|<O>| return "［giữaY Dược lý］NângtốilớnGiá trị Khí Huyết，Mỗi cấp tăng6điểm。NângLực phòng thủ vật lý，Mỗi cấp tăng0.9điểm。\n";
+11495|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"vôtrêncủavinh diệu（2）");
+11496|<O>| send_user(me, "%c%s", '!', "Mởvô Địch Bảo Bảo bao tất TuCó7DĩtrênĐạo cụ lan Không vị");
+11497|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 3, "Thanh tỉnh Thuật thi Phónggiữa……");
+11498|<O>| log_file("zhongqiu.txt",short_time() + " Phóng thỏ Tử\n" );
+11499|<O>| notify("Bạn bán đoạn%snhận được %d Vàng。", item->get_name(), value2);
+11500|<O>| else    arg = EMOTE_D->do_emote(me, "mỗ Nhân", arg, 0);
+11501|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"MộcrươngcủaBí Mật（2）");
+11502|<O>| private string FirstOwnerName;          // tối Sơ hoạch được giả nật xưng
+11503|<O>| send_user(who, "%c%s", '!', "Xin Thanh lýmột chútbạncủabao bao，lại đến đổi hoán Vật Phẩm ！");
+11504|<O>| who->get_name() + ":\n    Bạn lĩnh thủ Nhất" + name + "。\n");
+11505|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Vũ SĩcủaÁi Tình（3）");
+11506|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"nhiệt Tâmcủakiến nghị（4）");
+11507|<O>| return "“lịch đại Anh Kiệt sở lưu Truyền Chí Kim ChiVũ khí”\nđươngbạnTạibịTấn côngsauCóNhất định\ncủamấy suấtchodưbản thânNhất Linh khí Giáp";
+11508|<O>| tell_user(me, "%s\nCấp độ:%4d	     cấpbiệt:%4d cấp\nđã đạtCấp độtrênhạn\n"
+11509|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Đái Tínchoquản Trọng（3）");
+11510|<O>| string get_suit_name() { return "Nhân Thê bộ trang"; }	//Thuộc bộ trang bị nào đó
+11511|<O>| move_to_user(player, 1, "item/91/9111",npc);//AnThầnhoàn。
+11512|<O>| if(!objectp(present("Chiến QuốcBảo Điển", who, 1, MAX_CARRY))) {
+11513|<O>| + sprintf("%sđãhướng%stuyên Chiến！\n", name4, me->get_name()) +
+11514|<O>| &&      item->get_talisman_type() == 2    // CửuLongThầnHỏatrạo
+11515|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Sơn nhung tộc gian tế（1）");
+11516|<O>| else if (who->get_manager() == Manager2)    // phòng thủ Phương
+11517|<O>| send_user(who, "%c%s", '!', "bạnlĩnh thủ Tình Nhân tiếtNhiệm vụ————Xảo Khắc Lực đậu！");
+11518|<O>| if (get_2(sprintf("%d.%d.z", level, wId)))	//đãmở Chiến
+11519|<O>| send_user(me, "%c%s", '!', "đối vớiPhươngNhậnCực hạn xuyên ViệtNhiệm vụsauKhông thể sử dụngkhuThầnLệnh。");
+11520|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"cô Trúc tộc sử tiết（2）");
+11521|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Phu Nhâncủaquái bệnh（1）");
+11522|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"vô nạicủacầu Trợ（1）");
+11523|<O>| case 'E': send_user(me, "%c%s", '!', "mật khẩusai ngộlầnsố quanhiều！");
+11524|<O>| amount = player->get_save("tuzi");//hoạch thủ nênNgười chơicủabài Hành bảng thỏ Tử số lượng。
+11525|<O>| return "Một loạiNăng sử NhânPhục hồichính thường trạng tháicủaDược hoàn，Giải trừ Thântrêncủadị thường trạng thái，tiêu trừ biến Thân thẻ hiệu Quả，Thời gian hồi30giây";
+11526|<O>| item = new(STONE_FILE->get_diamond_file());	//1cấp Tinh Thạch
+11527|<O>| if (gone_time(get_drop_time()) > 6000)    // 100phút
+11528|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 3, "Hồi Bang PhùSử dụnggiữa……");

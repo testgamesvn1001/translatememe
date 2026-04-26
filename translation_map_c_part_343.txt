@@ -1,79 +1,79 @@
-﻿14416|<O>| send_user(me, "%c%s", '!', "该用户处于在线状态！");
-14417|<O>| QUIT_CMD->main(me, "");    // 断线僵尸超过３分钟退出
-14418|<O>| send_user(who, "%c%s", '!', "无赖李小六 1/1");
-14419|<O>| else if (p < 9850 * rate / 100)    // 杂物２
-14420|<O>| cmd = "哈哈哈哈～～我是新年福娃娃中的福哈哈～～乐观的福哈哈～～^_^。";
-14421|<O>| send_user(who, "%c%s", '!', HIY"菜种 1/1");
-14422|<O>| if (item->is_task_item())    // 第一次捡起使命物品
-14423|<O>| send_user(me, "%c%s", ':', "您确定要离开队伍吗？\n"
-14424|<O>| send_user(who, "%c%s", '!', "竞选功能尚未开放。");
-14425|<O>| send_user(who, "%c%s", ';', "非健康时间不能采集");
-14426|<O>| reduce_item_amount(who, "装着坏小猪的神奇葫芦", 2);
-14427|<O>| send_user(who, "%c%s", '!', "您获得了家族玉佩！");
-14428|<O>| if (status ==99) //九转丹或者混天丹、同等级的随机配方（三选一）
-14429|<O>| send_user(who, "%c%s", '!', "恶工头赵四 1/1");
-14430|<O>| send_user(who, "%c%s", '!', "您身上没有年兽的角");
-14431|<O>| send_user(who, "%c%s", '!', "无法找到这位玩家。");
-14432|<O>| _DEBUG(sprintf("DEBUG_f -- 附加:%s", str));
-14433|<O>| send_user(me, "%c%s", '!', "现在允许活动号登录!");
-14434|<O>| send_user(who, "%c%s", '!', "您不能对死人占卜。");
-14435|<O>| if (MAIN_D->get_host_type() == 2)		//台湾除外
-14436|<O>| send_user(who,"%c%s",'!',"恭喜你，得到了奖品礼包。");
-14437|<O>| //			+ sprintf(ESC"线上打宝活动操作\nparty 33\n")
-14438|<O>| send_user(who, "%c%s", '!', "劫匪马小七 1/1");
-14439|<O>| ESC"一小时内增加法术攻击力100点\ntalk %x# bonus.20\n"
-14440|<O>| printf(ECHO "您采集到%s。", item->get_name());
-14441|<O>| private static int AcountId;			// 帐号对应的id
-14442|<O>| else if (p < 9851 * rate / 100)    // 杂物２
-14443|<O>| send_user(who, "%c%s", '!', "你身上的东西太多了");
-14444|<O>| if( !( skill = to_int(arg) ) )    // 停止研究
-14445|<O>| string get_family_name() { return "唐门"; }
-14446|<O>| else if (p < 10000 * rate / 100)    // 宝石
-14447|<O>| + sprintf(ESC"取消设置四色球活动结束时间\nparty 57\n")
-14448|<O>| add_ap(get_ap() * 200 / 100);      //物理攻击
-14449|<O>| send_user(who, "%c%s", '!', "您已经领了银票了。");
-14450|<O>| "/sys/sys/count"->add_task("神仙爷爷的嘱托", 1);
-14451|<O>| return "清甜的一种含水量丰富的水果,20秒内恢复玩家1100点气血值。";
-14452|<O>| add_cp(get_cp() * 400 / 100);      //法术攻击
-14453|<O>| private int* Effect = ({ });    // 征状存盘数据
-14454|<O>| private  int HeadCode;            // 帽子代码
-14455|<O>| notify("在放弃「" + file + "」之前得先放弃「奇门遁甲」。");
-14456|<O>| result = sprintf(HIC "您升至 %d 级！", Level);
-14457|<O>| send_user(who, "%c%s", '!', "你被武林败类打败了");
-14458|<O>| 如果排行榜名单个数大于10的话，那么就进行比较，找出排行榜上面月兔数量比自己少的，
-14459|<O>| string get_skill_name() { return "炼丹术"; }
-14460|<O>| tell_user(me, sprintf("%d: 无法找到存档", id));
-14461|<O>| send_user(who, "%c%s", '!', "您不能举荐您自己。");
-14462|<O>| send_user(who, "%c%s", '!', "恭喜你得到了长统袜");
-14463|<O>| result += ESC "3点门派贡献换取1小时双倍经验\n" + cmd2;
-14464|<O>| send_user(who,"%c%s",'!',"你领取了首席大弟子的称谓");
-14465|<O>| else    OnlineTime = 0;    // 下线五小时，即回复原点
-14466|<O>| printf(ECHO "您得有神农宝典才能使用“" PF_NAME "”。");
-14467|<O>| //			+ sprintf(ESC"开启战国王者领奖\nparty 11\n")
-14468|<O>| else if (p < 9047 * rate / 100)    // 杂物１
-14469|<O>| else if (p < 9550 * rate / 100)    // 杂物２
-14470|<O>| return "任务物品。采用糯米酿制，并掩埋于土下的米酒，有增强体力之功效。";
-14471|<O>| send_user(me, "%c%s", '!', "你不能携带这个宠物。");
-14472|<O>| else if (p < 8500 * rate / 100)    // 杂物１
-14473|<O>| ESC "离开", me->get_name(), getoid(me) ) );
-14474|<O>| else if (p < 9796 * rate / 100)    // 杂物２
-14475|<O>| send_user(who, "%c%s", '!', "您没有足够的气血。");
-14476|<O>| printf( ECHO "您得有符纸才能使用“" PF_NAME "”。" );
-14477|<O>| case "蜀山" : hp = me->get_con() * 45 / 10;
-14478|<O>| ESC "领取二小时VIP双倍时间\ntalk %x# welcome.87\n"
-14479|<O>| send_user(me, "%c%s", '!', "不能用同一个帐号转帐");
-14480|<O>| if (Experience >= get_upgrade_exp())	//升级
-14481|<O>| send_user(who, "%c%s", '!', "您已经领了种子了。");
-14482|<O>| send_user(who, "%c%s", '!', "济世葫芦回收成功！");
-14483|<O>| write_user(me, ECHO "您给农作物浇水，结果它长得更好了。");
-14484|<O>| MAP_D->add_to_void(who);    // 移入 VOID 场景
-14485|<O>| //        set_char_picid(9415);    // 蒙面人
-14486|<O>| send_user(who, "%c%s", '!', "消灭噬情魔(完成)");
-14487|<O>| send_user(who, "%c%s", '!', "您获得了战国宝典。");
-14488|<O>| sprintf("%s:\n    普通修理%s需要花费%d金，你是否同意？\n"
-14489|<O>| else if (p < 9850 * rate / 100)    // 杂物３
-14490|<O>| if (!(size = sizeof(dfile)))    // 路径合法判断
-14491|<O>| ESC HIY"领取校内网网赠送大礼包\ntalk %x# bonus.34\n"
-14492|<O>| add_ap(get_ap() * 400 / 100);      //物理攻击
-14493|<O>| send_user(who, "%c%s", '!', "你身上道具栏已满！");
-14494|<O>| send_user(who, "%c%s", '!', HIY"虎皮 1/1");
+﻿14416|<O>| send_user(me, "%c%s", '!', "nên dùng Hộ xử vuTạituyến trạng thái！");
+14417|<O>| QUIT_CMD->main(me, "");    // đoạn tuyến cương thi Siêu qua３phútThoát ra
+14418|<O>| send_user(who, "%c%s", '!', "vô Lại LýnhỏLục 1/1");
+14419|<O>| else if (p < 9850 * rate / 100)    // Tạp vật２
+14420|<O>| cmd = "ha ha ha ha～～tôiLàmớinămPhúc oa oagiữacủaPhúc ha ha～～lạc quancủaPhúc ha ha～～^_^。";
+14421|<O>| send_user(who, "%c%s", '!', HIY"Tháiloại 1/1");
+14422|<O>| if (item->is_task_item())    // đệ Nhấtlầnnhặt Khởi sử Mệnh Vật Phẩm
+14423|<O>| send_user(me, "%c%s", ':', "BạnXác nhậncầnRời khỏiđội ngũ ？\n"
+14424|<O>| send_user(who, "%c%s", '!', "cạnh tuyển Công Năng Thượng vị mở Phóng。");
+14425|<O>| send_user(who, "%c%s", ';', "phi kiện Khanggiờgiankhông thểThu thập");
+14426|<O>| reduce_item_amount(who, "trang xấunhỏTrưcủaThầnKỳ hồ lô", 2);
+14427|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận đượcGia tộc Ngọc bội！");
+14428|<O>| if (status ==99) //Cửu chuyển ĐơnHoặchỗnngàyĐơn、ĐồngCấp độcủaNgẫu nhiênPhối Phương（Tam tuyển Nhất）
+14429|<O>| send_user(who, "%c%s", '!', "Ác công đầu Triệu Tứ 1/1");
+14430|<O>| send_user(who, "%c%s", '!', "Bạn Thântrênkhông cónămthúcủagiác");
+14431|<O>| send_user(who, "%c%s", '!', "vô Pháp tìmđếnnàyvịNgười chơi。");
+14432|<O>| _DEBUG(sprintf("DEBUG_f -- phụ Gia:%s", str));
+14433|<O>| send_user(me, "%c%s", '!', "hiệnTạidoãn hứahoạt độnghiệu đăng lục!");
+14434|<O>| send_user(who, "%c%s", '!', "Bạnkhông thểđối vớiTử Nhân chiếm Bốc。");
+14435|<O>| if (MAIN_D->get_host_type() == 2)		//đài loan trừngoài
+14436|<O>| send_user(who,"%c%s",'!',"cung hỷbạn，nhận đượcthưởng Phẩm lễ bao。");
+14437|<O>| //			+ sprintf(ESC"tuyếntrênĐả Bảohoạt độngThao tác\nparty 33\n")
+14438|<O>| send_user(who, "%c%s", '!', "kiếp phỉ MãnhỏThất 1/1");
+14439|<O>| ESC"NhấtgiờtrongTăngLực tấn công phép thuật100điểm\ntalk %x# bonus.20\n"
+14440|<O>| printf(ECHO "BạnThu thậpđến%s。", item->get_name());
+14441|<O>| private static int AcountId;			// trướng hiệuđối vớiứngcủaid
+14442|<O>| else if (p < 9851 * rate / 100)    // Tạp vật２
+14443|<O>| send_user(who, "%c%s", '!', "bạnThântrêncủađồ vậtTháinhiều");
+14444|<O>| if( !( skill = to_int(arg) ) )    // đình chỉ nghiên cứu
+14445|<O>| string get_family_name() { return "Đường Môn"; }
+14446|<O>| else if (p < 10000 * rate / 100)    // Bảo Thạch
+14447|<O>| + sprintf(ESC"Hủy bỏthiết trí Tứ Sắc cầuhoạt độngKết thúcgiờgian\nparty 57\n")
+14448|<O>| add_ap(get_ap() * 200 / 100);      //Vật lý tấn công
+14449|<O>| send_user(who, "%c%s", '!', "BạnđãlĩnhNgân phiếu。");
+14450|<O>| "/sys/sys/count"->add_task("ThầnTiêngia giacủachúc thác", 1);
+14451|<O>| return "Thanh điềmcủaMột loạiHàmThủylượng Phong phúcủaThủyQuả,20giây phục hồi cho người chơi1100điểm Khí Huyết。";
+14452|<O>| add_cp(get_cp() * 400 / 100);      //Pháp ThuậtTấn công
+14453|<O>| private int* Effect = ({ });    // chinh trạng tồn Bàndữ liệu
+14454|<O>| private  int HeadCode;            // Mạođại mã
+14455|<O>| notify("Khi từ bỏ「" + file + "」trước tiên phải từ bỏ「Kỳ Môn độn Giáp」。");
+14456|<O>| result = sprintf(HIC "Bạn Thăng Chí %d cấp！", Level);
+14457|<O>| send_user(who, "%c%s", '!', "bạnbịVũ Lâm bại loại Đả bại");
+14458|<O>| Nếubài Hành bảng Danh đơn sốlớnvu10củathoại，đóyêuliềntiến Hànhso vớigiảo，tìm Xuất bài Hành bảngtrênDiệnthángthỏ số lượngso vớibản thânítcủa，
+14459|<O>| string get_skill_name() { return "Luyện Đơn Thuật"; }
+14460|<O>| tell_user(me, sprintf("%d: vô Pháp tìmđếntồn đáng", id));
+14461|<O>| send_user(who, "%c%s", '!', "Bạnkhông thểcử tiến Bạnbản thân。");
+14462|<O>| send_user(who, "%c%s", '!', "cung hỷBạn nhận đượcdàithống vớ");
+14463|<O>| result += ESC "3điểmMôn pháicống hiến hoán thủ1giờsong bộiKinh nghiệm\n" + cmd2;
+14464|<O>| send_user(who,"%c%s",'!',"bạnlĩnh thủ thủ tịchlớnđệ Tửcủaxưng vị");
+14465|<O>| else    OnlineTime = 0;    // dướituyến Ngũgiờ，tức Hồi phục nguyênđiểm
+14466|<O>| printf(ECHO "Bạn đượcCóThầnnông Bảo Điển Tài NăngSử dụng“" PF_NAME "”。");
+14467|<O>| //			+ sprintf(ESC"MởChiến QuốcVương giả lĩnh thưởng\nparty 11\n")
+14468|<O>| else if (p < 9047 * rate / 100)    // Tạp vật１
+14469|<O>| else if (p < 9550 * rate / 100)    // Tạp vật２
+14470|<O>| return "Vật phẩm nhiệm vụ。thải dùng nếp mễ nhưỡng chế，tịnh yểm mai vuThổdướicủamễ Tửu，Cótăng CườngThể lựcChi Công hiệu。";
+14471|<O>| send_user(me, "%c%s", '!', "bạnkhông thểhuề Đáinàysủng vật。");
+14472|<O>| else if (p < 8500 * rate / 100)    // Tạp vật１
+14473|<O>| ESC "Rời khỏi", me->get_name(), getoid(me) ) );
+14474|<O>| else if (p < 9796 * rate / 100)    // Tạp vật２
+14475|<O>| send_user(who, "%c%s", '!', "Bạnkhông cótúc đủcủaKhí Huyết。");
+14476|<O>| printf( ECHO "Bạn đượcCóPhù ChỉTài NăngSử dụng“" PF_NAME "”。" );
+14477|<O>| case "Thục Sơn" : hp = me->get_con() * 45 / 10;
+14478|<O>| ESC "lĩnh thủ NhịgiờVIPsong bộigiờgian\ntalk %x# welcome.87\n"
+14479|<O>| send_user(me, "%c%s", '!', "không thểdùng Đồng Nhất trướng hiệu chuyển trướng");
+14480|<O>| if (Experience >= get_upgrade_exp())	//Thăng cấp
+14481|<O>| send_user(who, "%c%s", '!', "BạnđãlĩnhloạiTử。");
+14482|<O>| send_user(who, "%c%s", '!', "tế Thế hồ lô Hồi ThuThành công！");
+14483|<O>| write_user(me, ECHO "Bạnchonông tác Vật kiêuThủy，kết quảnódàiđược càngtốt。");
+14484|<O>| MAP_D->add_to_void(who);    // Di Nhập VOID trường cảnh
+14485|<O>| //        set_char_picid(9415);    // Mông Diện Nhân
+14486|<O>| send_user(who, "%c%s", '!', "tiêu Diệt phệ TìnhMa(Hoàn thành)");
+14487|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận đượcChiến QuốcBảo Điển。");
+14488|<O>| sprintf("%s:\n    phổ thông Tu lý%scầnHoa phí%dVàng，bạnLàphủ Đồng Ý？\n"
+14489|<O>| else if (p < 9850 * rate / 100)    // Tạp vật３
+14490|<O>| if (!(size = sizeof(dfile)))    // Lộ kính Hợp Pháp phán đoạn
+14491|<O>| ESC HIY"lĩnh thủ hiệutrongvõng võng tặng tốnglớnlễ bao\ntalk %x# bonus.34\n"
+14492|<O>| add_ap(get_ap() * 400 / 100);      //Vật lý tấn công
+14493|<O>| send_user(who, "%c%s", '!', "bạnThântrênĐạo cụ lan đã mãn！");
+14494|<O>| send_user(who, "%c%s", '!', HIY"HổBì 1/1");
