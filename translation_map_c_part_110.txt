@@ -17,7 +17,7 @@
 2003|<O>| buf = sprintf("%s:\n    Hãy bỏ ra ít nhất %d chiếc Thẻ Đội Bóng của bạn là có thể tham gia hoạt động dự đoán rồi! Bầu chọn cho đội bóng mà bạn yêu thích và ủng hộ, bạn sẽ có cơ hội nhận được giải thưởng lớn đấy!\n"ESC"%s\ntalk %x# bet.1.%d.1\n"ESC"%s\ntalk %x# bet.1.%d.2\n"ESC"Rời khỏi",
 2004|<O>| 381089121 : ([32 * 34 + 4:(["legend2":32 * 34 + 5, "obj" : "item/98/0159", "taskid" : TID_WEIGUO, "taskno" : 40, "taskname" : "Thám hiểm tìm bảo vật(Hoàn thành)"])]),
 2005|<O>| 052144111 : ([32 * 21 + 5:(["legend2":32 * 21 + 6, "obj" : "item/98/0096", "taskid" : TID_QINGUO, "taskno" : 29, "taskname" : "Sự khó khăn khi tu tạo(Hoàn thành)"])]),
-2006|<O>| if ( me && !me->is_die() && who && !who->is_die() && who->get("sk74126") && random(100)<10 && !get_effect_3(me, EFFECT_CHAR_DREAM) )	//攻击方被梦游
+2006|<O>| if ( me && !me->is_die() && who && !who->is_die() && who->get("sk74126") && random(100)<10 && !get_effect_3(me, EFFECT_CHAR_DREAM) )	//Bên tấn công bị mộng du
 2007|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    %s, có phải em phiền phức quá không? %s không thích em nên mới không đi tìm mật đường cho em sao?\n"ESC"Rời khỏi", me->get_name(), who->get_gender() == 1 ? "Anh" : "Chị", who->get_gender() == 1 ? "Anh" : "Chị"));
 2008|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Thật xin lỗi, số tiền trên người bạn không đủ để mua gói bảo hiểm này, vui lòng mang đủ tiền rồi hãy quay lại tìm ta nhé!\n"ESC"Rời khỏi", me->get_name(), ));
 2009|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Haiz, mặc dù lão gia và phu nhân không trách mắng ta nhưng ta vẫn muốn bù đắp cho lỗi lầm của mình, bạn có thể đi thêm một chuyến nữa được không?\n"ESC"Rời khỏi", me->get_name()));

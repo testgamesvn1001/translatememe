@@ -1,0 +1,64 @@
+﻿10877|<O>| send_user(who, "%c%s", ';', "很抱歉，你抓的坏大熊数量不足哦，继续努力吧");
+10878|<O>| #define SKILL_FINAL	"/item/final/60/1045"				// 制作的结果
+10879|<O>| #define SKILL_FINAL	"/item/final/88/1045"				// 制作的结果
+10880|<O>| #define SKILL_FINAL	"/item/final/60/7065"				// 制作的结果
+10881|<O>| send_user(who, "%c%c", 0x26, 3);    // 取消对方确认（更改自己物品）
+10882|<O>| CHAR_CHAR_D->send_loop_perform(me, who);    // 显示持续效果
+10883|<O>| #define SKILL_FINAL	"/item/final/60/6055"				// 制作的结果
+10884|<O>| CHAT_D->rumor_channel(0, CHAT + "听说神勇的山大王再次出现在新手村！");
+10885|<O>| set_heart_timer_2(me, heart);    // 更新心跳时钟(辅), 表示其已处理
+10886|<O>| item->set(SEAL_INTERVAL, ADD_INTERVAL);    // 小心准备 me
+10887|<O>| #define SKILL_FINAL	"/item/final/86/7035"				// 制作的结果
+10888|<O>| #define SKILL_FINAL	"/item/final/60/3075"				// 制作的结果
+10889|<O>| #define SKILL_FINAL	"/item/final/60/1085"				// 制作的结果
+10890|<O>| result2 = sprintf("升级经验 %d", who->get_upgrade_exp());
+10891|<O>| #define SKILL_FINAL	"/item/final/74/1085"				// 制作的结果
+10892|<O>| #define SKILL_FINAL	"/item/final/60/7095"				// 制作的结果
+10893|<O>| #define SKILL_FINAL	"/item/final/60/5035"				// 制作的结果
+10894|<O>| #define SKILL_FINAL	"/item/final/60/2115"				// 制作的结果
+10895|<O>| #define SKILL_FINAL	"/item/final/71/1075"				// 制作的结果
+10896|<O>| #define SKILL_FINAL	"/item/final/88/1065"				// 制作的结果
+10897|<O>| #define SKILL_FINAL	"/item/final/60/2105"				// 制作的结果
+10898|<O>| #define SKILL_FINAL	"/item/final/86/3065"				// 制作的结果
+10899|<O>| #define SKILL_FINAL	"/item/final/88/3105"				// 制作的结果
+10900|<O>| #define SKILL_FINAL	"/item/final/65/6065"				// 制作的结果
+10901|<O>| #define SKILL_FINAL	"/item/final/65/6075"				// 制作的结果
+10902|<O>| #define SKILL_FINAL	"/item/final/65/5095"				// 制作的结果
+10903|<O>| case "桃花源" : if( type != UNARMED ) flag = -1;  break;
+10904|<O>| #define SKILL_FINAL	"/item/final/88/2105"				// 制作的结果
+10905|<O>| #define SKILL_FINAL	"/item/final/88/6120"				// 制作的结果
+10906|<O>| #define SKILL_FINAL	"/item/final/60/4045"				// 制作的结果
+10907|<O>| tell_user(me, "你将" + who->get_name() + "在活动场所的战斗禁锢");
+10908|<O>| send_user(who, "%c%s", ';', "找尉迟老镖头谈谈 经验 250 潜能 30");
+10909|<O>| #define SKILL_FINAL	"/item/final/88/4045"				// 制作的结果
+10910|<O>| #define SKILL_FINAL	"/item/final/88/3065"				// 制作的结果
+10911|<O>| npc->set_city_name( me->get_city_name() );    // 用于战场
+10912|<O>| #define SKILL_FINAL	"/item/final/65/2110"				// 制作的结果
+10913|<O>| #define SKILL_FINAL	"/item/final/86/2105"				// 制作的结果
+10914|<O>| #define SKILL_FINAL	"/item/final/88/5045"				// 制作的结果
+10915|<O>| #define SKILL_FINAL	"/item/final/71/1105"				// 制作的结果
+10916|<O>| #define SKILL_FINAL	"/item/final/72/1055"				// 制作的结果
+10917|<O>| return HIC+get_name()+"\n拥有此技能的宠物，会使用水法术攻击3×3范围内目标。";
+10918|<O>| send_user(who, "%c%s", '!', sprintf("你得到%d金", cash));
+10919|<O>| #define SKILL_FINAL	"/item/final/60/5065"				// 制作的结果
+10920|<O>| #define SKILL_FINAL	"/item/final/86/1115"				// 制作的结果
+10921|<O>| #define SKILL_FINAL	"/item/final/70/1075"				// 制作的结果
+10922|<O>| #define SKILL_FINAL	"/item/final/86/3120"				// 制作的结果
+10923|<O>| send_user(who, "%c%s", '!', "薪水得在 10000～100000 之间。");
+10924|<O>| #define SKILL_FINAL	"/item/final/86/5119"				// 制作的结果
+10925|<O>| #define SKILL_FINAL	"/item/final/71/1085"				// 制作的结果
+10926|<O>| #define SKILL_FINAL	"/item/final/86/1119"				// 制作的结果
+10927|<O>| ESC "将" + me->get_city_name() + "作为我的回城点。\n" + cmd2 +
+10928|<O>| send_user(who, "%c%s", '!', sprintf("持扇草人 %d/1", i));
+10929|<O>| #define SKILL_FINAL	"/item/final/65/1115"				// 制作的结果
+10930|<O>| return HIC+get_name()+"\n拥有此技能的宠物，会使用火法术攻击3×3范围内目标。";
+10931|<O>| #define SKILL_FINAL	"/item/final/86/3095"				// 制作的结果
+10932|<O>| send_user(who, "%c%s", '!', "你接受了"HIY"讨厌的山鸡"NOR"任务");
+10933|<O>| #define SKILL_FINAL	"/item/final/88/1115"				// 制作的结果
+10934|<O>| #define SKILL_FINAL	"/item/final/88/7095"				// 制作的结果
+10935|<O>| #define SKILL_FINAL	"/item/final/88/6065"				// 制作的结果
+10936|<O>| #define SKILL_FINAL	"/item/final/75/1095"				// 制作的结果
+10937|<O>| #define SKILL_FINAL	"/item/final/65/4105"				// 制作的结果
+10938|<O>| #define SKILL_FINAL	"/item/final/86/6119"				// 制作的结果
+10939|<O>| #define SKILL_FINAL	"/item/final/65/1085"				// 制作的结果
+10940|<O>| #define SKILL_FINAL	"/item/final/60/5120"				// 制作的结果

@@ -1,93 +1,93 @@
-﻿17812|<O>| tell_user(me, "%d 文件完成。", total);
-17813|<O>| "木轮" : "\"/item/final/16/1603\"",
-17814|<O>| item = new ("item/08/0811");//迷你猪
-17815|<O>| printf(ECHO "您收回“%s”。", PF_NAME);
-17816|<O>| ESC"上交2件紫色装备\ntalk %x# bonus.2\n"
-17817|<O>| case "vip_revive2":	//vip随机跳转点中复活
-17818|<O>| string get_name() { return "秦"; }
-17819|<O>| "铜刀" : "\"/item/final/72/1020\"",
-17820|<O>| return "持续1小时内变身为恶棍，可提升1%物理防御力。";
-17821|<O>| "铜棍" : "\"/item/final/75/1020\"",
-17822|<O>| + sprintf(ESC"开始测试\nparty 139\n")
-17823|<O>| pf = 60;    // 抄自 /sys/user/fight
-17824|<O>| return "任务物品。清溪的（88、62）暗藏着什么秘密。";
-17825|<O>| else if (xy < 3000) return "东南方";
-17826|<O>| map->add_reset(npc);    // 加入复位列表
-17827|<O>| + sprintf(ESC"中止活动\nparty 162\n")
-17828|<O>| return "持续1小时内变身为虾兵，可提升2%法术攻击力。";
-17829|<O>| pf = 20;    // 抄自 /sys/user/fight
-17830|<O>| map->add_2("totalscore.秦国", 450);
-17831|<O>| item = new ("item/91/9161");//周天丹
-17832|<O>| map->set_heart_sec(0);    // 校正时钟
-17833|<O>| + sprintf(ESC"真假虎王\nparty 130\n")
-17834|<O>| ESC "继续鉴定\nrepair %x# identify\n"
-17835|<O>| return "持续1小时内变身为豺狗，可提升2%物理攻击力。";
-17836|<O>| return "持续1小时内变身为山贼，可提升2%物理防御力。";
-17837|<O>| pf = 64;    // 抄自 /sys/user/fight
-17838|<O>| mapping mpVote = ([]);		//正在投票的信息
-17839|<O>| item = new ("item/08/0003");//小血石
-17840|<O>| switch( get_z(npc) )    // 查找对应战场
-17841|<O>| #define PF_NAME        "高级麻布行装制作"
-17842|<O>| + sprintf(ESC"结束测试\nparty 143\n")
-17843|<O>| item = new ("item/91/9112");//补心丹
-17844|<O>| if (who->get("anti_sleep"))	//抗昏迷
-17845|<O>| USER_D->gm_channel(HIY"测试活动开启") ;
-17846|<O>| +sprintf(ESC"挖宝总动员\nparty 110\n")
-17847|<O>| string get_name() { return "韩"; }
-17848|<O>| return "任务物品。新手村修理店老板交给孔老头的叙旧信。";
-17849|<O>| item = new ("item/91/9120");//救急丹
-17850|<O>| npc = new("npc/copy/0011");	//机关石
-17851|<O>| me->delete("zombie");//将机械宠物给删除掉。
-17852|<O>| desc = "粥里只有小米,14秒内恢复玩家665点法力值。";
-17853|<O>| item = new("item/08/0001");	//战国令
-17854|<O>| + sprintf(ESC"下一页\nparty 6666\n")
-17855|<O>| if ( count > 20 )	//每天次数超过20次奖励减少
-17856|<O>| item = new("item/91/9178");	//复生丹
-17857|<O>| else if (rate < 9560)		//对应等级随机金装
-17858|<O>| pet->set_owner(me);	//不设无法restore
-17859|<O>| "赤宵" : "\"/item/final/76/1105\"",
-17860|<O>| item = new ("item/91/9150");//天王散
-17861|<O>| return "持续1小时内变身为野猪，可提升2%物理防御力。";
-17862|<O>| ESC"换取战场奖励\ntalk %x# welcome.4\n"
-17863|<O>| case 40 : me->set_fam_name("唐门");
-17864|<O>| item = new ("item/91/9163");//金桑散
-17865|<O>| else    return sprintf("禁用法宝\n");
-17866|<O>| if (gone_time(pTime1) > 30)	//尸偶术
-17867|<O>| "豆浆" : "\"/item/final/33/1754\"",
-17868|<O>| "铁轮" : "\"/item/final/16/1638\"",
-17869|<O>| case "王爷": type = "KING";  break;
-17870|<O>| desc = "民间常喝的酒，14秒内恢复玩家980点法力值。";
-17871|<O>| #define PF_NAME        "黄昏之息项链制作"
-17872|<O>| "完美补天石" : "\"/item/stuff/0100\"",
-17873|<O>| #define PF_NAME        "高级麻布披风制作"
-17874|<O>| result += sprintf(" %d 时", hour);
-17875|<O>| return "能使中毒者全身麻痹，失去知觉。药效会持续3秒。";
-17876|<O>| "铜剑" : "\"/item/final/76/1020\"",
-17877|<O>| "灵宝" : "\"/item/final/72/1105\"",
-17878|<O>| ESC"兑奖牌换取奖励\ntalk %x# bonus.10\n"
-17879|<O>| if(other_stat[6]) {				//	6 增加法术力
-17880|<O>| item = new ("item/91/9162");//逍遥散
-17881|<O>| + sprintf(ESC"开始测试\nparty 136\n")
-17882|<O>| return "持续1小时内变身为火精，可提升2%法术攻击力。";
-17883|<O>| if (place1=="禁卫军") place1 = "周国";
-17884|<O>| if (who->is_yutu())//月兔类，采用特殊捕捉方式
-17885|<O>| return "任务物品。孟求想用来做礼物送给丁鹤年的一种酒。";
-17886|<O>| return "［逆天法咒］逆天邪法，以诅咒伤害打击对手。\n";
-17887|<O>| //只包含属性及属性存取函数，其他函数在sys/npc/pet.c
-17888|<O>| pf = 53;    // 抄自 /sys/user/fight
-17889|<O>| string get_name() { return "燕"; }
-17890|<O>| private int buytime;			// 购买图纸的时间
-17891|<O>| cWord = "进入坑内的人注意:脚下躺着的就是你们的榜样。";
-17892|<O>| [0-6][00-23][00-59][00-59]-（最小单位）
-17893|<O>| ESC "删除它吧，我早就看它不顺眼了。\nskl x %d\n"
-17894|<O>| "长戟" : "\"/item/final/74/1030\"",
-17895|<O>| result += ESC"关闭活动\nparty 132\n";
-17896|<O>| "铜矛" : "\"/item/final/74/1020\"",
-17897|<O>| *   - Combat 结束后 N 秒无活动则 disabled
-17898|<O>| sprintf("%s:\n    初级的锻造石无法再分解。\n"
-17899|<O>| if (obj && obj->is_pet())	//宠物上架
-17900|<O>| ESC "你教的我都知道，不需要再学习什么。\nCLOSE\n"
-17901|<O>| return "［强化阴阳五行］提升法术攻击力，每级提升3点";
-17902|<O>| if (!clonep(me)) return "新手火晶石";
-17903|<O>| 这样的话，就将那个比自己少的删除掉，并且将自己加入到排行榜上面。
-17904|<O>| // 法术＋出招  TIPS:[PF_CAST_HIT]  变异
+﻿17812|<O>| tell_user(me, "%d tệp tinHoàn thành。", total);
+17813|<O>| "MộcLuân" : "\"/item/final/16/1603\"",
+17814|<O>| item = new ("item/08/0811");//mêbạnTrư
+17815|<O>| printf(ECHO "Bạn Thu Hồi“%s”。", PF_NAME);
+17816|<O>| ESC"trêngiao2kiệnTử SắcTrang bị\ntalk %x# bonus.2\n"
+17817|<O>| case "vip_revive2":	//vipNgẫu nhiênnhảy chuyểnđiểmgiữaPhục sinh
+17818|<O>| string get_name() { return "Tần"; }
+17819|<O>| "ĐồngĐao" : "\"/item/final/72/1020\"",
+17820|<O>| return "kéo dài1giờtrongbiến Thân vì Ác Côn，Có thể nâng1%Lực phòng thủ vật lý。";
+17821|<O>| "ĐồngCôn" : "\"/item/final/75/1020\"",
+17822|<O>| + sprintf(ESC"Bắt đầuKiểm tra\nparty 139\n")
+17823|<O>| pf = 60;    // Sao chép từ /sys/user/fight
+17824|<O>| return "Vật phẩm nhiệm vụ。Thanh khêcủa（88、62）Ámtàng gìBí Mật。";
+17825|<O>| else if (xy < 3000) return "Đông Nam Phương";
+17826|<O>| map->add_reset(npc);    // Gia Nhập phục vị liệt biểu
+17827|<O>| + sprintf(ESC"giữachỉhoạt động\nparty 162\n")
+17828|<O>| return "kéo dài1giờtrongbiến Thân vì hà Binh，Có thể nâng2%Lực tấn công phép thuật。";
+17829|<O>| pf = 20;    // Sao chép từ /sys/user/fight
+17830|<O>| map->add_2("totalscore.Tần Quốc", 450);
+17831|<O>| item = new ("item/91/9161");//ChungàyĐơn
+17832|<O>| map->set_heart_sec(0);    // hiệu chínhgiờChung
+17833|<O>| + sprintf(ESC"Chân GiảHổVương\nparty 130\n")
+17834|<O>| ESC "Tiếp tụcgiám định\nrepair %x# identify\n"
+17835|<O>| return "kéo dài1giờtrongbiến Thân vì sài cẩu，Có thể nâng2%Lực tấn công vật lý。";
+17836|<O>| return "kéo dài1giờtrongbiến Thân vì Sơn tặc，Có thể nâng2%Lực phòng thủ vật lý。";
+17837|<O>| pf = 64;    // Sao chép từ /sys/user/fight
+17838|<O>| mapping mpVote = ([]);		//chínhTạiđầu phiếucủaTín tức
+17839|<O>| item = new ("item/08/0003");//nhỏHuyết Thạch
+17840|<O>| switch( get_z(npc) )    // tra tìmđối vớiứng Chiến trường
+17841|<O>| #define PF_NAME        "caocấpma bố Hành trangChế tạo"
+17842|<O>| + sprintf(ESC"Kết thúcKiểm tra\nparty 143\n")
+17843|<O>| item = new ("item/91/9112");//bổ Tâm Đơn
+17844|<O>| if (who->get("anti_sleep"))	//kháng hôn mê
+17845|<O>| USER_D->gm_channel(HIY"Kiểm trahoạt độngMở") ;
+17846|<O>| +sprintf(ESC"đào Bảo tổng Động viên\nparty 110\n")
+17847|<O>| string get_name() { return "Hàn"; }
+17848|<O>| return "Vật phẩm nhiệm vụ。Tân Thủ ThônTu lý điếm Lão bản giaochoKhổng Lão đầucủatựcũTín。";
+17849|<O>| item = new ("item/91/9120");//cứu cấp Đơn
+17850|<O>| npc = new("npc/copy/0011");	//Cơ QuanThạch
+17851|<O>| me->delete("zombie");//Tướng cơ giớisủng vậtchoXóarơi。
+17852|<O>| desc = "chúctrongchỉCónhỏmễ,14giây phục hồi cho người chơi665điểm Pháp Lực。";
+17853|<O>| item = new("item/08/0001");	//Chiến Quốc Lệnh
+17854|<O>| + sprintf(ESC"dướiNhất trang\nparty 6666\n")
+17855|<O>| if ( count > 20 )	//mỗingàylầnsố Siêu qua20lầnphần thưởnggiảmít
+17856|<O>| item = new("item/91/9178");	//phục sinh Đơn
+17857|<O>| else if (rate < 9560)		//đối vớiứngCấp độNgẫu nhiênVàngtrang
+17858|<O>| pet->set_owner(me);	//khôngthiết vô Pháprestore
+17859|<O>| "xích tiêu" : "\"/item/final/76/1105\"",
+17860|<O>| item = new ("item/91/9150");//ngàyVương tán
+17861|<O>| return "kéo dài1giờtrongbiến Thân vì dã Trư，Có thể nâng2%Lực phòng thủ vật lý。";
+17862|<O>| ESC"hoán thủ Chiến trườngphần thưởng\ntalk %x# welcome.4\n"
+17863|<O>| case 40 : me->set_fam_name("Đường Môn");
+17864|<O>| item = new ("item/91/9163");//VàngTang tán
+17865|<O>| else    return sprintf("Cấm dùng Pháp Bảo\n");
+17866|<O>| if (gone_time(pTime1) > 30)	//thi ngẫu Thuật
+17867|<O>| "đậu tương" : "\"/item/final/33/1754\"",
+17868|<O>| "SắtLuân" : "\"/item/final/16/1638\"",
+17869|<O>| case "Vương gia": type = "KING";  break;
+17870|<O>| desc = "dân gian thường hátcủaTửu，14giây phục hồi cho người chơi980điểm Pháp Lực。";
+17871|<O>| #define PF_NAME        "Hoàng hôn Chi tứcHạng LiênChế tạo"
+17872|<O>| "hoàn Mỹ bổngàyThạch" : "\"/item/stuff/0100\"",
+17873|<O>| #define PF_NAME        "caocấpma bốPhi PhongChế tạo"
+17874|<O>| result += sprintf(" %d giờ", hour);
+17875|<O>| return "Năng sửgiữaĐộcgiả Toàn Thân ma tý，thất đi tri giác。Dược hiệusẽkéo dài3giây。";
+17876|<O>| "ĐồngKiếm" : "\"/item/final/76/1020\"",
+17877|<O>| "Linh Bảo" : "\"/item/final/72/1105\"",
+17878|<O>| ESC"đổi thưởng bài hoán thủphần thưởng\ntalk %x# bonus.10\n"
+17879|<O>| if(other_stat[6]) {				//	6 TăngPháp thuật lực
+17880|<O>| item = new ("item/91/9162");//tiêu dao tán
+17881|<O>| + sprintf(ESC"Bắt đầuKiểm tra\nparty 136\n")
+17882|<O>| return "kéo dài1giờtrongbiến Thân vìHỏaTinh，Có thể nâng2%Lực tấn công phép thuật。";
+17883|<O>| if (place1=="Cấm Vệ Quân") place1 = "Chu Quốc";
+17884|<O>| if (who->is_yutu())//thángthỏ loại，thải dùng đặc thù bổ tróc Phương thức
+17885|<O>| return "Vật phẩm nhiệm vụ。Mạnh cầu muốn dùng đến làm lễ Vật tốngchoĐinh hạcnămcủaMột loạiTửu。";
+17886|<O>| return "［nghịchngàyPháp chú］nghịchngàyTà Pháp，Dĩ trở chú Thương hại Đả kíchđối vớiThủ。\n";
+17887|<O>| //chỉbao Hàm thuộc tínhvàthuộc tính tồn thủHàm，khácHàmTạisys/npc/pet.c
+17888|<O>| pf = 53;    // Sao chép từ /sys/user/fight
+17889|<O>| string get_name() { return "Yên"; }
+17890|<O>| private int buytime;			// MuaĐồ chỉcủagiờgian
+17891|<O>| cWord = "Đi vàokhanhtrongcủaNhânChú ý:cướcdướinằm củaliềnLàbạncủabảng dạng。";
+17892|<O>| [0-6][00-23][00-59][00-59]-（tốinhỏđơn vị）
+17893|<O>| ESC "Xóanó，tôitảoliềnxemnókhôngthuận Nhãn。\nskl x %d\n"
+17894|<O>| "dàiKích" : "\"/item/final/74/1030\"",
+17895|<O>| result += ESC"Đónghoạt động\nparty 132\n";
+17896|<O>| "Đồngmâu" : "\"/item/final/74/1020\"",
+17897|<O>| *   - Combat Kết thúcsau N giâyvôhoạt độngTắc disabled
+17898|<O>| sprintf("%s:\n    Sơcấpcủađoạn tạo Thạch vô Pháp lạiPhân giải。\n"
+17899|<O>| if (obj && obj->is_pet())	//sủng vậttrêngiá
+17900|<O>| ESC "bạnGiáocủatôiđềutri Đạo，khôngcầnlạiHọcgì。\nCLOSE\n"
+17901|<O>| return "［Cường hóaÂm Dương Ngũ Hành］NângLực tấn công phép thuật，Mỗi cấp tăng3điểm";
+17902|<O>| if (!clonep(me)) return "mớiThủHỏatinh Thạch";
+17903|<O>| nàydạngcủathoại，liềnTướngđóso vớibản thânítcủaXóarơi，tịnh thả Tướngbản thânGia Nhậpđếnbài Hành bảngtrênDiện。
+17904|<O>| // Pháp Thuật＋Xuất chiêu  TIPS:[PF_CAST_HIT]  biến dị

@@ -1,0 +1,63 @@
+﻿10242|<O>| total = allocate(size);  k = 0;  begin = 1;  // 从 1 级开始
+10243|<O>| if (TASK_LEGEND_D->check_task_item(who, "含鳞珠", 1) != 1)
+10244|<O>| CHAR_CHAR_D->send_loop_perform_2(me, who);    // 显示持续图标
+10245|<O>| private static int AddAmount;                   // 新增总数
+10246|<O>| result = sprintf( "%s说道:你能从我这里学到\n", who->get_name() );
+10247|<O>| return "［大乘道法］提升法力上限，每级提升 4 点。提升法术攻击的爆击率，每级提升0.05％。\n";
+10248|<O>| USER_ENERGY_D->count_cp(me);    // cp/pp 影响 ap/dp, 所以放前
+10249|<O>| private static mapping Database = ([]);        // 普通数据集
+10250|<O>| send_user(who, "%c%s", '!', sprintf(HIY"木头 %d/20", i));
+10251|<O>| if (TASK_LEGEND_D->check_task_item(who, "夜明珠", 1) != 1)
+10252|<O>| send_user(who, "%c%s", ';', "孤独 经验 200 潜能 30 金钱 1000");
+10253|<O>| /*      if( me->is_store_open() )    // 原因:摆摊是用 pf2 进行的
+10254|<O>| send_user(who, "%c%s", '!', sprintf(HIY"干粮 %d/20", i));
+10255|<O>| return "传说装满了无数珍宝的口袋，\n可增加使用者12格的背包空间。\n百宝囊30天后会自动损坏。";
+10256|<O>| if (TASK_LEGEND_D->check_task_item(who, "请命函", 1) != 1)
+10257|<O>| send_user(who, "%c%s", '!', sprintf(HIY"名酒 %d/10", i));
+10258|<O>| send_user(who, "%c%s", '!', sprintf(HIY"黑熊 %d/10", i));
+10259|<O>| if (TASK_LEGEND_D->check_task_item(who, "认罪书", 1) != 1)
+10260|<O>| if (TASK_LEGEND_D->check_task_item(who, "玉雕", 20) != 1)
+10261|<O>| send_user(who, "%c%s", '!', sprintf(HIY"草寇 %d/20", i));
+10262|<O>| private static mapping mpSP = ([]);            // 临时数据集
+10263|<O>| &&      random(100) < item->get_active_rate()    // 成功率
+10264|<O>| if (TASK_LEGEND_D->check_task_item(who, "鱼龙草", 1) != 1)
+10265|<O>| tell_user(me, "%s公众频道被封闭 %d 分。", who->get_name(), min);
+10266|<O>| send_user(who, "%c%s", '!', sprintf(HIY"现行粉 %d/1", i));
+10267|<O>| send_user(who,"%c%s",'!',sprintf("恭喜您！您得到了%d点经验",exp));
+10268|<O>| send_user(who, "%c%s", '!', sprintf(HIY"罐中仙 %d/8", i));
+10269|<O>| who->get_name() + ":\n    你是合并服务器之后建立的角色呀？不能领取合服大奖了！\n"
+10270|<O>| send_user(who, "%c%s", '!', sprintf(HIY"兽角 %d/20", i));
+10271|<O>| send_user(who, "%c%s", '!', sprintf(HIY"骸骨精 %d/8", i));
+10272|<O>| ESC "接受。\n" + sprintf("talk %x# accept\n",getoid(me)) +
+10273|<O>| if (TASK_LEGEND_D->check_task_item(who, "寒丝", 1) != 1)
+10274|<O>| send_user(who, "%c%s", '!', "你得到了新的称谓" + HIR + cName);
+10275|<O>| send_user(who, "%c%s", '!', sprintf(HIY"圆环 %d/3", i));
+10276|<O>| if (TASK_LEGEND_D->check_task_item(who, "番薯", 8) != 1)
+10277|<O>| send_user(who, "%c%s", '!', sprintf(HIY"黄金 %d/1", 1));
+10278|<O>| if (is_lazy || is_slow) speed *= 2;    // 战斗速度减半(漫天缤纷)
+10279|<O>| send_user(who, "%c%s", '!', sprintf(HIY"刀魂 %d/4", i));
+10280|<O>| if (TASK_LEGEND_D->check_task_item(who, "黄金", 1) != 1)
+10281|<O>| send_user(who, "%c%s", '!', sprintf(HIY"灵芝 %d/3", i));
+10282|<O>| if (who->add_save_2("build.count", 1) > 20)    // 答对题数
+10283|<O>| if (TASK_LEGEND_D->check_task_item(who, "纸钱", 5) != 1)
+10284|<O>| if (TASK_LEGEND_D->check_task_item(who, "玉米", 2) != 1)
+10285|<O>| result += ESC"使用复生丹在"HIY"原地复活"NOR"。\ndesc revive19\n";
+10286|<O>| private static object Manager;          // 本帮总管:用于帮派战争
+10287|<O>| CHAR_CHAR_D->stop_loop_perform_8(me);    // 中断持续效果(其它)
+10288|<O>| send_user(me, "%c%w%w%c", 0x07, x0, y0, 6);    // 坐标修正
+10289|<O>| return sprintf("大血石:\n    使用后每2秒可恢复%d点气血值", iStoneHp);
+10290|<O>| //                      sprintf("%s:\n    你现在还不能自杀。\n"
+10291|<O>| if (TASK_LEGEND_D->check_task_item(who, "贺礼", 1) != 1)
+10292|<O>| if (TASK_LEGEND_D->check_task_item(who, "竹简", 1) != 1)
+10293|<O>| if (TASK_LEGEND_D->check_task_item(who, "木盒", 1) != 1)
+10294|<O>| if ( gone_time(me->get("occupy_time")) < 5 )	//限制申请的间隔
+10295|<O>| if (TASK_LEGEND_D->check_task_item(who, "糯米", 8) != 1)
+10296|<O>| if (TASK_LEGEND_D->check_task_item(who, "菜谱", 1) != 1)
+10297|<O>| case "燕国": z = 70;  p = get_jumpin(z, me->get("out"));
+10298|<O>| send_user(who, "%c%s", '!', sprintf(HIY"枪俑 %d/9", i));
+10299|<O>| if (TASK_LEGEND_D->check_task_item(who, "雄黄", 1) != 1)
+10300|<O>| send_user(me, "%c%w%w%c", 0x07, x0, y0, 4);    // 坐标修正
+10301|<O>| return ("寓意:潇洒不羁\n使用后法术防御增加30%，持续60分钟\n"HIR"使用者需为男性");
+10302|<O>| return HIC+get_name()+"\n拥有此技能的宠物，会使用雷击法术攻击3×3范围内目标。";
+10303|<O>| send_user(who, "%c%s", '!', sprintf(HIY"羽毛 %d/3", i));
+10304|<O>| send_user(who, "%c%s", '!', sprintf(HIY"小麦 %d/3", i));

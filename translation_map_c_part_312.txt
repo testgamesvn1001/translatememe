@@ -1,69 +1,69 @@
-﻿12142|<O>| else if (rate < 10000 * rate1 / 100)		//随机4级晶石3个
-12143|<O>| send_user(me, "%c%s", '!', "您的资料出了问题，请马上通知ＧＭ。");
-12144|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"山道里的鬼火");
-12145|<O>| send_user(who, "%c%s", '!', "得到"HIR"玫瑰"NOR"三枝");
-12146|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 6, "开启中……");
-12147|<O>| if (me->get_action_mode()!=1) return;	// 不主动攻击别人
-12148|<O>| send_user(me, "%c%s", ';', "成功中止国庆节活动之——西瓜伯伯！");
-12149|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"找吕不韦谈谈");
-12150|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"郑国渠的阴风");
-12151|<O>| result = sprintf("%s 您自杀！", short_time(time()));
-12152|<O>| sprintf("%s:\n     你已经累计领取了%d分钟的双倍经验时间，好好把握吧。\n"
-12153|<O>| #define SKILL_FINAL	"/item/stuff/0012"		// 制作的结果
-12154|<O>| tell_user(me, "用户:%d，在线:%d / %d (ＧＭ:%d，玩家:%d)。",
-12155|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"访问周国名士");
-12156|<O>| int is_moveable() { return 1; }    // 禁止使用 go 命令
-12157|<O>| send_user(me, "%c%s", '!', "充值返回值不对。" + result);
-12158|<O>| note->Name = sprintf("%s(师傅)", who->get_name());
-12159|<O>| send_user(who, "%c%s", ';', "高级段寄存葫芦需要50000金！");
-12160|<O>| result += sprintf("  现金:%10d", who->get_cash());
-12161|<O>| if (!clonep(me)) return "［精炼］ 物攻\n［适用装备］ 武器、项链";
-12162|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"心上人的礼物");
-12163|<O>| if ((npc = me->get_2("orgtask2.npc"))    // 帮派任务
-12164|<O>| ssss = ":\n    你有啥好玩意儿都可以交给我兑换奖品噢～我这里奖品可丰厚了！\n";
-12165|<O>| if (objectp(npc = new("/npc/01/0012"))    // 大伯公
-12166|<O>| send_user(who, "%c%s", '!', "您加入了本地帮派，不能放弃户籍。");
-12167|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"重阳节（4）");
-12168|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"内政官的心事");
-12169|<O>| else if (rate < 9100 * rate1 / 100)		//随机1级晶石16个
-12170|<O>| amount02 = check_item_amount(who, "装着坏小猪的神奇葫芦");
-12171|<O>| if ((npc = me->get_2("orgtask2.npc"))    // 运镖人物
-12172|<O>| private mapping Pawn = ([]);           // 典当数据资料
-12173|<O>| int is_anti_effect() { return 1; }   // 禁止effect
-12174|<O>| if (me->get_save_2("Newbie.Login"))    // 新手场景提示
-12175|<O>| send_user(who, "%c%s", '!', "对方在城内，不能使用同心锁传送。");
-12176|<O>| result += sprintf("税收:%10d\n", city->get_tax());
-12177|<O>| send_user(who, "%c%s", ';', "缘分对对碰 凤镯 1 七国令 1");
-12178|<O>| SAY_CMD->say(me, "陵墓总监工，他们实在太强了，我坚持不住了。我需要帮助！");
-12179|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"黎明前的黑暗");
-12180|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 3, "传送中……");
-12181|<O>| who->get_name() + ":\n    分解锻造石的时候身上至少保留一个空格。\n"
-12182|<O>| private string MasterName2;             // 帮主姓名２
-12183|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"揭开宝藏之迷");
-12184|<O>| thresh4 = 10000 * rate / 100;   // 杂物２ threshold
-12185|<O>| name = "长白劫匪";picid = 8011; citypoint = 7;break;
-12186|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"山谷里的回音");
-12187|<O>| if (!(obj2 = present("残图右上角", me, 1, MAX_CARRY))
-12188|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"大葫芦（4）");
-12189|<O>| me->set_yuan( me->get_max_yuan() );    // 补满玩家元气
-12190|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"丢失的夜明珠");
-12191|<O>| level = who->get_2("jishihulu.level");	//玩家领取时等级
-12192|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"重阳节（3）");
-12193|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"王捕头的美差");
-12194|<O>| ESC "离开\nCLOSE\n", me->get_name(), getoid(me)));
-12195|<O>| #define SKILL_FINAL	"/item/stuff/0009"		// 制作的结果
-12196|<O>| tell_user(me, HIY "您邀请%s来这儿。", who->get_name());
-12197|<O>| log_file("boss.txt", short_time() + " 飞贼王出现\n");
-12198|<O>| ESC "装备精炼\n" + sprintf("talk %x# make2\n", id) +
-12199|<O>| private int Master2;                    // 帮主标识２
-12200|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"龙骨坡的灵光");
-12201|<O>| return "记载着云梦泽专用法术强化银针渡厄的书籍。云梦泽使用后可学会法术强化银针渡厄。";
-12202|<O>| note->Name = sprintf("%s(相公)", who->get_name());
-12203|<O>| case 2: item->set_hp(point);  break;    // 九龙神火罩
-12204|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"偷吃的小野兔");
-12205|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"苍梧道的迷魂");
-12206|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"肖独贵（2）");
-12207|<O>| if (who->get_owner() == me) return 2;    // 执行成功
-12208|<O>| #define SKILL_FINAL	"/item/stuff/0011"		// 制作的结果
-12209|<O>| who->set("pf.fall", -damage / 10);    // 小心准备 me
-12210|<O>| private static object Manager;          // 攻击方总管
+﻿12142|<O>| else if (rate < 10000 * rate1 / 100)		//Ngẫu nhiên4cấp Tinh Thạch3
+12143|<O>| send_user(me, "%c%s", '!', "Bạncủatư liệu Xuấtvấn đề，Xin Mãtrênthông triＧＭ。");
+12144|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Sơn ĐạotrongcủaQuỷHỏa");
+12145|<O>| send_user(who, "%c%s", '!', "nhận được"HIR"mai côi"NOR"Tam chi");
+12146|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 6, "Mởgiữa……");
+12147|<O>| if (me->get_action_mode()!=1) return;	// khôngchủ ĐộngTấn côngbiệt Nhân
+12148|<O>| send_user(me, "%c%s", ';', "Thành cônggiữachỉ Quốc khánh tiếthoạt độngChi——Tây qua bá bá！");
+12149|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"tìm LữkhôngVi đàm đàm");
+12150|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Trịnh Quốc cừcủaÂmPhong");
+12151|<O>| result = sprintf("%s Bạn Tự Sát！", short_time(time()));
+12152|<O>| sprintf("%s:\n     bạnđãlũy Kế lĩnh thủ%dphútcủasong bộiKinh nghiệmgiờgian，tốttốtđemác 。\n"
+12153|<O>| #define SKILL_FINAL	"/item/stuff/0012"		// Kết quả chế tạo
+12154|<O>| tell_user(me, "dùng Hộ:%d，Tạituyến:%d / %d (ＧＭ:%d，Người chơi:%d)。",
+12155|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"phỏng hỏiChu QuốcDanh Sĩ");
+12156|<O>| int is_moveable() { return 1; }    // Cấm chỉSử dụng go Mệnh Lệnh
+12157|<O>| send_user(me, "%c%s", '!', "sung TrịQuay vềTrịkhôngđối với。" + result);
+12158|<O>| note->Name = sprintf("%s(Sư Phó)", who->get_name());
+12159|<O>| send_user(who, "%c%s", ';', "caocấpđoạn ký tồn hồ lôcần50000Vàng！");
+12160|<O>| result += sprintf("  hiệnVàng:%10d", who->get_cash());
+12161|<O>| if (!clonep(me)) return "［Tinh luyện］ Vật Công\n［Trang bị thích hợp］ Vũ khí、Hạng Liên";
+12162|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"TâmtrênNhâncủalễ Vật");
+12163|<O>| if ((npc = me->get_2("orgtask2.npc"))    // bang pháiNhiệm vụ
+12164|<O>| ssss = ":\n    bạnCógìtốtngoạn Ý nhiđềucó thểgiaochotôiđổi hoán thưởng Phẩm ô～tôinàytrongthưởng Phẩm có thể Phong hậu！\n";
+12165|<O>| if (objectp(npc = new("/npc/01/0012"))    // lớnbá công
+12166|<O>| send_user(who, "%c%s", '!', "Bạn Gia Nhập Bản Địabang phái，không thểTừ bỏHộ tịch。");
+12167|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"trọng Dương tiết（4）");
+12168|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"trongchính quancủaTâm sự");
+12169|<O>| else if (rate < 9100 * rate1 / 100)		//Ngẫu nhiên1cấp Tinh Thạch16
+12170|<O>| amount02 = check_item_amount(who, "trang xấunhỏTrưcủaThầnKỳ hồ lô");
+12171|<O>| if ((npc = me->get_2("orgtask2.npc"))    // vận tiêu Nhân Vật
+12172|<O>| private mapping Pawn = ([]);           // Điển đươngdữ liệutư liệu
+12173|<O>| int is_anti_effect() { return 1; }   // Cấm chỉeffect
+12174|<O>| if (me->get_save_2("Newbie.Login"))    // mớiThủ trường cảnh Đề thị
+12175|<O>| send_user(who, "%c%s", '!', "đối vớiPhươngTạiThànhtrong，Không thể sử dụngĐồng Tâm TỏaTruyền tống。");
+12176|<O>| result += sprintf("thuế Thu:%10d\n", city->get_tax());
+12177|<O>| send_user(who, "%c%s", ';', "Duyênphútđối vớiđối vớibằng Phượngtrác 1 Thất Quốc Lệnh 1");
+12178|<O>| SAY_CMD->say(me, "Lăng Mộ tổng giám công，hắnthựcTạiThái Cường，tôikiên trìkhôngtrụ。tôicầnBang Trợ！");
+12179|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Lê MinhtrướccủaHắcÁm");
+12180|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 3, "Truyền tốnggiữa……");
+12181|<O>| who->get_name() + ":\n    Phân giảiđoạn tạo ThạchcủalúcThântrênChíítbảo lưu Nhất Không cách。\n"
+12182|<O>| private string MasterName2;             // Bang chủ tính Danh２
+12183|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"yết mở Bảo tàng Chi mê");
+12184|<O>| thresh4 = 10000 * rate / 100;   // Tạp vật２ threshold
+12185|<O>| name = "dàiBạch kiếp phỉ";picid = 8011; citypoint = 7;break;
+12186|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Sơn CốctrongcủaHồi âm");
+12187|<O>| if (!(obj2 = present("tàn Đồphảitrêngiác", me, 1, MAX_CARRY))
+12188|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"lớnhồ lô（4）");
+12189|<O>| me->set_yuan( me->get_max_yuan() );    // bổ mãnNgười chơiNguyên khí
+12190|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"mất thấtcủadạ Minh Châu");
+12191|<O>| level = who->get_2("jishihulu.level");	//Người chơilĩnh thủgiờCấp độ
+12192|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"trọng Dương tiết（3）");
+12193|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Vương bổ đầucủaMỹ sai");
+12194|<O>| ESC "Rời khỏi\nCLOSE\n", me->get_name(), getoid(me)));
+12195|<O>| #define SKILL_FINAL	"/item/stuff/0009"		// Kết quả chế tạo
+12196|<O>| tell_user(me, HIY "Bạn yêu Xin%sđếnnàynhi。", who->get_name());
+12197|<O>| log_file("boss.txt", short_time() + " Phi tặc Vương Xuất hiện\n");
+12198|<O>| ESC "Trang bịTinh luyện\n" + sprintf("talk %x# make2\n", id) +
+12199|<O>| private int Master2;                    // Bang chủ tiêu Thức２
+12200|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"LongCốt phacủaLinhQuang");
+12201|<O>| return "ký tải Vân Mộng Trạchchuyên dùng Pháp ThuậtCường hóaBạcchâm độ áchcủathư tịch。Vân Mộng TrạchSử dụngsaucó thể HọcsẽPháp ThuậtCường hóaBạcchâm độ ách。";
+12202|<O>| note->Name = sprintf("%s(Tương công)", who->get_name());
+12203|<O>| case 2: item->set_hp(point);  break;    // CửuLongThầnHỏatrạo
+12204|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"thâu Cậtcủanhỏdã thỏ");
+12205|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"thương ngô Đạocủamê Hồn");
+12206|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Tiêu Độc Quý（2）");
+12207|<O>| if (who->get_owner() == me) return 2;    // thực hiện thành công
+12208|<O>| #define SKILL_FINAL	"/item/stuff/0011"		// Kết quả chế tạo
+12209|<O>| who->set("pf.fall", -damage / 10);    // cẩn thận chuẩn bị me
+12210|<O>| private static object Manager;          // Tấn côngPhương tổng quản

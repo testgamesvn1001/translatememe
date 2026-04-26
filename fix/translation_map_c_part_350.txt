@@ -1,0 +1,80 @@
+﻿14973|<O>| send_user(who, "%c%s", '!', "土匪马大 1/1");
+14974|<O>| else if (p < 5570 * rate / 100)    // 金钱
+14975|<O>| send_user(who, "%c%s", '!', "僵尸李刃 1/1");
+14976|<O>| send_user(me, "%c%s", '!', "点卡购买参数错误！");
+14977|<O>| if (me->get_org_name() != "")  // 删掉申请信息
+14978|<O>| else if (p < 6814 * rate / 100)    // 金钱
+14979|<O>| sprintf("%-12s姓　名:%s\n数字ID:%d\n性　别:%s\n"
+14980|<O>| send_user( me, "%c%s", '!', "您身上没有空位！");
+14981|<O>| send_user(me, "%c%s", '!', "无法找到这位玩家。");
+14982|<O>| send_user(me, "%c%s", '!', "在副本内不能使用。");
+14983|<O>| send_user(who, "%c%s", '!', "您身上没有空位！");
+14984|<O>| notify("VIP频道将于 %d 分钟后开启。", t / 60 + 1);
+14985|<O>| else if (p < 6732 * rate / 100)    // 金钱
+14986|<O>| send_user(me, "%c%s", '!', "情人节活动关闭了!");
+14987|<O>| void into_effect_2(object me)    // 撒豆成兵
+14988|<O>| //			+ sprintf(ESC"端午节活动操作\nparty 50\n")
+14989|<O>| send_user(who, "%c%s", '!', "巫山精灵 1/1");
+14990|<O>| else if (p < 5243 * rate / 100)    // 金钱
+14991|<O>| result += ESC "50元宝\nconsign list 50\n";
+14992|<O>| send_user(me, "%c%s", '!', "您不能对自己唱歌。");
+14993|<O>| send_user(who, "%c%s", '!', "匪徒武三 1/1");
+14994|<O>| else if (p < 5222 * rate / 100)    // 金钱
+14995|<O>| else if (p < 7900 * rate / 100)    // 金钱
+14996|<O>| ESC"一小时内增加气血上限200点\ntalk %x# bonus.13\n"
+14997|<O>| SAY_CMD->say(me, "来吧来吧，你们知道什么是爱什么是恨吗？");
+14998|<O>| else if (p < 5580 * rate / 100)    // 金钱
+14999|<O>| result += sprintf(ESC "关闭窗口。\nCLOSE\n");
+15000|<O>| desc = "是古代名酒，起源于杏花村，14秒内恢复玩家1890点法力值。";
+15001|<O>| else if (p < 9212 * rate / 100)    // 金钱
+15002|<O>| else if (p < 8998 * rate / 100)    // 金钱
+15003|<O>| ESC"两只球(黑+蓝)兑换随机奖品\ntalk %x# bonus.28\n"
+15004|<O>| send_user(me, "%c%s", '!', "您现在的体力不够。");
+15005|<O>| send_user(me, "%c%s", '!', "您不能对自己跳舞。");
+15006|<O>| else if (p < 5614 * rate / 100)    // 金钱
+15007|<O>| if (map->get_manager() == who)    // 攻击方
+15008|<O>| else if (p < 9246 * rate / 100)    // 金钱
+15009|<O>| send_user(me, "%c%s", ':', "您获得五张藏宝图。");
+15010|<O>| else if (p < 9224 * rate / 100)    // 金钱
+15011|<O>| send_user(me, "%c%s", '!', "不能到达目的地图。");
+15012|<O>| else if (p < 3206 * rate / 100)    // 金钱
+15013|<O>| printf(ECHO "不能对游戏管理员使用“" PF_NAME "”。");
+15014|<O>| else if (p < 2907 * rate / 100)    // 金钱
+15015|<O>| + ESC"300金收购小野兔一只\ntalk %x# welcome.2\n"
+15016|<O>| else if (p < 4898 * rate / 100)    // 金钱
+15017|<O>| send_user(me, "%c%s", ':', "您想查看哪类公式？\n"
+15018|<O>| string get_skill_name() { return "诵经"; }
+15019|<O>| notify("您的帐号余额不足，如果您已充值，请退出游戏再进以购买道具。");
+15020|<O>| string get_skill_name() { return "铁匠"; }
+15021|<O>| send_user(who, "%c%s", '!', "无赖石九 1/1");
+15022|<O>| _DEBUG(sprintf("设置运转周期为 %s",cycle_way));
+15023|<O>| else if (p < 6354 * rate / 100)    // 金钱
+15024|<O>| else if (p < 5547 * rate / 100)    // 金钱
+15025|<O>| string get_skill_name() { return "酒食"; }
+15026|<O>| notify(item->get_name() + "不是装备，不能修理！");
+15027|<O>| ESC"一小时内增加法力上限200点\ntalk %x# bonus.15\n"
+15028|<O>| return "［龙游四海］快速移动到其他人身边，对方法力越低成功率越高\n";
+15029|<O>| notify(item->get_name() + "已经上架，不能典当。");
+15030|<O>| item2 = new ("/item/04/0434");    // 给红包
+15031|<O>| else if (p < 6254 * rate / 100)    // 金钱
+15032|<O>| else if (p < 3080 * rate / 100)    // 金钱
+15033|<O>| else if (p < 9220 * rate / 100)    // 金钱
+15034|<O>| else if (p < 5750 * rate / 100)    // 金钱
+15035|<O>| // 原始函数在 inh/npc/*.c 或 inh/char/attack.c
+15036|<O>| send_user(me, "%c%s", '!', "存档文件格式不对。");
+15037|<O>| printf(ECHO "使用“" PF_NAME "”需要在相邻的位置。");
+15038|<O>| send_user(who, "%c%s", '!', "您已经投过票了。");
+15039|<O>| //			ESC"猪年充值送神猪\ntalk %x# bonus.1015\n"
+15040|<O>| update_record(player);//这里更新兔子数量记录以及排行榜。
+15041|<O>| notify(item->get_name() + "已经上架，不能卖掉。");
+15042|<O>| printf(ECHO "使用“" PF_NAME "”得先学会道家学说。");
+15043|<O>| return "［奇门遁甲］可学习抵抗伤害的技能灵气甲。可使用阵旗布阵。\n";
+15044|<O>| SAY_CMD->say(me, "既然不想干活了，就给你指出一条明路吧。");
+15045|<O>| set_heart_loop(me, 150);    // 循环心跳:１５秒钟
+15046|<O>| if (p < 4500 * rate / 100)    // 金钱  %10
+15047|<O>| return "［强化唐门心法］提升玩家装备暗器时的法术防御力，每级提升3点";
+15048|<O>| sprintf(ESC"我要投票\ntalk %x# list\n",id) +
+15049|<O>| //			+ sprintf(ESC"四色球活动操作\nparty 54\n")
+15050|<O>| else if (p < 8838 * rate / 100)    // 金钱
+15051|<O>| printf( ECHO "您所在的门派没有“" PF_NAME "”。" );
+15052|<O>| private static string StoreName = "杂货摊";

@@ -1,0 +1,69 @@
+﻿12211|<O>| set_save_2(sprintf("elect.蜀山.%d.level",i),i*10);
+12212|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"韩总管的帮助");
+12213|<O>| private int Skill;                     	// 大技能编号
+12214|<O>| private static string Perform;          // 特殊技文件
+12215|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"韩总管的托付");
+12216|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"长城上的哭泣");
+12217|<O>| send_user(me, "%c%s", ';', "成功开启国庆节活动之——西瓜伯伯！");
+12218|<O>| send_user(who, "%c%s", ';', "破损的铁锹 经验 80 潜能 5");
+12219|<O>| if( bag & BAG_TYPE_1 ) b = MAX_CARRY_2;    // 包裹
+12220|<O>| //	localtime 返回的月份数是  0-11 这里很不好理解因此+1已兼容 mktime
+12221|<O>| result2 = sprintf("体力 %d", who->get_strength());
+12222|<O>| name = "太行劫匪";picid = 8011; citypoint = 4;break;
+12223|<O>| int get_zombie_type() { return 99; }     // 判断种类
+12224|<O>| send_user(who, "%c%s", ';', "小鸡咕咕 经验 100 桔子 5");
+12225|<O>| send_user(me, "%c%s", '!', "接受极限穿越任务后不能使用飞行符。");
+12226|<O>| if (!me->is_actor())    // 再次确认，防换职业 level 的 BUG
+12227|<O>| private int Temp;                     	// 是否临时标志
+12228|<O>| //  case "蜀山" : if( get_weapon_code() == BLADE )
+12229|<O>| string get_suit_name() { return "狂狮"; }	//属于某某套装
+12230|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"珍贵的红宝石");
+12231|<O>| private static string orgname;           // 帮派名字
+12232|<O>| private string MasterName3;             // 城主３姓名
+12233|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"肖独贵（1）");
+12234|<O>| if (distance_between(me, owner) <= 3)    // 三格之内
+12235|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"寻求王的帮助");
+12236|<O>| result = sprintf("你意外得到一本%s。", obj->get_name());
+12237|<O>| int get_cast_seal() { return 42100; }    // 符纸顺旋
+12238|<O>| private static string Defense;          // 战场防守方
+12239|<O>| send_user(who, "%c%s", '!', "得到"HIR"桔子"NOR"5个");
+12240|<O>| private static int Type2;               // 背饰代码2
+12241|<O>| if (owner = who->get_owner()) who = owner;//有主人。
+12242|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"斑点狗的血液");
+12243|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 6, "挖矿中……");
+12244|<O>| USER_D->user_channel(HIR "游戏重新启动，请稍候一分钟再重新登录。");
+12245|<O>| private static int Type1;               // 背饰代码1
+12246|<O>| if (!get_effect(me, EFFECT_CHAR_DREAM_0))		//不梦游
+12247|<O>| log_file("boss.txt", short_time() + " 山大王出现\n");
+12248|<O>| int get_hp() { return get_max_hp(); }    // 无法杀死
+12249|<O>| send_user(me, "%c%s", '!', "您的帐号不存在或者没有激活该大区。");
+12250|<O>| send_user(me, "%c%s", '!', "请关闭窗口重新打开属性窗口刷新属性");
+12251|<O>| pf = ({ });  pf2 = ({ });    // pf 好的效果；pf2 坏的效果
+12252|<O>| if ( !mapp(mpTmp1) || !mapp(mpTmp1[id]) )	//是否存在
+12253|<O>| if (map->get_no_fight()) notify( "您所在的地图不能PK" );
+12254|<O>| if (!clonep(me)) return "［精炼］ 法攻\n［适用装备］ 武器、项链";
+12255|<O>| else if (rate < 100000)	//吸取给予对方法术伤害的5%做为自己的法力恢复
+12256|<O>| result += sprintf(ESC "怎样才是最好的配点？\n%s\n", cmd3);
+12257|<O>| private int Tool;                     	// 技能要求工具
+12258|<O>| void into_effect(object me, int flag)    // 玩家使用
+12259|<O>| thresh3 = 9500 * rate / 100;    // 杂物１ threshold
+12260|<O>| send_user(who, "%c%s", '!', "第一次扩展葫芦，请先把葫芦放出。");
+12261|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"同心锁（4）");
+12262|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"万人坑的骷髅");
+12263|<O>| cmd1 = sprintf(ESC"上交1件金色装备\ntalk %x# bonus.1\n"
+12264|<O>| "做好准备，在"HIR"周国的王捕头"NOR"处领取挖宝小锄头。",interval/60));
+12265|<O>| private string MasterName2;             // 城主２姓名
+12266|<O>| SAY_CMD->say(me, "我靠!真下黑手啊!别怪我翻脸无情，尝尝我的茅山无影脚!");
+12267|<O>| send_user(who, "%c%s", ';', "运箱子 经验 250 潜能 20");
+12268|<O>| private string MasterId2;               // 帮主帐号２
+12269|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"湖口村的血迹");
+12270|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"大葫芦（1）");
+12271|<O>| npc->set_name(HIR + me->get_city_name() + "兵士");
+12272|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"肖独贵（4）");
+12273|<O>| USER_SLAVE_D->save_all_slave(me);    // 召唤兽保留１分钟
+12274|<O>| else if (rate < 5000 * rate1 / 100)		//40级随机配方两个
+12275|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"平阳之乱1");
+12276|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"秘密（4）");
+12277|<O>| private static int BeenSlave = 0;       // 曾被魅惑
+12278|<O>| if( bag & BAG_TYPE_3 ) d = MAX_CARRY;    // 乾坤袋
+12279|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"传闻的宝藏");

@@ -1,0 +1,82 @@
+﻿15134|<O>| string get_city_name() { return "魏国"; }
+15135|<O>| if (MAIN_D->get_host_type()==2)		//台湾除外
+15136|<O>| send_user(who, "%c%s", '!', "僵尸王 1/1");
+15137|<O>| return "记载着周天诵文的心法书籍。蜀山可利用此书籍施放法术大周天。";
+15138|<O>| send_user(who, "%c%s", '!', "骷髅魔 1/1");
+15139|<O>| "钢铁护心甲禁卫军" : "\"/item/final/60/3055\"",
+15140|<O>| send_user(who, "%c%s", '!', "赵术士 1/1");
+15141|<O>| send_user(who, "%c%s", '!', "魏小三 1/1");
+15142|<O>| send_user(who, "%c%s", '!', "钱三疤 1/1");
+15143|<O>| send_user(who, "%c%s", '!', "千层怪 1/1");
+15144|<O>| notify("聊天频道将于 %d 分钟后开启。", t / 60 + 1);
+15145|<O>| send_user(who, "%c%s", '!', "赵小三 1/1");
+15146|<O>| send_user(who, "%c%s", '!', "迷失鬼 1/1");
+15147|<O>| string get_city_name() { return "楚国"; }
+15148|<O>| printf(ECHO "不能对摆摊的人使用“" PF_NAME "”。");
+15149|<O>| send_user(who, "%c%s", '!', "许子高 1/1");
+15150|<O>| write_user(me, ECHO "您现在的攻击模式是:自由攻击。");
+15151|<O>| private int AcountNo;				// 帐号对应的Number
+15152|<O>| && npc->is_escort_robber_2()    // 被动乞丐
+15153|<O>| desc = "有点豪华的加蛋的烤猪肉，14秒内恢复玩家2170点气血值。";
+15154|<O>| "铁板实战铠禁卫军" : "\"/item/final/60/3075\"",
+15155|<O>| set_heart_loop(me, 600);    // 循环心跳:１分钟
+15156|<O>| string get_fam_name() { return "云梦泽"; }
+15157|<O>| send_user(who, "%c%s", '!', "逆世鬼 1/1");
+15158|<O>| notify("%s现在不在队伍当中。", who->get_name());
+15159|<O>| "/cmd/base/say"->say(me, "法力...法力...");
+15160|<O>| 07-06-28  18:00 完成时间轮寻控制框架（修复之前一个严重BUG）
+15161|<O>| ESC "兔子变身卡\n" + "findgm setbonus 5\n" +
+15162|<O>| case "村妇": type = "FARM_WOMAN";  break;
+15163|<O>| send_user(team[1],"%c%s",'!',"你的仙丹呢?");
+15164|<O>| send_user(me, "%c%s", '!', "结束四色球测试！");
+15165|<O>| ESC+HIY"修复锻造异常的装备\ntalk %x# bonus.30\n"
+15166|<O>| notify( "没办法修理%s！", item->get_name() );
+15167|<O>| tell_user(who, HIR "游戏管理员ＧＭ突然出现在你面前。\n"
+15168|<O>| gift = new("item/final/91/1810");	//紫箐丹
+15169|<O>| && inside_screen_2(me, npc))    // 卫兵距离
+15170|<O>| interval = TIME_INTERVAL;    // 小心准备 me
+15171|<O>| ESC "艺术。\ntalk " + id + " stir_up.14\n"
+15172|<O>| notify("您能封闭的频道有:chat, rumor,vipchat");
+15173|<O>| if ( rate=who->get("anti_water") )	//抗水
+15174|<O>| case "周国": city2 = "CITY_ZHOU";  break;
+15175|<O>| "/sys/sys/count"->add_use("鉴定", level);
+15176|<O>| write_user(me, ECHO "您现在的攻击模式是:完全保护。");
+15177|<O>| "铁板实战铠桃花源" : "\"/item/final/60/1075\"",
+15178|<O>| send_user(me, "%c%s", '!', "无法生成这种道具");
+15179|<O>| HIR "人物属性界面" NOR "，就是下方有一个小人的按钮，或者直接按'"
+15180|<O>| send_user(who, "%c%s", '!', "错误的时间！！");
+15181|<O>| private int ExtraExpTime;		// 战国号角加经验时间
+15182|<O>| result = sprintf("现在的玩家有%d个:\n", size);
+15183|<O>| me->set_heart_sec(0);    // 初始化时间(准备状态)
+15184|<O>| return "木星精灵死后的魂魄精华，石刻、裁缝、铁匠生活技能需要的材料";
+15185|<O>| private string* Manager5 = ({ });	// 香主
+15186|<O>| send_user(who, "%c%s", '!', "张大升 1/1");
+15187|<O>| if (me->get("gold") == gold)    // 数量正确
+15188|<O>| send_user(who, "%c%s", '!', "现在无法充值。");
+15189|<O>| else if (p < 50 * rate / 100)    // 藏宝图
+15190|<O>| tell_user(me, "请查看 /log/list.txt 文件。");
+15191|<O>| return "有延长寿命之功效,马上恢复2200点气血，2800点法力值";
+15192|<O>| if( damage < 1 ) damage = 1;    // 修正伤害
+15193|<O>| //                ESC "洗红名。\n" + cmd5 +
+15194|<O>| if (me->get_action()==0) return;	// 不攻击
+15195|<O>| "锁链护心甲禁卫军" : "\"/item/final/60/3045\"",
+15196|<O>| ESC "离开", me->get_name(), getoid(me)));
+15197|<O>| send_user(who, "%c%s", '!', "马小三 1/1");
+15198|<O>| notify("对方的现金将超出上限。");    // 您想给予的金额太大。
+15199|<O>| SAY_CMD->say(me, "天恩令，岂是你这种弱小的人能拿到的！");
+15200|<O>| write_user( who, ECHO "您设置本城为回城点。\n" );
+15201|<O>| send_user(me, "%c%s", '!', "扣费服务器失效！");
+15202|<O>| ESC "确定", me->get_name(), getoid(me)));
+15203|<O>| who->get_name() + ":\n    您已领取合服奖励了。\n"
+15204|<O>| private static int Enmity;			//是否开发仇恨设置
+15205|<O>| if (rate < 20 * rate1 / 100)		//随机门派进阶书
+15206|<O>| set("anti_05311", 1);    //设置不能被05311迷惑
+15207|<O>| notify("%s没有打开组队开关。", who->get_name());
+15208|<O>| string get_city_name() { return "赵国"; }
+15209|<O>| private string* Manager6 = ({ });	// 精英
+15210|<O>| return "水星精灵死后的魂魄精华，石刻、裁缝、铁匠生活技能需要的材料";
+15211|<O>| send_user(me, "%c%s", '!', "在战场不能使用。");
+15212|<O>| return "［金仙符咒］昆仑山独创的神法，可操纵天雷与寒冰的力量。\n";
+15213|<O>| private static int iLevel3;		// 战场箭塔的等级
+15214|<O>| tell_user(who, "%c%s", '>', "公告增加成功!");
+15215|<O>| send_user(who, "%c%s", '!', "骨魔精 1/1");

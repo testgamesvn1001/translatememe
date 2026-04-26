@@ -1,0 +1,74 @@
+﻿13580|<O>| if (me->get_mp() < (mp = SUB_MP))	// 小心准备 me
+13581|<O>| ESC "回门派。\n" + sprintf("talk %x# 1\n", id) +
+13582|<O>| else if (p < 4790 * rate / 100)    // 防具(门派)
+13583|<O>| else if (p < 9289 * rate / 100)    // 武器(门派)
+13584|<O>| ESC "关闭\n%s\n", me->get_name(), cmd1, cmd2);
+13585|<O>| else if (p < 5524 * rate / 100)    // 武器(门派)
+13586|<O>| else if (p < 3392 * rate / 100)    // 防具(门派)
+13587|<O>| else if (p < 9049 * rate / 100)    // 武器(门派)
+13588|<O>| else if (p < 4466 * rate / 100)    // 防具(门派)
+13589|<O>| else if (p < 5411 * rate / 100)    // 防具(门派)
+13590|<O>| send_user(me, "%c%s", '!', "您累计在线时间已满1小时。");
+13591|<O>| else if (p < 5069 * rate / 100)    // 武器(基本)
+13592|<O>| + sprintf(ESC HIY"关闭活动(永久关闭)\nparty 5004\n")
+13593|<O>| if (me->sizeof_chblk_dbase())    // 判断能否使用频道
+13594|<O>| else if (p < 3400 * rate / 100)    // 防具(门派)
+13595|<O>| else if (p < 4556 * rate / 100)    // 防具(门派)
+13596|<O>| else if (p < 5543 * rate / 100)    // 武器(门派)
+13597|<O>| else if (p < 6347 * rate / 100)    // 防具(门派)
+13598|<O>| case 1: if (obj && obj->get_name() == "除草锄")
+13599|<O>| else if (p < 4402 * rate / 100)    // 防具(门派)
+13600|<O>| else if (p < 8969 * rate / 100)    // 武器(门派)
+13601|<O>| else if (p < 4257 * rate / 100)    // 防具(门派)
+13602|<O>| else if (p < 6729 * rate / 100)    // 防具(门派)
+13603|<O>| else if (p < 4844 * rate / 100)    // 防具(基本)
+13604|<O>| else if (p < 4710 * rate / 100)    // 防具(门派)
+13605|<O>| else if (p < 4360 * rate / 100)    // 防具(门派)
+13606|<O>| else if (p < 7195 * rate / 100)    // 武器(门派)
+13607|<O>| else if (p < 6905 * rate / 100)    // 武器(门派)
+13608|<O>| send_user(who, "%c%s", ';', "得到 " + result);
+13609|<O>| write_user(me, ECHO "你成功洗掉了%d点的精神。", point);
+13610|<O>| else if (p < 5712 * rate / 100)    // 防具(门派)
+13611|<O>| else    tell_user(me, "没有ＩＰ为 %s 的玩家。", arg);
+13612|<O>| else if (p < 5704 * rate / 100)    // 防具(门派)
+13613|<O>| else if (p < 5590 * rate / 100)    // 防具(门派)
+13614|<O>| me->set_time("pf", time());    // 由 pf 成功后设置
+13615|<O>| result = result + sprintf(HIR"%d金", amount);
+13616|<O>| else if (p < 5643 * rate / 100)    // 武器(门派)
+13617|<O>| else if (p < 9350 * rate / 100)    // 防具(门派)
+13618|<O>| else if (p < 4804 * rate / 100)    // 防具(门派)
+13619|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"单刀");
+13620|<O>| else if (p < 3880 * rate / 100)    // 武器(门派)
+13621|<O>| if (stuff[j] != "无" && stuff[j] == stuff[k])
+13622|<O>| else if (p < 4701 * rate / 100)    // 防具(基本)
+13623|<O>| else if (p < 3871 * rate / 100)    // 武器(门派)
+13624|<O>| else if (p < 6564 * rate / 100)    // 武器(门派)
+13625|<O>| sprintf(ESC"竞选首席大弟子\ntalk %x# elect\n",id) +
+13626|<O>| damage = damage * (100+p*2)/100;		// 帮派的法伤强化
+13627|<O>| send_user(me, "%c%s", '!', "寄售价格应以1000为单位");
+13628|<O>| else if (p < 5070 * rate / 100)    // 防具(门派)
+13629|<O>| else if (p < 4360 * rate / 100)    // 武器(基本)
+13630|<O>| else if (p < 5729 * rate / 100)    // 武器(门派)
+13631|<O>| else if (p < 4700 * rate / 100)    // 防具(基本)
+13632|<O>| else if (p < 8656 * rate / 100)    // 武器(门派)
+13633|<O>| else if (p < 4597 * rate / 100)    // 防具(门派)
+13634|<O>| else if (p < 5247 * rate / 100)    // 防具(基本)
+13635|<O>| ESC"50次任务兑换“黄金圣斗士”称号\ntalk %x# bonus.1050\n"
+13636|<O>| else if (p < 7419 * rate / 100)    // 武器(门派)
+13637|<O>| TASK_LEGEND_D->remove_task_item(who, "佛龙珠");
+13638|<O>| case 3: if (obj && obj->get_name() == "小木桶")
+13639|<O>| else if (p < 6656 * rate / 100)    // 防具(门派)
+13640|<O>| else if (p < 5260 * rate / 100)    // 防具(基本)
+13641|<O>| else if (p < 4170 * rate / 100)    // 防具(门派)
+13642|<O>| return "巨毒无比,杀人无形,每2秒使玩家气血值下降60点,该效果会持续20秒";
+13643|<O>| file = skillobj ? file->get_name() : "未知技能";
+13644|<O>| else if (p < 7336 * rate / 100)    // 防具(门派)
+13645|<O>| else if (p < 3585 * rate / 100)    // 武器(门派)
+13646|<O>| who->set_save_2("double_time.time", 0);		//双
+13647|<O>| else if (p < 6380 * rate / 100)    // 防具(门派)
+13648|<O>| else if (p < 5832 * rate / 100)    // 武器(门派)
+13649|<O>| else if (p < 8722 * rate / 100)    // 武器(门派)
+13650|<O>| else if (p < 4838 * rate / 100)    // 防具(门派)
+13651|<O>| else if (p < 6313 * rate / 100)    // 防具(门派)
+13652|<O>| else if (p < 8940 * rate / 100)    // 武器(门派)
+13653|<O>| else if (p < 4638 * rate / 100)    // 武器(门派)

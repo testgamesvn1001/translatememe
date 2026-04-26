@@ -1,0 +1,99 @@
+﻿18482|<O>| #define PF_NAME        "苍穹法袍制作"
+18483|<O>| return "持续1小时内变身为马贼，可提升2%躲闪值。";
+18484|<O>| #define PF_NAME        "亡魂之铠制作"
+18485|<O>| "绿玉石" : "\"/item/stuff/0064\"",
+18486|<O>| private int ma_grow;			//法攻成长系数
+18487|<O>| else if ( rate < 6105 )	//技能进阶书
+18488|<O>| "寒铁棒" : "\"/item/stuff/0024\"",
+18489|<O>| ESC"蓝球兑换奖励\ntalk %x# bonus.7\n"
+18490|<O>| result = sprintf("是否对%s进行鉴定？\n"
+18491|<O>| set_char_picid(1000);    // 蒙面人
+18492|<O>| "寒铁矿" : "\"/item/stuff/0006\"",
+18493|<O>| default: data = "完全保护";  break;
+18494|<O>| #define PF_NAME        "轩辕头巾制作"
+18495|<O>| return "嫦娥赠送的中秋节礼物，10月15日后消失。";
+18496|<O>| #define PF_NAME        "乾云战袍制作"
+18497|<O>| "残缺青叶晶石" : "\"/item/89/8918\"",
+18498|<O>| "残缺紫红晶石" : "\"/item/89/8917\"",
+18499|<O>| #define PF_NAME        "死神珑手锻造"
+18500|<O>| "打火石" : "\"/item/stuff/0031\"",
+18501|<O>| #define PF_NAME        "紫云斗笠制作"
+18502|<O>| #define PF_NAME        "亡魂之盔制作"
+18503|<O>| #define PF_NAME        "弑魂项链制作"
+18504|<O>| #define PF_NAME        "制裁拳套锻造"
+18505|<O>| private static int Ride;		// 骑宠
+18506|<O>| "黄瓜" : "\"/item/stuff/0149\"",
+18507|<O>| result = result + HIR"10000金";
+18508|<O>| "铜矿" : "\"/item/stuff/0001\"",
+18509|<O>| int stuff_number2;				//付加资源编号
+18510|<O>| return "铁矿石通过吸收千年之精华而形成的稀有金属";
+18511|<O>| return "任务物品。公输班做盒子需要用到的原材料。";
+18512|<O>| 年	      月     日	    时	   分	  秒
+18513|<O>| ESC"确定\ntalk %x# bonus.1021\n"
+18514|<O>| if(mapp(Dizi_players)) //首席大弟子
+18515|<O>| npc->set_name(name + "的战斗傀儡");
+18516|<O>| #define PF_NAME        "紫霞冠制作"
+18517|<O>| else if ( rate < 9250 )	//炼丹成品
+18518|<O>| private string Name;			// 技能名字
+18519|<O>| "野菊" : "\"/item/stuff/0111\"",
+18520|<O>| return "普通的槐木棒，由石刻技能分解出来并使用。";
+18521|<O>| "陈皮" : "\"/item/stuff/0118\"",
+18522|<O>| #define PF_NAME        "断魂沙锻造"
+18523|<O>| notify("你的体力过低，无法协助公输班合成晶石。");
+18524|<O>| #define PF_NAME        "赤虎盔制作"
+18525|<O>| "元魂" : "\"/item/stuff/0309\"",
+18526|<O>| if (objectp(who))    // 显示锁定标记
+18527|<O>| "南瓜" : "\"/item/stuff/0148\"",
+18528|<O>| //		        cityname = "昆仑仙境";
+18529|<O>| "松木" : "\"/item/stuff/0102\"",
+18530|<O>| #define PF_NAME        "金丝甲制作"
+18531|<O>| rand = random(2) + 1;		//	B级物品
+18532|<O>| result += ESC"开启\nparty 40\n";
+18533|<O>| "绿矾" : "\"/item/stuff/0141\"",
+18534|<O>| ESC "继续等待。\nCLOSE\n", result);
+18535|<O>| "红色小石头" : "\"/item/40/4051\"",
+18536|<O>| #define PF_NAME        "七宝靴制作"
+18537|<O>| else if ( rate < 6010 )		//战国令
+18538|<O>| else if (i < 8500)		//对应等级随机蓝装
+18539|<O>| log_file(LIST_LOG, "# 拳\n\n");
+18540|<O>| // 多体远程技能	 TIPS:[PF_CAST_AREA]
+18541|<O>| if (!who) continue;    // 执行成功
+18542|<O>| else if (p < thresh2)    // 金钱
+18543|<O>| #define PF_NAME        "旋风袍制作"
+18544|<O>| "锡矿" : "\"/item/stuff/0002\"",
+18545|<O>| "生地" : "\"/item/stuff/0121\"",
+18546|<O>| "冬瓜" : "\"/item/stuff/0147\"",
+18547|<O>| "当归" : "\"/item/stuff/0126\"",
+18548|<O>| me->log_money("战争购买", -30000);
+18549|<O>| "莲藕" : "\"/item/stuff/0155\"",
+18550|<O>| return "普通的桃木棒，由石刻技能分解出来并使用。";
+18551|<O>| result += ESC"关闭\nparty 52\n";
+18552|<O>| "金矿" : "\"/item/stuff/0007\"",
+18553|<O>| "残缺蓝晶石" : "\"/item/89/8915\"",
+18554|<O>| if (item1->get_name() == "龙镯")
+18555|<O>| result = "请选择“劫宝飞贼大搜捕”的操作:\n";
+18556|<O>| "碎纱" : "\"/item/stuff/0051\"",
+18557|<O>| return "任务物品。韩国大将军送给崔大官人的请柬。";
+18558|<O>| #define PF_NAME        "水月剑锻造"
+18559|<O>| set_char_picid(0251);    // 匪徒
+18560|<O>| "桃木" : "\"/item/stuff/0104\"",
+18561|<O>| log_file(LIST_LOG, "# 变身卡\n");
+18562|<O>| if (MaxLevel < 30)    // 带新手任务
+18563|<O>| "碎锦" : "\"/item/stuff/0053\"",
+18564|<O>| ESC "确定\ntalk %x# welcome.1\n"
+18565|<O>| #define PF_NAME        "红莲怒锻造"
+18566|<O>| set_char_picid(451);    // 蒙面人
+18567|<O>| "虎皮" : "\"/item/stuff/0194\"",
+18568|<O>| "虎肉" : "\"/item/stuff/0180\"",
+18569|<O>| "辣椒" : "\"/item/stuff/0165\"",
+18570|<O>| if (!objectp(who))	// 主人不存在，删除
+18571|<O>| // 触发点: attack 初始化或 combat 开始时
+18572|<O>| #define PF_NAME        "蓬莱矛锻造"
+18573|<O>| #define PF_NAME        "无尘鞋制作"
+18574|<O>| + sprintf(ESC"开启\nparty 17\n")
+18575|<O>| "铁丝" : "\"/item/stuff/0038\"",
+18576|<O>| "红色小石头" : "在玉柱峰杀大笨熊可以得到红色小石头",
+18577|<O>| #define PF_NAME        "神武靴制作"
+18578|<O>| ESC "发动战争。(100 体力)\n" + cmd5 +
+18579|<O>| #define PF_NAME        "天狼刺锻造"
+18580|<O>| ESC "继续\ntalk %x# welcome.1\n"

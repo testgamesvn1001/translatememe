@@ -1,0 +1,69 @@
+﻿12004|<O>| int no_recover() { return 1; }    // 不能使用恢复气血的法术
+12005|<O>| send_user(me, "%c%c%w%s", ':', 3, 0, "古墓探险操作:\n"
+12006|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"爱吃辣的客人");
+12007|<O>| int is_moveable() { return 0; }    // 禁止使用 go 命令
+12008|<O>| return "相传八仙归位后，集合八人神力炼制而成。\n能使体力完全恢复。冷却时间30秒。";
+12009|<O>| private int FirstOwnerId;            	// 最初获得者ID
+12010|<O>| notify("修理所有已配戴的装备需要 %d 金，您手上的现金不够。", allvalue);
+12011|<O>| private static string Attack;           // 战场攻击方
+12012|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"大葫芦（3）");
+12013|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"重阳节（1）");
+12014|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"同心锁（1）");
+12015|<O>| ESC "关闭\nCLOSE\n", me->get_name(), getoid(me)));
+12016|<O>| note->Name = sprintf("%s(徒弟)", who->get_name());
+12017|<O>| return "“御姐的爱好”\n攻击目标时有一定的几率\n对目标产生300点的吃嫩草的伤害";
+12018|<O>| city->set_save_2("war.surrender", 1);    // 投降标志
+12019|<O>| write_user(me, HIR "净化了妖怪的灵魂，你获得%d点经验奖励。", exp);
+12020|<O>| if (objectp(npc = new("/npc/01/0010"))    // 文曲星
+12021|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"丢失的黑棋子");
+12022|<O>| string get_suit_name() { return "巨象"; }	//属于某某套装
+12023|<O>| string get_suit_name() { return "炫御"; }	//属于某某套装
+12024|<O>| #define SKILL_FINAL	"/item/stuff/0014"		// 制作的结果
+12025|<O>| send_user(who, "%c%s", ':', "您:\n您有兴趣当兵去吃军粮吗？");
+12026|<O>| tell_user(me, "扫描目录: %s size=%d", path3, size3);
+12027|<O>| note->Name = sprintf("%s(娘子)", who->get_name());
+12028|<O>| if (StoreOpen && name != StoreName)    // 摆摊时才群发
+12029|<O>| name = "山西劫匪";picid = 0251; citypoint = 2;break;
+12030|<O>| delete_save_2("player");//每次活动开始的时候，都将上次的记录给清除掉。
+12031|<O>| string get_suit_name() { return "战狼"; }	//属于某某套装
+12032|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 10, "传送中……");
+12033|<O>| damage += me->get_2("suit_effect.damage2");	//套装
+12034|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"大葫芦（2）");
+12035|<O>| return "记载着云梦泽专用法术强化金针渡厄的书籍。云梦泽使用后可学会法术强化金针渡厄。";
+12036|<O>| private int Tax2Cash;                   // 税收分红率
+12037|<O>| &&      item->get_talisman_type() == 3    // 摄魂铃
+12038|<O>| ESC "取消\nCLOSE\n", me->get_name(), getoid(me)));
+12039|<O>| if (!get_effect(me, EFFECT_CHAR_DREAM_0))		//不囚禁
+12040|<O>| return "［机关］可以让玩家使用物料制造各种各样的趣味道具，以及一些辅助攻击道具。\n";
+12041|<O>| set_name("土匪" + NPC_NAME_D->get_banditi_name());
+12042|<O>| if (!get_effect(me, EFFECT_CHAR_BLOOD_0))		//不流血
+12043|<O>| string* treasure = ({ "黄菊","茱萸","重阳糕","菊花酒", });
+12044|<O>| log_file("boss.txt", short_time() + "阴间叛徒出现\n");
+12045|<O>| return sprintf(PF_NAME ":\n　　每 2 秒自动恢复一格元气。\n");
+12046|<O>| tell_user(me, "你将" + who->get_name() + "的状态恢复");
+12047|<O>| ESC"金精（技能:高级防盾、高级强攻、高级复生、高级飞行）\nuse %x# pet.1\n"
+12048|<O>| /*	if ( get_char_type() == OFFICER_TYPE )	//普通状态
+12049|<O>| private static mapping mpTaskXY;       // 综合任务坐标
+12050|<O>| set_name("匪徒" + NPC_NAME_D->get_banditi_name());
+12051|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"重阳节（2）");
+12052|<O>| send_user(who,"%c%s",'!',HIY"请注意:守墓石将，已经苏醒！！！");
+12053|<O>| send_user(me, "%c%s", '!', "接受极限穿越任务后不能使用回城符。");
+12054|<O>| who->set("pf.fall", -damage / 15);    // 小心准备 me
+12055|<O>| if (objectp(npc = new("/npc/01/0011"))    // 武曲星
+12056|<O>| remove_block(z0, x0, y0, CHAR_BLOCK);    // 删除阻挡
+12057|<O>| private static object Manager2;         // 防守方总管
+12058|<O>| send_user(who, "%c%s", ';', "缘分对对碰 龙镯 1 七国令 1");
+12059|<O>| me->set_pay_money_buy_item(8);    // 通过点数购买道具成功！
+12060|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"龙骨坡的遗骸");
+12061|<O>| tell_user(me, "你将" + who->get_name() + "踢出游戏。");
+12062|<O>| private int MaxLasting;                 // 最大耐久度
+12063|<O>| result = sprintf(HIC "您的‘商人’等级降至 %d 级！", level);
+12064|<O>| int get_cast_seal() { return 41100; }    // 符纸逆旋
+12065|<O>| amount01 = check_item_amount(who, "装着坏小猴的神奇葫芦");
+12066|<O>| move_to_user(player,1,"item/std/8000",npc);//藏宝图
+12067|<O>| send_user(who, "%c%s", '!', "您获得了"HIY"钱老九的货物！");
+12068|<O>| log_file("boss.txt", short_time() + " 虎王被消灭\n");
+12069|<O>| && objectp(who = item->get_owner())    // 获取装备主人
+12070|<O>| if (sscanf(arg, "@ %s", name) == 1)    // 同意创建帮派
+12071|<O>| SAY_CMD->say(this_object(), "又一个失败品，你们都不懂得艺术。");
+12072|<O>| send_user(me, "%c%s", '!', "接受极限穿越任务后不能使用土行珠。");

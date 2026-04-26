@@ -17,14 +17,14 @@
 3217|<O>| send_user(me, "%c%c%d%c", 0xA2, 6, who->get_number(), who->get_save_2("online_rank.level"));	// Cấp tu vi
 3218|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Tiểu hữu đã giúp ta tìm được Trùng Dương tứ bảo rồi sao？Thật cảm ơn ngươi quá！\n"
 3219|<O>| send_user(me, "%c%w%w%c%c%c%c%c%s", 0x64, THIS_PERFORM, SUB_MP, 1, 1, MAGIC_ACT_BEGIN, 0, 5, "Trận kỳ");
-3220|<O>| ret += sprintf("%sMũ Mãnh Hổ\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"猛虎帽冠"))?PPM:WHT);
+3220|<O>| ret += sprintf("%sMũ Mãnh Hổ\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Mãnh Hổ Mạo Quan"))?PPM:WHT);
 3221|<O>| #define ADD_AP          me->get_pf_value_2(THIS_SKILL, SKILL_LEVEL_SQUARE, 36, 80)    // Cảnh báo:me cần chuẩn bị sẵn
 3222|<O>| send_user(who, "%c%s", ';', sprintf("Di sản của tổ phụ（4）  Kinh nghiệm 160000  Tiềm năng 2000  Tiền 150000  %s 1", tmp->get_name()));
 3223|<O>| case 1: send_user(who, "%c%s", ':', sprintf("%s:\nVậy sao？Thật có chuyện đó à？Tối nay ta sẽ đi xem thử……(thành phòng %+d)", me->get_name(), p));
 3224|<O>| result = sprintf(me->get_name() + ":\n    Ngươi muốn tới bản đồ luyện cấp từ cấp 105 đến dưới cấp 110 sao？Nào, chọn đi！Nhấn Alt+M có thể xem chủng loại quái cụ thể ở những bản đồ này đó。\n");
 3225|<O>| if( is_god(me) ) tell_user( me, "r%s thi pháp-> %s, trúng:%d thất bại", me->get_name(), who->get_name(), rate );
 3226|<O>| send_user(who, "%c%s", ';', sprintf("Bảo thạch hoàn mỹ（4）  Kinh nghiệm 200000  Tiềm năng 2250  Tiền 200000  %s 1", tmp->get_name()));
-3227|<O>| ret += sprintf("%sNgoại tình\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"婚外情"))?PPM:WHT);
+3227|<O>| ret += sprintf("%sNgoại tình\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Hôn Ngoại Tình"))?PPM:WHT);
 3228|<O>| if (!arrayp(team = who->get("pending_fly")) || member_array(me, team) == -1) return 1;    // Chủ nhân không ghi lại
 3229|<O>| #define ADD_INTERVAL    me->get_pf_value(THIS_SKILL, SKILL_LEVEL_SQUARE, 30, 200)    // Cảnh báo:me cần chuẩn bị sẵn
 3230|<O>| //                        log_file("test", sprintf("%s %s rời khỏi cảnh\n", short_time(), who->get_name()));

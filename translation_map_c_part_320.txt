@@ -1,72 +1,72 @@
-﻿12706|<O>| tell_user(me, "您将%s变成蓝色装备。", item->get_name());
-12707|<O>| private int Master;                     // 帮主标识
-12708|<O>| if (!get_effect(me, EFFECT_CHAR_SHUT_0))		//不囚禁
-12709|<O>| ESC"龟仙人（技能:高级复生、高级御法、水击、翻云覆雨）\nuse %x# pet.6\n"
-12710|<O>| MAP_D->clone_boss(this_object());    // 载入小BOSS
-12711|<O>| private string IdProtect;               // 密码保护
-12712|<O>| if (!inside_map(z0, x, y)) return 1;    // 坐标非法
-12713|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"探听虚实");
-12714|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"锻炼自己");
-12715|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"户籍密件");
-12716|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"拭目以待");
-12717|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"三片羽毛");
-12718|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"水落石出");
-12719|<O>| send_user(who, "%c%s", '!', "您获得了"HIY"珍珠项链！");
-12720|<O>| ESC"火精（技能:高级防盾、高级御法、火攻、灭天火法）\nuse %x# pet.4\n"
-12721|<O>| //                      notify( "您找不到这位玩家。" );
-12722|<O>| if (!inside_map(z, x, y)) return 1;    // 坐标非法
-12723|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"深入牧场");
-12724|<O>| send_user(me, "%c%s", '!', "蒙面人出现，您的行动受到影响。");
-12725|<O>| if (!who->get_save_2("jishihulu.id"))	//是否首次寄存
-12726|<O>| send_user(who, "%c%s", '!', "设置买入税要 10 点体力。");
-12727|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"探访将军");
-12728|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"忍气吞声");
-12729|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"证明自己");
-12730|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"助人为乐");
-12731|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"秦将辟谣");
-12732|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"接受考验");
-12733|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"收集大枣");
-12734|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"将军之难");
-12735|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"保持距离");
-12736|<O>| if( who->get_quest("escort.flag") )    // 运镖任务
-12737|<O>| tell_user(me, "现在时间:%s。", short_time(time()));
-12738|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"心事重重");
-12739|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"寻宝历险");
-12740|<O>| if (!clonep()) return "挖宝总动员特有的挖宝专用小锄头，右击使用。";
-12741|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"金钩桂饵");
-12742|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"证实传闻");
-12743|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"试探实力");
-12744|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"出使之难");
-12745|<O>| "    "HIR" 茅山 "NOR"的装备可以到"HIR" 齐国 "NOR"寻寻看；\n"
-12746|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"寻求方法");
-12747|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"惩恶扬善");
-12748|<O>| send_user( me, "%c%s", '!', "你的伎俩对年兽是不起作用的。");
-12749|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"真相大白");
-12750|<O>| private int Type;                     	// 技能类别
-12751|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"探访民情");
-12752|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"佳酿美酒");
-12753|<O>| pf = 0;  act = 1 + random(3);    // 无指定动作序号，随机
-12754|<O>| send_user(me, "%c%s", '!', "您没有领取需要追踪人物的任务。");
-12755|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"修造之难");
-12756|<O>| //				result = result + BLK + "超时未完成，任务失败。\n";
-12757|<O>| if (!(obj = present("钱票", who, 1, MAX_CARRY)))
-12758|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"追捕逃犯");
-12759|<O>| private string active_name	= "惊天大爆装";		//	活动名称
-12760|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"格杀勿论");
-12761|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"绝世神兵");
-12762|<O>| send_user(who, "%c%s", '!', "恭喜您得到了如意仙子的礼物。");
-12763|<O>| #define ACTIVATE_TIMEOUT 60     // 激活后的超时时间(秒)
-12764|<O>| else if (rate < 2200 * rate1 / 100)		//一级晶石%20
-12765|<O>| who->set_attack_time( now );    // 同一个人:更新持续时间
-12766|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"寻找宝物");
-12767|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"大肆破坏");
-12768|<O>| "%s:\n%s不愿臣服于我，自当略施小惩，你回去转告%s国主，尽快投降，以免自误。\n",
-12769|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"千里神行");
-12770|<O>| //		send_user(me,"%c%s",'!',"你距离太远，请靠近些再跟随。");
-12771|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"询问消息");
-12772|<O>| //			ESC"物品激活码之无敌宝宝包领取\ntalk %x# bonus.1008\n"
-12773|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"家庭聚会");
-12774|<O>| //		send_user(me,"%c%s",'!',"你必须加入队伍才能选择跟随！");
-12775|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"寻求支持");
-12776|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"劝谏秦王");
-12777|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"剿灭叛军");
+﻿12706|<O>| tell_user(me, "Bạn sẽ%sbiến thành Lam SắcTrang bị。", item->get_name());
+12707|<O>| private int Master;                     // Bang chủ tiêu Thức
+12708|<O>| if (!get_effect(me, EFFECT_CHAR_SHUT_0))		//khôngtù Cấm
+12709|<O>| ESC"QuyTiênNhân（Kỹ năng:caocấpphục sinh、caocấpNgự Pháp、Thủykích、phiên Vân Phúc vũ）\nuse %x# pet.6\n"
+12710|<O>| MAP_D->clone_boss(this_object());    // tải NhậpnhỏBOSS
+12711|<O>| private string IdProtect;               // mật khẩubảo Hộ
+12712|<O>| if (!inside_map(z0, x, y)) return 1;    // tọa tiêu phi Pháp
+12713|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Thám thính hư thực");
+12714|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"đoạn Luyệnbản thân");
+12715|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Hộ tịch Mậtkiện");
+12716|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"thức Mục Dĩ đãi");
+12717|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Tam phiến Vũ mao");
+12718|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Thủylạc Thạch Xuất");
+12719|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận được"HIY"Trân ChâuHạng Liên！");
+12720|<O>| ESC"HỏaTinh（Kỹ năng:caocấpphòng thuẫn、caocấpNgự Pháp、HỏaCông、DiệtngàyHỏaPháp）\nuse %x# pet.4\n"
+12721|<O>| //                      notify( "BạnKhông tìm thấynàyvịNgười chơi。" );
+12722|<O>| if (!inside_map(z, x, y)) return 1;    // tọa tiêu phi Pháp
+12723|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"thâm Nhập mục trường");
+12724|<O>| send_user(me, "%c%s", '!', "Mông Diện NhânXuất hiện，Hành động của bạn bị ảnh hưởng。");
+12725|<O>| if (!who->get_save_2("jishihulu.id"))	//Làphủ thủlầnký tồn
+12726|<O>| send_user(who, "%c%s", '!', "thiết trí mua Nhập thuếcần 10 điểm Thể lực。");
+12727|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Thám phỏng Tướng quân");
+12728|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Nhẫn khí thôn Thanh");
+12729|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"chứng Minhbản thân");
+12730|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Trợ Nhân vì lạc");
+12731|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Tần Tướng Tịch dao");
+12732|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Nhậnkhảo nghiệm");
+12733|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Thu tậplớntáo");
+12734|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Tướng Quân Chi Nạn");
+12735|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"bảo trì cự ly");
+12736|<O>| if( who->get_quest("escort.flag") )    // Nhiệm vụ vận tiêu
+12737|<O>| tell_user(me, "hiệnTạigiờgian:%s。", short_time(time()));
+12738|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Tâm sự trọng trọng");
+12739|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"tìm Bảo lịch hiểm");
+12740|<O>| if (!clonep()) return "đào Bảo tổng Động viên đặcCócủađào Bảo chuyên dùngnhỏsừ đầu，phảikíchSử dụng。";
+12741|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Vàngcâu quế nhĩ");
+12742|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"chứng thực Truyền văn");
+12743|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"thử Thám thực Lực");
+12744|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Xuất sử Chi nan");
+12745|<O>| "    "HIR" Mao Sơn "NOR"củaTrang bịcó thểđến"HIR" Tề Quốc "NOR"tìm tìm xem；\n"
+12746|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"tìm cầu Phương Pháp");
+12747|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"trừng Ác dương Thiện");
+12748|<O>| send_user( me, "%c%s", '!', "bạncủakỹ lưỡngđối vớinămthúLàkhôngKhởi tác dùngcủa。");
+12749|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Chân TươnglớnBạch");
+12750|<O>| private int Type;                     	// Kỹ năngloại biệt
+12751|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Thám phỏng dân Tình");
+12752|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"giai nhưỡng Mỹ Tửu");
+12753|<O>| pf = 0;  act = 1 + random(3);    // vô Chỉ định Động tác tự hiệu，Ngẫu nhiên
+12754|<O>| send_user(me, "%c%s", '!', "Bạnkhông cólĩnh thủcầntruy tung Nhân VậtcủaNhiệm vụ。");
+12755|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Tu tạo Chi nan");
+12756|<O>| //				result = result + BLK + "SiêugiờvịHoàn thành，Nhiệm vụThất bại。\n";
+12757|<O>| if (!(obj = present("Tiền Phiếu", who, 1, MAX_CARRY)))
+12758|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"truy bổ đào phạm");
+12759|<O>| private string active_name	= "KinhngàylớnBạo trang";		//	hoạt độngTên
+12760|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"cách Sát vật luận");
+12761|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Tuyệt ThếThầnBinh");
+12762|<O>| send_user(who, "%c%s", '!', "Xin chúc mừngnhận đượcNhư Ý Tiên Tửcủalễ Vật。");
+12763|<O>| #define ACTIVATE_TIMEOUT 60     // kích hoạtsaucủaSiêugiờgiờgian(giây)
+12764|<O>| else if (rate < 2200 * rate1 / 100)		//Nhấtcấp Tinh Thạch%20
+12765|<O>| who->set_attack_time( now );    // Đồng Nhất Nhân:càngmớikéo dàigiờgian
+12766|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"tìm tìm Bảo Vật");
+12767|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"lớntứ Pháxấu");
+12768|<O>| "%s:\n%skhôngnguyện Thần phục vutôi，Tự đương lược thinhỏtrừng，bạnHồi đi chuyển cáo%sQuốc chủ，tậnnhanhđầu giáng，Dĩ Miễn Tự ngộ。\n",
+12769|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"ThiêntrongThầnHành");
+12770|<O>| //		send_user(me,"%c%s",'!',"bạncự ly Thái Viễn，Xin khảo cận ta lạivớitùy。");
+12771|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"tuần hỏitin nhắn");
+12772|<O>| //			ESC"Vật Phẩm kích hoạt mã Chi vô Địch Bảo Bảo bao lĩnh thủ\ntalk %x# bonus.1008\n"
+12773|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Gia đình Tụsẽ");
+12774|<O>| //		send_user(me,"%c%s",'!',"bạntất Tu Gia Nhập đội ngũ Tài NăngChọnvớitùy！");
+12775|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"tìm cầu chi trì");
+12776|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"khuyến gián Tần Vương");
+12777|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"tiễu Diệt phản quân");

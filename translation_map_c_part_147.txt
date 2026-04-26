@@ -1,11 +1,11 @@
 3163|<O>| #define ADD_AP          me->get_pf_value_2(THIS_SKILL, SKILL_LEVEL_SQUARE, 16, 160)    // Cảnh báo:me cần chuẩn bị sẵn
-3164|<O>| ret += sprintf("%sMũ Liệp Báo\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"猎豹头巾"))?PPM:WHT);
+3164|<O>| ret += sprintf("%sMũ Liệp Báo\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Liệp Báo Đầu Cân"))?PPM:WHT);
 3165|<O>| if( is_god(who) ) tell_user( who, "r%s ám khí-> %s, trúng:%d thất bại", me->get_name(), who->get_name(), rate );
 3166|<O>| result = sprintf("%s:\n    Ngươi còn %d phút nữa là có thể chọn bước vào lục đạo luân hồi, nhưng ngươi vẫn còn cơ hội hủy bỏ ý định tự sát. Ngươi có muốn từ bỏ ý định tự sát không？\n", me->get_name(), time);
 3167|<O>| "Bổn tổng quản cảm ơn hắn đã đưa tới một vị tráng sĩ như vậy, dụng tâm lương khổ của hắn, bổn tổng quản hiểu。\n"ESC"Nhận nhiệm vụ\ntalk %x# welcome.10\n"ESC"Rời khỏi", me->get_name(), getoid(me)));
 3168|<O>| result = sprintf("Ngươi nhận được kinh nghiệm %d, tiềm năng %d, tiền %d, cống hiến bang phái %d điểm, độ nổi tiếng bang tăng 1 điểm, độ an định tăng 1 điểm。", exp, pot, cash, 1 + order * 2 / 9);
 3169|<O>| send_user(me, "%c%w%w%c%c%c%c%c%s", 0x64, THIS_PERFORM, SUB_MP, 0, 1, MAGIC_ACT_BEGIN, 0, 9, "Phù cương thi");
-3170|<O>| ret += sprintf("%sHài Mãnh Hổ\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"猛虎之靴"))?PPM:WHT);
+3170|<O>| ret += sprintf("%sHài Mãnh Hổ\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Mãnh Hổ Chi Hia"))?PPM:WHT);
 3171|<O>| send_user(me, "%c%c%d%s", '?', 16, 60, "Xin hãy nhập số lần hợp server và thời gian kết thúc hợp server(ví dụ:2 200707190900):\n"ESC"party 203.%s\n");
 3172|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng:15 cấp\n    Pháp thuật miễn dịch đặc hữu của Thục Sơn, có thể bảo vệ bản thân không rơi vào trạng thái choáng, dưới hiệu quả này không thể thay đổi vũ khí。\n    Dùng lại Thanh Tỉnh Thuật có thể giải trừ hiệu quả này。\n";
 3173|<O>| ESC "Giáng Sinh vui vẻ\ntalk %x# welcome.63\n", me->get_name(), getoid(me), getoid(me), getoid(me), getoid(me)));
@@ -23,7 +23,7 @@
 3185|<O>| send_user(who, "%c%c%w%s", ':', 3, npc->get_char_picid(), npc->get_name() + ":\n    Đợi ta với, ta sẽ theo ngươi đi tìm mẹ。");
 3186|<O>| #define ADD_SIZE        me->get_pf_value_2(THIS_SKILL, SKILL_LEVEL_SQUARE, 4, 800)    // Cảnh báo:me cần chuẩn bị sẵn
 3187|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng:22 cấp\n    Cộng thêm 20 điểm độc tính. Phóng độc vụ trong phạm vi 7×7 lấy bản thân làm trung tâm, tức thì lây nhiễm toàn bộ mục tiêu đối địch trong phạm vi này, đồng thời kẻ địch bị lây nhiễm sẽ rơi vào trạng thái làm chậm。";
-3188|<O>| ret += sprintf("%sMũ Linh Hồ\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"灵狐绒帽"))?PPM:WHT);
+3188|<O>| ret += sprintf("%sMũ Linh Hồ\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Linh Hồ Nhung Mạo"))?PPM:WHT);
 3189|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng:17 cấp\n    Tuyệt kỹ đặc biệt của côn pháp, khi tấn công cộng thêm 15 điểm sát thương, đồng thời có xác suất nhất định đánh rơi trang bị trên người đối thủ trong 5 giây. Nếu dùng với quái vật, có thể làm giảm 30 điểm phòng ngự vật lý của nó。";
 3190|<O>| return sprintf("［" PF_NAME "］Trong thời gian duy trì, chuyển hóa một phần sát thương lên bản thân thành sát thương pháp lực. Tiêu hao pháp lực:%d, lần dùng kế tiếp cần cách %d giây, %s%d cấp có thể dùng\nYêu cầu kỹ năng cơ bản: Đại Thừa Đạo Pháp\n",
 3191|<O>| send_user(who, "%c%s", ';', sprintf("Bí mật của hòm gỗ（4）  Kinh nghiệm 120000  Tiềm năng 1500  Tiền 110000  %s 1", tmp->get_name()));

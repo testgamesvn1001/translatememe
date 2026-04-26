@@ -1,0 +1,76 @@
+﻿13877|<O>| who->set_save_2("chain.status", 99);	//任务完成
+13878|<O>| return "［" PF_NAME "］单体远程攻击，再次使用需间隔 1 秒\n";
+13879|<O>| USER_D->user_channel("挖宝总动员活动现在正式开始，请各位玩家去"
+13880|<O>| send_user(me, "%c%s", '!', "您不是农夫，不懂得捕鱼。");
+13881|<O>| who->set("pf.double", level);    // 小心准备 me
+13882|<O>| ESC "我希望了解界面操作的相关知识。\ntalk %x# welcome.1\n"
+13883|<O>| send_user(who, "%c%s", '!', "你得到"HIY"铸剑石");
+13884|<O>| send_user(who, "%c%s", '!', "您没有领商人用的钱票。");
+13885|<O>| printf(ECHO "使用“" PF_NAME "”武器耐久度得高于 10。");
+13886|<O>| private static int iWiner;		// 0 防守方胜 1 攻方胜
+13887|<O>| send_user(who, "%c%s", '!', "济世葫芦不能重复领取！");
+13888|<O>| //		send_user(me,"%c%s",'!',"对方不是你的队伍成员！");
+13889|<O>| else if (rand < 9580)//随机蓝色精元丹 item/44/4488
+13890|<O>| case "禁卫军": if (get_weapon_code() == SPEAR)
+13891|<O>| send_user(player, "%c%s", '!', "您身上没有空位！");
+13892|<O>| + sprintf(ESC"开启国庆节活动之——西瓜伯伯\nparty 146\n")
+13893|<O>| SAY_CMD->say(me, "听说打我可以获得经验？假的吧！我怎么不知道？");
+13894|<O>| send_user(who, "%c%s", '!', "您获得了"HIY"证据");
+13895|<O>| "让最圆的明月陪伴你和我，让明月传达我的心愿和祝福。祝，中秋快乐，月圆人圆事事圆。",
+13896|<O>| npc->set_ap(npc->get_ap() * 7 / 10);//加入场景。
+13897|<O>| send_user(me, "%c%s", '!', "对方不是您的队友或帮友。");
+13898|<O>| *   1. sys/user/move.c - 玩家移动时 scan 附近 NPCs
+13899|<O>| send_user(who, "%c%s", '!', "您获得了"HIY"墨块");
+13900|<O>| send_user(who, "%c%s", '!', "你不能携带更多的宠物。");
+13901|<O>| send_user(me, "%c%s", '!', "您得将种子种植到田地里。");
+13902|<O>| DEBUG(sprintf("测试-->同ID不同金钱位置pos=%d",pos));
+13903|<O>| send_user(who, "%c%s", '!', "你携带的任务物品太多了");
+13904|<O>| return "又香又甜的大西瓜，\n不过可不准吃哦，\n这是西瓜伯伯辛苦种植的。";
+13905|<O>| "符纸" : "\"/item/std/0401\"",    // 以下部分手工输入
+13906|<O>| //object* nObjs= ({});//保存玩家的信息以便访问删除兔子的数量。
+13907|<O>| send_user(who, "%c%s", '!', "城门口好象太多人了……");
+13908|<O>| send_user(me, "%c%s", '!', "您不是艺人，不懂得唱歌。");
+13909|<O>| send_user(who, "%c%s", '!', HIY"怨鬼之灵 1/1");
+13910|<O>| else    write_user(me, ECHO "您无法偷窃这样东西……");
+13911|<O>| //	指定时间整数的加操作 -- 被加数如果超出本星期的范围则轮寻到下一个星期的时间值
+13912|<O>| send_user(who, "%c%s", '!', "现在已经有足够人选了。");
+13913|<O>| private static int iStrongCount;	// 强化技能的数量
+13914|<O>| send_user(who, "%c%s", '!', "城里的装备已经足够了。");
+13915|<O>| send_user(who, "%c%s", '!', "您无法弹劾这位副城主。");
+13916|<O>| && item->get_talisman_type() == 4    // 灵犀环
+13917|<O>| ap += add_ap;  ap0 += add_ap;    // 特殊技附加攻击
+13918|<O>| &&    ( npc = find_char(id) ) )    // 30 分钟
+13919|<O>| send_user(player,"%c%s",'!',"你不能跟自己发送祝福！");
+13920|<O>| private int rand_say_time = 0;			//	随机说话的时间
+13921|<O>| item = present("家书", me, 1, MAX_CARRY * 4);
+13922|<O>| cmd = "哈哈哈哈～～人～有～悲～欢～离～合，月～有～阴～晴～残～缺。哈哈～。";
+13923|<O>| ESC"5次任务兑换“青铜圣斗士”称号\ntalk %x# bonus.1005\n"
+13924|<O>| case 2 :	result += sprintf( "适用门派: %s蜀山\n",
+13925|<O>| return "增加主人5%物防、5%法防、5%气血、5%暴击、5%物攻、5%法攻";
+13926|<O>| cTmp = sprintf("您还有%d金的赔偿未领取。", iRemMoney);
+13927|<O>| send_user(who, "%c%s", '!', "带着贵重物品不能旅行。");
+13928|<O>| send_user(who, "%c%s", '!', "您获得了"HIY"彩衣");
+13929|<O>| z = COPY_CTROL->new_scene(d,FILE_MAP,"古墓");
+13930|<O>| notify("活动地图" + sprintf("%d", z) + "不存在！");
+13931|<O>| cp += add_cp;  cp0 += add_cp;    // 特殊技附加攻击
+13932|<O>| result = sprintf("%s已经加过锁了，你需要再次延长加锁时间吗？\n"
+13933|<O>| send_user(me, "%c%s", '!', "带着钱票不能使用土行珠。");
+13934|<O>| send_user(me, "%c%s", '!', "线上打宝活动正在准备中！");
+13935|<O>| send_user(me, "%c%s", '!', "春节活动按预定时间开启!");
+13936|<O>| private static int NewAttackSpeed;	//新的攻击速度
+13937|<O>| case 2: result = "它枝叶枯黄，似乎有点营养不良。";  break;
+13938|<O>| give_item(who, "/item/sell/0021", 1);	//财神符
+13939|<O>| send_user(who, "%c%s", '!', "您还需要一个物品空间。");
+13940|<O>| return "［" PF_NAME "］\n追查师爷剿匪任务的目标悍匪方位。\n";
+13941|<O>| *   4. sys/npc/heart.c - 现有 heart beat 保持不变
+13942|<O>| send_user(who, "%c%s", '!', "还有没完成的外交任务。");
+13943|<O>| //	if ( sum != total )	//这个校验不足够，要取原先的号码对比。
+13944|<O>| //        set_name( sprintf("%d金", gold) );
+13945|<O>| send_user(me, "%c%s", '!', "您不是书生，不懂得占卜。");
+13946|<O>| if (!(owner = item->get_owner())    // 有否主人
+13947|<O>| if (sizeof(monster) >= 100)    // 同场景不能超过百只
+13948|<O>| send_user(who, "%c%s", ':', "您确定参加城主竞选吗？\n"
+13949|<O>| send_user(me, "%c%s", ';', "非健康时间不能进行摇奖！");
+13950|<O>| string get_family_name() { return " 禁卫军"; }
+13951|<O>| send_user(who, "%c%s", '!', "您不是农夫要种子干嘛？");
+13952|<O>| result += sprintf("名称:%s(%d)%x# - %s %s\n",

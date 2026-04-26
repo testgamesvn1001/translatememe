@@ -1,9 +1,9 @@
 3354|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    Ai, người tính không bằng trời tính, xem ra ta với nàng đúng là có duyên mà không có phận！\n"ESC"Rời khỏi", me->get_name()));
 3355|<O>| msg=sprintf(HIR"%s"NOR" của "HIR"%s"NOR" đã lên tuyến!",FILE_TITLE->get_titlename(titlecode),who->get_name());
-3356|<O>| ret += sprintf("%sCó 3 màu\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"有三色"))?PPM:WHT);
-3357|<O>| ret += sprintf("%sMàu trắng\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"白色"))?PPM:WHT);
+3356|<O>| ret += sprintf("%sCó 3 màu\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Hữu Tam Sắc"))?PPM:WHT);
+3357|<O>| ret += sprintf("%sMàu trắng\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Bạch Sắc"))?PPM:WHT);
 3358|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng:%d cấp\nTiêu hao nguyên khí:%d điểm\nThời gian hồi:%d giây\n    Nhắm vào chỗ hiểm yếu tung đòn mạnh, đồng thời khiến phòng ngự vật lý của đối thủ giảm 10％ trong 20 giây。",
-3359|<O>| ret += sprintf("%sCó 3 món\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"有三件"))?PPM:WHT);
+3359|<O>| ret += sprintf("%sCó 3 món\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Hữu Tam Kiện"))?PPM:WHT);
 3360|<O>| case 3: send_user(who, "%c%s", ':', sprintf("%s:\nNgươi tới đúng lúc lắm, ta đang định đưa bốn phần thức ăn tới các công địa trong thành。\n", me->get_name()));
 3361|<O>| USER_D->gm_channel(sprintf(HIR "%s:%s(%d) rời khỏi trò chơi。", get_name(), me->get_name(), me->get_number()));
 3362|<O>| send_user(me, "%c%c%d%s", '?', 1, DEFAULT_TIME, sprintf("Phong bế kênh %s(%d)。\n\nXin hãy nhập số phút cần phong bế:(0 nghĩa là mở kênh)\n"
@@ -16,7 +16,7 @@
 3369|<O>| send_user(who, "%c%s", ':', me->get_name() + ":\nChúc mừng！Nghề nghiệp của ngài đã đổi thành “" + occupation[index - 1] + "”。\n");
 3370|<O>| if (z != get_z(owner) || distance_between(me, owner) >= 25 && me->get_action() != 0)    // Xa thì không động
 3371|<O>| //		if ( who->get_save("dodolook_yuanfen") && member->get_save("dodolook_yuanfen") ) // Có thẻ duyên phận thì ghi lại
-3372|<O>| ret += sprintf("%sLinh hoạt\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"灵巧"))?PPM:WHT);
+3372|<O>| ret += sprintf("%sLinh hoạt\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Linh Xảo"))?PPM:WHT);
 3373|<O>| if (objectp(robber = me->get_quest("escort.robber#")) && robber->is_escort_robber())    // Tìm người bịt mặt
 3374|<O>| if( objectp( npc2 = who->get_quest("escort.robber#") ) && npc2->is_escort_robber() )    // Tìm người bịt mặt
 3375|<O>| //				result = result + ESC +HIY+ "Tìm lão tiêu đầu Úy Trì nói chuyện\n" + sprintf("talk %x# welcome.34\n", getoid( me ));
@@ -27,7 +27,7 @@
 3380|<O>| send_user( who, "%c%s", ':', get_name() + ":\nHôm qua ta dạy dỗ mấy con gà rừng, kết quả thỏ hoang cũng kéo tới ăn trộm đồ, ta nghĩ mấy ngày nữa chúng còn tới, ngài có thể giúp ta trừ chúng không？\n"
 3381|<O>| result = sprintf("%s:\n    Ngươi đã vượt quá cấp 50 rồi nhỉ. Nếu giờ vẫn muốn dùng cách truyền tống dành cho tân thủ này, mỗi lần truyền tống phải trả ta 500 vàng đó。\n", who->get_name());
 3382|<O>| "Fáo A+30" : "\"/item/61/1030\"", "Fáo A+40" : "\"/item/61/1040\"", "Fáo A+50" : "\"/item/61/1050\"",
-3383|<O>| ret += sprintf("%sMàu hồng\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"粉色"))?PPM:WHT);
+3383|<O>| ret += sprintf("%sMàu hồng\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Phấn Sắc"))?PPM:WHT);
 3384|<O>| CHAT_D->sys_channel(0,HIY"Ngưu Lang Chức Nữ hạ phàm trong ngày Thất Tịch, vì muốn được ở bên nhau lâu dài, họ đang tìm kiếm người có duyên giúp đỡ tại Thiên Đàn nước Chu. Vì để người có tình cuối cùng thành quyến thuộc, mọi người mau tìm người có duyên của mình để giúp họ đi！");
 3385|<O>| "Fáo C+30" : "\"/item/61/3030\"", "Fáo C+40" : "\"/item/61/3040\"", "Fáo C+50" : "\"/item/61/3050\"",
 3386|<O>| return sprintf("［" PF_NAME "］Trong thời gian duy trì, tự động phản kích đòn tấn công của đối thủ, 30％ tỷ lệ phản kích. Tiêu hao pháp lực:%d，tiêu hao nguyên khí:%d, lần dùng tiếp theo cần cách %d giây，%s%d cấp có thể dùng\n",
@@ -35,5 +35,5 @@
 3388|<O>| //                        if( me->get_perform(PF_FLAG_02214) ) pf += ({ 2214 });    // Bát Phong Tam Thức(tự dùng)
 3389|<O>| if (!get_effect(owner, EFFECT_CHAR_SUPPRESS) && owner->get_equip(HAND_TYPE) == me)    // Đang được trang bị
 3390|<O>| "Intel(R) Xeon(TM) CPU 2.80GHz i386ddeb351501422fe713a1bc11501422fe714",	// Mèo Phố 221.235.53.21 Ngạo Thị
-3391|<O>| ret += sprintf("%sBia rượu\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"啤酒"))?PPM:WHT);
+3391|<O>| ret += sprintf("%sBia rượu\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Bi Tửu"))?PPM:WHT);
 3392|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Đây là chút tâm ý của chúng ta, các ngươi cứ nhận lấy đi。\n"

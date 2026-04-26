@@ -1,0 +1,100 @@
+﻿18781|<O>| "铁锭" : "\"/item/stuff/0011\"",
+18782|<O>| "蘑菇" : "\"/item/stuff/0158\"",
+18783|<O>| #define PF_NAME        "流云巾制作"
+18784|<O>| "烟草" : "\"/item/stuff/0170\"",
+18785|<O>| if (!clonep(me)) return "火晶石";
+18786|<O>| #define PF_NAME        "雨露剑锻造"
+18787|<O>| set_char_picid(0251);    // 土匪
+18788|<O>| "绿豆" : "\"/item/stuff/0159\"",
+18789|<O>| tell_user(me, "虚拟活动场所初始化成功！");
+18790|<O>| "残缺灰晶石" : "\"/item/89/8903\"",
+18791|<O>| "红枣" : "\"/item/stuff/0119\"",
+18792|<O>| "白菜" : "\"/item/stuff/0151\"",
+18793|<O>| "木棒" : "\"/item/stuff/0017\"",
+18794|<O>| me->log_money("战争购买", -50000);
+18795|<O>| "残缺白晶石" : "\"/item/89/8905\"",
+18796|<O>| if (!clonep(me)) return "水晶石";
+18797|<O>| #define PF_NAME        "豪龙胆锻造"
+18798|<O>| f1 * 100 + f2 + 4,    // 刚完成任务
+18799|<O>| for (i = 0;i < 2;i++)	//2个鬼卒守卫
+18800|<O>| return "任务物品。修理店老板需要的修理工具之一。";
+18801|<O>| return "黄蜂尾部喷射出做攻击用的毒刺，作出售品用";
+18802|<O>| return "任务物品。一种可用来做雕刻用的特殊木块。";
+18803|<O>| return "任务物品。钱老九被楚方城守卫扣押的货物。";
+18804|<O>| "地瓜" : "\"/item/stuff/0220\"",
+18805|<O>| "破旧的盔甲" : "\"/item/40/4031\"",
+18806|<O>| set_no_sell(0);//可交易，可存当铺，可摆摊。
+18807|<O>| "黄色小石头" : "\"/item/40/4059\"",
+18808|<O>| who->log_money("分红", salary2);
+18809|<O>| #define PF_NAME        "御风鞋制作"
+18810|<O>| result = "战争中神机院主开始研发战斗傀儡技术。";
+18811|<O>| else if ( rate < 7800 )		//藏宝图
+18812|<O>| set("anti_no_move", 1);	//不会冻结
+18813|<O>| #define PF_NAME        "震天戟锻造"
+18814|<O>| f1 * 100 + f2 + 3,    // 没完成任务
+18815|<O>| sprintf("%s:\n    你希望了解些什么？\n"
+18816|<O>| if (!clonep(me)) return "火灵石";
+18817|<O>| if (!clonep(me)) return "影灵石";
+18818|<O>| "完美宝石矿" : "\"/item/89/8995\"",
+18819|<O>| ESC"确定\ntalk %x# bonus.1022\n"
+18820|<O>| "离魂" : "\"/item/stuff/0311\"",
+18821|<O>| + sprintf(ESC"开启\nparty 24\n")
+18822|<O>| case 0: data = "自由攻击";  break;
+18823|<O>| for (i = 0;i < 10;i++) 	//10酒食
+18824|<O>| "丝绸" : "\"/item/stuff/0048\"",
+18825|<O>| ESC "玩家等级。(player)\n" + cmd3 +
+18826|<O>| "荷塘月色图" : "\"/item/97/9728\"",
+18827|<O>| #define PF_NAME        "玄黄剑锻造"
+18828|<O>| _DEBUG("DEBUG -- 玩家已经不在活动场地");
+18829|<O>| return "任务物品。凤凰浴火重生后留下的一枚信物。";
+18830|<O>| #define PF_NAME        "映日鞋制作"
+18831|<O>| case 2: name3 = "逐客令";  break;
+18832|<O>| "金棒" : "\"/item/stuff/0022\"",
+18833|<O>| result = result + HIR"2500金、";
+18834|<O>| #define PF_NAME        "虚空冠制作"
+18835|<O>| if( who )    // 搜索何人攻击(最重要的敌人)
+18836|<O>| + sprintf(ESC"开启\nparty 31\n")
+18837|<O>| "碎绫" : "\"/item/stuff/0049\"",
+18838|<O>| ESC "继续\ntalk %x# welcome.6\n"
+18839|<O>| ESC "马上自动复活。\ndesc revive\n" +
+18840|<O>| "百凤朝凰图" : "\"/item/97/9731\"",
+18841|<O>| "丝线" : "\"/item/stuff/0035\"",
+18842|<O>| if (!clonep(me)) return "日晶石";
+18843|<O>| // 单体＋多体远程技能  TIPS:[PF_CAST_2]
+18844|<O>| set_char_picid(0053);    // 流氓
+18845|<O>| notify("初级锻造石只能锻造在1星以下的装备上。");
+18846|<O>| else if (!gId1 && gId2)	//加入对方
+18847|<O>| "闪光的石头" : "在泰山山脚杀黑熊可以得到闪光的石头",
+18848|<O>| "蜂蜜" : "\"/item/stuff/0169\"",
+18849|<O>| #define PF_NAME        "破风刀锻造"
+18850|<O>| #define PF_NAME        "衾天鞋制作"
+18851|<O>| "牛黄" : "\"/item/stuff/0131\"",
+18852|<O>| return "任务物品。一种可以号令兵将的权力象征物。";
+18853|<O>| return "解除中毒状态，并在 5 秒内不会再次中毒";
+18854|<O>| "蟾酥" : "\"/item/stuff/0134\"",
+18855|<O>| rm(file);    // 清除旧文件(WINDOWS)
+18856|<O>| #define PF_NAME        "青铜帽制作"
+18857|<O>| #define PF_NAME        "金缕衣制作"
+18858|<O>| "硫磺" : "\"/item/stuff/0139\"",
+18859|<O>| "刀片" : "\"/item/stuff/0211\"",
+18860|<O>| notify("对方的队伍已经加入团队，不能邀请加入。");
+18861|<O>| who->log_money("王捕头赚钱", gold);
+18862|<O>| if (!clonep(me)) return "风晶石";
+18863|<O>| "玉米" : "\"/item/stuff/0144\"",
+18864|<O>| ESC "出售！\nsell ! %x# %x# %d\n"
+18865|<O>| if ( iTime < iStart_b )	//没到时间
+18866|<O>| if (!clonep(me)) return "土灵石";
+18867|<O>| "棉线" : "\"/item/stuff/0034\"",
+18868|<O>| if (!clonep(me)) return "金晶石";
+18869|<O>| else if (flag < 0)    // 初始化数值
+18870|<O>| ESC"领取神兽\ntalk %x# bonus.33\n"
+18871|<O>| || !sizeof(user)    // 用户个数大于０
+18872|<O>| "离魄" : "\"/item/stuff/0312\"",
+18873|<O>| "熊肉" : "\"/item/stuff/0182\"",
+18874|<O>| "木轮" : "\"/item/stuff/0206\"",
+18875|<O>| log_file(LIST_LOG, "# 剑\n\n");
+18876|<O>| if (!clonep(me)) return "日灵石";
+18877|<O>| #define PF_NAME        "百炼刀锻造"
+18878|<O>| if ( GET_TIME < iStart )	//攻城前
+18879|<O>| "狗肉" : "\"/item/stuff/0178\"",
+18880|<O>| "银棒" : "\"/item/stuff/0023\"",

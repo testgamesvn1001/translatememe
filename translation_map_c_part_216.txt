@@ -24,7 +24,7 @@
 6399|<O>| "Công thức ngẫu nhiên cấp 60-90" : "\"/sys/item/product\"->get_random_drop_product(5)",
 6400|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_HANGUO, 17, "Xóa bỏ uy hiếp");
 6401|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 1, 2,TID_THIEF,2,"Tìm lại vật bị mất" );
-6402|<O>| string* cityname = ({ "齐国", "韩国", "赵国", "魏国", "秦国", "楚国", "燕国", });
+6402|<O>| string* cityname = ({ "TềQuốc", "HànQuốc", "TriệuQuốc", "NgụyQuốc", "TầnQuốc", "SởQuốc", "YênQuốc", });
 6403|<O>| tmp += sprintf(ESC HIY "Biểu tượng của quyền lực\ntalk %x# welcome.21\n", getoid(me));
 6404|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHOUGUO, 3, "Bái phỏng sư gia");
 6405|<O>| tmp += sprintf(ESC HIY "Tìm hỏi người biết chuyện\ntalk %x# welcome.47\n", getoid(me));

@@ -5,7 +5,7 @@
 6010|<O>| log_file(LIST_LOG_2, "---------- /quest/stone (đá quý) không đầy đủ ----------\n");
 6011|<O>| log_file(CHANNEL_LOG, sprintf("%s %s(%d)%s mở toàn bộ kênh của %s(%d)%s。(GM)\n",
 6012|<O>| send_user(who, "%c%s", ';', "Phân biệt đúng sai Kinh nghiệm 22000 Tiềm năng 410 Tiền 21000 Bản vẽ Bánh Bí Ngô 1");
-6013|<O>| && who->get_quest("escort.city") + "国" == get_city_name())    // Tìm đúng người rồi
+6013|<O>| && who->get_quest("escort.city") + "Quốc" == get_city_name())    // Tìm đúng người rồi
 6014|<O>| private class clock_struct* all_alarm_clocks = ({});	//	Lưu tất cả cấu trúc đồng hồ hiện có
 6015|<O>| send_user(who, "%c%s", ';', "Tội phạm truy nã Kinh nghiệm 60000 Tiềm năng 900 Tiền 50000 Bản vẽ Chiến Ngoa Vân Long 1");
 6016|<O>| return sprintf(PF_NAME ":\n　　Tăng %d điểm giới hạn khí huyết。\n", me->get_save("05014"));
@@ -32,7 +32,7 @@
 6037|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 80, "Trừ khử thích khách");
 6038|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_MAOSHAN, 5, "Du hồn（6）");
 6039|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_CHUGUO,7,"Mua hộp trả ngọc(1)" );
-6040|<O>| case "韩国": cmd1 = sprintf("talk %x# relation.?.%d.1\n", id, number);
+6040|<O>| case "HànQuốc": cmd1 = sprintf("talk %x# relation.?.%d.1\n", id, number);
 6041|<O>| private int AP0, AP;                            // Tấn công vật lý("ap", "ap%")
 6042|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 1, 2,TID_QIXI,3,"Thất Tịch trời ban kỳ duyên（1）" );
 6043|<O>| send_user(who, "%c%s", ';', "Tiến sâu vào mục trường Kinh nghiệm 49000 Tiềm năng 690 Tiền 47000 Phòng ngự vật lý cường hiệu 1");

@@ -1,91 +1,91 @@
-﻿17263|<O>| string get_name() { return "壶关"; }
-17264|<O>| npc->set_level_0(level);    // 布阵图
-17265|<O>| if (!clonep()) return "通过它可以找到宝藏";
-17266|<O>| string get_name() { return "魏国"; }
-17267|<O>| "萝卜棒" : "\"/item/final/33/1709\"",
-17268|<O>| "雨露剑" : "\"/item/final/76/1065\"",
-17269|<O>| //	必出物品 -- 1件50—120级随机部位金色装备（包括武器）
-17270|<O>| string get_name() { return "变身"; }
-17271|<O>| "金钥匙" : "\"/item/final/16/1621\"",
-17272|<O>| "红莲怒" : "\"/item/final/75/1095\"",
-17273|<O>| "银蛇剑" : "\"/item/final/76/1050\"",
-17274|<O>| "试炼丹" : "\"/item/final/91/1838\"",
-17275|<O>| string get_name() { return "乐陵"; }
-17276|<O>| ESC "购买机关技能等级41-60级的配方\nlist %s\n"
-17277|<O>| "黄瓜汤" : "\"/item/final/33/1752\"",
-17278|<O>| "搜魂针" : "\"/item/final/71/1110\"",
-17279|<O>| ESC "购买炼丹技能等级41-60级的配方\nlist %s\n"
-17280|<O>| return "战狼套装其中之一,相传穿上全套就会拥有神秘的力量";
-17281|<O>| string get_name() { return "韩国"; }
-17282|<O>| + sprintf(ESC"惊天大爆装\nparty 120\n")
-17283|<O>| string get_name() { return "涿鹿"; }
-17284|<O>| "紫金丹" : "\"/item/final/91/1812\"",
-17285|<O>| "青犊刀" : "\"/item/final/72/1050\"",
-17286|<O>| SAY_CMD->say(me, "锄禾日当午，汗滴禾下土……");
-17287|<O>| "海魂刀" : "\"/item/final/72/1045\"",
-17288|<O>| "蜂王膏" : "\"/item/final/91/1831\"",
-17289|<O>| notify("狂暴状态下不能使用“" PF_NAME "”。");
-17290|<O>| ESC "购买裁缝技能等级59-68级的配方\nlist %s\n"
-17291|<O>| if (npc->get("boxname") == "师门宝箱")
-17292|<O>| "铁制机关构件" : "\"/item/stuff/0197\"",
-17293|<O>| write_user(me, ECHO "您祭起一张飞行符……");
-17294|<O>| write_user(me, ECHO "您携带的东西太多了。");
-17295|<O>| "六神丹" : "\"/item/final/91/1813\"",
-17296|<O>| string get_name() { return "彭城"; }
-17297|<O>| if (map->get("finish"))    // 战斗结束
-17298|<O>| me->set_enemy_2(who);    // 远程目标锁定
-17299|<O>| string get_name() { return "狂攻"; }
-17300|<O>| string get_name() { return "束缚"; }
-17301|<O>| string get_name() { return "易京"; }
-17302|<O>| "蓬莱矛" : "\"/item/final/74/1065\"",
-17303|<O>| "断魂沙" : "\"/item/final/71/1095\"",
-17304|<O>| "寒光枪" : "\"/item/final/74/1045\"",
-17305|<O>| me->set("new_heart", 1);	// 新走路的标志
-17306|<O>| string get_name() { return "巨鹿"; }
-17307|<O>| "驱魔散" : "\"/item/final/91/1839\"",
-17308|<O>| "飞蝗石" : "\"/item/final/71/1035\"",
-17309|<O>| result += ESC"停止活动\nparty 1222\n";
-17310|<O>| "混天戟" : "\"/item/final/74/1085\"",
-17311|<O>| return "任务物品。齐国商人用来装名贵珍珠需要的漂亮盒子。";
-17312|<O>| "刺青枪" : "\"/item/final/74/1035\"",
-17313|<O>| else if (rate < 35000)	//气血上限增加50点
-17314|<O>| string get_name() { return "西城"; }
-17315|<O>| "山药酒" : "\"/item/final/33/1757\"",
-17316|<O>| "无极棍" : "\"/item/final/75/1070\"",
-17317|<O>| else tell_user(me, "重阳节活动处于开启状态");
-17318|<O>| HIR "新手村的门派向导" NOR "，他会送你到门派去的。\n"
-17319|<O>| "碎星剑" : "\"/item/final/76/1090\"",
-17320|<O>| "女儿红" : "\"/item/final/33/1762\"",
-17321|<O>| string get_name() { return "楚国"; }
-17322|<O>| gift = new("item/91/9145");		//清心丹
-17323|<O>| "蜂王浆" : "\"/item/final/91/1802\"",
-17324|<O>| item = new ("item/std/0409");//飞行符
-17325|<O>| "困敌索" : "\"/item/final/16/1618\"",
-17326|<O>| string get_name() { return "乌江"; }
-17327|<O>| string get_name() { return "平原"; }
-17328|<O>| else if (rate < 83000)	//法术攻击提升80点
-17329|<O>| log_file(LIST_LOG, "# 敏捷帽子(女)\n");
-17330|<O>| "将军棍" : "\"/item/final/75/1040\"",
-17331|<O>| log_file(LIST_LOG, "# 基本帽子(女)\n");
-17332|<O>| cmd = "哈哈哈哈～～新年到处乐洋洋，大家也应该开开心心～～";
-17333|<O>| string get_name() { return "平阳"; }
-17334|<O>| string get_name() { return "巫山"; }
-17335|<O>| string get_name() { return "强攻"; }
-17336|<O>| string get_name() { return "御土"; }
-17337|<O>| string get_name() { return "牧场"; }
-17338|<O>| "金刚棍" : "\"/item/final/75/1060\"",
-17339|<O>| else //气脉丹、周天丹、逍遥散、金桑散、紫心丹、归元丹随机一个
-17340|<O>| "龙尖枪" : "\"/item/final/74/1075\"",
-17341|<O>| ESC "购买石刻技能等级60-79级的配方\nlist %s\n"
-17342|<O>| if (arg == "cancel")	// 拒绝任务转到这里进行
-17343|<O>| else if (p < 88)    // 生活材料的低级中间产品
-17344|<O>| return "使等待救援的死亡玩家直接复活，相当于“自动复活”";
-17345|<O>| string get_name() { return "小沛"; }
-17346|<O>| "大炸弹" : "\"/item/final/16/1613\"",
-17347|<O>| if(other_stat[0]) {				//	0 设置行进速度
-17348|<O>| string get_name() { return "弘农"; }
-17349|<O>| npc = new("npc/copy/0007");	//机关石狮
-17350|<O>| item = new ("item/04/0463");//重阳礼包
-17351|<O>| ESC"领取龙卷风大礼包\ntalk %x# bonus.32\n"
-17352|<O>| add_pp(get_pp() * 150 / 100);	//法防
-17353|<O>| buf = "听说百年难得一见，专售宝物的云游商人在%s出现了。";
+﻿17263|<O>| string get_name() { return "hồ quan"; }
+17264|<O>| npc->set_level_0(level);    // bố Trận Đồ
+17265|<O>| if (!clonep()) return "thông quanócó thểtìmđếnBảo tàng";
+17266|<O>| string get_name() { return "Ngụy Quốc"; }
+17267|<O>| "La Bốc bổng" : "\"/item/final/33/1709\"",
+17268|<O>| "vũ lộ Kiếm" : "\"/item/final/76/1065\"",
+17269|<O>| //	tất Xuất Vật Phẩm -- 1kiện50—120cấpNgẫu nhiênbộ vịVàngSắcTrang bị（bao quátVũ khí）
+17270|<O>| string get_name() { return "biến Thân"; }
+17271|<O>| "Vàngchìa thì" : "\"/item/final/16/1621\"",
+17272|<O>| "Hồng Liên Nộ" : "\"/item/final/75/1095\"",
+17273|<O>| "BạcXàKiếm" : "\"/item/final/76/1050\"",
+17274|<O>| "thử Luyện Đơn" : "\"/item/final/91/1838\"",
+17275|<O>| string get_name() { return "lạc Lăng"; }
+17276|<O>| ESC "MuaCơ QuanKỹ năngCấp độ41-60cấp Công thức\nlist %s\n"
+17277|<O>| "Hoàng qua thang" : "\"/item/final/33/1752\"",
+17278|<O>| "sưu Hồn châm" : "\"/item/final/71/1110\"",
+17279|<O>| ESC "MuaLuyện ĐơnKỹ năngCấp độ41-60cấp Công thức\nlist %s\n"
+17280|<O>| return "ChiếnLangbộ trang kỳgiữaChi Nhất,Tương truyền khi mặc đủ bộ sẽ sở hữu sức mạnh thần bí";
+17281|<O>| string get_name() { return "Hàn Quốc"; }
+17282|<O>| + sprintf(ESC"KinhngàylớnBạo trang\nparty 120\n")
+17283|<O>| string get_name() { return "Trác Lộc"; }
+17284|<O>| "TửVàngĐơn" : "\"/item/final/91/1812\"",
+17285|<O>| "Thanh độc Đao" : "\"/item/final/72/1050\"",
+17286|<O>| SAY_CMD->say(me, "sừ hòa Nhật đương ngọ，hãn trích hòadướiThổ……");
+17287|<O>| "Hải Hồn Đao" : "\"/item/final/72/1045\"",
+17288|<O>| "phong Vương cao" : "\"/item/final/91/1831\"",
+17289|<O>| notify("Cuồng Bạo trạng tháidướiKhông thể sử dụng“" PF_NAME "”。");
+17290|<O>| ESC "MuaTài PhùngKỹ năngCấp độ59-68cấp Công thức\nlist %s\n"
+17291|<O>| if (npc->get("boxname") == "Sư Môn Bảo rương")
+17292|<O>| "SắtchếCơ Quancấukiện" : "\"/item/stuff/0197\"",
+17293|<O>| write_user(me, ECHO "Bạn tế Khởi NhấtTrương PhiHành Phù……");
+17294|<O>| write_user(me, ECHO "Bạn huề Đáicủađồ vậtTháinhiều。");
+17295|<O>| "LụcThầnĐơn" : "\"/item/final/91/1813\"",
+17296|<O>| string get_name() { return "Bành Thành"; }
+17297|<O>| if (map->get("finish"))    // chiến đấuKết thúc
+17298|<O>| me->set_enemy_2(who);    // Viễn trìnhmục tiêuTỏa định
+17299|<O>| string get_name() { return "Cuồng Công"; }
+17300|<O>| string get_name() { return "thúc phọc"; }
+17301|<O>| string get_name() { return "Dịch Kinh"; }
+17302|<O>| "bồng lai mâu" : "\"/item/final/74/1065\"",
+17303|<O>| "đoạn Hồn sa" : "\"/item/final/71/1095\"",
+17304|<O>| "HànQuangThương" : "\"/item/final/74/1045\"",
+17305|<O>| me->set("new_heart", 1);	// mớitẩu Lộcủatiêu Chí
+17306|<O>| string get_name() { return "Cự Lộc"; }
+17307|<O>| "khuMatán" : "\"/item/final/91/1839\"",
+17308|<O>| "Phi hoàng Thạch" : "\"/item/final/71/1035\"",
+17309|<O>| result += ESC"đình chỉhoạt động\nparty 1222\n";
+17310|<O>| "hỗnngàyKích" : "\"/item/final/74/1085\"",
+17311|<O>| return "Vật phẩm nhiệm vụ。Tề QuốcThương Nhândùng đến trang Danh quý Trân Châucầncủaphiêu lượng hạp Tử。";
+17312|<O>| "Thích Thanh Thương" : "\"/item/final/74/1035\"",
+17313|<O>| else if (rate < 35000)	//Khí HuyếttrênhạnTăng50điểm
+17314|<O>| string get_name() { return "Tây Thành"; }
+17315|<O>| "Sơn Dược Tửu" : "\"/item/final/33/1757\"",
+17316|<O>| "vô Cực Côn" : "\"/item/final/75/1070\"",
+17317|<O>| else tell_user(me, "trọng Dương tiếthoạt độngxử vuMởtrạng thái");
+17318|<O>| HIR "Tân Thủ ThôncủaMôn pháihướngđạo" NOR "，hắnsẽtốngbạnđếnMôn pháiđicủa。\n"
+17319|<O>| "toái Tinh Kiếm" : "\"/item/final/76/1090\"",
+17320|<O>| "Nữnhi Hồng" : "\"/item/final/33/1762\"",
+17321|<O>| string get_name() { return "Sở Quốc"; }
+17322|<O>| gift = new("item/91/9145");		//Thanh Tâm Đơn
+17323|<O>| "phong Vương tương" : "\"/item/final/91/1802\"",
+17324|<O>| item = new ("item/std/0409");//Phi Hành Phù
+17325|<O>| "khốn Địch sách" : "\"/item/final/16/1618\"",
+17326|<O>| string get_name() { return "ô Giang"; }
+17327|<O>| string get_name() { return "bình nguyên"; }
+17328|<O>| else if (rate < 83000)	//Pháp ThuậtTấn côngNâng80điểm
+17329|<O>| log_file(LIST_LOG, "# mẫn tiệpMạo(Nữ)\n");
+17330|<O>| "Tướng quân Côn" : "\"/item/final/75/1040\"",
+17331|<O>| log_file(LIST_LOG, "# Cơ bảnMạo(Nữ)\n");
+17332|<O>| cmd = "ha ha ha ha～～mớinămđếnxử lạc dương dương，mọi ngườicũngứng nên mở mở Tâm Tâm～～";
+17333|<O>| string get_name() { return "Bình Dương"; }
+17334|<O>| string get_name() { return "vu Sơn"; }
+17335|<O>| string get_name() { return "Cường Công"; }
+17336|<O>| string get_name() { return "NgựThổ"; }
+17337|<O>| string get_name() { return "mục trường"; }
+17338|<O>| "Vàngcương Côn" : "\"/item/final/75/1060\"",
+17339|<O>| else //khí Mạch Đơn、ChungàyĐơn、tiêu dao tán、VàngTang tán、Tử Tâm Đơn、Quy Nguyên ĐơnNgẫu nhiênNhất
+17340|<O>| "Longtiêm Thương" : "\"/item/final/74/1075\"",
+17341|<O>| ESC "MuaThạch KhắcKỹ năngCấp độ60-79cấp Công thức\nlist %s\n"
+17342|<O>| if (arg == "cancel")	// cự TuyệtNhiệm vụchuyểnđếnnàytrongtiến Hành
+17343|<O>| else if (p < 88)    // sinh hoạt tài liệucủathấpcấpgiữagian sản Phẩm
+17344|<O>| return "sử Đẳng đãi cứu việncủaTử vongNgười chơiTrực tiếpPhục sinh，Tương đương vu“Tự ĐộngPhục sinh”";
+17345|<O>| string get_name() { return "nhỏBái"; }
+17346|<O>| "lớntrá đạn" : "\"/item/final/16/1613\"",
+17347|<O>| if(other_stat[0]) {				//	0 thiết trí Hành tiến tốc độ
+17348|<O>| string get_name() { return "Hoằng nông"; }
+17349|<O>| npc = new("npc/copy/0007");	//Cơ QuanThạch Sư
+17350|<O>| item = new ("item/04/0463");//trọng Dương lễ bao
+17351|<O>| ESC"lĩnh thủLongquyểnPhonglớnlễ bao\ntalk %x# bonus.32\n"
+17352|<O>| add_pp(get_pp() * 150 / 100);	//Pháp phòng
+17353|<O>| buf = "thính nói Báchnămnan được Nhất kiến，chuyên thụ Bảo VậtcủaVân duThương NhânTại%sXuất hiện。";

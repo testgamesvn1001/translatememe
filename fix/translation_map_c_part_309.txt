@@ -1,0 +1,69 @@
+﻿11935|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"四面楚歌（2）");
+11936|<O>| case '#': send_user(me, "%c%s", '!', "数据库操作错误！");
+11937|<O>| private int if_active_next	= 1;			//	是否自动开启下一次的标志
+11938|<O>| log_file(LIST_LOG_2, "// 秘籍，放到 /quest/book\n\n");
+11939|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 10, "采集中……");
+11940|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"情锁秦宫（3）");
+11941|<O>| write_user(who, HIY "%s邀请您来这儿。", me->get_name());
+11942|<O>| SAY_CMD->say(me, "哎呀!身上的宝贝太多了,都拿不动了!咦……谁的金装掉了?");
+11943|<O>| if( gone_time(locktime) > lockutil )    // 计算是否锁定
+11944|<O>| else if (who->get_quest("escort.flag")    // 运镖任务
+11945|<O>| set_char_type(FIGHTER_TYPE);    // init_level 要用到
+11946|<O>| else if (who->get_2("changping.country") == "赵国")
+11947|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 10, "寻找中……");
+11948|<O>| #define LOGIN_TIMEOUT           60      // 连线超时限制
+11949|<O>| 呼延归海 羊舌微生 岳帅缑亢 况后有琴 梁丘左丘 东门西门 商牟佘佴 伯赏南宫 墨哈谯笪 年爱阳佟
+11950|<O>| name = "关外劫匪";picid = 8013; citypoint = 5; break;
+11951|<O>| return "“二郎真君之神兵，枪身热如炽焰”\n攻击目标时有一定几率\n给目标产生破甲效果";
+11952|<O>| private int DoubleTime;                 // 双倍经验时间
+11953|<O>| log_file("boss.txt", short_time() + " 犬太郎被消灭\n");
+11954|<O>| 池乔阴郁 胥能苍双 闻莘党翟 谭贡劳逄 姬申扶堵 冉宰郦雍 卻璩桑桂 濮牛寿通 边扈燕冀 郏浦尚农
+11955|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"亡羊补牢(3)");
+11956|<O>| send_user(who, "%c%s", '!', "声望高于 100 才能接外交任务。");
+11957|<O>| _DEBUG(sprintf("DEBUG -- 执行do_nothing:%s", str));
+11958|<O>| tell_user(me, "对象: %O\n函数 %s() 不存在。", obj, func);
+11959|<O>| else if (rate < 6000 * rate1 / 100)	//60等级段随机蓝色配方
+11960|<O>| send_user(who, "%c%s", '!', "不健康游戏时间禁止领取双倍经验。");
+11961|<O>| // ẢNH HƯỞNG: HIGH - Player 要主动触发 NPC activation
+11962|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"决定性的打击");
+11963|<O>| who->delete_quest("escort.random");    // 记录随机事件
+11964|<O>| return  PF_NAME ":\n　　进入该毒气内的所有敌对目标都会陷入中毒状态。\n";
+11965|<O>| string get_suit_name() { return "灵鹿"; }	//属于某某套装
+11966|<O>| send_user(who, "%c%s", '!', "不健康游戏时间禁止使用战国号角。");
+11967|<O>| private int PK;                         // PK 标志
+11968|<O>| string get_suit_name() { return "雪雕"; }	//属于某某套装
+11969|<O>| private string UserID;                  // 最初获得者
+11970|<O>| amount03 = check_item_amount(who, "装着坏大熊的神奇葫芦");
+11971|<O>| //			send_user(who,"%c%s",';',"你得到"HIY"10根乾坤绳");
+11972|<O>| #define SKILL_FINAL	"/item/stuff/0013"		// 制作的结果
+11973|<O>| tell_user(who, "列示“%s”公告。", me->get_org_name());
+11974|<O>| if (!item) item = new ("item/mop/9002");		//金灵石5
+11975|<O>| else    return sprintf(PF_NAME "\n    持续减少法力。");
+11976|<O>| #define SKILL_FINAL	"/item/stuff/0016"		// 制作的结果
+11977|<O>| private int PicId2;                     // 道具栏外型
+11978|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"酿酒的原材料");
+11979|<O>| return "常常用于暗杀敌人用的毒药,每2秒使玩家气血值下降100点,该效果会持续20秒";
+11980|<O>| name = "关外劫匪";picid = 8012; citypoint = 3;break;
+11981|<O>| if (gone_time(get_drop_time()) > 7200)    // 2小时
+11982|<O>| send_user(who, "%c%s", '!', "任务完成！请找王府总管回复任务。");
+11983|<O>| else if (rate < 4000 * rate1 / 100)		//70级随机配方两个
+11984|<O>| CHAR_FIGHT_D->set_enmity2(me, who, 20);  //设置仇恨值
+11985|<O>| string get_suit_name() { return "灵狐"; }	//属于某某套装
+11986|<O>| private static string ForceCmd;         // 预执行命令
+11987|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 6, "传送中……");
+11988|<O>| send_user(me, "%c%s", '!', "你的等级太低了，不适合路途的颠簸。");
+11989|<O>| send_user(me, "%c%s", '!', "对方团队已达到组队上限，加入失败！");
+11990|<O>| move_object(me, z0, x, y, USER_TYPE);    // 移动玩家
+11991|<O>| who->delete_quest("thief.flag");    // 完成任务，删除标志
+11992|<O>| string get_suit_name() { return "猛虎"; }	//属于某某套装
+11993|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 6, "开锁中……");
+11994|<O>| send_user(who, "%c%s", '!', "买入税得在 1～20%% 之间。");
+11995|<O>| who->set_task("warrior_bonus", level);		//找卫队长领奖
+11996|<O>| send_user(who, "%c%s", '!', "卖出税得在 1～20%% 之间。");
+11997|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"夜空中的响声");
+11998|<O>| string get_suit_name() { return "速风"; }	//属于某某套装
+11999|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"收集机关构件");
+12000|<O>| || !(obj4 = present("残图右下角", me, 1, MAX_CARRY)))
+12001|<O>| if ( GameList[index[m]]["score1"] == -1 )	//没有赛果
+12002|<O>| string get_suit_name() { return "猎鹰"; }	//属于某某套装
+12003|<O>| send_user(me, "%c%s", '!', "验证校验码错误！" + result);

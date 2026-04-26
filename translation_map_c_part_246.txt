@@ -1,58 +1,58 @@
-﻿8026|<O>| /*              else if( p < 5319 * rate / 100 )    // 武器(基本)
-8027|<O>| /*              else if( p < 6179 * rate / 100 )    // 防具(基本)
-8028|<O>| /*              else if( p < 6622 * rate / 100 )    // 武器(基本)
-8029|<O>| /*              else if( p < 5446 * rate / 100 )    // 防具(基本)
-8030|<O>| /*              else if( p < 8971 * rate / 100 )    // 武器(基本)
-8031|<O>| case "楚国": z = 60;  p = get_jumpin(z, me->get("in"));  break;
-8032|<O>| /*              else if( p < 7183 * rate / 100 )    // 防具(基本)
-8033|<O>| /*              else if( p < 8060 * rate / 100 )    // 武器(基本)
-8034|<O>| /*              else if( p < 4436 * rate / 100 )    // 武器(基本)
-8035|<O>| if (!objectp(who) || get_z(who) != map_id)    // 主人不存在，或不在本场景
-8036|<O>| /*              else if( p < 3500 * rate / 100 )    // 防具(门派)
-8037|<O>| /*              else if( p < 8047 * rate / 100 )    // 武器(基本)
-8038|<O>| /*              else if( p < 5803 * rate / 100 )    // 防具(基本)
-8039|<O>| /*              else if( p < 1000000 * rate / 100 )    // 杂物５
-8040|<O>| /*              else if( p < 5284 * rate / 100 )    // 防具(基本)
-8041|<O>| /*              else if( p < 5247 * rate / 100 )    // 防具(门派)
-8042|<O>| send_user(who, "%c%s", ';', "深入民间 经验 69000 潜能 810 金钱 50000");
-8043|<O>| /*              else if( p < 2494 * rate / 100 )    // 武器(基本)
-8044|<O>| tmp += sprintf(ESC"学习生活技能\nlearn ? %s\n", me->get_char_id());
-8045|<O>| /*              else if( p < 6382 * rate / 100 )    // 防具(基本)
-8046|<O>| send_user(who, "%c%s", ';', "探访将军 经验 56000 潜能 750 金钱 53000");
-8047|<O>| send_user(who, "%c%s", ';', "多管闲事 经验 63000 潜能 908 金钱 54500");
-8048|<O>| tmp += sprintf(ESC HIY "带口信给齐国使节\ntalk %x# welcome.7\n", id);
-8049|<O>| /*              else if( p < 9255 * rate / 100 )    // 防具(基本)
-8050|<O>| send_user(who, "%c%s", ';', "唇亡齿寒（2） 经验 2500 潜能 60 金钱 1800");
-8051|<O>| send_user(who, "%c%c%c%w%s", 0x51, 1, 1, TID_DAPANG, "大胖任务");
-8052|<O>| /*              else if( p < 4528 * rate / 100 )    // 防具(基本)
-8053|<O>| /*              else if( p < 6695 * rate / 100 )    // 武器(基本)
-8054|<O>| /*              else if( p < 9195 * rate / 100 )    // 武器(基本)
-8055|<O>| case 75: result = "山东响马头目";  pic = 8012;  level2 = 1;  break;
-8056|<O>| /*              else if( p < 4860 * rate / 100 )    // 武器(门派)
-8057|<O>| private static int HealingRate;                 // 康复率(恢复类药物)
-8058|<O>| send_user(who, "%c%s", ':', me->get_name() + "愤然拒绝了您的投降建议！");
-8059|<O>| /*              else if( p < 6288 * rate / 100 )    // 武器(基本)
-8060|<O>| send_user(member[i], "%c%s", ';', HIY"轰!隆!隆!传说中的武林败类头目出现了。");
-8061|<O>| /*              else if( p < 2579 * rate / 100 )    // 防具(基本)
-8062|<O>| || get_effect(who, EFFECT_CHAR_FAINT_0)) continue;    // 执行成功
-8063|<O>| /*              else if( p < 8998 * rate / 100 )    // 武器(基本)
-8064|<O>| /*              else if( p < 3304 * rate / 100 )    // 武器(基本)
-8065|<O>| /*              else if( p < 2689 * rate / 100 )    // 武器(门派)
-8066|<O>| /*              else if( p < 6212 * rate / 100 )    // 防具(基本)
-8067|<O>| /*              else if( p < 4951 * rate / 100 )    // 武器(基本)
-8068|<O>| return HIR + PF_NAME + "\n技能需求:5级\n    持续一段时间内，可提升自身的物理防御力。";
-8069|<O>| /*              else if( p < 5247 * rate / 100 )    // 武器(门派)
-8070|<O>| send_user(who, "%c%s", ';', "嘱托之事 经验 50000 潜能 610 金钱 48000");
-8071|<O>| cWord = sprintf(me->get_name() + ":\n    你要给我糯米、猪肉和蓼叶各一份吗？");
-8072|<O>| /*              else if( p < 9207 * rate / 100 )    // 防具(基本)
-8073|<O>| /*              else if( p < 3338 * rate / 100 )    // 防具(基本)
-8074|<O>| /*              else if( p < 4701 * rate / 100 )    // 防具(门派)
-8075|<O>| /*              else if( p < 5198 * rate / 100 )    // 武器(基本)
-8076|<O>| /*              else if( p < 5146 * rate / 100 )    // 武器(基本)
-8077|<O>| /*              else if( p < 4587 * rate / 100 )    // 防具(基本)
-8078|<O>| /*              else if( p < 6354 * rate / 100 )    // 防具(基本)
-8079|<O>| void on_active_before(int callout_delay_time);		//	活动开始时执行的函数
-8080|<O>| /*              else if( p < 6212 * rate / 100 )    // 武器(基本)
-8081|<O>| /*              else if( p < 4440 * rate / 100 )    // 武器(门派)
-8082|<O>| /*              else if( p < 3003 * rate / 100 )    // 防具(基本)
-8083|<O>| "白起60":({ 1000000, 1000000,  700,  560,  650,  510,  300, }),
+﻿8026|<O>| /*              else if( p < 5319 * rate / 100 )    // Vũ khí(Cơ bản)
+8027|<O>| /*              else if( p < 6179 * rate / 100 )    // Phòng cụ(Cơ bản)
+8028|<O>| /*              else if( p < 6622 * rate / 100 )    // Vũ khí(Cơ bản)
+8029|<O>| /*              else if( p < 5446 * rate / 100 )    // Phòng cụ(Cơ bản)
+8030|<O>| /*              else if( p < 8971 * rate / 100 )    // Vũ khí(Cơ bản)
+8031|<O>| case "Sở Quốc": z = 60;  p = get_jumpin(z, me->get("in"));  break;
+8032|<O>| /*              else if( p < 7183 * rate / 100 )    // Phòng cụ(Cơ bản)
+8033|<O>| /*              else if( p < 8060 * rate / 100 )    // Vũ khí(Cơ bản)
+8034|<O>| /*              else if( p < 4436 * rate / 100 )    // Vũ khí(Cơ bản)
+8035|<O>| if (!objectp(who) || get_z(who) != map_id)    // chủ NhânkhôngtồnTại，hoặckhôngTạiBản trường cảnh
+8036|<O>| /*              else if( p < 3500 * rate / 100 )    // Phòng cụ(Môn phái)
+8037|<O>| /*              else if( p < 8047 * rate / 100 )    // Vũ khí(Cơ bản)
+8038|<O>| /*              else if( p < 5803 * rate / 100 )    // Phòng cụ(Cơ bản)
+8039|<O>| /*              else if( p < 1000000 * rate / 100 )    // Tạp vật５
+8040|<O>| /*              else if( p < 5284 * rate / 100 )    // Phòng cụ(Cơ bản)
+8041|<O>| /*              else if( p < 5247 * rate / 100 )    // Phòng cụ(Môn phái)
+8042|<O>| send_user(who, "%c%s", ';', "thâm Nhập dân gian Kinh nghiệm 69000 Tiềm năng 810 Tiền vàng 50000");
+8043|<O>| /*              else if( p < 2494 * rate / 100 )    // Vũ khí(Cơ bản)
+8044|<O>| tmp += sprintf(ESC"Họcsinh hoạtKỹ năng\nlearn ? %s\n", me->get_char_id());
+8045|<O>| /*              else if( p < 6382 * rate / 100 )    // Phòng cụ(Cơ bản)
+8046|<O>| send_user(who, "%c%s", ';', "Thám phỏng Tướng quân Kinh nghiệm 56000 Tiềm năng 750 Tiền vàng 53000");
+8047|<O>| send_user(who, "%c%s", ';', "nhiềuquản nhàn sự Kinh nghiệm 63000 Tiềm năng 908 Tiền vàng 54500");
+8048|<O>| tmp += sprintf(ESC HIY "Đái khẩu TínchoTề Quốcsử tiết\ntalk %x# welcome.7\n", id);
+8049|<O>| /*              else if( p < 9255 * rate / 100 )    // Phòng cụ(Cơ bản)
+8050|<O>| send_user(who, "%c%s", ';', "Thần Vong Xỉ Hàn（2） Kinh nghiệm 2500 Tiềm năng 60 Tiền vàng 1800");
+8051|<O>| send_user(who, "%c%c%c%w%s", 0x51, 1, 1, TID_DAPANG, "lớnphánNhiệm vụ");
+8052|<O>| /*              else if( p < 4528 * rate / 100 )    // Phòng cụ(Cơ bản)
+8053|<O>| /*              else if( p < 6695 * rate / 100 )    // Vũ khí(Cơ bản)
+8054|<O>| /*              else if( p < 9195 * rate / 100 )    // Vũ khí(Cơ bản)
+8055|<O>| case 75: result = "Sơn Đông hưởng Mã đầu Mục";  pic = 8012;  level2 = 1;  break;
+8056|<O>| /*              else if( p < 4860 * rate / 100 )    // Vũ khí(Môn phái)
+8057|<O>| private static int HealingRate;                 // Khang phục suất(Phục hồiloại Dược Vật)
+8058|<O>| send_user(who, "%c%s", ':', me->get_name() + "phẫn nhiên cự Tuyệt Bạncủađầu giáng kiến nghị！");
+8059|<O>| /*              else if( p < 6288 * rate / 100 )    // Vũ khí(Cơ bản)
+8060|<O>| send_user(member[i], "%c%s", ';', HIY"oanh!long!long!Truyền nóigiữacủaVũ Lâm bại loại đầu Mục Xuất hiện。");
+8061|<O>| /*              else if( p < 2579 * rate / 100 )    // Phòng cụ(Cơ bản)
+8062|<O>| || get_effect(who, EFFECT_CHAR_FAINT_0)) continue;    // thực hiện thành công
+8063|<O>| /*              else if( p < 8998 * rate / 100 )    // Vũ khí(Cơ bản)
+8064|<O>| /*              else if( p < 3304 * rate / 100 )    // Vũ khí(Cơ bản)
+8065|<O>| /*              else if( p < 2689 * rate / 100 )    // Vũ khí(Môn phái)
+8066|<O>| /*              else if( p < 6212 * rate / 100 )    // Phòng cụ(Cơ bản)
+8067|<O>| /*              else if( p < 4951 * rate / 100 )    // Vũ khí(Cơ bản)
+8068|<O>| return HIR + PF_NAME + "\nKỹ năng yêu cầu:5cấp\n    kéo dàiNhất đoạngiờgiantrong，Có thể nângTự ThâncủaLực phòng thủ vật lý。";
+8069|<O>| /*              else if( p < 5247 * rate / 100 )    // Vũ khí(Môn phái)
+8070|<O>| send_user(who, "%c%s", ';', "chúc thác Chi sự Kinh nghiệm 50000 Tiềm năng 610 Tiền vàng 48000");
+8071|<O>| cWord = sprintf(me->get_name() + ":\n    bạncầnchotôinếp mễ、Trư Nhụcvàliễu Diệp các Nhất phần ？");
+8072|<O>| /*              else if( p < 9207 * rate / 100 )    // Phòng cụ(Cơ bản)
+8073|<O>| /*              else if( p < 3338 * rate / 100 )    // Phòng cụ(Cơ bản)
+8074|<O>| /*              else if( p < 4701 * rate / 100 )    // Phòng cụ(Môn phái)
+8075|<O>| /*              else if( p < 5198 * rate / 100 )    // Vũ khí(Cơ bản)
+8076|<O>| /*              else if( p < 5146 * rate / 100 )    // Vũ khí(Cơ bản)
+8077|<O>| /*              else if( p < 4587 * rate / 100 )    // Phòng cụ(Cơ bản)
+8078|<O>| /*              else if( p < 6354 * rate / 100 )    // Phòng cụ(Cơ bản)
+8079|<O>| void on_active_before(int callout_delay_time);		//	hoạt độngBắt đầugiờchấp HànhcủaHàm
+8080|<O>| /*              else if( p < 6212 * rate / 100 )    // Vũ khí(Cơ bản)
+8081|<O>| /*              else if( p < 4440 * rate / 100 )    // Vũ khí(Môn phái)
+8082|<O>| /*              else if( p < 3003 * rate / 100 )    // Phòng cụ(Cơ bản)
+8083|<O>| "Bạch Khởi60":({ 1000000, 1000000,  700,  560,  650,  510,  300, }),

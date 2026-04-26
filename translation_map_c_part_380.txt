@@ -1,91 +1,91 @@
-﻿17536|<O>| "浑天仪" : "\"/item/final/16/1629\"",
-17537|<O>| item = new("item/91/9161");		//周天丹
-17538|<O>| string get_name() { return "襄陵"; }
-17539|<O>| return "持续1小时内变身为四脚蛇，可提升1%法术防御力。";
-17540|<O>| "探海叉" : "\"/item/final/74/1040\"",
-17541|<O>| "破空刀" : "\"/item/final/72/1090\"",
-17542|<O>| else if (rate < 14000)	//法术攻击提升40点
-17543|<O>| log_file(LIST_LOG, "# 基本衣服(女)\n");
-17544|<O>| string get_name() { return "长平"; }
-17545|<O>| return "［降魔法咒］提升法术的攻击力，每级提升2点。\n";
-17546|<O>| /*      else    // 有 logout 效果，故注释
-17547|<O>| SAY_CMD->say(me, "你们都来陪我过牢狱生活吧！");
-17548|<O>| tell_user(me, "扫描目录: %s\n", path);
-17549|<O>| return "可以将已经被绑定的装备还原为“装备后绑定”状态。";
-17550|<O>| "日月剑" : "\"/item/final/76/1060\"",
-17551|<O>| "高粱酒" : "\"/item/final/33/1756\"",
-17552|<O>| return 1;					//	正常情况下是不会出错的全部返回 1
-17553|<O>| if(other_stat[9]) {				//	9 设定怪物类型
-17554|<O>| "天璇刀" : "\"/item/final/72/1120\"",
-17555|<O>| case 70 : me->set_fam_name("云梦泽");
-17556|<O>| return "持续1小时内变身为猩猩，可提升1%物理攻击力值。";
-17557|<O>| string get_name() { return "易水"; }
-17558|<O>| item = new("item/91/9145");		//清心丹
-17559|<O>| desc = "大又容易吃的肉，14秒内恢复玩家175点气血值。";
-17560|<O>| string get_name() { return "燃烧"; }
-17561|<O>| result += ESC"开启皇城守卫战\nparty 8\n";
-17562|<O>| who->set_enemy_5(me);    // 设置反击对象
-17563|<O>| "哭丧棒" : "\"/item/final/75/1045\"",
-17564|<O>| add_pp(get_pp() * 180 / 100);	//法防
-17565|<O>| "霸王枪" : "\"/item/final/74/1090\"",
-17566|<O>| ESC"查看我的任务积分\ntalk %x# bonus.33\n"
-17567|<O>| pet->set_owner(who);	//不设无法restore
-17568|<O>| return "猴子们的最爱，20秒内恢复玩家1000点气血值。";
-17569|<O>| "透魂钉" : "\"/item/final/71/1090\"",
-17570|<O>| private int iEngage;			// 雇佣NPC的数量
-17571|<O>| DEBUG("测试-->发布前最后一次对所有在线玩家更新排行榜");
-17572|<O>| case "燕国": note->City = 7;  break;
-17573|<O>| string get_name() { return "火攻"; }
-17574|<O>| return "炫御套装其中之一,相传穿上全套就会拥有神秘的力量";
-17575|<O>| desc = "馅是南瓜的饼，14秒内恢复玩家1540点气血值。";
-17576|<O>| string get_name() { return "复生"; }
-17577|<O>| "玉菩提" : "\"/item/final/91/1805\"",
-17578|<O>| write_user(me, ECHO "您祭起一张回门符……");
-17579|<O>| string get_name() { return "秦国"; }
-17580|<O>| "青铜机关构件" : "\"/item/stuff/0199\"",
-17581|<O>| log_file(LIST_LOG, "# 敏捷帽子(男)\n");
-17582|<O>| "百炼刀" : "\"/item/final/72/1035\"",
-17583|<O>| "银杏子" : "\"/item/final/91/1808\"",
-17584|<O>| case "魏国": note->City = 4;  break;
-17585|<O>| tell_user(me, "你恢复所有活动地图的玩家的状态。");
-17586|<O>| case "秦国": note->City = 5;  break;
-17587|<O>| tell_user(me, "文件有问题: %s", path4);
-17588|<O>| ESC"我先考虑一下", me->get_name(), id));
-17589|<O>| "震天戟" : "\"/item/final/74/1055\"",
-17590|<O>| "玉容露" : "\"/item/final/91/1830\"",
-17591|<O>| log_file(LIST_LOG, "# 敏捷衣服(男)\n");
-17592|<O>| string get_name() { return "神知"; }
-17593|<O>| item = new("item/91/9125");		//再造丸
-17594|<O>| string get_name() { return "穿刺"; }
-17595|<O>| *   2. sys/user/attack.c - 开始战斗时激活
-17596|<O>| ESC"领取水瓶宠物\ntalk %x# bonus.1019\n"
-17597|<O>| string get_name() { return "即墨"; }
-17598|<O>| "紫金棍" : "\"/item/final/75/1035\"",
-17599|<O>| result += ESC "气血法力全满\nrecover\n";
-17600|<O>| ESC "报名参加竞选。(需 1000 金)\n" + cmd1 +
-17601|<O>| _DEBUG("DEBUG -- 用户传入单位不存在，程序返回");
-17602|<O>| "大砍刀" : "\"/item/final/72/1030\"",
-17603|<O>| printf(ECHO "您取消了“" PF_NAME "”。");
-17604|<O>| "玄铁机关构件" : "\"/item/stuff/0200\"",
-17605|<O>| result += ESC"开启宝箱系统\nparty 22\n";
-17606|<O>| item = new ("item/std/6002");//乾坤袋
-17607|<O>| return "大话战国无敌宝宝包，一次性满足你四个不同的愿望。";
-17608|<O>| "方天戟" : "\"/item/final/74/1115\"",
-17609|<O>| if (who->get_org_name() != "再續前緣")
-17610|<O>| // 多体远程技能  TIPS:[PF_CAST_AREA]  变异
-17611|<O>| if( iKind == 1 )    // 1. 运镖任务(物品)
-17612|<O>| printf(ECHO "您申请加入%s的队伍。", name2);
-17613|<O>| ESC "购买裁缝技能等级69-79级的配方\nlist %s\n"
-17614|<O>| if(other_stat[1]) {				//	1 设置攻击速度
-17615|<O>| else if (rate < 28000)	//法术防御提高50点
-17616|<O>| return "任务物品。邹衍交给你用来收集怨鬼之灵的搜魂法器。";
-17617|<O>| "花雕棍" : "\"/item/final/75/1080\"",
-17618|<O>| string get_name() { return "阴山"; }
-17619|<O>| *   3. sys/user/energy.c - 受伤时保持激活
-17620|<O>| "荷包蛋" : "\"/item/final/33/1704\"",
-17621|<O>| return "可累积后换取奖励与称号的物品，请保存好不要丢失。";
-17622|<O>| else if(rand < 9990)//随机门派的金色装备1件。
-17623|<O>| who->set_contribute(0);    // 清空贡献
-17624|<O>| string get_name() { return "毒牙"; }
-17625|<O>| "一口肉" : "\"/item/final/33/1700\"",
-17626|<O>| "南瓜饼" : "\"/item/final/33/1767\"",
+﻿17536|<O>| "hồnngàyNghi" : "\"/item/final/16/1629\"",
+17537|<O>| item = new("item/91/9161");		//ChungàyĐơn
+17538|<O>| string get_name() { return "Tương Lăng"; }
+17539|<O>| return "kéo dài1giờtrongbiến Thân vì Tứ cướcXà，Có thể nâng1%Pháp ThuậtPhòng thủLực。";
+17540|<O>| "Thám Hải xoa" : "\"/item/final/74/1040\"",
+17541|<O>| "Phá Không Đao" : "\"/item/final/72/1090\"",
+17542|<O>| else if (rate < 14000)	//Pháp ThuậtTấn côngNâng40điểm
+17543|<O>| log_file(LIST_LOG, "# Cơ bảnY phục(Nữ)\n");
+17544|<O>| string get_name() { return "Trường Bình"; }
+17545|<O>| return "［giángMaPháp chú］NângPháp ThuậtcủaTấn côngLực，Mỗi cấp tăng2điểm。\n";
+17546|<O>| /*      else    // Có logout hiệu Quả，cố chú thích
+17547|<O>| SAY_CMD->say(me, "bạnđềuđến bồitôiqua lao ngục sinh hoạt ！");
+17548|<O>| tell_user(me, "tảo miêu Mục lục: %s\n", path);
+17549|<O>| return "có thểTướngđãbịbảng địnhcủaTrang bịcònnguyên vì“Trang bịsaubảng định”trạng thái。";
+17550|<O>| "NhậtthángKiếm" : "\"/item/final/76/1060\"",
+17551|<O>| "caolương Tửu" : "\"/item/final/33/1756\"",
+17552|<O>| return 1;					//	chính thườngtình huốngdướiLàkhôngsẽXuất saicủaToàn bộQuay về 1
+17553|<O>| if(other_stat[9]) {				//	9 thiết địnhquái vậtloại hình
+17554|<O>| "ngàytoàn Đao" : "\"/item/final/72/1120\"",
+17555|<O>| case 70 : me->set_fam_name("Vân Mộng Trạch");
+17556|<O>| return "kéo dài1giờtrongbiến Thân vì tinh tinh，Có thể nâng1%Lực tấn công vật lýTrị。";
+17557|<O>| string get_name() { return "DịchThủy"; }
+17558|<O>| item = new("item/91/9145");		//Thanh Tâm Đơn
+17559|<O>| desc = "lớnlạidung Dịch CậtcủaNhục，14giây phục hồi cho người chơi175điểm Khí Huyết。";
+17560|<O>| string get_name() { return "Nhiên thiêu"; }
+17561|<O>| result += ESC"MởHoàng Thành thủ Vệ Chiến\nparty 8\n";
+17562|<O>| who->set_enemy_5(me);    // thiết trí phản kíchđối tượng
+17563|<O>| "khốc tang bổng" : "\"/item/final/75/1045\"",
+17564|<O>| add_pp(get_pp() * 180 / 100);	//Pháp phòng
+17565|<O>| "Bá Vương Thương" : "\"/item/final/74/1090\"",
+17566|<O>| ESC"tra xemtôicủaNhiệm vụtíchphút\ntalk %x# bonus.33\n"
+17567|<O>| pet->set_owner(who);	//khôngthiết vô Pháprestore
+17568|<O>| return "Hầu Tửcủatối Ái，20giây phục hồi cho người chơi1000điểm Khí Huyết。";
+17569|<O>| "thấu Hồn đinh" : "\"/item/final/71/1090\"",
+17570|<O>| private int iEngage;			// cố dungNPCcủasố lượng
+17571|<O>| DEBUG("Kiểm tra-->phát bốtrướctốisauNhấtlầnđối vớitất cảTạituyếnNgười chơicàngmớibài Hành bảng");
+17572|<O>| case "Yên Quốc": note->City = 7;  break;
+17573|<O>| string get_name() { return "HỏaCông"; }
+17574|<O>| return "huyễn Ngự bộ trang kỳgiữaChi Nhất,Tương truyền khi mặc đủ bộ sẽ sở hữu sức mạnh thần bí";
+17575|<O>| desc = "nhânLàNam quacủabính，14giây phục hồi cho người chơi1540điểm Khí Huyết。";
+17576|<O>| string get_name() { return "phục sinh"; }
+17577|<O>| "Ngọc bồ Đề" : "\"/item/final/91/1805\"",
+17578|<O>| write_user(me, ECHO "Bạn tế Khởi Nhất Trương Hồi Môn Phù……");
+17579|<O>| string get_name() { return "Tần Quốc"; }
+17580|<O>| "ThanhĐồngCơ Quancấukiện" : "\"/item/stuff/0199\"",
+17581|<O>| log_file(LIST_LOG, "# mẫn tiệpMạo(Nam)\n");
+17582|<O>| "Bách Luyện Đao" : "\"/item/final/72/1035\"",
+17583|<O>| "Bạchạnh Tử" : "\"/item/final/91/1808\"",
+17584|<O>| case "Ngụy Quốc": note->City = 4;  break;
+17585|<O>| tell_user(me, "bạnPhục hồitất cảhoạt độngbản đồcủaNgười chơicủatrạng thái。");
+17586|<O>| case "Tần Quốc": note->City = 5;  break;
+17587|<O>| tell_user(me, "tệp tinCóvấn đề: %s", path4);
+17588|<O>| ESC"tôiTiên khảo lựmột chút", me->get_name(), id));
+17589|<O>| "chấnngàyKích" : "\"/item/final/74/1055\"",
+17590|<O>| "Ngọc dung lộ" : "\"/item/final/91/1830\"",
+17591|<O>| log_file(LIST_LOG, "# mẫn tiệpY phục(Nam)\n");
+17592|<O>| string get_name() { return "Thầntri"; }
+17593|<O>| item = new("item/91/9125");		//lại tạo hoàn
+17594|<O>| string get_name() { return "xuyên Thích"; }
+17595|<O>| *   2. sys/user/attack.c - Bắt đầuchiến đấugiờkích hoạt
+17596|<O>| ESC"lĩnh thủThủybìnhsủng vật\ntalk %x# bonus.1019\n"
+17597|<O>| string get_name() { return "tức mặc"; }
+17598|<O>| "TửVàngCôn" : "\"/item/final/75/1035\"",
+17599|<O>| result += ESC "Khí HuyếtPháp LựcToàn mãn\nrecover\n";
+17600|<O>| ESC "Báo Danh Sâm Gia cạnh tuyển。(nhu 1000 Vàng)\n" + cmd1 +
+17601|<O>| _DEBUG("DEBUG -- dùng Hộ Truyền Nhập đơn vịkhôngtồnTại，trình tựQuay về");
+17602|<O>| "lớnchặt Đao" : "\"/item/final/72/1030\"",
+17603|<O>| printf(ECHO "BạnHủy bỏ“" PF_NAME "”。");
+17604|<O>| "HuyềnSắtCơ Quancấukiện" : "\"/item/stuff/0200\"",
+17605|<O>| result += ESC"MởBảo rươnghệ thống\nparty 22\n";
+17606|<O>| item = new ("item/std/6002");//càn khôn đại
+17607|<O>| return "Đại Thoại Chiến Quốcvô Địch Bảo Bảo bao，Nhấtlầntính mãn túcbạnTứkhôngĐồngcủanguyện vọng。";
+17608|<O>| "PhươngngàyKích" : "\"/item/final/74/1115\"",
+17609|<O>| if (who->get_org_name() != "lại tụctrướcduyên")
+17610|<O>| // nhiềuThể Viễn trìnhKỹ năng  TIPS:[PF_CAST_AREA]  biến dị
+17611|<O>| if( iKind == 1 )    // 1. Nhiệm vụ vận tiêu(Vật Phẩm)
+17612|<O>| printf(ECHO "Bạn thân Xin Gia Nhập%scủađội ngũ。", name2);
+17613|<O>| ESC "MuaTài PhùngKỹ năngCấp độ69-79cấp Công thức\nlist %s\n"
+17614|<O>| if(other_stat[1]) {				//	1 thiết tríTấn côngtốc độ
+17615|<O>| else if (rate < 28000)	//Pháp ThuậtPhòng thủĐềcao50điểm
+17616|<O>| return "Vật phẩm nhiệm vụ。Trâu diễn giaochobạndùng đến Thu tập oánQuỷChi Linhcủasưu Hồn Pháp Khí。";
+17617|<O>| "Hoa Điêu Côn" : "\"/item/final/75/1080\"",
+17618|<O>| string get_name() { return "Âm Sơn"; }
+17619|<O>| *   3. sys/user/energy.c - thụ Thươnggiờbảo trì kích hoạt
+17620|<O>| "hà bao đản" : "\"/item/final/33/1704\"",
+17621|<O>| return "có thể lũy tíchsauhoán thủphần thưởngdữ xưng hiệucủaVật Phẩm，XinLưutốtkhôngcầnmất thất。";
+17622|<O>| else if(rand < 9990)//Ngẫu nhiênMôn pháicủaVàngSắcTrang bị1kiện。
+17623|<O>| who->set_contribute(0);    // Thanh Không cống hiến
+17624|<O>| string get_name() { return "ĐộcNha"; }
+17625|<O>| "Nhất khẩu Nhục" : "\"/item/final/33/1700\"",
+17626|<O>| "Nam qua bính" : "\"/item/final/33/1767\"",

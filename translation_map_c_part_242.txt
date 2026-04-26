@@ -1,57 +1,57 @@
-﻿7797|<O>| if (objectp(who = me->get_quest("escort.robber#"))    // 寻找蒙面人
-7798|<O>| 60  : ([ "file":"/npc/copy/0106","attr":({"亡灵","厉害","空手"}) ]),
-7799|<O>| if (get_effect(who, EFFECT_CHAR_NO_MOVE)) return 1;    // 执行成功
-7800|<O>| send_user(who, "%c%s", ';', "试练身手 经验 78000 潜能 1000 金钱 65000");
-7801|<O>| 70  : ([ "file":"/npc/copy/0108","attr":({"亡灵","厉害","暗器"}) ]),
-7802|<O>| send_user(who, "%c%s", ';', "大展神威（3） 经验 6800 潜能 263 金钱 6500");
-7803|<O>| send_user(who, "%c%s", ';', "询问情况 经验 76000 潜能 1100 金钱 68000");
-7804|<O>| send_user(who, "%c%s", ';', "平阳之乱2 经验 88000 潜能 910 金钱 93000");
-7805|<O>| private static object Enemy;            // 攻击对象:传统的做法，就是通常讲的对手
-7806|<O>| who->get_name() + ":\n    您获得了一个" + item->get_name() + "。\n");
-7807|<O>| send_user(who, "%c%s", ';', "姻缘之路1 经验 75000 潜能 950 金钱 65000");
-7808|<O>| send_user(who, "%c%s", ';', "堕落的力量 经验 63000 潜能 905 金钱 53800");
-7809|<O>| result += sprintf("外地人卖出税:%2d%%\n\n", city->get_sell_tax_2());
-7810|<O>| send_user(who, "%c%s", ';', "询察起因 经验 93000 潜能 1750 金钱 91000");
-7811|<O>| // if( z == 1 ) set_latest_city(00110);    // 回城符:新手村(001 #10)
-7812|<O>| send_user(who, "%c%c%c%w%s", 0x51, 2, 1, TID_YUNMENZE, "云梦泽");
-7813|<O>| send_user(who, "%c%s", ';', "解除威胁 经验 99000 潜能 1800 金钱 91000");
-7814|<O>| sprintf(ESC "攻击: %d.%d秒\n", speed2 / 10, speed2 % 10) + cmd9 +
-7815|<O>| send_user(who, "%c%s", ';', "秘密（2） 经验 35000 潜能 620 金钱 32000");
-7816|<O>| send_user(who, "%c%s", ';', "手巧的工匠 经验 50000 潜能 615 金钱 48000");
-7817|<O>| if( get_effect(me, EFFECT_CHAR_GOOD_BAD)) return 2;    // 执行成功
-7818|<O>| CHAT_D->rumor_channel(0, CHAT + "有人看到驱尸道长出现在首阳山的夷齐墓，不知是真是假？");
-7819|<O>| send_user(who, "%c%s", ';', "刀魂传说2 经验 83000 潜能 920 金钱 96000");
-7820|<O>| send_user(Owner, "%c%s", '!', "突然间，你觉得全身都充满了无穷的力量，你又重新站起来了！");
-7821|<O>| send_user(who, "%c%s", ';', "源起于食物 经验 72000 潜能 935 金钱 60000");
-7822|<O>| private static int AbsorbHP;                    // 吸取气血("hp*")
-7823|<O>| send_user(who, "%c%s", ';', "姻缘之路2 经验 75000 潜能 940 金钱 66000");
-7824|<O>| send_user(who, "%c%s", ';', "游魂（1） 经验 12000 潜能 215 金钱 11000");
-7825|<O>| tell_user(me, "%s谣言频道被封闭 %d 分。", who->get_name(), n / 60 + 1);
-7826|<O>| //		send_user( who, "%c%c%c%w%s", 0x51, 2, 1,TID_BAQIU,"巴丘" );
-7827|<O>| send_user(who, "%c%s", ';', "除掉刺客 经验 97000 潜能 1650 金钱 88000");
-7828|<O>| if (!objectp(item_q4 = present("菊花酒", who, 1, MAX_CARRY * 4)))
-7829|<O>| &&    ( npc = find_char(id) ) && npc->is_thief() )    // 15 分钟
-7830|<O>| send_user(who, "%c%s", ';', "你用一只红球兑换了“一小时内增加法力上限200点”的临时效果");
-7831|<O>| "蒙骜60" : ({ 400000,  400000,  600,  510,  600,  460,  300, }),
-7832|<O>| send_user(who, "%c%s", ';', "询问消息 经验 95000 潜能 1550 金钱 83000");
-7833|<O>| send_user(who, "%c%s", ';', "秘密（1） 经验 30000 潜能 600 金钱 29000");
-7834|<O>| if (abs(x - x0) > 10 || abs(y - y0) > 10) return 1;    // 距离过远
-7835|<O>| private static string BuyItemCmdString = "";    // 通过点数购买道具命令串
-7836|<O>| send_user(who, "%c%s", ';', "大展神威（2） 经验 6900 潜能 260 金钱 6600");
-7837|<O>| tmp = sprintf(ESC HIY "援助\ntalk %x# welcome.1\n", getoid(me));
-7838|<O>| send_user(me, "%c%c%w%w%s", 0x60, 4, get_number(), 2, "项链制作");
-7839|<O>| send_user(me, "%c%c%w%w%s", 0x60, 4, get_number(), 1, "药材加工");
-7840|<O>| send_user(who, "%c%s", ';', "灵谷洞之旅 经验 44000 潜能 635 金钱 43500");
-7841|<O>| write_user(me, ECHO "您卖出%s得到 %d 金。", item->get_name(), value);
-7842|<O>| "王屹80" : ({ 432000,  432000,  850,  670,  800,  620,  420, }),
-7843|<O>| tmp += sprintf(ESC + HIY + "食物的来源\ntalk %x# welcome.6\n", id);
-7844|<O>| send_user(me, "%c%c%w%w%s", 0x60, 4, get_number(), 1, "镶嵌制作");
-7845|<O>| if (get_effect(who, EFFECT_CHAR_NO_MOVE)) continue;    // 执行成功
-7846|<O>| return "十二星座之一的双子座。将其放出，主人获得5%物防、5%法防、5%气血、5%暴击、5%物攻、5%法攻加成。";
-7847|<O>| if( objectp( item = present("忘情婆婆要的头钗", who, 1, MAX_CARRY) ) )
-7848|<O>| send_user(who, "%c%s", '!', "您不能携带贵重物品。");    // 带着贵重物品不能使用驿站。
-7849|<O>| return HIR + PF_NAME + "\n技能需求:42级\n    医疗系的法术，可恢复友方800点气血值。";
-7850|<O>| send_user(who, "%c%s", ';', "攻破天门阵 经验 80000 潜能 960 金钱 70000");
-7851|<O>| send_user(who, "%c%s", ';', "恭喜你得到了神器"HIR + item->get_name());
-7852|<O>| send_user(who, "%c%s", ';', "乐师的无奈 经验 42000 潜能 610 金钱 42000");
-7853|<O>| send_user(who, "%c%s", ';', "炼药之路3 经验 87000 潜能 920 金钱 91000");
+﻿7797|<O>| if (objectp(who = me->get_quest("escort.robber#"))    // tìm tìmMông Diện Nhân
+7798|<O>| 60  : ([ "file":"/npc/copy/0106","attr":({"Vong Linh","lợi hại","Không Thủ"}) ]),
+7799|<O>| if (get_effect(who, EFFECT_CHAR_NO_MOVE)) return 1;    // thực hiện thành công
+7800|<O>| send_user(who, "%c%s", ';', "thử Luyện Thân Thủ Kinh nghiệm 78000 Tiềm năng 1000 Tiền vàng 65000");
+7801|<O>| 70  : ([ "file":"/npc/copy/0108","attr":({"Vong Linh","lợi hại","Ám Khí"}) ]),
+7802|<O>| send_user(who, "%c%s", ';', "Đại Triển Thần Uy（3） Kinh nghiệm 6800 Tiềm năng 263 Tiền vàng 6500");
+7803|<O>| send_user(who, "%c%s", ';', "tuần hỏitình huống Kinh nghiệm 76000 Tiềm năng 1100 Tiền vàng 68000");
+7804|<O>| send_user(who, "%c%s", ';', "Bình Dương Chi Loạn2 Kinh nghiệm 88000 Tiềm năng 910 Tiền vàng 93000");
+7805|<O>| private static object Enemy;            // Tấn côngđối tượng:Truyền thốngcủalàm Pháp，liềnLàthông thường giảngcủađối vớiThủ
+7806|<O>| who->get_name() + ":\n    Bạn đã nhận đượcNhất" + item->get_name() + "。\n");
+7807|<O>| send_user(who, "%c%s", ';', "Nhân Duyên Chi Lộ1 Kinh nghiệm 75000 Tiềm năng 950 Tiền vàng 65000");
+7808|<O>| send_user(who, "%c%s", ';', "đọa lạccủaLực lượng Kinh nghiệm 63000 Tiềm năng 905 Tiền vàng 53800");
+7809|<O>| result += sprintf("ngoàiĐịa Nhân bán Xuất thuế:%2d%%\n\n", city->get_sell_tax_2());
+7810|<O>| send_user(who, "%c%s", ';', "tuần sát Khởi nhân Kinh nghiệm 93000 Tiềm năng 1750 Tiền vàng 91000");
+7811|<O>| // if( z == 1 ) set_latest_city(00110);    // Hồi Thành Phù:Tân Thủ Thôn(001 #10)
+7812|<O>| send_user(who, "%c%c%c%w%s", 0x51, 2, 1, TID_YUNMENZE, "Vân Mộng Trạch");
+7813|<O>| send_user(who, "%c%s", ';', "Giải trừ Uy hiếp Kinh nghiệm 99000 Tiềm năng 1800 Tiền vàng 91000");
+7814|<O>| sprintf(ESC "Tấn công: %d.%dgiây\n", speed2 / 10, speed2 % 10) + cmd9 +
+7815|<O>| send_user(who, "%c%s", ';', "Bí Mật（2） Kinh nghiệm 35000 Tiềm năng 620 Tiền vàng 32000");
+7816|<O>| send_user(who, "%c%s", ';', "Thủ Xảocủacông tượng Kinh nghiệm 50000 Tiềm năng 615 Tiền vàng 48000");
+7817|<O>| if( get_effect(me, EFFECT_CHAR_GOOD_BAD)) return 2;    // thực hiện thành công
+7818|<O>| CHAT_D->rumor_channel(0, CHAT + "CóNhân xemđếnkhu thi ĐạodàiXuất hiệnTạithủ Dương SơncủaDi Tề Mộ，khôngtriLàChânLàGiả？");
+7819|<O>| send_user(who, "%c%s", ';', "Đao Hồn Truyền Thuyết2 Kinh nghiệm 83000 Tiềm năng 920 Tiền vàng 96000");
+7820|<O>| send_user(Owner, "%c%s", '!', "đột nhiên gian，bạngiác được Toàn Thânđềusung mãn vô cùngcủaLực lượng，bạnlạitrọngmớitrạm Khởi đến！");
+7821|<O>| send_user(who, "%c%s", ';', "Nguyên Khởi vu Thực Vật Kinh nghiệm 72000 Tiềm năng 935 Tiền vàng 60000");
+7822|<O>| private static int AbsorbHP;                    // hấp thủKhí Huyết("hp*")
+7823|<O>| send_user(who, "%c%s", ';', "Nhân Duyên Chi Lộ2 Kinh nghiệm 75000 Tiềm năng 940 Tiền vàng 66000");
+7824|<O>| send_user(who, "%c%s", ';', "Du Hồn（1） Kinh nghiệm 12000 Tiềm năng 215 Tiền vàng 11000");
+7825|<O>| tell_user(me, "%sdao Ngôn tần ĐạobịPhong bế %d phút。", who->get_name(), n / 60 + 1);
+7826|<O>| //		send_user( who, "%c%c%c%w%s", 0x51, 2, 1,TID_BAQIU,"Ba Khâu" );
+7827|<O>| send_user(who, "%c%s", ';', "trừ rơiThích Khách Kinh nghiệm 97000 Tiềm năng 1650 Tiền vàng 88000");
+7828|<O>| if (!objectp(item_q4 = present("Cúc Hoa Tửu", who, 1, MAX_CARRY * 4)))
+7829|<O>| &&    ( npc = find_char(id) ) && npc->is_thief() )    // 15 phút
+7830|<O>| send_user(who, "%c%s", ';', "bạndùng NhấtchỉHồng cầu đổi hoán“NhấtgiờtrongTăngPháp Lựctrênhạn200điểm”củalâmgiờhiệu Quả");
+7831|<O>| "Mông ngạo60" : ({ 400000,  400000,  600,  510,  600,  460,  300, }),
+7832|<O>| send_user(who, "%c%s", ';', "tuần hỏitin nhắn Kinh nghiệm 95000 Tiềm năng 1550 Tiền vàng 83000");
+7833|<O>| send_user(who, "%c%s", ';', "Bí Mật（1） Kinh nghiệm 30000 Tiềm năng 600 Tiền vàng 29000");
+7834|<O>| if (abs(x - x0) > 10 || abs(y - y0) > 10) return 1;    // cự ly qua Viễn
+7835|<O>| private static string BuyItemCmdString = "";    // thông quađiểmsốMuaĐạo cụ Mệnh Lệnh xuyến
+7836|<O>| send_user(who, "%c%s", ';', "Đại Triển Thần Uy（2） Kinh nghiệm 6900 Tiềm năng 260 Tiền vàng 6600");
+7837|<O>| tmp = sprintf(ESC HIY "viện Trợ\ntalk %x# welcome.1\n", getoid(me));
+7838|<O>| send_user(me, "%c%c%w%w%s", 0x60, 4, get_number(), 2, "Hạng LiênChế tạo");
+7839|<O>| send_user(me, "%c%c%w%w%s", 0x60, 4, get_number(), 1, "Dược liệuGia công");
+7840|<O>| send_user(who, "%c%s", ';', "Linh Cốc Động Chi lữ Kinh nghiệm 44000 Tiềm năng 635 Tiền vàng 43500");
+7841|<O>| write_user(me, ECHO "Bạn bán Xuất%snhận được %d Vàng。", item->get_name(), value);
+7842|<O>| "Vương ngật80" : ({ 432000,  432000,  850,  670,  800,  620,  420, }),
+7843|<O>| tmp += sprintf(ESC + HIY + "Thực Vậtcủađến Nguyên\ntalk %x# welcome.6\n", id);
+7844|<O>| send_user(me, "%c%c%w%w%s", 0x60, 4, get_number(), 1, "tương khảmChế tạo");
+7845|<O>| if (get_effect(who, EFFECT_CHAR_NO_MOVE)) continue;    // thực hiện thành công
+7846|<O>| return "Thập Nhị Tinh tọa Chi Nhấtcủasong Tử tọa。Tướng kỳ Phóng Xuất，chủ Nhân hoạch được5%Vật phòng、5%Pháp phòng、5%Khí Huyết、5%Bạo kích、5%Vật Công、5%Pháp Công Gia thành。";
+7847|<O>| if( objectp( item = present("Trâm mà Vong Tình Bà Bà cần", who, 1, MAX_CARRY) ) )
+7848|<O>| send_user(who, "%c%s", '!', "Bạnkhông thểhuề ĐáiVật phẩm quý giá。");    // Đái Vật phẩm quý giáKhông thể sử dụngdịch trạm。
+7849|<O>| return HIR + PF_NAME + "\nKỹ năng yêu cầu:42cấp\n    Y liệu hệcủaPháp Thuật，có thểPhục hồihữu Phương800điểm Khí Huyết。";
+7850|<O>| send_user(who, "%c%s", ';', "Công PháThiên Môn Trận Kinh nghiệm 80000 Tiềm năng 960 Tiền vàng 70000");
+7851|<O>| send_user(who, "%c%s", ';', "cung hỷBạn nhận đượcThầnKhí"HIR + item->get_name());
+7852|<O>| send_user(who, "%c%s", ';', "lạc Sưcủavô nại Kinh nghiệm 42000 Tiềm năng 610 Tiền vàng 42000");
+7853|<O>| send_user(who, "%c%s", ';', "Luyện Dược Chi Lộ3 Kinh nghiệm 87000 Tiềm năng 920 Tiền vàng 91000");

@@ -1,87 +1,87 @@
-﻿16472|<O>| log_file(LIST_LOG, "<!-- 酒 -->\n\n");
-16473|<O>| send_user(me, "%c%s", '>', "没有任何记录");
-16474|<O>| "远征鞋昆仑山" : "\"/item/final/88/6075\"",
-16475|<O>| else if ( player->get_vip() )	//vip玩家
-16476|<O>| "玄云靴桃花源" : "\"/item/final/88/1080\"",
-16477|<O>| "舞天行装蜀山" : "\"/item/final/60/2040\"",
-16478|<O>| "护命项链唐门" : "\"/item/final/86/4025\"",
-16479|<O>| "炽纹鞋云梦泽" : "\"/item/final/88/7100\"",
-16480|<O>| "霸王靴禁卫军" : "\"/item/final/88/3100\"",
-16481|<O>| string get_name() { return "诛仙阵２"; }
-16482|<O>| "豪华生鱼片" : "\"/item/final/33/1715\"",
-16483|<O>| "古藤冠茅山" : "\"/item/final/65/5020\"",
-16484|<O>| "蜜桃酱汁肉" : "\"/item/final/33/1711\"",
-16485|<O>| string get_name() { return "高级神知"; }
-16486|<O>| return "猎豹套装其中之一,相传穿上\n全套就会拥有神秘的力量";
-16487|<O>| send_user(who,"%c%s",'!',"不能有非法字符");
-16488|<O>| "翠玉袍茅山" : "\"/item/final/60/5060\"",
-16489|<O>| string get_name() { return "高级防盾"; }
-16490|<O>| string get_name() { return "高级狂攻"; }
-16491|<O>| desc = "香喷喷好吃看得见，14秒内恢复玩家1050点气血值。";
-16492|<O>| case "襦裙": type = "F_RUQUN";  break;
-16493|<O>| string get_name() { return "赵长城２"; }
-16494|<O>| string get_name() { return "诅咒免疫"; }
-16495|<O>| result = sprintf("%s上已经存在镶嵌，是否替代？\n"
-16496|<O>| string get_name() { return "高级吸魂"; }
-16497|<O>| ESC"用1只坏大熊换取报酬\ntalk %x# bonus.11\n"
-16498|<O>| string get_name() { return "将军古墓"; }
-16499|<O>| "唤云冠茅山" : "\"/item/final/65/5040\"",
-16500|<O>| SAY_CMD->say(me, "打我呀!打我呀!你倒是打我呀!");
-16501|<O>| "天威靴唐门" : "\"/item/final/88/4070\"",
-16502|<O>| return "狂狮套装其中之一,相传穿上\n全套就会拥有神秘的力量";
-16503|<O>| send_user(who,"%c%s",'!',"你正在试运镖呢");
-16504|<O>| "衾天鞋蜀山" : "\"/item/final/88/2120\"",
-16505|<O>| desc = "口感香脆，味道甜美，20秒内恢复玩家400点气血值。";
-16506|<O>| "水煮大南瓜" : "\"/item/final/33/1710\"",
-16507|<O>| string get_name() { return "困魔阵１"; }
-16508|<O>| private int dex_grow;			//敏捷(躲闪)成长系数
-16509|<O>| if (arg[< 1] == '#')    // 本帮总管(NPC)
-16510|<O>| if (rate < 20 * rate1 / 100)		//1级晶石
-16511|<O>| "丰盛的晚餐" : "\"/item/final/33/1768\"",
-16512|<O>| sprintf(ESC "攻击: %d\n", ap) + cmd3 +
-16513|<O>| item = new("item/std/6003");		//麻布包裹
-16514|<O>| ESC "生成活动场景\n" + "gmfight reset\n" +
-16515|<O>| printf(ECHO "使用“" PF_NAME "”得装备棍。");
-16516|<O>| "修仙冠茅山" : "\"/item/final/65/5045\"",
-16517|<O>| tell_user(who, "国庆赠礼活动开启:%s！", arg);
-16518|<O>| if (dx == 0 && dy == 0)    // 本场景内瞬移
-16519|<O>| "唤云袍茅山" : "\"/item/final/60/5040\"",
-16520|<O>| return "巨象套装其中之一,相传穿上\n全套就会拥有神秘的力量";
-16521|<O>| "斩侯鞋茅山" : "\"/item/final/88/5080\"",
-16522|<O>| printf(ECHO "使用“" PF_NAME "”得装备剑。");
-16523|<O>| "牛肉炒鸡蛋" : "\"/item/final/33/1766\"",
-16524|<O>| string get_name() { return "阴阳之术"; }
-16525|<O>| path = "/item/product";    // 获取绝对路径
-16526|<O>| 设定一个下次需要回调的最近时间点，在这个时间点上回调对应名称的用户函数。
-16527|<O>| "龙骨鞋茅山" : "\"/item/final/88/5119\"",
-16528|<O>| "玉露袍茅山" : "\"/item/final/60/5030\"",
-16529|<O>| string get_name() { return "缘分驿站"; }
-16530|<O>| write_user(me, ECHO "您掘地挖出了一张藏宝图！");
-16531|<O>| send_user(me, "%c%s", '!', "捕抓失败！");
-16532|<O>| string get_name() { return "高级御雷"; }
-16533|<O>| string get_name() { return "高级燃烧"; }
-16534|<O>| member->set_task_xy(0);    // 清除任务坐标
-16535|<O>| case "皮帽": type = "F_PIMAO";  break;
-16536|<O>| string get_name() { return "邙山秘道"; }
-16537|<O>| "神秘老火汤" : "\"/item/final/33/1775\"",
-16538|<O>| string get_name() { return "灵谷洞２"; }
-16539|<O>| string get_name() { return "福祸相依"; }
-16540|<O>| string get_name() { return "小山道１"; }
-16541|<O>| return "持续1小时内变身为地煞门众守，可提升2%物理防御力。";
-16542|<O>| string get_name() { return "九曲桥１"; }
-16543|<O>| sprintf(ESC "法防: %d\n", pp) + cmd6 +
-16544|<O>| ESC"我想了解更详细的情况\ntalk %x# bonus.39\n"
-16545|<O>| "龙骨巾蜀山" : "\"/item/final/65/2119\"",
-16546|<O>| _DEBUG("DEBUG -- 错误！玩家没有得到闯关等级奖励!");
-16547|<O>| string get_name() { return "夷齐之墓"; }
-16548|<O>| "天苍苍，野茫茫，有个人儿在远方。秋风吹，稻花香。中秋可否回故乡？ ",
-16549|<O>| send_user(who,"%c%s",'!',"错误的时间格式");
-16550|<O>| notify(who->get_name() + "不想收你的钱。");
-16551|<O>| void do_activity();					//	活动流程执行的函数
-16552|<O>| "玉露鞋茅山" : "\"/item/final/88/5030\"",
-16553|<O>| string get_name() { return "灵谷洞１"; }
-16554|<O>| string get_name() { return "高级法盾"; }
-16555|<O>| string get_name() { return "诛仙阵１"; }
-16556|<O>| printf(ECHO "城内不能使用“" PF_NAME "”。");
-16557|<O>| printf(ECHO "使用“" PF_NAME "”得装备刀。");
-16558|<O>| return "女仆套装其中之一,相传穿上\n全套就会拥有神秘的力量";
+﻿16472|<O>| log_file(LIST_LOG, "<!-- Tửu -->\n\n");
+16473|<O>| send_user(me, "%c%s", '>', "không cónhiệm Hà ký lục");
+16474|<O>| "Viễn ChinhHiaCôn Lôn Sơn" : "\"/item/final/88/6075\"",
+16475|<O>| else if ( player->get_vip() )	//vipNgười chơi
+16476|<O>| "Huyền Vân HiaĐào Hoa Nguyên" : "\"/item/final/88/1080\"",
+16477|<O>| "VũngàyHành trangThục Sơn" : "\"/item/final/60/2040\"",
+16478|<O>| "Hộ MệnhHạng LiênĐường Môn" : "\"/item/final/86/4025\"",
+16479|<O>| "sí văn HiaVân Mộng Trạch" : "\"/item/final/88/7100\"",
+16480|<O>| "Bá Vương HiaCấm Vệ Quân" : "\"/item/final/88/3100\"",
+16481|<O>| string get_name() { return "truTiênTrận２"; }
+16482|<O>| "Hào Hoa sinh Ngư phiến" : "\"/item/final/33/1715\"",
+16483|<O>| "Cổ đằng QuanMao Sơn" : "\"/item/final/65/5020\"",
+16484|<O>| "mật đào tương trấp Nhục" : "\"/item/final/33/1711\"",
+16485|<O>| string get_name() { return "caocấpThầntri"; }
+16486|<O>| return "Liệp Báo bộ trang kỳgiữaChi Nhất,Tương truyền khi mặc\ntoàn bộ sẽ sở hữu sức mạnh thần bí";
+16487|<O>| send_user(who,"%c%s",'!',"không thểCóphi Pháp tự Phù");
+16488|<O>| "Thúy Ngọc BàoMao Sơn" : "\"/item/final/60/5060\"",
+16489|<O>| string get_name() { return "caocấpphòng thuẫn"; }
+16490|<O>| string get_name() { return "caocấpCuồng Công"; }
+16491|<O>| desc = "hương phún phúntốtCật xem được kiến，14giây phục hồi cho người chơi1050điểm Khí Huyết。";
+16492|<O>| case "nhu quần": type = "F_RUQUN";  break;
+16493|<O>| string get_name() { return "TriệudàiThành２"; }
+16494|<O>| string get_name() { return "trở chú Miễn dịch"; }
+16495|<O>| result = sprintf("%strênđãtồnTạitương khảm，Làphủ thế đại？\n"
+16496|<O>| string get_name() { return "caocấphấp Hồn"; }
+16497|<O>| ESC"dùng1chỉxấulớnHùng hoán thủ Báo thù\ntalk %x# bonus.11\n"
+16498|<O>| string get_name() { return "Tướng Quân Cổ Mộ"; }
+16499|<O>| "hoán Vân QuanMao Sơn" : "\"/item/final/65/5040\"",
+16500|<O>| SAY_CMD->say(me, "Đảtôia!Đảtôia!bạnĐảoLàĐảtôia!");
+16501|<O>| "ngàyUy HiaĐường Môn" : "\"/item/final/88/4070\"",
+16502|<O>| return "Cuồng Sư bộ trang kỳgiữaChi Nhất,Tương truyền khi mặc\ntoàn bộ sẽ sở hữu sức mạnh thần bí";
+16503|<O>| send_user(who,"%c%s",'!',"bạnchínhTạithử vận tiêu ");
+16504|<O>| "khâmngàyHiaThục Sơn" : "\"/item/final/88/2120\"",
+16505|<O>| desc = "khẩu cảm hương thúy，vị Đạo điềm Mỹ，20giây phục hồi cho người chơi400điểm Khí Huyết。";
+16506|<O>| "ThủychửlớnNam qua" : "\"/item/final/33/1710\"",
+16507|<O>| string get_name() { return "khốnMaTrận１"; }
+16508|<O>| private int dex_grow;			//mẫn tiệp(trốn Thiểm)thànhdàihệ số
+16509|<O>| if (arg[< 1] == '#')    // Bản Bang tổng quản(NPC)
+16510|<O>| if (rate < 20 * rate1 / 100)		//1cấp Tinh Thạch
+16511|<O>| "Phong thịnhcủavãn xan" : "\"/item/final/33/1768\"",
+16512|<O>| sprintf(ESC "Tấn công: %d\n", ap) + cmd3 +
+16513|<O>| item = new("item/std/6003");		//ma bốBao gói
+16514|<O>| ESC "sinh thànhhoạt độngtrường cảnh\n" + "gmfight reset\n" +
+16515|<O>| printf(ECHO "Sử dụng“" PF_NAME "”đượcTrang bịCôn。");
+16516|<O>| "TuTiênQuanMao Sơn" : "\"/item/final/65/5045\"",
+16517|<O>| tell_user(who, "Quốc khánh tặng lễhoạt độngMở:%s！", arg);
+16518|<O>| if (dx == 0 && dy == 0)    // Bản trường cảnhtrongthuấn Di
+16519|<O>| "hoán Vân BàoMao Sơn" : "\"/item/final/60/5040\"",
+16520|<O>| return "Cự Tượng bộ trang kỳgiữaChi Nhất,Tương truyền khi mặc\ntoàn bộ sẽ sở hữu sức mạnh thần bí";
+16521|<O>| "Trảm Hầu HiaMao Sơn" : "\"/item/final/88/5080\"",
+16522|<O>| printf(ECHO "Sử dụng“" PF_NAME "”đượcTrang bịKiếm。");
+16523|<O>| "Ngưu Nhục sao Kê đản" : "\"/item/final/33/1766\"",
+16524|<O>| string get_name() { return "Âm Dương Chi Thuật"; }
+16525|<O>| path = "/item/product";    // hoạch thủ Tuyệtđối vớiLộ kính
+16526|<O>| thiết định NhấtdướilầncầnHồi điềucủatối cậngiờgianđiểm，TạinàygiờgianđiểmtrênHồi điềuđối vớiứngTêncủadùng HộHàm。
+16527|<O>| "LongCốt HiaMao Sơn" : "\"/item/final/88/5119\"",
+16528|<O>| "Ngọc lộ BàoMao Sơn" : "\"/item/final/60/5030\"",
+16529|<O>| string get_name() { return "Duyênphútdịch trạm"; }
+16530|<O>| write_user(me, ECHO "Bạn quật Địa đào Xuất Nhất TrươngTàng Bảo Đồ！");
+16531|<O>| send_user(me, "%c%s", '!', "bổ trảoThất bại！");
+16532|<O>| string get_name() { return "caocấpNgựLôi"; }
+16533|<O>| string get_name() { return "caocấpNhiên thiêu"; }
+16534|<O>| member->set_task_xy(0);    // Thanh trừNhiệm vụtọa tiêu
+16535|<O>| case "Bì Mạo": type = "F_PIMAO";  break;
+16536|<O>| string get_name() { return "Mang Sơn Bí Đạo"; }
+16537|<O>| "ThầnBí LãoHỏathang" : "\"/item/final/33/1775\"",
+16538|<O>| string get_name() { return "Linh Cốc Động２"; }
+16539|<O>| string get_name() { return "Phúc họa Tương y"; }
+16540|<O>| string get_name() { return "nhỏSơn Đạo１"; }
+16541|<O>| return "kéo dài1giờtrongbiến Thân vì Địa sát Môn Chúng thủ，Có thể nâng2%Lực phòng thủ vật lý。";
+16542|<O>| string get_name() { return "Cửu khúc kiều１"; }
+16543|<O>| sprintf(ESC "Pháp phòng: %d\n", pp) + cmd6 +
+16544|<O>| ESC"tôimuốn Giải càng tường tếcủatình huống\ntalk %x# bonus.39\n"
+16545|<O>| "LongCốt CânThục Sơn" : "\"/item/final/65/2119\"",
+16546|<O>| _DEBUG("DEBUG -- sai ngộ！Người chơikhông cónhận đượcsấm quanCấp độphần thưởng!");
+16547|<O>| string get_name() { return "Di Tề Chi Mộ"; }
+16548|<O>| "ngàythương thương，dã mang mang，CóNhân nhiTạiViễn Phương。thuPhongxuy，đạo Hoa hương。giữathu có thể phủ Hồi cố hương？ ",
+16549|<O>| send_user(who,"%c%s",'!',"sai ngộcủagiờgian cách thức");
+16550|<O>| notify(who->get_name() + "khôngmuốn Thubạncủatiền。");
+16551|<O>| void do_activity();					//	hoạt độnglưu trình chấp HànhcủaHàm
+16552|<O>| "Ngọc lộ HiaMao Sơn" : "\"/item/final/88/5030\"",
+16553|<O>| string get_name() { return "Linh Cốc Động１"; }
+16554|<O>| string get_name() { return "caocấpPháp thuẫn"; }
+16555|<O>| string get_name() { return "truTiênTrận１"; }
+16556|<O>| printf(ECHO "ThànhtrongKhông thể sử dụng“" PF_NAME "”。");
+16557|<O>| printf(ECHO "Sử dụng“" PF_NAME "”đượcTrang bịĐao。");
+16558|<O>| return "NữBộc bộ trang kỳgiữaChi Nhất,Tương truyền khi mặc\ntoàn bộ sẽ sở hữu sức mạnh thần bí";

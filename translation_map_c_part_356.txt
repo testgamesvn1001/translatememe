@@ -1,83 +1,83 @@
-﻿15463|<O>| SAY_CMD->say(me, "起来吧机关将军，我赋予你新生的力量");
-15464|<O>| "麒麟战衣无门派" : "\"/item/final/60/8107\"",
-15465|<O>| ESC "战国号角\n" + "findgm setbonus 2\n" +
-15466|<O>| "戮魂项链禁卫军" : "\"/item/final/86/3100\"",
-15467|<O>| "神狱项链禁卫军" : "\"/item/final/86/3075\"",
-15468|<O>| string get_name() { return "新手村（2）"; }
-15469|<O>| write_user(me, ECHO "您挖宝惊动了守护宝藏的僵尸！");
-15470|<O>| send_user(who, "%c%s", '!', "赵讯 1/1");
-15471|<O>| "雷神法袍无门派" : "\"/item/final/60/8077\"",
-15472|<O>| + sprintf(ESC HIY"关闭测试\nparty 5002\n")
-15473|<O>| "残阳战甲禁卫军" : "\"/item/final/60/3110\"",
-15474|<O>| tell_user(me, sprintf("找不到%s", name));
-15475|<O>| ESC + HIY"补发七夕戒指\ntalk %x# bonus.31\n"
-15476|<O>| "神行项链无门派" : "\"/item/final/86/8056\"",
-15477|<O>| who->use_equip(item2);    // 自动装备毒药、阵旗
-15478|<O>| "苍穹法袍昆仑山" : "\"/item/final/60/6115\"",
-15479|<O>| "戮魂项链桃花源" : "\"/item/final/86/1100\"",
-15480|<O>| "天尊神履无门派" : "\"/item/final/88/8126\"",
-15481|<O>| log_file(LIST_LOG, "<!-- 茶叶 -->\n\n");
-15482|<O>| return "［抵抗强化］ 帮派特殊技，可减少玩家受到的物理伤害。\n";
-15483|<O>| "%s:\n阁下言之有理，我任命你为本国使节，前去%s共商结盟大计。\n",
-15484|<O>| case "战盔": type = "F_ZHANKUI";  break;
-15485|<O>| result += sprintf("你获得了%d点的经验。", exp);
-15486|<O>| send_user(who, "%c%s", '!', "错误的时间！");
-15487|<O>| desc = "喝了以后强身健体的酒，14秒内恢复玩家1190点法力值。";
-15488|<O>| "黄昏项链桃花源" : "\"/item/final/86/1035\"",
-15489|<O>| "幽魂项链桃花源" : "\"/item/final/86/1070\"",
-15490|<O>| "琥珀项链禁卫军" : "\"/item/final/86/3055\"",
-15491|<O>| send_user(who, "%c%s", '!', "烈焰 1/1");
-15492|<O>| send_user(who, "%c%s", '!', "刨子 1/1");
-15493|<O>| "雷神战盔无门派" : "\"/item/final/65/8076\"",
-15494|<O>| send_user(me, "%c%s", '!', "无法修改金钱！");
-15495|<O>| result += ESC "无敌\ngmset no_hurt 1\n";
-15496|<O>| notify("%s已经在队伍中了。", who->get_name());
-15497|<O>| send_user(who, "%c%s", '!', "您不是队长。");
-15498|<O>| "龙魂项链昆仑山" : "\"/item/final/86/6105\"",
-15499|<O>| log_file(LIST_LOG, "<!-- 工具 -->\n\n");
-15500|<O>| string get_name() { return "新手村（1）"; }
-15501|<O>| ECHO "您大义凛然地教训道:“回去好好做人！”，说罢抬手将他放走。");
-15502|<O>| "金属头盔禁卫军" : "\"/item/final/65/3045\"",
-15503|<O>| return "［神游］快速移动到其他人身边，对方法力越低成功率越高\n";
-15504|<O>| send_user(me, "%c%s", '!', "对方已经死亡。");
-15505|<O>| "残阳之靴桃花源" : "\"/item/final/88/1110\"",
-15506|<O>| "黄金战铠禁卫军" : "\"/item/final/60/3085\"",
-15507|<O>| string get_name() { return "天外幻境1层"; }
-15508|<O>| return PF_NAME ":\n　　保护自己不会陷入眩晕状态。\n";
-15509|<O>| "龙吟项链桃花源" : "\"/item/final/86/1110\"",
-15510|<O>| "虚冥项链昆仑山" : "\"/item/final/86/6120\"",
-15511|<O>| "紫焰项链昆仑山" : "\"/item/final/86/6060\"",
-15512|<O>| item = new ("/item/bind/08/0003");//小血
-15513|<O>| default: return BattleXY[2];    // 实线２
-15514|<O>| "星辰战甲禁卫军" : "\"/item/final/60/3120\"",
-15515|<O>| "弑魂项链桃花源" : "\"/item/final/86/1119\"",
-15516|<O>| send_user(who, "%c%s", '!', "古玉 1/1");
-15517|<O>| "虚冥项链云梦泽" : "\"/item/final/86/7120\"",
-15518|<O>| "紫焰项链云梦泽" : "\"/item/final/86/7060\"",
-15519|<O>| ESC "VIP有什么好处？\ntalk %x# welcome.81\n"
-15520|<O>| "亡魂之盔桃花源" : "\"/item/final/65/1105\"",
-15521|<O>| notify(obj2[i]->get_name() + "不能交易。");
-15522|<O>| send_user(me, "%c%s", '!', "宝箱系统开启!");
-15523|<O>| "残阳战盔桃花源" : "\"/item/final/65/1110\"",
-15524|<O>| notify("请勿频繁使用当前频道。");    // 请您不要频繁说话。
-15525|<O>| send_user(who,"%c%s",'!',"你携带的物品太多了");
-15526|<O>| case "村姑": type = "FARM_LADY";  break;
-15527|<O>| send_user(me, "%c%s", '!', "你不能捕捉宠物");
-15528|<O>| "戮魂项链云梦泽" : "\"/item/final/86/7100\"",
-15529|<O>| "帝王之铠桃花源" : "\"/item/final/60/1095\"",
-15530|<O>| "月光项链云梦泽" : "\"/item/final/86/7040\"",
-15531|<O>| string get_fam_name() { return "唐门"; }
-15532|<O>| "神蕴项链桃花源" : "\"/item/final/86/1090\"",
-15533|<O>| string get_name() { return "地狱魔窟6层"; }
-15534|<O>| item = new("/npc/std/1088");    // 采药夫
-15535|<O>| "玉尊项链云梦泽" : "\"/item/final/86/7115\"",
-15536|<O>| case 12: return BattleXY[5];    // 实线３
-15537|<O>| send_user(who, "%c%s", '!', "梁少 1/1");
-15538|<O>| "玄月项链禁卫军" : "\"/item/final/86/3085\"",
-15539|<O>| "紫水晶鞋昆仑山" : "\"/item/final/88/6085\"",
-15540|<O>| "护命项链云梦泽" : "\"/item/final/86/7025\"",
-15541|<O>| send_user(who, "%c%s", '!', "马宁 1/1");
-15542|<O>| "弑魂项链禁卫军" : "\"/item/final/86/3119\"",
-15543|<O>| send_user(me, "%c%s", '!', "角色无权赎回！");
-15544|<O>| "混天披袍昆仑山" : "\"/item/final/60/6070\"",
-15545|<O>| string get_name() { return "地狱魔窟2层"; }
+﻿15463|<O>| SAY_CMD->say(me, "Khởi đến Cơ QuanTướng quân，tôiphú dưbạnmớisinhcủaLực lượng");
+15464|<O>| "Kỳ Lân Chiến Y vôMôn phái" : "\"/item/final/60/8107\"",
+15465|<O>| ESC "Chiến Quốc Hiệu Giác\n" + "findgm setbonus 2\n" +
+15466|<O>| "lục HồnHạng LiênCấm Vệ Quân" : "\"/item/final/86/3100\"",
+15467|<O>| "ThầnngụcHạng LiênCấm Vệ Quân" : "\"/item/final/86/3075\"",
+15468|<O>| string get_name() { return "Tân Thủ Thôn（2）"; }
+15469|<O>| write_user(me, ECHO "Bạn đào Bảo Kinh Động thủ Hộ Bảo tàngcủacương thi！");
+15470|<O>| send_user(who, "%c%s", '!', "Triệu tấn 1/1");
+15471|<O>| "LôiThầnPháp Bào vôMôn phái" : "\"/item/final/60/8077\"",
+15472|<O>| + sprintf(ESC HIY"ĐóngKiểm tra\nparty 5002\n")
+15473|<O>| "tàn Dương Chiến GiápCấm Vệ Quân" : "\"/item/final/60/3110\"",
+15474|<O>| tell_user(me, sprintf("Không tìm thấy%s", name));
+15475|<O>| ESC + HIY"bổ phát Thất tịchGiới Chỉ\ntalk %x# bonus.31\n"
+15476|<O>| "ThầnHànhHạng LiênvôMôn phái" : "\"/item/final/86/8056\"",
+15477|<O>| who->use_equip(item2);    // Tự ĐộngTrang bịĐộcDược、Trận kỳ
+15478|<O>| "thương khung Pháp BàoCôn Lôn Sơn" : "\"/item/final/60/6115\"",
+15479|<O>| "lục HồnHạng LiênĐào Hoa Nguyên" : "\"/item/final/86/1100\"",
+15480|<O>| "ngàyTônThầnlý vôMôn phái" : "\"/item/final/88/8126\"",
+15481|<O>| log_file(LIST_LOG, "<!-- trà Diệp -->\n\n");
+15482|<O>| return "［để khángCường hóa］ bang pháiđặc thù kỹ，có thể giảmítNgười chơithụđếncủaVật lý Thương hại。\n";
+15483|<O>| "%s:\nCácdướiNgôn ChiCólý，tôinhiệm Mệnhbạnvì Bản Quốc sử tiết，trướcđi%scộng thương Kết minhlớnKế。\n",
+15484|<O>| case "Chiến khôi": type = "F_ZHANKUI";  break;
+15485|<O>| result += sprintf("bạnhoạch được%dđiểmcủaKinh nghiệm。", exp);
+15486|<O>| send_user(who, "%c%s", '!', "sai ngộcủagiờgian！");
+15487|<O>| desc = "hát DĩsauCường Thân kiện ThểcủaTửu，14giây phục hồi cho người chơi1190điểm Pháp Lực。";
+15488|<O>| "Hoàng hônHạng LiênĐào Hoa Nguyên" : "\"/item/final/86/1035\"",
+15489|<O>| "U HồnHạng LiênĐào Hoa Nguyên" : "\"/item/final/86/1070\"",
+15490|<O>| "Hổ pháchHạng LiênCấm Vệ Quân" : "\"/item/final/86/3055\"",
+15491|<O>| send_user(who, "%c%s", '!', "Liệt Diệm 1/1");
+15492|<O>| send_user(who, "%c%s", '!', "bào Tử 1/1");
+15493|<O>| "LôiThầnChiến khôi vôMôn phái" : "\"/item/final/65/8076\"",
+15494|<O>| send_user(me, "%c%s", '!', "vô PhápSửa đổiTiền vàng！");
+15495|<O>| result += ESC "vô Địch\ngmset no_hurt 1\n";
+15496|<O>| notify("%sđãTạiđội ngũgiữa。", who->get_name());
+15497|<O>| send_user(who, "%c%s", '!', "BạnkhôngLàđộidài。");
+15498|<O>| "LongHồnHạng LiênCôn Lôn Sơn" : "\"/item/final/86/6105\"",
+15499|<O>| log_file(LIST_LOG, "<!-- công cụ -->\n\n");
+15500|<O>| string get_name() { return "Tân Thủ Thôn（1）"; }
+15501|<O>| ECHO "Bạnlớnnghĩa lẫm nhiên Địa Giáo huấn Đạo:“Hồi đitốttốtlàm Nhân！”，nói bãi đài Thủ TướnghắnPhóng tẩu。");
+15502|<O>| "VàngthuộcĐầu KhôiCấm Vệ Quân" : "\"/item/final/65/3045\"",
+15503|<O>| return "［Thầndu］nhanhtốc Di ĐộngđếnkhácNhân Thân Biên，đối vớiPhươngPháp LựcViệtthấpTỷ lệ thành côngViệtcao\n";
+15504|<O>| send_user(me, "%c%s", '!', "đối vớiPhươngđãTử vong。");
+15505|<O>| "tàn Dương Chi HiaĐào Hoa Nguyên" : "\"/item/final/88/1110\"",
+15506|<O>| "HoàngVàngChiến khảiCấm Vệ Quân" : "\"/item/final/60/3085\"",
+15507|<O>| string get_name() { return "Thiên Ngoại Huyễn Cảnh1tầng"; }
+15508|<O>| return PF_NAME ":\n　　bảo Hộbản thânkhôngsẽhãm Nhập huyễn vựng trạng thái。\n";
+15509|<O>| "LongNgâmHạng LiênĐào Hoa Nguyên" : "\"/item/final/86/1110\"",
+15510|<O>| "hư MinhHạng LiênCôn Lôn Sơn" : "\"/item/final/86/6120\"",
+15511|<O>| "Tử DiệmHạng LiênCôn Lôn Sơn" : "\"/item/final/86/6060\"",
+15512|<O>| item = new ("/item/bind/08/0003");//nhỏHuyết
+15513|<O>| default: return BattleXY[2];    // thực tuyến２
+15514|<O>| "Tinh thần Chiến GiápCấm Vệ Quân" : "\"/item/final/60/3120\"",
+15515|<O>| "thí HồnHạng LiênĐào Hoa Nguyên" : "\"/item/final/86/1119\"",
+15516|<O>| send_user(who, "%c%s", '!', "Cổ Ngọc 1/1");
+15517|<O>| "hư MinhHạng LiênVân Mộng Trạch" : "\"/item/final/86/7120\"",
+15518|<O>| "Tử DiệmHạng LiênVân Mộng Trạch" : "\"/item/final/86/7060\"",
+15519|<O>| ESC "VIPCógìtốtxử？\ntalk %x# welcome.81\n"
+15520|<O>| "vong Hồn Chi khôiĐào Hoa Nguyên" : "\"/item/final/65/1105\"",
+15521|<O>| notify(obj2[i]->get_name() + "Không thể giao dịch。");
+15522|<O>| send_user(me, "%c%s", '!', "Bảo rươnghệ thốngMở!");
+15523|<O>| "tàn Dương Chiến khôiĐào Hoa Nguyên" : "\"/item/final/65/1110\"",
+15524|<O>| notify("Xin vật tần phồnSử dụngđươngtrướctần Đạo。");    // Xin Bạnkhôngcầntần phồn nói thoại。
+15525|<O>| send_user(who,"%c%s",'!',"bạnhuề ĐáicủaVật Phẩm Tháinhiều");
+15526|<O>| case "thôn Cô": type = "FARM_LADY";  break;
+15527|<O>| send_user(me, "%c%s", '!', "bạnkhông thểbổ trócsủng vật");
+15528|<O>| "lục HồnHạng LiênVân Mộng Trạch" : "\"/item/final/86/7100\"",
+15529|<O>| "Đế Vương Chi khảiĐào Hoa Nguyên" : "\"/item/final/60/1095\"",
+15530|<O>| "thángQuangHạng LiênVân Mộng Trạch" : "\"/item/final/86/7040\"",
+15531|<O>| string get_fam_name() { return "Đường Môn"; }
+15532|<O>| "ThầnuẩnHạng LiênĐào Hoa Nguyên" : "\"/item/final/86/1090\"",
+15533|<O>| string get_name() { return "Địa Ngục Ma Quật6tầng"; }
+15534|<O>| item = new("/npc/std/1088");    // thải Dược Phu
+15535|<O>| "Ngọc TônHạng LiênVân Mộng Trạch" : "\"/item/final/86/7115\"",
+15536|<O>| case 12: return BattleXY[5];    // thực tuyến３
+15537|<O>| send_user(who, "%c%s", '!', "Lươngít 1/1");
+15538|<O>| "HuyềnthángHạng LiênCấm Vệ Quân" : "\"/item/final/86/3085\"",
+15539|<O>| "TửThủytinh HiaCôn Lôn Sơn" : "\"/item/final/88/6085\"",
+15540|<O>| "Hộ MệnhHạng LiênVân Mộng Trạch" : "\"/item/final/86/7025\"",
+15541|<O>| send_user(who, "%c%s", '!', "Mã ninh 1/1");
+15542|<O>| "thí HồnHạng LiênCấm Vệ Quân" : "\"/item/final/86/3119\"",
+15543|<O>| send_user(me, "%c%s", '!', "nhân vậtvô quyền thục Hồi！");
+15544|<O>| "hỗnngàyphi BàoCôn Lôn Sơn" : "\"/item/final/60/6070\"",
+15545|<O>| string get_name() { return "Địa Ngục Ma Quật2tầng"; }

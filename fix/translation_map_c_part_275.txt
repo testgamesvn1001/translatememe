@@ -1,0 +1,62 @@
+﻿9745|<O>| me->set_pawn(sprintf("%02d", which), list);    // 载入内存缓存
+9746|<O>| ESC "完成任务\n" + sprintf("talk %x# bonus\n", getoid(me)) +
+9747|<O>| if (num == (get_d(item) - 1) / MAX_CARRY + 1)    // 同栏之中
+9748|<O>| USER_ENERGY_D->count_pp(who);    // cp/pp 影响 ap/dp, 所以放前
+9749|<O>| send_user(who, "%c%s", '!', sprintf(HIY"玫瑰花 %d/11", i));
+9750|<O>| write_user(who, ECHO "您获得10个" + item->get_name() + "。");
+9751|<O>| if (gone_time(mpInfo["checktime"]) < KEEP_TIME)	//保存时间限制
+9752|<O>| tmp += sprintf(ESC HIY "罐中妖\ntalk %x# welcome.3\n", id);
+9753|<O>| && (npc = find_char(id)) && npc->is_thief())    // 30 分钟
+9754|<O>| return HIC+get_name()+"\n拥有此技能的宠物，15%的几率对敌方造成连续2次物理伤害。";
+9755|<O>| write_user(who, ECHO "%s给你%s。", me->get_name(), result);
+9756|<O>| send_user(who, "%c%c%w%s", ':', 3, 5901, "您还没有学会这样技能。");
+9757|<O>| send_user( team[0], "%c%s", '!', "得到任务 "HIY"七夕天赐奇缘（1）");
+9758|<O>| return "“墨家至宝，挥舞起来可以扭转乾坤”\n在攻击目标的同时有一定几率\n使被攻击目标产生2秒眩晕";
+9759|<O>| default: tell_user(me, "%04d 国家: %s", id, city);  break;
+9760|<O>| send_user(who, "%c%c%d%s", 0x43, 6, 0, CHAT "若蝉:唐郎啊……");
+9761|<O>| private static int HurtRand;                    // 反伤害发生
+9762|<O>| case CAVE_MAP: send_user(me, "%c%s", '!', "地底不能使用此法宝。");
+9763|<O>| private static object* dbTower = ({ });         // 攻击方箭塔
+9764|<O>| if (TASK_LEGEND_D->check_task_item(who, "一箱黄金", 1) != 1)
+9765|<O>| case 9: name3 = "宗教";  city->add_money(-500000);  break;
+9766|<O>| send_user(Owner, "%c%s", '!', "不要轻易放弃，这点小困难是绝对不会难倒你的！");
+9767|<O>| tmp = sprintf(ESC HIY "亡羊补牢\ntalk %x# welcome.1\n", id);
+9768|<O>| if (TASK_LEGEND_D->check_task_item(who, "千年红木", 1) != 1)
+9769|<O>| if (TASK_LEGEND_D->check_task_item(who, "修造信函", 1) != 1)
+9770|<O>| if (TASK_LEGEND_D->check_task_item(who, "摄魂铃铛", 1) != 1)
+9771|<O>| if (TASK_LEGEND_D->check_task_item(who, "调查奏章", 1) != 1)
+9772|<O>| send_user(who, "%c%s", '!', sprintf(HIY"铜甲尸 %d/10", i));
+9773|<O>| send_user(me, "%c%s", '!', sprintf("追踪需要 %d 点法力。", mp));
+9774|<O>| send_user(who, "%c%s", '!', sprintf(HIY"大笨熊 %d/15", i));
+9775|<O>| if (TASK_LEGEND_D->check_task_item(who, "茉莉花", 20) != 1)
+9776|<O>| if (TASK_LEGEND_D->check_task_item(who, "三魂六魄", 1) != 1)
+9777|<O>| if (TASK_LEGEND_D->check_task_item(who, "千年蚕丝", 1) != 1)
+9778|<O>| result = sprintf("%s:\n    你确定要自杀吗？\n", me->get_name());
+9779|<O>| if ((stringp(id = me->get_save_2("xiamama"))    // 活动NPC
+9780|<O>| private int Color;                      // 帽子颜色(色码２，色码１)
+9781|<O>| tmp = ESC "领取任务链。\n" + sprintf("talk %x# buy.81\n", id);
+9782|<O>| tell_user(me, "姓名:%s(%d)\n门派:%s\n国家:%s\n帮派:%s\n称谓:%s\n",
+9783|<O>| send_user(who, "%c%s", '>', "您得到" HIY "灵石" NOR " 1 块！");
+9784|<O>| send_user(who, "%c%s", '!', sprintf("妖言惑众 完成 %d/8", i));
+9785|<O>| send_user(who, "%c%s", '!', sprintf(HIY"秦国盔甲 %d/5", i));
+9786|<O>| send_user(who, "%c%s", '!', "此怪物不是双方齐心合力所杀，此次任务即算失败～！");
+9787|<O>| me->log_legend(sprintf("您入籍%s。", who->get_city_name()));
+9788|<O>| return HIR + PF_NAME + "\n技能需求:10级\n    可解除友方身上一个诅咒法术。";
+9789|<O>| send_user(who, "%c%s", '!', sprintf(HIY"金色牛角 %d/3", i));
+9790|<O>| tmp += sprintf(ESC HIY "紫葡萄\ntalk %x# welcome.1\n", id);
+9791|<O>| sprintf(ESC "教育(%d)。\n", city->get_education()) + cmd8 +
+9792|<O>| send_user(who, "%c%s", '!', "你接受了"HIY"修理店老板的铁锤"NOR"任务");
+9793|<O>| if (TASK_LEGEND_D->check_task_item(who, "神龙号角", 1) != 1)
+9794|<O>| if (TASK_LEGEND_D->check_task_item(who, "珍珠项链", 1) != 1)
+9795|<O>| return HIC+get_name()+"\n拥有此技能的宠物，宠物受到的所有物理攻击伤害均会增加5％。";
+9796|<O>| result2 = sprintf("您的好友%s(%d)上线了。", me->get_name(), id);
+9797|<O>| send_user(who, "%c%s", '!', sprintf(HIY"铁甲尸 %d/10", i));
+9798|<O>| send_user(who, "%c%s", '!', sprintf(HIY"叛军马夫 %d/4", i));
+9799|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 6, pf_name + "中……");
+9800|<O>| send_user(who, "%c%s", '!', sprintf(HIY"大萝卜 %d/12", i));
+9801|<O>| tell_user(me, "%sVIP频道被封闭 %d 分。", who->get_name(), min);
+9802|<O>| string* city = ({ "齐", "韩", "赵", "魏", "秦", "楚", "燕", });
+9803|<O>| if (TASK_LEGEND_D->check_task_item(who, "将军信函", 1) != 1)
+9804|<O>| send_user(who, "%c%s", '!', sprintf(HIY"叛军弓兵 %d/4", i));
+9805|<O>| if (TASK_LEGEND_D->check_task_item(who, "红宝石", 10) != 1)
+9806|<O>| private static int min10 = -1;                   // 复位次数

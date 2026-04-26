@@ -20,11 +20,11 @@
 3035|<O>| send_user(who, "%c%c%w%s", ':', 3, 0, sprintf("Có muốn sử dụng Hồ Lô Tế Thế không\n"ESC"Xác định\nuse ! %x#\n"ESC"Hủy bỏ", getoid(item)));
 3036|<O>| case "Tay không": seek = 4;  weapon[1] = "UNARMED";  weapon[2] = "0; }    // XXXXX";  weapon[3] = "*";  break;
 3037|<O>| result = get_name() + ":\n    Đây là nước Chu, ngươi đã từng tới chưa？Chỗ ta đây là nơi trung tâm nhất của nước Chu, bốn phương thông suốt, muốn đi đâu cũng phải qua chỗ ta. Ngươi hỏi nơi này gọi là gì à？Thiên Đàn, biết chứ？Đó là cái tên vang dội lắm đấy！\n";
-3038|<O>| ret += sprintf("%sHài Tuyết Điêu\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"雪雕羽靴"))?PPM:WHT);
+3038|<O>| ret += sprintf("%sHài Tuyết Điêu\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Tuyết Điêu Vũ Hia"))?PPM:WHT);
 3039|<O>| //		CHAT_D->sys_channel(0,sprintf(HIY"%s"HIR" người chơi vì dũng mãnh giết BOSS nên đặc biệt nhận được phần thưởng kinh nghiệm %d của Chu Vương！",who->get_name(),exp));
 3040|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s: \nChân giả Hổ Vương là một hoạt động vượt ải, ngươi có thể tìm hiểu tình hình chi tiết ở chỗ ta。\n"
 3041|<O>| send_user(who, "%c%c%d%s", '?', 1, 100000, sprintf("%s:\nLương mỗi ngày của phó thành chủ thứ hai là %d vàng, xin hỏi ngài muốn sửa thành bao nhiêu？(phạm vi:10000～100000)\n"
-3042|<O>| ret += sprintf("%sGiáp Bạch Lang\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"白狼皮衣"))?PPM:WHT);
+3042|<O>| ret += sprintf("%sGiáp Bạch Lang\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Bạch Lang Bì Y"))?PPM:WHT);
 3043|<O>| say_word = sprintf("Ngươi tổng cộng đã vượt qua %d ải, có thể nhận thưởng %s tiền Chiến Quốc và danh hiệu “"HIR"%s"NOR"”。", level, active_bonus[2], active_bonus[1]);
 3044|<O>| if( pot ) write_user( who, ECHO "Ngài đánh chết %s，%s kinh nghiệm %+d, tiềm năng %+d。", me->get_name(), flag ? "gấp đôi":"", exp2, pot );
 3045|<O>| send_user(who, "%c%c%d%s", '?', 1, 100000, sprintf("%s:\nLương mỗi ngày của phó thành chủ thứ nhất là %d vàng, xin hỏi ngài muốn sửa thành bao nhiêu？(phạm vi:10000～100000)\n"

@@ -1,82 +1,82 @@
-﻿15216|<O>| if(!iStart || !iFinish)//设置活动开始和结束时间无效。
-15217|<O>| if (present("贵重物品", who, 1, MAX_CARRY))
-15218|<O>| send_user(who, "%c%s", '!', "你的百步仙呢?");
-15219|<O>| send_user(me, "%c%s", '!', "皇城守卫战开启!");
-15220|<O>| if ( give_yuebing(player,"月饼",1) == 0 )
-15221|<O>| if (!name || name == "") name = "无名帮派";
-15222|<O>| send_user(who, "%c%s", '!', "夜宿鬼 1/1");
-15223|<O>| reduce_item_amount(who, "西瓜伯伯的西瓜", 10);
-15224|<O>| send_user(who, "%c%s", '!', "朱老四 1/1");
-15225|<O>| item = new ("/item/01/6100");    // 女布衣
-15226|<O>| desc = "看了都流口水的豪华食品，14秒内恢复玩家1330点气血值。";
-15227|<O>| + sprintf(ESC"设置四色球活动结束时间\nparty 55\n")
-15228|<O>| return "VIP包，购买后即与购买玩家角色ID绑定，持续时间31天。";
-15229|<O>| case 14: return BattleXY[15];    // 虚线２
-15230|<O>| send_user(who, "%c%s", '!', "得到一个储备箱");
-15231|<O>| send_user(who, "%c%s", '!', "李大山 1/1");
-15232|<O>| return sprintf(PF_NAME ":\n　　无法移动。\n");
-15233|<O>| send_user(me, "%c%s", '!', "皇城守卫战关闭!");
-15234|<O>| printf(ECHO "您得有符纸才能使用“" PF_NAME "”。");
-15235|<O>| notify("在放弃「" + file + "」之前得先放弃「毒经」。");
-15236|<O>| "我楞楞的看着中秋的月亮，仿佛它是一面明镜，你我在互相注视绵绵思意和祝福。",
-15237|<O>| file = path + dfile[i][0];    // 取绝对路径名
-15238|<O>| result += ESC "3点功德换取1小时双倍经验\n" + cmd1;
-15239|<O>| //			item = new ("item/08/0831");//双鱼宠物
-15240|<O>| send_user(me, "%c%s", '!', "不能传送到城内。");
-15241|<O>| send_user(who, "%c%s", '!', "你的火焰石呢?");
-15242|<O>| send_user(me, "%c%s", '!', "扣费服务器繁忙！");
-15243|<O>| notify("在放弃「" + file + "」之前得先放弃「神打」。");
-15244|<O>| printf( ECHO "使用“" PF_NAME "”的工具不对。" );
-15245|<O>| npc->set_max_hp(INIT_HP);    // 小心准备 me
-15246|<O>| &&     !who->get_enemy_5()    // 还没反击对象
-15247|<O>| string get_city_name() { return "秦国"; }
-15248|<O>| dfile = get_dir(path, -1);    // 获取文件列表
-15249|<O>| desc = "用山楂串制而成的一种食品，20秒内恢复玩家250点气血值。";
-15250|<O>| send_user(me, "%c%s", '!', "您刚遇到蒙面人。");
-15251|<O>| "锁链护心甲桃花源" : "\"/item/final/60/1045\"",
-15252|<O>| add_dp(get_dp() * 300 / 100);    //物理防御
-15253|<O>| private static int iLevel1;		// 战场总管的等级
-15254|<O>| set_heart_loop(me, 300);    // 循环心跳:30秒
-15255|<O>| notify(obj[i]->get_name() + "不能给予别人。");
-15256|<O>| item = new("item/final/91/1811");	//舍利子
-15257|<O>| string get_fam_name() { return "桃花源"; }
-15258|<O>| "新手特派传送员", "当铺老板", "门派向导", "老村长", "守卫",
-15259|<O>| string get_city_name() { return "韩国"; }
-15260|<O>| private int iHide = 1;			// 1 未鉴定 0 已鉴定
-15261|<O>| send_user(who,"%c%s",'!',"你没有机关石门钥匙！");
-15262|<O>| ESC "设置GM出现的地图\n" + "findgm setmap\n" +
-15263|<O>| return "土星精灵死后的魂魄精华，石刻、裁缝、铁匠生活技能需要的材料";
-15264|<O>| add_pp(-1 * get_pp() * 200 / 100);	//法防
-15265|<O>| is_clock_running = 0;				//	时钟是否正在运行的标志
-15266|<O>| send_user(me, "%c%s", '!', "请找丁鹤年交任务");
-15267|<O>| who->get_name() + ":\n    现在没有合服的奖励。\n"
-15268|<O>| me->set_name(who->get_name() + "的稻草人");
-15269|<O>| desc = "利用上等绿豆制成的糕点,20秒内恢复玩家1300点气血值。";
-15270|<O>| SAY_CMD->say(me, "你看见我的脑袋了吗？大家都说我没脑袋");
-15271|<O>| SAY_CMD->say(me, "小鬼们，快快放下手中的武器投降吧！！");
-15272|<O>| send_user(who, "%c%s", '!', "胡小四 1/1");
-15273|<O>| notify("在放弃「" + file + "」之前得先放弃「神游」。");
-15274|<O>| item = new("item/final/91/1810");	//紫箐丹
-15275|<O>| return "任务物品，传说中遗失的秘宝。请速将此物送回本帮派的总管处。";
-15276|<O>| case 13: return BattleXY[12];    // 虚线１
-15277|<O>| printf(ECHO "您得有黄豆才能使用“" PF_NAME "”。");
-15278|<O>| "钢铁护心甲桃花源" : "\"/item/final/60/1055\"",
-15279|<O>| return "大话战国国庆大礼包，内含多种战国珍稀物品，售价390元宝。";
-15280|<O>| send_user(who, "%c%s", '!', "你的七国令呢?");
-15281|<O>| mpInfo["account"] = who->get_id();	//帐号
-15282|<O>| "露从今夜白，月是故乡明。今夜月正圆，正是思乡时。同望当空月，月圆梦未圆。",
-15283|<O>| send_user(who, "%c%s", '!', "朱老五 1/1");
-15284|<O>| return "任务物品。阴间专用钱币，由木材榨浆晾干而成，可做辟邪之用。";
-15285|<O>| send_user(me, "%c%s", '!', "提供的号码不正确");
-15286|<O>| notify("在放弃「" + file + "」之前得先放弃「医术」。");
-15287|<O>| gift = new("item/final/91/1808");	//银杏子
-15288|<O>| send_user(me, "%c%s", '!', "数据库操作错误！");
-15289|<O>| "/sys/sys/count"->add_task("王捕头赚钱", 1);
-15290|<O>| case "赵国": city2 = "CITY_ZHAO";  break;
-15291|<O>| SAY_CMD->say(me, "可恶……本道长可不会就这样被打败的！");
-15292|<O>| send_user(me, "%c%s", '!', "您护送的人呢？！");
-15293|<O>| return "机械小宠物，很可爱，能给主人提高2%的躲闪，使用次数30。";
-15294|<O>| if ( give_yuebing(player,"月饼",5) == 0 )
-15295|<O>| send_user(who, "%c%s", '!', "马三刀 1/1");
-15296|<O>| notify("当前频道将于 %d 分钟后开启。", t / 60 + 1);
-15297|<O>| ESC "教育。\ntalk " + id + " stir_up.15\n"
+﻿15216|<O>| if(!iStart || !iFinish)//thiết tríhoạt độngBắt đầuvàKết thúcgiờgian vô hiệu。
+15217|<O>| if (present("Vật phẩm quý giá", who, 1, MAX_CARRY))
+15218|<O>| send_user(who, "%c%s", '!', "bạncủaBáchbướcTiên?");
+15219|<O>| send_user(me, "%c%s", '!', "Hoàng Thành thủ Vệ ChiếnMở!");
+15220|<O>| if ( give_yuebing(player,"thángbính",1) == 0 )
+15221|<O>| if (!name || name == "") name = "vô Danhbang phái";
+15222|<O>| send_user(who, "%c%s", '!', "dạ túcQuỷ 1/1");
+15223|<O>| reduce_item_amount(who, "Tây qua bá bácủaTây qua", 10);
+15224|<O>| send_user(who, "%c%s", '!', "Chu Lão Tứ 1/1");
+15225|<O>| item = new ("/item/01/6100");    // Nữbố Y
+15226|<O>| desc = "xemđềulưu khẩuThủycủaHào Hoa Thực Phẩm，14giây phục hồi cho người chơi1330điểm Khí Huyết。";
+15227|<O>| + sprintf(ESC"thiết trí Tứ Sắc cầuhoạt độngKết thúcgiờgian\nparty 55\n")
+15228|<O>| return "VIPbao，Muasautức dữMuaNgười chơinhân vậtIDbảng định，kéo dàigiờgian31ngày。";
+15229|<O>| case 14: return BattleXY[15];    // hư tuyến２
+15230|<O>| send_user(who, "%c%s", '!', "nhận đượcNhất trữ bị rương");
+15231|<O>| send_user(who, "%c%s", '!', "LýlớnSơn 1/1");
+15232|<O>| return sprintf(PF_NAME ":\n　　vô Pháp Di Động。\n");
+15233|<O>| send_user(me, "%c%s", '!', "Hoàng Thành thủ Vệ ChiếnĐóng!");
+15234|<O>| printf(ECHO "Bạn đượcCóPhù ChỉTài NăngSử dụng“" PF_NAME "”。");
+15235|<O>| notify("Khi từ bỏ「" + file + "」trước tiên phải từ bỏ「ĐộcKinh」。");
+15236|<O>| "tôilăng lăngcủaxem giữathucủathánglượng，phỏngPhậtnóLàNhất Diện Minh Kính，bạntôiTạihỗ Tương chú thị miên miên Tư ÝvàChúc Phúc。",
+15237|<O>| file = path + dfile[i][0];    // thủ Tuyệtđối vớiLộ kính Danh
+15238|<O>| result += ESC "3điểmCông Đức hoán thủ1giờsong bộiKinh nghiệm\n" + cmd1;
+15239|<O>| //			item = new ("item/08/0831");//song Ngưsủng vật
+15240|<O>| send_user(me, "%c%s", '!', "không thểTruyền tốngđếnThànhtrong。");
+15241|<O>| send_user(who, "%c%s", '!', "bạncủaHỏaDiệm Thạch ?");
+15242|<O>| send_user(me, "%c%s", '!', "khấu phímáy chủphồn mang！");
+15243|<O>| notify("Khi từ bỏ「" + file + "」trước tiên phải từ bỏ「ThầnĐả」。");
+15244|<O>| printf( ECHO "Sử dụng“" PF_NAME "”củacông cụkhôngđối với。" );
+15245|<O>| npc->set_max_hp(INIT_HP);    // cẩn thận chuẩn bị me
+15246|<O>| &&     !who->get_enemy_5()    // cònkhông phản kíchđối tượng
+15247|<O>| string get_city_name() { return "Tần Quốc"; }
+15248|<O>| dfile = get_dir(path, -1);    // hoạch thủtệp tinliệt biểu
+15249|<O>| desc = "dùng Sơn tra xuyến chế mà thànhcủaMột loạiThực Phẩm，20giây phục hồi cho người chơi250điểm Khí Huyết。";
+15250|<O>| send_user(me, "%c%s", '!', "Bạn cương ngộđếnMông Diện Nhân。");
+15251|<O>| "Tỏa Liên Hộ Tâm GiápĐào Hoa Nguyên" : "\"/item/final/60/1045\"",
+15252|<O>| add_dp(get_dp() * 300 / 100);    //Vật lýPhòng thủ
+15253|<O>| private static int iLevel1;		// Chiến trường tổng quảncủaCấp độ
+15254|<O>| set_heart_loop(me, 300);    // Vòng lặp nhịp tim:30giây
+15255|<O>| notify(obj[i]->get_name() + "không thểchodư biệt Nhân。");
+15256|<O>| item = new("item/final/91/1811");	//xả Lợi Tử
+15257|<O>| string get_fam_name() { return "Đào Hoa Nguyên"; }
+15258|<O>| "mớiThủ đặc pháiTruyền tốngviên", "đương phố Lão bản", "Môn pháihướngđạo", "Lão thôndài", "thủ Vệ",
+15259|<O>| string get_city_name() { return "Hàn Quốc"; }
+15260|<O>| private int iHide = 1;			// 1 vị giám định 0 đã giám định
+15261|<O>| send_user(who,"%c%s",'!',"bạnkhông cóCơ QuanThạch Môn chìa thì！");
+15262|<O>| ESC "thiết tríGMXuất hiệncủabản đồ\n" + "findgm setmap\n" +
+15263|<O>| return "ThổTinh Tinh Linh TửsaucủaHồn phách Tinh Hoa，Thạch Khắc、Tài Phùng、Thiết Tượngsinh hoạtKỹ năngcầncủatài liệu";
+15264|<O>| add_pp(-1 * get_pp() * 200 / 100);	//Pháp phòng
+15265|<O>| is_clock_running = 0;				//	giờChungLàphủ chínhTạivận Hànhcủatiêu Chí
+15266|<O>| send_user(me, "%c%s", '!', "Xin tìm Đinh hạcnămgiaoNhiệm vụ");
+15267|<O>| who->get_name() + ":\n    hiệnTạikhông cóHợp phụccủaphần thưởng。\n"
+15268|<O>| me->set_name(who->get_name() + "củađạo Thảo Nhân");
+15269|<O>| desc = "Lợi dùngtrênĐẳng lục đậu chế thànhcủacaođiểm,20giây phục hồi cho người chơi1300điểm Khí Huyết。";
+15270|<O>| SAY_CMD->say(me, "bạnxem kiếntôicủanão đại ？mọi ngườiđềunóitôikhông não đại");
+15271|<O>| SAY_CMD->say(me, "nhỏQuỷ，nhanhnhanhPhóngdướiThủgiữacủaVũ khíđầu giáng ！！");
+15272|<O>| send_user(who, "%c%s", '!', "HồnhỏTứ 1/1");
+15273|<O>| notify("Khi từ bỏ「" + file + "」trước tiên phải từ bỏ「Thầndu」。");
+15274|<O>| item = new("item/final/91/1810");	//Tử thanh Đơn
+15275|<O>| return "Vật phẩm nhiệm vụ，Truyền nóigiữaDi thấtcủaBí Bảo。Xin tốc Tướng thử Vật tống Hồi Bảnbang pháicủatổng quản xử。";
+15276|<O>| case 13: return BattleXY[12];    // hư tuyến１
+15277|<O>| printf(ECHO "Bạn đượcCóHoàng đậu Tài NăngSử dụng“" PF_NAME "”。");
+15278|<O>| "cươngSắtHộ Tâm GiápĐào Hoa Nguyên" : "\"/item/final/60/1055\"",
+15279|<O>| return "Đại Thoại Chiến QuốcQuốc khánhlớnlễ bao，trongHàmnhiềuloạiChiến QuốcTrân hi Vật Phẩm，thụ giá390Nguyên Bảo。";
+15280|<O>| send_user(who, "%c%s", '!', "bạncủaThất Quốc Lệnh?");
+15281|<O>| mpInfo["account"] = who->get_id();	//trướng hiệu
+15282|<O>| "lộtừKim dạ Bạch，thángLàcố hương Minh。Kim dạthángchính viên，chínhLàTư hươnggiờ。Đồng vọng đương Khôngtháng，thángviên Mộng vị viên。",
+15283|<O>| send_user(who, "%c%s", '!', "Chu Lão Ngũ 1/1");
+15284|<O>| return "Vật phẩm nhiệm vụ。Âm gian chuyên dùng tiền tệ，doMộc tàitrá tương lượng can mà thành，có thể làm Tịch Tà Chi dùng。";
+15285|<O>| send_user(me, "%c%s", '!', "Đề cungcủahiệu mãkhôngchính xác");
+15286|<O>| notify("Khi từ bỏ「" + file + "」trước tiên phải từ bỏ「Y Thuật」。");
+15287|<O>| gift = new("item/final/91/1808");	//Bạchạnh Tử
+15288|<O>| send_user(me, "%c%s", '!', "dữ liệukhố Thao tác sai ngộ！");
+15289|<O>| "/sys/sys/count"->add_task("Vương bổ đầu kiếm tiền", 1);
+15290|<O>| case "Triệu Quốc": city2 = "CITY_ZHAO";  break;
+15291|<O>| SAY_CMD->say(me, "có thể Ác……Bản Đạodàicó thểkhôngsẽliềnnàydạngbịĐả bạicủa！");
+15292|<O>| send_user(me, "%c%s", '!', "Bạn Hộ tốngcủaNhân ？！");
+15293|<O>| return "cơ giớinhỏsủng vật，rất có thể Ái，Năngchochủ Nhân Đềcao2%củatrốn Thiểm，Số lần sử dụng30。";
+15294|<O>| if ( give_yuebing(player,"thángbính",5) == 0 )
+15295|<O>| send_user(who, "%c%s", '!', "Mã Tam Đao 1/1");
+15296|<O>| notify("đươngtrướctần Đạo Tướng vu %d phút sau mở。", t / 60 + 1);
+15297|<O>| ESC "Giáo dục。\ntalk " + id + " stir_up.15\n"

@@ -12,7 +12,7 @@
 6334|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YANGUO, 39, "Bí mật（2）");
 6335|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 69, "Dò la tung tích");
 6336|<O>| tmp += sprintf(ESC HIY "Chế tác Tù Và Vương Giả\ntalk %x# welcome.13\n", getoid(me));
-6337|<O>| case "楚国": cmd1 = sprintf("talk %x# relation.?.%d.1\n", id, number);
+6337|<O>| case "SởQuốc": cmd1 = sprintf("talk %x# relation.?.%d.1\n", id, number);
 6338|<O>| tmp += sprintf(ESC HIY "Tìm con đường giải cứu\ntalk %x# welcome.29\n", getoid(me));
 6339|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 64, "Rèn vũ khí");
 6340|<O>| send_user(who, "%c%s", ';', "Kỳ ngộ lang bạt Kinh nghiệm 7000 Tiềm năng 260 Tiền 6500 Bản vẽ Bom Nổ Mạnh 1");
@@ -37,7 +37,7 @@
 6359|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 10, "Nước mắt Trường Thành");
 6360|<O>| tmp += sprintf(ESC HIY "Đòi Tù Và Vương Giả\ntalk %x# welcome.4\n", getoid(me));
 6361|<O>| tmp += sprintf(ESC HIY "Chế tác Tù Và Vương Giả\ntalk %x# welcome.8\n", getoid(me));
-6362|<O>| case "魏国": return sprintf("data/org-4/%s%s", name, SAVE_EXTENSION);
+6362|<O>| case "NgụyQuốc": return sprintf("data/org-4/%s%s", name, SAVE_EXTENSION);
 6363|<O>| _DEBUG(sprintf("DEBUG -- %s thêm đồng hồ: bắt đầu phân tích chuỗi", show_time_stamp(time())));
 6364|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_CHUGUO,2,"Lễ vật của người trong lòng" );
 6365|<O>| send_user(me, "%c%s", ':', "Đội trưởng, bạn chắc chắn muốn đuổi " + who->get_name() + " ra khỏi đội chứ？\n"

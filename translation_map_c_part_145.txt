@@ -1,17 +1,17 @@
 3089|<O>| case 12: send_user(who, "%c%s", ':', sprintf("%s:\nÔng chủ cũng đen tối quá, ta cố gắng thế này còn có ích gì nữa？(công nghiệp %+d)", me->get_name(), p));
 3090|<O>| || !arrayp(user = filter_array(user - ({ me }), (: $1->get_name() == $2 : ), name))    // Phán đoán tên khớp(trừ chính mình)
-3091|<O>| ret += sprintf("%sCó 3 điểm tốt\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"有三好"))?PPM:WHT);
+3091|<O>| ret += sprintf("%sCó 3 điểm tốt\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Hữu Tam Hảo"))?PPM:WHT);
 3092|<O>| "Thổ Tinh" : (["prop":({ 1330,0876,0991,1194,0970,1070,1240 }), "ski" : ({ "Ngự Mệnh Thuật Cao Cấp","Ngự Pháp Cao Cấp","Lạc Thạch","Phi Sa Tẩu Thạch" })]),
 3093|<O>| send_user(who, "%c%c%w%s", ':', 3, get_char_picid(), get_name() + ":\n    Khó khăn lắm mới trốn ra được, giờ chẳng còn ai bắt được ta nữa！Ha ha！！");
 3094|<O>| send_user(player, "%c%c%d%s", 0x43, 6, 0, sprintf("Hiện giờ đã có thể tiến vào chiến trường Trường Bình số %d rồi, phe mà ngươi thuộc về là %s, có muốn vào ngay không？（Quá 60 giây sẽ coi như từ bỏ vào）\n"
 3095|<O>| return "Bảo thạch Lỗ Ban chỉ có thể dùng trong chế tác kỹ năng sinh hoạt。\nKhi chế tác thành phẩm, đặt bảo thạch vào “vật phẩm phụ thêm”，\ncó thể tăng thuộc tính thêm của trang bị được chế tác。\nMỗi lần chế tác chỉ có thể đặt một bảo thạch。\nDù chế tác thành công hay không, “Bảo thạch Lỗ Ban” sau khi dùng đều sẽ biến mất。";
 3096|<O>| "Kim Tinh":(["prop":({ 1475,1079,1189,1004,0806,0906,1426 }), "ski" : ({ "Phòng Thuẫn Cao Cấp","Cường Công Cao Cấp","Phục Sinh Cao Cấp","Phi Hành Thuật Cao Cấp" })]),
 3097|<O>| case 14: send_user(who, "%c%s", ':', sprintf("%s:\nĐúng vậy, lại không ăn được, loại người này đúng là sâu mọt。(nghệ thuật %+d)", me->get_name(), p));
-3098|<O>| ret += sprintf("%sGiáp Linh Hồ\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"灵狐皮衣"))?PPM:WHT);
+3098|<O>| ret += sprintf("%sGiáp Linh Hồ\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Linh Hồ Bì Y"))?PPM:WHT);
 3099|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng:15 cấp\n    Pháp thuật miễn dịch đặc hữu của Thục Sơn, có thể bảo vệ bản thân không rơi vào trạng thái câm lặng, dưới hiệu quả này không thể thay đổi vũ khí。\n    Dùng lại Ổn Định Tâm Thần có thể giải trừ hiệu quả này。\n";
 3100|<O>| "Ngươi có thể giúp ta đi lấy nó về không, thật sự cảm ơn ngươi rồi……nghe ta nói nhiều như vậy。\n"ESC"Nhận nhiệm vụ\ntalk %x# welcome.2\n"ESC"Rời khỏi", me->get_name(), getoid(me)));
 3101|<O>| log_file( "gold_warrior.dat", sprintf( "%d :%d nhiệm vụ đội trưởng vệ đội vàng mở。\n",mixTime[TIME_HOUR],mixTime[TIME_MIN]) );
-3102|<O>| ret += sprintf("%sHài Cuồng Sư\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"狂狮之靴"))?PPM:WHT);
+3102|<O>| ret += sprintf("%sHài Cuồng Sư\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Cuồng Sư Chi Hia"))?PPM:WHT);
 3103|<O>| FAMILY_D->city_channel(me->get_city_name(), 0, sprintf(CHAT "Chúc mừng đại nhân %s đã tạo lập %s tại bản quốc。", me->get_name(), name));
 3104|<O>| send_user(me, "%c%w%w%c%c%c%c%c%s", 0x64, THIS_PERFORM, SUB_MP, 0, 1, MAGIC_ACT_BEGIN, 0, 5, "Thần Nông Bảo Điển");
 3105|<O>| send_user(me, "%c%w%w%c%c%c%c%c%s", 0x64, THIS_PERFORM, SUB_MP, 0, 10, MAGIC_ACT_BEGIN, 0, 5, "Mê Thần Tán");
@@ -25,13 +25,13 @@
 3113|<O>| result = sprintf("%s:\n    Trên chiến trường, lão phu có thể cung cấp cho ngươi mọi vật tư cần thiết, ngoài ra chỗ lão phu còn có thể nghiên cứu phát triển các loại khí giới công thành cao cấp. Sao nào？Có cần lão phu làm gì không？\n", me->get_name());
 3114|<O>| send_user(who, "%c%c%w%s", ':', 3, 6010, sprintf("%s:\n    Xin lỗi, ngươi đã đăng ký tham gia hoạt động rồi, xin đừng đăng ký trùng lặp！\n", me->get_name()));
 3115|<O>| log_file("buycard.dat", sprintf("%s %s(%d) ký gửi thẻ điểm thành công\n", short_time(), me->get_id(), me->get_number()));
-3116|<O>| ret += sprintf("%sHài Cự Tượng\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"巨象之靴"))?PPM:WHT);
+3116|<O>| ret += sprintf("%sHài Cự Tượng\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Cự Tượng Chi Hia"))?PPM:WHT);
 3117|<O>| send_user(me, "%c%w%w%c%c%c%c%c%s", 0x64, THIS_PERFORM, SUB_MP, 1, 1, MAGIC_ACT_BEGIN, 0, 5, "Chu Thiên Tâm Pháp");
 3118|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng:16 cấp\nTiêu hao đạo cụ:cờ trận×1\n    Bày một trận pháp trong khu vực 3×3 mục tiêu, tăng 40 điểm công pháp thuật, liên tục gây sát thương pháp thuật lên toàn bộ địch nhân trong trận pháp trong 8 giây。";
 3119|<O>| return sprintf("［Có thể sử dụng］"HIR"%s và %s là kẹo cưới vào ngày %s năm %s tháng %s。\nDùng xong khí huyết và ma pháp hồi đầy, đồng thời có xác suất nhất định nhận được thưởng thêm。", name1, name2, x, y, z);
 3120|<O>| case "Ám khí": seek = 6;  weapon[1] = "THROWING";  weapon[2] = "PF_FILE_01611";  weapon[3] = "X";  break;
 3121|<O>| send_user(who, "%c%s", ':', get_name() + ":\n    Ngồi đây cả ngày mà cũng chẳng câu được mấy con cá, chắc là do mùa vụ, mai lại tới thử xem。\n" + tmp + ESC"Rời khỏi");
-3122|<O>| ret += sprintf("%sMũ Bạch Lang\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"白狼皮帽"))?PPM:WHT);
+3122|<O>| ret += sprintf("%sMũ Bạch Lang\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Bạch Lang Bì Mạo"))?PPM:WHT);
 3123|<O>| send_user(player, "%c%c%d%s", 0x43, 6, 0, CHAT + HIY + "Tuy mọi người đã dốc toàn lực chiến đấu, nhưng trận này chúng ta vẫn thất bại. Mong mọi người lần sau tiếp tục cố gắng, phát huy xuất sắc hơn nữa！");
 3124|<O>| cmd1 = sprintf("%s:\n     Trong thời gian ràng buộc VIP, ngài tổng cộng có thể nhận "HIR"%d giờ"NOR" thời gian VIP gấp đôi。Xin hỏi ngài có muốn nhận thời gian VIP gấp đôi không？\n", me->get_name(), y);
 3125|<O>| send_user(me, "%c%c%d%s", '?', 16, 60, "Xin hãy nhập thời gian hiện tại của hoạt động（định dạng như:2007-9-18 19:29:30 ）:\n"ESC"party 7002.%s\n");

@@ -1,0 +1,62 @@
+﻿10118|<O>| if (city = CITY_D->get_city_object(who))    // 以后要加敌对判断
+10119|<O>| who->add_strength(-20);    // 体力 -20, 商人经验 +100, 声望 +10
+10120|<O>| flag = who->is_user();    // NPC 不受 no_drop, no_give 限制
+10121|<O>| send_user(who, "%c%s", '!', sprintf(HIY"发绳 %d/20", i));
+10122|<O>| return HIC+get_name()+"\n拥有此技能的宠物，5%的几率对敌方造成连续2次物理伤害。";
+10123|<O>| if (TASK_LEGEND_D->check_task_item(who, "玉兰石", 1) != 1)
+10124|<O>| if (TASK_LEGEND_D->check_task_item(who, "木头", 20) != 1)
+10125|<O>| private int Poison;                             // 中毒点数
+10126|<O>| if (TASK_LEGEND_D->check_task_item(who, "现行粉", 1) != 1)
+10127|<O>| if (objectp(item = present("巧克力豆", who, 1, MAX_CARRY)))
+10128|<O>| //                     case 5 : name3 = "发动战争";  break;
+10129|<O>| if (TASK_LEGEND_D->check_task_item(who, "石炭", 10) != 1)
+10130|<O>| __FILE__->sort_board(who,"cash_player","cash"); //财富表更新
+10131|<O>| && who->get_quest("valentine.flag") == 2    // 2. 诡异的飞贼
+10132|<O>| if (TASK_LEGEND_D->check_task_item(who, "紫葡萄", 1) != 1)
+10133|<O>| if (TASK_LEGEND_D->check_task_item(who, "古石灰", 5) != 1)
+10134|<O>| send_user(who, "%c%s", '!', sprintf(HIY"土鸡蛋 %d/7", i));
+10135|<O>| private static mapping mpMP = ([]);            // 临时数据集
+10136|<O>| send_user(who, "%c%s", '!', sprintf(HIY"辣椒 %d/20", i));
+10137|<O>| case CAVE_MAP: printf(ECHO "对方在地下，不能使用“" PF_NAME "”。");
+10138|<O>| npc->set_name(sprintf("情人节流氓(%d)", who->get_number()));
+10139|<O>| send_user(me, "%c%s", '!', get_name() + "一生只能使用 5 次。");
+10140|<O>| if (TASK_LEGEND_D->check_task_item(who, "文竹", 20) != 1)
+10141|<O>| //                        ESC "工作。(需 10 点体力)\n" + cmd +
+10142|<O>| return "［裁缝］可以让玩家使用物料制造出衣服，容器物品。玩家制造出来的服装都有制造者的角色名。\n";
+10143|<O>| tmp += sprintf(ESC HIY "雪水\ntalk %x# welcome.9\n", id);
+10144|<O>| if (gone_time(me->get("birthday")) >= 3600)    // 60 分钟
+10145|<O>| send_user(who, "%c%s", '!', sprintf(HIY"玉雕 %d/20", i));
+10146|<O>| private static object* dbReset = ({ });         // 刷新数组
+10147|<O>| private static string Leader;                   // 队长对象
+10148|<O>| send_user(who, "%c%s", '!', sprintf(HIY"金精 %d/10", i));
+10149|<O>| send_user(who, "%c%s", '!', "对不起，您的户籍在" + name1 + "。");
+10150|<O>| if (TASK_LEGEND_D->check_task_item(who, "气脉丹", 5) != 1)
+10151|<O>| result += sprintf(ESC "领取种子播种。\ntalk %x# plant\n", id);
+10152|<O>| send_user(who, "%c%s", '!', sprintf(HIY"枪魂 %d/10", i));
+10153|<O>| send_user(who, "%c%s", ';', sprintf("你获得%s。", result));
+10154|<O>| tell_user(me, sprintf("%d: %s 无法找到存档ID", id, name[i]));
+10155|<O>| write_user(who, ECHO "造谣不成功，%s已经走开了。", me->get_name());
+10156|<O>| private int NoSell;                     // 不可售卖(不能sell)
+10157|<O>| if (TASK_LEGEND_D->check_task_item(who, "调兵符", 1) != 1)
+10158|<O>| who->log_legend(sprintf("您在%s处洗属性点。",npc->get_name()));
+10159|<O>| send_user(who, "%c%s", '!', sprintf(HIY"文竹 %d/20", i));
+10160|<O>| delete_save_2(sprintf("%s.%d",type,id1)); //删除最后位置上玩家信息
+10161|<O>| if (!objectp(item = present("试炼石", who, 1, MAX_CARRY)))
+10162|<O>| send_user(who, "%c%s", '!', sprintf(HIY"豺狗 %d/10", i));
+10163|<O>| __FILE__->sort_mingren_power(who,"exp_player"); //实力表更新
+10164|<O>| "%s:\n哪来的家伙在这里无理取闹？快将他赶出去。\n", name4, me->get_name()));
+10165|<O>| if (TASK_LEGEND_D->check_task_item(who, "发夹", 10) != 1)
+10166|<O>| send_user(who, "%c%s", '!', sprintf(HIY"枪魂 %d/30", i));
+10167|<O>| send_user(who, "%c%s", '!', sprintf(HIY"蟹将 %d/20", i));
+10168|<O>| //              send_user( who, "%c", 0x4d );//系统邮件不用这个
+10169|<O>| write_user(who, ECHO "游说没效果，%s已经走开了。", me->get_name());
+10170|<O>| send_user(who, "%c%s", ';', "火焰石已经收集好,请找新手村的当铺老板完成任务");
+10171|<O>| send_user(me, "%c%w%w%c", 0x07, x0, y0, 10);    // 坐标修正
+10172|<O>| send_user(who, "%c%s", '!', sprintf(HIY"石虎 %d/30", i));
+10173|<O>| send_user(who, "%c%s", '!', sprintf(HIY"水鬼 %d/10", i));
+10174|<O>| private static int group_id;                   	// 团队ID
+10175|<O>| send_user(who, "%c%s", '!', sprintf(HIY"龟仙人 %d/6", i));
+10176|<O>| send_user(who, "%c%s", '!', sprintf(HIY"僵尸 %d/30", i));
+10177|<O>| send_user(who, "%c%s", '!', sprintf(HIY"南瓜 %d/20", i));
+10178|<O>| private int MaxYuan = 1, Yuan = 1;              // 元气点数
+10179|<O>| if (TASK_LEGEND_D->check_task_item(who, "佛龙珠", 1) != 1)

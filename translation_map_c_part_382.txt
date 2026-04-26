@@ -1,93 +1,93 @@
-﻿17719|<O>| case 20 : me->set_fam_name("蜀山");
-17720|<O>| 提供几种方法让用户向本类中的私有变量数组中添加灵活结构的时钟标志，
-17721|<O>| item = new ("/item/08/0002");//号角
-17722|<O>| return "不知道是谁丢失的小宝箱，打开看看有什么惊喜……";
-17723|<O>| return "持续1小时内变身为草寇，可提升1%物理防御力。";
-17724|<O>| printf(ECHO "您邀请%s加入队伍。", name2);
-17725|<O>| string get_name() { return "楚"; }
-17726|<O>| main(me, file + "/");    // 遍历子目录
-17727|<O>| desc = "清淡的烤肉，14秒内恢复玩家1260点气血值。";
-17728|<O>| else if (arg == "close")    // 收摊
-17729|<O>| item = new ("/item/08/0003");//小血
-17730|<O>| // 说明:状态保护汇总，用于所有需要状态保护的征状在结束时调用，
-17731|<O>| "汾酒" : "\"/item/final/33/1760\"",
-17732|<O>| player->add_cash(20000);//20000金钱
-17733|<O>| result = "战争中神机院主已经成功开发了战斗傀儡技术。";
-17734|<O>| item = new ("item/91/9121");//活心丹
-17735|<O>| sprintf("%s:\n    你也想要来偷我的灵药吗？\n"
-17736|<O>| return "持续1小时内变身为燕军刀兵，可提升2%法术力。";
-17737|<O>| nAllSki1 += ({nSki[i]});	//加入主动技能
-17738|<O>| else if (xy < 3000) return "东北方";
-17739|<O>| default : place2 = "新手村";  break;
-17740|<O>| item = new("item/08/0004");	//法力石
-17741|<O>| item = new ("item/91/9102");//造化丹
-17742|<O>| return color + "可以远程打开当铺进行存取物品。";
-17743|<O>| ESC"换取战场称谓\ntalk %x# welcome.7\n"
-17744|<O>| item = new ("item/91/9111");//安神丸
-17745|<O>| pf = 36;    // 抄自 /sys/user/fight
-17746|<O>| string get_name() { return "齐"; }
-17747|<O>| return "持续1小时内变身为刀魂，可提升2%物理攻击力。";
-17748|<O>| tell_user(who,"中秋节活动开启:%s！",arg);
-17749|<O>| pf = 78;    // 抄自 /sys/user/fight
-17750|<O>| return 1;	// 如果有其他死亡状态处理程序，则取消复活D
-17751|<O>| return "持续1小时内变身为金精，可提升2%法术攻击力。";
-17752|<O>| if (time() > qtlStart)	//第一次出现的时间
-17753|<O>| "鱼肠" : "\"/item/final/76/1055\"",
-17754|<O>| add_pp(get_pp() * 45 / 100);	//法防
-17755|<O>| return "鼠标右键点击它，可召唤出一只可爱的小恶魔宠物。";
-17756|<O>| return "［周天运转］提升气血上限，每级提升 6 点\n";
-17757|<O>| return "增加主人5%物防、5%法防、5%气血、5%暴击";
-17758|<O>| result += ESC"停止活动\nparty 122\n";
-17759|<O>| item = new ("item/91/9165");//归元丹
-17760|<O>| ESC "购买机关技能等级1-20级的配方\nlist %s\n"
-17761|<O>| if (p < 25 * rate / 100)    // 金钱
-17762|<O>| result += ESC"开启活动\nparty 131\n";
-17763|<O>| tell_user(who,"端午节活动开启:%s！",arg);
-17764|<O>| if (gone_time(summon) >= 80)	//召唤
-17765|<O>| "霸海" : "\"/item/final/72/1115\"",
-17766|<O>| "02" : "/item/91/9121",    // 活心丹
-17767|<O>| desc = "成棒状的萝卜，14秒内恢复玩家910点气血值。";
-17768|<O>| return PF_NAME + ":\n　　变身为小动物\n";
-17769|<O>| return "持续1小时内变身为匈奴马贼，可提升2%躲闪值。";
-17770|<O>| me->add_lasting(-1);    // 使用减少耐久
-17771|<O>| result += ESC "我点错了，再见\nCLOSE\n";
-17772|<O>| else if (npc->get_name() == "骷髅")
-17773|<O>| if (gone_time(pTime) > 30)	//瘟疫散布
-17774|<O>| result += ESC"开启活动\nparty 121\n";
-17775|<O>| ESC"领取70级奖励\ntalk %x# bonus.40\n"
-17776|<O>| "中秋相思，意浓浓；泪眼人儿，梦在怀；月是故乡明，人是你最好。",
-17777|<O>| item = new ("/item/08/0004");//小法
-17778|<O>| string get_name() { return "周"; }
-17779|<O>| pf = 50;    // 抄自 /sys/user/fight
-17780|<O>| else if (rate < 50000)	//使暴击率提高1%
-17781|<O>| if ( iType == NEWBIE_WORK )	//新手村
-17782|<O>| ESC "万事如意\ntalk %x# welcome.62\n"
-17783|<O>| return "任务物品。一种以高山茶为原料，手工制成的茶叶。";
-17784|<O>| + sprintf(ESC"开始测试\nparty 128\n")
-17785|<O>| item = new ("item/91/9125");//再造丸
-17786|<O>| ESC "脱离" + name2 + "。\n" + cmd1 +
-17787|<O>| ESC "加入" + name2 + "。\n" + cmd1 +
-17788|<O>| + sprintf(ESC"开启活动\nparty 158\n")
-17789|<O>| item = new ("item/91/9160");//气脉丹
-17790|<O>| if (who->is_npc()) return;//是NPC。
-17791|<O>| return "持续1小时内变身为狗熊，可提升2%物理防御力。";
-17792|<O>| else if (xy < 3000) return "西南方";
-17793|<O>| case 50 : me->set_fam_name("茅山");
-17794|<O>| ESC "购买酒食技能等级1-80级的配方\nlist %s\n"
-17795|<O>| "铜针" : "\"/item/final/71/1020\"",
-17796|<O>| return "任务物品。一种菊花科植物，一般在秋冬季节开放。";
-17797|<O>| ESC "恭喜发财\ntalk %x# welcome.62\n"
-17798|<O>| //创建新的虚拟场景395并把NPC放入指定位置(94,54)处;
-17799|<O>| string get_name() { return "魏"; }
-17800|<O>| set("no_sk04211", 1);	//变身术对其没有效果
-17801|<O>| "泰阿" : "\"/item/final/76/1115\"",
-17802|<O>| + sprintf(ESC"缘分对对碰\nparty 26\n")
-17803|<O>| return "鼠标右键点击它，可召唤出一只可爱的小天使宠物。";
-17804|<O>| if (inv2[i]->get_name() != "七国令")
-17805|<O>| else if (xy < 3000) return "西北方";
-17806|<O>| + sprintf(ESC"合服补偿\nparty 200\n")
-17807|<O>| //	有几率出的物品:1件100—120级随机部位蓝色装备:100
-17808|<O>| "狂狮" : "\"/item/final/70/1100\"",
-17809|<O>| //				ESC"离开", get_name(),id,id )
-17810|<O>| tmp += ({ nQue[ord][1] });	//正确答案
-17811|<O>| return "持续1小时内变身为蚂蚁，可提升1%法术防御力。";
+﻿17719|<O>| case 20 : me->set_fam_name("Thục Sơn");
+17720|<O>| Đề cung mấyloạiPhương Phápđểdùng HộhướngBản loạigiữacủatưCóbiến lượng số tổgiữaThêmLinh hoạt Kết cấucủagiờChung tiêu Chí，
+17721|<O>| item = new ("/item/08/0002");//hiệu giác
+17722|<O>| return "không biếtLàaimất thấtcủanhỏBảo rương，Đả mở xem xemCógìKinh hỷ……";
+17723|<O>| return "kéo dài1giờtrongbiến Thân vì Thảo Khấu，Có thể nâng1%Lực phòng thủ vật lý。";
+17724|<O>| printf(ECHO "Bạn yêu Xin%sGia Nhập đội ngũ。", name2);
+17725|<O>| string get_name() { return "Sở"; }
+17726|<O>| main(me, file + "/");    // biến lịch Tử Mục lục
+17727|<O>| desc = "Thanh đạmcủakhảo Nhục，14giây phục hồi cho người chơi1260điểm Khí Huyết。";
+17728|<O>| else if (arg == "close")    // Thu thán
+17729|<O>| item = new ("/item/08/0003");//nhỏHuyết
+17730|<O>| // nói Minh:trạng thái bảo Hộ hối tổng，dùng vutất cảcầntrạng thái bảo Hộcủachinh trạngTạiKết thúcgiờđiều dùng，
+17731|<O>| "Phần Tửu" : "\"/item/final/33/1760\"",
+17732|<O>| player->add_cash(20000);//20000Tiền vàng
+17733|<O>| result = "Chiến tranhgiữaThầncơ viện chủđãThành côngmở phátchiến đấukhôi lỗi kỹ Thuật。";
+17734|<O>| item = new ("item/91/9121");//hoạt Tâm Đơn
+17735|<O>| sprintf("%s:\n    bạncũngmuốncầnđến thâutôicủaLinh Dược ？\n"
+17736|<O>| return "kéo dài1giờtrongbiến Thân vì Yên quân Đao Binh，Có thể nâng2%Pháp thuật lực。";
+17737|<O>| nAllSki1 += ({nSki[i]});	//Gia Nhập chủ ĐộngKỹ năng
+17738|<O>| else if (xy < 3000) return "Đông Bắc Phương";
+17739|<O>| default : place2 = "Tân Thủ Thôn";  break;
+17740|<O>| item = new("item/08/0004");	//Pháp Lực Thạch
+17741|<O>| item = new ("item/91/9102");//tạo Hóa Đơn
+17742|<O>| return color + "có thểViễn trình Đả mở đương phố tiến Hành tồn thủ Vật Phẩm。";
+17743|<O>| ESC"hoán thủ Chiến trường xưng vị\ntalk %x# welcome.7\n"
+17744|<O>| item = new ("item/91/9111");//AnThầnhoàn
+17745|<O>| pf = 36;    // Sao chép từ /sys/user/fight
+17746|<O>| string get_name() { return "Tề"; }
+17747|<O>| return "kéo dài1giờtrongbiến Thân vì Đao Hồn，Có thể nâng2%Lực tấn công vật lý。";
+17748|<O>| tell_user(who,"giữathu tiếthoạt độngMở:%s！",arg);
+17749|<O>| pf = 78;    // Sao chép từ /sys/user/fight
+17750|<O>| return 1;	// NếuCókhácTử vongtrạng thái xử lý trình tự，TắcHủy bỏPhục sinhD
+17751|<O>| return "kéo dài1giờtrongbiến Thân vìVàngTinh，Có thể nâng2%Lực tấn công phép thuật。";
+17752|<O>| if (time() > qtlStart)	//đệ NhấtlầnXuất hiệncủagiờgian
+17753|<O>| "Ngư trường" : "\"/item/final/76/1055\"",
+17754|<O>| add_pp(get_pp() * 45 / 100);	//Pháp phòng
+17755|<O>| return "thử tiêuphảikiệnđiểmkíchnó，có thểTriệu hồiXuất Nhấtchỉcó thể ÁicủanhỏÁcMasủng vật。";
+17756|<O>| return "［Chungàyvận chuyển］Nâng giới hạn Khí Huyết，Mỗi cấp tăng 6 điểm\n";
+17757|<O>| return "Tăngchủ Nhân5%Vật phòng、5%Pháp phòng、5%Khí Huyết、5%Bạo kích";
+17758|<O>| result += ESC"đình chỉhoạt động\nparty 122\n";
+17759|<O>| item = new ("item/91/9165");//Quy Nguyên Đơn
+17760|<O>| ESC "MuaCơ QuanKỹ năngCấp độ1-20cấp Công thức\nlist %s\n"
+17761|<O>| if (p < 25 * rate / 100)    // Tiền vàng
+17762|<O>| result += ESC"Mởhoạt động\nparty 131\n";
+17763|<O>| tell_user(who,"đoan ngọ tiếthoạt độngMở:%s！",arg);
+17764|<O>| if (gone_time(summon) >= 80)	//Triệu hồi
+17765|<O>| "Bá Hải" : "\"/item/final/72/1115\"",
+17766|<O>| "02" : "/item/91/9121",    // hoạt Tâm Đơn
+17767|<O>| desc = "thành bổng trạngcủaLa Bốc，14giây phục hồi cho người chơi910điểm Khí Huyết。";
+17768|<O>| return PF_NAME + ":\n　　biến Thân vìnhỏĐộng Vật\n";
+17769|<O>| return "kéo dài1giờtrongbiến Thân vì Hung nô Mã tặc，Có thể nâng2%Giá trị né tránh。";
+17770|<O>| me->add_lasting(-1);    // Sử dụnggiảmítnại cửu
+17771|<O>| result += ESC "tôiđiểmsai，lại kiến\nCLOSE\n";
+17772|<O>| else if (npc->get_name() == "khô lâu")
+17773|<O>| if (gone_time(pTime) > 30)	//ôn dịch tán bố
+17774|<O>| result += ESC"Mởhoạt động\nparty 121\n";
+17775|<O>| ESC"lĩnh thủ70cấpphần thưởng\ntalk %x# bonus.40\n"
+17776|<O>| "giữathu Tương Tư，Ý nùng nùng；lệ Nhãn Nhân nhi，MộngTạihoài；thángLàcố hương Minh，NhânLàbạntốitốt。",
+17777|<O>| item = new ("/item/08/0004");//nhỏPháp
+17778|<O>| string get_name() { return "Chu"; }
+17779|<O>| pf = 50;    // Sao chép từ /sys/user/fight
+17780|<O>| else if (rate < 50000)	//sử Bạo kích suất Đềcao1%
+17781|<O>| if ( iType == NEWBIE_WORK )	//Tân Thủ Thôn
+17782|<O>| ESC "vạn sự như Ý\ntalk %x# welcome.62\n"
+17783|<O>| return "Vật phẩm nhiệm vụ。Một loạiDĩcaoSơn trà vì nguyên liệu，Thủ công chế thànhcủatrà Diệp。";
+17784|<O>| + sprintf(ESC"Bắt đầuKiểm tra\nparty 128\n")
+17785|<O>| item = new ("item/91/9125");//lại tạo hoàn
+17786|<O>| ESC "thoát ly" + name2 + "。\n" + cmd1 +
+17787|<O>| ESC "Gia Nhập" + name2 + "。\n" + cmd1 +
+17788|<O>| + sprintf(ESC"Mởhoạt động\nparty 158\n")
+17789|<O>| item = new ("item/91/9160");//khí Mạch Đơn
+17790|<O>| if (who->is_npc()) return;//LàNPC。
+17791|<O>| return "kéo dài1giờtrongbiến Thân vì cẩu Hùng，Có thể nâng2%Lực phòng thủ vật lý。";
+17792|<O>| else if (xy < 3000) return "Tây Nam Phương";
+17793|<O>| case 50 : me->set_fam_name("Mao Sơn");
+17794|<O>| ESC "MuaTửu ThựcKỹ năngCấp độ1-80cấp Công thức\nlist %s\n"
+17795|<O>| "Đồngchâm" : "\"/item/final/71/1020\"",
+17796|<O>| return "Vật phẩm nhiệm vụ。Một loạiCúc Hoa khoa thực Vật，Nhất bànTạithu đông Quý tiết mở Phóng。";
+17797|<O>| ESC "cung hỷ phát tài\ntalk %x# welcome.62\n"
+17798|<O>| //sáng kiếnmớicủahư nghĩ trường cảnh395tịnhđemNPCPhóng Nhập Chỉ định vị trí(94,54)xử;
+17799|<O>| string get_name() { return "Ngụy"; }
+17800|<O>| set("no_sk04211", 1);	//biến Thân Thuậtđối vớikỳkhông cóhiệu Quả
+17801|<O>| "thái A" : "\"/item/final/76/1115\"",
+17802|<O>| + sprintf(ESC"Duyênphútđối vớiđối vớibằng\nparty 26\n")
+17803|<O>| return "thử tiêuphảikiệnđiểmkíchnó，có thểTriệu hồiXuất Nhấtchỉcó thể Áicủanhỏngàysửsủng vật。";
+17804|<O>| if (inv2[i]->get_name() != "Thất Quốc Lệnh")
+17805|<O>| else if (xy < 3000) return "Tây Bắc Phương";
+17806|<O>| + sprintf(ESC"Hợp phục bổ thường\nparty 200\n")
+17807|<O>| //	Cómấy suất XuấtcủaVật Phẩm:1kiện100—120cấpNgẫu nhiênbộ vị Lam SắcTrang bị:100
+17808|<O>| "Cuồng Sư" : "\"/item/final/70/1100\"",
+17809|<O>| //				ESC"Rời khỏi", get_name(),id,id )
+17810|<O>| tmp += ({ nQue[ord][1] });	//chính xác đáp án
+17811|<O>| return "kéo dài1giờtrongbiến Thân vì Mã Nghĩ，Có thể nâng1%Pháp ThuậtPhòng thủLực。";

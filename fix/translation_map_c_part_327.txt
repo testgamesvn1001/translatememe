@@ -1,0 +1,73 @@
+﻿13212|<O>| if (!me->is_moveable()) return 1;    // 不允许移动
+13213|<O>| "    在"HIR" 秦国 "NOR"能买到"HIR" 昆仑山 "NOR"的装备；\n"
+13214|<O>| private static int iLevel1time;		// 战场总管的升级时间
+13215|<O>| add_max_mp(get_max_mp() * 200 / 100);  	//法术力
+13216|<O>| private string Marry;                   // 配偶
+13217|<O>| private string* Apprentices = ({ });		//徒弟的集合
+13218|<O>| send_user(me, "%c%s", '!', "当铺的这个位置已经有道具了。");
+13219|<O>| send_user(who, "%c%s", '!', "您身上没有忘情婆婆要的梳子");
+13220|<O>| if (rate < 500 * rate1 / 100)		//80级的随机门派金色装备
+13221|<O>| //			+ sprintf(ESC"门派偷袭战操作(测试)\nparty 125\n")
+13222|<O>| desc = "女儿红酒为旧时富家生女嫁女必备之物，20秒内恢复玩家2000点法术力。";
+13223|<O>| private int GiftRA;                     // 仁爱
+13224|<O>| private int Arts;                       // 艺术
+13225|<O>| private int Stability;                  // 安定
+13226|<O>| string Rank;                            // 职务
+13227|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"魔晴石");
+13228|<O>| ({"存钱应该在哪个NPC处？","当铺老板","酒店老板","工头","神仙爷爷"}),
+13229|<O>| notify("你把" + who->get_name() + "的队伍请离了团队。");
+13230|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"通缉犯");
+13231|<O>| private int Soldier;                    // 士兵
+13232|<O>| if (random(100000) < 80 * rate1 / 100)	//门派金装
+13233|<O>| result = result + sprintf(HIR"%d经验", amount);
+13234|<O>| private int GiftZS;                     // 忠实
+13235|<O>| send_user(me, "%c%s", '!', "带着贵重物品不能使用土行珠。");
+13236|<O>| int  restore_alarm_clock();				//	关闭并重置所有时钟状态
+13237|<O>| private int Fishculture;                // 渔业
+13238|<O>| if (gold) result[0] = sprintf(" %d 金", gold);
+13239|<O>| who->set("02616", -sub_effect);    // 小心准备 me
+13240|<O>| send_user(who, "%c%s", '!', "您获得了"HIY"户籍密件");
+13241|<O>| private int Tax;                        // 税收
+13242|<O>| int Gender;                             // 性别
+13243|<O>| return HIC+get_name()+"\n拥有此技能的宠物，不会陷入梦游状态。";
+13244|<O>| private int Strength;                   // 体力
+13245|<O>| send_user(who, "%c%s", '!', "设置薪水要 50 点体力。");
+13246|<O>| send_user(who, "%c%s", ';', "你得到50点经验和1点潜能");
+13247|<O>| private string Master;                  // 城主
+13248|<O>| return sprintf("新手信物 %d级", get_item_level());
+13249|<O>| send_user(who, "%c%c", 0x26, 0);    // 关闭交易窗口
+13250|<O>| add_max_mp(get_max_mp() * 400 / 100);  	//法术力
+13251|<O>| private int Agriculture;                // 农业
+13252|<O>| ESC "确定\n" + sprintf( "talk %x# go\n", id ) +
+13253|<O>| private int Rate;                     	// 成功率
+13254|<O>| return "一种奇异的红色晶石，使用后每2秒可恢复90点气血值。效果持续60分钟。";
+13255|<O>| private int Religion;                   // 宗教
+13256|<O>| send_user(who, "%c%s", '!', "您举荐的人已经是副城主了。");
+13257|<O>| private int lifetime;                   // 寿命
+13258|<O>| name = sprintf("%s(%d级)", name, get_level());
+13259|<O>| return sprintf("禁用法宝:\n　　所有带特殊异能的法宝无法使用。\n");
+13260|<O>| &&      item2->get_lasting() >= 100    // 耐久度
+13261|<O>| case 1: write_user(me, ECHO "你占得节卦，不出门庭，凶。");
+13262|<O>| private string Title;                   // 头衔
+13263|<O>| result = sprintf("军队:%s\n", who->get_name());
+13264|<O>| case "秦": case "05": city = CITY_QIN;  break;
+13265|<O>| send_user(me, "%c%s", '!', "你的伎俩对年兽是不起作用的。");
+13266|<O>| //	回调:特技攻击函数 -- 此函数参见 npc/task/8210.c 里面的同名函数
+13267|<O>| desc = "女儿红酒为旧时富家生女嫁女必备之物，14秒内恢复玩家2380点法力值。";
+13268|<O>| result2 = sprintf("等级 %d", who->get_level());
+13269|<O>| ESC "去桃花源。\n" + sprintf("talk %x# 1\n", id) +
+13270|<O>| return HIC+get_name()+"\n拥有此技能的宠物，不会陷入眩晕状态。";
+13271|<O>| private int Gold;                       // 金库
+13272|<O>| if (!is_player(me) || random(5))    // ＧＭ造谣不漏
+13273|<O>| int Gold;                               // 捐款
+13274|<O>| obj = me->get("zombie");//处理不能重叠使用机械宠物和水瓶的情况。
+13275|<O>| private int Contribute;                 // 贡献
+13276|<O>| //			+ sprintf(ESC"黄金卫队长操作(测试)\nparty 127\n")
+13277|<O>| tell_user(me, "设置加密方法:%d", get_crypt_code());
+13278|<O>| result = sprintf("你确定要将两个中级锻造石合成为一个高级锻造石吗？\n"
+13279|<O>| return "［炼丹］可以让玩家使用药品等材料制造出消耗品、暂时增强属性的丹药。\n";
+13280|<O>| private int Industry;                   // 工业
+13281|<O>| send_user(who, "%c%s", '!', "你已经领取过该级别领奖码了");
+13282|<O>| int Level;                              // 等级
+13283|<O>| private static int iLevel3time;		// 战场箭塔的升级时间
+13284|<O>| send_user(me, "%c%s", '!', book + "不值得您一看。");

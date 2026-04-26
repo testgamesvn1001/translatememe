@@ -1,0 +1,64 @@
+﻿10557|<O>| send_user(who, "%c%s", '!', "你领取了"HIY"妖言惑众"NOR"的任务！");
+10558|<O>| ESC "离开\nCLOSE\n", me->get_name(), name, getoid(me)));
+10559|<O>| send_user(who, "%c%s", '!', sprintf(HIY"糯米 %d/8", i));
+10560|<O>| //		send_user( who, "%c%s", '!', HIY"正义之战"NOR" 任务完成");
+10561|<O>| if (TASK_LEGEND_D->check_task_item(who, "酒钱", 1) != 1)
+10562|<O>| write_user(who, ECHO "%s生气了，把您踢了出去。", me->get_name());
+10563|<O>| return sprintf("增加%d％的躲闪。\n", me->get_save("02421#"));
+10564|<O>| return ("寓意:前卫新潮\n使用后物理攻击增加30%，持续60分钟\n"HIR"使用者需为男性");
+10565|<O>| if (TASK_LEGEND_D->check_task_item(who, "状纸", 1) != 1)
+10566|<O>| send_user(who, "%c%s", '!', sprintf(HIY"莲藕 %d/3", i));
+10567|<O>| send_user(who, "%c%s", '!', sprintf(HIY"稻子 %d/9", i));
+10568|<O>| HeartSec = -(180 - Heart % 180);    // ３分钟剩余( 3 * 60 )
+10569|<O>| if(   ( npc = me->get_quest("escort.npc") )    // 运镖人物
+10570|<O>| if (TASK_LEGEND_D->check_task_item(who, "墨块", 1) != 1)
+10571|<O>| if (TASK_LEGEND_D->check_task_item(who, "二胡", 1) != 1)
+10572|<O>| send_user(player, "%c%s", '!', "你现在是非健康游戏时间，不能参加活动！");
+10573|<O>| return ("寓意:深不可测\n使用后法术攻击增加30%，持续60分钟\n"HIR"使用者需为男性");
+10574|<O>| who->set("pf.armorfall2", -SUB_EFFECT2);    // 小心准备 me
+10575|<O>| if(     me->get_skill(SKILL_0348) >= 52    // 要求“兵法”等级
+10576|<O>| send_user(who, "%c%s", '!', sprintf(HIY"雪水 %d/1", 1));
+10577|<O>| tell_user(me, "设置的指令格式是:/set_party_time 年-月-日 时:分:秒");
+10578|<O>| if (TASK_LEGEND_D->check_task_item(who, "古玉", 1) != 1)
+10579|<O>| z = COPY_CTROL->new_scene(d,"/map/copy/0001","封妖镜镜像");
+10580|<O>| result2 = sprintf("门贡 %d", who->get_fam_contribute());
+10581|<O>| return "上面写着“天长地久，友谊永存”几个字。可以将指定的队友快速召唤到自己身边。冷却时间2秒。";
+10582|<O>| send_user(who, "%c%s", '!', "可存经验低于10000的济世葫芦不可以放出。");
+10583|<O>| if (TASK_LEGEND_D->check_task_item(who, "小麦", 3) != 1)
+10584|<O>| send_user(who, "%c%s", '!', sprintf(HIY"邪灵 %d/7", i));
+10585|<O>| send_user(who, "%c%s", '!', sprintf(HIY"金精 %d/5", i));
+10586|<O>| #define SKILL_FINAL	"/item/final/76/1120"				// 制作的结果
+10587|<O>| return HIC+get_name()+"\n拥有此技能的宠物，使用此技能会用水法术攻击单一目标。";
+10588|<O>| #define SKILL_FINAL	"/item/final/60/1105"				// 制作的结果
+10589|<O>| #define SKILL_FINAL	"/item/final/71/1035"				// 制作的结果
+10590|<O>| #define SKILL_FINAL	"/item/final/86/1075"				// 制作的结果
+10591|<O>| #define SKILL_FINAL	"/item/final/75/1085"				// 制作的结果
+10592|<O>| #define SKILL_FINAL	"/item/final/70/1095"				// 制作的结果
+10593|<O>| #define SKILL_FINAL	"/item/final/86/6120"				// 制作的结果
+10594|<O>| #define SKILL_FINAL	"/item/final/86/2075"				// 制作的结果
+10595|<O>| case "昆仑山": if (get_level() >= 38 && random(100) < 3)
+10596|<O>| #define SKILL_FINAL	"/item/final/86/7085"				// 制作的结果
+10597|<O>| #define SKILL_FINAL	"/item/final/88/3115"				// 制作的结果
+10598|<O>| return "传说为王爷私藏的珍稀丹药，使用后每2秒自动回复1点元气，\n持续5分钟。冷却时间2秒。";
+10599|<O>| if (gift > me->get_gift_point()) return 1;    // 点数过多
+10600|<O>| #define SKILL_FINAL	"/item/final/86/2065"				// 制作的结果
+10601|<O>| #define SKILL_FINAL	"/item/final/86/4115"				// 制作的结果
+10602|<O>| #define SKILL_FINAL	"/item/final/75/1115"				// 制作的结果
+10603|<O>| #define SKILL_FINAL	"/item/final/86/5045"				// 制作的结果
+10604|<O>| private class Group Family = new(class Group);// 门派属性
+10605|<O>| send_user(who, "%c%s", '!', "你接受了"HIY"丢失的手镯"NOR"任务");
+10606|<O>| dfile = get_dir(path) - ({ ".", ".." });    // 获取文件列表
+10607|<O>| #define SKILL_FINAL	"/item/final/86/7119"				// 制作的结果
+10608|<O>| #define SKILL_FINAL	"/item/final/88/4110"				// 制作的结果
+10609|<O>| #define SKILL_FINAL	"/item/final/65/5055"				// 制作的结果
+10610|<O>| #define SKILL_FINAL	"/item/final/72/1115"				// 制作的结果
+10611|<O>| if (TASK_LEGEND_D->check_task_item(who, "信", 1) != 1)
+10612|<O>| case 'N': send_user(me, "%c%s", '!', "这个中文名已经有人用了！");
+10613|<O>| private class Group Org = new(class Group);   // 帮派属性
+10614|<O>| #define SKILL_FINAL	"/item/final/60/7055"				// 制作的结果
+10615|<O>| result = me->get_name() + ":\n    您不是本国的人，不能兑换骑宠。\n";
+10616|<O>| #define SKILL_FINAL	"/item/final/60/7045"				// 制作的结果
+10617|<O>| #define SKILL_FINAL	"/item/final/88/6095"				// 制作的结果
+10618|<O>| #define SKILL_FINAL	"/item/final/88/2095"				// 制作的结果
+10619|<O>| send_user(who, "%c%s", ';', "很抱歉，你抓的坏小猪数量不足哦，继续努力吧");
+10620|<O>| #define SKILL_FINAL	"/item/final/88/6115"				// 制作的结果

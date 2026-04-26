@@ -1,83 +1,83 @@
-﻿15712|<O>| "风神之冠无门派" : "\"/item/final/65/8066\"",
-15713|<O>| return "［强化漫天花雨］提升使用暗器的攻击力，每级提升2点攻击力";
-15714|<O>| if ( rate=who->get("anti_fire") )	//抗火
-15715|<O>| "玉尊项链昆仑山" : "\"/item/final/86/6115\"",
-15716|<O>| //		send_user(who,"%c%s",'!',"做人要厚道");
-15717|<O>| return "能恢复一定的气血，马上恢复2000点气血，冷却时间15秒";
-15718|<O>| "虚冥项链禁卫军" : "\"/item/final/86/3120\"",
-15719|<O>| "恒金项链昆仑山" : "\"/item/final/86/6095\"",
-15720|<O>| "霸王战甲禁卫军" : "\"/item/final/60/3100\"",
-15721|<O>| if (present("贵重物品", me, 1, MAX_CARRY))
-15722|<O>| "龙骨战甲桃花源" : "\"/item/final/60/1119\"",
-15723|<O>| item = new ("/item/32/3282");    // 桔子
-15724|<O>| "金属头盔桃花源" : "\"/item/final/65/1045\"",
-15725|<O>| if (me->get_perform(PF_FLAG))    // 关闭
-15726|<O>| case 3: case 30: file = "禁卫军";  break;
-15727|<O>| "金刚护胫桃花源" : "\"/item/final/88/1065\"",
-15728|<O>| "云龙披甲禁卫军" : "\"/item/final/60/3080\"",
-15729|<O>| ESC "我怎样成为VIP？\ntalk %x# welcome.82\n"
-15730|<O>| send_user(me, "%c%s", '!', "对方在安全区。");
-15731|<O>| cmd = "哇哇哇哇～～明～月～几～时～有，把～酒～问～青～天。哇～～";
-15732|<O>| "银丝长靴桃花源" : "\"/item/final/88/1045\"",
-15733|<O>| string get_name() { return "地狱魔窟7层"; }
-15734|<O>| private static string City;			// 城市的名字
-15735|<O>| ({"药店老板处可以买到","活络丸","细麻衣","木刀","符纸"}),
-15736|<O>| "虚空法袍昆仑山" : "\"/item/final/60/6095\"",
-15737|<O>| "神狱项链云梦泽" : "\"/item/final/86/7075\"",
-15738|<O>| "炽纹战袍云梦泽" : "\"/item/final/60/7100\"",
-15739|<O>| if (!present("钱票", who, 1, MAX_CARRY))
-15740|<O>| "恒金项链桃花源" : "\"/item/final/86/1095\"",
-15741|<O>| "残阳战甲桃花源" : "\"/item/final/60/1110\"",
-15742|<O>| "黄昏项链云梦泽" : "\"/item/final/86/7035\"",
-15743|<O>| return "有美容功效的膏药,马上恢复650点气血，700点法力值。";
-15744|<O>| case "魏国": city2 = "CITY_WEI";  break;
-15745|<O>| send_user(who, "%c%s", '!', "肖柱 1/1");
-15746|<O>| send_user(who, "%c%s", '!', "杜毒 1/1");
-15747|<O>| "追风法冠无门派" : "\"/item/final/65/8046\"",
-15748|<O>| "水纹项链昆仑山" : "\"/item/final/86/6045\"",
-15749|<O>| "龙骨战甲禁卫军" : "\"/item/final/60/3119\"",
-15750|<O>| return "能恢复一定的法力，马上恢复1800点法力，冷却时间15秒";
-15751|<O>| notify("%s不在本队伍当中。", who->get_name());
-15752|<O>| "炎阳项链云梦泽" : "\"/item/final/86/7050\"",
-15753|<O>| "中秋佳节，远远的你吃圆圆的饼看圆圆的月想圆圆的事，不要忘了远方的我！ ",
-15754|<O>| log_file(LIST_LOG, "<!-- 麻将 -->\n\n");
-15755|<O>| send_user(who, "%c%s", '!', "你的等级不够");
-15756|<O>| ESC "士兵。\ntalk " + id + " stir_up.2\n"
-15757|<O>| "衾天战袍云梦泽" : "\"/item/final/60/7120\"",
-15758|<O>| write_user(me, ECHO "这里的鱼已经全部被您捕光了。");
-15759|<O>| void heart_beat_attack() {}    // 禁止战斗
-15760|<O>| ESC "农业。\ntalk " + id + " stir_up.9\n"
-15761|<O>| notify("您手上只有 %d 金。", me->get_cash());
-15762|<O>| "紫焰项链桃花源" : "\"/item/final/86/1060\"",
-15763|<O>| "护命项链禁卫军" : "\"/item/final/86/3025\"",
-15764|<O>| private int iGradeTime;			// 规模提升的结束标志
-15765|<O>| "神行法袍无门派" : "\"/item/final/60/8057\"",
-15766|<O>| "苍穹法袍云梦泽" : "\"/item/final/60/7115\"",
-15767|<O>| SAY_CMD->say(me, "加入我们的行列吧，你会得到永生！！");
-15768|<O>| "乾云战袍云梦泽" : "\"/item/final/60/7110\"",
-15769|<O>| "炎阳项链禁卫军" : "\"/item/final/86/3050\"",
-15770|<O>| "星宿战靴无门派" : "\"/item/final/88/8096\"",
-15771|<O>| "恒金项链云梦泽" : "\"/item/final/86/7095\"",
-15772|<O>| "神威战衣无门派" : "\"/item/final/60/8087\"",
-15773|<O>| //	有几率出的物品:1件80—120级随机部位金色装备（包括武器）:100
-15774|<O>| send_user(me, "%c%s", '!', "尝试次数过多。");
-15775|<O>| "星宿项链无门派" : "\"/item/final/86/8106\"",
-15776|<O>| "无极长袍云梦泽" : "\"/item/final/60/7075\"",
-15777|<O>| "龙吟项链禁卫军" : "\"/item/final/86/3110\"",
-15778|<O>| "定魂项链云梦泽" : "\"/item/final/86/7030\"",
-15779|<O>| "幻影狼行装蜀山" : "\"/item/final/60/2075\"",
-15780|<O>| case "平帽": type = "F_PINGMAO";  break;
-15781|<O>| case "战甲": type = "M_ZHANJIA";  break;
-15782|<O>| printf( ECHO "使用“" PF_NAME "”材料不足。" );
-15783|<O>| printf(ECHO "带着钱票不能使用“" PF_NAME "”。");
-15784|<O>| notify("对方的现金已达上限。");    // 您想交易的金额太大。
-15785|<O>| "混天战盔禁卫军" : "\"/item/final/65/3070\"",
-15786|<O>| "月光项链昆仑山" : "\"/item/final/86/6040\"",
-15787|<O>| send_user(me, "%c%s", '!', "不能捕抓对方。");
-15788|<O>| string get_name() { return "高级磁能波动"; }
-15789|<O>| "琥珀项链云梦泽" : "\"/item/final/86/7055\"",
-15790|<O>| item = new ("/item/bind/08/0004");//小法
-15791|<O>| send_user(who, "%c%s", '!', "展五 1/1");
-15792|<O>| send_user(me, "%c%s", '!', "点卡已经过期！");
-15793|<O>| "追风战盔无门派" : "\"/item/final/65/8047\"",
-15794|<O>| "战将披甲禁卫军" : "\"/item/final/60/3060\"",
+﻿15712|<O>| "PhongThầnChi Quan vôMôn phái" : "\"/item/final/65/8066\"",
+15713|<O>| return "［Cường hóamạnngàyHoa vũ］NângSử dụngÁm KhícủaTấn côngLực，Mỗi cấp tăng2điểm Lực tấn công";
+15714|<O>| if ( rate=who->get("anti_fire") )	//khángHỏa
+15715|<O>| "Ngọc TônHạng LiênCôn Lôn Sơn" : "\"/item/final/86/6115\"",
+15716|<O>| //		send_user(who,"%c%s",'!',"làm Nhâncầnhậu Đạo");
+15717|<O>| return "NăngPhục hồiNhất địnhcủaKhí Huyết，ngay lập tức phục hồi2000điểm Khí Huyết，Thời gian hồi15giây";
+15718|<O>| "hư MinhHạng LiênCấm Vệ Quân" : "\"/item/final/86/3120\"",
+15719|<O>| "HằngVàngHạng LiênCôn Lôn Sơn" : "\"/item/final/86/6095\"",
+15720|<O>| "Bá Vương Chiến GiápCấm Vệ Quân" : "\"/item/final/60/3100\"",
+15721|<O>| if (present("Vật phẩm quý giá", me, 1, MAX_CARRY))
+15722|<O>| "LongCốt Chiến GiápĐào Hoa Nguyên" : "\"/item/final/60/1119\"",
+15723|<O>| item = new ("/item/32/3282");    // cát Tử
+15724|<O>| "VàngthuộcĐầu KhôiĐào Hoa Nguyên" : "\"/item/final/65/1045\"",
+15725|<O>| if (me->get_perform(PF_FLAG))    // Đóng
+15726|<O>| case 3: case 30: file = "Cấm Vệ Quân";  break;
+15727|<O>| "Vàngcương Hộ hĩnhĐào Hoa Nguyên" : "\"/item/final/88/1065\"",
+15728|<O>| "VânLongphi GiápCấm Vệ Quân" : "\"/item/final/60/3080\"",
+15729|<O>| ESC "tôithế nàodạng thành vìVIP？\ntalk %x# welcome.82\n"
+15730|<O>| send_user(me, "%c%s", '!', "đối vớiPhươngTạiAn Toàn khu。");
+15731|<O>| cmd = "oa oa oa oa～～Minh～tháng～mấy～giờ～Có，đem～Tửu～hỏi～Thanh～ngày。oa～～";
+15732|<O>| "BạcTidàiHiaĐào Hoa Nguyên" : "\"/item/final/88/1045\"",
+15733|<O>| string get_name() { return "Địa Ngục Ma Quật7tầng"; }
+15734|<O>| private static string City;			// Thành thịcủaDanh tự
+15735|<O>| ({"Dược điếm Lão bản xửcó thểmuađến","hoạt lạc hoàn","tế ma Y","MộcĐao","Phù Chỉ"}),
+15736|<O>| "hư Không Pháp BàoCôn Lôn Sơn" : "\"/item/final/60/6095\"",
+15737|<O>| "ThầnngụcHạng LiênVân Mộng Trạch" : "\"/item/final/86/7075\"",
+15738|<O>| "sí văn Chiến BàoVân Mộng Trạch" : "\"/item/final/60/7100\"",
+15739|<O>| if (!present("Tiền Phiếu", who, 1, MAX_CARRY))
+15740|<O>| "HằngVàngHạng LiênĐào Hoa Nguyên" : "\"/item/final/86/1095\"",
+15741|<O>| "tàn Dương Chiến GiápĐào Hoa Nguyên" : "\"/item/final/60/1110\"",
+15742|<O>| "Hoàng hônHạng LiênVân Mộng Trạch" : "\"/item/final/86/7035\"",
+15743|<O>| return "CóMỹ dung Công hiệucủacao Dược,ngay lập tức phục hồi650điểm Khí Huyết，700điểm Pháp Lực。";
+15744|<O>| case "Ngụy Quốc": city2 = "CITY_WEI";  break;
+15745|<O>| send_user(who, "%c%s", '!', "Tiêu trụ 1/1");
+15746|<O>| send_user(who, "%c%s", '!', "ĐỗĐộc 1/1");
+15747|<O>| "truyPhongPháp Quan vôMôn phái" : "\"/item/final/65/8046\"",
+15748|<O>| "ThủyvănHạng LiênCôn Lôn Sơn" : "\"/item/final/86/6045\"",
+15749|<O>| "LongCốt Chiến GiápCấm Vệ Quân" : "\"/item/final/60/3119\"",
+15750|<O>| return "NăngPhục hồiNhất địnhcủaPháp Lực，ngay lập tức phục hồi1800điểm Pháp Lực，Thời gian hồi15giây";
+15751|<O>| notify("%skhôngTạiBản đội ngũ đươnggiữa。", who->get_name());
+15752|<O>| "Viêm DươngHạng LiênVân Mộng Trạch" : "\"/item/final/86/7050\"",
+15753|<O>| "giữathu giai tiết，Viễn ViễncủabạnCật viên viêncủabính xem viên viêncủathángmuốn viên viêncủasự，khôngcầnvong Viễn Phươngcủatôi！ ",
+15754|<O>| log_file(LIST_LOG, "<!-- ma Tướng -->\n\n");
+15755|<O>| send_user(who, "%c%s", '!', "bạncủaCấp độkhôngđủ");
+15756|<O>| ESC "Sĩ Binh。\ntalk " + id + " stir_up.2\n"
+15757|<O>| "khâmngàyChiến BàoVân Mộng Trạch" : "\"/item/final/60/7120\"",
+15758|<O>| write_user(me, ECHO "nàytrongcủaNgưđãToàn bộbịBạn bổQuang。");
+15759|<O>| void heart_beat_attack() {}    // Cấm chỉchiến đấu
+15760|<O>| ESC "nông nghiệp。\ntalk " + id + " stir_up.9\n"
+15761|<O>| notify("Bạn ThủtrênchỉCó %d Vàng。", me->get_cash());
+15762|<O>| "Tử DiệmHạng LiênĐào Hoa Nguyên" : "\"/item/final/86/1060\"",
+15763|<O>| "Hộ MệnhHạng LiênCấm Vệ Quân" : "\"/item/final/86/3025\"",
+15764|<O>| private int iGradeTime;			// quy môNângcủaKết thúctiêu Chí
+15765|<O>| "ThầnHành Pháp Bào vôMôn phái" : "\"/item/final/60/8057\"",
+15766|<O>| "thương khung Pháp BàoVân Mộng Trạch" : "\"/item/final/60/7115\"",
+15767|<O>| SAY_CMD->say(me, "Gia NhậptôicủaHành liệt ，bạnsẽnhận đượcVĩnh sinh！！");
+15768|<O>| "càn Vân Chiến BàoVân Mộng Trạch" : "\"/item/final/60/7110\"",
+15769|<O>| "Viêm DươngHạng LiênCấm Vệ Quân" : "\"/item/final/86/3050\"",
+15770|<O>| "Tinh túc Chiến Hia vôMôn phái" : "\"/item/final/88/8096\"",
+15771|<O>| "HằngVàngHạng LiênVân Mộng Trạch" : "\"/item/final/86/7095\"",
+15772|<O>| "ThầnUy Chiến Y vôMôn phái" : "\"/item/final/60/8087\"",
+15773|<O>| //	Cómấy suất XuấtcủaVật Phẩm:1kiện80—120cấpNgẫu nhiênbộ vịVàngSắcTrang bị（bao quátVũ khí）:100
+15774|<O>| send_user(me, "%c%s", '!', "thường thửlầnsố quanhiều。");
+15775|<O>| "Tinh túcHạng LiênvôMôn phái" : "\"/item/final/86/8106\"",
+15776|<O>| "vô CựcdàiBàoVân Mộng Trạch" : "\"/item/final/60/7075\"",
+15777|<O>| "LongNgâmHạng LiênCấm Vệ Quân" : "\"/item/final/86/3110\"",
+15778|<O>| "định HồnHạng LiênVân Mộng Trạch" : "\"/item/final/86/7030\"",
+15779|<O>| "Huyễn ẢnhLangHành trangThục Sơn" : "\"/item/final/60/2075\"",
+15780|<O>| case "bình Mạo": type = "F_PINGMAO";  break;
+15781|<O>| case "Chiến Giáp": type = "M_ZHANJIA";  break;
+15782|<O>| printf( ECHO "Sử dụng“" PF_NAME "”tài liệukhôngtúc。" );
+15783|<O>| printf(ECHO "Đái Tiền PhiếuKhông thể sử dụng“" PF_NAME "”。");
+15784|<O>| notify("đối vớiPhươngcủahiệnVàngđã đạttrênhạn。");    // Bạn muốngiao dịchcủaVàngngạch Tháilớn。
+15785|<O>| "hỗnngàyChiến khôiCấm Vệ Quân" : "\"/item/final/65/3070\"",
+15786|<O>| "thángQuangHạng LiênCôn Lôn Sơn" : "\"/item/final/86/6040\"",
+15787|<O>| send_user(me, "%c%s", '!', "không thểbổ trảođối vớiPhương。");
+15788|<O>| string get_name() { return "caocấptừ Năng Ba Động"; }
+15789|<O>| "Hổ pháchHạng LiênVân Mộng Trạch" : "\"/item/final/86/7055\"",
+15790|<O>| item = new ("/item/bind/08/0004");//nhỏPháp
+15791|<O>| send_user(who, "%c%s", '!', "triển Ngũ 1/1");
+15792|<O>| send_user(me, "%c%s", '!', "điểmthẻđãqua kỳ！");
+15793|<O>| "truyPhongChiến khôi vôMôn phái" : "\"/item/final/65/8047\"",
+15794|<O>| "Chiến Tướng phi GiápCấm Vệ Quân" : "\"/item/final/60/3060\"",

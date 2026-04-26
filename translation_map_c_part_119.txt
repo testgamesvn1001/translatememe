@@ -26,4 +26,4 @@
 2265|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Mỗi ngày chỉ có thể nhận nhiệm vụ này 5 lần, số lượng nhiệm vụ hôm nay của bạn đã đạt giới hạn rồi。\n"ESC"Rời khỏi", me->get_name(), ));
 2266|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Chi chi gù~ (Đói quá)\n    Gù chi chi! (Thức ăn đâu rồi?)\n"ESC"Rời khỏi", me->get_name(), ));
 2267|<O>| send_user(player,"%c%c%w%s",':',3,npc->get_char_picid(),sprintf("%s:\n    Rất xin lỗi, số lượng bánh Trung thu của bạn dường như không đủ, mau chóng đi thu thập thêm đi, hì hì!\n"ESC"Xác nhận",npc->get_name()));
-2268|<O>| rate += me->get_hit_rate_2() - who->get_dodge_rate_2() - who->get_2("suit_effect.dodge");    // 附加命中－附加闪避＋特殊技附加命中    // + hit_rate
+2268|<O>| rate += me->get_hit_rate_2() - who->get_dodge_rate_2() - who->get_2("suit_effect.dodge");    // Phụ gia mệnh trúng - Phụ gia thiểm tỵ + Đặc thù kỹ phụ gia mệnh trúng    // + hit_rate

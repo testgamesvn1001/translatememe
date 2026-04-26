@@ -1,0 +1,71 @@
+﻿12351|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"灵谷洞之旅");
+12352|<O>| notify("您把 %d 金存入%s处。", gold, who->get_name());
+12353|<O>| return "［经络学说］使修行者对人体经脉有更加深刻的了解。每级增加5点气血上限。\n";
+12354|<O>| private static int Gender;              // 性别标志
+12355|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"去燕的盘缠");
+12356|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"炼药之路2");
+12357|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"游魂（5）");
+12358|<O>| send_user(player, "%c%s", ';', "您获得 50000 金。");
+12359|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"源起于食物");
+12360|<O>| private string MasterName;              // 城主姓名
+12361|<O>| send_user(who, "%c%s", '!', name4 + "没有入侵贵国！");
+12362|<O>| #define MAX_COMBINED    30              // 叠加上限
+12363|<O>| return "［强化奇门遁甲］提升物理防御力，每级提升2点；提升法术防御力，每级提升2点";
+12364|<O>| private int PicId;                      // 人物造型
+12365|<O>| //			send_user(who, "%c%s", ';', "您领取了一个双鱼宠物");
+12366|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"游魂（2）");
+12367|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"最后的考验");
+12368|<O>| private int Tax2;                       // 其它收入
+12369|<O>| private static int Level2 = 0;          // 训练等级
+12370|<O>| write_user(me, ECHO "您挖出了一些值钱的东西！您得到 1000 金。");
+12371|<O>| private int Amount;                     // 道具个数
+12372|<O>| private static int Action;              // 人物动作
+12373|<O>| private int NoFly = 0;                  // 禁止瞬移
+12374|<O>| _DEBUG(sprintf("DEBUG_f -- 获取数字参数%d", number));
+12375|<O>| send_user(me, "%c%s", '!', "对方接受极限穿越任务，不能传送。");
+12376|<O>| TEACHER_D->add_shifu_exp(me, sub_exp);	//奖励师傅经验
+12377|<O>| #define MAX_STRENGTH    200             // 最大体力
+12378|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"遗忘的佩剑");
+12379|<O>| send_user(who, "%c%s", '!', "发布建设任务要 50 点体力。");
+12380|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"欺诈的天罚");
+12381|<O>| //case "禁卫军" : if( get_weapon_code() == SPEAR )
+12382|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"乐师的无奈");
+12383|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"求医（5）");
+12384|<O>| int    Time;                            // 加入时间
+12385|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"失窃的库银");
+12386|<O>| string Master;                          // 师父姓名
+12387|<O>| private static int XX, YY;              // 旧的坐标
+12388|<O>| int get_cast_seal() { return 9102; }    // 符纸顺旋
+12389|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"炼药之路3");
+12390|<O>| private int PicId1;                     // 地表外型
+12391|<O>| private int HP = 300;                   // 当前气血
+12392|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"御史的担心");
+12393|<O>| send_user(who, "%c%s", '!', "你需一周后重新确定自杀的决定。");
+12394|<O>| private static int SellRate;            // 卖出指数
+12395|<O>| send_user(me, "%c%s", '!', "您身上藏宝图残片不全，无法合并。");
+12396|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"狂妄的匪徒");
+12397|<O>| item = present("收妖壶", team[i], 1, MAX_CARRY*4);
+12398|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"朋友的帮助");
+12399|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"叛乱的苦役");
+12400|<O>| poison += me->get_2("suit_effect.poison");	//套装
+12401|<O>| private string Name;                    // 中文名字
+12402|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"英雄的磨练");
+12403|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"裁缝的梦想");
+12404|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"古墓里的玉");
+12405|<O>| set_name("恶霸" + NPC_NAME_D->get_robber_name());
+12406|<O>| printf( ECHO "使用“" PF_NAME "”需要 %d 点法力。", mp );
+12407|<O>| private int BuyIn;                      // 买入价格
+12408|<O>| return "一种无敌神气的绣花针，聚集了天地灵气，设置满帮派的人气，安定，金钱，储备。";
+12409|<O>| private int HP = 900;                   // 当前气血
+12410|<O>| mapping ItemList = ([    // 以下列表由 makelist.c 生成
+12411|<O>| private static int BuyPrice;            // 买入基价
+12412|<O>| "sys/copy/mirror"->drop_shenqi(me, who);	//神器材料
+12413|<O>| private int IdNumber;                   // 数字标识
+12414|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"百姓的嘱托");
+12415|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"攻破天门阵");
+12416|<O>| set_name("混混" + NPC_NAME_D->get_rascal_name());
+12417|<O>| case "禁卫军" : if( flag != 3 ) flag = -1;  break;
+12418|<O>| private static int grade;               // 帮派等级
+12419|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"平阳之乱4");
+12420|<O>| private static int Type;                // 人物类别
+12421|<O>| else if (map->get_manager_2() == mgr)    // 防守方

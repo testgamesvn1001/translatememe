@@ -1,0 +1,73 @@
+﻿13139|<O>| private int Education;                  // 教育
+13140|<O>| private int GiftCX;                     // 诚信
+13141|<O>| if (host_type == 2 || host_type == 4)	//台湾&猫扑
+13142|<O>| TASK_LEGEND_D->remove_task_item(who, "翡翠珠串");
+13143|<O>| add_max_hp(get_max_hp() * 4000 / 100);	//最大气血
+13144|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"行路难");
+13145|<O>| //	召唤兽 -- 上限为 5 个 此函数参见 npc/task/8210.c 中同名函数
+13146|<O>| tell_user(me, who->get_name() + "VIP频道已打开。");
+13147|<O>| + sprintf(ESC"检查国庆节活动之——西瓜伯伯状态\nparty 148\n")
+13148|<O>| TASK_LEGEND_D->remove_task_item(who, "户籍信件");
+13149|<O>| if (rate < 500 * rate1 / 100)	//100级的随机门派金色装备
+13150|<O>| send_user(me, "%c%s", '!', "带着贵重物品不能使用回门符。");
+13151|<O>| case 2: write_user(me, ECHO "你占得讼卦，惕中吉，终凶。");
+13152|<O>| 功能:这里提供一种对时间的灵活掌握方式，能够使用户通过思维逻辑直接与代码进行时钟定时的交互
+13153|<O>| result += ESC + HIY + "请解除我的双倍经验冻结\n" + cmd7;
+13154|<O>| tell_user(me, "当前加密方法:%d", get_crypt_code());
+13155|<O>| ESC"离开", get_name(), getoid(this_object())));
+13156|<O>| private int Food;                       // 粮草
+13157|<O>| string get_equip_string() { return "［可装备］"; }
+13158|<O>| tell_user(me, sprintf("%s .. 禁止覆盖\n", file));
+13159|<O>| return "一种奇异的红色晶石，使用后每2秒可恢复40点气血值。效果持续60分钟。";
+13160|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"偷鸡贼");
+13161|<O>| "月缺时我想你，月圆时我念你，无论月圆月缺，我的心如那恒古不变的月亮默默追随着祝福你。",
+13162|<O>| who->set("02614", -sub_effect);    // 小心准备 me
+13163|<O>| case "楚": case "06": city = CITY_CHU;  break;
+13164|<O>| else if (rand < 7000)//item/final/15/1502初级物攻
+13165|<O>| pet->set("anti_slow",1);	//抗 EFFECT_CHAR_SLOW
+13166|<O>| "    "HIR" 蜀山 "NOR"的装备可以在"HIR" 燕国 "NOR"购买；\n"
+13167|<O>| send_user(who, "%c%s", '!', "管理频道要 10 点体力。");
+13168|<O>| int get_char_picid() { return 0; }    // 需要重载
+13169|<O>| SAY_CMD->say(me, "愚蠢的人类！你们必须为激怒本王而付出相应的代价！");
+13170|<O>| send_user(who, "%c%s", '!', "您输入的金额必须是正整数。");
+13171|<O>| private int Cash;                       // 现金
+13172|<O>| cWord = HIR"弯道"NOR"危险，"HIR"70"NOR"级以下闲人勿进！！";
+13173|<O>| notify("%s频道将于 %d 分钟后开启。", city, t / 60 + 1);
+13174|<O>| notify("您想交易的 %s 数量不对。", obj[i]->get_name());
+13175|<O>| ESC "去昆仑山。\n" + sprintf("talk %x# 6\n", id) +
+13176|<O>| return HIC+get_name()+"\n拥有此技能的宠物，不会陷入昏迷状态。";
+13177|<O>| send_user(who, "%c%s", '!', HIY"机关密图中部 1/1");
+13178|<O>| return HIC+get_name()+"\n拥有此技能的宠物，不会陷入中毒状态。";
+13179|<O>| send_user(me, "%c%s", '!', "疲劳游戏时间禁止使用藏宝图。");
+13180|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"雄黄酒");
+13181|<O>| desc = "以优质小麦、精选糯米、高梁酿制而成，14秒内恢复玩家2590点法力值。";
+13182|<O>| send_user(who, "%c%s", '!', "您身上没有忘情婆婆要的头钗");
+13183|<O>| private int Potential;                  // 潜能
+13184|<O>| sprintf("%s:\n    欢迎欢迎～～你就是百合提到的新朋友吧？名字叫……\n"
+13185|<O>| add_max_hp(get_max_hp() * 2000 / 100);	//最大气血
+13186|<O>| //		send_user(who, "%c%s", '!', "副本系统尚未开放！");
+13187|<O>| return HIC+get_name()+"\n拥有此技能的宠物，不会陷入延缓状态。";
+13188|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"运箱子");
+13189|<O>| cx = 5;  me->add_gift_cx(cx);    // 所得属性、金钱减半
+13190|<O>| if (rate < 3000 * rate1 / 100)	//80级的随机门派金色装备
+13191|<O>| ESC"100次任务兑换“暗黑圣斗士”称号\ntalk %x# bonus.1100\n"
+13192|<O>| printf(ECHO "您加入了%s。", who->get_city_name());
+13193|<O>| return HIC+get_name()+"\n拥有此技能的宠物，不会陷入负伤状态。";
+13194|<O>| me->set_gender(who->get_gender());    // 更改性别
+13195|<O>| "    "HIR" 周国 "NOR"有"HIR" 禁卫军 "NOR"武器的专门店；\n"
+13196|<O>| send_user(who, "%c%s", '!', "扩展济世葫芦需要济世宝玉！");
+13197|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"百步仙");
+13198|<O>| else if (rate < 9100 * rate1 / 100)	//1级晶石16个
+13199|<O>| //			+ sprintf(ESC"中秋节活动操作(测试)\nparty 138\n")
+13200|<O>| switch (me->get_weapon_code())    // 自动反击(完成)
+13201|<O>| return  color + "土制炸弹，对目标3X3范围内的敌对方造成200点伤害";
+13202|<O>| if (check_item_amount(who, "装着坏小猪的神奇葫芦") < 2)
+13203|<O>| send_user(me, "%c%s", '!', "您成功获得了无敌宝宝包的奖励");
+13204|<O>| else if (p < 4600 * rate / 100)    // 欧治宝石 %1
+13205|<O>| if (rate < 3000 * rate1 / 100)	//60级的随机门派金色装备
+13206|<O>| private int Commercial;                 // 商业
+13207|<O>| result = result + sprintf(HIR"%d潜能", amount);
+13208|<O>| case "韩": case "02": city = CITY_HAN;  break;
+13209|<O>| SAY_CMD->say(me, who->get_name() + "，受死吧！！");
+13210|<O>| return HIC+get_name()+"\n拥有此技能的宠物，不会陷入失明状态。";
+13211|<O>| "    "HIR" 蜀山 "NOR"的武器可以在"HIR" 燕国 "NOR"购买；\n"
