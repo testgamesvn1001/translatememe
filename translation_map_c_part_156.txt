@@ -8,7 +8,7 @@
 3519|<O>| prop += ({ sprintf("Công kích:%+d %+d%%", who->get_temp_ap("mascot"), who->get_temp_ap("ap10%")) });
 3520|<O>| result = sprintf("［Nhiệm vụ xây dựng］\n"BLK"còn %d phút\n" BLK "Tới " HIR "%s(%d,%d)" BLK " dạy dỗ " HIR "%s" BLK "。\n",
 3521|<O>| prop += ({ sprintf("Phòng pháp:%+d %+d%%", who->get_temp_pp("mascot"), who->get_temp_pp("pp12%")) });
-3522|<O>| ret += sprintf("%sTiếng萌\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"声萌"))?PPM:WHT);
+3522|<O>| ret += sprintf("%sTiếng Manh\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Thanh Manh"))?PPM:WHT);
 3523|<O>| prop += ({ sprintf("Phòng ngự:%+d %+d%%", who->get_temp_dp("mascot"), who->get_temp_dp("dp12%")) });
 3524|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng:28 cấp\n    Ném ngọn trường thương trong tay để giết một mục tiêu trong tầm nhìn, cộng thêm 80 điểm công vật lý, đồng thời khi tấn công khiến mục tiêu bị choáng 2 giây。";
 3525|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), "Bác sĩ thú cưng:\n    Số lượng ký gửi đã đạt giới hạn！\n"ESC"Rời khỏi", );

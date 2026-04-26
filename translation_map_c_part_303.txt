@@ -1,67 +1,67 @@
-﻿11529|<O>| p_str += ({ FINAL_D->file_final("蜀山",-1,24,44) });
-11530|<O>| SAY_CMD->say(me, "你们看起来不像是这里的工人，外人胆敢闯进陵墓！来人抓起来！");
-11531|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"木箱的秘密（1）");
-11532|<O>| move_to_user(player, 1, "item/91/9101",npc);//活络丸。
-11533|<O>| sprintf(ESC"12点兑换藏宝图\ntalk %x# exchange.1\n",id) +
-11534|<O>| return HIR + PF_NAME + "\n    基本枪法攻击技，可提升30点攻击力。";
-11535|<O>| int perform_done(object me, object who)    // 有目标时
-11536|<O>| private  int ArmorColor2;         // 衣着颜色(色码４，色码３)
-11537|<O>| send_user(who, "%c%s", '!', "得到"HIR"巧克力豆"NOR"一些");
-11538|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 8, "雷龙诀施放中……");
-11539|<O>| return "［基本棍法］入门棍法，能增加持棍时候的作战能力。每级提升1点棍的物理攻击力。\n";
-11540|<O>| move_to_user(player, 1, "item/91/9112",npc);//补心丹。
-11541|<O>| MAP_D->add_to_void(who);    // 移入 VOID 场景  // 新手村！
-11542|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"头疼的毛病（1）");
-11543|<O>| return "有法力的镜子，将镜子放置到要鉴定的装备处即可。\n可以鉴定40级以下的所有装备。";
-11544|<O>| if (mapp(mpTmp) && objectp(mpTmp["item"]))	//是否被领取
-11545|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"木箱的秘密（3）");
-11546|<O>| string get_suit_name() { return "女王套装"; }	//属于某某套装
-11547|<O>| string get_suit_name() { return "御妹套装"; }	//属于某某套装
-11548|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"木箱的秘密（4）");
-11549|<O>| // private int Poison;                     // 毒药毒性
-11550|<O>| && sizeof(arg) > 1) arg = arg[0..0];    // 隐身，移动变慢
-11551|<O>| return "有法力的镜子，将镜子放置到要鉴定的装备处即可。\n可以鉴定60级以下的所有装备。";
-11552|<O>| case "茅山" : if( type != SWORD ) flag = -1;  break;
-11553|<O>| log_file("zhongqiu.txt",short_time() + " 放月饼\n" );
-11554|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"访问生活技能师傅");
-11555|<O>| //                        ESC "保释狱中玩家。\n" + cmd2 +
-11556|<O>| private mapping Skills_1 = ([]);       // 技能等级(一转)
-11557|<O>| send_user(who, "%c%s", ';', "每个人每天只有50次使用锦囊的机会。");
-11558|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"无上的荣耀（1）");
-11559|<O>| && !owner->get_quest("escort.robber#")    // 还有蒙面人
-11560|<O>| send_user(who, "%c%c%c", 0x3d, 242, 1);    // 鼠标失控
-11561|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"夫人的怪病（2）");
-11562|<O>| #define MAX_TIMES       50               // 每秒命令限制
-11563|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"无奈的求助（2）");
-11564|<O>| + ESC"离开", me->get_name(), id, id, id, id, id, ));
-11565|<O>| owner->add_quest("escort.random", 1);    // 记录随机事件
-11566|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"祖父的遗产（4）");
-11567|<O>| tell_user(me, "你将" + who->get_name() + "请离活动地图。");
-11568|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"祖父的遗产（1）");
-11569|<O>| set_save_2(sprintf("player.%d.pos",id),pos);//记录名次
-11570|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"无奈的求助（3）");
-11571|<O>| if (gone_time(pet->get_time("pf")) < 1)    // 时间限制
-11572|<O>| write_user(me, ECHO "您充值了%d个元宝。", to_int(result));
-11573|<O>| ESC "离开\nCLOSE\n", npc->get_name(), getoid(npc)));
-11574|<O>| if (flag == 3 || flag == 5) value *= 8;    // 特殊修理
-11575|<O>| if (gone_time(me->get_time("use")) < 1)    // 时间限制
-11576|<O>| if ( inv[i]->is_combined() )//如果可以叠加的话，那么就增加叠加的数量。
-11577|<O>| return "［玄学正道］提升法力上限，每级提升 4 点；提升法术防御力，每级提升 2 点\n";
-11578|<O>| return "［基本剑法］入门剑法，能增加持剑时候的作战能力。每级提升1点剑的法术攻击力。\n";
-11579|<O>| if (!me->is_scholar())    // 再次确认，防换职业 level 的 BUG
-11580|<O>| send_user(me, "%c%s", ':', "您已经领取了骑宠，赶紧骑上去秀一秀吧！");
-11581|<O>| #define SEAL_SIZE       1               // (3×3)阵法
-11582|<O>| DEBUG(sprintf("测试向右转-->size=%d pos=%d",size,pos));
-11583|<O>| else switch (me->get_weapon_code())    // 普通攻击(完成)
-11584|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"头疼的毛病（3）");
-11585|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"热心的建议（3）");
-11586|<O>| damage += me->get("add_damage");		// 做一个临时增加攻击力的变量
-11587|<O>| return "［" PF_NAME "］\n追查新手村、荒郊、野外一带出现使命物品的方位。\n";
-11588|<O>| return sprintf("［" PF_NAME "］反召唤已召唤生物。%s%d 级可用\n",
-11589|<O>| result = sprintf("%s:\n    不知道去哪里买称心的装备？我告诉你好了。\n"
-11590|<O>| result2 = sprintf("原等级 %d", who->get_skill(type));
-11591|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"大孤山脚里的哭声");
-11592|<O>| if ((npc = me->get_quest("escort.npc"))    // 运镖人物
-11593|<O>| result = me->get_name() + ":\n    您给予的晶石不符合条件。\n";
-11594|<O>| item = new (sprintf("/item/mop/800%d", flag));//礼包
-11595|<O>| send_user(me, "%c%d%s", 0x39, y, "该玩家身上找不到这个道具。");
+﻿11529|<O>| p_str += ({ FINAL_D->file_final("Thục Sơn",-1,24,44) });
+11530|<O>| SAY_CMD->say(me, "bạnxem Khởi đếnkhôngtượngLànàytrongcủacông Nhân，ngoàiNhân đảm dám sấm tiến Lăng Mộ！đến Nhân trảo Khởi đến！");
+11531|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"MộcrươngcủaBí Mật（1）");
+11532|<O>| move_to_user(player, 1, "item/91/9101",npc);//hoạt lạc hoàn。
+11533|<O>| sprintf(ESC"12điểmđổi hoánTàng Bảo Đồ\ntalk %x# exchange.1\n",id) +
+11534|<O>| return HIR + PF_NAME + "\n    Cơ bảnThương PhápTấn côngkỹ，Có thể nâng30điểm Lực tấn công。";
+11535|<O>| int perform_done(object me, object who)    // Cómục tiêugiờ
+11536|<O>| private  int ArmorColor2;         // Y  nhan Sắc(Mã màu４，Mã màu３)
+11537|<O>| send_user(who, "%c%s", '!', "nhận được"HIR"Xảo Khắc Lực đậu"NOR"một số");
+11538|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 8, "LôiLongQuyết thi Phónggiữa……");
+11539|<O>| return "［Cơ bảnCôn Pháp］Nhập Môn Côn Pháp，NăngTăngtrì Cônlúccủatác Chiến Năng Lực。Mỗi cấp tăng1điểmCôncủaLực tấn công vật lý。\n";
+11540|<O>| move_to_user(player, 1, "item/91/9112",npc);//bổ Tâm Đơn。
+11541|<O>| MAP_D->add_to_void(who);    // Di Nhập VOID trường cảnh  // Tân Thủ Thôn！
+11542|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"chứng bệnh đau đầu（1）");
+11543|<O>| return "CóPháp LựccủaKính Tử，Tướng Kính Tử Phóng tríđếncầngiám địnhcủaTrang bịxử tức có thể。\ncó thểgiám định40cấpDĩdướicủatất cảTrang bị。";
+11544|<O>| if (mapp(mpTmp) && objectp(mpTmp["item"]))	//Làphủbịlĩnh thủ
+11545|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"MộcrươngcủaBí Mật（3）");
+11546|<O>| string get_suit_name() { return "NữVương bộ trang"; }	//Thuộc bộ trang bị nào đó
+11547|<O>| string get_suit_name() { return "Ngự Muội bộ trang"; }	//Thuộc bộ trang bị nào đó
+11548|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"MộcrươngcủaBí Mật（4）");
+11549|<O>| // private int Poison;                     // ĐộcDượcĐộctính
+11550|<O>| && sizeof(arg) > 1) arg = arg[0..0];    // Ẩn Thân，Di Động biếnchậm
+11551|<O>| return "CóPháp LựccủaKính Tử，Tướng Kính Tử Phóng tríđếncầngiám địnhcủaTrang bịxử tức có thể。\ncó thểgiám định60cấpDĩdướicủatất cảTrang bị。";
+11552|<O>| case "Mao Sơn" : if( type != SWORD ) flag = -1;  break;
+11553|<O>| log_file("zhongqiu.txt",short_time() + " Phóngthángbính\n" );
+11554|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"phỏng hỏi sinh hoạtKỹ năngSư Phó");
+11555|<O>| //                        ESC "bảo thích ngụcgiữaNgười chơi。\n" + cmd2 +
+11556|<O>| private mapping Skills_1 = ([]);       // Kỹ năngCấp độ(Nhất chuyển)
+11557|<O>| send_user(who, "%c%s", ';', "mỗiNhânmỗingàychỉCó50lầnSử dụngcẩm nangcủacơsẽ。");
+11558|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"vôtrêncủavinh diệu（1）");
+11559|<O>| && !owner->get_quest("escort.robber#")    // cònCóMông Diện Nhân
+11560|<O>| send_user(who, "%c%c%c", 0x3d, 242, 1);    // thử tiêu thất khống
+11561|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Phu Nhâncủaquái bệnh（2）");
+11562|<O>| #define MAX_TIMES       50               // mỗigiâyMệnh Lệnh hạn chế
+11563|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"vô nạicủacầu Trợ（2）");
+11564|<O>| + ESC"Rời khỏi", me->get_name(), id, id, id, id, id, ));
+11565|<O>| owner->add_quest("escort.random", 1);    // ký lụcNgẫu nhiênsựkiện
+11566|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"tổ PhụcủaDi sản（4）");
+11567|<O>| tell_user(me, "Bạn sẽ" + who->get_name() + "Xin lyhoạt độngbản đồ。");
+11568|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"tổ PhụcủaDi sản（1）");
+11569|<O>| set_save_2(sprintf("player.%d.pos",id),pos);//ký lục Danhlần
+11570|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"vô nạicủacầu Trợ（3）");
+11571|<O>| if (gone_time(pet->get_time("pf")) < 1)    // Giới hạn thời gian
+11572|<O>| write_user(me, ECHO "Bạn sung Trị%dNguyên Bảo。", to_int(result));
+11573|<O>| ESC "Rời khỏi\nCLOSE\n", npc->get_name(), getoid(npc)));
+11574|<O>| if (flag == 3 || flag == 5) value *= 8;    // đặc thù Tu lý
+11575|<O>| if (gone_time(me->get_time("use")) < 1)    // Giới hạn thời gian
+11576|<O>| if ( inv[i]->is_combined() )//Nếucó thểđiệp Giacủathoại，đóyêuliềnTăngđiệp Giacủasố lượng。
+11577|<O>| return "［Huyền Học chính Đạo］NângPháp Lựctrênhạn，Mỗi cấp tăng 4 điểm；Nâng Lực phòng thủ phép thuật，Mỗi cấp tăng 2 điểm\n";
+11578|<O>| return "［Cơ bảnKiếm Pháp］Nhập Môn Kiếm Pháp，NăngTăngtrì Kiếmlúccủatác Chiến Năng Lực。Mỗi cấp tăng1điểmKiếmcủaLực tấn công phép thuật。\n";
+11579|<O>| if (!me->is_scholar())    // lạilầnxác nhận，phòng hoán chức nghiệp level của BUG
+11580|<O>| send_user(me, "%c%s", ':', "Bạnđãlĩnh thủ Kỵ sủng，cản khẩn Kỵtrênđi tú Nhất tú ！");
+11581|<O>| #define SEAL_SIZE       1               // (3×3)Trận Pháp
+11582|<O>| DEBUG(sprintf("Kiểm trahướngphảichuyển-->size=%d pos=%d",size,pos));
+11583|<O>| else switch (me->get_weapon_code())    // phổ thôngTấn công(Hoàn thành)
+11584|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"chứng bệnh đau đầu（3）");
+11585|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"nhiệt Tâmcủakiến nghị（3）");
+11586|<O>| damage += me->get("add_damage");		// làm Nhất lâmgiờTăngTấn côngLựccủabiến lượng
+11587|<O>| return "［" PF_NAME "］\ntruy traTân Thủ Thôn、hoang giao、dãngoàiNhất Đái Xuất hiện sử Mệnh Vật PhẩmcủaPhương vị。\n";
+11588|<O>| return sprintf("［" PF_NAME "］phảnTriệu hồiđãTriệu hồisinh Vật。%s%d cấpcó thể dùng\n",
+11589|<O>| result = sprintf("%s:\n    không biếtđinàotrongmua xưng TâmcủaTrang bị？tôicáo tốXin chào。\n"
+11590|<O>| result2 = sprintf("nguyênCấp độ %d", who->get_skill(type));
+11591|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"lớncô Sơn cướctrongcủakhốc Thanh");
+11592|<O>| if ((npc = me->get_quest("escort.npc"))    // vận tiêu Nhân Vật
+11593|<O>| result = me->get_name() + ":\n    Bạnchodưcủatinh ThạchkhôngPhù Hợp điềukiện。\n";
+11594|<O>| item = new (sprintf("/item/mop/800%d", flag));//lễ bao
+11595|<O>| send_user(me, "%c%d%s", 0x39, y, "nênNgười chơiThântrênKhông tìm thấynàyĐạo cụ。");

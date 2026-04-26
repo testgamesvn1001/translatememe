@@ -22,7 +22,7 @@
 6238|<O>| send_user(who, "%c%s", '!', sprintf("%s từ chối đơn xin lập đoàn của bạn", me->get_name()));
 6239|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 31, "Kẻ phản quốc");
 6240|<O>| CHAT_D->sys_channel(0, HIY"Nghe nói phi tặc cướp bảo đã bị người chơi chính nghĩa "+who->get_name()+" tiêu diệt。" );
-6241|<O>| map->set_2("qin_score", map->get_2("totalscore.秦国") * 10000 / 2050);
+6241|<O>| map->set_2("qin_score", map->get_2("totalscore.TầnQuốc") * 10000 / 2050);
 6242|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_QIGUO, 11, "Quân cờ đen bị mất");
 6243|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 29, "Lời nhắn của phu khuân vác");
 6244|<O>| send_user(who, "%c%s", ';', "Giải trừ kỳ sự Kinh nghiệm 78000 Tiềm năng 1100 Tiền 68000 Lục Thần Đan 2");

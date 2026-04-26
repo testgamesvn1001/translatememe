@@ -12,7 +12,7 @@
 6069|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 21\n    Trong 9 giây tăng 30 điểm công vật lý và 60 điểm phòng ngự vật lý cho bản thân。";
 6070|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_YEWAI, 2, "Ong mật nhỏ đốt người lung tung");
 6071|<O>| if (get_login_flag() != 3) set_invisible(me, 1);    // Chuẩn bị chưa sẵn sàng, NPC không tấn công
-6072|<O>| case "赵国": cmd1 = sprintf("talk %x# relation.?.%d.1\n", id, number);
+6072|<O>| case "TriệuQuốc": cmd1 = sprintf("talk %x# relation.?.%d.1\n", id, number);
 6073|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 82, "Bẩm báo Triệu vương");
 6074|<O>| send_user(who, "%c%s", '!', sprintf("Muốn báo danh lại phải đợi %d giây。", 180 - sec));
 6075|<O>| send_user(who, "%c%s", '!', sprintf("%s từ chối đơn xin tổ đội của bạn", me->get_name()));
@@ -42,10 +42,10 @@
 6099|<O>| ESC"Rời khỏi", id, id, id, id, id, id, id, id, id, id, id, id, id, id, ));
 6100|<O>| send_user( who, "%c%c%c%w%w%s", 0x51, 2, 2,TID_NEWBIE_01,21,"Bách Bộ Tiên" );
 6101|<O>| if (get_effect(who, EFFECT_CHAR_HALFGOD)) return 2;    // Đang ở trạng thái thần đả thì không thành công
-6102|<O>| case "秦国": cmd1 = sprintf("talk %x# relation.?.%d.1\n", id, number);
-6103|<O>| case "魏国": cmd1 = sprintf("talk %x# relation.?.%d.1\n", id, number);
+6102|<O>| case "TầnQuốc": cmd1 = sprintf("talk %x# relation.?.%d.1\n", id, number);
+6103|<O>| case "NgụyQuốc": cmd1 = sprintf("talk %x# relation.?.%d.1\n", id, number);
 6104|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_ZHAOGUO, 46, "Tiến sâu vào mục trường");
-6105|<O>| case "燕国": cmd1 = sprintf("talk %x# relation.?.%d.1\n", id, number);
+6105|<O>| case "YênQuốc": cmd1 = sprintf("talk %x# relation.?.%d.1\n", id, number);
 6106|<O>| send_user(who, "%c%c%s", 0x59, 1, sprintf("%s cấp %d của %s mời bạn gia nhập đội, bạn có đồng ý không？\n"
 6107|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 2, 2, TID_MAOSHAN, 4, "Du hồn（5）");
 6108|<O>| FAMILY_D->family_channel(name, 0, sprintf(HIY "%s(%d) quyết định rời khỏi môn hạ “%s”！！！",

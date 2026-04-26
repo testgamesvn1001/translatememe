@@ -1,58 +1,58 @@
-﻿8200|<O>| /*              else if( p < 2689 * rate / 100 )    // 武器(基本)
-8201|<O>| /*              else if( p < 4700 * rate / 100 )    // 武器(门派)
-8202|<O>| /*              else if( p < 2890 * rate / 100 )    // 防具(基本)
-8203|<O>| if (get_block(z0, x, y) & IS_CHAR_BLOCK) return 1;    // 无法落脚
-8204|<O>| /*              else if( p < 2754 * rate / 100 )    // 武器(门派)
-8205|<O>| send_user(who, "%c%s", ';', "崔大官人的请柬 经验 1200 潜能 60 金钱 1200");
-8206|<O>| /*              else if( p < 2783 * rate / 100 )    // 武器(门派)
-8207|<O>| write_user(who, ECHO "您把钱票交给%s，%s税收 %+d，您的国家贡献 %+d, 金钱 %+d。",
-8208|<O>| /*              else if( p < 7225 * rate / 100 )    // 防具(基本)
-8209|<O>| /*              else if( p < 4508 * rate / 100 )    // 武器(基本)
-8210|<O>| send_user(who, "%c%s", ';', "千年红木 经验 12500 潜能 340 金钱 10500");
-8211|<O>| /*              else if( p < 6475 * rate / 100 )    // 武器(基本)
-8212|<O>| /*              else if( p < 4564 * rate / 100 )    // 防具(基本)
-8213|<O>| send_user(who, "%c%s", ';', "临危不惧 经验 80000 潜能 955 金钱 68000");
-8214|<O>| /*              else if( p < 5360 * rate / 100 )    // 防具(基本)
-8215|<O>| /*              else if( p < 5614 * rate / 100 )    // 武器(基本)
-8216|<O>| /*              else if( p < 4664 * rate / 100 )    // 防具(基本)
-8217|<O>| send_user(who, "%c%s", ';', "求医（3）经验 52000 潜能 790 金钱 52000");
-8218|<O>| /*              else if( p < 5002 * rate / 100 )    // 武器(门派)
-8219|<O>| ret = CHAR_FIGHT_D->cast_done(me, who, ADD_CP);    // 小心准备 me
-8220|<O>| /*              else if( p < 3304 * rate / 100 )    // 防具(基本)
-8221|<O>| /*              else if( p < 5144 * rate / 100 )    // 防具(基本)
-8222|<O>| /*              else if( p < 2770 * rate / 100 )    // 武器(基本)
-8223|<O>| /*              else if( p < 1070000 * rate / 100 )    // 杂物５
-8224|<O>| private static object* dbCaster = ({ });        // 怪物数组(远程攻击)
-8225|<O>| /*              else if( p < 5978 * rate / 100 )    // 武器(门派)
-8226|<O>| /*              else if( p < 4740 * rate / 100 )    // 武器(基本)
-8227|<O>| if (objectp(item = present("忠厚的双子", me, 1, MAX_CARRY * 4))) {
-8228|<O>| set_save_2(sprintf("%s.pos.%d",type,pos),id); //在pos位置上记录玩家id
-8229|<O>| result = sprintf("%s:\n    您并没有学会任何生活技能。\n", me->get_name());
-8230|<O>| if (!arrayp(char = me->get("pf.02316"))) return 2;    // 执行成功
-8231|<O>| /*              else if( p < 2382 * rate / 100 )    // 武器(基本)
-8232|<O>| /*              else if( p < 6968 * rate / 100 )    // 防具(基本)
-8233|<O>| /*              else if( p < 5319 * rate / 100 )    // 防具(基本)
-8234|<O>| result += sprintf("农业:%8d  渔业:%8d  矿业:%8d  工业:%8d  商业:%8d\n",
-8235|<O>| send_user(who, "%c%s", ';', "寻求方法 经验 43000 潜能 620 金钱 42000");
-8236|<O>| /*              else if( p < 6416 * rate / 100 )    // 武器(门派)
-8237|<O>| /*              else if( p < 5464 * rate / 100 )    // 防具(基本)
-8238|<O>| private static mapping class_cycle_time = ([		//	比较有规律的时间周期集合
-8239|<O>| /*              else if( p < 4790 * rate / 100 )    // 防具(基本)
-8240|<O>| /*              else if( p < 6151 * rate / 100 )    // 武器(基本)
-8241|<O>| /*              else if( p < 3038 * rate / 100 )    // 防具(基本)
-8242|<O>| /*              else if( p < 2534 * rate / 100 )    // 武器(基本)
-8243|<O>| send_user(player, "%c%s", ':', "你道具栏的空位少于5个，请清理道具栏后再来领取补偿。");
-8244|<O>| /*              else if( p < 5664 * rate / 100 )    // 武器(基本)
-8245|<O>| /*              else if( p < 2454 * rate / 100 )    // 防具(基本)
-8246|<O>| /*              else if( p < 6009 * rate / 100 )    // 武器(基本)
-8247|<O>| /*              else if( p < 7884 * rate / 100 )    // 武器(基本)
-8248|<O>| send_user(who, "%c%s", ';', "指明方向 经验 37000 潜能 550 金钱 38000");
-8249|<O>| if (item[1]->get_diamond_type() == "forge")//这里是计算锻造石锻炼装备的成功率
-8250|<O>| /*              else if( p < 5750 * rate / 100 )    // 武器(基本)
-8251|<O>| send_user(who, "%c%s", ';', "求医（4）经验 52000 潜能 790 金钱 52000");
-8252|<O>| default: result = "洞庭水贼头目";  pic = 8010;  level2 = 6;  break;
-8253|<O>| send_user(who, "%c%s", ';', "询问小贩 经验 70000 潜能 840 金钱 56000");
-8254|<O>| /*              else if( p < 8904 * rate / 100 )    // 武器(基本)
-8255|<O>| /*              else if( p < 2897 * rate / 100 )    // 武器(基本)
-8256|<O>| /*              else if( p < 5464 * rate / 100 )    // 武器(基本)
-8257|<O>| send_user(who, "%c%s", ';', "除掉恶霸 经验 70000 潜能 820 金钱 57000");
+﻿8200|<O>| /*              else if( p < 2689 * rate / 100 )    // Vũ khí(Cơ bản)
+8201|<O>| /*              else if( p < 4700 * rate / 100 )    // Vũ khí(Môn phái)
+8202|<O>| /*              else if( p < 2890 * rate / 100 )    // Phòng cụ(Cơ bản)
+8203|<O>| if (get_block(z0, x, y) & IS_CHAR_BLOCK) return 1;    // vô Pháp lạc cước
+8204|<O>| /*              else if( p < 2754 * rate / 100 )    // Vũ khí(Môn phái)
+8205|<O>| send_user(who, "%c%s", ';', "Thôilớnquan NhâncủaXin giản Kinh nghiệm 1200 Tiềm năng 60 Tiền vàng 1200");
+8206|<O>| /*              else if( p < 2783 * rate / 100 )    // Vũ khí(Môn phái)
+8207|<O>| write_user(who, ECHO "BạnđemTiền Phiếugiaocho%s，%sthuế Thu %+d，BạncủaQuốc Gia cống hiến %+d, Tiền vàng %+d。",
+8208|<O>| /*              else if( p < 7225 * rate / 100 )    // Phòng cụ(Cơ bản)
+8209|<O>| /*              else if( p < 4508 * rate / 100 )    // Vũ khí(Cơ bản)
+8210|<O>| send_user(who, "%c%s", ';', "ThiênnămHồngMộc Kinh nghiệm 12500 Tiềm năng 340 Tiền vàng 10500");
+8211|<O>| /*              else if( p < 6475 * rate / 100 )    // Vũ khí(Cơ bản)
+8212|<O>| /*              else if( p < 4564 * rate / 100 )    // Phòng cụ(Cơ bản)
+8213|<O>| send_user(who, "%c%s", ';', "lâm Nguykhôngcụ Kinh nghiệm 80000 Tiềm năng 955 Tiền vàng 68000");
+8214|<O>| /*              else if( p < 5360 * rate / 100 )    // Phòng cụ(Cơ bản)
+8215|<O>| /*              else if( p < 5614 * rate / 100 )    // Vũ khí(Cơ bản)
+8216|<O>| /*              else if( p < 4664 * rate / 100 )    // Phòng cụ(Cơ bản)
+8217|<O>| send_user(who, "%c%s", ';', "Cầu Y（3）Kinh nghiệm 52000 Tiềm năng 790 Tiền vàng 52000");
+8218|<O>| /*              else if( p < 5002 * rate / 100 )    // Vũ khí(Môn phái)
+8219|<O>| ret = CHAR_FIGHT_D->cast_done(me, who, ADD_CP);    // cẩn thận chuẩn bị me
+8220|<O>| /*              else if( p < 3304 * rate / 100 )    // Phòng cụ(Cơ bản)
+8221|<O>| /*              else if( p < 5144 * rate / 100 )    // Phòng cụ(Cơ bản)
+8222|<O>| /*              else if( p < 2770 * rate / 100 )    // Vũ khí(Cơ bản)
+8223|<O>| /*              else if( p < 1070000 * rate / 100 )    // Tạp vật５
+8224|<O>| private static object* dbCaster = ({ });        // quái vậtsố tổ(Viễn trìnhTấn công)
+8225|<O>| /*              else if( p < 5978 * rate / 100 )    // Vũ khí(Môn phái)
+8226|<O>| /*              else if( p < 4740 * rate / 100 )    // Vũ khí(Cơ bản)
+8227|<O>| if (objectp(item = present("Trung hậucủasong Tử", me, 1, MAX_CARRY * 4))) {
+8228|<O>| set_save_2(sprintf("%s.pos.%d",type,pos),id); //Tạiposvị trítrênký lụcNgười chơiid
+8229|<O>| result = sprintf("%s:\n    Bạn tịnhkhông cóHọcsẽnhiệm Hà sinh hoạtKỹ năng。\n", me->get_name());
+8230|<O>| if (!arrayp(char = me->get("pf.02316"))) return 2;    // thực hiện thành công
+8231|<O>| /*              else if( p < 2382 * rate / 100 )    // Vũ khí(Cơ bản)
+8232|<O>| /*              else if( p < 6968 * rate / 100 )    // Phòng cụ(Cơ bản)
+8233|<O>| /*              else if( p < 5319 * rate / 100 )    // Phòng cụ(Cơ bản)
+8234|<O>| result += sprintf("nông nghiệp:%8d  ngư nghiệp:%8d  Khoáng Nghiệp:%8d  công nghiệp:%8d  Thương Nghiệp:%8d\n",
+8235|<O>| send_user(who, "%c%s", ';', "tìm cầu Phương Pháp Kinh nghiệm 43000 Tiềm năng 620 Tiền vàng 42000");
+8236|<O>| /*              else if( p < 6416 * rate / 100 )    // Vũ khí(Môn phái)
+8237|<O>| /*              else if( p < 5464 * rate / 100 )    // Phòng cụ(Cơ bản)
+8238|<O>| private static mapping class_cycle_time = ([		//	so vớigiảoCóquy luậtcủagiờgian Chu kỳ tập Hợp
+8239|<O>| /*              else if( p < 4790 * rate / 100 )    // Phòng cụ(Cơ bản)
+8240|<O>| /*              else if( p < 6151 * rate / 100 )    // Vũ khí(Cơ bản)
+8241|<O>| /*              else if( p < 3038 * rate / 100 )    // Phòng cụ(Cơ bản)
+8242|<O>| /*              else if( p < 2534 * rate / 100 )    // Vũ khí(Cơ bản)
+8243|<O>| send_user(player, "%c%s", ':', "bạnĐạo cụ lancủaKhông vịítvu5，Xin Thanh lý Đạo cụ lansaulại đến lĩnh thủ bổ thường。");
+8244|<O>| /*              else if( p < 5664 * rate / 100 )    // Vũ khí(Cơ bản)
+8245|<O>| /*              else if( p < 2454 * rate / 100 )    // Phòng cụ(Cơ bản)
+8246|<O>| /*              else if( p < 6009 * rate / 100 )    // Vũ khí(Cơ bản)
+8247|<O>| /*              else if( p < 7884 * rate / 100 )    // Vũ khí(Cơ bản)
+8248|<O>| send_user(who, "%c%s", ';', "Chỉ Minh Phươnghướng Kinh nghiệm 37000 Tiềm năng 550 Tiền vàng 38000");
+8249|<O>| if (item[1]->get_diamond_type() == "forge")//nàytrongLàKế toán đoạn tạo Thạch đoạn LuyệnTrang bịcủaTỷ lệ thành công
+8250|<O>| /*              else if( p < 5750 * rate / 100 )    // Vũ khí(Cơ bản)
+8251|<O>| send_user(who, "%c%s", ';', "Cầu Y（4）Kinh nghiệm 52000 Tiềm năng 790 Tiền vàng 52000");
+8252|<O>| default: result = "Động đìnhThủytặc đầu Mục";  pic = 8010;  level2 = 6;  break;
+8253|<O>| send_user(who, "%c%s", ';', "tuần hỏinhỏphán Kinh nghiệm 70000 Tiềm năng 840 Tiền vàng 56000");
+8254|<O>| /*              else if( p < 8904 * rate / 100 )    // Vũ khí(Cơ bản)
+8255|<O>| /*              else if( p < 2897 * rate / 100 )    // Vũ khí(Cơ bản)
+8256|<O>| /*              else if( p < 5464 * rate / 100 )    // Vũ khí(Cơ bản)
+8257|<O>| send_user(who, "%c%s", ';', "trừ rơi Ác Bá Kinh nghiệm 70000 Tiềm năng 820 Tiền vàng 57000");

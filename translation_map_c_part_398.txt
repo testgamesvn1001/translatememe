@@ -1,103 +1,103 @@
-﻿19287|<O>| #define PF_NAME        "漫天花雨"
-19288|<O>| return "任务物品。一种煮熟后可用来饱腹的粮食。";
-19289|<O>| HIR "ＧＭ说道:“这里不欢迎你，你还是快走吧！”\n"
-19290|<O>| notify("你现在还不能学习强化技能。", pot);
-19291|<O>| "鱼" : "\"/item/stuff/0187\"",
-19292|<O>| // 函数:获取人物标识(用于 find_char 函数)
-19293|<O>| *   - Special attacks 100% 相同
-19294|<O>| #define PF_NAME        "迎头乱棍"
-19295|<O>| "寒铁刀柄" : "在诛仙阵三层杀刀魂可以得到寒铁刀柄",
-19296|<O>| "骷髅头" : "在困魔阵一层杀剑盾骷髅可以得到骷髅头",
-19297|<O>| "回城符" : "\"/item/std/0407\"",
-19298|<O>| // 注意:装备、武器不允许是组合物品，因为它们有特殊属性
-19299|<O>| #define PF_NAME        "周天强化"
-19300|<O>| if ( iHour < iStart1 )	//没到时间
-19301|<O>| if (arrayp(team))    // 本人有队伍
-19302|<O>| return "任务物品。用来贿赂将军的一种名贵好酒。";
-19303|<O>| ESC "我同意\nrepair ! %x# %x#\n"
-19304|<O>| #define PF_NAME        "千钧一击"
-19305|<O>| _DEBUG("DEBUG_f -- 添加函数成功！");
-19306|<O>| #define PF_NAME        "寒铁冶炼"
-19307|<O>| ESC "完成任务\ntalk %x# qixi.2\n"
-19308|<O>| "“红中”" : "\"/item/37/3735\"",
-19309|<O>| return "任务物品。一种可用来冲泡茉莉花茶的水。";
-19310|<O>| #define PF_NAME        "毡帽制作"
-19311|<O>| #define PF_NAME        "霸海锻造"
-19312|<O>| "蚂蚁触角" : "\"/item/40/4009\"",
-19313|<O>| #define PF_NAME        "丝帽制作"
-19314|<O>| "“九条”" : "\"/item/37/3719\"",
-19315|<O>| #define PF_NAME        "鬼卒召唤"
-19316|<O>| return "任务物品。百姓陈述自己遭遇的一种文书。";
-19317|<O>| ESC "我需要普通修理\nrepair %x# 2\n"
-19318|<O>| #define PF_NAME        "银矿加工"
-19319|<O>| #define PF_NAME        "自动射击"
-19320|<O>| return "普通的木棒，由石刻技能分解出来并使用。";
-19321|<O>| notify("你的所有装备目前很好，没有必要修理。");
-19322|<O>| sprintf("%s:\n    领取宠物——双子\n"
-19323|<O>| return "从锦中抽出的线,裁缝生活技能需要的材料";
-19324|<O>| "FIGHTER_TYPE_2",   // 小怪，大怪？
-19325|<O>| "茉莉花茶" : "\"/item/31/3103\"",
-19326|<O>| "“六条”" : "\"/item/37/3716\"",
-19327|<O>| me->log_money("被救活", -point);
-19328|<O>| #define PF_NAME        "混沌毒雾"
-19329|<O>| notify("拿那么多钱给人家？您不心痛我都心痛。");
-19330|<O>| #define PF_NAME        "不死之身"
-19331|<O>| "    其实有一个问题已经困惑我好长一段时间了……\n"
-19332|<O>| "“三筒”" : "\"/item/37/3703\"",
-19333|<O>| #define PF_NAME        "凌空指穴"
-19334|<O>| "“四筒”" : "\"/item/37/3704\"",
-19335|<O>| cmd = "哈哈哈哈～～新年到了，你领了压岁钱了吗？";
-19336|<O>| "“东风”" : "\"/item/37/3731\"",
-19337|<O>| if (iHide != time)    // 更新描述
-19338|<O>| return "任务物品。女孩用来装饰自己的一种饰物。";
-19339|<O>| "寒铁枪头" : "在诛仙阵五层杀枪魂可以得到寒铁枪头",
-19340|<O>| #define PF_NAME        "天兵召唤"
-19341|<O>| "甲虫翅膀" : "\"/item/40/4020\"",
-19342|<O>| case 7: name3 = "投降";  break;
-19343|<O>| "“二条”" : "\"/item/37/3712\"",
-19344|<O>| #define SUB_TILI	1				// 体力需求
-19345|<O>| "“七万”" : "\"/item/37/3727\"",
-19346|<O>| *   - 只有 activation timing 变化
-19347|<O>| #define PF_NAME        "乾坤挪移"
-19348|<O>| #define PF_NAME        "黑虎掏心"
-19349|<O>| case 3: name3 = "同盟";  break;
-19350|<O>| "龙鱼河图" : "\"/item/97/9717\"",
-19351|<O>| "“四万”" : "\"/item/37/3724\"",
-19352|<O>| tell_user(who,"所有赛果及奖励都消除了");
-19353|<O>| return "任务物品。一种据说价格很贵的动物的角。";
-19354|<O>| #define PF_NAME        "摄取精华"
-19355|<O>| "凤纹玉佩" : "\"/item/97/9751\"",
-19356|<O>| #define PF_NAME        "百步穿杨"
-19357|<O>| "“卒”" : "\"/item/37/3766\"",
-19358|<O>| if ( iHour < iStart )	//没到时间
-19359|<O>| result += ESC "离开\nCLOSE\n";
-19360|<O>| "破布衣" : "\"/item/40/4048\"",
-19361|<O>| ESC"我明白了", me->get_name()));
-19362|<O>| "红印纸" : "\"/item/35/3553\"",
-19363|<O>| return "忘情婆婆想要的能使她变漂亮的化妆品。";
-19364|<O>| return "任务物品。楚总管结义兄弟的临终遗物。";
-19365|<O>| "小泥人" : "\"/item/49/4904\"",
-19366|<O>| return "装有五个金灵石的包裹，右键使用打开。";
-19367|<O>| "“马”" : "\"/item/37/3764\"",
-19368|<O>| private int iTrain;			// 训练度
-19369|<O>| "银矿石" : "\"/item/41/4112\"",
-19370|<O>| "“仕”" : "\"/item/37/3751\"",
-19371|<O>| #define PF_NAME        "风火诀"
-19372|<O>| ESC "确定\ntalk %x# getback\n"
-19373|<O>| return "用蓝色与白色丝线编织的球，可用来兑奖";
-19374|<O>| "玉束髻" : "\"/item/40/4078\"",
-19375|<O>| set("anti_05311", 1);	//不能迷魂
-19376|<O>| "牵牛花" : "\"/item/30/3011\"",
-19377|<O>| "紫参丹" : "\"/item/91/9167\"",
-19378|<O>| case "唐门": flag = 4;  break;
-19379|<O>| "烤肉串" : "\"/item/33/3311\"",
-19380|<O>| if (name == "打火石") continue;
-19381|<O>| case 2: type = "车兵";  break;
-19382|<O>| return "任务物品。一只被赵国百姓弄坏的木桶。";
-19383|<O>| "狗尾巴" : "\"/item/40/4018\"",
-19384|<O>| return "任务物品。里面装满刘大叔需要的物品。";
-19385|<O>| "想找京都镖局护送亲友返乡，可是他老人家竟然没空……",
-19386|<O>| "活络丸" : "\"/item/91/9101\"",
-19387|<O>| return "任务物品。秦药师用来切开葫芦的工具。";
-19388|<O>| "长寿石" : "\"/item/40/4077\"",
-19389|<O>| #define PF_NAME        "冰霜咒"
+﻿19287|<O>| #define PF_NAME        "Mạn Thiên Hoa Vũ"
+19288|<O>| return "Vật phẩm nhiệm vụ. Một loại lương thực nấu chín có thể dùng để no bụng.";
+19289|<O>| HIR "GM nói:"Nơi đây không chào đón ngươi, ngươi mau đi đi!"\n"
+19290|<O>| notify("Bạn hiện tại chưa thể học kỹ năng cường hóa.", pot);
+19291|<O>| "Cá" : "\"/item/stuff/0187\"",
+19292|<O>| // Hàm: Lấy mã nhận dạng nhân vật (dùng cho hàm find_char)
+19293|<O>| *   - Special attacks 100% tương đồng
+19294|<O>| #define PF_NAME        "Nghênh Đầu Loạn Côn"
+19295|<O>| "Hàn Thiết Đao Bính" : "Ở tầng 3 Tru Tiên Trận giết Đao Hồn có thể nhận được Hàn Thiết Đao Bính",
+19296|<O>| "Khô Lâu Đầu" : "Ở tầng 1 Khốn Ma Trận giết Kiếm Thuẫn Khô Lâu có thể nhận được Khô Lâu Đầu",
+19297|<O>| "Hồi Thành Phù" : "\"/item/std/0407\"",
+19298|<O>| // Lưu ý: Trang bị, vũ khí không được phép là vật phẩm tổ hợp, vì chúng có thuộc tính đặc biệt
+19299|<O>| #define PF_NAME        "Chu Thiên Cường Hóa"
+19300|<O>| if ( iHour < iStart1 )	//Chưa đến giờ
+19301|<O>| if (arrayp(team))    // Bản thân có đội ngũ
+19302|<O>| return "Vật phẩm nhiệm vụ. Một loại rượu quý dùng để hối lộ tướng quân.";
+19303|<O>| ESC "Tôi đồng ý\nrepair ! %x# %x#\n"
+19304|<O>| #define PF_NAME        "Thiên Quân Nhất Kích"
+19305|<O>| _DEBUG("DEBUG_f -- Thêm hàm thành công!");
+19306|<O>| #define PF_NAME        "Hàn Thiết Dã Luyện"
+19307|<O>| ESC "Hoàn thành nhiệm vụ\ntalk %x# qixi.2\n"
+19308|<O>| ""Hồng Trung"" : "\"/item/37/3735\"",
+19309|<O>| return "Vật phẩm nhiệm vụ. Một loại nước có thể dùng để pha trà hoa nhài.";
+19310|<O>| #define PF_NAME        "Chiên Mạo Chế Tác"
+19311|<O>| #define PF_NAME        "Bá Hải Đoạn Tạo"
+19312|<O>| "Mã Nghĩ Xúc Giác" : "\"/item/40/4009\"",
+19313|<O>| #define PF_NAME        "Ti Mạo Chế Tác"
+19314|<O>| ""Cửu Điều"" : "\"/item/37/3719\"",
+19315|<O>| #define PF_NAME        "Quỷ Tốt Triệu Hoán"
+19316|<O>| return "Vật phẩm nhiệm vụ. Một loại văn thư mà bách tính trình bày hoàn cảnh của mình.";
+19317|<O>| ESC "Tôi cần sửa chữa thông thường\nrepair %x# 2\n"
+19318|<O>| #define PF_NAME        "Ngân Khoáng Gia Công"
+19319|<O>| #define PF_NAME        "Tự Động Xạ Kích"
+19320|<O>| return "Thanh gỗ bình thường, được phân giải ra bởi kỹ năng thạch khắc và sử dụng.";
+19321|<O>| notify("Toàn bộ trang bị của bạn hiện tại rất tốt, không cần sửa chữa.");
+19322|<O>| sprintf("%s:\n    Nhận thú cưng——Song Tử\n"
+19323|<O>| return "Sợi rút ra từ gấm, nguyên liệu cần thiết cho kỹ năng sống thợ may";
+19324|<O>| "FIGHTER_TYPE_2",   // Quái nhỏ, quái lớn?
+19325|<O>| "Trà Hoa Nhài" : "\"/item/31/3103\"",
+19326|<O>| ""Lục Điều"" : "\"/item/37/3716\"",
+19327|<O>| me->log_money("Bị cứu sống", -point);
+19328|<O>| #define PF_NAME        "Hỗn Độn Độc Vụ"
+19329|<O>| notify("Đưa nhiều tiền vậy cho người ta? Bạn không xót tôi cũng xót.");
+19330|<O>| #define PF_NAME        "Bất Tử Chi Thân"
+19331|<O>| "    Thực ra có một vấn đề đã làm tôi bối rối suốt một thời gian dài……\n"
+19332|<O>| ""Tam Đồng"" : "\"/item/37/3703\"",
+19333|<O>| #define PF_NAME        "Lăng Không Chỉ Huyệt"
+19334|<O>| ""Tứ Đồng"" : "\"/item/37/3704\"",
+19335|<O>| cmd = "Ha ha ha ha~~ Năm mới đến rồi, bạn nhận tiền lì xì chưa?";
+19336|<O>| ""Đông Phong"" : "\"/item/37/3731\"",
+19337|<O>| if (iHide != time)    // Cập nhật mô tả
+19338|<O>| return "Vật phẩm nhiệm vụ. Một loại đồ trang sức mà con gái dùng để trang trí bản thân.";
+19339|<O>| "Hàn Thiết Thương Đầu" : "Ở tầng 5 Tru Tiên Trận giết Thương Hồn có thể nhận được Hàn Thiết Thương Đầu",
+19340|<O>| #define PF_NAME        "Thiên Binh Triệu Hoán"
+19341|<O>| "Giáp Trùng Sí Bàng" : "\"/item/40/4020\"",
+19342|<O>| case 7: name3 = "Đầu Hàng";  break;
+19343|<O>| ""Nhị Điều"" : "\"/item/37/3712\"",
+19344|<O>| #define SUB_TILI	1				// Yêu cầu thể lực
+19345|<O>| ""Thất Vạn"" : "\"/item/37/3727\"",
+19346|<O>| *   - Chỉ có activation timing thay đổi
+19347|<O>| #define PF_NAME        "Càn Khôn Noa Di"
+19348|<O>| #define PF_NAME        "Hắc Hổ Đào Tâm"
+19349|<O>| case 3: name3 = "Đồng Minh";  break;
+19350|<O>| "Long Ngư Hà Đồ" : "\"/item/97/9717\"",
+19351|<O>| ""Tứ Vạn"" : "\"/item/37/3724\"",
+19352|<O>| tell_user(who,"Tất cả kết quả và phần thưởng đã được xóa sạch");
+19353|<O>| return "Vật phẩm nhiệm vụ. Một loại sừng động vật nghe nói giá rất đắt.";
+19354|<O>| #define PF_NAME        "Nhiếp Thủ Tinh Hoa"
+19355|<O>| "Phượng Văn Ngọc Bội" : "\"/item/97/9751\"",
+19356|<O>| #define PF_NAME        "Bách Bộ Xuyên Dương"
+19357|<O>| ""Tốt"" : "\"/item/37/3766\"",
+19358|<O>| if ( iHour < iStart )	//Chưa đến giờ
+19359|<O>| result += ESC "Rời khỏi\nCLOSE\n";
+19360|<O>| "Phá Bố Y" : "\"/item/40/4048\"",
+19361|<O>| ESC"Tôi hiểu rồi", me->get_name()));
+19362|<O>| "Hồng Ấn Chỉ" : "\"/item/35/3553\"",
+19363|<O>| return "Mỹ phẩm mà Vong Tình bà bà muốn dùng để làm đẹp.";
+19364|<O>| return "Vật phẩm nhiệm vụ. Di vật lâm chung của nghĩa huynh Sở tổng quản.";
+19365|<O>| "Tiểu Nê Nhân" : "\"/item/49/4904\"",
+19366|<O>| return "Bao bọc chứa năm viên Kim Linh Thạch, nhấp chuột phải để mở.";
+19367|<O>| ""Mã"" : "\"/item/37/3764\"",
+19368|<O>| private int iTrain;			// Độ huấn luyện
+19369|<O>| "Ngân Khoáng Thạch" : "\"/item/41/4112\"",
+19370|<O>| ""Sĩ"" : "\"/item/37/3751\"",
+19371|<O>| #define PF_NAME        "Phong Hỏa Quyết"
+19372|<O>| ESC "Xác nhận\ntalk %x# getback\n"
+19373|<O>| return "Quả cầu dệt bằng sợi xanh và trắng, có thể dùng để đổi thưởng";
+19374|<O>| "Ngọc Thúc Kế" : "\"/item/40/4078\"",
+19375|<O>| set("anti_05311", 1);	//Không bị mê hồn
+19376|<O>| "Khiên Ngưu Hoa" : "\"/item/30/3011\"",
+19377|<O>| "Tử Sâm Đan" : "\"/item/91/9167\"",
+19378|<O>| case "Đường Môn": flag = 4;  break;
+19379|<O>| "Khảo Nhục Xuyến" : "\"/item/33/3311\"",
+19380|<O>| if (name == "Đả Hỏa Thạch") continue;
+19381|<O>| case 2: type = "Xa Binh";  break;
+19382|<O>| return "Vật phẩm nhiệm vụ. Một chiếc thùng gỗ bị bách tính nước Triệu làm hỏng.";
+19383|<O>| "Cẩu Vĩ Ba" : "\"/item/40/4018\"",
+19384|<O>| return "Vật phẩm nhiệm vụ. Bên trong đựng đầy vật phẩm mà Lưu đại thúc cần.";
+19385|<O>| "Muốn tìm Kinh Đô Tiêu Cục hộ tống thân hữu hồi hương, nhưng cụ ấy lại không rảnh……",
+19386|<O>| "Hoạt Lạc Hoàn" : "\"/item/91/9101\"",
+19387|<O>| return "Vật phẩm nhiệm vụ. Công cụ mà Tần dược sư dùng để cắt hồ lô.";
+19388|<O>| "Trường Thọ Thạch" : "\"/item/40/4077\"",
+19389|<O>| #define PF_NAME        "Băng Sương Chú"

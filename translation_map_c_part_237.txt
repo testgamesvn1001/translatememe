@@ -1,56 +1,56 @@
-﻿7515|<O>| //        if( gone_time( me->get_time("get") ) < 1 )    // 时间限制
-7516|<O>| send_user(who, "%c%c%w%s", ':', 3, 0, "开始维修" + me->get_name());
-7517|<O>| if ( npc && (npc->get("chain") == who->get_number()) )	//进入旧的场景
-7518|<O>| tmp += sprintf(ESC HIY "探路\ntalk %x# welcome.1\n", getoid(me));
-7519|<O>| send_user(me, "%c%c%d%s", '?', 1, MAX_NUMBER, "请输入请离目标玩家的ID:\n"
-7520|<O>| send_user(who, "%c%s", ';', "查访知情人 经验 96000 潜能 1900 金钱 92000");
-7521|<O>| return "传闻能开启周王藏匿宝藏的宝箱。\n将钥匙拖放于放大状态的宝箱之上，便可将"HIR"红木宝箱"NOR"打开。";
-7522|<O>| result += sprintf(ESC "确定\ntalk %x# welcome.2\n", getoid(who));
-7523|<O>| pos = get_save_2(sprintf("player.%d.pos",id));//获得对应玩家在排行榜上的位置。
-7524|<O>| send_user(who, "%c%c%c%w%s", 0x51, 2, 1, TID_NEWBIE_01, "新手村");
-7525|<O>| send_user(who, "%c%c%c%w%s", 0x51, 2, 1, TID_NEWBIE_00, "仙灵岛");
-7526|<O>| tmp += sprintf(ESC + HIY + "偷吃的小野兔\ntalk %x# welcome.8\n", id);
-7527|<O>| return  "每年除夕新年，华人家家户户都会放的爆竹，相传是为了驱赶年兽。\n在目标范围内使用，可造成至少50点伤害。";
-7528|<O>| send_user(who, "%c%s", '!', sprintf("恭喜您！您打开小宝箱得到了%d金", cash));
-7529|<O>| tmp += sprintf(ESC HIY "答谢\ntalk %x# welcome.6\n", getoid(me));
-7530|<O>| tmp += sprintf(ESC HIY "锯子\ntalk %x# welcome.1\n", getoid(me));
-7531|<O>| tmp += sprintf(ESC HIY "论语\ntalk %x# welcome.5\n", getoid(me));
-7532|<O>| set_effect(who, EFFECT_DOUBLE_USE, ADD_INTERVAL);    // 小心准备 me
-7533|<O>| result = sprintf("农作物的成长度为 %d。%s\n", who->get("time"), result);
-7534|<O>| "冯亭120" : ({ 760000,  760000, 1200,  990, 1200,  940,  660, }),
-7535|<O>| send_user(who, "%c%s", ';', "内政官的心事 经验 35000 潜能 530 金钱 36000");
-7536|<O>| "司马错60" : ({ 400000,  400000,  600,  510,  600,  460,  300, }),
-7537|<O>| send_user(me, "%c%c%d%s", '?', 1, MAX_NUMBER, "请输入恢复目标玩家的ID:\n"
-7538|<O>| TASK_LEGEND_D->give_item(who,"/item/sell/0006",5);     		//人参×5
-7539|<O>| tmp += sprintf(ESC HIY "心愿\ntalk %x# welcome.4\n", getoid(me));
-7540|<O>| "赵括100" : ({ 540000,  540000, 1050,  830, 1000,  770,  540, }),
-7541|<O>| send_user(who, "%c%s", ';', "无奈的求助（1） 经验 4400 潜能 140 金钱 3800");
-7542|<O>| send_user(who, "%c%s", ';', "刀魂传说4 经验 89000 潜能 1000 金钱 96000");
-7543|<O>| send_user(who, "%c%s", ';', "肖独贵（1） 经验 44500 潜能 650 金钱 43500");
-7544|<O>| send_user(who, "%c%s", '!', "你的宠物空间已经满了，请放弃掉不要的宠物后再来使用宠物礼包吧。");
-7545|<O>| if (result[0] >= '0' && result[0] <= '9')    // 0, 或者正数, 表示扣点成功
-7546|<O>| send_user(who, "%c%s", '!', obj3->get_name() + "已经摆摊上架，不能交易。");
-7547|<O>| send_user(who, "%c%s", ';', "孤竹族使节（2） 经验 3900 潜能 125 金钱 3500");
-7548|<O>| int get_skill_level() { return skill_level; }			// 函数:获取对应的技能等级
-7549|<O>| tmp += sprintf(ESC HIY "宝鼎\ntalk %x# welcome.1\n", getoid(me));
-7550|<O>| return "能使中毒者陷入昏昏欲睡的状态，仿如梦游一般，\n云梦泽催眠术专用道具（无须装备）。\n该效果会持续30秒。";
-7551|<O>| tell_user(me, "%sVIP频道被封闭 %d 分。", who->get_name(), n / 60 + 1);
-7552|<O>| cWord = "官府告示:\n　　"HIR"灵谷洞"NOR"内有"HIR"75"NOR"级的妖魔，非关系人等不得入内！！";
-7553|<O>| result += sprintf("城防:%8d  士兵:%8d  装备:%8d  训练:%8d  贡献:[%6d]\n",
-7554|<O>| tmp += sprintf(ESC HIY "讨好\ntalk %x# welcome.6\n", getoid(me));
-7555|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n城中的建设急需%s，你帮我找来吧。\n",
-7556|<O>| tmp += sprintf(ESC HIY "交好\ntalk %x# welcome.1\n", getoid(me));
-7557|<O>| send_user( team[0], "%c%c%c%w%s", 0x51, 1, 1,TID_QIXI,"七夕任务" );
-7558|<O>| tmp += sprintf(ESC HIY "取名\ntalk %x# welcome.1\n", getoid(me));
-7559|<O>| return "传闻能开启周王藏匿宝藏的宝箱。\n将钥匙拖放于放大状态的宝箱之上，便可将"HIR"青铜宝箱"NOR"打开。";
-7560|<O>| send_user(who, "%c%s", ';', "勇闯虚陵洞 经验 81000 潜能 1200 金钱 69000");
-7561|<O>| 50: ({"金环刀","玄墨矛","墨玉剑","狼牙棍","黄金珑手","如意珠","暗青剑","慑魂剑","寒青剑"}),
-7562|<O>| private string FirstName;               // 宠物原始名字（玩家不可以修改，用以识别）
-7563|<O>| "Intel(R) Xeon(TM) CPU 3.00GHz i386da71d790423b3307c",		// 松花江畔
-7564|<O>| private int AP0, AP;                            // 物理攻击(Attack)
-7565|<O>| tmp += sprintf(ESC HIY "药引\ntalk %x# welcome.1\n", getoid(me));
-7566|<O>| send_user(who, "%c%s", ';', "万人坑的骷髅 经验 46000 潜能 645 金钱 45000");
-7567|<O>| tmp += sprintf(ESC HIY "游历\ntalk %x# welcome.6\n", getoid(me));
-7568|<O>| HIR "受到的伤害都会直接扣除你等量的气血" NOR "。当你的气血值变为零的时候，你便会挂掉，这点必须注意！\n    "
-7569|<O>| void on_active_finish(int callout_delay_time);		//	活动刚刚结束时执行的函数
-7570|<O>| send_user(me, "%c%c%d%s", '?', 1, MAX_NUMBER, "请输入邀请目标玩家的ID:\n"
+﻿7515|<O>| //        if( gone_time( me->get_time("get") ) < 1 )    // Giới hạn thời gian
+7516|<O>| send_user(who, "%c%c%w%s", ':', 3, 0, "Bắt đầuduy Tu" + me->get_name());
+7517|<O>| if ( npc && (npc->get("chain") == who->get_number()) )	//Đi vàocũcủatrường cảnh
+7518|<O>| tmp += sprintf(ESC HIY "Thám Lộ\ntalk %x# welcome.1\n", getoid(me));
+7519|<O>| send_user(me, "%c%c%d%s", '?', 1, MAX_NUMBER, "Xin thâu Nhập Xin lymục tiêuNgười chơicủaID:\n"
+7520|<O>| send_user(who, "%c%s", ';', "tra phỏng tri Tình Nhân Kinh nghiệm 96000 Tiềm năng 1900 Tiền vàng 92000");
+7521|<O>| return "Truyền văn NăngMởChu Vương tàng nặc Bảo tàngcủaBảo rương。\nTướng chìa thì tha Phóng vu Phónglớntrạng tháicủaBảo rương Chitrên，tiện có thể Tướng"HIR"HồngMộcBảo rương"NOR"Đả mở。";
+7522|<O>| result += sprintf(ESC "Xác nhận\ntalk %x# welcome.2\n", getoid(who));
+7523|<O>| pos = get_save_2(sprintf("player.%d.pos",id));//hoạch đượcđối vớiứngNgười chơiTạibài Hành bảngtrêncủavị trí。
+7524|<O>| send_user(who, "%c%c%c%w%s", 0x51, 2, 1, TID_NEWBIE_01, "Tân Thủ Thôn");
+7525|<O>| send_user(who, "%c%c%c%w%s", 0x51, 2, 1, TID_NEWBIE_00, "TiênLinh Đảo");
+7526|<O>| tmp += sprintf(ESC + HIY + "thâu Cậtcủanhỏdã thỏ\ntalk %x# welcome.8\n", id);
+7527|<O>| return  "mỗinămtrừ tịchmớinăm，Hoa Nhân Gia Gia Hộ HộđềusẽPhóngcủaBạo Trúc，Tương TruyềnLàvì khu cảnnămthú。\nTạimục tiêuPhạm vitrongSử dụng，có thể tạo thành Chíít50điểm Sát thương。";
+7528|<O>| send_user(who, "%c%s", '!', sprintf("Xin chúc mừng！Bạn Đả mởnhỏBảo rươngnhận được%dVàng", cash));
+7529|<O>| tmp += sprintf(ESC HIY "đáp Tạ\ntalk %x# welcome.6\n", getoid(me));
+7530|<O>| tmp += sprintf(ESC HIY "cưa Tử\ntalk %x# welcome.1\n", getoid(me));
+7531|<O>| tmp += sprintf(ESC HIY "luận ngữ\ntalk %x# welcome.5\n", getoid(me));
+7532|<O>| set_effect(who, EFFECT_DOUBLE_USE, ADD_INTERVAL);    // cẩn thận chuẩn bị me
+7533|<O>| result = sprintf("nông tác Vậtcủathànhdàiđộ vì %d。%s\n", who->get("time"), result);
+7534|<O>| "Phùng đình120" : ({ 760000,  760000, 1200,  990, 1200,  940,  660, }),
+7535|<O>| send_user(who, "%c%s", ';', "trongchính quancủaTâm sự Kinh nghiệm 35000 Tiềm năng 530 Tiền vàng 36000");
+7536|<O>| "Tư Mã Thác60" : ({ 400000,  400000,  600,  510,  600,  460,  300, }),
+7537|<O>| send_user(me, "%c%c%d%s", '?', 1, MAX_NUMBER, "Xin thâu NhậpPhục hồimục tiêuNgười chơicủaID:\n"
+7538|<O>| TASK_LEGEND_D->give_item(who,"/item/sell/0006",5);     		//Nhân Sâm×5
+7539|<O>| tmp += sprintf(ESC HIY "Tâm nguyện\ntalk %x# welcome.4\n", getoid(me));
+7540|<O>| "Triệu quát100" : ({ 540000,  540000, 1050,  830, 1000,  770,  540, }),
+7541|<O>| send_user(who, "%c%s", ';', "vô nạicủacầu Trợ（1） Kinh nghiệm 4400 Tiềm năng 140 Tiền vàng 3800");
+7542|<O>| send_user(who, "%c%s", ';', "Đao Hồn Truyền Thuyết4 Kinh nghiệm 89000 Tiềm năng 1000 Tiền vàng 96000");
+7543|<O>| send_user(who, "%c%s", ';', "Tiêu Độc Quý（1） Kinh nghiệm 44500 Tiềm năng 650 Tiền vàng 43500");
+7544|<O>| send_user(who, "%c%s", '!', "bạncủasủng vậtKhông gianđãmãn，XinTừ bỏrơikhôngcầncủasủng vậtsaulại đếnSử dụngsủng vậtlễ bao 。");
+7545|<O>| if (result[0] >= '0' && result[0] <= '9')    // 0, Hoặcchính số, biểu thị khấuđiểmThành công
+7546|<O>| send_user(who, "%c%s", '!', obj3->get_name() + "đãbày thántrêngiá，Không thể giao dịch。");
+7547|<O>| send_user(who, "%c%s", ';', "cô Trúc tộc sử tiết（2） Kinh nghiệm 3900 Tiềm năng 125 Tiền vàng 3500");
+7548|<O>| int get_skill_level() { return skill_level; }			// Hàm:hoạch thủđối vớiứngcủaKỹ năngCấp độ
+7549|<O>| tmp += sprintf(ESC HIY "Bảo Đỉnh\ntalk %x# welcome.1\n", getoid(me));
+7550|<O>| return "Năng sửgiữaĐộcgiả hãm Nhập hôn hôn dục thụycủatrạng thái，phỏng như Mộng du Nhất bàn，\nVân Mộng TrạchThôi Miên Thuật chuyên dùng Đạo cụ（vô TuTrang bị）。\nnên hiệu Quảsẽkéo dài30giây。";
+7551|<O>| tell_user(me, "%sVIPtần ĐạobịPhong bế %d phút。", who->get_name(), n / 60 + 1);
+7552|<O>| cWord = "quan phủ cáo thị:\n　　"HIR"Linh Cốc Động"NOR"trongCó"HIR"75"NOR"cấpcủaYêuMa，phi quan hệ Nhân Đẳngkhôngđược Nhậptrong！！";
+7553|<O>| result += sprintf("Thành Phòng:%8d  Sĩ Binh:%8d  Trang bị:%8d  huấn Luyện:%8d  cống hiến:[%6d]\n",
+7554|<O>| tmp += sprintf(ESC HIY "thảotốt\ntalk %x# welcome.6\n", getoid(me));
+7555|<O>| send_user(who, "%c%s", ':', sprintf("%s:\nThànhgiữacủakiến thiết cấp nhu%s，bạnBangtôitìm đến 。\n",
+7556|<O>| tmp += sprintf(ESC HIY "giaotốt\ntalk %x# welcome.1\n", getoid(me));
+7557|<O>| send_user( team[0], "%c%c%c%w%s", 0x51, 1, 1,TID_QIXI,"Thất tịchNhiệm vụ" );
+7558|<O>| tmp += sprintf(ESC HIY "thủ Danh\ntalk %x# welcome.1\n", getoid(me));
+7559|<O>| return "Truyền văn NăngMởChu Vương tàng nặc Bảo tàngcủaBảo rương。\nTướng chìa thì tha Phóng vu Phónglớntrạng tháicủaBảo rương Chitrên，tiện có thể Tướng"HIR"ThanhĐồngBảo rương"NOR"Đả mở。";
+7560|<O>| send_user(who, "%c%s", ';', "Dũng sấm hư Lăng Động Kinh nghiệm 81000 Tiềm năng 1200 Tiền vàng 69000");
+7561|<O>| 50: ({"Vànghoàn Đao","Huyền mặc mâu","mặc Ngọc Kiếm","LangNha Côn","HoàngVànglung Thủ","như Ý Châu","ÁmThanh Kiếm","nhiếp Hồn Kiếm","Hàn Thanh Kiếm"}),
+7562|<O>| private string FirstName;               // sủng vậtnguyên thủy Danh tự（Người chơikhôngcó thểSửa đổi，dùng Dĩ Thức biệt）
+7563|<O>| "Intel(R) Xeon(TM) CPU 3.00GHz i386da71d790423b3307c",		// tùng Hoa Giang bạn
+7564|<O>| private int AP0, AP;                            // Vật lý tấn công(Attack)
+7565|<O>| tmp += sprintf(ESC HIY "Dược Dẫn\ntalk %x# welcome.1\n", getoid(me));
+7566|<O>| send_user(who, "%c%s", ';', "vạn Nhân khanhcủakhô lâu Kinh nghiệm 46000 Tiềm năng 645 Tiền vàng 45000");
+7567|<O>| tmp += sprintf(ESC HIY "du lịch\ntalk %x# welcome.6\n", getoid(me));
+7568|<O>| HIR "thụđếncủaThương hạiđềusẽTrực tiếp khấu trừbạnĐẳng lượngcủaKhí Huyết" NOR "。đươngbạncủaGiá trị Khí Huyếtbiến vì linhcủalúc，bạntiệnsẽquải rơi，nàyđiểmtất TuChú ý！\n    "
+7569|<O>| void on_active_finish(int callout_delay_time);		//	hoạt độngcương cươngKết thúcgiờchấp HànhcủaHàm
+7570|<O>| send_user(me, "%c%c%d%s", '?', 1, MAX_NUMBER, "Xin thâu Nhập yêu Xinmục tiêuNgười chơicủaID:\n"

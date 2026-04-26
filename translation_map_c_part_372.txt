@@ -1,87 +1,87 @@
-﻿16820|<O>| "摄魂靴唐门" : "\"/item/final/88/4100\"",
-16821|<O>| result += ESC"使用归元术复活。\npf3 3293\n";
-16822|<O>| string get_name() { return "失明免疫"; }
-16823|<O>| "风魔袖里箭" : "\"/item/final/71/1055\"",
-16824|<O>| ESC"充值领骑宠的活动\ntalk %x# bonus.1016\n"
-16825|<O>| "远征鞋蜀山" : "\"/item/final/88/2075\"",
-16826|<O>| file->get_gender() == 1 ? "男" : "女",
-16827|<O>| map->add_reset(target);    // 加入复位列表
-16828|<O>| private string ProductID;		// 制作者的名字
-16829|<O>| item = new("item/std/8005");	//残旧藏宝图
-16830|<O>| notify(obj->get_name() + "不能卖给别人。");
-16831|<O>| string get_name() { return "灵谷洞３"; }
-16832|<O>| case "游侠": type = "PALADIN";  break;
-16833|<O>| result += ESC"禁止活动号登录\nparty 101\n";
-16834|<O>| send_user(who, "%c%s", '!', "活动开启");
-16835|<O>| "映日鞋蜀山" : "\"/item/final/88/2115\"",
-16836|<O>| string get_name() { return "小山道２"; }
-16837|<O>| ESC "关闭\nCLOSE\n", me->get_name()));
-16838|<O>| item = new("/item/91/9100");   //行军散
-16839|<O>| _DEBUG(sprintf("门派随机数%d",rand_int));
-16840|<O>| "古藤鞋茅山" : "\"/item/final/88/5020\"",
-16841|<O>| "黑玉断续膏" : "\"/item/final/91/1803\"",
-16842|<O>| ESC "血石\n" + "findgm setbonus 3\n" +
-16843|<O>| else if ( p < 90 )	//长血高物防高法防型:远程暗器类
-16844|<O>| ESC"一只黑球兑换5张回帮符\ntalk %x# bonus.3\n"
-16845|<O>| SAY_CMD->say(me, "来一个砍一个！来两个杀一双！！");
-16846|<O>| case "昆仑山" : hp = me->get_con() * 3;
-16847|<O>| "金项链茅山" : "\"/item/final/86/5020\"",
-16848|<O>| "龙骨冠茅山" : "\"/item/final/65/5119\"",
-16849|<O>| if (rate < 50 * rate1 / 100)		//藏宝图2
-16850|<O>| + sprintf(ESC"按预定时间开启\nparty 214\n")
-16851|<O>| string get_name() { return "赵长城１"; }
-16852|<O>| string get_name() { return "弱点攻击"; }
-16853|<O>| "青云冠茅山" : "\"/item/final/65/5065\"",
-16854|<O>| string get_name() { return "阴山草原"; }
-16855|<O>| if ( size > MAX_CARRY -i)	//不够空位不给领奖
-16856|<O>| who->add_strength(-20);    // 体力 -20
-16857|<O>| result += ESC"设置活动时间\nparty 1223\n";
-16858|<O>| string get_name() { return "封魔免疫"; }
-16859|<O>| desc = "用露水酿制的美酒，14秒内恢复玩家1470点法力值。";
-16860|<O>| string get_name() { return "秦长城２"; }
-16861|<O>| string get_name() { return "诛仙阵３"; }
-16862|<O>| desc = "稻米酿制的一种水酒,20秒内恢复玩家350点法术力。";
-16863|<O>| "无尘鞋蜀山" : "\"/item/final/88/2105\"",
-16864|<O>| ESC"了解帮派齐心合力奖\ntalk %x# welcome.7\n"
-16865|<O>| + sprintf(ESC"活动号登录控制\nparty 100\n")
-16866|<O>| send_user(me, "%c%s", '!', "密钥错误。");
-16867|<O>| string get_name() { return "沼泽边缘"; }
-16868|<O>| string get_name() { return "郑国渠３"; }
-16869|<O>| ESC "法石\n" + "findgm setbonus 4\n" +
-16870|<O>| ESC "请帮助我恢复吧～\ntalk %x# welcome.1\n"
-16871|<O>| return "雪雕套装其中之一,相传穿上\n全套就会拥有神秘的力量";
-16872|<O>| item = new("item/std/8000");	//普通藏宝图
-16873|<O>| string get_name() { return "高级复生"; }
-16874|<O>| "破云鞋蜀山" : "\"/item/final/88/2100\"",
-16875|<O>| if (who->is_badman())    // 只能控制野外的怪
-16876|<O>| send_user(who, "%c%s", '!', "活动关闭");
-16877|<O>| printf(ECHO "使用“" PF_NAME "”得装备枪。");
-16878|<O>| sprintf(ESC "防御: %d\n", dp) + cmd4 +
-16879|<O>| string get_name() { return "无定河畔"; }
-16880|<O>| init_virtual_map(z, p);    // 生成虚拟地图
-16881|<O>| string get_name() { return "楚方城３"; }
-16882|<O>| send_user(who,"%c%s",'!',"挖宝活动开启！");
-16883|<O>| "魔王巾蜀山" : "\"/item/final/65/2115\"",
-16884|<O>| send_user(who, "%c%s", '!', "获得红包");
-16885|<O>| cName = player->get_name() + "(团长)";
-16886|<O>| desc = "农家自酿的一种水酒,20秒内恢复玩家700点法术力。";
-16887|<O>| if (time() > iBagTime) cmd2 = "已过期";
-16888|<O>| "皮甲桃花源" : "\"/item/final/60/1020\"",
-16889|<O>| send_user(me, "%c%s", '!', "点卡已过期");
-16890|<O>| "虚空冠茅山" : "\"/item/final/65/5095\"",
-16891|<O>| "七宝靴唐门" : "\"/item/final/88/4105\"",
-16892|<O>| string get_name() { return "水榭花都"; }
-16893|<O>| notify("你的等级不足‘装备星数×10’级，不足锻造该装备。");
-16894|<O>| "天水靴唐门" : "\"/item/final/88/4030\"",
-16895|<O>| notify(who->get_name() + "不想接受东西。");
-16896|<O>| if (equip->get_real_name() == "锻造石")
-16897|<O>| void begin_hoe(object player);//开始挖宝
-16898|<O>| string get_name() { return "嵩山秘道"; }
-16899|<O>| "凤羽靴唐门" : "\"/item/final/88/4090\"",
-16900|<O>| item = new ("item/04/0464");//重阳大礼包
-16901|<O>| ESC "燕国\n" + "findgm setmap 70\n" +
-16902|<O>| case "农民": type = "FARMER";  break;
-16903|<O>| interval = ADD_AP;    // 小心准备 level
-16904|<O>| "初级物攻" : "\"/item/final/15/1502\"",
-16905|<O>| || !item->is_usable_2())    // 不能使用
-16906|<O>| for (i = 0;i < 3;i++)	//80级随机白色配方3个
+﻿16820|<O>| "nhiếp Hồn HiaĐường Môn" : "\"/item/final/88/4100\"",
+16821|<O>| result += ESC"Sử dụngQuy Nguyên ThuậtPhục sinh。\npf3 3293\n";
+16822|<O>| string get_name() { return "Thất minhMiễn dịch"; }
+16823|<O>| "PhongMatụtrongTiễn" : "\"/item/final/71/1055\"",
+16824|<O>| ESC"sung Trị lĩnh Kỵ sủngcủahoạt động\ntalk %x# bonus.1016\n"
+16825|<O>| "Viễn ChinhHiaThục Sơn" : "\"/item/final/88/2075\"",
+16826|<O>| file->get_gender() == 1 ? "Nam" : "Nữ",
+16827|<O>| map->add_reset(target);    // Gia Nhập phục vị liệt biểu
+16828|<O>| private string ProductID;		// Chế tạogiảcủaDanh tự
+16829|<O>| item = new("item/std/8005");	//tàncũTàng Bảo Đồ
+16830|<O>| notify(obj->get_name() + "không thểbánchobiệt Nhân。");
+16831|<O>| string get_name() { return "Linh Cốc Động３"; }
+16832|<O>| case "du Hiệp": type = "PALADIN";  break;
+16833|<O>| result += ESC"Cấm chỉhoạt độnghiệu đăng lục\nparty 101\n";
+16834|<O>| send_user(who, "%c%s", '!', "hoạt độngMở");
+16835|<O>| "ánh Nhật HiaThục Sơn" : "\"/item/final/88/2115\"",
+16836|<O>| string get_name() { return "nhỏSơn Đạo２"; }
+16837|<O>| ESC "Đóng\nCLOSE\n", me->get_name()));
+16838|<O>| item = new("/item/91/9100");   //Hành quân tán
+16839|<O>| _DEBUG(sprintf("Môn pháiNgẫu nhiênsố%d",rand_int));
+16840|<O>| "Cổ đằng HiaMao Sơn" : "\"/item/final/88/5020\"",
+16841|<O>| "Hắc Ngọc đoạn tục cao" : "\"/item/final/91/1803\"",
+16842|<O>| ESC "Huyết Thạch\n" + "findgm setbonus 3\n" +
+16843|<O>| else if ( p < 90 )	//dàiHuyếtcaoVật phòngcaoPháp phònghình:Viễn trìnhÁm Khíloại
+16844|<O>| ESC"NhấtchỉHắc cầu đổi hoán5Trương Hồi Bang Phù\ntalk %x# bonus.3\n"
+16845|<O>| SAY_CMD->say(me, "đến Nhất chặt Nhất！đến lưỡng Sát Nhất song！！");
+16846|<O>| case "Côn Lôn Sơn" : hp = me->get_con() * 3;
+16847|<O>| "VàngHạng LiênMao Sơn" : "\"/item/final/86/5020\"",
+16848|<O>| "LongCốt QuanMao Sơn" : "\"/item/final/65/5119\"",
+16849|<O>| if (rate < 50 * rate1 / 100)		//Tàng Bảo Đồ2
+16850|<O>| + sprintf(ESC"án dự địnhgiờgianMở\nparty 214\n")
+16851|<O>| string get_name() { return "TriệudàiThành１"; }
+16852|<O>| string get_name() { return "nhượcđiểmTấn công"; }
+16853|<O>| "Thanh Vân QuanMao Sơn" : "\"/item/final/65/5065\"",
+16854|<O>| string get_name() { return "Âm Sơn Thảo nguyên"; }
+16855|<O>| if ( size > MAX_CARRY -i)	//khôngđủ Không vịkhôngcholĩnh thưởng
+16856|<O>| who->add_strength(-20);    // Thể lực -20
+16857|<O>| result += ESC"thiết tríhoạt độnggiờgian\nparty 1223\n";
+16858|<O>| string get_name() { return "PhongMaMiễn dịch"; }
+16859|<O>| desc = "dùng lộThủynhưỡng chếcủaMỹ Tửu，14giây phục hồi cho người chơi1470điểm Pháp Lực。";
+16860|<O>| string get_name() { return "TầndàiThành２"; }
+16861|<O>| string get_name() { return "truTiênTrận３"; }
+16862|<O>| desc = "đạo mễ nhưỡng chếcủaMột loạiThủyTửu,20giây phục hồi cho người chơi350điểm Pháp thuật lực。";
+16863|<O>| "vô Trần HiaThục Sơn" : "\"/item/final/88/2105\"",
+16864|<O>| ESC"Giảibang pháiTề Tâm Hợp Lực thưởng\ntalk %x# welcome.7\n"
+16865|<O>| + sprintf(ESC"hoạt độnghiệu đăng lục khống chế\nparty 100\n")
+16866|<O>| send_user(me, "%c%s", '!', "Mật chìa sai ngộ。");
+16867|<O>| string get_name() { return "chiểu trạch Biên Duyên"; }
+16868|<O>| string get_name() { return "Trịnh Quốc cừ３"; }
+16869|<O>| ESC "Pháp Thạch\n" + "findgm setbonus 4\n" +
+16870|<O>| ESC "Xin Bang TrợtôiPhục hồi～\ntalk %x# welcome.1\n"
+16871|<O>| return "Tuyết Điêu bộ trang kỳgiữaChi Nhất,Tương truyền khi mặc\ntoàn bộ sẽ sở hữu sức mạnh thần bí";
+16872|<O>| item = new("item/std/8000");	//phổ thôngTàng Bảo Đồ
+16873|<O>| string get_name() { return "caocấpphục sinh"; }
+16874|<O>| "Phá Vân HiaThục Sơn" : "\"/item/final/88/2100\"",
+16875|<O>| if (who->is_badman())    // chỉNăng khống chế dãngoàicủaquái
+16876|<O>| send_user(who, "%c%s", '!', "hoạt độngĐóng");
+16877|<O>| printf(ECHO "Sử dụng“" PF_NAME "”đượcTrang bịThương。");
+16878|<O>| sprintf(ESC "Phòng thủ: %d\n", dp) + cmd4 +
+16879|<O>| string get_name() { return "vô định Hà bạn"; }
+16880|<O>| init_virtual_map(z, p);    // sinh thành hư nghĩbản đồ
+16881|<O>| string get_name() { return "Sở Phương Thành３"; }
+16882|<O>| send_user(who,"%c%s",'!',"đào Bảohoạt độngMở！");
+16883|<O>| "MaVương CânThục Sơn" : "\"/item/final/65/2115\"",
+16884|<O>| send_user(who, "%c%s", '!', "hoạch được Hồng bao");
+16885|<O>| cName = player->get_name() + "(đoàndài)";
+16886|<O>| desc = "nông Gia Tự nhưỡngcủaMột loạiThủyTửu,20giây phục hồi cho người chơi700điểm Pháp thuật lực。";
+16887|<O>| if (time() > iBagTime) cmd2 = "đã qua kỳ";
+16888|<O>| "Bì GiápĐào Hoa Nguyên" : "\"/item/final/60/1020\"",
+16889|<O>| send_user(me, "%c%s", '!', "điểmthẻ đã qua kỳ");
+16890|<O>| "hư Không QuanMao Sơn" : "\"/item/final/65/5095\"",
+16891|<O>| "Thất Bảo HiaĐường Môn" : "\"/item/final/88/4105\"",
+16892|<O>| string get_name() { return "Thủytạ Hoađều"; }
+16893|<O>| notify("bạncủaCấp độkhôngtúc‘Trang bịTinh số×10’cấp，khôngtúc đoạn tạo nênTrang bị。");
+16894|<O>| "ngàyThủyHiaĐường Môn" : "\"/item/final/88/4030\"",
+16895|<O>| notify(who->get_name() + "khôngmuốnNhậnđồ vật。");
+16896|<O>| if (equip->get_real_name() == "đoạn tạo Thạch")
+16897|<O>| void begin_hoe(object player);//Bắt đầuđào Bảo
+16898|<O>| string get_name() { return "Tung Sơn Bí Đạo"; }
+16899|<O>| "PhượngVũ HiaĐường Môn" : "\"/item/final/88/4090\"",
+16900|<O>| item = new ("item/04/0464");//trọng Dươnglớnlễ bao
+16901|<O>| ESC "Yên Quốc\n" + "findgm setmap 70\n" +
+16902|<O>| case "nông dân": type = "FARMER";  break;
+16903|<O>| interval = ADD_AP;    // cẩn thận chuẩn bị level
+16904|<O>| "SơcấpVật Công" : "\"/item/final/15/1502\"",
+16905|<O>| || !item->is_usable_2())    // Không thể sử dụng
+16906|<O>| for (i = 0;i < 3;i++)	//80cấpNgẫu nhiênBạch Sắc Phối Phương3

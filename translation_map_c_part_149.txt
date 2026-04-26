@@ -20,10 +20,10 @@
 3258|<O>| #define ADD_AP          me->get_pf_value(THIS_SKILL, SKILL_LEVEL_SQUARE, 12, 340)    // Cảnh báo:me cần chuẩn bị sẵn
 3259|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi xác định muốn dùng một quả cầu đen để đổi 10 tấm phi hành phù không？\n"
 3260|<O>| #define INIT_DP         me->get_pf_value(THIS_SKILL, SKILL_LEVEL_SQUARE, 112, 28)    // Cảnh báo:me cần chuẩn bị sẵn
-3261|<O>| ret += sprintf("%sDễ xô ngã\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"易推倒"))?PPM:WHT);
+3261|<O>| ret += sprintf("%sDễ xô ngã\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Dịch Suy Đảo"))?PPM:WHT);
 3262|<O>| send_user(player,"%c%c%w%s",':',3,npc->get_char_picid(),npc->get_name()+":\n"+dailogue+ESC"Rời khỏi\n");
 3263|<O>| #define INIT_CP         me->get_pf_value(THIS_SKILL, SKILL_LEVEL_SQUARE, 139, 34)    // Cảnh báo:me cần chuẩn bị sẵn
-3264|<O>| ret += sprintf("%sNgoan ngoãn\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"乖巧"))?PPM:WHT);
+3264|<O>| ret += sprintf("%sNgoan ngoãn\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Quai Xảo"))?PPM:WHT);
 3265|<O>| #define ADD_AP          me->get_pf_value(THIS_SKILL, SKILL_LEVEL_SQUARE, 10, 420)    // Cảnh báo:me cần chuẩn bị sẵn
 3266|<O>| //              if( z != z0 ) if( map = get_map_object(z) ) notify( map->get_name() );    // Hiển thị tên bản đồ
 3267|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Ngươi xác định muốn dùng một quả cầu lam để đổi 10 viên Hoạt Lạc Hoàn không？\n"

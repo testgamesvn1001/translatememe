@@ -1,5 +1,5 @@
 3393|<O>| send_user( member[i], "%c%s", ';', sprintf(HIY"Trời hư đất cạn, hôm nay ta %s lại giáng lâm thế gian, nhất định sẽ giết sạch người dưới nhân gian。",npc1->get_name()) );
-3394|<O>| ret += sprintf("%sNữ Vương\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"女王"))?PPM:WHT);
+3394|<O>| ret += sprintf("%sNữ Vương\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Nữ Vương"))?PPM:WHT);
 3395|<O>| DEBUG(this_player(),sprintf("Kiểm tra--new_copy_npc->copy_npc_count=%d",map->get("copy_npc_count")));
 3396|<O>| "Fmũ C+30" : "\"/item/66/3030\"", "Fmũ C+40" : "\"/item/66/3040\"", "Fmũ C+50" : "\"/item/66/3050\"",
 3397|<O>| see = get_range_object(get_z(me), get_x(me), get_y(me), seek, CHAR_TYPE) - ({ me });    // Phạm vi có thể thấy
@@ -7,10 +7,10 @@
 3399|<O>| if (abs(owner->get_level()-me->get_level())>20) notify( "%s chênh lệch cấp với ngài quá 20 cấp。", owner->get_name() );
 3400|<O>| "Máo C+30" : "\"/item/60/3030\"", "Máo C+40" : "\"/item/60/3040\"", "Máo C+50" : "\"/item/60/3050\"",
 3401|<O>| send_user(who, "%c%s", ':', sprintf("%s:\nPhong cảnh nơi đây thật đẹp, trời xanh, mây trắng, thác nước, chim hót, cây xanh, hoa đỏ, bảo ta ở đây cả đời ta cũng bằng lòng。\n", get_name())
-3402|<O>| ret += sprintf("%sNgự Muội\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"御妹"))?PPM:WHT);
-3403|<O>| ret += sprintf("%sNhân Thê\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"人妻"))?PPM:WHT);
+3402|<O>| ret += sprintf("%sNgự Muội\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Ngự Muội"))?PPM:WHT);
+3403|<O>| ret += sprintf("%sNhân Thê\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Nhân Thê"))?PPM:WHT);
 3404|<O>| send_user(who, "%c%s", ':', sprintf("%s:\nHộ tịch của ngài đã bị xóa rồi, giờ ngài với %s không còn bất cứ quan hệ gì nữa。\n", me->get_name(), name1));
-3405|<O>| ret += sprintf("%sNơ bướm\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"蝴蝶结"))?PPM:WHT);
+3405|<O>| ret += sprintf("%sNơ bướm\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Hồ Điệp Kết"))?PPM:WHT);
 3406|<O>| "Máo A+30" : "\"/item/60/1030\"", "Máo A+40" : "\"/item/60/1040\"", "Máo A+50" : "\"/item/60/1050\"",
 3407|<O>| "Mmũ A+30" : "\"/item/65/1030\"", "Mmũ A+40" : "\"/item/65/1040\"", "Mmũ A+50" : "\"/item/65/1050\"",
 3408|<O>| "Mmũ B+30" : "\"/item/65/2030\"", "Mmũ B+40" : "\"/item/65/2040\"", "Mmũ B+50" : "\"/item/65/2050\"",
@@ -32,7 +32,7 @@
 3424|<O>| "Máo B+30" : "\"/item/60/2030\"", "Máo B+40" : "\"/item/60/2040\"", "Máo B+50" : "\"/item/60/2050\"",
 3425|<O>| cWord = sprintf(me->get_name() + ":\n    Cô nương nhỏ, ngươi cũng muốn tặng một miếng sô cô la cho người mình yêu sao？Nhưng cỗ máy làm sô cô la cần ngươi trả ra một lượng lớn pháp lực mới vận hành được, ngươi có bằng lòng không？");
 3426|<O>| tell_user(who, HIY "%s(%d) đã sửa cấp bậc của ngài từ %s thành %s。", me->get_name(), me->get_number(), class0, class1);
-3427|<O>| ret += sprintf("%sThân mềm\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"体柔"))?PPM:WHT);
+3427|<O>| ret += sprintf("%sThân mềm\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Thể Nhu"))?PPM:WHT);
 3428|<O>| send_user(who, "%c%s", ';', sprintf("Du hồn（7）  Kinh nghiệm 85000  Tiềm năng 14000  Tiền 86000  %s 1", tmp->get_name()));
 3429|<O>| //                        if( me->get_perform(PF_FLAG_02514) ) pf += ({ 2514 });    // Hoành Tảo Thiên Quân(tự dùng)
 3430|<O>| "Fáo B+30" : "\"/item/61/2030\"", "Fáo B+40" : "\"/item/61/2040\"", "Fáo B+50" : "\"/item/61/2050\"",

@@ -2,8 +2,8 @@
 3127|<O>| log_file("buyitem.dat", sprintf("%s %s(%d) mua hàng không đủ ô trống\n", short_time(), me->get_id(), me->get_number()));
 3128|<O>| //                      if( !who->get_max_damage() ) who->init_enemy_damage(me, 0);    // Ghi lại sát thương mạnh nhất(NPC)
 3129|<O>| //#define TIME_INTERVAL   me->get_pf_value(THIS_SKILL, SKILL_LEVEL_SQUARE, 18, 5000)    // Cảnh báo:me cần chuẩn bị sẵn
-3130|<O>| ret += sprintf("%sHài Liệp Báo\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"猎豹之靴"))?PPM:WHT);
-3131|<O>| ret += sprintf("%sGiáp Mãnh Hổ\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"猛虎皮衣"))?PPM:WHT);
+3130|<O>| ret += sprintf("%sHài Liệp Báo\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Liệp Báo Chi Hia"))?PPM:WHT);
+3131|<O>| ret += sprintf("%sGiáp Mãnh Hổ\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Mãnh Hổ Bì Y"))?PPM:WHT);
 3132|<O>| case 13: send_user(who, "%c%s", ':', sprintf("%s:\nCòn để người ta nói chuyện nữa không？Vẫn là bỏ ý định kinh thương đi。(thương nghiệp %+d)", me->get_name(), p));
 3133|<O>| if (get_heart_beat(obj)) result += sprintf("heart[%d,%d/%d,%d]%d (%d) ",    // Chú ý:get_heart_beat hiệu suất quá thấp
 3134|<O>| "Quy Tiên Nhân" : (["prop":({ 1330,0876,0991,1194,0970,1070,1240 }), "ski" : ({ "Phục Sinh Cao Cấp","Ngự Pháp Cao Cấp","Thủy Kích","Phiên Vân Phúc Vũ" })]),
@@ -17,8 +17,8 @@
 3142|<O>| MAILBOX->sys_mail(orgnpc->get_master_id(), orgnpc->get_master(), HIW"    Thuế kim của Vô Song Thành mà ngài chiếm lĩnh đã đạt giới hạn, thuế kim sẽ không tăng thêm nữa！！");
 3143|<O>| MAILBOX->sys_mail(line[0], nId[i], "Chúc mừng chúc mừng, sau khoảng thời gian khảo nghiệm này cùng với nỗ lực của chính ngươi, ngươi đã trở thành kỹ năng sư được vạn người chú ý. Đừng chần chừ nữa, mau tới chỗ Như Ý Tiên Tử nhận danh hiệu và phần thưởng của ngươi đi！");
 3144|<O>| send_user(who, "%c%s", ';', sprintf("Vết máu thôn Hồ Khẩu  Kinh nghiệm 2600  Tiềm năng 90  Tiền 2200  Bản vẽ bom đất 1 %s 1", tmp->get_name()));
-3145|<O>| ret += sprintf("%sMũ Cuồng Sư\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"狂狮头盔"))?PPM:WHT);
-3146|<O>| ret += sprintf("%sMũ Cự Tượng\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"巨象头盔"))?PPM:WHT);
+3145|<O>| ret += sprintf("%sMũ Cuồng Sư\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Cuồng Sư Đầu Khôi"))?PPM:WHT);
+3146|<O>| ret += sprintf("%sMũ Cự Tượng\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Cự Tượng Đầu Khôi"))?PPM:WHT);
 3147|<O>| if ( who->get_quest("valentine.flag") == 8 && !objectp( item = present("Đậu sô cô la", who, 1, MAX_CARRY) ))
 3148|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Chẳng phải ngươi đã nhận tín vật rồi sao？Mau đi tìm người có duyên của ngươi đi！\n"
 3149|<O>| "    Như ngươi đã thấy, toàn bộ cơ thể ta ngoài một đống rơm thì chỉ còn mảnh vải và cọc gỗ. Vì thế lũ quạ đáng chết kia lúc nào cũng cười nhạo ta là không có não. Tuy rất tức giận, nhưng đó cũng là sự thật. Nếu ta cũng có một cái đầu não như loài người, thì lũ quạ đó cũng đâu dám cười nhạo ta nữa。\n"
@@ -32,6 +32,6 @@
 3157|<O>| send_user(me, "%c%w%w%c%c%c%c%c%s", 0x64, THIS_PERFORM, SUB_MP, 0, 10, MAGIC_ACT_BEGIN, 0, 5, "Trận kỳ");
 3158|<O>| get_name() + ":\n    Nếu ngài là người chơi từng tham gia đợt thử nghiệm nhìn trước và đã nhận được mã nhận thưởng, vậy thì ngài có thể dùng mã đó tại chỗ ta để nhận về phần thưởng vô cùng phong phú。\n    Cảm ơn ngài đã ủng hộ trò chơi của chúng tôi, chúc ngài chơi game vui vẻ。\n"
 3159|<O>| send_user(who, "%c%c%w%s", ':', 3, 6010, sprintf("%s:\n    Xin lỗi, phí báo danh của ngươi không đủ, tạm thời không thể báo danh！\n", me->get_name()));
-3160|<O>| ret += sprintf("%sHài Linh Hồ\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"灵狐之靴"))?PPM:WHT);
+3160|<O>| ret += sprintf("%sHài Linh Hồ\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Linh Hồ Chi Hia"))?PPM:WHT);
 3161|<O>| case "Ngũ Lôi": seek = 6;  weapon[1] = "UNARMED";  weapon[2] = "PF_FILE_04232";  weapon[3] = "X";  break;
 3162|<O>| send_user(who,"%c%c%w%s",':', 3,npc->get_char_picid(),npc->get_name()+":\n    Rất tiếc, trận đấu này đã bắt đầu, không thể bỏ phiếu。");

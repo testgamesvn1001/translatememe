@@ -26,5 +26,5 @@
 2354|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Việc này có lẽ hơi khó khăn, nhưng ta vẫn hy vọng bạn sẽ giúp ta。\n"ESC"Rời khỏi", me->get_name()));
 2355|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Xem ra việc ủ ra loại rượu tuyệt thế mỹ tửu này chỉ có thể là một niềm nuối tiếc vĩnh viễn trong lòng ta。\n"ESC"Rời khỏi", me->get_name()));
 2356|<O>| send_user(who, "%c%c%w%s", ':', 3, get_char_picid(), sprintf("%s:\n    Ở chỗ ta bạn có thể học được tất cả các kỹ năng Dược Sư có thể học được ở Triệu Quốc đấy。\n", get_name(), getoid(me)) +
-2357|<O>| send_user(player, "%c%c%d%s", 0x43, 6, 0, HIY"Dưới sự đồng tâm hiệp lực của các dũng sĩ, cuối cùng đã đánh lui đại quân quái vật xâm nhập vào " + map->get_city() + map->get_name() + " của怪物大军，cảm ơn sự trợ giúp tận tình của các hiệp sĩ！");
+2357|<O>| send_user(player, "%c%c%d%s", 0x43, 6, 0, HIY"Dưới sự đồng tâm hiệp lực của các dũng sĩ, cuối cùng đã đánh lui đại quân quái vật xâm nhập vào " + map->get_city() + map->get_name() + " của Quái Vật Đại Quân,cảm ơn sự trợ giúp tận tình của các hiệp sĩ！");
 2358|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), sprintf("%s:\n    Nếu bạn vẫn chưa tìm thấy Vải, thì đành phải phiền bạn chạy đi chạy lại thêm vài chuyến rồi。\n"ESC"Rời khỏi", me->get_name()));

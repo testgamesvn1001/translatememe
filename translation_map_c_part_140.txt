@@ -2,10 +2,10 @@
 2910|<O>| send_user( who, "%c%c%w%s", ':',3,me->get_char_picid(), me->get_name() + ":\n    Đội trưởng của các ngươi đâu？Gọi đội trưởng tới đây。\n"ESC"Rời khỏi" );
 2911|<O>| send_user(player, "%c%c%w%s", ':', 3, 0, sprintf("Ngươi đã đánh bại thủ tịch đại đệ tử！\n"ESC"Rời khỏi đấu trường\ntalk %x# kickout", getoid(npc)));
 2912|<O>| send_user( player, "%c%s", '!', sprintf("Nhiệm vụ đã hoàn thành, hãy báo cáo với tổng quản %s。",player->get_save_2("mastertask.targetname")) );
-2913|<O>| ret += sprintf("%sYêu Đới Tuyết Điêu\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"雪雕羽带"))?PPM:WHT);
+2913|<O>| ret += sprintf("%sYêu Đới Tuyết Điêu\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Tuyết Điêu Vũ Đái"))?PPM:WHT);
 2914|<O>| send_user(who, "%c%c%w%s", ':', 3, this_object()->get_char_picid(), "Như Ý Tiên Tử:\n    Vật phẩm trên người ngươi quá nhiều, không thể nhận quà, hãy dọn trống rồi quay lại nhận。");
 2915|<O>| send_user(who, "%c%s", '!', sprintf("%s còn %d giờ nữa mới hết hiệu lực Khóa Càn Khôn。", obj2[i]->get_name(), obj2[i]->is_locked() / 3600));
-2916|<O>| ret += sprintf("%sHạng Liên Liệp Báo\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"猎豹项链"))?PPM:WHT);
+2916|<O>| ret += sprintf("%sHạng Liên Liệp Báo\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Liệp Báo Hạng Liên"))?PPM:WHT);
 2917|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), me->get_name() + ":\n    Ta đã tặng ngươi 30 phút thời gian kinh nghiệm gấp đôi, hãy nắm cho tốt。");
 2918|<O>| CHAT_D->rumor_gm_channel(0, sprintf("%s%s" HIM " -- %s(%d)", "Người nào đó", arg, me->get_name(), me->get_number()));
 2919|<O>| cmd1 = sprintf(ESC "Vô Môn Phái: %d/%d\nenergy %d 0\n", COUND_d->get_1(type2, 0), COUND_d->get_2(type2, 0), type2);
@@ -15,11 +15,11 @@
 2923|<O>| if ((get_effect(me, EFFECT_CHAR_DREAM_1) || get_effect(me, EFFECT_CHAR_DREAM)) && !server)    // Mộng du(đi ngẫu nhiên) mất hồn
 2924|<O>| result += sprintf(ESC"Huyền Vũ Môn Bảo Vệ Chiến(40～60 cấp)(số người:%d/40)\ntalk %x# defence.11\n", all[0]->sizeof_player_dbase(), id);
 2925|<O>| cmd8 = sprintf(ESC "Vân Mộng Trạch: %d/%d\nenergy %d 7\n", COUND_d->get_1(type2, 7), COUND_d->get_2(type2, 7), type2);
-2926|<O>| ret += sprintf("%sHạng Liên Cự Tượng\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"巨象项链"))?PPM:WHT);
+2926|<O>| ret += sprintf("%sHạng Liên Cự Tượng\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Cự Tượng Hạng Liên"))?PPM:WHT);
 2927|<O>| result = sprintf(get_name() + ":\n    Ngươi đã đổi thành công 1 giờ thời gian kinh nghiệm gấp đôi, tuần này ngươi còn "HIR"%d giờ"NOR" thời gian gấp đôi bổ sung có thể nhận, hãy nắm cho tốt。\n", 3 - p);
 2928|<O>| CHAT_D->sys_channel(0, HIY"Nhờ sự đồng tâm hiệp lực của các dũng sĩ, cuối cùng cũng đã đánh lui đại quân quái vật xâm nhập " + map->get_city() + map->get_name() + "，xin cảm ơn chư vị hiệp sĩ đã hết lòng tương trợ！");
 2929|<O>| "Cuối cùng đã giết chết phó tướng rồi trốn về núi, phụ thân ta từng cưu mang hắn, lại vô tình để hắn biết đến Kim Long Châu gia truyền. Tuy chưa từng biết nó có tác dụng lớn đến đâu, nhưng vẫn luôn cẩn thận cất giữ. Tên ác phỉ kia vừa nghe tới mấy chữ Kim Long Châu là mắt sáng rực lên. Sau này phụ thân ta chết trong chiến loạn, huynh đệ chúng ta cũng lưu lạc tới đây, không biết hắn làm sao tìm được chúng ta，"
-2930|<O>| ret += sprintf("%sHạng Liên Cuồng Sư\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"狂狮项链"))?PPM:WHT);
+2930|<O>| ret += sprintf("%sHạng Liên Cuồng Sư\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Cuồng Sư Hạng Liên"))?PPM:WHT);
 2931|<O>| send_user(who, "%c%c%w%s", ':', 3, me->get_char_picid(), me->get_name() + ":\n    Đội trưởng của các ngươi đâu？Gọi đội trưởng tới đây。\n"ESC"Rời khỏi");
 2932|<O>| result += sprintf(ESC"Chu Tước Môn Bảo Vệ Chiến(50～70 cấp)(số người:%d/40)\ntalk %x# defence.12\n", all[1]->sizeof_player_dbase(), id);
 2933|<O>| cmd4 = sprintf(ESC "Cấm Vệ Quân: %d/%d\nenergy %d 3\n", COUND_d->get_1(type2, 3), COUND_d->get_2(type2, 3), type2);

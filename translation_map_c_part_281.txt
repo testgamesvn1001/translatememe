@@ -1,62 +1,62 @@
-﻿10118|<O>| if (city = CITY_D->get_city_object(who))    // 以后要加敌对判断
-10119|<O>| who->add_strength(-20);    // 体力 -20, 商人经验 +100, 声望 +10
-10120|<O>| flag = who->is_user();    // NPC 不受 no_drop, no_give 限制
-10121|<O>| send_user(who, "%c%s", '!', sprintf(HIY"发绳 %d/20", i));
-10122|<O>| return HIC+get_name()+"\n拥有此技能的宠物，5%的几率对敌方造成连续2次物理伤害。";
-10123|<O>| if (TASK_LEGEND_D->check_task_item(who, "玉兰石", 1) != 1)
-10124|<O>| if (TASK_LEGEND_D->check_task_item(who, "木头", 20) != 1)
-10125|<O>| private int Poison;                             // 中毒点数
-10126|<O>| if (TASK_LEGEND_D->check_task_item(who, "现行粉", 1) != 1)
-10127|<O>| if (objectp(item = present("巧克力豆", who, 1, MAX_CARRY)))
-10128|<O>| //                     case 5 : name3 = "发动战争";  break;
-10129|<O>| if (TASK_LEGEND_D->check_task_item(who, "石炭", 10) != 1)
-10130|<O>| __FILE__->sort_board(who,"cash_player","cash"); //财富表更新
-10131|<O>| && who->get_quest("valentine.flag") == 2    // 2. 诡异的飞贼
-10132|<O>| if (TASK_LEGEND_D->check_task_item(who, "紫葡萄", 1) != 1)
-10133|<O>| if (TASK_LEGEND_D->check_task_item(who, "古石灰", 5) != 1)
-10134|<O>| send_user(who, "%c%s", '!', sprintf(HIY"土鸡蛋 %d/7", i));
-10135|<O>| private static mapping mpMP = ([]);            // 临时数据集
-10136|<O>| send_user(who, "%c%s", '!', sprintf(HIY"辣椒 %d/20", i));
-10137|<O>| case CAVE_MAP: printf(ECHO "对方在地下，不能使用“" PF_NAME "”。");
-10138|<O>| npc->set_name(sprintf("情人节流氓(%d)", who->get_number()));
-10139|<O>| send_user(me, "%c%s", '!', get_name() + "一生只能使用 5 次。");
-10140|<O>| if (TASK_LEGEND_D->check_task_item(who, "文竹", 20) != 1)
-10141|<O>| //                        ESC "工作。(需 10 点体力)\n" + cmd +
-10142|<O>| return "［裁缝］可以让玩家使用物料制造出衣服，容器物品。玩家制造出来的服装都有制造者的角色名。\n";
-10143|<O>| tmp += sprintf(ESC HIY "雪水\ntalk %x# welcome.9\n", id);
-10144|<O>| if (gone_time(me->get("birthday")) >= 3600)    // 60 分钟
-10145|<O>| send_user(who, "%c%s", '!', sprintf(HIY"玉雕 %d/20", i));
-10146|<O>| private static object* dbReset = ({ });         // 刷新数组
-10147|<O>| private static string Leader;                   // 队长对象
-10148|<O>| send_user(who, "%c%s", '!', sprintf(HIY"金精 %d/10", i));
-10149|<O>| send_user(who, "%c%s", '!', "对不起，您的户籍在" + name1 + "。");
-10150|<O>| if (TASK_LEGEND_D->check_task_item(who, "气脉丹", 5) != 1)
-10151|<O>| result += sprintf(ESC "领取种子播种。\ntalk %x# plant\n", id);
-10152|<O>| send_user(who, "%c%s", '!', sprintf(HIY"枪魂 %d/10", i));
-10153|<O>| send_user(who, "%c%s", ';', sprintf("你获得%s。", result));
-10154|<O>| tell_user(me, sprintf("%d: %s 无法找到存档ID", id, name[i]));
-10155|<O>| write_user(who, ECHO "造谣不成功，%s已经走开了。", me->get_name());
-10156|<O>| private int NoSell;                     // 不可售卖(不能sell)
-10157|<O>| if (TASK_LEGEND_D->check_task_item(who, "调兵符", 1) != 1)
-10158|<O>| who->log_legend(sprintf("您在%s处洗属性点。",npc->get_name()));
-10159|<O>| send_user(who, "%c%s", '!', sprintf(HIY"文竹 %d/20", i));
-10160|<O>| delete_save_2(sprintf("%s.%d",type,id1)); //删除最后位置上玩家信息
-10161|<O>| if (!objectp(item = present("试炼石", who, 1, MAX_CARRY)))
-10162|<O>| send_user(who, "%c%s", '!', sprintf(HIY"豺狗 %d/10", i));
-10163|<O>| __FILE__->sort_mingren_power(who,"exp_player"); //实力表更新
-10164|<O>| "%s:\n哪来的家伙在这里无理取闹？快将他赶出去。\n", name4, me->get_name()));
-10165|<O>| if (TASK_LEGEND_D->check_task_item(who, "发夹", 10) != 1)
-10166|<O>| send_user(who, "%c%s", '!', sprintf(HIY"枪魂 %d/30", i));
-10167|<O>| send_user(who, "%c%s", '!', sprintf(HIY"蟹将 %d/20", i));
-10168|<O>| //              send_user( who, "%c", 0x4d );//系统邮件不用这个
-10169|<O>| write_user(who, ECHO "游说没效果，%s已经走开了。", me->get_name());
-10170|<O>| send_user(who, "%c%s", ';', "火焰石已经收集好,请找新手村的当铺老板完成任务");
-10171|<O>| send_user(me, "%c%w%w%c", 0x07, x0, y0, 10);    // 坐标修正
-10172|<O>| send_user(who, "%c%s", '!', sprintf(HIY"石虎 %d/30", i));
-10173|<O>| send_user(who, "%c%s", '!', sprintf(HIY"水鬼 %d/10", i));
-10174|<O>| private static int group_id;                   	// 团队ID
-10175|<O>| send_user(who, "%c%s", '!', sprintf(HIY"龟仙人 %d/6", i));
-10176|<O>| send_user(who, "%c%s", '!', sprintf(HIY"僵尸 %d/30", i));
-10177|<O>| send_user(who, "%c%s", '!', sprintf(HIY"南瓜 %d/20", i));
-10178|<O>| private int MaxYuan = 1, Yuan = 1;              // 元气点数
-10179|<O>| if (TASK_LEGEND_D->check_task_item(who, "佛龙珠", 1) != 1)
+﻿10118|<O>| if (city = CITY_D->get_city_object(who))    // DĩsaucầnGia Địchđối vớiphán đoạn
+10119|<O>| who->add_strength(-20);    // Thể lực -20, Thương NhânKinh nghiệm +100, Thanh vọng +10
+10120|<O>| flag = who->is_user();    // NPC khôngthụ no_drop, no_give hạn chế
+10121|<O>| send_user(who, "%c%s", '!', sprintf(HIY"phát thằng %d/20", i));
+10122|<O>| return HIC+get_name()+"\nSủng vật sở hữu kỹ năng này，5%củamấy suấtđối vớiĐịch Phương tạo thành Liên tục2lầnVật lý Thương hại。";
+10123|<O>| if (TASK_LEGEND_D->check_task_item(who, "Ngọc Lan Thạch", 1) != 1)
+10124|<O>| if (TASK_LEGEND_D->check_task_item(who, "Mộcđầu", 20) != 1)
+10125|<O>| private int Poison;                             // giữaĐộcđiểmsố
+10126|<O>| if (TASK_LEGEND_D->check_task_item(who, "hiện Hành Phấn", 1) != 1)
+10127|<O>| if (objectp(item = present("Xảo Khắc Lực đậu", who, 1, MAX_CARRY)))
+10128|<O>| //                     case 5 : name3 = "Phát Động Chiến Tranh";  break;
+10129|<O>| if (TASK_LEGEND_D->check_task_item(who, "Thạch than", 10) != 1)
+10130|<O>| __FILE__->sort_board(who,"cash_player","cash"); //tài phú biểu càngmới
+10131|<O>| && who->get_quest("valentine.flag") == 2    // 2. quỷ dịcủaPhi tặc
+10132|<O>| if (TASK_LEGEND_D->check_task_item(who, "Tử bồ đào", 1) != 1)
+10133|<O>| if (TASK_LEGEND_D->check_task_item(who, "Cổ Thạch hôi", 5) != 1)
+10134|<O>| send_user(who, "%c%s", '!', sprintf(HIY"ThổKê đản %d/7", i));
+10135|<O>| private static mapping mpMP = ([]);            // Tập dữ liệu tạm
+10136|<O>| send_user(who, "%c%s", '!', sprintf(HIY"lạt tiêu %d/20", i));
+10137|<O>| case CAVE_MAP: printf(ECHO "đối vớiPhươngTạiĐịadưới，Không thể sử dụng“" PF_NAME "”。");
+10138|<O>| npc->set_name(sprintf("Tình Nhân tiết lưu manh(%d)", who->get_number()));
+10139|<O>| send_user(me, "%c%s", '!', get_name() + "Nhất sinhchỉNăngSử dụng 5 lần。");
+10140|<O>| if (TASK_LEGEND_D->check_task_item(who, "Văn Trúc", 20) != 1)
+10141|<O>| //                        ESC "công tác。(nhu 10 điểm Thể lực)\n" + cmd +
+10142|<O>| return "［Tài Phùng］có thểđểNgười chơiSử dụngVật liệuChế tạoXuấtY phục，dung Khí Vật Phẩm。Người chơiChế tạoXuất đếncủaphục trangđềuCóChế tạogiảcủanhân vậtDanh。\n";
+10143|<O>| tmp += sprintf(ESC HIY "TuyếtThủy\ntalk %x# welcome.9\n", id);
+10144|<O>| if (gone_time(me->get("birthday")) >= 3600)    // 60 phút
+10145|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Ngọc Điêu %d/20", i));
+10146|<O>| private static object* dbReset = ({ });         // loátmớisố tổ
+10147|<O>| private static string Leader;                   // độidàiđối tượng
+10148|<O>| send_user(who, "%c%s", '!', sprintf(HIY"VàngTinh %d/10", i));
+10149|<O>| send_user(who, "%c%s", '!', "Xin lỗi，BạncủaHộ tịchTại" + name1 + "。");
+10150|<O>| if (TASK_LEGEND_D->check_task_item(who, "khí Mạch Đơn", 5) != 1)
+10151|<O>| result += sprintf(ESC "lĩnh thủloạiTử báloại。\ntalk %x# plant\n", id);
+10152|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Thương Hồn %d/10", i));
+10153|<O>| send_user(who, "%c%s", ';', sprintf("bạnhoạch được%s。", result));
+10154|<O>| tell_user(me, sprintf("%d: %s vô Pháp tìmđếntồn đángID", id, name[i]));
+10155|<O>| write_user(who, ECHO "tạo daokhôngThành công，%sđãtẩu mở。", me->get_name());
+10156|<O>| private int NoSell;                     // khôngcó thể thụ bán(không thểsell)
+10157|<O>| if (TASK_LEGEND_D->check_task_item(who, "điều Binh Phù", 1) != 1)
+10158|<O>| who->log_legend(sprintf("BạnTại%sxử Tẩy thuộc tínhđiểm。",npc->get_name()));
+10159|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Văn Trúc %d/20", i));
+10160|<O>| delete_save_2(sprintf("%s.%d",type,id1)); //Xóatốisauvị trítrênNgười chơiTín tức
+10161|<O>| if (!objectp(item = present("thử Luyện Thạch", who, 1, MAX_CARRY)))
+10162|<O>| send_user(who, "%c%s", '!', sprintf(HIY"sài cẩu %d/10", i));
+10163|<O>| __FILE__->sort_mingren_power(who,"exp_player"); //thực Lực biểu càngmới
+10164|<O>| "%s:\nnàođếncủaGia hỏaTạinàytrongvô lý thủ Náo？nhanhTướnghắncản Xuất đi。\n", name4, me->get_name()));
+10165|<O>| if (TASK_LEGEND_D->check_task_item(who, "phát hiệp", 10) != 1)
+10166|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Thương Hồn %d/30", i));
+10167|<O>| send_user(who, "%c%s", '!', sprintf(HIY"giải Tướng %d/20", i));
+10168|<O>| //              send_user( who, "%c", 0x4d );//hệ thốngbưukiệnkhôngdùngnày
+10169|<O>| write_user(who, ECHO "du nói không hiệu Quả，%sđãtẩu mở。", me->get_name());
+10170|<O>| send_user(who, "%c%s", ';', "HỏaDiệm ThạchđãThu tậptốt,Xin tìmTân Thủ Thôncủađương phố Lão bảnHoàn thành nhiệm vụ");
+10171|<O>| send_user(me, "%c%w%w%c", 0x07, x0, y0, 10);    // Hiệu chỉnh tọa độ
+10172|<O>| send_user(who, "%c%s", '!', sprintf(HIY"ThạchHổ %d/30", i));
+10173|<O>| send_user(who, "%c%s", '!', sprintf(HIY"ThủyQuỷ %d/10", i));
+10174|<O>| private static int group_id;                   	// đoàn độiID
+10175|<O>| send_user(who, "%c%s", '!', sprintf(HIY"QuyTiênNhân %d/6", i));
+10176|<O>| send_user(who, "%c%s", '!', sprintf(HIY"cương thi %d/30", i));
+10177|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Nam qua %d/20", i));
+10178|<O>| private int MaxYuan = 1, Yuan = 1;              // Nguyên khíđiểmsố
+10179|<O>| if (TASK_LEGEND_D->check_task_item(who, "PhậtLongChâu", 1) != 1)

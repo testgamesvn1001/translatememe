@@ -1,96 +1,96 @@
-﻿18095|<O>| result = "请选择国庆节活动之——国庆赠礼操作:\n";
-18096|<O>| else if (rate < 9830)		//速效小治愈药水
-18097|<O>| //	else if( p < 99 )   // 随机配方一个
-18098|<O>| "青叶玉石" : "\"/item/stuff/0072\"",
-18099|<O>| if (obj && obj->is_pet())	//宠物下架
-18100|<O>| "靛青玉石" : "\"/item/stuff/0070\"",
-18101|<O>| ESC "我想报名\ntalk %x# welcome.1\n"
-18102|<O>| ESC"十个西瓜的报酬\ntalk %x# bonus.5\n"
-18103|<O>| #define PF_NAME        "高级麻战甲制作"
-18104|<O>| return "任务物品。一种用动物皮毛做成的用来书写的笔。";
-18105|<O>| return "活动专属骑宠笨笨。\n该道具使用后绑定。\n";
-18106|<O>| tell_user(who,"无双攻城战当前的状态是:开启");
-18107|<O>| "完美玉心" : "\"/item/stuff/0099\"",
-18108|<O>| result += sprintf(" %d 秒", sec);
-18109|<O>| notify("您不是本队伍的队长，您只能使自己脱离队伍。");
-18110|<O>| if (!clonep(me)) return "5级影晶石";
-18111|<O>| return "持续1小时内变身为牛头怪，可提升2%命中率。";
-18112|<O>| + sprintf(ESC"皇城守卫战\nparty 7\n")
-18113|<O>| return "活动专属骑宠胖胖。\n该道具使用后绑定。\n";
-18114|<O>| + sprintf(ESC"开始测试\nparty 48\n")
-18115|<O>| tell_user(who,"挖宝活动开启:%s！",arg);
-18116|<O>| return "经过矿冶技能熔炼的精铁矿，铁匠、机关所需材料";
-18117|<O>| #define PF_NAME        "超级无敌狗狗拳"
-18118|<O>| tell_user(who,"无双攻城战当前的状态是:关闭");
-18119|<O>| ESC"缘分对对碰领奖\ntalk %x# visit.3\n"
-18120|<O>| if (!clonep(me)) return "5级风晶石";
-18121|<O>| ESC "40 功德换 2200 潜能。\n" + cmd3 +
-18122|<O>| "赤红宝石" : "\"/item/stuff/0091\"",
-18123|<O>| ESC"离开", get_name(), id, id, id)
-18124|<O>| if (!clonep(me)) return "5级月晶石";
-18125|<O>| tell_user(me, "%s 无结束标记", file);
-18126|<O>| if(other_stat[4]) {				//	4 增加躲闪
-18127|<O>| #define PF_NAME        "暴雨梨花针锻造"
-18128|<O>| return "任务物品。战争时期常用的一种用来疗伤的药物。";
-18129|<O>| case 70 : place2 = "燕国";  break;
-18130|<O>| if (!clonep(me)) return "5级土晶石";
-18131|<O>| if (gone_time(summon) > 10)	//召唤
-18132|<O>| case 60 : place2 = "楚国";  break;
-18133|<O>| printf(ECHO "使用“" PF_NAME "”。");
-18134|<O>| "玉白玉石" : "\"/item/stuff/0060\"",
-18135|<O>| return "任务物品。化解魏管家第一个劫难的一种蔬菜。";
-18136|<O>| case 5: name3 = "发动战争";  break;
-18137|<O>| return "经过矿冶技能熔炼的铜矿，铁匠、机关所需材料";
-18138|<O>| #define PF_NAME        "凤天战巾制作"
-18139|<O>| log_file(LIST_LOG, "# 收集任务\n");
-18140|<O>| #define PF_NAME        "天狼皮衣制作"
-18141|<O>| "残缺墨玉晶石" : "\"/item/89/8908\"",
-18142|<O>| default: result = "友好";  break;
-18143|<O>| #define PF_NAME        "灵魂头带制作"
-18144|<O>| "残缺朱红晶石" : "\"/item/89/8904\"",
-18145|<O>| #define PF_NAME        "金属头盔制作"
-18146|<O>| tell_user(me, "重新编译: " + file);
-18147|<O>| #define PF_NAME        "天罡战盔制作"
-18148|<O>| "精铁矿" : "\"/item/stuff/0004\"",
-18149|<O>| "残缺琥珀晶石" : "\"/item/89/8919\"",
-18150|<O>| return "持续1小时内变身为疫鬼，可提升2%躲闪值。";
-18151|<O>| "罂粟果" : "\"/item/stuff/0110\"",
-18152|<O>| ESC"活动详细说明\ntalk %x# tiger.2\n"
-18153|<O>| if (item->get_name() == "贵重物品")
-18154|<O>| "黄宝石" : "\"/item/stuff/0098\"",
-18155|<O>| "残缺碧绿晶石" : "\"/item/89/8907\"",
-18156|<O>| log_file(LIST_LOG, "# 近攻鞋子\n");
-18157|<O>| SAY_CMD->say(me, "我闻到了活人的味道。");
-18158|<O>| return "天元丹:\n    每2秒可回复1点元气。";
-18159|<O>| #define PF_NAME        "破军蛇矛锻造"
-18160|<O>| #define PF_NAME        "虎爪拳套锻造"
-18161|<O>| "豹子胆" : "\"/item/stuff/0183\"",
-18162|<O>| printf(ECHO "您已召唤了豆兵或者迷魂了怪物。");
-18163|<O>| z += get_z(me) - 1 ;	//新手村1,2,3
-18164|<O>| #define PF_NAME        "强化金针渡厄"
-18165|<O>| "古石灰" : "\"/item/stuff/0135\"",
-18166|<O>| #define PF_NAME        "无极长袍制作"
-18167|<O>| #define PF_NAME        "潮汐之冠制作"
-18168|<O>| return "任务物品。魏国守卫急需用来购买粮食的货币。";
-18169|<O>| 这个程序用成查出怪点的 xy.c 文件，不过这种做法已被取消。
-18170|<O>| #define PF_NAME        "天机法袍制作"
-18171|<O>| #define PF_NAME        "鹅绒头巾制作"
-18172|<O>| ESC"七夕天赐奇缘\ntalk %x# visit.1\n"
-18173|<O>| return "持续1小时内变身为飞贼，可提升1%躲闪值。";
-18174|<O>| "橙宝石" : "\"/item/stuff/0078\"",
-18175|<O>| notify("战场中玩家不允许与战场外的玩家结成队伍！");
-18176|<O>| if (item2->get_name() != "兑奖牌")
-18177|<O>| "乌龟肉" : "\"/item/stuff/0176\"",
-18178|<O>| "橙玉石" : "\"/item/stuff/0055\"",
-18179|<O>| #define PF_NAME        "战斗长靴制作"
-18180|<O>| #define PF_NAME        "混天斗篷制作"
-18181|<O>| #define PF_NAME        "流云斗笠制作"
-18182|<O>| notify("您能封闭的频道有:chat, rumor");
-18183|<O>| "破损的头盔" : "在楚方城杀楚军刀兵可以得到破损的头盔",
-18184|<O>| result = result + HIR"10000经验";
-18185|<O>| "残缺天青晶石" : "\"/item/89/8911\"",
-18186|<O>| #define PF_NAME        "流沙披风制作"
-18187|<O>| #define PF_NAME        "羊角头盔制作"
-18188|<O>| return ({"小山鸡","在新手村可以捉到小山鸡"});
-18189|<O>| result = sprintf("是否在%s上面镶嵌？\n"
-18190|<O>| set_char_picid(8000);    // 蒙面人
+﻿18095|<O>| result = "XinChọnQuốc khánh tiếthoạt độngChi——Quốc khánh tặng lễ Thao tác:\n";
+18096|<O>| else if (rate < 9830)		//tốc hiệunhỏtrị dũ DượcThủy
+18097|<O>| //	else if( p < 99 )   // Ngẫu nhiênPhối Phương Nhất
+18098|<O>| "Thanh Diệp Ngọc Thạch" : "\"/item/stuff/0072\"",
+18099|<O>| if (obj && obj->is_pet())	//sủng vậtdướigiá
+18100|<O>| "điện Thanh Ngọc Thạch" : "\"/item/stuff/0070\"",
+18101|<O>| ESC "tôimuốn Báo Danh\ntalk %x# welcome.1\n"
+18102|<O>| ESC"Thập Tây quacủaBáo thù\ntalk %x# bonus.5\n"
+18103|<O>| #define PF_NAME        "caocấpma Chiến GiápChế tạo"
+18104|<O>| return "Vật phẩm nhiệm vụ。Một loạidùng Động Vật Bì mao làm thànhcủadùng đến thư tảcủabút。";
+18105|<O>| return "hoạt độngchuyên thuộc Kỵ sủng bổn bổn。\nĐạo cụ này sau khi sử dụng sẽ khóa。\n";
+18106|<O>| tell_user(who,"vô song Công Thành Chiến đươngtrướccủatrạng tháiLà:Mở");
+18107|<O>| "hoàn Mỹ Ngọc Tâm" : "\"/item/stuff/0099\"",
+18108|<O>| result += sprintf(" %d giây", sec);
+18109|<O>| notify("BạnkhôngLàBản đội ngũcủađộidài，BạnchỉNăng sửbản thânthoát ly đội ngũ。");
+18110|<O>| if (!clonep(me)) return "5cấpẢnh tinh Thạch";
+18111|<O>| return "kéo dài1giờtrongbiến Thân vì Ngưu đầu quái，Có thể nâng2%Mệnhgiữasuất。";
+18112|<O>| + sprintf(ESC"Hoàng Thành thủ Vệ Chiến\nparty 7\n")
+18113|<O>| return "hoạt độngchuyên thuộc Kỵ sủng phán phán。\nĐạo cụ này sau khi sử dụng sẽ khóa。\n";
+18114|<O>| + sprintf(ESC"Bắt đầuKiểm tra\nparty 48\n")
+18115|<O>| tell_user(who,"đào Bảohoạt độngMở:%s！",arg);
+18116|<O>| return "Kinh qua khoáng dãKỹ năngdung LuyệncủaTinhSắtkhoáng，Thiết Tượng、Nguyên liệu cần cho Cơ Quan";
+18117|<O>| #define PF_NAME        "Siêucấpvô Địch cẩu cẩu Quyền"
+18118|<O>| tell_user(who,"vô song Công Thành Chiến đươngtrướccủatrạng tháiLà:Đóng");
+18119|<O>| ESC"Duyênphútđối vớiđối vớibằng lĩnh thưởng\ntalk %x# visit.3\n"
+18120|<O>| if (!clonep(me)) return "5cấpPhongtinh Thạch";
+18121|<O>| ESC "40 Công Đức hoán 2200 Tiềm năng。\n" + cmd3 +
+18122|<O>| "xích HồngBảo Thạch" : "\"/item/stuff/0091\"",
+18123|<O>| ESC"Rời khỏi", get_name(), id, id, id)
+18124|<O>| if (!clonep(me)) return "5cấpthángtinh Thạch";
+18125|<O>| tell_user(me, "%s vôKết thúctiêu ký", file);
+18126|<O>| if(other_stat[4]) {				//	4 Tăngtrốn Thiểm
+18127|<O>| #define PF_NAME        "Bạo vũ lê Hoa châm đoạn tạo"
+18128|<O>| return "Vật phẩm nhiệm vụ。Chiến tranhgiờkỳ thường dùngcủaMột loạidùng đến liệu ThươngcủaDược Vật。";
+18129|<O>| case 70 : place2 = "Yên Quốc";  break;
+18130|<O>| if (!clonep(me)) return "5cấpThổtinh Thạch";
+18131|<O>| if (gone_time(summon) > 10)	//Triệu hồi
+18132|<O>| case 60 : place2 = "Sở Quốc";  break;
+18133|<O>| printf(ECHO "Sử dụng“" PF_NAME "”。");
+18134|<O>| "Ngọc Bạch Ngọc Thạch" : "\"/item/stuff/0060\"",
+18135|<O>| return "Vật phẩm nhiệm vụ。Hóa Giải Ngụy quản Gia đệ Nhất kiếp nancủaMột loạisơ Thái。";
+18136|<O>| case 5: name3 = "Phát Động Chiến Tranh";  break;
+18137|<O>| return "Kinh qua khoáng dãKỹ năngdung LuyệncủaĐồngkhoáng，Thiết Tượng、Nguyên liệu cần cho Cơ Quan";
+18138|<O>| #define PF_NAME        "PhượngngàyChiến CânChế tạo"
+18139|<O>| log_file(LIST_LOG, "# Thu tậpNhiệm vụ\n");
+18140|<O>| #define PF_NAME        "ngàyLangBì YChế tạo"
+18141|<O>| "tàn thiếu mặc Ngọc tinh Thạch" : "\"/item/89/8908\"",
+18142|<O>| default: result = "hữutốt";  break;
+18143|<O>| #define PF_NAME        "Linh Hồn đầu ĐáiChế tạo"
+18144|<O>| "tàn thiếu Chu Hồng tinh Thạch" : "\"/item/89/8904\"",
+18145|<O>| #define PF_NAME        "VàngthuộcĐầu KhôiChế tạo"
+18146|<O>| tell_user(me, "trọngmớibiên dịch: " + file);
+18147|<O>| #define PF_NAME        "ngàycương Chiến khôiChế tạo"
+18148|<O>| "TinhSắtkhoáng" : "\"/item/stuff/0004\"",
+18149|<O>| "tàn thiếu Hổ phách tinh Thạch" : "\"/item/89/8919\"",
+18150|<O>| return "kéo dài1giờtrongbiến Thân vì dịchQuỷ，Có thể nâng2%Giá trị né tránh。";
+18151|<O>| "anh túc Quả" : "\"/item/stuff/0110\"",
+18152|<O>| ESC"hoạt độngtường tế nói Minh\ntalk %x# tiger.2\n"
+18153|<O>| if (item->get_name() == "Vật phẩm quý giá")
+18154|<O>| "HoàngBảo Thạch" : "\"/item/stuff/0098\"",
+18155|<O>| "tàn thiếu bích lục tinh Thạch" : "\"/item/89/8907\"",
+18156|<O>| log_file(LIST_LOG, "# cận CôngHia\n");
+18157|<O>| SAY_CMD->say(me, "tôivănđếnhoạt Nhâncủavị Đạo。");
+18158|<O>| return "ngàyNguyên Đơn:\n    mỗi2giâycó thể Hồi phục1điểmNguyên khí。";
+18159|<O>| #define PF_NAME        "Phá quânXàmâu đoạn tạo"
+18160|<O>| #define PF_NAME        "HổTrảo Quyền bộ đoạn tạo"
+18161|<O>| "Báo Tử đảm" : "\"/item/stuff/0183\"",
+18162|<O>| printf(ECHO "Bạn đãTriệu hồiđậu BinhHoặcmê Hồnquái vật。");
+18163|<O>| z += get_z(me) - 1 ;	//Tân Thủ Thôn1,2,3
+18164|<O>| #define PF_NAME        "Cường hóaVàngchâm độ ách"
+18165|<O>| "Cổ Thạch hôi" : "\"/item/stuff/0135\"",
+18166|<O>| #define PF_NAME        "vô CựcdàiBàoChế tạo"
+18167|<O>| #define PF_NAME        "triều tịch Chi QuanChế tạo"
+18168|<O>| return "Vật phẩm nhiệm vụ。Ngụy Quốcthủ Vệ cấp nhu dùng đếnMualương Thựccủahóa tệ。";
+18169|<O>| nàytrình tự dùng thành tra Xuất quáiđiểmcủa xy.c tệp tin，Tuy nhiênnàyloạilàm Pháp đãbịHủy bỏ。
+18170|<O>| #define PF_NAME        "ngàycơ Pháp BàoChế tạo"
+18171|<O>| #define PF_NAME        "ngỗng Nhung đầu CânChế tạo"
+18172|<O>| ESC"Thất tịchngàytứ Kỳ Duyên\ntalk %x# visit.1\n"
+18173|<O>| return "kéo dài1giờtrongbiến Thân vì Phi tặc，Có thể nâng1%Giá trị né tránh。";
+18174|<O>| "đăngBảo Thạch" : "\"/item/stuff/0078\"",
+18175|<O>| notify("Chiến trườnggiữaNgười chơikhôngdoãn hứa dữ Chiến trườngngoàicủaNgười chơiKết thành đội ngũ！");
+18176|<O>| if (item2->get_name() != "đổi thưởng bài")
+18177|<O>| "ô Quy Nhục" : "\"/item/stuff/0176\"",
+18178|<O>| "đăng Ngọc Thạch" : "\"/item/stuff/0055\"",
+18179|<O>| #define PF_NAME        "chiến đấudàiHiaChế tạo"
+18180|<O>| #define PF_NAME        "hỗnngàyĐấu bồngChế tạo"
+18181|<O>| #define PF_NAME        "lưu Vân Đấu lạpChế tạo"
+18182|<O>| notify("Bạn Năng Phong bếcủatần ĐạoCó:chat, rumor");
+18183|<O>| "Phá tổncủaĐầu Khôi" : "TạiSở Phương Thành Sát Sở quân Đao Binhcó thểnhận đượcPhá tổncủaĐầu Khôi",
+18184|<O>| result = result + HIR"10000Kinh nghiệm";
+18185|<O>| "tàn thiếungàyThanh tinh Thạch" : "\"/item/89/8911\"",
+18186|<O>| #define PF_NAME        "lưu saPhi PhongChế tạo"
+18187|<O>| #define PF_NAME        "dương giácĐầu KhôiChế tạo"
+18188|<O>| return ({"nhỏSơn Kê","TạiTân Thủ Thôncó thểtrócđếnnhỏSơn Kê"});
+18189|<O>| result = sprintf("LàphủTại%strênDiện tương khảm？\n"
+18190|<O>| set_char_picid(8000);    // Mông Diện Nhân

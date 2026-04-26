@@ -15,7 +15,7 @@
 2885|<O>| ESC "Ta chỉ đi ngang qua dạo chơi thôi\nCLOSE\n", who->get_name(), "/quest/word"->get_normal_word(who), getoid(who), getoid(who)));
 2886|<O>| send_user(me, "%c%s", ':', sprintf("Cảnh báo！Quản lý quyền hạn người dùng。\n\nNgài muốn đặt %s(%d) thành cấp độ nào？\n", who->get_name(), who->get_number()) +
 2887|<O>| result = sprintf("%s\n    Với thực lực hiện tại của ngươi, chiến đấu ở %s đối với ngươi là quá dễ dàng. Nếu ngươi muốn tiến thêm một tầng nữa, vẫn nên chọn một chiến trường phù hợp với cấp độ của mình để thử thách đi。\n", who->get_name(), name);
-2888|<O>| ret += sprintf("%sHạng Liên Bạch Lang\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"白狼项链"))?PPM:WHT);
+2888|<O>| ret += sprintf("%sHạng Liên Bạch Lang\n",who->get_2(sprintf("suit_equip.%s.equip.%s",name,"Bạch Lang Hạng Liên"))?PPM:WHT);
 2889|<O>| "Những điểm thưởng này sẽ được giữ lại trong khung thuộc tính. Chỉ cần nhấp một cái vào dấu cộng nhỏ bên cạnh thuộc tính tương ứng, ngươi sẽ tiêu hao một điểm thưởng thuộc tính, và điểm đó sẽ được phân phối vào thuộc tính cơ bản tương ứng。\n    Hãy nhớ, một khi đã phân phối điểm thuộc tính thì không thể hối hận được nữa, cách phân bổ điểm thuộc tính một cách hợp lý cũng là một môn học vấn khá cao thâm。\n"
 2890|<O>| //                                set_heart_count(me, speed - heart % speed);    // Đặt lại cờ nhịp tim(chủ), 0.? giây vào nhịp tim(đi bộ)
 2891|<O>| HIR "Tấn công tầm xa" NOR "。\n    Lực công vật lý do thuộc tính sức mạnh quyết định sẽ được áp dụng vào việc tính toán toàn bộ kỹ năng tấn công không phải pháp thuật. Bao gồm đòn đánh thường, sử dụng chiêu thức võ công, tất cả đều được tính dựa trên công vật lý, còn thứ khống chế lớn nhỏ của sát thương vật lý chính là phòng ngự vật lý。”\n"
