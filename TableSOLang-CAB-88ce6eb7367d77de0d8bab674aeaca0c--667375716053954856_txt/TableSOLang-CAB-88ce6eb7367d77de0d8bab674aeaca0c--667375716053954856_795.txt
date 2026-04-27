@@ -1,0 +1,184 @@
+     1 string schinese_censored = "人和你一样"
+     1 string english = " others are very similar to you."
+     1 string japanese = "人があなたと一緒だ"
+     1 string mchinese = "人和你一樣"
+   [18261]
+    0 TableSoItemLang data
+     0 int id = 1028262
+     1 string schinese = "(第{0}代)"
+     1 string schinese_censored = "(第{0}代)"
+     1 string english = "(Generation {0})"
+     1 string japanese = "(第{0}世代)"
+     1 string mchinese = "(第{0}代)"
+   [18262]
+    0 TableSoItemLang data
+     0 int id = 1028263
+     1 string schinese = "心理阴影面积：{0}平方米"
+     1 string schinese_censored = "心理阴影面积：{0}平方米"
+     1 string english = "Mind Shadow size: {0}㎡"
+     1 string japanese = "トラウマ領域：{0}平方メートル"
+     1 string mchinese = "心理陰影面積：{0}平方米"
+   [18263]
+    0 TableSoItemLang data
+     0 int id = 1028264
+     1 string schinese = "童心依旧，天真烂漫"
+     1 string schinese_censored = "童心依旧，天真烂漫"
+     1 string english = "Cute and childlike innocence."
+     1 string japanese = "ピュアで、天真爛漫"
+     1 string mchinese = "童心依舊，天真爛漫"
+   [18264]
+    0 TableSoItemLang data
+     0 int id = 1028265
+     1 string schinese = "职业："
+     1 string schinese_censored = "职业："
+     1 string english = "Profession: "
+     1 string japanese = "職業："
+     1 string mchinese = "職業："
+   [18265]
+    0 TableSoItemLang data
+     0 int id = 1028266
+     1 string schinese = "（零用钱{0}元/回合）"
+     1 string schinese_censored = "（零用钱{0}元/月）"
+     1 string english = " (Pocket money ¥{0}/month)"
+     1 string japanese = "(お小遣い毎月{0}元)"
+     1 string mchinese = "（零用錢{0}元/回合）"
+   [18266]
+    0 TableSoItemLang data
+     0 int id = 1028267
+     1 string schinese = "性格特征："
+     1 string schinese_censored = "性格特征："
+     1 string english = "Personality traits: "
+     1 string japanese = "性格特性："
+     1 string mchinese = "性格特徵："
+   [18267]
+    0 TableSoItemLang data
+     0 int id = 1028268
+     1 string schinese = "高深莫测，无法捉摸！"
+     1 string schinese_censored = "高深莫测，无法捉摸！"
+     1 string english = "You're a hard one to get, quite profound!"
+     1 string japanese = "底知れず、予測不能！"
+     1 string mchinese = "高深莫測，無法捉摸！"
+   [18268]
+    0 TableSoItemLang data
+     0 int id = 1028269
+     1 string schinese = "目前是你的优势学科，可以继续学习发展壮大！"
+     1 string schinese_censored = "目前是你的优势学科，可以继续学习发展壮大！"
+     1 string english = " is your strong subject. You can always continue to study it and become great!"
+     1 string japanese = "が得意科目だから、勉強すればもっと成長するよ！"
+     1 string mchinese = "目前是你的優勢學科，可以繼續學習發展壯大！"
+   [18269]
+    0 TableSoItemLang data
+     0 int id = 1028270
+     1 string schinese = "目前是你的弱势学科，需要补足！"
+     1 string schinese_censored = "目前是你的弱势学科，需要补足！"
+     1 string english = " is your weak subject, and there is some catching up to do!"
+     1 string japanese = "が苦手科目だね、少し頑張らないとね！"
+     1 string mchinese = "目前是你的弱勢學科，需要補足！"
+   [18270]
+    0 TableSoItemLang data
+     0 int id = 1028271
+     1 string schinese = "目前理科比较有优势"
+     1 string schinese_censored = "目前理科比较有优势"
+     1 string english = "You are fairly good in Science."
+     1 string japanese = "今は理系の方が得意"
+     1 string mchinese = "目前理科比較有優勢"
+   [18271]
+    0 TableSoItemLang data
+     0 int id = 1028272
+     1 string schinese = "目前文科比较有优势"
+     1 string schinese_censored = "目前文科比较有优势"
+     1 string english = "You are fairly good in Liberal Arts."
+     1 string japanese = "今は文系の方が得意"
+     1 string mchinese = "目前文科比較有優勢"
+   [18272]
+    0 TableSoItemLang data
+     0 int id = 1028273
+     1 string schinese = "目前没有什么好的建议，顺其自然吧！"
+     1 string schinese_censored = "目前没有什么好的建议，顺其自然吧！"
+     1 string english = "I don't have any good recommendations for you, just wing it!"
+     1 string japanese = "今はアドバイスがないよ。そのままが一番！"
+     1 string mchinese = "目前沒有什麼好的建議，順其自然吧！"
+   [18273]
+    0 TableSoItemLang data
+     0 int id = 1028274
+     1 string schinese = "注意：该选项会影响你的未来职业"
+     1 string schinese_censored = "注意：该选项会影响你的未来职业"
+     1 string english = "Tip: This choice will affect your future profession."
+     1 string japanese = "注意：この選択肢は未来の職業に影響します"
+     1 string mchinese = "注意：該選項會影響你的未來職業"
+   [18274]
+    0 TableSoItemLang data
+     0 int id = 1028275
+     1 string schinese = "窗口"
+     1 string schinese_censored = "窗口"
+     1 string english = "Windowed"
+     1 string japanese = "ウィンドウ"
+     1 string mchinese = "窗口"
+   [18275]
+    0 TableSoItemLang data
+     0 int id = 1028276
+     1 string schinese = "分辨率"
+     1 string schinese_censored = "分辨率"
+     1 string english = "Resolution"
+     1 string japanese = "解像度"
+     1 string mchinese = "解析度"
+   [18276]
+    0 TableSoItemLang data
+     0 int id = 1028277
+     1 string schinese = "声音"
+     1 string schinese_censored = "声音"
+     1 string english = "Sound"
+     1 string japanese = "効果音"
+     1 string mchinese = "聲音"
+   [18277]
+    0 TableSoItemLang data
+     0 int id = 1028278
+     1 string schinese = "音乐"
+     1 string schinese_censored = "音乐"
+     1 string english = "Music"
+     1 string japanese = "ＢＧＭ"
+     1 string mchinese = "音樂"
+   [18278]
+    0 TableSoItemLang data
+     0 int id = 1028279
+     1 string schinese = "帧数"
+     1 string schinese_censored = "帧数"
+     1 string english = "FPS"
+     1 string japanese = "フレーム数"
+     1 string mchinese = "幀數"
+   [18279]
+    0 TableSoItemLang data
+     0 int id = 1028280
+     1 string schinese = "选择存档"
+     1 string schinese_censored = "选择存档"
+     1 string english = "Select Save"
+     1 string japanese = "セーブを選択"
+     1 string mchinese = "選擇存檔"
+   [18280]
+    0 TableSoItemLang data
+     0 int id = 1028281
+     1 string schinese = "请输入<color=#EB7350>存档</color>名"
+     1 string schinese_censored = "请输入<color=#EB7350>存档</color>名"
+     1 string english = "Choose a name for your <color=#EB7350>save file</color>."
+     1 string japanese = "<color=#EB7350>セーブ</color>に名前を入力"
+     1 string mchinese = "請輸入<color=#EB7350>存檔</color>名"
+   [18281]
+    0 TableSoItemLang data
+     0 int id = 1028282
+     1 string schinese = "存档名称"
+     1 string schinese_censored = "存档名称"
+     1 string english = "Save File Name"
+     1 string japanese = "セーブ名"
+     1 string mchinese = "存檔名稱"
+   [18282]
+    0 TableSoItemLang data
+     0 int id = 1028283
+     1 string schinese = "家族属性"
+     1 string schinese_censored = "家族属性"
+     1 string english = "Family Stats"
+     1 string japanese = "一族能力値"
+     1 string mchinese = "家族屬性"
+   [18283]
+    0 TableSoItemLang data
+     0 int id = 1028284
+     1 string schinese = "特长图鉴收集度"

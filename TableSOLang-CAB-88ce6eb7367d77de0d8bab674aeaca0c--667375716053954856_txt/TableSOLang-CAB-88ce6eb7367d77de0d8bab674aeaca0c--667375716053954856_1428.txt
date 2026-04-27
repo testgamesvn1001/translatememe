@@ -1,0 +1,184 @@
+     1 string schinese_censored = "咦？后面好像有什么东西跟着我们，这是……"
+     1 string english = "Hm? Seems like something's following us... Is that...?"
+     1 string japanese = "何か付いてきてるみたいね。えっと…。"
+     1 string mchinese = "咦？後面好像有什麼東西跟著我們，這是……"
+   [32820]
+    0 TableSoItemLang data
+     0 int id = 99993525
+     1 string schinese = "是小猫！好可爱！！它一直在叫！"
+     1 string schinese_censored = "是小猫！好可爱！！它一直在叫！"
+     1 string english = "It's a cat! Aw, it's adorable! And it keeps mewling at us!"
+     1 string japanese = "猫ちゃんだ！可愛い！！ずっと鳴いてるじゃん！"
+     1 string mchinese = "是小貓！好可愛！！它一直在叫！"
+   [32821]
+    0 TableSoItemLang data
+     0 int id = 99993526
+     1 string schinese = "咪咪是不是饿了？妈妈我能摸摸它吗？"
+     1 string schinese_censored = "咪咪是不是饿了？妈妈我能摸摸它吗？"
+     1 string english = "Are you hungry, kitty? Can I stroke them, Mom?"
+     1 string japanese = "お腹すいてるのかな？触ってもいい？"
+     1 string mchinese = "咪咪是不是餓了？媽媽我能摸摸它嗎？"
+   [32822]
+    0 TableSoItemLang data
+     0 int id = 99993527
+     1 string schinese = "小心它咬你！……哎别上手，流浪猫身上都是细菌！"
+     1 string schinese_censored = "小心它咬你！……哎别上手，流浪猫身上都是细菌！"
+     1 string english = "Watch you don't get bitten! ...Don't even try, those strays are covered in germs!"
+     1 string japanese = "噛まれるわ！触らないで！野良猫はばい菌だらけよ！"
+     1 string mchinese = "小心它咬你！……哎別上手，流浪貓身上都是細菌！"
+   [32823]
+    0 TableSoItemLang data
+     0 int id = 99993528
+     1 string schinese = "妈妈，流浪猫是什么意思？"
+     1 string schinese_censored = "妈妈，流浪猫是什么意思？"
+     1 string english = "What's a "stray", Mom?"
+     1 string japanese = "お母さん、野良猫って何？"
+     1 string mchinese = "媽媽，流浪貓是什麼意思？"
+   [32824]
+    0 TableSoItemLang data
+     0 int id = 99993529
+     1 string schinese = "流浪猫啊，流浪猫就是主人不要它了……"
+     1 string schinese_censored = "流浪猫啊，流浪猫就是主人不要它了……"
+     1 string english = "A stray cat's one without an owner, 'cause its owner didn't want it."
+     1 string japanese = "捨てられた猫のことよ。"
+     1 string mchinese = "流浪貓啊，流浪貓就是主人不要它了……"
+   [32825]
+    0 TableSoItemLang data
+     0 int id = 99993530
+     1 string schinese = "好可怜……"
+     1 string schinese_censored = "好可怜……"
+     1 string english = "That's... so sad..."
+     1 string japanese = "かわいそう…。"
+     1 string mchinese = "好可憐……"
+   [32826]
+    0 TableSoItemLang data
+     0 int id = 99993531
+     1 string schinese = "哎呀快走吧，去公园滑滑梯咯~"
+     1 string schinese_censored = "哎呀快走吧，去公园滑滑梯咯~"
+     1 string english = "*Sigh* Alright, come on, let's go. You can play on the slide at the park! How about that?"
+     1 string japanese = "行くわよ。公園で滑り台を滑りましょ。"
+     1 string mchinese = "哎呀快走吧，去公園滑滑梯咯~"
+   [32827]
+    0 TableSoItemLang data
+     0 int id = 99993532
+     1 string schinese = "好吧……咪咪你也快回家，别跟着我们啦……"
+     1 string schinese_censored = "好吧……咪咪你也快回家，别跟着我们啦……"
+     1 string english = "Okay... You head home too, kitty, don't just follow us forever..."
+     1 string japanese = "わかった…猫ちゃんも早くおうちに帰ってね、もう付いてこないで…。"
+     1 string mchinese = "好吧……咪咪你也快回家，別跟著我們啦……"
+   [32828]
+    0 TableSoItemLang data
+     0 int id = 99993533
+     1 string schinese = "是小狗！好可爱！！它一直在摇尾巴！"
+     1 string schinese_censored = "是小狗！好可爱！！它一直在摇尾巴！"
+     1 string english = "狗內容"
+     1 string japanese = "狗内容"
+     1 string mchinese = "是小狗！好可愛！！它一直在搖尾巴！"
+   [32829]
+    0 TableSoItemLang data
+     0 int id = 99993534
+     1 string schinese = "小狗是不是饿了？妈妈我能摸摸他吗？"
+     1 string schinese_censored = "小狗是不是饿了？妈妈我能摸摸他吗？"
+     1 string english = "狗內容"
+     1 string japanese = "狗内容"
+     1 string mchinese = "小狗是不是餓了？媽媽我能摸摸他嗎？"
+   [32830]
+    0 TableSoItemLang data
+     0 int id = 99993535
+     1 string schinese = "小心它咬你！……哎别上手，流浪狗身上都是细菌！"
+     1 string schinese_censored = "小心它咬你！……哎别上手，流浪狗身上都是细菌！"
+     1 string english = "狗內容"
+     1 string japanese = "狗内容"
+     1 string mchinese = "小心它咬你！……哎別上手，流浪狗身上都是細菌！"
+   [32831]
+    0 TableSoItemLang data
+     0 int id = 99993536
+     1 string schinese = "妈妈，流浪狗是什么意思？"
+     1 string schinese_censored = "妈妈，流浪狗是什么意思？"
+     1 string english = "狗內容"
+     1 string japanese = "狗内容"
+     1 string mchinese = "媽媽，流浪狗是什麼意思？"
+   [32832]
+    0 TableSoItemLang data
+     0 int id = 99993537
+     1 string schinese = "流浪狗啊，流浪狗就是主人不要它了……"
+     1 string schinese_censored = "流浪狗啊，流浪狗就是主人不要它了……"
+     1 string english = "狗內容"
+     1 string japanese = "狗内容"
+     1 string mchinese = "流浪狗啊，流浪狗就是主人不要它了……"
+   [32833]
+    0 TableSoItemLang data
+     0 int id = 99993538
+     1 string schinese = "好可怜……"
+     1 string schinese_censored = "好可怜……"
+     1 string english = "狗內容"
+     1 string japanese = "狗内容"
+     1 string mchinese = "好可憐……"
+   [32834]
+    0 TableSoItemLang data
+     0 int id = 99993539
+     1 string schinese = "哎呀快走吧，去公园滑滑梯咯~"
+     1 string schinese_censored = "哎呀快走吧，去公园滑滑梯咯~"
+     1 string english = "狗內容"
+     1 string japanese = "狗内容"
+     1 string mchinese = "哎呀快走吧，去公園滑滑梯咯~"
+   [32835]
+    0 TableSoItemLang data
+     0 int id = 99993540
+     1 string schinese = "好吧……小狗你也快回家吧，别跟着我们啦……"
+     1 string schinese_censored = "好吧……小狗你也快回家吧，别跟着我们啦……"
+     1 string english = "狗內容"
+     1 string japanese = "狗内容"
+     1 string mchinese = "好吧……小狗你也快回家吧，別跟著我們啦……"
+   [32836]
+    0 TableSoItemLang data
+     0 int id = 99993541
+     1 string schinese = "妈妈！是昨天那只小猫！"
+     1 string schinese_censored = "妈妈！是昨天那只小猫！"
+     1 string english = "Mom! It's the same cat from yesterday!"
+     1 string japanese = "お母さん！昨日の猫ちゃんだ！"
+     1 string mchinese = "媽媽！是昨天那只小貓！"
+   [32837]
+    0 TableSoItemLang data
+     0 int id = 99993542
+     1 string schinese = "还真是，它还在这儿呢？"
+     1 string schinese_censored = "还真是，它还在这儿呢？"
+     1 string english = "Oh, it actually is. What're they doing here, still?"
+     1 string japanese = "ホントね、まだここにいたのね。"
+     1 string mchinese = "還真是，它還在這兒呢？"
+   [32838]
+    0 TableSoItemLang data
+     0 int id = 99993543
+     1 string schinese = "我知道了！它一定是在等我！它想跟我回家！"
+     1 string schinese_censored = "我知道了！它一定是在等我！它想跟我回家！"
+     1 string english = "I know! They were waiting for me to come back! They wanna come live with me!"
+     1 string japanese = "わかった！きっと俺のことを待ってたんだ！ウチで飼われたいんだよ！"
+     1 string mchinese = "我知道了！它一定是在等我！它想跟我回家！"
+   [32839]
+    0 TableSoItemLang data
+     0 int id = 99993544
+     1 string schinese = "这不行，流浪猫身上有好多细菌寄生虫什么的。"
+     1 string schinese_censored = "这不行，流浪猫身上有好多细菌寄生虫什么的。"
+     1 string english = "No can do. Those strays are covered in germs, and they've got parasites and stuff, too."
+     1 string japanese = "ダメよ、野良猫にはばい菌とか寄生虫が沢山ついてるのよ。"
+     1 string mchinese = "這不行，流浪貓身上有好多細菌寄生蟲什麼的。"
+   [32840]
+    0 TableSoItemLang data
+     0 int id = 99993545
+     1 string schinese = "可是它好可怜啊，他的主人不要它了，我们养它好不好？"
+     1 string schinese_censored = "可是它好可怜啊，他的主人不要它了，我们养它好不好？"
+     1 string english = "But they're such a poor little kitty cat... Their owner doesn't want them any more... Can't we take them home?"
+     1 string japanese = "でもかわいそう。捨てられちゃったんだから、ウチで飼おうよ！"
+     1 string mchinese = "可是它好可憐啊，他的主人不要它了，我們養它好不好？"
+   [32841]
+    0 TableSoItemLang data
+     0 int id = 99993546
+     1 string schinese = "养猫哪有那么简单，你要打扫要照顾它，可麻烦了！"
+     1 string schinese_censored = "养猫哪有那么简单，你要打扫要照顾它，可麻烦了！"
+     1 string english = "It's not that easy! You've got to clean up after them, look after them too! It's a lot of trouble!"
+     1 string japanese = "猫を飼うのは大変よ。色々世話したり掃除したりしないといけないの！"
+     1 string mchinese = "養貓哪有那麼簡單，你要打掃要照顧它，可麻煩了！"
+   [32842]
+    0 TableSoItemLang data
+     0 int id = 99993547
+     1 string schinese = "而且你已经上学了，学习才是正事儿，哪还有时间养猫啊。"

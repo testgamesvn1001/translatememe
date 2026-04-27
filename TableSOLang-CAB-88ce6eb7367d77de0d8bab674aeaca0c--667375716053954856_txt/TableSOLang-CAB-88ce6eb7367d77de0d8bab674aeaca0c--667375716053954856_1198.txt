@@ -1,0 +1,184 @@
+     1 string schinese_censored = "长期生效"
+     1 string english = "Passive"
+     1 string japanese = "常時有効"
+     1 string mchinese = "長期生效"
+   [27530]
+    0 TableSoItemLang data
+     0 int id = 1596173817
+     1 string schinese = "还未获得"
+     1 string schinese_censored = "还未获得"
+     1 string english = "Not Acquired Yet"
+     1 string japanese = "未獲得"
+     1 string mchinese = "還未獲得"
+   [27531]
+    0 TableSoItemLang data
+     0 int id = 1596173818
+     1 string schinese = "那必须的！"
+     1 string schinese_censored = "跳过"
+     1 string english = "Of course!"
+     1 string japanese = "もちろん！"
+     1 string mchinese = "那必須的！"
+   [27532]
+    0 TableSoItemLang data
+     0 int id = 1596173819
+     1 string schinese = "冲就是了！"
+     1 string schinese_censored = "不跳过"
+     1 string english = "Let's go!"
+     1 string japanese = "やってやる！"
+     1 string mchinese = "沖就是了！"
+   [27533]
+    0 TableSoItemLang data
+     0 int id = 1596173820
+     1 string schinese = "跳过引导"
+     1 string schinese_censored = "跳过引导"
+     1 string english = "Skip Tutorials"
+     1 string japanese = "チュートリアルをスキップ"
+     1 string mchinese = "跳過引導"
+   [27534]
+    0 TableSoItemLang data
+     0 int id = 1596173821
+     1 string schinese = "没有特别好的朋友，你前世可能是一只孤独的狼"
+     1 string schinese_censored = "没有特别好的朋友，你前世可能是一只孤独的狼"
+     1 string english = "A lone wolf without any close friends."
+     1 string japanese = "特に仲の良い友人はいない。あなたは前世では孤独なオオカミだったのかも"
+     1 string mchinese = "沒有特別好的朋友，你前世可能是一只孤獨的狼"
+   [27535]
+    0 TableSoItemLang data
+     0 int id = 1596173822
+     1 string schinese = "和路人甲的TA结婚了"
+     1 string schinese_censored = "和路人甲的TA结婚了"
+     1 string english = "Married Stranger"
+     1 string japanese = "特に目立たない人と結婚した"
+     1 string mchinese = "和路人甲的TA結婚了"
+   [27536]
+    0 TableSoItemLang data
+     0 int id = 1596173823
+     1 string schinese = "距离决赛还有{0}回合"
+     1 string schinese_censored = "距离决赛还有{0}回合"
+     1 string english = "The final takes place in {0} turns."
+     1 string japanese = "決勝まで{0}ターン"
+     1 string mchinese = "距離決賽還有{0}回合"
+   [27537]
+    0 TableSoItemLang data
+     0 int id = 1596173824
+     1 string schinese = "家族等级"
+     1 string schinese_censored = "家族等级"
+     1 string english = "Family Lv."
+     1 string japanese = "家族レベル"
+     1 string mchinese = "家族等級"
+   [27538]
+    0 TableSoItemLang data
+     0 int id = 1596173825
+     1 string schinese = "增加天赋属性"
+     1 string schinese_censored = "增加天赋属性"
+     1 string english = "Talent Bonus"
+     1 string japanese = "天賦能力値増加"
+     1 string mchinese = "增加天賦屬性"
+   [27539]
+    0 TableSoItemLang data
+     0 int id = 1596173826
+     1 string schinese = "提升等级，获得奖励"
+     1 string schinese_censored = "提升等级，获得奖励"
+     1 string english = "Acquire rewards by leveling up."
+     1 string japanese = "レベルアップでご褒美獲得"
+     1 string mchinese = "提升等級，獲得獎勵"
+   [27540]
+    0 TableSoItemLang data
+     0 int id = 1596173827
+     1 string schinese = "很想把自己重新养成一遍！"
+     1 string schinese_censored = "很想把自己重新养成一遍！"
+     1 string english = "What if I could re-live life again?"
+     1 string japanese = "自分をもう一度育て直したい！"
+     1 string mchinese = "很想把自己重新養成一遍！"
+   [27541]
+    0 TableSoItemLang data
+     0 int id = 1596173828
+     1 string schinese = "一小时体验人生重置~"
+     1 string schinese_censored = "一小时体验人生重置~"
+     1 string english = "Experience a restarted life in this game."
+     1 string japanese = "１時間で人生をやり直し"
+     1 string mchinese = "一小時體驗人生重置~"
+   [27542]
+    0 TableSoItemLang data
+     0 int id = 1596173829
+     1 string schinese = "清北任我选！"
+     1 string schinese_censored = "清北任我选！"
+     1 string english = "I get to choose if I go to THU or PKU!"
+     1 string japanese = "大学選び放題！"
+     1 string mchinese = "清北任我選！"
+   [27543]
+    0 TableSoItemLang data
+     0 int id = 1596173830
+     1 string schinese = "现实里那么点分，游戏里爽回来！"
+     1 string schinese_censored = "现实里那么点分，游戏里爽回来！"
+     1 string english = "Get higher grades and have fun in the game!"
+     1 string japanese = "現実では点数が悪くても、ゲームでは大活躍！"
+     1 string mchinese = "現實裏那麼點分，遊戲裏爽回來！"
+   [27544]
+    0 TableSoItemLang data
+     0 int id = 1596173831
+     1 string schinese = "我要养女儿！！！"
+     1 string schinese_censored = "我要养女儿！！！"
+     1 string english = "I want to have a daughter in the game!"
+     1 string japanese = "女の子を育てたい！！！"
+     1 string mchinese = "我要養女兒！！！"
+   [27545]
+    0 TableSoItemLang data
+     0 int id = 1596173832
+     1 string schinese = "这可能是去我人生中最便宜的养娃机会.."
+     1 string schinese_censored = "这可能是去我人生中最便宜的养娃机会.."
+     1 string english = "This game provides me with the cheapest chance of raising a child..."
+     1 string japanese = "俺の人生で一番安い子育てかも知れない…"
+     1 string mchinese = "這可能是去我人生中最便宜的養娃機會.."
+   [27546]
+    0 TableSoItemLang data
+     0 int id = 1596173833
+     1 string schinese = "伟大家族正式开始！"
+     1 string schinese_censored = "伟大家族正式开始！"
+     1 string english = "Let's start a great family!"
+     1 string japanese = "偉大なる一族の始まりだ！"
+     1 string mchinese = "偉大家族正式開始！"
+   [27547]
+    0 TableSoItemLang data
+     0 int id = 1596173834
+     1 string schinese = "请叫我老祖宗..."
+     1 string schinese_censored = "请叫我老祖宗..."
+     1 string english = "Please call me the Ancestor..."
+     1 string japanese = "俺を始祖と呼んでくれ…"
+     1 string mchinese = "請叫我老祖宗..."
+   [27548]
+    0 TableSoItemLang data
+     0 int id = 1596173835
+     1 string schinese = "试水一代!"
+     1 string schinese_censored = "试水一代!"
+     1 string english = "Let's begin the first generation!"
+     1 string japanese = "お試しの世代！"
+     1 string mchinese = "試水一代!"
+   [27549]
+    0 TableSoItemLang data
+     0 int id = 1596173836
+     1 string schinese = "这游戏有毒，根本停不下来..."
+     1 string schinese_censored = "这游戏有毒，根本停不下来..."
+     1 string english = "This game is addictive. I can't stop playing it..."
+     1 string japanese = "このゲームはクセになる。やめられないとまらない…"
+     1 string mchinese = "這遊戲有毒，根本停不下來..."
+   [27550]
+    0 TableSoItemLang data
+     0 int id = 1596173837
+     1 string schinese = "光宗耀祖走起好么!"
+     1 string schinese_censored = "光宗耀祖走起好么!"
+     1 string english = "For the family's glory!"
+     1 string japanese = "一族の伝説の始まりだ！"
+     1 string mchinese = "光宗耀祖走起好麼!"
+   [27551]
+    0 TableSoItemLang data
+     0 int id = 1596173838
+     1 string schinese = "谁都不要拦我养娃！"
+     1 string schinese_censored = "谁都不要拦我养娃！"
+     1 string english = "Don't keep me away from bringing children up in this game!"
+     1 string japanese = "俺の子育ては誰にも止められない！"
+     1 string mchinese = "誰都不要攔我養娃！"
+   [27552]
+    0 TableSoItemLang data
+     0 int id = 1596173839
+     1 string schinese = "我的基因肯定优秀的好吗！"

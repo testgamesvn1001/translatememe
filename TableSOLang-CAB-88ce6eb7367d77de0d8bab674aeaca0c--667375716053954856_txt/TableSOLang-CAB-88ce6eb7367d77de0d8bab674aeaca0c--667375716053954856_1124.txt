@@ -1,0 +1,184 @@
+     1 string schinese_censored = "此处是同学们的个人信息，随着你的各项属性值的提高，会有更多的同学开始关注你哦~"
+     1 string english = "Here you can see the personal information of your schoolmates. As you increase your stats, more schoolmates will start to notice you."
+     1 string japanese = "同級生の情報がここに表示される。あなたの能力値が変化するにつれ、関心を持ってくれる同級生が多くなるぞ！"
+     1 string mchinese = "此處是同學們的個人資訊，隨著你的各項屬性值的提高，會有更多的同學開始關注你哦~"
+   [25828]
+    0 TableSoItemLang data
+     0 int id = 1596172115
+     1 string schinese = "点击此处可以选择日常活动中的<color=#EB7350>陪伴者</color>，不同的人会对你有不同的属性加成。"
+     1 string schinese_censored = "点击此处可以选择日常活动中的<color=#EB7350>陪伴者</color>，不同的人会对你有不同的属性加成。"
+     1 string english = "Click here to select a <color=#EB7350>companion</color> for an activity. Different students will grant you different stats."
+     1 string japanese = "ここを選択すると、日常生活の<color=#EB7350>パートナー</color>を指定できる。人によって異なる能力値がアップする。"
+     1 string mchinese = "點擊此處可以選擇日常活動中的<color=#EB7350>陪伴者</color>，不同的人會對你有不同的屬性加成。"
+   [25829]
+    0 TableSoItemLang data
+     0 int id = 1596172116
+     1 string schinese = "现在来选择一位一起放学回家吧。"
+     1 string schinese_censored = "现在来选择一位一起放学回家吧。"
+     1 string english = "Let's choose a schoolmate with whom to walk home from school."
+     1 string japanese = "一人選んで、一緒に下校しよう！"
+     1 string mchinese = "現在來選擇一位一起放學回家吧。"
+   [25830]
+    0 TableSoItemLang data
+     0 int id = 1596172117
+     1 string schinese = "只有两人的<color=#EB7350>亲密度</color>达到一定程度后才可以邀请一起行动，不然别人是不会同意的呢~\n\n现在我们选择多年的闺蜜作为放学回家路上的陪伴者吧"
+     1 string schinese_censored = "只有两人的<color=#EB7350>亲密度</color>达到一定程度后才可以邀请一起行动，不然别人是不会同意的呢~\n\n现在我们选择多年的闺蜜作为放学回家路上的陪伴者吧"
+     1 string english = "You need a certain level of <color=#EB7350>Intimacy</color> to invite someone for activities, otherwise they won't accept.\n\nLet's choose our long-time best friend as our companion and walk home from school together."
+     1 string japanese = "<color=#EB7350>親密度</color>が一定値を超えると誘うことができる。低いと当然誘えないよ！\n\n今は仲がいい親友を下校のパートナーにしよう。"
+     1 string mchinese = "只有兩人的<color=#EB7350>親密度</color>達到一定程度後才可以邀請一起行動，不然別人是不會同意的呢~\n\n現在我們選擇多年的閨蜜作為放學回家路上的陪伴者吧"
+   [25831]
+    0 TableSoItemLang data
+     0 int id = 1596172118
+     1 string schinese = "点击此处可以看到男生们对<color=#EB7350>我的邀约</color>"
+     1 string schinese_censored = "点击此处可以看到男生们对<color=#EB7350>我的邀约</color>"
+     1 string english = "Click here to check <color=#EB7350>invitations</color> from boys."
+     1 string japanese = "ここを選択すると、同級生からの<color=#EB7350>お誘い</color>が確認できる"
+     1 string mchinese = "點擊此處可以看到男生們對<color=#EB7350>我的邀約</color>"
+   [25832]
+    0 TableSoItemLang data
+     0 int id = 1596172119
+     1 string schinese = "此处会有所有邀约的消息，根据你感兴趣的男生或者活动，前往赴约吧。\n\n请注意：赴约会消耗一定的行动力，当行动力不够的时候是不能赴约的哟~同时如果一回合内赴约的次数过多的话，会引起父母的警觉，还请注意"
+     1 string schinese_censored = "此处会有所有邀约的消息，根据你感兴趣的男生或者活动，前往赴约吧。\n\n请注意：赴约会消耗一定的行动力，当行动力不够的时候是不能赴约的哟~同时如果一回合内赴约的次数过多的话，会引起父母的警觉，还请注意"
+     1 string english = "Here you can check detailed information regarding an invitation and choose a boy or activity depending on your interest. Go ahead, accept an invitation.\n\nTip: Accepting invitations costs Action, so you won't be able to accept any more if you don't have enough Action. Oh, and if you accept too many invitations on the same turn, your parents will become more vigilant."
+     1 string japanese = "ここにはすべてのお誘いのメッセージが保存してある。気になる子やイベントを考えてデートへ向かおう。\n\n注意：デートは行動力を消耗するので、行動力が足りないと実行できない。それと、同じターンに何度もデートすると両親に警戒されるから気をつけてね。"
+     1 string mchinese = "此處會有所有邀約的消息，根據你感興趣的男生或者活動，前往赴約吧。\n\n請注意：赴約會消耗一定的行動力，當行動力不夠的時候是不能赴約的喲~同時如果一回合內赴約的次數過多的話，會引起父母的警覺，還請注意"
+   [25833]
+    0 TableSoItemLang data
+     0 int id = 1596172120
+     1 string schinese = "点击可解锁并挖取周围脑洞。\n（消耗15点行动力）\n\n效果拔群！不容错过！"
+     1 string schinese_censored = "点击可解锁并挖取周围脑洞。\n（消耗15点行动力）\n\n效果拔群！不容错过！"
+     1 string english = "Absorb a Eureka Fragment to absorb all adjacent fragments.\n(Costs 15 Action)\n\nWow, look at it going! Magnificent!"
+     1 string japanese = "爆発のカケラを選択すると、周囲のカケラが吸収可能になる。\n\n効果抜群！見逃すな！\n行動力：-15"
+     1 string mchinese = "點擊可解鎖並挖取周圍腦洞。\n（消耗15點行動力）\n\n效果拔群！不容錯過！"
+   [25834]
+    0 TableSoItemLang data
+     0 int id = 1596172121
+     1 string schinese = "爆炸脑洞"
+     1 string schinese_censored = "爆炸脑洞"
+     1 string english = "Eureka Fragment"
+     1 string japanese = "爆発のカケラ"
+     1 string mchinese = "爆炸腦洞"
+   [25835]
+    0 TableSoItemLang data
+     0 int id = 1596172122
+     1 string schinese = "点击下一层脑洞，可进入下一层脑洞，并回复一些行动力。\n\n脑洞层数越高，通过脑洞获得的属性越高。！"
+     1 string schinese_censored = "点击下一层脑洞，可进入下一层脑洞，并回复一些行动力。\n\n脑洞层数越高，通过脑洞获得的属性越高。！"
+     1 string english = "Absorb an Enhanced Fragment to reach the next mind map and recover some Action.\n\nThe stats gained from fragments increase as you reach higher mind-map floors."
+     1 string japanese = "次の階層のカケラを選択すると、次の階層に移動して行動力も回復する。\n\n階層が深いほどカケラで入手できる能力値も高くなる！"
+     1 string mchinese = "點擊下一層腦洞，可進入下一層腦洞，並回復一些行動力。\n\n腦洞層數越高，通過腦洞獲得的屬性越高。！"
+   [25836]
+    0 TableSoItemLang data
+     0 int id = 1596172123
+     1 string schinese = "下一层脑洞"
+     1 string schinese_censored = "下一层脑洞"
+     1 string english = "Enhanced Fragment"
+     1 string japanese = "次の階層のカケラ"
+     1 string mchinese = "下一層腦洞"
+   [25837]
+    0 TableSoItemLang data
+     0 int id = 1596172124
+     1 string schinese = "点击洞察脑洞，可解锁本层全部脑洞。\n（消耗18点行动力）"
+     1 string schinese_censored = "点击洞察脑洞，可解锁本层全部脑洞。\n（消耗18点行动力）"
+     1 string english = "Absorb an Insight Fragment to unlock all fragments on this level.\n(Costs 18 Action)"
+     1 string japanese = "洞察力のカケラを選択すると階層にあるすべてのカケラが吸収可能になる。\n行動力：-18"
+     1 string mchinese = "點擊洞察腦洞，可解鎖本層全部腦洞。\n（消耗18點行動力）"
+   [25838]
+    0 TableSoItemLang data
+     0 int id = 1596172125
+     1 string schinese = "洞察脑洞"
+     1 string schinese_censored = "洞察脑洞"
+     1 string english = "Insight Fragment"
+     1 string japanese = "洞察力のカケラ"
+     1 string mchinese = "洞察腦洞"
+   [25839]
+    0 TableSoItemLang data
+     0 int id = 1596172126
+     1 string schinese = "点击行动力脑洞，可获取行动力。\n\n注意不要超过行动力上限！"
+     1 string schinese_censored = "点击行动力脑洞，可获取行动力。\n\n注意不要超过行动力上限！"
+     1 string english = "Absorb an Action Fragment to recover some Action.\n\nRemember, you cannot exceed your Action cap!"
+     1 string japanese = "行動力のカケラを選択すると、行動力が手に入る。\n\n行動力の上限は超えないように注意してね！"
+     1 string mchinese = "點擊行動力腦洞，可獲取行動力。\n\n注意不要超過行動力上限！"
+   [25840]
+    0 TableSoItemLang data
+     0 int id = 1596172127
+     1 string schinese = "行动力脑洞"
+     1 string schinese_censored = "行动力脑洞"
+     1 string english = "Action Fragment"
+     1 string japanese = "行動力のカケラ"
+     1 string mchinese = "行動力腦洞"
+   [25841]
+    0 TableSoItemLang data
+     0 int id = 1596172128
+     1 string schinese = "点击随机脑洞，可随机获得属性或行动力。\n（消耗10点行动力）\n\n谁知道呢？试试吧！"
+     1 string schinese_censored = "点击随机脑洞，可随机获得属性或行动力。\n（消耗10点行动力）\n\n谁知道呢？试试吧！"
+     1 string english = "Absorb a Fantasy Fragment to get a random bonus.\n(Costs 10 Action)\n\nIt might be stats, or it might be Action, who knows? Try your luck!"
+     1 string japanese = "ランダムのカケラを選択すると、ランダムで何かを獲得できる\n\n能力値か行動力かわからないけど試してみよう！\n行動力：-10"
+     1 string mchinese = "點擊隨機腦洞，可隨機獲得屬性或行動力。\n（消耗10點行動力）\n\n誰知道呢？試試吧！"
+   [25842]
+    0 TableSoItemLang data
+     0 int id = 1596172129
+     1 string schinese = "随机脑洞"
+     1 string schinese_censored = "随机脑洞"
+     1 string english = "Fantasy Fragment"
+     1 string japanese = "ランダムのカケラ"
+     1 string mchinese = "隨機腦洞"
+   [25843]
+    0 TableSoItemLang data
+     0 int id = 1596172130
+     1 string schinese = "点击可获得天赋属性。\n（消耗10点行动力）\n\n天赋属性越高，则每回合自动获取的属性越多。"
+     1 string schinese_censored = "点击可获得天赋属性。\n（消耗10点行动力）\n\n天赋属性越高，则每回合自动获取的属性越多。"
+     1 string english = "Absorb a talent fragment to increase a talent stats.\n(Costs 10 Action)\n\nYou get one stat point for every talent you have per turn."
+     1 string japanese = "天賦のカケラを選択すると、天賦能力値を獲得できる。\n\n天賦能力値が高いほど、毎ターンに獲得する能力値が増加する。\n行動力：-10"
+     1 string mchinese = "點擊可獲得天賦屬性。\n（消耗10點行動力）\n\n天賦屬性越高，則每回合自動獲取的屬性越多。"
+   [25844]
+    0 TableSoItemLang data
+     0 int id = 1596172131
+     1 string schinese = "天赋脑洞"
+     1 string schinese_censored = "天赋脑洞"
+     1 string english = "Talent Fragment"
+     1 string japanese = "天賦のカケラ"
+     1 string mchinese = "天賦腦洞"
+   [25845]
+    0 TableSoItemLang data
+     0 int id = 1596172132
+     1 string schinese = "点击可挖取所有已解锁的同颜色脑洞。\n（消耗20点行动力）"
+     1 string schinese_censored = "点击可挖取所有已解锁的同颜色脑洞。\n（消耗20点行动力）"
+     1 string english = "Absorb a Chain Fragment to absorb all unlocked fragments of that color.\n(Costs 20 Action)"
+     1 string japanese = "同色のカケラを選択すると、ロック解除済みのすべての同じ色のカケラを吸収する。\n行動力：-20"
+     1 string mchinese = "點擊可挖取所有已解鎖的同顏色腦洞。\n（消耗20點行動力）"
+   [25846]
+    0 TableSoItemLang data
+     0 int id = 1596172133
+     1 string schinese = "同色脑洞"
+     1 string schinese_censored = "同色脑洞"
+     1 string english = "Chain Fragment"
+     1 string japanese = "同色のカケラ"
+     1 string mchinese = "同色腦洞"
+   [25847]
+    0 TableSoItemLang data
+     0 int id = 1596172134
+     1 string schinese = "消耗10点行动力，获得一些悟性！\n\n悟性可用于学习技能，注意适当提高所依赖的属性，降低技能学习花费。"
+     1 string schinese_censored = "消耗10点行动力，获得一些悟性！\n\n悟性可用于学习技能，注意适当提高所依赖的属性，降低技能学习花费。"
+     1 string english = "Costs 10 Action and gives a bit of Knowledge!\n\nKnowledge is used to learn skills, but remember to increase your stats so as to decrease the cost of learning them."
+     1 string japanese = "理解力が上がる！\n行動力：-10\n\n理解力はスキルの学習に使う。スキルに関係する能力値が高いほど消耗する理解力が減少するから、まずは能力値を上げるのがオススメだよ。"
+     1 string mchinese = "消耗10點行動力，獲得一些悟性！\n\n悟性可用於學習技能，注意適當提高所依賴的屬性，降低技能學習花費。"
+   [25848]
+    0 TableSoItemLang data
+     0 int id = 1596172135
+     1 string schinese = "悟性脑洞"
+     1 string schinese_censored = "悟性脑洞"
+     1 string english = "Knowledge Fragment"
+     1 string japanese = "理解力のカケラ"
+     1 string mchinese = "悟性腦洞"
+   [25849]
+    0 TableSoItemLang data
+     0 int id = 1596172136
+     1 string schinese = "成功率："
+     1 string schinese_censored = "成功率："
+     1 string english = "Success rate: "
+     1 string japanese = "成功率："
+     1 string mchinese = "成功率："
+   [25850]
+    0 TableSoItemLang data
+     0 int id = 1596172137
+     1 string schinese = "索取次数不足了！"

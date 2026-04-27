@@ -1,0 +1,184 @@
+     1 string schinese_censored = "文学评论家必须学会文学基础"
+     1 string english = "Literature is a must for scholars."
+     1 string japanese = "文学評論家は基礎文学を必ず身に付ける"
+     1 string mchinese = "文學評論家必須學會文學基礎"
+   [206]
+    0 TableSoItemLang data
+     0 int id = 1010207
+     1 string schinese = "考试必备，通往高分的必经之路"
+     1 string schinese_censored = "考试必备，通往高分的必经之路"
+     1 string english = "Advanced Exam-Oriented Chinese is vital."
+     1 string japanese = "試験で高得点を目指すなら必須だ"
+     1 string mchinese = "考試必備，通往高分的必經之路"
+   [207]
+    0 TableSoItemLang data
+     0 int id = 1010208
+     1 string schinese = "大幅提高语文分数"
+     1 string schinese_censored = "大幅提高语文分数"
+     1 string english = "Special Chinese Skills is vital."
+     1 string japanese = "国語の点数を大きく伸ばす"
+     1 string mchinese = "大幅提高語文分數"
+   [208]
+    0 TableSoItemLang data
+     0 int id = 1010209
+     1 string schinese = "数学学科的基础，数学与智商息息相关"
+     1 string schinese_censored = "数学学科的基础，数学与智商息息相关"
+     1 string english = "Arithmetic is vital for future math."
+     1 string japanese = "数学の基礎。数学とＩＱは密接に関連している"
+     1 string mchinese = "數學學科的基礎，數學與智商息息相關"
+   [209]
+    0 TableSoItemLang data
+     0 int id = 1010210
+     1 string schinese = "代数是基础，不能怠慢啊"
+     1 string schinese_censored = "代数是基础，不能怠慢啊"
+     1 string english = "Basic Algebra is important so study hard."
+     1 string japanese = "代数は基礎。怠らずに勉強しよう"
+     1 string mchinese = "代數是基礎，不能怠慢啊"
+   [210]
+    0 TableSoItemLang data
+     0 int id = 1010211
+     1 string schinese = "几何、概率、函数，逐步学好才能更上一层楼"
+     1 string schinese_censored = "几何、概率、函数，逐步学好才能更上一层楼"
+     1 string english = "Geometrics 101 is vital for future math."
+     1 string japanese = "幾何学・確率・関数は段階学習でより高度になる"
+     1 string mchinese = "幾何、概率、函數，逐步學好才能更上一層樓"
+   [211]
+    0 TableSoItemLang data
+     0 int id = 1010212
+     1 string schinese = "几何、概率、函数，逐步学好才能更上一层楼"
+     1 string schinese_censored = "几何、概率、函数，逐步学好才能更上一层楼"
+     1 string english = "Probability is vital for future math."
+     1 string japanese = "幾何学・確率・関数は段階学習でより高度になる"
+     1 string mchinese = "幾何、概率、函數，逐步學好才能更上一層樓"
+   [212]
+    0 TableSoItemLang data
+     0 int id = 1010213
+     1 string schinese = "几何、概率、函数，逐步学好才能更上一层楼"
+     1 string schinese_censored = "几何、概率、函数，逐步学好才能更上一层楼"
+     1 string english = "Functions are vital for future math."
+     1 string japanese = "幾何学・確率・関数は段階学習でより高度になる"
+     1 string mchinese = "幾何、概率、函數，逐步學好才能更上一層樓"
+   [213]
+    0 TableSoItemLang data
+     0 int id = 1010214
+     1 string schinese = "奥数试题必须学，加分必备啊"
+     1 string schinese_censored = "奥数试题必须学，加分必备啊"
+     1 string english = "Mathematical Olympiad is vital."
+     1 string japanese = "数学で高得点を目指すなら、この問題復習が必須だ"
+     1 string mchinese = "奧數試題必須學，加分必備啊"
+   [214]
+    0 TableSoItemLang data
+     0 int id = 1010215
+     1 string schinese = "逻辑学对MBA考试，有一定额外的推动作用"
+     1 string schinese_censored = "逻辑学对工商管理学位考试，有一定额外的推动作用"
+     1 string english = "Mathematical Logic is vital."
+     1 string japanese = "数理論理学はＭＢＡ試験の加点になる"
+     1 string mchinese = "邏輯學對MBA考試，有一定額外的推動作用"
+   [215]
+    0 TableSoItemLang data
+     0 int id = 1010216
+     1 string schinese = "锻炼压轴题，对提高思维能力大有帮助"
+     1 string schinese_censored = "锻炼压轴题，对提高思维能力大有帮助"
+     1 string english = "Final Math Exam Question is vital."
+     1 string japanese = "難問を解くと、思考能力を大きく伸ばす"
+     1 string mchinese = "鍛煉壓軸題，對提高思維能力大有幫助"
+   [216]
+    0 TableSoItemLang data
+     0 int id = 1010217
+     1 string schinese = "应试解题，是走向数学领域的关键一步"
+     1 string schinese_censored = "走向数学领域的关键一步"
+     1 string english = "Advanced Exam-oriented Mathematics is vital."
+     1 string japanese = "上級受験数学を解くのは、数学分野への第一歩だ"
+     1 string mchinese = "應試解題，是走向數學領域的關鍵一步"
+   [217]
+    0 TableSoItemLang data
+     0 int id = 1010218
+     1 string schinese = "高级应试数学，提高成绩的同时也可以提高数学素养"
+     1 string schinese_censored = "提高成绩的同时也可以提高数学素养"
+     1 string english = "Special Mathematical Skills is vital."
+     1 string japanese = "特殊数学技術は成績と数学的素養を向上させる"
+     1 string mchinese = "高級應試數學，提高成績的同時也可以提高數學素養"
+   [218]
+    0 TableSoItemLang data
+     0 int id = 1010219
+     1 string schinese = "英语学习，必须从音标开始"
+     1 string schinese_censored = "英语学习，必须从音标开始"
+     1 string english = "Studying English starts with Phonetics."
+     1 string japanese = "英語を勉強するなら発音記号から"
+     1 string mchinese = "英語學習，必須從音標開始"
+   [219]
+    0 TableSoItemLang data
+     0 int id = 1010220
+     1 string schinese = "英语单词可以提高记忆、情商"
+     1 string schinese_censored = "英语单词可以提高记忆、情绪力"
+     1 string english = "English Vocabulary, 'cause you need it."
+     1 string japanese = "英単語は記憶力とＥＱを高める"
+     1 string mchinese = "英語單詞可以提高記憶、情商"
+   [220]
+    0 TableSoItemLang data
+     0 int id = 1010221
+     1 string schinese = "简单会话、英语语法、英语听力需逐个击破"
+     1 string schinese_censored = "简单会话、英语语法、英语听力需逐个击破"
+     1 string english = "Conversation 101, 'cause you need it."
+     1 string japanese = "英会話・英文法・リスニングは一つずつ片付けよう"
+     1 string mchinese = "簡單會話、英語語法、英語聽力需逐個擊破"
+   [221]
+    0 TableSoItemLang data
+     0 int id = 1010222
+     1 string schinese = "简单会话、英语语法、英语听力需逐个击破"
+     1 string schinese_censored = "简单会话、英语语法、英语听力需逐个击破"
+     1 string english = "English Grammar, 'cause you need it."
+     1 string japanese = "英会話・英文法・リスニングは一つずつ片付けよう"
+     1 string mchinese = "簡單會話、英語語法、英語聽力需逐個擊破"
+   [222]
+    0 TableSoItemLang data
+     0 int id = 1010223
+     1 string schinese = "简单会话、英语语法、英语听力需逐个击破"
+     1 string schinese_censored = "简单会话、英语语法、英语听力需逐个击破"
+     1 string english = "Listening Comprehension, 'cause you need it."
+     1 string japanese = "英会話・英文法・リスニングは一つずつ片付けよう"
+     1 string mchinese = "簡單會話、英語語法、英語聽力需逐個擊破"
+   [223]
+    0 TableSoItemLang data
+     0 int id = 1010224
+     1 string schinese = "阅读理解是英语能力的提升关键"
+     1 string schinese_censored = "阅读理解是英语能力的提升关键"
+     1 string english = "Reading Comprehension, 'cause you need it."
+     1 string japanese = "英文読解は英語力を向上させるカギだ"
+     1 string mchinese = "閱讀理解是英語能力的提升關鍵"
+   [224]
+    0 TableSoItemLang data
+     0 int id = 1010225
+     1 string schinese = "英语作文是高考英语重头戏"
+     1 string schinese_censored = "英语作文是最终考试英语重头戏"
+     1 string english = "English Writing is a vital part of Gaokao."
+     1 string japanese = "英作文は大学入試の英語でも重要だ"
+     1 string mchinese = "英語作文是高考英語重頭戲"
+   [225]
+    0 TableSoItemLang data
+     0 int id = 1010226
+     1 string schinese = "做题速度对考试至关重要，得学！"
+     1 string schinese_censored = "做题速度对考试至关重要，得学！"
+     1 string english = "Exam Speed is great for Gaokao!"
+     1 string japanese = "試験は回答速度も大切だ！勉強しよう！"
+     1 string mchinese = "做題速度對考試至關重要，得學！"
+   [226]
+    0 TableSoItemLang data
+     0 int id = 1010227
+     1 string schinese = "高级应试英语，信赖之选"
+     1 string schinese_censored = "高级英语，信赖之选"
+     1 string english = "Advanced Exam-Oriented English is vital."
+     1 string japanese = "上級受験英語は信頼に値する"
+     1 string mchinese = "高級應試英語，信賴之選"
+   [227]
+    0 TableSoItemLang data
+     0 int id = 1010228
+     1 string schinese = "非常规技巧可以迅速拉开分数差距！"
+     1 string schinese_censored = "非常规技巧可以迅速拉开分数差距！"
+     1 string english = "Special English Skills, 'cause you need it."
+     1 string japanese = "特殊英語技術で効率的に点数差を広げよう！"
+     1 string mchinese = "非常規技巧可以迅速拉開分數差距！"
+   [228]
+    0 TableSoItemLang data
+     0 int id = 1010229
+     1 string schinese = "地理常识是文综知识的开端"

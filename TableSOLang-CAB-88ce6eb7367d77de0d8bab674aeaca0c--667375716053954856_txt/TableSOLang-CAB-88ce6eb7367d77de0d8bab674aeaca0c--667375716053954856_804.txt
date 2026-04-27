@@ -1,0 +1,184 @@
+     1 string schinese_censored = "启动了随机脑洞"
+     1 string english = "You activated a Fantasy Fragment."
+     1 string japanese = "ランダムなカケラが活性化された"
+     1 string mchinese = "啟動了隨機腦洞"
+   [18468]
+    0 TableSoItemLang data
+     0 int id = 1028469
+     1 string schinese = "当前脑洞处于未解锁状态"
+     1 string schinese_censored = "当前脑洞处于未解锁状态"
+     1 string english = "This fragment is locked."
+     1 string japanese = "このカケラはロックされている"
+     1 string mchinese = "當前腦洞處於未解鎖狀態"
+   [18469]
+    0 TableSoItemLang data
+     0 int id = 1028470
+     1 string schinese = "智商天赋"
+     1 string schinese_censored = "智慧天赋"
+     1 string english = "IQ Talent"
+     1 string japanese = "天賦ＩＱ"
+     1 string mchinese = "智商天賦"
+   [18470]
+    0 TableSoItemLang data
+     0 int id = 1028471
+     1 string schinese = "情商天赋"
+     1 string schinese_censored = "情绪力天赋"
+     1 string english = "EQ Talent"
+     1 string japanese = "天賦ＥＱ"
+     1 string mchinese = "情商天賦"
+   [18471]
+    0 TableSoItemLang data
+     0 int id = 1028472
+     1 string schinese = "智商"
+     1 string schinese_censored = "智慧"
+     1 string english = "IQ"
+     1 string japanese = "ＩＱ"
+     1 string mchinese = "智商"
+   [18472]
+    0 TableSoItemLang data
+     0 int id = 1028473
+     1 string schinese = "情商"
+     1 string schinese_censored = "情绪力"
+     1 string english = "EQ"
+     1 string japanese = "ＥＱ"
+     1 string mchinese = "情商"
+   [18473]
+    0 TableSoItemLang data
+     0 int id = 1028474
+     1 string schinese = "体魄"
+     1 string schinese_censored = "体魄"
+     1 string english = "Constitution"
+     1 string japanese = "体力"
+     1 string mchinese = "體魄"
+   [18474]
+    0 TableSoItemLang data
+     0 int id = 1028475
+     1 string schinese = "记忆力"
+     1 string schinese_censored = "记忆力"
+     1 string english = "Memory"
+     1 string japanese = "記憶力"
+     1 string mchinese = "記憶力"
+   [18475]
+    0 TableSoItemLang data
+     0 int id = 1028476
+     1 string schinese = "想象力"
+     1 string schinese_censored = "想象力"
+     1 string english = "Imagination"
+     1 string japanese = "想像力"
+     1 string mchinese = "想像力"
+   [18476]
+    0 TableSoItemLang data
+     0 int id = 1028477
+     1 string schinese = "悟性"
+     1 string schinese_censored = "悟性"
+     1 string english = "Knowledge"
+     1 string japanese = "理解力"
+     1 string mchinese = "悟性"
+   [18477]
+    0 TableSoItemLang data
+     0 int id = 1028478
+     1 string schinese = "想象力天赋"
+     1 string schinese_censored = "想象力天赋"
+     1 string english = "Imag. Talent"
+     1 string japanese = "天賦想像力"
+     1 string mchinese = "想像力天賦"
+   [18478]
+    0 TableSoItemLang data
+     0 int id = 1028479
+     1 string schinese = "记忆力天赋"
+     1 string schinese_censored = "记忆力天赋"
+     1 string english = "Mem. Talent"
+     1 string japanese = "天賦記憶力"
+     1 string mchinese = "記憶力天賦"
+   [18479]
+    0 TableSoItemLang data
+     0 int id = 1028480
+     1 string schinese = "体魄天赋"
+     1 string schinese_censored = "体魄天赋"
+     1 string english = "Con. Talent"
+     1 string japanese = "天賦体力"
+     1 string mchinese = "體魄天賦"
+   [18480]
+    0 TableSoItemLang data
+     0 int id = 1028481
+     1 string schinese = "魅力"
+     1 string schinese_censored = "魅力"
+     1 string english = "Charm"
+     1 string japanese = "魅力"
+     1 string mchinese = "魅力"
+   [18481]
+    0 TableSoItemLang data
+     0 int id = 1028482
+     1 string schinese = "面子"
+     1 string schinese_censored = "面子"
+     1 string english = "Face"
+     1 string japanese = "メンツ"
+     1 string mchinese = "面子"
+   [18482]
+    0 TableSoItemLang data
+     0 int id = 1028483
+     1 string schinese = "父母面子"
+     1 string schinese_censored = "父母面子"
+     1 string english = "Parents' Face"
+     1 string japanese = "両親のメンツ"
+     1 string mchinese = "父母面子"
+   [18483]
+    0 TableSoItemLang data
+     0 int id = 1028484
+     1 string schinese = "自信"
+     1 string schinese_censored = "自信"
+     1 string english = "Confident"
+     1 string japanese = "自信"
+     1 string mchinese = "自信"
+   [18484]
+    0 TableSoItemLang data
+     0 int id = 1028485
+     1 string schinese = "行动力"
+     1 string schinese_censored = "行动力"
+     1 string english = "Action"
+     1 string japanese = "行動力"
+     1 string mchinese = "行動力"
+   [18485]
+    0 TableSoItemLang data
+     0 int id = 1028486
+     1 string schinese = "获得了新的特长："
+     1 string schinese_censored = "获得了新的特长："
+     1 string english = "New trait acquired: "
+     1 string japanese = "新しい特技を獲得："
+     1 string mchinese = "獲得了新的特長："
+   [18486]
+    0 TableSoItemLang data
+     0 int id = 1028487
+     1 string schinese = "似乎什么都没有变化！"
+     1 string schinese_censored = "似乎什么都没有变化！"
+     1 string english = "Nothing appears to have changed!"
+     1 string japanese = "何も変わらない！"
+     1 string mchinese = "似乎什麼都沒有變化！"
+   [18487]
+    0 TableSoItemLang data
+     0 int id = 1028488
+     1 string schinese = "拥有了新的心理状态："
+     1 string schinese_censored = "拥有了新的心理状态："
+     1 string english = "New mental status acquired: "
+     1 string japanese = "新たなメンタルを獲得："
+     1 string mchinese = "擁有了新的心理狀態："
+   [18488]
+    0 TableSoItemLang data
+     0 int id = 1028489
+     1 string schinese = "经验"
+     1 string schinese_censored = "经验"
+     1 string english = "Experience"
+     1 string japanese = "経験"
+     1 string mchinese = "經驗"
+   [18489]
+    0 TableSoItemLang data
+     0 int id = 1028490
+     1 string schinese = "压力"
+     1 string schinese_censored = "压力"
+     1 string english = "Stress"
+     1 string japanese = "ストレス"
+     1 string mchinese = "壓力"
+   [18490]
+    0 TableSoItemLang data
+     0 int id = 1028491
+     1 string schinese = "我的压力"

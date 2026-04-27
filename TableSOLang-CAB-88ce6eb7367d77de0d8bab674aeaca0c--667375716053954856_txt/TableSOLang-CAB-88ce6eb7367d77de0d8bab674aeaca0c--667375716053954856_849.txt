@@ -1,0 +1,184 @@
+     1 string schinese_censored = "跳到"
+     1 string english = "Jump to"
+     1 string japanese = "スキップ"
+     1 string mchinese = "跳到"
+   [19503]
+    0 TableSoItemLang data
+     0 int id = 1029504
+     1 string schinese = "技能"
+     1 string schinese_censored = "技能"
+     1 string english = "Skill"
+     1 string japanese = "スキル"
+     1 string mchinese = "技能"
+   [19504]
+    0 TableSoItemLang data
+     0 int id = 1029505
+     1 string schinese = "开发者模式"
+     1 string schinese_censored = "开发者模式"
+     1 string english = "Dev Mode"
+     1 string japanese = "開発者モード"
+     1 string mchinese = "開發者模式"
+   [19505]
+    0 TableSoItemLang data
+     0 int id = 1029506
+     1 string schinese = "恋爱进行中"
+     1 string schinese_censored = "恋爱进行中"
+     1 string english = "Being in love"
+     1 string japanese = "恋愛進行中"
+     1 string mchinese = "戀愛進行中"
+   [19506]
+    0 TableSoItemLang data
+     0 int id = 1029507
+     1 string schinese = "开始\n下一世代"
+     1 string schinese_censored = "开始\n下一世代"
+     1 string english = "Next \nGeneration"
+     1 string japanese = "次世代\n開始"
+     1 string mchinese = "開始\n下一世代"
+   [19507]
+    0 TableSoItemLang data
+     0 int id = 1029508
+     1 string schinese = "孩子最初爱他们父母，等大一些他们评判父母；然后有些时候，他们原谅父母\n\n\n\n——王尔德"
+     1 string schinese_censored = "孩子最初爱他们父母，\n等大一些他们评判父母；\n然后有些时候，他们原谅父母\n\n\n——王尔德"
+     1 string english = "Children begin by loving their parents; as they grow older they judge them; sometimes they forgive them.\n\n\n\n——Oscar Wilde"
+     1 string japanese = "子どもは両親を愛することから始めるが、やがては裁くようになる。許すことは滅多にない。\n\n\n\n——オスカー・ワイルド"
+     1 string mchinese = "孩子最初愛他們父母，等大一些他們評判父母；然後有些時候，他們原諒父母\n\n\n\n——王爾德"
+   [19508]
+    0 TableSoItemLang data
+     0 int id = 1029509
+     1 string schinese = "点击屏幕张开双眼"
+     1 string schinese_censored = "点击荧幕张开双眼"
+     1 string english = "Click to open your eyes"
+     1 string japanese = "どこか選択して目を覚まそう"
+     1 string mchinese = "點擊螢幕張開雙眼"
+   [19509]
+    0 TableSoItemLang data
+     0 int id = 1029510
+     1 string schinese = "加载中"
+     1 string schinese_censored = "加载中"
+     1 string english = "Loading"
+     1 string japanese = "ロード中"
+     1 string mchinese = "加載中"
+   [19510]
+    0 TableSoItemLang data
+     0 int id = 1029511
+     1 string schinese = "行动力不足时，可点击安排日程至下回合，可恢复行动力!"
+     1 string schinese_censored = "行动力不足时，可点击安排日程至下回合，可恢复行动力!"
+     1 string english = "When your Action is not enough, you can click the "Schedule" to recover your Action next turn!"
+     1 string japanese = "行動力がなくなった時は、予定を選択して次のターンに進めば回復するぞ！"
+     1 string mchinese = "行動力不足時，可點擊安排日程至下回合，可恢復行動力!"
+   [19511]
+    0 TableSoItemLang data
+     0 int id = 1029512
+     1 string schinese = "请点击空白区域继续"
+     1 string schinese_censored = "请点击空白区域继续"
+     1 string english = "Tap to continue."
+     1 string japanese = "空白部を選択して続けてください"
+     1 string mchinese = "請點擊空白區域繼續"
+   [19512]
+    0 TableSoItemLang data
+     0 int id = 1029513
+     1 string schinese = "解决"
+     1 string schinese_censored = "解决"
+     1 string english = "Solve"
+     1 string japanese = "解答"
+     1 string mchinese = "解決"
+   [19513]
+    0 TableSoItemLang data
+     0 int id = 1029514
+     1 string schinese = "必胜"
+     1 string schinese_censored = "必胜"
+     1 string english = "Victory"
+     1 string japanese = "必勝"
+     1 string mchinese = "必勝"
+   [19514]
+    0 TableSoItemLang data
+     0 int id = 1029515
+     1 string schinese = "闲话家常"
+     1 string schinese_censored = "闲话家常"
+     1 string english = "Face Challenge"
+     1 string japanese = "メンツ挑戦"
+     1 string mchinese = "閒話家常"
+   [19515]
+    0 TableSoItemLang data
+     0 int id = 1029516
+     1 string schinese = "继续"
+     1 string schinese_censored = "继续"
+     1 string english = "Continue"
+     1 string japanese = "続ける"
+     1 string mchinese = "繼續"
+   [19516]
+    0 TableSoItemLang data
+     0 int id = 1029517
+     1 string schinese = "解题区中每三个同色同等级脑洞，会合并为更高级脑洞。\n\n题目中会出现解决题目所需的脑洞，只要解题区中出现对应的脑洞，无需相邻，只要点击【解决】按钮就可完成题目，并获得悟性奖励。\n\n有剩余换卷子次数时，可更换试卷，题目和解题区会刷新。\n\n题目为无限刷新。\n\n"
+     1 string schinese_censored = "解题区中每三个同色同等级脑洞，会合并为更高级脑洞。\n\n题目中会出现解决题目所需的脑洞，只要解题区中出现对应的脑洞，无需相邻，只要点击【解决】按钮就可完成题目，并获得悟性奖励。\n\n有剩余换卷子次数时，可更换试卷，题目和解题区会刷新。\n\n题目为无限刷新。\n\n"
+     1 string english = "Three fragments of the same level and grade can be merged into a better fragment.\n\nThe fragments required to solve each question will be displayed on the exam. These fragments do not have to be interjacent and once you have collected them all you simply click [Solve] to complete the question and get the Knowledge reward.\n\nYou can ask for a new exam once during each quiz, upon which all questions and the solution area will be refreshed.\n\nThere is an endless number of questions and the quiz ends when you are out of Action."
+     1 string japanese = "解答欄上で同じ色・同じ数字のカケラが３つ連なると、１つ上のレベルのカケラに合成される。\n\n問題は、解答に必要なカケラを表示している。解答欄に同じ（連続していなくても可）カケラが集まれば、【解答】を選択することで、理解力を獲得できる。\n\n一度解答すると【問題変更】ができ、問題と解答欄の両方が更新される。\n\nまた、解答した問題は更新される。行動力がなくなるまでテストは終わらない。"
+     1 string mchinese = "解題區中每三個同色同等級腦洞，會合並為更高級腦洞。\n\n題目中會出現解決題目所需的腦洞，只要解題區中出現對應的腦洞，無需相鄰，只要點擊【解決】按鈕就可完成題目，並獲得悟性獎勵。\n\n有剩餘換卷子次數時，可更換試卷，題目和解題區會刷新。\n\n題目為無限刷新。\n\n"
+   [19517]
+    0 TableSoItemLang data
+     0 int id = 1029518
+     1 string schinese = "普通"
+     1 string schinese_censored = "普通"
+     1 string english = "Common"
+     1 string japanese = "Ｎ"
+     1 string mchinese = "普通"
+   [19518]
+    0 TableSoItemLang data
+     0 int id = 1029519
+     1 string schinese = "稀有"
+     1 string schinese_censored = "稀有"
+     1 string english = "Rare"
+     1 string japanese = "Ｒ"
+     1 string mchinese = "稀有"
+   [19519]
+    0 TableSoItemLang data
+     0 int id = 1029520
+     1 string schinese = "史诗"
+     1 string schinese_censored = "史诗"
+     1 string english = "Epic"
+     1 string japanese = "ＳＲ"
+     1 string mchinese = "史詩"
+   [19520]
+    0 TableSoItemLang data
+     0 int id = 1029521
+     1 string schinese = "传说"
+     1 string schinese_censored = "传说"
+     1 string english = "Legendary"
+     1 string japanese = "ＳＳＲ"
+     1 string mchinese = "傳說"
+   [19521]
+    0 TableSoItemLang data
+     0 int id = 1029522
+     1 string schinese = "语言"
+     1 string schinese_censored = "语言"
+     1 string english = "Language"
+     1 string japanese = "言語"
+     1 string mchinese = "語言"
+   [19522]
+    0 TableSoItemLang data
+     0 int id = 1029523
+     1 string schinese = "关注我们"
+     1 string schinese_censored = "关注我们"
+     1 string english = "Follow Us"
+     1 string japanese = "フォロー"
+     1 string mchinese = "關注我們"
+   [19523]
+    0 TableSoItemLang data
+     0 int id = 1029524
+     1 string schinese = "岁"
+     1 string schinese_censored = "岁"
+     1 string english = "year old"
+     1 string japanese = "歳"
+     1 string mchinese = "歲"
+   [19524]
+    0 TableSoItemLang data
+     0 int id = 1029525
+     1 string schinese = "回合"
+     1 string schinese_censored = "回合"
+     1 string english = "Turn"
+     1 string japanese = "ターン"
+     1 string mchinese = "回合"
+   [19525]
+    0 TableSoItemLang data
+     0 int id = 1029526
+     1 string schinese = "安排"

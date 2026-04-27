@@ -1,0 +1,184 @@
+     1 string schinese_censored = "通过娱乐:骑马获得\n\n跑马的孩子，你威武雄壮"
+     1 string english = "Get from entertainment: Horse Riding\n\nRun like the wind, my trusty steed!"
+     1 string japanese = "特技獲得条件：乗馬\n\n乗馬を習えるなんて。幸せなんだね。"
+     1 string mchinese = "通過練習:騎馬獲得\n\n跑馬的孩子，你威武雄壯"
+   [2161]
+    0 TableSoItemLang data
+     0 int id = 1012162
+     1 string schinese = "通过练习:付费唱片获得\n\n为知识产权而付费"
+     1 string schinese_censored = "通过娱乐:付费唱片获得\n\n为知识产权而付费"
+     1 string english = "Get from entertainment: LP Records\n\nLet's pay our tribute to intellectual property rights."
+     1 string japanese = "特技獲得条件：アルバムＣＤ\n\n知的財産権を守るために必要な出費だ。"
+     1 string mchinese = "通過練習:付費唱片獲得\n\n為知識產權而付費"
+   [2162]
+    0 TableSoItemLang data
+     0 int id = 1012163
+     1 string schinese = "通过练习:潮流游戏机获得\n\n也许是不玩游戏的游戏迷"
+     1 string schinese_censored = "通过娱乐:潮流游戏机获得\n\n也许是不玩游戏的游戏迷"
+     1 string english = "Get from entertainment: Trendy Game Console\n\nPerhaps this is how non-gamers get addicted to gaming."
+     1 string japanese = "特技獲得条件：流行ゲーム機\n\nゲームはやらないけど詳しい。"
+     1 string mchinese = "通過練習:潮流遊戲機獲得\n\n也許是不玩遊戲的遊戲迷"
+   [2163]
+    0 TableSoItemLang data
+     0 int id = 1012164
+     1 string schinese = "通过练习:东南亚游获得\n\n东南亚游览名山大川"
+     1 string schinese_censored = "通过娱乐:东南亚游获得\n\n东南亚游览名山大川"
+     1 string english = "Get from entertainment: Southeast Asia Travel\n\nLet's head to Southeast Asia and visit all the most beautiful places."
+     1 string japanese = "特技獲得条件：東南アジア旅行\n\n東南アジアの景勝地を巡る。"
+     1 string mchinese = "通過練習:東南亞遊獲得\n\n東南亞遊覽名山大川"
+   [2164]
+    0 TableSoItemLang data
+     0 int id = 1012165
+     1 string schinese = "通过练习:虚拟现实机获得\n\n虚拟现实的世界共你我！"
+     1 string schinese_censored = "通过娱乐:虚拟现实机获得\n\n虚拟现实的世界共你我！"
+     1 string english = "Get from entertainment: VR Machine\n\nWe all exist in the virtual world!"
+     1 string japanese = "特技獲得条件：VRゲーム機\n\n誰でも入れるVRの世界！"
+     1 string mchinese = "通過練習:虛擬現實機獲得\n\n虛擬現實的世界共你我！"
+   [2165]
+    0 TableSoItemLang data
+     0 int id = 1012166
+     1 string schinese = "通过练习:纪念册获得\n\n写同学录写到手软"
+     1 string schinese_censored = "通过娱乐:纪念册获得\n\n写同学录写到手软"
+     1 string english = "Get from entertainment: Commemorative Album\n\nHere's my commemoration album, one from my youth."
+     1 string japanese = "特技獲得条件：記念のアルバム\n\nもらった手紙を集めて、青春のアルバムにする。"
+     1 string mchinese = "通過練習:紀念冊獲得\n\n寫同學錄寫到手軟"
+   [2166]
+    0 TableSoItemLang data
+     0 int id = 1012167
+     1 string schinese = "通过练习:偶像演唱会获得\n\n你的偶像是谁？"
+     1 string schinese_censored = "通过娱乐:偶像演唱会获得\n\n你的偶像是谁？"
+     1 string english = "Get from entertainment: Idol Concert\n\nWho's your idol?"
+     1 string japanese = "特技獲得条件：アイドルライブ\n\nあなたのアイドルは誰？"
+     1 string mchinese = "通過練習:偶像演唱會獲得\n\n你的偶像是誰？"
+   [2167]
+    0 TableSoItemLang data
+     0 int id = 1012168
+     1 string schinese = "通过练习:新发型获得\n\n丝般顺滑！"
+     1 string schinese_censored = "通过娱乐:新发型获得\n\n丝般顺滑！"
+     1 string english = "Get from entertainment: New Haircut\n\nSilky smooth!"
+     1 string japanese = "特技獲得条件：新しい髪型\n\nサラサラなめらか髪！"
+     1 string mchinese = "通過練習:新髮型獲得\n\n絲般順滑！"
+   [2168]
+    0 TableSoItemLang data
+     0 int id = 1012169
+     1 string schinese = "通过练习:武侠小说获得\n\n沧海一声笑啊哈哈哈哈哈"
+     1 string schinese_censored = "通过娱乐:武侠小说获得\n\n沧海一声笑啊哈哈哈哈哈"
+     1 string english = "Get from entertainment: Martial Arts Novels\n\nTry following my shadowless fist if you can, mwuahahaha!"
+     1 string japanese = "特技獲得条件：武侠小説\n\n「ならば去れ、私は賊になるつもりはない」"
+     1 string mchinese = "通過練習:武俠小說獲得\n\n滄海一聲笑啊哈哈哈哈哈"
+   [2169]
+    0 TableSoItemLang data
+     0 int id = 1012170
+     1 string schinese = "通过练习:选零食获得\n\n我吃薯片，你吃薯片调料"
+     1 string schinese_censored = "通过娱乐:选零食获得\n\n我吃薯片，你吃薯片调料"
+     1 string english = "Get from entertainment: Choosing Snacks\n\nI eat the potato chips, and you eat the seasoning!"
+     1 string japanese = "特技獲得条件：お菓子選び\n\n私がポテトチップスを食べる。あなたには残った粉をあげよう。"
+     1 string mchinese = "通過練習:選零食獲得\n\n我吃薯片，你吃薯片調料"
+   [2170]
+    0 TableSoItemLang data
+     0 int id = 1012171
+     1 string schinese = "通过练习:青春小说获得\n\n不痛苦的青春是不完整的"
+     1 string schinese_censored = "通过娱乐:青春小说获得\n\n不痛苦的青春是不完整的"
+     1 string english = "Get from entertainment: Young Adult Novels\n\nA youth without pain is no real youth!"
+     1 string japanese = "特技獲得条件：青春小説\n\n痛みの伴わない青春は不完全。"
+     1 string mchinese = "通過練習:青春小說獲得\n\n不痛苦的青春是不完整的"
+   [2171]
+    0 TableSoItemLang data
+     0 int id = 1012172
+     1 string schinese = "通过练习:文艺电影获得\n\n塔尔可夫斯基的电影反思"
+     1 string schinese_censored = "通过娱乐:文艺电影获得\n\n塔尔可夫斯基的电影反思"
+     1 string english = "Get from entertainment: Art Movies\n\nThis is a review of Tarkovsky's works."
+     1 string japanese = "特技獲得条件：文芸映画\n\nタルコフスキーの映画について再考する。"
+     1 string mchinese = "通過練習:文藝電影獲得\n\n塔爾可夫斯基的電影反思"
+   [2172]
+    0 TableSoItemLang data
+     0 int id = 1012173
+     1 string schinese = "通过练习:尤克里里获得\n\n如果我会尤克里里，你会爱我吗？会爱我吗？爱我吗？"
+     1 string schinese_censored = "通过娱乐:尤克里里获得\n\n如果我会尤克里里，你会爱我吗？会爱我吗？爱我吗？"
+     1 string english = "Get from entertainment: Ukulele\n\nWill you love me if I can play the Ukulele? Will you? Please?"
+     1 string japanese = "特技獲得条件：ウクレレ\n\nもし私がウクレレを弾けたら、私のことを愛する？愛してくれる？愛してる？"
+     1 string mchinese = "通過練習:尤克裏裏獲得\n\n如果我會尤克裏裏，你會愛我嗎？會愛我嗎？愛我嗎？"
+   [2173]
+    0 TableSoItemLang data
+     0 int id = 1012174
+     1 string schinese = "通过练习:潮流服装获得\n\n潮人品质，即刻尊享"
+     1 string schinese_censored = "通过娱乐:潮流服装获得\n\n潮人品质，即刻尊享"
+     1 string english = "Get from entertainment: Trendy Clothes\n\nTrendsetters always get an abundance of respect."
+     1 string japanese = "特技獲得条件：流行りの服\n\n時代の先を行くセレクト。すぐに流行りだす。"
+     1 string mchinese = "通過練習:潮流服裝獲得\n\n潮人品質，即刻尊享"
+   [2174]
+    0 TableSoItemLang data
+     0 int id = 1012175
+     1 string schinese = "通过练习:奢侈零食获得\n\n奢侈的零食喜不喜欢吃"
+     1 string schinese_censored = "通过娱乐:健康零食获得\n\n健康的零食喜不喜欢吃"
+     1 string english = "Get from entertainment: Luxury Snacks\n\nDo you like eating luxury snacks?"
+     1 string japanese = "特技獲得条件：高級菓子\n\n高級菓子は好き？"
+     1 string mchinese = "通過練習:奢侈零食獲得\n\n奢侈的零食喜不喜歡吃"
+   [2175]
+    0 TableSoItemLang data
+     0 int id = 1012176
+     1 string schinese = "通过练习:新手机获得\n\n大屏，镜面屏，全面屏，糊你一脸屏"
+     1 string schinese_censored = "通过娱乐:新手机获得\n\n大屏，镜面屏，全面屏，糊你一脸屏"
+     1 string english = "Get from entertainment: New Phone\n\nA large screen, awesome camera, and a cool case."
+     1 string japanese = "特技獲得条件：新型スマホ\n\n大画面、グレア液晶、全面スクリーン、保護フィルムを貼らないと。"
+     1 string mchinese = "通過練習:新手機獲得\n\n大屏，鏡面屏，全面屏，糊你一臉屏"
+   [2176]
+    0 TableSoItemLang data
+     0 int id = 1012177
+     1 string schinese = "通过练习:纹身贴获得\n\n现实中的朋友，请谨慎纹身"
+     1 string schinese_censored = "通过娱乐:纹身贴获得\n\n现实中的朋友，请谨慎纹身"
+     1 string english = "Get from entertainment: Tattoo Stickers\n\nYou out there in the real world, think twice before getting tattoos."
+     1 string japanese = "特技獲得条件：タトゥーシール\n\n現実世界の皆さん。タトゥーは慎重にね！"
+     1 string mchinese = "通過練習:紋身貼獲得\n\n現實中的朋友，請謹慎紋身"
+   [2177]
+    0 TableSoItemLang data
+     0 int id = 1012178
+     1 string schinese = "通过练习:偶像签名获得\n\n偶像签一个名字，值千金"
+     1 string schinese_censored = "通过娱乐:偶像签名获得\n\n偶像签一个名字，值千金"
+     1 string english = "Get from entertainment: Idol Autograph\n\nAn autograph from your idol can be worth its weight in gold!"
+     1 string japanese = "特技獲得条件：アイドルサイン\n\nアイドルのサイン：プライスレス。"
+     1 string mchinese = "通過練習:偶像簽名獲得\n\n偶像簽一個名字，值千金"
+   [2178]
+    0 TableSoItemLang data
+     0 int id = 1012179
+     1 string schinese = "通过练习:欧洲游获得\n\n塞纳河畔，左岸的咖啡"
+     1 string schinese_censored = "通过娱乐:欧洲游获得\n\n塞纳河畔，左岸的咖啡"
+     1 string english = "Get from entertainment: Europe Travel\n\nDrinking coffee on the left bank of the Seine."
+     1 string japanese = "特技獲得条件：ヨーロッパ旅行\n\nセーヌ河畔のカフェ。"
+     1 string mchinese = "通過練習:歐洲遊獲得\n\n塞納河畔，左岸的咖啡"
+   [2179]
+    0 TableSoItemLang data
+     0 int id = 1012180
+     1 string schinese = "通过练习:健身房获得\n\n卧推两百斤"
+     1 string schinese_censored = "通过娱乐:健身房获得\n\n卧推两百斤"
+     1 string english = "Get from entertainment: Gym\n\n100kg bench press!"
+     1 string japanese = "特技獲得条件：フィットネスジム\n\nベンチプレスで１００ｋｇ。"
+     1 string mchinese = "通過練習:健身房獲得\n\n臥推兩百斤"
+   [2180]
+    0 TableSoItemLang data
+     0 int id = 1012181
+     1 string schinese = "通过练习:希望工程获得\n\n无论何时都要帮助有需要的人"
+     1 string schinese_censored = "通过娱乐:希望工程获得\n\n无论何时都要帮助有需要的人"
+     1 string english = "Get from entertainment: Project Hope\n\nWe should always help those in need."
+     1 string japanese = "特技獲得条件：募金活動\n\n困っている人を可能な限り助けよう。"
+     1 string mchinese = "通過練習:希望工程獲得\n\n無論何時都要幫助有需要的人"
+   [2181]
+    0 TableSoItemLang data
+     0 int id = 1012182
+     1 string schinese = "通过练习:奢侈品牌获得\n\n奢侈是一种生活态度"
+     1 string schinese_censored = "通过娱乐:奢侈品牌获得\n\n奢侈是一种生活享受"
+     1 string english = "Get from entertainment: Luxury Brand\n\nLuxury is an attitude toward life."
+     1 string japanese = "特技獲得条件：高級ブランド\n\n贅沢は我がライフスタイル。"
+     1 string mchinese = "通過練習:奢侈品牌獲得\n\n奢侈是一種生活態度"
+   [2182]
+    0 TableSoItemLang data
+     0 int id = 1012183
+     1 string schinese = "通过练习:补脑补品获得\n\n吃哪儿补哪儿！"
+     1 string schinese_censored = "通过娱乐:补脑补品获得\n\n吃哪儿补哪儿！"
+     1 string english = "Get from entertainment: Mind Supplements\n\nGreat for when you overload your mind!"
+     1 string japanese = "特技獲得条件：脳力サプリ\n\n何を食べても栄養になる！"
+     1 string mchinese = "通過練習:補腦補品獲得\n\n吃哪兒補哪兒！"
+   [2183]
+    0 TableSoItemLang data
+     0 int id = 1012184
+     1 string schinese = "通过练习:特级家教获得\n\n特级家教，教你特技！"

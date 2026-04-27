@@ -1,0 +1,184 @@
+     1 string schinese_censored = "学费可以帮你解锁游戏全部内容，\n也可用于购买一些关键道具。\n你可以充值购买，\n也可以看广告获取。"
+     1 string english = "You can unlock new content or buy\nimportant items for Tuition.\nYou gain Tuition by topping up\nor by watching Ads."
+     1 string japanese = "授業料を消費することで、ゲームの全コンテンツをアンロックすることができる。\nまた、一部の重要アイテムを購入できる。"
+     1 string mchinese = "學費可以幫你解鎖遊戲全部內容，\n也可用於購買一些關鍵道具。\n你可以充值購買，\n也可以看廣告獲取。"
+   [21182]
+    0 TableSoItemLang data
+     0 int id = 5500083
+     1 string schinese = "看广告"
+     1 string schinese_censored = "看广告"
+     1 string english = "Watch Ad"
+     1 string japanese = "広告を見る"
+     1 string mchinese = "看廣告"
+   [21183]
+    0 TableSoItemLang data
+     0 int id = 5500084
+     1 string schinese = "去充值(优惠中)"
+     1 string schinese_censored = "去充值(优惠中)"
+     1 string english = "Top Up (Discount)"
+     1 string japanese = "チャージへ（キャンペーン中）"
+     1 string mchinese = "去充值(優惠中)"
+   [21184]
+    0 TableSoItemLang data
+     0 int id = 5500085
+     1 string schinese = "今日剩余看广告次数：{0} / {1}"
+     1 string schinese_censored = "今日剩余看广告次数：{0} / {1}"
+     1 string english = "Remaining ads today: {0}/{1}"
+     1 string japanese = "本日の広告視聴可能回数：{0} / {1}"
+     1 string mchinese = "今日剩餘看廣告次數：{0} / {1}"
+   [21185]
+    0 TableSoItemLang data
+     0 int id = 5500086
+     1 string schinese = "充值"
+     1 string schinese_censored = "充值"
+     1 string english = "Top Up"
+     1 string japanese = "チャージ"
+     1 string mchinese = "充值"
+   [21186]
+    0 TableSoItemLang data
+     0 int id = 5500087
+     1 string schinese = "传家宝"
+     1 string schinese_censored = "传家宝"
+     1 string english = "Heirlooms"
+     1 string japanese = "家宝"
+     1 string mchinese = "傳家寶"
+   [21187]
+    0 TableSoItemLang data
+     0 int id = 5500088
+     1 string schinese = "入学通知书"
+     1 string schinese_censored = "入学通知书"
+     1 string english = "Letter of Admission"
+     1 string japanese = "入学通知書"
+     1 string mchinese = "入學通知書"
+   [21188]
+    0 TableSoItemLang data
+     0 int id = 5500089
+     1 string schinese = "总计"
+     1 string schinese_censored = "总计"
+     1 string english = "Total"
+     1 string japanese = "合計"
+     1 string mchinese = "總計"
+   [21189]
+    0 TableSoItemLang data
+     0 int id = 5500090
+     1 string schinese = "交学费"
+     1 string schinese_censored = "交学费"
+     1 string english = "Pay Tuition"
+     1 string japanese = "授業料を払う"
+     1 string mchinese = "交學費"
+   [21190]
+    0 TableSoItemLang data
+     0 int id = 5500091
+     1 string schinese = "请求失败，请稍后重试。"
+     1 string schinese_censored = "必须买(￥{0})"
+     1 string english = "Must Buy (¥{0})"
+     1 string japanese = "リクエスト失敗。後ほど改めてお試しください。"
+     1 string mchinese = "請求失敗，請稍後重試。"
+   [21191]
+    0 TableSoItemLang data
+     0 int id = 5500092
+     1 string schinese = "再想想"
+     1 string schinese_censored = "再想想"
+     1 string english = "Maybe Later"
+     1 string japanese = "考え直す"
+     1 string mchinese = "再想想"
+   [21192]
+    0 TableSoItemLang data
+     0 int id = 5500093
+     1 string schinese = "是否要购买学区房,解锁孩子未来的人生？"
+     1 string schinese_censored = "是否要购买学区房，解锁孩子未来的人生？"
+     1 string english = "Do you want to purchase a housing in a school district to pave the way for your child's future?"
+     1 string japanese = "学区内住宅を購入して子どもの未来をアンロックしますか？"
+     1 string mchinese = "是否要購買學區房,解鎖孩子未來的人生？"
+   [21193]
+    0 TableSoItemLang data
+     0 int id = 5500094
+     1 string schinese = "公告"
+     1 string schinese_censored = "公告"
+     1 string english = "Notice"
+     1 string japanese = "お知らせ"
+     1 string mchinese = "公告"
+   [21194]
+    0 TableSoItemLang data
+     0 int id = 5500095
+     1 string schinese = "解锁全部"
+     1 string schinese_censored = "活动"
+     1 string english = "Events"
+     1 string japanese = "イベント"
+     1 string mchinese = "解鎖全部"
+   [21195]
+    0 TableSoItemLang data
+     0 int id = 5500096
+     1 string schinese = "邮件"
+     1 string schinese_censored = "邮件"
+     1 string english = "Mail"
+     1 string japanese = "メール"
+     1 string mchinese = "郵件"
+   [21196]
+    0 TableSoItemLang data
+     0 int id = 5500097
+     1 string schinese = "礼物码"
+     1 string schinese_censored = "礼物码"
+     1 string english = "Gift Code"
+     1 string japanese = "ギフトコード"
+     1 string mchinese = "禮物碼"
+   [21197]
+    0 TableSoItemLang data
+     0 int id = 5500098
+     1 string schinese = "去参加"
+     1 string schinese_censored = "去参加"
+     1 string english = "Join"
+     1 string japanese = "参加へ"
+     1 string mchinese = "去參加"
+   [21198]
+    0 TableSoItemLang data
+     0 int id = 5500099
+     1 string schinese = "删除已读邮件"
+     1 string schinese_censored = "删除已读邮件"
+     1 string english = "Delete Read"
+     1 string japanese = "既読メール削除"
+     1 string mchinese = "刪除已讀郵件"
+   [21199]
+    0 TableSoItemLang data
+     0 int id = 5500100
+     1 string schinese = "收取所有邮件"
+     1 string schinese_censored = "收取所有邮件"
+     1 string english = "Claim Attachments"
+     1 string japanese = "すべて受領"
+     1 string mchinese = "收取所有郵件"
+   [21200]
+    0 TableSoItemLang data
+     0 int id = 5500101
+     1 string schinese = "领取"
+     1 string schinese_censored = "领取"
+     1 string english = "Claim"
+     1 string japanese = "受領"
+     1 string mchinese = "領取"
+   [21201]
+    0 TableSoItemLang data
+     0 int id = 5500102
+     1 string schinese = "暂时没有邮件"
+     1 string schinese_censored = "暂时没有邮件"
+     1 string english = "You have no mail."
+     1 string japanese = "メールがありません"
+     1 string mchinese = "暫時沒有郵件"
+   [21202]
+    0 TableSoItemLang data
+     0 int id = 5500103
+     1 string schinese = "已领取"
+     1 string schinese_censored = "已领取"
+     1 string english = "Claimed"
+     1 string japanese = "受領済み"
+     1 string mchinese = "已領取"
+   [21203]
+    0 TableSoItemLang data
+     0 int id = 5500104
+     1 string schinese = "分享"
+     1 string schinese_censored = "分享"
+     1 string english = "Share"
+     1 string japanese = "シェア"
+     1 string mchinese = "分享"
+   [21204]
+    0 TableSoItemLang data
+     0 int id = 5500105
+     1 string schinese = "正在加载资源..."

@@ -1,0 +1,184 @@
+     1 string schinese_censored = "脆弱"
+     1 string english = "Weak"
+     1 string japanese = "脆弱"
+     1 string mchinese = "脆弱"
+   [5404]
+    0 TableSoItemLang data
+     0 int id = 1015405
+     1 string schinese = "妒忌"
+     1 string schinese_censored = "妒忌"
+     1 string english = "Jealous"
+     1 string japanese = "嫉妬深い"
+     1 string mchinese = "妒忌"
+   [5405]
+    0 TableSoItemLang data
+     0 int id = 1015406
+     1 string schinese = "自强"
+     1 string schinese_censored = "自强"
+     1 string english = "Self-reliant"
+     1 string japanese = "努力家"
+     1 string mchinese = "自強"
+   [5406]
+    0 TableSoItemLang data
+     0 int id = 1015407
+     1 string schinese = "果断"
+     1 string schinese_censored = "果断"
+     1 string english = "Resolute"
+     1 string japanese = "即断"
+     1 string mchinese = "果斷"
+   [5407]
+    0 TableSoItemLang data
+     0 int id = 1015408
+     1 string schinese = "勇敢"
+     1 string schinese_censored = "勇敢"
+     1 string english = "Brave"
+     1 string japanese = "勇敢"
+     1 string mchinese = "勇敢"
+   [5408]
+    0 TableSoItemLang data
+     0 int id = 1015409
+     1 string schinese = "正直"
+     1 string schinese_censored = "正直"
+     1 string english = "Fair-minded"
+     1 string japanese = "正直"
+     1 string mchinese = "正直"
+   [5409]
+    0 TableSoItemLang data
+     0 int id = 1015410
+     1 string schinese = "坚韧"
+     1 string schinese_censored = "坚韧"
+     1 string english = "Relentless"
+     1 string japanese = "強靭"
+     1 string mchinese = "堅韌"
+   [5410]
+    0 TableSoItemLang data
+     0 int id = 1015411
+     1 string schinese = "激情四射"
+     1 string schinese_censored = "激情四射"
+     1 string english = "Passionate"
+     1 string japanese = "情熱的"
+     1 string mchinese = "激情四射"
+   [5411]
+    0 TableSoItemLang data
+     0 int id = 1015412
+     1 string schinese = "理性"
+     1 string schinese_censored = "理性"
+     1 string english = "Rational"
+     1 string japanese = "理性的"
+     1 string mchinese = "理性"
+   [5412]
+    0 TableSoItemLang data
+     0 int id = 1015413
+     1 string schinese = "内心柔软，对周围人举动格外敏感。"
+     1 string schinese_censored = "内心柔软，对周围人举动格外敏感。"
+     1 string english = "I am very sensitive to the actions of those around me."
+     1 string japanese = "心が優しい。周囲の人の行動に敏感。"
+     1 string mchinese = "內心柔軟，對周圍人舉動格外敏感。"
+   [5413]
+    0 TableSoItemLang data
+     0 int id = 1015414
+     1 string schinese = "很难相信别人，总觉得人不可靠。"
+     1 string schinese_censored = "很难相信别人，总觉得人不可靠。"
+     1 string english = "I find it hard to trust others and feel they are unreliable."
+     1 string japanese = "人を信じられない。人は頼りないと思っている。"
+     1 string mchinese = "很難相信別人，總覺得人不可靠。"
+   [5414]
+    0 TableSoItemLang data
+     0 int id = 1015415
+     1 string schinese = "内心深处觉得自己不如别人。"
+     1 string schinese_censored = "内心深处觉得自己不如别人。"
+     1 string english = "Deep within my heart, I feel inferior to others."
+     1 string japanese = "心の底で自分は人以下だと思っている。"
+     1 string mchinese = "內心深處覺得自己不如別人。"
+   [5415]
+    0 TableSoItemLang data
+     0 int id = 1015416
+     1 string schinese = "遇到问题容易退缩，胆怯。"
+     1 string schinese_censored = "遇到问题容易退缩，胆怯。"
+     1 string english = "I feel timid and avoid problems at all costs."
+     1 string japanese = "問題に直面すると逃げる。すぐ怖気づく。"
+     1 string mchinese = "遇到問題容易退縮，膽怯。"
+   [5416]
+    0 TableSoItemLang data
+     0 int id = 1015417
+     1 string schinese = "解决不了问题时，很容易暴躁、焦虑。"
+     1 string schinese_censored = "解决不了问题时，很容易暴躁、焦虑。"
+     1 string english = "I quickly become irritable when there's a problem I cannot solve."
+     1 string japanese = "問題が解決できないとイライラする。"
+     1 string mchinese = "解決不了問題時，很容易暴躁、焦慮。"
+   [5417]
+    0 TableSoItemLang data
+     0 int id = 1015418
+     1 string schinese = "对周围人生活漠不关心，也许就是真的冷漠吧。"
+     1 string schinese_censored = "对周围人生活漠不关心，也许就是真的冷漠吧。"
+     1 string english = "I feel apathic to those around me. Perhaps I really am indifferent."
+     1 string japanese = "周囲の人や生活に無関心。冷たい性格かも。"
+     1 string mchinese = "對周圍人生活漠不關心，也許就是真的冷漠吧。"
+   [5418]
+    0 TableSoItemLang data
+     0 int id = 1015419
+     1 string schinese = "总是以自己为中心，风评不是很好。"
+     1 string schinese_censored = "总是以自己为中心，风评不是很好。"
+     1 string english = "I focus entirely on myself. It's not a very good character trait."
+     1 string japanese = "いつも自分中心なので、周囲の評判はよくない。"
+     1 string mchinese = "總是以自己為中心，風評不是很好。"
+   [5419]
+    0 TableSoItemLang data
+     0 int id = 1015420
+     1 string schinese = "总是任由自己的性子来，不考虑实际情况。"
+     1 string schinese_censored = "总是任由自己的性子来，不考虑实际情况。"
+     1 string english = "I follow my desires without considering the ramifications."
+     1 string japanese = "いつも自分の本能に従う。実際は何も考えていない。"
+     1 string mchinese = "總是任由自己的性子來，不考慮實際情況。"
+   [5420]
+    0 TableSoItemLang data
+     0 int id = 1015421
+     1 string schinese = "对事物总是持悲观的态度。"
+     1 string schinese_censored = "对事物总是持悲观的态度。"
+     1 string english = "I feel pessimistic toward most anything."
+     1 string japanese = "物事に対してはいつも悲観的な見方をする。"
+     1 string mchinese = "對事物總是持悲觀的態度。"
+   [5421]
+    0 TableSoItemLang data
+     0 int id = 1015422
+     1 string schinese = "抗打击能力很低，被困难击倒，便一蹶不振。"
+     1 string schinese_censored = "抗打击能力很低，被困难击倒，便一蹶不振。"
+     1 string english = "I have a hard time resisting, and I find it hard to get up again when life is against me."
+     1 string japanese = "打たれ弱い。一度倒れると立ち上がれない。"
+     1 string mchinese = "抗打擊能力很低，被困難擊倒，便一蹶不振。"
+   [5422]
+    0 TableSoItemLang data
+     0 int id = 1015423
+     1 string schinese = "妒忌周边比自己强的人，又无可奈何。"
+     1 string schinese_censored = "妒忌周边比自己强的人，又无可奈何。"
+     1 string english = "I am jealous of those better than me but don't know what to do about it."
+     1 string japanese = "周囲の人に嫉妬しているが、どうしようもない。"
+     1 string mchinese = "妒忌周邊比自己強的人，又無可奈何。"
+   [5423]
+    0 TableSoItemLang data
+     0 int id = 1015424
+     1 string schinese = "自强不息，骨子里希望自己变强大。"
+     1 string schinese_censored = "自强不息，骨子里希望自己变强大。"
+     1 string english = "I continue improving myself with the wish of becoming great burning in my heart."
+     1 string japanese = "何事も自分で努力する。内側から強くなる。"
+     1 string mchinese = "自強不息，骨子裏希望自己變強大。"
+   [5424]
+    0 TableSoItemLang data
+     0 int id = 1015425
+     1 string schinese = "能够当机立断作出决定，不犹豫。"
+     1 string schinese_censored = "能够当机立断作出决定，不犹豫。"
+     1 string english = "I make quick decisions without the slightest hesitation."
+     1 string japanese = "何事も即断する。躊躇とは無縁。"
+     1 string mchinese = "能夠當機立斷作出決定，不猶豫。"
+   [5425]
+    0 TableSoItemLang data
+     0 int id = 1015426
+     1 string schinese = "多数时候能够勇敢面对一切事物。"
+     1 string schinese_censored = "多数时候能够勇敢面对一切事物。"
+     1 string english = "I feel I can face most things head-on."
+     1 string japanese = "何事にも勇敢に立ち向かう。"
+     1 string mchinese = "多數時候能夠勇敢面對一切事物。"
+   [5426]
+    0 TableSoItemLang data
+     0 int id = 1015427
+     1 string schinese = "能刚正不阿，不畏惧强权，坚持本心。"

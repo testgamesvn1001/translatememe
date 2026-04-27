@@ -1,0 +1,184 @@
+     1 string schinese_censored = "是他是他就是他，打野英雄小奇葩~\n"
+     1 string english = "It's him, the heroic jungler.\n"
+     1 string japanese = "誰だ、誰だ、誰だ、ブッシュの中に潜む影～。"
+     1 string mchinese = "是他是他就是他，打野英雄小奇葩~\n"
+   [28634]
+    0 TableSoItemLang data
+     0 int id = 1605150339
+     1 string schinese = "四军将士已就位，KILL THE KING!\n"
+     1 string schinese_censored = "四军将士已就位，KILL THE KING!\n"
+     1 string english = "The four armies are in position! KILL THE KING!\n"
+     1 string japanese = "四軍の兵が位置に就いた。ＫＩＬＬ ＴＨＥ ＫＩＮＧ！"
+     1 string mchinese = "四軍將士已就位，KILL THE KING!\n"
+   [28635]
+    0 TableSoItemLang data
+     0 int id = 1605150340
+     1 string schinese = "出装界达芬奇引领文艺复兴！"
+     1 string schinese_censored = "出装界达芬奇引领文艺复兴！"
+     1 string english = "The Da Vinci of item building is leading an item build renaissance!"
+     1 string japanese = "ビルド界のダ・ヴィンチがルネサンスを牽引！"
+     1 string mchinese = "出裝界達芬奇引領文藝復興！"
+   [28636]
+    0 TableSoItemLang data
+     0 int id = 1605150341
+     1 string schinese = "队友C"
+     1 string schinese_censored = "队友C"
+     1 string english = "Teammate C"
+     1 string japanese = "チームメートＣ"
+     1 string mchinese = "隊友C"
+   [28637]
+    0 TableSoItemLang data
+     0 int id = 1605150342
+     1 string schinese = "通过练习:新出装获得\n\n出装界达芬奇引领文艺复兴！"
+     1 string schinese_censored = "通过练习:新出装获得\n\n出装界达芬奇引领文艺复兴！"
+     1 string english = "Get by practicing: New Item Build\n\nThe Da Vinci of item building is leading an item build renaissance!"
+     1 string japanese = "特技獲得条件：新ビルド\n\nビルド界のダ・ヴィンチがルネサンスを牽引！"
+     1 string mchinese = "通過練習:新出裝獲得\n\n出裝界達芬奇引領文藝復興！"
+   [28638]
+    0 TableSoItemLang data
+     0 int id = 1605150343
+     1 string schinese = "全科霸王"
+     1 string schinese_censored = "全科霸王"
+     1 string english = "King of All Subjects"
+     1 string japanese = "全科目の王者"
+     1 string mchinese = "全科霸王"
+   [28639]
+    0 TableSoItemLang data
+     0 int id = 1605150344
+     1 string schinese = "通过练习:初中课程获得\n\n无论是游戏还是考试都难不倒我，我就是全科霸王！就是头上有点凉……"
+     1 string schinese_censored = "通过练习:初中课程获得\n\n无论是游戏还是考试都难不倒我，我就是全科霸王！就是头上有点凉……"
+     1 string english = "Get by practicing: Junior Class\n\nI can game and pass exams with ease. I'm the King of All Subjects!"
+     1 string japanese = "特技獲得条件：中学課程\n\nゲームも試験もどんと来い。俺は全科目の王者だ！頭は寂しいけど…。"
+     1 string mchinese = "通過練習:初中課程獲得\n\n無論是遊戲還是考試都難不倒我，我就是全科霸王！就是頭上有點涼……"
+   [28640]
+    0 TableSoItemLang data
+     0 int id = 1605150345
+     1 string schinese = "无论是游戏还是考试都难不倒我，我就是全科霸王！就是头上有点凉……"
+     1 string schinese_censored = "无论是游戏还是考试都难不倒我，我就是全科霸王！就是头上有点凉……"
+     1 string english = "I can game and pass exams with ease. I'm the King of All Subjects!"
+     1 string japanese = "ゲームも試験もどんと来い。俺は全科目の王者だ！頭は寂しいけど…。"
+     1 string mchinese = "無論是遊戲還是考試都難不倒我，我就是全科霸王！就是頭上有點涼……"
+   [28641]
+    0 TableSoItemLang data
+     0 int id = 1605150346
+     1 string schinese = ""
+     1 string schinese_censored = ""
+     1 string english = "/"
+     1 string japanese = "/"
+     1 string mchinese = ""
+   [28642]
+    0 TableSoItemLang data
+     0 int id = 8010001
+     1 string schinese = "新英雄Lv1（创新）"
+     1 string schinese_censored = "新英雄Lv1（创新）"
+     1 string english = "New Hero Lv. 1 (Creative)"
+     1 string japanese = "新ヒーローLv.1 (創造)"
+     1 string mchinese = "新英雄Lv1（創新）"
+   [28643]
+    0 TableSoItemLang data
+     0 int id = 8010002
+     1 string schinese = "新英雄Lv2（创新）"
+     1 string schinese_censored = "新英雄Lv2（创新）"
+     1 string english = "New Hero Lv. 2 (Creative)"
+     1 string japanese = "新ヒーローLv.2 (創造)"
+     1 string mchinese = "新英雄Lv2（創新）"
+   [28644]
+    0 TableSoItemLang data
+     0 int id = 8010003
+     1 string schinese = "新英雄Lv3（创新）"
+     1 string schinese_censored = "新英雄Lv3（创新）"
+     1 string english = "New Hero Lv. 3 (Creative)"
+     1 string japanese = "新ヒーローLv.3 (創造)"
+     1 string mchinese = "新英雄Lv3（創新）"
+   [28645]
+    0 TableSoItemLang data
+     0 int id = 8010004
+     1 string schinese = "新出装Lv1（创新）"
+     1 string schinese_censored = "新出装Lv1（创新）"
+     1 string english = "New Item Build Lv. 1 (Creative)"
+     1 string japanese = "新ビルドLv.1 (創造)"
+     1 string mchinese = "新出裝Lv1（創新）"
+   [28646]
+    0 TableSoItemLang data
+     0 int id = 8010005
+     1 string schinese = "新出装Lv2（创新）"
+     1 string schinese_censored = "新出装Lv2（创新）"
+     1 string english = "New Item Build Lv. 2 (Creative)"
+     1 string japanese = "新ビルドLv.2 (創造)"
+     1 string mchinese = "新出裝Lv2（創新）"
+   [28647]
+    0 TableSoItemLang data
+     0 int id = 8010006
+     1 string schinese = "新出装Lv3（创新）"
+     1 string schinese_censored = "新出装Lv3（创新）"
+     1 string english = "New Item Build Lv. 3 (Creative)"
+     1 string japanese = "新ビルドLv.3 (創造)"
+     1 string mchinese = "新出裝Lv3（創新）"
+   [28648]
+    0 TableSoItemLang data
+     0 int id = 8010007
+     1 string schinese = "新套路Lv1（创新）"
+     1 string schinese_censored = "新套路Lv1（创新）"
+     1 string english = "New Strategy Lv. 1 (Creative)"
+     1 string japanese = "新戦略Lv.1 (創造)"
+     1 string mchinese = "新套路Lv1（創新）"
+   [28649]
+    0 TableSoItemLang data
+     0 int id = 8010008
+     1 string schinese = "新套路Lv2（创新）"
+     1 string schinese_censored = "新套路Lv2（创新）"
+     1 string english = "New Strategy Lv. 2 (Creative)"
+     1 string japanese = "新戦略Lv.2 (創造)"
+     1 string mchinese = "新套路Lv2（創新）"
+   [28650]
+    0 TableSoItemLang data
+     0 int id = 8010009
+     1 string schinese = "新套路Lv3（创新）"
+     1 string schinese_censored = "新套路Lv3（创新）"
+     1 string english = "New Strategy Lv. 3 (Creative)"
+     1 string japanese = "新戦略Lv.3 (創造)"
+     1 string mchinese = "新套路Lv3（創新）"
+   [28651]
+    0 TableSoItemLang data
+     0 int id = 8010010
+     1 string schinese = "超前理解（创新）"
+     1 string schinese_censored = "超前理解（创新）"
+     1 string english = "Game Sense (Creativity)"
+     1 string japanese = "先読み (創造)"
+     1 string mchinese = "超前理解（創新）"
+   [28652]
+    0 TableSoItemLang data
+     0 int id = 8010101
+     1 string schinese = "游走支援Lv1（意识）"
+     1 string schinese_censored = "游走支援Lv1（意识）"
+     1 string english = "Roaming Support Lv. 1 (Awareness)"
+     1 string japanese = "ロームサポートLv.1 (意識)"
+     1 string mchinese = "遊走支援Lv1（意識）"
+   [28653]
+    0 TableSoItemLang data
+     0 int id = 8010102
+     1 string schinese = "游走支援Lv2（意识）"
+     1 string schinese_censored = "游走支援Lv2（意识）"
+     1 string english = "Roaming Support Lv. 2 (Awareness)"
+     1 string japanese = "ロームサポートLv.2 (意識)"
+     1 string mchinese = "遊走支援Lv2（意識）"
+   [28654]
+    0 TableSoItemLang data
+     0 int id = 8010103
+     1 string schinese = "游走支援Lv3（意识）"
+     1 string schinese_censored = "游走支援Lv3（意识）"
+     1 string english = "Roaming Support Lv. 3 (Awareness)"
+     1 string japanese = "ロームサポートLv.3 (意識)"
+     1 string mchinese = "遊走支援Lv3（意識）"
+   [28655]
+    0 TableSoItemLang data
+     0 int id = 8010104
+     1 string schinese = "地图掌控Lv1（意识）"
+     1 string schinese_censored = "地图掌控Lv1（意识）"
+     1 string english = "Map Control Lv. 1 (Awareness)"
+     1 string japanese = "マップ把握Lv.1 (意識)"
+     1 string mchinese = "地圖掌控Lv1（意識）"
+   [28656]
+    0 TableSoItemLang data
+     0 int id = 8010105
+     1 string schinese = "地图掌控Lv2（意识）"

@@ -1,0 +1,184 @@
+     1 string schinese_censored = "<color=#FF6F4F>领取</color><color=#FFF799>学费福利</color><color=#67ACD4>\n获得</color><color=#97C994>史诗传家宝</color>"
+     1 string english = "<color=#FF6F4F>Claim</color> <color=#FFF799>Tuition Gifts</color><color=#67ACD4>\nAcquire</color> <color=#97C994>Epic Family Heirlooms</color>"
+     1 string japanese = "<color=#FFF799>授業料特典</color><color=#FF6F4F>受領</color><color=#97C994>\nエピック級家宝</color><color=#67ACD4>獲得</color>"
+     1 string mchinese = "<color=#FF6F4F>領取</color><color=#FFF799>學費福利</color><color=#67ACD4>\n獲得</color><color=#97C994>史詩傳家寶</color>"
+   [21665]
+    0 TableSoItemLang data
+     0 int id = 6600279
+     1 string schinese = "已成功邀请{0}位好友"
+     1 string schinese_censored = "已成功邀请{0}位好友"
+     1 string english = "{0} friend(s) successfully invited."
+     1 string japanese = "フレンドを{0}人招待しました"
+     1 string mchinese = "已成功邀請{0}位好友"
+   [21666]
+    0 TableSoItemLang data
+     0 int id = 6600280
+     1 string schinese = "查看受邀人"
+     1 string schinese_censored = "查看受邀人"
+     1 string english = "View invited friend(s)."
+     1 string japanese = "招待したフレンドを見る"
+     1 string mchinese = "查看受邀人"
+   [21667]
+    0 TableSoItemLang data
+     0 int id = 6600281
+     1 string schinese = "邀请{0}人"
+     1 string schinese_censored = "邀请{0}人"
+     1 string english = "Invite {0} friend(s)."
+     1 string japanese = "{0}人招待"
+     1 string mchinese = "邀請{0}人"
+   [21668]
+    0 TableSoItemLang data
+     0 int id = 6600282
+     1 string schinese = "每邀请1人便可获得1个奖励！"
+     1 string schinese_censored = "每邀请1人便可获得1个奖励！"
+     1 string english = "Get 1 reward for every 1 friend you invite!"
+     1 string japanese = "１人招待するごとに報酬を１個獲得！"
+     1 string mchinese = "每邀請1人便可獲得1個獎勵！"
+   [21669]
+    0 TableSoItemLang data
+     0 int id = 6600283
+     1 string schinese = "立即邀请"
+     1 string schinese_censored = "立即邀请"
+     1 string english = "Invite Now"
+     1 string japanese = "今すぐ招待"
+     1 string mchinese = "立即邀請"
+   [21670]
+    0 TableSoItemLang data
+     0 int id = 6600284
+     1 string schinese = "换一批"
+     1 string schinese_censored = "换一批"
+     1 string english = "Refresh"
+     1 string japanese = "更新"
+     1 string mchinese = "換一批"
+   [21671]
+    0 TableSoItemLang data
+     0 int id = 6600285
+     1 string schinese = "邀请TA"
+     1 string schinese_censored = "邀请TA"
+     1 string english = "Invite Them"
+     1 string japanese = "この子を招待"
+     1 string mchinese = "邀請TA"
+   [21672]
+    0 TableSoItemLang data
+     0 int id = 6600286
+     1 string schinese = "是否花费{0}元解锁全部游戏内容？"
+     1 string schinese_censored = "是否花费{0}元解锁全部游戏内容？"
+     1 string english = "Unlock all game content for ${0}?"
+     1 string japanese = "￥{0}消費してゲームの全コンテンツをアンロックしますか？"
+     1 string mchinese = "是否花費{0}元解鎖全部遊戲內容？"
+   [21673]
+    0 TableSoItemLang data
+     0 int id = 6600287
+     1 string schinese = "学区榜"
+     1 string schinese_censored = "学区榜"
+     1 string english = "6600287"
+     1 string japanese = "6600287"
+     1 string mchinese = "學區榜"
+   [21674]
+    0 TableSoItemLang data
+     0 int id = 6600288
+     1 string schinese = "好友榜"
+     1 string schinese_censored = "好友榜"
+     1 string english = "6600288"
+     1 string japanese = "6600288"
+     1 string mchinese = "好友榜"
+   [21675]
+    0 TableSoItemLang data
+     0 int id = 6600289
+     1 string schinese = "我的班级"
+     1 string schinese_censored = "我的班级"
+     1 string english = "6600289"
+     1 string japanese = "6600289"
+     1 string mchinese = "我的班級"
+   [21676]
+    0 TableSoItemLang data
+     0 int id = 6600290
+     1 string schinese = "欢迎加入{0}学区"
+     1 string schinese_censored = "欢迎加入{0}学区"
+     1 string english = "6600290"
+     1 string japanese = "6600290"
+     1 string mchinese = "歡迎加入{0}學區"
+   [21677]
+    0 TableSoItemLang data
+     0 int id = 6600291
+     1 string schinese = "游戏将自动根据你创建角色的时间和所在地区为您创建对应的学区"
+     1 string schinese_censored = "游戏将自动根据你创建角色的时间和所在地区为您创建对应的学区"
+     1 string english = "6600291"
+     1 string japanese = "6600291"
+     1 string mchinese = "遊戲將自動根據你創建角色的時間和所在地區為您創建對應的學區"
+   [21678]
+    0 TableSoItemLang data
+     0 int id = 6600292
+     1 string schinese = "排名"
+     1 string schinese_censored = "排名"
+     1 string english = "6600292"
+     1 string japanese = "6600292"
+     1 string mchinese = "排名"
+   [21679]
+    0 TableSoItemLang data
+     0 int id = 6600293
+     1 string schinese = "玩家"
+     1 string schinese_censored = "玩家"
+     1 string english = "6600293"
+     1 string japanese = "6600293"
+     1 string mchinese = "玩家"
+   [21680]
+    0 TableSoItemLang data
+     0 int id = 6600294
+     1 string schinese = "荣誉点数"
+     1 string schinese_censored = "荣誉点数"
+     1 string english = "6600294"
+     1 string japanese = "6600294"
+     1 string mchinese = "榮譽點數"
+   [21681]
+    0 TableSoItemLang data
+     0 int id = 6600295
+     1 string schinese = "家族点数"
+     1 string schinese_censored = "家族点数"
+     1 string english = "6600295"
+     1 string japanese = "6600295"
+     1 string mchinese = "家族點數"
+   [21682]
+    0 TableSoItemLang data
+     0 int id = 6600296
+     1 string schinese = "我的排名"
+     1 string schinese_censored = "我的排名"
+     1 string english = "6600296"
+     1 string japanese = "6600296"
+     1 string mchinese = "我的排名"
+   [21683]
+    0 TableSoItemLang data
+     0 int id = 6600297
+     1 string schinese = "未上榜"
+     1 string schinese_censored = "未上榜"
+     1 string english = "6600297"
+     1 string japanese = "6600297"
+     1 string mchinese = "未上榜"
+   [21684]
+    0 TableSoItemLang data
+     0 int id = 6600298
+     1 string schinese = "排行榜匿名显示"
+     1 string schinese_censored = "排行榜匿名显示"
+     1 string english = "6600298"
+     1 string japanese = "6600298"
+     1 string mchinese = "排行榜匿名顯示"
+   [21685]
+    0 TableSoItemLang data
+     0 int id = 6600299
+     1 string schinese = "同学B"
+     1 string schinese_censored = "同学B"
+     1 string english = "Classmate B"
+     1 string japanese = "同級生B"
+     1 string mchinese = "同學B"
+   [21686]
+    0 TableSoItemLang data
+     0 int id = 6600300
+     1 string schinese = "没有新消息"
+     1 string schinese_censored = "没有新消息"
+     1 string english = "6600300"
+     1 string japanese = "6600300"
+     1 string mchinese = "沒有新消息"
+   [21687]
+    0 TableSoItemLang data
+     0 int id = 6600301
+     1 string schinese = "请点击特殊事件！"

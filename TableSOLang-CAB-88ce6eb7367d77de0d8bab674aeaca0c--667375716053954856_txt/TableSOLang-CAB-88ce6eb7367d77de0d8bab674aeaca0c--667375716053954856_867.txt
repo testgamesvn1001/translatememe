@@ -1,0 +1,184 @@
+     1 string schinese_censored = "食品雕刻"
+     1 string english = "Food Sculpture"
+     1 string japanese = "食品彫刻"
+     1 string mchinese = "食品雕刻"
+   [19917]
+    0 TableSoItemLang data
+     0 int id = 1029918
+     1 string schinese = "厨房管理"
+     1 string schinese_censored = "厨房管理"
+     1 string english = "Kitchen Management"
+     1 string japanese = "厨房管理"
+     1 string mchinese = "廚房管理"
+   [19918]
+    0 TableSoItemLang data
+     0 int id = 1029919
+     1 string schinese = "烹饪外语"
+     1 string schinese_censored = "烹饪外语"
+     1 string english = "Cooking in Foreign Languages"
+     1 string japanese = "調理語学"
+     1 string mchinese = "烹飪外語"
+   [19919]
+    0 TableSoItemLang data
+     0 int id = 1029920
+     1 string schinese = "西餐理论"
+     1 string schinese_censored = "西餐理论"
+     1 string english = "Western Cuisine Theory"
+     1 string japanese = "西洋料理理論"
+     1 string mchinese = "西餐理論"
+   [19920]
+    0 TableSoItemLang data
+     0 int id = 1029921
+     1 string schinese = "西餐实践"
+     1 string schinese_censored = "西餐实践"
+     1 string english = "Western Cuisine Practice"
+     1 string japanese = "西洋料理実践"
+     1 string mchinese = "西餐實踐"
+   [19921]
+    0 TableSoItemLang data
+     0 int id = 1029922
+     1 string schinese = "甜品工艺"
+     1 string schinese_censored = "甜品工艺"
+     1 string english = "Creating Desserts"
+     1 string japanese = "スイーツ技術"
+     1 string mchinese = "甜品工藝"
+   [19922]
+    0 TableSoItemLang data
+     0 int id = 1029923
+     1 string schinese = "营养卫生学"
+     1 string schinese_censored = "营养卫生学"
+     1 string english = "Nutritional-Hygienical Studies"
+     1 string japanese = "栄養衛生学"
+     1 string mchinese = "營養衛生學"
+   [19923]
+    0 TableSoItemLang data
+     0 int id = 1029924
+     1 string schinese = "烹饪化学"
+     1 string schinese_censored = "烹饪化学"
+     1 string english = "Cooking Chemistry"
+     1 string japanese = "調理科学"
+     1 string mchinese = "烹飪化學"
+   [19924]
+    0 TableSoItemLang data
+     0 int id = 1029925
+     1 string schinese = "刀工是一切料理的基础\n\n【记忆力】属性越高，学习消耗的悟性越少。\n\n最低消耗30点悟性。"
+     1 string schinese_censored = "刀工是一切料理的基础\n\n学会刀工课，【记忆力】越高，会适当减少所需消耗的悟性\n\n属性标准值：2700\n至少消耗悟性:30"
+     1 string english = "Knife work is the basis of cooking.\n\nLearning Knife Technique costs less Knowledge the more [Memory] you have.\n\nStat norm: 2,700\nMinimum Knowledge cost: 30"
+     1 string japanese = "包丁はすべての料理の基礎だ。\n\n包丁使いを学ぶ。【記憶力】が高いほど消費理解力は少なくなる。\n\n能力標準値：2700\n最低消費理解力:30"
+     1 string mchinese = "刀工是一切料理的基礎\n\n【記憶力】屬性越高，學習消耗的悟性越少。\n\n最低消耗30點悟性。"
+   [19925]
+    0 TableSoItemLang data
+     0 int id = 1029926
+     1 string schinese = "中华文化博大精深，饮食更是如此\n\n【记忆力】属性越高，学习消耗的悟性越少。\n\n最低消耗40点悟性。"
+     1 string schinese_censored = "中华文化博大精深，饮食更是如此\n\n学会饮食文化概论，【记忆力】越高，会适当减少所需消耗的悟性\n\n属性标准值：3780\n至少消耗悟性:40"
+     1 string english = "Cooking culture is both broad and profound.\n\nLearning an Introduction to Food Culture costs less Knowledge the more [Memory] you have.\n\nStat norm: 3,780\nMinimum Knowledge cost: 40"
+     1 string japanese = "中国の文化は広くて深い。食文化は特にそうだ。\n\n食文化理論を学ぶ。【記憶力】が高いほど消費理解力は少なくなる。\n\n能力標準値：3780\n最低消費理解力:40"
+     1 string mchinese = "中華文化博大精深，飲食更是如此\n\n【記憶力】屬性越高，學習消耗的悟性越少。\n\n最低消耗40點悟性。"
+   [19926]
+    0 TableSoItemLang data
+     0 int id = 1029927
+     1 string schinese = "在烹饪中有着独一无二，无可替代的霸主地位\n\n【记忆力】属性越高，学习消耗的悟性越少。\n\n最低消耗50点悟性。"
+     1 string schinese_censored = "在烹饪中有着独一无二，无可替代的霸主地位\n\n学会面点工艺，【记忆力】越高，会适当减少所需消耗的悟性\n\n属性标准值：9072\n至少消耗悟性:50"
+     1 string english = "The undisputed king of cuisine.\n\nLearning Noodle Making costs less Knowledge the more [Memory] you have.\n\nStat norm: 9,072\nMinimum Knowledge cost: 50"
+     1 string japanese = "他に類を見ない料理技術。他の追随を許さない。\n\n点心技術を学ぶ。【記憶力】が高いほど消費理解力は少なくなる。\n\n能力標準値：9072\n最低消費理解力:50"
+     1 string mchinese = "在烹飪中有著獨一無二，無可替代的霸主地位\n\n【記憶力】屬性越高，學習消耗的悟性越少。\n\n最低消耗50點悟性。"
+   [19927]
+    0 TableSoItemLang data
+     0 int id = 1029928
+     1 string schinese = "颠锅可是一门中国菜独一无二的技术\n\n【想象力】【记忆力】属性越高，学习消耗的悟性越少。\n\n最低消耗60点悟性。"
+     1 string schinese_censored = "颠锅可是一门中国菜独一无二的技术\n\n学会烹饪工艺，【想象力】【记忆力】越高，会适当减少所需消耗的悟性\n\n属性标准值：15420\n至少消耗悟性:60"
+     1 string english = "Remember to fry with style and flair!\n\nLearning Cooking Tips & Tricks costs less Knowledge the more [Imagination] and [Memory] you have.\n\nStat norm: 15,420\nMinimum Knowledge cost: 60"
+     1 string japanese = "鍋使いは中華料理の唯一無二の技術だ。\n\n調理技術を学ぶ。【想像力】【記憶力】が高いほど消費理解力は少なくなる。\n\n能力標準値：15420\n最低消費理解力:60"
+     1 string mchinese = "顛鍋可是一門中國菜獨一無二的技術\n\n【想像力】【記憶力】屬性越高，學習消耗的悟性越少。\n\n最低消耗60點悟性。"
+   [19928]
+    0 TableSoItemLang data
+     0 int id = 1029929
+     1 string schinese = "雕花可是国宴中的必备品\n\n【想象力】【记忆力】属性越高，学习消耗的悟性越少。\n\n最低消耗70点悟性。"
+     1 string schinese_censored = "雕花可是国宴中的必备品\n\n学会食品雕刻，【想象力】【记忆力】越高，会适当减少所需消耗的悟性\n\n属性标准值：27756\n至少消耗悟性:70"
+     1 string english = "Sculpture is an important part of banquets!\n\nLearning Food Sculpture costs less Knowledge the more [Imagination] and [Memory] you have.\n\nStat norm: 27,756\nMinimum Knowledge cost: 70"
+     1 string japanese = "食品彫刻は政府主催の宴会で必需品だ。\n\n食品彫刻を学ぶ。【想像力】【記憶力】が高いほど消費理解力は少なくなる。\n\n能力標準値：27756\n最低消費理解力:70"
+     1 string mchinese = "雕花可是國宴中的必備品\n\n【想像力】【記憶力】屬性越高，學習消耗的悟性越少。\n\n最低消耗70點悟性。"
+   [19929]
+    0 TableSoItemLang data
+     0 int id = 1029930
+     1 string schinese = "凡事不必亲历亲为，只要有良好的管理即可\n\n【想象力】【记忆力】属性越高，学习消耗的悟性越少。\n\n最低消耗80点悟性。"
+     1 string schinese_censored = "凡事不必亲历亲为，只要有良好的管理即可\n\n学会厨房管理，【想象力】【记忆力】越高，会适当减少所需消耗的悟性\n\n属性标准值：44406\n至少消耗悟性:80"
+     1 string english = "Rule your kitchen with an iron hand!\n\nLearning Kitchen Management costs less Knowledge the more [Imagination] and [Memory] you have.\n\nStat norm: 44,406\nMinimum Knowledge cost: 80"
+     1 string japanese = "すべてを個人でやる必要はない。管理さえしっかりしていれば。\n\n厨房管理を学ぶ。【想像力】【記憶力】が高いほど消費理解力は少なくなる。\n\n能力標準値：44406\n最低消費理解力:80"
+     1 string mchinese = "凡事不必親歷親為，只要有良好的管理即可\n\n【想像力】【記憶力】屬性越高，學習消耗的悟性越少。\n\n最低消耗80點悟性。"
+   [19930]
+    0 TableSoItemLang data
+     0 int id = 1029931
+     1 string schinese = "在厨房可没有字典给你查阅\n\n【想象力】【记忆力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低消耗90点悟性。"
+     1 string schinese_censored = "在厨房可没有字典给你查阅\n\n学会烹饪外语，【想象力】【记忆力】【体魄】越高，会适当减少所需消耗的悟性\n\n属性标准值：71046\n至少消耗悟性:90"
+     1 string english = "There's no dictionary for you in the kitchen!\n\nLearning Cooking in Foreign Languages costs less Knowledge the more [Imagination], [Memory] and [Constitution] you have.\n\nStat norm: 71,046\nMinimum Knowledge cost: 90"
+     1 string japanese = "調理場に辞書は無いからね。\n\n調理語学を学ぶ。【想像力】【記憶力】【体力】が高いほど消費理解力は少なくなる。\n\n能力標準値：56889\n最低消費理解力:90"
+     1 string mchinese = "在廚房可沒有字典給你查閱\n\n【想像力】【記憶力】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低消耗90點悟性。"
+   [19931]
+    0 TableSoItemLang data
+     0 int id = 1029932
+     1 string schinese = "理论结合实践是解决矛盾的主要方式\n\n【想象力】【记忆力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低消耗100点悟性。"
+     1 string schinese_censored = "理论结合实践是解决矛盾的主要方式\n\n学会西餐理论，【想象力】【记忆力】【体魄】越高，会适当减少所需消耗的悟性\n\n属性标准值：113670\n至少消耗悟性:100"
+     1 string english = "Theory and practice goes hand in hand.\n\nLearning Western Cuisine Theory costs less Knowledge the more [Imagination], [Memory] and [Constitution] you have.\n\nStat norm: 113,670\nMinimum Knowledge cost: 100"
+     1 string japanese = "理論と実践は矛盾を解決する主な手法だ。\n\n西洋料理理論を学ぶ。【想像力】【記憶力】【体力】が高いほど消費理解力は少なくなる。\n\n能力標準値：71046\n最低消費理解力:100"
+     1 string mchinese = "理論結合實踐是解決矛盾的主要方式\n\n【想像力】【記憶力】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低消耗100點悟性。"
+   [19932]
+    0 TableSoItemLang data
+     0 int id = 1029933
+     1 string schinese = "只有实践才能发现问题\n\n【想象力】【记忆力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低消耗100点悟性。"
+     1 string schinese_censored = "只有实践才能发现问题\n\n学会西餐实践，【想象力】【记忆力】【体魄】越高，会适当减少所需消耗的悟性\n\n属性标准值：181872\n至少消耗悟性:100"
+     1 string english = "Only by practice can you discover problems.\n\nLearning Western Cuisine Practice costs less Knowledge the more [Imagination], [Memory] and [Constitution] you have.\n\nStat norm: 181,872\nMinimum Knowledge cost: 100"
+     1 string japanese = "問題を発見するには実践するしかない。\n\n西洋料理実践を学ぶ。【想像力】【記憶力】【体力】が高いほど消費理解力は少なくなる。\n\n能力標準値：113670\n最低消費理解力:100"
+     1 string mchinese = "只有實踐才能發現問題\n\n【想像力】【記憶力】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低消耗100點悟性。"
+   [19933]
+    0 TableSoItemLang data
+     0 int id = 1029934
+     1 string schinese = "软软的面包和甜甜的蛋糕寄宿着灵魂\n\n【智商】【想象力】【记忆力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低消耗90点悟性。"
+     1 string schinese_censored = "软软的面包和甜甜的蛋糕寄宿着灵魂\n\n学会甜品工艺，【智慧】【想象力】【记忆力】【体魄】越高，会适当减少所需消耗的悟性\n\n属性标准值：181872\n至少消耗悟性:90"
+     1 string english = "Sweet fluffy cakes contains a soul of their own.\n\nLearning Creating Desserts costs less Knowledge the more [IQ], [Imagination], [Memory] and [Constitution] you have.\n\nStat norm: 181,872\nMinimum Knowledge cost: 90"
+     1 string japanese = "柔らかいパンと甘いケーキに魂を込める。\n\nスイーツ技術を学ぶ。【ＩＱ】【想像力】【記憶力】【体力】が高いほど消費理解力は少なくなる。\n\n能力標準値：146966\n最低消費理解力:90"
+     1 string mchinese = "軟軟的麵包和甜甜的蛋糕寄宿著靈魂\n\n【智商】【想像力】【記憶力】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低消耗90點悟性。"
+   [19934]
+    0 TableSoItemLang data
+     0 int id = 1029935
+     1 string schinese = "吃，是一门艺术，不仅要好吃还要营养\n\n【智商】【想象力】【记忆力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低消耗100点悟性。"
+     1 string schinese_censored = "吃，是一门艺术，不仅要好吃还要营养\n\n学会营养卫生学，【智慧】【想象力】【记忆力】【体魄】越高，会适当减少所需消耗的悟性\n\n属性标准值：250070\n至少消耗悟性:100"
+     1 string english = "Eating nutritious food is an art in itself.\n\nLearning Nutritional-Hygienical Studies costs less Knowledge the more [IQ], [Imagination], [Memory] and [Constitution] you have.\n\nStat norm: 250,070\nMinimum Knowledge cost: 100"
+     1 string japanese = "料理は芸術。味だけじゃなく栄養も必要だ。\n\n栄養衛生学を学ぶ。【ＩＱ】【想像力】【記憶力】【体力】が高いほど消費理解力は少なくなる。\n\n能力標準値：181872\n最低消費理解力:100"
+     1 string mchinese = "吃，是一門藝術，不僅要好吃還要營養\n\n【智商】【想像力】【記憶力】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低消耗100點悟性。"
+   [19935]
+    0 TableSoItemLang data
+     0 int id = 1029936
+     1 string schinese = "分子料理给你舌尖上的享受\n\n【智商】【想象力】【记忆力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低消耗100点悟性。"
+     1 string schinese_censored = "分子料理给你舌尖上的享受\n\n学会烹饪化学，【智慧】【想象力】【记忆力】【体魄】越高，会适当减少所需消耗的悟性\n\n属性标准值：250070\n至少消耗悟性:100"
+     1 string english = "Molecular cuisine brings an explosion of joy.\n\nLearning Cooking Chemistry costs less Knowledge the more [IQ], [Imagination], [Memory] and [Constitution] you have.\n\nStat norm: 250,070\nMinimum Knowledge cost: 100"
+     1 string japanese = "分子構造まで考慮し、舌で料理を楽しもう。\n\n調理科学を学ぶ。【ＩＱ】【想像力】【記憶力】【体力】が高いほど消費理解力は少なくなる。\n\n能力標準値：250070\n最低消費理解力:100"
+     1 string mchinese = "分子料理給你舌尖上的享受\n\n【智商】【想像力】【記憶力】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低消耗100點悟性。"
+   [19936]
+    0 TableSoItemLang data
+     0 int id = 1029937
+     1 string schinese = "学习刀工是每个厨师必不可少的基本技能"
+     1 string schinese_censored = "学习刀工是每个厨师必不可少的基本技能"
+     1 string english = "Knife Technique is vital for chefs."
+     1 string japanese = "包丁使いを学ぶことは、すべての料理人に必須だ"
+     1 string mchinese = "學習刀工是每個廚師必不可少的基本技能"
+   [19937]
+    0 TableSoItemLang data
+     0 int id = 1029938
+     1 string schinese = "学习饮食文化，才能做好菜"
+     1 string schinese_censored = "学习饮食文化，才能做好菜"
+     1 string english = "Introduction to Food Culture is vital."
+     1 string japanese = "食文化理論を学ぶ。調理ができるようになる"
+     1 string mchinese = "學習飲食文化，才能做好菜"
+   [19938]
+    0 TableSoItemLang data
+     0 int id = 1029939
+     1 string schinese = "学习面点工艺，这可是“炉、案、盘、点”四大工种之一"
+     1 string schinese_censored = "学习面点工艺，这可是“炉、案、盘、点”四大工种之一"
+     1 string english = "Noodle Making is a stable for any shop."
+     1 string japanese = "点心技術を学ぶ。『炉、案、盤、点』の４大職種のうちの１つだ。"
+     1 string mchinese = "學習面點工藝，這可是“爐、案、盤、點”四大工種之一"
+   [19939]
+    0 TableSoItemLang data
+     0 int id = 1029940
+     1 string schinese = "学习烹饪工艺，才可以将技术练得炉火纯青"

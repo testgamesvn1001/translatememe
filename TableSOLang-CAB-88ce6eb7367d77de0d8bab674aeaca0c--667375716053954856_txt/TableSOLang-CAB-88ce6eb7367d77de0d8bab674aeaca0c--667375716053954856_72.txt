@@ -1,0 +1,184 @@
+     1 string schinese_censored = "买哪些个干啥呀，又没用"
+     1 string english = "Forget about it, that's just useless junk."
+     1 string japanese = "そんなものを買ってどうする。何の役にも立たん。"
+     1 string mchinese = "買哪些個幹啥呀，又沒用"
+   [1632]
+    0 TableSoItemLang data
+     0 int id = 1011633
+     1 string schinese = "那么贵，都是付了广告费"
+     1 string schinese_censored = "那么贵，都是付了广告费"
+     1 string english = "Too costly. It's all to make up for their advertisement costs."
+     1 string japanese = "広告費が含まれてるから高すぎなんだよ。"
+     1 string mchinese = "那麼貴，都是付了廣告費"
+   [1633]
+    0 TableSoItemLang data
+     0 int id = 1011634
+     1 string schinese = "咸鱼的翻滚"
+     1 string schinese_censored = "咸鱼的翻滚"
+     1 string english = "Rolling Maneuvers"
+     1 string japanese = "寝返り上手"
+     1 string mchinese = "鹹魚的翻滾"
+   [1634]
+    0 TableSoItemLang data
+     0 int id = 1011635
+     1 string schinese = "无影足"
+     1 string schinese_censored = "无影足"
+     1 string english = "Quick Steps"
+     1 string japanese = "韋駄天"
+     1 string mchinese = "無影足"
+   [1635]
+    0 TableSoItemLang data
+     0 int id = 1011636
+     1 string schinese = "少年马拉松"
+     1 string schinese_censored = "少年马拉松"
+     1 string english = "Minor Marathon"
+     1 string japanese = "マラソン少年"
+     1 string mchinese = "少年馬拉松"
+   [1636]
+    0 TableSoItemLang data
+     0 int id = 1011637
+     1 string schinese = "浪里白条"
+     1 string schinese_censored = "浪里白条"
+     1 string english = "Wave Breaker"
+     1 string japanese = "浪裏白條"
+     1 string mchinese = "浪裏白條"
+   [1637]
+    0 TableSoItemLang data
+     0 int id = 1011638
+     1 string schinese = "冲刺流星"
+     1 string schinese_censored = "冲刺流星"
+     1 string english = "Chasing Stars"
+     1 string japanese = "神速流星"
+     1 string mchinese = "衝刺流星"
+   [1638]
+    0 TableSoItemLang data
+     0 int id = 1011639
+     1 string schinese = "广场舞之星"
+     1 string schinese_censored = "广场舞之星"
+     1 string english = "Exercising God"
+     1 string japanese = "広場の体操スター"
+     1 string mchinese = "廣場舞之星"
+   [1639]
+    0 TableSoItemLang data
+     0 int id = 1011640
+     1 string schinese = "语言艺术家"
+     1 string schinese_censored = "语言艺术家"
+     1 string english = "Language Buff"
+     1 string japanese = "言語アーティスト"
+     1 string mchinese = "語言藝術家"
+   [1640]
+    0 TableSoItemLang data
+     0 int id = 1011641
+     1 string schinese = "忍到膀胱破裂时"
+     1 string schinese_censored = "忍到膀胱破裂时"
+     1 string english = "Hold Your Bladder"
+     1 string japanese = "膀胱破裂まで我慢"
+     1 string mchinese = "忍到膀胱破裂時"
+   [1641]
+    0 TableSoItemLang data
+     0 int id = 1011642
+     1 string schinese = "禁欲系毕业"
+     1 string schinese_censored = "禁欲系毕业"
+     1 string english = "Abstinence Ahoy"
+     1 string japanese = "禁欲生活"
+     1 string mchinese = "禁欲系畢業"
+   [1642]
+    0 TableSoItemLang data
+     0 int id = 1011643
+     1 string schinese = "我想静静"
+     1 string schinese_censored = "我想静静"
+     1 string english = "Leave Me Be"
+     1 string japanese = "静かなる私"
+     1 string mchinese = "我想靜靜"
+   [1643]
+    0 TableSoItemLang data
+     0 int id = 1011644
+     1 string schinese = "独自等待"
+     1 string schinese_censored = "独自等待"
+     1 string english = "Waiting Alone"
+     1 string japanese = "独りで待つ"
+     1 string mchinese = "獨自等待"
+   [1644]
+    0 TableSoItemLang data
+     0 int id = 1011645
+     1 string schinese = "拼音万词王"
+     1 string schinese_censored = "拼音万词王"
+     1 string english = "Pinyin Spelling Bee"
+     1 string japanese = "ピンインマスター"
+     1 string mchinese = "拼音萬詞王"
+   [1645]
+    0 TableSoItemLang data
+     0 int id = 1011646
+     1 string schinese = "行走活字典"
+     1 string schinese_censored = "行走活字典"
+     1 string english = "Living Dictionary"
+     1 string japanese = "歩く辞書"
+     1 string mchinese = "行走活字典"
+   [1646]
+    0 TableSoItemLang data
+     0 int id = 1011647
+     1 string schinese = "泣不成诗！"
+     1 string schinese_censored = "泣不成诗！"
+     1 string english = "Spank Poetry"
+     1 string japanese = "泣いてこそ詩"
+     1 string mchinese = "泣不成詩！"
+   [1647]
+    0 TableSoItemLang data
+     0 int id = 1011648
+     1 string schinese = "排比句狂魔"
+     1 string schinese_censored = "排比句狂魔"
+     1 string english = "Sentence Maniac"
+     1 string japanese = "パラレリズム狂"
+     1 string mchinese = "排比句狂魔"
+   [1648]
+    0 TableSoItemLang data
+     0 int id = 1011649
+     1 string schinese = "侃大山爱好者"
+     1 string schinese_censored = "侃大山爱好者"
+     1 string english = "Nonsense Enthusiast"
+     1 string japanese = "創作愛好家"
+     1 string mchinese = "侃大山愛好者"
+   [1649]
+    0 TableSoItemLang data
+     0 int id = 1011650
+     1 string schinese = "文言文小王子"
+     1 string schinese_censored = "文言文小王子"
+     1 string english = "King of Chinese"
+     1 string japanese = "古文の王子さま"
+     1 string mchinese = "文言文小王子"
+   [1650]
+    0 TableSoItemLang data
+     0 int id = 1011651
+     1 string schinese = "名著如山倒"
+     1 string schinese_censored = "名著如山倒"
+     1 string english = "Fame Awaits"
+     1 string japanese = "名作の山"
+     1 string mchinese = "名著如山倒"
+   [1651]
+    0 TableSoItemLang data
+     0 int id = 1011652
+     1 string schinese = "少年文学评论家"
+     1 string schinese_censored = "少年文学评论家"
+     1 string english = "Literary Critic"
+     1 string japanese = "少年文学評論家"
+     1 string mchinese = "少年文學評論家"
+   [1652]
+    0 TableSoItemLang data
+     0 int id = 1011653
+     1 string schinese = "语文题魔"
+     1 string schinese_censored = "语文题魔"
+     1 string english = "Chinese Master"
+     1 string japanese = "国語の魔王"
+     1 string mchinese = "語文題魔"
+   [1653]
+    0 TableSoItemLang data
+     0 int id = 1011654
+     1 string schinese = "语文考霸"
+     1 string schinese_censored = "语文考霸"
+     1 string english = "Chinese Exam Master"
+     1 string japanese = "国語試験王"
+     1 string mchinese = "語文考霸"
+   [1654]
+    0 TableSoItemLang data
+     0 int id = 1011655
+     1 string schinese = "速算高手"

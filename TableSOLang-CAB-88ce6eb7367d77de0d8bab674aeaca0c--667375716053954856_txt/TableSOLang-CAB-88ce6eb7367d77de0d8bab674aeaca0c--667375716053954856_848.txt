@@ -1,0 +1,184 @@
+     1 string schinese_censored = "满意度压力"
+     1 string english = "Stress change"
+     1 string japanese = "強制圧力"
+     1 string mchinese = "滿意度壓力"
+   [19480]
+    0 TableSoItemLang data
+     0 int id = 1029481
+     1 string schinese = "索取"
+     1 string schinese_censored = "礼物"
+     1 string english = "Request"
+     1 string japanese = "要求"
+     1 string mchinese = "索取"
+   [19481]
+    0 TableSoItemLang data
+     0 int id = 1029482
+     1 string schinese = "相亲"
+     1 string schinese_censored = "同学会"
+     1 string english = "Blind Date"
+     1 string japanese = "お見合い"
+     1 string mchinese = "相親"
+   [19482]
+    0 TableSoItemLang data
+     0 int id = 1029483
+     1 string schinese = "结果"
+     1 string schinese_censored = "结果"
+     1 string english = "Result"
+     1 string japanese = "結果"
+     1 string mchinese = "結果"
+   [19483]
+    0 TableSoItemLang data
+     0 int id = 1029484
+     1 string schinese = "说话"
+     1 string schinese_censored = "说话"
+     1 string english = "Chat"
+     1 string japanese = "話す"
+     1 string mchinese = "說話"
+   [19484]
+    0 TableSoItemLang data
+     0 int id = 1029485
+     1 string schinese = "题目"
+     1 string schinese_censored = "题目"
+     1 string english = "Question"
+     1 string japanese = "問題"
+     1 string mchinese = "題目"
+   [19485]
+    0 TableSoItemLang data
+     0 int id = 1029486
+     1 string schinese = "选择"
+     1 string schinese_censored = "选择"
+     1 string english = "Choice"
+     1 string japanese = "候補"
+     1 string mchinese = "選擇"
+   [19486]
+    0 TableSoItemLang data
+     0 int id = 1029487
+     1 string schinese = "灵感"
+     1 string schinese_censored = "灵感"
+     1 string english = "Inspiration"
+     1 string japanese = "ヒラメキ"
+     1 string mchinese = "靈感"
+   [19487]
+    0 TableSoItemLang data
+     0 int id = 1029488
+     1 string schinese = "才艺"
+     1 string schinese_censored = "才艺"
+     1 string english = "Trait"
+     1 string japanese = "特技"
+     1 string mchinese = "才藝"
+   [19488]
+    0 TableSoItemLang data
+     0 int id = 1029489
+     1 string schinese = "描述"
+     1 string schinese_censored = "描述"
+     1 string english = "Desc."
+     1 string japanese = "記述"
+     1 string mchinese = "描述"
+   [19489]
+    0 TableSoItemLang data
+     0 int id = 1029490
+     1 string schinese = "姓名"
+     1 string schinese_censored = "姓名"
+     1 string english = "Name"
+     1 string japanese = "名前"
+     1 string mchinese = "姓名"
+   [19490]
+    0 TableSoItemLang data
+     0 int id = 1029491
+     1 string schinese = "名称"
+     1 string schinese_censored = "名称"
+     1 string english = "Name"
+     1 string japanese = "名称"
+     1 string mchinese = "名稱"
+   [19491]
+    0 TableSoItemLang data
+     0 int id = 1029492
+     1 string schinese = "回合"
+     1 string schinese_censored = "回合"
+     1 string english = "turn(s)"
+     1 string japanese = "ターン"
+     1 string mchinese = "回合"
+   [19492]
+    0 TableSoItemLang data
+     0 int id = 1029493
+     1 string schinese = "智商"
+     1 string schinese_censored = "智慧"
+     1 string english = "IQ"
+     1 string japanese = "ＩＱ"
+     1 string mchinese = "智商"
+   [19493]
+    0 TableSoItemLang data
+     0 int id = 1029494
+     1 string schinese = "情商"
+     1 string schinese_censored = "情绪力"
+     1 string english = "EQ"
+     1 string japanese = "ＥＱ"
+     1 string mchinese = "情商"
+   [19494]
+    0 TableSoItemLang data
+     0 int id = 1029495
+     1 string schinese = "魅力"
+     1 string schinese_censored = "魅力"
+     1 string english = "Charm"
+     1 string japanese = "魅力"
+     1 string mchinese = "魅力"
+   [19495]
+    0 TableSoItemLang data
+     0 int id = 1029496
+     1 string schinese = "面子"
+     1 string schinese_censored = "面子"
+     1 string english = "Face"
+     1 string japanese = "メンツ"
+     1 string mchinese = "面子"
+   [19496]
+    0 TableSoItemLang data
+     0 int id = 1029497
+     1 string schinese = "体魄"
+     1 string schinese_censored = "体魄"
+     1 string english = "Con."
+     1 string japanese = "体力"
+     1 string mchinese = "體魄"
+   [19497]
+    0 TableSoItemLang data
+     0 int id = 1029498
+     1 string schinese = "想象力"
+     1 string schinese_censored = "想象力"
+     1 string english = "Imag."
+     1 string japanese = "想像力"
+     1 string mchinese = "想像力"
+   [19498]
+    0 TableSoItemLang data
+     0 int id = 1029499
+     1 string schinese = "记忆力"
+     1 string schinese_censored = "记忆力"
+     1 string english = "Mem."
+     1 string japanese = "記憶力"
+     1 string mchinese = "記憶力"
+   [19499]
+    0 TableSoItemLang data
+     0 int id = 1029500
+     1 string schinese = "零用钱"
+     1 string schinese_censored = "零用钱"
+     1 string english = "Money"
+     1 string japanese = "お小遣い"
+     1 string mchinese = "零用錢"
+   [19500]
+    0 TableSoItemLang data
+     0 int id = 1029501
+     1 string schinese = "悟性"
+     1 string schinese_censored = "悟性"
+     1 string english = "Knowl."
+     1 string japanese = "理解力"
+     1 string mchinese = "悟性"
+   [19501]
+    0 TableSoItemLang data
+     0 int id = 1029502
+     1 string schinese = "页数"
+     1 string schinese_censored = "页数"
+     1 string english = "Page"
+     1 string japanese = "ページ"
+     1 string mchinese = "頁數"
+   [19502]
+    0 TableSoItemLang data
+     0 int id = 1029503
+     1 string schinese = "跳到"

@@ -1,0 +1,184 @@
+     1 string schinese_censored = "嘿，在吗？"
+     1 string english = "Hey, you there?"
+     1 string japanese = "ねえ。"
+     1 string mchinese = "嘿，在嗎？"
+   [9912]
+    0 TableSoItemLang data
+     0 int id = 1019913
+     1 string schinese = "在啊，怎么了"
+     1 string schinese_censored = "在啊，怎么了"
+     1 string english = "Yeah, what's up?"
+     1 string japanese = "なに？"
+     1 string mchinese = "在啊，怎麼了"
+   [9913]
+    0 TableSoItemLang data
+     0 int id = 1019914
+     1 string schinese = "今天我带来了一个好消息和坏消息，你想先听哪个？"
+     1 string schinese_censored = "今天我带来了一个好消息和坏消息，你想先听哪个？"
+     1 string english = "I got good and bad news today. Which do you want to hear first?"
+     1 string japanese = "良いニュースと悪いニュースがあるんだけど、どっちから聞きたい？"
+     1 string mchinese = "今天我帶來了一個好消息和壞消息，你想先聽哪個？"
+   [9914]
+    0 TableSoItemLang data
+     0 int id = 1019915
+     1 string schinese = "我想想啊…我想……先听……"
+     1 string schinese_censored = "我想想啊…我想……先听……"
+     1 string english = "I want to... I want... To listen to..."
+     1 string japanese = "ちょっと考えさせて…どっちだろ…えっと…"
+     1 string mchinese = "我想想啊…我想……先聽……"
+   [9915]
+    0 TableSoItemLang data
+     0 int id = 1019916
+     1 string schinese = "好啦，我先说好消息！"
+     1 string schinese_censored = "好啦，我先说好消息！"
+     1 string english = "Okay, I'll tell you the good news first!"
+     1 string japanese = "もお、それじゃ良いニュースから言うね！"
+     1 string mchinese = "好啦，我先說好消息！"
+   [9916]
+    0 TableSoItemLang data
+     0 int id = 1019917
+     1 string schinese = "我妈妈知道你和我关系很亲密哟！而且没有说什么其他的，似乎没有阻挠哟~"
+     1 string schinese_censored = "我妈妈知道你和我关系很亲密哟！而且没有说什么其他的，似乎没有阻挠哟~"
+     1 string english = "My mom knows you and I are close! She didn't say anything though."
+     1 string japanese = "お母さんに付き合ってるのがバレたみたい！でも、何も言ってこないし、別れさす気もないみたい！"
+     1 string mchinese = "我媽媽知道你和我關係很親密喲！而且沒有說什麼其他的，似乎沒有阻撓喲~"
+   [9917]
+    0 TableSoItemLang data
+     0 int id = 1019918
+     1 string schinese = "这么开明，真是羡慕啊，我老妈天天侦查我手机呢"
+     1 string schinese_censored = "这么开明，真是羡慕啊，我老妈天天侦查我手机呢"
+     1 string english = "I'm envious. My mom checks my phone every day."
+     1 string japanese = "ホント？よかった。でもうらやましいな。うちは毎日スマホをチェックされるんだ。"
+     1 string mchinese = "這麼開明，真是羡慕啊，我老媽天天偵查我手機呢"
+   [9918]
+    0 TableSoItemLang data
+     0 int id = 1019919
+     1 string schinese = "那么…坏消息是？"
+     1 string schinese_censored = "那么…坏消息是？"
+     1 string english = "So...what's the bad news?"
+     1 string japanese = "で…悪いニュースは？"
+     1 string mchinese = "那麼…壞消息是？"
+   [9919]
+    0 TableSoItemLang data
+     0 int id = 1019920
+     1 string schinese = "我妈妈看过通讯录的照片，说我品位差了好多……"
+     1 string schinese_censored = "我妈妈看过通讯录的照片，说我品位差了好多……"
+     1 string english = "My mom saw your pictures in my album and said my taste is getting worse..."
+     1 string japanese = "お母さんがあなたの写真を見て、私にセンス悪いねって…"
+     1 string mchinese = "我媽媽看過通訊錄的照片，說我品位差了好多……"
+   [9920]
+    0 TableSoItemLang data
+     0 int id = 1019921
+     1 string schinese = "额……这是在吐槽我吗？我这么玉树临风！这么一表人才……"
+     1 string schinese_censored = "额……这是在吐槽我吗？我这么玉树临风！这么一表人才……"
+     1 string english = "Oh... Is she insulting me? But I'm so good-looking!"
+     1 string japanese = "え…それってどういう意味？こんなにカッコいいのに！？"
+     1 string mchinese = "額……這是在吐槽我嗎？我這麼玉樹臨風！這麼一表人才……"
+   [9921]
+    0 TableSoItemLang data
+     0 int id = 1019922
+     1 string schinese = "我觉得人最重要的，还是能够清晰的认识自己……"
+     1 string schinese_censored = "我觉得人最重要的，还是能够清晰的认识自己……"
+     1 string english = "I think personality is what matters the most. Only then will you get to know yourself..."
+     1 string japanese = "人として一番大切なのは、自己評価が正確なことだと思うよ…"
+     1 string mchinese = "我覺得人最重要的，還是能夠清晰的認識自己……"
+   [9922]
+    0 TableSoItemLang data
+     0 int id = 1019923
+     1 string schinese = "你还有整容咨询的电话吗……麻烦预约一下…"
+     1 string schinese_censored = "你还有整容咨询的电话吗……麻烦预约一下…"
+     1 string english = "Do you still have the phone number for that plastic surgery consultation? Make an appointment for me..."
+     1 string japanese = "整形相談の連絡先まだ持ってる？予約してほしいな…"
+     1 string mchinese = "你還有整容諮詢的電話嗎……麻煩預約一下…"
+   [9923]
+    0 TableSoItemLang data
+     0 int id = 1019924
+     1 string schinese = "哈哈啊，你真是太有意思了，你肯定不知道整容要花很多钱。"
+     1 string schinese_censored = "哈哈啊，你真是太有意思了，你肯定不知道整容要花很多钱。"
+     1 string english = "Haha, you're funny. You definitely don't know how much plastic surgery costs."
+     1 string japanese = "フフフ、バカね。手術にいくらかかるか知ってるの？"
+     1 string mchinese = "哈哈啊，你真是太有意思了，你肯定不知道整容要花很多錢。"
+   [9924]
+    0 TableSoItemLang data
+     0 int id = 1019925
+     1 string schinese = "突然感到你在自我形象上太随意了"
+     1 string schinese_censored = "突然感到你在自我形象上太随意了"
+     1 string english = "I suddenly get a feeling you're too calm about your looks."
+     1 string japanese = "ふと思ったんだけど、あなたって自分の見た目気にしなさすぎじゃない？"
+     1 string mchinese = "突然感到你在自我形象上太隨意了"
+   [9925]
+    0 TableSoItemLang data
+     0 int id = 1019926
+     1 string schinese = "有时候我也觉得自己变丑了，但拿出身份证一看，发现是我多虑了~"
+     1 string schinese_censored = "有时候我也觉得自己变丑了，但拿出身份证一看，发现是我多虑了~"
+     1 string english = "Sometimes I do feel ugly. But then I pull out my ID card and all that goes away!"
+     1 string japanese = "確かに自分の見た目が気になる時はあるよ。でもそんなときは学生証を見て僕は大丈夫だって安心するんだ！"
+     1 string mchinese = "有時候我也覺得自己變醜了，但拿出身份證一看，發現是我多慮了~"
+   [9926]
+    0 TableSoItemLang data
+     0 int id = 1019927
+     1 string schinese = "你自己心里没点数吗？其实，就是觉得应该注重搭配~"
+     1 string schinese_censored = "你自己心里没点数吗？其实，就是觉得应该注重搭配~"
+     1 string english = "Do you never worry about your looks? I still think you should try a little bit harder."
+     1 string japanese = "そういう意味じゃなくって… 服装をね…"
+     1 string mchinese = "你自己心裏沒點數嗎？其實，就是覺得應該注重搭配~"
+   [9927]
+    0 TableSoItemLang data
+     0 int id = 1019928
+     1 string schinese = "还有就是…气场……"
+     1 string schinese_censored = "还有就是…气场……"
+     1 string english = "And then...there's your aura..."
+     1 string japanese = "それから…オーラね…"
+     1 string mchinese = "還有就是…氣場……"
+   [9928]
+    0 TableSoItemLang data
+     0 int id = 1019929
+     1 string schinese = "气场……是什么？"
+     1 string schinese_censored = "气场……是什么？"
+     1 string english = "What is...an aura?"
+     1 string japanese = "オーラ…って何？"
+     1 string mchinese = "氣場……是什麼？"
+   [9929]
+    0 TableSoItemLang data
+     0 int id = 1019930
+     1 string schinese = "就是自信吧，特殊的帅哥才有的，骄傲的气场"
+     1 string schinese_censored = "就是自信吧，特殊的帅哥才有的，骄傲的气场"
+     1 string english = "Just confidence. A lot of handsome guys have it."
+     1 string japanese = "要するに自信よ。イケメンはみんなオーラを纏ってるの。"
+     1 string mchinese = "就是自信吧，特殊的帥哥才有的，驕傲的氣場"
+   [9930]
+    0 TableSoItemLang data
+     0 int id = 1019931
+     1 string schinese = "盲目自信是一种天赋~确实学不来"
+     1 string schinese_censored = "盲目自信是一种天赋~确实学不来"
+     1 string english = "Blind confidence is a talent that cannot be learned."
+     1 string japanese = "盲目的な自信って、学べるものじゃないと思うけど…"
+     1 string mchinese = "盲目自信是一種天賦~確實學不來"
+   [9931]
+    0 TableSoItemLang data
+     0 int id = 1019932
+     1 string schinese = "哈哈，人丑就要多读书！"
+     1 string schinese_censored = "哈哈，人丑就要多读书！"
+     1 string english = "Hahaha, ugly people need to study more!"
+     1 string japanese = "フフ、イケメンじゃないんだから死にものぐるいで学んでよね！"
+     1 string mchinese = "哈哈，人醜就要多讀書！"
+   [9932]
+    0 TableSoItemLang data
+     0 int id = 1019933
+     1 string schinese = "无语……"
+     1 string schinese_censored = "无语……"
+     1 string english = "..."
+     1 string japanese = "ウッ…"
+     1 string mchinese = "無語……"
+   [9933]
+    0 TableSoItemLang data
+     0 int id = 1019934
+     1 string schinese = "突然觉得，意志品质真的很重要"
+     1 string schinese_censored = "突然觉得，意志质量真的很重要"
+     1 string english = "I suddenly feel like your character is also important."
+     1 string japanese = "急に気づいたんだけど、あなたの性格が好きなのかも。"
+     1 string mchinese = "突然覺得，意志品質真的很重要"
+   [9934]
+    0 TableSoItemLang data
+     0 int id = 1019935
+     1 string schinese = "为什么这么说"

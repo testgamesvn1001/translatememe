@@ -1,0 +1,184 @@
+     1 string schinese_censored = "---???---"
+     1 string english = "---???---"
+     1 string japanese = "---???---"
+     1 string mchinese = "---???---"
+   [27599]
+    0 TableSoItemLang data
+     0 int id = 1596173886
+     1 string schinese = "父母类型："
+     1 string schinese_censored = "父母类型："
+     1 string english = "Parent Type: "
+     1 string japanese = "両親タイプ："
+     1 string mchinese = "父母類型："
+   [27600]
+    0 TableSoItemLang data
+     0 int id = 1596173887
+     1 string schinese = "效果说明"
+     1 string schinese_censored = "效果说明"
+     1 string english = "Details"
+     1 string japanese = "効果説明"
+     1 string mchinese = "效果說明"
+   [27601]
+    0 TableSoItemLang data
+     0 int id = 1596173888
+     1 string schinese = "第{0}世代解锁该槽位"
+     1 string schinese_censored = "第{0}世代解锁该槽位"
+     1 string english = "Unlocks at Gen {0}"
+     1 string japanese = "第{0}世代でアンロック"
+     1 string mchinese = "第{0}世代解鎖該槽位"
+   [27602]
+    0 TableSoItemLang data
+     0 int id = 1596173889
+     1 string schinese = "佩戴完毕"
+     1 string schinese_censored = "佩戴完毕"
+     1 string english = "Finish"
+     1 string japanese = "装着完了"
+     1 string mchinese = "佩戴完畢"
+   [27603]
+    0 TableSoItemLang data
+     0 int id = 1596173890
+     1 string schinese = "卸下"
+     1 string schinese_censored = "卸下"
+     1 string english = "Remove"
+     1 string japanese = "外す"
+     1 string mchinese = "卸下"
+   [27604]
+    0 TableSoItemLang data
+     0 int id = 1596173891
+     1 string schinese = "未装备传家宝"
+     1 string schinese_censored = "未装备传家宝"
+     1 string english = "Family Heirloom not equipped."
+     1 string japanese = "家宝未装着"
+     1 string mchinese = "未裝備傳家寶"
+   [27605]
+    0 TableSoItemLang data
+     0 int id = 1596173892
+     1 string schinese = "本世代没有佩戴任何传家宝"
+     1 string schinese_censored = "本世代没有佩戴任何传家宝"
+     1 string english = "You've not equipped any Family Heirlooms."
+     1 string japanese = "この世代は家宝を装着していません"
+     1 string mchinese = "本世代沒有佩戴任何傳家寶"
+   [27606]
+    0 TableSoItemLang data
+     0 int id = 1596173893
+     1 string schinese = "不要在答题线外作答，请在“解题区”内操作。"
+     1 string schinese_censored = "不要在答题线外作答，请在“解题区”内操作。"
+     1 string english = "Please write down your answers in the designated area and don't write outside the lines."
+     1 string japanese = "問題の欄外で解答しないでください。「解答欄」内で操作してください。"
+     1 string mchinese = "不要在答題線外作答，請在“解題區”內操作。"
+   [27607]
+    0 TableSoItemLang data
+     0 int id = 1596173894
+     1 string schinese = "<size=40>玩法说明：</size>\n1.率先推倒对方<color=#fdb301>主基地</color>（红色）获胜；\n2.地图分<color=#fdb301>3条线</color>，可通过拖动我的<color=#fdb301>特长</color>加入战斗，同一条线<color=#fdb301>可拖入多个特长</color>；\n3.每回合每条线的<color=#fdb301>战斗力</color>，更高的一方可以推掉对方的一座塔；\n4.任意1条线3座塔推掉后才可攻击主基地；\n5.第三回合可以打野外BOSS，战胜+30%战力；\n6.当敌我同时攻击对方主基地时，伤害总和高的一方获胜；\n7.多回合模式中，采用赛点机制，比如三局两胜；"
+     1 string schinese_censored = "<size=40>玩法说明：</size>\n1.率先推倒对方<color=#fdb301>主基地</color>（红色）获胜；\n2.地图分<color=#fdb301>3条线</color>，可通过拖动我的<color=#fdb301>特长</color>加入战斗，同一条线<color=#fdb301>可拖入多个特长</color>；\n3.每回合每条线的<color=#fdb301>战斗力</color>，更高的一方可以推掉对方的一座塔；\n4.任意1条线3座塔推掉后才可攻击主基地；\n5.第三回合可以打野外BOSS，战胜+30%战力；\n6.当敌我同时攻击对方主基地时，伤害总和高的一方获胜；\n7.多回合模式中，采用赛点机制，比如三局两胜；"
+     1 string english = "1596173894"
+     1 string japanese = "1596173894"
+     1 string mchinese = "<size=40>玩法說明：</size>\n1.率先推倒對方<color=#fdb301>主基地</color>（紅色）獲勝；\n2.地圖分<color=#fdb301>3條線</color>，可通過拖動我的<color=#fdb301>特長</color>加入戰鬥，同一條線<color=#fdb301>可拖入多個特長</color>；\n3.每回合每條線的<color=#fdb301>戰鬥力</color>，更高的一方可以推掉對方的一座塔；\n4.任意1條線3座塔推掉後才可攻擊主基地；\n5.第三回合可以打野外BOSS，戰勝+30%戰力；\n6.當敵我同時攻擊對方主基地時，傷害總和高的一方獲勝；\n7.多回合模式中，採用賽點機制，比如三局兩勝；"
+   [27608]
+    0 TableSoItemLang data
+     0 int id = 1596173895
+     1 string schinese = "请寻找宝箱的钥匙"
+     1 string schinese_censored = "请寻找宝箱的钥匙"
+     1 string english = "後續功能，暫不翻譯1596173895"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "請尋找寶箱的鑰匙"
+   [27609]
+    0 TableSoItemLang data
+     0 int id = 1596173896
+     1 string schinese = "请先找到宝箱"
+     1 string schinese_censored = "请先解锁宝箱"
+     1 string english = "後續功能，暫不翻譯1596173896"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "請先解鎖寶箱"
+   [27610]
+    0 TableSoItemLang data
+     0 int id = 1596173897
+     1 string schinese = "炸弹快爆炸啦，快挖取周围的脑洞吧"
+     1 string schinese_censored = "炸弹快爆炸啦，快挖取周围的宝藏吧"
+     1 string english = "後續功能，暫不翻譯1596173897"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "炸彈快爆炸啦，快挖取周圍的寶藏吧"
+   [27611]
+    0 TableSoItemLang data
+     0 int id = 1596173898
+     1 string schinese = "考试成绩似乎不理想，并没有受到任何考试合格报告~"
+     1 string schinese_censored = "0"
+     1 string english = "後續功能，暫不翻譯1596173898"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "考試成績似乎不理想，並沒有受到任何考試合格報告~"
+   [27612]
+    0 TableSoItemLang data
+     0 int id = 1596173899
+     1 string schinese = "#还可购买{0}次#"
+     1 string schinese_censored = "#还可购买{0}次#"
+     1 string english = "#{0} in stock#"
+     1 string japanese = "＃あと{0}回購入可能"
+     1 string mchinese = "#還可購買{0}次#"
+   [27613]
+    0 TableSoItemLang data
+     0 int id = 1596173900
+     1 string schinese = "新到玩具，不买别摸"
+     1 string schinese_censored = "新到玩具，不买别摸"
+     1 string english = "New toys! You touch 'em, you buy 'em."
+     1 string japanese = "冷やかしお断り"
+     1 string mchinese = "新到玩具，不買別摸"
+   [27614]
+    0 TableSoItemLang data
+     0 int id = 1596173901
+     1 string schinese = "收起"
+     1 string schinese_censored = "收起"
+     1 string english = "Close"
+     1 string japanese = "閉じる"
+     1 string mchinese = "收起"
+   [27615]
+    0 TableSoItemLang data
+     0 int id = 1596173902
+     1 string schinese = "旁白君"
+     1 string schinese_censored = "旁白君"
+     1 string english = "Narration"
+     1 string japanese = "ナレーター"
+     1 string mchinese = "旁白君"
+   [27616]
+    0 TableSoItemLang data
+     0 int id = 1596173903
+     1 string schinese = "备用解锁文案1"
+     1 string schinese_censored = "备用解锁文案1"
+     1 string english = "/1596173903"
+     1 string japanese = "/"
+     1 string mchinese = "備用解鎖文案1"
+   [27617]
+    0 TableSoItemLang data
+     0 int id = 1596173904
+     1 string schinese = "备用解锁文案2"
+     1 string schinese_censored = "备用解锁文案2"
+     1 string english = "/1596173904"
+     1 string japanese = "/"
+     1 string mchinese = "備用解鎖文案2"
+   [27618]
+    0 TableSoItemLang data
+     0 int id = 1596173905
+     1 string schinese = "请在 Steam 中购买相应 DLC"
+     1 string schinese_censored = "请在 Steam 中购买相应 DLC"
+     1 string english = "You can purchase the DLC on Steam."
+     1 string japanese = "Steamで対応するDLCを購入してください"
+     1 string mchinese = "請在 Steam 中購買相應 DLC"
+   [27619]
+    0 TableSoItemLang data
+     0 int id = 1596173906
+     1 string schinese = "竞选"
+     1 string schinese_censored = "竞选"
+     1 string english = "後續功能，暫不翻譯1596173906"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "競選"
+   [27620]
+    0 TableSoItemLang data
+     0 int id = 1596173907
+     1 string schinese = "您的家族等级已经达到最高！"
+     1 string schinese_censored = "您的家族等级已经达到最高！"
+     1 string english = "後續功能，暫不翻譯1596173907"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "您的家族等級已經達到最高！"
+   [27621]
+    0 TableSoItemLang data
+     0 int id = 1596173908
+     1 string schinese = "课程进阶"

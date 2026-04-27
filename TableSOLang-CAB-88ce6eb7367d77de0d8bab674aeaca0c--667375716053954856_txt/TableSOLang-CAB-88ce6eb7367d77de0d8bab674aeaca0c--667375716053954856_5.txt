@@ -1,0 +1,184 @@
+     1 string schinese_censored = "“教练！我想打篮球！！”\n\n学会国青队集训，【记忆力】【体魄】【魅力】越高，会适当减少所需消耗的悟性\n\n属性标准值：181872\n至少消耗悟性:100"
+     1 string english = "Trainer! We want to play basketball!\n\nLearning National Youth Team Training costs less Knowledge the more [Memory], [Constitution] and [Charm] you have.\n\nStat norm: 181,872\nMinimum Knowledge cost: 100"
+     1 string japanese = "先生…バスケがしたいです……\n\n国家青年代表合宿を学ぶ。【記憶力】【体力】【魅力】が高いほど消費理解力は少ない。\n\n能力標準値：181872\n最低消費理解力：100"
+     1 string mchinese = "“教練！我想打籃球！！”\n\n【記憶力】【體魄】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低消耗100點悟性。"
+   [91]
+    0 TableSoItemLang data
+     0 int id = 1010092
+     1 string schinese = "天好看！地好看！还有一群快乐的小伙伴\n\n【想象力】属性越高，学习消耗的悟性越少。\n\n最低消耗20点悟性。"
+     1 string schinese_censored = "这个角色也认识，那个角色也认识\n\n学会美术课，【想象力】越高，会适当减少所需消耗的悟性\n\n属性标准值：900\n至少消耗悟性:20"
+     1 string english = "The world is as beautiful as the heavens!\n\nLearning Painting Class costs less Knowledge the more [Imagination] you have.\n\nStat norm: 900\nMinimum Knowledge cost: 20"
+     1 string japanese = "空と大地が美しく調和している！\n\n美術を学ぶ。【想像力】が高いほど消費理解力は少ない。\n\n能力標準値：900\n最低消費理解力：20"
+     1 string mchinese = "天好看！地好看！還有一群快樂的小夥伴\n\n【想像力】屬性越高，學習消耗的悟性越少。\n\n最低消耗20點悟性。"
+   [92]
+    0 TableSoItemLang data
+     0 int id = 1010093
+     1 string schinese = "涂鸦艺术，不是随便乱涂！\n\n【想象力】【记忆力】属性越高，学习消耗的悟性越少。\n\n最低消耗30点悟性。"
+     1 string schinese_censored = "涂鸦艺术，不是随便乱涂！\n\n学会涂鸦，【想象力】【记忆力】越高，会适当减少所需消耗的悟性\n\n属性标准值：2700\n至少消耗悟性:30"
+     1 string english = "Doodling is an art and not just random scribbling!\n\nLearning Doodling costs less Knowledge the more [Imagination] and [Memory] you have.\n\nStat norm: 2,700\nMinimum Knowledge cost: 30"
+     1 string japanese = "グラフィティは落書きじゃない！\n\nグラフィティを学ぶ。【想像力】【記憶力】が高いほど消費理解力は少ない。\n\n能力標準値：2700\n最低消費理解力：30"
+     1 string mchinese = "塗鴉藝術，不是隨便亂塗！\n\n【想像力】【記憶力】屬性越高，學習消耗的悟性越少。\n\n最低消耗30點悟性。"
+   [93]
+    0 TableSoItemLang data
+     0 int id = 1010094
+     1 string schinese = "学学各种知名流派和绕嘴的人名儿\n\n【想象力】【记忆力】属性越高，学习消耗的悟性越少。\n\n最低消耗40点悟性。"
+     1 string schinese_censored = "学学各种知名流派和绕嘴的人名儿\n\n学会艺术赏析，【想象力】【记忆力】越高，会适当减少所需消耗的悟性\n\n属性标准值：3780\n至少消耗悟性:40"
+     1 string english = "Learn styles of artists with hard-to-pronounce names.\n\nLearning Art Appreciation costs less Knowledge the more [Imagination] and [Memory] you have.\n\nStat norm: 3,780\nMinimum Knowledge cost: 40"
+     1 string japanese = "いろんな流派と覚えにくい人名を覚えよう。\n\n芸術鑑賞を学ぶ。【想像力】、【記憶力】が高いほど消費理解力は少ない。\n\n能力標準値：3780\n最低消費理解力：40"
+     1 string mchinese = "學學各種知名流派和繞嘴的人名兒\n\n【想像力】【記憶力】屬性越高，學習消耗的悟性越少。\n\n最低消耗40點悟性。"
+   [94]
+    0 TableSoItemLang data
+     0 int id = 1010095
+     1 string schinese = "看看这个光影！！\n\n【想象力】【记忆力】【魅力】属性越高，学习消耗的悟性越少。\n\n最低消耗50点悟性。"
+     1 string schinese_censored = "看看这个光影！！\n\n学会素描，【想象力】【记忆力】【魅力】越高，会适当减少所需消耗的悟性\n\n属性标准值：9072\n至少消耗悟性:50"
+     1 string english = "Look at the lights and shadows on this one!\n\nLearning Sketching costs less Knowledge the more [Imagination], [Memory] and [Charm] you have.\n\nStat norm: 9,072\nMinimum Knowledge cost: 50"
+     1 string japanese = "陰影のつけ方を見るんだ！\n\nデッサンを学ぶ。【想像力】【記憶力】【魅力】が高いほど消費理解力は少ない。\n\n能力標準値：9072\n最低消費理解力：50"
+     1 string mchinese = "看看這個光影！！\n\n【想像力】【記憶力】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低消耗50點悟性。"
+   [95]
+    0 TableSoItemLang data
+     0 int id = 1010096
+     1 string schinese = "哪里有彩虹告诉我？\n\n【想象力】【记忆力】【魅力】属性越高，学习消耗的悟性越少。\n\n最低消耗60点悟性。"
+     1 string schinese_censored = "哪里有彩虹告诉我？\n\n学会色彩，【想象力】【记忆力】【魅力】越高，会适当减少所需消耗的悟性\n\n属性标准值：15420\n至少消耗悟性:60"
+     1 string english = "Can you tell me where the rainbow is?\n\nLearning Coloring costs less Knowledge the more [Imagination], [Memory] and [Charm] you have.\n\nStat norm: 15,420\nMinimum Knowledge cost: 60"
+     1 string japanese = "虹色って何色？\n\n色彩を学ぶ。【想像力】【記憶力】【魅力】が高いほど消費理解力は少ない。\n\n能力標準値：15420\n最低消費理解力：60"
+     1 string mchinese = "哪里有彩虹告訴我？\n\n【想像力】【記憶力】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低消耗60點悟性。"
+   [96]
+    0 TableSoItemLang data
+     0 int id = 1010097
+     1 string schinese = "考出一个未来吧！\n\n【想象力】【记忆力】【魅力】属性越高，学习消耗的悟性越少。\n\n最低消耗70点悟性。"
+     1 string schinese_censored = "考出一个未来吧！\n\n学会美术联考培训，【想象力】【记忆力】【魅力】越高，会适当减少所需消耗的悟性\n\n属性标准值：27756\n至少消耗悟性:70"
+     1 string english = "Let's pave the way for our futures!\n\nLearning Gaokao Fine Arts Training costs less Knowledge the more [Imagination], [Memory] and [Charm] you have.\n\nStat norm: 27,756\nMinimum Knowledge cost: 70"
+     1 string japanese = "未来に挑戦だ！\n\n芸術入試合宿を学ぶ。【想像力】【記憶力】【魅力】が高いほど消費理解力は少ない。\n\n能力標準値：27756\n最低消費理解力：70"
+     1 string mchinese = "考出一個未來吧！\n\n【想像力】【記憶力】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低消耗70點悟性。"
+   [97]
+    0 TableSoItemLang data
+     0 int id = 1010098
+     1 string schinese = "你！说你呢！对模特要尊重！\n\n【想象力】【记忆力】【魅力】属性越高，学习消耗的悟性越少。\n\n最低消耗80点悟性。"
+     1 string schinese_censored = "要想雕塑活灵活现，首先得学会观察？\n\n学会雕塑，【想象力】【记忆力】【魅力】越高，会适当减少所需消耗的悟性\n\n属性标准值：44406\n至少消耗悟性:80"
+     1 string english = "Please keep your hands away from the model.\n\nLearning Sculpting costs less Knowledge the more [Imagination], [Memory] and [Charm] you have.\n\nStat norm: 44,406\nMinimum Knowledge cost: 80"
+     1 string japanese = "むやみにモデルを触るの、やめてくれる？\n\n彫刻を学ぶ。【想像力】【記憶力】【魅力】が高いほど消費理解力は少ない。\n\n能力標準値：44406\n最低消費理解力：80"
+     1 string mchinese = "你！說你呢！對模特要尊重！\n\n【想像力】【記憶力】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低消耗80點悟性。"
+   [98]
+    0 TableSoItemLang data
+     0 int id = 1010099
+     1 string schinese = "油画是真正的纯艺术！\n\n【想象力】【记忆力】【魅力】属性越高，学习消耗的悟性越少。\n\n最低消耗90点悟性。"
+     1 string schinese_censored = "油画是真正的纯艺术！\n\n学会油画，【想象力】【记忆力】【魅力】越高，会适当减少所需消耗的悟性\n\n属性标准值：71046\n至少消耗悟性:90"
+     1 string english = "Oil paintings are true works of art!\n\nLearning Oil Painting costs less Knowledge the more [Imagination], [Memory] and [Charm] you have.\n\nStat norm: 71,046\nMinimum Knowledge cost: 90"
+     1 string japanese = "油絵こそ真のアートだ！\n\n油絵を学ぶ。【想像力】【記憶力】【魅力】が高いほど消費理解力は少ない。\n\n能力標準値：71046\n最低消費理解力：90"
+     1 string mchinese = "油畫是真正的純藝術！\n\n【想像力】【記憶力】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低消耗90點悟性。"
+   [99]
+    0 TableSoItemLang data
+     0 int id = 1010100
+     1 string schinese = "对，就是这个厕所！人类文明伟大的厕所啊！\n\n【想象力】【记忆力】【魅力】属性越高，学习消耗的悟性越少。\n\n最低消耗100点悟性。"
+     1 string schinese_censored = "对，就是这个厕所！人类文明伟大的厕所啊！\n\n学会谜的现代艺术，【想象力】【记忆力】【魅力】越高，会适当减少所需消耗的悟性\n\n属性标准值：113670\n至少消耗悟性:100"
+     1 string english = "Yep, a toilet. The culmination of civilization!\n\nLearning "Modern" Art costs less Knowledge the more [Imagination], [Memory] and [Charm] you have.\n\nStat norm: 113,670\nMinimum Knowledge cost: 100"
+     1 string japanese = "そう、これこそがトイレ！人類の偉大なる発明トイレだ！\n\n謎の現代技術を学ぶ。【想像力】【記憶力】【魅力】が高いほど消費理解力は少ない。\n\n能力標準値：113670\n最低消費理解力：100"
+     1 string mchinese = "對，就是這個廁所！人類文明偉大的廁所啊！\n\n【想像力】【記憶力】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低消耗100點悟性。"
+   [100]
+    0 TableSoItemLang data
+     0 int id = 1010101
+     1 string schinese = "没事儿，我不疼，这叫行为艺术！\n\n【想象力】【记忆力】【魅力】属性越高，学习消耗的悟性越少。\n\n最低消耗100点悟性。"
+     1 string schinese_censored = "没事儿，我不疼，这叫行为艺术！\n\n学会行为艺术，【想象力】【记忆力】【魅力】越高，会适当减少所需消耗的悟性\n\n属性标准值：181872\n至少消耗悟性:100"
+     1 string english = "I don't hurt at all, it's performance arts!\n\nLearning Performance Art costs less Knowledge the more [Imagination], [Memory] and [Charm] you have.\n\nStat norm: 181,872\nMinimum Knowledge cost: 100"
+     1 string japanese = "大丈夫、全然痛くないよ！これはパフォーマンスだから！\n\nパフォーマンスを学ぶ。【想像力】【記憶力】【魅力】が高いほど消費理解力は少ない。\n\n能力標準値：181872\n最低消費理解力：100"
+     1 string mchinese = "沒事兒，我不疼，這叫行為藝術！\n\n【想像力】【記憶力】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低消耗100點悟性。"
+   [101]
+    0 TableSoItemLang data
+     0 int id = 1010102
+     1 string schinese = "听说弹《秘密》就可以穿越时空！\n\n【想象力】【记忆力】属性越高，学习消耗的悟性越少。\n\n最低消耗200点悟性。"
+     1 string schinese_censored = "听说弹《秘密》就可以穿越时空！\n\n学会学钢琴，【想象力】【记忆力】越高，会适当减少所需消耗的悟性\n\n属性标准值：3780\n至少消耗悟性:200"
+     1 string english = "Takes you across space and infinity!\n\nLearning the Piano costs less Knowledge the more [Imagination] and [Memory] you have.\n\nStat norm: 3,780\nMinimum Knowledge cost: 200"
+     1 string japanese = "もしもピアノが弾けたなら～\n\nピアノを学ぶ。【想像力】【記憶力】が高いほど消費理解力は少ない。\n\n能力標準値：3780\n最低消費理解力：200"
+     1 string mchinese = "聽說彈《秘密》就可以穿越時空！\n\n【想像力】【記憶力】屬性越高，學習消耗的悟性越少。\n\n最低消耗200點悟性。"
+   [102]
+    0 TableSoItemLang data
+     0 int id = 1010103
+     1 string schinese = "面对高考逃不过的坎儿\n\n【想象力】【记忆力】【魅力】属性越高，学习消耗的悟性越少。\n\n最低消耗50点悟性。"
+     1 string schinese_censored = "面对最终考试逃不过的坎儿\n\n学会面对最终考试，【想象力】【记忆力】【魅力】越高，会适当减少所需消耗的悟性\n\n属性标准值：0\n至少消耗悟性:50"
+     1 string english = "Gaokao is an unescapable obstacle!\n\nLearning Confronting Gaokao costs less Knowledge the more [Imagination], [Memory] and [Charm] you have.\n\nStat norm: 0\nMinimum Knowledge cost: 50"
+     1 string japanese = "大学入試からは逃れられない。\n\n大学入試対策を学ぶ。【想像力】【記憶力】【魅力】が高いほど消費理解力は少ない。\n\n能力標準値：0\n最低消費理解力：50"
+     1 string mchinese = "面對高考逃不過的坎兒\n\n【想像力】【記憶力】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低消耗50點悟性。"
+   [103]
+    0 TableSoItemLang data
+     0 int id = 1010104
+     1 string schinese = ""
+     1 string schinese_censored = "为人最重要的就是一股正气！\n\n学会跆拳道入门，【体魄】【魅力】越高，会适当减少所需消耗的悟性\n\n属性标准值：3780\n至少消耗悟性:150"
+     1 string english = "Let's get the enemies together!\n\nLearning to Strike Back costs less Knowledge the more [Constitution] and [Charm] you have.\n\nStat norm: 3,780\nMinimum Knowledge cost: 150"
+     1 string japanese = "一緒に殴りに行こうか！\n\nイジメに反撃を学ぶ。【体力】【魅力】が高いほど消費理解力は少ない。\n\n能力標準値：3780\n最低消費理解力：150"
+     1 string mchinese = ""
+   [104]
+    0 TableSoItemLang data
+     0 int id = 1010105
+     1 string schinese = ""
+     1 string schinese_censored = "街头打架的主流拳法，不属于任何流派但更注重实战效果！\n\n学会综合格斗术，【体魄】【魅力】越高，会适当减少所需消耗的悟性\n\n属性标准值：18504\n至少消耗悟性:200"
+     1 string english = "Street fighting is the most popular combat method.\n\nLearning Integrated Combat costs less Knowledge the more [Constitution] and [Charm] you have.\n\nStat norm: 18,504\nMinimum Knowledge cost: 200"
+     1 string japanese = "ストリートファイトの主流。どの流派にも属さないが実戦では抜群だ！\n\n総合格闘技を学ぶ。【体力】【魅力】が高いほど消費理解力は少ない。\n\n能力標準値：18504\n最低消費理解力：200"
+     1 string mchinese = ""
+   [105]
+    0 TableSoItemLang data
+     0 int id = 1010106
+     1 string schinese = ""
+     1 string schinese_censored = "枪械相关知识的基础入门，让你认识各种枪械的种类型号！\n\n学会枪械基础，【智慧】越高，会适当减少所需消耗的悟性\n\n属性标准值：23682\n至少消耗悟性:250"
+     1 string english = "Teaches you about various firearms and models.\n\nLearning Firearms 101 costs less Knowledge the more [IQ] you have.\n\nStat norm: 23,682\nMinimum Knowledge cost: 250"
+     1 string japanese = "銃器の基礎として、まず種類と型番を覚えよう！\n\n銃器基礎を学ぶ。【ＩＱ】が高いほど消費理解力は少ない。\n\n能力標準値：23682\n最低消費理解力：250"
+     1 string mchinese = ""
+   [106]
+    0 TableSoItemLang data
+     0 int id = 1010107
+     1 string schinese = ""
+     1 string schinese_censored = "融合了各个武学流派大师的战斗技巧，有缘人才能得到！\n\n学会大师级战斗技巧，【智慧】【情绪力】【记忆力】越高，会适当减少所需消耗的悟性\n\n属性标准值：181872\n至少消耗悟性:300"
+     1 string english = "A mixture of combat skills from all schools.\n\nLearning Master Combat Skills costs less Knowledge the more [IQ], [EQ] and [Memory] you have.\n\nStat norm: 181,872\nMinimum Knowledge cost: 300"
+     1 string japanese = "各流派の達人の技術が融合されている。学べるなんて運が良い！\n\n上級戦闘技術を学ぶ。【ＩＱ】【ＥＱ】【記憶力】が高いほど消費理解力は少ない。\n\n能力標準値：181872\n最低消費理解力：300"
+     1 string mchinese = ""
+   [107]
+    0 TableSoItemLang data
+     0 int id = 1010108
+     1 string schinese = "计算机入门，从修改文件名开始！\n\n【智商】【记忆力】属性越高，学习消耗的悟性越少。\n\n最低消耗150点悟性。"
+     1 string schinese_censored = "计算机入门，从修改文件名开始！\n\n学会计算机入门，【智慧】【记忆力】越高，会适当减少所需消耗的悟性\n\n属性标准值：2700\n至少消耗悟性:150"
+     1 string english = "Let's begin with renaming files!\n\nLearning Computers 101 costs less Knowledge the more [IQ] and [Memory] and you have.\n\nStat norm: 2,700\nMinimum Knowledge cost: 150"
+     1 string japanese = "まずはフォルダ名の変更からだ！\n\nパソコン入門を学ぶ。【ＩＱ】【記憶力】が高いほど消費理解力は少ない。\n\n能力標準値：2700\n最低消費理解力：150"
+     1 string mchinese = "電腦入門，從修改檔案名開始！\n\n【智商】【記憶力】屬性越高，學習消耗的悟性越少。\n\n最低消耗150點悟性。"
+   [108]
+    0 TableSoItemLang data
+     0 int id = 1010109
+     1 string schinese = "所有程序员都知道，PHP是世界上最好的语言！\n\n【智商】【记忆力】属性越高，学习消耗的悟性越少。\n\n最低消耗200点悟性。"
+     1 string schinese_censored = "所有程序员都知道，超文本预处理是世界上最好的语言！\n\n学会超文本预处理，【智慧】【记忆力】越高，会适当减少所需消耗的悟性\n\n属性标准值：6048\n至少消耗悟性:200"
+     1 string english = "PHP is the most beautiful language in the world!\n\nLearning PHP Language costs less Knowledge the more [IQ] and [Memory] and you have.\n\nStat norm: 6,048\nMinimum Knowledge cost: 200"
+     1 string japanese = "プログラマなら誰でも知っている。ＰＨＰは世界最高の言語だ！\n\nＰＨＰ言語を学ぶ。【ＩＱ】【記憶力】が高いほど消費理解力は少ない。\n\n能力標準値：6048\n最低消費理解力：200"
+     1 string mchinese = "所有程式員都知道，PHP是世界上最好的語言！\n\n【智商】【記憶力】屬性越高，學習消耗的悟性越少。\n\n最低消耗200點悟性。"
+   [109]
+    0 TableSoItemLang data
+     0 int id = 1010110
+     1 string schinese = "数据库基础，做服务器的程序员都懂！\n\n【智商】【记忆力】属性越高，学习消耗的悟性越少。\n\n最低消耗200点悟性。"
+     1 string schinese_censored = "数据库基础，做服务器的程序员都懂！\n\n学会数据库基础，【智慧】【记忆力】越高，会适当减少所需消耗的悟性\n\n属性标准值：10280\n至少消耗悟性:200"
+     1 string english = "Programmers who work with servers all know this!\n\nLearning Databases 101 costs less Knowledge the more [IQ] and [Memory] and you have.\n\nStat norm: 10,280\nMinimum Knowledge cost: 200"
+     1 string japanese = "サーバーを管理してるプログラマなら常識だ！\n\nデータベース基礎を学ぶ。【ＩＱ】【記憶力】が高いほど消費理解力は少ない。\n\n能力標準値：10280\n最低消費理解力：200"
+     1 string mchinese = "資料庫基礎，做伺服器的程式員都懂！\n\n【智商】【記憶力】屬性越高，學習消耗的悟性越少。\n\n最低消耗200點悟性。"
+   [110]
+    0 TableSoItemLang data
+     0 int id = 1010111
+     1 string schinese = "代码的简洁之道！\n\n【记忆力】属性越高，学习消耗的悟性越少。\n\n最低消耗200点悟性。"
+     1 string schinese_censored = "代码的简洁之道！\n\n学会代码大全，【记忆力】越高，会适当减少所需消耗的悟性\n\n属性标准值：9252\n至少消耗悟性:200"
+     1 string english = "The path to concise coding.\n\nLearning All About Coding costs less Knowledge the more [Memory] you have.\n\nStat norm: 9,252\nMinimum Knowledge cost: 200"
+     1 string japanese = "クリーンコードへの道！\n\nコード大全を学ぶ。【記憶力】が高いほど消費理解力は少ない。\n\n能力標準値：9252\n最低消費理解力：200"
+     1 string mchinese = "代碼的簡潔之道！\n\n【記憶力】屬性越高，學習消耗的悟性越少。\n\n最低消耗200點悟性。"
+   [111]
+    0 TableSoItemLang data
+     0 int id = 1010112
+     1 string schinese = "每个程序员必读的书！\n\n【智商】【想象力】属性越高，学习消耗的悟性越少。\n\n最低消耗200点悟性。"
+     1 string schinese_censored = "每个程序员必读的书！\n\n学会算法导论，【智慧】【想象力】越高，会适当减少所需消耗的悟性\n\n属性标准值：18504\n至少消耗悟性:200"
+     1 string english = "Every programmer has to read it at least once.\n\nLearning Algorithms 101 costs less Knowledge the more [IQ] and [Imagination] you have.\n\nStat norm: 18,504\nMinimum Knowledge cost: 200"
+     1 string japanese = "プログラマなら必読だ！\n\nアルゴリズム理論を学ぶ。【ＩＱ】【想像力】が高いほど消費理解力は少ない。\n\n能力標準値：18504\n最低消費理解力：200"
+     1 string mchinese = "每個程式員必讀的書！\n\n【智商】【想像力】屬性越高，學習消耗的悟性越少。\n\n最低消耗200點悟性。"
+   [112]
+    0 TableSoItemLang data
+     0 int id = 1010113
+     1 string schinese = "对于理解引擎，理解渲染的经典，做游戏的程序员，必须看！\n\n【智商】【想象力】属性越高，学习消耗的悟性越少。\n\n最低消耗200点悟性。"
+     1 string schinese_censored = "对于理解引擎，理解渲染的经典，做游戏的程序员，必须看！\n\n学会游戏引擎架构，【智慧】【想象力】越高，会适当减少所需消耗的悟性\n\n属性标准值：47364\n至少消耗悟性:200"
+     1 string english = "Every game programmer has to read it at least once.\n\nLearning Game Engine Architecture 101 costs less Knowledge the more [IQ] and [Imagination] you have.\n\nStat norm: 47,364\nMinimum Knowledge cost: 200"
+     1 string japanese = "エンジンやオーソドックスなレンダリングを理解できる。ゲームプログラマなら必見だ！\n\nゲームエンジンを学ぶ。【ＩＱ】【想像力】が高いほど消費理解力は少ない。\n\n能力標準値：47364\n最低消費理解力：200"
+     1 string mchinese = "對於理解引擎，理解渲染的經典，做遊戲的程式員，必須看！\n\n【智商】【想像力】屬性越高，學習消耗的悟性越少。\n\n最低消耗200點悟性。"
+   [113]
+    0 TableSoItemLang data
+     0 int id = 1010114
+     1 string schinese = "独立游戏是最酷（苦）的！\n\n【情商】【想象力】【记忆力】【魅力】属性越高，学习消耗的悟性越少。\n\n最低消耗150点悟性。"

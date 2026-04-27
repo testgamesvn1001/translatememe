@@ -1,0 +1,184 @@
+     1 string schinese_censored = "我又来光顾你的生意了~"
+     1 string english = "I've returned to savor your art once again!"
+     1 string japanese = "また、食べに来ました！"
+     1 string mchinese = "我又來光顧你的生意了~"
+   [20101]
+    0 TableSoItemLang data
+     0 int id = 1030102
+     1 string schinese = "欢迎光临~"
+     1 string schinese_censored = "欢迎光临~"
+     1 string english = "Come on in!"
+     1 string japanese = "いらっしゃいませ！"
+     1 string mchinese = "歡迎光臨~"
+   [20102]
+    0 TableSoItemLang data
+     0 int id = 1030103
+     1 string schinese = "我又来啦，来一份那次的咖喱鸡蛋面吧~"
+     1 string schinese_censored = "我又来啦，来一份那次的咖喱鸡蛋面吧~"
+     1 string english = "I'll have another one of your curry eggs and noodles."
+     1 string japanese = "前と一緒でいいかな。カレー卵麺をお願いします！"
+     1 string mchinese = "我又來啦，來一份那次的咖喱雞蛋面吧~"
+   [20103]
+    0 TableSoItemLang data
+     0 int id = 1030104
+     1 string schinese = "好的，您稍等。"
+     1 string schinese_censored = "好的，您稍等。"
+     1 string english = "Coming right up!"
+     1 string japanese = "はい、少々お待ちください。"
+     1 string mchinese = "好的，您稍等。"
+   [20104]
+    0 TableSoItemLang data
+     0 int id = 1030105
+     1 string schinese = "一段时间后……"
+     1 string schinese_censored = "一段时间后……"
+     1 string english = "After a while..."
+     1 string japanese = "しばらくして…"
+     1 string mchinese = "一段時間後……"
+   [20105]
+    0 TableSoItemLang data
+     0 int id = 1030106
+     1 string schinese = "哇，美味~果然好吃！"
+     1 string schinese_censored = "哇，美味~果然好吃！"
+     1 string english = "Wow, amazing! So tasty!"
+     1 string japanese = "ああ、何度食べても美味しい！"
+     1 string mchinese = "哇，美味~果然好吃！"
+   [20106]
+    0 TableSoItemLang data
+     0 int id = 1030107
+     1 string schinese = "嘿~谢谢。"
+     1 string schinese_censored = "嘿~谢谢。"
+     1 string english = "I thank you most humbly."
+     1 string japanese = "ありがとうございます。"
+     1 string mchinese = "嘿~謝謝。"
+   [20107]
+    0 TableSoItemLang data
+     0 int id = 1030108
+     1 string schinese = "集大家之成，又不拘一格，料理手法变化多样。你这手艺是在哪里学习的呀？"
+     1 string schinese_censored = "集大家之成，又不拘一格，料理手法变化多样。你这手艺是在哪里学习的呀？"
+     1 string english = "Everyone has their own way of cooking eh. So, where did you learn to cook like this?"
+     1 string japanese = "人の好みや調理方法は多種多様ですよね。これだけの調理方法をどこで習ったんですか？"
+     1 string mchinese = "集大家之成，又不拘一格，料理手法變化多樣。你這手藝是在哪里學習的呀？"
+   [20108]
+    0 TableSoItemLang data
+     0 int id = 1030109
+     1 string schinese = "哈哈，你这么夸我都快不好意思了，其实也没有特意学过，就是小的时候对做菜很感兴趣，经常在厨房转来转去，家里有好多厨师，他们擅长的菜系各有千秋，也就这样慢慢形成了我的风格了吧。"
+     1 string schinese_censored = "哈哈，你这么夸我都快不好意思了，其实也没有特意学过，就是小的时候对做菜很感兴趣，经常在厨房转来转去，家里有好多厨师，他们擅长的菜系各有千秋，也就这样慢慢形成了我的风格了吧。"
+     1 string english = "Well, thanks for your praise! I've actually never studied under anyone officially. I simply developed an interest in the culinary arts at a young age and spent a lot of time in the kitchen growing up. @@We had a lot of chefs. after all, they made different cuisine, each with its own merits. Slowly but surely I began to develop my own style."
+     1 string japanese = "ハハ、お褒めいただいて恐縮だね。けど、特に習ってないんだ。小さい頃から料理に興味があったから、台所をウロウロしてたんだ。実家には料理人が大勢いてね。それぞれの得意な調理方法を覚えただけだよ。"
+     1 string mchinese = "哈哈，你這麼誇我都快不好意思了，其實也沒有特意學過，就是小的時候對做菜很感興趣，經常在廚房轉來轉去，家裏有好多廚師，他們擅長的菜系各有千秋，也就這樣慢慢形成了我的風格了吧。"
+   [20109]
+    0 TableSoItemLang data
+     0 int id = 1030110
+     1 string schinese = "……家里有好多厨师……好想知道你家房子到底是多大的……"
+     1 string schinese_censored = "……家里有好多厨师……好想知道你家房子到底是多大的……"
+     1 string english = "Several chefs at home... I really want to know how big their house is..."
+     1 string japanese = "…料理人がたくさん…どれだけ家が大きいんだろ…"
+     1 string mchinese = "……家裏有好多廚師……好想知道你家房子到底是多大的……"
+   [20110]
+    0 TableSoItemLang data
+     0 int id = 1030111
+     1 string schinese = "嗨，欢迎光临。感谢又来照顾我的生意~"
+     1 string schinese_censored = "嗨，欢迎光临。感谢又来照顾我的生意~"
+     1 string english = "Come on in! Thank you for frequenting my establishment."
+     1 string japanese = "いらっしゃいませ！お越しいただき、ありがとうございます！"
+     1 string mchinese = "嗨，歡迎光臨。感謝又來照顧我的生意~"
+   [20111]
+    0 TableSoItemLang data
+     0 int id = 1030112
+     1 string schinese = "今天有做什么新菜品吗？"
+     1 string schinese_censored = "今天有做什么新菜品吗？"
+     1 string english = "Have you created anything new today?"
+     1 string japanese = "何か新メニューはありますか？"
+     1 string mchinese = "今天有做什麼新菜品嗎？"
+   [20112]
+    0 TableSoItemLang data
+     0 int id = 1030113
+     1 string schinese = "有一道鳄梨培根炖饭，要试试吗？"
+     1 string schinese_censored = "有一道鳄梨培根炖饭，要试试吗？"
+     1 string english = "I have just finished simmering an avocado and bacon stew on rice, how about a bite?"
+     1 string japanese = "アボカドとベーコンのリゾットはいかがでしょうか？"
+     1 string mchinese = "有一道鱷梨培根燉飯，要試試嗎？"
+   [20113]
+    0 TableSoItemLang data
+     0 int id = 1030114
+     1 string schinese = "好啊！好久没吃你的新菜品了，虽然听这名字像极了黑暗料理，但……尽管来吧！"
+     1 string schinese_censored = "好啊！好久没吃你的新菜品了，虽然听这名字像极了黑暗料理，但……尽管来吧！"
+     1 string english = "Okay! I haven't tried anything new of yours for a long time. The name makes it sound like a bit of a random concoction, but, bring it on!"
+     1 string japanese = "久しぶりに新メニューを食べたい気分です！聞き覚えの無い料理だけど…それで、お願いします！"
+     1 string mchinese = "好啊！好久沒吃你的新菜品了，雖然聽這名字像極了黑暗料理，但……儘管來吧！"
+   [20114]
+    0 TableSoItemLang data
+     0 int id = 1030115
+     1 string schinese = "一段时间后……"
+     1 string schinese_censored = "一段时间后……"
+     1 string english = "After a while..."
+     1 string japanese = "しばらくして…"
+     1 string mchinese = "一段時間後……"
+   [20115]
+    0 TableSoItemLang data
+     0 int id = 1030116
+     1 string schinese = "好吃！真的好吃！虽然名字听起来挺黑暗的，没想到这么好吃！"
+     1 string schinese_censored = "好吃！真的好吃！虽然名字听起来挺黑暗的，没想到这么好吃！"
+     1 string english = "Delicious! It's really tasty! It doesn't sound that appealing but tastes wonderful!"
+     1 string japanese = "美味しい！本当に美味しいです！初めて食べたけど、こんなに美味しいなんて！"
+     1 string mchinese = "好吃！真的好吃！雖然名字聽起來挺黑暗的，沒想到這麼好吃！"
+   [20116]
+    0 TableSoItemLang data
+     0 int id = 1030117
+     1 string schinese = "是么？既然美食家都说好吃了，那我可以把这道菜加到菜单里了~你帮我测试了新菜品，今天这道菜免费~"
+     1 string schinese_censored = "是么？既然美食家都说好吃了，那我可以把这道菜加到菜单里了~你帮我测试了新菜品，今天这道菜免费~"
+     1 string english = "Really? If a true foodie such as you praise it, then I believe I can add it to the official menu. Seeing as you serve as my taster, today's meal is my treat!"
+     1 string japanese = "そう？美食家のキミがそこまで言ってくれるなら、メニューに追加しようかな。試食ありがとう。今日のお代はいらないよ！"
+     1 string mchinese = "是麼？既然美食家都說好吃了，那我可以把這道菜加到菜單裏了~你幫我測試了新菜品，今天這道菜免費~"
+   [20117]
+    0 TableSoItemLang data
+     0 int id = 1030118
+     1 string schinese = "哈啊，赚到咯~不过话说回来，你这餐厅这么好吃，为什么几乎没有顾客呢？"
+     1 string schinese_censored = "哈啊，赚到咯~不过话说回来，你这餐厅这么好吃，为什么几乎没有顾客呢？"
+     1 string english = "Hey, not bad! But wait, you make truly delicious food, so why are there almost no customers?"
+     1 string japanese = "わあ、ありがとうございます！でも、料理がこんなに美味しいのに、どうして空いてるんですか？"
+     1 string mchinese = "哈啊，賺到咯~不過話說回來，你這餐廳這麼好吃，為什麼幾乎沒有顧客呢？"
+   [20118]
+    0 TableSoItemLang data
+     0 int id = 1030119
+     1 string schinese = "嗯……我也是很头疼这件事呢……现在餐厅一直都是入不敷出的状态……再这么下去，餐厅可能就要倒闭了……"
+     1 string schinese_censored = "嗯……我也是很头疼这件事呢……现在餐厅一直都是入不敷出的状态……再这么下去，餐厅可能就要倒闭了……"
+     1 string english = "Yes, that is an issue that has been vexing me too... My establishment is struggling to make ends meet, and if it all continues like this, I might have to close it down..."
+     1 string japanese = "うーん…私も困ってるんだ。どうも料理に馴染みがないみたいで。この状態が続くと、閉店してしまうかもしれないな…"
+     1 string mchinese = "嗯……我也是很頭疼這件事呢……現在餐廳一直都是入不敷出的狀態……再這麼下去，餐廳可能就要倒閉了……"
+   [20119]
+    0 TableSoItemLang data
+     0 int id = 1030120
+     1 string schinese = "那可不行！我还挺喜欢你做的菜呢！你得懂得宣传啊！"
+     1 string schinese_censored = "那可不行！我还挺喜欢你做的菜呢！你得懂得宣传啊！"
+     1 string english = "That won't do! I really love your food! You have to advertise!"
+     1 string japanese = "それはダメです！あなたの料理が好きなんです！何か宣伝方法を考えないと！"
+     1 string mchinese = "那可不行！我還挺喜歡你做的菜呢！你得懂得宣傳啊！"
+   [20120]
+    0 TableSoItemLang data
+     0 int id = 1030121
+     1 string schinese = "其实我一直都相信“酒香不怕巷子深”，我做的菜好吃一定会有人注意到的……"
+     1 string schinese_censored = "其实我一直都相信“酒香不怕巷子深”，我做的菜好吃一定会有人注意到的……"
+     1 string english = "Actually, I am of the firm belief that people will flock once the word spreads that this establishment supplies a truly wonderous taste experience."
+     1 string japanese = "実際のところ、美味しいものさえ作れば問題無いと信じてたんだ。料理は美味しいはず…"
+     1 string mchinese = "其實我一直都相信“酒香不怕巷子深”，我做的菜好吃一定會有人注意到的……"
+   [20121]
+    0 TableSoItemLang data
+     0 int id = 1030122
+     1 string schinese = "你这观点过时啦！现代人每天都疲于应对那么多的信息轰炸，根本没有时间去注意到其他的事情，就算你的菜好吃也不会有人知道的。"
+     1 string schinese_censored = "你这观点过时啦！现代人每天都疲于应对那么多的信息轰炸，根本没有时间去注意到其他的事情，就算你的菜好吃也不会有人知道的。"
+     1 string english = "Ah! That doesn't work anymore! We're getting bombarded with information day in and day out, people have no time to take note of other things. @@Even if you cook the tastiest food there is, it doesn't matter if no one knows about it."
+     1 string japanese = "それは時代遅れです！今は情報過多の時代、多くの情報で埋もれてます。料理が美味しいだけじゃ、誰も気づいてくれません！"
+     1 string mchinese = "你這觀點過時啦！現代人每天都疲於應對那麼多的資訊轟炸，根本沒有時間去注意到其他的事情，就算你的菜好吃也不會有人知道的。"
+   [20122]
+    0 TableSoItemLang data
+     0 int id = 1030123
+     1 string schinese = "我听说最近电视台有一档节目，目的在于寻找城市中隐藏的美食，我觉得这是个机会呀！你可以去试试！"
+     1 string schinese_censored = "我听说最近电视台有一档节目，目的在于寻找城市中隐藏的美食，我觉得这是个机会呀！你可以去试试！"
+     1 string english = "I've heard that there is a new show on TV that is looking for hidden culinary talents. I think that would be a great opportunity for you. How about giving it a try?"
+     1 string japanese = "最近テレビで隠れ家的な店を紹介する番組を見ました。チャンスだと思います！試してみましょう！"
+     1 string mchinese = "我聽說最近電視臺有一檔節目，目的在於尋找城市中隱藏的美食，我覺得這是個機會呀！你可以去試試！"
+   [20123]
+    0 TableSoItemLang data
+     0 int id = 1030124
+     1 string schinese = "……可是我没什么信心哎……"

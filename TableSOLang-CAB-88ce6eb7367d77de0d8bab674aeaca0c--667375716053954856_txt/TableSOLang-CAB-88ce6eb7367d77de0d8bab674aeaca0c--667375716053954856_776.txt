@@ -1,0 +1,184 @@
+     1 string schinese_censored = "市立普通高中"
+     1 string english = "Normal municipal senior high school"
+     1 string japanese = "普通高等学校"
+     1 string mchinese = "市立普通高中"
+   [17824]
+    0 TableSoItemLang data
+     0 int id = 1027825
+     1 string schinese = "平常心"
+     1 string schinese_censored = "平常心"
+     1 string english = "At ease"
+     1 string japanese = "平常心"
+     1 string mchinese = "平常心"
+   [17825]
+    0 TableSoItemLang data
+     0 int id = 1027826
+     1 string schinese = "悲伤"
+     1 string schinese_censored = "悲伤"
+     1 string english = "Sad"
+     1 string japanese = "悲哀"
+     1 string mchinese = "悲傷"
+   [17826]
+    0 TableSoItemLang data
+     0 int id = 1027827
+     1 string schinese = "开心"
+     1 string schinese_censored = "开心"
+     1 string english = "Happy"
+     1 string japanese = "幸福"
+     1 string mchinese = "開心"
+   [17827]
+    0 TableSoItemLang data
+     0 int id = 1027828
+     1 string schinese = "生病"
+     1 string schinese_censored = "生病"
+     1 string english = "Sick"
+     1 string japanese = "病気"
+     1 string mchinese = "生病"
+   [17828]
+    0 TableSoItemLang data
+     0 int id = 1027829
+     1 string schinese = "生气"
+     1 string schinese_censored = "生气"
+     1 string english = "Angry"
+     1 string japanese = "激怒"
+     1 string mchinese = "生氣"
+   [17829]
+    0 TableSoItemLang data
+     0 int id = 1027830
+     1 string schinese = "兴奋"
+     1 string schinese_censored = "兴奋"
+     1 string english = "Excited"
+     1 string japanese = "興奮"
+     1 string mchinese = "興奮"
+   [17830]
+    0 TableSoItemLang data
+     0 int id = 1027831
+     1 string schinese = "沮丧"
+     1 string schinese_censored = "沮丧"
+     1 string english = "Depressed"
+     1 string japanese = "消沈"
+     1 string mchinese = "沮喪"
+   [17831]
+    0 TableSoItemLang data
+     0 int id = 1027832
+     1 string schinese = "焦虑"
+     1 string schinese_censored = "焦虑"
+     1 string english = "Anxious"
+     1 string japanese = "不安"
+     1 string mchinese = "焦慮"
+   [17832]
+    0 TableSoItemLang data
+     0 int id = 1027833
+     1 string schinese = "恋爱"
+     1 string schinese_censored = "雀跃"
+     1 string english = "In Love"
+     1 string japanese = "恋愛"
+     1 string mchinese = "戀愛"
+   [17833]
+    0 TableSoItemLang data
+     0 int id = 1027834
+     1 string schinese = "敬畏"
+     1 string schinese_censored = "敬畏"
+     1 string english = "Reverent"
+     1 string japanese = "尊敬"
+     1 string mchinese = "敬畏"
+   [17834]
+    0 TableSoItemLang data
+     0 int id = 1027835
+     1 string schinese = "怀念"
+     1 string schinese_censored = "怀念"
+     1 string english = "Yearning"
+     1 string japanese = "懐古"
+     1 string mchinese = "懷念"
+   [17835]
+    0 TableSoItemLang data
+     0 int id = 1027836
+     1 string schinese = "激情"
+     1 string schinese_censored = "激情"
+     1 string english = "Enthusiastic"
+     1 string japanese = "情熱"
+     1 string mchinese = "激情"
+   [17836]
+    0 TableSoItemLang data
+     0 int id = 1027837
+     1 string schinese = "冷静"
+     1 string schinese_censored = "冷静"
+     1 string english = "Calm"
+     1 string japanese = "冷静"
+     1 string mchinese = "冷靜"
+   [17837]
+    0 TableSoItemLang data
+     0 int id = 1027838
+     1 string schinese = "平常心，可以正常的挖脑洞成长！"
+     1 string schinese_censored = "平常心，可以正常的挖脑洞成长！"
+     1 string english = "Your mind is at ease and you can absorb fragments as normal."
+     1 string japanese = "平常心：カケラを正常に吸収できる！"
+     1 string mchinese = "平常心，可以正常的挖腦洞成長！"
+   [17838]
+    0 TableSoItemLang data
+     0 int id = 1027839
+     1 string schinese = "悲伤，每次点击挖脑洞几率减少2点行动力（由悲观、自卑等性格导致）"
+     1 string schinese_censored = "悲伤，每次点击挖脑洞几率减少2点行动力（由悲观、自卑等性格导致）"
+     1 string english = "Sad (caused by a pessimistic or self-abased personality). Absorbing fragments has a chance to deduct an extra 2 Action."
+     1 string japanese = "悲哀：カケラを吸収すると確率で行動力が2減少する。(悲観的、卑屈などの性格による影響)"
+     1 string mchinese = "悲傷，每次點擊挖腦洞幾率減少2點行動力（由悲觀、自卑等性格導致）"
+   [17839]
+    0 TableSoItemLang data
+     0 int id = 1027840
+     1 string schinese = "开心，每次点击挖脑洞几率获得额外2点行动力（由自强、任性等性格导致）"
+     1 string schinese_censored = "开心，每次点击挖脑洞几率获得额外2点行动力（由自强、任性等性格导致）"
+     1 string english = "Happy (caused by a self-reliant or willful personality). Absorbing fragments has a chance to grant an extra 2 Action."
+     1 string japanese = "幸福：カケラを吸収すると確率で行動力が2増加する。(努力家、ワガママなどの性格による影響)"
+     1 string mchinese = "開心，每次點擊挖腦洞幾率獲得額外2點行動力（由自強、任性等性格導致）"
+   [17840]
+    0 TableSoItemLang data
+     0 int id = 1027841
+     1 string schinese = "生病，由于体魄达不到常规标准所导致，每次点击挖脑洞随机减少1~5点行动力"
+     1 string schinese_censored = "生病，由于体魄达不到常规标准所导致，每次点击挖脑洞随机减少1~5点行动力"
+     1 string english = "Sick (caused by having an unusually low Constitution). Absorbing fragments has a chance to deduct an extra 1-5 Action."
+     1 string japanese = "病気：体力が基準以下の状態で、カケラを吸収すると行動力が1～5減少する。"
+     1 string mchinese = "生病，由於體魄達不到常規標準所導致，每次點擊挖腦洞隨機減少1~5點行動力"
+   [17841]
+    0 TableSoItemLang data
+     0 int id = 1027842
+     1 string schinese = "生气，任意一个悟性脑洞被挖取，都会降低行动力15点（由暴躁、敏感等性格导致）"
+     1 string schinese_censored = "生气，任意一个悟性脑洞被挖取，都会降低行动力15点（由暴躁、敏感等性格导致）"
+     1 string english = "Angry (caused by an irritable or sensitive personality). Absorbing knowledge fragments deducts an extra 15 Action."
+     1 string japanese = "激怒：理解力のカケラを吸収すると行動力が15減少する。(短気、繊細などの性格による影響)"
+     1 string mchinese = "生氣，任意一個悟性腦洞被挖取，都會降低行動力15點（由暴躁、敏感等性格導致）"
+   [17842]
+    0 TableSoItemLang data
+     0 int id = 1027843
+     1 string schinese = "兴奋，点击任何天赋脑洞，会获得额外20点悟性（由勇敢等性格导致）"
+     1 string schinese_censored = "兴奋，点击任何天赋脑洞，会获得额外20点悟性（由勇敢等性格导致）"
+     1 string english = "Excited (caused by a brave personality). Absorbing talent fragments grants an extra 20 Knowledge."
+     1 string japanese = "興奮：天賦のカケラを吸収すると、理解力が20増加する。(勇敢などの性格による影響)"
+     1 string mchinese = "興奮，點擊任何天賦腦洞，會獲得額外20點悟性（由勇敢等性格導致）"
+   [17843]
+    0 TableSoItemLang data
+     0 int id = 1027844
+     1 string schinese = "沮丧，任意一个天赋脑洞被挖取，都会降低行动力15点（由懦弱、嫉妒等性格导致）"
+     1 string schinese_censored = "沮丧，任意一个天赋脑洞被挖取，都会降低行动力15点（由懦弱、嫉妒等性格导致）"
+     1 string english = "Depressed (caused by a weak or jealous personality). Absorbing talent fragments deducts an extra 15 Action."
+     1 string japanese = "消沈：天賦のカケラを吸収すると行動力が15減少する。(臆病、嫉妬深いなどの性格による影響)"
+     1 string mchinese = "沮喪，任意一個天賦腦洞被挖取，都會降低行動力15點（由懦弱、嫉妒等性格導致）"
+   [17844]
+    0 TableSoItemLang data
+     0 int id = 1027845
+     1 string schinese = "焦虑，任意一个记忆力脑洞被挖取，都会降低行动力15点（由多疑、自私等性格导致）"
+     1 string schinese_censored = "焦虑，任意一个记忆力脑洞被挖取，都会降低行动力15点（由多疑、自私等性格导致）"
+     1 string english = "Anxious (caused by a skeptical or selfish personality). Absorbing memory fragments deducts an extra 15 Action."
+     1 string japanese = "不安：記憶力のカケラを吸収すると行動力が15減少する。(疑い深い、利己的などの性格による影響)"
+     1 string mchinese = "焦慮，任意一個記憶力腦洞被挖取，都會降低行動力15點（由多疑、自私等性格導致）"
+   [17845]
+    0 TableSoItemLang data
+     0 int id = 1027846
+     1 string schinese = "甜蜜，任意一个情商脑洞被挖取，都会增加行动力2点（由某女生好感度较高导致）"
+     1 string schinese_censored = "甜蜜，任意一个情绪力脑洞被挖取，都会增加行动力2点（由某女生好感度较高导致）"
+     1 string english = "In Love (caused by having a high Intimacy with a classmate). Absorbing EQ fragments grants an extra 2 Action."
+     1 string japanese = "恋愛：ＥＱのカケラを吸収すると行動力が2増加する。(女の子からの好感度による影響)"
+     1 string mchinese = "甜蜜，任意一個情商腦洞被挖取，都會增加行動力2點（由某女生好感度較高導致）"
+   [17846]
+    0 TableSoItemLang data
+     0 int id = 1027847
+     1 string schinese = "敬畏，任意一个智商脑洞被挖取，都会增加行动力2点（由理性等性格导致）"

@@ -1,0 +1,184 @@
+     1 string schinese_censored = "心情会对挖脑洞的结果产生一定影响。"
+     1 string english = "Your mood affects your absorption of fragments."
+     1 string japanese = "吸収したカケラは気分にも影響します。"
+     1 string mchinese = "心情會對挖腦洞的結果產生一定影響。"
+   [21320]
+    0 TableSoItemLang data
+     0 int id = 5500221
+     1 string schinese = "心情在每回合开始时根据孩子的心理状态进行随机变化，\n合理控制孩子的压力和父母的满意度是保持良好状态和心情的秘诀噢~"
+     1 string schinese_censored = "心情在每回合开始时根据孩子的心理状态进行随机变化，\n合理控制孩子的压力和父母的满意度是保持良好状态和心情的秘诀噢~"
+     1 string english = "Your mood changes according to your mental state at the beginning of each turn.\nBy keeping your stress levels low and your parents satisfied, you can keep yourself in tip-top condition."
+     1 string japanese = "気分はターン初めの心理状態によってランダムに変化します。\nストレスと親の満足度のバランスをコントロールすることが良い状態と気分を保つコツだ！"
+     1 string mchinese = "心情在每回合開始時根據孩子的心理狀態進行隨機變化，\n合理控制孩子的壓力和父母的滿意度是保持良好狀態和心情的秘訣噢~"
+   [21321]
+    0 TableSoItemLang data
+     0 int id = 5500222
+     1 string schinese = "*与爹斗，其乐无穷"
+     1 string schinese_censored = "*与爹斗，其乐无穷"
+     1 string english = "廢棄字段不用翻譯5500222"
+     1 string japanese = "廢棄字段不用翻譯"
+     1 string mchinese = "*與爹鬥，其樂無窮"
+   [21322]
+    0 TableSoItemLang data
+     0 int id = 5500223
+     1 string schinese = "*打工赚钱心甘情愿"
+     1 string schinese_censored = "*打工赚钱心甘情愿"
+     1 string english = "廢棄字段不用翻譯5500223"
+     1 string japanese = "廢棄字段不用翻譯"
+     1 string mchinese = "*打工賺錢心甘情願"
+   [21323]
+    0 TableSoItemLang data
+     0 int id = 5500224
+     1 string schinese = "尚未满足条件，继续努力吧！"
+     1 string schinese_censored = "尚未满足条件，继续努力吧！"
+     1 string english = "You don't meet the requirements, but keep up the hard work!"
+     1 string japanese = "条件を満たしてません。もっと努力しよう！"
+     1 string mchinese = "尚未滿足條件，繼續努力吧！"
+   [21324]
+    0 TableSoItemLang data
+     0 int id = 5500225
+     1 string schinese = "行动力不足"
+     1 string schinese_censored = "行动力不足"
+     1 string english = "Not enough Action."
+     1 string japanese = "行動力不足"
+     1 string mchinese = "行動力不足"
+   [21325]
+    0 TableSoItemLang data
+     0 int id = 5500226
+     1 string schinese = "次数不足"
+     1 string schinese_censored = "次数不足"
+     1 string english = "Not enough attempts."
+     1 string japanese = "回数不足"
+     1 string mchinese = "次數不足"
+   [21326]
+    0 TableSoItemLang data
+     0 int id = 5500227
+     1 string schinese = "购买商店的物品需要消耗零花钱。根据父亲职业的不同，每回合可获得不同数量的零花钱，也可通过打工赚取。"
+     1 string schinese_censored = "购买商店的物品需要消耗零花钱。根据父亲职业的不同，每回合可获得不同数量的零花钱，也可通过打工赚取。"
+     1 string english = "Shop items cost money. Amount gained/turn depends on your parents' jobs. You can work part-time too."
+     1 string japanese = "売店の商品を購入するにはお小遣いが必要です。父親の職業によってターン毎のお小遣いは異なります。また、仕事によって稼ぐことも可能です。"
+     1 string mchinese = "購買商店的物品需要消耗零花錢。根據父親職業的不同，每回合可獲得不同數量的零花錢，也可通過打工賺取。"
+   [21327]
+    0 TableSoItemLang data
+     0 int id = 5500228
+     1 string schinese = "父母对你安排的课程有满意度要求，当其值较高时有几率获得奖励；较低时有几率遭受惩罚。"
+     1 string schinese_censored = "父母对你安排的课程有满意度要求，当其值较高时有几率获得奖励；较低时有几率遭受惩罚。"
+     1 string english = "Scheduling classes and entertainment affects your parent's satisfaction, giving rewards/punishment."
+     1 string japanese = "両親は予定に対する満足度があります。高いとご褒美が得られ、低いと罰を受ける場合があります。"
+     1 string mchinese = "父母對你安排的課程有滿意度要求，當其值較高時有幾率獲得獎勵；較低時有幾率遭受懲罰。"
+   [21328]
+    0 TableSoItemLang data
+     0 int id = 5500229
+     1 string schinese = "请先制定策略"
+     1 string schinese_censored = "请先制定策略"
+     1 string english = "Decide on a course of action."
+     1 string japanese = "方針を決めてください"
+     1 string mchinese = "請先制定策略"
+   [21329]
+    0 TableSoItemLang data
+     0 int id = 5500230
+     1 string schinese = "请先选择目标"
+     1 string schinese_censored = "请先选择目标"
+     1 string english = "Select a target."
+     1 string japanese = "目標を決めてください"
+     1 string mchinese = "請先選擇目標"
+   [21330]
+    0 TableSoItemLang data
+     0 int id = 5500231
+     1 string schinese = "重新回顾"
+     1 string schinese_censored = "重新回顾"
+     1 string english = "Back"
+     1 string japanese = "再確認"
+     1 string mchinese = "重新回顧"
+   [21331]
+    0 TableSoItemLang data
+     0 int id = 5500232
+     1 string schinese = "重新开始游戏将舍弃当前存档并从第一世代开始，你想好了吗？"
+     1 string schinese_censored = "重新开始游戏将舍弃当前存档并从第一世代开始，你想好了吗？"
+     1 string english = "If you reset the game all your progress will be removed and you will have to restart from generation one. Are you sure you want to reset?"
+     1 string japanese = "最初から開始すると現在の一族データが削除されます。初代からの開始となりますが、問題ありませんか？"
+     1 string mchinese = "重新開始遊戲將捨棄當前存檔並從第一世代開始，你想好了嗎？"
+   [21332]
+    0 TableSoItemLang data
+     0 int id = 5500233
+     1 string schinese = "退出登录将丢失本回合未保存的进度，确认退出吗？"
+     1 string schinese_censored = "退出登录将丢失本回合未保存的进度，确认退出吗？"
+     1 string english = "If you exit now, progress made on this turn will not be saved. Are you sure you want to exit?"
+     1 string japanese = "ゲームを終了するとターンの進行状況が失われます。終了しますか？"
+     1 string mchinese = "退出登錄將丟失本回合未保存的進度，確認退出嗎？"
+   [21333]
+    0 TableSoItemLang data
+     0 int id = 5500234
+     1 string schinese = "确定要逃跑吗？"
+     1 string schinese_censored = "确定要逃跑吗？"
+     1 string english = "Do you really want to run away?"
+     1 string japanese = "本当に逃げるの？"
+     1 string mchinese = "確定要逃跑嗎？"
+   [21334]
+    0 TableSoItemLang data
+     0 int id = 5500235
+     1 string schinese = "出现新的学习"
+     1 string schinese_censored = "出现新的学习"
+     1 string english = "New Class Available"
+     1 string japanese = "新学習出現"
+     1 string mchinese = "出現新的學習"
+   [21335]
+    0 TableSoItemLang data
+     0 int id = 5500236
+     1 string schinese = "出现新的期望"
+     1 string schinese_censored = "出现新的期望"
+     1 string english = "New Goal Available"
+     1 string japanese = "新期待出現"
+     1 string mchinese = "出現新的期望"
+   [21336]
+    0 TableSoItemLang data
+     0 int id = 5500237
+     1 string schinese = "充值取消"
+     1 string schinese_censored = "充值取消"
+     1 string english = "Top Up cancelled."
+     1 string japanese = "PC/NS不用翻譯"
+     1 string mchinese = "充值取消"
+   [21337]
+    0 TableSoItemLang data
+     0 int id = 5500238
+     1 string schinese = "购买取消"
+     1 string schinese_censored = "购买取消"
+     1 string english = "Purchase cancelled."
+     1 string japanese = "購入キャンセル"
+     1 string mchinese = "購買取消"
+   [21338]
+    0 TableSoItemLang data
+     0 int id = 5500239
+     1 string schinese = "领取奖励"
+     1 string schinese_censored = "领取奖励"
+     1 string english = "Claim"
+     1 string japanese = "ご褒美取得"
+     1 string mchinese = "領取獎勵"
+   [21339]
+    0 TableSoItemLang data
+     0 int id = 5500240
+     1 string schinese = "录取通知书"
+     1 string schinese_censored = "录取通知书"
+     1 string english = "Letter of Admission"
+     1 string japanese = "合格通知書"
+     1 string mchinese = "錄取通知書"
+   [21340]
+    0 TableSoItemLang data
+     0 int id = 5500241
+     1 string schinese = "<color=#C52626>{0}</color> 同学：\n<color=#FFFFFF00>缩进</color>你以<color=#C52626>{1}</color>分数被我校录取，请凭本通知书来我校报到。"
+     1 string schinese_censored = "<color=#C52626>{0}</color> 同学：\n\n<color=#FFFFFF00>缩进</color>你以<color=#C52626>{1}</color>分数被我校录取，请凭本通知书来我校报到。"
+     1 string english = "<color=#C52626>{0}</color>:\n<color=#FFFFFF00>缩进</color>You have been enrolled at our school after gaining a score of <color=#C52626>{1}</color>. Bring this Letter of Admission and register."
+     1 string japanese = "<color=#C52626>{0}</color>様 ：\n<color=#FFFFFF00>缩进</color> あなたは<color=#C52626>{1}</color>点で合格です。この通知書に返信お願いします。"
+     1 string mchinese = "<color=#C52626>{0}</color> 同學：\n<color=#FFFFFF00>縮進</color>你以<color=#C52626>{1}</color>分數被我校錄取，請憑本通知書來我校報到。"
+   [21341]
+    0 TableSoItemLang data
+     0 int id = 5500242
+     1 string schinese = "完成期望"
+     1 string schinese_censored = "完成期望"
+     1 string english = "Expectation fulfilled"
+     1 string japanese = "期待に応える"
+     1 string mchinese = "完成期望"
+   [21342]
+    0 TableSoItemLang data
+     0 int id = 5500243
+     1 string schinese = "学会技能"

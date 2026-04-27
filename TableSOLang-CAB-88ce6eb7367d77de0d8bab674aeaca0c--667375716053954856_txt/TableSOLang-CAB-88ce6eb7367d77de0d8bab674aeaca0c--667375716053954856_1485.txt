@@ -1,0 +1,184 @@
+     1 string schinese_censored = "大家都爱饺子，爱它美好的寓意，更重要的是好吃。\n压力-15"
+     1 string english = "Everyone loves dumplings, and that's a fact.\nStress -15"
+     1 string japanese = "皆に愛されるのは、縁起が良いだけでなく、何より美味しいからだ。\nストレス-15"
+     1 string mchinese = "大家都愛餃子，愛它美好的寓意，更重要的是好吃。 \n壓力-15"
+   [34131]
+    0 TableSoItemLang data
+     0 int id = 99994836
+     1 string schinese = "不能光保护脑子，还要保护耳朵！\n父母满意度+35"
+     1 string schinese_censored = "不能光保护脑子，还要保护耳朵！\n父母满意度+35"
+     1 string english = "Got to keep your head and ears warm.\nSatisfaction +35"
+     1 string japanese = "頭だけじゃなくて耳も守らないとね！\n両親の満足度+35"
+     1 string mchinese = "不能光保護腦子，還要保護耳朵！ \n父母滿意度+35"
+   [34132]
+    0 TableSoItemLang data
+     0 int id = 99994837
+     1 string schinese = "秋冬新款自发热双面加绒保暖手套，卡其色超显白！\n父母满意度+50"
+     1 string schinese_censored = "秋冬新款自发热双面加绒保暖手套，卡其色超显白！\n父母满意度+50"
+     1 string english = "A new type of khaki-colored gloves with internal heating.\nSatisfaction +50"
+     1 string japanese = "秋冬の新製品！自己発熱・両面起毛！カーキーで肌が明るく見える！\n両親の満足度+50"
+     1 string mchinese = "秋冬新款自發熱雙面加絨保暖手套，卡其色超顯白！ \n父母滿意度+50"
+   [34133]
+    0 TableSoItemLang data
+     0 int id = 99994838
+     1 string schinese = "青团"
+     1 string schinese_censored = "青团"
+     1 string english = "Sweet Green Dumplings"
+     1 string japanese = "青団"
+     1 string mchinese = "青團"
+   [34134]
+    0 TableSoItemLang data
+     0 int id = 99994839
+     1 string schinese = "风筝"
+     1 string schinese_censored = "风筝"
+     1 string english = "Kite"
+     1 string japanese = "凧"
+     1 string mchinese = "風箏"
+   [34135]
+    0 TableSoItemLang data
+     0 int id = 99994840
+     1 string schinese = "花苗"
+     1 string schinese_censored = "花苗"
+     1 string english = "Flower Seeds"
+     1 string japanese = "花の苗"
+     1 string mchinese = "花苗"
+   [34136]
+    0 TableSoItemLang data
+     0 int id = 99994841
+     1 string schinese = "春季新款女装"
+     1 string schinese_censored = "春季新款女装"
+     1 string english = "New Spring Clothes"
+     1 string japanese = "春の新作婦人服"
+     1 string mchinese = "春季新款女裝"
+   [34137]
+    0 TableSoItemLang data
+     0 int id = 99994842
+     1 string schinese = "豆沙馅、蛋黄馅、肉松馅、芒果馅、小龙虾馅……好想每样来一份！\n压力-10"
+     1 string schinese_censored = "豆沙馅、蛋黄馅、肉松馅、芒果馅、小龙虾馅……好想每样来一份！\n压力-10"
+     1 string english = "I want one portion of each flavor! Pronto!\nStress -10"
+     1 string japanese = "小豆餡、卵黄餡、肉でんぶ餡、マンゴー餡、ザリガニ餡……全部ほしい！\nストレス-10"
+     1 string mchinese = "豆沙餡、蛋黃餡、肉鬆餡、芒果餡、小龍蝦餡...... 好想每樣來一份！ \n壓力-10"
+   [34138]
+    0 TableSoItemLang data
+     0 int id = 99994843
+     1 string schinese = "风筝的离去，是天空的追求，还是大地的不挽留？\n压力-15"
+     1 string schinese_censored = "风筝的离去，是天空的追求，还是大地的不挽留？\n压力-15"
+     1 string english = "Is the kite heading to the stars or away from Earth?\nStress -15"
+     1 string japanese = "凧を上げることは空への憧れか地上からの脱却か。\nストレス-15"
+     1 string mchinese = "風箏的離去，是天空的追求，還是大地的不挽留？ \n壓力-15"
+   [34139]
+    0 TableSoItemLang data
+     0 int id = 99994844
+     1 string schinese = "种花家刻在基因里的爱好不能丢！\n父母满意度+35"
+     1 string schinese_censored = "种花家刻在基因里的爱好不能丢！\n父母满意度+35"
+     1 string english = "The perfect present for a florist.\nSatisfaction +35"
+     1 string japanese = "植物栽培好きという遺伝子に刻まれている民族性を忘れるな！\n両親の満足度+35"
+     1 string mchinese = "種花家刻在基因裏的愛好不能丟！ \n父母滿意度+35"
+   [34140]
+    0 TableSoItemLang data
+     0 int id = 99994845
+     1 string schinese = "某宝热销第一名，收到的妈妈都哭了！\n父母满意度+50"
+     1 string schinese_censored = "某宝热销第一名，收到的妈妈都哭了！\n父母满意度+50"
+     1 string english = "The top seller at a certain Internet platform.\nSatisfaction +50"
+     1 string japanese = "某ショップで売れ筋No.1！母が貰ったら嬉しくて泣いちゃうかも！？\n両親の満足度+50"
+     1 string mchinese = "某寶熱銷第一名，收到的媽媽都哭了！ \n父母滿意度+50"
+   [34141]
+    0 TableSoItemLang data
+     0 int id = 99994846
+     1 string schinese = "嗨，这帽子好！看爸爸戴上帅气不？"
+     1 string schinese_censored = "嗨，这帽子好！看爸爸戴上帅气不？"
+     1 string english = "Oi, don't I look handsome in my new hat?"
+     1 string japanese = "おお、いいな！似合ってるだろ！"
+     1 string mchinese = "嗨，這帽子好！看爸爸戴上帥氣不？"
+   [34142]
+    0 TableSoItemLang data
+     0 int id = 99994847
+     1 string schinese = "这手套，花了不少钱吧，买啥显白款啊，又看不到手，就会浪费钱……（开心地戴上）"
+     1 string schinese_censored = "这手套，花了不少钱吧，买啥显白款啊，又看不到手，就会浪费钱……（开心地戴上）"
+     1 string english = "These must've cost a fortune. You shouldn't have spent all your money... (Puts them on with a big smile)"
+     1 string japanese = "高かったでしょ？肌が明るく見えても、手が隠れちゃうし別にいらないわ……。（すごく嬉しそう）"
+     1 string mchinese = "這手套，花了不少錢吧，買啥顯白款啊，又看不到手，就會浪費錢……（開心地戴上）"
+   [34143]
+    0 TableSoItemLang data
+     0 int id = 99994848
+     1 string schinese = "这是什么花苗？月季吗？正好，单位的同事最近老给我看她种的花，我也正想种来着！"
+     1 string schinese_censored = "这是什么花苗？月季吗？正好，单位的同事最近老给我看她种的花，我也正想种来着！"
+     1 string english = "What seeds are these? Roses? Hah, I'll show my coworker who has the greener thumb!"
+     1 string japanese = "これは何の苗？月見草？丁度職場の人が育てて植えたいと思ってたの！"
+     1 string mchinese = "這是什麼花苗？月季嗎？正好，單位的同事最近老給我看她種的花，我也正想種來著！"
+   [34144]
+    0 TableSoItemLang data
+     0 int id = 99994849
+     1 string schinese = "妈妈，嗯，很感谢你的孝心……（虽然这衣服着实有点丑）"
+     1 string schinese_censored = "妈妈，嗯，很感谢你的孝心……（虽然这衣服着实有点丑）"
+     1 string english = "Mm, thanks, sweetheart... (Though, it is honestly quite ugly)"
+     1 string japanese = "まあ、親孝行のいい子ね。ありがとう……。（ちょっとセンスが悪いけど）"
+     1 string mchinese = "媽媽，嗯，很感謝你的孝心……（雖然這衣服著實有點醜）"
+   [34145]
+    0 TableSoItemLang data
+     0 int id = 99994850
+     1 string schinese = "进阶课程能提高对应特长属性和课程安排效果，最重要的是可以提升美术高考成绩！我们一起加油吧~"
+     1 string schinese_censored = "进阶课程可以提高对应特长属性和课程安排效果，最重要的是可以提升美术高考成绩！我们一起加油吧~"
+     1 string english = "Advanced classes can improve the trait and stat boosts you receive. Most important is that they boost your arts Gaokao results! Let's do our best!"
+     1 string japanese = "上位課程は対応している専門知識ステータスと課程効果を上昇させる。一番重要なのは芸術連合試験の成績を上げられること！一緒に頑張ろう！"
+     1 string mchinese = "TODO"
+   [34146]
+    0 TableSoItemLang data
+     0 int id = 99994851
+     1 string schinese = "只是爱好"
+     1 string schinese_censored = ""
+     1 string english = "Just A Hobby"
+     1 string japanese = "ただの趣味"
+     1 string mchinese = "TODO"
+   [34147]
+    0 TableSoItemLang data
+     0 int id = 99994852
+     1 string schinese = "落榜美术"
+     1 string schinese_censored = ""
+     1 string english = "Flunked Artist"
+     1 string japanese = "落ちた受験生"
+     1 string mchinese = "TODO"
+   [34148]
+    0 TableSoItemLang data
+     0 int id = 99994853
+     1 string schinese = "美院大佬"
+     1 string schinese_censored = ""
+     1 string english = "Art Maestro"
+     1 string japanese = "エリート美大生"
+     1 string mchinese = "TODO"
+   [34149]
+    0 TableSoItemLang data
+     0 int id = 99994854
+     1 string schinese = "培训功能开启但没有成为美术生"
+     1 string schinese_censored = ""
+     1 string english = "You unlocked special training classes but didn't become an art student."
+     1 string japanese = "育成機能は有効化されたが、美大受験生にはなれなかった"
+     1 string mchinese = "TODO"
+   [34150]
+    0 TableSoItemLang data
+     0 int id = 99994855
+     1 string schinese = "报考的所有美院全部落榜……"
+     1 string schinese_censored = ""
+     1 string english = "You didn't get accepted by a single arts school..."
+     1 string japanese = "受けた美大は全て不合格だった……"
+     1 string mchinese = "TODO"
+   [34151]
+    0 TableSoItemLang data
+     0 int id = 99994856
+     1 string schinese = "_talentNick"
+     1 string schinese_censored = ""
+     1 string english = "_talentNick"
+     1 string japanese = "_talentNick"
+     1 string mchinese = "TODO"
+   [34152]
+    0 TableSoItemLang data
+     0 int id = 99994857
+     1 string schinese = "曾经有一条艺术之路摆在我面前，我却没有珍惜，如果时间能重来……"
+     1 string schinese_censored = ""
+     1 string english = "The road to artistry once opened itself up before me. Yet I didn't jump at the chance... If only I could turn back time..."
+     1 string japanese = "かつて芸術の道に進む機会があったが、それを大切にしなかった。もしもう一度やり直せるとしたら……"
+     1 string mchinese = "TODO"
+   [34153]
+    0 TableSoItemLang data
+     0 int id = 99994858
+     1 string schinese = "最终我没能考上任何一所美院，这使我一直心有不甘。"

@@ -1,0 +1,184 @@
+     1 string schinese_censored = "学费值不足"
+     1 string english = "Not enough Tuition."
+     1 string japanese = "授業料が足りません"
+     1 string mchinese = "學費值不足"
+   [21251]
+    0 TableSoItemLang data
+     0 int id = 5500152
+     1 string schinese = "看广告赚学费"
+     1 string schinese_censored = "看广告赚学费"
+     1 string english = "Watch Ads to Get Tuition"
+     1 string japanese = "広告視聴で授業料を獲得"
+     1 string mchinese = "看廣告賺學費"
+   [21252]
+    0 TableSoItemLang data
+     0 int id = 5500153
+     1 string schinese = "广告正在冷却中："
+     1 string schinese_censored = "广告正在冷却中："
+     1 string english = "Ads are on cooldown:"
+     1 string japanese = "広告待機中："
+     1 string mchinese = "廣告正在冷卻中："
+   [21253]
+    0 TableSoItemLang data
+     0 int id = 5500154
+     1 string schinese = "广告观看完毕！"
+     1 string schinese_censored = "广告观看完毕！"
+     1 string english = "Ad finished!"
+     1 string japanese = "広告視聴完了！"
+     1 string mchinese = "廣告觀看完畢！"
+   [21254]
+    0 TableSoItemLang data
+     0 int id = 5500155
+     1 string schinese = "广告还没准备好，请稍后再试。"
+     1 string schinese_censored = "广告还没准备好，请稍后再试。"
+     1 string english = "The ad is not yet ready, please try again later."
+     1 string japanese = "広告の用意ができていません。後ほど改めてお試しください。"
+     1 string mchinese = "廣告還沒准備好，請稍後再試。"
+   [21255]
+    0 TableSoItemLang data
+     0 int id = 5500156
+     1 string schinese = "正在观看广告...请稍后"
+     1 string schinese_censored = "正在观看广告...请稍后"
+     1 string english = "Watching ad, please wait..."
+     1 string japanese = "広告視聴中…しばらくお待ちください"
+     1 string mchinese = "正在觀看廣告...請稍後"
+   [21256]
+    0 TableSoItemLang data
+     0 int id = 5500157
+     1 string schinese = "广告未观看完毕，请重新观看以领取奖励。"
+     1 string schinese_censored = "广告未观看完毕，请重新观看以领取奖励。"
+     1 string english = "You didn't finish the ad, re-watch it to claim your reward."
+     1 string japanese = "広告の視聴が完了していません。もう一度視聴し報酬を受け取ってください。"
+     1 string mchinese = "廣告未觀看完畢，請重新觀看以領取獎勵。"
+   [21257]
+    0 TableSoItemLang data
+     0 int id = 5500158
+     1 string schinese = "游戏存档中...请稍后"
+     1 string schinese_censored = "游戏存档中...请稍后"
+     1 string english = "Game is saving, please wait..."
+     1 string japanese = "保存中…お待ち下さい"
+     1 string mchinese = "遊戲存檔中...請稍後"
+   [21258]
+    0 TableSoItemLang data
+     0 int id = 5500159
+     1 string schinese = "存档成功！"
+     1 string schinese_censored = "存档成功！"
+     1 string english = "Game saved!"
+     1 string japanese = "保存完了！"
+     1 string mchinese = "存檔成功！"
+   [21259]
+    0 TableSoItemLang data
+     0 int id = 5500160
+     1 string schinese = "家族"
+     1 string schinese_censored = "家族等级"
+     1 string english = "Family"
+     1 string japanese = "図鑑レベル"
+     1 string mchinese = "家族"
+   [21260]
+    0 TableSoItemLang data
+     0 int id = 5500161
+     1 string schinese = "*家族等级解锁的新内容将在下一代开放"
+     1 string schinese_censored = "*家族等级解锁的新内容将在本世代结束后开放"
+     1 string english = "*Content unlocked by leveling up the Gallery will become available in your next generation."
+     1 string japanese = "※図鑑レベルで解放された特典は、現世代終了後に確認できます"
+     1 string mchinese = "*家族等級解鎖的新內容將在下一代開放"
+   [21261]
+    0 TableSoItemLang data
+     0 int id = 5500162
+     1 string schinese = "第 {0} 级"
+     1 string schinese_censored = "第 {0} 级"
+     1 string english = "Lv. {0}"
+     1 string japanese = "Lv.{0}"
+     1 string mchinese = "第 {0} 級"
+   [21262]
+    0 TableSoItemLang data
+     0 int id = 5500163
+     1 string schinese = "已满级"
+     1 string schinese_censored = "已满级"
+     1 string english = "Max"
+     1 string japanese = "Max"
+     1 string mchinese = "已滿級"
+   [21263]
+    0 TableSoItemLang data
+     0 int id = 5500164
+     1 string schinese = "已解锁"
+     1 string schinese_censored = "已解锁"
+     1 string english = "Unlocked"
+     1 string japanese = "アンロック"
+     1 string mchinese = "已解鎖"
+   [21264]
+    0 TableSoItemLang data
+     0 int id = 5500165
+     1 string schinese = "已生效"
+     1 string schinese_censored = "已生效"
+     1 string english = "Unlocked"
+     1 string japanese = "有効"
+     1 string mchinese = "已生效"
+   [21265]
+    0 TableSoItemLang data
+     0 int id = 5500166
+     1 string schinese = "*家族等级通过繁衍后代、解锁特长和职业提升，并且世代传承"
+     1 string schinese_censored = "*家族等级通过特长，职业的收集情况提升，可世代传承"
+     1 string english = "*Family Level increases as you unlock more traits, professions and collectibles across generations."
+     1 string japanese = "※図鑑レベルは特技や職業を集めることで上がり、世代を越えて継承されます。"
+     1 string mchinese = "*家族等級通過繁衍後代、解鎖特長和職業提升，並且世代傳承"
+   [21266]
+    0 TableSoItemLang data
+     0 int id = 5500167
+     1 string schinese = "家族等级达到{0}级"
+     1 string schinese_censored = "家族等级达到{0}级"
+     1 string english = "Family Level {0} reached."
+     1 string japanese = "図鑑レベルが{0}になった！"
+     1 string mchinese = "家族等級達到{0}級"
+   [21267]
+    0 TableSoItemLang data
+     0 int id = 5500168
+     1 string schinese = "解锁新内容"
+     1 string schinese_censored = "解锁新内容"
+     1 string english = "Unlock New Content"
+     1 string japanese = "特典解放"
+     1 string mchinese = "解鎖新內容"
+   [21268]
+    0 TableSoItemLang data
+     0 int id = 5500169
+     1 string schinese = "家族等级提升！"
+     1 string schinese_censored = "家族等级提升！"
+     1 string english = "Family Level increased!"
+     1 string japanese = "図鑑レベルアップ！"
+     1 string mchinese = "家族等級提升！"
+   [21269]
+    0 TableSoItemLang data
+     0 int id = 5500170
+     1 string schinese = "下一世代属性加成"
+     1 string schinese_censored = "下一世代属性加成"
+     1 string english = "Stat Bonus on Next Gen"
+     1 string japanese = "次世代能力ボーナス"
+     1 string mchinese = "下一世代屬性加成"
+   [21270]
+    0 TableSoItemLang data
+     0 int id = 5500171
+     1 string schinese = "职业加成"
+     1 string schinese_censored = "职业加成"
+     1 string english = "Profession Bonus"
+     1 string japanese = "職業ボーナス"
+     1 string mchinese = "職業加成"
+   [21271]
+    0 TableSoItemLang data
+     0 int id = 5500172
+     1 string schinese = "配偶加成"
+     1 string schinese_censored = "配偶加成"
+     1 string english = "Partner Bonus"
+     1 string japanese = "配偶者ボーナス"
+     1 string mchinese = "配偶加成"
+   [21272]
+    0 TableSoItemLang data
+     0 int id = 5500173
+     1 string schinese = "传家宝加成"
+     1 string schinese_censored = "传家宝加成"
+     1 string english = "Family Heirloom Bonus"
+     1 string japanese = "家宝ボーナス"
+     1 string mchinese = "傳家寶加成"
+   [21273]
+    0 TableSoItemLang data
+     0 int id = 5500174
+     1 string schinese = "总计"

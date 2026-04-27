@@ -1,0 +1,184 @@
+     1 string schinese_censored = "<color=#EB7350>行动力</color>可以在这里看到，我们可以通过<color=#EB7350>安排</color>来恢复行动力。下面，我将引导你如何进行<color=#EB7350>安排</color>。"
+     1 string english = "DLC不顯示教程，無需翻譯1596172781"
+     1 string japanese = "DLC不顯示教程，無需翻譯"
+     1 string mchinese = "<color=#EB7350>行動力</color>可以在這裏看到，我們可以通過<color=#EB7350>安排</color>來恢復行動力。下麵，我將引導你如何進行<color=#EB7350>安排</color>。"
+   [26495]
+    0 TableSoItemLang data
+     0 int id = 1596172782
+     1 string schinese = "点击<color=#EB7350>【安排】</color>可以选择日程并等待行动力的恢复，然后进入下一回合！"
+     1 string schinese_censored = "点击<color=#EB7350>【安排】</color>可以选择日程并等待行动力的恢复，然后进入下一回合！"
+     1 string english = "DLC不顯示教程，無需翻譯1596172782"
+     1 string japanese = "DLC不顯示教程，無需翻譯"
+     1 string mchinese = "點擊<color=#EB7350>【安排】</color>可以選擇日程並等待行動力的恢復，然後進入下一回合！"
+   [26496]
+    0 TableSoItemLang data
+     0 int id = 1596172783
+     1 string schinese = "让我们选择想要安排的条目，从而获得属性方面的加值。\n\n点击<color=#EB7350>【技能】</color>"
+     1 string schinese_censored = "让我们选择想要安排的条目，从而获得属性方面的加值。\n\n点击<color=#EB7350>【技能】</color>"
+     1 string english = "DLC不顯示教程，無需翻譯1596172783"
+     1 string japanese = "DLC不顯示教程，無需翻譯"
+     1 string mchinese = "讓我們選擇想要安排的條目，從而獲得屬性方面的加值。\n\n點擊<color=#EB7350>【技能】</color>"
+   [26497]
+    0 TableSoItemLang data
+     0 int id = 1596172784
+     1 string schinese = "选中一个条目！"
+     1 string schinese_censored = "选中一个条目！"
+     1 string english = "DLC不顯示教程，無需翻譯1596172784"
+     1 string japanese = "DLC不顯示教程，無需翻譯"
+     1 string mchinese = "選中一個條目！"
+   [26498]
+    0 TableSoItemLang data
+     0 int id = 1596172785
+     1 string schinese = "它会被添加至日程里"
+     1 string schinese_censored = "它会被添加至日程里"
+     1 string english = "DLC不顯示教程，無需翻譯1596172785"
+     1 string japanese = "DLC不顯示教程，無需翻譯"
+     1 string mchinese = "它會被添加至日程裏"
+   [26499]
+    0 TableSoItemLang data
+     0 int id = 1596172786
+     1 string schinese = "这里显示的是该技能对属性的加成，点击查看详细描述。"
+     1 string schinese_censored = "这里显示的是该技能对属性的加成，点击查看详细描述。"
+     1 string english = "DLC不顯示教程，無需翻譯1596172786"
+     1 string japanese = "DLC不顯示教程，無需翻譯"
+     1 string mchinese = "這裏顯示的是該技能對屬性的加成，點擊查看詳細描述。"
+   [26500]
+    0 TableSoItemLang data
+     0 int id = 1596172787
+     1 string schinese = "点击<color=#EB7350>【娱乐】</color>，选择娱乐活动。"
+     1 string schinese_censored = "点击<color=#EB7350>【娱乐】</color>，选择娱乐活动。"
+     1 string english = "DLC不顯示教程，無需翻譯1596172787"
+     1 string japanese = "DLC不顯示教程，無需翻譯"
+     1 string mchinese = "點擊<color=#EB7350>【娛樂】</color>，選擇娛樂活動。"
+   [26501]
+    0 TableSoItemLang data
+     0 int id = 1596172788
+     1 string schinese = "选中一个安排条目！"
+     1 string schinese_censored = "选中一个安排条目！"
+     1 string english = "DLC不顯示教程，無需翻譯1596172788"
+     1 string japanese = "DLC不顯示教程，無需翻譯"
+     1 string mchinese = "選中一個安排條目！"
+   [26502]
+    0 TableSoItemLang data
+     0 int id = 1596172789
+     1 string schinese = "它会直接被添加至日程里"
+     1 string schinese_censored = "它会直接被添加至日程里"
+     1 string english = "DLC不顯示教程，無需翻譯1596172789"
+     1 string japanese = "DLC不顯示教程，無需翻譯"
+     1 string mchinese = "它會直接被添加至日程裏"
+   [26503]
+    0 TableSoItemLang data
+     0 int id = 1596172790
+     1 string schinese = "直接点击日程里的条目可将其移除"
+     1 string schinese_censored = "直接点击日程里的条目可将其移除"
+     1 string english = "DLC不顯示教程，無需翻譯1596172790"
+     1 string japanese = "DLC不顯示教程，無需翻譯"
+     1 string mchinese = "直接點擊日程裏的條目可將其移除"
+   [26504]
+    0 TableSoItemLang data
+     0 int id = 1596172791
+     1 string schinese = "点击<color=#EB7350>【清空列表】</color>可清除全部日程。"
+     1 string schinese_censored = "点击<color=#EB7350>【清空列表】</color>可清除全部日程。"
+     1 string english = "DLC不顯示教程，無需翻譯1596172791"
+     1 string japanese = "DLC不顯示教程，無需翻譯"
+     1 string mchinese = "點擊<color=#EB7350>【清空列表】</color>可清除全部日程。"
+   [26505]
+    0 TableSoItemLang data
+     0 int id = 1596172792
+     1 string schinese = "学习和娱乐都会提供属性值，根据自身状况选择恰当的条目十分重要。下面，让我们用学习和娱乐将日程排满吧！"
+     1 string schinese_censored = "学习和娱乐都会提供属性值，根据自身状况选择恰当的条目十分重要。下面，让我们用学习和娱乐将日程排满吧！"
+     1 string english = "DLC不顯示教程，無需翻譯1596172792"
+     1 string japanese = "DLC不顯示教程，無需翻譯"
+     1 string mchinese = "學習和娛樂都會提供屬性值，根據自身狀況選擇恰當的條目十分重要。下麵，讓我們用學習和娛樂將日程排滿吧！"
+   [26506]
+    0 TableSoItemLang data
+     0 int id = 1596172793
+     1 string schinese = "日程安排完毕，点击进入下一回合吧！\n\n游戏一共48回合，每回合都别忘记挖脑洞哟~~"
+     1 string schinese_censored = "日程安排完毕，点击进入下一回合吧！\n\n游戏一共48回合，每回合都别忘记挖脑洞哟~~"
+     1 string english = "DLC不顯示教程，無需翻譯1596172793"
+     1 string japanese = "DLC不顯示教程，無需翻譯"
+     1 string mchinese = "日程安排完畢，點擊進入下一回合吧！\n\n遊戲一共48回合，每回合都別忘記挖腦洞喲~~"
+   [26507]
+    0 TableSoItemLang data
+     0 int id = 1596172794
+     1 string schinese = "进入下一回合前，会有一些有趣的事情发生。它们由你所安排的日程决定，并会<color=#EB7350>恢复一定的行动力</color>。如果这些事情引起了你的共鸣，请多多点赞哦。"
+     1 string schinese_censored = "进入下一回合前，会有一些有趣的事情发生。它们由你所安排的日程决定，并会<color=#EB7350>恢复一定的行动力</color>。如果这些事情引起了你的共鸣，请多多点赞哦。"
+     1 string english = "DLC不顯示教程，無需翻譯1596172794"
+     1 string japanese = "DLC不顯示教程，無需翻譯"
+     1 string mchinese = "進入下一回合前，會有一些有趣的事情發生。它們由你所安排的日程決定，並會<color=#EB7350>恢復一定的行動力</color>。如果這些事情引起了你的共鳴，請多多點贊哦。"
+   [26508]
+    0 TableSoItemLang data
+     0 int id = 1596172795
+     1 string schinese = "父母总会对你有各种<color=#EB7350>期望</color>！\n\n期望通常都能在挖脑洞中实现。\n\n要<color=#EB7350>注意它的时限呦，错过就会消失</color>，会让父母失望的哦~"
+     1 string schinese_censored = "父母总会对你有各种<color=#EB7350>期望</color>！\n\n期望通常都能在挖脑洞中实现。\n\n要<color=#EB7350>注意它的时限呦，错过就会消失</color>，会让父母失望的哦~"
+     1 string english = "DLC不顯示教程，無需翻譯1596172795"
+     1 string japanese = "DLC不顯示教程，無需翻譯"
+     1 string mchinese = "父母總會對你有各種<color=#EB7350>期望</color>！\n\n期望通常都能在挖腦洞中實現。\n\n要<color=#EB7350>注意它的時限呦，錯過就會消失</color>，會讓父母失望的哦~"
+   [26509]
+    0 TableSoItemLang data
+     0 int id = 1596172796
+     1 string schinese = "期望实现后要及时领取奖励，错过时限奖励也就消失了。"
+     1 string schinese_censored = "期望实现后要及时领取奖励，错过时限奖励也就消失了。"
+     1 string english = "Upon meeting your parents' expectations, be sure to claim the reward ASAP so that it doesn’t disappear."
+     1 string japanese = "DLC不顯示教程，無需翻譯"
+     1 string mchinese = "期望實現後要及時領取獎勵，錯過時限獎勵也就消失了。"
+   [26510]
+    0 TableSoItemLang data
+     0 int id = 1596172797
+     1 string schinese = "点击这里，可以查看能够学习的技能。"
+     1 string schinese_censored = "点击这里，可以查看能够学习的技能。"
+     1 string english = "DLC不顯示教程，無需翻譯1596172797"
+     1 string japanese = "DLC不顯示教程，無需翻譯"
+     1 string mchinese = "點擊這裏，可以查看能夠學習的技能。"
+   [26511]
+    0 TableSoItemLang data
+     0 int id = 1596172798
+     1 string schinese = "消耗<color=#EB7350>悟性</color>学习课程。\n\n课程所依赖的<color=#EB7350>属性越高</color>，学习课程消耗的<color=#EB7350>悟性越低</color>。"
+     1 string schinese_censored = "消耗<color=#EB7350>悟性</color>学习课程。\n\n课程所依赖的<color=#EB7350>属性越高</color>，学习课程消耗的<color=#EB7350>悟性越低</color>。"
+     1 string english = "DLC不顯示教程，無需翻譯1596172798"
+     1 string japanese = "DLC不顯示教程，無需翻譯"
+     1 string mchinese = "消耗<color=#EB7350>悟性</color>學習課程。\n\n課程所依賴的<color=#EB7350>屬性越高</color>，學習課程消耗的<color=#EB7350>悟性越低</color>。"
+   [26512]
+    0 TableSoItemLang data
+     0 int id = 1596172799
+     1 string schinese = "<color=#EB7350>悟性</color>不够，就无法学习啦。"
+     1 string schinese_censored = "<color=#EB7350>悟性</color>不够，就无法学习啦。"
+     1 string english = "DLC不顯示教程，無需翻譯1596172799"
+     1 string japanese = "DLC不顯示教程，無需翻譯"
+     1 string mchinese = "<color=#EB7350>悟性</color>不夠，就無法學習啦。"
+   [26513]
+    0 TableSoItemLang data
+     0 int id = 1596172800
+     1 string schinese = "让我们点击脑洞，提高【走路】所需要的<color=#3CD8FA>体魄属性</color>，并获得<color=#FF910F>悟性值</color>吧。"
+     1 string schinese_censored = "让我们点击脑洞，提高【走路】所需要的<color=#3CD8FA>体魄属性</color>，并获得<color=#FF910F>悟性值</color>吧。"
+     1 string english = "DLC不顯示教程，無需翻譯1596172800"
+     1 string japanese = "DLC不顯示教程，無需翻譯"
+     1 string mchinese = "讓我們點擊腦洞，提高【走路】所需要的<color=#3CD8FA>體魄屬性</color>，並獲得<color=#FF910F>悟性值</color>吧。"
+   [26514]
+    0 TableSoItemLang data
+     0 int id = 1596172801
+     1 string schinese = "若能在挖脑洞时常常查看学习和期望， 可以使脑洞挖掘更有目的性。"
+     1 string schinese_censored = "若能在挖脑洞时常常查看学习和期望， 可以使脑洞挖掘更有目的性。"
+     1 string english = "DLC不顯示教程，無需翻譯1596172801"
+     1 string japanese = "DLC不顯示教程，無需翻譯"
+     1 string mchinese = "若能在挖腦洞時常常查看學習和期望， 可以使腦洞挖掘更有目的性。"
+   [26515]
+    0 TableSoItemLang data
+     0 int id = 1596172802
+     1 string schinese = "可以学<color=#EB7350>【走路】</color>了！\n赶快学习，并<color=#EB7350>【安排】</color>吧~"
+     1 string schinese_censored = "可以学<color=#EB7350>【走路】</color>了！\n赶快学习，并<color=#EB7350>【安排】</color>吧~"
+     1 string english = "DLC不顯示教程，無需翻譯1596172802"
+     1 string japanese = "DLC不顯示教程，無需翻譯"
+     1 string mchinese = "可以學<color=#EB7350>【走路】</color>了！\n趕快學習，並<color=#EB7350>【安排】</color>吧~"
+   [26516]
+    0 TableSoItemLang data
+     0 int id = 1596172803
+     1 string schinese = "点击空白处可关闭学习期望界面。"
+     1 string schinese_censored = "点击空白处可关闭学习期望界面。"
+     1 string english = "DLC不顯示教程，無需翻譯1596172803"
+     1 string japanese = "DLC不顯示教程，無需翻譯"
+     1 string mchinese = "點擊空白處可關閉學習期望介面。"
+   [26517]
+    0 TableSoItemLang data
+     0 int id = 1596172804
+     1 string schinese = "继续挖脑洞，直至行动力全部耗光。"

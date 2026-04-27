@@ -1,0 +1,184 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 4378568993874486479
+ 1 string m_Name = "TableSOLang"
+ 0 TableSoItemLang Items
+  0 Array Array (34671 items)
+   0 int size = 34671
+   [0]
+    0 TableSoItemLang data
+     0 int id = 1010001
+     1 string schinese = "我要一步一步往上爬，在最高点乘着叶片往前飞！\n\n【体魄】属性越高，学习消耗的悟性越少。\n\n最低消耗15点悟性。"
+     1 string schinese_censored = "/n/n要学跳舞，先学会走路，要数一百，先数一二三"="学会"&B2&"，"&IF(G2=1，"【智慧】"，"")&IF(H2=1，"【情绪力】"，"")&IF(I2=1，"【想象力】"，"")&IF(J2=1，"【记忆力】"，"")&IF(K2=1，"【体魄】"，"")&IF(L2=1，"【魅力】"，"")&IF(M2=1，"【自信】"，"")&"越高，会适当减少所需消耗的悟性"&"\n属性标准值：“&F2&"\n\n翻身当家做主人！"
+     1 string english = "Crawl your way to the top!\n\nKnowledge cost decreases with [Constitution].\n\nMinimum cost of 15 Knowledge."
+     1 string japanese = "一歩一歩這いつくばって上を目指す！\n\n【体力】が高いほど消費理解力は少ない。\n\n最低消費理解力:15"
+     1 string mchinese = "我要一步一步往上爬，在最高點乘著葉片往前飛！\n\n【體魄】屬性越高，學習消耗的悟性越少。\n\n最低消耗15點悟性。"
+   [1]
+    0 TableSoItemLang data
+     0 int id = 1010002
+     1 string schinese = "要学跳舞，先学会走路，要数一百，先数一二三\n\n【体魄】属性越高，学习消耗的悟性越少。\n\n最低消耗100点悟性。"
+     1 string schinese_censored = "要学跳舞，先学会走路，要数一百，先数一二三\n\n学会行走，【体魄】越高，会适当减少所需消耗的悟性\n\n属性标准值：140\n至少消耗悟性:100"
+     1 string english = "You have to walk before learning to dance.\n\nKnowledge cost decreases with [Constitution].\n\nMinimum cost of 100 Knowledge."
+     1 string japanese = "ダンスを学ぶ前に、まずは歩く練習だ。\n\n歩くを学ぶ。【体力】が高いほど消費理解力は少ない。\n\n最低消費理解力:100"
+     1 string mchinese = "要學跳舞，先學會走路，要數一百，先數一二三\n\n【體魄】屬性越高，學習消耗的悟性越少。\n\n最低消耗100點悟性。"
+   [2]
+    0 TableSoItemLang data
+     0 int id = 1010003
+     1 string schinese = "如果你想哭的话，就去跑步，把泪水都变成汗水蒸发掉，这样就不会哭了\n\n【情商】【体魄】属性越高，学习消耗的悟性越少。\n\n最低消耗20点悟性。"
+     1 string schinese_censored = "如果你想哭的话，就去跑步，把泪水都变成汗水蒸发掉，这样就不会哭了\n\n学会跑步，【情绪力】【体魄】越高，会适当减少所需消耗的悟性\n\n属性标准值：480\n至少消耗悟性:20"
+     1 string english = "Run until your muscles burn. Then run some more.\n\nLearning to Run costs less Knowledge the more [EQ] and [Constitution] you have.\n\nStat norm: 480\nMinimum Knowledge cost: 20"
+     1 string japanese = "泣きたい時は走れ！涙を汗に変えれば大丈夫。\n\n走るを学ぶ。【ＥＱ】【体力】が高いほど消費理解力は少ない。\n\n能力標準値：480\n最低消費理解力：20"
+     1 string mchinese = "如果你想哭的話，就去跑步，把淚水都變成汗水蒸發掉，這樣就不會哭了\n\n【情商】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低消耗20點悟性。"
+   [3]
+    0 TableSoItemLang data
+     0 int id = 1010004
+     1 string schinese = "亲子游泳中心学习，采用多元饮用水质,智能化课程体系,八大模块,三维立体设计\n\n【智商】【体魄】属性越高，学习消耗的悟性越少。\n\n最低消耗20点悟性。"
+     1 string schinese_censored = "亲子游泳中心学习，采用多元饮用水质，智能化课程体系，八大模块，三维立体设计\n\n学会幼儿游泳，【智慧】【体魄】越高，会适当减少所需消耗的悟性\n\n属性标准值：800\n至少消耗悟性:20"
+     1 string english = "Our swimming center uses drinkable water!\n\nLearning Baby Swim costs less Knowledge the more [IQ] and [Constitution] you have.\n\nStat norm: 800\nMinimum Knowledge cost: 20"
+     1 string japanese = "親子水泳センターは、８つのモジュール、３次元立体設計、多様な水質を採用している。\n\n幼児水泳を学ぶ。【ＩＱ】【体力】が高いほど消費理解力は少ない。\n\n能力標準値：800\n最低消費理解力：20"
+     1 string mchinese = "親子游泳中心學習，採用多元飲用水質,智能化課程體系,八大模組,三維立體設計\n\n【智商】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低消耗20點悟性。"
+   [4]
+    0 TableSoItemLang data
+     0 int id = 1010005
+     1 string schinese = "提高大腿肌肉和臀部的绝对力量与爆发力\n\n【体魄】属性越高，学习消耗的悟性越少。\n\n最低消耗20点悟性。"
+     1 string schinese_censored = "提高大腿肌肉和臀部的绝对力量与爆发力\n\n学会骑自行车，【体魄】越高，会适当减少所需消耗的悟性\n\n属性标准值：700\n至少消耗悟性:20"
+     1 string english = "Empowers your legs and your butt!\n\nLearning Bicycle Riding costs less Knowledge the more [Constitution] you have.\n\nStat norm: 700\nMinimum Knowledge cost: 20"
+     1 string japanese = "太もも、ヒップを鍛え、脚力の爆発力と瞬発力を高める。\n\n自転車に乗るを学ぶ。【体力】が高いほど消費理解力は少ない。\n\n能力標準値：700\n最低消費理解力：20"
+     1 string mchinese = "提高大腿肌肉和臀部的絕對力量與爆發力\n\n【體魄】屬性越高，學習消耗的悟性越少。\n\n最低消耗20點悟性。"
+   [5]
+    0 TableSoItemLang data
+     0 int id = 1010006
+     1 string schinese = "第二套全国中学生广播体操《时代在召唤》！\n\n【记忆力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低消耗20点悟性。"
+     1 string schinese_censored = "第二套全国中学生广播体操《时代在召唤》！\n\n学会做操，【记忆力】【体魄】越高，会适当减少所需消耗的悟性\n\n属性标准值：2400\n至少消耗悟性:20"
+     1 string english = "Baby workouts are all the rage right now!\n\nLearning Exercise costs less Knowledge the more [Memory] and [Constitution] and you have.\n\nStat norm: 2,400\nMinimum Knowledge cost: 20"
+     1 string japanese = "全国中学生ラジオ体操第２「時代在召喚」はじめ！\n\n体操を学ぶ。【記憶力】【体力】が高いほど消費理解力は少ない。\n\n能力標準値：2400\n最低消費理解力：20"
+     1 string mchinese = "第二套全國中學生廣播體操《時代在召喚》！\n\n【記憶力】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低消耗20點悟性。"
+   [6]
+    0 TableSoItemLang data
+     0 int id = 1010007
+     1 string schinese = "语言艺术！讲究的是说学逗唱！\n\n【情商】属性越高，学习消耗的悟性越少。\n\n最低消耗20点悟性。"
+     1 string schinese_censored = "语言艺术！讲究的是说学逗唱！\n\n学会学说话，【情绪力】越高，会适当减少所需消耗的悟性\n\n属性标准值：160\n至少消耗悟性:20"
+     1 string english = "Language is an art in and of itself.\n\nLearning to Speak costs less Knowledge the more [EQ] you have.\n\nStat norm: 160\nMinimum Knowledge cost: 20"
+     1 string japanese = "言葉はアート！滑舌と語彙力を洗練しよう！\n\n話すを学ぶ。【ＥＱ】が高いほど消費理解力は少ない。\n\n能力標準値：160\n最低消費理解力：20"
+     1 string mchinese = "語言藝術！講究的是說學逗唱！\n\n【情商】屬性越高，學習消耗的悟性越少。\n\n最低消耗20點悟性。"
+   [7]
+    0 TableSoItemLang data
+     0 int id = 1010008
+     1 string schinese = "忍者无敌！\n\n【情商】属性越高，学习消耗的悟性越少。\n\n最低消耗40点悟性。"
+     1 string schinese_censored = "忍者无敌！\n\n学会忍耐，【情绪力】越高，会适当减少所需消耗的悟性\n\n属性标准值：400\n至少消耗悟性:40"
+     1 string english = "Be as patient as a ninja!\n\nLearning to Be Patient costs less Knowledge the more [EQ] you have.\n\nStat norm: 400\nMinimum Knowledge cost: 40"
+     1 string japanese = "耐える者は強い！\n\n我慢を学ぶ。【ＥＱ】が高いほど消費理解力は少ない。\n\n能力標準値：400\n最低消費理解力：40"
+     1 string mchinese = "忍者無敵！\n\n【情商】屬性越高，學習消耗的悟性越少。\n\n最低消耗40點悟性。"
+   [8]
+    0 TableSoItemLang data
+     0 int id = 1010009
+     1 string schinese = "这10块钱你先留存银行，70年后可以翻好几倍呢！\n\n【情商】【体魄】属性越高，学习消耗的悟性越少。\n\n最低消耗40点悟性。"
+     1 string schinese_censored = "这10块钱你先留存银行，70年后可以翻好几倍呢！\n\n学会延迟满足，【情绪力】【体魄】越高，会适当减少所需消耗的悟性\n\n属性标准值：1000\n至少消耗悟性:40"
+     1 string english = "Here is ¥10, save it for when you're older!\n\nLearning Delayed Gratification costs less Knowledge the more [EQ] and [Constitution] and you have.\n\nStat norm: 1,000\nMinimum Knowledge cost: 40"
+     1 string japanese = "１０元を銀行に預けて７０年待てば、何倍にもなるぞ！\n\n衝動制御を学ぶ。【ＥＱ】【体力】が高いほど消費理解力は少ない。\n\n能力標準値：1000\n最低消費理解力：40"
+     1 string mchinese = "這10塊錢你先留存銀行，70年後可以翻好幾倍呢！\n\n【情商】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低消耗40點悟性。"
+   [9]
+    0 TableSoItemLang data
+     0 int id = 1010010
+     1 string schinese = "睡着的大提琴，安静的旧旧的\n\n【情商】属性越高，学习消耗的悟性越少。\n\n最低消耗40点悟性。"
+     1 string schinese_censored = "比木头人还安静\n\n学会安静，【情绪力】越高，会适当减少所需消耗的悟性\n\n属性标准值：700\n至少消耗悟性:40"
+     1 string english = "Don't you dare touch that cello.\n\nLearning to Be Quiet costs less Knowledge the more [EQ] you have.\n\nStat norm: 700\nMinimum Knowledge cost: 40"
+     1 string japanese = "眠っている老人並みの穏やかさを。\n\n穏やかを学ぶ。【ＥＱ】が高いほど消費理解力は少ない。\n\n能力標準値：700\n最低消費理解力：40"
+     1 string mchinese = "睡著的大提琴，安靜的舊舊的\n\n【情商】屬性越高，學習消耗的悟性越少。\n\n最低消耗40點悟性。"
+   [10]
+    0 TableSoItemLang data
+     0 int id = 1010011
+     1 string schinese = "在独处的时候,一个可怜虫就会感受到自己的全部可怜之处\n\n【情商】属性越高，学习消耗的悟性越少。\n\n最低消耗50点悟性。"
+     1 string schinese_censored = "在独处的时候，一个可怜虫就会感受到自己的全部可怜之处\n\n学会独处，【情绪力】越高，会适当减少所需消耗的悟性\n\n属性标准值：800\n至少消耗悟性:50"
+     1 string english = "You feel the oppressive loneliness creeping in.\n\nLearning to Be Alone costs less Knowledge the more [EQ] you have.\n\nStat norm: 800\nMinimum Knowledge cost: 50"
+     1 string japanese = "毒虫のように自分の哀れさを知る。\n\n独りを学ぶ。【ＥＱ】が高いほど消費理解力は少ない。\n\n能力標準値：800\n最低消費理解力：50"
+     1 string mchinese = "在獨處的時候,一個可憐蟲就會感受到自己的全部可憐之處\n\n【情商】屬性越高，學習消耗的悟性越少。\n\n最低消耗50點悟性。"
+   [11]
+    0 TableSoItemLang data
+     0 int id = 1010012
+     1 string schinese = "难道除了我们还有别人？押韵的速度让你感到邪门！\n\n【情商】属性越高，学习消耗的悟性越少。\n\n最低消耗20点悟性。"
+     1 string schinese_censored = "难道除了我们还有别人？押韵的速度让你感到邪门！\n\n学会拼音（语），【情绪力】越高，会适当减少所需消耗的悟性\n\n属性标准值：900\n至少消耗悟性:20"
+     1 string english = "Pinyin is the essence of Chinese.\n\nLearning Pinyin costs less Knowledge the more [EQ] you have.\n\nStat norm: 900\nMinimum Knowledge cost: 20"
+     1 string japanese = "目にもとまらぬスピードで、韻を踏め！\n\nピンインを学ぶ。【ＥＱ】が高いほど消費理解力は少ない。\n\n能力標準値：900\n最低消費理解力：20"
+     1 string mchinese = "難道除了我們還有別人？押韻的速度讓你感到邪門！\n\n【情商】屬性越高，學習消耗的悟性越少。\n\n最低消耗20點悟性。"
+   [12]
+    0 TableSoItemLang data
+     0 int id = 1010013
+     1 string schinese = "学会了茴香豆四种写法,即茴、回、囘、囬\n\n【情商】属性越高，学习消耗的悟性越少。\n\n最低消耗30点悟性。"
+     1 string schinese_censored = "学会了茴香豆四种写法，即茴、回、囘、囬\n\n学会识字写字（语），【情绪力】越高，会适当减少所需消耗的悟性\n\n属性标准值：1350\n至少消耗悟性:30"
+     1 string english = "Both important skills if you want to be Chinese!\n\nLearning Reading & Writing costs less Knowledge the more [EQ] you have.\n\nStat norm: 1,350\nMinimum Knowledge cost: 30"
+     1 string japanese = "斉、斎、齊、齋。サイトウさんのサイはどれ？\n\n読み書きを学ぶ。【ＥＱ】が高いほど消費理解力は少ない。\n\n能力標準値：1350\n最低消費理解力：30"
+     1 string mchinese = "學會了茴香豆四種寫法,即茴、回、囘、囬\n\n【情商】屬性越高，學習消耗的悟性越少。\n\n最低消耗30點悟性。"
+   [13]
+    0 TableSoItemLang data
+     0 int id = 1010014
+     1 string schinese = "老师说不仅要押韵，还要有服楼，否则就不是古诗，应该叫脱口秀！\n\n【情商】属性越高，学习消耗的悟性越少。\n\n最低消耗40点悟性。"
+     1 string schinese_censored = "老师说不仅要押韵，还要有服楼，否则就不是古诗，应该叫脱口秀！\n\n学会古诗（语），【情绪力】越高，会适当减少所需消耗的悟性\n\n属性标准值：1890\n至少消耗悟性:40"
+     1 string english = "What better way to learn your ancestry than poems?\n\nLearning Ancient Poetry costs less Knowledge the more [EQ] you have.\n\nStat norm: 1,890\nMinimum Knowledge cost: 40"
+     1 string japanese = "韻はもちろんリズムにも乗らないと、ただのトークショーになると先生が言ってた。\n\n古詩を学ぶ。【ＥＱ】が高いほど消費理解力は少ない。\n\n能力標準値：1890\n最低消費理解力：40"
+     1 string mchinese = "老師說不僅要押韻，還要有服樓，否則就不是古詩，應該叫脫口秀！\n\n【情商】屬性越高，學習消耗的悟性越少。\n\n最低消耗40點悟性。"
+   [14]
+    0 TableSoItemLang data
+     0 int id = 1010015
+     1 string schinese = "作文题目的最低字数，基本代表了广大群众对孩子撒谎水平的最低要求\n\n【情商】属性越高，学习消耗的悟性越少。\n\n最低消耗50点悟性。"
+     1 string schinese_censored = "作文题目的最低字数，基本代表了孩子的作文水平的最低要求\n\n学会作文（语），【情绪力】越高，会适当减少所需消耗的悟性\n\n属性标准值：3024\n至少消耗悟性:50"
+     1 string english = "The title takes as much work as the body!\n\nLearning Writing costs less Knowledge the more [EQ] you have.\n\nStat norm: 3,024\nMinimum Knowledge cost: 50"
+     1 string japanese = "構成力を発揮し、最低文字数に思いを詰め込め！\n\n作文を学ぶ。【ＥＱ】が高いほど消費理解力は少ない。\n\n能力標準値：3024\n最低消費理解力：50"
+     1 string mchinese = "作文題目的最低字數，基本代表了廣大群眾對孩子撒謊水準的最低要求\n\n【情商】屬性越高，學習消耗的悟性越少。\n\n最低消耗50點悟性。"
+   [15]
+    0 TableSoItemLang data
+     0 int id = 1010016
+     1 string schinese = "我买几个橘子去。你就在此地,不要走动！\n\n【情商】属性越高，学习消耗的悟性越少。\n\n最低消耗60点悟性。"
+     1 string schinese_censored = "我买几个橘子去。你就在此地，不要走动！\n\n学会写小说（语），【情绪力】越高，会适当减少所需消耗的悟性\n\n属性标准值：5140\n至少消耗悟性:60"
+     1 string english = "I'm gonna buy some oranges, you just stay here!\n\nLearning Novel Writing costs less Knowledge the more [EQ] you have.\n\nStat norm: 5,140\nMinimum Knowledge cost: 60"
+     1 string japanese = "吾輩は犬である。名前はまだない。\n\n小説を書くを学ぶ。【ＥＱ】が高いほど消費理解力は少ない。\n\n能力標準値：5140\n最低消費理解力：60"
+     1 string mchinese = "我買幾個橘子去。你就在此地,不要走動！\n\n【情商】屬性越高，學習消耗的悟性越少。\n\n最低消耗60點悟性。"
+   [16]
+    0 TableSoItemLang data
+     0 int id = 1010017
+     1 string schinese = "京中有善口技者，必不会文言文\n\n【情商】属性越高，学习消耗的悟性越少。\n\n最低消耗70点悟性。"
+     1 string schinese_censored = "京中有善口技者\n\n学会文言文（语），【情绪力】越高，会适当减少所需消耗的悟性\n\n属性标准值：9252\n至少消耗悟性:70"
+     1 string english = "Classical Chinese is a must for eloquence.\n\nLearning Classical Chinese costs less Knowledge the more [EQ] you have.\n\nStat norm: 9,252\nMinimum Knowledge cost: 70"
+     1 string japanese = "弁の立つ人は皆、古文に精通している。\n\n古文を学ぶ。【ＥＱ】が高いほど消費理解力は少ない。\n\n能力標準値：9252\n最低消費理解力：70"
+     1 string mchinese = "京中有善口技者，必不會文言文\n\n【情商】屬性越高，學習消耗的悟性越少。\n\n最低消耗70點悟性。"
+   [17]
+    0 TableSoItemLang data
+     0 int id = 1010018
+     1 string schinese = "家里买套装书的，基本都是装饰用！想看的都在手机上看！\n\n【情商】属性越高，学习消耗的悟性越少。\n\n最低消耗80点悟性。"
+     1 string schinese_censored = "家里买套装书的，基本都是装饰用！想看的都在手机上看！\n\n学会名著（语），【情绪力】越高，会适当减少所需消耗的悟性\n\n属性标准值：14802\n至少消耗悟性:80"
+     1 string english = "Books are for decoration. Just read on your phone!\n\nLearning Famous Works costs less Knowledge the more [EQ] you have.\n\nStat norm: 14,802\nMinimum Knowledge cost: 80"
+     1 string japanese = "家の本は全部飾り！全部スマホで読んでる！\n\n名作を学ぶ。【ＥＱ】が高いほど消費理解力は少ない。\n\n能力標準値：14802\n最低消費理解力：80"
+     1 string mchinese = "家裏買套裝書的，基本都是裝飾用！想看的都在手機上看！\n\n【情商】屬性越高，學習消耗的悟性越少。\n\n最低消耗80點悟性。"
+   [18]
+    0 TableSoItemLang data
+     0 int id = 1010019
+     1 string schinese = "“来！小崔！咱们聊点他们不懂的，咱们聊文学！”\n\n【情商】属性越高，学习消耗的悟性越少。\n\n最低消耗90点悟性。"
+     1 string schinese_censored = "“来！克罗夫特！咱们聊点他们不懂的，咱们聊文学！”\n\n学会文学基础（语），【情绪力】越高，会适当减少所需消耗的悟性\n\n属性标准值：23682\n至少消耗悟性:90"
+     1 string english = "Ah, literature, the true cradle of civilization!\n\nLearning Literature costs less Knowledge the more [EQ] you have.\n\nStat norm: 23,682\nMinimum Knowledge cost: 90"
+     1 string japanese = "やあ、魯迅さん！皆がわかってくれない文学の話でもしよう！\n\n基礎文学を学ぶ。【ＥＱ】が高いほど消費理解力は少ない。\n\n能力標準値：23682\n最低消費理解力：90"
+     1 string mchinese = "“來！小崔！咱們聊點他們不懂的，咱們聊文學！”\n\n【情商】屬性越高，學習消耗的悟性越少。\n\n最低消耗90點悟性。"
+   [19]
+    0 TableSoItemLang data
+     0 int id = 1010020
+     1 string schinese = "“一棵是枣树，另外一颗还是枣树？”这样写有什么深意？\n\n【情商】属性越高，学习消耗的悟性越少。\n\n最低消耗100点悟性。"
+     1 string schinese_censored = "“一棵是枣树，另外一颗还是枣树？”这样写有什么深意？\n\n学会高级语文（语），【情绪力】越高，会适当减少所需消耗的悟性\n\n属性标准值：37890\n至少消耗悟性:100"
+     1 string english = "Two jujube trees? Just ask Lu Xun, he'll know!\n\nLearning Advanced Exam-Oriented Chinese costs less Knowledge the more [EQ] you have.\n\nStat norm: 37,890\nMinimum Knowledge cost: 100"
+     1 string japanese = "棗の木をどうしてわざわざ別々に書いたの？\n\n上級受験国語を学ぶ。【ＥＱ】が高いほど消費理解力は少ない。\n\n能力標準値：37890\n最低消費理解力：100"
+     1 string mchinese = "“一棵是棗樹，另外一顆還是棗樹？”這樣寫有什麼深意？\n\n【情商】屬性越高，學習消耗的悟性越少。\n\n最低消耗100點悟性。"
+   [20]
+    0 TableSoItemLang data
+     0 int id = 1010021
+     1 string schinese = "“今年的作文题，很有可能考这些热点啊，赶紧回去背材料吧！”\n\n【情商】属性越高，学习消耗的悟性越少。\n\n最低消耗100点悟性。"
+     1 string schinese_censored = "“今年的作文题，很有可能考这些热点啊，赶紧回去背材料吧！”\n\n学会语文非常规技巧（语），【情绪力】越高，会适当减少所需消耗的悟性\n\n属性标准值：60624\n至少消耗悟性:100"
+     1 string english = "Memorize these books and you might pass the exam!\n\nLearning Special Chinese Skills costs less Knowledge the more [EQ] you have.\n\nStat norm: 60,624\nMinimum Knowledge cost: 100"
+     1 string japanese = "作文は暗記だ！出題傾向を調査し、資料を読み込め！\n\n特殊国語技術を学ぶ。【ＥＱ】が高いほど消費理解力は少ない。\n\n能力標準値：60624\n最低消費理解力：100"
+     1 string mchinese = "“今年的作文題，很有可能考這些熱點啊，趕緊回去背材料吧！”\n\n【情商】屬性越高，學習消耗的悟性越少。\n\n最低消耗100點悟性。"
+   [21]
+    0 TableSoItemLang data
+     0 int id = 1010022
+     1 string schinese = "遇到3乘7这样的题目，不管三七二十一，先蒙上再说！\n\n【智商】属性越高，学习消耗的悟性越少。\n\n最低消耗20点悟性。"

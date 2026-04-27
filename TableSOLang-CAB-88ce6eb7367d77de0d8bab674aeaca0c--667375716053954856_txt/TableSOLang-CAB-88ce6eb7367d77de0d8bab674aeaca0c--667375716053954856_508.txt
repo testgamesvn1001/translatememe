@@ -1,0 +1,184 @@
+     1 string schinese_censored = "这什么算法什么的，最终考试又不考，真是精力全都浪费了！"
+     1 string english = "Algorithms? These won't help you with Gaokao. You're just wasting your energy!"
+     1 string japanese = "このアルゴなんちゃらは大学入試に関係ないぞ。無駄な努力だ！"
+     1 string mchinese = "這什麼演算法什麼的，最終考試又不考，真是精力全都浪費了！"
+   [11660]
+    0 TableSoItemLang data
+     0 int id = 1021661
+     1 string schinese = "搞这些干嘛？你以后要去做游戏吗？是正经职业吗？"
+     1 string schinese_censored = "搞这些干嘛？你以后要去做游戏吗？是正经职业吗？"
+     1 string english = "Why are you learning this? Are you going to make games later? Is that an actual job?"
+     1 string japanese = "こんなのやってどうするんだ？ゲーム開発でもするつもりか？まともな仕事か？"
+     1 string mchinese = "搞這些幹嘛？你以後要去做遊戲嗎？是正經職業嗎？"
+   [11661]
+    0 TableSoItemLang data
+     0 int id = 1021662
+     1 string schinese = "什么独立游戏？有钱不去赚，做这些情怀的东西。有钱不赚不是傻子吗？"
+     1 string schinese_censored = "什么独立游戏？有钱不去赚，做这些情怀的东西。有钱不赚不是傻子吗？"
+     1 string english = "What are indie games? There's money to be made but you're doing things you want to do. Are you stupid?"
+     1 string japanese = "インディーゲーム？理想ばかりでお金も稼がない。頭おかしいのか？"
+     1 string mchinese = "什麼獨立遊戲？有錢不去賺，做這些情懷的東西。有錢不賺不是傻子嗎？"
+   [11662]
+    0 TableSoItemLang data
+     0 int id = 1021663
+     1 string schinese = "你现在居然都能发技术博客了啊！这么多人关注？我看不错，顺便给我涨涨粉！"
+     1 string schinese_censored = "你现在居然都能发技术博客了啊！这么多人关注？我看不错，顺便给我涨涨粉！"
+     1 string english = "You're able to publish technical blogs? So many people are following you. That's pretty good. You can also help me earn some followers too."
+     1 string japanese = "技術ブログを投稿してるのか！フォロワーも多くて、すごいぞ！ついでにお父さんのブログもフォローしてくれ。"
+     1 string mchinese = "你現在居然都能發技術博客了啊！這麼多人關注？我看不錯，順便給我漲漲粉！"
+   [11663]
+    0 TableSoItemLang data
+     0 int id = 1021664
+     1 string schinese = "做什么游戏策划啊！好好学习，女孩子哪有做这个的！"
+     1 string schinese_censored = "做什么游戏策划啊！好好学习，女孩子哪有做这个的！"
+     1 string english = "Game design? Just focus on studying! There aren't any girls doing game design!"
+     1 string japanese = "何がゲームデザインだ！ちゃんと勉強しろ！こんな仕事をやってる女の子がどこにいるんだ？"
+     1 string mchinese = "做什麼遊戲策劃啊！好好學習，女孩子哪有做這個的！"
+   [11664]
+    0 TableSoItemLang data
+     0 int id = 1021665
+     1 string schinese = "什么都没干，就想着做领导了？不要想那么多好事儿！"
+     1 string schinese_censored = "什么都没干，就想着做领导了？不要想那么多好事儿！"
+     1 string english = "You do nothing but you want to become a leader? In your dreams!"
+     1 string japanese = "何もしないで管理者になれると？真面目にやれ！"
+     1 string mchinese = "什麼都沒幹，就想著做領導了？不要想那麼多好事兒！"
+   [11665]
+    0 TableSoItemLang data
+     0 int id = 1021666
+     1 string schinese = "这么专业的东西，也许你到工作那天，已经淘汰了，没用……"
+     1 string schinese_censored = "这么专业的东西，也许你到工作那天，已经淘汰了，没用……"
+     1 string english = "The thing you're learning is too technical! Maybe by the time you've found a job, it will already be useless..."
+     1 string japanese = "こんな専門的なこと、お前が就職する頃にはなくなってるぞ…"
+     1 string mchinese = "這麼專業的東西，也許你到工作那天，已經淘汰了，沒用……"
+   [11666]
+    0 TableSoItemLang data
+     0 int id = 1021667
+     1 string schinese = "人家演员都讲究个什么电影脸高级脸，你的脸型可比不过人家。"
+     1 string schinese_censored = "人家演员都讲究个什么电影脸高级脸，你的脸型可比不过人家。"
+     1 string english = "All the famous actors have really good looks. You're a bit lacking in that department."
+     1 string japanese = "ハハハ、お前が役者？お前の顔だと不合格だな！"
+     1 string mchinese = "人家演員都講究個什麼電影臉高級臉，你的臉型可比不過人家。"
+   [11667]
+    0 TableSoItemLang data
+     0 int id = 1021668
+     1 string schinese = "好多演员一辈子都混不出个名堂来，你还是多做两套题比较实在。"
+     1 string schinese_censored = "好多演员一辈子都混不出个名堂来，你还是多做两套题比较实在。"
+     1 string english = "A lot of actors don't make it. You're better off doing some more practice problems."
+     1 string japanese = "役者なんて一生かけても人気が出ない。問題集をもっとやったほうがいい。"
+     1 string mchinese = "好多演員一輩子都混不出個名堂來，你還是多做兩套題比較實在。"
+   [11668]
+    0 TableSoItemLang data
+     0 int id = 1021669
+     1 string schinese = "你这孩子怎么回事？在大街上耍宝，丢人不丢人？"
+     1 string schinese_censored = "你这孩子怎么回事？在大街上耍宝，丢人不丢人？"
+     1 string english = "What's wrong with you? Performing in the arts? Aren't you embarrassed?"
+     1 string japanese = "あんたの子は何をやってるんだ？ここは公の場だぞ。恥ずかしくないのか？"
+     1 string mchinese = "你這孩子怎麼回事？在大街上耍寶，丟人不丟人？"
+   [11669]
+    0 TableSoItemLang data
+     0 int id = 1021670
+     1 string schinese = "哈哈哈，你这段表演太逗了。过年的时候给全家人表演乐呵乐呵。"
+     1 string schinese_censored = "哈哈哈，你这段表演太逗了。过年的时候给全家人表演乐呵乐呵。"
+     1 string english = "Hahaha, that performance was hilarious. Prepare something for the whole family over Chinese New Year."
+     1 string japanese = "ハハハ、この芝居は面白いな。お正月にみんなの前で披露してくれ！"
+     1 string mchinese = "哈哈哈，你這段表演太逗了。過年的時候給全家人表演樂呵樂呵。"
+   [11670]
+    0 TableSoItemLang data
+     0 int id = 1021671
+     1 string schinese = "现在话剧演出不景气，你怎么就不听呢！"
+     1 string schinese_censored = "现在话剧演出不景气，你怎么就不听呢！"
+     1 string english = "The dramatic play industry is bad right now. Why won't you listen?"
+     1 string japanese = "今は話劇の時代じゃないし、お金も稼げない！なぜ言うことを聞かない！"
+     1 string mchinese = "現在話劇演出不景氣，你怎麼就不聽呢！"
+   [11671]
+    0 TableSoItemLang data
+     0 int id = 1021672
+     1 string schinese = "当主演了啊，我就说你这孩子是个成大事的，准能火！"
+     1 string schinese_censored = "当主演了啊，我就说你这孩子是个成大事的，准能火！"
+     1 string english = "Wow, you've become the main actor! I knew you were destined for great things!"
+     1 string japanese = "主役になったか。お前は必ず成功すると言ってただろ。人気者間違いなしだ！"
+     1 string mchinese = "當主演了啊，我就說你這孩子是個成大事的，准能火！"
+   [11672]
+    0 TableSoItemLang data
+     0 int id = 1021673
+     1 string schinese = "开拍的时候喊“开始”，结束的时候喊“卡”。你这导演位置让我来当着玩玩。"
+     1 string schinese_censored = "开拍的时候喊“开始”，结束的时候喊“卡”。你这导演位置让我来当着玩玩。"
+     1 string english = "Yell 'action' to start filming and 'cut' to stop filming. Hey, let me try being the director."
+     1 string japanese = "始める時は「アクション」、終わる時は「カット」か。監督は簡単そうだな。俺にもやらせてくれ。"
+     1 string mchinese = "開拍的時候喊“開始”，結束的時候喊“卡”。你這導演位置讓我來當著玩玩。"
+   [11673]
+    0 TableSoItemLang data
+     0 int id = 1021674
+     1 string schinese = "嗯，把你节省的压岁钱都放到储钱罐里！"
+     1 string schinese_censored = "嗯，把你节省的压岁钱都放到储钱罐里！"
+     1 string english = "Put all of your savings in the piggy bank!"
+     1 string japanese = "ほら、節約したお年玉を全部貯金箱に入れろ！"
+     1 string mchinese = "嗯，把你節省的壓歲錢都放到儲錢罐裏！"
+   [11674]
+    0 TableSoItemLang data
+     0 int id = 1021675
+     1 string schinese = "你都没有公司，管理什么财务？"
+     1 string schinese_censored = "你都没有公司，管理什么财务？"
+     1 string english = "You aren't even employed. Whose finances are you managing?"
+     1 string japanese = "会社もないのに、何の財務を管理するんだ？"
+     1 string mchinese = "你都沒有公司，管理什麼財務？"
+   [11675]
+    0 TableSoItemLang data
+     0 int id = 1021676
+     1 string schinese = "这么努力向上啊！以后去银行工作，工资高有地位，还能钓个金龟婿！"
+     1 string schinese_censored = "这么努力向上啊！以后去银行工作，工资高有面子！"
+     1 string english = "That's very ambitious! If you go to work at a bank, you will get a high-paying job! You might even find a good partner!"
+     1 string japanese = "努力してるな！銀行に就職しろ。給料は高いし、地位も高い！それに、いい男も見つかる！"
+     1 string mchinese = "這麼努力向上啊！以後去銀行工作，工資高有地位，還能釣個金龜婿！"
+   [11676]
+    0 TableSoItemLang data
+     0 int id = 1021677
+     1 string schinese = "这是金融还是数学？怎么全都是公式？"
+     1 string schinese_censored = "这是金融还是数学？怎么全都是公式？"
+     1 string english = "Is this finance or mathematics? Why is it all formulas?"
+     1 string japanese = "これは金融か？それとも数学？どうして公式ばっかりなんだ？"
+     1 string mchinese = "這是金融還是數學？怎麼全都是公式？"
+   [11677]
+    0 TableSoItemLang data
+     0 int id = 1021678
+     1 string schinese = "这是金融还是数学？怎么又全都是公式？为什么要说又呢？"
+     1 string schinese_censored = "这是金融还是数学？怎么又全都是公式？为什么要说又呢？"
+     1 string english = "Is this finance or mathematics? Why is it all formulas again? Why say 'again'?"
+     1 string japanese = "これは金融か？それとも数学？どうして公式ばっかりなんだ？…これ、一回言ってないか？"
+     1 string mchinese = "這是金融還是數學？怎麼又全都是公式？為什麼要說又呢？"
+   [11678]
+    0 TableSoItemLang data
+     0 int id = 1021679
+     1 string schinese = "对对对，我也赞同巴菲特！不过你一个女孩子又做不到别人的地位！"
+     1 string schinese_censored = "对对对，我也赞同巴菲特！不过你一个女孩子又做不到别人的地位！"
+     1 string english = "Yes, I agree with Buffett. But you're a girl so you can't get to where he is!"
+     1 string japanese = "そうそう、俺もバフェットに賛成だ！金持ちだしな！彼を模範にしろ！"
+     1 string mchinese = "對對對，我也贊同巴菲特！不過你一個女孩子又做不到別人的地位！"
+   [11679]
+    0 TableSoItemLang data
+     0 int id = 1021680
+     1 string schinese = "看这些书干嘛？说服别人有多难你还不知道？"
+     1 string schinese_censored = "看这些书干嘛？说服别人有多难你还不知道？"
+     1 string english = "Why are you reading these books? How hard is it to convince someone?"
+     1 string japanese = "こんな本読んでどうするんだ？俺に反抗するためか？"
+     1 string mchinese = "看這些書幹嘛？說服別人有多難你還不知道？"
+   [11680]
+    0 TableSoItemLang data
+     0 int id = 1021681
+     1 string schinese = "看什么辩论啊，嘴皮子没用！"
+     1 string schinese_censored = "看什么辩论啊，嘴皮子没用！"
+     1 string english = "What's the use in watching debates? There's no use just having a sharp tongue!"
+     1 string japanese = "なんで弁論を勉強するんだ。口先だけなのは無駄だぞ！"
+     1 string mchinese = "看什麼辯論啊，嘴皮子沒用！"
+   [11681]
+    0 TableSoItemLang data
+     0 int id = 1021682
+     1 string schinese = "学好数理化，走遍天下都不怕~"
+     1 string schinese_censored = "学好数理化，走遍天下都不怕~"
+     1 string english = "Learn mathematics, physics, and chemistry well and you'll be set for life."
+     1 string japanese = "数学、物理、化学が習得できたら、これからどこに行っても問題ない。"
+     1 string mchinese = "學好數理化，走遍天下都不怕~"
+   [11682]
+    0 TableSoItemLang data
+     0 int id = 1021683
+     1 string schinese = "你学这些数学知识，以后买菜又用不上"

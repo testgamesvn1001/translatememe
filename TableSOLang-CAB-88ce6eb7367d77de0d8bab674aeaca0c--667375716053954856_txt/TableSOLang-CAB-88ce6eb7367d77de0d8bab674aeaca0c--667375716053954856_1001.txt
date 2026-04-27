@@ -1,0 +1,184 @@
+     1 string schinese_censored = "挖情商属性是额外增加N点"
+     1 string english = "Gain 1 extra EQ when absorbing common EQ fragments."
+     1 string japanese = "ＥＱのカケラを吸収すると、ＥＱがさらに1増加する"
+     1 string mchinese = "每次挖普通情商腦洞時，額外獲得1點情商"
+   [22999]
+    0 TableSoItemLang data
+     0 int id = 873009
+     1 string schinese = "每次挖普通想象力脑洞时，额外获得1点想象力"
+     1 string schinese_censored = "挖想象力属性是额外增加N点"
+     1 string english = "Gain 1 extra Imagination when absorbing common Imagination fragments."
+     1 string japanese = "想像力のカケラを吸収すると、想像力がさらに1増加する"
+     1 string mchinese = "每次挖普通想像力腦洞時，額外獲得1點想像力"
+   [23000]
+    0 TableSoItemLang data
+     0 int id = 873010
+     1 string schinese = "每次挖普通记忆力脑洞时，额外获得1点记忆力"
+     1 string schinese_censored = "挖记忆力属性是额外增加N点"
+     1 string english = "Common Memory Fragments grant +1 extra Memory."
+     1 string japanese = "記憶力のカケラを吸収すると、記憶力がさらに1増加する"
+     1 string mchinese = "每次挖普通記憶力腦洞時，額外獲得1點記憶力"
+   [23001]
+    0 TableSoItemLang data
+     0 int id = 873011
+     1 string schinese = "每次挖普通体魄脑洞时，额外获得1点体魄"
+     1 string schinese_censored = "挖体魄属性是额外增加N点"
+     1 string english = "Common Constitution Fragments grant +1 extra Constitution."
+     1 string japanese = "体力のカケラを吸収すると、体力がさらに1増加する"
+     1 string mchinese = "每次挖普通體魄腦洞時，額外獲得1點體魄"
+   [23002]
+    0 TableSoItemLang data
+     0 int id = 873012
+     1 string schinese = "五大科目出成绩时，至少增加50点面子值"
+     1 string schinese_censored = "考试成绩保底增加50点面子值（可配置）"
+     1 string english = "Grants at least 50 Face when the exam results are made public."
+     1 string japanese = "主要五教科の成績が発表されるとき、メンツが最低50増加する"
+     1 string mchinese = "五大科目出成績時，至少增加50點面子值"
+   [23003]
+    0 TableSoItemLang data
+     0 int id = 873013
+     1 string schinese = "消耗品，可以使时光倒流，重新回到高考前并重新参加高考，每次佩戴消耗1个！"
+     1 string schinese_censored = "可以重新高考1次"
+     1 string english = "Consumable. Turns back time to before the Gaokao exam (single use)."
+     1 string japanese = "消耗品。時間を大学入試の前まで巻き戻し、もう一度受けることができる。装着するたびに１個消費！"
+     1 string mchinese = "消耗品，可以使時光倒流，重新回到高考前並重新參加高考，每次佩戴消耗1個！"
+   [23004]
+    0 TableSoItemLang data
+     0 int id = 873014
+     1 string schinese = "消耗品，使用可在高考中获得10~20分加分，每次佩戴消耗1个！"
+     1 string schinese_censored = "高考总分可以增加10~20分"
+     1 string english = "Consumable. Grants 10-20 extra points in the Gaokao exam (single use)."
+     1 string japanese = "消耗品。使用すると大学入試で10～20点加点される。装着するたびに１個消費！"
+     1 string mchinese = "消耗品，使用可在高考中獲得10~20分加分，每次佩戴消耗1個！"
+   [23005]
+    0 TableSoItemLang data
+     0 int id = 873015
+     1 string schinese = "高考时，发挥更稳定"
+     1 string schinese_censored = "高考时发挥失常减少，随机区间由-10%调整到-5%"
+     1 string english = "Improves your Gaokao performance!"
+     1 string japanese = "大学入試で安定して力を発揮できる"
+     1 string mchinese = "高考時，發揮更穩定"
+   [23006]
+    0 TableSoItemLang data
+     0 int id = 873016
+     1 string schinese = "选秀中，可以猜到一半特长的得分"
+     1 string schinese_censored = "可以猜到随机50%特长的分数"
+     1 string english = "Guess half of the trait in the show for extra points."
+     1 string japanese = "オーディションで半分の特技の得点を予想できる"
+     1 string mchinese = "選秀中，可以猜到一半特長的得分"
+   [23007]
+    0 TableSoItemLang data
+     0 int id = 873017
+     1 string schinese = "如果没拿到红包则会得到一份小红包"
+     1 string schinese_censored = "如果没拿到红包则会得到一份小红包（正常红包的50%）"
+     1 string english = "Get a small Red Envelope if you fail to otherwise get one."
+     1 string japanese = "お年玉がもらえなかったとき、少額のお年玉をもらうことができる"
+     1 string mchinese = "如果沒拿到紅包則會得到一份小紅包"
+   [23008]
+    0 TableSoItemLang data
+     0 int id = 873018
+     1 string schinese = "沟通类技能的悟性消耗降低15%"
+     1 string schinese_censored = "每论辩论固定增加自己或减少对手得票率0.5%"
+     1 string english = "-15% Knowledge requirement for Communication skills."
+     1 string japanese = "意志疎通系スキルの理解力消費が15%減少する"
+     1 string mchinese = "溝通類技能的悟性消耗降低15%"
+   [23009]
+    0 TableSoItemLang data
+     0 int id = 873019
+     1 string schinese = "餐饮类技能的悟性消耗降低15%"
+     1 string schinese_censored = "针对话柄的攻击效果提升50%"
+     1 string english = "-15% Knowledge requirement for Cuisine skills."
+     1 string japanese = "飲食系スキルの理解力消費が15%減少する"
+     1 string mchinese = "餐飲類技能的悟性消耗降低15%"
+   [23010]
+    0 TableSoItemLang data
+     0 int id = 873020
+     1 string schinese = "班长竞选中，每一项初始得票率都增加1%"
+     1 string schinese_censored = "初始群众基础得票率提高3%（随机分散到3项上，对手随机项减少）"
+     1 string english = "+1% chance for initial votes for class president selection."
+     1 string japanese = "学級委員選挙で、各項目の初期得票率が1%増加する"
+     1 string mchinese = "班長競選中，每一項初始得票率都增加1%"
+   [23011]
+    0 TableSoItemLang data
+     0 int id = 873021
+     1 string schinese = "作文小游戏中，四个维度的初始分数各增加100"
+     1 string schinese_censored = "作文灵感增加固定值"
+     1 string english = "+100 initial score for each grading in the Writing minigame."
+     1 string japanese = "作文ミニゲームで、４項目の初期スコアがそれぞれ100増加する"
+     1 string mchinese = "作文小遊戲中，四個維度的初始分數各增加100"
+   [23012]
+    0 TableSoItemLang data
+     0 int id = 873022
+     1 string schinese = "消耗品，在相亲时使用可提高求婚成功率，每次佩戴消耗1个！"
+     1 string schinese_censored = "求婚成功率提高"
+     1 string english = "Consumable. Increases your proposal success rate (single use)."
+     1 string japanese = "消耗品。お見合いのときにプロポーズ成功率が上がる。装着するたびに１個消費！"
+     1 string mchinese = "消耗品，在相親時使用可提高求婚成功率，每次佩戴消耗1個！"
+   [23013]
+    0 TableSoItemLang data
+     0 int id = 873023
+     1 string schinese = "社交时若选错选项，对方50%概率不会发脾气（好感度下降）"
+     1 string schinese_censored = "攻略对象50%概率不会对你发脾气（好感度下降）"
+     1 string english = "50% chance friends won't get mad (lose Intimacy) when choosing wrong dialogue."
+     1 string japanese = "社交で選択肢を間違えたとき、50%の確率で相手が怒らない（好感度が下がらない）"
+     1 string mchinese = "社交時若選錯選項，對方50%概率不會發脾氣（好感度下降）"
+   [23014]
+    0 TableSoItemLang data
+     0 int id = 873024
+     1 string schinese = "每回合额外增加3点智商"
+     1 string schinese_censored = "智商每回合额外增加2点"
+     1 string english = "+3 IQ per turn."
+     1 string japanese = "毎ターン、ＩＱがさらに3増加する"
+     1 string mchinese = "每回合額外增加3點智商"
+   [23015]
+    0 TableSoItemLang data
+     0 int id = 873025
+     1 string schinese = "每回合额外增加3点记忆力"
+     1 string schinese_censored = "记忆力每回合额外增加2点"
+     1 string english = "+3 Memory per turn."
+     1 string japanese = "毎ターン、記憶力がさらに3増加する"
+     1 string mchinese = "每回合額外增加3點記憶力"
+   [23016]
+    0 TableSoItemLang data
+     0 int id = 873026
+     1 string schinese = "每回合额外增加3点想象力"
+     1 string schinese_censored = "想象力每回合额外增加2点"
+     1 string english = "+3 Imagination per turn."
+     1 string japanese = "毎ターン、想像力がさらに3増加する"
+     1 string mchinese = "每回合額外增加3點想像力"
+   [23017]
+    0 TableSoItemLang data
+     0 int id = 873027
+     1 string schinese = "每回合额外增加3点体魄"
+     1 string schinese_censored = "魅力每回合额外增加2点"
+     1 string english = "+3 Constitution per turn."
+     1 string japanese = "毎ターン、体力がさらに3増加する"
+     1 string mchinese = "每回合額外增加3點體魄"
+   [23018]
+    0 TableSoItemLang data
+     0 int id = 873028
+     1 string schinese = "每回合额外增加3点情商"
+     1 string schinese_censored = "情商每回合额外增加2点"
+     1 string english = "+3 EQ per turn."
+     1 string japanese = "毎ターン、ＥＱがさらに3増加する"
+     1 string mchinese = "每回合額外增加3點情商"
+   [23019]
+    0 TableSoItemLang data
+     0 int id = 873029
+     1 string schinese = "学习课程时消耗的悟性减少10点（可低于最低消耗悟性）"
+     1 string schinese_censored = "学习技能固定减少消耗的悟性值"
+     1 string english = "-10% Knowledge cost for taking classes (may dip below minimum)."
+     1 string japanese = "学習で消費する理解力が10減少する（理解力の最低消費数にかかわらない）"
+     1 string mchinese = "學習課程時消耗的悟性減少10點（可低於最低消耗悟性）"
+   [23020]
+    0 TableSoItemLang data
+     0 int id = 873030
+     1 string schinese = "学技能时10%概率不消耗悟性"
+     1 string schinese_censored = "学技能时10%不消耗悟性"
+     1 string english = "10% chance not to consume Knowledge when studying skills."
+     1 string japanese = "学習のとき、10%の確率で理解力を消費しない"
+     1 string mchinese = "學技能時10%概率不消耗悟性"
+   [23021]
+    0 TableSoItemLang data
+     0 int id = 873031
+     1 string schinese = "高考相关课程的悟性消耗降低15%"

@@ -1,0 +1,184 @@
+     1 string schinese_censored = "高考类技能的悟性消耗降低15%"
+     1 string english = "-15% Knowledge cost for taking Gaokao classes."
+     1 string japanese = "大学入試に関する学習の理解力消費が15%減少する"
+     1 string mchinese = "高考相關課程的悟性消耗降低15%"
+   [23022]
+    0 TableSoItemLang data
+     0 int id = 873032
+     1 string schinese = "体格类课程的悟性消耗降低15%"
+     1 string schinese_censored = "体育类技能的悟性消耗降低15%"
+     1 string english = "-15% Knowledge cost for taking Fitness classes."
+     1 string japanese = "スポーツに関する学習の理解力消費が15%減少する"
+     1 string mchinese = "體格類課程的悟性消耗降低15%"
+   [23023]
+    0 TableSoItemLang data
+     0 int id = 873033
+     1 string schinese = "艺术类课程的悟性消耗降低15%"
+     1 string schinese_censored = "艺术类技能的悟性消耗降低15%"
+     1 string english = "-15% Knowledge cost for taking Art classes."
+     1 string japanese = "芸術に関する学習の理解力消費が15%減少する"
+     1 string mchinese = "藝術類課程的悟性消耗降低15%"
+   [23024]
+    0 TableSoItemLang data
+     0 int id = 873034
+     1 string schinese = "学术研究类课程的悟性消耗降低15%"
+     1 string schinese_censored = "编程类技能的悟性消耗降低15%"
+     1 string english = "-15% Knowledge cost for taking Acedemic classes."
+     1 string japanese = "学術研究に関する学習の理解力消費が15%減少する"
+     1 string mchinese = "學術研究類課程的悟性消耗降低15%"
+   [23025]
+    0 TableSoItemLang data
+     0 int id = 873035
+     1 string schinese = "学会某个技能"
+     1 string schinese_censored = "学会某个技能"
+     1 string english = "廢棄字段不用翻譯873035"
+     1 string japanese = "廢棄字段不用翻譯"
+     1 string mchinese = "學會某個技能"
+   [23026]
+    0 TableSoItemLang data
+     0 int id = 873036
+     1 string schinese = "每次做试卷，都能多1次换试卷的机会"
+     1 string schinese_censored = "每次试卷，都能多1次换试卷的机会"
+     1 string english = "+1 change exam chance when taking exams."
+     1 string japanese = "テストのとき、問題をさらに１回変更できるようになる"
+     1 string mchinese = "每次做試卷，都能多1次換試卷的機會"
+   [23027]
+    0 TableSoItemLang data
+     0 int id = 1118416
+     1 string schinese = "这次统测，我们三年二班的优秀尖子生夺得了市状元，太争气了！我们可算在其他名校面前扬眉吐气了一回！"
+     1 string schinese_censored = "这次统测，我们三年二班的优秀尖子生夺得了市状元，太争气了！我们可算在其他名校面前扬眉吐气了一回！"
+     1 string english = "During these city-wide tests, the top student of grade 3 class 2 won first place! Now that's a mean feat! We've shown that our school is a cut above the rest!"
+     1 string japanese = "今回の統一試験で、３年２組の優等生が一番になりました。素晴らしい！他の名門校の上に立てて鼻が高いよ！"
+     1 string mchinese = "這次統測，我們三年二班的優秀尖子生奪得了市狀元，太爭氣了！我們可算在其他名校面前揚眉吐氣了一回！"
+   [23028]
+    0 TableSoItemLang data
+     0 int id = 1118417
+     1 string schinese = "这次统测的年级第一出在三年二班！希望同学们以他为榜样，学习争当领头羊，成绩更上一层楼！"
+     1 string schinese_censored = "这次统测的年级第一出在三年二班！希望同学们以他为榜样，学习争当领头羊，成绩更上一层楼！"
+     1 string english = "The top student of grade 3 class 2 had the best score in these city-wide tests. I'd advise you to look to them as a role model for how to up your game!"
+     1 string japanese = "今回の統一試験の学年１位は３年２組の生徒です！この子を見習って、しっかり学習に励みなさい！"
+     1 string mchinese = "這次統測的年級第一出在三年二班！希望同學們以他為榜樣，學習爭當領頭羊，成績更上一層樓！"
+   [23029]
+    0 TableSoItemLang data
+     0 int id = 1118418
+     1 string schinese = "这次统测的年级前三分别来自一班、二班和五班！希望同学们再接再厉，下次统测拿到更好的成绩！"
+     1 string schinese_censored = "这次统测的年级前三分别来自一班、二班和五班！希望同学们再接再厉，下次统测拿到更好的成绩！"
+     1 string english = "The top three students come from classes 1, 2, and 5! May the rest of you continue working hard so you can do better next time!"
+     1 string japanese = "今回の統一試験の学年トップ３は１組、２組、５組の生徒です！しっかり勉強して、次の試験ではもっと良い成績が取れるように！"
+     1 string mchinese = "這次統測的年級前三分別來自一班、二班和五班！希望同學們再接再厲，下次統測拿到更好的成績！"
+   [23030]
+    0 TableSoItemLang data
+     0 int id = 1122602
+     1 string schinese = "校长"
+     1 string schinese_censored = "校长"
+     1 string english = "Principal"
+     1 string japanese = "校長"
+     1 string mchinese = "校長"
+   [23031]
+    0 TableSoItemLang data
+     0 int id = 1122603
+     1 string schinese = "新闻"
+     1 string schinese_censored = "新闻"
+     1 string english = "News"
+     1 string japanese = "ニュース"
+     1 string mchinese = "新聞"
+   [23032]
+    0 TableSoItemLang data
+     0 int id = 1122604
+     1 string schinese = "教练"
+     1 string schinese_censored = "教练"
+     1 string english = "Coach"
+     1 string japanese = "コーチ"
+     1 string mchinese = "教練"
+   [23033]
+    0 TableSoItemLang data
+     0 int id = 880001
+     1 string schinese = "响亮的名字 · I"
+     1 string schinese_censored = "响亮的名字 · I"
+     1 string english = "Good Name I"
+     1 string japanese = "輝かしい名前・I"
+     1 string mchinese = "響亮的名字 · I"
+   [23034]
+    0 TableSoItemLang data
+     0 int id = 880002
+     1 string schinese = "响亮的名字 · II"
+     1 string schinese_censored = "响亮的名字 · II"
+     1 string english = "Good Name II"
+     1 string japanese = "輝かしい名前・II"
+     1 string mchinese = "響亮的名字 · II"
+   [23035]
+    0 TableSoItemLang data
+     0 int id = 880003
+     1 string schinese = "响亮的名字 · III"
+     1 string schinese_censored = "响亮的名字 · III"
+     1 string english = "Good Name III"
+     1 string japanese = "輝かしい名前・III"
+     1 string mchinese = "響亮的名字 · III"
+   [23036]
+    0 TableSoItemLang data
+     0 int id = 880004
+     1 string schinese = "购物天堂 · I"
+     1 string schinese_censored = "购物天堂 · I"
+     1 string english = "Shopping Heaven I"
+     1 string japanese = "買い物天国・I"
+     1 string mchinese = "購物天堂 · I"
+   [23037]
+    0 TableSoItemLang data
+     0 int id = 880005
+     1 string schinese = "购物天堂 · II"
+     1 string schinese_censored = "购物天堂 · II"
+     1 string english = "Shopping Heaven II"
+     1 string japanese = "買い物天国・II"
+     1 string mchinese = "購物天堂 · II"
+   [23038]
+    0 TableSoItemLang data
+     0 int id = 880006
+     1 string schinese = "购物天堂 · III"
+     1 string schinese_censored = "购物天堂 · III"
+     1 string english = "Shopping Heaven III"
+     1 string japanese = "買い物天国・III"
+     1 string mchinese = "購物天堂 · III"
+   [23039]
+    0 TableSoItemLang data
+     0 int id = 880007
+     1 string schinese = "学霸 · I"
+     1 string schinese_censored = "学霸 · I"
+     1 string english = "Ace Student I"
+     1 string japanese = "ガリ勉・I"
+     1 string mchinese = "學霸 · I"
+   [23040]
+    0 TableSoItemLang data
+     0 int id = 880008
+     1 string schinese = "学霸 · II"
+     1 string schinese_censored = "学霸 · II"
+     1 string english = "Ace Student II"
+     1 string japanese = "ガリ勉・II"
+     1 string mchinese = "學霸 · II"
+   [23041]
+    0 TableSoItemLang data
+     0 int id = 880009
+     1 string schinese = "学霸 · III"
+     1 string schinese_censored = "学霸 · III"
+     1 string english = "Ace Student III"
+     1 string japanese = "ガリ勉・III"
+     1 string mchinese = "學霸 · III"
+   [23042]
+    0 TableSoItemLang data
+     0 int id = 880010
+     1 string schinese = "有面儿 · I"
+     1 string schinese_censored = "有面儿 · I"
+     1 string english = "Have Face I"
+     1 string japanese = "メンツ維持・I"
+     1 string mchinese = "有面兒 · I"
+   [23043]
+    0 TableSoItemLang data
+     0 int id = 880011
+     1 string schinese = "有面儿 · II"
+     1 string schinese_censored = "有面儿 · II"
+     1 string english = "Have Face II"
+     1 string japanese = "メンツ維持・II"
+     1 string mchinese = "有面兒 · II"
+   [23044]
+    0 TableSoItemLang data
+     0 int id = 880012
+     1 string schinese = "有面儿 · III"

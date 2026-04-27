@@ -1,0 +1,184 @@
+     1 string schinese_censored = "爸爸觉得，容易被带坏，跟老师反映了一下"
+     1 string english = "Your dad thinks you take after bad habits and talks to your teacher."
+     1 string japanese = "お父さんは影響を恐れて、先生に席替えを提案した"
+     1 string mchinese = "爸爸覺得，容易被帶壞，跟老師反映了一下"
+   [3702]
+    0 TableSoItemLang data
+     0 int id = 1013703
+     1 string schinese = "妈妈觉得很安心"
+     1 string schinese_censored = "妈妈觉得很安心"
+     1 string english = "Your mom relaxes."
+     1 string japanese = "お母さんは安心し納得してくれた"
+     1 string mchinese = "媽媽覺得很安心"
+   [3703]
+    0 TableSoItemLang data
+     0 int id = 1013704
+     1 string schinese = "爸妈知道了真相，赶紧和老师说要求换同桌"
+     1 string schinese_censored = "爸妈知道了真相，赶紧和老师说要求换同桌"
+     1 string english = "Your parents know the truth and asks the teacher to give you a new desk mate."
+     1 string japanese = "両親が詳細を知って、もう一度席替えをするよう先生に要求した"
+     1 string mchinese = "爸媽知道了真相，趕緊和老師說要求換同桌"
+   [3704]
+    0 TableSoItemLang data
+     0 int id = 1013705
+     1 string schinese = "小偷骂了你一句多管闲事。"
+     1 string schinese_censored = "小偷骂了你一句多管闲事。"
+     1 string english = "The thief curses you for sticking your nose where it doesn't belong and quickly leaves."
+     1 string japanese = "スリは文句を言いながら逃げた"
+     1 string mchinese = "小偷罵了你一句多管閒事。"
+   [3705]
+    0 TableSoItemLang data
+     0 int id = 1013706
+     1 string schinese = "最后发生了什么，你也不知道了"
+     1 string schinese_censored = "最后发生了什么，你也不知道了"
+     1 string english = "You've no idea what happened in the end."
+     1 string japanese = "その後どうなったかはわからない"
+     1 string mchinese = "最後發生了什麼，你也不知道了"
+   [3706]
+    0 TableSoItemLang data
+     0 int id = 1013707
+     1 string schinese = "被小偷团伙打了一顿，被偷的乘客怕赔钱，说你多管闲事，并下车了"
+     1 string schinese_censored = "被小偷团伙打了一顿，被偷的乘客怕赔钱，说你多管闲事，并下车了"
+     1 string english = "The thieves beat you, and the passenger whose things were stolen berates you for not minding your own business, after all, the passenger doesn't want to pay your medical bill."
+     1 string japanese = "スリとその仲間に殴られ、乗客も面倒を嫌い「余計なことを」と言いながら降りていった"
+     1 string mchinese = "被小偷團夥打了一頓，被偷的乘客怕賠錢，說你多管閒事，並下車了"
+   [3707]
+    0 TableSoItemLang data
+     0 int id = 1013708
+     1 string schinese = "逐渐变成仇敌，最终形同陌路"
+     1 string schinese_censored = "逐渐变成仇敌，最终形同陌路"
+     1 string english = "You turn into enemies and finally into strangers."
+     1 string japanese = "徐々に仲が悪くなり、最終的には関わらなくなった"
+     1 string mchinese = "逐漸變成仇敵，最終形同陌路"
+   [3708]
+    0 TableSoItemLang data
+     0 int id = 1013709
+     1 string schinese = "开始心态发生了变化，最终不说话了"
+     1 string schinese_censored = "开始心态发生了变化，最终不说话了"
+     1 string english = "You feel the mood changing and in the end both of you stop talking."
+     1 string japanese = "気持ちに変化は起きたが、最終的には話さなくなった"
+     1 string mchinese = "開始心態發生了變化，最終不說話了"
+   [3709]
+    0 TableSoItemLang data
+     0 int id = 1013710
+     1 string schinese = "后来发现考试成绩还是比他高"
+     1 string schinese_censored = "后来发现考试成绩还是比他高"
+     1 string english = "In the end, your test scores were higher than his."
+     1 string japanese = "実際は自分の成績の方が高いことに気づいた"
+     1 string mchinese = "後來發現考試成績還是比他高"
+   [3710]
+    0 TableSoItemLang data
+     0 int id = 1013711
+     1 string schinese = "喝完之后精神抖擞"
+     1 string schinese_censored = "喝完之后精神抖擞"
+     1 string english = "Drinking it raises your spirit considerably."
+     1 string japanese = "飲んだ後、すぐに元気になった"
+     1 string mchinese = "喝完之後精神抖擻"
+   [3711]
+    0 TableSoItemLang data
+     0 int id = 1013712
+     1 string schinese = "喝完之后，鼻血直流"
+     1 string schinese_censored = "喝完之后，鼻血直流"
+     1 string english = "After drinking it your nose starts bleeding profusely."
+     1 string japanese = "飲んだ後、鼻血が出た"
+     1 string mchinese = "喝完之後，鼻血直流"
+   [3712]
+    0 TableSoItemLang data
+     0 int id = 1013713
+     1 string schinese = "喝完也没什么感觉"
+     1 string schinese_censored = "喝完也没什么感觉"
+     1 string english = "You don't feel anything special after drinking it."
+     1 string japanese = "飲んだ後、特に変化はなかった"
+     1 string mchinese = "喝完也沒什麼感覺"
+   [3713]
+    0 TableSoItemLang data
+     0 int id = 1013714
+     1 string schinese = "最后发现同学们都去，你也就跟着去了"
+     1 string schinese_censored = "最后发现同学们都去，你也就跟着去了"
+     1 string english = "You find that all your classmates are going, so you join them."
+     1 string japanese = "同級生がみんな行くので、結局一緒に行った"
+     1 string mchinese = "最後發現同學們都去，你也就跟著去了"
+   [3714]
+    0 TableSoItemLang data
+     0 int id = 1013715
+     1 string schinese = "发现同学们都在，觉得很有安全感"
+     1 string schinese_censored = "发现同学们都在，觉得很有安全感"
+     1 string english = "You realize that all of your classmates are there, which makes you feel safe."
+     1 string japanese = "同級生がみんないて、安心した"
+     1 string mchinese = "發現同學們都在，覺得很有安全感"
+   [3715]
+    0 TableSoItemLang data
+     0 int id = 1013716
+     1 string schinese = "于是，大家都忘记这件事了"
+     1 string schinese_censored = "于是，大家都忘记这件事了"
+     1 string english = "And it so happens everyone forgot about it entirely."
+     1 string japanese = "そして、行くことを忘れてしまった"
+     1 string mchinese = "於是，大家都忘記這件事了"
+   [3716]
+    0 TableSoItemLang data
+     0 int id = 1013717
+     1 string schinese = "似乎也没什么进步"
+     1 string schinese_censored = "似乎也没什么进步"
+     1 string english = "Seems as if you're not making any progress."
+     1 string japanese = "あまり進歩はなかった…"
+     1 string mchinese = "似乎也沒什麼進步"
+   [3717]
+    0 TableSoItemLang data
+     0 int id = 1013718
+     1 string schinese = "似乎也没什么进步"
+     1 string schinese_censored = "似乎也没什么进步"
+     1 string english = "Seems as if you're not making any progress."
+     1 string japanese = "あまり進歩はなかった…"
+     1 string mchinese = "似乎也沒什麼進步"
+   [3718]
+    0 TableSoItemLang data
+     0 int id = 1013719
+     1 string schinese = "心态平稳，学习有了稳步提升"
+     1 string schinese_censored = "心态平稳，学习有了稳步提升"
+     1 string english = "You remain calm and make steady strides in your study."
+     1 string japanese = "心が落ち着き、勉強が捗った"
+     1 string mchinese = "心態平穩，學習有了穩步提升"
+   [3719]
+    0 TableSoItemLang data
+     0 int id = 1013720
+     1 string schinese = "被妈妈教育没有教养"
+     1 string schinese_censored = "被妈妈教育没有教养"
+     1 string english = "Mom scolds you for being badly educated."
+     1 string japanese = "「お母さんの躾がなってない」と怒られた"
+     1 string mchinese = "被媽媽教育沒有教養"
+   [3720]
+    0 TableSoItemLang data
+     0 int id = 1013721
+     1 string schinese = "妈妈没有理会你"
+     1 string schinese_censored = "妈妈没有理会你"
+     1 string english = "Mom ignores you."
+     1 string japanese = "お母さんに無視された"
+     1 string mchinese = "媽媽沒有理會你"
+   [3721]
+    0 TableSoItemLang data
+     0 int id = 1013722
+     1 string schinese = "回来后妈妈夸你懂事"
+     1 string schinese_censored = "回来后妈妈夸你懂事"
+     1 string english = "When you return home, your mom praises you for showing tact."
+     1 string japanese = "帰ってから「空気を読んだのね」とお母さんに褒められた"
+     1 string mchinese = "回來後媽媽誇你懂事"
+   [3722]
+    0 TableSoItemLang data
+     0 int id = 1013723
+     1 string schinese = "后来被那个女生知道，告诉你了的好朋友"
+     1 string schinese_censored = "后来被那个女生知道，告诉你了的好朋友"
+     1 string english = "She finds out about it and tells your friends."
+     1 string japanese = "後からバレて、親友にも伝えられた"
+     1 string mchinese = "後來被那個女生知道，告訴你了的好朋友"
+   [3723]
+    0 TableSoItemLang data
+     0 int id = 1013724
+     1 string schinese = "跟好朋友聊了好久，两人的关系更加亲密了"
+     1 string schinese_censored = "跟好朋友聊了好久，两人的关系更加亲密了"
+     1 string english = "You chat with your friend for a long time and your relationship deepens."
+     1 string japanese = "長い時間話し合って、更に仲が良くなった"
+     1 string mchinese = "跟好朋友聊了好久，兩人的關係更加親密了"
+   [3724]
+    0 TableSoItemLang data
+     0 int id = 1013725
+     1 string schinese = "好朋友发现了你的情绪并安慰了你"

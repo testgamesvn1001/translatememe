@@ -1,0 +1,184 @@
+     1 string schinese_censored = "天时地利，我们再没有理由失败了。"
+     1 string english = "The time is ripe and the place is right. Let's put the lineup we've been practicing for a long time to good use!"
+     1 string japanese = "こっちに有利だ。練習を積んできたパーティーで戦える！"
+     1 string mchinese = "天時地利，我們練了好長時間的陣容拿出來，安排上！"
+   [23275]
+    0 TableSoItemLang data
+     0 int id = 110119
+     1 string schinese = "只要我们打出自己的风采和节奏就可以赢！就像昨天训练赛一样，我们是可以赢的！"
+     1 string schinese_censored = "只要我们打出自己的风采和节奏就可以赢！就像昨天训练赛一样，我们是可以赢的。"
+     1 string english = "We can win if we just play at our own pace and with our style! Just like in the training match yesterday. We can do it!"
+     1 string japanese = "俺たちのやり方とリズムで戦えば勝てる！昨日の練習試合みたいに、勝てるんだ！"
+     1 string mchinese = "只要我們打出自己的風采和節奏就可以贏！就像昨天訓練賽一樣，我們是可以贏的！"
+   [23276]
+    0 TableSoItemLang data
+     0 int id = 111247
+     1 string schinese = "上一把的错误在复盘的时候已经反思过了，既然吸取了教训，大家就不要多放在心上。"
+     1 string schinese_censored = "上一把的错误在复盘的时候已经反思过了，既然吸取了教训，大家就不要多放在心上。"
+     1 string english = "We all reflected upon the mistakes of the last game after watching the replay. We've learned our lesson, just put it behind you."
+     1 string japanese = "この前の失敗はすでに反省して、教訓にしている。いつまでも気にかけておく必要はない。"
+     1 string mchinese = "上一把的錯誤在複盤的時候已經反思過了，既然吸取了教訓，大家就不要多放在心上。"
+   [23277]
+    0 TableSoItemLang data
+     0 int id = 111248
+     1 string schinese = "现在最重要的是放下压力、放平心态，就像在网吧开黑一样。"
+     1 string schinese_censored = "现在最重要的是放下压力、放平心态，就像在网吧开黑一样。"
+     1 string english = "The most important thing is to let go of the pressure and put your mind at ease, as if we are playing for fun."
+     1 string japanese = "今一番大事なのは、プレッシャーから逃れて、平常心になることだ。ネットカフェで対戦するみたいにね。"
+     1 string mchinese = "現在最重要的是放下壓力、放平心態，就像在網吧開黑一樣。"
+   [23278]
+    0 TableSoItemLang data
+     0 int id = 111249
+     1 string schinese = "开开心心地、尽全力打好当下的比赛，相信我们可以赢！"
+     1 string schinese_censored = "开开心心地、尽全力打好当下的比赛，相信自己可以赢。"
+     1 string english = "Enjoy the game and do your best in the coming match, I believe we can win this!"
+     1 string japanese = "楽しく、そして全力で目の前の試合を戦えば、私たちは勝てるはずだ！"
+     1 string mchinese = "開開心心地、盡全力打好當下的比賽，相信我們可以贏！"
+   [23279]
+    0 TableSoItemLang data
+     0 int id = 111287
+     1 string schinese = "今天彩排明天比赛的入场仪式，近距离看到了冠军奖杯。"
+     1 string schinese_censored = "今天彩排明天比赛的入场仪式，近距离看到了冠军奖杯。"
+     1 string english = "We went through a rehearsal for the entrance ceremony for tomorrow's match. I got to see the trophy up close."
+     1 string japanese = "今日は、明日の試合の入場リハーサルがある。近くで優勝トロフィーを見られるぞ。"
+     1 string mchinese = "今天彩排明天比賽的入場儀式，近距離看到了冠軍獎盃。"
+   [23280]
+    0 TableSoItemLang data
+     0 int id = 111288
+     1 string schinese = "冠军奖杯比想象中的还漂亮……捧起来一定很重吧。"
+     1 string schinese_censored = "冠军奖杯真漂亮啊……好想把他带回家，拿给爸妈看看。"
+     1 string english = "The trophy is even more beautiful than I imagined... I'm sure it's really heavy."
+     1 string japanese = "思ったよりきれいだな…。きっと持ち上げたら重いんだろうな。"
+     1 string mchinese = "冠軍獎盃比想像中的還漂亮……捧起來一定很重吧。"
+   [23281]
+    0 TableSoItemLang data
+     0 int id = 111297
+     1 string schinese = "接下来对战的双方战队可是渊源颇深啊。"
+     1 string schinese_censored = "接下来对战的双方战队可是渊源颇深啊。"
+     1 string english = "The next two teams to play against each other have a history that goes back a long way."
+     1 string japanese = "続いて対戦する両チームには深い因縁があります。"
+     1 string mchinese = "接下來對戰的雙方戰隊可是淵源頗深啊。"
+   [23282]
+    0 TableSoItemLang data
+     0 int id = 111298
+     1 string schinese = "赛区齐名的两大老将，狂小鱼和十哥即将带领他们的新队友再次在决赛的舞台上正面对抗，一决高下！"
+     1 string schinese_censored = "曾为队友的两名天才少年{主角}和{小茂}即将正面对抗，一决高下！"
+     1 string english = "The two veterans of the tournament, UZU and OpaqueLove, are about to lead their new teammates head-to-head in the finals once again!"
+     1 string japanese = "あの、クアン・シャオユとシーが新たなチームメートを連れ、再び決勝の舞台で相まみえます！"
+     1 string mchinese = "賽區齊名的兩大老將，狂小魚和十哥即將帶領他們的新隊友再次在決賽的舞臺上正面對抗，一決高下！"
+   [23283]
+    0 TableSoItemLang data
+     0 int id = 111299
+     1 string schinese = "老牌豪门对阵卫冕冠军！天王山之战即将开始！"
+     1 string schinese_censored = "昔日豪门对阵卫冕冠军！天王山之战即将开始！"
+     1 string english = "A big team versus the reigning champion! The most important battle so far is about to begin!"
+     1 string japanese = "古豪と前回優勝チームのぶつかり合い！頂上決戦の始まりです！"
+     1 string mchinese = "老牌豪門對陣衛冕冠軍！天王山之戰即將開始！"
+   [23284]
+    0 TableSoItemLang data
+     0 int id = 111300
+     1 string schinese = "本来以为今年不会有机会录决赛垃圾话的，没想到竟然走到了这里，对不起黑粉们让你们失望了。"
+     1 string schinese_censored = "本来以为今年不会有机会录垃圾话的，没想到竟然走到了这里，对不起黑粉们让你们失望了。"
+     1 string english = "I didn't expect to have the chance to record the pre-final trash talk this year, never really thought I would get this far. Sorry haters for disappointing you!"
+     1 string japanese = "決勝で挑発する機会もないと思ってたけど、ここまで来てしまったよ。アンチのみんな、がっかりさせてごめんね。"
+     1 string mchinese = "本來以為今年不會有機會錄決賽垃圾話的，沒想到竟然走到了這裏，對不起黑粉們讓你們失望了。"
+   [23285]
+    0 TableSoItemLang data
+     0 int id = 111301
+     1 string schinese = "真的让我对十哥前辈说垃圾话我说不出口，因为他是我的偶像！"
+     1 string schinese_censored = "让我对｛前辈｝说垃圾话的话我说不出口，因为我是他的粉丝！"
+     1 string english = "Really I can't trash talk OpaqueLove senpai, he's my idol!"
+     1 string japanese = "シーさんには何も言えない。俺のアイドルだからな！"
+     1 string mchinese = "真的讓我對十哥前輩說垃圾話我說不出口，因為他是我的偶像！"
+   [23286]
+    0 TableSoItemLang data
+     0 int id = 111302
+     1 string schinese = "你们是不可能打败我的，两百斤的漫天飞羽糊脸怎么输。"
+     1 string schinese_censored = "你们是不可能打败我的，两百斤的漫天飞羽糊脸怎么输。"
+     1 string english = "You won't beat me. How am I supposed to lose when I shove 200 pounds of Feather Storm in your face?"
+     1 string japanese = "１００ｋｇのフライングフェザーを食らえ。"
+     1 string mchinese = "你們是不可能打敗我的，兩百斤的漫天飛羽糊臉怎麼輸。"
+   [23287]
+    0 TableSoItemLang data
+     0 int id = 111303
+     1 string schinese = "MCG没什么好研究的，已经打过很多次了。我已经在研究世界赛的对手了。"
+     1 string schinese_censored = "｛宿敌队｝没什么好研究的，已经打过很多次了。我已经在研究下一场的对手了。"
+     1 string english = "There's no need to research MCG any further, we've fought them many times before. Instead, I'm looking into our opponents in the World Championship."
+     1 string japanese = "ＭＣＧに研究する価値はない。もう何回も勝ってるからな。世界大会の研究に忙しいんだ。"
+     1 string mchinese = "MCG沒什麼好研究的，已經打過很多次了。我已經在研究世界賽的對手了。"
+   [23288]
+    0 TableSoItemLang data
+     0 int id = 111304
+     1 string schinese = "现在我的状态特别好，就算面对瓜皮大魔王我也有信心能单杀他。（小声）反正他也来不了。"
+     1 string schinese_censored = "看到那个奖杯了么？他马上就是我们的了。"
+     1 string english = "I'm in such good shape now that I'm confident I can solo even Faker. [In a low voice] He won't be there anyway."
+     1 string japanese = "俺のコンディションは最高だぜ。今ならＦａｐｅｒだって一人で倒せる。（小声）どうせあいつは来ないけどな。"
+     1 string mchinese = "現在我的狀態特別好，就算面對瓜皮大魔王我也有信心能單殺他。（小聲）反正他也來不了。"
+   [23289]
+    0 TableSoItemLang data
+     0 int id = 111305
+     1 string schinese = "看到那个奖杯了么？他马上就是我们的了。"
+     1 string schinese_censored = "恭喜我的好朋友兼好对手{小茂}喜提亚军，不过冠军我就拿走了！"
+     1 string english = "See that trophy? It'll be ours soon."
+     1 string japanese = "あのトロフィーが見えるか？もうすぐ僕たちの物になるんだ。"
+     1 string mchinese = "看到那個獎盃了麼？他馬上就是我們的了。"
+   [23290]
+    0 TableSoItemLang data
+     0 int id = 196826
+     1 string schinese = "十哥"
+     1 string schinese_censored = "十哥"
+     1 string english = "OpaqueLove"
+     1 string japanese = "シー"
+     1 string mchinese = "十哥"
+   [23291]
+    0 TableSoItemLang data
+     0 int id = 196827
+     1 string schinese = "小鱼"
+     1 string schinese_censored = "小鱼"
+     1 string english = "UZU"
+     1 string japanese = "シャオユ"
+     1 string mchinese = "小魚"
+   [23292]
+    0 TableSoItemLang data
+     0 int id = 880081
+     1 string schinese = "联赛冠军"
+     1 string schinese_censored = "联赛冠军"
+     1 string english = "League Champion"
+     1 string japanese = "リーグ戦優勝"
+     1 string mchinese = "聯賽冠軍"
+   [23293]
+    0 TableSoItemLang data
+     0 int id = 881081
+     1 string schinese = "在电竞人生中获得联赛冠军"
+     1 string schinese_censored = "在电竞人生中获得联赛冠军"
+     1 string english = "Win the League Champion in E-Sports Life"
+     1 string japanese = "ｅスポーツ人生においてリーグ戦優勝を果たす"
+     1 string mchinese = "在電競人生中獲得聯賽冠軍"
+   [23294]
+    0 TableSoItemLang data
+     0 int id = 1108770
+     1 string schinese = "英雄海"
+     1 string schinese_censored = "英雄海"
+     1 string english = "Vast Arsenal"
+     1 string japanese = "得意キャラいっぱい"
+     1 string mchinese = "英雄海"
+   [23295]
+    0 TableSoItemLang data
+     0 int id = 1108771
+     1 string schinese = "电竞爱迪生"
+     1 string schinese_censored = "电竞爱迪生"
+     1 string english = "E-Sports Edison"
+     1 string japanese = "ゲーミングエジソン"
+     1 string mchinese = "電競愛迪生"
+   [23296]
+    0 TableSoItemLang data
+     0 int id = 1108772
+     1 string schinese = "带预言家"
+     1 string schinese_censored = "带预言家"
+     1 string english = "Grand Foreteller"
+     1 string japanese = "予言者よ来たれ"
+     1 string mchinese = "帶預言家"
+   [23297]
+    0 TableSoItemLang data
+     0 int id = 1108773
+     1 string schinese = "提款机养成计划"

@@ -1,0 +1,184 @@
+     1 string schinese_censored = "多读名著"
+     1 string english = "Read Famous Works"
+     1 string japanese = "名作乱読"
+     1 string mchinese = "多讀名著"
+   [3035]
+    0 TableSoItemLang data
+     0 int id = 1013036
+     1 string schinese = "奥赛加分"
+     1 string schinese_censored = "奥赛加分"
+     1 string english = "Mathematical Olympiad"
+     1 string japanese = "数学オリンピックの点数アップ"
+     1 string mchinese = "奧賽加分"
+   [3036]
+    0 TableSoItemLang data
+     0 int id = 1013037
+     1 string schinese = "察言观色"
+     1 string schinese_censored = "察言观色"
+     1 string english = "Reading Others"
+     1 string japanese = "空気を読む"
+     1 string mchinese = "察言觀色"
+   [3037]
+    0 TableSoItemLang data
+     0 int id = 1013038
+     1 string schinese = "人缘好"
+     1 string schinese_censored = "人缘好"
+     1 string english = "Popular"
+     1 string japanese = "良好な人間関係"
+     1 string mchinese = "人緣好"
+   [3038]
+    0 TableSoItemLang data
+     0 int id = 1013039
+     1 string schinese = "有骨气"
+     1 string schinese_censored = "有骨气"
+     1 string english = "Have Backbone"
+     1 string japanese = "気骨がある"
+     1 string mchinese = "有骨氣"
+   [3039]
+    0 TableSoItemLang data
+     0 int id = 1013040
+     1 string schinese = "一目十行"
+     1 string schinese_censored = "一目十行"
+     1 string english = "Speed Reading"
+     1 string japanese = "一目十行"
+     1 string mchinese = "一目十行"
+   [3040]
+    0 TableSoItemLang data
+     0 int id = 1013041
+     1 string schinese = "艺术追求"
+     1 string schinese_censored = "艺术追求"
+     1 string english = "Pursue Art"
+     1 string japanese = "芸術求道者"
+     1 string mchinese = "藝術追求"
+   [3041]
+    0 TableSoItemLang data
+     0 int id = 1013042
+     1 string schinese = "反应速度"
+     1 string schinese_censored = "反应速度"
+     1 string english = "Reaction Speed"
+     1 string japanese = "反応速度"
+     1 string mchinese = "反應速度"
+   [3042]
+    0 TableSoItemLang data
+     0 int id = 1013043
+     1 string schinese = "体魄强健"
+     1 string schinese_censored = "体魄强健"
+     1 string english = "Strengthen Constitut."
+     1 string japanese = "強靭な肉体"
+     1 string mchinese = "體魄強健"
+   [3043]
+    0 TableSoItemLang data
+     0 int id = 1013044
+     1 string schinese = "表演舞蹈"
+     1 string schinese_censored = "表演舞蹈"
+     1 string english = "Dance Performance"
+     1 string japanese = "ダンスを披露"
+     1 string mchinese = "表演舞蹈"
+   [3044]
+    0 TableSoItemLang data
+     0 int id = 1013045
+     1 string schinese = "不乱发脾气"
+     1 string schinese_censored = "不乱发脾气"
+     1 string english = "Don't Lose Your Temper"
+     1 string japanese = "癇癪を起こさない"
+     1 string mchinese = "不亂髮脾氣"
+   [3045]
+    0 TableSoItemLang data
+     0 int id = 1013046
+     1 string schinese = "快点答应"
+     1 string schinese_censored = "快点答应"
+     1 string english = "Quick Response"
+     1 string japanese = "返事は早く"
+     1 string mchinese = "快點答應"
+   [3046]
+    0 TableSoItemLang data
+     0 int id = 1013047
+     1 string schinese = "学会友善"
+     1 string schinese_censored = "学会友善"
+     1 string english = "Learn to Be Friendly"
+     1 string japanese = "フレンドリー"
+     1 string mchinese = "學會友善"
+   [3047]
+    0 TableSoItemLang data
+     0 int id = 1013048
+     1 string schinese = "自我鼓励"
+     1 string schinese_censored = "自我鼓励"
+     1 string english = "Self Motivation"
+     1 string japanese = "自分を励ます"
+     1 string mchinese = "自我鼓勵"
+   [3048]
+    0 TableSoItemLang data
+     0 int id = 1013049
+     1 string schinese = "艺术体操"
+     1 string schinese_censored = "艺术体操"
+     1 string english = "Eurhythmics"
+     1 string japanese = "新体操"
+     1 string mchinese = "藝術體操"
+   [3049]
+    0 TableSoItemLang data
+     0 int id = 1013050
+     1 string schinese = "销售经理资质"
+     1 string schinese_censored = "销售经理资质"
+     1 string english = "Sales Manager Course"
+     1 string japanese = "営業課長の素質"
+     1 string mchinese = "銷售經理資質"
+   [3050]
+    0 TableSoItemLang data
+     0 int id = 1013051
+     1 string schinese = "程序员资质"
+     1 string schinese_censored = "程序员资质"
+     1 string english = "Programming Course"
+     1 string japanese = "プログラマの素質"
+     1 string mchinese = "程式員資質"
+   [3051]
+    0 TableSoItemLang data
+     0 int id = 1013052
+     1 string schinese = "话事人资质"
+     1 string schinese_censored = "话事人资质"
+     1 string english = "Speaking Course"
+     1 string japanese = "評論家の素質"
+     1 string mchinese = "話事人資質"
+   [3052]
+    0 TableSoItemLang data
+     0 int id = 1013053
+     1 string schinese = "忍者资质"
+     1 string schinese_censored = "忍者资质"
+     1 string english = "Ninja Course"
+     1 string japanese = "忍者の素質"
+     1 string mchinese = "忍者資質"
+   [3053]
+    0 TableSoItemLang data
+     0 int id = 1013054
+     1 string schinese = "网红资质"
+     1 string schinese_censored = "网红资质"
+     1 string english = "Cewebrity Course"
+     1 string japanese = "ネット有名人の素質"
+     1 string mchinese = "網紅資質"
+   [3054]
+    0 TableSoItemLang data
+     0 int id = 1013055
+     1 string schinese = "巨星资质"
+     1 string schinese_censored = "巨星资质"
+     1 string english = "Superstar Course"
+     1 string japanese = "スーパースターの素質"
+     1 string mchinese = "巨星資質"
+   [3055]
+    0 TableSoItemLang data
+     0 int id = 1013056
+     1 string schinese = "销售总监资质"
+     1 string schinese_censored = "销售总监资质"
+     1 string english = "Sales Director Course"
+     1 string japanese = "営業部長の素質"
+     1 string mchinese = "銷售總監資質"
+   [3056]
+    0 TableSoItemLang data
+     0 int id = 1013057
+     1 string schinese = "IT科学家资质"
+     1 string schinese_censored = "计算机科学家资质"
+     1 string english = "IT Scientist Course"
+     1 string japanese = "ＩＴ科学者の素質"
+     1 string mchinese = "IT科學家資質"
+   [3057]
+    0 TableSoItemLang data
+     0 int id = 1013058
+     1 string schinese = "数学家资质"

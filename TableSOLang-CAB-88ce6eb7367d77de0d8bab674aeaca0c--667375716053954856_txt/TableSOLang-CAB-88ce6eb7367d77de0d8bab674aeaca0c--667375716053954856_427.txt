@@ -1,0 +1,184 @@
+     1 string schinese_censored = "别看！"
+     1 string english = "Don't look!"
+     1 string japanese = "見ないで！"
+     1 string mchinese = "別看！"
+   [9797]
+    0 TableSoItemLang data
+     0 int id = 1019798
+     1 string schinese = "为什么不让看啊，我刚刚看到了！我一个花园！"
+     1 string schinese_censored = "为什么不让看啊，我刚刚看到了！我一个花园！"
+     1 string english = "Why won't you let me look? I took a peek and saw that you were drawing a garden?"
+     1 string japanese = "どうして！？ちょっとだけ見えたけど、それ、庭だよね？"
+     1 string mchinese = "為什麼不讓看啊，我剛剛看到了！我一個花園！"
+   [9798]
+    0 TableSoItemLang data
+     0 int id = 1019799
+     1 string schinese = "怎么哭啦！我不看了，你别哭了"
+     1 string schinese_censored = "怎么哭啦！我不看了，你别哭了"
+     1 string english = "Wait, don't cry. I won't look anymore so don't cry."
+     1 string japanese = "えっ、なんで泣くの！？ごめんよ、もう見ないから泣かないで！"
+     1 string mchinese = "怎麼哭啦！我不看了，你別哭了"
+   [9799]
+    0 TableSoItemLang data
+     0 int id = 1019800
+     1 string schinese = "你觉得责任重要吗？"
+     1 string schinese_censored = "你觉得责任重要吗？"
+     1 string english = "Do you think responsibility is important?"
+     1 string japanese = "責任感って大切よね？"
+     1 string mchinese = "你覺得責任重要嗎？"
+   [9800]
+    0 TableSoItemLang data
+     0 int id = 1019801
+     1 string schinese = "当然重要啊，为什么这么说"
+     1 string schinese_censored = "当然重要啊，为什么这么说"
+     1 string english = "Yes, of course. Why do you ask?"
+     1 string japanese = "もちろん。どうして？"
+     1 string mchinese = "當然重要啊，為什麼這麼說"
+   [9801]
+    0 TableSoItemLang data
+     0 int id = 1019802
+     1 string schinese = "我妈妈因为爱上一个艺术家，抛弃我和我爸了！"
+     1 string schinese_censored = "我妈妈因为爱上一个艺术家，抛弃我和我爸了！"
+     1 string english = "My mom fell in love with an artist and left us."
+     1 string japanese = "お母さんが芸術家と恋に落ちて、私とお父さんを見捨てたの！"
+     1 string mchinese = "我媽媽因為愛上一個藝術家，拋棄我和我爸了！"
+   [9802]
+    0 TableSoItemLang data
+     0 int id = 1019803
+     1 string schinese = "我的天，怎么可能！"
+     1 string schinese_censored = "我的天，怎么可能！"
+     1 string english = "Oh my, how did that happen?"
+     1 string japanese = "えっ、そんな…"
+     1 string mchinese = "我的天，怎麼可能！"
+   [9803]
+    0 TableSoItemLang data
+     0 int id = 1019804
+     1 string schinese = "你觉得追求自己的幸福重要，还是家人的幸福更重要？"
+     1 string schinese_censored = "你觉得追求自己的幸福重要，还是家人的幸福更重要？"
+     1 string english = "Do you think your own happiness is more important than your family's happiness?"
+     1 string japanese = "あなた、自分の幸せと家族の幸せ、どっちが重要？"
+     1 string mchinese = "你覺得追求自己的幸福重要，還是家人的幸福更重要？"
+   [9804]
+    0 TableSoItemLang data
+     0 int id = 1019805
+     1 string schinese = "我觉得……都重要啦……"
+     1 string schinese_censored = "我觉得……都重要啦……"
+     1 string english = "I think...they're both equally important..."
+     1 string japanese = "どっちも…重要かな…"
+     1 string mchinese = "我覺得……都重要啦……"
+   [9805]
+    0 TableSoItemLang data
+     0 int id = 1019806
+     1 string schinese = "那就是什么都没说！"
+     1 string schinese_censored = "那就是什么都没说！"
+     1 string english = "I regret asking you!"
+     1 string japanese = "そんなの答えじゃない！"
+     1 string mchinese = "那就是什麼都沒說！"
+   [9806]
+    0 TableSoItemLang data
+     0 int id = 1019807
+     1 string schinese = "我还是觉得，人不仅要追求自己的快乐，也要顾及到其他人！"
+     1 string schinese_censored = "我还是觉得，人不仅要追求自己的快乐，也要顾及到其他人！"
+     1 string english = "I think people should pursue their own happiness and take care of others as well!"
+     1 string japanese = "人は自分の幸せと同時に他人の幸せも追求しないといけないと思うよ。"
+     1 string mchinese = "我還是覺得，人不僅要追求自己的快樂，也要顧及到其他人！"
+   [9807]
+    0 TableSoItemLang data
+     0 int id = 1019808
+     1 string schinese = "快起来，来我们一起去看展览吧"
+     1 string schinese_censored = "快起来，来我们一起去看展览吧"
+     1 string english = "Get up. Let's go to the exhibition together."
+     1 string japanese = "起きて。展覧会に行こうよ。"
+     1 string mchinese = "快起來，來我們一起去看展覽吧"
+   [9808]
+    0 TableSoItemLang data
+     0 int id = 1019809
+     1 string schinese = "不要"
+     1 string schinese_censored = "不要"
+     1 string english = "No."
+     1 string japanese = "イヤ。"
+     1 string mchinese = "不要"
+   [9809]
+    0 TableSoItemLang data
+     0 int id = 1019810
+     1 string schinese = "那我们去参加朗诵会怎么样，今天是读书日！"
+     1 string schinese_censored = "那我们去参加朗诵会怎么样，今天是读书日！"
+     1 string english = "Then let's go to the reading."
+     1 string japanese = "じゃあ、朗読会は？今日は読書の日だよ！"
+     1 string mchinese = "那我們去參加朗誦會怎麼樣，今天是讀書日！"
+   [9810]
+    0 TableSoItemLang data
+     0 int id = 1019811
+     1 string schinese = "不要"
+     1 string schinese_censored = "不要"
+     1 string english = "No."
+     1 string japanese = "イヤ。"
+     1 string mchinese = "不要"
+   [9811]
+    0 TableSoItemLang data
+     0 int id = 1019812
+     1 string schinese = "那……我陪你画画吧！"
+     1 string schinese_censored = "那……我陪你画画吧！"
+     1 string english = "Then... I'll draw with you!"
+     1 string japanese = "じゃあ…一緒に絵を描こうよ！"
+     1 string mchinese = "那……我陪你畫畫吧！"
+   [9812]
+    0 TableSoItemLang data
+     0 int id = 1019813
+     1 string schinese = "不要，你就是打死我，逼我跳下去，我也不想去任何地方！"
+     1 string schinese_censored = "不要，你就是打死我，逼我跳下去，我也不想去任何地方！"
+     1 string english = "No. I won't go anywhere even if you beat me or force me!"
+     1 string japanese = "イヤ、死んでもイヤ！どこにも行きたくない！"
+     1 string mchinese = "不要，你就是打死我，逼我跳下去，我也不想去任何地方！"
+   [9813]
+    0 TableSoItemLang data
+     0 int id = 1019814
+     1 string schinese = "我知道一个地方，你去了肯定喜欢！不过我要保密，否则就没效果了"
+     1 string schinese_censored = "我知道一个地方，你去了肯定喜欢！不过我要保密，否则就没效果了"
+     1 string english = "I know of a place you'll definitely like. But you need to keep it a secret!"
+     1 string japanese = "実はとっておきの場所を知ってるんだ。絶対に気に入るよ。でも、秘密にしてくれなきゃ嫌だよ！"
+     1 string mchinese = "我知道一個地方，你去了肯定喜歡！不過我要保密，否則就沒效果了"
+   [9814]
+    0 TableSoItemLang data
+     0 int id = 1019815
+     1 string schinese = "真的吗？"
+     1 string schinese_censored = "真的吗？"
+     1 string english = "Really?"
+     1 string japanese = "それってホント？"
+     1 string mchinese = "真的嗎？"
+   [9815]
+    0 TableSoItemLang data
+     0 int id = 1019816
+     1 string schinese = "（看来上套了）"
+     1 string schinese_censored = "（看来上套了）"
+     1 string english = "(She looks interested.)"
+     1 string japanese = "（かかった）"
+     1 string mchinese = "（看來上套了）"
+   [9816]
+    0 TableSoItemLang data
+     0 int id = 1019817
+     1 string schinese = "怎么样，好吃吗？"
+     1 string schinese_censored = "怎么样，好吃吗？"
+     1 string english = "How is it? Good?"
+     1 string japanese = "どう、美味しい？"
+     1 string mchinese = "怎麼樣，好吃嗎？"
+   [9817]
+    0 TableSoItemLang data
+     0 int id = 1019818
+     1 string schinese = "哎呀，真香！"
+     1 string schinese_censored = "哎呀，真香！"
+     1 string english = "Yes, it smells good!"
+     1 string japanese = "うん！美味しい！"
+     1 string mchinese = "哎呀，真香！"
+   [9818]
+    0 TableSoItemLang data
+     0 int id = 1019819
+     1 string schinese = "哈哈，所以精神世界没法让你愉悦起来，味觉是可以的！"
+     1 string schinese_censored = "哈哈，所以精神世界没法让你愉悦起来，味觉是可以的！"
+     1 string english = "Haha, I couldn't raise your spirits, but this can!"
+     1 string japanese = "ハハ、一人でこもってても幸せになれないよ。でも味覚は嘘をつかない！"
+     1 string mchinese = "哈哈，所以精神世界沒法讓你愉悅起來，味覺是可以的！"
+   [9819]
+    0 TableSoItemLang data
+     0 int id = 1019820
+     1 string schinese = "还有很多美好的东西，等待发掘，看看周围的世界吧！"

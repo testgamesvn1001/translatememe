@@ -1,0 +1,184 @@
+     1 string schinese_censored = "你开始喜欢吃辣、甜的东西，不喜欢吃家里清淡的饭"
+     1 string english = "You begin to like spicy and sweet foods and dislike the bland food at home."
+     1 string japanese = "あなたはだんだん濃い味が好きになり、家の薄味に興味を失った。"
+     1 string mchinese = "你開始喜歡吃辣、甜的東西，不喜歡吃家裏清淡的飯"
+   [7612]
+    0 TableSoItemLang data
+     0 int id = 1017613
+     1 string schinese = "地方台开始播放日本动画“足球大将”，校园足球瞬间火爆起来，常用门柱为书包、板砖、自行车，常用球为矿泉水瓶子"
+     1 string schinese_censored = "地方台开始播放日本动画“足球大将”，校园足球瞬间火爆起来，常用门柱为书包、板砖、自行车，常用球为矿泉水瓶子"
+     1 string english = "A local TV station broadcasts a football anime and all of the kids at school go crazy over it."
+     1 string japanese = "ローカルで日本アニメの「キャプテンＴ」が放送された。学校でサッカーがブームになり、いろんな物をボールにして遊んだ。"
+     1 string mchinese = "地方臺開始播放日本動畫“足球大將”，校園足球瞬間火爆起來，常用門柱為書包、板磚、自行車，常用球為礦泉水瓶子"
+   [7613]
+    0 TableSoItemLang data
+     0 int id = 1017614
+     1 string schinese = "你把学校加餐的钱弄丢了，又不敢告诉家里，整整一学期的加餐时段你都是在看着同学们吃饭"
+     1 string schinese_censored = "你把学校加餐的钱弄丢了，又不敢告诉家里，整整一学期的加餐时段你都是在看着同学们吃饭"
+     1 string english = "You lose the money for your entire term's extra school meal but daren't tell your parents."
+     1 string japanese = "給食費をなくしたことを親に言うのが怖かった。１学期の間ずっとヨダレを垂らしながら同級生の食事を見ていた。"
+     1 string mchinese = "你把學校加餐的錢弄丟了，又不敢告訴家裏，整整一學期的加餐時段你都是在看著同學們吃飯"
+   [7614]
+    0 TableSoItemLang data
+     0 int id = 1017615
+     1 string schinese = "每天放学，校门口的地摊都是人满为患，今天有个同学想顺手牵羊结果被抓个正着，看来他的麻烦大了"
+     1 string schinese_censored = "每天放学，校门口的地摊都是人满为患，今天有个同学想顺手牵羊结果被抓个正着，看来他的麻烦大了"
+     1 string english = "The peddlers' blankets outside school are filled with wares, and you classmate tries to steal something."
+     1 string japanese = "毎日放課後、大人気の売店で万引きをしようとする同級生がいた。その場でバレて大変なことになっていた。"
+     1 string mchinese = "每天放學，校門口的地攤都是人滿為患，今天有個同學想順手牽羊結果被抓個正著，看來他的麻煩大了"
+   [7615]
+    0 TableSoItemLang data
+     0 int id = 1017616
+     1 string schinese = "你和同学打赌赢了，但对方不认账，妈妈说小孩子不能打赌，但爸爸之前说做人要说话算话"
+     1 string schinese_censored = "你和同学打赌赢了，但对方不认账，妈妈说小孩子不能打赌，但爸爸之前说做人要说话算话"
+     1 string english = "You win a bet against a classmate, but they refuse to pay up. Mom says children shouldn't gamble."
+     1 string japanese = "賭けに勝ったが相手に言い逃れられた。お母さんは「賭けはよくない」と言った。お父さんは「言い逃れはよくない」と言った。"
+     1 string mchinese = "你和同學打賭贏了，但對方不認賬，媽媽說小孩子不能打賭，但爸爸之前說做人要說話算話"
+   [7616]
+    0 TableSoItemLang data
+     0 int id = 1017617
+     1 string schinese = "你总是趴在桌子上，占据了很大地方，同桌要和你划清界限，并且真的在桌子上用小刀刻出了一条线"
+     1 string schinese_censored = "你总是趴在桌子上，占据了很大地方，同桌要和你划清界限，并且真的在桌子上用小刀刻出了一条线"
+     1 string english = "You always rest on your desk so your deskmate carves a dividing line with a knife."
+     1 string japanese = "いつも机の大半をあなたが奪っている。隣の席の子が陣地をはっきりしようと、カッターで机に線を引いた。"
+     1 string mchinese = "你總是趴在桌子上，佔據了很大地方，同桌要和你劃清界限，並且真的在桌子上用小刀刻出了一條線"
+   [7617]
+    0 TableSoItemLang data
+     0 int id = 1017618
+     1 string schinese = "爸爸试着帮你扎小辫子，结果把你弄疼了，小伙伴还笑话辫子扎得不好看。\n——改编自 <color=#18AF46> @咪呜Mew </color> 的故事"
+     1 string schinese_censored = "爸爸试着帮你扎小辫子，结果把你弄疼了，小伙伴还笑话辫子扎得不好看。"
+     1 string english = "Dad tries to help you make a braid. Unfortunately, all you get out of it is pain."
+     1 string japanese = "お父さんがあなたの髪を編んでくれた。痛かった割に友達からは「変な髪形」と笑われた。"
+     1 string mchinese = "爸爸試著幫你紮小辮子，結果把你弄疼了，小夥伴還笑話辮子紮得不好看。\n——改編自 <color=#18AF46> @咪嗚Mew </color> 的故事"
+   [7618]
+    0 TableSoItemLang data
+     0 int id = 1017619
+     1 string schinese = "老师不许大家化妆，爱美的女生就涂有颜色的润唇膏。"
+     1 string schinese_censored = "老师不许大家化妆，爱美的女生就涂有颜色的润唇膏。"
+     1 string english = "The teacher doesn't allow anyone to put on makeup, so the girls use colored lip balm."
+     1 string japanese = "学校では化粧が禁止されている。可愛くなりたい女の子は色付きリップを塗っている。"
+     1 string mchinese = "老師不許大家化妝，愛美的女生就塗有顏色的潤唇膏。"
+   [7619]
+    0 TableSoItemLang data
+     0 int id = 1017620
+     1 string schinese = "随着年纪增长，女生们纷纷开始穿抹胸或者小背心了。"
+     1 string schinese_censored = "随着年纪增长，女生们纷纷开始穿抹胸或者小背心了。"
+     1 string english = "As they grow older, the girls are starting to wear sports bras and camisoles."
+     1 string japanese = "成長につれ女の子がキャミソールやブラジャーを着始めた。"
+     1 string mchinese = "隨著年紀增長，女生們紛紛開始穿抹胸或者小背心了。"
+   [7620]
+    0 TableSoItemLang data
+     0 int id = 1017621
+     1 string schinese = "同桌长长的辫子，被班里调皮的男生一剪刀剪了，结果那个男生被女生追了三层楼。\n——改编自 <color=#18AF46> @一只柠檬子的猪猪廷 </color> 的故事"
+     1 string schinese_censored = "同桌长长的辫子，被班里调皮的男生一剪刀剪了，结果那个男生被女生追了三层楼。"
+     1 string english = "The baddest boy in the class cuts off your deskmate's long braids."
+     1 string japanese = "クラスで一番やんちゃな男の子が、隣の子の三つ編みをハサミで切った。校舎中、女子に追いかけられてた。"
+     1 string mchinese = "同桌長長的辮子，被班裏調皮的男生一剪刀剪了，結果那個男生被女生追了三層樓。\n——改編自 <color=#18AF46> @一只檸檬子的豬豬廷 </color> 的故事"
+   [7621]
+    0 TableSoItemLang data
+     0 int id = 1017622
+     1 string schinese = "同学送你的贺卡，小礼物，还有分别时候的签名衣，都被你收在了一个小宝库里。\n——改编自 <color=#18AF46> @一颗美葱 </color> 的故事"
+     1 string schinese_censored = "同学送你的贺卡，小礼物，还有分别时候的签名衣，都被你收在了一个小宝库里。"
+     1 string english = "A classmate sends you a greeting card, which you place in a little treasury of yours."
+     1 string japanese = "同級生からもらったグリーティングカードやプレゼントは全部宝箱にしまっている。"
+     1 string mchinese = "同學送你的賀卡，小禮物，還有分別時候的簽名衣，都被你收在了一個小寶庫裏。\n——改編自 <color=#18AF46> @一顆美蔥 </color> 的故事"
+   [7622]
+    0 TableSoItemLang data
+     0 int id = 1017623
+     1 string schinese = "你因为在路边摊乱吃零食得了急性肠胃炎，爸爸决定减少你的零花钱让你长长记性"
+     1 string schinese_censored = "你因为在路边摊乱吃零食得了急性肠胃炎，爸爸决定减少你的零花钱让你长长记性"
+     1 string english = "You get ill after eating food from a street vendor. Dad decides to cut your allowance."
+     1 string japanese = "屋台であれこれ食べて急性胃腸炎になった。お父さんは、買い食いできないようお小遣いを減らすことにした。"
+     1 string mchinese = "你因為在路邊攤亂吃零食得了急性腸胃炎，爸爸決定減少你的零花錢讓你長長記性"
+   [7623]
+    0 TableSoItemLang data
+     0 int id = 1017624
+     1 string schinese = "你发现老师在处理同学间矛盾时总是偏向学习成绩好的一方，妈妈说这有利于提高学生学习热情，是正确的"
+     1 string schinese_censored = "你发现老师在处理同学间矛盾时总是偏向学习成绩好的一方，妈妈说这有利于提高学生学习热情，是正确的"
+     1 string english = "You notice that your teacher is biased toward the children with better grades."
+     1 string japanese = "先生が成績のいい子をひいきしていることに気づいた。お母さんが「それは競争意識と勉強意欲を高めるためよ」と言った。"
+     1 string mchinese = "你發現老師在處理同學間矛盾時總是偏向學習成績好的一方，媽媽說這有利於提高學生學習熱情，是正確的"
+   [7624]
+    0 TableSoItemLang data
+     0 int id = 1017625
+     1 string schinese = "被后座的同学恶搞，站起来凳子被抽走，坐下时后脑勺磕到了桌边，一整天晕晕乎乎"
+     1 string schinese_censored = "被后座的同学恶搞，站起来凳子被抽走，坐下时后脑勺磕到了桌边，一整天晕晕乎乎"
+     1 string english = "A classmate pulls away your chair as you sit. You hit your head when you try to sit on air."
+     1 string japanese = "後ろの席の子がイタズラで椅子を引いた。あなたは頭を机にぶつけて一日中ぼんやりしていた。"
+     1 string mchinese = "被後座的同學惡搞，站起來凳子被抽走，坐下時後腦勺磕到了桌邊，一整天暈暈乎乎"
+   [7625]
+    0 TableSoItemLang data
+     0 int id = 1017626
+     1 string schinese = "班里来了个富家子弟，买干脆面都是整箱买，他只要里面的卡片，吃的全分给了同学，你感受到了阶层的差距"
+     1 string schinese_censored = "班里来了个新同学，买干脆面都是整箱买，他只要里面的卡片，吃的全分给了同学"
+     1 string english = "There's a rich child in class who buys instant noodles by the box, only for the collectible cards!"
+     1 string japanese = "お金持ちの子は、いつもお菓子を箱で買っている。オマケのカードだけ取って、お菓子は分けてくれた。階級の差を感じた。"
+     1 string mchinese = "班裏來了個富家子弟，買乾脆面都是整箱買，他只要裏面的卡片，吃的全分給了同學，你感受到了階層的差距"
+   [7626]
+    0 TableSoItemLang data
+     0 int id = 1017627
+     1 string schinese = "好朋友离家出走要来你这住两天，你毫不犹豫就答应了，不过还没吃晚饭他爸爸就把他接走了"
+     1 string schinese_censored = "好朋友离家出走要来你这住两天，你毫不犹豫就答应了，不过还没吃晚饭他爸爸就把他接走了"
+     1 string english = "Your friend asks to stay over and you accept without hesitation."
+     1 string japanese = "親友に「家出したから、しばらく泊めてくれ」と頼まれた。迷わず了解したが、晩御飯すら食べていないまま親に連れ戻された。"
+     1 string mchinese = "好朋友離家出走要來你這住兩天，你毫不猶豫就答應了，不過還沒吃晚飯他爸爸就把他接走了"
+   [7627]
+    0 TableSoItemLang data
+     0 int id = 1017628
+     1 string schinese = "母亲说你最近怎么不爱吃饭了！你想说辣条有多好吃 你们一无所知"
+     1 string schinese_censored = "母亲说你最近怎么不爱吃饭了！你想说辣条有多好吃 你们一无所知"
+     1 string english = "Mom asks why you aren't eating much lately. Oh, how you want to tell her how good snacks are."
+     1 string japanese = "お母さんが「最近あまり食欲ないね」と言った。それに対して、あなたは「ラーティアオのうまさを教えてやりたい」と思った。"
+     1 string mchinese = "母親說你最近怎麼不愛吃飯了！你想說辣條有多好吃 你們一無所知"
+   [7628]
+    0 TableSoItemLang data
+     0 int id = 1017629
+     1 string schinese = "喜欢某个球星，想去现场看球，但是父母觉得太费钱了，说电视看看就可以"
+     1 string schinese_censored = "喜欢某个球星，想去现场看球，但是父母觉得太费钱了，说电视看看就可以"
+     1 string english = "You admire a footballer and want to see a match live, but your parents think it'd be a waste."
+     1 string japanese = "あるサッカー選手のファンになったので、どうしても生で観戦したいと親にせがんだが、「お金がかかるからテレビにしろ」と言われた。"
+     1 string mchinese = "喜歡某個球星，想去現場看球，但是父母覺得太費錢了，說電視看看就可以"
+   [7629]
+    0 TableSoItemLang data
+     0 int id = 1017630
+     1 string schinese = "突然发现长得好看的同学总是受老师欢迎，犯了错误也容易原谅。自己犯错误就被罚"
+     1 string schinese_censored = "突然发现长得好看的同学总是受老师欢迎，犯了错误也容易原谅。自己犯错误就被罚"
+     1 string english = "You suddenly realize that the teacher favors the good-looking kids. Life ain't fair."
+     1 string japanese = "顔がいい子は先生に好かれているのに気づいた。ミスをしてもすぐ許してもらっている。あなただと怒られる。"
+     1 string mchinese = "突然發現長得好看的同學總是受老師歡迎，犯了錯誤也容易原諒。自己犯錯誤就被罰"
+   [7630]
+    0 TableSoItemLang data
+     0 int id = 1017631
+     1 string schinese = "你发现其他同学比自己长得更快了，座位从倒数慢慢前进到前面了，你很焦虑"
+     1 string schinese_censored = "你发现其他同学比自己长得更快了，座位从倒数慢慢前进到前面了，你很焦虑"
+     1 string english = "You notice how the other kids grow quicker than you, and you move up the rows in class."
+     1 string japanese = "あなたは成長が遅い。教室の席がだんだん前になっていくことに焦った。"
+     1 string mchinese = "你發現其他同學比自己長得更快了，座位從倒數慢慢前進到前面了，你很焦慮"
+   [7631]
+    0 TableSoItemLang data
+     0 int id = 1017632
+     1 string schinese = "父亲说自己小时候过年从不买新衣服，你也要像爸爸一样坚持这样的品德"
+     1 string schinese_censored = "父亲说自己小时候过年从不买新衣服，你也要像爸爸一样坚持这样的品德"
+     1 string english = "Dad says he never used to buy new clothes before the Spring Festival, so you follow his tradition."
+     1 string japanese = "お父さんは「小さい頃は、正月でもめったに新しい服を買わなかったぞ」と何度も言う。あなたもこの素晴らしい美徳を守らないと。"
+     1 string mchinese = "父親說自己小時候過年從不買新衣服，你也要像爸爸一樣堅持這樣的品德"
+   [7632]
+    0 TableSoItemLang data
+     0 int id = 1017633
+     1 string schinese = "母亲节，羞于表达的你鼓起勇气给妈妈发了信息：妈妈辛苦了，我爱你！"
+     1 string schinese_censored = "母亲节，羞于表达的你鼓起勇气给妈妈发了信息：妈妈辛苦了，我爱你！"
+     1 string english = "It's Mother's Day and you are shy about your feelings, so you text her: "I love you mom!""
+     1 string japanese = "直接気持ちを伝えるのが苦手なあなたは、母の日にお母さんへメールを送った。「お母さんいつもお疲れ様！愛してるよ！」"
+     1 string mchinese = "母親節，羞於表達的你鼓起勇氣給媽媽發了資訊：媽媽辛苦了，我愛你！"
+   [7633]
+    0 TableSoItemLang data
+     0 int id = 1017634
+     1 string schinese = "买辅导书的钱丢了，爸妈怀疑你是自己买了零食吃了"
+     1 string schinese_censored = "买辅导书的钱丢了，爸妈怀疑你是自己买了零食吃了"
+     1 string english = "You drop your extracurricular books money, but your parents suspect you spent it on snacks."
+     1 string japanese = "問題集を買うお金をなくした。お父さんに「お菓子を買ったんだろ」と疑われた。"
+     1 string mchinese = "買輔導書的錢丟了，爸媽懷疑你是自己買了零食吃了"
+   [7634]
+    0 TableSoItemLang data
+     0 int id = 1017635
+     1 string schinese = "开始喜欢一个叛逆明星，父母各种嫌弃，还是觉得老一辈歌唱家才有真实力"

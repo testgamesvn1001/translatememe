@@ -1,0 +1,184 @@
+     1 string schinese_censored = "体能训练"
+     1 string english = "Physical Exercise"
+     1 string japanese = "体力トレーニング"
+     1 string mchinese = "體能訓練"
+   [643]
+    0 TableSoItemLang data
+     0 int id = 1010644
+     1 string schinese = "校队训练"
+     1 string schinese_censored = "校队训练"
+     1 string english = "School Team Training"
+     1 string japanese = "クラブ練習"
+     1 string mchinese = "校隊訓練"
+   [644]
+    0 TableSoItemLang data
+     0 int id = 1010645
+     1 string schinese = "中学篮球集训"
+     1 string schinese_censored = "中学篮球集训"
+     1 string english = "Basketball Training"
+     1 string japanese = "学生バスケ合宿"
+     1 string mchinese = "中學籃球集訓"
+   [645]
+    0 TableSoItemLang data
+     0 int id = 1010646
+     1 string schinese = "美国暑期特训"
+     1 string schinese_censored = "美国暑期特训"
+     1 string english = "American Summer Training"
+     1 string japanese = "北米夏季特訓"
+     1 string mchinese = "美國暑期特訓"
+   [646]
+    0 TableSoItemLang data
+     0 int id = 1010647
+     1 string schinese = "职业联赛选秀"
+     1 string schinese_censored = "职业联赛选秀"
+     1 string english = "Professional League Tryout"
+     1 string japanese = "プロバスケドラフト"
+     1 string mchinese = "職業聯賽選秀"
+   [647]
+    0 TableSoItemLang data
+     0 int id = 1010648
+     1 string schinese = "国青队集训"
+     1 string schinese_censored = "国青队集训"
+     1 string english = "National Youth Team Training"
+     1 string japanese = "国家青年代表合宿"
+     1 string mchinese = "國青隊集訓"
+   [648]
+    0 TableSoItemLang data
+     0 int id = 1010649
+     1 string schinese = "美术课"
+     1 string schinese_censored = "美术课"
+     1 string english = "Painting Class"
+     1 string japanese = "美術"
+     1 string mchinese = "美術課"
+   [649]
+    0 TableSoItemLang data
+     0 int id = 1010650
+     1 string schinese = "涂鸦"
+     1 string schinese_censored = "涂鸦"
+     1 string english = "Doodling"
+     1 string japanese = "グラフィティ"
+     1 string mchinese = "塗鴉"
+   [650]
+    0 TableSoItemLang data
+     0 int id = 1010651
+     1 string schinese = "艺术赏析"
+     1 string schinese_censored = "艺术赏析"
+     1 string english = "Art Appreciation"
+     1 string japanese = "芸術鑑賞"
+     1 string mchinese = "藝術賞析"
+   [651]
+    0 TableSoItemLang data
+     0 int id = 1010652
+     1 string schinese = "素描"
+     1 string schinese_censored = "素描"
+     1 string english = "Sketching"
+     1 string japanese = "デッサン"
+     1 string mchinese = "素描"
+   [652]
+    0 TableSoItemLang data
+     0 int id = 1010653
+     1 string schinese = "色彩"
+     1 string schinese_censored = "色彩"
+     1 string english = "Coloring"
+     1 string japanese = "色彩"
+     1 string mchinese = "色彩"
+   [653]
+    0 TableSoItemLang data
+     0 int id = 1010654
+     1 string schinese = "美术联考培训"
+     1 string schinese_censored = "美术联考培训"
+     1 string english = "Gaokao Fine Arts Training"
+     1 string japanese = "芸術入試合宿"
+     1 string mchinese = "美術聯考培訓"
+   [654]
+    0 TableSoItemLang data
+     0 int id = 1010655
+     1 string schinese = "雕塑"
+     1 string schinese_censored = "雕塑"
+     1 string english = "Sculpting"
+     1 string japanese = "彫刻"
+     1 string mchinese = "雕塑"
+   [655]
+    0 TableSoItemLang data
+     0 int id = 1010656
+     1 string schinese = "油画"
+     1 string schinese_censored = "油画"
+     1 string english = "Oil Painting"
+     1 string japanese = "油絵"
+     1 string mchinese = "油畫"
+   [656]
+    0 TableSoItemLang data
+     0 int id = 1010657
+     1 string schinese = "谜的现代艺术"
+     1 string schinese_censored = "谜的现代艺术"
+     1 string english = ""Modern" Art"
+     1 string japanese = "謎の現代芸術"
+     1 string mchinese = "謎的現代藝術"
+   [657]
+    0 TableSoItemLang data
+     0 int id = 1010658
+     1 string schinese = "行为艺术"
+     1 string schinese_censored = "行为艺术"
+     1 string english = "Performance Art"
+     1 string japanese = "パフォーマンス"
+     1 string mchinese = "行為藝術"
+   [658]
+    0 TableSoItemLang data
+     0 int id = 1010659
+     1 string schinese = "学钢琴"
+     1 string schinese_censored = "学钢琴"
+     1 string english = "Learn the Piano"
+     1 string japanese = "ピアノ"
+     1 string mchinese = "學鋼琴"
+   [659]
+    0 TableSoItemLang data
+     0 int id = 1010660
+     1 string schinese = "跆拳道入门"
+     1 string schinese_censored = "跆拳道入门"
+     1 string english = "Strike Back"
+     1 string japanese = "イジメに反撃"
+     1 string mchinese = "跆拳道入門"
+   [660]
+    0 TableSoItemLang data
+     0 int id = 1010661
+     1 string schinese = "综合格斗术"
+     1 string schinese_censored = "综合格斗术"
+     1 string english = "Integrated Combat"
+     1 string japanese = "総合格闘技"
+     1 string mchinese = "綜合格鬥術"
+   [661]
+    0 TableSoItemLang data
+     0 int id = 1010662
+     1 string schinese = "枪械基础"
+     1 string schinese_censored = "枪械基础"
+     1 string english = "Firearms 101"
+     1 string japanese = "銃器基礎"
+     1 string mchinese = "槍械基礎"
+   [662]
+    0 TableSoItemLang data
+     0 int id = 1010663
+     1 string schinese = "大师级战斗技巧"
+     1 string schinese_censored = "大师级战斗技巧"
+     1 string english = "Master Combat Skills"
+     1 string japanese = "上級戦闘技術"
+     1 string mchinese = "大師級戰鬥技巧"
+   [663]
+    0 TableSoItemLang data
+     0 int id = 1010664
+     1 string schinese = "计算机入门"
+     1 string schinese_censored = "计算机入门"
+     1 string english = "Computers 101"
+     1 string japanese = "パソコン入門"
+     1 string mchinese = "電腦入門"
+   [664]
+    0 TableSoItemLang data
+     0 int id = 1010665
+     1 string schinese = "PHP语言"
+     1 string schinese_censored = "超文本预处理"
+     1 string english = "PHP Language"
+     1 string japanese = "ＰＨＰ言語"
+     1 string mchinese = "PHP語言"
+   [665]
+    0 TableSoItemLang data
+     0 int id = 1010666
+     1 string schinese = "数据库基础"

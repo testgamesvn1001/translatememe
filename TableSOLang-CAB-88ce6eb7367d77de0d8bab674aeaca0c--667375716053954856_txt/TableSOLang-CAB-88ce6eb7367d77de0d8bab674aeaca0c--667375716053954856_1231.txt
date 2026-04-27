@@ -1,0 +1,184 @@
+     1 string schinese_censored = "姓名"
+     1 string english = "P2待翻譯1605150030"
+     1 string japanese = "1605150030"
+     1 string mchinese = "姓名"
+   [28289]
+    0 TableSoItemLang data
+     0 int id = 1605150031
+     1 string schinese = "开始注销"
+     1 string schinese_censored = "开始注销"
+     1 string english = "P2待翻譯1605150031"
+     1 string japanese = "1605150031"
+     1 string mchinese = "開始註銷"
+   [28290]
+    0 TableSoItemLang data
+     0 int id = 1605150032
+     1 string schinese = "放弃"
+     1 string schinese_censored = "放弃"
+     1 string english = "P2待翻譯1605150032"
+     1 string japanese = "1605150032"
+     1 string mchinese = "放棄"
+   [28291]
+    0 TableSoItemLang data
+     0 int id = 1605150033
+     1 string schinese = "帐号注销申请提醒"
+     1 string schinese_censored = "账号注销申请提醒"
+     1 string english = "P2待翻譯1605150033"
+     1 string japanese = "1605150033"
+     1 string mchinese = "帳號註銷申請提醒"
+   [28292]
+    0 TableSoItemLang data
+     0 int id = 1605150034
+     1 string schinese = "尊敬的玩家您好，您于之前<color=#ecbc47>{0}</color>成功提交了帐号注销申请，当前正处于注销流程中（次日之后开始计算锁定期，锁定期内登陆游戏将自动撤销注销流程）。\n\n感谢您对我们游戏的支持。"
+     1 string schinese_censored = "尊敬的玩家您好，您于之前<color=#ecbc47>{0}</color>成功提交了账号注销申请，当前正处于注销流程中（次日之后开始计算锁定期，锁定期内登陆游戏将自动撤销注销流程）。\n\n感谢您对我们游戏的支持。"
+     1 string english = "Dear player, you applied for account cancellation at <color=#ecbc47>{0}</color>. Your account is in the process to be cancelled. (The Lock Period begins from the day following your application. If you log in during the Lock Period, your cancellation will be automatically revoked.)\n\nThank you for the support."
+     1 string japanese = "あなたは<color=#ecbc47>{0}</color>にアカウント削除申請を提出しています。現在、削除手続を行っています（翌日よりロック期間が起算されます。ロック期間中にゲームにログインすると、削除手続が自動的に撤回されます）。\n\n私たちの作品をご愛顧いただきありがとうございました。"
+     1 string mchinese = "尊敬的玩家您好，您於之前<color=#ecbc47>{0}</color>成功提交了帳號註銷申請，當前正處於註銷流程中（次日之後開始計算鎖定期，鎖定期內登陸遊戲將自動撤銷註銷流程）。\n\n感謝您對我們遊戲的支持。"
+   [28293]
+    0 TableSoItemLang data
+     0 int id = 1605150035
+     1 string schinese = "撤销注销操作"
+     1 string schinese_censored = "撤销注销操作"
+     1 string english = "Revoke Account Cancellation"
+     1 string japanese = "退会操作をキャンセル"
+     1 string mchinese = "撤銷註銷操作"
+   [28294]
+    0 TableSoItemLang data
+     0 int id = 1605150036
+     1 string schinese = "乔旭，周人荗，你们来试训有一周了，对自己的表现满意吗？"
+     1 string schinese_censored = "乔旭，周人荗，你们来试训有一周了，对自己的表现满意吗？"
+     1 string english = "Martin Qiao, Mikael Zhou, you two have been trialing for a week now. Are you happy with your performances?"
+     1 string japanese = "チャオ・シュー、チョウ・レンマオ、キミたちがトライアウトに来て１週間だ。思いどおりのパフォーマンスは出せてるかな？"
+     1 string mchinese = "喬旭，周人荗，你們來試訓有一周了，對自己的表現滿意嗎？"
+   [28295]
+    0 TableSoItemLang data
+     0 int id = 1605150037
+     1 string schinese = "很累……但是也爽！感觉来到了强者的世界！自己也变强了！"
+     1 string schinese_censored = "很累……但是也爽！感觉来到了强者的世界！自己也变强了！"
+     1 string english = "It's tiring... But it feels good! It's like I've come into the world of the strong, and I've become stronger myself!"
+     1 string japanese = "疲れましたが…楽しいです！上級者の世界に来たみたいで、自分も強くなった気がします！"
+     1 string mchinese = "很累……但是也爽！感覺來到了強者的世界！自己也變強了！"
+   [28296]
+    0 TableSoItemLang data
+     0 int id = 1605150038
+     1 string schinese = "还行， 不算太拉跨，还有进步的空间…"
+     1 string schinese_censored = "还行， 不算太拉跨，还有进步的空间…"
+     1 string english = "Not too bad, there is room for improvement though..."
+     1 string japanese = "まあまあです。大きな失敗はありませんが、まだ改善の余地があります…。"
+     1 string mchinese = "還行， 不算太拉跨，還有進步的空間…"
+   [28297]
+    0 TableSoItemLang data
+     0 int id = 1605150039
+     1 string schinese = "你们俩天赋都不错，排位上分快，训练赛也能稳能打。"
+     1 string schinese_censored = "你们俩天赋都不错，排位上分快，训练赛也能稳能打。"
+     1 string english = "You are both talented, you ranked up quickly and can play well enough in training matches."
+     1 string japanese = "二人とも筋は良い。ランクが上がるのも早いし、練習試合でもパフォーマンスが安定している。"
+     1 string mchinese = "你們倆天賦都不錯，排位上分快，訓練賽也能穩能打。"
+   [28298]
+    0 TableSoItemLang data
+     0 int id = 1605150040
+     1 string schinese = "但队伍位置和预算都有限，你们之间只能留下一个。"
+     1 string schinese_censored = "但队伍位置和预算都有限，你们之间只能留下一个。"
+     1 string english = "But the team has limited budgets and spots. Only one of you can stay."
+     1 string japanese = "しかし、クラブはポジションにも予算にも限りがある。二人のうち１人しか採用することはできない。"
+     1 string mchinese = "但隊伍位置和預算都有限，你們之間只能留下一個。"
+   [28299]
+    0 TableSoItemLang data
+     0 int id = 1605150041
+     1 string schinese = "你想说留乔旭，是吧？"
+     1 string schinese_censored = "你想说留乔旭，是吧？"
+     1 string english = "You want to keep Martin, don't you?"
+     1 string japanese = "チャオ・シューを残す、そうでしょう？"
+     1 string mchinese = "你想說留喬旭，是吧？"
+   [28300]
+    0 TableSoItemLang data
+     0 int id = 1605150042
+     1 string schinese = "是的。经过讨论，我们希望乔旭能够加入俱乐部，但周人荗还无法达到要求。"
+     1 string schinese_censored = "是的。经过讨论，我们希望乔旭能够加入俱乐部，但周人荗还无法达到要求。"
+     1 string english = "Yes. We've discussed it and would like Martin Qiao to join the team. Mikael Zhou doesn't yet meet our requirements."
+     1 string japanese = "そのとおり。検討した結果、チャオ・シューにはぜひ入団してほしい。チョウ・レンマオは我々の基準に達していない部分がある。"
+     1 string mchinese = "是的。經過討論，我們希望喬旭能夠加入俱樂部，但周人荗還無法達到要求。"
+   [28301]
+    0 TableSoItemLang data
+     0 int id = 1605150043
+     1 string schinese = "我通过了吗！但如果没有小茂配合，我心里稍稍有点没底……"
+     1 string schinese_censored = "我通过了吗！但如果没有小茂配合，我心里稍稍有点没底……"
+     1 string english = "I passed? But I don't feel very confident without Mike as my partner..."
+     1 string japanese = "合格！でも、レンマオがいないと不安だな…。"
+     1 string mchinese = "我通過了嗎！但如果沒有小茂配合，我心裏稍稍有點沒底……"
+   [28302]
+    0 TableSoItemLang data
+     0 int id = 1605150044
+     1 string schinese = "小荗你的打法稳健，但最致命的问题是和队友沟通太少。"
+     1 string schinese_censored = "小荗你的打法稳健，但最致命的问题是和队友沟通太少。"
+     1 string english = "Mike, your playstyle is solid. But your biggest problem is that you don't communicate with your teammates."
+     1 string japanese = "プレイングは堅実だ。しかし、チームメートとのコミュニケーションが少ないことが何より致命的な問題だ。"
+     1 string mchinese = "小荗你的打法穩健，但最致命的問題是和隊友溝通太少。"
+   [28303]
+    0 TableSoItemLang data
+     0 int id = 1605150045
+     1 string schinese = "乔旭在这点上就很好，团队意识强，敢说敢打不怕犯错！"
+     1 string schinese_censored = "乔旭在这点上就很好，团队意识强，敢说敢打不怕犯错！"
+     1 string english = "Martin, on the other hand, is a lot better in this aspect. He is team-oriented, outspoken and not afraid to make mistakes!"
+     1 string japanese = "その点、チャオ・シューは優れている。チームプレイの意識が強いし、失敗を怖がらない！"
+     1 string mchinese = "喬旭在這點上就很好，團隊意識強，敢說敢打不怕犯錯！"
+   [28304]
+    0 TableSoItemLang data
+     0 int id = 1605150046
+     1 string schinese = "比赛用手不用嘴。话少就一定不行？"
+     1 string schinese_censored = "比赛用手不用嘴。话少就一定不行？"
+     1 string english = "I play with my hands, not my mouth. Does talking less necessarily mean I can't do it?"
+     1 string japanese = "試合は手を使ってやるものです。コミュニケーションが少ないのは悪いことですか？"
+     1 string mchinese = "比賽用手不用嘴。話少就一定不行？"
+   [28305]
+    0 TableSoItemLang data
+     0 int id = 1605150047
+     1 string schinese = "赛场上如果五个人有沟通问题，根本没有办法聚力。"
+     1 string schinese_censored = "赛场上如果五个人有沟通问题，根本没有办法聚力。"
+     1 string english = "There is simply no way to coordinate on the field if the team have problems communicating with each other."
+     1 string japanese = "試合会場で五人が上手くコミュニケーションを取れなければ、チームとしてまとまることはできない。"
+     1 string mchinese = "賽場上如果五個人有溝通問題，根本沒有辦法聚力。"
+   [28306]
+    0 TableSoItemLang data
+     0 int id = 1605150048
+     1 string schinese = "更重要的是，如果你是这样的性格，未来商业价值也很成问题。"
+     1 string schinese_censored = "更重要的是，如果你是这样的性格，未来商业价值也很成问题。"
+     1 string english = "More importantly, with that kind of personality, your commercial value in the future is also very questionable."
+     1 string japanese = "それに、キミのような性格では、将来的にビジネスとして価値を生みにくい。これも問題だ。"
+     1 string mchinese = "更重要的是，如果你是這樣的性格，未來商業價值也很成問題。"
+   [28307]
+    0 TableSoItemLang data
+     0 int id = 1605150049
+     1 string schinese = "好...我认。"
+     1 string schinese_censored = "好...我认。"
+     1 string english = "Okay...acknowledged."
+     1 string japanese = "はい…わかりました。"
+     1 string mchinese = "好...我認。"
+   [28308]
+    0 TableSoItemLang data
+     0 int id = 1605150050
+     1 string schinese = "哎，小荗，别灰心，还有机会的，我记得..."
+     1 string schinese_censored = "哎，小荗，别灰心，还有机会的，我记得..."
+     1 string english = "Oh, Mike, don't get discouraged. You still have a shot, I remember..."
+     1 string japanese = "レンマオ、落ち込むなよ。まだチャンスはある。お前は…。"
+     1 string mchinese = "哎，小荗，別灰心，還有機會的，我記得..."
+   [28309]
+    0 TableSoItemLang data
+     0 int id = 1605150051
+     1 string schinese = "不劳你操心。"
+     1 string schinese_censored = "不劳你操心。"
+     1 string english = "Don't worry about me."
+     1 string japanese = "心配はいい。"
+     1 string mchinese = "不勞你操心。"
+   [28310]
+    0 TableSoItemLang data
+     0 int id = 1605150052
+     1 string schinese = "(看着小荗整理桌面，兴奋之余，心情也有些复杂。）"
+     1 string schinese_censored = "(看着小荗整理桌面，兴奋之余，心情也有些复杂。）"
+     1 string english = "(While excited, you have some mixed feelings as you watch Mike packing up his things.)"
+     1 string japanese = "（レンマオが机を整理しているのを見ていると、興奮しながらも複雑な気持ちになった）"
+     1 string mchinese = "(看著小荗整理桌面，興奮之餘，心情也有些複雜。）"
+   [28311]
+    0 TableSoItemLang data
+     0 int id = 1605150053
+     1 string schinese = "乔旭爸爸，最近乔旭上课总开小差！"

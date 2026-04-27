@@ -1,0 +1,184 @@
+     1 string schinese_censored = "（两面派真可怕……）"
+     1 string english = "(People leading double lives really are scary...)"
+     1 string japanese = "（昼と夜でこんなに違うのか、怖いな…）"
+     1 string mchinese = "（兩面派真可怕……）"
+   [10073]
+    0 TableSoItemLang data
+     0 int id = 1020074
+     1 string schinese = "你干嘛跟着我！"
+     1 string schinese_censored = "你干嘛跟着我！"
+     1 string english = "Why are you following me?"
+     1 string japanese = "何でここにいんのよ！"
+     1 string mchinese = "你幹嘛跟著我！"
+   [10074]
+    0 TableSoItemLang data
+     0 int id = 1020075
+     1 string schinese = "你卸妆可真快，我亲眼看到你打扮时尚进去的！"
+     1 string schinese_censored = "你卸妆可真快，我亲眼看到你穿演出服然后跳舞了！"
+     1 string english = "You remove your makeup really fast! I saw you enter the nightclub!"
+     1 string japanese = "メイク落とすの早いね。クラブで踊ってるの見てたよ！"
+     1 string mchinese = "你卸妝可真快，我親眼看到你打扮時尚進去的！"
+   [10075]
+    0 TableSoItemLang data
+     0 int id = 1020076
+     1 string schinese = "你是不是个变态？干嘛跟着我！"
+     1 string schinese_censored = "你是不是个变态？干嘛跟着我！"
+     1 string english = "Are you a psychopath? Stop following me!"
+     1 string japanese = "アンタストーカー？ついてこないで！"
+     1 string mchinese = "你是不是個變態？幹嘛跟著我！"
+   [10076]
+    0 TableSoItemLang data
+     0 int id = 1020077
+     1 string schinese = "没有，我就是好奇……你不该是这样随便的人"
+     1 string schinese_censored = "没有，我就是好奇……你不该是这样随便的人"
+     1 string english = "No, I'm just curious. You shouldn't be so capricious."
+     1 string japanese = "いや、どうしても気になるんだ。キミはこんな人じゃないはずだよ。"
+     1 string mchinese = "沒有，我就是好奇……你不該是這樣隨便的人"
+   [10077]
+    0 TableSoItemLang data
+     0 int id = 1020078
+     1 string schinese = "你又不了解我，我随不随便不关你事"
+     1 string schinese_censored = "你又不了解我，我随不随便不关你事。再说我怎么就随便了？"
+     1 string english = "You don't understand me. Whether I'm easy or not has nothing to do with you."
+     1 string japanese = "アンタが私の何知ってるって言うのよ！「こんな」人じゃダメなの？アンタには関係ないでしょ！"
+     1 string mchinese = "你又不了解我，我隨不隨便不關你事"
+   [10078]
+    0 TableSoItemLang data
+     0 int id = 1020079
+     1 string schinese = "你再这样，我就报警了，我就告诉老师了……"
+     1 string schinese_censored = "你再这样，我就报警了，我就告诉老师了……"
+     1 string english = "If you keep this up, I'm going to call the police and tell the teacher..."
+     1 string japanese = "これ以上ついてくるなら警察呼ぶわよ！先生にも言ってやる…"
+     1 string mchinese = "你再這樣，我就報警了，我就告訴老師了……"
+   [10079]
+    0 TableSoItemLang data
+     0 int id = 1020080
+     1 string schinese = "告诉他们什么？告诉他们你去夜店吗？"
+     1 string schinese_censored = "告诉他们什么？告诉他们你放学后不写作业去餐吧演出吗？"
+     1 string english = "Tell them what? That you're going to nightclubs?"
+     1 string japanese = "へぇ、何て言うの？ナイトクラブでチカンされましたとか？"
+     1 string mchinese = "告訴他們什麼？告訴他們你去夜店嗎？"
+   [10080]
+    0 TableSoItemLang data
+     0 int id = 1020081
+     1 string schinese = "你到底要干什么？"
+     1 string schinese_censored = "你到底要干什么？"
+     1 string english = "What are you after?"
+     1 string japanese = "…アンタ、ホントに何がしたいのよ…"
+     1 string mchinese = "你到底要幹什麼？"
+   [10081]
+    0 TableSoItemLang data
+     0 int id = 1020082
+     1 string schinese = "想问你几句话……你真的喜欢那种地方吗？"
+     1 string schinese_censored = "想问你几句话……你真的喜欢穿成这样吗？"
+     1 string english = "I just want to talk to you. Do you really like going to these places?"
+     1 string japanese = "一つだけ教えてほしいんだ…本当にあんなところが好きなの？"
+     1 string mchinese = "想問你幾句話……你真的喜歡那種地方嗎？"
+   [10082]
+    0 TableSoItemLang data
+     0 int id = 1020083
+     1 string schinese = "也不是，就是想自由一些……"
+     1 string schinese_censored = "也不是，就是想自由一些……"
+     1 string english = "Not really, I just enjoy the freedom..."
+     1 string japanese = "別に… ただ自由になりたいだけ…"
+     1 string mchinese = "也不是，就是想自由一些……"
+   [10083]
+    0 TableSoItemLang data
+     0 int id = 1020084
+     1 string schinese = "你不自由吗？"
+     1 string schinese_censored = "你不自由吗？"
+     1 string english = "Do you feel trapped?"
+     1 string japanese = "十分自由に見えるけど？"
+     1 string mchinese = "你不自由嗎？"
+   [10084]
+    0 TableSoItemLang data
+     0 int id = 1020085
+     1 string schinese = "不自由，我回答完了！我要走了！"
+     1 string schinese_censored = "不自由，我回答完了！我要走了！"
+     1 string english = "Yes! And that's all the answers I'm going to give you! I'm leaving!"
+     1 string japanese = "全然自由じゃないわよ！ホラ、答えてあげたでしょ！さよなら！"
+     1 string mchinese = "不自由，我回答完了！我要走了！"
+   [10085]
+    0 TableSoItemLang data
+     0 int id = 1020086
+     1 string schinese = "昨天没事吧，被爸妈从教室当场带回家……被教训了吗？"
+     1 string schinese_censored = "昨天没事吧，你爸妈好像很反对你做练习生"
+     1 string english = "Did everything go well yesterday? Your parents dragged you out of the classroom. Were you scolded?"
+     1 string japanese = "昨日はどうしたの？いきなり親が入ってきて教室から無理やり連れて行かれて… 怒られた？"
+     1 string mchinese = "昨天沒事吧，被爸媽從教室當場帶回家……被教訓了嗎？"
+   [10086]
+    0 TableSoItemLang data
+     0 int id = 1020087
+     1 string schinese = "当然……"
+     1 string schinese_censored = "当然……"
+     1 string english = "Of course..."
+     1 string japanese = "そりゃそうでしょ…"
+     1 string mchinese = "當然……"
+   [10087]
+    0 TableSoItemLang data
+     0 int id = 1020088
+     1 string schinese = "为什么你还挺开心的？"
+     1 string schinese_censored = "为什么你还挺开心的？"
+     1 string english = "Why do you seem so happy?"
+     1 string japanese = "なんか嬉しそうだね？"
+     1 string mchinese = "為什麼你還挺開心的？"
+   [10088]
+    0 TableSoItemLang data
+     0 int id = 1020089
+     1 string schinese = "爸妈对你很失望吧……"
+     1 string schinese_censored = "难不成你是故意想引起他们注意？"
+     1 string english = "Your parents must be disappointed in you..."
+     1 string japanese = "親はだいぶ失望したと思うよ…"
+     1 string mchinese = "爸媽對你很失望吧……"
+   [10089]
+    0 TableSoItemLang data
+     0 int id = 1020090
+     1 string schinese = "要你管…我觉得挺好的。"
+     1 string schinese_censored = "要你管……"
+     1 string english = "What? I think it's fine."
+     1 string japanese = "そんなのどうでもいいわよ。"
+     1 string mchinese = "要你管…我覺得挺好的。"
+   [10090]
+    0 TableSoItemLang data
+     0 int id = 1020091
+     1 string schinese = "也比漠不关心好，不是吗？不像你们天天有人陪。"
+     1 string schinese_censored = "生气也比漠不关心好，不是吗？"
+     1 string english = "It's better than them not caring, right? Not like you would know."
+     1 string japanese = "無関心よりマシでしょ？忙しいからって放任してたくせに…"
+     1 string mchinese = "也比漠不關心好，不是嗎？不像你們天天有人陪。"
+   [10091]
+    0 TableSoItemLang data
+     0 int id = 1020092
+     1 string schinese = "也许吧，只是为了获取他们的注意吗？"
+     1 string schinese_censored = "大人永远都借口自己忙……"
+     1 string english = "Maybe. Was this just to get their attention?"
+     1 string japanese = "そうだね… 大人って、忙しいを言い訳にすればなんでも許されると思ってるのかも。"
+     1 string mchinese = "也許吧，只是為了獲取他們的注意嗎？"
+   [10092]
+    0 TableSoItemLang data
+     0 int id = 1020093
+     1 string schinese = "不太了解你的生活，但是这样还是太危险了……"
+     1 string schinese_censored = "我以前觉得你这样会影响学习，但现在我觉得你真有明星范了。"
+     1 string english = "I don't really understand your lifestyle, but it seems dangerous..."
+     1 string japanese = "キミの優等生キャラも好きだったけど、こっちの方がイイかも！"
+     1 string mchinese = "不太瞭解你的生活，但是這樣還是太危險了……"
+   [10093]
+    0 TableSoItemLang data
+     0 int id = 1020094
+     1 string schinese = "不要想这些了，我最近要搬到爸爸那去住了，你要加油哟~"
+     1 string schinese_censored = "不说这个了，我最近要搬到爸爸那去住了，你要加油哟~"
+     1 string english = "I don't want to think about it anymore. I'm moving to my dad's place. See you around."
+     1 string japanese = "ハイハイ、この話はもう終わり。もうすぐお父さんの家に引っ越すし。あなたも頑張ってね！"
+     1 string mchinese = "不要想這些了，我最近要搬到爸爸那去住了，你要加油喲~"
+   [10094]
+    0 TableSoItemLang data
+     0 int id = 1020095
+     1 string schinese = "为什么加油？"
+     1 string schinese_censored = "为什么加油？"
+     1 string english = "Why do you say that?"
+     1 string japanese = "頑張るってなにを？"
+     1 string mchinese = "為什麼加油？"
+   [10095]
+    0 TableSoItemLang data
+     0 int id = 1020096
+     1 string schinese = "不知道，为生活吧~要棒棒的哟~"

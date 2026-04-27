@@ -1,0 +1,184 @@
+     1 string schinese_censored = "不过人总是这山望着那山高\n我常常在想\n要是我当时好好学{0}就好了"
+     1 string english = "The grass is always greener on the other side.\nI often think to myself,\nthat I should've learned {0} instead."
+     1 string japanese = "隣の芝生は青い\nいつも考えてはいるんだ\n{0}をもっと勉強するべきだったって"
+     1 string mchinese = "不過人總是這山望著那山高\n我常常在想\n要是我當時好好學{0}就好了"
+   [26334]
+    0 TableSoItemLang data
+     0 int id = 1596172621
+     1 string schinese = "在你慢慢长大的这些年，虽然与父母产生过许多的矛盾和误解，但陪伴仍然是最长情的告白不是吗？"
+     1 string schinese_censored = "在你慢慢长大的这些年，虽然与父母产生过许多的矛盾和误解，但陪伴仍然是最长情的告白不是吗？"
+     1 string english = "Though there were some conflicts and misunderstandings between your parents and you, they still show the deepest love by accompanying you growing up."
+     1 string japanese = "長年かけてゆっくりと育てられていく中で、両親とケンカすることもあった。しかし、一緒に過ごした年月が、親子の情の深さを証明してくれる。そうだろう？"
+     1 string mchinese = "在你慢慢長大的這些年，雖然與父母產生過許多的矛盾和誤解，但陪伴仍然是最長情的告白不是嗎？"
+   [26335]
+    0 TableSoItemLang data
+     0 int id = 1596172622
+     1 string schinese = "共完成父母期望<color=#FFCC31><size=90>{0}</size></color>次"
+     1 string schinese_censored = "共完成父母期望<color=#FFCC31><size=90>{0}</size></color>次"
+     1 string english = "Expectations Fulfilled: <color=#FFCC31><size=90>{0}</size></color>"
+     1 string japanese = "両親の期待を計<color=#FFCC31><size=90>{0}</size></color>回達成した"
+     1 string mchinese = "共完成父母期望<color=#FFCC31><size=90>{0}</size></color>次"
+   [26336]
+    0 TableSoItemLang data
+     0 int id = 1596172623
+     1 string schinese = "{0}"
+     1 string schinese_censored = "{0}"
+     1 string english = "{0}"
+     1 string japanese = "{0}"
+     1 string mchinese = "{0}"
+   [26337]
+    0 TableSoItemLang data
+     0 int id = 1596172624
+     1 string schinese = "传家宝详情"
+     1 string schinese_censored = "传家宝详情"
+     1 string english = "Family Heirloom Details"
+     1 string japanese = "家宝詳細"
+     1 string mchinese = "傳家寶詳情"
+   [26338]
+    0 TableSoItemLang data
+     0 int id = 1596172625
+     1 string schinese = "当前回合不可使用~"
+     1 string schinese_censored = "当前回合不可使用~"
+     1 string english = "Not usable this turn."
+     1 string japanese = "このターンでは使用できません"
+     1 string mchinese = "當前回合不可使用~"
+   [26339]
+    0 TableSoItemLang data
+     0 int id = 1596172626
+     1 string schinese = "时光荏苒，转眼又到了七夕。 \n今天的朋友圈充满了恋爱的酸臭味， \n只有出淤泥而不染的我还散发着清香。\n今年，我还是一个人吗？\n不，我是一条狗。\n你问今年七夕怎么过？略过。"
+     1 string schinese_censored = "时光荏苒，转眼又到了七夕。 \n今天的朋友圈充满了恋爱的酸臭味， \n只有出淤泥而不染的我还散发着清香。\n今年，我还是一个人吗？\n不，我是一条狗。\n你问今年七夕怎么过？略过。"
+     1 string english = "Time flies and here comes another Qixi Festival.\nSocial media is full of stinky lovey-dovey couples' posts.\nOnly single people like me remain fragrant.\nAre you still a single person?\nYes. I'm so lonely that I feel like a single dog.\nHow will I spend Qixi Festival this year, you ask? I'll just… loaf it away."
+     1 string japanese = "時は過ぎ、いつの間にかまた七夕がやってきた。\n今日のＳＮＳは浮かれた雰囲気に包まれている。\n平静を保っているのは自分だけだ。\n今年も私は一人なのだろうか。\n違う。一匹のオオカミだ。\n今年はどうやって七夕を過ごすのかって？やり過ごすのさ。"
+     1 string mchinese = "時光荏苒，轉眼又到了七夕。 \n今天的朋友圈充滿了戀愛的酸臭味， \n只有出淤泥而不染的我還散發著清香。\n今年，我還是一個人嗎？\n不，我是一條狗。\n你問今年七夕怎麼過？略過。"
+   [26340]
+    0 TableSoItemLang data
+     0 int id = 1596172627
+     1 string schinese = "时光荏苒，转眼又到了七夕。 \n今天的朋友圈充满了恋爱的酸臭味， \n只有出淤泥而不染的我还散发着清香。\n今年，我还是一个人吗？\n不，我是一条狗。\n你问今年七夕怎么过？略过。"
+     1 string schinese_censored = "时光荏苒，转眼又到了七夕。 \n今天的朋友圈充满了恋爱的酸臭味， \n只有出淤泥而不染的我还散发着清香。\n今年，我还是一个人吗？\n不，我是一条狗。\n你问今年七夕怎么过？略过。"
+     1 string english = "Time flies and here comes another Qixi Festival.\nSocial media is full of stinky lovey-dovey couples' posts.\nOnly single people like me remain fragrant.\nAre you still a single person?\nYes. I'm so lonely that I feel like a single dog.\nHow will I spend Qixi Festival this year, you ask? I'll just… loaf it away."
+     1 string japanese = "時は過ぎ、いつの間にかまた七夕がやってきた。\n今日のＳＮＳは浮かれた雰囲気に包まれている。\n平静を保っているのは自分だけだ。\n今年も私は一人なのだろうか。\n違う。一匹のオオカミだ。\n今年はどうやって七夕を過ごすのかって？やり過ごすのさ。"
+     1 string mchinese = "時光荏苒，轉眼又到了七夕。 \n今天的朋友圈充滿了戀愛的酸臭味， \n只有出淤泥而不染的我還散發著清香。\n今年，我還是一個人嗎？\n不，我是一條狗。\n你問今年七夕怎麼過？略過。"
+   [26341]
+    0 TableSoItemLang data
+     0 int id = 1596172628
+     1 string schinese = "年少时的好友，追求着自己的理想，拥有着不同的烦恼，\n走上了各自的人生轨迹。\n我们就这样渐行渐远，散落在天涯。"
+     1 string schinese_censored = "年少时的好友，追求着自己的理想，拥有着不同的烦恼，\n走上了各自的人生轨迹。\n我们就这样渐行渐远，散落在天涯。"
+     1 string english = "When we are young, we follow our dreams without worrying too much.\nEveryone's path is different.\nOne after another, we begin our careers."
+     1 string japanese = "青春時代の親友はそれぞれが理想を追求し、異なる悩みを抱えていた\nみんな別々の軌跡を辿っただろう\nそれぞれが遠く離れ散らばり漂流してる"
+     1 string mchinese = "年少時的好友，追求著自己的理想，擁有著不同的煩惱，\n走上了各自的人生軌跡。\n我們就這樣漸行漸遠，散落在天涯。"
+   [26342]
+    0 TableSoItemLang data
+     0 int id = 1596172629
+     1 string schinese = "茫茫书海，幸好有三五好友相伴\n{0} 是我最好的朋友\nTA接受了我的 {1} 次邀请\n好感度达到 {2}\n毕业后\n我们的友情似乎多了一种味道"
+     1 string schinese_censored = "茫茫书海，幸好有三五好友相伴\n{0} 是我最好的朋友\nTA接受了我的 {1} 次邀请\n好感度达到 {2}\n毕业后\n我们的友情似乎多了一种味道"
+     1 string english = "It is great having some company while reading books.\n{0} is my best friend.\nThey have accepted {1} of my invitations.\nWe have an intimacy of {2}.\nAfter graduation\nit felt as if our relationship evolved."
+     1 string japanese = "世間は広大な海だけど、\n幸い親友を得ることができた\n最高の親友の{0}\n{1}回お誘いを受けてくれた\n好感度は{2}\n卒業後、\nこの友情はどうなるんだろう"
+     1 string mchinese = "茫茫書海，幸好有三五好友相伴\n{0} 是我最好的朋友\nTA接受了我的 {1} 次邀請\n好感度達到 {2}\n畢業後\n我們的友情似乎多了一種味道"
+   [26343]
+    0 TableSoItemLang data
+     0 int id = 1596172630
+     1 string schinese = "茫茫书海，幸好有三五好友相伴\n{0} 是我最好的朋友\n我接受了TA {1} 次邀请\n对TA的好感度达到 {2}\n毕业后\n我们的友情似乎多了一种味道"
+     1 string schinese_censored = "茫茫书海，幸好有三五好友相伴\n{0} 是我最好的朋友\n我接受了TA {1} 次邀请\n对TA的好感度达到 {2}\n毕业后\n我们的友情似乎多了一种味道"
+     1 string english = "It is great having some company while reading books.\n{0} is my best friend.\nI have accepted {1} of their invitations.\nWe have an intimacy of {2}.\nAfter graduation\nit felt as if our relationship evolved."
+     1 string japanese = "世間は広大な海だけど、\n幸い親友を得ることができた\n最高の親友の{0}\n{1}回お誘いを受けた\n好感度は{2}\n卒業後、\nこの友情はどうなるんだろう"
+     1 string mchinese = "茫茫書海，幸好有三五好友相伴\n{0} 是我最好的朋友\n我接受了TA {1} 次邀請\n對TA的好感度達到 {2}\n畢業後\n我們的友情似乎多了一種味道"
+   [26344]
+    0 TableSoItemLang data
+     0 int id = 1596172631
+     1 string schinese = "毕业证书"
+     1 string schinese_censored = "毕业证书"
+     1 string english = "Graduation Certificate"
+     1 string japanese = "卒業証書"
+     1 string mchinese = "畢業證書"
+   [26345]
+    0 TableSoItemLang data
+     0 int id = 1596172632
+     1 string schinese = "祝贺你完成我校规定的所有课程，成绩优异。\n特颁此证，准予毕业。"
+     1 string schinese_censored = "祝贺你完成我校规定的所有课程，成绩优异。\n特颁此证，准予毕业。"
+     1 string english = "Congratulations on completing all of your courses here. Your grades are outstanding.\nThis certificate is hereby issued for your graduation."
+     1 string japanese = "本校が規定した課程すべてで優秀な成績を収め、修了したことに感謝します。\nこの証書を以って卒業とします。"
+     1 string mchinese = "祝賀你完成我校規定的所有課程，成績優異。\n特頒此證，准予畢業。"
+   [26346]
+    0 TableSoItemLang data
+     0 int id = 1596172633
+     1 string schinese = "大学毕业"
+     1 string schinese_censored = "大学毕业"
+     1 string english = "University Graduate"
+     1 string japanese = "大学卒業"
+     1 string mchinese = "大學畢業"
+   [26347]
+    0 TableSoItemLang data
+     0 int id = 1596172634
+     1 string schinese = "找到了工作"
+     1 string schinese_censored = "找到了工作"
+     1 string english = "Found a Job"
+     1 string japanese = "就職した"
+     1 string mchinese = "找到了工作"
+   [26348]
+    0 TableSoItemLang data
+     0 int id = 1596172635
+     1 string schinese = "和{0}结婚"
+     1 string schinese_censored = "和{0}结婚"
+     1 string english = "Married {0}"
+     1 string japanese = "{0}と結婚した"
+     1 string mchinese = "和{0}結婚"
+   [26349]
+    0 TableSoItemLang data
+     0 int id = 1596172636
+     1 string schinese = "陌生人"
+     1 string schinese_censored = "陌生人"
+     1 string english = "Stranger"
+     1 string japanese = "見知らぬ人"
+     1 string mchinese = "陌生人"
+   [26350]
+    0 TableSoItemLang data
+     0 int id = 1596172637
+     1 string schinese = "下一世代新内容解锁"
+     1 string schinese_censored = "下一世代新内容解锁"
+     1 string english = "New Content for Next Generation"
+     1 string japanese = "次世代で解放される特典"
+     1 string mchinese = "下一世代新內容解鎖"
+   [26351]
+    0 TableSoItemLang data
+     0 int id = 1596172638
+     1 string schinese = "第{0}世代解锁内容一览"
+     1 string schinese_censored = "第{0}世代解锁内容一览"
+     1 string english = "Gen {0} Content Unlock Overview"
+     1 string japanese = "第{0}世代の解放特典一覧"
+     1 string mchinese = "第{0}世代解鎖內容一覽"
+   [26352]
+    0 TableSoItemLang data
+     0 int id = 1596172639
+     1 string schinese = "收集传家宝\n获得加成"
+     1 string schinese_censored = "收集传家宝\n获得加成"
+     1 string english = "Collect family heirlooms\nfor stat bonuses."
+     1 string japanese = "家宝を集めて\nボーナスゲット！"
+     1 string mchinese = "收集傳家寶\n獲得加成"
+   [26353]
+    0 TableSoItemLang data
+     0 int id = 1596172640
+     1 string schinese = "第<color=#EB7350>{0}</color>世代解锁"
+     1 string schinese_censored = "第<color=#EB7350>{0}</color>世代解锁"
+     1 string english = "Unlocks at Gen. <color=#EB7350>{0}</color>"
+     1 string japanese = "第<color=#EB7350>{0}</color>世代で解放"
+     1 string mchinese = "第<color=#EB7350>{0}</color>世代解鎖"
+   [26354]
+    0 TableSoItemLang data
+     0 int id = 1596172641
+     1 string schinese = "<color=#EB7350>{0}</color>达到<color=#EB7350>{1}</color>\n并习得<color=#EB7350>{2}</color>后解锁"
+     1 string schinese_censored = "<color=#EB7350>{0}</color>达到<color=#EB7350>{1}</color>\n并习得<color=#EB7350>{2}</color>后解锁"
+     1 string english = "Reach <color=#EB7350>{0}</color> <color=#EB7350>{1}</color>\nand learn <color=#EB7350>{2}</color> to unlock."
+     1 string japanese = "<color=#EB7350>{0}</color>が<color=#EB7350>{1}</color>に到達後\n<color=#EB7350>{2}</color>を学んで解放"
+     1 string mchinese = "<color=#EB7350>{0}</color>達到<color=#EB7350>{1}</color>\n並習得<color=#EB7350>{2}</color>後解鎖"
+   [26355]
+    0 TableSoItemLang data
+     0 int id = 1596172642
+     1 string schinese = "<color=#EB7350>{0}</color>回合后认识"
+     1 string schinese_censored = "<color=#EB7350>{0}</color>回合后认识"
+     1 string english = "Unlocks in <color=#EB7350>{0}</color> turns."
+     1 string japanese = "<color=#EB7350>{0}</color>ターン後に解放"
+     1 string mchinese = "<color=#EB7350>{0}</color>回合後認識"
+   [26356]
+    0 TableSoItemLang data
+     0 int id = 1596172643
+     1 string schinese = "重新开始"

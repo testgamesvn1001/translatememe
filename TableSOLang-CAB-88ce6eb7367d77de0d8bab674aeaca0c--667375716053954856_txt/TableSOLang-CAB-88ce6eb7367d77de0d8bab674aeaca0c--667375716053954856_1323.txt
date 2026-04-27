@@ -1,0 +1,184 @@
+     1 string schinese_censored = "哦，那你自己留下来写吧，我中午就做完了。"
+     1 string english = "Uhm, sure, you stay here and do that. I finished mine at noon."
+     1 string japanese = "ああ、それなら一人で残ってやってくれ。僕は昼に終わらせた。"
+     1 string mchinese = "哦，那你自己留下來寫吧，我中午就做完了。"
+   [30405]
+    0 TableSoItemLang data
+     0 int id = 99991111
+     1 string schinese = "..."
+     1 string schinese_censored = "..."
+     1 string english = "..."
+     1 string japanese = "…"
+     1 string mchinese = "..."
+   [30406]
+    0 TableSoItemLang data
+     0 int id = 99991112
+     1 string schinese = "我在图书馆占了座，一起去刷题？"
+     1 string schinese_censored = "我在图书馆占了座，一起去刷题？"
+     1 string english = "I've got spots at the library, wanna study together?"
+     1 string japanese = "図書館に席を取っている。一緒に勉強するか？"
+     1 string mchinese = "我在圖書館占了座，一起去刷題？"
+   [30407]
+    0 TableSoItemLang data
+     0 int id = 99991113
+     1 string schinese = "走起！"
+     1 string schinese_censored = "走起！"
+     1 string english = "Let's go!"
+     1 string japanese = "行こう！"
+     1 string mchinese = "走起！"
+   [30408]
+    0 TableSoItemLang data
+     0 int id = 99991114
+     1 string schinese = "哎？你桌上怎么摆了这么多小石子？"
+     1 string schinese_censored = "哎？你桌上怎么摆了这么多小石子？"
+     1 string english = "Err? What's with all these stones?"
+     1 string japanese = "あれ？なんで小石をたくさん並べてるんだ？"
+     1 string mchinese = "哎？你桌上怎麼擺了這麼多小石子？"
+   [30409]
+    0 TableSoItemLang data
+     0 int id = 99991115
+     1 string schinese = "听说过微积分么？"
+     1 string schinese_censored = "听说过微积分么？"
+     1 string english = "Have you heard of calculus?"
+     1 string japanese = "微積分は聞いたことがあるか？"
+     1 string mchinese = "聽說過微積分麼？"
+   [30410]
+    0 TableSoItemLang data
+     0 int id = 99991116
+     1 string schinese = "啥玩意儿？"
+     1 string schinese_censored = "啥玩意儿？"
+     1 string english = "What's that?"
+     1 string japanese = "なにそれ？"
+     1 string mchinese = "啥玩意兒？"
+   [30411]
+    0 TableSoItemLang data
+     0 int id = 99991117
+     1 string schinese = "微积分在拉丁文里就是用石子来计算的意思。"
+     1 string schinese_censored = "微积分在拉丁文里就是用石子来计算的意思。"
+     1 string english = "It is Latin and means to calculate using stones."
+     1 string japanese = "微積分はラテン語で、石を使って計算するという意味になる。"
+     1 string mchinese = "微積分在拉丁文裏就是用石子來計算的意思。"
+   [30412]
+    0 TableSoItemLang data
+     0 int id = 99991118
+     1 string schinese = "江神，请说人话..."
+     1 string schinese_censored = "江神，请说人话..."
+     1 string english = "Hans, speak human words, will you?"
+     1 string japanese = "ハンボ、人間の言葉を話してくれ…。"
+     1 string mchinese = "江神，請說人話..."
+   [30413]
+    0 TableSoItemLang data
+     0 int id = 99991119
+     1 string schinese = "所以这是我的吉祥物。"
+     1 string schinese_censored = "所以这是我的吉祥物。"
+     1 string english = "They're here to bring me good luck."
+     1 string japanese = "だから、これは僕にとって縁起物なんだ。"
+     1 string mchinese = "所以這是我的吉祥物。"
+   [30414]
+    0 TableSoItemLang data
+     0 int id = 99991120
+     1 string schinese = "你数学基础已经补上来了，确定不要挑战下奥赛？"
+     1 string schinese_censored = "你数学基础已经补上来了，确定不要挑战下奥赛？"
+     1 string english = "Right, you've gotten the basics down. Sure you don't wanna try the Olympiad?"
+     1 string japanese = "キミはすでに数学の基礎ができている。本当に次のＩＭＯに挑戦しないのかい？"
+     1 string mchinese = "你數學基礎已經補上來了，確定不要挑戰下奧賽？"
+   [30415]
+    0 TableSoItemLang data
+     0 int id = 99991121
+     1 string schinese = "等等，这跨度是不是有点大……"
+     1 string schinese_censored = "等等，这跨度是不是有点大……"
+     1 string english = "Wait... Isn't that like shooting for the stars?"
+     1 string japanese = "おい、レベルが違いすぎるだろう…。"
+     1 string mchinese = "等等，這跨度是不是有點大……"
+   [30416]
+    0 TableSoItemLang data
+     0 int id = 99991122
+     1 string schinese = "（小声）我就是想和朋友一起战斗。"
+     1 string schinese_censored = "（小声）我就是想和朋友一起战斗。"
+     1 string english = "(In a murmur) I just want to try the Olympiad with a friend..."
+     1 string japanese = "（小声）友達と戦いたいんだ…。"
+     1 string mchinese = "（小聲）我就是想和朋友一起戰鬥。"
+   [30417]
+    0 TableSoItemLang data
+     0 int id = 99991123
+     1 string schinese = "这么说你当我是朋友了？"
+     1 string schinese_censored = "这么说你当我是朋友了？"
+     1 string english = "Ah, so we're friends?!"
+     1 string japanese = "俺を友達と言ってくれるのか？"
+     1 string mchinese = "這麼說你當我是朋友了？"
+   [30418]
+    0 TableSoItemLang data
+     0 int id = 99991124
+     1 string schinese = "我没这么说，你听错了。"
+     1 string schinese_censored = "我没这么说，你听错了。"
+     1 string english = "I never said that, you must've misunderstood me."
+     1 string japanese = "そんなことは言ってない。聞き間違いだ。"
+     1 string mchinese = "我沒這麼說，你聽錯了。"
+   [30419]
+    0 TableSoItemLang data
+     0 int id = 99991125
+     1 string schinese = "...我就不信我还不行了，不就是奥数么！这就去报名！"
+     1 string schinese_censored = "...我就不信我还不行了，不就是奥数么！这就去报名！"
+     1 string english = "...I'm sure I'll do fine, it's just the Math Olympiad! Let's sign up!"
+     1 string japanese = "…信じてやってみよう。たかが数学じゃないか！申し込んでくる！"
+     1 string mchinese = "...我就不信我還不行了，不就是奧數麼！這就去報名！"
+   [30420]
+    0 TableSoItemLang data
+     0 int id = 99991126
+     1 string schinese = "这次学校组织的五月歌会，有没有同学自告奋勇来当领唱？"
+     1 string schinese_censored = "这次学校组织的五月歌会，有没有同学自告奋勇来当领唱？"
+     1 string english = "The school is holding a singing contest in May. Does anyone want to sign up?"
+     1 string japanese = "今度の合唱大会でリードボーカルをやってくれる人はいませんか？"
+     1 string mchinese = "這次學校組織的五月歌會，有沒有同學自告奮勇來當領唱？"
+   [30421]
+    0 TableSoItemLang data
+     0 int id = 99991127
+     1 string schinese = "（教室里一片雅雀无声...)"
+     1 string schinese_censored = "（教室里一片雅雀无声...)"
+     1 string english = "(The classroom falls completely silent...)"
+     1 string japanese = "（教室は静まり返っている…）"
+     1 string mchinese = "（教室裏一片雅雀無聲...)"
+   [30422]
+    0 TableSoItemLang data
+     0 int id = 99991128
+     1 string schinese = "同学们踊跃一点嘛，这可是关系到我们班荣誉的！"
+     1 string schinese_censored = "同学们踊跃一点嘛，这可是关系到我们班荣誉的！"
+     1 string english = "Hey, what's with the looks? It's for the honor of our class!"
+     1 string japanese = "挑戦してみようよ。うちのクラスの栄誉にも関わるんだよ！"
+     1 string mchinese = "同學們踴躍一點嘛，這可是關係到我們班榮譽的！"
+   [30423]
+    0 TableSoItemLang data
+     0 int id = 99991129
+     1 string schinese = "（同学们的头埋得更低了，都希望班长不要看到自己...)"
+     1 string schinese_censored = "（同学们的头埋得更低了，都希望班长不要看到自己...)"
+     1 string english = "(The students lower their faces further, praying that the class president ignores them...)"
+     1 string japanese = "（生徒たちはより深くうつむいた。学級委員と目を合わせたくないのだ…）"
+     1 string mchinese = "（同學們的頭埋得更低了，都希望班長不要看到自己...)"
+   [30424]
+    0 TableSoItemLang data
+     0 int id = 99991130
+     1 string schinese = "（此时凌小时站在台上显得有些尴尬。）"
+     1 string schinese_censored = "（此时凌小时站在台上显得有些尴尬。）"
+     1 string english = "(Zero Hour standing at the podium is beginning to feel awkward.)"
+     1 string japanese = "（教壇のリン・シャオシーは非常に居心地が悪そうだ）"
+     1 string mchinese = "（此時淩小時站在臺上顯得有些尷尬。）"
+   [30425]
+    0 TableSoItemLang data
+     0 int id = 99991131
+     1 string schinese = "我来吧！但我唱得不好，丢分了大家别怪我哈！"
+     1 string schinese_censored = "我来吧！但我唱得不好，丢分了大家别怪我哈！"
+     1 string english = "I'll go! But I can't really sing. So, don't blame me if we lose points!"
+     1 string japanese = "俺がやるよ！でも、下手だから、得点が低くても文句は言わないでね！"
+     1 string mchinese = "我來吧！但我唱得不好，丟分了大家別怪我哈！"
+   [30426]
+    0 TableSoItemLang data
+     0 int id = 99991132
+     1 string schinese = "（凌小时感激地看向你。)"
+     1 string schinese_censored = "（凌小时感激地看向你。)"
+     1 string english = "(Zero Hour looks at you in relief.)"
+     1 string japanese = "（リン・シャオシーは感激してあなたを見た）"
+     1 string mchinese = "（淩小時感激地看向你。)"
+   [30427]
+    0 TableSoItemLang data
+     0 int id = 99991133
+     1 string schinese = "好！！！大家掌声鼓励！"

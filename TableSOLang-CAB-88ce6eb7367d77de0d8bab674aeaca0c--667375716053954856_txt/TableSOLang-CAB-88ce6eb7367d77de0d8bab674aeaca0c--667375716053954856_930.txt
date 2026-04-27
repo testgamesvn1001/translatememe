@@ -1,0 +1,184 @@
+     1 string schinese_censored = "年少时的好友，追求着自己的理想，拥有着不同的烦恼，\n走上了各自的人生轨迹。\n我们就这样渐行渐远，散落在天涯。"
+     1 string english = "When we are young, we follow our dreams without worrying too much.\nEveryone's path is different.\nOne after another, we begin our careers."
+     1 string japanese = "青春時代の親友はそれぞれが理想を追求し、異なる悩みを抱えていた\nみんな別々の軌跡を辿っただろう\nそれぞれが遠く離れ散らばり漂流してる"
+     1 string mchinese = "年少時的好友，追求著自己的理想，擁有著不同的煩惱，\n走上了各自的人生軌跡。\n我們就這樣漸行漸遠，散落在天涯。"
+   [21366]
+    0 TableSoItemLang data
+     0 int id = 5500267
+     1 string schinese = "茫茫书海，幸好有三五好友相伴\n{0} 是我最好的朋友\nTA接受了我的 {1} 次邀请\n好感度达到 {2}\n毕业后\n我们的友情似乎多了一种味道"
+     1 string schinese_censored = "茫茫书海，幸好有三五好友相伴\n{0} 是我最好的朋友\n他/她接受了我的 {1} 次邀请\n好感度达到 {2}\n毕业后\n我们的友情并没有因为毕业而改变"
+     1 string english = "It is great having some company while reading books.\n{0} is my best friend.\nThey have accepted {1} of my invitations.\nWe have an intimacy of {2}.\nAfter graduation\nit felt as if our relationship evolved."
+     1 string japanese = "世間は広大な海だけど、\n幸い親友を得ることができた\n最高の親友の{0}\n{1}回お誘いを受けてくれた\n好感度は{2}\n卒業後、\nこの友情はどうなるんだろう"
+     1 string mchinese = "茫茫書海，幸好有三五好友相伴\n{0} 是我最好的朋友\nTA接受了我的 {1} 次邀請\n好感度達到 {2}\n畢業後\n我們的友情似乎多了一種味道"
+   [21367]
+    0 TableSoItemLang data
+     0 int id = 5500268
+     1 string schinese = "茫茫书海，幸好有三五好友相伴\n{0} 是我最好的朋友\n我接受了TA {1} 次邀请\n对TA的好感度达到 {2}\n毕业后\n我们的友情似乎多了一种味道"
+     1 string schinese_censored = "茫茫书海，幸好有三五好友相伴\n{0} 是我最好的朋友\n我接受了 {1} 次邀请\n对他/她的好感度达到 {2}\n毕业后\n我们的友情并没有因为毕业而改变"
+     1 string english = "It is great having some company while reading books.\n{0} is my best friend.\nI have accepted {1} of their invitations.\nWe have an intimacy of {2}.\nAfter graduation\nit felt as if our relationship evolved."
+     1 string japanese = "世間は広大な海だけど、\n幸い親友を得ることができた\n最高の親友の{0}\n{1}回お誘いを受けた\n好感度は{2}\n卒業後、\nこの友情はどうなるんだろう"
+     1 string mchinese = "茫茫書海，幸好有三五好友相伴\n{0} 是我最好的朋友\n我接受了TA {1} 次邀請\n對TA的好感度達到 {2}\n畢業後\n我們的友情似乎多了一種味道"
+   [21368]
+    0 TableSoItemLang data
+     0 int id = 5500269
+     1 string schinese = "毕业证书"
+     1 string schinese_censored = "毕业证书"
+     1 string english = "Graduation Certificate"
+     1 string japanese = "卒業証書"
+     1 string mchinese = "畢業證書"
+   [21369]
+    0 TableSoItemLang data
+     0 int id = 5500270
+     1 string schinese = "祝贺你完成我校规定的所有课程，成绩优异。\n特颁此证，准予毕业。"
+     1 string schinese_censored = "祝贺你完成我校规定的所有课程，成绩优异。\n特颁此证，准予毕业。"
+     1 string english = "Congratulations on completing all of your courses here. Your grades are outstanding.\nThis certificate is hereby issued for your graduation."
+     1 string japanese = "本校が規定した課程すべてで優秀な成績を収め、修了したことを称えます。\nこの証書を以って卒業とします。"
+     1 string mchinese = "祝賀你完成我校規定的所有課程，成績優異。\n特頒此證，准予畢業。"
+   [21370]
+    0 TableSoItemLang data
+     0 int id = 5500271
+     1 string schinese = "大学毕业"
+     1 string schinese_censored = "大学毕业"
+     1 string english = "University Graduate"
+     1 string japanese = "大学卒業"
+     1 string mchinese = "大學畢業"
+   [21371]
+    0 TableSoItemLang data
+     0 int id = 5500272
+     1 string schinese = "找到了工作"
+     1 string schinese_censored = "找到了工作"
+     1 string english = "Found a Job"
+     1 string japanese = "就職した"
+     1 string mchinese = "找到了工作"
+   [21372]
+    0 TableSoItemLang data
+     0 int id = 5500273
+     1 string schinese = "和{0}结婚"
+     1 string schinese_censored = "和{0}结婚"
+     1 string english = "Married {0}"
+     1 string japanese = "{0}と結婚した"
+     1 string mchinese = "和{0}結婚"
+   [21373]
+    0 TableSoItemLang data
+     0 int id = 5500274
+     1 string schinese = "陌生人"
+     1 string schinese_censored = "陌生人"
+     1 string english = "Stranger"
+     1 string japanese = "見知らぬ人"
+     1 string mchinese = "陌生人"
+   [21374]
+    0 TableSoItemLang data
+     0 int id = 5500275
+     1 string schinese = "下一世代新内容解锁"
+     1 string schinese_censored = "下一世代新内容解锁"
+     1 string english = "New Content for Next Generation"
+     1 string japanese = "次世代で解放される特典"
+     1 string mchinese = "下一世代新內容解鎖"
+   [21375]
+    0 TableSoItemLang data
+     0 int id = 5500276
+     1 string schinese = "第{0}世代解锁内容一览"
+     1 string schinese_censored = "第{0}世代解锁内容一览"
+     1 string english = "Gen {0} Content Unlock Overview"
+     1 string japanese = "第{0}世代の解放特典一覧"
+     1 string mchinese = "第{0}世代解鎖內容一覽"
+   [21376]
+    0 TableSoItemLang data
+     0 int id = 5500277
+     1 string schinese = "收集传家宝\n获得加成"
+     1 string schinese_censored = "收集传家宝\n获得加成"
+     1 string english = "Collect family heirlooms\nfor stat bonuses."
+     1 string japanese = "家宝を集めて\nボーナスゲット！"
+     1 string mchinese = "收集傳家寶\n獲得加成"
+   [21377]
+    0 TableSoItemLang data
+     0 int id = 5500278
+     1 string schinese = "第<color=#EB7350>{0}</color>世代解锁"
+     1 string schinese_censored = "第<color=#EB7350>{0}</color>世代解锁"
+     1 string english = "Unlocks at Gen. <color=#EB7350>{0}</color>"
+     1 string japanese = "第<color=#EB7350>{0}</color>世代で解放"
+     1 string mchinese = "第<color=#EB7350>{0}</color>世代解鎖"
+   [21378]
+    0 TableSoItemLang data
+     0 int id = 5500279
+     1 string schinese = "<color=#EB7350>{0}</color>达到<color=#EB7350>{1}</color>\n并习得<color=#EB7350>{2}</color>后解锁"
+     1 string schinese_censored = "<color=#EB7350>{0}</color>达到<color=#EB7350>{1}</color>\n并习得<color=#EB7350>{2}</color>后解锁"
+     1 string english = "Reach <color=#EB7350>{0}</color> <color=#EB7350>{1}</color>\nand learn <color=#EB7350>{2}</color> to unlock."
+     1 string japanese = "<color=#EB7350>{0}</color>が<color=#EB7350>{1}</color>に到達後\n<color=#EB7350>{2}</color>を学んで解放"
+     1 string mchinese = "<color=#EB7350>{0}</color>達到<color=#EB7350>{1}</color>\n並習得<color=#EB7350>{2}</color>後解鎖"
+   [21379]
+    0 TableSoItemLang data
+     0 int id = 5500280
+     1 string schinese = "<color=#EB7350>{0}</color>回合后解锁"
+     1 string schinese_censored = "<color=#EB7350>{0}</color>回合后解锁"
+     1 string english = "Unlocks in <color=#EB7350>{0}</color> turns."
+     1 string japanese = "<color=#EB7350>{0}</color>ターン後に解放"
+     1 string mchinese = "<color=#EB7350>{0}</color>回合後解鎖"
+   [21380]
+    0 TableSoItemLang data
+     0 int id = 5500281
+     1 string schinese = "重新开始"
+     1 string schinese_censored = "重新开始"
+     1 string english = "Restart"
+     1 string japanese = "リスタート"
+     1 string mchinese = "重新開始"
+   [21381]
+    0 TableSoItemLang data
+     0 int id = 5500282
+     1 string schinese = "详细信息"
+     1 string schinese_censored = "详细信息"
+     1 string english = "Details"
+     1 string japanese = "詳細情報"
+     1 string mchinese = "詳細資訊"
+   [21382]
+    0 TableSoItemLang data
+     0 int id = 5500283
+     1 string schinese = "推荐"
+     1 string schinese_censored = "推荐"
+     1 string english = "Rec."
+     1 string japanese = "推奨"
+     1 string mchinese = "推薦"
+   [21383]
+    0 TableSoItemLang data
+     0 int id = 5500284
+     1 string schinese = "切换决定"
+     1 string schinese_censored = "切换决定"
+     1 string english = "Change Decision"
+     1 string japanese = "項目の切替"
+     1 string mchinese = "切換決定"
+   [21384]
+    0 TableSoItemLang data
+     0 int id = 5500285
+     1 string schinese = "上下"
+     1 string schinese_censored = "上下"
+     1 string english = "Up/Down"
+     1 string japanese = "上下"
+     1 string mchinese = "上下"
+   [21385]
+    0 TableSoItemLang data
+     0 int id = 5500286
+     1 string schinese = "左右"
+     1 string schinese_censored = "左右"
+     1 string english = "Left/Right"
+     1 string japanese = "左右"
+     1 string mchinese = "左右"
+   [21386]
+    0 TableSoItemLang data
+     0 int id = 5500287
+     1 string schinese = "输入"
+     1 string schinese_censored = "输入"
+     1 string english = "Enter"
+     1 string japanese = "入力"
+     1 string mchinese = "輸入"
+   [21387]
+    0 TableSoItemLang data
+     0 int id = 6600001
+     1 string schinese = "游客"
+     1 string schinese_censored = "游客"
+     1 string english = "Guest"
+     1 string japanese = "游客"
+     1 string mchinese = "遊客"
+   [21388]
+    0 TableSoItemLang data
+     0 int id = 6600002
+     1 string schinese = "QQ"

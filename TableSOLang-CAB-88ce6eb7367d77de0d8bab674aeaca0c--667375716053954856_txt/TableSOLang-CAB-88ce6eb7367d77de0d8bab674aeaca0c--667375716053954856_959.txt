@@ -1,0 +1,184 @@
+     1 string schinese_censored = ""
+     1 string english = "No more doubts! Here comes the school bus to the kindergartens!"
+     1 string japanese = "８時ちょうどのスクールバスで～"
+     1 string mchinese = "這就是開往幼稚園的校車，不要懷疑！"
+   [22033]
+    0 TableSoItemLang data
+     0 int id = 6660225
+     1 string schinese = "不要再车卡了，直接上!"
+     1 string schinese_censored = ""
+     1 string english = "You need no student cards. Just hop on the bus and ride it back to your childhood!"
+     1 string japanese = "キャラ作成不要！"
+     1 string mchinese = "不要再車卡了，直接上!"
+   [22034]
+    0 TableSoItemLang data
+     0 int id = 6660226
+     1 string schinese = "为地球制造更多可爱的小盆友人人有责！"
+     1 string schinese_censored = ""
+     1 string english = "It's our duty to bring up more cute children!"
+     1 string japanese = "地球のためにかわいい子をつくるのは人類の責務！"
+     1 string mchinese = "為地球製造更多可愛的小盆友人人有責！"
+   [22035]
+    0 TableSoItemLang data
+     0 int id = 6660227
+     1 string schinese = "小朋友生产流水线招工ing..."
+     1 string schinese_censored = ""
+     1 string english = "Hiring babysitters..."
+     1 string japanese = "子ども生む人募集中…"
+     1 string mchinese = "小朋友生產流水線招工ing..."
+   [22036]
+    0 TableSoItemLang data
+     0 int id = 6660228
+     1 string schinese = "兑换功能暂时关闭，请及时关注官方动态。"
+     1 string schinese_censored = "兑换功能暂时关闭，请及时关注官方动态。"
+     1 string english = "Redemption not available right now. Keep an eye on our notices."
+     1 string japanese = "交換機能は現在停止しています。お知らせにご留意ください。"
+     1 string mchinese = "兌換功能暫時關閉，請及時關注官方動態。"
+   [22037]
+    0 TableSoItemLang data
+     0 int id = 6660229
+     1 string schinese = "兑换成功"
+     1 string schinese_censored = "兑换成功"
+     1 string english = "Successfully redeemed."
+     1 string japanese = "交換しました"
+     1 string mchinese = "兌換成功"
+   [22038]
+    0 TableSoItemLang data
+     0 int id = 6660230
+     1 string schinese = "显示下一等级加成"
+     1 string schinese_censored = "显示下一等级加成"
+     1 string english = "Show bonus on next level."
+     1 string japanese = "次のレベルのボーナスを表示"
+     1 string mchinese = "顯示下一等級加成"
+   [22039]
+    0 TableSoItemLang data
+     0 int id = 6660231
+     1 string schinese = "通关故事模式“{0}”后解锁"
+     1 string schinese_censored = "通关故事模式“{0}”后解锁"
+     1 string english = "Complete Story {0} to unlock."
+     1 string japanese = "ストーリーモード「{0}」をクリアするとアンロック"
+     1 string mchinese = "通關故事模式“{0}”後解鎖"
+   [22040]
+    0 TableSoItemLang data
+     0 int id = 6660232
+     1 string schinese = "压力过大"
+     1 string schinese_censored = "压力过大"
+     1 string english = "Stressed Out"
+     1 string japanese = "過度のストレス"
+     1 string mchinese = "壓力過大"
+   [22041]
+    0 TableSoItemLang data
+     0 int id = 6660233
+     1 string schinese = "你最近压力太大了，好好休息一下吧~"
+     1 string schinese_censored = "你最近压力太大了，好好休息一下吧~"
+     1 string english = "You're stressed out. Take a good rest."
+     1 string japanese = "最近ストレスが大きすぎるよ。少し休もう。"
+     1 string mchinese = "你最近壓力太大了，好好休息一下吧~"
+   [22042]
+    0 TableSoItemLang data
+     0 int id = 6660234
+     1 string schinese = "{0}·"
+     1 string schinese_censored = "战队-{0}"
+     1 string english = "{0}"
+     1 string japanese = "{0}"
+     1 string mchinese = "{0}·"
+   [22043]
+    0 TableSoItemLang data
+     0 int id = 6660235
+     1 string schinese = "需要完成第一代并买断游戏，才能解锁Orz"
+     1 string schinese_censored = "需要完成第一代并买断游戏，才能解锁Orz"
+     1 string english = "Complete the first generation and purchase the game to unlock."
+     1 string japanese = "第１世代をクリアし、ゲームを購入すると、アンロックされます"
+     1 string mchinese = "需要完成第一代並買斷遊戲，才能解鎖Orz"
+   [22044]
+    0 TableSoItemLang data
+     0 int id = 6660236
+     1 string schinese = "额外内容"
+     1 string schinese_censored = ""
+     1 string english = "DLC"
+     1 string japanese = "ＤＬＣ"
+     1 string mchinese = "額外內容"
+   [22045]
+    0 TableSoItemLang data
+     0 int id = 6660237
+     1 string schinese = "悟性：\n技能学习需要消耗悟性，可在挖脑洞中获得！"
+     1 string schinese_censored = ""
+     1 string english = "Knowledge:\nLearning skills cost Knowledge. Acquire more by absorbing Fragments!"
+     1 string japanese = "理解力：\nスキル習得に必要な理解力はカケラ吸収で獲得！"
+     1 string mchinese = "悟性：\n技能學習需要消耗悟性，可在挖腦洞中獲得！"
+   [22046]
+    0 TableSoItemLang data
+     0 int id = 6660238
+     1 string schinese = "行动力：\n挖脑洞消耗行动力点，安排娱乐类日常可以增加行动力！"
+     1 string schinese_censored = ""
+     1 string english = "Action:\nAbsorbing Fragments costs Action. Acquire more from Entertainment activities!"
+     1 string japanese = "行動力：\nカケラの吸収には行動力を消費する。娯楽系の予定を組むと、行動力がアップ！"
+     1 string mchinese = "行動力：\n挖腦洞消耗行動力點，安排娛樂類日常可以增加行動力！"
+   [22047]
+    0 TableSoItemLang data
+     0 int id = 6660239
+     1 string schinese = "学费值：\n用于购买传家宝，通过成就获得！"
+     1 string schinese_censored = ""
+     1 string english = "Tuition:\nUse to purchase Family Heirlooms. Acquire more from Challenges."
+     1 string japanese = "授業料：\n家宝の購入に使用できる。成績達成で獲得！"
+     1 string mchinese = "學費值：\n用於購買傳家寶，通過成就獲得！"
+   [22048]
+    0 TableSoItemLang data
+     0 int id = 6660240
+     1 string schinese = "零花钱：\n用于在商店中购买道具，可通过父母职业和自己社会实践获得！"
+     1 string schinese_censored = ""
+     1 string english = "Money:\nUsed to purchase items in the Shop. Acquire from your parents or by doing Work."
+     1 string japanese = "お小遣い：\n売店でアイテムを購入できる。両親の職業や仕事によって獲得！"
+     1 string mchinese = "零花錢：\n用於在商店中購買道具，可通過父母職業和自己社會實踐獲得！"
+   [22049]
+    0 TableSoItemLang data
+     0 int id = 6660241
+     1 string schinese = "我的压力：\n压力较大，有几率出现心理问题，适当的压力才有额外的收获！"
+     1 string schinese_censored = ""
+     1 string english = "Stress:\nYou are feeling stressed out and there's a chance your mind will suffer for it. Have an appropriate amount of stress for extra bonuses!"
+     1 string japanese = "ストレス：\nストレスがたまりすぎると、メンタル不調になる可能性がある。ほどほどのストレスだとボーナスが得られる！"
+     1 string mchinese = "我的壓力：\n壓力較大，有幾率出現心理問題，適當的壓力才有額外的收穫！"
+   [22050]
+    0 TableSoItemLang data
+     0 int id = 6660242
+     1 string schinese = "父母满意度：\n父母满意度较高时有几率获得索取机会等奖励，较低时会有额外惩罚！"
+     1 string schinese_censored = ""
+     1 string english = "Satisfaction:\nHigh Satisfaction leads to chances of getting rewards like Requests while low leads to extra punishments."
+     1 string japanese = "両親の満足度：\n両親の満足度が高ければボーナスをもらえ、低すぎると罰を受ける時がある。"
+     1 string mchinese = "父母滿意度：\n父母滿意度較高時有幾率獲得索取機會等獎勵，較低時會有額外懲罰！"
+   [22051]
+    0 TableSoItemLang data
+     0 int id = 6660243
+     1 string schinese = "{0}回合"
+     1 string schinese_censored = ""
+     1 string english = "Turn {0}"
+     1 string japanese = "{0}ターン"
+     1 string mchinese = "{0}回合"
+   [22052]
+    0 TableSoItemLang data
+     0 int id = 6660244
+     1 string schinese = "比赛准备"
+     1 string schinese_censored = ""
+     1 string english = "Match Preparation"
+     1 string japanese = "試合準備"
+     1 string mchinese = "比賽準備"
+   [22053]
+    0 TableSoItemLang data
+     0 int id = 6660245
+     1 string schinese = "游戏失败"
+     1 string schinese_censored = ""
+     1 string english = "Game Lost"
+     1 string japanese = "ゲーム失敗"
+     1 string mchinese = "遊戲失敗"
+   [22054]
+    0 TableSoItemLang data
+     0 int id = 6660246
+     1 string schinese = "使用特长"
+     1 string schinese_censored = ""
+     1 string english = "Use Trait"
+     1 string japanese = "特技使用"
+     1 string mchinese = "使用特長"
+   [22055]
+    0 TableSoItemLang data
+     0 int id = 6660247
+     1 string schinese = "撤回"

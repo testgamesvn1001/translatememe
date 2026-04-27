@@ -1,0 +1,184 @@
+     1 string schinese_censored = "普通"
+     1 string english = "Ordinary"
+     1 string japanese = "一般"
+     1 string mchinese = "普通"
+   [3771]
+    0 TableSoItemLang data
+     0 int id = 1013772
+     1 string schinese = "情绪"
+     1 string schinese_censored = "情绪"
+     1 string english = "Mood"
+     1 string japanese = "感情"
+     1 string mchinese = "情緒"
+   [3772]
+    0 TableSoItemLang data
+     0 int id = 1013773
+     1 string schinese = "语文"
+     1 string schinese_censored = "语文"
+     1 string english = "Chinese"
+     1 string japanese = "国語"
+     1 string mchinese = "語文"
+   [3773]
+    0 TableSoItemLang data
+     0 int id = 1013774
+     1 string schinese = "数学"
+     1 string schinese_censored = "数学"
+     1 string english = "Mathematics"
+     1 string japanese = "数学"
+     1 string mchinese = "數學"
+   [3774]
+    0 TableSoItemLang data
+     0 int id = 1013775
+     1 string schinese = "英语"
+     1 string schinese_censored = "英语"
+     1 string english = "English"
+     1 string japanese = "英語"
+     1 string mchinese = "英語"
+   [3775]
+    0 TableSoItemLang data
+     0 int id = 1013776
+     1 string schinese = "文科"
+     1 string schinese_censored = "文科"
+     1 string english = "Liberal Arts"
+     1 string japanese = "文系"
+     1 string mchinese = "文科"
+   [3776]
+    0 TableSoItemLang data
+     0 int id = 1013777
+     1 string schinese = "理科"
+     1 string schinese_censored = "理科"
+     1 string english = "Science"
+     1 string japanese = "理系"
+     1 string mchinese = "理科"
+   [3777]
+    0 TableSoItemLang data
+     0 int id = 1013778
+     1 string schinese = "体育"
+     1 string schinese_censored = "体育"
+     1 string english = "Physical Education"
+     1 string japanese = "体育"
+     1 string mchinese = "體育"
+   [3778]
+    0 TableSoItemLang data
+     0 int id = 1013779
+     1 string schinese = "艺术"
+     1 string schinese_censored = "艺术"
+     1 string english = "Art"
+     1 string japanese = "芸術"
+     1 string mchinese = "藝術"
+   [3779]
+    0 TableSoItemLang data
+     0 int id = 1013780
+     1 string schinese = "正义"
+     1 string schinese_censored = "正义"
+     1 string english = "Justice"
+     1 string japanese = "正義"
+     1 string mchinese = "正義"
+   [3780]
+    0 TableSoItemLang data
+     0 int id = 1013781
+     1 string schinese = "程序"
+     1 string schinese_censored = "程序"
+     1 string english = "Programming"
+     1 string japanese = "プログラミング"
+     1 string mchinese = "程式"
+   [3781]
+    0 TableSoItemLang data
+     0 int id = 1013782
+     1 string schinese = "演艺"
+     1 string schinese_censored = "演艺"
+     1 string english = "Performing Arts"
+     1 string japanese = "演芸"
+     1 string mchinese = "演藝"
+   [3782]
+    0 TableSoItemLang data
+     0 int id = 1013783
+     1 string schinese = "经济"
+     1 string schinese_censored = "经济"
+     1 string english = "Economics"
+     1 string japanese = "経済"
+     1 string mchinese = "經濟"
+   [3783]
+    0 TableSoItemLang data
+     0 int id = 1013784
+     1 string schinese = "沟通"
+     1 string schinese_censored = "沟通"
+     1 string english = "Communication"
+     1 string japanese = "意志疎通"
+     1 string mchinese = "溝通"
+   [3784]
+    0 TableSoItemLang data
+     0 int id = 1013785
+     1 string schinese = "数学·学术"
+     1 string schinese_censored = "数学·学术"
+     1 string english = "Academic Math"
+     1 string japanese = "学術的数学"
+     1 string mchinese = "數學·學術"
+   [3785]
+    0 TableSoItemLang data
+     0 int id = 1013786
+     1 string schinese = "物理·学术"
+     1 string schinese_censored = "物理·学术"
+     1 string english = "Academic Physics"
+     1 string japanese = "学術的物理"
+     1 string mchinese = "物理·學術"
+   [3786]
+    0 TableSoItemLang data
+     0 int id = 1013787
+     1 string schinese = "忍术"
+     1 string schinese_censored = "忍术"
+     1 string english = "Ninjutsu"
+     1 string japanese = "忍術"
+     1 string mchinese = "忍術"
+   [3787]
+    0 TableSoItemLang data
+     0 int id = 1013788
+     1 string schinese = "美妆"
+     1 string schinese_censored = "美妆"
+     1 string english = "Cosmetology"
+     1 string japanese = "化粧"
+     1 string mchinese = "美妝"
+   [3788]
+    0 TableSoItemLang data
+     0 int id = 1013789
+     1 string schinese = "歌后"
+     1 string schinese_censored = "歌后"
+     1 string english = "Singer"
+     1 string japanese = "歌姫"
+     1 string mchinese = "歌後"
+   [3789]
+    0 TableSoItemLang data
+     0 int id = 1013790
+     1 string schinese = "玩家自带就会有的技能。"
+     1 string schinese_censored = "玩家自带就会有的技能。"
+     1 string english = "You start with these skills."
+     1 string japanese = "元から持っているスキル。"
+     1 string mchinese = "玩家自帶就會有的技能。"
+   [3790]
+    0 TableSoItemLang data
+     0 int id = 1013791
+     1 string schinese = "用于控制情绪，练习这类技能，可有效提高情商。"
+     1 string schinese_censored = "用于控制情绪，练习这类技能，可有效提高情绪力。"
+     1 string english = "Use to control your mood. Learning these skills increases your EQ."
+     1 string japanese = "感情をコントロールするスキルを学べばＥＱが上がる。"
+     1 string mchinese = "用於控制情緒，練習這類技能，可有效提高情商。"
+   [3791]
+    0 TableSoItemLang data
+     0 int id = 1013792
+     1 string schinese = "语文技能掌握的越多，在考试和最终高考中，该科目就会有更好的表现"
+     1 string schinese_censored = "语文技能掌握的越多，在考试和最终高考中，该科目就会有更好的表现"
+     1 string english = "Studying this increases your Chinese performance in exams and on Gaokao."
+     1 string japanese = "国語スキルを多く学ぶほど、試験や大学入試で良い結果が出る。"
+     1 string mchinese = "語文技能掌握的越多，在考試和最終高考中，該科目就會有更好的表現"
+   [3792]
+    0 TableSoItemLang data
+     0 int id = 1013793
+     1 string schinese = "数学技能掌握的越多，在考试和最终高考中，该科目就会有更好的表现。同时学到某种程度，也可以开启学术数学路线。"
+     1 string schinese_censored = "数学技能掌握的越多，在考试和最终高考中，该科目就会有更好的表现。同时学到某种程度，也可以开启学术数学路线。"
+     1 string english = "Studying this increases your Mathematics performance in exams and on Gaokao."
+     1 string japanese = "数学スキルを多く学ぶほど、試験や大学入試で良い結果が出る。また、ある程度まで学ぶと、学術的数学への道が開ける。"
+     1 string mchinese = "數學技能掌握的越多，在考試和最終高考中，該科目就會有更好的表現。同時學到某種程度，也可以開啟學術數學路線。"
+   [3793]
+    0 TableSoItemLang data
+     0 int id = 1013794
+     1 string schinese = "英语技能掌握的越多，在考试和最终高考中，该科目就会有更好的表现。"

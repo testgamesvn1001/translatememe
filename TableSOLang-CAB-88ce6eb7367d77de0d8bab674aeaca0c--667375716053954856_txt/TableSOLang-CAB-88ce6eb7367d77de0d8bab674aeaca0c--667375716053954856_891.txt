@@ -1,0 +1,184 @@
+     1 string schinese_censored = "我对你印象还挺深的，明明自己紧张得要死，还安慰同伴呢。"
+     1 string english = "I remember you quite well actually. You were nervous enough for five but you still comforted your friends."
+     1 string japanese = "緊張して死にそうな顔してたのに、友達を慰めてたのが印象に残ってるわ。"
+     1 string mchinese = "我對你印象還挺深的，明明自己緊張得要死，還安慰同伴呢。"
+   [20469]
+    0 TableSoItemLang data
+     0 int id = 1030475
+     1 string schinese = "同伴？不不不，我一个人去的，旁边是陌生人，只是看她比我还紧张，都快哭了，就安慰一下她……"
+     1 string schinese_censored = "同伴？不不不，我一个人去的，旁边是陌生人，只是看她比我还紧张，都快哭了，就安慰一下她……"
+     1 string english = "Friends? Uhm what? I went alone, that was a stranger. I just figured she was even more nervous than me and on the verge of tears, so I kinda just comforted her..."
+     1 string japanese = "友達？いえいえ、私は１人で参加しました。隣の人は知らない人です。ただ、私より緊張してて泣きそうだったので、慰めてたんです…"
+     1 string mchinese = "同伴？不不不，我一個人去的，旁邊是陌生人，只是看她比我還緊張，都快哭了，就安慰一下她……"
+   [20470]
+    0 TableSoItemLang data
+     0 int id = 1030476
+     1 string schinese = "……嗯，原来如此……"
+     1 string schinese_censored = "……嗯，原来如此……"
+     1 string english = "Mhm, I see."
+     1 string japanese = "…ああ、なるほど…"
+     1 string mchinese = "……嗯，原來如此……"
+   [20471]
+    0 TableSoItemLang data
+     0 int id = 1030477
+     1 string schinese = "我有个问题哈，你为什么要去参加这个海选呢？"
+     1 string schinese_censored = "我有个问题哈，你为什么要去参加这个海选呢？"
+     1 string english = "I've got a question for you. What made you audition in the first place?"
+     1 string japanese = "質問があるんだけど、どうしてオーディションに参加したの？"
+     1 string mchinese = "我有個問題哈，你為什麼要去參加這個海選呢？"
+   [20472]
+    0 TableSoItemLang data
+     0 int id = 1030478
+     1 string schinese = "我……我看见偶像在舞台上闪闪发光的样子，就觉得充满希望，想试试能不能也这样，成为让别人看到希望的人…………"
+     1 string schinese_censored = "我……我看见偶像在舞台上闪闪发光的样子，就觉得充满希望，想试试能不能也这样，成为让别人看到希望的人…………"
+     1 string english = "I... I've seen my idols on the stage shining brightly like stars. It just fills me with hope and I wanted to give it a try and see if I could do the same, to become a beacon of hope for someone else..."
+     1 string japanese = "えっと…舞台で輝くアイドルを見たんです。とにかく希望に満ちてました。いつか自分もそうなりたいと思ったんです。人々に希望を与えられたらなと…"
+     1 string mchinese = "我……我看見偶像在舞臺上閃閃發光的樣子，就覺得充滿希望，想試試能不能也這樣，成為讓別人看到希望的人…………"
+   [20473]
+    0 TableSoItemLang data
+     0 int id = 1030479
+     1 string schinese = "噢~有点意思~我中意你，那你来不来我这里兼职？不是当练习生，是让你参与运营。或许能从另一个角度接近你憧憬的偶像哦。"
+     1 string schinese_censored = "噢~有点意思~我中意你，那你来不来我这里兼职？不是当练习生，是让你参与运营。或许能从另一个角度接近你憧憬的偶像哦。"
+     1 string english = "Heh, that's quite the idea you have. You know what? I've taken a liking to you. How about working part time for me as a manager? Perhaps you'd benefit from helping your idols instead."
+     1 string japanese = "うん、面白い！うちの事務所でインターンシップやらない？アイドルじゃなくて運営側になるの。憧れのアイドルに別方向からアプローチできるかもね。"
+     1 string mchinese = "噢~有點意思~我中意你，那你來不來我這裏兼職？不是當練習生，是讓你參與運營。或許能從另一個角度接近你憧憬的偶像哦。"
+   [20474]
+    0 TableSoItemLang data
+     0 int id = 1030480
+     1 string schinese = "当然可以！如果您不嫌弃的话。"
+     1 string schinese_censored = "当然可以！如果您不嫌弃的话。"
+     1 string english = "That would be great! If you'll have me, that is."
+     1 string japanese = "いいんですか？当然やります！"
+     1 string mchinese = "當然可以！如果您不嫌棄的話。"
+   [20475]
+    0 TableSoItemLang data
+     0 int id = 1030481
+     1 string schinese = "那好！我觉得你有经纪人的天赋，不过你可要做好吃苦的准备哟~"
+     1 string schinese_censored = "那好！我觉得你有经纪人的天赋，不过你可要做好吃苦的准备哟~"
+     1 string english = "That's settled then! I believe you have a natural talent for being an agent, but you better prepare yourself to put in some hard work."
+     1 string japanese = "よし！見込みに間違いなければ、あなたにはマネージャーの才能があるはず！苦労すると思うから覚悟してね！"
+     1 string mchinese = "那好！我覺得你有經紀人的天賦，不過你可要做好吃苦的準備喲~"
+   [20476]
+    0 TableSoItemLang data
+     0 int id = 1030482
+     1 string schinese = "你知道偶像最重要的是什么？"
+     1 string schinese_censored = "你知道偶像最重要的是什么？"
+     1 string english = "Do you know what's most important when it comes to idols?"
+     1 string japanese = "アイドルは何が一番大切か知ってる？"
+     1 string mchinese = "你知道偶像最重要的是什麼？"
+   [20477]
+    0 TableSoItemLang data
+     0 int id = 1030483
+     1 string schinese = "嗯……是作品？"
+     1 string schinese_censored = "嗯……是作品？"
+     1 string english = "Uhm... their portfolio?"
+     1 string japanese = "うーん…曲ですか？"
+     1 string mchinese = "嗯……是作品？"
+   [20478]
+    0 TableSoItemLang data
+     0 int id = 1030484
+     1 string schinese = "不是，再猜？"
+     1 string schinese_censored = "不是，再猜？"
+     1 string english = "Nope, guess again."
+     1 string japanese = "いいえ、よく考えて？"
+     1 string mchinese = "不是，再猜？"
+   [20479]
+    0 TableSoItemLang data
+     0 int id = 1030485
+     1 string schinese = "嗯……那就是形象？人设吧。"
+     1 string schinese_censored = "嗯……那就是形象？人设吧。"
+     1 string english = "Ah... their image? Their personal image."
+     1 string japanese = "うーん…イメージですか？人物設定とか。"
+     1 string mchinese = "嗯……那就是形象？人設吧。"
+   [20480]
+    0 TableSoItemLang data
+     0 int id = 1030486
+     1 string schinese = "再猜？"
+     1 string schinese_censored = "再猜？"
+     1 string english = "How about one last guess?"
+     1 string japanese = "まだまだ、考えて？"
+     1 string mchinese = "再猜？"
+   [20481]
+    0 TableSoItemLang data
+     0 int id = 1030487
+     1 string schinese = "粉丝？"
+     1 string schinese_censored = "粉丝？"
+     1 string english = "Their fans?"
+     1 string japanese = "ファン？"
+     1 string mchinese = "粉絲？"
+   [20482]
+    0 TableSoItemLang data
+     0 int id = 1030488
+     1 string schinese = "嗯……接近了，粉丝是靠什么吸引来的？"
+     1 string schinese_censored = "嗯……接近了，粉丝是靠什么吸引来的？"
+     1 string english = "Mm, getting warmer. So what are fans attracted to?"
+     1 string japanese = "うーん…近くはなったかな。ファンはどこで惹かれたと思う？"
+     1 string mchinese = "嗯……接近了，粉絲是靠什麼吸引來的？"
+   [20483]
+    0 TableSoItemLang data
+     0 int id = 1030489
+     1 string schinese = "曝光吧……"
+     1 string schinese_censored = "曝光吧……"
+     1 string english = "Exposure?"
+     1 string japanese = "印象か…"
+     1 string mchinese = "曝光吧……"
+   [20484]
+    0 TableSoItemLang data
+     0 int id = 1030490
+     1 string schinese = "对，偶像跟传统艺人不一样，需要大量的曝光跟流量，只要有这两点，谁都可以成为偶像。"
+     1 string schinese_censored = "对，偶像跟传统艺人不一样，需要大量的曝光跟流量，只要有这两点，谁都可以成为偶像。"
+     1 string english = "There we go. Creating an idol is much different from creating an artist. They require exposure and a large following; with these two things, anyone can become an idol."
+     1 string japanese = "そう、アイドルは昔ながらのアーティストとは違うの。強い印象と人気が必要なのよ。その２つさえ揃えれば、誰でもアイドルになれるわ。"
+     1 string mchinese = "對，偶像跟傳統藝人不一樣，需要大量的曝光跟流量，只要有這兩點，誰都可以成為偶像。"
+   [20485]
+    0 TableSoItemLang data
+     0 int id = 1030491
+     1 string schinese = "而支撑这两点最重要的就一点：钱。"
+     1 string schinese_censored = "而支撑这两点最重要的就一点：钱。"
+     1 string english = "And these two things require the following: Money."
+     1 string japanese = "その２つを揃えるには何が必要だと思う？お金よ。"
+     1 string mchinese = "而支撐這兩點最重要的就一點：錢。"
+   [20486]
+    0 TableSoItemLang data
+     0 int id = 1030492
+     1 string schinese = "听您这么一说，感觉梦想都被打破了……"
+     1 string schinese_censored = "听您这么一说，感觉梦想都被打破了……"
+     1 string english = "You're kinda demystifying my dreams for me..."
+     1 string japanese = "こんな話ばかり聞いてると、夢が崩れていく気がします…"
+     1 string mchinese = "聽您這麼一說，感覺夢想都被打破了……"
+   [20487]
+    0 TableSoItemLang data
+     0 int id = 1030493
+     1 string schinese = "哈哈，这就受打击的话还是早点退圈吧。毕竟我们的工作是造梦，不是做梦，不砸本钱怎么能造得出让大家买账的梦呢！"
+     1 string schinese_censored = "哈哈，这就受打击的话还是早点退圈吧。毕竟我们的工作是造梦，不是做梦，不砸本钱怎么能造得出让大家买账的梦呢！"
+     1 string english = "Haha, if that's all it takes to make you waver, then perhaps you better find something else to do. @@After all, our job is to create dreams, not to dream ourselves. And to create dreams worthy of others to follow, that requires funds!"
+     1 string japanese = "フフ、ショックだったら早めにやめるのがいいわ。私たちの仕事は夢を創る事で、夢を見る事じゃないの。なるべくお金をかけずに、誰もが楽しめる夢を提供するの！"
+     1 string mchinese = "哈哈，這就受打擊的話還是早點退圈吧。畢竟我們的工作是造夢，不是做夢，不砸本錢怎麼能造得出讓大家買賬的夢呢！"
+   [20488]
+    0 TableSoItemLang data
+     0 int id = 1030494
+     1 string schinese = "感觉好有哲理呀……虽然不懂，但我会记住的！"
+     1 string schinese_censored = "感觉好有哲理呀……虽然不懂，但我会记住的！"
+     1 string english = "That sounds quite philosophical... I don't quite get it, but I'll make a mental note of it!"
+     1 string japanese = "なんだか哲学的な話ですね…理解できてませんが、覚えておきます！"
+     1 string mchinese = "感覺好有哲理呀……雖然不懂，但我會記住的！"
+   [20489]
+    0 TableSoItemLang data
+     0 int id = 1030495
+     1 string schinese = "听说你去经纪公司实习了？怎么样？怎么样？"
+     1 string schinese_censored = "听说你去经纪公司实习了？怎么样？怎么样？"
+     1 string english = "How is it doing an internship at the Management Firm? Is it awesome? Is it great?"
+     1 string japanese = "芸能事務所でインターンシップをやってるの？どう？どうなの？"
+     1 string mchinese = "聽說你去經紀公司實習了？怎麼樣？怎麼樣？"
+   [20490]
+    0 TableSoItemLang data
+     0 int id = 1030496
+     1 string schinese = "不是实习啦，就是兼职而已，还是个小白。"
+     1 string schinese_censored = "不是实习啦，就是兼职而已，还是个小白。"
+     1 string english = "I'm not doing an internship, I'm there doing part time work, it's nothing fancy."
+     1 string japanese = "見習いとかアルバイトじゃなくて、単なる雑用係だよ。"
+     1 string mchinese = "不是實習啦，就是兼職而已，還是個小白。"
+   [20491]
+    0 TableSoItemLang data
+     0 int id = 1030497
+     1 string schinese = "哇，感觉好厉害啊，那你不是跟很多偶像都认识咯？能帮我要个签名吗？"

@@ -1,0 +1,184 @@
+     1 string schinese_censored = "才艺"
+     1 string english = "Trait"
+     1 string japanese = "特技"
+     1 string mchinese = "才藝"
+   [26035]
+    0 TableSoItemLang data
+     0 int id = 1596172322
+     1 string schinese = "描述"
+     1 string schinese_censored = "描述"
+     1 string english = "Desc."
+     1 string japanese = "記述"
+     1 string mchinese = "描述"
+   [26036]
+    0 TableSoItemLang data
+     0 int id = 1596172323
+     1 string schinese = "姓名"
+     1 string schinese_censored = "姓名"
+     1 string english = "Name"
+     1 string japanese = "名前"
+     1 string mchinese = "姓名"
+   [26037]
+    0 TableSoItemLang data
+     0 int id = 1596172324
+     1 string schinese = "名称"
+     1 string schinese_censored = "名称"
+     1 string english = "Name"
+     1 string japanese = "名称"
+     1 string mchinese = "名稱"
+   [26038]
+    0 TableSoItemLang data
+     0 int id = 1596172325
+     1 string schinese = "回合"
+     1 string schinese_censored = "回合"
+     1 string english = "turn(s)"
+     1 string japanese = "ターン"
+     1 string mchinese = "回合"
+   [26039]
+    0 TableSoItemLang data
+     0 int id = 1596172326
+     1 string schinese = "智商"
+     1 string schinese_censored = "智商"
+     1 string english = "IQ"
+     1 string japanese = "ＩＱ"
+     1 string mchinese = "智商"
+   [26040]
+    0 TableSoItemLang data
+     0 int id = 1596172327
+     1 string schinese = "情商"
+     1 string schinese_censored = "情商"
+     1 string english = "EQ"
+     1 string japanese = "ＥＱ"
+     1 string mchinese = "情商"
+   [26041]
+    0 TableSoItemLang data
+     0 int id = 1596172328
+     1 string schinese = "魅力"
+     1 string schinese_censored = "魅力"
+     1 string english = "Charm"
+     1 string japanese = "魅力"
+     1 string mchinese = "魅力"
+   [26042]
+    0 TableSoItemLang data
+     0 int id = 1596172329
+     1 string schinese = "人气"
+     1 string schinese_censored = "人气"
+     1 string english = "Popularity"
+     1 string japanese = "人気"
+     1 string mchinese = "人氣"
+   [26043]
+    0 TableSoItemLang data
+     0 int id = 1596172330
+     1 string schinese = "体魄"
+     1 string schinese_censored = "体魄"
+     1 string english = "Con."
+     1 string japanese = "体力"
+     1 string mchinese = "體魄"
+   [26044]
+    0 TableSoItemLang data
+     0 int id = 1596172331
+     1 string schinese = "想象力"
+     1 string schinese_censored = "想象力"
+     1 string english = "Imag."
+     1 string japanese = "想像力"
+     1 string mchinese = "想像力"
+   [26045]
+    0 TableSoItemLang data
+     0 int id = 1596172332
+     1 string schinese = "记忆力"
+     1 string schinese_censored = "记忆力"
+     1 string english = "Mem."
+     1 string japanese = "記憶力"
+     1 string mchinese = "記憶力"
+   [26046]
+    0 TableSoItemLang data
+     0 int id = 1596172333
+     1 string schinese = "零用钱"
+     1 string schinese_censored = "零用钱"
+     1 string english = "Money"
+     1 string japanese = "お小遣い"
+     1 string mchinese = "零用錢"
+   [26047]
+    0 TableSoItemLang data
+     0 int id = 1596172334
+     1 string schinese = "悟性"
+     1 string schinese_censored = "悟性"
+     1 string english = "Knowl."
+     1 string japanese = "理解力"
+     1 string mchinese = "悟性"
+   [26048]
+    0 TableSoItemLang data
+     0 int id = 1596172335
+     1 string schinese = "页数"
+     1 string schinese_censored = "页数"
+     1 string english = "Page"
+     1 string japanese = "ページ"
+     1 string mchinese = "頁數"
+   [26049]
+    0 TableSoItemLang data
+     0 int id = 1596172336
+     1 string schinese = "跳到"
+     1 string schinese_censored = "跳到"
+     1 string english = "Jump to"
+     1 string japanese = "スキップ"
+     1 string mchinese = "跳到"
+   [26050]
+    0 TableSoItemLang data
+     0 int id = 1596172337
+     1 string schinese = "训练"
+     1 string schinese_censored = "训练"
+     1 string english = "Training"
+     1 string japanese = "練習"
+     1 string mchinese = "訓練"
+   [26051]
+    0 TableSoItemLang data
+     0 int id = 1596172338
+     1 string schinese = "开发者模式"
+     1 string schinese_censored = "开发者模式"
+     1 string english = "Dev Mode"
+     1 string japanese = "開発者モード"
+     1 string mchinese = "開發者模式"
+   [26052]
+    0 TableSoItemLang data
+     0 int id = 1596172339
+     1 string schinese = "恋爱进行中"
+     1 string schinese_censored = "恋爱进行中"
+     1 string english = "Being in love"
+     1 string japanese = "恋愛進行中"
+     1 string mchinese = "戀愛進行中"
+   [26053]
+    0 TableSoItemLang data
+     0 int id = 1596172340
+     1 string schinese = "开始\n下一世代"
+     1 string schinese_censored = "开始\n下一世代"
+     1 string english = "Next \nGeneration"
+     1 string japanese = "次世代\n開始"
+     1 string mchinese = "開始\n下一世代"
+   [26054]
+    0 TableSoItemLang data
+     0 int id = 1596172341
+     1 string schinese = "孩子最初爱他们父母，等大一些他们评判父母；然后有些时候，他们原谅父母\n\n\n\n——王尔德"
+     1 string schinese_censored = "孩子最初爱他们父母，等大一些他们评判父母；然后有些时候，他们原谅父母\n\n\n\n——王尔德"
+     1 string english = "Children begin by loving their parents; as they grow older they judge them; sometimes they forgive them.\n\n\n\n——Oscar Wilde"
+     1 string japanese = "子どもは両親を愛することから始めるが、やがては裁くようになる。許すことは滅多にない。\n\n\n\n——オスカー・ワイルド"
+     1 string mchinese = "孩子最初愛他們父母，等大一些他們評判父母；然後有些時候，他們原諒父母\n\n\n\n——王爾德"
+   [26055]
+    0 TableSoItemLang data
+     0 int id = 1596172342
+     1 string schinese = "点击屏幕张开双眼"
+     1 string schinese_censored = "点击荧幕张开双眼"
+     1 string english = "Click to open your eyes"
+     1 string japanese = "どこか選択して目を覚まそう"
+     1 string mchinese = "點擊螢幕張開雙眼"
+   [26056]
+    0 TableSoItemLang data
+     0 int id = 1596172343
+     1 string schinese = "加载中"
+     1 string schinese_censored = "加载中"
+     1 string english = "Loading"
+     1 string japanese = "ロード中"
+     1 string mchinese = "加載中"
+   [26057]
+    0 TableSoItemLang data
+     0 int id = 1596172344
+     1 string schinese = "行动力不足时，可点击安排日程至下回合，可恢复行动力!"

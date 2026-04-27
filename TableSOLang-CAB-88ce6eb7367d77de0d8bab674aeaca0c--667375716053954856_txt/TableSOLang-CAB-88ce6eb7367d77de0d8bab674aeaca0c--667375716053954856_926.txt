@@ -1,0 +1,184 @@
+     1 string schinese_censored = "总计"
+     1 string english = "Total"
+     1 string japanese = "合計"
+     1 string mchinese = "總計"
+   [21274]
+    0 TableSoItemLang data
+     0 int id = 5500175
+     1 string schinese = "新职业路线"
+     1 string schinese_censored = "新职业路线"
+     1 string english = "New Professions"
+     1 string japanese = "新職業ルート"
+     1 string mchinese = "新職業路線"
+   [21275]
+    0 TableSoItemLang data
+     0 int id = 5500176
+     1 string schinese = "解锁后可从事"
+     1 string schinese_censored = ""
+     1 string english = "Becomes available after unlocking."
+     1 string japanese = "次世代で就職可能"
+     1 string mchinese = "解鎖後可從事"
+   [21276]
+    0 TableSoItemLang data
+     0 int id = 5500177
+     1 string schinese = "新商品"
+     1 string schinese_censored = "新商品"
+     1 string english = "New Goods"
+     1 string japanese = "新商品"
+     1 string mchinese = "新商品"
+   [21277]
+    0 TableSoItemLang data
+     0 int id = 5500178
+     1 string schinese = "解锁后可购买"
+     1 string schinese_censored = ""
+     1 string english = "Becomes purchasable after unlocking."
+     1 string japanese = "アンロック後に購入可能"
+     1 string mchinese = "解鎖後可購買"
+   [21278]
+    0 TableSoItemLang data
+     0 int id = 5500179
+     1 string schinese = "请先安装微信"
+     1 string schinese_censored = "请先安装微信"
+     1 string english = "You must install WeChat first."
+     1 string japanese = "You must install WeChat first."
+     1 string mchinese = "請先安裝微信"
+   [21279]
+    0 TableSoItemLang data
+     0 int id = 5500180
+     1 string schinese = "请先安装QQ"
+     1 string schinese_censored = "请先安装QQ"
+     1 string english = "You must install QQ first."
+     1 string japanese = "You must install QQ first."
+     1 string mchinese = "請先安裝QQ"
+   [21280]
+    0 TableSoItemLang data
+     0 int id = 5500181
+     1 string schinese = "未授权，登录失败"
+     1 string schinese_censored = "未授权，登录失败"
+     1 string english = "Permission not granted; login failed."
+     1 string japanese = "権限がありません。ログイン失敗"
+     1 string mchinese = "未授權，登錄失敗"
+   [21281]
+    0 TableSoItemLang data
+     0 int id = 5500182
+     1 string schinese = "获取存档失败，请重新登录"
+     1 string schinese_censored = "获取存档失败，请重新登录"
+     1 string english = "Failed to fetch save data, please login again."
+     1 string japanese = "データ保存失敗。改めてログインしてください"
+     1 string mchinese = "獲取存檔失敗，請重新登錄"
+   [21282]
+    0 TableSoItemLang data
+     0 int id = 5500183
+     1 string schinese = "扫码下载，创造成长回忆"
+     1 string schinese_censored = "扫码下载，创造成长回忆"
+     1 string english = "Scan to download and embark on your journey."
+     1 string japanese = "ダウンロードして、成長の記憶を作ろう"
+     1 string mchinese = "掃碼下載，創造成長回憶"
+   [21283]
+    0 TableSoItemLang data
+     0 int id = 5500184
+     1 string schinese = "悟性不足，去挖脑洞吧~"
+     1 string schinese_censored = "悟性不足，去挖脑洞吧~"
+     1 string english = "Not enough Knowledge. You better go absorb some fragments!"
+     1 string japanese = "理解力が足りないぞ。カケラを集めよう！"
+     1 string mchinese = "悟性不足，去挖腦洞吧~"
+   [21284]
+    0 TableSoItemLang data
+     0 int id = 5500185
+     1 string schinese = "分享成绩单"
+     1 string schinese_censored = "分享成绩单"
+     1 string english = "Share Exam Results"
+     1 string japanese = "成績表シェア"
+     1 string mchinese = "分享成績單"
+   [21285]
+    0 TableSoItemLang data
+     0 int id = 5500186
+     1 string schinese = "确定要给TA看看这孩子的成绩单吗？"
+     1 string schinese_censored = "确定要给他/她看看这孩子的成绩单吗？"
+     1 string english = "Are you sure you wish to share these exam result?"
+     1 string japanese = "この子の成績表をシェアしますか？"
+     1 string mchinese = "確定要給TA看看這孩子的成績單嗎？"
+   [21286]
+    0 TableSoItemLang data
+     0 int id = 5500187
+     1 string schinese = "下次吧"
+     1 string schinese_censored = "下次吧"
+     1 string english = "No"
+     1 string japanese = "また今度"
+     1 string mchinese = "下次吧"
+   [21287]
+    0 TableSoItemLang data
+     0 int id = 5500188
+     1 string schinese = "告诉TA"
+     1 string schinese_censored = "告诉他/她"
+     1 string english = "Share"
+     1 string japanese = "シェアする"
+     1 string mchinese = "告訴TA"
+   [21288]
+    0 TableSoItemLang data
+     0 int id = 5500189
+     1 string schinese = "{0}:\n请凭通知书到我校报到"
+     1 string schinese_censored = "{0}:\n请凭通知书到我校报到"
+     1 string english = "{0}:\nBring your Letter of Admission and register at school."
+     1 string japanese = "{0}:\n通知書を持って我が校にお越しください"
+     1 string mchinese = "{0}:\n請憑通知書到我校報到"
+   [21289]
+    0 TableSoItemLang data
+     0 int id = 5500190
+     1 string schinese = "*若未购买学区房，每一次升学均需缴纳择校费*"
+     1 string schinese_censored = "*若未购买学区房，每一次升学均需缴纳择校费*"
+     1 string english = "*If you do not have a housing near a school, each new school you enter requires a Tuition.*"
+     1 string japanese = "※学区内住宅を購入していない場合、進学するたびに学校選択費を支払う必要があります"
+     1 string mchinese = "*若未購買學區房，每一次升學均需繳納擇校費*"
+   [21290]
+    0 TableSoItemLang data
+     0 int id = 5500191
+     1 string schinese = "入住学区房\n小学、初中、高中\n免费就近入学\n无需再次缴纳学费"
+     1 string schinese_censored = "入住学区房\n小学、初中、高中\n免费就近入学\n无需再次缴纳学费"
+     1 string english = "If you have a house near a school\nthere will be no tuition fee\nfor entering\nprimary, junior and high school."
+     1 string japanese = "学区内住宅に居住\n小学校・中学校・高校\n無料で近くの学校に入学\n授業料不要"
+     1 string mchinese = "入住學區房\n小學、初中、高中\n免費就近入學\n無需再次繳納學費"
+   [21291]
+    0 TableSoItemLang data
+     0 int id = 5500192
+     1 string schinese = "【入学通知书模式】"
+     1 string schinese_censored = "【入学通知书模式】"
+     1 string english = "[Letter of Admission]"
+     1 string japanese = "【入学通知書モード】"
+     1 string mchinese = "【入學通知書模式】"
+   [21292]
+    0 TableSoItemLang data
+     0 int id = 5500193
+     1 string schinese = "每一次升学，即进入小学、初中和高中时，均会收到一张入学通知书，你需要支付相应的学费后方可继续游戏。"
+     1 string schinese_censored = "每一次升学，即进入小学、初中和高中时，均会收到一张入学通知书，你需要支付相应的学费后方可继续游戏。"
+     1 string english = "You will receive a Letter of Admission upon entering primary, junior and high school. You can continue the game upon having paid the tuition."
+     1 string japanese = "小学校・中学校・高校に進学するたびに、入学通知書が送られてきます。授業料を支払うと、ゲームを続けることができます。"
+     1 string mchinese = "每一次升學，即進入小學、初中和高中時，均會收到一張入學通知書，你需要支付相應的學費後方可繼續遊戲。"
+   [21293]
+    0 TableSoItemLang data
+     0 int id = 5500194
+     1 string schinese = "【学区房免费入学模式】"
+     1 string schinese_censored = "【学区房免费入学模式】"
+     1 string english = "[Tuition Exempted for School District Housing]"
+     1 string japanese = "【学区内住宅で無料入学モード】"
+     1 string mchinese = "【學區房免費入學模式】"
+   [21294]
+    0 TableSoItemLang data
+     0 int id = 5500195
+     1 string schinese = "购买学区房后，无需为小学、初中和高中支付学费，即可畅玩游戏。\n<color=#EB7350>该模式为一次性付费，每个世代均可享受</color>"
+     1 string schinese_censored = "购买学区房后，无需为小学、初中和高中支付学费，即可畅玩游戏。\n<color=#EB7350>该模式为一次性付费，每个世代均可享受</color>"
+     1 string english = "After having bought a house near a school, there will be no tuition for primary, junior and high school.\n<color=#EB7350>This is a one-time cost that is valid for all future generations.</color>"
+     1 string japanese = "学区内住宅を購入すると、小学校・中学校・高校で授業料を支払う必要はありません。ゲームを遊び放題です。\n<color=#EB7350>このモードでは、一度支払うと、世代に関係なく有効となります</color>"
+     1 string mchinese = "購買學區房後，無需為小學、初中和高中支付學費，即可暢玩遊戲。\n<color=#EB7350>該模式為一次性付費，每個世代均可享受</color>"
+   [21295]
+    0 TableSoItemLang data
+     0 int id = 5500196
+     1 string schinese = "检测到您的账号授权已过期，此次购买操作无效，请重新授权"
+     1 string schinese_censored = "检测到您的账号授权已过期，此次购买操作无效，请重新授权"
+     1 string english = "Your account's permission has expired and your purchase operation failed. Reactivate permissions."
+     1 string japanese = "アカウント権限の期限が切れています。今回の購入操作は無効です。改めて権限を付与してください"
+     1 string mchinese = "檢測到您的帳號授權已過期，此次購買操作無效，請重新授權"
+   [21296]
+    0 TableSoItemLang data
+     0 int id = 5500197
+     1 string schinese = "授权失败，请重新登录"

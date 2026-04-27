@@ -1,0 +1,184 @@
+     1 string schinese_censored = "通过练习:财务管理获得\n\n资产才能躺着赚钱"
+     1 string english = "Get by studying: Financial Management\n\nHah, assets are what you need if you want the money to work for you."
+     1 string japanese = "特技獲得条件：財務管理\n\n資産運用できれば寝ながら大金が稼げる。"
+     1 string mchinese = "通過練習:財務管理獲得\n\n資產才能躺著賺錢"
+   [2069]
+    0 TableSoItemLang data
+     0 int id = 1012070
+     1 string schinese = "通过练习:会计与金融获得\n\n四大会计师事务所必会内容"
+     1 string schinese_censored = "通过练习:会计与金融获得\n\n四大会计师事务所必会内容"
+     1 string english = "Get by studying: Accounting & Finance\n\nAll of the best accountants have learned its contents."
+     1 string japanese = "特技獲得条件：会計・金融\n\n四大会計事務所の必須項目。"
+     1 string mchinese = "通過練習:會計與金融獲得\n\n四大會計師事務所必會內容"
+   [2070]
+    0 TableSoItemLang data
+     0 int id = 1012071
+     1 string schinese = "通过练习:金融工程获得\n\n金融行业最需要这个！"
+     1 string schinese_censored = "通过练习:金融工程获得\n\n金融行业最需要这个！"
+     1 string english = "Get by studying: Financial Engineering\n\nThis is much needed in the financial world!"
+     1 string japanese = "特技獲得条件：金融工学\n\n金融業界でこれが一番必要とされている！"
+     1 string mchinese = "通過練習:金融工程獲得\n\n金融行業最需要這個！"
+   [2071]
+    0 TableSoItemLang data
+     0 int id = 1012072
+     1 string schinese = "通过练习:量化经济学获得\n\n搞个金融模型赚翻了！"
+     1 string schinese_censored = "通过练习:量化经济学获得\n\n搞个金融模型赚翻了！"
+     1 string english = "Get by studying: Quantitative Economics\n\nCreating a new financial model makes you a ton of money!"
+     1 string japanese = "特技獲得条件：計量経済学\n\n金融モデリングで大儲けだ！"
+     1 string mchinese = "通過練習:量化經濟學獲得\n\n搞個金融模型賺翻了！"
+   [2072]
+    0 TableSoItemLang data
+     0 int id = 1012073
+     1 string schinese = "通过练习:价值投资获得\n\n最喜欢的公司是伯克希尔哈哈喂"
+     1 string schinese_censored = "通过练习:价值投资获得\n\n最喜欢的公司是伯克希尔哈哈喂"
+     1 string english = "Get by studying: Value Investment\n\nI just love it when I find really undervalued stocks, heh heh!"
+     1 string japanese = "特技獲得条件：バリュー投資\n\nバークシャーが大好きです。"
+     1 string mchinese = "通過練習:價值投資獲得\n\n最喜歡的公司是伯克希爾哈哈喂"
+   [2073]
+    0 TableSoItemLang data
+     0 int id = 1012074
+     1 string schinese = "通过练习:说服获得\n\n10万加文章不如当面说"
+     1 string schinese_censored = "通过练习:说服获得\n\n10万加文章不如当面说"
+     1 string english = "Get by studying: Persuade\n\nSpeaking face to face is worth a thousand texts."
+     1 string japanese = "特技獲得条件：説得\n\nＰＶ数を１０万以上稼ぐより、面と向かって話した方が効果はある。"
+     1 string mchinese = "通過練習:說服獲得\n\n10萬加文章不如當面說"
+   [2074]
+    0 TableSoItemLang data
+     0 int id = 1012075
+     1 string schinese = "通过练习:辩论基础获得\n\n辩论是辩论，见证奇迹"
+     1 string schinese_censored = "通过练习:辩论基础获得\n\n辩论是辩论，见证奇迹"
+     1 string english = "Get by studying: Debating 101\n\nDebating is debating, and proof is miracle."
+     1 string japanese = "特技獲得条件：基礎弁論\n\n弁論で奇跡を見せてやる。"
+     1 string mchinese = "通過練習:辯論基礎獲得\n\n辯論是辯論，見證奇跡"
+   [2075]
+    0 TableSoItemLang data
+     0 int id = 1012076
+     1 string schinese = "通过练习:高等数学获得\n\n大学才会学的数学知识"
+     1 string schinese_censored = "通过练习:高等数学获得\n\n大学才会学的数学知识"
+     1 string english = "Get by studying: Advanced Mathematics\n\nMath knowledge which you don't get to study until university."
+     1 string japanese = "特技獲得条件：高等数学\n\n大学で学ぶ数学知識まで知っている。"
+     1 string mchinese = "通過練習:高等數學獲得\n\n大學才會學的數學知識"
+   [2076]
+    0 TableSoItemLang data
+     0 int id = 1012077
+     1 string schinese = "通过练习:工科数学获得\n\n可以解决大多数实际用到的数学问题"
+     1 string schinese_censored = "通过练习:工科数学获得\n\n可以解决大多数实际用到的数学问题"
+     1 string english = "Get by studying: Engineering Mathematics\n\nCan be used to solve most issues which require the application of math."
+     1 string japanese = "特技獲得条件：工業数学\n\n現実の数学的問題は大体これで解決できる。"
+     1 string mchinese = "通過練習:工科數學獲得\n\n可以解決大多數實際用到的數學問題"
+   [2077]
+    0 TableSoItemLang data
+     0 int id = 1012078
+     1 string schinese = "通过练习:应用数学获得\n\n数学系专业才需要学的知识"
+     1 string schinese_censored = "通过练习:应用数学获得\n\n数学系专业才需要学的知识"
+     1 string english = "Get by studying: Applied Mathematics\n\nMathematical knowledge is the only true knowledge."
+     1 string japanese = "特技獲得条件：応用数学\n\n数学専攻でしか学ばない専門知識だ。"
+     1 string mchinese = "通過練習:應用數學獲得\n\n數學系專業才需要學的知識"
+   [2078]
+    0 TableSoItemLang data
+     0 int id = 1012079
+     1 string schinese = "通过练习:理论数学获得\n\n理论数学没有被智子封锁！"
+     1 string schinese_censored = "通过练习:理论数学获得\n\n理论数学没有被智子封锁！"
+     1 string english = "Get by studying: Theoretical Mathematics\n\nNot all theoretical math problems have been solved by wiser men!"
+     1 string japanese = "特技獲得条件：理論数学\n\n理論数学は今までずっと世界から大切にされてきた。"
+     1 string mchinese = "通過練習:理論數學獲得\n\n理論數學沒有被智子封鎖！"
+   [2079]
+    0 TableSoItemLang data
+     0 int id = 1012080
+     1 string schinese = "通过练习:应用物理学获得\n\n我只知道学这个的，行为都异于常人"
+     1 string schinese_censored = "通过练习:应用物理学获得\n\n我只知道学这个的，行为都异于常人"
+     1 string english = "Get by studying: Applied Physics\n\nStudying this is all I'm good for, and I don't act like a normal person would."
+     1 string japanese = "特技獲得条件：応用物理学\n\nこれを勉強している人は、変わった人ばかりだ。"
+     1 string mchinese = "通過練習:應用物理學獲得\n\n我只知道學這個的，行為都異於常人"
+   [2080]
+    0 TableSoItemLang data
+     0 int id = 1012081
+     1 string schinese = "通过练习:理论物理学获得\n\n谢耳朵就是这个专业的"
+     1 string schinese_censored = "通过练习:理论物理学获得\n\n谢耳朵就是这个专业的"
+     1 string english = "Get by studying: Theoretical Physics\n\nThis is what Sheldon works with."
+     1 string japanese = "特技獲得条件：理論物理学\n\nシェルドンはこれを専攻していたんだよ。"
+     1 string mchinese = "通過練習:理論物理學獲得\n\n謝耳朵就是這個專業的"
+   [2081]
+    0 TableSoItemLang data
+     0 int id = 1012082
+     1 string schinese = "通过练习:物理问题研究获得\n\n没看过三体吗？那你回去补补课吧"
+     1 string schinese_censored = "通过练习:物理问题研究获得\n\n没看过三体吗？那你回去补补课吧"
+     1 string english = "Get by studying: Physics Problem Research\n\nWhat?! You haven't read that galactic hitchhiking thingy? You'd better go and give it a read."
+     1 string japanese = "特技獲得条件：物理問題研究\n\n『三体』という小説を読んだことないの？読んでみて。"
+     1 string mchinese = "通過練習:物理問題研究獲得\n\n沒看過三體嗎？那你回去補補課吧"
+   [2082]
+    0 TableSoItemLang data
+     0 int id = 1012083
+     1 string schinese = "通过练习:忍者文化获得\n\n忍者的物语，要知道过去，忠心是唯一"
+     1 string schinese_censored = "通过练习:忍者文化获得\n\n忍者的物语，要知道过去，忠心是唯一"
+     1 string english = "Get by studying: Ninja Culture\n\nNinja's have a saying: “You must know the past and that loyalty is all.”"
+     1 string japanese = "特技獲得条件：忍者文化\n\n忠誠心が大事だ！忍者記にもそう書かれている。"
+     1 string mchinese = "通過練習:忍者文化獲得\n\n忍者的物語，要知道過去，忠心是唯一"
+   [2083]
+    0 TableSoItemLang data
+     0 int id = 1012084
+     1 string schinese = "通过练习:基础忍术获得\n\n要忘记，什么是自己"
+     1 string schinese_censored = "通过练习:基础忍术获得\n\n要忘记，什么是自己"
+     1 string english = "Get by studying: Ninjutsu 101\n\nYou must forget the meaning of self."
+     1 string japanese = "特技獲得条件：基礎忍術\n\n自分を捨てろ。"
+     1 string mchinese = "通過練習:基礎忍術獲得\n\n要忘記，什麼是自己"
+   [2084]
+    0 TableSoItemLang data
+     0 int id = 1012085
+     1 string schinese = "通过练习:下忍之道获得\n\n只要体术和忍术控制合格，就可轻松考取"
+     1 string schinese_censored = "通过练习:下忍之道获得\n\n只要体术和忍术控制合格，就可轻松考取"
+     1 string english = "Get by studying: Way of the Genin\n\nAll you need to pass the exam is control over taijutsu and ninjutsu."
+     1 string japanese = "特技獲得条件：下忍への道\n\n体術と忍術のコントロールさえできれば、簡単に取れるよ。"
+     1 string mchinese = "通過練習:下忍之道獲得\n\n只要體術和忍術控制合格，就可輕鬆考取"
+   [2085]
+    0 TableSoItemLang data
+     0 int id = 1012086
+     1 string schinese = "通过练习:中忍之道获得\n\n村里已经容不下你了"
+     1 string schinese_censored = "通过练习:中忍之道获得\n\n村里已经容不下你了"
+     1 string english = "Get by studying: Way of the Chunin\n\nThere's no place for you in the village anymore."
+     1 string japanese = "特技獲得条件：中忍への道\n\nもうお前に教えることはない。"
+     1 string mchinese = "通過練習:中忍之道獲得\n\n村裏已經容不下你了"
+   [2086]
+    0 TableSoItemLang data
+     0 int id = 1012087
+     1 string schinese = "通过练习:上忍之道获得\n\n现在你是第若干代目的水影了"
+     1 string schinese_censored = "通过练习:上忍之道获得\n\n现在你是第若干代目的水影了"
+     1 string english = "Get by studying: Way of the Ninja\n\nYou are now the new generation's Mizukage."
+     1 string japanese = "特技獲得条件：上忍への道\n\nお前こそ次の水影だ。"
+     1 string mchinese = "通過練習:上忍之道獲得\n\n現在你是第若干代目的水影了"
+   [2087]
+    0 TableSoItemLang data
+     0 int id = 1012088
+     1 string schinese = "通过练习:服饰审美获得\n\n说来你可能不信，是衣服先动的手"
+     1 string schinese_censored = "通过练习:服饰审美获得\n\n说来你可能不信，是衣服先动的手"
+     1 string english = "Get by studying: Costume Aesthetics\n\nYou won't believe me even if I tell you, but it was the clothes who attacked first."
+     1 string japanese = "特技獲得条件：服飾センス\n\n服を買うのではない。服に買わされるんだ。"
+     1 string mchinese = "通過練習:服飾審美獲得\n\n說來你可能不信，是衣服先動的手"
+   [2088]
+    0 TableSoItemLang data
+     0 int id = 1012089
+     1 string schinese = "通过练习:美容化妆获得\n\n从此，突破次元壁不是梦"
+     1 string schinese_censored = "通过练习:美容化妆获得\n\n从此，突破次元壁不是梦"
+     1 string english = "Get by studying: Beauty Makeup\n\nFrom now on, breaking the fourth wall is an easy feat!"
+     1 string japanese = "特技獲得条件：美容メイク\n\n次元を越えるのも夢じゃない。"
+     1 string mchinese = "通過練習:美容化妝獲得\n\n從此，突破次元壁不是夢"
+   [2089]
+    0 TableSoItemLang data
+     0 int id = 1012090
+     1 string schinese = "通过练习:仪态训练获得\n\n注意表情管理，拒绝成为表情包"
+     1 string schinese_censored = "通过练习:仪态训练获得\n\n注意表情管理，拒绝成为表情包"
+     1 string english = "Get by studying: Posture Training\n\nBalance books on your head and you might even get smarter through osmosis, too."
+     1 string japanese = "特技獲得条件：立ち振る舞い\n\n表情にも気を付けないと、変な写真を撮られるよ。"
+     1 string mchinese = "通過練習:儀態訓練獲得\n\n注意表情管理，拒絕成為表情包"
+   [2090]
+    0 TableSoItemLang data
+     0 int id = 1012091
+     1 string schinese = "通过练习:珠宝品鉴获得\n\n本眼睛受珠宝协会专业认证"
+     1 string schinese_censored = "通过练习:珠宝品鉴获得\n\n本眼睛受珠宝协会专业认证"
+     1 string english = "Get by studying: Jewelry Appraisal\n\nThis pair of eyes are accredited by the Jewelry Association."
+     1 string japanese = "特技獲得条件：宝石鑑定\n\nこの目が宝石協会にプロ認定された。"
+     1 string mchinese = "通過練習:珠寶品鑒獲得\n\n本眼睛受珠寶協會專業認證"
+   [2091]
+    0 TableSoItemLang data
+     0 int id = 1012092
+     1 string schinese = "通过练习:美妆秘笈获得\n\n互联网造就了许多奇迹，也造就了美妆博主"

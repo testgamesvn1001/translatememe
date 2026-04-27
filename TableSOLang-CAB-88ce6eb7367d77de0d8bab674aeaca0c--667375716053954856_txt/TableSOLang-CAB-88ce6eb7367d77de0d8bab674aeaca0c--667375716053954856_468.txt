@@ -1,0 +1,184 @@
+     1 string schinese_censored = "什么网站啊？我可不做很黄很暴力的网站！"
+     1 string english = "What website? I definitely don't want to make something extremely inappropriate!"
+     1 string japanese = "どんなサイト？暴力とかエッチなのは嫌だよ。"
+     1 string mchinese = "什麼網站啊？我可不做很黃很暴力的網站！"
+   [10740]
+    0 TableSoItemLang data
+     0 int id = 1020741
+     1 string schinese = "想做个学生作文交友网站，大家互相交流，健康成长！"
+     1 string schinese_censored = "想做个学生作文交友网站，大家互相交流，健康成长！"
+     1 string english = "I want to create a website for students to share their essays."
+     1 string japanese = "違うよ、学生のための作文コミュニケーションサイトさ。コミュニケーションを通じて健全な成長を促すサイトだ！"
+     1 string mchinese = "想做個學生作文交友網站，大家互相交流，健康成長！"
+   [10741]
+    0 TableSoItemLang data
+     0 int id = 1020742
+     1 string schinese = "感觉还不错，不过作文真的可以吸引大家来交友吗？"
+     1 string schinese_censored = "感觉还不错，不过作文真的可以吸引大家来交友吗？"
+     1 string english = "Not bad. But will essays really be enough to attract people to use our website?"
+     1 string japanese = "ちょっと良さげね。でも、作文なんかで人が集まるの？"
+     1 string mchinese = "感覺還不錯，不過作文真的可以吸引大家來交友嗎？"
+   [10742]
+    0 TableSoItemLang data
+     0 int id = 1020743
+     1 string schinese = "应该没问题吧，打车软件都可以当社交工具，这个还是很靠谱的。"
+     1 string schinese_censored = "应该没问题吧，打车软件都可以当社交工具，这个还是很靠谱的。"
+     1 string english = "It should be fine. Cab hailing apps can be used as social apps. This is way more legitimate."
+     1 string japanese = "大丈夫だろ。最近じゃ、タクシー呼ぶだけのサイトが大人気だし、問題ないさ。"
+     1 string mchinese = "應該沒問題吧，打車軟體都可以當社交工具，這個還是很靠譜的。"
+   [10743]
+    0 TableSoItemLang data
+     0 int id = 1020744
+     1 string schinese = "好的，那我也一起帮忙做一做，让你们见识下女程序的威力！"
+     1 string schinese_censored = "好的，那我也一起帮忙做一做，让你们见识下女程序的威力！"
+     1 string english = "Okay, I'll help you out. I'll show you what it means to be a female programmer."
+     1 string japanese = "よし、じゃあ私も手伝う。女性プログラマの実力を見せてあげるわ！"
+     1 string mchinese = "好的，那我也一起幫忙做一做，讓你們見識下女程式的威力！"
+   [10744]
+    0 TableSoItemLang data
+     0 int id = 1020745
+     1 string schinese = "你最近看后台了吗？我们的活跃用户突破一万人了呢！"
+     1 string schinese_censored = "你最近看后台了吗？我们的活跃用户突破一万人了呢！"
+     1 string english = "Have you seen the backend? We just reached 10,000 active users!"
+     1 string japanese = "解析ツールは見たか？アクティブユーザーが１万人を超えたぞ！"
+     1 string mchinese = "你最近看後臺了嗎？我們的活躍用戶突破一萬人了呢！"
+   [10745]
+    0 TableSoItemLang data
+     0 int id = 1020746
+     1 string schinese = "我的天，我发现隔壁班的校草竟然在这个软件里也成了网红！"
+     1 string schinese_censored = "我的天，我发现隔壁班的校草竟然在这个软件里也成了网红！"
+     1 string english = "Oh my god, the most popular guy in the class next door has become a cewebrity!"
+     1 string japanese = "信じられないわ。隣クラスのイケメンが有名になるなんて！"
+     1 string mchinese = "我的天，我發現隔壁班的校草竟然在這個軟體裏也成了網紅！"
+   [10746]
+    0 TableSoItemLang data
+     0 int id = 1020747
+     1 string schinese = "果然这个世界还是看脸的啊！"
+     1 string schinese_censored = "果然这个世界还是看脸的啊！"
+     1 string english = "This is a world all about looks!"
+     1 string japanese = "やっぱ、どんな世界も結局顔だな！"
+     1 string mchinese = "果然這個世界還是看臉的啊！"
+   [10747]
+    0 TableSoItemLang data
+     0 int id = 1020748
+     1 string schinese = "哈哈，不过你也不错，每个注册的人都默认关注了你！干得漂亮！"
+     1 string schinese_censored = "哈哈，不过你也不错，每个注册的女生都默认关注了你！干得漂亮！"
+     1 string english = "Haha, you're no different yourself! Basically everyone is following you! Well done."
+     1 string japanese = "フフ、そういうあなただって。全女性ユーザーがあなたをフォローしてるし！うまいことやったのね！"
+     1 string mchinese = "哈哈，不過你也不錯，每個註冊的人都默認關注了你！幹得漂亮！"
+   [10748]
+    0 TableSoItemLang data
+     0 int id = 1020749
+     1 string schinese = "竟然被你发现了呢！其实是我后台设置所有注册的用户都默认关注我……"
+     1 string schinese_censored = "竟然被你发现了呢！"
+     1 string english = "You got me! Actually, I've set it up so that all of the users follow me by default..."
+     1 string japanese = "よく気づいたな！"
+     1 string mchinese = "竟然被你發現了呢！其實是我後臺設置所有註冊的用戶都默認關注我……"
+   [10749]
+    0 TableSoItemLang data
+     0 int id = 1020750
+     1 string schinese = "哇，你简直太自恋了…"
+     1 string schinese_censored = "没关系，这都是人之常情嘛！"
+     1 string english = "It's ok. It's understandable!"
+     1 string japanese = "大丈夫、別に非難してるわけじゃない。"
+     1 string mchinese = "哇，你簡直太自戀了…"
+   [10750]
+    0 TableSoItemLang data
+     0 int id = 1020751
+     1 string schinese = "我只是在分析用户行为，收集用户反馈而已啦！"
+     1 string schinese_censored = "不过其实我更多是在测试用户，收集用户反馈而已。"
+     1 string english = "I just use it to analyze the users and collect feedback."
+     1 string japanese = "実はあれは、ユーザーの使用状況を確認したり、フィードバックを集めたりしてるんだ。"
+     1 string mchinese = "我只是在分析用戶行為，收集用戶回饋而已啦！"
+   [10751]
+    0 TableSoItemLang data
+     0 int id = 1020752
+     1 string schinese = "好的好的，小杨哥的确很正经，我想太多了"
+     1 string schinese_censored = "好的好的，小杨哥的确很正经，我想太多了"
+     1 string english = "Okay okay, I know you are a good man. I'm overthinking it."
+     1 string japanese = "そうね、あなたはホントに真面目だものね。"
+     1 string mchinese = "好的好的，小楊哥的確很正經，我想太多了"
+   [10752]
+    0 TableSoItemLang data
+     0 int id = 1020753
+     1 string schinese = "是啊，这个时代就算是程序员也要多跟人交流才能做出好产品呢！"
+     1 string schinese_censored = "是啊，这个时代聪明是一种新的性感！"
+     1 string english = "Yes, being smart is the new sexy!"
+     1 string japanese = "でもな、今の時代、頭がいいっていうのもモテポイントなんだぞ！"
+     1 string mchinese = "是啊，這個時代就算是程式員也要多跟人交流才能做出好產品呢！"
+   [10753]
+    0 TableSoItemLang data
+     0 int id = 1020754
+     1 string schinese = "这句话我要记下来，说不定以后会成名人名言呢！"
+     1 string schinese_censored = "这句话我要记下来，说不定以后会成名人名言呢！"
+     1 string english = "I need to record what you just said! Who knows? Maybe it'll be your famous motto one day."
+     1 string japanese = "これはいつか名言になるかも。メモっといてやろ。"
+     1 string mchinese = "這句話我要記下來，說不定以後會成名人名言呢！"
+   [10754]
+    0 TableSoItemLang data
+     0 int id = 1020755
+     1 string schinese = "话说最近有个撩撩网山寨我们的网站呢，你注意到了吗？"
+     1 string schinese_censored = "话说最近有个撩撩网山寨我们的网站呢，你注意到了吗？"
+     1 string english = "By the way, there's a website copying us. Have you seen it yet?"
+     1 string japanese = "そういえば、最近私たちのサイトをパクったやつらがいるんだけど。気づいてる？"
+     1 string mchinese = "話說最近有個撩撩網山寨我們的網站呢，你注意到了嗎？"
+   [10755]
+    0 TableSoItemLang data
+     0 int id = 1020756
+     1 string schinese = "是啊，昨天白衫资本的大叔来了，他说如果不接受他们的投资……就投撩撩网了"
+     1 string schinese_censored = "是啊，昨天白衫资本的大叔来了，他说如果不接受他们的投资……就投撩撩网了"
+     1 string english = "The old man came back again yesterday and said that if we didn't let him invest, he would invest in our competitor."
+     1 string japanese = "そうだな。しかも昨日投資会社の人に言われたんだ。もし投資を受けないなら、あっちに投資するってさ。"
+     1 string mchinese = "是啊，昨天白衫資本的大叔來了，他說如果不接受他們的投資……就投撩撩網了"
+   [10756]
+    0 TableSoItemLang data
+     0 int id = 1020757
+     1 string schinese = "这么夸张吗？这就是商场的尔虞我诈吗？"
+     1 string schinese_censored = "这么夸张吗？这就是商场的尔虞我诈吗？"
+     1 string english = "Is this the world of deception in economy?"
+     1 string japanese = "ひどくない？これが大人の駆引きってやつなの？"
+     1 string mchinese = "這麼誇張嗎？這就是商場的爾虞我詐嗎？"
+   [10757]
+    0 TableSoItemLang data
+     0 int id = 1020758
+     1 string schinese = "是啊，他们经常这样，他昨天还说，他们有信心再赢一次！"
+     1 string schinese_censored = "是啊，他们经常这样，他昨天还说，他们有信心再赢一次！"
+     1 string english = "Yeah, this is common. He even said yesterday that he was determined to win again!"
+     1 string japanese = "あいつら、いつもこんな感じみたいだよ。今回も彼らは勝つ自信があるってさ。"
+     1 string mchinese = "是啊，他們經常這樣，他昨天還說，他們有信心再贏一次！"
+   [10758]
+    0 TableSoItemLang data
+     0 int id = 1020759
+     1 string schinese = "这不就是逼别人接受投资吗？"
+     1 string schinese_censored = "这不就是逼别人接受投资吗？"
+     1 string english = "He's forcing our hand."
+     1 string japanese = "強引すぎない？"
+     1 string mchinese = "這不就是逼別人接受投資嗎？"
+   [10759]
+    0 TableSoItemLang data
+     0 int id = 1020760
+     1 string schinese = "也许大人的世界，就是这么残酷吧……"
+     1 string schinese_censored = "也许大人的世界，就是这么残酷吧……"
+     1 string english = "Maybe this is just what it means to be an adult. So cruel."
+     1 string japanese = "大人の世界って、こんなに残酷なんだな…"
+     1 string mchinese = "也許大人的世界，就是這麼殘酷吧……"
+   [10760]
+    0 TableSoItemLang data
+     0 int id = 1020761
+     1 string schinese = "既然如此，只能迎战了！"
+     1 string schinese_censored = "既然如此，只能迎战了！"
+     1 string english = "Even then, our only option is to fight!"
+     1 string japanese = "これはもう、正々堂々戦うしかないわね！"
+     1 string mchinese = "既然如此，只能迎戰了！"
+   [10761]
+    0 TableSoItemLang data
+     0 int id = 1020762
+     1 string schinese = "虽然被那些有投资的网站赶超了，但我们保持了独立性～！"
+     1 string schinese_censored = "虽然被那些有投资的网站赶超了，但我们保持了独立性～！"
+     1 string english = "Even though the big website was more successful, our website was able to retain its uniqueness!"
+     1 string japanese = "投資を受けたサイトには負けてるけど、独自性はキープしてるな！"
+     1 string mchinese = "雖然被那些有投資的網站趕超了，但我們保持了獨立性～！"
+   [10762]
+    0 TableSoItemLang data
+     0 int id = 1020763
+     1 string schinese = "是啊，而且现在我们仍然不落下风呢，鹿死谁手还不知道呢！"

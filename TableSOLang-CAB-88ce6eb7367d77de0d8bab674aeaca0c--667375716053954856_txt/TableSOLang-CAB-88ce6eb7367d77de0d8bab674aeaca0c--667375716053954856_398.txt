@@ -1,0 +1,184 @@
+     1 string schinese_censored = "是啊，还好我的伤及时好了，赶上了球探的暗访。"
+     1 string english = "Yeah, good thing my injury healed in time so I could make it to the private scout interviews."
+     1 string japanese = "ああ、幸い俺の怪我も回復したからな。スカウトに間に合ってよかったよ。"
+     1 string mchinese = "是啊，還好我的傷及時好了，趕上了球探的暗訪。"
+   [9130]
+    0 TableSoItemLang data
+     0 int id = 1019131
+     1 string schinese = "喂，未来的球星，来比一场吧？"
+     1 string schinese_censored = "喂，未来的球星，来比一场吧？"
+     1 string english = "Hey future all-star, want to play a game?"
+     1 string japanese = "なあ、未来のスターさん。一度勝負しないか？"
+     1 string mchinese = "喂，未來的球星，來比一場吧？"
+   [9131]
+    0 TableSoItemLang data
+     0 int id = 1019132
+     1 string schinese = "呼，以后这样一起打球的机会不多了。"
+     1 string schinese_censored = "呼，以后这样一起打球的机会不多了。"
+     1 string english = "Hm, there won't be many chances to play like this in the future."
+     1 string japanese = "そうだな、これからはあんまり一緒にできなさそうだし。"
+     1 string mchinese = "呼，以後這樣一起打球的機會不多了。"
+   [9132]
+    0 TableSoItemLang data
+     0 int id = 1019133
+     1 string schinese = "是啊，但是我们可以为了同一个目标而奋斗！"
+     1 string schinese_censored = "是啊，但是我们可以为了同一个目标而奋斗！"
+     1 string english = "Yeah, but we can work toward the same goal!"
+     1 string japanese = "ああ、けど同じ目標を目指すことはできるぜ？"
+     1 string mchinese = "是啊，但是我們可以為了同一個目標而奮鬥！"
+   [9133]
+    0 TableSoItemLang data
+     0 int id = 1019134
+     1 string schinese = "啊哈哈，我知道，目标是进入国家队！"
+     1 string schinese_censored = "啊哈哈，我知道，目标是进入国家队！"
+     1 string english = "Haha, I know. The goal is to make it to the national team!"
+     1 string japanese = "ハハッ、そうだ！目標は、国家代表チーム！"
+     1 string mchinese = "啊哈哈，我知道，目標是進入國家隊！"
+   [9134]
+    0 TableSoItemLang data
+     0 int id = 1019135
+     1 string schinese = "没有错。进入国家队，率领女篮和男篮拿到奥运金牌！"
+     1 string schinese_censored = "没有错。进入国家队，率领女篮和男篮拿到奥运金牌！"
+     1 string english = "That's right. Make it to the national team, and lead both men's and women's basketball teams to win the Olympic Gold Medals!"
+     1 string japanese = "ああ！国家代表チームに入って、オリンピックメダルを取ろうぜ！"
+     1 string mchinese = "沒有錯。進入國家隊，率領女籃和男籃拿到奧運金牌！"
+   [9135]
+    0 TableSoItemLang data
+     0 int id = 1019136
+     1 string schinese = "恭喜你进入了国家队。可惜我落选了，唉……"
+     1 string schinese_censored = "恭喜你进入了国家队。可惜我落选了，唉……"
+     1 string english = "Congratulations on making the national team. Too bad I didn't make it, sigh..."
+     1 string japanese = "国家代表チーム入りおめでとう。残念だけど俺は…"
+     1 string mchinese = "恭喜你進入了國家隊。可惜我落選了，唉……"
+   [9136]
+    0 TableSoItemLang data
+     0 int id = 1019137
+     1 string schinese = "要不是你旧伤复发的话……哎，不要紧，明年还有机会的。"
+     1 string schinese_censored = "要不是你旧伤复发的话……哎，不要紧，明年还有机会的。"
+     1 string english = "If it wasn't because of your old injury...sigh, no worries, there's next year."
+     1 string japanese = "古傷がぶり返しちゃうなんてな…まあ、大丈夫、まだ来年があるぞ！"
+     1 string mchinese = "要不是你舊傷復發的話……哎，不要緊，明年還有機會的。"
+   [9137]
+    0 TableSoItemLang data
+     0 int id = 1019138
+     1 string schinese = "唉，都怪我不听队医的话，强行训练。"
+     1 string schinese_censored = "唉，都怪我不听队医的话，强行训练。"
+     1 string english = "Sigh, it's all my fault for not listening to the team doctor and trained when I shouldn't have."
+     1 string japanese = "チームドクターの言葉を聞かず、無理に練習をしたせいだ…"
+     1 string mchinese = "唉，都怪我不聽隊醫的話，強行訓練。"
+   [9138]
+    0 TableSoItemLang data
+     0 int id = 1019139
+     1 string schinese = "振作起来，垂头丧气可不像你的风格。"
+     1 string schinese_censored = "振作起来，垂头丧气可不像你的风格。"
+     1 string english = "Shake it off, brooding is not your style."
+     1 string japanese = "しっかりしろ！弱音なんてあんたらしくない。"
+     1 string mchinese = "振作起來，垂頭喪氣可不像你的風格。"
+   [9139]
+    0 TableSoItemLang data
+     0 int id = 1019140
+     1 string schinese = "哈哈别说我了，你到时候的国家队首秀，我一定去看。"
+     1 string schinese_censored = "哈哈别说我了，你到时候的国家队首秀，我一定去看。"
+     1 string english = "Haha enough about me, I will definitely be there for your first game on the national team."
+     1 string japanese = "まあ、俺の事は気にするな。お前の代表チームデビュー戦は絶対見に行くから。"
+     1 string mchinese = "哈哈別說我了，你到時候的國家隊首秀，我一定去看。"
+   [9140]
+    0 TableSoItemLang data
+     0 int id = 1019141
+     1 string schinese = "我从来没想过会成为一名职业篮球运动员，也许在遇到那个教我三步上篮的男孩时，一切就已经命中注定了……"
+     1 string schinese_censored = "我从来没想过会成为一名职业篮球运动员，也许在遇到那个教我三步上篮的男孩时，一切就已经命中注定了……"
+     1 string english = "I never thought I'd become a professional basketball player. Maybe the second I met the guy who taught me how to do running jump shots, my fate was sealed..."
+     1 string japanese = "プロバスケット選手になれるとは思いもしなかった。スホウにレイアップシュートを教わった瞬間にすべてが決まったのかも…"
+     1 string mchinese = "我從來沒想過會成為一名職業籃球運動員，也許在遇到那個教我三步上籃的男孩時，一切就已經命中註定了……"
+   [9141]
+    0 TableSoItemLang data
+     0 int id = 1019142
+     1 string schinese = "美术课是最喜欢的课了，轻松有趣，五颜六色的颜料调和起来好好看~"
+     1 string schinese_censored = "美术课是最喜欢的课了，轻松有趣，五颜六色的颜料调和起来好好看~"
+     1 string english = "Painting is my favorite class. Not only is it fun and easy, but everyone's talented. Everything looks better in color!"
+     1 string japanese = "美術の授業は大好き。面白いし、楽だ。色とりどりの絵具を混ぜたらとってもキレイで、それも好き。"
+     1 string mchinese = "美術課是最喜歡的課了，輕鬆有趣，五顏六色的顏料調和起來好好看~"
+   [9142]
+    0 TableSoItemLang data
+     0 int id = 1019143
+     1 string schinese = "这里才是最适合画东西的地方啊~"
+     1 string schinese_censored = "这里才是最适合画东西的地方啊~"
+     1 string english = "This really is a place suitable for painting."
+     1 string japanese = "さ、ここは絵を描くのにぴったりな場所よ。"
+     1 string mchinese = "這裏才是最適合畫東西的地方啊~"
+   [9143]
+    0 TableSoItemLang data
+     0 int id = 1019144
+     1 string schinese = "你竟然在墙上乱写乱画！我要告诉警察叔叔！"
+     1 string schinese_censored = "你竟然在墙上乱写乱画！我要告诉警察叔叔！"
+     1 string english = "You're painting on the walls! I'm turning you in!"
+     1 string japanese = "壁に落書きするの！？警察に通報するぞ！"
+     1 string mchinese = "你竟然在牆上亂寫亂畫！我要告訴員警叔叔！"
+   [9144]
+    0 TableSoItemLang data
+     0 int id = 1019145
+     1 string schinese = "就你讲文明！这叫艺术懂吗？艺术！"
+     1 string schinese_censored = "就你讲文明！这叫艺术懂吗？艺术！"
+     1 string english = "Savage? This is art! Do you understand?"
+     1 string japanese = "何も知らないのね。これはアートよ、アート！"
+     1 string mchinese = "就你講文明！這叫藝術懂嗎？藝術！"
+   [9145]
+    0 TableSoItemLang data
+     0 int id = 1019146
+     1 string schinese = "你画这东西还比如旁边的“拆”字有艺术性……"
+     1 string schinese_censored = "你画这东西还比如旁边的“拆”字有艺术性……"
+     1 string english = "The 'demolition' sign painted over there shows more skill than what you just scrawled..."
+     1 string japanese = "隣の立ち退き看板の方が芸術的だよ…"
+     1 string mchinese = "你畫這東西還比如旁邊的“拆”字有藝術性……"
+   [9146]
+    0 TableSoItemLang data
+     0 int id = 1019147
+     1 string schinese = "老师说的那些美术作品看起来你都懂得样子！好厉害呀！"
+     1 string schinese_censored = "老师说的那些美术作品看起来你都懂得样子！好厉害呀！"
+     1 string english = "You seem to remember everything the teacher said about fine arts! Impressive!"
+     1 string japanese = "先生が言ってた芸術作品、全部知ってるのか！？すごい！"
+     1 string mchinese = "老師說的那些美術作品看起來你都懂得樣子！好厲害呀！"
+   [9147]
+    0 TableSoItemLang data
+     0 int id = 1019148
+     1 string schinese = "还好~只是以前涉猎过而已"
+     1 string schinese_censored = "还好~只是以前涉猎过而已"
+     1 string english = "Well, I've come across it before."
+     1 string japanese = "まあね。と言っても、前に調べたことがあっただけ。"
+     1 string mchinese = "還好~只是以前涉獵過而已"
+   [9148]
+    0 TableSoItemLang data
+     0 int id = 1019149
+     1 string schinese = "我也很希望和你一样那么厉害！你教我一下嘛！"
+     1 string schinese_censored = "我也很希望和你一样那么厉害！你教我一下嘛！"
+     1 string english = "I want to be like you! Please teach me!"
+     1 string japanese = "そんな風になりたい！なあ、教えてよ！"
+     1 string mchinese = "我也很希望和你一樣那麼厲害！你教我一下嘛！"
+   [9149]
+    0 TableSoItemLang data
+     0 int id = 1019150
+     1 string schinese = "这个……只可意会不可言传，你能看你自己的领悟……"
+     1 string schinese_censored = "这个……只可意会不可言传，你能看你自己的领悟……"
+     1 string english = "Uh... I can't really teach this so you need to grasp it for yourself..."
+     1 string japanese = "うーん…芸術は教わるものじゃなくて、あなた自身が理解し、自分で感じるしかないの。"
+     1 string mchinese = "這個……只可意會不可言傳，你能看你自己的領悟……"
+   [9150]
+    0 TableSoItemLang data
+     0 int id = 1019151
+     1 string schinese = "那我也要学画画！"
+     1 string schinese_censored = "那我也要学画画！"
+     1 string english = "I want to learn how to paint too!"
+     1 string japanese = "じゃあ、俺も絵を描いてみる！"
+     1 string mchinese = "那我也要學畫畫！"
+   [9151]
+    0 TableSoItemLang data
+     0 int id = 1019152
+     1 string schinese = "画的很有天赋嘛！"
+     1 string schinese_censored = "画的很有天赋嘛！"
+     1 string english = "You're talented!"
+     1 string japanese = "なかなかいい絵ね。"
+     1 string mchinese = "畫的很有天賦嘛！"
+   [9152]
+    0 TableSoItemLang data
+     0 int id = 1019153
+     1 string schinese = "多谢多谢！我发现我学画晚太多，差别人太多了"

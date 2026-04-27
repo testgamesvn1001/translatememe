@@ -1,0 +1,184 @@
+     1 string schinese_censored = "观察世间百态，模仿众生表情。\n\n学会街头模仿，【记忆力】【魅力】越高，会适当减少所需消耗的悟性\n\n属性标准值：10280\n至少消耗悟性:200"
+     1 string english = "Imitate the expressions of all living beings.\n\nLearning Street Imitation costs less Knowledge the more [Memory] and [Charm] you have.\n\nStat norm: 10,280\nMinimum Knowledge cost: 200"
+     1 string japanese = "世間を観察し、さまざまな表現をマネしよう。\n\n大道芸を学ぶ。【記憶力】【魅力】が高いほど消費理解力は少ない。\n\n能力標準値：10280\n最低消費理解力：200"
+     1 string mchinese = "觀察世間百態，模仿眾生表情。\n\n【記憶力】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低消耗200點悟性。"
+   [183]
+    0 TableSoItemLang data
+     0 int id = 1010184
+     1 string schinese = "无题比有题更难！\n\n【记忆力】【魅力】属性越高，学习消耗的悟性越少。\n\n最低消耗200点悟性。"
+     1 string schinese_censored = "无题比有题更难！\n\n学会即兴表演，【记忆力】【魅力】越高，会适当减少所需消耗的悟性\n\n属性标准值：18504\n至少消耗悟性:200"
+     1 string english = "Having no problems is harder than most problems!\n\nLearning Ad-lib Performance costs less Knowledge the more [Memory] and [Charm] you have.\n\nStat norm: 18,504\nMinimum Knowledge cost: 200"
+     1 string japanese = "台本は無い方が難しい！\n\nアドリブを学ぶ。【記憶力】【魅力】が高いほど消費理解力は少ない。\n\n能力標準値：18504\n最低消費理解力：200"
+     1 string mchinese = "無題比有題更難！\n\n【記憶力】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低消耗200點悟性。"
+   [184]
+    0 TableSoItemLang data
+     0 int id = 1010185
+     1 string schinese = "忘词、跳戏怎么办？这本话剧演出指南有答案。\n\n【想象力】【魅力】属性越高，学习消耗的悟性越少。\n\n最低消耗200点悟性。"
+     1 string schinese_censored = "忘词、跳戏怎么办？这本话剧演出指南有答案。\n\n学会话剧演出指南，【想象力】【魅力】越高，会适当减少所需消耗的悟性\n\n属性标准值：29604\n至少消耗悟性:200"
+     1 string english = "Forgetting your lines? This guide has the answer.\n\nLearning Guide to Drama Performance costs less Knowledge the more [Imagination] and [Charm] you have.\n\nStat norm: 29,604\nMinimum Knowledge cost: 200"
+     1 string japanese = "セリフやダンスにお困りなら、答えはすべてここに！\n\n話劇についてを学ぶ。【想像力】【魅力】が高いほど消費理解力は少ない。\n\n能力標準値：29604\n最低消費理解力：200"
+     1 string mchinese = "忘詞、跳戲怎麼辦？這本話劇演出指南有答案。\n\n【想像力】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低消耗200點悟性。"
+   [185]
+    0 TableSoItemLang data
+     0 int id = 1010186
+     1 string schinese = "如何在不用眼药水的前提下快速流泪？\n\n【想象力】【魅力】属性越高，学习消耗的悟性越少。\n\n最低消耗200点悟性。"
+     1 string schinese_censored = "如何在不用眼药水的前提下快速流泪？\n\n学会影视表演进阶，【想象力】【魅力】越高，会适当减少所需消耗的悟性\n\n属性标准值：47364\n至少消耗悟性:200"
+     1 string english = "How to cry on command without using eyedrops?\n\nLearning Movie & TV Performance costs less Knowledge the more [Imagination] and [Charm] you have.\n\nStat norm: 47,364\nMinimum Knowledge cost: 200"
+     1 string japanese = "目薬なしで素早く泣くには？\n\nハイレベル演技を学ぶ。【想像力】【魅力】が高いほど消費理解力は少ない。\n\n能力標準値：47364\n最低消費理解力：200"
+     1 string mchinese = "如何在不用眼藥水的前提下快速流淚？\n\n【想像力】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低消耗200點悟性。"
+   [186]
+    0 TableSoItemLang data
+     0 int id = 1010187
+     1 string schinese = "演而优则导。\n\n【想象力】【魅力】属性越高，学习消耗的悟性越少。\n\n最低消耗200点悟性。"
+     1 string schinese_censored = "演而优则导。\n\n学会电影导演，【想象力】【魅力】越高，会适当减少所需消耗的悟性\n\n属性标准值：75780\n至少消耗悟性:200"
+     1 string english = "Famous actors tend to transform into directors!\n\nLearning Film Director costs less Knowledge the more [Imagination] and [Charm] you have.\n\nStat norm: 75,780\nMinimum Knowledge cost: 200"
+     1 string japanese = "名優であり、名監督であれ。\n\n映画監督を学ぶ。【想像力】【魅力】が高いほど消費理解力は少ない。\n\n能力標準値：75780\n最低消費理解力：200"
+     1 string mchinese = "演而優則導。\n\n【想像力】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低消耗200點悟性。"
+   [187]
+    0 TableSoItemLang data
+     0 int id = 1010188
+     1 string schinese = "翻身、爬动、站立，这是必不可少的过程"
+     1 string schinese_censored = "翻身、爬动、站立，这是必不可少的过程"
+     1 string english = "Turn Over is where it all starts."
+     1 string japanese = "寝返り・ハイハイ・立つはどれも欠かせない"
+     1 string mchinese = "翻身、爬動、站立，這是必不可少的過程"
+   [188]
+    0 TableSoItemLang data
+     0 int id = 1010189
+     1 string schinese = "行走和跑步可以大大增强体质！"
+     1 string schinese_censored = "行走和跑步可以大大增强体质！"
+     1 string english = "Walk improves your body."
+     1 string japanese = "歩く・走るは体力を成長させる！"
+     1 string mchinese = "行走和跑步可以大大增強體質！"
+   [189]
+    0 TableSoItemLang data
+     0 int id = 1010190
+     1 string schinese = "行走和跑步可以大大增强体质！"
+     1 string schinese_censored = "行走和跑步可以大大增强体质！"
+     1 string english = "Run improves your body."
+     1 string japanese = "歩く・走るは体力を成長させる！"
+     1 string mchinese = "行走和跑步可以大大增強體質！"
+   [190]
+    0 TableSoItemLang data
+     0 int id = 1010191
+     1 string schinese = "游泳是很愉悦的运动，可以考虑学习一下！"
+     1 string schinese_censored = "游泳是很愉悦的运动，可以考虑学习一下！"
+     1 string english = "Baby Swim is fun and good to know!"
+     1 string japanese = "幼児水泳は楽しい！習わせよう！"
+     1 string mchinese = "游泳是很愉悅的運動，可以考慮學習一下！"
+   [191]
+    0 TableSoItemLang data
+     0 int id = 1010192
+     1 string schinese = "自行车很重要！"
+     1 string schinese_censored = "自行车很重要！"
+     1 string english = "Bicycle Riding is vital."
+     1 string japanese = "自転車に乗るのは重要だ！"
+     1 string mchinese = "自行車很重要！"
+   [192]
+    0 TableSoItemLang data
+     0 int id = 1010193
+     1 string schinese = "做操是很安全的运动！"
+     1 string schinese_censored = "做操是很安全的运动！"
+     1 string english = "Exercise is a very safe sport."
+     1 string japanese = "体操はとても安全な運動だ！"
+     1 string mchinese = "做操是很安全的運動！"
+   [193]
+    0 TableSoItemLang data
+     0 int id = 1010194
+     1 string schinese = "情商教育必不可少，学说话吧"
+     1 string schinese_censored = "情绪力教育必不可少，学说话吧"
+     1 string english = "Learn to Speak is vital for EQ."
+     1 string japanese = "ＥＱ教育は必須。上手に話せるようになろう"
+     1 string mchinese = "情商教育必不可少，學說話吧"
+   [194]
+    0 TableSoItemLang data
+     0 int id = 1010195
+     1 string schinese = "忍耐可以大幅提高情商"
+     1 string schinese_censored = "忍耐可以大幅提高情绪力"
+     1 string english = "Be Patient increases your EQ."
+     1 string japanese = "我慢はＥＱを成長させる"
+     1 string mchinese = "忍耐可以大幅提高情商"
+   [195]
+    0 TableSoItemLang data
+     0 int id = 1010196
+     1 string schinese = "延迟满足也是情商提高的必备技能"
+     1 string schinese_censored = "延迟满足也是情绪力提高的必备技能"
+     1 string english = "Delayed Gratification is vital for EQ."
+     1 string japanese = "衝動制御はＥＱを成長させるために必須だ"
+     1 string mchinese = "延遲滿足也是情商提高的必備技能"
+   [196]
+    0 TableSoItemLang data
+     0 int id = 1010197
+     1 string schinese = "安静和独处，可以提高情绪控制能力"
+     1 string schinese_censored = "安静和独处，可以提高情绪控制能力"
+     1 string english = "Be Quiet may hamper mood swings."
+     1 string japanese = "穏やか・独りは感情コントロールを成長させる"
+     1 string mchinese = "安靜和獨處，可以提高情緒控制能力"
+   [197]
+    0 TableSoItemLang data
+     0 int id = 1010198
+     1 string schinese = "安静和独处，可以提高情绪控制能力"
+     1 string schinese_censored = "安静和独处，可以提高情绪控制能力"
+     1 string english = "Be Alone may hamper mood swings."
+     1 string japanese = "穏やか・独りは感情コントロールを成長させる"
+     1 string mchinese = "安靜和獨處，可以提高情緒控制能力"
+   [198]
+    0 TableSoItemLang data
+     0 int id = 1010199
+     1 string schinese = "拼音是语文学科的基础，语文好不好，全靠基础"
+     1 string schinese_censored = "拼音是语文学科的基础，语文好不好，全靠基础"
+     1 string english = "Pinyin makes the base of your Chinese."
+     1 string japanese = "ピンインは国語の基礎。国語は基礎で決まる"
+     1 string mchinese = "拼音是語文學科的基礎，語文好不好，全靠基礎"
+   [199]
+    0 TableSoItemLang data
+     0 int id = 1010200
+     1 string schinese = "学完识字写字，语文能力会更强"
+     1 string schinese_censored = "学完识字写字，语文能力会更强"
+     1 string english = "Reading & Writing improves your Chinese."
+     1 string japanese = "読み書きは国語を成長させる"
+     1 string mchinese = "學完識字寫字，語文能力會更強"
+   [200]
+    0 TableSoItemLang data
+     0 int id = 1010201
+     1 string schinese = "高考是一定会考古诗的"
+     1 string schinese_censored = "最终考试是一定会考古诗的"
+     1 string english = "Ancient Poetry will come at Gaokao."
+     1 string japanese = "大学入試で古詩は必須だ！"
+     1 string mchinese = "高考是一定會考古詩的"
+   [201]
+    0 TableSoItemLang data
+     0 int id = 1010202
+     1 string schinese = "作文和写小说，是成为作家的必备技能"
+     1 string schinese_censored = "作文和写小说，是成为作家的必备技能"
+     1 string english = "Studying Writing is important for writers."
+     1 string japanese = "作文・小説を書くは作家の必須スキルだ"
+     1 string mchinese = "作文和寫小說，是成為作家的必備技能"
+   [202]
+    0 TableSoItemLang data
+     0 int id = 1010203
+     1 string schinese = "作文和写小说，是成为作家的必备技能"
+     1 string schinese_censored = "作文和写小说，是成为作家的必备技能"
+     1 string english = "Novel Writing is important for writers."
+     1 string japanese = "作文・小説を書くは作家の必須スキルだ"
+     1 string mchinese = "作文和寫小說，是成為作家的必備技能"
+   [203]
+    0 TableSoItemLang data
+     0 int id = 1010204
+     1 string schinese = "文言文是进入文学界的钥匙"
+     1 string schinese_censored = "文言文是进入文学界的钥匙"
+     1 string english = "Classical Chinese is a must for scholars."
+     1 string japanese = "古文は文学界に入るためのカギだ"
+     1 string mchinese = "文言文是進入文學界的鑰匙"
+   [204]
+    0 TableSoItemLang data
+     0 int id = 1010205
+     1 string schinese = "想成为文豪，必须读名著啊"
+     1 string schinese_censored = "想成为文豪，必须读名著啊"
+     1 string english = "Famous Works are must-reads for writers."
+     1 string japanese = "文豪になるには、名作をたくさん読まないと"
+     1 string mchinese = "想成為文豪，必須讀名著啊"
+   [205]
+    0 TableSoItemLang data
+     0 int id = 1010206
+     1 string schinese = "文学评论家必须学会文学基础"

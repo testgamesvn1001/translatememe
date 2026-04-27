@@ -1,0 +1,184 @@
+     1 string schinese_censored = "现在能选到的，大概就是这些阵容了。。。"
+     1 string english = "I guess these are the only lineups I can think of..."
+     1 string japanese = "今選べるパーティーはこんな感じだ…"
+     1 string mchinese = "現在能選到的，大概就是這些陣容了。。。"
+   [25782]
+    0 TableSoItemLang data
+     0 int id = 1596172069
+     1 string schinese = "让我想想，这次比赛我们的战术风格是。。。"
+     1 string schinese_censored = "让我想想，这次比赛我们的战术风格是。。。"
+     1 string english = "Let me see... Our play style in this game is gonna be..."
+     1 string japanese = "この試合の戦い方は…"
+     1 string mchinese = "讓我想想，這次比賽我們的戰術風格是。。。"
+   [25783]
+    0 TableSoItemLang data
+     0 int id = 1596172070
+     1 string schinese = "这次的阵容就定为"
+     1 string schinese_censored = "这次的阵容就定为"
+     1 string english = "Our lineup is "
+     1 string japanese = "今回のパーティーは…"
+     1 string mchinese = "這次的陣容就定為"
+   [25784]
+    0 TableSoItemLang data
+     0 int id = 1596172071
+     1 string schinese = "接下来，具体要用什么策略比赛呢？"
+     1 string schinese_censored = "接下来，具体要用什么策略比赛呢？"
+     1 string english = "Then, what's our strategy in this game?"
+     1 string japanese = "さあ、どんな戦略で戦おう？"
+     1 string mchinese = "接下來，具體要用什麼策略比賽呢？"
+   [25785]
+    0 TableSoItemLang data
+     0 int id = 1596172072
+     1 string schinese = "本场的策略就定为"
+     1 string schinese_censored = "本场的策略就定为"
+     1 string english = "Our strategy is "
+     1 string japanese = "この試合の戦略は…"
+     1 string mchinese = "本場的策略就定為"
+   [25786]
+    0 TableSoItemLang data
+     0 int id = 1596172073
+     1 string schinese = "那就这样开始吧！"
+     1 string schinese_censored = "那就这样开始吧！"
+     1 string english = "OK, let's go!"
+     1 string japanese = "これで始めよう！"
+     1 string mchinese = "那就這樣開始吧！"
+   [25787]
+    0 TableSoItemLang data
+     0 int id = 1596172074
+     1 string schinese = "比赛结束了！"
+     1 string schinese_censored = "比赛结束了！"
+     1 string english = "The game is over!"
+     1 string japanese = "試合終了！"
+     1 string mchinese = "比賽結束了！"
+   [25788]
+    0 TableSoItemLang data
+     0 int id = 1596172075
+     1 string schinese = "没有获胜……"
+     1 string schinese_censored = "没有获胜……"
+     1 string english = "We lost..."
+     1 string japanese = "敗北した…"
+     1 string mchinese = "沒有獲勝……"
+   [25789]
+    0 TableSoItemLang data
+     0 int id = 1596172076
+     1 string schinese = "险胜对手，获得悟性{0}点"
+     1 string schinese_censored = "险胜对手，获得悟性{0}点"
+     1 string english = "Get a close win and acquired {0} Knowledge."
+     1 string japanese = "辛くも勝利。理解力を獲得：{0}"
+     1 string mchinese = "險勝對手，獲得悟性{0}點"
+   [25790]
+    0 TableSoItemLang data
+     0 int id = 1596172077
+     1 string schinese = "赢过了对手，获得悟性{0}点"
+     1 string schinese_censored = "赢过了对手，获得悟性{0}点"
+     1 string english = "Get a win and acquired {0} Knowledge."
+     1 string japanese = "相手に勝利。理解力を獲得：{0}"
+     1 string mchinese = "贏過了對手，獲得悟性{0}點"
+   [25791]
+    0 TableSoItemLang data
+     0 int id = 1596172078
+     1 string schinese = "凯旋而归，获得悟性{0}点"
+     1 string schinese_censored = "凯旋而归，获得悟性{0}点"
+     1 string english = "Get a honorable win and acquired {0} Knowledge."
+     1 string japanese = "勝利の凱旋。理解力を獲得：{0}"
+     1 string mchinese = "凱旋而歸，獲得悟性{0}點"
+   [25792]
+    0 TableSoItemLang data
+     0 int id = 1596172079
+     1 string schinese = "碾压对手，获得悟性{0}点"
+     1 string schinese_censored = "碾压对手，获得悟性{0}点"
+     1 string english = "Get a dominating win and acquired {0} Knowledge."
+     1 string japanese = "相手に圧勝。理解力を獲得：{0}"
+     1 string mchinese = "碾壓對手，獲得悟性{0}點"
+   [25793]
+    0 TableSoItemLang data
+     0 int id = 1596172080
+     1 string schinese = "<color=#222222>◆</color>前期"
+     1 string schinese_censored = "<color=#222222>◆</color>前期"
+     1 string english = "<color=#222222>◆</color>Early Game"
+     1 string japanese = "<color=#222222>◆</color>前半"
+     1 string mchinese = "<color=#222222>◆</color>前期"
+   [25794]
+    0 TableSoItemLang data
+     0 int id = 1596172081
+     1 string schinese = "<color=#222222>●</color>后期"
+     1 string schinese_censored = "<color=#222222>●</color>后期"
+     1 string english = "<color=#222222>●</color>Late Game"
+     1 string japanese = "<color=#222222>●</color>後半"
+     1 string mchinese = "<color=#222222>●</color>後期"
+   [25795]
+    0 TableSoItemLang data
+     0 int id = 1596172082
+     1 string schinese = "<color=#222222>▲</color>分推"
+     1 string schinese_censored = "<color=#222222>▲</color>分推"
+     1 string english = "<color=#222222>▲</color>Split Push"
+     1 string japanese = "<color=#222222>▲</color>分散"
+     1 string mchinese = "<color=#222222>▲</color>分推"
+   [25796]
+    0 TableSoItemLang data
+     0 int id = 1596172083
+     1 string schinese = "<color=#222222>★</color>团战"
+     1 string schinese_censored = "<color=#222222>★</color>团战"
+     1 string english = "<color=#222222>★</color>Teamfight"
+     1 string japanese = "<color=#222222>★</color>集団戦"
+     1 string mchinese = "<color=#222222>★</color>團戰"
+   [25797]
+    0 TableSoItemLang data
+     0 int id = 1596172084
+     1 string schinese = "赢得联赛冠军"
+     1 string schinese_censored = "赢得联赛冠军"
+     1 string english = "Become the Champion"
+     1 string japanese = "リーグ戦優勝獲得"
+     1 string mchinese = "贏得聯賽冠軍"
+   [25798]
+    0 TableSoItemLang data
+     0 int id = 1596172085
+     1 string schinese = "需习得"
+     1 string schinese_censored = "需习得"
+     1 string english = "Need to learn: "
+     1 string japanese = "要習得："
+     1 string mchinese = "需習得"
+   [25799]
+    0 TableSoItemLang data
+     0 int id = 1596172086
+     1 string schinese = "完成了大家的期望："
+     1 string schinese_censored = "完成了大家的期望："
+     1 string english = "You fulfilled everyone's expectation:"
+     1 string japanese = "みんなの期待に応えた："
+     1 string mchinese = "完成了大家的期望："
+   [25800]
+    0 TableSoItemLang data
+     0 int id = 1596172087
+     1 string schinese = "安排一下这一季要做的事情吧！\n\n点击此处可切换<color=#EB7350>【学习】</color>事务和<color=#EB7350>【娱乐】</color>事务"
+     1 string schinese_censored = "安排一下这一季要做的事情吧！\n\n点击此处可切换<color=#EB7350>【学习】</color>事务和<color=#EB7350>【娱乐】</color>事务"
+     1 string english = "Plan for what you need to finish this turn!\n\nClick here to change <color=#EB7350>[Study]</color> activities and/or <color=#EB7350>[Entertainment]</color> activities."
+     1 string japanese = "本シーズンのスケジュールを組もう！\n\nここを選択すると<color=#EB7350>【学習】</color>の予定から<color=#EB7350>【娯楽】</color>の予定へ変更できる"
+     1 string mchinese = "安排一下這一季要做的事情吧！\n\n點擊此處可切換<color=#EB7350>【學習】</color>事務和<color=#EB7350>【娛樂】</color>事務"
+   [25801]
+    0 TableSoItemLang data
+     0 int id = 1596172088
+     1 string schinese = "点击此处可通过<color=#EB7350>【全部】</color>和<color=#EB7350>【推荐】</color>，进行事务的筛选！"
+     1 string schinese_censored = "点击此处可通过<color=#EB7350>【全部】</color>和<color=#EB7350>【推荐】</color>，进行事务的筛选！"
+     1 string english = "Click <color=#EB7350>[All]</color> or <color=#EB7350>[Rec.]</color> to change displayed activities."
+     1 string japanese = "ここを選択すると<color=#EB7350>【全部】</color>と<color=#EB7350>【推奨】</color>のフィルタを切り替えられる！"
+     1 string mchinese = "點擊此處可通過<color=#EB7350>【全部】</color>和<color=#EB7350>【推薦】</color>，進行事務的篩選！"
+   [25802]
+    0 TableSoItemLang data
+     0 int id = 1596172089
+     1 string schinese = "点击此处可进行筛选"
+     1 string schinese_censored = "点击此处可进行筛选"
+     1 string english = "Click here to change what is displayed."
+     1 string japanese = "ここを選択するとフィルタを切り替えられる"
+     1 string mchinese = "點擊此處可進行篩選"
+   [25803]
+    0 TableSoItemLang data
+     0 int id = 1596172090
+     1 string schinese = "选中所需查看的安排条目！\n\n再次点击可将此项安排进日程中"
+     1 string schinese_censored = "选中所需查看的安排条目！\n\n再次点击可将此项安排进日程中"
+     1 string english = "Select an activity you wish to view!\n\nClick it again to plan it into your schedule."
+     1 string japanese = "予定を選択して選ぶ！\n\nもう一度選択するとスケジュールに追加できる"
+     1 string mchinese = "選中所需查看的安排條目！\n\n再次點擊可將此項安排進日程中"
+   [25804]
+    0 TableSoItemLang data
+     0 int id = 1596172091
+     1 string schinese = "可查看当前选中事务的具体信息。\n\n下面，我们将日程排满吧！"

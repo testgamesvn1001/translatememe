@@ -1,0 +1,184 @@
+     1 string schinese_censored = "老哥，你怎么能这样说！没有浪漫主义情怀是做不出好游戏的！"
+     1 string english = "I've had enough of you! You aren't independent! You cannot make great games if you don't have a sense of romance!"
+     1 string japanese = "黙れ黙れ！お前がインディーゲームデベロッパーなわけがない！ロマンを求めずしてインディーであるものか！"
+     1 string mchinese = "老哥，我忍你很久了！你太不獨立了！沒有浪漫主義情懷是做不出好遊戲的！"
+   [10809]
+    0 TableSoItemLang data
+     0 int id = 1020810
+     1 string schinese = "喂，跟你说话呢，你朝着屏幕外面看什么呢？"
+     1 string schinese_censored = "喂，跟你说话呢，你朝着荧幕外面看什么呢？"
+     1 string english = "Hey I'm talking to you. Why are you just staring at the screen?"
+     1 string japanese = "おい、お前に言ってるんだぞ？画面外に何か見えてるのか？"
+     1 string mchinese = "喂，跟你說話呢，你朝著螢幕外面看什麼呢？"
+   [10810]
+    0 TableSoItemLang data
+     0 int id = 1020811
+     1 string schinese = "我在看屏幕前玩这款游戏的玩家啊。如果不是考虑成本砍掉很多功能，也许这款游戏根本没法见到大家呢……不知道屏幕外的玩家们满不满意呢？"
+     1 string schinese_censored = "我在看荧幕前玩这款游戏的玩家啊。如果不是考虑成本砍掉很多功能，也许这款游戏根本没法见到大家呢……不知道荧幕外的玩家们满不满意呢？"
+     1 string english = "I'm thinking what would happen if we cut out a lot of functions to save on costs. I wonder if they would enjoy playing a game with so few functions."
+     1 string japanese = "画面前のプレイヤーを想像しろ。コストを考えていろんな機能を削らないと公開できないぞ…それでプレイヤーを満足させると考えたことは？"
+     1 string mchinese = "我在看螢幕前玩這款遊戲的玩家啊。如果不是考慮成本砍掉很多功能，也許這款遊戲根本沒法見到大家呢……不知道螢幕外的玩家們滿不滿意呢？"
+   [10811]
+    0 TableSoItemLang data
+     0 int id = 1020812
+     1 string schinese = "你这个疯子，只会卖惨打情怀牌！我们要用自己的实力做出好作品！"
+     1 string schinese_censored = "你说什么呢，我们跟你可不一样！我们要用自己的实力做出好作品！"
+     1 string english = "You are crazy! You must be a local game developer! Look at those overseas game developers. They spend four or five years making a single game! Local game designers only know how to cheat and lie!"
+     1 string japanese = "お前は国産ゲーム開発者だよな？現状は海賊版ばかりだろ！？海外の開発者を見ろよ！みんな４、５年以上かけている人々ばっかりだ！国内のパクり方しか知らない奴とは違うんだ！"
+     1 string mchinese = "你這個瘋子，只會賣慘打情懷牌！我們要用自己的實力做出好作品！"
+   [10812]
+    0 TableSoItemLang data
+     0 int id = 1020813
+     1 string schinese = "嗯嗯，我们坚持我们的想法，一定要做到完美！"
+     1 string schinese_censored = "嗯嗯，我们坚持我们的想法，一定要做到完美！"
+     1 string english = "Yes, we won't change our ways. Our game must be perfect!"
+     1 string japanese = "ええ、私たちの考えを諦めるつもりはないわ。完璧に作る！"
+     1 string mchinese = "嗯嗯，我們堅持我們的想法，一定要做到完美！"
+   [10813]
+    0 TableSoItemLang data
+     0 int id = 1020814
+     1 string schinese = "我的天，辛辛苦苦做了这么久的游戏……竟然送激活码都没人激活！"
+     1 string schinese_censored = "我的天，辛辛苦苦做了这么久的游戏……竟然送启动码都没人启动！"
+     1 string english = "Wow, we've put our blood, sweat, and tears into making this game, but nobody is activating the free keys we sent out!"
+     1 string japanese = "ウソだ…こんなに苦労したのに。無料キーを配っても起動すらされてないなんて…"
+     1 string mchinese = "我的天，辛辛苦苦做了這麼久的遊戲……竟然送啟動碼都沒人啟動！"
+   [10814]
+    0 TableSoItemLang data
+     0 int id = 1020815
+     1 string schinese = "是啊，这也太惨了啊，没人知道这款游戏……发行商看一眼就走了"
+     1 string schinese_censored = "是啊，这也太惨了啊，没人知道这款游戏……怎么办"
+     1 string english = "Yes, it is pitiful. Nobody knows about our game. What should we do?"
+     1 string japanese = "ええ、ひどすぎるわ。誰もこのゲームを知らない…注目してくれるメディアもいない。"
+     1 string mchinese = "是啊，這也太慘了啊，沒人知道這款遊戲……發行商看一眼就走了"
+   [10815]
+    0 TableSoItemLang data
+     0 int id = 1020816
+     1 string schinese = "而且……盗版第二周就出了，连盗版都没人下载……"
+     1 string schinese_censored = "而且……一下子就被破解了……"
+     1 string english = "And someone copied our game in the second week, but nobody is downloading that either."
+     1 string japanese = "それに…海賊版がリリース翌週に出てるのに、それすらダウンロードされてない…"
+     1 string mchinese = "而且……盜版第二周就出了，連盜版都沒人下載……"
+   [10816]
+    0 TableSoItemLang data
+     0 int id = 1020817
+     1 string schinese = "很正常的，独立游戏本身就很难被大众玩到，能被看到的，多是大厂发行的！"
+     1 string schinese_censored = "很正常的，独立游戏本身就很难被大众玩到，能被看到的，多是大厂发行的！"
+     1 string english = "That's normal. Small indie games are hardly noticed by the public. All the attention is focused on the big companies!"
+     1 string japanese = "それが普通だ。元々インディーゲームは宣伝が難しいからね。人目につくのは、大体大手のだよ！"
+     1 string mchinese = "很正常的，獨立遊戲本身就很難被大眾玩到，能被看到的，多是大廠發行的！"
+   [10817]
+    0 TableSoItemLang data
+     0 int id = 1020818
+     1 string schinese = "那些独立神作，都是优中选优的作品，能成功是非常小概率的事件……"
+     1 string schinese_censored = "那些独立神作，都是优中选优的作品，能成功是非常小概率的事件……"
+     1 string english = "Each of those indie games is a masterpiece in its own right. The probability that your game will become a success is very small."
+     1 string japanese = "成功したインディーゲームは、特に優秀な作品さ。成功できる確率はわずかしかない。"
+     1 string mchinese = "那些獨立神作，都是優中選優的作品，能成功是非常小概率的事件……"
+   [10818]
+    0 TableSoItemLang data
+     0 int id = 1020819
+     1 string schinese = "这么说……我们是要失败了吗？"
+     1 string schinese_censored = "这么说……我们是要失败了吗？"
+     1 string english = "Then will our game fail?"
+     1 string japanese = "つまり…俺たちは失敗したのか？"
+     1 string mchinese = "這麼說……我們是要失敗了嗎？"
+   [10819]
+    0 TableSoItemLang data
+     0 int id = 1020820
+     1 string schinese = "失败是常态，但是做独立游戏，本身不就是一个快乐的过程吗？"
+     1 string schinese_censored = "失败是常态，但是做独立游戏，本身不就是一个快乐的过程吗？"
+     1 string english = "Failing is normal. But wasn't making your own indie game really fun?"
+     1 string japanese = "失敗するのも普通だよ。でも、作ってるだけで楽しかっただろ？"
+     1 string mchinese = "失敗是常態，但是做獨立遊戲，本身不就是一個快樂的過程嗎？"
+   [10820]
+    0 TableSoItemLang data
+     0 int id = 1020821
+     1 string schinese = "说的也是，毕竟成长了很多呢！只能寄希望于下一款了……"
+     1 string schinese_censored = "说的也是，毕竟成长了很多呢！只能寄希望于下一款了……"
+     1 string english = "That's true. We have learned a lot while making this game! I only hope our next game will be better."
+     1 string japanese = "そうだな。このゲームのおかげで大きく成長できたと思う。また次のゲームを作ろう！"
+     1 string mchinese = "說的也是，畢竟成長了很多呢！只能寄希望於下一款了……"
+   [10821]
+    0 TableSoItemLang data
+     0 int id = 1020822
+     1 string schinese = "你为什么又在看屏幕外呢？"
+     1 string schinese_censored = "你为什么又在看荧幕外呢？"
+     1 string english = "Why do you keep looking outside the screen?"
+     1 string japanese = "なんでまた画面の外を向いてるの？"
+     1 string mchinese = "你為什麼又在看螢幕外呢？"
+   [10822]
+    0 TableSoItemLang data
+     0 int id = 1020823
+     1 string schinese = "我在看屏幕外的玩家，能让玩家玩到这款游戏，就是最大的幸福了。"
+     1 string schinese_censored = "我在看荧幕外的玩家，能让玩家玩到这款游戏，就是最大的幸福了。"
+     1 string english = "I'm looking at the players. If only we could let them play our game."
+     1 string japanese = "画面前のプレイヤーを見てるんだ。このゲームをプレイしてくれていることが一番の幸せだよ！"
+     1 string mchinese = "我在看螢幕外的玩家，能讓玩家玩到這款遊戲，就是最大的幸福了。"
+   [10823]
+    0 TableSoItemLang data
+     0 int id = 1020824
+     1 string schinese = "老吴！今天我让厨师给你多加了个鸡腿！"
+     1 string schinese_censored = "导演！今天我让厨师给你多加了个鸡腿！"
+     1 string english = "I told the chef to make you a chicken leg!"
+     1 string japanese = "タツさん！今日の昼ご飯はなんですか？"
+     1 string mchinese = "老吳！今天我讓廚師給你多加了個雞腿！"
+   [10824]
+    0 TableSoItemLang data
+     0 int id = 1020825
+     1 string schinese = "你以为你是来吃东西的吗！？你看看培训班里，有的人都去拍广告了！"
+     1 string schinese_censored = "你以为你是来吃东西的吗！？你看看培训班里，有的人都去拍广告了！"
+     1 string english = "Did you come here to eat? Look at the people in the training class. They're all shooting advertisements!"
+     1 string japanese = "おめえさんは食ってばっかだな！飯食いに来てるのか？他の子達を見ろ！！もうCMに出てる子もいんだぞ！"
+     1 string mchinese = "你以為你是來吃東西的嗎！？你看看培訓班裏，有的人都去拍廣告了！"
+   [10825]
+    0 TableSoItemLang data
+     0 int id = 1020826
+     1 string schinese = "别看你现在靠脸能蹭个鸡腿，真到了圈里就不行啦"
+     1 string schinese_censored = "别看你现在靠脸能蹭个鸡腿，真到了圈里就不行啦"
+     1 string english = "You can rely on your looks for now, but that won't cut it in this industry."
+     1 string japanese = "なかなかカワイイ面しとるが、この業界には向いてねーのじゃないか？"
+     1 string mchinese = "別看你現在靠臉能蹭個雞腿，真到了圈裏就不行啦"
+   [10826]
+    0 TableSoItemLang data
+     0 int id = 1020827
+     1 string schinese = "我可以的，我演技很好的！"
+     1 string schinese_censored = "我可以的，我演技很好的！"
+     1 string english = "I'm okay. My acting skills are good!"
+     1 string japanese = "大丈夫！演技には自信があります！"
+     1 string mchinese = "我可以的，我演技很好的！"
+   [10827]
+    0 TableSoItemLang data
+     0 int id = 1020828
+     1 string schinese = "演技好的有的是啊，比你努力的更多！你能努力到和大导演聊一晚上的戏？"
+     1 string schinese_censored = "演技好的有的是啊，比你努力的更多！你能努力到和大导演聊一晚上的戏？"
+     1 string english = "There are many with good acting skills, and much more who try harder than you! Are you able to spend an entire night with the director?"
+     1 string japanese = "おめえより上手いやつら、ゴロゴロいるに決まってんだろ！それともアレか？監督に直接お願いにでも行くんか？"
+     1 string mchinese = "演技好的有的是啊，比你努力的更多！你能努力到和大導演聊一晚上的戲？"
+   [10828]
+    0 TableSoItemLang data
+     0 int id = 1020829
+     1 string schinese = "老吴，你说的什么意思呀？"
+     1 string schinese_censored = "导演，你说的什么意思呀？"
+     1 string english = "I will not fall victim to those practices!"
+     1 string japanese = "タツさん、私は実力で上を目指すんです。そんなことしません！"
+     1 string mchinese = "老吳，你說的什麼意思呀？"
+   [10829]
+    0 TableSoItemLang data
+     0 int id = 1020830
+     1 string schinese = "看你这样的，也是不容易……这本垫桌脚的《演员的自我修养》送给你了，有空多看看！"
+     1 string schinese_censored = "看你这样的，也是不容易……这本垫桌脚的《演员的自我修养》送给你了，有空多看看！"
+     1 string english = "You are quite unique. Well, I'll give you this book "The Actor in Me." Read it when you get the chance!"
+     1 string japanese = "やる気はあるみたいやな。ワシが大切にしとる演劇の本を貸したるわ！暇なときに読んでみい！"
+     1 string mchinese = "看你這樣的，也是不容易……這本墊桌腳的《演員的自我修養》送給你了，有空多看看！"
+   [10830]
+    0 TableSoItemLang data
+     0 int id = 1020831
+     1 string schinese = "怎么样，这次演技对抗赛，是不是学到了很多？"
+     1 string schinese_censored = "怎么样，这次演技对抗赛，是不是学到了很多？"
+     1 string english = "How was it? Did you learn something from this acting competition?"
+     1 string japanese = "どうやった？演技コンテストで何か学べたか？"
+     1 string mchinese = "怎麼樣，這次演技對抗賽，是不是學到了很多？"
+   [10831]
+    0 TableSoItemLang data
+     0 int id = 1020832
+     1 string schinese = "是啊，那句“蚂蚁竞走十年啦”至少有三个层次，让人印象深刻啊！"

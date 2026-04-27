@@ -1,0 +1,184 @@
+     1 string schinese_censored = "“是谁~”"
+     1 string english = "Who's knocking on my window? Who's playing that instrument?"
+     1 string japanese = "自伝「独闘」最終章：「誰かが心の扉を叩く、誰かが楽器の弦を弾く」"
+     1 string mchinese = "“是誰在敲打我窗，是誰在撩動琴弦。”"
+   [8716]
+    0 TableSoItemLang data
+     0 int id = 1018717
+     1 string schinese = "你在自传《一个人的战斗》的结尾中写道：希望大家以和为贵。"
+     1 string schinese_censored = "你在自传《一个人的战斗》的结尾中写道：希望大家以和为贵。"
+     1 string english = "The message at the end of your novel "One Man's Battle" is "harmony is precious.""
+     1 string japanese = "ようやく書き終わりそうだ。最後に「平和が一番大切だ」と記した。"
+     1 string mchinese = "你在自傳《一個人的戰鬥》的結尾中寫道：希望大家以和為貴。"
+   [8717]
+    0 TableSoItemLang data
+     0 int id = 1018718
+     1 string schinese = "你看这个电脑到底是怎么回事啊！怎么总是蓝屏"
+     1 string schinese_censored = "你看这个计算机到底是怎么回事啊！怎么总是蓝屏"
+     1 string english = "What is wrong with this computer? It literally has a constant blue screen."
+     1 string japanese = "このパソコンどうなってるの！いつも画面が青いわ。"
+     1 string mchinese = "你看這個電腦到底是怎麼回事啊！怎麼總是藍屏"
+   [8718]
+    0 TableSoItemLang data
+     0 int id = 1018719
+     1 string schinese = "估计是驱动有问题，我来弄下就没问题了！"
+     1 string schinese_censored = "估计是驱动有问题，我来弄下就没问题了！"
+     1 string english = "It's probably a problem with the drivers. I'll fix it for you."
+     1 string japanese = "ドライバーが原因かな。ちょっといじってみるよ。"
+     1 string mchinese = "估計是驅動有問題，我來弄下就沒問題了！"
+   [8719]
+    0 TableSoItemLang data
+     0 int id = 1018720
+     1 string schinese = "看你还真没白学计算机，以后实在不行，做电脑维修也挺好的！"
+     1 string schinese_censored = "看你还真没白学计算机，以后实在不行，做计算机维修也挺好的！"
+     1 string english = "It looks like you didn't learn about computers for nothing. If worst comes to worst, you can just repair computers."
+     1 string japanese = "パソコン勉強したのは無駄じゃなかったわね！受験に失敗しても、パソコン修理で生きていけるかしら？"
+     1 string mchinese = "看你還真沒白學電腦，以後實在不行，做電腦維修也挺好的！"
+   [8720]
+    0 TableSoItemLang data
+     0 int id = 1018721
+     1 string schinese = "在家玩什么呢？"
+     1 string schinese_censored = "在家玩什么呢？"
+     1 string english = "What are you doing at home?"
+     1 string japanese = "最近なにしてるの？"
+     1 string mchinese = "在家玩什麼呢？"
+   [8721]
+    0 TableSoItemLang data
+     0 int id = 1018722
+     1 string schinese = "玩玄远剑3呢~还不错，一起玩吧！"
+     1 string schinese_censored = "玩玄远剑3呢~还不错，一起玩吧！"
+     1 string english = "Chinese Wuxia Sword 3. Let's play together!"
+     1 string japanese = "玄轅剣３だよ。一緒にやらない？"
+     1 string mchinese = "玩玄遠劍3呢~還不錯，一起玩吧！"
+   [8722]
+    0 TableSoItemLang data
+     0 int id = 1018723
+     1 string schinese = "不了不了，最近学编程超文本预处理……"
+     1 string schinese_censored = "不了不了，最近学编程超文本预处理……"
+     1 string english = "Nope, I've been learning PHP..."
+     1 string japanese = "いや、最近はPHPを勉強してるんだ。一緒にどうだい？"
+     1 string mchinese = "不了不了，最近學編程超文本預處理……"
+   [8723]
+    0 TableSoItemLang data
+     0 int id = 1018724
+     1 string schinese = "我最近也在看，感觉能够创造点东西~还是很有乐趣的~"
+     1 string schinese_censored = "我最近也在看，感觉能够创造点东西~还是很有乐趣的~"
+     1 string english = "I've been learning it as well. It's interesting in that it can create many things."
+     1 string japanese = "俺も最近触り始めたよ。いろんなものがPHPでできてるって面白いよね。"
+     1 string mchinese = "我最近也在看，感覺能夠創造點東西~還是很有樂趣的~"
+   [8724]
+    0 TableSoItemLang data
+     0 int id = 1018725
+     1 string schinese = "嗨~最近想做一个小网站，有没有兴趣一起搞搞？"
+     1 string schinese_censored = "嗨~最近想做一个小网站，有没有兴趣一起搞搞？"
+     1 string english = "Hey. I want to make a website. You interested?"
+     1 string japanese = "やあ、近々簡単なウェブサイトを作るつもりなんだけど、興味はある？"
+     1 string mchinese = "嗨~最近想做一個小網站，有沒有興趣一起搞搞？"
+   [8725]
+    0 TableSoItemLang data
+     0 int id = 1018726
+     1 string schinese = "做网站吗？说来听听……"
+     1 string schinese_censored = "做网站吗？说来听听……"
+     1 string english = "Making a website? Let's hear what you have planned."
+     1 string japanese = "ウェブサイト？どんなの？"
+     1 string mchinese = "做網站嗎？說來聽聽……"
+   [8726]
+    0 TableSoItemLang data
+     0 int id = 1018727
+     1 string schinese = "想做一个给学校里的学生作文打分的网站，觉得好往右滑，觉得不好往左滑！"
+     1 string schinese_censored = "想做一个给学校里的学生作文打分的网站，觉得好往右滑，觉得不好往左滑！"
+     1 string english = "I want to create a website for students to rate essays written by other students! Swipe right if good, swipe left if not!"
+     1 string japanese = "生徒同士の作文を採点し合うんだ。「良いね」と思うなら右へスライド、「悪いね」と思うなら左。"
+     1 string mchinese = "想做一個給學校裏的學生作文打分的網站，覺得好往右滑，覺得不好往左滑！"
+   [8727]
+    0 TableSoItemLang data
+     0 int id = 1018728
+     1 string schinese = "感觉是个不错的想法，那你搞前端，我做后端～"
+     1 string schinese_censored = "感觉是个不错的想法，那你搞前端，我做后端～"
+     1 string english = "That's not a bad idea. Then I'll help you with the backend while you do the frontend."
+     1 string japanese = "おもしろそうじゃないか！じゃあ、フロントエンドはお前な。俺はバックエンドで。"
+     1 string mchinese = "感覺是個不錯的想法，那你搞前端，我做後端～"
+   [8728]
+    0 TableSoItemLang data
+     0 int id = 1018729
+     1 string schinese = "可是，这个东西上线，我们要怎么让别人知道呢？"
+     1 string schinese_censored = "可是，这个东西上线，我们要怎么让别人知道呢？"
+     1 string english = "How will we let people know once we go online?"
+     1 string japanese = "けど、完成させたとしても、宣伝はどうしよう？"
+     1 string mchinese = "可是，這個東西上線，我們要怎麼讓別人知道呢？"
+   [8729]
+    0 TableSoItemLang data
+     0 int id = 1018730
+     1 string schinese = "推广的事情往后再说吧～做完了先在学校里给大家试试～"
+     1 string schinese_censored = "推广的事情往后再说吧～做完了先在学校里给大家试试～"
+     1 string english = "We can worry about the advertisements later. Let's finish the product and test it out in school."
+     1 string japanese = "宣伝は完成してから考えよう。まずは作ってみて、学校で試してみよう！"
+     1 string mchinese = "推廣的事情往後再說吧～做完了先在學校裏給大家試試～"
+   [8730]
+    0 TableSoItemLang data
+     0 int id = 1018731
+     1 string schinese = "你最近看后台了吗？我们的活跃用户突破一万人了呢！"
+     1 string schinese_censored = "你最近看后台了吗？我们的活跃用户突破一万人了呢！"
+     1 string english = "Have you seen the backend? We just reached 10,000 active users!"
+     1 string japanese = "見たか？アクティブユーザーが１万人を超えたぞ！"
+     1 string mchinese = "你最近看後臺了嗎？我們的活躍用戶突破一萬人了呢！"
+   [8731]
+    0 TableSoItemLang data
+     0 int id = 1018732
+     1 string schinese = "看到了！其他学校的人也都喜欢我们的网站呢！！"
+     1 string schinese_censored = "看到了！其他学校的人也都喜欢我们的网站呢！！"
+     1 string english = "I saw! We are even getting traffic from other schools!"
+     1 string japanese = "見たよ！他の学校からもアクセスしてるみたいだ！"
+     1 string mchinese = "看到了！其他學校的人也都喜歡我們的網站呢！！"
+   [8732]
+    0 TableSoItemLang data
+     0 int id = 1018733
+     1 string schinese = "话说最近有个白衫资本的大叔，一直要我们考虑把网站卖给他呢～"
+     1 string schinese_censored = "话说最近有个白衫资本的大叔，一直要我们考虑把网站卖给他呢～"
+     1 string english = "This man wearing a white-collared shirt has approached me, asking us if we want to sell our website."
+     1 string japanese = "それでな、この前投資会社の人が来て、ウェブサイトを売ってくれと頼まれたんだ。"
+     1 string mchinese = "話說最近有個白衫資本的大叔，一直要我們考慮把網站賣給他呢～"
+   [8733]
+    0 TableSoItemLang data
+     0 int id = 1018734
+     1 string schinese = "能给多少钱呢？"
+     1 string schinese_censored = "能给多少钱呢？"
+     1 string english = "What is he offering?"
+     1 string japanese = "どのくらいで？"
+     1 string mchinese = "能給多少錢呢？"
+   [8734]
+    0 TableSoItemLang data
+     0 int id = 1018735
+     1 string schinese = "大概两万人民币！现在各个互联网巨头就是他们投资成功的！"
+     1 string schinese_censored = "大概两万人民币！现在各个互联网巨头就是他们投资成功的！"
+     1 string english = "He's offering around 20,000 RMB! Many of the current social website giants were funded by them!"
+     1 string japanese = "２万元だってさ！今のネット企業のほとんどは彼らの投資で成り立ってるみたいだ。"
+     1 string mchinese = "大概兩萬人民幣！現在各個互聯網巨頭就是他們投資成功的！"
+   [8735]
+    0 TableSoItemLang data
+     0 int id = 1018736
+     1 string schinese = "我的天……那可以买两台最新款的笔记本电脑了！只要9998，还送一套么么哒~"
+     1 string schinese_censored = "我的天……那可以买两台最新款的笔记本计算机了！只要9998，还送一套么么哒~"
+     1 string english = "Oh my, I can buy two new laptops with that money! Only 9998 and it's buy one get one free!"
+     1 string japanese = "マジか…最新型ノートパソコンが買えるぞ！今なら９９９８元でもう１台もらえるし。"
+     1 string mchinese = "我的天……那可以買兩臺最新款的筆記本電腦了！只要9998，還送一套麼麼噠~"
+   [8736]
+    0 TableSoItemLang data
+     0 int id = 1018737
+     1 string schinese = "是啊，感觉很有诱惑力！不过他们需要植入一些黑心医院的广告……"
+     1 string schinese_censored = "是啊，感觉很有诱惑力！不过他们需要植入一些广告……"
+     1 string english = "Yes, it's very tempting! But they will need to add advertisements for a shady hospital."
+     1 string japanese = "ああ、いい話だよな！ただ、なんか怪しい病院に関する広告を載せなきゃならないみたいなんだ…"
+     1 string mchinese = "是啊，感覺很有誘惑力！不過他們需要植入一些黑心醫院的廣告……"
+   [8737]
+    0 TableSoItemLang data
+     0 int id = 1018738
+     1 string schinese = "可是，那样就会很商业，在骗同学啊！那些广告害了好多人……"
+     1 string schinese_censored = "可是，那样就会很商业，在骗同学啊！"
+     1 string english = "But that advertisement will harm a lot of students!"
+     1 string japanese = "おいおい、それは生徒たちが危ないんじゃないのか！？"
+     1 string mchinese = "可是，那樣就會很商業，在騙同學啊！那些廣告害了好多人……"
+   [8738]
+    0 TableSoItemLang data
+     0 int id = 1018739
+     1 string schinese = "不知道为什么，我总感觉，我们以后会有很多钱，有很多最新款电脑……"

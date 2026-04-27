@@ -1,0 +1,184 @@
+     1 string schinese_censored = "财 富"
+     1 string english = "Finance"
+     1 string japanese = "財産"
+     1 string mchinese = "財 富"
+   [25874]
+    0 TableSoItemLang data
+     0 int id = 1596172161
+     1 string schinese = "口 才"
+     1 string schinese_censored = "口 才"
+     1 string english = "Speechcraft"
+     1 string japanese = "弁舌"
+     1 string mchinese = "口 才"
+   [25875]
+    0 TableSoItemLang data
+     0 int id = 1596172162
+     1 string schinese = "科 研"
+     1 string schinese_censored = "科 研"
+     1 string english = "Research"
+     1 string japanese = "研究"
+     1 string mchinese = "科 研"
+   [25876]
+    0 TableSoItemLang data
+     0 int id = 1596172163
+     1 string schinese = "忍 者"
+     1 string schinese_censored = "忍 者"
+     1 string english = "Ninja"
+     1 string japanese = "忍者"
+     1 string mchinese = "忍 者"
+   [25877]
+    0 TableSoItemLang data
+     0 int id = 1596172164
+     1 string schinese = "游 戏"
+     1 string schinese_censored = "游 戏"
+     1 string english = "Game"
+     1 string japanese = "遊戯"
+     1 string mchinese = "遊 戲"
+   [25878]
+    0 TableSoItemLang data
+     0 int id = 1596172165
+     1 string schinese = "审 美"
+     1 string schinese_censored = "审 美"
+     1 string english = "Cosmetology"
+     1 string japanese = "審美"
+     1 string mchinese = "審 美"
+   [25879]
+    0 TableSoItemLang data
+     0 int id = 1596172166
+     1 string schinese = "歌 唱"
+     1 string schinese_censored = "歌 唱"
+     1 string english = "Sing"
+     1 string japanese = "歌唱"
+     1 string mchinese = "歌 唱"
+   [25880]
+    0 TableSoItemLang data
+     0 int id = 1596172167
+     1 string schinese = "特 殊"
+     1 string schinese_censored = "特 殊"
+     1 string english = "Other"
+     1 string japanese = "特殊"
+     1 string mchinese = "特 殊"
+   [25881]
+    0 TableSoItemLang data
+     0 int id = 1596172168
+     1 string schinese = "语 文"
+     1 string schinese_censored = "语 文"
+     1 string english = "Chinese"
+     1 string japanese = "国語"
+     1 string mchinese = "語 文"
+   [25882]
+    0 TableSoItemLang data
+     0 int id = 1596172169
+     1 string schinese = "数 学"
+     1 string schinese_censored = "数 学"
+     1 string english = "Mathematics"
+     1 string japanese = "数学"
+     1 string mchinese = "數 學"
+   [25883]
+    0 TableSoItemLang data
+     0 int id = 1596172170
+     1 string schinese = "英 语"
+     1 string schinese_censored = "英 语"
+     1 string english = "English"
+     1 string japanese = "英語"
+     1 string mchinese = "英 語"
+   [25884]
+    0 TableSoItemLang data
+     0 int id = 1596172171
+     1 string schinese = "文 科"
+     1 string schinese_censored = "文 科"
+     1 string english = "Liberal Arts"
+     1 string japanese = "文系"
+     1 string mchinese = "文 科"
+   [25885]
+    0 TableSoItemLang data
+     0 int id = 1596172172
+     1 string schinese = "理 科"
+     1 string schinese_censored = "理 科"
+     1 string english = "Science"
+     1 string japanese = "理系"
+     1 string mchinese = "理 科"
+   [25886]
+    0 TableSoItemLang data
+     0 int id = 1596172173
+     1 string schinese = "娱 乐"
+     1 string schinese_censored = "娱 乐"
+     1 string english = "Entertainment"
+     1 string japanese = "娯楽"
+     1 string mchinese = "娛 樂"
+   [25887]
+    0 TableSoItemLang data
+     0 int id = 1596172174
+     1 string schinese = "电竞"
+     1 string schinese_censored = "电竞"
+     1 string english = "E-Sports"
+     1 string japanese = "ｅスポーツ"
+     1 string mchinese = "電競"
+   [25888]
+    0 TableSoItemLang data
+     0 int id = 1596172175
+     1 string schinese = "主持"
+     1 string schinese_censored = "主持"
+     1 string english = "Host"
+     1 string japanese = "司会"
+     1 string mchinese = "主持"
+   [25889]
+    0 TableSoItemLang data
+     0 int id = 1596172176
+     1 string schinese = "可学习："
+     1 string schinese_censored = "可学习："
+     1 string english = "Learnable: "
+     1 string japanese = "学習可能："
+     1 string mchinese = "可學習："
+   [25890]
+    0 TableSoItemLang data
+     0 int id = 1596172177
+     1 string schinese = "暂无可学习技能"
+     1 string schinese_censored = "暂无可学习技能"
+     1 string english = "No learnable skills."
+     1 string japanese = "今は学習できるスキルがない"
+     1 string mchinese = "暫無可學習技能"
+   [25891]
+    0 TableSoItemLang data
+     0 int id = 1596172178
+     1 string schinese = "悟性不足，目前无法学习！"
+     1 string schinese_censored = "悟性不足，目前无法学习！"
+     1 string english = "Not enough Knowledge to learn this skill!"
+     1 string japanese = "理解力が不足しているので、学習できない！"
+     1 string mchinese = "悟性不足，目前無法學習！"
+   [25892]
+    0 TableSoItemLang data
+     0 int id = 1596172179
+     1 string schinese = "已学会："
+     1 string schinese_censored = "已学会："
+     1 string english = "Learned: "
+     1 string japanese = "習得："
+     1 string mchinese = "已學會："
+   [25893]
+    0 TableSoItemLang data
+     0 int id = 1596172180
+     1 string schinese = "获得了新的特长："
+     1 string schinese_censored = "获得了新的特长："
+     1 string english = "New trait acquired: "
+     1 string japanese = "新しい特技を獲得："
+     1 string mchinese = "獲得了新的特長："
+   [25894]
+    0 TableSoItemLang data
+     0 int id = 1596172181
+     1 string schinese = "可学习新技能："
+     1 string schinese_censored = "可学习新技能："
+     1 string english = "Learnable skills: "
+     1 string japanese = "学習できるスキルを獲得："
+     1 string mchinese = "可學習新技能："
+   [25895]
+    0 TableSoItemLang data
+     0 int id = 1596172182
+     1 string schinese = "未达成期望："
+     1 string schinese_censored = "未达成期望："
+     1 string english = "You didn't meet the expectation:"
+     1 string japanese = "未達成の期待："
+     1 string mchinese = "未達成期望："
+   [25896]
+    0 TableSoItemLang data
+     0 int id = 1596172183
+     1 string schinese = "练习"

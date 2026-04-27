@@ -1,0 +1,184 @@
+     1 string schinese_censored = "北京大学专业考试结束，感觉考得一般"
+     1 string english = "廢棄"
+     1 string japanese = "廢棄"
+     1 string mchinese = "北京大學專業考試結束，感覺考得一般"
+   [33855]
+    0 TableSoItemLang data
+     0 int id = 99994560
+     1 string schinese = "清华大学专业考试结束，感觉考得一般"
+     1 string schinese_censored = "清华大学专业考试结束，感觉考得一般"
+     1 string english = "廢棄"
+     1 string japanese = "廢棄"
+     1 string mchinese = "清華大學專業考試結束，感覺考得一般"
+   [33856]
+    0 TableSoItemLang data
+     0 int id = 99994561
+     1 string schinese = "是不是可以查{填报的第一个志愿}的艺考成绩了？考的怎么样"
+     1 string schinese_censored = "是不是可以查{填报的第一个志愿}的艺考成绩了？考的怎么样"
+     1 string english = "Did you check the results for {填報的第一個志願}? What were they like?"
+     1 string japanese = "そろそろ{填報的第一個志願}の芸術連合試験の結果が出る頃じゃない？どうだったの？"
+     1 string mchinese = "是不是可以查{填報的第一個志願}的藝考成績了？考的怎麼樣"
+   [33857]
+    0 TableSoItemLang data
+     0 int id = 99994562
+     1 string schinese = "没……没考上……"
+     1 string schinese_censored = "没……没考上……"
+     1 string english = "I... failed..."
+     1 string japanese = "お……落ちた……"
+     1 string mchinese = "沒……沒考上……"
+   [33858]
+    0 TableSoItemLang data
+     0 int id = 99994563
+     1 string schinese = "那别的学校呢？"
+     1 string schinese_censored = "那别的学校呢？"
+     1 string english = "Okay, so you didn't get in. What about the other ones?"
+     1 string japanese = "他の学校は？"
+     1 string mchinese = "那別的學校呢？"
+   [33859]
+    0 TableSoItemLang data
+     0 int id = 99994564
+     1 string schinese = "都……差一点。"
+     1 string schinese_censored = "都……差一点。"
+     1 string english = "None... none accepted me."
+     1 string japanese = "えっと……あと少しだった。"
+     1 string mchinese = "都……差一點。"
+   [33860]
+    0 TableSoItemLang data
+     0 int id = 99994565
+     1 string schinese = "什么差一点？你考上了啥？改不会啥都没考上吧？"
+     1 string schinese_censored = "什么差一点？你考上了啥？改不会啥都没考上吧？"
+     1 string english = "What? Just tell me what ones you got into. You can't have been refused by all of them, can you?"
+     1 string japanese = "あと少しって何よ？どこに受かったの？まさか全部落ちたってことはないわよね？"
+     1 string mchinese = "什麼差一點？你考上了啥？改不會啥都沒考上吧？"
+   [33861]
+    0 TableSoItemLang data
+     0 int id = 99994566
+     1 string schinese = "妈你别问了，我就是啥都没考上！……艺考这条路是走不通了……"
+     1 string schinese_censored = "妈你别问了，我就是啥都没考上！……艺考这条路是走不通了……"
+     1 string english = "Give it a rest, Mom! I didn't get in anywhere! ...The art exams just aren't for me..."
+     1 string japanese = "お母さんもう聞かないで、全部落ちたんだ！……美大にはもう入れないんだ……"
+     1 string mchinese = "媽你別問了，我就是啥都沒考上！……藝考這條路是走不通了……"
+   [33862]
+    0 TableSoItemLang data
+     0 int id = 99994567
+     1 string schinese = "那你赶快回头复习五大科目！得有个学校上啊！"
+     1 string schinese_censored = "那你赶快回头复习五大科目！得有个学校上啊！"
+     1 string english = "Then you'd better get buried in the five major subjects! Otherwise you'll have nowhere to go!"
+     1 string japanese = "ならさっさと五教科を復習して！せめて大学には受からないとダメよ！"
+     1 string mchinese = "那你趕快回頭復習五大科目！得有個學校上啊！"
+   [33863]
+    0 TableSoItemLang data
+     0 int id = 99994568
+     1 string schinese = "是不是可以查{艺考通过学校中最高的那个}的艺考成绩了？考的怎么样"
+     1 string schinese_censored = "是不是可以查{艺考通过学校中最高的那个}的艺考成绩了？考的怎么样"
+     1 string english = "Did you check the results for {填報的第一個志願}? What were they like?"
+     1 string japanese = "そろそろ{藝考通過学校中最高的那個}の芸術連合試験の結果が出る頃じゃない？どうだったの？"
+     1 string mchinese = "是不是可以查{藝考通過學校中最高的那個}的藝考成績了？考的怎麼樣"
+   [33864]
+    0 TableSoItemLang data
+     0 int id = 99994569
+     1 string schinese = "嘿嘿，你猜～"
+     1 string schinese_censored = "嘿嘿，你猜～"
+     1 string english = "Take a guess!"
+     1 string japanese = "どうだと思う～？"
+     1 string mchinese = "嘿嘿，你猜～"
+   [33865]
+    0 TableSoItemLang data
+     0 int id = 99994570
+     1 string schinese = "我猜你考上了！我儿子那么厉害，肯定考得上！"
+     1 string schinese_censored = "我猜你考上了！我儿子那么厉害，肯定考得上！"
+     1 string english = "I bet you got in, didn't you! I know my son, I know you passed for sure!"
+     1 string japanese = "受かったと思ってるわ！あんたは凄いから、きっと受かってるはずよ！"
+     1 string mchinese = "我猜你考上了！我兒子那麼厲害，肯定考得上！"
+   [33866]
+    0 TableSoItemLang data
+     0 int id = 99994571
+     1 string schinese = "Bingo！我考上{艺考通过学校中最高的那个}了！"
+     1 string schinese_censored = "Bingo！我考上{艺考通过学校中最高的那个}了！"
+     1 string english = "Bingo! I made it. {藝考通過学校中最高的那個} accepted me!"
+     1 string japanese = "正解！{艺考通过学校中最高的那个}に受かったんだ！"
+     1 string mchinese = "Bingo！我考上{藝考通過學校中最高的那個}了！"
+   [33867]
+    0 TableSoItemLang data
+     0 int id = 99994572
+     1 string schinese = "真的吗！太棒了！我要赶快告诉你爷爷奶奶外公外婆大伯小阿姨！请大家吃个饭！"
+     1 string schinese_censored = "真的吗！太棒了！我要赶快告诉你爷爷奶奶外公外婆大伯小阿姨！请大家吃个饭！"
+     1 string english = "Really?! That's wonderful! I'll pass the news on to your grandparents, aunts and uncles, the whole lot! I'll take them all out for a meal!"
+     1 string japanese = "本当！？凄いわ！早くおじいちゃん、おばあちゃん、おじさん、おばさんに知らせないと！合格祝いするわよ！"
+     1 string mchinese = "真的嗎！太棒了！我要趕快告訴你爺爺奶奶外公外婆大伯小阿姨！請大家吃個飯！"
+   [33868]
+    0 TableSoItemLang data
+     0 int id = 99994573
+     1 string schinese = "妈你冷静点，我高考还没考呢，考完了再说……"
+     1 string schinese_censored = "妈你冷静点，我高考还没考呢，考完了再说……"
+     1 string english = "Calm down, now, Mom; I haven't even taken the Gaokao yet. Wait until then..."
+     1 string japanese = "お母さん落ち着いて。まだ大学入試があるから、終わってからにして……"
+     1 string mchinese = "媽你冷靜點，我高考還沒考呢，考完了再說……"
+   [33869]
+    0 TableSoItemLang data
+     0 int id = 99994574
+     1 string schinese = "是不是可以查{填报的第一个志愿}的艺考成绩了？考的怎么样"
+     1 string schinese_censored = "是不是可以查{填报的第一个志愿}的艺考成绩了？考的怎么样"
+     1 string english = "廢棄"
+     1 string japanese = "廢棄"
+     1 string mchinese = "是不是可以查{填報的第一個志願}的藝考成績了？考的怎麼樣"
+   [33870]
+    0 TableSoItemLang data
+     0 int id = 99994575
+     1 string schinese = "没……没考上……"
+     1 string schinese_censored = "没……没考上……"
+     1 string english = "廢棄"
+     1 string japanese = "廢棄"
+     1 string mchinese = "沒……沒考上……"
+   [33871]
+    0 TableSoItemLang data
+     0 int id = 99994576
+     1 string schinese = "那别的学校呢？"
+     1 string schinese_censored = "那别的学校呢？"
+     1 string english = "廢棄"
+     1 string japanese = "廢棄"
+     1 string mchinese = "那別的學校呢？"
+   [33872]
+    0 TableSoItemLang data
+     0 int id = 99994577
+     1 string schinese = "都……差一点。"
+     1 string schinese_censored = "都……差一点。"
+     1 string english = "廢棄"
+     1 string japanese = "廢棄"
+     1 string mchinese = "都……差一點。"
+   [33873]
+    0 TableSoItemLang data
+     0 int id = 99994578
+     1 string schinese = "什么差一点？你考上了啥？改不会啥都没考上吧？"
+     1 string schinese_censored = "什么差一点？你考上了啥？改不会啥都没考上吧？"
+     1 string english = "廢棄"
+     1 string japanese = "廢棄"
+     1 string mchinese = "什麼差一點？你考上了啥？改不會啥都沒考上吧？"
+   [33874]
+    0 TableSoItemLang data
+     0 int id = 99994579
+     1 string schinese = "妈你别问了，我就是啥都没考上！……艺考这条路是走不通了……"
+     1 string schinese_censored = "妈你别问了，我就是啥都没考上！……艺考这条路是走不通了……"
+     1 string english = "廢棄"
+     1 string japanese = "廢棄"
+     1 string mchinese = "媽你別問了，我就是啥都沒考上！……藝考這條路是走不通了……"
+   [33875]
+    0 TableSoItemLang data
+     0 int id = 99994580
+     1 string schinese = "那你赶快回头复习五大科目！得有个学校上啊！"
+     1 string schinese_censored = "那你赶快回头复习五大科目！得有个学校上啊！"
+     1 string english = "廢棄"
+     1 string japanese = "廢棄"
+     1 string mchinese = "那你趕快回頭復習五大科目！得有個學校上啊！"
+   [33876]
+    0 TableSoItemLang data
+     0 int id = 99994581
+     1 string schinese = "是不是可以查{艺考通过学校中最高的那个}的艺考成绩了？考的怎么样"
+     1 string schinese_censored = "是不是可以查{艺考通过学校中最高的那个}的艺考成绩了？考的怎么样"
+     1 string english = "廢棄"
+     1 string japanese = "廢棄"
+     1 string mchinese = "是不是可以查{藝考通過學校中最高的那個}的藝考成績了？考的怎麼樣"
+   [33877]
+    0 TableSoItemLang data
+     0 int id = 99994582
+     1 string schinese = "嘿嘿，你猜～"

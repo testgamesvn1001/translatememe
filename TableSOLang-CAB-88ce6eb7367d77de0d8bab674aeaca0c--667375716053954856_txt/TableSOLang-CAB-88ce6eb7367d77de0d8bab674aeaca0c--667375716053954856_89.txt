@@ -1,0 +1,184 @@
+     1 string schinese_censored = "通过练习:理科综合9级（理）获得\n\n"
+     1 string english = "Get by studying: Integrated Science 9\n\n"
+     1 string japanese = "特技獲得条件：総合理系IX\n\n"
+     1 string mchinese = "通過練習:理科綜合9級（理）獲得\n\n"
+   [2023]
+    0 TableSoItemLang data
+     0 int id = 1012024
+     1 string schinese = "通过练习:理科综合10级（理）获得\n\n"
+     1 string schinese_censored = "通过练习:理科综合10级（理）获得\n\n"
+     1 string english = "Get by studying: Integrated Science 10\n\n"
+     1 string japanese = "特技獲得条件：総合理系X\n\n"
+     1 string mchinese = "通過練習:理科綜合10級（理）獲得\n\n"
+   [2024]
+    0 TableSoItemLang data
+     0 int id = 1012025
+     1 string schinese = "通过练习:体育课获得\n\n体育课的宿命就是被主课霸占！"
+     1 string schinese_censored = "通过练习:体育课获得\n\n体育课的宿命就是被主课霸占！"
+     1 string english = "Get by studying: PE Class\n\nPE class is all about being domineered by the teacher!"
+     1 string japanese = "特技獲得条件：体育\n\n主要科目に振り替えられるのが体育の宿命だ。"
+     1 string mchinese = "通過練習:體育課獲得\n\n體育課的宿命就是被主課霸佔！"
+   [2025]
+    0 TableSoItemLang data
+     0 int id = 1012026
+     1 string schinese = "通过练习:50米跑获得\n\n速度太快就可以追上自己的孤独！"
+     1 string schinese_censored = "通过练习:50米跑获得\n\n速度太快就可以追上自己的孤独！"
+     1 string english = "Get by studying: 50 Meter Dash\n\nIf you run quick enough you can catch your own shadow!"
+     1 string japanese = "特技獲得条件：５０ｍ走\n\nあまりにも速く走るとタイムスリップしちゃうぞ！"
+     1 string mchinese = "通過練習:50米跑獲得\n\n速度太快就可以追上自己的孤獨！"
+   [2026]
+    0 TableSoItemLang data
+     0 int id = 1012027
+     1 string schinese = "通过练习:仰卧起坐获得\n\n几块腹肌其实都看基因的！"
+     1 string schinese_censored = "通过练习:仰卧起坐获得\n\n几块腹肌其实都看基因的！"
+     1 string english = "Get by studying: Sit-ups\n\nIf you get a six-pack or a two-pack depends on your genes!"
+     1 string japanese = "特技獲得条件：上体起こし\n\n腹筋が何個に割れるかは遺伝子で決まっている！"
+     1 string mchinese = "通過練習:仰臥起坐獲得\n\n幾塊腹肌其實都看基因的！"
+   [2027]
+    0 TableSoItemLang data
+     0 int id = 1012028
+     1 string schinese = "通过练习:投篮获得\n\n每次投球都是一种仪式"
+     1 string schinese_censored = "通过练习:投篮获得\n\n每次投球都是一种仪式"
+     1 string english = "Get by studying: Basketball Shooting\n\nEach throw is a ritual in and out of itself."
+     1 string japanese = "特技獲得条件：シュート\n\nシュートは一種の儀式である。"
+     1 string mchinese = "通過練習:投籃獲得\n\n每次投球都是一種儀式"
+   [2028]
+    0 TableSoItemLang data
+     0 int id = 1012029
+     1 string schinese = "通过练习:体能训练获得\n\n耐力的终极奥义就在于此"
+     1 string schinese_censored = "通过练习:体能训练获得\n\n耐力的终极奥义就在于此"
+     1 string english = "Get by studying: Physical Exercise\n\nThis is where you find the secret of stamina."
+     1 string japanese = "特技獲得条件：体力トレーニング\n\n忍耐の究極奥義はここにある。"
+     1 string mchinese = "通過練習:體能訓練獲得\n\n耐力的終極奧義就在於此"
+   [2029]
+    0 TableSoItemLang data
+     0 int id = 1012030
+     1 string schinese = "通过练习:校队训练获得\n\n其实学校里集训，还是为了泡姑娘"
+     1 string schinese_censored = "通过练习:校队训练获得\n\n其实学校里集训，还是为了泡姑娘"
+     1 string english = "Get by studying: School Team Training\n\nActually, training in school is just practice for picking up a sweetheart."
+     1 string japanese = "特技獲得条件：クラブ練習\n\nクラブ練習なんてモテるために決まってるだろ！"
+     1 string mchinese = "通過練習:校隊訓練獲得\n\n其實學校裏集訓，還是為了泡姑娘"
+   [2030]
+    0 TableSoItemLang data
+     0 int id = 1012031
+     1 string schinese = "通过练习:中学篮球集训获得\n\n制霸全国！"
+     1 string schinese_censored = "通过练习:中学篮球集训获得\n\n制霸全国！"
+     1 string english = "Get by studying: Basketball Training\n\nLet's crush the whole world!"
+     1 string japanese = "特技獲得条件：学生バスケ合宿\n\n全国制覇！"
+     1 string mchinese = "通過練習:中學籃球集訓獲得\n\n制霸全國！"
+   [2031]
+    0 TableSoItemLang data
+     0 int id = 1012032
+     1 string schinese = "通过练习:美式特训获得\n\n留学归来，履历又更好看了一点呢~"
+     1 string schinese_censored = "通过练习:美式特训获得\n\n去了美国，见识又更丰富了一点呢"
+     1 string english = "Get by studying: American-Style Training\n\nIt looks really good on the CV having gone to America and all."
+     1 string japanese = "特技獲得条件：北米式特訓\n\nアメリカで特訓したので、履歴書に箔が付いた。"
+     1 string mchinese = "通過練習:美式特訓獲得\n\n去了美國，履歷又更好看了一點呢"
+   [2032]
+    0 TableSoItemLang data
+     0 int id = 1012033
+     1 string schinese = "通过练习:职业篮球获得\n\n发现对方球员抢戏的话，就…"
+     1 string schinese_censored = "通过练习:职业篮球获得\n\n发现对方球员抢戏的话，就…"
+     1 string english = "Get by studying: Professional Basketball\n\nIf your opponent is acting rashly...then treat them thusly!"
+     1 string japanese = "特技獲得条件：プロバスケット\n\n相手にスティールされたら…"
+     1 string mchinese = "通過練習:職業籃球獲得\n\n發現對方球員搶戲的話，就…"
+   [2033]
+    0 TableSoItemLang data
+     0 int id = 1012034
+     1 string schinese = "通过练习:国青队集训获得\n\n第一年十分艰难，你需要一个老大哥！"
+     1 string schinese_censored = "通过练习:国青队集训获得\n\n第一年十分艰难，你需要一个老大哥！"
+     1 string english = "Get by studying: National Youth Team Training\n\nThe first year will be really hard, and you need someone to watch your back!"
+     1 string japanese = "特技獲得条件：国家青年代表合宿\n\n一年目はとっても辛い！優秀な先輩が必要だ！"
+     1 string mchinese = "通過練習:國青隊集訓獲得\n\n第一年十分艱難，你需要一個老大哥！"
+   [2034]
+    0 TableSoItemLang data
+     0 int id = 1012035
+     1 string schinese = "通过练习:美术课获得\n\n十分热爱美术课的孩子！"
+     1 string schinese_censored = "通过练习:美术课获得\n\n十分热爱美术课的孩子！"
+     1 string english = "Get by studying: Painting Class\n\nA child that really loves painting class!"
+     1 string japanese = "特技獲得条件：美術\n\n美術の授業が大好き！"
+     1 string mchinese = "通過練習:美術課獲得\n\n十分熱愛美術課的孩子！"
+   [2035]
+    0 TableSoItemLang data
+     0 int id = 1012036
+     1 string schinese = "通过练习:涂鸦获得\n\n黑夜里展翅飞翔的恐怖！涂鸦07！"
+     1 string schinese_censored = "通过练习:涂鸦获得\n\n黑夜里展翅飞翔的恐怖！涂鸦07！"
+     1 string english = "Get by studying: Doodling\n\nTerror spreads its terrifying wings at night, doodle 07!"
+     1 string japanese = "特技獲得条件：グラフィティ\n\n匿名希望で作品を残せ！"
+     1 string mchinese = "通過練習:塗鴉獲得\n\n黑夜裏展翅飛翔的恐怖！塗鴉07！"
+   [2036]
+    0 TableSoItemLang data
+     0 int id = 1012037
+     1 string schinese = "通过练习:艺术赏析获得\n\n对着那些作品，无限评论！"
+     1 string schinese_censored = "通过练习:艺术赏析获得\n\n对着那些作品，无限评论！"
+     1 string english = "Get by studying: Art Appreciation\n\nAs for those works, they're marvelous, magnificent, perfect!"
+     1 string japanese = "特技獲得条件：芸術鑑賞\n\n作品に対して、無限に評論を続ける！"
+     1 string mchinese = "通過練習:藝術賞析獲得\n\n對著那些作品，無限評論！"
+   [2037]
+    0 TableSoItemLang data
+     0 int id = 1012038
+     1 string schinese = "通过练习:素描获得\n\n你的素描水平接近照相机！"
+     1 string schinese_censored = "通过练习:素描获得\n\n你的素描水平接近照相机！"
+     1 string english = "Get by studying: Sketching\n\nMy child's sketching skills are close to that of a camera!"
+     1 string japanese = "特技獲得条件：デッサン\n\nデッサンを写真と見間違える！"
+     1 string mchinese = "通過練習:素描獲得\n\n你的素描水準接近照相機！"
+   [2038]
+    0 TableSoItemLang data
+     0 int id = 1012039
+     1 string schinese = "通过练习:色彩获得\n\n太阳的光彩！"
+     1 string schinese_censored = "通过练习:色彩获得\n\n太阳的光彩！"
+     1 string english = "Get by studying: Coloring\n\nRainbows! Rainbows! The colors of the sun!"
+     1 string japanese = "特技獲得条件：色彩\n\n七色光！七色光！太陽の光！"
+     1 string mchinese = "通過練習:色彩獲得\n\n太陽的光彩！"
+   [2039]
+    0 TableSoItemLang data
+     0 int id = 1012040
+     1 string schinese = "通过练习:美术联考培训获得\n\n考试必须考，考不上是不存在的"
+     1 string schinese_censored = "通过练习:美术联考培训获得\n\n考试必须考，考不上是不存在的"
+     1 string english = "Get by studying: Gaokao Fine Arts Training\n\nPart of Gaokao and failing it is not an option."
+     1 string japanese = "特技獲得条件：芸術入試合宿\n\n試験は必須。受からないことは決してない。"
+     1 string mchinese = "通過練習:美術聯考培訓獲得\n\n考試必須考，考不上是不存在的"
+   [2040]
+    0 TableSoItemLang data
+     0 int id = 1012041
+     1 string schinese = "通过练习:雕塑获得\n\n雕塑的样子像思想者"
+     1 string schinese_censored = "通过练习:雕塑获得\n\n雕塑的样子像思想者"
+     1 string english = "Get by studying: Sculpting\n\nThe sculpture looks like a thinker."
+     1 string japanese = "特技獲得条件：彫刻\n\n彫刻中はまさしく考える人。"
+     1 string mchinese = "通過練習:雕塑獲得\n\n雕塑的樣子像思想者"
+   [2041]
+    0 TableSoItemLang data
+     0 int id = 1012042
+     1 string schinese = "通过练习:油画获得\n\n成为一个为了热爱而放弃一切的人"
+     1 string schinese_censored = "通过练习:油画获得\n\n成为一个为了热爱而放弃一切的人"
+     1 string english = "Get by studying: Oil Painting\n\nBecome a person who love and abandon everything."
+     1 string japanese = "特技獲得条件：油絵\n\n趣味のために、すべてを諦められる。"
+     1 string mchinese = "通過練習:油畫獲得\n\n成為一個為了熱愛而放棄一切的人"
+   [2042]
+    0 TableSoItemLang data
+     0 int id = 1012043
+     1 string schinese = "通过练习:谜的现代艺术获得\n\n这是艺术！现代艺术！"
+     1 string schinese_censored = "通过练习:谜的现代艺术获得\n\n这是艺术！现代艺术！"
+     1 string english = "Get by studying: "Modern" Art\n\nThis is art! Modern art!"
+     1 string japanese = "特技獲得条件：謎の現代芸術\n\nこれは芸術です！現代芸術ですよ！"
+     1 string mchinese = "通過練習:謎的現代藝術獲得\n\n這是藝術！現代藝術！"
+   [2043]
+    0 TableSoItemLang data
+     0 int id = 1012044
+     1 string schinese = "通过练习:行为艺术获得\n\n行为艺术在中国！"
+     1 string schinese_censored = "通过练习:行为艺术获得\n\n行为艺术在中国！"
+     1 string english = "Get by studying: Performance Art\n\nPerformance art in China!"
+     1 string japanese = "特技獲得条件：パフォーマンス\n\n中国には、パフォーマンスアートがある！"
+     1 string mchinese = "通過練習:行為藝術獲得\n\n行為藝術在中國！"
+   [2044]
+    0 TableSoItemLang data
+     0 int id = 1012045
+     1 string schinese = "通过练习:学钢琴获得\n\n钢琴速度太快，就像龙卷风"
+     1 string schinese_censored = "通过练习:学钢琴获得\n\n钢琴速度太快，就像龙卷风"
+     1 string english = "Get by studying: Learn the Piano\n\nPlaying the piano at the speed of a hurricane."
+     1 string japanese = "特技獲得条件：ピアノ\n\nピアノを速く弾きすぎて、まるで竜巻だ。"
+     1 string mchinese = "通過練習:學鋼琴獲得\n\n鋼琴速度太快，就像龍捲風"
+   [2045]
+    0 TableSoItemLang data
+     0 int id = 1012046
+     1 string schinese = "通过练习:跆拳道入门获得\n\n铃兰兰高中男社团部！"

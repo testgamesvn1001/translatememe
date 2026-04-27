@@ -1,0 +1,184 @@
+     1 string schinese_censored = "比较好奇，为什么大厂不去做这样有趣的游戏呢？"
+     1 string english = "I'm curious. Why don't the big companies create these types of interesting games?"
+     1 string japanese = "しかし、不思議だなぁ。どうして大手はこんなゲームを作らないんだろ？"
+     1 string mchinese = "比較好奇，為什麼大廠不去做這樣有趣的遊戲呢？"
+   [8762]
+    0 TableSoItemLang data
+     0 int id = 1018763
+     1 string schinese = "大厂都在做年货，这样才可以最稳妥！"
+     1 string schinese_censored = "大厂投入大，要讲究稳定的回报，而主流的商业游戏最稳妥！"
+     1 string english = "They're too busy making games that make money!"
+     1 string japanese = "彼らはお金のために作ってるからね。"
+     1 string mchinese = "大廠都在做年貨，這樣才可以最穩妥！"
+   [8763]
+    0 TableSoItemLang data
+     0 int id = 1018764
+     1 string schinese = "这样看来，做独立游戏的才是很有勇气呢！"
+     1 string schinese_censored = "这样看来，做独立游戏的才是很有勇气呢！"
+     1 string english = "Gaming companies are evil! It takes courage to create an indie game!"
+     1 string japanese = "そうか、大手はダメだな！インディーゲーム会社は勇気を持ってるんだね！"
+     1 string mchinese = "這樣看來，做獨立遊戲的才是很有勇氣呢！"
+   [8764]
+    0 TableSoItemLang data
+     0 int id = 1018765
+     1 string schinese = "嗯，尤其是国产游戏，还是多多支持吧！"
+     1 string schinese_censored = "嗯，尤其是国产游戏，还是多多支持吧！"
+     1 string english = "Yes, especially if it's created by a local game company."
+     1 string japanese = "ああ、特に国産はいいぞ。もっと応援していこう！"
+     1 string mchinese = "嗯，尤其是國產遊戲，還是多多支持吧！"
+   [8765]
+    0 TableSoItemLang data
+     0 int id = 1018766
+     1 string schinese = "最近研究了一个有趣的算法，可以根据玩家爱玩的游戏，算出他们的消费冲动～"
+     1 string schinese_censored = "最近研究了一个有趣的算法，可以根据玩家爱玩的游戏，算出他们的消费冲动～"
+     1 string english = "I've been researching an interesting algorithm that is able to determine a player's capacity to spend money based on the type of games they play."
+     1 string japanese = "最近、面白いアルゴリズムを開発したぞ。ユーザのプレイしたゲームから、課金額予想を弾き出せるんだ。"
+     1 string mchinese = "最近研究了一個有趣的演算法，可以根據玩家愛玩的遊戲，算出他們的消費衝動～"
+   [8766]
+    0 TableSoItemLang data
+     0 int id = 1018767
+     1 string schinese = "这样一来，似乎可以帮助某些大厂进行广告优化呢！"
+     1 string schinese_censored = "这样一来，似乎可以帮助某些大厂进行广告优化呢！"
+     1 string english = "I can help big companies optimize their advertisement!"
+     1 string japanese = "それはすごい！広告業界が集まってくるぞ！"
+     1 string mchinese = "這樣一來，似乎可以幫助某些大廠進行廣告優化呢！"
+   [8767]
+    0 TableSoItemLang data
+     0 int id = 1018768
+     1 string schinese = "这样……岂不是会让那些有消费冲动的人，不理智消费吗？"
+     1 string schinese_censored = "这样……岂不是会让那些有消费冲动的人，不理智消费吗？"
+     1 string english = "Doesn't that mean you're forcing the players to spend more money?"
+     1 string japanese = "広告会社に渡してしまったら、消費欲を吊り上げるだけにならないか？"
+     1 string mchinese = "這樣……豈不是會讓那些有消費衝動的人，不理智消費嗎？"
+   [8768]
+    0 TableSoItemLang data
+     0 int id = 1018769
+     1 string schinese = "管他呢，你这是有一个大金矿，会赚大钱的！"
+     1 string schinese_censored = "管他呢，你这是有一个大金矿，会赚大钱的！"
+     1 string english = "Who cares? This is a gold mine waiting to be mined!"
+     1 string japanese = "そんなこと知るか！わからないのか？これは金脈だぞ！"
+     1 string mchinese = "管他呢，你這是有一個大金礦，會賺大錢的！"
+   [8769]
+    0 TableSoItemLang data
+     0 int id = 1018770
+     1 string schinese = "不行，技术应该让人变得更好，而不是让大家中圈套！不作恶！"
+     1 string schinese_censored = "不行，技术应该让人变得更好，而不是让大家中圈套！不作恶！"
+     1 string english = "No, that's wrong! Technology should make people's lives better, not worse! It's not for wrongdoing!"
+     1 string japanese = "ダメだ！技術は人を良くするためのものであって、その逆じゃない！"
+     1 string mchinese = "不行，技術應該讓人變得更好，而不是讓大家中圈套！不作惡！"
+   [8770]
+    0 TableSoItemLang data
+     0 int id = 1018771
+     1 string schinese = "嗯……虽说不作恶，可是我很怀疑这个世界，不充钱，真的能变得更强吗？"
+     1 string schinese_censored = "嗯……你说的有道理，技术应该是要让人更好的，而不是让人迷失的。"
+     1 string english = "Yes, but even with no wrongdoing, I'm doubtful that you can become stronger without spending money."
+     1 string japanese = "よく考えてみろよ。お金を使えば強くなれるんだ。それこそがユーザの求めてることじゃないか？"
+     1 string mchinese = "嗯……雖說不作惡，可是我很懷疑這個世界，不充錢，真的能變得更強嗎？"
+   [8771]
+    0 TableSoItemLang data
+     0 int id = 1018772
+     1 string schinese = "游戏策划案好麻烦啊，你就直接说，抄什么吧！"
+     1 string schinese_censored = "游戏策划案好麻烦啊，你就直接说，抄什么吧！"
+     1 string english = "Writing game design documents are a hassle. Just tell me which game you want to copy!"
+     1 string japanese = "ゲームデザインは面倒だなぁ。簡単に行こうぜ。どれをパクる？"
+     1 string mchinese = "遊戲策劃案好麻煩啊，你就直接說，抄什麼吧！"
+   [8772]
+    0 TableSoItemLang data
+     0 int id = 1018773
+     1 string schinese = "我们是有情怀的游戏设计者！"
+     1 string schinese_censored = "我们是有情怀的游戏设计者！"
+     1 string english = "We are passionate game designers!"
+     1 string japanese = "ダメだ！俺たちは理性あるゲーム開発者だ！"
+     1 string mchinese = "我們是有情懷的遊戲設計者！"
+   [8773]
+    0 TableSoItemLang data
+     0 int id = 1018774
+     1 string schinese = "不过，现在似乎遇到了设计问题，做出来的东西不好玩啊！"
+     1 string schinese_censored = "不过，现在似乎遇到了设计问题，做出来的东西不好玩啊！"
+     1 string english = "But we have encountered a design problem! The game isn't fun!"
+     1 string japanese = "ハハハ、冗談に決まってるだろ。でもデザインの問題が解決しないと面白くできないな。"
+     1 string mchinese = "不過，現在似乎遇到了設計問題，做出來的東西不好玩啊！"
+   [8774]
+    0 TableSoItemLang data
+     0 int id = 1018775
+     1 string schinese = "你们在做什么游戏？"
+     1 string schinese_censored = "你们在做什么游戏？"
+     1 string english = "What type of game are you guys making?"
+     1 string japanese = "どんなゲームを作ってるんだ？"
+     1 string mchinese = "你們在做什麼遊戲？"
+   [8775]
+    0 TableSoItemLang data
+     0 int id = 1018776
+     1 string schinese = "你是？"
+     1 string schinese_censored = "你是？"
+     1 string english = "Who are you?"
+     1 string japanese = "お前は誰だ？"
+     1 string mchinese = "你是？"
+   [8776]
+    0 TableSoItemLang data
+     0 int id = 1018777
+     1 string schinese = "你所在的世界，是一款游戏！我是这个游戏的开发者！"
+     1 string schinese_censored = "你所在的世界，是一款游戏！我是这个游戏的开发者！"
+     1 string english = "You are in a game! I am the developer of this game!"
+     1 string japanese = "私はこの世界、このゲームの開発者だ！"
+     1 string mchinese = "你所在的世界，是一款遊戲！我是這個遊戲的開發者！"
+   [8777]
+    0 TableSoItemLang data
+     0 int id = 1018778
+     1 string schinese = "你在搞笑吗？话说你真的是做游戏的吗？你能解决这个问题吗？"
+     1 string schinese_censored = "你在搞笑吗？话说你真的是做游戏的吗？你能解决这个问题吗？"
+     1 string english = "Are you joking? Did you really make this game? Can you solve this problem?"
+     1 string japanese = "頭おかしいのか？本当にこの世界がゲームで、お前が作ったって？じゃあ、この問題を解決できるか？"
+     1 string mchinese = "你在搞笑嗎？話說你真的是做遊戲的嗎？你能解決這個問題嗎？"
+   [8778]
+    0 TableSoItemLang data
+     0 int id = 1018779
+     1 string schinese = "我看看……"
+     1 string schinese_censored = "我看看……"
+     1 string english = "Let me see..."
+     1 string japanese = "どれどれ…"
+     1 string mchinese = "我看看……"
+   [8779]
+    0 TableSoItemLang data
+     0 int id = 1018780
+     1 string schinese = "嗯……这样的话……不如……"
+     1 string schinese_censored = "嗯……这样的话……不如……"
+     1 string english = "Oh.... if it's like this... let's just..."
+     1 string japanese = "ふむ…こうなるなら…こうして… こう！"
+     1 string mchinese = "嗯……這樣的話……不如……"
+   [8780]
+    0 TableSoItemLang data
+     0 int id = 1018781
+     1 string schinese = "我的天，你居然解决了！这么简单的方法，我怎么没想到呢？"
+     1 string schinese_censored = "我的天，你居然解决了！这么简单的方法，我怎么没想到呢？"
+     1 string english = "You actually solved it! It's such a simple solution so why didn't I think of it?"
+     1 string japanese = "マジか！解決したぞ！こんな簡単なことだったのか…"
+     1 string mchinese = "我的天，你居然解決了！這麼簡單的方法，我怎麼沒想到呢？"
+   [8781]
+    0 TableSoItemLang data
+     0 int id = 1018782
+     1 string schinese = "这些都是主流手游就有的系统，为什么不去借鉴一下呢！"
+     1 string schinese_censored = "这些都是主流手游就有的系统，为什么不去借鉴一下呢！"
+     1 string english = "This is a common system among the top games. We should use them as a reference."
+     1 string japanese = "これはスマホゲームで主流のシステムだぞ。どうして参考にしてないんだ！"
+     1 string mchinese = "這些都是主流手遊就有的系統，為什麼不去借鑒一下呢！"
+   [8782]
+    0 TableSoItemLang data
+     0 int id = 1018783
+     1 string schinese = "我们可是在做独立游戏！要学商业游戏，那就失去做独立游戏的意义了！"
+     1 string schinese_censored = "我们可是在做独立游戏！要学商业游戏，那就失去做独立游戏的意义了！"
+     1 string english = "We are making an indie game! If we copy some commercialized game, then making an indie game is pointless!"
+     1 string japanese = "インディーゲームだからだ。ゴミのような大手のゲームを参考にしたら、それはもはやインディーじゃないだろ！"
+     1 string mchinese = "我們可是在做獨立遊戲！要學商業遊戲，那就失去做獨立遊戲的意義了！"
+   [8783]
+    0 TableSoItemLang data
+     0 int id = 1018784
+     1 string schinese = "独立游戏不是低成本烂作的挡箭牌……扪心自问，你们能做好商业游戏吗？"
+     1 string schinese_censored = "别这么说，商业游戏也有很多成熟可以借鉴的地方啊。"
+     1 string english = "Indie games aren't just low-cost crappy games. Think about it, can you guys even make a commercialized game?"
+     1 string japanese = "インディーゲームはただ予算がなくてしょぼいゲームだというわけじゃないぞ。逆にお前たちは大手のようなゲームを作れるとでも？"
+     1 string mchinese = "獨立遊戲不是低成本爛作的擋箭牌……捫心自問，你們能做好商業遊戲嗎？"
+   [8784]
+    0 TableSoItemLang data
+     0 int id = 1018785
+     1 string schinese = "额……我降低点要求……你们做过成功上线的游戏了吗？还是永远只存在于脑海里？"

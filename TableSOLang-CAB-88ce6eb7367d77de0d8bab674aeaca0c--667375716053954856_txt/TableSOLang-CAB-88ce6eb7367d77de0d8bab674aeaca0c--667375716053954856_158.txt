@@ -1,0 +1,184 @@
+     1 string schinese_censored = "三步上篮"
+     1 string english = "Jump Shot"
+     1 string japanese = "レイアップ"
+     1 string mchinese = "三步上籃"
+   [3610]
+    0 TableSoItemLang data
+     0 int id = 1013611
+     1 string schinese = "体能训练"
+     1 string schinese_censored = "体能训练"
+     1 string english = "Physical Exercise"
+     1 string japanese = "体力トレーニング"
+     1 string mchinese = "體能訓練"
+   [3611]
+    0 TableSoItemLang data
+     0 int id = 1013612
+     1 string schinese = "校队训练"
+     1 string schinese_censored = "校队训练"
+     1 string english = "School Team Training"
+     1 string japanese = "クラブ練習"
+     1 string mchinese = "校隊訓練"
+   [3612]
+    0 TableSoItemLang data
+     0 int id = 1013613
+     1 string schinese = "中学女篮集训"
+     1 string schinese_censored = "中学女篮集训"
+     1 string english = "High-School Women's Basketball"
+     1 string japanese = "女子バスケ合宿"
+     1 string mchinese = "中學女籃集訓"
+   [3613]
+    0 TableSoItemLang data
+     0 int id = 1013614
+     1 string schinese = "美式女篮特训"
+     1 string schinese_censored = "美式女篮特训"
+     1 string english = "American-Style Basketball"
+     1 string japanese = "北米式バスケ特訓"
+     1 string mchinese = "美式女籃特訓"
+   [3614]
+    0 TableSoItemLang data
+     0 int id = 1013615
+     1 string schinese = "职业篮球"
+     1 string schinese_censored = "职业篮球"
+     1 string english = "Professional Basketball"
+     1 string japanese = "プロバスケット"
+     1 string mchinese = "職業籃球"
+   [3615]
+    0 TableSoItemLang data
+     0 int id = 1013616
+     1 string schinese = "国青队集训"
+     1 string schinese_censored = "国青队集训"
+     1 string english = "National Youth Team Training"
+     1 string japanese = "国家青年代表合宿"
+     1 string mchinese = "國青隊集訓"
+   [3616]
+    0 TableSoItemLang data
+     0 int id = 1013617
+     1 string schinese = "表演潜能开发"
+     1 string schinese_censored = "表演潜能开发"
+     1 string english = "Performance Potential"
+     1 string japanese = "演技潜在能力開発"
+     1 string mchinese = "表演潛能開發"
+   [3617]
+    0 TableSoItemLang data
+     0 int id = 1013618
+     1 string schinese = "表演基础理论"
+     1 string schinese_censored = "表演基础理论"
+     1 string english = "Performance Theory 101"
+     1 string japanese = "演技理論入門"
+     1 string mchinese = "表演基礎理論"
+   [3618]
+    0 TableSoItemLang data
+     0 int id = 1013619
+     1 string schinese = "街头模仿"
+     1 string schinese_censored = "街头模仿"
+     1 string english = "Street Imitation"
+     1 string japanese = "大道芸"
+     1 string mchinese = "街頭模仿"
+   [3619]
+    0 TableSoItemLang data
+     0 int id = 1013620
+     1 string schinese = "即兴表演"
+     1 string schinese_censored = "即兴表演"
+     1 string english = "Ad-lib Performance"
+     1 string japanese = "アドリブ"
+     1 string mchinese = "即興表演"
+   [3620]
+    0 TableSoItemLang data
+     0 int id = 1013621
+     1 string schinese = "话剧演出指南"
+     1 string schinese_censored = "话剧演出指南"
+     1 string english = "Guide to Drama Performance"
+     1 string japanese = "話劇について"
+     1 string mchinese = "話劇演出指南"
+   [3621]
+    0 TableSoItemLang data
+     0 int id = 1013622
+     1 string schinese = "影视表演进阶"
+     1 string schinese_censored = "影视表演进阶"
+     1 string english = "Movie & TV Performance"
+     1 string japanese = "ハイレベル演技"
+     1 string mchinese = "影視表演進階"
+   [3622]
+    0 TableSoItemLang data
+     0 int id = 1013623
+     1 string schinese = "电影导演"
+     1 string schinese_censored = "电影导演"
+     1 string english = "Film Director"
+     1 string japanese = "映画監督"
+     1 string mchinese = "電影導演"
+   [3623]
+    0 TableSoItemLang data
+     0 int id = 1013624
+     1 string schinese = "父亲笑抽了，拿手机录下了视频发到朋友圈"
+     1 string schinese_censored = "父亲笑抽了，拿手机录下了视频发到朋友圈"
+     1 string english = "Your dad rolls on the ground laughing, then takes up his phone, records a video and shares it with his friends."
+     1 string japanese = "お父さんは笑い崩れ、スマホで撮った動画をＳＮＳで公開した"
+     1 string mchinese = "父親笑抽了，拿手機錄下了視頻發到朋友圈"
+   [3624]
+    0 TableSoItemLang data
+     0 int id = 1013625
+     1 string schinese = "感觉到世界的友善"
+     1 string schinese_censored = "感觉到世界的友善"
+     1 string english = "You sense kindness in the world."
+     1 string japanese = "世界の優しさを感じた"
+     1 string mchinese = "感覺到世界的友善"
+   [3625]
+    0 TableSoItemLang data
+     0 int id = 1013626
+     1 string schinese = "镜子中的自己并没有理会你，你十分无奈"
+     1 string schinese_censored = "镜子中的自己并没有理会你，你十分无奈"
+     1 string english = "Your mirror image doesn't respond and you feel helpless."
+     1 string japanese = "鏡の中の自分に無視され、とてもやるせなく感じた"
+     1 string mchinese = "鏡子中的自己並沒有理會你，你十分無奈"
+   [3626]
+    0 TableSoItemLang data
+     0 int id = 1013627
+     1 string schinese = "父母开始哄你，直到你停止抽泣"
+     1 string schinese_censored = "父母开始哄你，直到你停止抽泣"
+     1 string english = "Your dad comforts you until you stop crying."
+     1 string japanese = "泣き止むまで両親があやしてくれた"
+     1 string mchinese = "父母開始哄你，直到你停止抽泣"
+   [3627]
+    0 TableSoItemLang data
+     0 int id = 1013628
+     1 string schinese = "爸爸嫌弃你，胆子太小"
+     1 string schinese_censored = "爸爸嫌弃你，胆子太小"
+     1 string english = "Dad scolds you for being a coward."
+     1 string japanese = "「臆病者だ」とお父さんに言われた"
+     1 string mchinese = "爸爸嫌棄你，膽子太小"
+   [3628]
+    0 TableSoItemLang data
+     0 int id = 1013629
+     1 string schinese = "妈妈抱着你，拍打你的背部，让你有安全感"
+     1 string schinese_censored = "妈妈抱着你，拍打你的背部，让你有安全感"
+     1 string english = "Mom hugs you and comforts you by patting you on the back."
+     1 string japanese = "お母さんが抱きしめながら背中をさすってくれたので、とても安心した"
+     1 string mchinese = "媽媽抱著你，拍打你的背部，讓你有安全感"
+   [3629]
+    0 TableSoItemLang data
+     0 int id = 1013630
+     1 string schinese = "对方离开的时候忘记把玩具还给你，你很伤心，妈妈看到后替你要了回来。"
+     1 string schinese_censored = "对方离开的时候把你的玩具偷走了，你很伤心"
+     1 string english = "You are sad because the other kid took your toy with them."
+     1 string japanese = "オモチャを持って帰られて、とても悲しくなった"
+     1 string mchinese = "對方離開的時候忘記把玩具還給你，你很傷心，媽媽看到後替你要了回來。"
+   [3630]
+    0 TableSoItemLang data
+     0 int id = 1013631
+     1 string schinese = "父母觉得你很不礼貌，训斥了你"
+     1 string schinese_censored = "父母觉得你很不礼貌，训斥了你"
+     1 string english = "Your parents scold you for being impolite."
+     1 string japanese = "両親に失礼だと叱られた"
+     1 string mchinese = "父母覺得你很不禮貌，訓斥了你"
+   [3631]
+    0 TableSoItemLang data
+     0 int id = 1013632
+     1 string schinese = "父母觉得你太内向，十分担忧"
+     1 string schinese_censored = "父母觉得你太内向，十分担忧"
+     1 string english = "Your parents are worried because they think you are too introverted."
+     1 string japanese = "両親に内向的だと心配された"
+     1 string mchinese = "父母覺得你太內向，十分擔憂"
+   [3632]
+    0 TableSoItemLang data
+     0 int id = 1013633
+     1 string schinese = "还没吃完，爸妈就到家了，并给你带了最爱吃的菜"

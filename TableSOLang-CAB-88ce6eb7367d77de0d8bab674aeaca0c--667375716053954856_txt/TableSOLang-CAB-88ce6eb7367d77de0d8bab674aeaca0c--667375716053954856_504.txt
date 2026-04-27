@@ -1,0 +1,184 @@
+     1 string schinese_censored = "不要让对手把你拉到同一水平线，并让他用丰富的经验来打败你！来，你说说怎么应对……"
+     1 string english = "Don't let the opponent bring you to their level and then beat you with their experience. How would you deal with that?"
+     1 string japanese = "相手がお前を得意領域に引きずり込んで、豊富な経験でお前を圧倒するのを防ぐためにはどうするか…？"
+     1 string mchinese = "不要讓對手把你拉到同一水平線，並讓他用豐富的經驗來打敗你！來，你說說怎麼應對……"
+   [11568]
+    0 TableSoItemLang data
+     0 int id = 1021569
+     1 string schinese = "好的……洛老师！我准备……"
+     1 string schinese_censored = "好的……卢老师！我准备……"
+     1 string english = "Yes! I would prepare by..."
+     1 string japanese = "はい…ノ先生！まず準備として…"
+     1 string mchinese = "好的……洛老師！我準備……"
+   [11569]
+    0 TableSoItemLang data
+     0 int id = 1021570
+     1 string schinese = "不要准备，我跟你说，真正的作战没法准备的！"
+     1 string schinese_censored = "不要准备，我跟你说，真正的作战没法准备的！"
+     1 string english = "No! Don't prepare. You don't have time to prepare in battle!"
+     1 string japanese = "準備なんてダメだ。本番では準備する時間なんてない！"
+     1 string mchinese = "不要準備，我跟你說，真正的作戰沒法準備的！"
+   [11570]
+    0 TableSoItemLang data
+     0 int id = 1021571
+     1 string schinese = "你先听我讲完，可以吧……"
+     1 string schinese_censored = "你先听我讲完，可以吧……"
+     1 string english = "Let me finish..."
+     1 string japanese = "最後まで聞いてもらっていいですか？"
+     1 string mchinese = "你先聽我講完，可以吧……"
+   [11571]
+    0 TableSoItemLang data
+     0 int id = 1021572
+     1 string schinese = "好的啊，你说~"
+     1 string schinese_censored = "好的啊，你说~"
+     1 string english = "Okay, keep going."
+     1 string japanese = "わかった。続けて。"
+     1 string mchinese = "好的啊，你說~"
+   [11572]
+    0 TableSoItemLang data
+     0 int id = 1021573
+     1 string schinese = "我准备刚开始的时候，开始先慢慢熟悉对方……"
+     1 string schinese_censored = "我准备刚开始的时候，开始先慢慢熟悉对方……"
+     1 string english = "I'll start by familiarizing myself with the opponent."
+     1 string japanese = "まずは相手を知って…"
+     1 string mchinese = "我準備剛開始的時候，開始先慢慢熟悉對方……"
+   [11573]
+    0 TableSoItemLang data
+     0 int id = 1021574
+     1 string schinese = "不要熟悉对方，对方直接一句话就结束战斗了……我跟你讲……"
+     1 string schinese_censored = "不要熟悉对方，对方直接一句话就结束战斗了……我跟你讲……"
+     1 string english = "Don't do that. Once you do that, you've already lost. I'm telling you..."
+     1 string japanese = "相手を知ろうとするな、それをしようとした時点で負けだぞ。つまりな…"
+     1 string mchinese = "不要熟悉對方，對方直接一句話就結束戰鬥了……我跟你講……"
+   [11574]
+    0 TableSoItemLang data
+     0 int id = 1021575
+     1 string schinese = "OK……您能让我讲完吗……"
+     1 string schinese_censored = "好的……您能让我讲完吗……"
+     1 string english = "OK, can you let me finish?"
+     1 string japanese = "だから、最後まで聞いてくださいよ…"
+     1 string mchinese = "OK……您能讓我講完嗎……"
+   [11575]
+    0 TableSoItemLang data
+     0 int id = 1021576
+     1 string schinese = "可以啊！继续！"
+     1 string schinese_censored = "可以啊！继续！"
+     1 string english = "Okay okay, continue!"
+     1 string japanese = "わかったわかった！で？"
+     1 string mchinese = "可以啊！繼續！"
+   [11576]
+    0 TableSoItemLang data
+     0 int id = 1021577
+     1 string schinese = "熟悉了对方的套路之后，我准备独立、客观、第三方的找出对方弱点……"
+     1 string schinese_censored = "熟悉了对方的套路之后，我准备独立、客观、第三方的找出对方弱点……"
+     1 string english = "I will analyze my opponent and figure out their weakness."
+     1 string japanese = "相手のパターンを観察し、客観的に弱点を探し出して…"
+     1 string mchinese = "熟悉了對方的套路之後，我準備獨立、客觀、第三方的找出對方弱點……"
+   [11577]
+    0 TableSoItemLang data
+     0 int id = 1021578
+     1 string schinese = "弱点是什么啊！你肯定不行，我来给你讲吧……"
+     1 string schinese_censored = "弱点是什么啊！你肯定不行，我来给你讲吧……"
+     1 string english = "Their weakness? You can't do that. Let me just tell you."
+     1 string japanese = "弱点？かぁー、話にならん。もういい、教えてやる…"
+     1 string mchinese = "弱點是什麼啊！你肯定不行，我來給你講吧……"
+   [11578]
+    0 TableSoItemLang data
+     0 int id = 1021579
+     1 string schinese = "您能让我说完嘛，洛老师……哎，好吧"
+     1 string schinese_censored = "您能让我说完嘛，卢老师……哎，好吧"
+     1 string english = "Please let me finish! Okay, just tell me then..."
+     1 string japanese = "だから先生最後まで…まあ、いいわ。"
+     1 string mchinese = "您能讓我說完嘛，洛老師……哎，好吧"
+   [11579]
+    0 TableSoItemLang data
+     0 int id = 1021580
+     1 string schinese = "高中的数学知识已经无法满足我了，还是研究这些高等数学好玩！"
+     1 string schinese_censored = "高中的数学知识已经无法满足我了，还是研究这些高等数学好玩！"
+     1 string english = "High-school mathematics courses are no longer satisfying me. I find it more fun learning advanced mathematics."
+     1 string japanese = "学校の数学はもうつまらないな。やっぱり高等数学が面白い！"
+     1 string mchinese = "高中的數學知識已經無法滿足我了，還是研究這些高等數學好玩！"
+   [11580]
+    0 TableSoItemLang data
+     0 int id = 1021581
+     1 string schinese = "作为学校里的天才少女，我是很厉害的哟~"
+     1 string schinese_censored = "作为学校里的天才少女，我是很厉害的哟~"
+     1 string english = "As the school's genius, I am pretty amazing!"
+     1 string japanese = "天才少女、誕生！なんてね！"
+     1 string mchinese = "作為學校裏的天才少女，我是很厲害的喲~"
+   [11581]
+    0 TableSoItemLang data
+     0 int id = 1021582
+     1 string schinese = "什么……这道题……"
+     1 string schinese_censored = "什么……这道题……"
+     1 string english = "What...this question..."
+     1 string japanese = "って、あれ？この問題…わからないかも…"
+     1 string mchinese = "什麼……這道題……"
+   [11582]
+    0 TableSoItemLang data
+     0 int id = 1021583
+     1 string schinese = "很简单啊，完全不用笔算啊~为什么还要让我写出解答步骤呢……"
+     1 string schinese_censored = "很简单啊，完全不用笔算啊~为什么还要让我写出解答步骤呢……"
+     1 string english = "It's so simple. I don't even need to write it down. Why do I need to show my work?"
+     1 string japanese = "簡単じゃないですか。わざわざ紙で計算するまでもありません。"
+     1 string mchinese = "很簡單啊，完全不用筆算啊~為什麼還要讓我寫出解答步驟呢……"
+   [11583]
+    0 TableSoItemLang data
+     0 int id = 1021584
+     1 string schinese = "我的天……这么厉害……竟然还比我小一岁……"
+     1 string schinese_censored = "我的天……这么厉害……竟然还比我小一岁……"
+     1 string english = "Oh my, he's so smart! He's a year younger than me too."
+     1 string japanese = "ウソでしょ？すごい…しかも私の後輩じゃない。"
+     1 string mchinese = "我的天……這麼厲害……竟然還比我小一歲……"
+   [11584]
+    0 TableSoItemLang data
+     0 int id = 1021585
+     1 string schinese = "我叫哲轩，以后常交流~"
+     1 string schinese_censored = "我叫哲轩，以后常交流~"
+     1 string english = "I am Nash Jr. I hope we can become friends."
+     1 string japanese = "初めまして。ジシュアンです。どうぞよろしくお願いします。"
+     1 string mchinese = "我叫哲軒，以後常交流~"
+   [11585]
+    0 TableSoItemLang data
+     0 int id = 1021586
+     1 string schinese = "掌握了这些东西，似乎已经可以去解决生活中大部分问题了呢！"
+     1 string schinese_censored = "掌握了这些东西，似乎已经可以去解决生活中大部分问题了呢！"
+     1 string english = "By grasping these concepts, it seems like most of the problems in life can be fixed!"
+     1 string japanese = "この理論さえ解ければ、現実世界の現象も大体数式で表現できるわね。"
+     1 string mchinese = "掌握了這些東西，似乎已經可以去解決生活中大部分問題了呢！"
+   [11586]
+    0 TableSoItemLang data
+     0 int id = 1021587
+     1 string schinese = "就仅仅这种程度了吗？"
+     1 string schinese_censored = "就仅仅这种程度了吗？"
+     1 string english = "That's all?"
+     1 string japanese = "それだけで満足なんですか？"
+     1 string mchinese = "就僅僅這種程度了嗎？"
+   [11587]
+    0 TableSoItemLang data
+     0 int id = 1021588
+     1 string schinese = "是吧……应该已经很厉害了吧……难道一定要拿奥赛金牌吗？"
+     1 string schinese_censored = "是吧……应该已经很厉害了吧……难道一定要拿奥赛金牌吗？"
+     1 string english = "Yeah, it's good enough unless you're aiming for the Olympic gold."
+     1 string japanese = "えっ…十分すぎるくらいじゃない。数学オリンピックでメダル取るわけじゃあるまいし。"
+     1 string mchinese = "是吧……應該已經很厲害了吧……難道一定要拿奧賽金牌嗎？"
+   [11588]
+    0 TableSoItemLang data
+     0 int id = 1021589
+     1 string schinese = "需要研究些新的问题，这样才有意思啊。奥赛……我小学参加过……没意思"
+     1 string schinese_censored = "需要研究些新的问题，这样才有意思啊。奥赛……我小学参加过……没意思"
+     1 string english = "You need to research a new problem, otherwise it's boring. Olympic? Nah, I attended when I was in elementary school. It's boring."
+     1 string japanese = "新しい問題を研究し続けてこそ面白いんじゃないですか。オリンピックなんて…小学校の時に参加しましたよ。退屈でしたね。"
+     1 string mchinese = "需要研究些新的問題，這樣才有意思啊。奧賽……我小學參加過……沒意思"
+   [11589]
+    0 TableSoItemLang data
+     0 int id = 1021590
+     1 string schinese = "都这么厉害的吗……"
+     1 string schinese_censored = "都这么厉害的吗……"
+     1 string english = "That good huh..."
+     1 string japanese = "天才は違うなぁ…"
+     1 string mchinese = "都這麼厲害的嗎……"
+   [11590]
+    0 TableSoItemLang data
+     0 int id = 1021591
+     1 string schinese = "最近的生活真是精彩极了啊~感觉沉下心来学数学真的很有帮助~哲轩在忙啥？"

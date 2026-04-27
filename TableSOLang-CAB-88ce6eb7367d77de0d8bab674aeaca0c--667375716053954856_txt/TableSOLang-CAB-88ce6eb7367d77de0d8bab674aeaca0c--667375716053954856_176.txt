@@ -1,0 +1,184 @@
+     1 string schinese_censored = "销售经理"
+     1 string english = "Sales Manager"
+     1 string japanese = "営業課長"
+     1 string mchinese = "銷售經理"
+   [4024]
+    0 TableSoItemLang data
+     0 int id = 1014025
+     1 string schinese = "武装押运员"
+     1 string schinese_censored = "武装押运员"
+     1 string english = "Armed Escort"
+     1 string japanese = "武装護衛"
+     1 string mchinese = "武裝押運員"
+   [4025]
+    0 TableSoItemLang data
+     0 int id = 1014026
+     1 string schinese = "php程序员"
+     1 string schinese_censored = "超文本程序员"
+     1 string english = "PHP Programmer"
+     1 string japanese = "ＰＨＰプログラマ"
+     1 string mchinese = "php程式員"
+   [4026]
+    0 TableSoItemLang data
+     0 int id = 1014027
+     1 string schinese = "模特"
+     1 string schinese_censored = "模特"
+     1 string english = "Model"
+     1 string japanese = "モデル"
+     1 string mchinese = "模特"
+   [4027]
+    0 TableSoItemLang data
+     0 int id = 1014028
+     1 string schinese = "编剧"
+     1 string schinese_censored = "编剧"
+     1 string english = "Screenwriter"
+     1 string japanese = "脚本家"
+     1 string mchinese = "編劇"
+   [4028]
+    0 TableSoItemLang data
+     0 int id = 1014029
+     1 string schinese = "文学爱好者"
+     1 string schinese_censored = "文学爱好者"
+     1 string english = "Literature Enthusiast"
+     1 string japanese = "文学愛好家"
+     1 string mchinese = "文學愛好者"
+   [4029]
+    0 TableSoItemLang data
+     0 int id = 1014030
+     1 string schinese = "客户端程序员"
+     1 string schinese_censored = "客户端程序员"
+     1 string english = "Front-End Programmer"
+     1 string japanese = "派遣プログラマ"
+     1 string mchinese = "客戶端程式員"
+   [4030]
+    0 TableSoItemLang data
+     0 int id = 1014031
+     1 string schinese = "服务器程序员"
+     1 string schinese_censored = "服务器程序员"
+     1 string english = "Back-End Developer"
+     1 string japanese = "サーバー管理"
+     1 string mchinese = "伺服器程式員"
+   [4031]
+    0 TableSoItemLang data
+     0 int id = 1014032
+     1 string schinese = "游戏策划"
+     1 string schinese_censored = "游戏策划"
+     1 string english = "Game Designer"
+     1 string japanese = "ゲーム企画"
+     1 string mchinese = "遊戲策劃"
+   [4032]
+    0 TableSoItemLang data
+     0 int id = 1014033
+     1 string schinese = "产品经理"
+     1 string schinese_censored = "产品经理"
+     1 string english = "Product Manager"
+     1 string japanese = "プロデューサー"
+     1 string mchinese = "產品經理"
+   [4033]
+    0 TableSoItemLang data
+     0 int id = 1014034
+     1 string schinese = "公司文员"
+     1 string schinese_censored = "公司文员"
+     1 string english = "Company Clerk"
+     1 string japanese = "会社員"
+     1 string mchinese = "公司文員"
+   [4034]
+    0 TableSoItemLang data
+     0 int id = 1014035
+     1 string schinese = "柜台化妆师"
+     1 string schinese_censored = "柜台化妆师"
+     1 string english = "Beauty Counter Makeup Artist"
+     1 string japanese = "化粧品販売員"
+     1 string mchinese = "櫃檯化妝師"
+   [4035]
+    0 TableSoItemLang data
+     0 int id = 1014036
+     1 string schinese = "品牌造型师"
+     1 string schinese_censored = "品牌造型师"
+     1 string english = "Brand Stylist"
+     1 string japanese = "専属スタイリスト"
+     1 string mchinese = "品牌造型師"
+   [4036]
+    0 TableSoItemLang data
+     0 int id = 1014037
+     1 string schinese = "珠宝设计专家"
+     1 string schinese_censored = "珠宝设计专家"
+     1 string english = "Jewelry Design Specialist"
+     1 string japanese = "宝飾デザイナー"
+     1 string mchinese = "珠寶設計專家"
+   [4037]
+    0 TableSoItemLang data
+     0 int id = 1014038
+     1 string schinese = "医生"
+     1 string schinese_censored = "医生"
+     1 string english = "Doctor"
+     1 string japanese = "医者"
+     1 string mchinese = "醫生"
+   [4038]
+    0 TableSoItemLang data
+     0 int id = 1014039
+     1 string schinese = "演员"
+     1 string schinese_censored = "演员"
+     1 string english = "Actor"
+     1 string japanese = "役者"
+     1 string mchinese = "演員"
+   [4039]
+    0 TableSoItemLang data
+     0 int id = 1014040
+     1 string schinese = "武打演员"
+     1 string schinese_censored = "武打演员"
+     1 string english = "Martial Arts Actor"
+     1 string japanese = "アクション役者"
+     1 string mchinese = "武打演員"
+   [4040]
+    0 TableSoItemLang data
+     0 int id = 1014041
+     1 string schinese = "流量演员"
+     1 string schinese_censored = "流量演员"
+     1 string english = "Not-So-Good Actor"
+     1 string japanese = "超人気役者"
+     1 string mchinese = "流量演員"
+   [4041]
+    0 TableSoItemLang data
+     0 int id = 1014042
+     1 string schinese = "网络主播"
+     1 string schinese_censored = "网络主播"
+     1 string english = "Streamer"
+     1 string japanese = "配信者"
+     1 string mchinese = "網路主播"
+   [4042]
+    0 TableSoItemLang data
+     0 int id = 1014043
+     1 string schinese = "职业模特"
+     1 string schinese_censored = "职业模特"
+     1 string english = "Professional Model"
+     1 string japanese = "ファッションモデル"
+     1 string mchinese = "職業模特"
+   [4043]
+    0 TableSoItemLang data
+     0 int id = 1014044
+     1 string schinese = "作家"
+     1 string schinese_censored = "作家"
+     1 string english = "Writer"
+     1 string japanese = "作家"
+     1 string mchinese = "作家"
+   [4044]
+    0 TableSoItemLang data
+     0 int id = 1014045
+     1 string schinese = "畅销书作家"
+     1 string schinese_censored = "畅销书作家"
+     1 string english = "Best-Selling Author"
+     1 string japanese = "ベストセラー作家"
+     1 string mchinese = "暢銷書作家"
+   [4045]
+    0 TableSoItemLang data
+     0 int id = 1014046
+     1 string schinese = "运动员"
+     1 string schinese_censored = "运动员"
+     1 string english = "Athlete"
+     1 string japanese = "スポーツ選手"
+     1 string mchinese = "運動員"
+   [4046]
+    0 TableSoItemLang data
+     0 int id = 1014047
+     1 string schinese = "体校老师"

@@ -1,0 +1,184 @@
+     1 string schinese_censored = "{0} / {1}  血量"
+     1 string english = "{0}/{1} HP"
+     1 string japanese = "{0} / {1}  ＨＰ"
+     1 string mchinese = "{0} / {1}  血量"
+   [27484]
+    0 TableSoItemLang data
+     0 int id = 1596173771
+     1 string schinese = "健康提示"
+     1 string schinese_censored = "健康提示"
+     1 string english = "不翻譯1596173771"
+     1 string japanese = "不翻譯"
+     1 string mchinese = "健康提示"
+   [27485]
+    0 TableSoItemLang data
+     0 int id = 1596173772
+     1 string schinese = "您的游玩时间已达1小时"
+     1 string schinese_censored = "您的游玩时间已达1小时"
+     1 string english = "不翻譯1596173772"
+     1 string japanese = "不翻譯"
+     1 string mchinese = "您的遊玩時間已達1小時"
+   [27486]
+    0 TableSoItemLang data
+     0 int id = 1596173773
+     1 string schinese = "您今日的游玩时间已达上限"
+     1 string schinese_censored = "您今日的游玩时间已达上限"
+     1 string english = "不翻譯1596173773"
+     1 string japanese = "不翻譯"
+     1 string mchinese = "您今日的遊玩時間已達上限"
+   [27487]
+    0 TableSoItemLang data
+     0 int id = 1596173774
+     1 string schinese = "安全提示"
+     1 string schinese_censored = "安全提示"
+     1 string english = "不翻譯1596173774"
+     1 string japanese = "不翻譯"
+     1 string mchinese = "安全提示"
+   [27488]
+    0 TableSoItemLang data
+     0 int id = 1596173775
+     1 string schinese = "检测到您的账号在其他设备上登录，如不是您本人操作，请重新在本台设备上登录并联系客服。"
+     1 string schinese_censored = "检测到您的账号在其他设备上登录，如不是您本人操作，请重新在本台设备上登录并联系客服。"
+     1 string english = "Login from another device detected. If this wasn't you, please log in again on this device and contact support."
+     1 string japanese = "あなたのアカウントは他のデバイスでログインしています。心当たりがない場合は、このデバイスでログインし直し、カスタマーサポートにご連絡ください。"
+     1 string mchinese = "檢測到您的帳號在其他設備上登錄，如不是您本人操作，請重新在本臺設備上登錄並聯系客服。"
+   [27489]
+    0 TableSoItemLang data
+     0 int id = 1596173776
+     1 string schinese = "您的登录信息已过期，请重新登录（或者休息一下再来玩吧）"
+     1 string schinese_censored = "您的登录信息已过期，请重新登录（或者休息一下再来玩吧）"
+     1 string english = "Login invalid. Please log in again. (Or have a rest and play later.)"
+     1 string japanese = "ログイン情報の期限が切れています。再度ログインしてください（または一休みしてからゲームをプレイしてください）"
+     1 string mchinese = "您的登錄資訊已過期，請重新登錄（或者休息一下再來玩吧）"
+   [27490]
+    0 TableSoItemLang data
+     0 int id = 1596173777
+     1 string schinese = "检测到存档数据异常，存档失败，请重新登录并联系客服"
+     1 string schinese_censored = "检测到存档数据异常，存档失败，请重新登录并联系客服"
+     1 string english = "Savefile database exception, unable to save. Please log in again and contact support."
+     1 string japanese = "データ保存時に異常が検出されました。保存できませんでした。ログインし直し、カスタマーサポートにご連絡ください。"
+     1 string mchinese = "檢測到存檔數據異常，存檔失敗，請重新登錄並聯系客服"
+   [27491]
+    0 TableSoItemLang data
+     0 int id = 1596173778
+     1 string schinese = "详细说明"
+     1 string schinese_censored = "详细说明"
+     1 string english = "Details"
+     1 string japanese = "詳しい説明"
+     1 string mchinese = "詳細說明"
+   [27492]
+    0 TableSoItemLang data
+     0 int id = 1596173779
+     1 string schinese = "已领悟特长：{0}"
+     1 string schinese_censored = "已领悟特长：{0}"
+     1 string english = "Trait(s) learned: {0}"
+     1 string japanese = "特技{0}習得済み"
+     1 string mchinese = "已領悟特長：{0}"
+   [27493]
+    0 TableSoItemLang data
+     0 int id = 1596173780
+     1 string schinese = "有较大几率领悟特长：{0}"
+     1 string schinese_censored = "有较大几率领悟特长：{0}"
+     1 string english = "Fairly high chance to obtain trait: {0}"
+     1 string japanese = "高確率で特技{0}を習得できる"
+     1 string mchinese = "有較大幾率領悟特長：{0}"
+   [27494]
+    0 TableSoItemLang data
+     0 int id = 1596173781
+     1 string schinese = "有一定几率领悟特长：{0}"
+     1 string schinese_censored = "有一定几率领悟特长：{0}"
+     1 string english = "Medium chance to obtain trait: {0}"
+     1 string japanese = "一定確率で特技{0}を習得できる"
+     1 string mchinese = "有一定幾率領悟特長：{0}"
+   [27495]
+    0 TableSoItemLang data
+     0 int id = 1596173782
+     1 string schinese = "有较小几率领悟特长：{0}"
+     1 string schinese_censored = "有较小几率领悟特长：{0}"
+     1 string english = "Fairly low chance to obtain trait: {0}"
+     1 string japanese = "低確率で特技{0}を習得できる"
+     1 string mchinese = "有較小幾率領悟特長：{0}"
+   [27496]
+    0 TableSoItemLang data
+     0 int id = 1596173783
+     1 string schinese = "有极低几率领悟特长：{0}"
+     1 string schinese_censored = "有极低几率领悟特长：{0}"
+     1 string english = "Very low chance to obtain trait: {0}"
+     1 string japanese = "超低確率で特技{0}を習得できる"
+     1 string mchinese = "有極低幾率領悟特長：{0}"
+   [27497]
+    0 TableSoItemLang data
+     0 int id = 1596173784
+     1 string schinese = "解锁游戏内容"
+     1 string schinese_censored = "解锁游戏内容"
+     1 string english = "Unlock Game Content"
+     1 string japanese = "アンロックされたゲームコンテンツ"
+     1 string mchinese = "解鎖遊戲內容"
+   [27498]
+    0 TableSoItemLang data
+     0 int id = 1596173785
+     1 string schinese = "是否花费{0}元解锁全部内容"
+     1 string schinese_censored = "是否花费{0}元解锁全部内容"
+     1 string english = "Unlock all content for ${0}?"
+     1 string japanese = "{0}元消費すると全コンテンツがアンロックされます"
+     1 string mchinese = "是否花費{0}元解鎖全部內容"
+   [27499]
+    0 TableSoItemLang data
+     0 int id = 1596173786
+     1 string schinese = "很抱歉，您没有获得测试资格。请关注官方网站以获得新的测试信息，感谢您的支持~"
+     1 string schinese_censored = "很抱歉，您没有获得测试资格。请关注官方网站以获得新的测试信息，感谢您的支持~"
+     1 string english = "We are sorry to tell you that you haven't been among the testers yet. Please follow our website for the latest news. Thank you for your support!"
+     1 string japanese = "すみません。あなたはテスト参加資格がありません。公式ウェブサイトで最新の情報をご確認ください。"
+     1 string mchinese = "很抱歉，您沒有獲得測試資格。請關注官方網站以獲得新的測試資訊，感謝您的支持~"
+   [27500]
+    0 TableSoItemLang data
+     0 int id = 1596173787
+     1 string schinese = "是否花费{0}元解锁该DLC的全部内容"
+     1 string schinese_censored = "是否花费{0}元解锁该DLC的全部内容"
+     1 string english = "Unlock all content of this DLC for ${0}?"
+     1 string japanese = "{0}元消費してこのＤＬＣの全コンテンツをアンロックしますか？"
+     1 string mchinese = "是否花費{0}元解鎖該DLC的全部內容"
+   [27501]
+    0 TableSoItemLang data
+     0 int id = 1596173788
+     1 string schinese = "内容已经解锁，快去体验吧~"
+     1 string schinese_censored = "内容已经解锁，快去体验吧~"
+     1 string english = "Content unlocked. Have fun with it!"
+     1 string japanese = "コンテンツがアンロックされました。今すぐ体験しましょう。"
+     1 string mchinese = "內容已經解鎖，快去體驗吧~"
+   [27502]
+    0 TableSoItemLang data
+     0 int id = 1596173789
+     1 string schinese = "购买失败"
+     1 string schinese_censored = "购买失败"
+     1 string english = "Purchase Failed"
+     1 string japanese = "購入失敗"
+     1 string mchinese = "購買失敗"
+   [27503]
+    0 TableSoItemLang data
+     0 int id = 1596173790
+     1 string schinese = "敬请期待"
+     1 string schinese_censored = "敬请期待"
+     1 string english = "Coming soon."
+     1 string japanese = "期待してね！"
+     1 string mchinese = "敬請期待"
+   [27504]
+    0 TableSoItemLang data
+     0 int id = 1596173791
+     1 string schinese = "乔乔"
+     1 string schinese_censored = "乔乔"
+     1 string english = "Qiao"
+     1 string japanese = "チャオチャオ"
+     1 string mchinese = "喬喬"
+   [27505]
+    0 TableSoItemLang data
+     0 int id = 1596173792
+     1 string schinese = "起源"
+     1 string schinese_censored = "家族起源"
+     1 string english = "Origin"
+     1 string japanese = "起源"
+     1 string mchinese = "起源"
+   [27506]
+    0 TableSoItemLang data
+     0 int id = 1596173793
+     1 string schinese = "在很久很久很久以前，深深的嗨辣撸裂谷里..."

@@ -1,0 +1,184 @@
+     1 string schinese_censored = "地图掌控Lv2（意识）"
+     1 string english = "Map Control Lv. 2 (Awareness)"
+     1 string japanese = "マップ把握Lv.2 (意識)"
+     1 string mchinese = "地圖掌控Lv2（意識）"
+   [28657]
+    0 TableSoItemLang data
+     0 int id = 8010106
+     1 string schinese = "地图掌控Lv3（意识）"
+     1 string schinese_censored = "地图掌控Lv3（意识）"
+     1 string english = "Map Control Lv. 3 (Awareness)"
+     1 string japanese = "マップ把握Lv.3 (意識)"
+     1 string mchinese = "地圖掌控Lv3（意識）"
+   [28658]
+    0 TableSoItemLang data
+     0 int id = 8010107
+     1 string schinese = "寻找战机Lv1（意识）"
+     1 string schinese_censored = "寻找战机Lv1（意识）"
+     1 string english = "Battle Seeker Lv. 1 (Awareness)"
+     1 string japanese = "戦闘機会探索Lv.1 (意識)"
+     1 string mchinese = "尋找戰機Lv1（意識）"
+   [28659]
+    0 TableSoItemLang data
+     0 int id = 8010108
+     1 string schinese = "寻找战机Lv2（意识）"
+     1 string schinese_censored = "寻找战机Lv2（意识）"
+     1 string english = "Battle Seeker Lv. 2 (Awareness)"
+     1 string japanese = "戦闘機会探索Lv.2 (意識)"
+     1 string mchinese = "尋找戰機Lv2（意識）"
+   [28660]
+    0 TableSoItemLang data
+     0 int id = 8010109
+     1 string schinese = "寻找战机Lv3（意识）"
+     1 string schinese_censored = "寻找战机Lv3（意识）"
+     1 string english = "Battle Seeker Lv. 3 (Awareness)"
+     1 string japanese = "戦闘機会探索Lv.3 (意識)"
+     1 string mchinese = "尋找戰機Lv3（意識）"
+   [28661]
+    0 TableSoItemLang data
+     0 int id = 8010110
+     1 string schinese = "游戏理解（意识）"
+     1 string schinese_censored = "游戏理解（意识）"
+     1 string english = "Game Knowledge (Awareness)"
+     1 string japanese = "ゲーム理解 (意識)"
+     1 string mchinese = "遊戲理解（意識）"
+   [28662]
+    0 TableSoItemLang data
+     0 int id = 8010201
+     1 string schinese = "复盘比赛Lv1（指挥）"
+     1 string schinese_censored = "复盘比赛Lv1（指挥）"
+     1 string english = "Match Replay Lv. 1 (Command)"
+     1 string japanese = "反省会Lv.1 (指揮)"
+     1 string mchinese = "複盤比賽Lv1（指揮）"
+   [28663]
+    0 TableSoItemLang data
+     0 int id = 8010202
+     1 string schinese = "复盘比赛Lv2（指挥）"
+     1 string schinese_censored = "复盘比赛Lv2（指挥）"
+     1 string english = "Match Replay Lv. 2 (Command)"
+     1 string japanese = "反省会Lv.2 (指揮)"
+     1 string mchinese = "複盤比賽Lv2（指揮）"
+   [28664]
+    0 TableSoItemLang data
+     0 int id = 8010203
+     1 string schinese = "复盘比赛Lv3（指挥）"
+     1 string schinese_censored = "复盘比赛Lv3（指挥）"
+     1 string english = "Match Replay Lv. 3 (Command)"
+     1 string japanese = "反省会Lv.3 (指揮)"
+     1 string mchinese = "複盤比賽Lv3（指揮）"
+   [28665]
+    0 TableSoItemLang data
+     0 int id = 8010204
+     1 string schinese = "技能预判Lv1（指挥）"
+     1 string schinese_censored = "技能预判Lv1（指挥）"
+     1 string english = "Skill Prediction Lv. 1 (Command)"
+     1 string japanese = "スキル予測Lv.1 (指揮)"
+     1 string mchinese = "技能預判Lv1（指揮）"
+   [28666]
+    0 TableSoItemLang data
+     0 int id = 8010205
+     1 string schinese = "技能预判Lv2（指挥）"
+     1 string schinese_censored = "技能预判Lv2（指挥）"
+     1 string english = "Skill Prediction Lv. 2 (Command)"
+     1 string japanese = "スキル予測Lv.2 (指揮)"
+     1 string mchinese = "技能預判Lv2（指揮）"
+   [28667]
+    0 TableSoItemLang data
+     0 int id = 8010206
+     1 string schinese = "技能预判Lv3（指挥）"
+     1 string schinese_censored = "技能预判Lv3（指挥）"
+     1 string english = "Skill Prediction Lv. 3 (Command)"
+     1 string japanese = "スキル予測Lv.3 (指揮)"
+     1 string mchinese = "技能預判Lv3（指揮）"
+   [28668]
+    0 TableSoItemLang data
+     0 int id = 8010207
+     1 string schinese = "阅读比赛Lv1（指挥）"
+     1 string schinese_censored = "阅读比赛Lv1（指挥）"
+     1 string english = "Game Reading Lv. 1 (Command)"
+     1 string japanese = "試合運びLv.1 (指揮)"
+     1 string mchinese = "閱讀比賽Lv1（指揮）"
+   [28669]
+    0 TableSoItemLang data
+     0 int id = 8010208
+     1 string schinese = "阅读比赛Lv2（指挥）"
+     1 string schinese_censored = "阅读比赛Lv2（指挥）"
+     1 string english = "Game Reading Lv. 2 (Command)"
+     1 string japanese = "試合運びLv.2 (指揮)"
+     1 string mchinese = "閱讀比賽Lv2（指揮）"
+   [28670]
+    0 TableSoItemLang data
+     0 int id = 8010209
+     1 string schinese = "阅读比赛Lv3（指挥）"
+     1 string schinese_censored = "阅读比赛Lv3（指挥）"
+     1 string english = "Game Reading Lv. 3 (Command)"
+     1 string japanese = "試合運びLv.3 (指揮)"
+     1 string mchinese = "閱讀比賽Lv3（指揮）"
+   [28671]
+    0 TableSoItemLang data
+     0 int id = 8010210
+     1 string schinese = "团战练习（指挥）"
+     1 string schinese_censored = "团战练习（指挥）"
+     1 string english = "Team Fight Practice (Command)"
+     1 string japanese = "集団戦練習 (指揮)"
+     1 string mchinese = "團戰練習（指揮）"
+   [28672]
+    0 TableSoItemLang data
+     0 int id = 8010211
+     1 string schinese = "团队指挥（指挥）"
+     1 string schinese_censored = "团队指挥（指挥）"
+     1 string english = "Team Fight Command (Command)"
+     1 string japanese = "チーム指揮 (指揮)"
+     1 string mchinese = "團隊指揮（指揮）"
+   [28673]
+    0 TableSoItemLang data
+     0 int id = 8010301
+     1 string schinese = "招牌英雄Lv1（操作）"
+     1 string schinese_censored = "招牌英雄Lv1（操作）"
+     1 string english = "Main Heroes Lv. 1 (Controls)"
+     1 string japanese = "得意キャラLv.1 (操作)"
+     1 string mchinese = "招牌英雄Lv1（操作）"
+   [28674]
+    0 TableSoItemLang data
+     0 int id = 8010302
+     1 string schinese = "招牌英雄Lv2（操作）"
+     1 string schinese_censored = "招牌英雄Lv2（操作）"
+     1 string english = "Main Heroes Lv. 2 (Controls)"
+     1 string japanese = "得意キャラLv.2 (操作)"
+     1 string mchinese = "招牌英雄Lv2（操作）"
+   [28675]
+    0 TableSoItemLang data
+     0 int id = 8010303
+     1 string schinese = "招牌英雄Lv3（操作）"
+     1 string schinese_censored = "招牌英雄Lv3（操作）"
+     1 string english = "Main Heroes Lv. 3 (Controls)"
+     1 string japanese = "得意キャラLv.3 (操作)"
+     1 string mchinese = "招牌英雄Lv3（操作）"
+   [28676]
+    0 TableSoItemLang data
+     0 int id = 8010304
+     1 string schinese = "爆炸输出Lv1（操作）"
+     1 string schinese_censored = "爆炸输出Lv1（操作）"
+     1 string english = "Burst DPS Lv. 1 (Controls)"
+     1 string japanese = "大ダメージLv.1 (操作)"
+     1 string mchinese = "爆炸輸出Lv1（操作）"
+   [28677]
+    0 TableSoItemLang data
+     0 int id = 8010305
+     1 string schinese = "爆炸输出Lv2（操作）"
+     1 string schinese_censored = "爆炸输出Lv2（操作）"
+     1 string english = "Burst DPS Lv. 2 (Controls)"
+     1 string japanese = "大ダメージLv.2 (操作)"
+     1 string mchinese = "爆炸輸出Lv2（操作）"
+   [28678]
+    0 TableSoItemLang data
+     0 int id = 8010306
+     1 string schinese = "爆炸输出Lv3（操作）"
+     1 string schinese_censored = "爆炸输出Lv3（操作）"
+     1 string english = "Burst DPS Lv. 3 (Controls)"
+     1 string japanese = "大ダメージLv.3 (操作)"
+     1 string mchinese = "爆炸輸出Lv3（操作）"
+   [28679]
+    0 TableSoItemLang data
+     0 int id = 8010307
+     1 string schinese = "团队核心Lv1（操作）"

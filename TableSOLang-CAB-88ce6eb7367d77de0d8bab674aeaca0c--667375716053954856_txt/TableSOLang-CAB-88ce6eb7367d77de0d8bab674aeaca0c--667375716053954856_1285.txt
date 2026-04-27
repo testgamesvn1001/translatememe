@@ -1,0 +1,184 @@
+     1 string schinese_censored = "奶奶的奶奶的奶奶的嫁妆，现在终于传到了你手上。"
+     1 string english = "Your grandma's grandma's grandma's dowry is finally yours!"
+     1 string japanese = "おばあちゃんのおばあちゃんのおばあちゃんの嫁入り道具がこの代まで伝わってきた。"
+     1 string mchinese = "奶奶的奶奶的奶奶的嫁妝，現在終於傳到了你手上。"
+   [29531]
+    0 TableSoItemLang data
+     0 int id = 1608011307
+     1 string schinese = "手握学费，感受到了金钱的重量，这使你充满了好好读书的决心！"
+     1 string schinese_censored = "手握学费，感受到了金钱的重量，这使你充满了好好读书的决心！"
+     1 string english = "The Tuition weighs heavily in your hands. It fills you with determination to study hard."
+     1 string japanese = "授業料を握ると、お金の重みを感じ、学習のケツイがみなぎった！"
+     1 string mchinese = "手握學費，感受到了金錢的重量，這使你充滿了好好讀書的決心！"
+   [29532]
+    0 TableSoItemLang data
+     0 int id = 1608010401
+     1 string schinese = "梦想职业"
+     1 string schinese_censored = "梦想职业"
+     1 string english = "Dream Job"
+     1 string japanese = "夢の職業"
+     1 string mchinese = "夢想職業"
+   [29533]
+    0 TableSoItemLang data
+     0 int id = 1608010402
+     1 string schinese = "亲爱的玩家~目前已有{0}人完成梦想职业，请查收奖励"
+     1 string schinese_censored = "亲爱的玩家~目前已有{0}人完成梦想职业，请查收奖励"
+     1 string english = "{0} players have gotten their dream jobs. Here are your rewards!"
+     1 string japanese = "現在、{0}人が夢の職業を達成しました。報酬をお受け取りください"
+     1 string mchinese = "親愛的玩家~目前已有{0}人完成夢想職業，請查收獎勵"
+   [29534]
+    0 TableSoItemLang data
+     0 int id = 1608010403
+     1 string schinese = "学汽修、学美容美发，就到......"
+     1 string schinese_censored = "学汽修、学美容美发，就到......"
+     1 string english = "Need vocational education? Just go to..."
+     1 string japanese = "本気になったら…"
+     1 string mchinese = "學汽修、學美容美髮，就到......"
+   [29535]
+    0 TableSoItemLang data
+     0 int id = 1608010404
+     1 string schinese = "1.全服玩家在限定的时间内共同参与挑战；\n2.达成任务要求的条件后，每一名玩家都可领取奖励；\n活动到期后无法再领取已完成的奖励；"
+     1 string schinese_censored = "1.全服玩家在限定的时间内共同参与挑战；\n2.达成任务要求的条件后，每一名玩家都可领取奖励；\n活动到期后无法再领取已完成的奖励；"
+     1 string english = "1. Everyone is taking part in the challenge for a limited time.\n2. Once the mission has been completed, everyone can claim rewards!\nBut note, you must claim the rewards during the event!"
+     1 string japanese = "1.全プレイヤーが限られた時間内でチャレンジする\n2.ミッションのクリア条件を満たすと、全員が報酬を受け取ることができる\nイベントが終了したら、クリアした報酬を受け取ることはできない"
+     1 string mchinese = "1.全服玩家在限定的時間內共同參與挑戰；\n2.達成任務要求的條件後，每一名玩家都可領取獎勵；\n活動到期後無法再領取已完成的獎勵；"
+   [29536]
+    0 TableSoItemLang data
+     0 int id = 1608010405
+     1 string schinese = "学费值+500\n用于购买传家宝和免费体验游戏，通过游戏获得，无法通过充值获得"
+     1 string schinese_censored = "学费值+500\n用于购买传家宝和免费体验游戏，通过游戏获得，无法通过充值获得"
+     1 string english = "Tuition +500\nUse to purchase Family Heirlooms and try the game for free. Acquired through gaming and unavailable from Top Up."
+     1 string japanese = "授業料+500\n家宝の購入や無料のゲーム体験に使用できる。ゲーム中で獲得。チャージでは手に入らない"
+     1 string mchinese = "學費值+500\n用於購買傳家寶和免費體驗遊戲，通過遊戲獲得，無法通過充值獲得"
+   [29537]
+    0 TableSoItemLang data
+     0 int id = 1608010406
+     1 string schinese = "翡翠镯+1\n消耗品，在相亲时使用可提高求婚成功率"
+     1 string schinese_censored = "翡翠镯+1\n消耗品，在相亲时使用可提高求婚成功率"
+     1 string english = "Jade Bracelet +1\nConsumable. Use during Blind Date to increase proposal success rate."
+     1 string japanese = "翡翠の腕輪+1\n消耗品。お見合いのときにプロポーズ成功率が上がる"
+     1 string mchinese = "翡翠鐲+1\n消耗品，在相親時使用可提高求婚成功率"
+   [29538]
+    0 TableSoItemLang data
+     0 int id = 1608010407
+     1 string schinese = "学费值+500\n用于购买传家宝和免费体验游戏，通过游戏获得，无法通过充值获得"
+     1 string schinese_censored = "学费值+500\n用于购买传家宝和免费体验游戏，通过游戏获得，无法通过充值获得"
+     1 string english = "Tuition +500\nUse to purchase Family Heirlooms and try the game for free. Acquired through gaming and unavailable from Top Up."
+     1 string japanese = "授業料+500\n家宝の購入や無料のゲーム体験に使用できる。ゲーム中で獲得。チャージでは手に入らない"
+     1 string mchinese = "學費值+500\n用於購買傳家寶和免費體驗遊戲，通過遊戲獲得，無法通過充值獲得"
+   [29539]
+    0 TableSoItemLang data
+     0 int id = 1608011405
+     1 string schinese = "手握学费，感受到了金钱的重量，这使你充满了好好读书的决心！"
+     1 string schinese_censored = "手握学费，感受到了金钱的重量，这使你充满了好好读书的决心！"
+     1 string english = "The Tuition weighs heavily in your hands. It fills you with determination to study hard."
+     1 string japanese = "授業料を握ると、お金の重みを感じ、学習のケツイがみなぎった！"
+     1 string mchinese = "手握學費，感受到了金錢的重量，這使你充滿了好好讀書的決心！"
+   [29540]
+    0 TableSoItemLang data
+     0 int id = 1608011406
+     1 string schinese = "奶奶的奶奶的奶奶的嫁妆，现在终于传到了你手上。"
+     1 string schinese_censored = "奶奶的奶奶的奶奶的嫁妆，现在终于传到了你手上。"
+     1 string english = "Your grandma's grandma's grandma's dowry is finally yours!"
+     1 string japanese = "おばあちゃんのおばあちゃんのおばあちゃんの嫁入り道具がこの代まで伝わってきた。"
+     1 string mchinese = "奶奶的奶奶的奶奶的嫁妝，現在終於傳到了你手上。"
+   [29541]
+    0 TableSoItemLang data
+     0 int id = 1608011407
+     1 string schinese = "手握学费，感受到了金钱的重量，这使你充满了好好读书的决心！"
+     1 string schinese_censored = "手握学费，感受到了金钱的重量，这使你充满了好好读书的决心！"
+     1 string english = "The Tuition weighs heavily in your hands. It fills you with determination to study hard."
+     1 string japanese = "授業料を握ると、お金の重みを感じ、学習のケツイがみなぎった！"
+     1 string mchinese = "手握學費，感受到了金錢的重量，這使你充滿了好好讀書的決心！"
+   [29542]
+    0 TableSoItemLang data
+     0 int id = 1034510
+     1 string schinese = "（专心看着课本，一整节课都没翻页）"
+     1 string schinese_censored = "（专心看着课本，一整节课都没翻页）"
+     1 string english = "(Looks at textbook intently all through class without flipping the page once.)"
+     1 string japanese = "（授業中ずっと、ページをめくることなく教科書を眺めている）"
+     1 string mchinese = "（專心看著課本，一整節課都沒翻頁）"
+   [29543]
+    0 TableSoItemLang data
+     0 int id = 1034511
+     1 string schinese = "（下一节课要写课堂作文，不知道小荗会写什么？）"
+     1 string schinese_censored = "（下一节课要写课堂作文，不知道小荗会写什么？）"
+     1 string english = "(Next up is writing class; I wonder what Mike will write about...)"
+     1 string japanese = "（次の授業は作文だ。レンマオは何を書くんだろう？）"
+     1 string mchinese = "（下一節課要寫課堂作文，不知道小荗會寫什麼？）"
+   [29544]
+    0 TableSoItemLang data
+     0 int id = 1034512
+     1 string schinese = "晚自习终于结束了，已经很晚了，快理书包吧。"
+     1 string schinese_censored = "晚自习终于结束了，已经很晚了，快理书包吧。"
+     1 string english = "I'm done with late night studying; better pack up and head home."
+     1 string japanese = "やっと自習が終わったよ。もうこんな時間。急いで帰らなきゃ。"
+     1 string mchinese = "晚自習終於結束了，已經很晚了，快理書包吧。"
+   [29545]
+    0 TableSoItemLang data
+     0 int id = 1034513
+     1 string schinese = "（今天是小荗成为职业选手后首次登台！可不能错过了！）"
+     1 string schinese_censored = "（今天是小荗成为职业选手后首次登台！可不能错过了！）"
+     1 string english = "(Today is Mike's first game as a professional e-sporter! I've just got to see that!)"
+     1 string japanese = "（今日はレンマオがプロになって初めての舞台なんだから！見逃したら大変！）"
+     1 string mchinese = "（今天是小荗成為職業選手後首次登臺！可不能錯過了！）"
+   [29546]
+    0 TableSoItemLang data
+     0 int id = 1034514
+     1 string schinese = ""
+     1 string schinese_censored = ""
+     1 string english = "/1034514"
+     1 string japanese = "/"
+     1 string mchinese = ""
+   [29547]
+    0 TableSoItemLang data
+     0 int id = 1034515
+     1 string schinese = ""
+     1 string schinese_censored = ""
+     1 string english = "/1034515"
+     1 string japanese = "/"
+     1 string mchinese = ""
+   [29548]
+    0 TableSoItemLang data
+     0 int id = 1034516
+     1 string schinese = ""
+     1 string schinese_censored = ""
+     1 string english = "/1034516"
+     1 string japanese = "/"
+     1 string mchinese = ""
+   [29549]
+    0 TableSoItemLang data
+     0 int id = 1034517
+     1 string schinese = "（小声）哦~你在课本里夹课外书...被我发现了哦。"
+     1 string schinese_censored = "（小声）哦~你在课本里夹课外书...被我发现了哦。"
+     1 string english = "(In a low voice) Heh, you've got an extracurricular book tucked in the textbook."
+     1 string japanese = "（小声）あー…教科書に参考書隠してる…。"
+     1 string mchinese = "（小聲）哦~你在課本裏夾課外書...被我發現了哦。"
+   [29550]
+    0 TableSoItemLang data
+     0 int id = 1034518
+     1 string schinese = "...这不是课外书。"
+     1 string schinese_censored = "...这不是课外书。"
+     1 string english = "...This isn't an extracurricular book."
+     1 string japanese = "…参考書じゃないよ。"
+     1 string mchinese = "...這不是課外書。"
+   [29551]
+    0 TableSoItemLang data
+     0 int id = 1034519
+     1 string schinese = "那是什么？"
+     1 string schinese_censored = "那是什么？"
+     1 string english = "What is it, then?"
+     1 string japanese = "じゃあ何？"
+     1 string mchinese = "那是什麼？"
+   [29552]
+    0 TableSoItemLang data
+     0 int id = 1034520
+     1 string schinese = "...跟你说你也不懂..."
+     1 string schinese_censored = "...跟你说你也不懂..."
+     1 string english = "...You wouldn't understand..."
+     1 string japanese = "…キミにはわからないよ…。"
+     1 string mchinese = "...跟你說你也不懂..."
+   [29553]
+    0 TableSoItemLang data
+     0 int id = 1034521
+     1 string schinese = "那我就...(假装要举手告老师）老师..."

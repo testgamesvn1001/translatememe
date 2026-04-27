@@ -1,0 +1,184 @@
+     1 string schinese_censored = ""
+     1 string english = "/88888094"
+     1 string japanese = "/"
+     1 string mchinese = "看到請聯繫策劃"
+   [22585]
+    0 TableSoItemLang data
+     0 int id = 88888095
+     1 string schinese = "看到请联系策划"
+     1 string schinese_censored = ""
+     1 string english = "/88888095"
+     1 string japanese = "/"
+     1 string mchinese = "看到請聯繫策劃"
+   [22586]
+    0 TableSoItemLang data
+     0 int id = 88888096
+     1 string schinese = "看到请联系策划"
+     1 string schinese_censored = ""
+     1 string english = "/88888096"
+     1 string japanese = "/"
+     1 string mchinese = "看到請聯繫策劃"
+   [22587]
+    0 TableSoItemLang data
+     0 int id = 88888097
+     1 string schinese = "看到请联系策划"
+     1 string schinese_censored = ""
+     1 string english = "/88888097"
+     1 string japanese = "/"
+     1 string mchinese = "看到請聯繫策劃"
+   [22588]
+    0 TableSoItemLang data
+     0 int id = 88888098
+     1 string schinese = "宠物"
+     1 string schinese_censored = ""
+     1 string english = "Pets"
+     1 string japanese = "ペット"
+     1 string mchinese = "寵物"
+   [22589]
+    0 TableSoItemLang data
+     0 int id = 88888099
+     1 string schinese = "考试"
+     1 string schinese_censored = ""
+     1 string english = "Exams"
+     1 string japanese = "試験"
+     1 string mchinese = "考試"
+   [22590]
+    0 TableSoItemLang data
+     0 int id = 88888100
+     1 string schinese = "游戏打开失败, 请确保你已启动 Steam 并购买游戏"
+     1 string schinese_censored = "游戏打开失败, 请确保你已启动 Steam 并购买游戏"
+     1 string english = "Failed to launch the game. Please make sure you have launched Steam and purchased the game."
+     1 string japanese = "ゲームを開始できませんでした、Steam が作動しているか、またはゲームの購入が完了しているかをご確認ください"
+     1 string mchinese = "遊戲打開失敗, 請確保你已啟動 Steam 並購買遊戲"
+   [22591]
+    0 TableSoItemLang data
+     0 int id = 9900281
+     1 string schinese = "重新开始"
+     1 string schinese_censored = "重新开始"
+     1 string english = "Restart"
+     1 string japanese = "最初から開始"
+     1 string mchinese = "重新開始"
+   [22592]
+    0 TableSoItemLang data
+     0 int id = 9900282
+     1 string schinese = "详细信息"
+     1 string schinese_censored = "详细信息"
+     1 string english = "DetailedInfo"
+     1 string japanese = "詳細情報"
+     1 string mchinese = "詳細資訊"
+   [22593]
+    0 TableSoItemLang data
+     0 int id = 9900283
+     1 string schinese = "推荐"
+     1 string schinese_censored = "推荐"
+     1 string english = "Rec."
+     1 string japanese = "推奨"
+     1 string mchinese = "推薦"
+   [22594]
+    0 TableSoItemLang data
+     0 int id = 9900284
+     1 string schinese = "切换决定"
+     1 string schinese_censored = "切换决定"
+     1 string english = "ChangeDecision"
+     1 string japanese = "決定の切替"
+     1 string mchinese = "切換決定"
+   [22595]
+    0 TableSoItemLang data
+     0 int id = 9900285
+     1 string schinese = "上下"
+     1 string schinese_censored = "上下"
+     1 string english = "Up/Down"
+     1 string japanese = "上下"
+     1 string mchinese = "上下"
+   [22596]
+    0 TableSoItemLang data
+     0 int id = 9900286
+     1 string schinese = "左右"
+     1 string schinese_censored = "左右"
+     1 string english = "Left/Right"
+     1 string japanese = "左右"
+     1 string mchinese = "左右"
+   [22597]
+    0 TableSoItemLang data
+     0 int id = 9900287
+     1 string schinese = "输入"
+     1 string schinese_censored = "输入"
+     1 string english = "Enter"
+     1 string japanese = "入力"
+     1 string mchinese = "輸入"
+   [22598]
+    0 TableSoItemLang data
+     0 int id = 9900288
+     1 string schinese = "族谱"
+     1 string schinese_censored = "族谱"
+     1 string english = "Family Tree"
+     1 string japanese = "系譜"
+     1 string mchinese = "族譜"
+   [22599]
+    0 TableSoItemLang data
+     0 int id = 9900289
+     1 string schinese = "是"
+     1 string schinese_censored = "是"
+     1 string english = "Yes"
+     1 string japanese = "はい"
+     1 string mchinese = "是"
+   [22600]
+    0 TableSoItemLang data
+     0 int id = 9900290
+     1 string schinese = "否"
+     1 string schinese_censored = "否"
+     1 string english = "No"
+     1 string japanese = "いいえ"
+     1 string mchinese = "否"
+   [22601]
+    0 TableSoItemLang data
+     0 int id = 9900291
+     1 string schinese = "移除/长按筛选"
+     1 string schinese_censored = "移除/长按筛选"
+     1 string english = "Del/HoldFilter"
+     1 string japanese = "削除/長押し整理"
+     1 string mchinese = "移除/長按篩選"
+   [22602]
+    0 TableSoItemLang data
+     0 int id = 9900292
+     1 string schinese = "睁开双眼"
+     1 string schinese_censored = "睁开双眼"
+     1 string english = "Open Your Eyes"
+     1 string japanese = "目を覚ます"
+     1 string mchinese = "睜開雙眼"
+   [22603]
+    0 TableSoItemLang data
+     0 int id = 9900293
+     1 string schinese = "下一回合"
+     1 string schinese_censored = "下一回合"
+     1 string english = "NextTurn"
+     1 string japanese = "次のターン"
+     1 string mchinese = "下一回合"
+   [22604]
+    0 TableSoItemLang data
+     0 int id = 9900294
+     1 string schinese = "继续"
+     1 string schinese_censored = "继续"
+     1 string english = "Continue"
+     1 string japanese = "続行"
+     1 string mchinese = "繼續"
+   [22605]
+    0 TableSoItemLang data
+     0 int id = 9900295
+     1 string schinese = "移除安排"
+     1 string schinese_censored = "移除安排"
+     1 string english = "Remove Plan"
+     1 string japanese = "予定削除"
+     1 string mchinese = "移除安排"
+   [22606]
+    0 TableSoItemLang data
+     0 int id = 9900296
+     1 string schinese = "点击空白区域或空格键继续"
+     1 string schinese_censored = "点击空白区域或空格键继续"
+     1 string english = "Tap or press the Space to continue"
+     1 string japanese = "空白部分を選択するかスペースキーで続ける"
+     1 string mchinese = "點擊空白區域或空格鍵繼續"
+   [22607]
+    0 TableSoItemLang data
+     0 int id = 9900297
+     1 string schinese = "请点击空白区域继续"

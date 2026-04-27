@@ -1,0 +1,184 @@
+     1 string schinese_censored = "今天体育老师有事儿，这节讲卷子！"
+     1 string english = "Your PE teacher is absent today, so we'll use this extra lesson to go through your previous exam!"
+     1 string japanese = "今日、体育の先生は用事でお休みです。代わりに授業をします！"
+     1 string mchinese = "今天體育老師有事兒，這節講卷子！"
+   [10303]
+    0 TableSoItemLang data
+     0 int id = 1020304
+     1 string schinese = "啊……（教室里一片唉声叹气）"
+     1 string schinese_censored = "啊……（教室里一片唉声叹气）"
+     1 string english = "Oh no... (Students grumbling)"
+     1 string japanese = "『はあ…』教室中でため息が漏れた。"
+     1 string mchinese = "啊……（教室裏一片唉聲歎氣）"
+   [10304]
+    0 TableSoItemLang data
+     0 int id = 1020305
+     1 string schinese = "初三了同学们，你们现在不努力以后等着后悔吧！考上高中的和去职高的完全两样，有的连考大学的机会都没有了。"
+     1 string schinese_censored = "初三了同学们，你们现在不努力以后等着后悔吧！考上高中的和去职高的完全两样，有的连考大学的机会都没有了。"
+     1 string english = "You are in your third year. You'll regret it later if you don't work hard now! Senior high schools and vocational ones are totally different. Students in some vocational schools aren't even allowed to take Gaokao."
+     1 string japanese = "中学３年生の皆さん。今努力しないと、残るのは後悔だけです！高校と専門学校は完全に別です。一部の学校は大学入学の資格すら取れません。"
+     1 string mchinese = "初三了同學們，你們現在不努力以後等著後悔吧！考上高中的和去職高的完全兩樣，有的連考大學的機會都沒有了。"
+   [10305]
+    0 TableSoItemLang data
+     0 int id = 1020306
+     1 string schinese = "以后不要发出这种声音！每个人浪费一分钟，一节课就没了！"
+     1 string schinese_censored = "以后不要发出这种声音！每个人浪费一分钟，一节课就没了！"
+     1 string english = "There's no use making all this noise, just stop it! One wasted minute per person is a whole class gone!"
+     1 string japanese = "全員が１分ずつ時間を無駄にすると、授業が終わってしまいますよ！"
+     1 string mchinese = "以後不要發出這種聲音！每個人浪費一分鐘，一節課就沒了！"
+   [10306]
+    0 TableSoItemLang data
+     0 int id = 1020307
+     1 string schinese = "初中第一天好紧张啊。让我看看教室在哪里……"
+     1 string schinese_censored = "初中第一天好紧张啊。让我看看教室在哪里……"
+     1 string english = "I'm really nervous on my first day of junior high school. Now, where is the classroom..."
+     1 string japanese = "中学初日だしめっちゃ緊張する。教室はどっちだろ…"
+     1 string mchinese = "初中第一天好緊張啊。讓我看看教室在哪里……"
+   [10307]
+    0 TableSoItemLang data
+     0 int id = 1020308
+     1 string schinese = "不知道能不能遇到认识的同学呢？"
+     1 string schinese_censored = "不知道能不能遇到认识的同学呢？"
+     1 string english = "Will I perhaps run into someone I know?"
+     1 string japanese = "昔の知り合いに会えるかな？"
+     1 string mchinese = "不知道能不能遇到認識的同學呢？"
+   [10308]
+    0 TableSoItemLang data
+     0 int id = 1020309
+     1 string schinese = "听说还要军训！糟了糟了，我防晒霜呢？"
+     1 string schinese_censored = "听说还要军训！糟了糟了，我防晒霜呢？"
+     1 string english = "I heard that we will have military training! I'm gonna need my sun screen."
+     1 string japanese = "軍事訓練なんてあるの！？マズい。日焼け止めあったっけ？"
+     1 string mchinese = "聽說還要軍訓！糟了糟了，我防曬霜呢？"
+   [10309]
+    0 TableSoItemLang data
+     0 int id = 1020310
+     1 string schinese = "要去新的高中了，毕竟是自己考上的学校！要去比一比了~"
+     1 string schinese_censored = "要去新的高中了，毕竟是自己考上的学校！要去比一比了~"
+     1 string english = "I'm in senior high school now. I've worked hard for it and I really hope it's better than my junior high school."
+     1 string japanese = "高校生活の始まりだ。せっかく実力で受かったんだし、気合入れなきゃね！"
+     1 string mchinese = "要去新的高中了，畢竟是自己考上的學校！要去比一比了~"
+   [10310]
+    0 TableSoItemLang data
+     0 int id = 1020311
+     1 string schinese = "不知道…有没有好看的小哥哥来学校呢？？"
+     1 string schinese_censored = "不知道…有没有好看的小哥哥来学校呢？？"
+     1 string english = "I wonder if there are any handsome boys in this school."
+     1 string japanese = "イケメン、いるかな？"
+     1 string mchinese = "不知道…有沒有好看的小哥哥來學校呢？？"
+   [10311]
+    0 TableSoItemLang data
+     0 int id = 1020312
+     1 string schinese = "啊，不该多想这些的！快迟到了要！"
+     1 string schinese_censored = "啊，不该多想这些的！快迟到了要！"
+     1 string english = "Ah, I shouldn't be thinking about that! I'm late!"
+     1 string japanese = "ヤバい。そんな場合じゃない！遅刻だ！"
+     1 string mchinese = "啊，不該多想這些的！快遲到了要！"
+   [10312]
+    0 TableSoItemLang data
+     0 int id = 1020313
+     1 string schinese = "我不要上小学！小学没有滑滑梯！"
+     1 string schinese_censored = "我不要上小学！小学没有滑滑梯！"
+     1 string english = "I don't want to go to elementary school! There's no slide there!"
+     1 string japanese = "小学校なんてイヤ！すべり台がないのもイヤ！"
+     1 string mchinese = "我不要上小學！小學沒有滑滑梯！"
+   [10313]
+    0 TableSoItemLang data
+     0 int id = 1020314
+     1 string schinese = "嘘！大街上不要闹，你看别人都笑话你呢！"
+     1 string schinese_censored = "嘘！大街上不要闹，你看别人都笑话你呢！"
+     1 string english = "Shh! Don't behave like that on the street. Look, other people are laughing at you!"
+     1 string japanese = "コラ！わがまま言わないで！みんな、見てるよ！"
+     1 string mchinese = "噓！大街上不要鬧，你看別人都笑話你呢！"
+   [10314]
+    0 TableSoItemLang data
+     0 int id = 1020315
+     1 string schinese = "而且小学有很多小朋友呀，你乖乖的，大家会很喜欢你，跟你做朋友的！"
+     1 string schinese_censored = "而且小学有很多小朋友呀，你乖乖的，大家会很喜欢你，跟你做朋友的！"
+     1 string english = "There are so many kids in elementary school. If you behave well, they will like you and make friends with you!"
+     1 string japanese = "それに小学校にはたくさんの友達がいるわ。ちゃんといい子にしてれば、みんなから好かれるわよ！"
+     1 string mchinese = "而且小學有很多小朋友呀，你乖乖的，大家會很喜歡你，跟你做朋友的！"
+   [10315]
+    0 TableSoItemLang data
+     0 int id = 1020316
+     1 string schinese = "妈！你是不是偷看我日记了！"
+     1 string schinese_censored = "妈！你是不是偷看我日记了！"
+     1 string english = "Mom! Did you read my diary without permission?"
+     1 string japanese = "お母さん！勝手に日記見たでしょ！"
+     1 string mchinese = "媽！你是不是偷看我日記了！"
+   [10316]
+    0 TableSoItemLang data
+     0 int id = 1020317
+     1 string schinese = "什么叫偷看啊！你自己的东西不放好，就在桌子上，给你收拾好不谢谢我不说还怪我！"
+     1 string schinese_censored = "什么叫偷看啊！你自己的东西不放好，就在桌子上，给你收拾好不谢谢我不说还怪我！"
+     1 string english = "I didn't read it without permission! You left it on the desk and I just put it in order. You should be thanking me rather than blaming me!"
+     1 string japanese = "見たんじゃなくて見えたの！自分の物はちゃんと片付けなさい。片付けてあげたのに、お礼もしないで文句を言うの！？"
+     1 string mchinese = "什麼叫偷看啊！你自己的東西不放好，就在桌子上，給你收拾好不謝謝我不說還怪我！"
+   [10317]
+    0 TableSoItemLang data
+     0 int id = 1020318
+     1 string schinese = "以后我的东西你不要碰！"
+     1 string schinese_censored = "以后我的东西你不要碰！"
+     1 string english = "Don't touch my things again!"
+     1 string japanese = "二度と私のものに触れないで！"
+     1 string mchinese = "以後我的東西你不要碰！"
+   [10318]
+    0 TableSoItemLang data
+     0 int id = 1020319
+     1 string schinese = "这孩子！真让人不省心！"
+     1 string schinese_censored = "这孩子！真让人不省心！"
+     1 string english = "You really make me worried!"
+     1 string japanese = "まったく！この子ったら！"
+     1 string mchinese = "這孩子！真讓人不省心！"
+   [10319]
+    0 TableSoItemLang data
+     0 int id = 1020320
+     1 string schinese = "闺女~最近学校发生什么事了？"
+     1 string schinese_censored = "闺女~最近学校发生什么事了？"
+     1 string english = "Dear, what's going on at school these days?"
+     1 string japanese = "最近学校で何かあったでしょ！"
+     1 string mchinese = "閨女~最近學校發生什麼事了？"
+   [10320]
+    0 TableSoItemLang data
+     0 int id = 1020321
+     1 string schinese = "没有啊，怎么突然这么问？"
+     1 string schinese_censored = "没有啊，怎么突然这么问？"
+     1 string english = "Nothing special. Why do you ask?"
+     1 string japanese = "別に。どうしたの、急に？"
+     1 string mchinese = "沒有啊，怎麼突然這麼問？"
+   [10321]
+    0 TableSoItemLang data
+     0 int id = 1020322
+     1 string schinese = "你跟你那个男同桌远一点，小小年纪不学好，学人家早恋！"
+     1 string schinese_censored = "你跟你那个同桌远一点，别小小年纪贪玩不学好！"
+     1 string english = "Keep your deskmate at a distance. You don't have the time for a love life, you have studying to do!"
+     1 string japanese = "隣の席の男の子から離れなさい。恋をするにはまだ早いわ！"
+     1 string mchinese = "你跟你那個男同桌遠一點，小小年紀不學好，學人家早戀！"
+   [10322]
+    0 TableSoItemLang data
+     0 int id = 1020323
+     1 string schinese = "你又偷看我日记！？我都收起来锁好了，你怎么还翻！"
+     1 string schinese_censored = "你又偷看我日记！？我都收起来锁好了，你怎么还翻！"
+     1 string english = "You read my diary again! I hid it this time, so why are you still reading it?"
+     1 string japanese = "また勝手に日記見たの！？ちゃんと鍵をかけたのに。なんで！？"
+     1 string mchinese = "你又偷看我日記！？我都收起來鎖好了，你怎麼還翻！"
+   [10323]
+    0 TableSoItemLang data
+     0 int id = 1020324
+     1 string schinese = "我不看能知道你那点儿小心思！？别整天那么多情绪，好好学习比什么都重要！"
+     1 string schinese_censored = "我不看能知道你那点儿小心思！？别整天那么多情绪，好好学习比什么都重要！"
+     1 string english = "How would I know what you're thinking about if I didn't read your diary? Remember to keep your negative emotions in check and studying hard!"
+     1 string japanese = "あなたの気持ちなんて、日記を見なくてもわかるわ。くだらないことばっかり考えないで、勉強しなさい！"
+     1 string mchinese = "我不看能知道你那點兒小心思！？別整天那麼多情緒，好好學習比什麼都重要！"
+   [10324]
+    0 TableSoItemLang data
+     0 int id = 1020325
+     1 string schinese = "哈哈哈，你说的对~（电话）"
+     1 string schinese_censored = "哈哈哈，你说的对~（电话）"
+     1 string english = "Hahaha, you're right! (talking over the phone)"
+     1 string japanese = "アハハハ！そうだよね～！"
+     1 string mchinese = "哈哈哈，你說的對~（電話）"
+   [10325]
+    0 TableSoItemLang data
+     0 int id = 1020326
+     1 string schinese = "哎，我妈也是这样，天天偷偷到我房间来监视我……（电话）"

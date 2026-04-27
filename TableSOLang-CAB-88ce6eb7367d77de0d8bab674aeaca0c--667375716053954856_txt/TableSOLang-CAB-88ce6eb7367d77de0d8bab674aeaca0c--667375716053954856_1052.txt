@@ -1,0 +1,184 @@
+     1 string schinese_censored = "长大后，我十分感激小时候的自己培养了一门特长，它使我的人生获益良多"
+     1 string english = "I'm really thankful for learning a special trait as a child, it has helped me greatly."
+     1 string japanese = "子どもの頃に特技を身に付けておいて良かった。大いに人生の役に立っている。"
+     1 string mchinese = "長大後，我十分感激小時候的自己培養了一門特長，它使我的人生獲益良多。"
+   [24172]
+    0 TableSoItemLang data
+     0 int id = 1115952
+     1 string schinese = "老师常说读书最忌讳偏科，可我还是忍不住在喜欢的科目上多下功夫。"
+     1 string schinese_censored = "老师常说读书最忌讳偏科，可我还是忍不住在喜欢的科目上多下功夫"
+     1 string english = "My teacher often tells me I shouldn't favor one class over the other. But I just can't help myself."
+     1 string japanese = "勉強は偏ってはいけないと先生はよく言うけど、ついつい好きな教科を頑張ってしまう。"
+     1 string mchinese = "老師常說讀書最忌諱偏科，可我還是忍不住在喜歡的科目上多下功夫。"
+   [24173]
+    0 TableSoItemLang data
+     0 int id = 1115953
+     1 string schinese = "这门课给高考拖了后腿，早知如此，当初要是多在上面用用功就好了"
+     1 string schinese_censored = "这门课给高考拖了后腿，早知如此，当初要是多在上面用用功就好了"
+     1 string english = "This course pulled down my Gaokao grades. Had I known, I would've spent more time on it."
+     1 string japanese = "大学入試でこの教科が足を引っ張った。こんなことなら、もっと頑張っておけば…。"
+     1 string mchinese = "這門課給高考拖了後腿，早知如此，當初要是多在上面用用功就好了"
+   [24174]
+    0 TableSoItemLang data
+     0 int id = 1115954
+     1 string schinese = "小时候满怀理想，长大后理想逐渐忘却。现在，还有机会实现吗？"
+     1 string schinese_censored = "小时候满怀理想，长大后理想逐渐忘却。现在，还有机会实现吗？"
+     1 string english = "I had many dreams in my youth but most now lie forgotten in the past. Will I be able to realize them all?"
+     1 string japanese = "幼い頃の夢は、大人になったら次第に忘れてしまう。まだ間に合うだろうか。"
+     1 string mchinese = "小時候滿懷理想，長大後理想逐漸忘卻。現在，還有機會實現嗎？"
+   [24175]
+    0 TableSoItemLang data
+     0 int id = 1115955
+     1 string schinese = "想了想发现并没有什么值得纪念的事情……"
+     1 string schinese_censored = "想了想发现并没有什么值得纪念的事情……"
+     1 string english = "Honestly, I can't think of anything worth remembering..."
+     1 string japanese = "考えても、これといった思い出はないことに気付いた…。"
+     1 string mchinese = "想了想發現並沒有什麼值得紀念的事情……"
+   [24176]
+    0 TableSoItemLang data
+     0 int id = 1596170463
+     1 string schinese = "爸妈这方面支持你，索要成功率+20%"
+     1 string schinese_censored = "爸妈这方面支持你，索要成功率+20%"
+     1 string english = "Your parents support you. +20% request success rate."
+     1 string japanese = "両親は賛成してくれる。要求成功率が20%増加"
+     1 string mchinese = "爸媽這方面支持你，索要成功率+20%"
+   [24177]
+    0 TableSoItemLang data
+     0 int id = 1596170464
+     1 string schinese = "父母觉得你表现很棒，满意度额外提升100%"
+     1 string schinese_censored = "父母觉得你表现很棒，满意度额外提升100%"
+     1 string english = "Your parents think you've done well. Satisfaction +100%."
+     1 string japanese = "両親はよくできたと思った。満足度がさらに100%増加"
+     1 string mchinese = "父母覺得你表現很棒，滿意度額外提升100%"
+   [24178]
+    0 TableSoItemLang data
+     0 int id = 1596170465
+     1 string schinese = "父母觉得这不是事儿，满意度下降减少"
+     1 string schinese_censored = "父母觉得这不是事儿，满意度下降减少"
+     1 string english = "Your parents think nothing of it. Satisfaction reduction reduced."
+     1 string japanese = "両親は、何ともないと思った。満足度減少が軽減"
+     1 string mchinese = "父母覺得這不是事兒，滿意度下降減少"
+   [24179]
+    0 TableSoItemLang data
+     0 int id = 1596170466
+     1 string schinese = "父母期望未达成，他们有点生气，要扣你零花钱"
+     1 string schinese_censored = "父母期望未达成，他们优点 生气，要扣你零花钱"
+     1 string english = "You fail to meet their expectations and they'll deduct some of your money."
+     1 string japanese = "両親の期待が未達成。彼らは腹を立て、お小遣いを減らした"
+     1 string mchinese = "父母期望未達成，他們有點生氣，要扣你零花錢"
+   [24180]
+    0 TableSoItemLang data
+     0 int id = 1596170467
+     1 string schinese = "零花钱被父母克扣了一部分"
+     1 string schinese_censored = "零花钱被父母克扣了一部分"
+     1 string english = "Your parents take away some of your money."
+     1 string japanese = "お小遣いの一部が両親に中抜きされた"
+     1 string mchinese = "零花錢被父母克扣了一部分"
+   [24181]
+    0 TableSoItemLang data
+     0 int id = 1596170468
+     1 string schinese = "父母无欲无求，自然也没啥奖励（期望奖励减少）"
+     1 string schinese_censored = "父母无欲无求，自然也没啥奖励（期望奖励减少）"
+     1 string english = "Your parents expect nothing of you and give no rewards (reduced Expectation rewards)."
+     1 string japanese = "両親は何も要求していないので、ご褒美もない（期待ボーナスが減少）"
+     1 string mchinese = "父母無欲無求，自然也沒啥獎勵（期望獎勵減少）"
+   [24182]
+    0 TableSoItemLang data
+     0 int id = 1596170469
+     1 string schinese = "父母擅长的领域，给了你很多辅导，省了悟性"
+     1 string schinese_censored = "父母擅长的领域，给了你很多辅导，省了悟性"
+     1 string english = "Your parents teach you in the subjects they excel in, saving you Knowledge."
+     1 string japanese = "両親が得意分野について教えてくれる。理解力の消費が減少"
+     1 string mchinese = "父母擅長的領域，給了你很多輔導，省了悟性"
+   [24183]
+    0 TableSoItemLang data
+     0 int id = 1596170470
+     1 string schinese = "父母很满意，多给了你一个索取机会"
+     1 string schinese_censored = "父母很满意，多给了你一个索取机会"
+     1 string english = "Your parents are satisfied and give you a chance at a Request."
+     1 string japanese = "両親は満足し、あなたにもう１回要求の機会をくれた"
+     1 string mchinese = "父母很滿意，多給了你一個索取機會"
+   [24184]
+    0 TableSoItemLang data
+     0 int id = 1596170471
+     1 string schinese = "父母不太擅长这些，影响了你，悟性消耗增多"
+     1 string schinese_censored = "父母不太擅长这些，影响了你，悟性消耗增多"
+     1 string english = "Your parents aren't very good at these and you spend more Knowledge."
+     1 string japanese = "両親はこれらが得意でない。理解力の消費が増加"
+     1 string mchinese = "父母不太擅長這些，影響了你，悟性消耗增多"
+   [24185]
+    0 TableSoItemLang data
+     0 int id = 1596170472
+     1 string schinese = "父母善于发现你的特长，获得特长概率提高"
+     1 string schinese_censored = "父母善于发现你的特长，获得特长概率提高"
+     1 string english = "Your parents know you, increasing your chance of acquiring traits."
+     1 string japanese = "両親はあなたの特技を見つけるのが得意だ。特技獲得確率が増加"
+     1 string mchinese = "父母善於發現你的特長，獲得特長概率提高"
+   [24186]
+    0 TableSoItemLang data
+     0 int id = 1596170473
+     1 string schinese = "父母觉得你应该自由成长，满意度下降减少"
+     1 string schinese_censored = "父母觉得你应该自由成长，满意度下降减少"
+     1 string english = "Your parents believe you should grow up free. Satisfaction reduction reduced."
+     1 string japanese = "両親は、あなたは自由に育てるべきだと思った。満足度減少が軽減"
+     1 string mchinese = "父母覺得你應該自由成長，滿意度下降減少"
+   [24187]
+    0 TableSoItemLang data
+     0 int id = 1596170474
+     1 string schinese = "父母十分鼓励你社交，效果加强"
+     1 string schinese_censored = "父母十分鼓励你社交，效果加强"
+     1 string english = "Your parents encourage you to socialize, increasing effects."
+     1 string japanese = "両親は、あなたの交際を奨励している。効果が増加"
+     1 string mchinese = "父母十分鼓勵你社交，效果加強"
+   [24188]
+    0 TableSoItemLang data
+     0 int id = 1596170475
+     1 string schinese = "父母觉得你长大了，不干涉你谈恋爱"
+     1 string schinese_censored = "父母觉得你长大了，不干涉你谈恋爱"
+     1 string english = "Your parents think you've grown up and won't prevent you from dating."
+     1 string japanese = "両親は、あなたはもう十分大人なのだからと、あなたの恋愛には干渉しないようにしている"
+     1 string mchinese = "父母覺得你長大了，不干涉你談戀愛"
+   [24189]
+    0 TableSoItemLang data
+     0 int id = 1596170476
+     1 string schinese = "父母不指望你上名牌大学，满意度上升变慢"
+     1 string schinese_censored = "父母不指望你上名牌大学，满意度上升变慢"
+     1 string english = "Your parents don't think you'll make it into a good university. Satisfaction increase slowed."
+     1 string japanese = "両親は、あなたが有名大学に入学することを望んではいない。満足度の上昇が鈍化"
+     1 string mchinese = "父母不指望你上名牌大學，滿意度上升變慢"
+   [24190]
+    0 TableSoItemLang data
+     0 int id = 1596170477
+     1 string schinese = "父母有点放纵你，天天休息不够，体力恢复变慢"
+     1 string schinese_censored = "父母有点放纵你，天天休息不够，体力恢复变慢"
+     1 string english = "Your parents let you do whatever you like, and you don't get enough rest, slowing recovery."
+     1 string japanese = "両親は、あなたを好きにさせている。毎日休息が足りず、体力回復が鈍化"
+     1 string mchinese = "父母有點放縱你，天天休息不夠，體力恢復變慢"
+   [24191]
+    0 TableSoItemLang data
+     0 int id = 1596170478
+     1 string schinese = "父母有时候也会耍赖，答应的东西不给，索取次数没有增加"
+     1 string schinese_censored = "父母有时候也会耍赖，答应的东西不给，索取次数没有增加"
+     1 string english = "Your parents are sometimes also lazy. They don't give you what they promised and you don't get any Requests."
+     1 string japanese = "両親は時々手を抜いて、約束したものをくれない。要求回数が増加しない"
+     1 string mchinese = "父母有時候也會耍賴，答應的東西不給，索取次數沒有增加"
+   [24192]
+    0 TableSoItemLang data
+     0 int id = 1596170479
+     1 string schinese = "队友A"
+     1 string schinese_censored = "队友A"
+     1 string english = "Teammate A"
+     1 string japanese = "チームメートＡ"
+     1 string mchinese = "隊友A"
+   [24193]
+    0 TableSoItemLang data
+     0 int id = 1596170480
+     1 string schinese = "重铸JNG荣光，我辈义不容辞！冠军，我们来了！"
+     1 string schinese_censored = "不了不了，还是让我们恭喜MCG喜提亚军，冠军奖杯我们JNG就不客气了！"
+     1 string english = "Let's fight for the glory of JNG! Let's win the championship!"
+     1 string japanese = "ＪＮＧの栄光を取り戻せ！優勝、待ってろ！"
+     1 string mchinese = "重鑄JNG榮光，我輩義不容辭！冠軍，我們來了！"
+   [24194]
+    0 TableSoItemLang data
+     0 int id = 1596170481
+     1 string schinese = "决赛垃圾话也录了很多次了，感觉说不出什么新意了，赢就完事儿了。"

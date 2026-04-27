@@ -1,0 +1,184 @@
+     1 string schinese_censored = ""
+     1 string english = "Recall"
+     1 string japanese = "キャンセル"
+     1 string mchinese = "撤回"
+   [22056]
+    0 TableSoItemLang data
+     0 int id = 6660248
+     1 string schinese = "胜利"
+     1 string schinese_censored = ""
+     1 string english = "Victory"
+     1 string japanese = "勝利"
+     1 string mchinese = "勝利"
+   [22057]
+    0 TableSoItemLang data
+     0 int id = 6660249
+     1 string schinese = "失败"
+     1 string schinese_censored = ""
+     1 string english = "Defeat"
+     1 string japanese = "敗北"
+     1 string mchinese = "失敗"
+   [22058]
+    0 TableSoItemLang data
+     0 int id = 6660250
+     1 string schinese = "当前期望："
+     1 string schinese_censored = "当前期望："
+     1 string english = "Expectation(s): "
+     1 string japanese = "現在の期待："
+     1 string mchinese = "當前期望："
+   [22059]
+    0 TableSoItemLang data
+     0 int id = 6660251
+     1 string schinese = "查看"
+     1 string schinese_censored = "查看"
+     1 string english = "View"
+     1 string japanese = "確認"
+     1 string mchinese = "查看"
+   [22060]
+    0 TableSoItemLang data
+     0 int id = 6660252
+     1 string schinese = "弃权"
+     1 string schinese_censored = ""
+     1 string english = "Forfeit"
+     1 string japanese = "放棄"
+     1 string mchinese = "棄權"
+   [22061]
+    0 TableSoItemLang data
+     0 int id = 6660253
+     1 string schinese = "比赛失利"
+     1 string schinese_censored = ""
+     1 string english = "Match Lost"
+     1 string japanese = "敗北"
+     1 string mchinese = "比賽失利"
+   [22062]
+    0 TableSoItemLang data
+     0 int id = 6660254
+     1 string schinese = "推荐出牌"
+     1 string schinese_censored = ""
+     1 string english = "Recommended Cards"
+     1 string japanese = "おすすめカード"
+     1 string mchinese = "推薦出牌"
+   [22063]
+    0 TableSoItemLang data
+     0 int id = 6660255
+     1 string schinese = "（{0}/6）\n下一回合"
+     1 string schinese_censored = "（{0}/6）\n下一回合"
+     1 string english = "({0}/6)\nNext Turn"
+     1 string japanese = "（{0}/6）\n次のターン"
+     1 string mchinese = "（{0}/6）\n下一回合"
+   [22064]
+    0 TableSoItemLang data
+     0 int id = 6660256
+     1 string schinese = "{0}平方米"
+     1 string schinese_censored = ""
+     1 string english = "{0} m²"
+     1 string japanese = "{0}平方メートル"
+     1 string mchinese = "{0}平方米"
+   [22065]
+    0 TableSoItemLang data
+     0 int id = 6660257
+     1 string schinese = "*阴影面积满就会离家出走OTZ...*"
+     1 string schinese_censored = ""
+     1 string english = "*Reaching max Mind Shadow size will make the child leave home...*"
+     1 string japanese = "※トラウマ領域が限界まで広がると、家出してしまう…"
+     1 string mchinese = "*陰影面積滿就會離家出走OTZ...*"
+   [22066]
+    0 TableSoItemLang data
+     0 int id = 6660258
+     1 string schinese = "培训点：\n用于才艺进阶，可在培训玩法中使用"
+     1 string schinese_censored = ""
+     1 string english = "後續功能，暫不翻譯"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "培訓點：\n用於才藝進階，可在培訓玩法中使用"
+   [22067]
+    0 TableSoItemLang data
+     0 int id = 6660259
+     1 string schinese = "培训点"
+     1 string schinese_censored = ""
+     1 string english = "後續功能，暫不翻譯"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "培訓點"
+   [22068]
+    0 TableSoItemLang data
+     0 int id = 6660260
+     1 string schinese = "你想成为怎样的父母呢？"
+     1 string schinese_censored = "你想成为怎样的父母呢？"
+     1 string english = "Which type of parent do you want to be?"
+     1 string japanese = "どんな親になりたい？"
+     1 string mchinese = "你想成為怎樣的父母呢？"
+   [22069]
+    0 TableSoItemLang data
+     0 int id = 6660261
+     1 string schinese = "在[{0}]方面，你会？"
+     1 string schinese_censored = "在[{0}]方面，你会？"
+     1 string english = "What's your attitude towards [{0}]?"
+     1 string japanese = "[{0}]はどう？"
+     1 string mchinese = "在[{0}]方面，你會？"
+   [22070]
+    0 TableSoItemLang data
+     0 int id = 6660262
+     1 string schinese = "你的测评结果为"
+     1 string schinese_censored = "你的测评结果为"
+     1 string english = "Your test result is:"
+     1 string japanese = "あなたの評価："
+     1 string mchinese = "你的測評結果為"
+   [22071]
+    0 TableSoItemLang data
+     0 int id = 6660263
+     1 string schinese = "你确定想成为这样的父母吗？"
+     1 string schinese_censored = "你确定想成为这样的父母吗？"
+     1 string english = "Are you sure you want to be this type of parent?"
+     1 string japanese = "本当にこのような両親になりたい？"
+     1 string mchinese = "你確定想成為這樣的父母嗎？"
+   [22072]
+    0 TableSoItemLang data
+     0 int id = 6660264
+     1 string schinese = "是的，这就是我"
+     1 string schinese_censored = "是的，这就是我"
+     1 string english = "Yeah. That's me."
+     1 string japanese = "そう、これが自分だ"
+     1 string mchinese = "是的，這就是我"
+   [22073]
+    0 TableSoItemLang data
+     0 int id = 6660265
+     1 string schinese = "有点烦，再想想"
+     1 string schinese_censored = "有点烦，再想想"
+     1 string english = "No. Let me mull it over."
+     1 string japanese = "違うな、もう１回"
+     1 string mchinese = "有點煩，再想想"
+   [22074]
+    0 TableSoItemLang data
+     0 int id = 6660266
+     1 string schinese = "人生可没有那么多机会让你后悔自己的选择~"
+     1 string schinese_censored = "人生可没有那么多机会让你后悔自己的选择~"
+     1 string english = "You don't get to have so many chances to regret your life choices!"
+     1 string japanese = "人生、これほど悩ましい選択は少ないぞ"
+     1 string mchinese = "人生可沒有那麼多機會讓你後悔自己的選擇~"
+   [22075]
+    0 TableSoItemLang data
+     0 int id = 6660267
+     1 string schinese = "（大家都是第一次当父母，为了您的孩子，请慎重选择）"
+     1 string schinese_censored = "（大家都是第一次当父母，为了您的孩子，请慎重选择）"
+     1 string english = "(Most of us become first-time parents at some time. Be sure to make cautious choices for your child.)"
+     1 string japanese = "（誰もが初めて親になる。子どものため、慎重に選択しよう）"
+     1 string mchinese = "（大家都是第一次當父母，為了您的孩子，請慎重選擇）"
+   [22076]
+    0 TableSoItemLang data
+     0 int id = 6660268
+     1 string schinese = "---???---"
+     1 string schinese_censored = "---???---"
+     1 string english = "---???---"
+     1 string japanese = "---???---"
+     1 string mchinese = "---???---"
+   [22077]
+    0 TableSoItemLang data
+     0 int id = 6660269
+     1 string schinese = "父母类型："
+     1 string schinese_censored = "父母类型："
+     1 string english = "Parent Type: "
+     1 string japanese = "両親タイプ："
+     1 string mchinese = "父母類型："
+   [22078]
+    0 TableSoItemLang data
+     0 int id = 6660270
+     1 string schinese = "效果说明"

@@ -1,0 +1,184 @@
+     1 string schinese_censored = "不要给我刷礼物！"
+     1 string english = "Please, there's no need to donate!"
+     1 string japanese = "プレゼントなんていらないよ！"
+     1 string mchinese = "不要給我刷禮物！"
+   [2667]
+    0 TableSoItemLang data
+     0 int id = 1012668
+     1 string schinese = "存钱才是王道"
+     1 string schinese_censored = "存钱才是王道"
+     1 string english = "Saving one's money is the true way to go!"
+     1 string japanese = "貯金こそが王道だ。"
+     1 string mchinese = "存錢才是王道"
+   [2668]
+    0 TableSoItemLang data
+     0 int id = 1012669
+     1 string schinese = "资产才能躺着赚钱"
+     1 string schinese_censored = "资产才能躺着赚钱"
+     1 string english = "Hah, assets are what you need if you want the money to work for you."
+     1 string japanese = "資産運用できれば寝ながら大金が稼げる。"
+     1 string mchinese = "資產才能躺著賺錢"
+   [2669]
+    0 TableSoItemLang data
+     0 int id = 1012670
+     1 string schinese = "四大会计师事务所必会内容"
+     1 string schinese_censored = "四大会计师事务所必会内容"
+     1 string english = "All of the best accountants have learned its contents."
+     1 string japanese = "四大会計事務所の必須項目。"
+     1 string mchinese = "四大會計師事務所必會內容"
+   [2670]
+    0 TableSoItemLang data
+     0 int id = 1012671
+     1 string schinese = "金融行业最需要这个！"
+     1 string schinese_censored = "金融行业最需要这个！"
+     1 string english = "This is much needed in the financial world!"
+     1 string japanese = "金融業界でこれが一番必要とされている！"
+     1 string mchinese = "金融行業最需要這個！"
+   [2671]
+    0 TableSoItemLang data
+     0 int id = 1012672
+     1 string schinese = "搞个金融模型赚翻了！"
+     1 string schinese_censored = "搞个金融模型赚翻了！"
+     1 string english = "Creating a new financial model makes you a ton of money!"
+     1 string japanese = "金融モデリングで大儲けだ！"
+     1 string mchinese = "搞個金融模型賺翻了！"
+   [2672]
+    0 TableSoItemLang data
+     0 int id = 1012673
+     1 string schinese = "最喜欢的公司是伯克希尔哈哈喂"
+     1 string schinese_censored = "最喜欢的公司是伯克希尔哈哈喂"
+     1 string english = "I just love it when I find really undervalued stocks, hoho!"
+     1 string japanese = "バークシャーが大好きです。"
+     1 string mchinese = "最喜歡的公司是伯克希爾哈哈喂"
+   [2673]
+    0 TableSoItemLang data
+     0 int id = 1012674
+     1 string schinese = "10万加文章不如当面说"
+     1 string schinese_censored = "10万加文章不如当面说"
+     1 string english = "Speaking face to face is worth a thousand texts."
+     1 string japanese = "ＰＶ数を１０万以上稼ぐより、面と向かって話した方が効果はある。"
+     1 string mchinese = "10萬加文章不如當面說"
+   [2674]
+    0 TableSoItemLang data
+     0 int id = 1012675
+     1 string schinese = "辩论是辩论，见证奇迹"
+     1 string schinese_censored = "辩论是辩论，见证奇迹"
+     1 string english = "Debating is debating, and proof is miracle."
+     1 string japanese = "弁論で奇跡を見せてやる。"
+     1 string mchinese = "辯論是辯論，見證奇跡"
+   [2675]
+    0 TableSoItemLang data
+     0 int id = 1012676
+     1 string schinese = "大学才会学的数学知识"
+     1 string schinese_censored = "大学才会学的数学知识"
+     1 string english = "Math knowledge which you don't get to study until university."
+     1 string japanese = "大学で学ぶ数学知識まで知っている。"
+     1 string mchinese = "大學才會學的數學知識"
+   [2676]
+    0 TableSoItemLang data
+     0 int id = 1012677
+     1 string schinese = "可以解决大多数实际用到的数学问题"
+     1 string schinese_censored = "可以解决大多数实际用到的数学问题"
+     1 string english = "Can be used to solve most issues which require the application of math."
+     1 string japanese = "現実の数学的問題は大体これで解決できる。"
+     1 string mchinese = "可以解決大多數實際用到的數學問題"
+   [2677]
+    0 TableSoItemLang data
+     0 int id = 1012678
+     1 string schinese = "数学系专业才需要学的知识"
+     1 string schinese_censored = "数学系专业才需要学的知识"
+     1 string english = "Mathematical knowledge is the only true knowledge."
+     1 string japanese = "数学専攻でしか学ばない専門知識だ。"
+     1 string mchinese = "數學系專業才需要學的知識"
+   [2678]
+    0 TableSoItemLang data
+     0 int id = 1012679
+     1 string schinese = "理论数学没有被智子封锁！"
+     1 string schinese_censored = "理论数学没有被智子封锁！"
+     1 string english = "Not all theoretical math problems have been solved by wiser men!"
+     1 string japanese = "理論数学は今までずっと世界から大切にされてきた。"
+     1 string mchinese = "理論數學沒有被智子封鎖！"
+   [2679]
+    0 TableSoItemLang data
+     0 int id = 1012680
+     1 string schinese = "我只知道学这个的，行为都异于常人"
+     1 string schinese_censored = "我只知道学这个的，行为都异于常人"
+     1 string english = "Studying this is all I'm good for, and I don't act like a normal person would."
+     1 string japanese = "これを勉強している人は、変わった人ばかりだ。"
+     1 string mchinese = "我只知道學這個的，行為都異於常人"
+   [2680]
+    0 TableSoItemLang data
+     0 int id = 1012681
+     1 string schinese = "谢耳朵就是这个专业的"
+     1 string schinese_censored = "谢耳朵就是这个专业的"
+     1 string english = "This is what Sheldon works with."
+     1 string japanese = "シェルドンはこれを専攻していたんだよ。"
+     1 string mchinese = "謝耳朵就是這個專業的"
+   [2681]
+    0 TableSoItemLang data
+     0 int id = 1012682
+     1 string schinese = "没看过三体吗？那你回去补补课吧"
+     1 string schinese_censored = "没看过三体吗？那你回去补补课吧"
+     1 string english = "What?! You haven't read that galactic hitchhiking thingy? You'd better go and give it a read."
+     1 string japanese = "『三体』という小説を読んだことないの？読んでみて。"
+     1 string mchinese = "沒看過三體嗎？那你回去補補課吧"
+   [2682]
+    0 TableSoItemLang data
+     0 int id = 1012683
+     1 string schinese = "忍者的物语，要知道过去，忠心是唯一"
+     1 string schinese_censored = "忍者的物语，要知道过去，忠心是唯一"
+     1 string english = "Ninja's have a saying: “You must know the past and that loyalty is all.”"
+     1 string japanese = "忠誠心が大事だ！忍者記にもそう書かれている。"
+     1 string mchinese = "忍者的物語，要知道過去，忠心是唯一"
+   [2683]
+    0 TableSoItemLang data
+     0 int id = 1012684
+     1 string schinese = "要忘记，什么是自己"
+     1 string schinese_censored = "要忘记，什么是自己"
+     1 string english = "You must forget the meaning of self."
+     1 string japanese = "自分を捨てろ。"
+     1 string mchinese = "要忘記，什麼是自己"
+   [2684]
+    0 TableSoItemLang data
+     0 int id = 1012685
+     1 string schinese = "只要体术和忍术控制合格，就可轻松考取"
+     1 string schinese_censored = "只要体术和忍术控制合格，就可轻松考取"
+     1 string english = "All you need to pass the exam is control over taijutsu and ninjutsu."
+     1 string japanese = "体術と忍術のコントロールさえできれば、簡単に取れるよ。"
+     1 string mchinese = "只要體術和忍術控制合格，就可輕鬆考取"
+   [2685]
+    0 TableSoItemLang data
+     0 int id = 1012686
+     1 string schinese = "村里已经容不下你了"
+     1 string schinese_censored = "村里已经容不下你了"
+     1 string english = "There's no place for you in the village anymore."
+     1 string japanese = "もうお前に教えることはない。"
+     1 string mchinese = "村裏已經容不下你了"
+   [2686]
+    0 TableSoItemLang data
+     0 int id = 1012687
+     1 string schinese = "现在你是第若干代目的水影了"
+     1 string schinese_censored = "现在你是第若干代目的水影了"
+     1 string english = "You are now the new generation's Mizukage."
+     1 string japanese = "お前こそ次の水影だ。"
+     1 string mchinese = "現在你是第若干代目的水影了"
+   [2687]
+    0 TableSoItemLang data
+     0 int id = 1012688
+     1 string schinese = "说来你可能不信，是衣服先动的手"
+     1 string schinese_censored = "说来你可能不信，是衣服先动的手"
+     1 string english = "You won't believe me even if I tell you, but it was the clothes who attacked first."
+     1 string japanese = "服を買うのではない。服に買わされるんだ。"
+     1 string mchinese = "說來你可能不信，是衣服先動的手"
+   [2688]
+    0 TableSoItemLang data
+     0 int id = 1012689
+     1 string schinese = "从此，突破次元壁不是梦"
+     1 string schinese_censored = "从此，突破次元壁不是梦"
+     1 string english = "From now on, breaking the fourth wall is an easy feat!"
+     1 string japanese = "次元を越えるのも夢じゃない。"
+     1 string mchinese = "從此，突破次元壁不是夢"
+   [2689]
+    0 TableSoItemLang data
+     0 int id = 1012690
+     1 string schinese = "注意表情管理，拒绝成为表情包"

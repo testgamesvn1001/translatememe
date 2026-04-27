@@ -1,0 +1,184 @@
+     1 string schinese_censored = "每次都这样说，下学期后下学期，下个学期后又下个学期，都三个学期了老大，人生有几个学期？"
+     1 string english = "You're always saying "next semester, next semester." How many semesters can you have?"
+     1 string japanese = "いつもそればっかね。次の学期、次の学期で、もう三学期よ！人生は何学期あるの？"
+     1 string mchinese = "每次都這樣說，下學期後下學期，下個學期後又下個學期，都三個學期了老大，人生有幾個學期？"
+   [10717]
+    0 TableSoItemLang data
+     0 int id = 1020718
+     1 string schinese = "我只想做一个好学生！我不想做什么社团的大姐头！"
+     1 string schinese_censored = "我只想做一个好学生！我不想做什么社团的大姐头！"
+     1 string english = "I just want to be a good student! I don't want to be an influential person in society!"
+     1 string japanese = "ただのいい生徒になりたいだけ！ボスになるとか興味ない！"
+     1 string mchinese = "我只想做一個好學生！我不想做什麼社團的大姐頭！"
+   [10718]
+    0 TableSoItemLang data
+     0 int id = 1020719
+     1 string schinese = "再忍忍吧，以后考警校我关照你！！"
+     1 string schinese_censored = "再忍忍吧，以后考警校我关照你！！"
+     1 string english = "Keep it up. I'm keeping an eye on you for the police academy exam."
+     1 string japanese = "もう少し耐えてくれ。警察学校の入試で便宜を図ってやるから！"
+     1 string mchinese = "再忍忍吧，以後考警校我關照你！！"
+   [10719]
+    0 TableSoItemLang data
+     0 int id = 1020720
+     1 string schinese = "怎么回事，这么晚打电话给我……"
+     1 string schinese_censored = "怎么回事，这么晚打电话给我……"
+     1 string english = "What's going on? Calling me this late..."
+     1 string japanese = "どうしたの？こんな時間に電話なんて。"
+     1 string mchinese = "怎麼回事，這麼晚打電話給我……"
+   [10720]
+    0 TableSoItemLang data
+     0 int id = 1020721
+     1 string schinese = "我在网咖被抓了……我爸要把我送到戒网瘾书院！！"
+     1 string schinese_censored = "我在网咖被抓了……我爸要把我送到戒网瘾书院！！"
+     1 string english = "I was caught at the internet cafe...my dad wants to send me to the internet addiction ward!!"
+     1 string japanese = "親父にネカフェがバレちまいました。ネット依存治療学校に入れられそうです！！"
+     1 string mchinese = "我在網咖被抓了……我爸要把我送到戒網癮書院！！"
+   [10721]
+    0 TableSoItemLang data
+     0 int id = 1020722
+     1 string schinese = "什么？那么安全的地方，怎么会被别人发现？难道有内鬼？"
+     1 string schinese_censored = "什么？那么安全的地方，怎么会被别人发现？难道有内鬼？"
+     1 string english = "What? How'd you get found in such a safe place? Is there a rat?"
+     1 string japanese = "なんで？あそこは安全なはず…まさか、スパイ？"
+     1 string mchinese = "什麼？那麼安全的地方，怎麼會被別人發現？難道有內鬼？"
+   [10722]
+    0 TableSoItemLang data
+     0 int id = 1020723
+     1 string schinese = "志伟叔说，今晚谁没来吃鸡，谁就是卧底……"
+     1 string schinese_censored = "志伟叔说，今晚谁没来吃鸡，谁就是卧底……"
+     1 string english = "Uncle Zhang said whoever doesn't make it online today. That's who the rat is..."
+     1 string japanese = "今夜オンラインじゃなかったやつがスパイだろうって、シュウおじさんが言ってました。"
+     1 string mchinese = "志偉叔說，今晚誰沒來吃雞，誰就是臥底……"
+   [10723]
+    0 TableSoItemLang data
+     0 int id = 1020724
+     1 string schinese = "还好我没跟他说你在家玩主机游戏了……不然被发现就遭了……"
+     1 string schinese_censored = "还好我没跟他说你在家玩主机游戏了……不然被发现就遭了……"
+     1 string english = "Good thing I didn't tell him you were at home playing console games or else..."
+     1 string japanese = "安心してください。姉さんがゲームしてたことはバラしてません。"
+     1 string mchinese = "還好我沒跟他說你在家玩主機遊戲了……不然被發現就遭了……"
+   [10724]
+    0 TableSoItemLang data
+     0 int id = 1020725
+     1 string schinese = "…………"
+     1 string schinese_censored = "…………"
+     1 string english = "..."
+     1 string japanese = "…"
+     1 string mchinese = "…………"
+   [10725]
+    0 TableSoItemLang data
+     0 int id = 1020726
+     1 string schinese = "这一代的奎爷还那样酷吗？如果奎爷都开始养老、生娃了，那就没意思了……"
+     1 string schinese_censored = "这一代的奎爷还那样酷吗？如果奎爷都开始养老、生娃了，那就没意思了……"
+     1 string english = "Kraetos is old but still cool as hell! I guess it would be boring if he just aged like a normal person."
+     1 string japanese = "あーあ、学校逃げ出す頃にはあれの新作も出ちゃってるのかなぁ…"
+     1 string mchinese = "這一代的奎爺還那樣酷嗎？如果奎爺都開始養老、生娃了，那就沒意思了……"
+   [10726]
+    0 TableSoItemLang data
+     0 int id = 1020727
+     1 string schinese = "我爸来了，你要记住，就算我被电死了……也千万别来救我……"
+     1 string schinese_censored = "我爸来了，你要记住，就算我被电死了……也千万别来救我……"
+     1 string english = "My dad is coming. Remember, even if I'm dying, don't come to save me."
+     1 string japanese = "あっ、親父が来た。助けはいりません…どうか俺のことを覚えていてください…"
+     1 string mchinese = "我爸來了，你要記住，就算我被電死了……也千萬別來救我……"
+   [10727]
+    0 TableSoItemLang data
+     0 int id = 1020728
+     1 string schinese = "阿强…………"
+     1 string schinese_censored = "阿强…………"
+     1 string english = "Grunter..."
+     1 string japanese = "チャン…"
+     1 string mchinese = "阿強…………"
+   [10728]
+    0 TableSoItemLang data
+     0 int id = 1020729
+     1 string schinese = "关于江湖的是是非非，都已经远去，耳边传来了那首熟悉的歌。"
+     1 string schinese_censored = "关于江湖的是是非非，都已经远去，耳边传来了那首熟悉的歌。"
+     1 string english = "Whether right or wrong, it's all in the past now. I'm hearing a familiar song."
+     1 string japanese = "良かれ悪しかれ、すべてはもはや過去のことだ。どこかから懐かしい歌が流れてくる。"
+     1 string mchinese = "關於江湖的是是非非，都已經遠去，耳邊傳來了那首熟悉的歌。"
+   [10729]
+    0 TableSoItemLang data
+     0 int id = 1020730
+     1 string schinese = "“是谁在敲打我窗，是谁在撩动琴弦。”"
+     1 string schinese_censored = "“是谁”"
+     1 string english = ""Who's knocking on my window? Who's playing that instrument?""
+     1 string japanese = "自伝「独闘」最終章：「誰かが心の扉を叩く、誰かが楽器の弦を弾く」"
+     1 string mchinese = "“是誰在敲打我窗，是誰在撩動琴弦。”"
+   [10730]
+    0 TableSoItemLang data
+     0 int id = 1020731
+     1 string schinese = "你在自传《一个人的战斗》的结尾中写道：希望大家以和为贵。"
+     1 string schinese_censored = "你在自传《一个人的战斗》的结尾中写道：希望大家以和为贵。"
+     1 string english = "The message at the end of your novel "One Man's Battle" is "harmony is precious.""
+     1 string japanese = "ようやく書き終わりそうだ。最後に「平和が一番大切だ」と記した。"
+     1 string mchinese = "你在自傳《一個人的戰鬥》的結尾中寫道：希望大家以和為貴。"
+   [10731]
+    0 TableSoItemLang data
+     0 int id = 1020732
+     1 string schinese = "哎呀，这个电脑怎么总是开不了机？"
+     1 string schinese_censored = "哎呀，这个计算机怎么总是开不了机？"
+     1 string english = "Why can't this computer ever turn on properly?"
+     1 string japanese = "はあ、なんでこのパソコン、電源つかないのかしら…？"
+     1 string mchinese = "哎呀，這個電腦怎麼總是開不了機？"
+   [10732]
+    0 TableSoItemLang data
+     0 int id = 1020733
+     1 string schinese = "估计是驱动有问题，我重装下就好"
+     1 string schinese_censored = "估计是驱动有问题，我重装下就好"
+     1 string english = "It's probably a problem with the drivers. I'll reinstall them for you."
+     1 string japanese = "ドライブが原因かなあ…。再インストールしてみる。"
+     1 string mchinese = "估計是驅動有問題，我重裝下就好"
+   [10733]
+    0 TableSoItemLang data
+     0 int id = 1020734
+     1 string schinese = "还真行啊！不过女孩子还得多出门，整天摆弄这些机器，以后你要嫁给电脑么？"
+     1 string schinese_censored = "还真行啊！不过女孩子还得多出门，整天摆弄这些机器，以后你要嫁给计算机么？"
+     1 string english = "Not bad! But girls should go out more unless you intend on marrying a computer."
+     1 string japanese = "すごいわ！でも女の子なんだから、たまには外出でもしたら？毎日機械イジりなんて、機械と結婚するつもり？"
+     1 string mchinese = "還真行啊！不過女孩子還得多出門，整天擺弄這些機器，以後你要嫁給電腦麼？"
+   [10734]
+    0 TableSoItemLang data
+     0 int id = 1020735
+     1 string schinese = "在家玩什么呢？"
+     1 string schinese_censored = "在家玩什么呢？"
+     1 string english = "What are you doing at home?"
+     1 string japanese = "家でずっと何してんの？"
+     1 string mchinese = "在家玩什麼呢？"
+   [10735]
+    0 TableSoItemLang data
+     0 int id = 1020736
+     1 string schinese = "偶像志愿2~真不错，最喜欢可爱的女孩子了~你玩了么？"
+     1 string schinese_censored = "偶像志愿2~真不错，最喜欢可爱的女孩子了~你玩了么？"
+     1 string english = "Idol Wish 2. Not bad at all. There's so many cute girls. Have you played it before?"
+     1 string japanese = "アイドルマネージャーよ。可愛い子が大好きなの。あなたはやったことある？"
+     1 string mchinese = "偶像志願2~真不錯，最喜歡可愛的女孩子了~你玩了麼？"
+   [10736]
+    0 TableSoItemLang data
+     0 int id = 1020737
+     1 string schinese = "不了不了，最近学编程PHP……"
+     1 string schinese_censored = "不了不了，最近学编程超文本预处理……"
+     1 string english = "Nope, I've been learning PHP..."
+     1 string japanese = "いいや…、最近はPHPを勉強してるからさ…"
+     1 string mchinese = "不了不了，最近學編程PHP……"
+   [10737]
+    0 TableSoItemLang data
+     0 int id = 1020738
+     1 string schinese = "好复杂的样子，不过感觉很神秘，我也很想学学看~"
+     1 string schinese_censored = "好复杂的样子，不过感觉很神秘，我也很想学学看~"
+     1 string english = "That sounds complicated but also mysterious at the same time. I want to learn it as well."
+     1 string japanese = "プログラムって、複雑だけど神秘的な感じ。私もやってみたいな。"
+     1 string mchinese = "好複雜的樣子，不過感覺很神秘，我也很想學學看~"
+   [10738]
+    0 TableSoItemLang data
+     0 int id = 1020739
+     1 string schinese = "hey~最近想做一个小网站，有没有兴趣一起搞搞？"
+     1 string schinese_censored = "嗨~最近想做一个小网站，有没有兴趣一起搞搞？"
+     1 string english = "Hey. I want to make a website. You interested?"
+     1 string japanese = "やぁ、ちょっとしたサイトをつくるつもりなんだけど、興味ある？"
+     1 string mchinese = "hey~最近想做一個小網站，有沒有興趣一起搞搞？"
+   [10739]
+    0 TableSoItemLang data
+     0 int id = 1020740
+     1 string schinese = "什么网站啊？我可不做很黄很暴力的网站！"

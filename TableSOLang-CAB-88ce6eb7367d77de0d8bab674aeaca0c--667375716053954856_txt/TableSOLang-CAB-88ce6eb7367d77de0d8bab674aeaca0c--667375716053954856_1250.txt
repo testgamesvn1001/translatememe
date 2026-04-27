@@ -1,0 +1,184 @@
+     1 string schinese_censored = "延迟满足"
+     1 string english = "Delayed Gratification"
+     1 string japanese = "衝動制御"
+     1 string mchinese = "延遲滿足"
+   [28726]
+    0 TableSoItemLang data
+     0 int id = 8011003
+     1 string schinese = "独处"
+     1 string schinese_censored = "独处"
+     1 string english = "Be Alone"
+     1 string japanese = "独り"
+     1 string mchinese = "獨處"
+   [28727]
+    0 TableSoItemLang data
+     0 int id = 8011004
+     1 string schinese = "手指舞"
+     1 string schinese_censored = "手指舞"
+     1 string english = "Finger Dancing"
+     1 string japanese = "フィンガータット"
+     1 string mchinese = "手指舞"
+   [28728]
+    0 TableSoItemLang data
+     0 int id = 8011005
+     1 string schinese = "野外生存"
+     1 string schinese_censored = "野外生存"
+     1 string english = "Wilderness Survival"
+     1 string japanese = "サバイバル"
+     1 string mchinese = "野外生存"
+   [28729]
+    0 TableSoItemLang data
+     0 int id = 8011006
+     1 string schinese = "国际象棋"
+     1 string schinese_censored = "国际象棋"
+     1 string english = "Chess"
+     1 string japanese = "チェス"
+     1 string mchinese = "國際象棋"
+   [28730]
+    0 TableSoItemLang data
+     0 int id = 8011007
+     1 string schinese = "自我训练"
+     1 string schinese_censored = "自我训练"
+     1 string english = "Self Training"
+     1 string japanese = "自主トレ"
+     1 string mchinese = "自我訓練"
+   [28731]
+    0 TableSoItemLang data
+     0 int id = 8210001
+     1 string schinese = "英雄币进化！——英雄勺！\n\n【智商】【想象力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗40点悟性。"
+     1 string schinese_censored = "英雄币进化！——英雄勺！\n\n【智商】【想象力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗40点悟性。"
+     1 string english = "One-trick pony?! I'm a two-trick one!\n\nKnowledge cost decreases with [IQ], [Imagination], and [Constitution].\n\nMinimum Knowledge Cost: 40"
+     1 string japanese = "得意キャラは２体だけだったけど——５体は使えるようになった！\n\n【ＩＱ】【想像力】【体力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:40"
+     1 string mchinese = "英雄幣進化！——英雄勺！\n\n【智商】【想像力】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗40點悟性。"
+   [28732]
+    0 TableSoItemLang data
+     0 int id = 8210002
+     1 string schinese = "英雄币进化！——英雄勺！\n\n【智商】【想象力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗50点悟性。"
+     1 string schinese_censored = "英雄币进化！——英雄勺！\n\n【智商】【想象力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗50点悟性。"
+     1 string english = "One-trick pony?! I'm a two-trick one!\n\nKnowledge cost decreases with [IQ], [Imagination], and [Constitution].\n\nMinimum Knowledge Cost: 50"
+     1 string japanese = "得意キャラは２体だけだったけど——５体は使えるようになった！\n\n【ＩＱ】【想像力】【体力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:50"
+     1 string mchinese = "英雄幣進化！——英雄勺！\n\n【智商】【想像力】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗50點悟性。"
+   [28733]
+    0 TableSoItemLang data
+     0 int id = 8210003
+     1 string schinese = "英雄币进化！——英雄勺！\n\n【智商】【想象力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗60点悟性。"
+     1 string schinese_censored = "英雄币进化！——英雄勺！\n\n【智商】【想象力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗60点悟性。"
+     1 string english = "One-trick pony?! I'm a two-trick one!\n\nKnowledge cost decreases with [IQ], [Imagination], and [Constitution].\n\nMinimum Knowledge Cost: 60"
+     1 string japanese = "得意キャラは２体だけだったけど——５体は使えるようになった！\n\n【ＩＱ】【想像力】【体力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:60"
+     1 string mchinese = "英雄幣進化！——英雄勺！\n\n【智商】【想像力】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗60點悟性。"
+   [28734]
+    0 TableSoItemLang data
+     0 int id = 8210004
+     1 string schinese = "新的出装，新的游戏，新的世界！\n\n【智商】【想象力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗60点悟性。"
+     1 string schinese_censored = "新的出装，新的游戏，新的世界！\n\n【智商】【想象力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗60点悟性。"
+     1 string english = "A new item build, a whole new game!\n\nKnowledge cost decreases with [IQ], [Imagination], and [Constitution].\n\nMinimum Knowledge Cost: 60"
+     1 string japanese = "新しいビルド、新しいゲーム、新しい世界！\n\n【ＩＱ】【想像力】【体力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:60"
+     1 string mchinese = "新的出裝，新的遊戲，新的世界！\n\n【智商】【想像力】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗60點悟性。"
+   [28735]
+    0 TableSoItemLang data
+     0 int id = 8210005
+     1 string schinese = "新的出装，新的游戏，新的世界！\n\n【智商】【想象力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗70点悟性。"
+     1 string schinese_censored = "新的出装，新的游戏，新的世界！\n\n【智商】【想象力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗70点悟性。"
+     1 string english = "A new item build, a whole new game!\n\nKnowledge cost decreases with [IQ], [Imagination], and [Constitution].\n\nMinimum Knowledge Cost: 70"
+     1 string japanese = "新しいビルド、新しいゲーム、新しい世界！\n\n【ＩＱ】【想像力】【体力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:70"
+     1 string mchinese = "新的出裝，新的遊戲，新的世界！\n\n【智商】【想像力】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗70點悟性。"
+   [28736]
+    0 TableSoItemLang data
+     0 int id = 8210006
+     1 string schinese = "新的出装，新的游戏，新的世界！\n\n【智商】【想象力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗70点悟性。"
+     1 string schinese_censored = "新的出装，新的游戏，新的世界！\n\n【智商】【想象力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗70点悟性。"
+     1 string english = "A new item build, a whole new game!\n\nKnowledge cost decreases with [IQ], [Imagination], and [Constitution].\n\nMinimum Knowledge Cost: 70"
+     1 string japanese = "新しいビルド、新しいゲーム、新しい世界！\n\n【ＩＱ】【想像力】【体力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:70"
+     1 string mchinese = "新的出裝，新的遊戲，新的世界！\n\n【智商】【想像力】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗70點悟性。"
+   [28737]
+    0 TableSoItemLang data
+     0 int id = 8210007
+     1 string schinese = "新的套路已经出现，怎么能够停止不前？\n\n【智商】【想象力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗80点悟性。"
+     1 string schinese_censored = "新的套路已经出现，怎么能够停止不前？\n\n【智商】【想象力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗80点悟性。"
+     1 string english = "A new strategy to beat them all!\n\nKnowledge cost decreases with [IQ], [Imagination], and [Constitution].\n\nMinimum Knowledge Cost: 80"
+     1 string japanese = "新しい戦略が登場した。どうして前進を止められよう。\n\n【ＩＱ】【想像力】【体力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:80"
+     1 string mchinese = "新的套路已經出現，怎麼能夠停止不前？\n\n【智商】【想像力】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗80點悟性。"
+   [28738]
+    0 TableSoItemLang data
+     0 int id = 8210008
+     1 string schinese = "新的套路已经出现，怎么能够停止不前？\n\n【智商】【想象力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗90点悟性。"
+     1 string schinese_censored = "新的套路已经出现，怎么能够停止不前？\n\n【智商】【想象力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗90点悟性。"
+     1 string english = "A new strategy to beat them all!\n\nKnowledge cost decreases with [IQ], [Imagination], and [Constitution].\n\nMinimum Knowledge Cost: 90"
+     1 string japanese = "新しい戦略が登場した。どうして前進を止められよう。\n\n【ＩＱ】【想像力】【体力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:90"
+     1 string mchinese = "新的套路已經出現，怎麼能夠停止不前？\n\n【智商】【想像力】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗90點悟性。"
+   [28739]
+    0 TableSoItemLang data
+     0 int id = 8210009
+     1 string schinese = "新的套路已经出现，怎么能够停止不前？\n\n【智商】【想象力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗100点悟性。"
+     1 string schinese_censored = "新的套路已经出现，怎么能够停止不前？\n\n【智商】【想象力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗100点悟性。"
+     1 string english = "A new strategy to beat them all!\n\nKnowledge cost decreases with [IQ], [Imagination], and [Constitution].\n\nMinimum Knowledge Cost: 100"
+     1 string japanese = "新しい戦略が登場した。どうして前進を止められよう。\n\n【ＩＱ】【想像力】【体力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:100"
+     1 string mchinese = "新的套路已經出現，怎麼能夠停止不前？\n\n【智商】【想像力】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗100點悟性。"
+   [28740]
+    0 TableSoItemLang data
+     0 int id = 8210010
+     1 string schinese = "不瞒你说，我已经在研究下个版本的打法了。\n\n【智商】【想象力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗120点悟性。"
+     1 string schinese_censored = "不瞒你说，我已经在研究下个版本的打法了。\n\n【智商】【想象力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗120点悟性。"
+     1 string english = "FYI, I already know all the coming changes!\n\nKnowledge cost decreases with [IQ], [Imagination], and [Constitution].\n\nMinimum Knowledge Cost: 120"
+     1 string japanese = "実は、もう次のバージョンの戦い方を考えている。\n\n【ＩＱ】【想像力】【体力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:120"
+     1 string mchinese = "不瞞你說，我已經在研究下個版本的打法了。\n\n【智商】【想像力】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗120點悟性。"
+   [28741]
+    0 TableSoItemLang data
+     0 int id = 8210101
+     1 string schinese = "我悄无声息地来了，吃了两个兵又走了！\n\n【情商】【记忆力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗40点悟性。"
+     1 string schinese_censored = "我悄无声息地来了，吃了两个兵又走了！\n\n【情商】【记忆力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗40点悟性。"
+     1 string english = "I stole two minion kills and then I'm gone again!\n\nKnowledge cost decreases with [EQ], [Memory], and [Constitution].\n\nMinimum Knowledge Cost: 40"
+     1 string japanese = "音もなく忍び寄り、ミニオンを２体倒して去る！\n\n【ＥＱ】【記憶力】【体力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:40"
+     1 string mchinese = "我悄無聲息地來了，吃了兩個兵又走了！\n\n【情商】【記憶力】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗40點悟性。"
+   [28742]
+    0 TableSoItemLang data
+     0 int id = 8210102
+     1 string schinese = "我悄无声息地来了，吃了两个兵又走了！\n\n【情商】【记忆力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗50点悟性。"
+     1 string schinese_censored = "我悄无声息地来了，吃了两个兵又走了！\n\n【情商】【记忆力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗50点悟性。"
+     1 string english = "I stole two minion kills and then I'm gone again!\n\nKnowledge cost decreases with [EQ], [Memory], and [Constitution].\n\nMinimum Knowledge Cost: 50"
+     1 string japanese = "音もなく忍び寄り、ミニオンを２体倒して去る！\n\n【ＥＱ】【記憶力】【体力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:50"
+     1 string mchinese = "我悄無聲息地來了，吃了兩個兵又走了！\n\n【情商】【記憶力】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗50點悟性。"
+   [28743]
+    0 TableSoItemLang data
+     0 int id = 8210103
+     1 string schinese = "我悄无声息地来了，吃了两个兵又走了！\n\n【情商】【记忆力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗60点悟性。"
+     1 string schinese_censored = "我悄无声息地来了，吃了两个兵又走了！\n\n【情商】【记忆力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗60点悟性。"
+     1 string english = "I stole two minion kills and then I'm gone again!\n\nKnowledge cost decreases with [EQ], [Memory], and [Constitution].\n\nMinimum Knowledge Cost: 60"
+     1 string japanese = "音もなく忍び寄り、ミニオンを２体倒して去る！\n\n【ＥＱ】【記憶力】【体力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:60"
+     1 string mchinese = "我悄無聲息地來了，吃了兩個兵又走了！\n\n【情商】【記憶力】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗60點悟性。"
+   [28744]
+    0 TableSoItemLang data
+     0 int id = 8210104
+     1 string schinese = "野怪、兵线、人头，我全都要！\n\n【情商】【记忆力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗60点悟性。"
+     1 string schinese_censored = "野怪、兵线、人头，我全都要！\n\n【情商】【记忆力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗60点悟性。"
+     1 string english = "Jungle creeps, minions, kills, I want them all!\n\nKnowledge cost decreases with [EQ], [Memory], and [Constitution].\n\nMinimum Knowledge Cost: 60"
+     1 string japanese = "モンスター、レーン、相手キャラ、全部もらった！\n\n【ＥＱ】【記憶力】【体力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:60"
+     1 string mchinese = "野怪、兵線、人頭，我全都要！\n\n【情商】【記憶力】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗60點悟性。"
+   [28745]
+    0 TableSoItemLang data
+     0 int id = 8210105
+     1 string schinese = "野怪、兵线、人头，我全都要！\n\n【情商】【记忆力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗70点悟性。"
+     1 string schinese_censored = "野怪、兵线、人头，我全都要！\n\n【情商】【记忆力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗70点悟性。"
+     1 string english = "Jungle creeps, minions, kills, I want them all!\n\nKnowledge cost decreases with [EQ], [Memory], and [Constitution].\n\nMinimum Knowledge Cost: 70"
+     1 string japanese = "モンスター、レーン、相手キャラ、全部もらった！\n\n【ＥＱ】【記憶力】【体力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:70"
+     1 string mchinese = "野怪、兵線、人頭，我全都要！\n\n【情商】【記憶力】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗70點悟性。"
+   [28746]
+    0 TableSoItemLang data
+     0 int id = 8210106
+     1 string schinese = "野怪、兵线、人头，我全都要！\n\n【情商】【记忆力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗70点悟性。"
+     1 string schinese_censored = "野怪、兵线、人头，我全都要！\n\n【情商】【记忆力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗70点悟性。"
+     1 string english = "Jungle creeps, minions, kills, I want them all!\n\nKnowledge cost decreases with [EQ], [Memory], and [Constitution].\n\nMinimum Knowledge Cost: 70"
+     1 string japanese = "モンスター、レーン、相手キャラ、全部もらった！\n\n【ＥＱ】【記憶力】【体力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:70"
+     1 string mchinese = "野怪、兵線、人頭，我全都要！\n\n【情商】【記憶力】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗70點悟性。"
+   [28747]
+    0 TableSoItemLang data
+     0 int id = 8210107
+     1 string schinese = "猜猜我抓到了什么？一个团灭对手的机会！\n\n【情商】【记忆力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗80点悟性。"
+     1 string schinese_censored = "猜猜我抓到了什么？一个团灭对手的机会！\n\n【情商】【记忆力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗80点悟性。"
+     1 string english = "Guess what I got? A chance to pentakill!\n\nKnowledge cost decreases with [EQ], [Memory], and [Constitution].\n\nMinimum Knowledge Cost: 80"
+     1 string japanese = "何が手に入ったと思う？相手を殲滅するチャンスだよ！\n\n【ＥＱ】【記憶力】【体力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:80"
+     1 string mchinese = "猜猜我抓到了什麼？一個團滅對手的機會！\n\n【情商】【記憶力】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗80點悟性。"
+   [28748]
+    0 TableSoItemLang data
+     0 int id = 8210108
+     1 string schinese = "猜猜我抓到了什么？一个团灭对手的机会！\n\n【情商】【记忆力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗90点悟性。"

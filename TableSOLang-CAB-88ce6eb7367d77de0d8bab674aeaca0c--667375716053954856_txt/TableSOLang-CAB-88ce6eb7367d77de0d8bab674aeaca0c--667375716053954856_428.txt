@@ -1,0 +1,184 @@
+     1 string schinese_censored = "还有很多美好的东西，等待发掘，看看周围的世界吧！"
+     1 string english = "There are many beautiful things in the world. Open your eyes and look at your surroundings!"
+     1 string japanese = "外の世界だってまだまだ素晴らしいものがあるよ。僕らの目で見ていこうよ！"
+     1 string mchinese = "還有很多美好的東西，等待發掘，看看周圍的世界吧！"
+   [9820]
+    0 TableSoItemLang data
+     0 int id = 1019821
+     1 string schinese = "真的觉得这种东西好吗？"
+     1 string schinese_censored = "真的觉得这种东西好吗？"
+     1 string english = "Do you really think this is good?"
+     1 string japanese = "本当にこれがいいの？"
+     1 string mchinese = "真的覺得這種東西好嗎？"
+   [9821]
+    0 TableSoItemLang data
+     0 int id = 1019822
+     1 string schinese = "当然，这是顶级名作！"
+     1 string schinese_censored = "当然，这是顶级名作！"
+     1 string english = "Yes, it is a masterpiece!"
+     1 string japanese = "当然、名作中の名作よ！"
+     1 string mchinese = "當然，這是頂級名作！"
+   [9822]
+    0 TableSoItemLang data
+     0 int id = 1019823
+     1 string schinese = "也许我比较愚笨，感受力不够吧"
+     1 string schinese_censored = "也许我比较愚笨，感受力不够吧"
+     1 string english = "Perhaps I'm a bit slow. I don't sense enough power in it."
+     1 string japanese = "レベル不足なのかな。何もわからないや。"
+     1 string mchinese = "也許我比較愚笨，感受力不夠吧"
+   [9823]
+    0 TableSoItemLang data
+     0 int id = 1019824
+     1 string schinese = "怎么说？"
+     1 string schinese_censored = "怎么说？"
+     1 string english = "What do you mean?"
+     1 string japanese = "どういう意味？"
+     1 string mchinese = "怎麼說？"
+   [9824]
+    0 TableSoItemLang data
+     0 int id = 1019825
+     1 string schinese = "这明明是普通的工艺品啊，平平无奇啊"
+     1 string schinese_censored = "这明明是普通的工艺品啊，平平无奇啊"
+     1 string english = "This is just normal work. Very plain and boring."
+     1 string japanese = "普通の工芸品にしか見えないんだ。平々凡々だよ。"
+     1 string mchinese = "這明明是普通的工藝品啊，平平無奇啊"
+   [9825]
+    0 TableSoItemLang data
+     0 int id = 1019826
+     1 string schinese = "你能说出这些具体哪儿好吗？"
+     1 string schinese_censored = "你能说出这些具体哪儿好吗？"
+     1 string english = "Can you tell me what is so good about it?"
+     1 string japanese = "具体的にどこが素晴らしいの？"
+     1 string mchinese = "你能說出這些具體哪兒好嗎？"
+   [9826]
+    0 TableSoItemLang data
+     0 int id = 1019827
+     1 string schinese = "说不出，就是感觉很好"
+     1 string schinese_censored = "说不出，就是感觉很好"
+     1 string english = "No, it's just a feeling."
+     1 string japanese = "説明はできないかな。ただ雰囲気が好きなの。"
+     1 string mchinese = "說不出，就是感覺很好"
+   [9827]
+    0 TableSoItemLang data
+     0 int id = 1019828
+     1 string schinese = "啊，原来看错了，这才是展品呢……。"
+     1 string schinese_censored = "啊，原来看错了，这才是展品呢……。"
+     1 string english = "Oh, I was mistaken. This is an exhibition piece..."
+     1 string japanese = "あ、違う。こっちがその名作だった…"
+     1 string mchinese = "啊，原來看錯了，這才是展品呢……。"
+   [9828]
+    0 TableSoItemLang data
+     0 int id = 1019829
+     1 string schinese = "（一阵长久的沉默，真的很尴尬）"
+     1 string schinese_censored = "（一阵长久的沉默，真的很尴尬）"
+     1 string english = "(A very long and embarrassing silence.)"
+     1 string japanese = "（うぅ、気まずい…）"
+     1 string mchinese = "（一陣長久的沉默，真的很尷尬）"
+   [9829]
+    0 TableSoItemLang data
+     0 int id = 1019830
+     1 string schinese = "糟糕，早知道带够钱了，竟然没有现金了"
+     1 string schinese_censored = "糟糕，早知道带够钱了，竟然没有现金了"
+     1 string english = "Oh crap, I didn't bring enough cash with me."
+     1 string japanese = "ゴメン、お金足りなかったわ。"
+     1 string mchinese = "糟糕，早知道帶夠錢了，竟然沒有現金了"
+   [9830]
+    0 TableSoItemLang data
+     0 int id = 1019831
+     1 string schinese = "没关系，我这里有"
+     1 string schinese_censored = "没关系，我这里有"
+     1 string english = "It's okay. I have some."
+     1 string japanese = "大丈夫、ここは僕が…"
+     1 string mchinese = "沒關係，我這裏有"
+   [9831]
+    0 TableSoItemLang data
+     0 int id = 1019832
+     1 string schinese = "不用，我看看旁边的银行吧"
+     1 string schinese_censored = "不用，我看看旁边的银行吧"
+     1 string english = "No, it's okay. I'll look for a bank around here."
+     1 string japanese = "いいわ、そこの銀行で下ろすから。"
+     1 string mchinese = "不用，我看看旁邊的銀行吧"
+   [9832]
+    0 TableSoItemLang data
+     0 int id = 1019833
+     1 string schinese = "我的天，你怎么有这么多余额！银行系统坏了吧"
+     1 string schinese_censored = "我的天，你怎么有这么多余额！银行系统坏了吧"
+     1 string english = "Oh my, how do you have so much money in the bank? Is the system broken?"
+     1 string japanese = "えぇ、ウソだろ！？何この残高！システムが壊れたのかな？"
+     1 string mchinese = "我的天，你怎麼有這麼多餘額！銀行系統壞了吧"
+   [9833]
+    0 TableSoItemLang data
+     0 int id = 1019834
+     1 string schinese = "不是啊，看上去差不多"
+     1 string schinese_censored = "不是啊，看上去差不多"
+     1 string english = "No, the amount looks right."
+     1 string japanese = "別に普通でしょ。"
+     1 string mchinese = "不是啊，看上去差不多"
+   [9834]
+    0 TableSoItemLang data
+     0 int id = 1019835
+     1 string schinese = "你怎么这么有钱啊，真是一点看不出"
+     1 string schinese_censored = "你怎么这么有钱啊，真是一点看不出"
+     1 string english = "How do you have so much money? I wouldn't have guessed."
+     1 string japanese = "こんなにお金持ちだったの？全然そう見えないよ。"
+     1 string mchinese = "你怎麼這麼有錢啊，真是一點看不出"
+   [9835]
+    0 TableSoItemLang data
+     0 int id = 1019836
+     1 string schinese = "还好，都是些身外之物，不会给你带来快乐的"
+     1 string schinese_censored = "还好，都是些身外之物，不会给你带来快乐的"
+     1 string english = "It's all superficial. It can't bring you happiness."
+     1 string japanese = "お金なんてどうでもいいでしょ。別に幸せにはなれないし。"
+     1 string mchinese = "還好，都是些身外之物，不會給你帶來快樂的"
+   [9836]
+    0 TableSoItemLang data
+     0 int id = 1019837
+     1 string schinese = "好吧……果然都是艺术都是有钱人玩的东西~"
+     1 string schinese_censored = "好吧……果然都是艺术都是有钱人玩的东西~"
+     1 string english = "Okay... Art is really only for the rich..."
+     1 string japanese = "やっぱり…芸術はお金持ちの道楽だな…"
+     1 string mchinese = "好吧……果然都是藝術都是有錢人玩的東西~"
+   [9837]
+    0 TableSoItemLang data
+     0 int id = 1019838
+     1 string schinese = "你听说过知己吗？"
+     1 string schinese_censored = "你听说过知己吗？"
+     1 string english = "Have you heard of confidants?"
+     1 string japanese = "藍顔知己って聞いたことある？"
+     1 string mchinese = "你聽說過知己嗎？"
+   [9838]
+    0 TableSoItemLang data
+     0 int id = 1019839
+     1 string schinese = "当然啊，有红颜知己，蓝颜知己"
+     1 string schinese_censored = "当然啊，有红颜知己，蓝颜知己"
+     1 string english = "Yes, there are male and female ones."
+     1 string japanese = "当然！男の親友だろ？で、女の子だと紅顔知己だよね？"
+     1 string mchinese = "當然啊，有紅顏知己，藍顏知己"
+   [9839]
+    0 TableSoItemLang data
+     0 int id = 1019840
+     1 string schinese = "你还懂得挺多啊"
+     1 string schinese_censored = "你还懂得挺多啊"
+     1 string english = "You know a lot!"
+     1 string japanese = "よく知ってるね。"
+     1 string mchinese = "你還懂得挺多啊"
+   [9840]
+    0 TableSoItemLang data
+     0 int id = 1019841
+     1 string schinese = "和你出来玩得提前做好功课呢"
+     1 string schinese_censored = "和你出来玩得提前做好功课呢"
+     1 string english = "I have to do a lot of research before meeting up with you."
+     1 string japanese = "キミと遊ぶには色々勉強してないとね！"
+     1 string mchinese = "和你出來玩得提前做好功課呢"
+   [9841]
+    0 TableSoItemLang data
+     0 int id = 1019842
+     1 string schinese = "你真的在乎未来的功名利禄吗？"
+     1 string schinese_censored = "你真的在乎未来的功名利禄吗？"
+     1 string english = "Do you really care about social status and riches?"
+     1 string japanese = "将来どうするかって、本当に大事だと思う？"
+     1 string mchinese = "你真的在乎未來的功名利祿嗎？"
+   [9842]
+    0 TableSoItemLang data
+     0 int id = 1019843
+     1 string schinese = "不知道，也许吧，至少和你在一块儿能找到生活的另一面，遵从自己内心"

@@ -1,0 +1,184 @@
+     1 string schinese_censored = "翡翠镯+1\n消耗品，在相亲时使用可提高求婚成功率"
+     1 string english = "Jade Bracelet +1\nConsumable. Use during Blind Date to increase proposal success rate."
+     1 string japanese = "翡翠の腕輪+1\n消耗品。お見合いのときにプロポーズ成功率が上がる"
+     1 string mchinese = "翡翠鐲+1\n消耗品，在相親時使用可提高求婚成功率"
+   [29508]
+    0 TableSoItemLang data
+     0 int id = 1608010107
+     1 string schinese = "学费值+500\n用于购买传家宝和免费体验游戏，通过游戏获得，无法通过充值获得"
+     1 string schinese_censored = "学费值+500\n用于购买传家宝和免费体验游戏，通过游戏获得，无法通过充值获得"
+     1 string english = "Tuition +500\nUse to purchase Family Heirlooms and try the game for free. Acquired through gaming and unavailable from Top Up."
+     1 string japanese = "授業料+500\n家宝の購入や無料のゲーム体験に使用できる。ゲーム中で獲得。チャージでは手に入らない"
+     1 string mchinese = "學費值+500\n用於購買傳家寶和免費體驗遊戲，通過遊戲獲得，無法通過充值獲得"
+   [29509]
+    0 TableSoItemLang data
+     0 int id = 1608011105
+     1 string schinese = "手握学费，感受到了金钱的重量，这使你充满了好好读书的决心！"
+     1 string schinese_censored = "手握学费，感受到了金钱的重量，这使你充满了好好读书的决心！"
+     1 string english = "The Tuition weighs heavily in your hands. It fills you with determination to study hard."
+     1 string japanese = "授業料を握ると、お金の重みを感じ、学習のケツイがみなぎった！"
+     1 string mchinese = "手握學費，感受到了金錢的重量，這使你充滿了好好讀書的決心！"
+   [29510]
+    0 TableSoItemLang data
+     0 int id = 1608011106
+     1 string schinese = "奶奶的奶奶的奶奶的嫁妆，现在终于传到了你手上。"
+     1 string schinese_censored = "奶奶的奶奶的奶奶的嫁妆，现在终于传到了你手上。"
+     1 string english = "Your grandma's grandma's grandma's dowry is finally yours!"
+     1 string japanese = "おばあちゃんのおばあちゃんのおばあちゃんの嫁入り道具がこの代まで伝わってきた。"
+     1 string mchinese = "奶奶的奶奶的奶奶的嫁妝，現在終於傳到了你手上。"
+   [29511]
+    0 TableSoItemLang data
+     0 int id = 1608011107
+     1 string schinese = "手握学费，感受到了金钱的重量，这使你充满了好好读书的决心！"
+     1 string schinese_censored = "手握学费，感受到了金钱的重量，这使你充满了好好读书的决心！"
+     1 string english = "The Tuition weighs heavily in your hands. It fills you with determination to study hard."
+     1 string japanese = "授業料を握ると、お金の重みを感じ、学習のケツイがみなぎった！"
+     1 string mchinese = "手握學費，感受到了金錢的重量，這使你充滿了好好讀書的決心！"
+   [29512]
+    0 TableSoItemLang data
+     0 int id = 1608010201
+     1 string schinese = "青梅竹马"
+     1 string schinese_censored = "青梅竹马"
+     1 string english = "Childhood Sweetheart"
+     1 string japanese = "幼なじみ"
+     1 string mchinese = "青梅竹馬"
+   [29513]
+    0 TableSoItemLang data
+     0 int id = 1608010202
+     1 string schinese = "亲爱的玩家~目前已有{0}人求婚成功，祝他们幸福，请查收奖励"
+     1 string schinese_censored = "亲爱的玩家~目前已有{0}人求婚成功，祝他们幸福，请查收奖励"
+     1 string english = "{0} players has successfully proposed to their better half. Here are your rewards!"
+     1 string japanese = "現在、{0}人がプロポーズに成功しました。おめでとう！報酬をお受け取りください"
+     1 string mchinese = "親愛的玩家~目前已有{0}人求婚成功，祝他們幸福，請查收獎勵"
+   [29514]
+    0 TableSoItemLang data
+     0 int id = 1608010203
+     1 string schinese = "有情人终成眷属！"
+     1 string schinese_censored = "有情人终成眷属！"
+     1 string english = "Jack shall have Jill!"
+     1 string japanese = "想い合って結ばれる！"
+     1 string mchinese = "有情人終成眷屬！"
+   [29515]
+    0 TableSoItemLang data
+     0 int id = 1608010204
+     1 string schinese = "1.全服玩家在限定的时间内共同参与挑战；\n2.达成任务要求的条件后，每一名玩家都可领取奖励；\n活动到期后无法再领取已完成的奖励；"
+     1 string schinese_censored = "1.全服玩家在限定的时间内共同参与挑战；\n2.达成任务要求的条件后，每一名玩家都可领取奖励；\n活动到期后无法再领取已完成的奖励；"
+     1 string english = "1. Everyone is taking part in the challenge for a limited time.\n2. Once the mission has been completed, everyone can claim rewards!\nBut note, you must claim the rewards during the event!"
+     1 string japanese = "1.全プレイヤーが限られた時間内でチャレンジする\n2.ミッションのクリア条件を満たすと、全員が報酬を受け取ることができる\nイベントが終了したら、クリアした報酬を受け取ることはできない"
+     1 string mchinese = "1.全服玩家在限定的時間內共同參與挑戰；\n2.達成任務要求的條件後，每一名玩家都可領取獎勵；\n活動到期後無法再領取已完成的獎勵；"
+   [29516]
+    0 TableSoItemLang data
+     0 int id = 1608010205
+     1 string schinese = "学费值+500\n用于购买传家宝和免费体验游戏，通过游戏获得，无法通过充值获得"
+     1 string schinese_censored = "学费值+500\n用于购买传家宝和免费体验游戏，通过游戏获得，无法通过充值获得"
+     1 string english = "Tuition +500\nUse to purchase Family Heirlooms and try the game for free. Acquired through gaming and unavailable from Top Up."
+     1 string japanese = "授業料+500\n家宝の購入や無料のゲーム体験に使用できる。ゲーム中で獲得。チャージでは手に入らない"
+     1 string mchinese = "學費值+500\n用於購買傳家寶和免費體驗遊戲，通過遊戲獲得，無法通過充值獲得"
+   [29517]
+    0 TableSoItemLang data
+     0 int id = 1608010206
+     1 string schinese = "翡翠镯+1\n消耗品，在相亲时使用可提高求婚成功率"
+     1 string schinese_censored = "翡翠镯+1\n消耗品，在相亲时使用可提高求婚成功率"
+     1 string english = "Jade Bracelet +1\nConsumable. Use during Blind Date to increase proposal success rate."
+     1 string japanese = "翡翠の腕輪+1\n消耗品。お見合いのときにプロポーズ成功率が上がる"
+     1 string mchinese = "翡翠鐲+1\n消耗品，在相親時使用可提高求婚成功率"
+   [29518]
+    0 TableSoItemLang data
+     0 int id = 1608010207
+     1 string schinese = "学费值+500\n用于购买传家宝和免费体验游戏，通过游戏获得，无法通过充值获得"
+     1 string schinese_censored = "学费值+500\n用于购买传家宝和免费体验游戏，通过游戏获得，无法通过充值获得"
+     1 string english = "Tuition +500\nUse to purchase Family Heirlooms and try the game for free. Acquired through gaming and unavailable from Top Up."
+     1 string japanese = "授業料+500\n家宝の購入や無料のゲーム体験に使用できる。ゲーム中で獲得。チャージでは手に入らない"
+     1 string mchinese = "學費值+500\n用於購買傳家寶和免費體驗遊戲，通過遊戲獲得，無法通過充值獲得"
+   [29519]
+    0 TableSoItemLang data
+     0 int id = 1608011205
+     1 string schinese = "手握学费，感受到了金钱的重量，这使你充满了好好读书的决心！"
+     1 string schinese_censored = "手握学费，感受到了金钱的重量，这使你充满了好好读书的决心！"
+     1 string english = "The Tuition weighs heavily in your hands. It fills you with determination to study hard."
+     1 string japanese = "授業料を握ると、お金の重みを感じ、学習のケツイがみなぎった！"
+     1 string mchinese = "手握學費，感受到了金錢的重量，這使你充滿了好好讀書的決心！"
+   [29520]
+    0 TableSoItemLang data
+     0 int id = 1608011206
+     1 string schinese = "奶奶的奶奶的奶奶的嫁妆，现在终于传到了你手上。"
+     1 string schinese_censored = "奶奶的奶奶的奶奶的嫁妆，现在终于传到了你手上。"
+     1 string english = "Your grandma's grandma's grandma's dowry is finally yours!"
+     1 string japanese = "おばあちゃんのおばあちゃんのおばあちゃんの嫁入り道具がこの代まで伝わってきた。"
+     1 string mchinese = "奶奶的奶奶的奶奶的嫁妝，現在終於傳到了你手上。"
+   [29521]
+    0 TableSoItemLang data
+     0 int id = 1608011207
+     1 string schinese = "手握学费，感受到了金钱的重量，这使你充满了好好读书的决心！"
+     1 string schinese_censored = "手握学费，感受到了金钱的重量，这使你充满了好好读书的决心！"
+     1 string english = "The Tuition weighs heavily in your hands. It fills you with determination to study hard."
+     1 string japanese = "授業料を握ると、お金の重みを感じ、学習のケツイがみなぎった！"
+     1 string mchinese = "手握學費，感受到了金錢的重量，這使你充滿了好好讀書的決心！"
+   [29522]
+    0 TableSoItemLang data
+     0 int id = 1608010301
+     1 string schinese = "面子战争"
+     1 string schinese_censored = "面子战争"
+     1 string english = "War of Face"
+     1 string japanese = "メンツ戦争"
+     1 string mchinese = "面子戰爭"
+   [29523]
+    0 TableSoItemLang data
+     0 int id = 1608010302
+     1 string schinese = "亲爱的玩家~目前已有{0}人闲话家常获胜，请查收奖励"
+     1 string schinese_censored = "亲爱的玩家~目前已有{0}人闲话家常获胜，请查收奖励"
+     1 string english = "{0} players have won a Face Duel. Here are your rewards!"
+     1 string japanese = "現在、{0}人がメンツバトルで勝利しました。報酬をお受け取りください。"
+     1 string mchinese = "親愛的玩家~目前已有{0}人閒話家常獲勝，請查收獎勵"
+   [29524]
+    0 TableSoItemLang data
+     0 int id = 1608010303
+     1 string schinese = "我的面子不要了吗？"
+     1 string schinese_censored = "我的面子不要了吗？"
+     1 string english = "Do you think I don't need face?"
+     1 string japanese = "メンツをつぶさないでくれよ。"
+     1 string mchinese = "我的面子不要了嗎？"
+   [29525]
+    0 TableSoItemLang data
+     0 int id = 1608010304
+     1 string schinese = "1.全服玩家在限定的时间内共同参与挑战；\n2.达成任务要求的条件后，每一名玩家都可领取奖励；\n活动到期后无法再领取已完成的奖励；"
+     1 string schinese_censored = "1.全服玩家在限定的时间内共同参与挑战；\n2.达成任务要求的条件后，每一名玩家都可领取奖励；\n活动到期后无法再领取已完成的奖励；"
+     1 string english = "1. Everyone is taking part in the challenge for a limited time.\n2. Once the mission has been completed, everyone can claim rewards!\nBut note, you must claim the rewards during the event!"
+     1 string japanese = "1.全プレイヤーが限られた時間内でチャレンジする\n2.ミッションのクリア条件を満たすと、全員が報酬を受け取ることができる\nイベントが終了したら、クリアした報酬を受け取ることはできない"
+     1 string mchinese = "1.全服玩家在限定的時間內共同參與挑戰；\n2.達成任務要求的條件後，每一名玩家都可領取獎勵；\n活動到期後無法再領取已完成的獎勵；"
+   [29526]
+    0 TableSoItemLang data
+     0 int id = 1608010305
+     1 string schinese = "学费值+500\n用于购买传家宝和免费体验游戏，通过游戏获得，无法通过充值获得"
+     1 string schinese_censored = "学费值+500\n用于购买传家宝和免费体验游戏，通过游戏获得，无法通过充值获得"
+     1 string english = "Tuition +500\nUse to purchase Family Heirlooms and try the game for free. Acquired through gaming and unavailable from Top Up."
+     1 string japanese = "授業料+500\n家宝の購入や無料のゲーム体験に使用できる。ゲーム中で獲得。チャージでは手に入らない"
+     1 string mchinese = "學費值+500\n用於購買傳家寶和免費體驗遊戲，通過遊戲獲得，無法通過充值獲得"
+   [29527]
+    0 TableSoItemLang data
+     0 int id = 1608010306
+     1 string schinese = "翡翠镯+1\n消耗品，在相亲时使用可提高求婚成功率"
+     1 string schinese_censored = "翡翠镯+1\n消耗品，在相亲时使用可提高求婚成功率"
+     1 string english = "Jade Bracelet +1\nConsumable. Use during Blind Date to increase proposal success rate."
+     1 string japanese = "翡翠の腕輪+1\n消耗品。お見合いのときにプロポーズ成功率が上がる"
+     1 string mchinese = "翡翠鐲+1\n消耗品，在相親時使用可提高求婚成功率"
+   [29528]
+    0 TableSoItemLang data
+     0 int id = 1608010307
+     1 string schinese = "学费值+500\n用于购买传家宝和免费体验游戏，通过游戏获得，无法通过充值获得"
+     1 string schinese_censored = "学费值+500\n用于购买传家宝和免费体验游戏，通过游戏获得，无法通过充值获得"
+     1 string english = "Tuition +500\nUse to purchase Family Heirlooms and try the game for free. Acquired through gaming and unavailable from Top Up."
+     1 string japanese = "授業料+500\n家宝の購入や無料のゲーム体験に使用できる。ゲーム中で獲得。チャージでは手に入らない"
+     1 string mchinese = "學費值+500\n用於購買傳家寶和免費體驗遊戲，通過遊戲獲得，無法通過充值獲得"
+   [29529]
+    0 TableSoItemLang data
+     0 int id = 1608011305
+     1 string schinese = "手握学费，感受到了金钱的重量，这使你充满了好好读书的决心！"
+     1 string schinese_censored = "手握学费，感受到了金钱的重量，这使你充满了好好读书的决心！"
+     1 string english = "The Tuition weighs heavily in your hands. It fills you with determination to study hard."
+     1 string japanese = "授業料を握ると、お金の重みを感じ、学習のケツイがみなぎった！"
+     1 string mchinese = "手握學費，感受到了金錢的重量，這使你充滿了好好讀書的決心！"
+   [29530]
+    0 TableSoItemLang data
+     0 int id = 1608011306
+     1 string schinese = "奶奶的奶奶的奶奶的嫁妆，现在终于传到了你手上。"

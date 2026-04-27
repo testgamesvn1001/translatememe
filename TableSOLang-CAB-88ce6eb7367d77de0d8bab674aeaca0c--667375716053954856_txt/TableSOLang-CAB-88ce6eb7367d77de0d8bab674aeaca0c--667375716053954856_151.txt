@@ -1,0 +1,184 @@
+     1 string schinese_censored = "识字写字（语）"
+     1 string english = "Reading & Writing"
+     1 string japanese = "読み書き"
+     1 string mchinese = "識字寫字（語）"
+   [3449]
+    0 TableSoItemLang data
+     0 int id = 1013450
+     1 string schinese = "古诗（语）"
+     1 string schinese_censored = "古诗（语）"
+     1 string english = "Ancient Poetry"
+     1 string japanese = "古詩"
+     1 string mchinese = "古詩（語）"
+   [3450]
+    0 TableSoItemLang data
+     0 int id = 1013451
+     1 string schinese = "作文（语）"
+     1 string schinese_censored = "作文（语）"
+     1 string english = "Writing"
+     1 string japanese = "作文"
+     1 string mchinese = "作文（語）"
+   [3451]
+    0 TableSoItemLang data
+     0 int id = 1013452
+     1 string schinese = "写小说（语）"
+     1 string schinese_censored = "写小说（语）"
+     1 string english = "Novel Writing"
+     1 string japanese = "小説を書く"
+     1 string mchinese = "寫小說（語）"
+   [3452]
+    0 TableSoItemLang data
+     0 int id = 1013453
+     1 string schinese = "文言文（语）"
+     1 string schinese_censored = "文言文（语）"
+     1 string english = "Classical Chinese"
+     1 string japanese = "古文"
+     1 string mchinese = "文言文（語）"
+   [3453]
+    0 TableSoItemLang data
+     0 int id = 1013454
+     1 string schinese = "名著（语）"
+     1 string schinese_censored = "名著（语）"
+     1 string english = "Famous Works"
+     1 string japanese = "名作"
+     1 string mchinese = "名著（語）"
+   [3454]
+    0 TableSoItemLang data
+     0 int id = 1013455
+     1 string schinese = "文学基础（语）"
+     1 string schinese_censored = "文学基础（语）"
+     1 string english = "Literature"
+     1 string japanese = "基礎文学"
+     1 string mchinese = "文學基礎（語）"
+   [3455]
+    0 TableSoItemLang data
+     0 int id = 1013456
+     1 string schinese = "高级语文（语）"
+     1 string schinese_censored = "高级语文技巧（语）"
+     1 string english = "Advanced Exam-Oriented Chinese"
+     1 string japanese = "上級受験国語"
+     1 string mchinese = "高級語文（語）"
+   [3456]
+    0 TableSoItemLang data
+     0 int id = 1013457
+     1 string schinese = "语文非常规技巧（语）"
+     1 string schinese_censored = "语文非常规技巧（语）"
+     1 string english = "Special Chinese Skills"
+     1 string japanese = "特殊国語技術"
+     1 string mchinese = "語文非常規技巧（語）"
+   [3457]
+    0 TableSoItemLang data
+     0 int id = 1013458
+     1 string schinese = "四则运算（数）"
+     1 string schinese_censored = "四则运算（数）"
+     1 string english = "Arithmetic"
+     1 string japanese = "四則演算"
+     1 string mchinese = "四則運算（數）"
+   [3458]
+    0 TableSoItemLang data
+     0 int id = 1013459
+     1 string schinese = "代数初步（数）"
+     1 string schinese_censored = "代数初步（数）"
+     1 string english = "Basic Algebra"
+     1 string japanese = "線形代数"
+     1 string mchinese = "代數初步（數）"
+   [3459]
+    0 TableSoItemLang data
+     0 int id = 1013460
+     1 string schinese = "认识几何（数）"
+     1 string schinese_censored = "认识几何（数）"
+     1 string english = "Geometrics 101"
+     1 string japanese = "幾何学入門"
+     1 string mchinese = "認識幾何（數）"
+   [3460]
+    0 TableSoItemLang data
+     0 int id = 1013461
+     1 string schinese = "概率（数）"
+     1 string schinese_censored = "概率（数）"
+     1 string english = "Probability"
+     1 string japanese = "確率"
+     1 string mchinese = "概率（數）"
+   [3461]
+    0 TableSoItemLang data
+     0 int id = 1013462
+     1 string schinese = "函数（数）"
+     1 string schinese_censored = "函数（数）"
+     1 string english = "Functions"
+     1 string japanese = "関数"
+     1 string mchinese = "函數（數）"
+   [3462]
+    0 TableSoItemLang data
+     0 int id = 1013463
+     1 string schinese = "奥数试题（数）"
+     1 string schinese_censored = "奥数试题（数）"
+     1 string english = "Mathematical Olympiad"
+     1 string japanese = "数学オリンピック"
+     1 string mchinese = "奧數試題（數）"
+   [3463]
+    0 TableSoItemLang data
+     0 int id = 1013464
+     1 string schinese = "逻辑学（数）"
+     1 string schinese_censored = "逻辑学（数）"
+     1 string english = "Mathematical Logic"
+     1 string japanese = "数理論理学"
+     1 string mchinese = "邏輯學（數）"
+   [3464]
+    0 TableSoItemLang data
+     0 int id = 1013465
+     1 string schinese = "数学压轴题（数）"
+     1 string schinese_censored = "数学压轴题（数）"
+     1 string english = "Final Math Exam Question"
+     1 string japanese = "数学の難問"
+     1 string mchinese = "數學壓軸題（數）"
+   [3465]
+    0 TableSoItemLang data
+     0 int id = 1013466
+     1 string schinese = "高级数学（数）"
+     1 string schinese_censored = "高级数学技巧（数）"
+     1 string english = "Advanced Exam-Oriented Mathematics"
+     1 string japanese = "上級受験数学"
+     1 string mchinese = "高級數學（數）"
+   [3466]
+    0 TableSoItemLang data
+     0 int id = 1013467
+     1 string schinese = "数学非常规技巧（数）"
+     1 string schinese_censored = "数学非常规技巧（数）"
+     1 string english = "Special Mathematical Skills"
+     1 string japanese = "特殊数学技術"
+     1 string mchinese = "數學非常規技巧（數）"
+   [3467]
+    0 TableSoItemLang data
+     0 int id = 1013468
+     1 string schinese = "音标（英）"
+     1 string schinese_censored = "音标（英）"
+     1 string english = "Phonetics"
+     1 string japanese = "発音記号"
+     1 string mchinese = "音標（英）"
+   [3468]
+    0 TableSoItemLang data
+     0 int id = 1013469
+     1 string schinese = "英语单词（英）"
+     1 string schinese_censored = "英语单词（英）"
+     1 string english = "English Vocabulary"
+     1 string japanese = "英単語"
+     1 string mchinese = "英語單詞（英）"
+   [3469]
+    0 TableSoItemLang data
+     0 int id = 1013470
+     1 string schinese = "简单会话（英）"
+     1 string schinese_censored = "简单会话（英）"
+     1 string english = "Conversation 101"
+     1 string japanese = "英会話"
+     1 string mchinese = "簡單會話（英）"
+   [3470]
+    0 TableSoItemLang data
+     0 int id = 1013471
+     1 string schinese = "英语语法（英）"
+     1 string schinese_censored = "英语语法（英）"
+     1 string english = "English Grammar"
+     1 string japanese = "英文法"
+     1 string mchinese = "英語語法（英）"
+   [3471]
+    0 TableSoItemLang data
+     0 int id = 1013472
+     1 string schinese = "英语听力（英）"

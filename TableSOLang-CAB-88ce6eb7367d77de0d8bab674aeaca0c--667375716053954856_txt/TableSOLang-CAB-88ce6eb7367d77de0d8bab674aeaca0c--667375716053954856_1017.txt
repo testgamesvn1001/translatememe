@@ -1,0 +1,184 @@
+     1 string schinese_censored = "战队领队，管理队伍的大小事物，配合教练安排队伍训练行程。虽然我不直接接触队伍的训练比赛，但依然是队伍的重要后援！"
+     1 string english = "A <color=#EB7350>Team Manager</color> is required to help the coach arrange things like training schedules. I am still an important part of the team although I don't take part in the team's training directly."
+     1 string japanese = "<color=#EB7350>チームディレクター</color>は、チームのさまざまなことを管理し、コーチと協力して練習スケジュールを組む。練習や試合に直接は関わらないが、重要な裏方だ！"
+     1 string mchinese = "<color=#EB7350>戰隊領隊</color>，管理隊伍的大小事物，配合教練安排隊伍訓練行程。雖然我不直接接觸隊伍的訓練比賽，但依然是隊伍的重要後援！"
+   [23367]
+    0 TableSoItemLang data
+     0 int id = 1108843
+     1 string schinese = "<color=#EB7350>分部经理</color>，总管俱乐部中某游戏分部的最高领导。我将作为领头人，带领队伍在职业赛场上披襟斩棘。"
+     1 string schinese_censored = "分部经理，总管俱乐部中某游戏分部的最高领导。我将作为领头人，带领队伍在职业赛场上披襟斩棘。"
+     1 string english = "A <color=#EB7350>Division Manager</color> is the leader of one of the divisions in an e-sports club. And I will lead my team all the way to success."
+     1 string japanese = "<color=#EB7350>支部マネージャー</color>は、クラブゲーム支部のトップだ。私はチームを率い、プロの試合会場で奮闘している。"
+     1 string mchinese = "<color=#EB7350>分部經理</color>，總管俱樂部中某遊戲分部的最高領導。我將作為領頭人，帶領隊伍在職業賽場上披襟斬棘。"
+   [23368]
+    0 TableSoItemLang data
+     0 int id = 1108844
+     1 string schinese = "<color=#EB7350>俱乐部总经理</color>，对俱乐部整体营收负责。我的目光已不再局限于战队或者部门，而投向了更大的赛场。"
+     1 string schinese_censored = "俱乐部总经理，对俱乐部整体营收负责。我的目光已不再局限于战队或者部门，而投向了更大的赛场。"
+     1 string english = "A <color=#EB7350>General Manager</color> is responsible for the total interests of a team. I'd rather focus on the wider picture than just teams or divisions."
+     1 string japanese = "<color=#EB7350>クラブマネージャー</color>は、クラブ全体の経営を担う。私の視野はチームや部門に限られない。スタジアム全体を俯瞰している。"
+     1 string mchinese = "<color=#EB7350>俱樂部總經理</color>，對俱樂部整體營收負責。我的目光已不再局限於戰隊或者部門，而投向了更大的賽場。"
+   [23369]
+    0 TableSoItemLang data
+     0 int id = 1108845
+     1 string schinese = "<color=#EB7350>路人主播</color>，人气平平的主播。每天打打排位撸撸猫，虽然挣得不多但是日子也还算过得去吧，就是总担心未来会被慢慢遗忘。"
+     1 string schinese_censored = "路人主播，人气平平的主播。每天打打排位撸撸猫，虽然挣得不多但是日子也还算过得去吧，就是总担心未来会被慢慢遗忘。"
+     1 string english = "A <color=#EB7350>Small Streamer</color> has only a few followers. I don't earn too much by streaming with my cat and games, but I get by. However, I constantly fear being forgotten."
+     1 string japanese = "<color=#EB7350>平凡実況者</color>は、人気がそこそこの実況者だ。稼ぎは少ないが何とか暮らしていけている。ただ、ゆっくりと忘れ去られていくのではないかと心配だ。"
+     1 string mchinese = "<color=#EB7350>路人主播</color>，人氣平平的主播。每天打打排位擼擼貓，雖然掙得不多但是日子也還算過得去吧，就是總擔心未來會被慢慢遺忘。"
+   [23370]
+    0 TableSoItemLang data
+     0 int id = 1108846
+     1 string schinese = "<color=#EB7350>技术主播</color>，靠技术吃饭的主播。看我一场播，胜读十年书，我的直播间干货满满，观众们不仅可以获得快乐，还可以学到真正的技术！"
+     1 string schinese_censored = "技术主播，靠技术吃饭的主播。看我一场播，胜读十年书，我的直播间干货满满，观众们不仅可以获得快乐，还可以学到真正的技术！"
+     1 string english = "A <color=#EB7350>Skilled Streamer</color> depends on their gaming skills to make a living. Watching one match that I stream is worth playing 10 by yourself, so you get both joy and skills here!"
+     1 string japanese = "<color=#EB7350>技術的実況者</color>は、技術紹介で飯を食っている実況者だ。私の配信は１０年間の読書より有益。視聴者は楽しみながら、真の技術を学べる。"
+     1 string mchinese = "<color=#EB7350>技術主播</color>，靠技術吃飯的主播。看我一場播，勝讀十年書，我的直播間乾貨滿滿，觀眾們不僅可以獲得快樂，還可以學到真正的技術！"
+   [23371]
+    0 TableSoItemLang data
+     0 int id = 1108847
+     1 string schinese = "<color=#EB7350>当家台柱</color>，已经是直播界拔尖的人物了。我一个人就撑起了直播平台的相当一部分流量，可谓平台们的座上宾，名利双收！"
+     1 string schinese_censored = "当家台柱，已经是直播界拔尖的人物了。我一个人就撑起了直播平台的相当一部分流量，可谓平台们的座上宾，名利双收！"
+     1 string english = "A <color=#EB7350>Big Streamer</color> stands out among your average streamers. I contribute considerable traffic to the platform. And I'm respected by these streaming platforms, getting both fortune and fame."
+     1 string japanese = "<color=#EB7350>エース実況者</color>は、実況界を支える人物だ。私一人で配信プラットフォームのアクセスのかなりの部分を稼いでいる。人気も利益も急上昇！"
+     1 string mchinese = "<color=#EB7350>當家台柱</color>，已經是直播界拔尖的人物了。我一個人就撐起了直播平臺的相當一部分流量，可謂平臺們的座上賓，名利雙收！"
+   [23372]
+    0 TableSoItemLang data
+     0 int id = 1108848
+     1 string schinese = "<color=#EB7350>平台一哥</color>，年入千万粉丝数亿，自成一派的直播风格使我拥有了稳定的粉丝群体。若没有什么大变故，我的直播生活将会一直很潇洒。"
+     1 string schinese_censored = "平台一哥，年入千万粉丝数亿，自成一派的直播风格使我拥有了稳定的粉丝群体。若没有什么大变故，我的直播生活将会一直很潇洒。"
+     1 string english = "A <color=#EB7350>Top Streamer</color> has tens of millions of followers and earns hundreds of millions per year. My unique streaming style brings me loyal fans. I'm set for life unless an accident occurs."
+     1 string japanese = "<color=#EB7350>看板実況者</color>は、年収が１０００万元、ファンが数億人に上る。オリジナルの配信スタイルで、確固たるファンを獲得した。天変地異が起きない限り、配信生活は安泰だ。"
+     1 string mchinese = "<color=#EB7350>平臺一哥</color>，年入千萬粉絲數億，自成一派的直播風格使我擁有了穩定的粉絲群體。若沒有什麼大變故，我的直播生活將會一直很瀟灑。"
+   [23373]
+    0 TableSoItemLang data
+     0 int id = 1108849
+     1 string schinese = "你一定要进电竞这行就当个教练，教练都是越老越值钱！"
+     1 string schinese_censored = "你一定要进电竞这行就当个教练，教练都是越老越值钱！"
+     1 string english = "You'd better become a coach if you decide to start a career in e-sports. The older you are, the more you'll earn."
+     1 string japanese = "ｅスポーツに携わるならコーチだ。コーチは歳を取るほど価値が出る！"
+     1 string mchinese = "你一定要進電競這行就當個教練，教練都是越老越值錢！"
+   [23374]
+    0 TableSoItemLang data
+     0 int id = 1108850
+     1 string schinese = "当解说好啊！以后上电视多风光，爸爸把节目都给你录下来！"
+     1 string schinese_censored = "当解说好啊！以后上电视多风光，爸爸把节目都给你录下来！"
+     1 string english = "A commentator sounds great, you'll be on TV too. I will record all your commentaries!"
+     1 string japanese = "解説はいいぞ！テレビに出たら目立つし、父さんが録画しておいてくれる！"
+     1 string mchinese = "當解說好啊！以後上電視多風光，爸爸把節目都給你錄下來！"
+   [23375]
+    0 TableSoItemLang data
+     0 int id = 1108851
+     1 string schinese = "管理不用自己干活，以后还能当经理赚大钱，走上人生巅峰！"
+     1 string schinese_censored = "管理不用自己干活，以后还能当经理赚大钱，走上人生巅峰！"
+     1 string english = "Become a manager and you don't need to work yourself! What's more, you'll earn a great fortune as you climb the ranks."
+     1 string japanese = "マネージャーは自分で働かなくてもいいし、経営者になれば儲かる。人生を満喫しよう！"
+     1 string mchinese = "管理不用自己幹活，以後還能當經理賺大錢，走上人生巔峰！"
+   [23376]
+    0 TableSoItemLang data
+     0 int id = 1108852
+     1 string schinese = "你看那些主播挣钱又快又轻松！你也做主播，动动嘴皮子就能挣钱！"
+     1 string schinese_censored = "你看那些主播挣钱又快又轻松！你也做主播，动动嘴皮子就能挣钱！"
+     1 string english = "Streamers can earn fast and easy money! How about becoming a streamer? You can make money just by talking!"
+     1 string japanese = "実況者は簡単に稼げそうだ！あなたも実況をやろう。口を動かせば金が入る！"
+     1 string mchinese = "你看那些主播掙錢又快又輕鬆！你也做主播，動動嘴皮子就能掙錢！"
+   [23377]
+    0 TableSoItemLang data
+     0 int id = 1108853
+     1 string schinese = "电竞教练"
+     1 string schinese_censored = "电竞教练"
+     1 string english = "E-Sports Coach"
+     1 string japanese = "ｅスポーツ\nコーチ"
+     1 string mchinese = "電競教練"
+   [23378]
+    0 TableSoItemLang data
+     0 int id = 1108854
+     1 string schinese = "电竞解说"
+     1 string schinese_censored = "电竞解说"
+     1 string english = "E-Sports Commentator"
+     1 string japanese = "ｅスポーツ\n解説者"
+     1 string mchinese = "電競解說"
+   [23379]
+    0 TableSoItemLang data
+     0 int id = 1108855
+     1 string schinese = "电竞经理"
+     1 string schinese_censored = "电竞经理"
+     1 string english = "E-Sports Manager"
+     1 string japanese = "ｅスポーツ\nマネージャー"
+     1 string mchinese = "電競經理"
+   [23380]
+    0 TableSoItemLang data
+     0 int id = 1108856
+     1 string schinese = "电竞主播"
+     1 string schinese_censored = "电竞主播"
+     1 string english = "E-Sports Streamer"
+     1 string japanese = "ｅスポーツ\n実況者"
+     1 string mchinese = "電競主播"
+   [23381]
+    0 TableSoItemLang data
+     0 int id = 1108857
+     1 string schinese = "心态平稳"
+     1 string schinese_censored = "心态平稳"
+     1 string english = "/1108857"
+     1 string japanese = "静かな心"
+     1 string mchinese = "心態平穩"
+   [23382]
+    0 TableSoItemLang data
+     0 int id = 1108858
+     1 string schinese = "膨胀"
+     1 string schinese_censored = "膨胀"
+     1 string english = "Overconfidence"
+     1 string japanese = "油断"
+     1 string mchinese = "膨脹"
+   [23383]
+    0 TableSoItemLang data
+     0 int id = 1108859
+     1 string schinese = "自闭"
+     1 string schinese_censored = "自闭"
+     1 string english = "Closed Off"
+     1 string japanese = "ふさぎ込み"
+     1 string mchinese = "自閉"
+   [23384]
+    0 TableSoItemLang data
+     0 int id = 1108860
+     1 string schinese = "心态爆炸"
+     1 string schinese_censored = "心态爆炸"
+     1 string english = "Mind Explosion"
+     1 string japanese = "ストレス爆発"
+     1 string mchinese = "心態爆炸"
+   [23385]
+    0 TableSoItemLang data
+     0 int id = 1108861
+     1 string schinese = "诸事顺利，整个人都轻飘飘的，打职业也不过如此嘛。"
+     1 string schinese_censored = "诸事顺利，整个人都轻飘飘的，打职业也不过如此嘛。"
+     1 string english = "Everything's going so well. It seems easy to be a pro player."
+     1 string japanese = "何ごとも順調で、うきうき。プロといっても大したことないな。"
+     1 string mchinese = "諸事順利，整個人都輕飄飄的，打職業也不過如此嘛。"
+   [23386]
+    0 TableSoItemLang data
+     0 int id = 1108862
+     1 string schinese = "遇见好多不顺心的事，感觉有点自闭，比赛中也不想与队友交流了。"
+     1 string schinese_censored = "遇见好多不顺心的事，感觉有点自闭，比赛中也不想与队友交流了。"
+     1 string english = "It's going wrong recently. I'm feeling down and don't want to communicate with teammates in games."
+     1 string japanese = "上手くいかないことが多くて、ふさぎこんでしまう。試合中も仲間と話したくない。"
+     1 string mchinese = "遇見好多不順心的事，感覺有點自閉，比賽中也不想與隊友交流了。"
+   [23387]
+    0 TableSoItemLang data
+     0 int id = 1108863
+     1 string schinese = "糟心事儿太多，心情非常差，心态濒临爆炸急需调节。"
+     1 string schinese_censored = "糟心事儿太多，心情非常差，心态濒临爆炸急需调节。"
+     1 string english = "There are so many bad things. And I'm in a terrible mood, feeling I'm gonna collapse. I really need relaxation."
+     1 string japanese = "腹立たしいことが多くてむしゃくしゃする。もうすぐ爆発してしまいそう。"
+     1 string mchinese = "糟心事兒太多，心情非常差，心態瀕臨爆炸急需調節。"
+   [23388]
+    0 TableSoItemLang data
+     0 int id = 1108864
+     1 string schinese = "牛肉面"
+     1 string schinese_censored = "牛肉面"
+     1 string english = "Beef Noodles"
+     1 string japanese = "牛肉麺"
+     1 string mchinese = "牛肉麵"
+   [23389]
+    0 TableSoItemLang data
+     0 int id = 1108865
+     1 string schinese = "主播美颜摄像头"

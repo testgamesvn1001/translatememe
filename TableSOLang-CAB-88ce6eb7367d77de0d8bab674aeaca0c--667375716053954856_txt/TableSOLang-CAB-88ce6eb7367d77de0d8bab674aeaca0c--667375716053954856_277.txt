@@ -1,0 +1,184 @@
+     1 string schinese_censored = "智慧超过9999"
+     1 string english = "Attain 10,000 IQ."
+     1 string japanese = "ＩＱが9999を超える"
+     1 string mchinese = "智商超過9999"
+   [6347]
+    0 TableSoItemLang data
+     0 int id = 1016348
+     1 string schinese = "情商超过9999"
+     1 string schinese_censored = "情绪力超过9999"
+     1 string english = "Attain 10,000 EQ."
+     1 string japanese = "ＥＱが9999を超える"
+     1 string mchinese = "情商超過9999"
+   [6348]
+    0 TableSoItemLang data
+     0 int id = 1016349
+     1 string schinese = "体魄超过9999"
+     1 string schinese_censored = "体魄超过9999"
+     1 string english = "Attain 10,000 Constitution."
+     1 string japanese = "体力が9999を超える"
+     1 string mchinese = "體魄超過9999"
+   [6349]
+    0 TableSoItemLang data
+     0 int id = 1016350
+     1 string schinese = "记忆力超过9999"
+     1 string schinese_censored = "记忆力超过9999"
+     1 string english = "Attain 10,000 Memory."
+     1 string japanese = "記憶力が9999を超える"
+     1 string mchinese = "記憶力超過9999"
+   [6350]
+    0 TableSoItemLang data
+     0 int id = 1016351
+     1 string schinese = "想象力超过9999"
+     1 string schinese_censored = "想象力超过9999"
+     1 string english = "Attain 10,000 Imagination."
+     1 string japanese = "想像力が9999を超える"
+     1 string mchinese = "想像力超過9999"
+   [6351]
+    0 TableSoItemLang data
+     0 int id = 1016352
+     1 string schinese = "智商、情商、体魄、记忆力、想象力都超过50000"
+     1 string schinese_censored = "智慧、情绪力、体魄、记忆力、想象力都超过50000"
+     1 string english = "Attain 50,000 IQ, EQ, Constitution, Memory and Imagination."
+     1 string japanese = "ＩＱ、ＥＱ、体力、記憶力、想像力が全て50000を超える"
+     1 string mchinese = "智商、情商、體魄、記憶力、想像力都超過50000"
+   [6352]
+    0 TableSoItemLang data
+     0 int id = 1016353
+     1 string schinese = "连续2次获得彩票最高奖"
+     1 string schinese_censored = "连续2次获得彩票最高奖"
+     1 string english = "Win the lottery's grand prize 2 consecutive times."
+     1 string japanese = "宝くじで2回連続一等に当せんする"
+     1 string mchinese = "連續2次獲得彩票最高獎"
+   [6353]
+    0 TableSoItemLang data
+     0 int id = 1016354
+     1 string schinese = "连续100次彩票未中奖"
+     1 string schinese_censored = "连续100次彩票未中奖"
+     1 string english = "Play the lottery 100 times without winning."
+     1 string japanese = "宝くじで100回連続外れる"
+     1 string mchinese = "連續100次彩票未中獎"
+   [6354]
+    0 TableSoItemLang data
+     0 int id = 1016355
+     1 string schinese = "通用"
+     1 string schinese_censored = "通用"
+     1 string english = "General"
+     1 string japanese = "一般"
+     1 string mchinese = "通用"
+   [6355]
+    0 TableSoItemLang data
+     0 int id = 1016356
+     1 string schinese = "情绪"
+     1 string schinese_censored = "情绪"
+     1 string english = "Mood"
+     1 string japanese = "感情"
+     1 string mchinese = "情緒"
+   [6356]
+    0 TableSoItemLang data
+     0 int id = 1016357
+     1 string schinese = "语文"
+     1 string schinese_censored = "语文"
+     1 string english = "Chinese"
+     1 string japanese = "国語"
+     1 string mchinese = "語文"
+   [6357]
+    0 TableSoItemLang data
+     0 int id = 1016358
+     1 string schinese = "数学"
+     1 string schinese_censored = "数学"
+     1 string english = "Math"
+     1 string japanese = "数学"
+     1 string mchinese = "數學"
+   [6358]
+    0 TableSoItemLang data
+     0 int id = 1016359
+     1 string schinese = "英语"
+     1 string schinese_censored = "英语"
+     1 string english = "English"
+     1 string japanese = "英語"
+     1 string mchinese = "英語"
+   [6359]
+    0 TableSoItemLang data
+     0 int id = 1016360
+     1 string schinese = "文科"
+     1 string schinese_censored = "文科"
+     1 string english = "Liberal Arts"
+     1 string japanese = "文系"
+     1 string mchinese = "文科"
+   [6360]
+    0 TableSoItemLang data
+     0 int id = 1016361
+     1 string schinese = "理科"
+     1 string schinese_censored = "理科"
+     1 string english = "Science"
+     1 string japanese = "理系"
+     1 string mchinese = "理科"
+   [6361]
+    0 TableSoItemLang data
+     0 int id = 1016362
+     1 string schinese = "体育"
+     1 string schinese_censored = "体育"
+     1 string english = "Physical Education"
+     1 string japanese = "体育"
+     1 string mchinese = "體育"
+   [6362]
+    0 TableSoItemLang data
+     0 int id = 1016363
+     1 string schinese = "美术"
+     1 string schinese_censored = "美术"
+     1 string english = "Fine Art"
+     1 string japanese = "美術"
+     1 string mchinese = "美術"
+   [6363]
+    0 TableSoItemLang data
+     0 int id = 1016364
+     1 string schinese = "音乐"
+     1 string schinese_censored = "音乐"
+     1 string english = "Music"
+     1 string japanese = "音楽"
+     1 string mchinese = "音樂"
+   [6364]
+    0 TableSoItemLang data
+     0 int id = 1016365
+     1 string schinese = ""
+     1 string schinese_censored = "社会"
+     1 string english = "Sociology"
+     1 string japanese = "社会"
+     1 string mchinese = ""
+   [6365]
+    0 TableSoItemLang data
+     0 int id = 1016366
+     1 string schinese = "计算机"
+     1 string schinese_censored = "计算机"
+     1 string english = "Computer Science"
+     1 string japanese = "ＰＣ"
+     1 string mchinese = "電腦"
+   [6366]
+    0 TableSoItemLang data
+     0 int id = 1016367
+     1 string schinese = "演艺"
+     1 string schinese_censored = "演艺"
+     1 string english = "Performing Arts"
+     1 string japanese = "演芸"
+     1 string mchinese = "演藝"
+   [6367]
+    0 TableSoItemLang data
+     0 int id = 1016368
+     1 string schinese = "金融"
+     1 string schinese_censored = "金融"
+     1 string english = "Finance"
+     1 string japanese = "金融"
+     1 string mchinese = "金融"
+   [6368]
+    0 TableSoItemLang data
+     0 int id = 1016369
+     1 string schinese = "口才"
+     1 string schinese_censored = "口才"
+     1 string english = "Speechcraft"
+     1 string japanese = "弁舌"
+     1 string mchinese = "口才"
+   [6369]
+    0 TableSoItemLang data
+     0 int id = 1016370
+     1 string schinese = "科研"

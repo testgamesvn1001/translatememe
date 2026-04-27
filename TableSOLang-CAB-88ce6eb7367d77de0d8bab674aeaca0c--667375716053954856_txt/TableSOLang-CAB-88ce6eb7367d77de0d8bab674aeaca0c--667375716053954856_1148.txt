@@ -1,0 +1,184 @@
+     1 string schinese_censored = "下面，让我们用学习和娱乐将日程排满吧！"
+     1 string english = "Fill up your schedule with study and entertainment!"
+     1 string japanese = "これを繰り返して勉強と娯楽でスケジュールを埋めよう！"
+     1 string mchinese = "下麵，讓我們用學習和娛樂將日程排滿吧！"
+   [26380]
+    0 TableSoItemLang data
+     0 int id = 1596172667
+     1 string schinese = "日程安排完毕，现在让我们开始进程推演吧！"
+     1 string schinese_censored = "日程安排完毕，现在让我们开始进程推演吧！"
+     1 string english = "You have filled up your schedule, now let's see what happens!"
+     1 string japanese = "予定が埋まったので実行しよう！"
+     1 string mchinese = "日程安排完畢，現在讓我們開始進程推演吧！"
+   [26381]
+    0 TableSoItemLang data
+     0 int id = 1596172668
+     1 string schinese = "进入下一回合前，会根据所安排的日程进行<color=#EB7350>推演</color>。并可恢复一定<color=#EB7350>行动力</color>\n推演伴随着一些<color=#EB7350>随机事件</color>。多多查看事务的特性，可以培养不同的能力！"
+     1 string schinese_censored = "进入下一回合前，会根据所安排的日程进行<color=#EB7350>推演</color>。并可恢复一定<color=#EB7350>行动力</color>\n推演伴随着一些<color=#EB7350>随机事件</color>。多多查看事务的特性，可以培养不同的能力！"
+     1 string english = "Upon starting a new turn, you'll <color=#EB7350>perform</color> all activities scheduled for that day, and you'll recover some <color=#EB7350>Action</color>.\nAs you complete these, <color=#EB7350>random events will occur</color>."
+     1 string japanese = "次のターンに進む前に、予定が<color=#EB7350>実行</color>される。実行中は<color=#EB7350>行動力</color>が一定量回復する。\n実行中には<color=#EB7350>ランダムイベント</color>も発生する。詳細を確認していろいろな能力を向上させよう！"
+     1 string mchinese = "進入下一回合前，會根據所安排的日程進行<color=#EB7350>推演</color>。並可恢復一定<color=#EB7350>行動力</color>\n推演伴隨著一些<color=#EB7350>隨機事件</color>。多多查看事務的特性，可以培養不同的能力！"
+   [26382]
+    0 TableSoItemLang data
+     0 int id = 1596172669
+     1 string schinese = "父母总会对你有各种<color=#EB7350>期望</color>！\n\n期望通常都能在挖脑洞中实现。\n\n要注意它的时限呦，否则会让父母失望~"
+     1 string schinese_censored = "父母总会对你有各种<color=#EB7350>期望</color>！\n\n期望通常都能在挖脑洞中实现。\n\n要注意它的时限呦，否则会让父母失望~"
+     1 string english = "Your parents will have various <color=#EB7350>Expectations</color> on you!\n\nThese will be displayed as you absorb fragments.\n\nPay attention to the time-limit, otherwise you might disappoint them!"
+     1 string japanese = "両親はあなたに様々な<color=#EB7350>期待</color>を抱いている！\n\n期待は大抵の場合、カケラを吸収すれば応えられるぞ。\n\n制限ターンには注意しよう。両親を失望させないようにね！"
+     1 string mchinese = "父母總會對你有各種<color=#EB7350>期望</color>！\n\n期望通常都能在挖腦洞中實現。\n\n要注意它的時限呦，否則會讓父母失望~"
+   [26383]
+    0 TableSoItemLang data
+     0 int id = 1596172670
+     1 string schinese = "点击这里，可以查看能够学习的技能。"
+     1 string schinese_censored = "点击这里，可以查看能够学习的技能。"
+     1 string english = "Go to [Study] to view what skills you may learn."
+     1 string japanese = "ここを選択すると学べるスキルを確認できるぞ。"
+     1 string mchinese = "點擊這裏，可以查看能夠學習的技能。"
+   [26384]
+    0 TableSoItemLang data
+     0 int id = 1596172671
+     1 string schinese = "技能所依赖<color=#EB7350>属性越高</color>，<color=#EB7350>悟性消耗越少</color>。\n\n例如，行走技能依赖【体魄】属性，当体魄属性越高，则学习所需的【悟性值】更低。"
+     1 string schinese_censored = "技能所依赖<color=#EB7350>属性越高</color>，<color=#EB7350>悟性消耗越少</color>。\n\n例如，行走技能依赖【体魄】属性，当体魄属性越高，则学习所需的【悟性值】更低。"
+     1 string english = "The <color=#EB7350>Knowledge cost of skills decrease</color> as your <color=#EB7350>stats increase</color>.\n\nFor example, the Walk skill is reliant on your [Constitution] stat, and its [Knowledge] cost decreases as your Constitution increases."
+     1 string japanese = "スキルの学習には能力が影響する。<color=#EB7350>能力値が高い</color>ほど、<color=#EB7350>理解力の消費が少なくなる</color>。\n\n例えば、「歩く」は【体力】の能力値が影響する。体力の能力値が高いと消費する【理解力】が少なくなるぞ。"
+     1 string mchinese = "技能所依賴<color=#EB7350>屬性越高</color>，<color=#EB7350>悟性消耗越少</color>。\n\n例如，行走技能依賴【體魄】屬性，當體魄屬性越高，則學習所需的【悟性值】更低。"
+   [26385]
+    0 TableSoItemLang data
+     0 int id = 1596172672
+     1 string schinese = "学习技能消耗悟性值！\n\n学成后，可在【安排】中练习该技能"
+     1 string schinese_censored = "学习技能消耗悟性值！\n\n学成后，可在【安排】中练习该技能"
+     1 string english = "Learning skills costs Knowledge!\n\nAfter learning a skill, you can add it to your [Schedule]."
+     1 string japanese = "スキルの学習には理解力を消費する！\n\n獲得後は【予定】に入れて勉強しよう。"
+     1 string mchinese = "學習技能消耗悟性值！\n\n學成後，可在【安排】中練習該技能"
+   [26386]
+    0 TableSoItemLang data
+     0 int id = 1596172673
+     1 string schinese = "学习技能消耗悟性值！\n\n学成后，可在【安排】中练习该技能"
+     1 string schinese_censored = "学习技能消耗悟性值！\n\n学成后，可在【安排】中练习该技能"
+     1 string english = "Learning skills costs Knowledge!\n\nAfter learning a skill, you can add it to your [Schedule]."
+     1 string japanese = "スキルの学習には理解力を消費する！\n\n獲得後は【予定】に入れて勉強しよう。"
+     1 string mchinese = "學習技能消耗悟性值！\n\n學成後，可在【安排】中練習該技能"
+   [26387]
+    0 TableSoItemLang data
+     0 int id = 1596172674
+     1 string schinese = "技能所依赖<color=#EB7350>属性越高</color>，<color=#EB7350>悟性消耗越少</color>。\n\n例如，行走技能依赖【体魄】属性，当体魄属性越高，则学习所需的【悟性值】更低。"
+     1 string schinese_censored = "技能所依赖<color=#EB7350>属性越高</color>，<color=#EB7350>悟性消耗越少</color>。\n\n例如，行走技能依赖【体魄】属性，当体魄属性越高，则学习所需的【悟性值】更低。"
+     1 string english = "The <color=#EB7350>Knowledge cost of skills decrease</color> as your <color=#EB7350>stats increase</color>.\n\nFor example, the Walk skill is reliant on your [Constitution] stat, and its [Knowledge] cost decreases as your Constitution increases."
+     1 string japanese = "スキルの学習には能力が影響する。<color=#EB7350>能力値が高い</color>ほど、<color=#EB7350>理解力の消費が少なくなる</color>。\n\n例えば、「歩く」は【体力】の能力値が影響する。体力の能力値が高いと消費する【理解力】が少なくなるぞ。"
+     1 string mchinese = "技能所依賴<color=#EB7350>屬性越高</color>，<color=#EB7350>悟性消耗越少</color>。\n\n例如，行走技能依賴【體魄】屬性，當體魄屬性越高，則學習所需的【悟性值】更低。"
+   [26388]
+    0 TableSoItemLang data
+     0 int id = 1596172675
+     1 string schinese = "当有<color=#EB7350>事件</color>发生时，【安排】就会有特殊的提示。\n\n这时候必须先处理事件，才可以安排学习和娱乐哦。"
+     1 string schinese_censored = "当有<color=#EB7350>事件</color>发生时，【安排】就会有特殊的提示。\n\n这时候必须先处理事件，才可以安排学习和娱乐哦。"
+     1 string english = "A special prompt will appear in [Schedule] once an <color=#EB7350>event</color> is triggered.\n\nYou must complete these events before you can continue with your schedule."
+     1 string japanese = "<color=#EB7350>イベント</color>発生時は、【予定】を立てられない。\n\nイベントを終わらせてから、勉強と娯楽を楽しもう。"
+     1 string mchinese = "當有<color=#EB7350>事件</color>發生時，【安排】就會有特殊的提示。\n\n這時候必須先處理事件，才可以安排學習和娛樂哦。"
+   [26389]
+    0 TableSoItemLang data
+     0 int id = 1596172676
+     1 string schinese = "好奇！是什么<color=#EB7350>事件</color>呢？"
+     1 string schinese_censored = "好奇！是什么<color=#EB7350>事件</color>呢？"
+     1 string english = "Check the <color=#EB7350>event</color>."
+     1 string japanese = "ここを選択すると<color=#EB7350>イベント</color>内容を確認できる。"
+     1 string mchinese = "好奇！是什麼<color=#EB7350>事件</color>呢？"
+   [26390]
+    0 TableSoItemLang data
+     0 int id = 1596172677
+     1 string schinese = "让我们去看看你刚获得的<color=#EB7350>特长</color>吧。"
+     1 string schinese_censored = "让我们去看看你刚获得的<color=#EB7350>特长</color>吧。"
+     1 string english = "Let's go and check on the <color=#EB7350>Trait</color> you acquired."
+     1 string japanese = "獲得した<color=#EB7350>特技</color>を確認してみよう。"
+     1 string mchinese = "讓我們去看看你剛獲得的<color=#EB7350>特長</color>吧。"
+   [26391]
+    0 TableSoItemLang data
+     0 int id = 1596172678
+     1 string schinese = "在日程中安排<color=#EB7350>技能练习、娱乐</color>，都有几率<color=#EB7350>领悟特长</color>！点击可查看详情\n\n特长在某些时候会派上大用场！"
+     1 string schinese_censored = "在日程中安排<color=#EB7350>技能练习、娱乐</color>，都有几率<color=#EB7350>领悟特长</color>！点击可查看详情\n\n特长在某些时候会派上大用场！"
+     1 string english = "When scheduling in <color=#EB7350>skill training and entertainment</color> in your daily schedule, there is a <color=#EB7350>chance to learn a trait</color>! Select it for more information.\n\nTraits are valuable assets in certain areas!"
+     1 string japanese = "<color=#EB7350>スキル練習と娯楽</color>を実行すると、確率で<color=#EB7350>特技</color>を獲得する！選択して詳細を確認しよう。\n\n特技は後々役に立つぞ！"
+     1 string mchinese = "在日程中安排<color=#EB7350>技能練習、娛樂</color>，都有幾率<color=#EB7350>領悟特長</color>！點擊可查看詳情\n\n特長在某些時候會派上大用場！"
+   [26392]
+    0 TableSoItemLang data
+     0 int id = 1596172679
+     1 string schinese = "这里是本次闲话家常中为你从<color=#EB7350>获得的可用特长</color>中挑选出来的特长，它的稀有度、评分和属性是获胜的重要条件。"
+     1 string schinese_censored = "这里是本次闲话家常中为你从<color=#EB7350>获得的可用特长</color>中挑选出来的特长，它的稀有度、评分和属性是获胜的重要条件。"
+     1 string english = "These are the <color=#EB7350>available traits</color> selected for this Face Duel. The rarity, rating and stats of a trait are important for winning."
+     1 string japanese = "ここではメンツバトルで使用できる<color=#EB7350>獲得済みの特技</color>が表示される。勝つためにはレアリティ、スコアと能力値が重要だ。"
+     1 string mchinese = "這裏是本次閒話家常中為你從<color=#EB7350>獲得的可用特長</color>中挑選出來的特長，它的稀有度、評分和屬性是獲勝的重要條件。"
+   [26393]
+    0 TableSoItemLang data
+     0 int id = 1596172680
+     1 string schinese = "如果不满意本次匹配的特长，可点击这里进行更换。每次家常只可更换一次特长。"
+     1 string schinese_censored = "如果不满意本次匹配的特长，可点击这里进行更换。每次家常只可更换一次特长。"
+     1 string english = "If you are unhappy with the current group of traits, click to refresh it. You can refresh your traits one time per duel."
+     1 string japanese = "選ばれた特技が不満なら、ここを選択して変更しよう。特技の変更はメンツバトルごとに一度だけできる。"
+     1 string mchinese = "如果不滿意本次匹配的特長，可點擊這裏進行更換。每次家常只可更換一次特長。"
+   [26394]
+    0 TableSoItemLang data
+     0 int id = 1596172681
+     1 string schinese = "似乎没有足够的特长进行更换呢，那让我们直接开始吧！"
+     1 string schinese_censored = "似乎没有足够的特长进行更换呢，那让我们直接开始吧！"
+     1 string english = "It seems that you have no traits to replace. Let’s get started!"
+     1 string japanese = "変更できる特技はないぞ。この特技で相手に立ち向かおう！"
+     1 string mchinese = "似乎沒有足夠的特長進行更換呢，那讓我們直接開始吧！"
+   [26395]
+    0 TableSoItemLang data
+     0 int id = 1596172682
+     1 string schinese = "轮到你了，选出一个特长回击对手！"
+     1 string schinese_censored = "轮到你了，选出一个特长回击对手！"
+     1 string english = "It's your turn, choose a trait and strike at your opponent!"
+     1 string japanese = "相手のメンツを潰すために特技を選択しよう！"
+     1 string mchinese = "輪到你了，選出一個特長回擊對手！"
+   [26396]
+    0 TableSoItemLang data
+     0 int id = 1596172683
+     1 string schinese = "不同年龄，父母会提供<color=#EB7350>【娱乐】</color>项目供玩家挑选。\n\n当然前提是得给父母挣得<color=#EB7350>【足够的面子】</color>和好运气！"
+     1 string schinese_censored = "不同年龄，父母会提供<color=#EB7350>【娱乐】</color>项目供玩家挑选。\n\n当然前提是得给父母挣得<color=#EB7350>【足够的面子】</color>和好运气！"
+     1 string english = "Your parents will provide you with different <color=#EB7350>[Entertainment]</color> activities depending on your age.\n\nOf course, the precondition is that your parents have <color=#EB7350>[enough Face]</color> and that you're lucky!"
+     1 string japanese = "年齢に応じて両親は<color=#EB7350>【娯楽】</color>を用意してくれる。\n\nもちろん獲得するには<color=#EB7350>【メンツ】</color>と運が必要だよ！"
+     1 string mchinese = "不同年齡，父母會提供<color=#EB7350>【娛樂】</color>專案供玩家挑選。\n\n當然前提是得給父母掙得<color=#EB7350>【足夠的面子】</color>和好運氣！"
+   [26397]
+    0 TableSoItemLang data
+     0 int id = 1596172684
+     1 string schinese = "向<color=#EB7350>父母索取的次数</color>，每隔一段时间都会增加！\n\n如果平时表现较好，也会有<color=#EB7350>额外的次数</color>！"
+     1 string schinese_censored = "向<color=#EB7350>父母索取的次数</color>，每隔一段时间都会增加！\n\n如果平时表现较好，也会有<color=#EB7350>额外的次数</color>！"
+     1 string english = "The number of <color=#EB7350>requests you can make of your parents</color> increases over time!\n\nYou can make <color=#EB7350>extra requests</color> if you behave well!"
+     1 string japanese = "両親への<color=#EB7350>要求回数</color>は時間が経つと増加する！\n\n普段から良い子にしていれば<color=#EB7350>ボーナス回数</color>がもらえるかも！"
+     1 string mchinese = "向<color=#EB7350>父母索取的次數</color>，每隔一段時間都會增加！\n\n如果平時表現較好，也會有<color=#EB7350>額外的次數</color>！"
+   [26398]
+    0 TableSoItemLang data
+     0 int id = 1596172685
+     1 string schinese = "父母现在对你的日程【安排】有满意度要求了！\n\n如果<color=#EB7350>【娱乐】</color>过多，会<color=#EB7350>减少满意度</color>，容易被父母责罚！"
+     1 string schinese_censored = "父母现在对你的日程【安排】有满意度要求了！\n\n如果<color=#EB7350>【娱乐】</color>过多，会<color=#EB7350>减少满意度</color>，容易被父母责罚！"
+     1 string english = "Your parents have requirements regarding your [Schedule]!\n\nIf you plan too many <color=#EB7350>[Entertainment]</color> activities, their <color=#EB7350>Satisfaction decreases</color>, which might lead to you being punished!"
+     1 string japanese = "入力した【予定】が、両親の満足度を左右する！\n\n<color=#EB7350>【娯楽】</color>の予定が多すぎると<color=#EB7350>満足度がダウン</color>して両親から怒られるぞ！"
+     1 string mchinese = "父母現在對你的日程【安排】有滿意度要求了！\n\n如果<color=#EB7350>【娛樂】</color>過多，會<color=#EB7350>減少滿意度</color>，容易被父母責罰！"
+   [26399]
+    0 TableSoItemLang data
+     0 int id = 1596172686
+     1 string schinese = "安排学习过多，会产生压力！\n\n若压力过高，则会出现一些心理障碍！"
+     1 string schinese_censored = "安排学习过多，会产生压力！\n\n若压力过高，则会出现一些心理障碍！"
+     1 string english = "Scheduling too much study will increase your Stress!\n\nYou'll run into mental problems if you overstress yourself!"
+     1 string japanese = "学習の予定を入れすぎるとストレスがたまる！\n\nストレスをためすぎるとメンタルに響くぞ！"
+     1 string mchinese = "安排學習過多，會產生壓力！\n\n若壓力過高，則會出現一些心理障礙！"
+   [26400]
+    0 TableSoItemLang data
+     0 int id = 1596172687
+     1 string schinese = "点击这里，可以查看<color=#EB7350>个人信息</color>！\n\n定时查看，会有意想不到的惊喜喲！"
+     1 string schinese_censored = "点击这里，可以查看<color=#EB7350>个人信息</color>！\n\n定时查看，会有意想不到的惊喜哟！"
+     1 string english = "Click to view your <color=#EB7350>personal information</color>!\n\nCheck here from time to time and you might be pleasantly surprised!"
+     1 string japanese = "<color=#EB7350>プロフィール</color>確認はここを選択！\n\n定期的にチェックしてね。サプライズも用意しているよ！"
+     1 string mchinese = "點擊這裏，可以查看<color=#EB7350>個人資訊</color>！\n\n定時查看，會有意想不到的驚喜喲！"
+   [26401]
+    0 TableSoItemLang data
+     0 int id = 1596172688
+     1 string schinese = "心理阴影面积，受到父母奖励、惩罚，我的压力等因素的影响。\n\n当<color=#EB7350>心理阴影面积＞100</color>，则会直接进入<color=#EB7350>游戏失败</color>结局！"
+     1 string schinese_censored = "心理阴影面积，受到父母奖励、惩罚，我的压力等因素的影响。\n\n当<color=#EB7350>心理阴影面积＞100</color>，则会直接进入<color=#EB7350>游戏失败</color>结局！"
+     1 string english = "The size of your mind shadow is affected by rewards and punishments from your parents, your Stress, etc.\n\nWhen your <color=#EB7350>mind shadow's size exceeds 100</color>, the <color=#EB7350>game is immediately over</color>!"
+     1 string japanese = "トラウマ領域は両親からのご褒美、お仕置き、ストレスなどに影響される。\n\n<color=#EB7350>トラウマ領域が100</color>を超えると、<color=#EB7350>バッドエンディング</color>に突入だ！"
+     1 string mchinese = "心理陰影面積，受到父母獎勵、懲罰，我的壓力等因素的影響。\n\n當<color=#EB7350>心理陰影面積＞100</color>，則會直接進入<color=#EB7350>遊戲失敗</color>結局！"
+   [26402]
+    0 TableSoItemLang data
+     0 int id = 1596172689
+     1 string schinese = "随着年龄的增长，你会交到许多朋友。"

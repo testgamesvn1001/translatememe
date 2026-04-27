@@ -1,0 +1,184 @@
+     1 string schinese_censored = "请点击特殊事件！"
+     1 string english = "Tap the random event!"
+     1 string japanese = "特殊イベントをクリック！"
+     1 string mchinese = "請點擊特殊事件！"
+   [21688]
+    0 TableSoItemLang data
+     0 int id = 6600302
+     1 string schinese = "查看家谱"
+     1 string schinese_censored = "查看家谱"
+     1 string english = "6600302"
+     1 string japanese = "6600302"
+     1 string mchinese = "查看家譜"
+   [21689]
+    0 TableSoItemLang data
+     0 int id = 6600303
+     1 string schinese = "邀请好友"
+     1 string schinese_censored = "邀请好友"
+     1 string english = "Invite Friends"
+     1 string japanese = "フレンド招待"
+     1 string mchinese = "邀請好友"
+   [21690]
+    0 TableSoItemLang data
+     0 int id = 6600304
+     1 string schinese = "你的好友Ta还未完成第一代"
+     1 string schinese_censored = "你的好友Ta还未完成第一代"
+     1 string english = "This friend hasn't completed the first generation yet."
+     1 string japanese = "あなたの友人はまだ第１世代を終えていません"
+     1 string mchinese = "你的好友Ta還未完成第一代"
+   [21691]
+    0 TableSoItemLang data
+     0 int id = 6600305
+     1 string schinese = "准生证不足啦，请前往获取或者购买解锁游戏内容吧~"
+     1 string schinese_censored = "准生证不足啦，请前往获取或者购买解锁游戏内容吧~"
+     1 string english = "Insufficient Fertility Service Cards. Please go acquire or purchase some to unlock content."
+     1 string japanese = "出産許可証が足りません。獲得するか、ゲームコンテンツをアンロックしてください。"
+     1 string mchinese = "准生證不足啦，請前往獲取或者購買解鎖遊戲內容吧~"
+   [21692]
+    0 TableSoItemLang data
+     0 int id = 6600306
+     1 string schinese = "点击可全屏播放"
+     1 string schinese_censored = ""
+     1 string english = "Play in full screen."
+     1 string japanese = "フルスクリーンモード"
+     1 string mchinese = "點擊可全屏播放"
+   [21693]
+    0 TableSoItemLang data
+     0 int id = 6600307
+     1 string schinese = "行动力不足，试着挖掘其他脑洞吧~"
+     1 string schinese_censored = "行动力不足，试着挖掘其他脑洞吧~"
+     1 string english = "Not enough Action. Try to absorb other fragments."
+     1 string japanese = "行動力が足りません。他のカケラを吸収してみましょう。"
+     1 string mchinese = "行動力不足，試著挖掘其他腦洞吧~"
+   [21694]
+    0 TableSoItemLang data
+     0 int id = 6600308
+     1 string schinese = "已经全部解锁完毕，只能加属性了！"
+     1 string schinese_censored = "差不多得了哈，都加属性了还嫌不够"
+     1 string english = "All unlocked! You can still improve stats, though."
+     1 string japanese = "すべてアンロックされています。能力値のみ増加します。"
+     1 string mchinese = "已經全部解鎖完畢，只能加屬性了！"
+   [21695]
+    0 TableSoItemLang data
+     0 int id = 6600309
+     1 string schinese = "抬头学费值属性点击说明文本XXXXXXXXX"
+     1 string schinese_censored = "抬头学费值属性点击说明文本XXXXXXXXX"
+     1 string english = "簡中專用字段，英文不用翻譯"
+     1 string japanese = "簡中專用字段，英文不用翻譯"
+     1 string mchinese = "抬頭學費值屬性點擊說明文本XXXXXXXXX"
+   [21696]
+    0 TableSoItemLang data
+     0 int id = 6600310
+     1 string schinese = "父母期望"
+     1 string schinese_censored = "父母期望"
+     1 string english = "Expectations"
+     1 string japanese = "両親の期待"
+     1 string mchinese = "父母期望"
+   [21697]
+    0 TableSoItemLang data
+     0 int id = 6600311
+     1 string schinese = "查看奖励"
+     1 string schinese_censored = "查看奖励"
+     1 string english = "Rewards"
+     1 string japanese = "ご褒美を見る"
+     1 string mchinese = "查看獎勵"
+   [21698]
+    0 TableSoItemLang data
+     0 int id = 6600312
+     1 string schinese = "奖励内容"
+     1 string schinese_censored = "奖励内容"
+     1 string english = "Rewards"
+     1 string japanese = "ご褒美内容"
+     1 string mchinese = "獎勵內容"
+   [21699]
+    0 TableSoItemLang data
+     0 int id = 6600313
+     1 string schinese = "加入安排"
+     1 string schinese_censored = "加入安排"
+     1 string english = "Add to Schedule"
+     1 string japanese = "予定に追加"
+     1 string mchinese = "加入安排"
+   [21700]
+    0 TableSoItemLang data
+     0 int id = 6600314
+     1 string schinese = "已解锁特长图鉴：\n{0}"
+     1 string schinese_censored = "已解锁特长图鉴：\n{0}"
+     1 string english = "Traits Unlocked in Gallery:\n{0}"
+     1 string japanese = "アンロック可能な特技図鑑：\n{0}"
+     1 string mchinese = "已解鎖特長圖鑒：\n{0}"
+   [21701]
+    0 TableSoItemLang data
+     0 int id = 6600315
+     1 string schinese = "可解锁特长图鉴：\n{0}"
+     1 string schinese_censored = "可解锁特长图鉴：\n{0}"
+     1 string english = "Traits Locked in Gallery:\n{0}"
+     1 string japanese = "アンロック可能な特技図鑑：\n{0}"
+     1 string mchinese = "可解鎖特長圖鑒：\n{0}"
+   [21702]
+    0 TableSoItemLang data
+     0 int id = 6600316
+     1 string schinese = "我今天就是饿死，死外边，从这里跳下去，也不会回家的！"
+     1 string schinese_censored = "我今天就是饿死，死外边，从这里跳下去，也不会回家的！"
+     1 string english = "I'd rather starve or jump to death than go back!"
+     1 string japanese = "帰らないでござる！絶対に帰らないでござる！"
+     1 string mchinese = "我今天就是餓死，死外邊，從這裏跳下去，也不會回家的！"
+   [21703]
+    0 TableSoItemLang data
+     0 int id = 6600317
+     1 string schinese = "拖拽至此区域内删除"
+     1 string schinese_censored = "拖拽至此区域内删除"
+     1 string english = "Drag and drop here to delete."
+     1 string japanese = "このエリアにドラッグして削除"
+     1 string mchinese = "拖拽至此區域內刪除"
+   [21704]
+    0 TableSoItemLang data
+     0 int id = 6600318
+     1 string schinese = "你已经决定成为{0}特长生了！请不要一心两用，心猿意马~"
+     1 string schinese_censored = "你已经决定成为{0}特长生了！请不要一心两用，心猿意马~"
+     1 string english = "廢棄"
+     1 string japanese = "廢棄"
+     1 string mchinese = "你已經決定成為{0}特長生了！請不要一心兩用，心猿意馬~"
+   [21705]
+    0 TableSoItemLang data
+     0 int id = 6600319
+     1 string schinese = "压力太大"
+     1 string schinese_censored = "压力太大"
+     1 string english = "Stressed Out"
+     1 string japanese = "ストレスが大きすぎ"
+     1 string mchinese = "壓力太大"
+   [21706]
+    0 TableSoItemLang data
+     0 int id = 6600320
+     1 string schinese = "免费体验已结束"
+     1 string schinese_censored = "免费体验已结束"
+     1 string english = "Free Trail is over"
+     1 string japanese = "無料体験は終わりました"
+     1 string mchinese = "免費體驗已結束"
+   [21707]
+    0 TableSoItemLang data
+     0 int id = 6600321
+     1 string schinese = "买断游戏方可继续"
+     1 string schinese_censored = "买断游戏方可继续"
+     1 string english = "Purchase game to continue"
+     1 string japanese = "ゲームを購入してください"
+     1 string mchinese = "買斷遊戲方可繼續"
+   [21708]
+    0 TableSoItemLang data
+     0 int id = 6600322
+     1 string schinese = ""
+     1 string schinese_censored = ""
+     1 string english = "/6600322"
+     1 string japanese = "/"
+     1 string mchinese = ""
+   [21709]
+    0 TableSoItemLang data
+     0 int id = 6600323
+     1 string schinese = ""
+     1 string schinese_censored = ""
+     1 string english = "/6600323"
+     1 string japanese = "/"
+     1 string mchinese = ""
+   [21710]
+    0 TableSoItemLang data
+     0 int id = 6600324
+     1 string schinese = ""

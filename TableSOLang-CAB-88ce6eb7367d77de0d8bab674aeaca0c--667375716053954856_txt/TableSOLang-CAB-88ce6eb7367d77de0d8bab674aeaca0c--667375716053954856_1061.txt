@@ -1,0 +1,184 @@
+     1 string schinese_censored = "算命先生有点尴尬，爸爸不甘心地想让你再抓一次，但妈妈已经高兴地付了咨询费\n（ 魅力增加了80）"
+     1 string english = "The fortune teller looks embarrassed and dad wants you to try again. However, your mom happily pays the fee.\n(Charm +80)"
+     1 string japanese = "占い師は気まずそうだ。お父さんはもう一度選ばせようとしたが、お母さんはすでに喜んで占い量を払っていた\n魅力が80増加"
+     1 string mchinese = "算命先生有點尷尬，爸爸不甘心地想讓你再抓一次，但媽媽已經高興地付了諮詢費\n（魅力+80）"
+   [24379]
+    0 TableSoItemLang data
+     0 int id = 1596170666
+     1 string schinese = "爸妈抱着你，来到一个算命先生摊位前，对方拿出鸡腿、钢笔、零钱，让你三选一。你决定……"
+     1 string schinese_censored = "爸妈抱着你，来到一个算命先生摊位前，对方拿出鸡腿、钢笔、零钱，让你三选一。你决定……"
+     1 string english = "Your parents take you to a fortune teller. There, you are asked to choose between a drumstick, a fountain pen, and pocket money. You choose..."
+     1 string japanese = "両親に抱っこされ占いに連れてこられた。「チキン、万年筆、小銭から一つ選べ」と言った。あなたは…"
+     1 string mchinese = "爸媽抱著你，來到一個算命先生攤位前，對方拿出雞腿、鋼筆、零錢，讓你三選一。你決定……"
+   [24380]
+    0 TableSoItemLang data
+     0 int id = 1596170667
+     1 string schinese = "爸妈抱着你，来到一个算命先生摊位前，对方拿出糖果、手帕、玩具车，让你三选一。你决定……"
+     1 string schinese_censored = "爸妈抱着你，来到一个算命先生摊位前，对方拿出糖果、手帕、玩具车，让你三选一。你决定……"
+     1 string english = "Your parents take you to a fortune teller. There, you are asked to choose between candy, a handkerchief, and a toy car. You choose..."
+     1 string japanese = "両親に抱っこされ占いに連れてこられた。「あめ、ハンカチ、ミニカーから一つ選べ」と言った。あなたは…"
+     1 string mchinese = "爸媽抱著你，來到一個算命先生攤位前，對方拿出糖果、手帕、玩具車，讓你三選一。你決定……"
+   [24381]
+    0 TableSoItemLang data
+     0 int id = 1596170668
+     1 string schinese = "鸡腿"
+     1 string schinese_censored = "鸡腿"
+     1 string english = "Drumstick."
+     1 string japanese = "チキン"
+     1 string mchinese = "雞腿"
+   [24382]
+    0 TableSoItemLang data
+     0 int id = 1596170669
+     1 string schinese = "钢笔"
+     1 string schinese_censored = "钢笔"
+     1 string english = "Fountain pen."
+     1 string japanese = "万年筆"
+     1 string mchinese = "鋼筆"
+   [24383]
+    0 TableSoItemLang data
+     0 int id = 1596170670
+     1 string schinese = "零钱"
+     1 string schinese_censored = "零钱"
+     1 string english = "Pocket money."
+     1 string japanese = "小銭"
+     1 string mchinese = "零錢"
+   [24384]
+    0 TableSoItemLang data
+     0 int id = 1596170671
+     1 string schinese = "糖果"
+     1 string schinese_censored = "糖果"
+     1 string english = "Candy."
+     1 string japanese = "あめ"
+     1 string mchinese = "糖果"
+   [24385]
+    0 TableSoItemLang data
+     0 int id = 1596170672
+     1 string schinese = "玩具车"
+     1 string schinese_censored = "玩具车"
+     1 string english = "Toy car."
+     1 string japanese = "ミニカー"
+     1 string mchinese = "玩具車"
+   [24386]
+    0 TableSoItemLang data
+     0 int id = 1596170673
+     1 string schinese = "妈妈"
+     1 string schinese_censored = "妈妈"
+     1 string english = "Mom"
+     1 string japanese = "母"
+     1 string mchinese = "媽媽"
+   [24387]
+    0 TableSoItemLang data
+     0 int id = 1596170674
+     1 string schinese = "刘偏偏"
+     1 string schinese_censored = "刘偏偏"
+     1 string english = "Phoebe Liu"
+     1 string japanese = "リュウ・ペンペン"
+     1 string mchinese = "劉偏偏"
+   [24388]
+    0 TableSoItemLang data
+     0 int id = 1596170675
+     1 string schinese = "席梦来"
+     1 string schinese_censored = "席梦来"
+     1 string english = "Marleen Xi"
+     1 string japanese = "シー・メンライ"
+     1 string mchinese = "席夢來"
+   [24389]
+    0 TableSoItemLang data
+     0 int id = 1596170676
+     1 string schinese = "秦屿路"
+     1 string schinese_censored = "秦屿路"
+     1 string english = "Yori Qin"
+     1 string japanese = "シン・ユウルー"
+     1 string mchinese = "秦嶼路"
+   [24390]
+    0 TableSoItemLang data
+     0 int id = 1596170677
+     1 string schinese = "章涵之"
+     1 string schinese_censored = "章涵之"
+     1 string english = "Henrietta Zhang"
+     1 string japanese = "シャン・ハンジー"
+     1 string mchinese = "章涵之"
+   [24391]
+    0 TableSoItemLang data
+     0 int id = 1596170678
+     1 string schinese = "王胜男"
+     1 string schinese_censored = "王胜男"
+     1 string english = "Selene Wang"
+     1 string japanese = "ワン・シェンナ"
+     1 string mchinese = "王勝男"
+   [24392]
+    0 TableSoItemLang data
+     0 int id = 1596170679
+     1 string schinese = "李若放"
+     1 string schinese_censored = "李若放"
+     1 string english = "Rachel Li"
+     1 string japanese = "リー・ルオファ"
+     1 string mchinese = "李若放"
+   [24393]
+    0 TableSoItemLang data
+     0 int id = 1596170680
+     1 string schinese = "汤金娜"
+     1 string schinese_censored = "汤金娜"
+     1 string english = "Yeena Tang"
+     1 string japanese = "タン・ジンナ"
+     1 string mchinese = "湯金娜"
+   [24394]
+    0 TableSoItemLang data
+     0 int id = 1596170681
+     1 string schinese = "苏芳允"
+     1 string schinese_censored = "苏芳允"
+     1 string english = "Fanny Su"
+     1 string japanese = "スー・ファンユ"
+     1 string mchinese = "蘇芳允"
+   [24395]
+    0 TableSoItemLang data
+     0 int id = 1596170682
+     1 string schinese = "牧唯"
+     1 string schinese_censored = "牧唯"
+     1 string english = "Danny Mu"
+     1 string japanese = "ム・ウェイ"
+     1 string mchinese = "牧唯"
+   [24396]
+    0 TableSoItemLang data
+     0 int id = 1596170683
+     1 string schinese = "萌萌"
+     1 string schinese_censored = "萌萌"
+     1 string english = "Daisy"
+     1 string japanese = "メンメン"
+     1 string mchinese = "萌萌"
+   [24397]
+    0 TableSoItemLang data
+     0 int id = 1596170684
+     1 string schinese = "江寒波"
+     1 string schinese_censored = "江寒波"
+     1 string english = "Hans Jiang"
+     1 string japanese = "ジャン・ハンボ"
+     1 string mchinese = "江寒波"
+   [24398]
+    0 TableSoItemLang data
+     0 int id = 1596170685
+     1 string schinese = "迟远树"
+     1 string schinese_censored = "迟远树"
+     1 string english = "Matt Chi"
+     1 string japanese = "チー・ヤンシュウ"
+     1 string mchinese = "遲遠樹"
+   [24399]
+    0 TableSoItemLang data
+     0 int id = 1596170686
+     1 string schinese = "朱煜明"
+     1 string schinese_censored = "朱煜明"
+     1 string english = "John Zhu"
+     1 string japanese = "シュ・ユウミン"
+     1 string mchinese = "朱煜明"
+   [24400]
+    0 TableSoItemLang data
+     0 int id = 1596170687
+     1 string schinese = "叶天逸"
+     1 string schinese_censored = "叶天逸"
+     1 string english = "Tony Ye"
+     1 string japanese = "イエ・ティエンイ"
+     1 string mchinese = "葉天逸"
+   [24401]
+    0 TableSoItemLang data
+     0 int id = 1596170688
+     1 string schinese = "凌小时"

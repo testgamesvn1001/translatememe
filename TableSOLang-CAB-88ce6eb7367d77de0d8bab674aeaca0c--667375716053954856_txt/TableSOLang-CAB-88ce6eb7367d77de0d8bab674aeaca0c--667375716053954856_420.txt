@@ -1,0 +1,184 @@
+     1 string schinese_censored = "妈妈……对不起……"
+     1 string english = "Mom... I'm sorry..."
+     1 string japanese = "お母さん…ごめんなさい…"
+     1 string mchinese = "媽媽……對不起……"
+   [9636]
+    0 TableSoItemLang data
+     0 int id = 1019637
+     1 string schinese = ""对不起有什么用？对不起能让你考上名校吗？能找到好工作吗？""
+     1 string schinese_censored = "对不起有什么用？对不起能让你考上名校吗？能找到好工作吗？"
+     1 string english = ""What's the point of being sorry? Will it let you get into a good university or find a good job?""
+     1 string japanese = "「ごめんで何ができるの？謝れば名門校に入れるの？いい仕事を見つけられるの？」"
+     1 string mchinese = ""對不起有什麼用？對不起能讓你考上名校嗎？能找到好工作嗎？""
+   [9637]
+    0 TableSoItemLang data
+     0 int id = 1019638
+     1 string schinese = "……"
+     1 string schinese_censored = "……"
+     1 string english = "..."
+     1 string japanese = "…"
+     1 string mchinese = "……"
+   [9638]
+    0 TableSoItemLang data
+     0 int id = 1019639
+     1 string schinese = ""怎么不说话了？你平时帮这个同学讲题，帮那个同学讲作业，不是很会讲话吗？现在哑巴啦？""
+     1 string schinese_censored = "怎么不说话了？你平时帮这个同学讲题，帮那个同学讲作业，不是很会讲话吗？现在哑巴啦？"
+     1 string english = ""Cat got your tongue? You're always tutoring this student and that student. You're pretty good at talking but you're silent now?""
+     1 string japanese = "「今度は黙るの？普段はペラペラと同級生に勉強教えてるじゃない。お話大好きじゃないの！？」"
+     1 string mchinese = ""怎麼不說話了？你平時幫這個同學講題，幫那個同學講作業，不是很會講話嗎？現在啞巴啦？""
+   [9639]
+    0 TableSoItemLang data
+     0 int id = 1019640
+     1 string schinese = "那我以后不讲了"
+     1 string schinese_censored = "那我以后不讲了"
+     1 string english = "Then I won't tutor them anymore."
+     1 string japanese = "じゃあ、もう教えたりなんてしないわ！"
+     1 string mchinese = "那我以後不講了"
+   [9640]
+    0 TableSoItemLang data
+     0 int id = 1019641
+     1 string schinese = ""你不用故意气我，我告诉你，你要是下次再考不进前十，再也别想玩手机了！""
+     1 string schinese_censored = "你不用故意气我，我告诉你，你要是下次再考不进前十，再也别想玩手机了！"
+     1 string english = ""Don't anger me. If you don't get into top 10 next time, I'll take away your phone!""
+     1 string japanese = "「お母さんに怒っても意味ないわよ。次は１０位以内に入りなさい。無理ならスマホは禁止よ！」"
+     1 string mchinese = ""你不用故意氣我，我告訴你，你要是下次再考不進前十，再也別想玩手機了！""
+   [9641]
+    0 TableSoItemLang data
+     0 int id = 1019642
+     1 string schinese = "（看来这个时候，不该打扰她了）"
+     1 string schinese_censored = "（看来这个时候，不该打扰她了）"
+     1 string english = "(It looks like I shouldn't bother her now.)"
+     1 string japanese = "（タイミングが悪いみたい。邪魔をしない方がいい）"
+     1 string mchinese = "（看來這個時候，不該打擾她了）"
+   [9642]
+    0 TableSoItemLang data
+     0 int id = 1019643
+     1 string schinese = "（似乎现在是她的低潮期呢，还是要慢慢鼓励她，振作起来才是最重要的呢！）"
+     1 string schinese_censored = "（似乎现在是她的低潮期呢，还是要慢慢鼓励她，振作起来才是最重要的呢！）"
+     1 string english = "(She seems a bit depressed. I should encourage her!)"
+     1 string japanese = "（今は落ち込んでそう。やっぱり励まして、元気を出してもらうことが大切だね！）"
+     1 string mchinese = "（似乎現在是她的低潮期呢，還是要慢慢鼓勵她，振作起來才是最重要的呢！）"
+   [9643]
+    0 TableSoItemLang data
+     0 int id = 1019644
+     1 string schinese = "干嘛非要拉我到这里？"
+     1 string schinese_censored = "干嘛非要拉我到这里？"
+     1 string english = "Why are you bringing me here?"
+     1 string japanese = "どうしてこんなところに連れて来たの？"
+     1 string mchinese = "幹嘛非要拉我到這裏？"
+   [9644]
+    0 TableSoItemLang data
+     0 int id = 1019645
+     1 string schinese = "平时要注意劳逸结合嘛！来我们慢慢跑跑步"
+     1 string schinese_censored = "平时要注意劳逸结合嘛！来我们慢慢跑跑步"
+     1 string english = "You need to balance work with rest. Let's got for a jog."
+     1 string japanese = "適度な運動も必要だからね！ゆっくり走ろうよ。"
+     1 string mchinese = "平時要注意勞逸結合嘛！來我們慢慢跑跑步"
+   [9645]
+    0 TableSoItemLang data
+     0 int id = 1019646
+     1 string schinese = "真是浪费时间，不如多做几道题呢！"
+     1 string schinese_censored = "真是浪费时间，不如多做几道题呢！"
+     1 string english = "What a waste of time. I'd rather do more questions."
+     1 string japanese = "時間の無駄。こんな時間があるなら、１問でも問題を解いた方がマシよ！"
+     1 string mchinese = "真是浪費時間，不如多做幾道題呢！"
+   [9646]
+    0 TableSoItemLang data
+     0 int id = 1019647
+     1 string schinese = "来都来了，一起跑起来吧！"
+     1 string schinese_censored = "来都来了，一起跑起来吧！"
+     1 string english = "Since we're here anyways, let's go for a run."
+     1 string japanese = "せっかくここまで来たんだし、少しだけ走ろう！"
+     1 string mchinese = "來都來了，一起跑起來吧！"
+   [9647]
+    0 TableSoItemLang data
+     0 int id = 1019648
+     1 string schinese = "话说你妈妈对你好严厉啊……难怪你那么用功"
+     1 string schinese_censored = "话说你妈妈对你好严厉啊……难怪你那么用功"
+     1 string english = "By the way, your mom is really strict. No wonder you're so hard working."
+     1 string japanese = "話は変わるけどさ、お母さんがすごく厳しいよね…いつも一生懸命なのも納得だよ。"
+     1 string mchinese = "話說你媽媽對你好嚴厲啊……難怪你那麼用功"
+   [9648]
+    0 TableSoItemLang data
+     0 int id = 1019649
+     1 string schinese = "其实妈妈也很辛苦，每天都要照顾爷爷奶奶，还要兼职赚钱。爸爸很小就离开我们了，我应该要谅解她！"
+     1 string schinese_censored = "其实妈妈也很辛苦，每天都要照顾爷爷奶奶，还要兼职赚钱。爸爸很小就离开我们了，我应该要谅解她！"
+     1 string english = "My mom has it rough too. She has to take care of my grandparents and work a part-time job. My dad left us when I was young so I should be more understanding of my mom."
+     1 string japanese = "実はお母さんも大変なんだ。毎日お父さんの両親の面倒みてるし。パートにも行ってる。お父さんは物心ついた頃にはいなかったんだ。お母さんのことも理解してあげないと！"
+     1 string mchinese = "其實媽媽也很辛苦，每天都要照顧爺爺奶奶，還要兼職賺錢。爸爸很小就離開我們了，我應該要諒解她！"
+   [9649]
+    0 TableSoItemLang data
+     0 int id = 1019650
+     1 string schinese = "话虽这么说，可不要让自己压力太大，这样学习效率会降低的！"
+     1 string schinese_censored = "话虽这么说，可不要让自己压力太大，这样学习效率会降低的！"
+     1 string english = "That's true but you can't be too hard on yourself. Your studies will suffer if you are under that much stress."
+     1 string japanese = "例えそうでも、ストレスがたまると勉強効率は悪くなるよ。"
+     1 string mchinese = "話雖這麼說，可不要讓自己壓力太大，這樣學習效率會降低的！"
+   [9650]
+    0 TableSoItemLang data
+     0 int id = 1019651
+     1 string schinese = "知道啦，真的谢谢你！跑步真的很有效，开心很多！"
+     1 string schinese_censored = "知道啦，真的谢谢你！跑步真的很有效，开心很多！"
+     1 string english = "I know. Thanks. Running has helped a little bit."
+     1 string japanese = "そうよね、本当にありがとう！走っていい気分転換になったわ。楽しかったよ！"
+     1 string mchinese = "知道啦，真的謝謝你！跑步真的很有效，開心很多！"
+   [9651]
+    0 TableSoItemLang data
+     0 int id = 1019652
+     1 string schinese = "回家的路上被刘偏偏的妈妈叫住了"
+     1 string schinese_censored = "回家的路上被刘偏偏的妈妈叫住了"
+     1 string english = "On the way home, I was stopped by Phoebe's mom."
+     1 string japanese = "学校からの帰り道でペンペンのお母さんに呼び止められた。"
+     1 string mchinese = "回家的路上被劉偏偏的媽媽叫住了"
+   [9652]
+    0 TableSoItemLang data
+     0 int id = 1019653
+     1 string schinese = ""您好……我是刘偏偏的家长……今天呢，想和你聊聊""
+     1 string schinese_censored = "您好……我是刘偏偏的家长……今天呢，想和你聊聊"
+     1 string english = ""Hello, I am Phoebe's Mom. I want to talk to you.""
+     1 string japanese = "こんにちは。ペンペンの母です。ちょっと話があるのだけれど、いいかしら？"
+     1 string mchinese = ""您好……我是劉偏偏的家長……今天呢，想和你聊聊""
+   [9653]
+    0 TableSoItemLang data
+     0 int id = 1019654
+     1 string schinese = "啊，伯母好"
+     1 string schinese_censored = "啊，伯母好"
+     1 string english = ""Hello.""
+     1 string japanese = "あ、こんにちは。"
+     1 string mchinese = "啊，伯母好"
+   [9654]
+    0 TableSoItemLang data
+     0 int id = 1019655
+     1 string schinese = ""不要跟我来这一套！我听说过你，你最好离我家女儿远一点""
+     1 string schinese_censored = "不要跟我来这一套！我听说过你，你最好离我家女儿远一点"
+     1 string english = ""Don't give me that! I told you before. Stay away from my daughter!""
+     1 string japanese = "何が「あ、こんにちは」よ！もう娘に関わらないでって言ったでしょう！うちの娘から離れなさい！わかった？"
+     1 string mchinese = ""不要跟我來這一套！我聽說過你，你最好離我家女兒遠一點""
+   [9655]
+    0 TableSoItemLang data
+     0 int id = 1019656
+     1 string schinese = "什么啊，我不知道您在说什么"
+     1 string schinese_censored = "什么啊，我不知道您在说什么"
+     1 string english = "What? I don't even know what you're talking about."
+     1 string japanese = "えーっと、何を仰っているのかわかりません。"
+     1 string mchinese = "什麼啊，我不知道您在說什麼"
+   [9656]
+    0 TableSoItemLang data
+     0 int id = 1019657
+     1 string schinese = ""我觉得孩子都这么大了，直接叫家长也的确不好，闹得太僵对谁都不好，你说是吧！""
+     1 string schinese_censored = "我觉得孩子都这么大了，直接叫家长也的确不好，闹得太僵对谁都不好，你说是吧！"
+     1 string english = ""You're old enough, and I think it's better that the two of us talk rather than that I go and talk to your parents. What do you think?""
+     1 string japanese = "あなたももう大人でしょう？親御さんとお話させていただくか、ここで結論を出すか、決められるわよね？"
+     1 string mchinese = ""我覺得孩子都這麼大了，直接叫家長也的確不好，鬧得太僵對誰都不好，你說是吧！""
+   [9657]
+    0 TableSoItemLang data
+     0 int id = 1019658
+     1 string schinese = ""我们家孩子以后是要考名校的学生，不要影响了她的前途！""
+     1 string schinese_censored = "我们家孩子以后是要考名校的学生，不要影响了她的前途！"
+     1 string english = ""My daughter is going to get into a top university. Don't distract her from her future!""
+     1 string japanese = "うちの娘はトップの大学に入るの。娘の将来に傷をつけないで！"
+     1 string mchinese = ""我們家孩子以後是要考名校的學生，不要影響了她的前途！""
+   [9658]
+    0 TableSoItemLang data
+     0 int id = 1019659
+     1 string schinese = ""你如果也希望她好，就别总找她了！你去找那些学习差的同学玩吧！反正你们都是没什么希望的人""

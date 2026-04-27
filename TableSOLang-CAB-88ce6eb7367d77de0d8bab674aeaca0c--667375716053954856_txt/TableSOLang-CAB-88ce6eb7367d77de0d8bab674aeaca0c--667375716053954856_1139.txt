@@ -1,0 +1,184 @@
+     1 string schinese_censored = "礼物码"
+     1 string english = "Gift Code"
+     1 string japanese = "ギフトコード"
+     1 string mchinese = "禮物碼"
+   [26173]
+    0 TableSoItemLang data
+     0 int id = 1596172460
+     1 string schinese = "去参加"
+     1 string schinese_censored = "去参加"
+     1 string english = "Join"
+     1 string japanese = "参加へ"
+     1 string mchinese = "去參加"
+   [26174]
+    0 TableSoItemLang data
+     0 int id = 1596172461
+     1 string schinese = "删除已读邮件"
+     1 string schinese_censored = "删除已读邮件"
+     1 string english = "Delete Read"
+     1 string japanese = "既読メール削除"
+     1 string mchinese = "刪除已讀郵件"
+   [26175]
+    0 TableSoItemLang data
+     0 int id = 1596172462
+     1 string schinese = "收取所有邮件"
+     1 string schinese_censored = "收取所有邮件"
+     1 string english = "Claim Attachments"
+     1 string japanese = "すべて受領"
+     1 string mchinese = "收取所有郵件"
+   [26176]
+    0 TableSoItemLang data
+     0 int id = 1596172463
+     1 string schinese = "领取"
+     1 string schinese_censored = "领取"
+     1 string english = "Claim"
+     1 string japanese = "受領"
+     1 string mchinese = "領取"
+   [26177]
+    0 TableSoItemLang data
+     0 int id = 1596172464
+     1 string schinese = "暂时没有邮件"
+     1 string schinese_censored = "暂时没有邮件"
+     1 string english = "You have no mail."
+     1 string japanese = "メールがありません"
+     1 string mchinese = "暫時沒有郵件"
+   [26178]
+    0 TableSoItemLang data
+     0 int id = 1596172465
+     1 string schinese = "已领取"
+     1 string schinese_censored = "已领取"
+     1 string english = "Claimed"
+     1 string japanese = "受領済み"
+     1 string mchinese = "已領取"
+   [26179]
+    0 TableSoItemLang data
+     0 int id = 1596172466
+     1 string schinese = "分享"
+     1 string schinese_censored = "分享"
+     1 string english = "Share"
+     1 string japanese = "シェア"
+     1 string mchinese = "分享"
+   [26180]
+    0 TableSoItemLang data
+     0 int id = 1596172467
+     1 string schinese = "正在加载资源..."
+     1 string schinese_censored = "正在加载资源..."
+     1 string english = "Loading resources..."
+     1 string japanese = "リソースロード中…"
+     1 string mchinese = "正在加載資源..."
+   [26181]
+    0 TableSoItemLang data
+     0 int id = 1596172468
+     1 string schinese = "正在加载场景..."
+     1 string schinese_censored = "正在加载场景..."
+     1 string english = "Loading scenes..."
+     1 string japanese = "シーンロード中…"
+     1 string mchinese = "正在加載場景..."
+   [26182]
+    0 TableSoItemLang data
+     0 int id = 1596172469
+     1 string schinese = "加载完毕"
+     1 string schinese_censored = "加载完毕"
+     1 string english = "Loading complete."
+     1 string japanese = "ロード完了"
+     1 string mchinese = "加載完畢"
+   [26183]
+    0 TableSoItemLang data
+     0 int id = 1596172470
+     1 string schinese = "学区房免费入学"
+     1 string schinese_censored = "学区房免费入学"
+     1 string english = "Tuition Exempted for School District Housing"
+     1 string japanese = "学区内住宅で無料入学"
+     1 string mchinese = "學區房免費入學"
+   [26184]
+    0 TableSoItemLang data
+     0 int id = 1596172471
+     1 string schinese = "购买学区房"
+     1 string schinese_censored = "购买学区房"
+     1 string english = "Buy School District Housing"
+     1 string japanese = "学区内住宅購入"
+     1 string mchinese = "購買學區房"
+   [26185]
+    0 TableSoItemLang data
+     0 int id = 1596172472
+     1 string schinese = "好消息！好消息！\n优质学区房低价出售中！\n住上学区房，直接就近免费入学！"
+     1 string schinese_censored = "好消息！好消息！\n优质学区房低价出售中！\n住上学区房，直接就近免费入学！"
+     1 string english = "Good news! Good news!\nCheap house near a school!\nBuy one and be exempt from admission tuition!"
+     1 string japanese = "グッドニュース！グッドニュース！\nハイクオリティーの学区内住宅が安値で販売中！\n学区内住宅に住めば、タダで入学できるも同然！"
+     1 string mchinese = "好消息！好消息！\n優質學區房低價出售中！\n住上學區房，直接就近免費入學！"
+   [26186]
+    0 TableSoItemLang data
+     0 int id = 1596172473
+     1 string schinese = "￥{0}"
+     1 string schinese_censored = "￥{0}"
+     1 string english = "¥ {0}"
+     1 string japanese = "￥{0}"
+     1 string mchinese = "￥{0}"
+   [26187]
+    0 TableSoItemLang data
+     0 int id = 1596172474
+     1 string schinese = "你获得了"
+     1 string schinese_censored = "你获得了"
+     1 string english = "You acquired"
+     1 string japanese = "獲得！"
+     1 string mchinese = "你獲得了"
+   [26188]
+    0 TableSoItemLang data
+     0 int id = 1596172475
+     1 string schinese = "正在登录...请稍后"
+     1 string schinese_censored = "正在登录...请稍后"
+     1 string english = "Logging in, please wait..."
+     1 string japanese = "ログイン中です…しばらくお待ちください"
+     1 string mchinese = "正在登錄...請稍後"
+   [26189]
+    0 TableSoItemLang data
+     0 int id = 1596172476
+     1 string schinese = "正在充值...请稍后"
+     1 string schinese_censored = "正在充值...请稍后"
+     1 string english = "Topping up, please wait..."
+     1 string japanese = "チャージ中です…しばらくお待ちください"
+     1 string mchinese = "正在充值...請稍後"
+   [26190]
+    0 TableSoItemLang data
+     0 int id = 1596172477
+     1 string schinese = "分享到："
+     1 string schinese_censored = "分享到："
+     1 string english = "Share to:"
+     1 string japanese = "シェア："
+     1 string mchinese = "分享到："
+   [26191]
+    0 TableSoItemLang data
+     0 int id = 1596172478
+     1 string schinese = "微信朋友圈"
+     1 string schinese_censored = "微信朋友圈"
+     1 string english = "WeChat Moments"
+     1 string japanese = "1596172478"
+     1 string mchinese = "微信朋友圈"
+   [26192]
+    0 TableSoItemLang data
+     0 int id = 1596172479
+     1 string schinese = "QQ空间"
+     1 string schinese_censored = "QQ空间"
+     1 string english = "QQ Space"
+     1 string japanese = "1596172479"
+     1 string mchinese = "QQ空間"
+   [26193]
+    0 TableSoItemLang data
+     0 int id = 1596172480
+     1 string schinese = "等待超时，请稍后重试。"
+     1 string schinese_censored = "等待超时，请稍后重试。"
+     1 string english = "Timed out, please try again later."
+     1 string japanese = "タイムアウト。後ほど改めてお試しください。"
+     1 string mchinese = "等待超時，請稍後重試。"
+   [26194]
+    0 TableSoItemLang data
+     0 int id = 1596172481
+     1 string schinese = "正在切换账号...请稍后"
+     1 string schinese_censored = "正在切换账号...请稍后"
+     1 string english = "Changing accounts, please wait..."
+     1 string japanese = "アカウント切替中です…しばらくお待ちください"
+     1 string mchinese = "正在切換帳號...請稍後"
+   [26195]
+    0 TableSoItemLang data
+     0 int id = 1596172482
+     1 string schinese = "游戏ID："

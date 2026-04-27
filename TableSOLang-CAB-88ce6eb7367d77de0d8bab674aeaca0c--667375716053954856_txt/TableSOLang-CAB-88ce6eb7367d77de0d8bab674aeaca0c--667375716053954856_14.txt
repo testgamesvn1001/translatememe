@@ -1,0 +1,184 @@
+     1 string schinese_censored = "代码大全可让代码更加的简洁"
+     1 string english = "All About Coding improves your coding skills."
+     1 string japanese = "コード大全でコードがさらにシンプルになる"
+     1 string mchinese = "代碼大全可讓代碼更加的簡潔"
+   [298]
+    0 TableSoItemLang data
+     0 int id = 1010299
+     1 string schinese = "算法导论让你的思维更上一层楼"
+     1 string schinese_censored = "算法导论让你的思维更上一层楼"
+     1 string english = "Algorithms 101 improves train of thought."
+     1 string japanese = "アルゴリズム理論は思考方法を向上させる"
+     1 string mchinese = "演算法導論讓你的思維更上一層樓"
+   [299]
+    0 TableSoItemLang data
+     0 int id = 1010300
+     1 string schinese = "游戏引擎架构学完就可以做客户端程序了"
+     1 string schinese_censored = "游戏引擎架构学完就可以做客户端程序了"
+     1 string english = "Game Engine Architecture is vital."
+     1 string japanese = "学べばクライアントプログラムを実行できる"
+     1 string mchinese = "遊戲引擎架構學完就可以做客戶端程式了"
+   [300]
+    0 TableSoItemLang data
+     0 int id = 1010301
+     1 string schinese = "独立游戏文化了解下游戏的另外一面"
+     1 string schinese_censored = "独立游戏文化了解下游戏的另外一面"
+     1 string english = "Indie Game Culture, for the brave."
+     1 string japanese = "インディーゲーム文化でゲームを別の側面から学ぼう"
+     1 string mchinese = "獨立遊戲文化瞭解下游戲的另外一面"
+   [301]
+    0 TableSoItemLang data
+     0 int id = 1010302
+     1 string schinese = "算法研究是算法科学家的基础"
+     1 string schinese_censored = "算法研究是算法科学家的基础"
+     1 string english = "Algorithm Research is so much fun!"
+     1 string japanese = "アルゴリズム研究は科学者の基礎だ"
+     1 string mchinese = "演算法研究是演算法科學家的基礎"
+   [302]
+    0 TableSoItemLang data
+     0 int id = 1010303
+     1 string schinese = "游戏策划案是游戏策划入门基础"
+     1 string schinese_censored = "游戏策划案是游戏策划入门基础"
+     1 string english = "Game Design enables you to design games."
+     1 string japanese = "ゲームデザインはゲームデザイナーの入門基礎だ"
+     1 string mchinese = "遊戲策劃案是遊戲策劃入門基礎"
+   [303]
+    0 TableSoItemLang data
+     0 int id = 1010304
+     1 string schinese = "游戏项目管理是游戏制作人的基础"
+     1 string schinese_censored = "游戏项目管理是游戏制作人的基础"
+     1 string english = "Game Project Management is vital."
+     1 string japanese = "プロジェクト管理はゲームクリエイターの基礎だ"
+     1 string mchinese = "遊戲專案管理是遊戲製作人的基礎"
+   [304]
+    0 TableSoItemLang data
+     0 int id = 1010305
+     1 string schinese = "游戏公司运营，人人都是产品经理"
+     1 string schinese_censored = "游戏公司运营，人人都是产品经理"
+     1 string english = "Game Operation, what all of us do."
+     1 string japanese = "ゲーム会社を経営すれば、誰もがプロデューサーだ"
+     1 string mchinese = "遊戲公司運營，人人都是產品經理"
+   [305]
+    0 TableSoItemLang data
+     0 int id = 1010306
+     1 string schinese = "演技培训学完可以去跑龙套"
+     1 string schinese_censored = "演技培训学完可以去跑龙套"
+     1 string english = "Acting Training unlocks walk-on."
+     1 string japanese = "演技訓練を学ぶとエキストラになれる"
+     1 string mchinese = "演技培訓學完可以去跑龍套"
+   [306]
+    0 TableSoItemLang data
+     0 int id = 1010307
+     1 string schinese = "演员自我修养让你成为明日喜剧之王"
+     1 string schinese_censored = "演员自我修养让你成为明日喜剧之王"
+     1 string english = "Acting Self-Improvement is vital."
+     1 string japanese = "役者の自己修練を学べば、あなたは明日の喜劇王だ"
+     1 string mchinese = "演員自我修養讓你成為明日喜劇之王"
+   [307]
+    0 TableSoItemLang data
+     0 int id = 1010308
+     1 string schinese = "造型训练是模特与网红的基础"
+     1 string schinese_censored = "造型训练是模特与网红的基础"
+     1 string english = "Modeling is where celebrities begin."
+     1 string japanese = "ポーズ練習はモデルとネット有名人の基礎だ"
+     1 string mchinese = "造型訓練是模特與網紅的基礎"
+   [308]
+    0 TableSoItemLang data
+     0 int id = 1010309
+     1 string schinese = "网络主播培训让你成为ktv麦霸"
+     1 string schinese_censored = "网络主播培训让你成为歌厅麦霸"
+     1 string english = "Streamer Training takes you to the next level."
+     1 string japanese = "配信者訓練でカラオケをマスターだ"
+     1 string mchinese = "網路主播培訓讓你成為ktv麥霸"
+   [309]
+    0 TableSoItemLang data
+     0 int id = 1010310
+     1 string schinese = "方法派表演是戏精的必修之路"
+     1 string schinese_censored = "方法派表演是戏精的必修之路"
+     1 string english = "Method Acting leads to roles in dramas."
+     1 string japanese = "メソッド演技法は演技派になるためには必須だ"
+     1 string mchinese = "方法派表演是戲精的必修之路"
+   [310]
+    0 TableSoItemLang data
+     0 int id = 1010311
+     1 string schinese = "视频素材剪辑是主播的必修之路"
+     1 string schinese_censored = "视频素材剪辑是主播的必修之路"
+     1 string english = "Video Editing is vital for streamers."
+     1 string japanese = "動画編集はネット有名人に必須だ"
+     1 string mchinese = "視頻素材剪輯是主播的必修之路"
+   [311]
+    0 TableSoItemLang data
+     0 int id = 1010312
+     1 string schinese = "直播刷榜是主播的必修之路"
+     1 string schinese_censored = "直播刷榜是主播的必修之路"
+     1 string english = "Streamer Ranking is vital for streamers."
+     1 string japanese = "配信・投げ銭はネット有名人に必須だ"
+     1 string mchinese = "直播刷榜是主播的必修之路"
+   [312]
+    0 TableSoItemLang data
+     0 int id = 1010313
+     1 string schinese = "基础理财是普通人最基本的素养"
+     1 string schinese_censored = "基础理财是普通人最基本的素养"
+     1 string english = "Financing 101, it runs in your blood."
+     1 string japanese = "ファイナンス入門は一般人の素養だ"
+     1 string mchinese = "基礎理財是普通人最基本的素養"
+   [313]
+    0 TableSoItemLang data
+     0 int id = 1010314
+     1 string schinese = "财务管理是通往经商之道的关键"
+     1 string schinese_censored = "财务管理是通往经商之道的关键"
+     1 string english = "Financial Management is vital for success."
+     1 string japanese = "財務管理は商売の道に進むためのカギだ"
+     1 string mchinese = "財務管理是通往經商之道的關鍵"
+   [314]
+    0 TableSoItemLang data
+     0 int id = 1010315
+     1 string schinese = "会计与金融让你成为专业人士"
+     1 string schinese_censored = "会计与金融让你成为专业人士"
+     1 string english = "Accounting & Finance, only for professionals."
+     1 string japanese = "会計・金融を学べば金融のプロになれる"
+     1 string mchinese = "會計與金融讓你成為專業人士"
+   [315]
+    0 TableSoItemLang data
+     0 int id = 1010316
+     1 string schinese = "金融工程，工科背景与金融的结合"
+     1 string schinese_censored = "金融工程，工科背景与金融的结合"
+     1 string english = "Financial Engineering is great for finance!"
+     1 string japanese = "金融工学は工学的研究と金融の融合だ"
+     1 string mchinese = "金融工程，工科背景與金融的結合"
+   [316]
+    0 TableSoItemLang data
+     0 int id = 1010317
+     1 string schinese = "量化经济学是未来金融界人士必备技能"
+     1 string schinese_censored = "量化经济学是未来金融界人士必备技能"
+     1 string english = "Quantitative Economics, multiplied fun!"
+     1 string japanese = "計量経済学は金融関係者の必須スキルだ"
+     1 string mchinese = "量化經濟學是未來金融界人士必備技能"
+   [317]
+    0 TableSoItemLang data
+     0 int id = 1010318
+     1 string schinese = "价值投资是首富必会技能"
+     1 string schinese_censored = "价值投资是首富必会技能"
+     1 string english = "Value Investment takes you to riches."
+     1 string japanese = "バリュー投資は大富豪の必須スキルだ"
+     1 string mchinese = "價值投資是首富必會技能"
+   [318]
+    0 TableSoItemLang data
+     0 int id = 1010319
+     1 string schinese = "说服技能是销售必备技能"
+     1 string schinese_censored = "说服技能是销售必备技能"
+     1 string english = "Persuade is must-have skill for salespersons."
+     1 string japanese = "説得は営業担当の必須スキルだ"
+     1 string mchinese = "說服技能是銷售必備技能"
+   [319]
+    0 TableSoItemLang data
+     0 int id = 1010320
+     1 string schinese = "辩论基础是对表达能力的锻炼"
+     1 string schinese_censored = "辩论基础是对表达能力的锻炼"
+     1 string english = "Debating 101 teaches you to express ideas."
+     1 string japanese = "基礎弁論は表現能力を鍛える"
+     1 string mchinese = "辯論基礎是對表達能力的鍛煉"
+   [320]
+    0 TableSoItemLang data
+     0 int id = 1010321
+     1 string schinese = "高等数学虽然和高考无关，但能提高逻辑水平"

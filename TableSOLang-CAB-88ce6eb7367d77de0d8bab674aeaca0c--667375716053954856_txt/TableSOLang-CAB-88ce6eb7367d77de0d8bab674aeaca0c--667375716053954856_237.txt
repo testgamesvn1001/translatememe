@@ -1,0 +1,184 @@
+     1 string schinese_censored = "能刚正不阿，不畏惧强权，坚持本心。"
+     1 string english = "I stand straight, feel no fear and follow my heart."
+     1 string japanese = "正々堂々と圧力にも潰されない。本心を堅持する。"
+     1 string mchinese = "能剛正不阿，不畏懼強權，堅持本心。"
+   [5427]
+    0 TableSoItemLang data
+     0 int id = 1015428
+     1 string schinese = "坚忍不拔，能够持续努力，不轻易放弃。"
+     1 string schinese_censored = "坚忍不拔，能够持续努力，不轻易放弃。"
+     1 string english = "I persevere in my endeavors and don't give up easily."
+     1 string japanese = "根気強く努力を続ける。簡単には諦めない。"
+     1 string mchinese = "堅忍不拔，能夠持續努力，不輕易放棄。"
+   [5428]
+    0 TableSoItemLang data
+     0 int id = 1015429
+     1 string schinese = "生活和工作都充满激情，动力十足。"
+     1 string schinese_censored = "生活和工作都充满激情，动力十足。"
+     1 string english = "My whole life is filled with passion and vitality."
+     1 string japanese = "生活も仕事も情熱で溢れている。"
+     1 string mchinese = "生活和工作都充滿激情，動力十足。"
+   [5429]
+    0 TableSoItemLang data
+     0 int id = 1015430
+     1 string schinese = "能够独立思考，权衡利弊，不随大流。"
+     1 string schinese_censored = "能够独立思考，权衡利弊，不随大流。"
+     1 string english = "I think for myself and weight issues without considering the mainstream opinion."
+     1 string japanese = "自分で思考できる。人の意見には左右されない。"
+     1 string mchinese = "能夠獨立思考，權衡利弊，不隨大流。"
+   [5430]
+    0 TableSoItemLang data
+     0 int id = 1015431
+     1 string schinese = "可挖取一定数量的脑洞，获得对应的数值，每个脑洞需要消耗行动力！行动力可在下一季得到补充！"
+     1 string schinese_censored = "可挖取一定数量的脑洞，获得对应的数值，每个脑洞需要消耗行动力！行动力可在下一季得到补充！"
+     1 string english = "Absorbs fragments and grants stats equal to those absorbed. Every fragment costs Action! You replenish Action after each season!"
+     1 string japanese = "カケラを吸収すると、対応した能力値が上がる。カケラの吸収には行動力を消耗する！行動力は次のターンで一定量回復するぞ！"
+     1 string mchinese = "可挖取一定數量的腦洞，獲得對應的數值，每個腦洞需要消耗行動力！行動力可在下一季得到補充！"
+   [5431]
+    0 TableSoItemLang data
+     0 int id = 1015432
+     1 string schinese = "开启了天赋脑洞，每次挖取可获得一定的属性天赋，天赋属性会让玩家在每个季度都固定获得一定属性。\n开启了兴趣脑洞，玩家挖取该脑洞后，可将已解锁的同色脑洞全部挖出！"
+     1 string schinese_censored = "开启了天赋脑洞，每次挖取可获得一定的属性天赋，天赋属性会让玩家在每个季度都固定获得一定属性。\n开启了兴趣脑洞，玩家挖取该脑洞后，可将已解锁的同色脑洞全部挖出！"
+     1 string english = "You absorbed a Talent Fragment. Every one of these you absorb grants you talent, and you gain 1 stat point per talent you have after each round.\nYou absorbed a Chain Fragment, which absorbs all unlocked fragments on the board of the same color!"
+     1 string japanese = "天賦のカケラがアンロックされた。それぞれの能力値の天賦のカケラを吸収できるぞ。天賦能力値はターンごとに追加で一定の能力値がもらえる。\n興味のカケラがアンロックされた。同じ色のカケラをすべて吸収できるぞ！"
+     1 string mchinese = "開啟了天賦腦洞，每次挖取可獲得一定的屬性天賦，天賦屬性會讓玩家在每個季度都固定獲得一定屬性。\n開啟了興趣腦洞，玩家挖取該腦洞後，可將已解鎖的同色腦洞全部挖出！"
+   [5432]
+    0 TableSoItemLang data
+     0 int id = 1015433
+     1 string schinese = "欢迎来到你的脑洞世界！！！！\n\n首先要恭喜您，成功降临到中国！\n\n而中国的孩子生下来就要完成父母的期望！\n\n有些时候满足他们是好事，有些期望却需要几代人的努力呢！\n\n你现在唯一能做的，就是好好挖脑洞，合理调配资源，一代一代积累，也许能实现阶级跨越也说不定呢！\n\n加油！我的小伙计！"
+     1 string schinese_censored = "欢迎来到你的脑洞世界！！！！\n\n首先要恭喜您，成功降临到中国！\n\n而中国的孩子生下来就要完成父母的期望！\n\n有些时候满足他们是好事，有些期望却需要几代人的努力呢！\n\n你现在唯一能做的，就是好好挖脑洞，合理调配资源，一代一代积累，也许能实现家族梦想也说不定呢！\n\n加油！我的小伙计！"
+     1 string english = "Welcome to the world of brain fragments!\n\nFirstly, congrats on making it to China!\n\nAs a Chinese child is born, so is its parents expectations!\n\nSometimes fulfilling these is great, but some may take generations of hard work!\n\nCurrently, the only thing you're really capable of, is absorbing brain fragments. Use your resources to the fullest and you might even be able to fulfill the most difficult ones after a few generations!\n\nWork hard, my little companion!"
+     1 string japanese = "脳のカケラ世界へようこそ！！！\n\nまずは、中国に生まれたことを祝福しよう！\n\nしかし、中国に生まれたからには両親の期待に応える必要がある！\n\n満足させるのは良いことだが、いくつかの期待は何世代にも渡る努力が必要だ！n\n今できることは、カケラを吸収し、一世代ずつ成長することだ。上流階級にのし上がることも夢じゃない！\n\n頑張れ！我が同士よ！"
+     1 string mchinese = "歡迎來到你的腦洞世界！！！！\n\n首先要恭喜您，成功降臨到中國！\n\n而中國的孩子生下來就要完成父母的期望！\n\n有些時候滿足他們是好事，有些期望卻需要幾代人的努力呢！\n\n你現在唯一能做的，就是好好挖腦洞，合理調配資源，一代一代積累，也許能實現階級跨越也說不定呢！\n\n加油！我的小夥計！"
+   [5433]
+    0 TableSoItemLang data
+     0 int id = 1015434
+     1 string schinese = "玩家随年龄和属性的成长，可解锁一些技能，习得后可获得一定奖励。\n\n生活中玩家有时会练习这些技能，获得更多的属性！！！\n\n技能的学习会消耗一定的悟性值，技能所需的属性越高，则消耗的悟性值越少"
+     1 string schinese_censored = "玩家随年龄和属性的成长，可解锁一些技能，习得后可获得一定奖励。\n\n生活中玩家有时会练习这些技能，获得更多的属性！！！\n\n技能的学习会消耗一定的悟性值，技能所需的属性越高，则消耗的悟性值越少"
+     1 string english = "As your age and stats increase, you unlock new skills. Learn these to acquire rewards.\n\nDuring daily life, you'll get chances to practice on these skills, thereby gaining even more stats!\n\nLearning new skills require Knowledge. Each skill has its own stats dependencies, and as you gain more of that stat, it costs less to learn."
+     1 string japanese = "年齢と能力値の成長に伴って、様々なスキルを習得でき、ボーナスがもらえる。\n\nスキルの練習をすると、追加で能力値が上がる！！！\n\nスキルの習得には一定の理解力を消耗する。スキルに対応した能力値が高いほど、消耗する理解力は少なくなる。"
+     1 string mchinese = "玩家隨年齡和屬性的成長，可解鎖一些技能，習得後可獲得一定獎勵。\n\n生活中玩家有時會練習這些技能，獲得更多的屬性！！！\n\n技能的學習會消耗一定的悟性值，技能所需的屬性越高，則消耗的悟性值越少"
+   [5434]
+    0 TableSoItemLang data
+     0 int id = 1015435
+     1 string schinese = "玩家在学会技能、遭遇特殊事件后，达到一定条件便有机会获得特长。\n\n特长可以用来给父母增加炫耀资本，在与亲朋好友的闲话家常中争取优势，给父母赢得面子！"
+     1 string schinese_censored = "玩家在学会技能、遭遇特殊事件后，达到一定条件便有机会获得特长。\n\n特长可以用来给父母增加炫耀资本，在与亲朋好友的闲话家常中争取优势，给父母赢得面子！"
+     1 string english = "After learning new skills, you may come across random events where you might get a Trait if you meet certain criteria.\n\nTraits serve as bragging rights for your parents and they can be used in the Face Duel!"
+     1 string japanese = "スキルを習得し特殊イベントに遭遇した後、一定の条件を満たせば特技を獲得できる。\n\n特技はメンツバトルを有利に進められる。メンツバトルに勝って両親のメンツを立てよう！"
+     1 string mchinese = "玩家在學會技能、遭遇特殊事件後，達到一定條件便有機會獲得特長。\n\n特長可以用來給父母增加炫耀資本，在與親朋好友的閒話家常中爭取優勢，給父母贏得面子！"
+   [5435]
+    0 TableSoItemLang data
+     0 int id = 1015436
+     1 string schinese = "玩家平时的娱乐需要玩家，自己以跟父母索取，当父母的面子达到要求，便有机会获得，但也得看母亲大人的心情！！！真是心累啊！！！\n\n新增的娱乐回报可在生活中有所体现，娱乐所得的属性，有时是技能联系所无法替代的呢！！！"
+     1 string schinese_censored = "玩家平时的娱乐需要玩家表现好，父母会给到礼物，便有机会获得，但也得看母亲大人的心情！！！真是心累啊！！！\n\n新增的娱乐回报可在生活中有所体现，娱乐所得的属性，有时是技能联系所无法替代的呢！！！"
+     1 string english = "Entertainment you wish to pursue has to be requested from your parents first. When you meet their Face requirements, you have a chance to obtain an entertainment, but of course, this all depends on your parents mood at the time! What a drag!\n\nNew entertainment you get from your parents can be used in your daily life, and not all the stats they grant can be gotten from normal skills!"
+     1 string japanese = "娯楽は両親へ要求しないともらえない。両親のメンツが一定の条件を満たすと、もらえる可能性が上がる。ただ、その可能性もお母様の気分次第！ホント疲れる！\n\n新しく獲得した娯楽は生活にも反映される。娯楽から得られる能力値には、スキルの練習では上がらないものもあるぞ！！！"
+     1 string mchinese = "玩家平時的娛樂需要玩家，自己以跟父母索取，當父母的面子達到要求，便有機會獲得，但也得看母親大人的心情！！！真是心累啊！！！\n\n新增的娛樂回報可在生活中有所體現，娛樂所得的屬性，有時是技能聯繫所無法替代的呢！！！"
+   [5436]
+    0 TableSoItemLang data
+     0 int id = 1015437
+     1 string schinese = "北京大学"
+     1 string schinese_censored = "北京大学"
+     1 string english = "Peking University"
+     1 string japanese = "北京大学"
+     1 string mchinese = "北京大學"
+   [5437]
+    0 TableSoItemLang data
+     0 int id = 1015438
+     1 string schinese = "清华大学"
+     1 string schinese_censored = "清华大学"
+     1 string english = "Tsinghua University"
+     1 string japanese = "清華大学"
+     1 string mchinese = "清華大學"
+   [5438]
+    0 TableSoItemLang data
+     0 int id = 1015439
+     1 string schinese = "北京大学"
+     1 string schinese_censored = "北京大学"
+     1 string english = "Peking University"
+     1 string japanese = "北京大学"
+     1 string mchinese = "北京大學"
+   [5439]
+    0 TableSoItemLang data
+     0 int id = 1015440
+     1 string schinese = "清华大学"
+     1 string schinese_censored = "清华大学"
+     1 string english = "Tsinghua University"
+     1 string japanese = "清華大学"
+     1 string mchinese = "清華大學"
+   [5440]
+    0 TableSoItemLang data
+     0 int id = 1015441
+     1 string schinese = "北京大学"
+     1 string schinese_censored = "北京大学"
+     1 string english = "Peking University"
+     1 string japanese = "北京大学"
+     1 string mchinese = "北京大學"
+   [5441]
+    0 TableSoItemLang data
+     0 int id = 1015442
+     1 string schinese = "清华大学"
+     1 string schinese_censored = "清华大学"
+     1 string english = "Tsinghua University"
+     1 string japanese = "清華大学"
+     1 string mchinese = "清華大學"
+   [5442]
+    0 TableSoItemLang data
+     0 int id = 1015443
+     1 string schinese = "北京大学"
+     1 string schinese_censored = "北京大学"
+     1 string english = "Peking University"
+     1 string japanese = "北京大学"
+     1 string mchinese = "北京大學"
+   [5443]
+    0 TableSoItemLang data
+     0 int id = 1015444
+     1 string schinese = "清华大学"
+     1 string schinese_censored = "清华大学"
+     1 string english = "Tsinghua University"
+     1 string japanese = "清華大学"
+     1 string mchinese = "清華大學"
+   [5444]
+    0 TableSoItemLang data
+     0 int id = 1015445
+     1 string schinese = "北京大学"
+     1 string schinese_censored = "北京大学"
+     1 string english = "Peking University"
+     1 string japanese = "北京大学"
+     1 string mchinese = "北京大學"
+   [5445]
+    0 TableSoItemLang data
+     0 int id = 1015446
+     1 string schinese = "清华大学"
+     1 string schinese_censored = "清华大学"
+     1 string english = "Tsinghua University"
+     1 string japanese = "清華大学"
+     1 string mchinese = "清華大學"
+   [5446]
+    0 TableSoItemLang data
+     0 int id = 1015447
+     1 string schinese = "北京大学"
+     1 string schinese_censored = "北京大学"
+     1 string english = "Peking University"
+     1 string japanese = "北京大学"
+     1 string mchinese = "北京大學"
+   [5447]
+    0 TableSoItemLang data
+     0 int id = 1015448
+     1 string schinese = "清华大学"
+     1 string schinese_censored = "清华大学"
+     1 string english = "Tsinghua University"
+     1 string japanese = "清華大学"
+     1 string mchinese = "清華大學"
+   [5448]
+    0 TableSoItemLang data
+     0 int id = 1015449
+     1 string schinese = "北京大学"
+     1 string schinese_censored = "北京大学"
+     1 string english = "Peking University"
+     1 string japanese = "北京大学"
+     1 string mchinese = "北京大學"
+   [5449]
+    0 TableSoItemLang data
+     0 int id = 1015450
+     1 string schinese = "清华大学"

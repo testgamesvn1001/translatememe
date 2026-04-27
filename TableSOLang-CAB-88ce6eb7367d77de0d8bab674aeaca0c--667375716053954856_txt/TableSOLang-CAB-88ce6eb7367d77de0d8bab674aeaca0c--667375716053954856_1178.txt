@@ -1,0 +1,184 @@
+     1 string schinese_censored = "请在下方输入兑换码兑换礼物\n（一个兑换码只能使用一次）"
+     1 string english = "Enter a gift code to redeem your gift\n(gift codes can only be used once)"
+     1 string japanese = "Enter a gift code to redeem your gift\n(gift codes can only be used once)"
+     1 string mchinese = "請在下方輸入兌換碼兌換禮物\n（一個兌換碼只能使用一次）"
+   [27070]
+    0 TableSoItemLang data
+     0 int id = 1596173357
+     1 string schinese = "请输入兑换码"
+     1 string schinese_censored = "请输入兑换码"
+     1 string english = "Enter a gift code."
+     1 string japanese = "Enter a gift code."
+     1 string mchinese = "請輸入兌換碼"
+   [27071]
+    0 TableSoItemLang data
+     0 int id = 1596173358
+     1 string schinese = "获得该职业后显示职业加成"
+     1 string schinese_censored = "获得该职业后显示职业加成"
+     1 string english = "Acquire a profession to view what bonuses it grants."
+     1 string japanese = "職業に就くと職業ボーナスが獲得できます"
+     1 string mchinese = "獲得該職業後顯示職業加成"
+   [27072]
+    0 TableSoItemLang data
+     0 int id = 1596173359
+     1 string schinese = "梦想职业"
+     1 string schinese_censored = "梦想职业"
+     1 string english = "Dream Job"
+     1 string japanese = "夢の職業"
+     1 string mchinese = "夢想職業"
+   [27073]
+    0 TableSoItemLang data
+     0 int id = 1596173360
+     1 string schinese = "渠道号："
+     1 string schinese_censored = "管道号："
+     1 string english = "Channel:"
+     1 string japanese = "ストアＩＤ："
+     1 string mchinese = "管道號："
+   [27074]
+    0 TableSoItemLang data
+     0 int id = 1596173361
+     1 string schinese = "学校"
+     1 string schinese_censored = "学校"
+     1 string english = "School"
+     1 string japanese = "学校"
+     1 string mchinese = "學校"
+   [27075]
+    0 TableSoItemLang data
+     0 int id = 1596173362
+     1 string schinese = "职业"
+     1 string schinese_censored = "职业"
+     1 string english = "Profession"
+     1 string japanese = "職業"
+     1 string mchinese = "職業"
+   [27076]
+    0 TableSoItemLang data
+     0 int id = 1596173363
+     1 string schinese = "\n<color=#915A23>{0}</color>是我最好的朋友"
+     1 string schinese_censored = "\n<color=#915A23>{0}</color>是我最好的朋友"
+     1 string english = "\n<color=#915A23>{0}</color> is my best friend."
+     1 string japanese = "\n恋人：<color=#915A23>{0}</color>"
+     1 string mchinese = "\n<color=#915A23>{0}</color>是我最好的朋友"
+   [27077]
+    0 TableSoItemLang data
+     0 int id = 1596173364
+     1 string schinese = "查无此家族信息"
+     1 string schinese_censored = "查无此家族信息"
+     1 string english = "No family info found."
+     1 string japanese = "家族の情報はありません"
+     1 string mchinese = "查無此家族資訊"
+   [27078]
+    0 TableSoItemLang data
+     0 int id = 1596173365
+     1 string schinese = "没有朋友"
+     1 string schinese_censored = "没有朋友"
+     1 string english = "No Friends"
+     1 string japanese = "親友はいません"
+     1 string mchinese = "沒有朋友"
+   [27079]
+    0 TableSoItemLang data
+     0 int id = 1596173366
+     1 string schinese = "暂别赛场\n暂无记录"
+     1 string schinese_censored = "暂别赛场\n暂无记录"
+     1 string english = "Goodbye Pro Gaming\nNo Data"
+     1 string japanese = "試合会場からしばらくお別れ\n記録がありません"
+     1 string mchinese = "暫別賽場\n暫無記錄"
+   [27080]
+    0 TableSoItemLang data
+     0 int id = 1596173367
+     1 string schinese = "学费值不足！老板对你超不屑！"
+     1 string schinese_censored = "学费值不足！老板对你超不屑！"
+     1 string english = "Not enough tuition! The shopkeeper looks at you scornfully."
+     1 string japanese = "授業料が足りません！残念！"
+     1 string mchinese = "學費值不足！老闆對你超不屑！"
+   [27081]
+    0 TableSoItemLang data
+     0 int id = 1596173368
+     1 string schinese = "*从第二代开始可用学费换取传家宝。传家宝将代代相传，快来收集吧~"
+     1 string schinese_censored = "*从第二代开始可用学费换取传家宝。传家宝将代代相传，快来收集吧~"
+     1 string english = "*Family heirlooms will be passed down through generations, so collect as many as you can!"
+     1 string japanese = "※２代目から授業料で家宝を購入可能。代々受け継がれますので、ぜひ集めましょう！"
+     1 string mchinese = "*從第二代開始可用學費換取傳家寶。傳家寶將代代相傳，快來收集吧~"
+   [27082]
+    0 TableSoItemLang data
+     0 int id = 1596173369
+     1 string schinese = "你还未拥有该类型的传家宝，快去收集吧~"
+     1 string schinese_censored = "你还未拥有该类型的传家宝，快去收集吧~"
+     1 string english = "You don't have any family heirlooms of this type, so try to collect some!"
+     1 string japanese = "このタイプの家宝は持ってないぞ。頑張って集めよう！"
+     1 string mchinese = "你還未擁有該類型的傳家寶，快去收集吧~"
+   [27083]
+    0 TableSoItemLang data
+     0 int id = 1596173370
+     1 string schinese = "去挖脑洞"
+     1 string schinese_censored = "去挖脑洞"
+     1 string english = "Absorb"
+     1 string japanese = "吸収する"
+     1 string mchinese = "去挖腦洞"
+   [27084]
+    0 TableSoItemLang data
+     0 int id = 1596173371
+     1 string schinese = "继续安排"
+     1 string schinese_censored = "继续安排"
+     1 string english = "Continue"
+     1 string japanese = "予定継続"
+     1 string mchinese = "繼續安排"
+   [27085]
+    0 TableSoItemLang data
+     0 int id = 1596173372
+     1 string schinese = "还有多余的行动力，要去挖脑洞吗？"
+     1 string schinese_censored = "还有多余的行动力，要去挖脑洞吗？"
+     1 string english = "You still have Action points; do you want to absorb more fragments?"
+     1 string japanese = "行動力が余ってるぞ。\nカケラを吸収しないの？"
+     1 string mchinese = "還有多餘的行動力，要去挖腦洞嗎？"
+   [27086]
+    0 TableSoItemLang data
+     0 int id = 1596173373
+     1 string schinese = "特长未解锁"
+     1 string schinese_censored = "特长未解锁"
+     1 string english = "Trait not yet unlocked."
+     1 string japanese = "特技はロックされています"
+     1 string mchinese = "特長未解鎖"
+   [27087]
+    0 TableSoItemLang data
+     0 int id = 1596173374
+     1 string schinese = "解锁新的图鉴内容"
+     1 string schinese_censored = "解锁新的图鉴内容"
+     1 string english = "Unlock New Gallery Content"
+     1 string japanese = "新しい図鑑特典を解放！"
+     1 string mchinese = "解鎖新的圖鑒內容"
+   [27088]
+    0 TableSoItemLang data
+     0 int id = 1596173375
+     1 string schinese = "不能选择自己"
+     1 string schinese_censored = "不能选择自己"
+     1 string english = "You cannot select yourself."
+     1 string japanese = "自分は選択できません"
+     1 string mchinese = "不能選擇自己"
+   [27089]
+    0 TableSoItemLang data
+     0 int id = 1596173376
+     1 string schinese = "不造妻美"
+     1 string schinese_censored = "不造妻美"
+     1 string english = "Loafer"
+     1 string japanese = "ブサイク"
+     1 string mchinese = "不造妻美"
+   [27090]
+    0 TableSoItemLang data
+     0 int id = 1596173377
+     1 string schinese = "游戏大佬"
+     1 string schinese_censored = "游戏大佬"
+     1 string english = "Master Gamer"
+     1 string japanese = "ゲーム兄貴"
+     1 string mchinese = "遊戲大佬"
+   [27091]
+    0 TableSoItemLang data
+     0 int id = 1596173378
+     1 string schinese = "后悔创业"
+     1 string schinese_censored = "后悔创业"
+     1 string english = "Failed Business"
+     1 string japanese = "創業失敗者"
+     1 string mchinese = "後悔創業"
+   [27092]
+    0 TableSoItemLang data
+     0 int id = 1596173379
+     1 string schinese = "情怀在心"

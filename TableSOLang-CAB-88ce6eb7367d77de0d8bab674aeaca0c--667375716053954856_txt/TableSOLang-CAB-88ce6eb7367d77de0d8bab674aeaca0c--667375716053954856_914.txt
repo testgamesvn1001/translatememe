@@ -1,0 +1,184 @@
+     1 string schinese_censored = "听说你去经纪公司实习了？怎么样？怎么样？"
+     1 string english = "How is it doing an internship at the Management Firm? Is it awesome? Is it great?"
+     1 string japanese = "芸能事務所でインターンシップをやってるの？どう？どうなの？"
+     1 string mchinese = "聽說你去經紀公司實習了？怎麼樣？怎麼樣？"
+   [20998]
+    0 TableSoItemLang data
+     0 int id = 1031001
+     1 string schinese = "不是实习啦，就是兼职而已，还是个小白。"
+     1 string schinese_censored = "不是实习啦，就是兼职而已，还是个小白。"
+     1 string english = "I'm not doing an internship, I'm there doing part time work, it's nothing fancy."
+     1 string japanese = "見習いとかアルバイトじゃなくて、単なる雑用係よ。"
+     1 string mchinese = "不是實習啦，就是兼職而已，還是個小白。"
+   [20999]
+    0 TableSoItemLang data
+     0 int id = 1031002
+     1 string schinese = "哇，感觉好厉害啊，那你不是跟很多偶像都认识咯？能帮我要个签名吗？"
+     1 string schinese_censored = "哇，感觉好厉害啊，那你不是跟很多偶像都认识咯？能帮我要个签名吗？"
+     1 string english = "Wow, that still sounds really awesome! Then you must know a lot of idols! Can you get me some autographs?"
+     1 string japanese = "へえ、すごいね！アイドルの知り合いはできた？サインはもらえる？"
+     1 string mchinese = "哇，感覺好厲害啊，那你不是跟很多偶像都認識咯？能幫我要個簽名嗎？"
+   [21000]
+    0 TableSoItemLang data
+     0 int id = 1031003
+     1 string schinese = "哈哈，本来是不被允许的，不过要不是你鼓励我去参加海选我也没这个机会，就破例帮你喽~"
+     1 string schinese_censored = "哈哈，本来是不被允许的，不过要不是你鼓励我去参加海选我也没这个机会，就破例帮你喽~"
+     1 string english = "Heh, I'm not really allowed to, but seeing as you where the one who encouraged me to take part in the auditions in the first place, I'll see what I can do!"
+     1 string japanese = "フフ、普通なら無理よ。でも、オーディションに参加したのはあなたのおかげだし。特別に頑張ってみるわ！"
+     1 string mchinese = "哈哈，本來是不被允許的，不過要不是你鼓勵我去參加海選我也沒這個機會，就破例幫你嘍~"
+   [21001]
+    0 TableSoItemLang data
+     0 int id = 1031004
+     1 string schinese = "哇，谢谢！你真是太好了！"
+     1 string schinese_censored = "哇，谢谢！你真是太好了！"
+     1 string english = "Wow, thanks! You're the best!"
+     1 string japanese = "わあ、ありがと！本当に嬉しい！"
+     1 string mchinese = "哇，謝謝！你真是太好了！"
+   [21002]
+    0 TableSoItemLang data
+     0 int id = 1031005
+     1 string schinese = "诶，你在经纪公司兼职吗？哇，好羡慕你啊，可以跟偶像这么近~"
+     1 string schinese_censored = "诶，你在经纪公司兼职吗？哇，好羡慕你啊，可以跟偶像这么近~"
+     1 string english = "Hey, are you working part time at the Management Firm? I'm green with envy! You get to be so close to your idols."
+     1 string japanese = "え、芸能事務所でアルバイト？羨ましいな。アイドルの近くで働けるなんて！"
+     1 string mchinese = "誒，你在經紀公司兼職嗎？哇，好羡慕你啊，可以跟偶像這麼近~"
+   [21003]
+    0 TableSoItemLang data
+     0 int id = 1031006
+     1 string schinese = "啊哈哈，也没有你想象的那么好啦……"
+     1 string schinese_censored = "啊哈哈，也没有你想象的那么好啦……"
+     1 string english = "Hahaha, it's not as great as you think..."
+     1 string japanese = "アハハ、考えてるほど良くないと思うよ…"
+     1 string mchinese = "啊哈哈，也沒有你想像的那麼好啦……"
+   [21004]
+    0 TableSoItemLang data
+     0 int id = 1031007
+     1 string schinese = "LGJ听说是在你的公司吧，那我最近听说LGJ和MW在一起了？是不是真的呀？"
+     1 string schinese_censored = "某某听说是在你的公司吧，那我最近听说某某和某某某在一起了？是不是真的呀？"
+     1 string english = "Isn't Snow at your company? Is it true that he's together with Danny? Is it?"
+     1 string japanese = "リン・ガンジャンが所属してるよね。最近リン・ガンジャンとム・ウェイが付き合ってるって聞いたけど、本当？"
+     1 string mchinese = "LGJ聽說是在你的公司吧，那我最近聽說LGJ和MW在一起了？是不是真的呀？"
+   [21005]
+    0 TableSoItemLang data
+     0 int id = 1031008
+     1 string schinese = "啊哈哈……我也不太清楚呢……"
+     1 string schinese_censored = "啊哈哈……我也不太清楚呢……"
+     1 string english = "Heh... Uhm, I haven't the foggiest..."
+     1 string japanese = "アハハ…よく知らないわ…"
+     1 string mchinese = "啊哈哈……我也不太清楚呢……"
+   [21006]
+    0 TableSoItemLang data
+     0 int id = 1031009
+     1 string schinese = "你在经纪公司怎么会不知道呢？圈内应该都知道吧？对了，他们有没有常去的饭店什么的，可以让我“偶遇”他们的……？我好想见到真人啊！"
+     1 string schinese_censored = "你在经纪公司怎么会不知道呢？圈内应该都知道吧？对了，他们有没有常去的饭店什么的，可以让我“偶遇”他们的……？我好想见到真人啊！"
+     1 string english = "You're at the Management Firm, you must know! Someone there must know, right? By the way, do they have a restaurant they frequent or something? I could “run into” them there... I really want to see them!"
+     1 string japanese = "芸能事務所で働いてるのに、なんで知らないの？いつも一緒なんだろ？そうだ、よく行く店とか知らない？「偶然」会うだけならいいよね…？一度本物を見たい！"
+     1 string mchinese = "你在經紀公司怎麼會不知道呢？圈內應該都知道吧？對了，他們有沒有常去的飯店什麼的，可以讓我“偶遇”他們的……？我好想見到真人啊！"
+   [21007]
+    0 TableSoItemLang data
+     0 int id = 1031010
+     1 string schinese = "你无不无聊，打听那么多是要干嘛？"
+     1 string schinese_censored = "你无不无聊，打听那么多是要干嘛？"
+     1 string english = "Aren't you taking this a bit too far? What are you up to?"
+     1 string japanese = "なあ、同じうわさ話を一日中続けて、何が楽しいんだ？"
+     1 string mchinese = "你無不無聊，打聽那麼多是要幹嘛？"
+   [21008]
+    0 TableSoItemLang data
+     0 int id = 1031011
+     1 string schinese = "你怎么说话呢！管你什么事啊！"
+     1 string schinese_censored = "你怎么说话呢！管你什么事啊！"
+     1 string english = "Shut up. What's that got to do with you?"
+     1 string japanese = "お前にゃ関係ないだろ？黙っとけよ。"
+     1 string mchinese = "你怎麼說話呢！管你什麼事啊！"
+   [21009]
+    0 TableSoItemLang data
+     0 int id = 1031012
+     1 string schinese = "明星不是人，不配有隐私权？你这种私生饭行为才恶心！"
+     1 string schinese_censored = "明星不是人，不配有隐私权？你这种私生饭行为才恶心！"
+     1 string english = "Aren't celebrities people too? Don't they deserve any privacy? You're no better than paparazzi!"
+     1 string japanese = "どこもお前らみたいなやつらばかりだ。噂される本人がどんな思いかなんて全く考えない。好奇心と優越感を満たしたいだけだろ！"
+     1 string mchinese = "明星不是人，不配有隱私權？你這種私生飯行為才噁心！"
+   [21010]
+    0 TableSoItemLang data
+     0 int id = 1031013
+     1 string schinese = "哎呀，哎呀，不要吵架嘛。"
+     1 string schinese_censored = "哎呀，哎呀，不要吵架嘛。"
+     1 string english = "Hey, stop the arguing."
+     1 string japanese = "喧嘩はやめて！"
+     1 string mchinese = "哎呀，哎呀，不要吵架嘛。"
+   [21011]
+    0 TableSoItemLang data
+     0 int id = 1031014
+     1 string schinese = "不要吵架不要吵架，金坷垃好处都有啥，谁说对了就给他。"
+     1 string schinese_censored = "不要吵架不要吵架，金坷垃好处都有啥，谁说对了就给他。"
+     1 string english = "No arguing! My kingdom for peace, my kingdom for you two not arguing!"
+     1 string japanese = "そうよ、喧嘩しないで！聞きたいなら教えてあげるから！でも本当に知らないの。"
+     1 string mchinese = "不要吵架不要吵架，金坷垃好處都有啥，誰說對了就給他。"
+   [21012]
+    0 TableSoItemLang data
+     0 int id = 1031015
+     1 string schinese = "哈哈哈，你好烦呀~"
+     1 string schinese_censored = "哈哈哈，你好烦呀~"
+     1 string english = "Righteo..."
+     1 string japanese = "あなたは黙ってて！"
+     1 string mchinese = "哈哈哈，你好煩呀~"
+   [21013]
+    0 TableSoItemLang data
+     0 int id = 1031016
+     1 string schinese = "杨姐，你说粉丝对于明星来说是什么呢？"
+     1 string schinese_censored = "杨姐，你说粉丝对于明星来说是什么呢？"
+     1 string english = "Cecilia, what are fans to a celebrity?"
+     1 string japanese = "ヤンさん、ファンってアイドルにとって何ですか？"
+     1 string mchinese = "楊姐，你說粉絲對於明星來說是什麼呢？"
+   [21014]
+    0 TableSoItemLang data
+     0 int id = 1031017
+     1 string schinese = "？什么意思？"
+     1 string schinese_censored = "？什么意思？"
+     1 string english = "? What do you mean?"
+     1 string japanese = "どういう意味？"
+     1 string mchinese = "？什麼意思？"
+   [21015]
+    0 TableSoItemLang data
+     0 int id = 1031018
+     1 string schinese = "前几天我们同学吵架了，一个同学对偶像很“痴迷”，另一个就比较……看不起她。所以你觉得，粉丝对明星是好还是坏呢？"
+     1 string schinese_censored = "前几天我们同学吵架了，一个同学对偶像很“痴迷”，另一个就比较……看不起她。所以你觉得，粉丝对明星是好还是坏呢？"
+     1 string english = "My classmates started arguing a few days ago... One of them is a real fangirl, and the other... well, wasn't so happy with that. So what do you think? What do you think fans are to a celebrity?"
+     1 string japanese = "数日前に、友達が喧嘩したんです。アイドルに夢中な子を別の子がバカにしました。ファンはアイドルにとって良いものですか？悪いものですか？"
+     1 string mchinese = "前幾天我們同學吵架了，一個同學對偶像很“癡迷”，另一個就比較……看不起她。所以你覺得，粉絲對明星是好還是壞呢？"
+   [21016]
+    0 TableSoItemLang data
+     0 int id = 1031019
+     1 string schinese = "毋庸置疑，粉丝对于明星，尤其是偶像非常重要，有粉丝才有流量，我们造星才算成功。我们才有饭吃，有收入才能继续造星，给他们造梦。"
+     1 string schinese_censored = "毋庸置疑，粉丝对于明星，尤其是偶像非常重要，有粉丝才有流量，我们造星才算成功。我们才有饭吃，有收入才能继续造星，给他们造梦。"
+     1 string english = "Fans are naturally of utmost importance. Without fans there is no real following, and we need a following to succeed. Without success we have to survive on nothing but bread and water! @@And we can't create stars or dreams on empty stomachs."
+     1 string japanese = "説明するまでもないけど、ファンは有名人、特にアイドルにとっては必須よ。ファンがいるからアイドルは成り立つ。ファンからの収入があるから、アイドルを創り続けて夢を提供できるの。"
+     1 string mchinese = "毋庸置疑，粉絲對於明星，尤其是偶像非常重要，有粉絲才有流量，我們造星才算成功。我們才有飯吃，有收入才能繼續造星，給他們造夢。"
+   [21017]
+    0 TableSoItemLang data
+     0 int id = 1031020
+     1 string schinese = "说的也是……那，那些“异常关注明星私生活”的粉丝也重要吗？"
+     1 string schinese_censored = "说的也是……那，那些“异常关注明星私生活”的粉丝也重要吗？"
+     1 string english = "Makes sense... So, well, how about fans that are hugely invested into their idol's private lives? Are they important?"
+     1 string japanese = "そうか…じゃあ、「アイドルの私生活」に注目するファンも大切ですか？"
+     1 string mchinese = "說的也是……那，那些“異常關注明星私生活”的粉絲也重要嗎？"
+   [21018]
+    0 TableSoItemLang data
+     0 int id = 1031021
+     1 string schinese = "你是说私生？他们名义上是“粉丝”没错……哼，但我可不会把他们当粉丝对待。"
+     1 string schinese_censored = "你是说私生？他们名义上是“粉丝”没错……哼，但我可不会把他们当粉丝对待。"
+     1 string english = "Their private lives? They're often called 'fans', that's true... Mm, but we don't really treat them as ones."
+     1 string japanese = "私生活だけ？…確かに「ファン」には違いないわ…でも、私はファンとして扱いたくないわね。"
+     1 string mchinese = "你是說私生？他們名義上是“粉絲”沒錯……哼，但我可不會把他們當粉絲對待。"
+   [21019]
+    0 TableSoItemLang data
+     0 int id = 1031022
+     1 string schinese = "我见过他们跟踪艺人，打骚扰电话，还有疯到寄恐吓信的，根本就是干扰我们工作，艺人甚至会吓得不敢出门的。就算本来是粉丝，现在也是百害无一利。"
+     1 string schinese_censored = "我见过他们跟踪艺人，打骚扰电话，还有疯到寄恐吓信的，根本就是干扰我们工作，艺人甚至会吓得不敢出门的。就算本来是粉丝，现在也是百害无一利。"
+     1 string english = "I've seen them stalk, call at all hours of the night, send scary letters and that's just the tip of the iceberg. @@They interfere with our work and scare their 'idols'. They start out as fans, but end up nothing more than leeches."
+     1 string japanese = "芸能人を追いかけ続けたり、嫌がらせの電話をしたり、脅迫状を送るのに夢中になったりしてる人も知ってる。昔の事はわからないけど、そうなったらファンの資格はないわね。"
+     1 string mchinese = "我見過他們跟蹤藝人，打騷擾電話，還有瘋到寄恐嚇信的，根本就是干擾我們工作，藝人甚至會嚇得不敢出門的。就算本來是粉絲，現在也是百害無一利。"
+   [21020]
+    0 TableSoItemLang data
+     0 int id = 1031023
+     1 string schinese = "噢……噢…………（说得好直接啊）"

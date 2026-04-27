@@ -1,0 +1,184 @@
+     1 string schinese_censored = "安排"
+     1 string english = "Schedule"
+     1 string japanese = "予定"
+     1 string mchinese = "安排"
+   [19526]
+    0 TableSoItemLang data
+     0 int id = 1029527
+     1 string schinese = "基础素描"
+     1 string schinese_censored = "基础素描"
+     1 string english = "Basic Sketching"
+     1 string japanese = "基礎デッサン"
+     1 string mchinese = "基礎素描"
+   [19527]
+    0 TableSoItemLang data
+     0 int id = 1029528
+     1 string schinese = "人物结构"
+     1 string schinese_censored = "人物结构"
+     1 string english = "Character Structure"
+     1 string japanese = "人物構造"
+     1 string mchinese = "人物結構"
+   [19528]
+    0 TableSoItemLang data
+     0 int id = 1029529
+     1 string schinese = "日本漫画基础"
+     1 string schinese_censored = "日本漫画基础"
+     1 string english = "Manga Basics"
+     1 string japanese = "日本漫画基礎"
+     1 string mchinese = "日本漫畫基礎"
+   [19529]
+    0 TableSoItemLang data
+     0 int id = 1029530
+     1 string schinese = "漫画上色要诀"
+     1 string schinese_censored = "漫画上色要诀"
+     1 string english = "Manga Coloring"
+     1 string japanese = "漫画着色技術"
+     1 string mchinese = "漫畫上色要訣"
+   [19530]
+    0 TableSoItemLang data
+     0 int id = 1029531
+     1 string schinese = "动画基础教程"
+     1 string schinese_censored = "动画基础教程"
+     1 string english = "Anime Basics"
+     1 string japanese = "アニメ基礎課程"
+     1 string mchinese = "動畫基礎教程"
+   [19531]
+    0 TableSoItemLang data
+     0 int id = 1029532
+     1 string schinese = "动画数位基础"
+     1 string schinese_censored = "动画数位基础"
+     1 string english = "Digital Anime Foundation"
+     1 string japanese = "デジタルアニメ基礎"
+     1 string mchinese = "動畫數位基礎"
+   [19532]
+    0 TableSoItemLang data
+     0 int id = 1029533
+     1 string schinese = "三维建模与渲染"
+     1 string schinese_censored = "三维建模与渲染"
+     1 string english = "3D Modeling and Rendering"
+     1 string japanese = "３Ｄモデリング"
+     1 string mchinese = "三維建模與渲染"
+   [19533]
+    0 TableSoItemLang data
+     0 int id = 1029534
+     1 string schinese = "动画制作"
+     1 string schinese_censored = "动画制作"
+     1 string english = "Anime Creation"
+     1 string japanese = "アニメ制作"
+     1 string mchinese = "動畫製作"
+   [19534]
+    0 TableSoItemLang data
+     0 int id = 1029535
+     1 string schinese = "分镜训练"
+     1 string schinese_censored = "分镜训练"
+     1 string english = "Storyboard Training"
+     1 string japanese = "絵コンテ訓練"
+     1 string mchinese = "分鏡訓練"
+   [19535]
+    0 TableSoItemLang data
+     0 int id = 1029536
+     1 string schinese = "这是一切绘画的基础\n\n【想象力】属性越高，学习消耗的悟性越少。\n\n最低消耗80点悟性。"
+     1 string schinese_censored = "这是一切绘画的基础\n\n学会基础素描，【想象力】越高，会适当减少所需消耗的悟性\n\n属性标准值：2700\n至少消耗悟性:80"
+     1 string english = "The basics of drawing.\n\nLearning Basic Sketchingcosts less Knowledge the more [Imagination] you have.\n\nStat norm: 2700\nMinimum Knowledge cost: 80"
+     1 string japanese = "あらゆる絵画の基礎だ。\n\n基礎デッサンを学ぶ。【想像力】が高いほど消費理解力は少なくなる。\n\n能力標準値：2700\n最低消費理解力:80"
+     1 string mchinese = "這是一切繪畫的基礎\n\n【想像力】屬性越高，學習消耗的悟性越少。\n\n最低消耗80點悟性。"
+   [19536]
+    0 TableSoItemLang data
+     0 int id = 1029537
+     1 string schinese = "多种多样的人物需要不同的手法绘画\n\n【想象力】属性越高，学习消耗的悟性越少。\n\n最低消耗100点悟性。"
+     1 string schinese_censored = "多种多样的人物需要不同的手法绘画\n\n学会人物结构，【想象力】越高，会适当减少所需消耗的悟性\n\n属性标准值：3780\n至少消耗悟性:100"
+     1 string english = "Adapt your drawing method to the character.\n\nLearning Character Structurecosts less Knowledge the more [Imagination] you have.\n\nStat norm: 3780\nMinimum Knowledge cost: 100"
+     1 string japanese = "人物ごとに異なる技術が必要だ。\n\n人物構造を学ぶ。【想像力】が高いほど消費理解力は少なくなる。\n\n能力標準値：3780\n最低消費理解力:100"
+     1 string mchinese = "多種多樣的人物需要不同的手法繪畫\n\n【想像力】屬性越高，學習消耗的悟性越少。\n\n最低消耗100點悟性。"
+   [19537]
+    0 TableSoItemLang data
+     0 int id = 1029538
+     1 string schinese = "道路越窄，专业越精\n\n【想象力】属性越高，学习消耗的悟性越少。\n\n最低消耗120点悟性。"
+     1 string schinese_censored = "道路越窄，专业越精\n\n学会日本漫画基础，【想象力】越高，会适当减少所需消耗的悟性\n\n属性标准值：9072\n至少消耗悟性:120"
+     1 string english = "Specialization really is worth it.\n\nLearning Manga Basicscosts less Knowledge the more [Imagination] you have.\n\nStat norm: 9072\nMinimum Knowledge cost: 120"
+     1 string japanese = "道が狭いほど専門性は向上する。\n\n日本漫画基礎を学ぶ。【想像力】が高いほど消費理解力は少なくなる。\n\n能力標準値：9072\n最低消費理解力:120"
+     1 string mchinese = "道路越窄，專業越精\n\n【想像力】屬性越高，學習消耗的悟性越少。\n\n最低消耗120點悟性。"
+   [19538]
+    0 TableSoItemLang data
+     0 int id = 1029539
+     1 string schinese = "个性化画风的另一种方式\n\n【想象力】【记忆力】属性越高，学习消耗的悟性越少。\n\n最低消耗150点悟性。"
+     1 string schinese_censored = "个性化画风的另一种方式\n\n学会漫画上色要诀，【想象力】【记忆力】越高，会适当减少所需消耗的悟性\n\n属性标准值：15420\n至少消耗悟性:150"
+     1 string english = "Another way of doing it your way.\n\nLearning Manga Coloringcosts less Knowledge the more [Imagination] and [Memory] you have.\n\nStat norm: 15420\nMinimum Knowledge cost: 150"
+     1 string japanese = "個性的な画風を学ぶ一つの方法。\n\n漫画着色技術を学ぶ。【想像力】【記憶力】が高いほど消費理解力は少なくなる。\n\n能力標準値：15420\n最低消費理解力:150"
+     1 string mchinese = "個性化畫風的另一種方式\n\n【想像力】【記憶力】屬性越高，學習消耗的悟性越少。\n\n最低消耗150點悟性。"
+   [19539]
+    0 TableSoItemLang data
+     0 int id = 1029540
+     1 string schinese = "基础的24帧蕴含这人类的智慧\n\n【想象力】【记忆力】属性越高，学习消耗的悟性越少。\n\n最低消耗170点悟性。"
+     1 string schinese_censored = "基础的24帧蕴含这人类的智慧\n\n学会动画基础教程，【想象力】【记忆力】越高，会适当减少所需消耗的悟性\n\n属性标准值：27756\n至少消耗悟性:170"
+     1 string english = "Contains a plethora of much-needed wisdom.\n\nLearning Anime Basicscosts less Knowledge the more [Imagination] and [Memory] you have.\n\nStat norm: 27756\nMinimum Knowledge cost: 170"
+     1 string japanese = "２４コマに人類の知識が詰め込まれている。\n\nアニメ基礎課程を学ぶ。【想像力】【記憶力】が高いほど消費理解力は少なくなる。\n\n能力標準値：27756\n最低消費理解力:170"
+     1 string mchinese = "基礎的24幀蘊含這人類的智慧\n\n【想像力】【記憶力】屬性越高，學習消耗的悟性越少。\n\n最低消耗170點悟性。"
+   [19540]
+    0 TableSoItemLang data
+     0 int id = 1029541
+     1 string schinese = "商业化与艺术化的分割点\n\n【想象力】【记忆力】属性越高，学习消耗的悟性越少。\n\n最低消耗190点悟性。"
+     1 string schinese_censored = "商业化与艺术化的分割点\n\n学会动画数位基础，【想象力】【记忆力】越高，会适当减少所需消耗的悟性\n\n属性标准值：44406\n至少消耗悟性:190"
+     1 string english = "Where commercialization and artistry divide.\n\nLearning Digital Anime Foundationcosts less Knowledge the more [Imagination] and [Memory] you have.\n\nStat norm: 44406\nMinimum Knowledge cost: 190"
+     1 string japanese = "商業と芸術の分岐点。\n\nデジタルアニメ基礎を学ぶ。【想像力】【記憶力】が高いほど消費理解力は少なくなる。\n\n能力標準値：44406\n最低消費理解力:190"
+     1 string mchinese = "商業化與藝術化的分割點\n\n【想像力】【記憶力】屬性越高，學習消耗的悟性越少。\n\n最低消耗190點悟性。"
+   [19541]
+    0 TableSoItemLang data
+     0 int id = 1029542
+     1 string schinese = "越来越真是人类永远的追求\n\n【情商】【想象力】【记忆力】属性越高，学习消耗的悟性越少。\n\n最低消耗200点悟性。"
+     1 string schinese_censored = "越来越真是人类永远的追求\n\n学会三维建模与渲染，【情绪力】【想象力】【记忆力】越高，会适当减少所需消耗的悟性\n\n属性标准值：71046\n至少消耗悟性:200"
+     1 string english = "The eternal pursuit of mankind.\n\nLearning 3D Modeling and Renderingcosts less Knowledge the more [Imagination] and [Memory] and [EQ] you have.\n\nStat norm: 71,046\nMinimum Knowledge cost: 200"
+     1 string japanese = "もっとリアルに。人類における永遠の追求だ。\n\n３Ｄモデリングを学ぶ。【ＥＱ】【想像力】【記憶力】が高いほど消費理解力は少なくなる。\n\n能力標準値：71046\n最低消費理解力:200"
+     1 string mchinese = "越來越真是人類永遠的追求\n\n【情商】【想像力】【記憶力】屬性越高，學習消耗的悟性越少。\n\n最低消耗200點悟性。"
+   [19542]
+    0 TableSoItemLang data
+     0 int id = 1029543
+     1 string schinese = "不要只做“嘴强王者”\n\n【情商】【想象力】【记忆力】属性越高，学习消耗的悟性越少。\n\n最低消耗210点悟性。"
+     1 string schinese_censored = "不要只做“嘴强王者”\n\n学会动画制作，【情绪力】【想象力】【记忆力】越高，会适当减少所需消耗的悟性\n\n属性标准值：113670\n至少消耗悟性:210"
+     1 string english = "Action speaks louder than words.\n\nLearning Anime Creationcosts less Knowledge the more [Imagination] and [Memory] and [EQ] you have.\n\nStat norm: 113670\nMinimum Knowledge cost: 210"
+     1 string japanese = "セリフだけじゃダメだよ。\n\nアニメ制作を学ぶ。【ＥＱ】【想像力】【記憶力】が高いほど消費理解力は少なくなる。\n\n能力標準値：113670\n最低消費理解力:210"
+     1 string mchinese = "不要只做“嘴強王者”\n\n【情商】【想像力】【記憶力】屬性越高，學習消耗的悟性越少。\n\n最低消耗210點悟性。"
+   [19543]
+    0 TableSoItemLang data
+     0 int id = 1029544
+     1 string schinese = "分镜才是一部动画的灵魂所在\n\n【情商】【想象力】【记忆力】属性越高，学习消耗的悟性越少。\n\n最低消耗250点悟性。"
+     1 string schinese_censored = "分镜才是一部动画的灵魂所在\n\n学会分镜训练，【情绪力】【想象力】【记忆力】越高，会适当减少所需消耗的悟性\n\n属性标准值：181872\n至少消耗悟性:250"
+     1 string english = "Storyboarding is the soul of anime.\n\nLearning Storyboard Trainingcosts less Knowledge the more [Imagination] and [Memory] and [EQ] you have.\n\nStat norm: 181872\nMinimum Knowledge cost: 250"
+     1 string japanese = "絵コンテはアニメの魂だ。\n\n絵コンテ訓練を学ぶ。【ＥＱ】【想像力】【記憶力】が高いほど消費理解力は少なくなる。\n\n能力標準値：181872\n最低消費理解力:250"
+     1 string mchinese = "分鏡才是一部動畫的靈魂所在\n\n【情商】【想像力】【記憶力】屬性越高，學習消耗的悟性越少。\n\n最低消耗250點悟性。"
+   [19544]
+    0 TableSoItemLang data
+     0 int id = 1029545
+     1 string schinese = "学会基础素描才是绘画的第一步"
+     1 string schinese_censored = "学会基础素描才是绘画的第一步"
+     1 string english = "Basic Sketching leads to greater things."
+     1 string japanese = "基礎デッサンを学ぶことが絵画の第一歩だ"
+     1 string mchinese = "學會基礎素描才是繪畫的第一步"
+   [19545]
+    0 TableSoItemLang data
+     0 int id = 1029546
+     1 string schinese = "学习人物结构，“三岁看老”——这里就能固定下自己的画风"
+     1 string schinese_censored = "学习人物结构，“三岁看老”——这里就能固定下自己的画风"
+     1 string english = "Character Structure is vital for drawing."
+     1 string japanese = "人物構造を学ぶ。「将来は３歳で決まる」独自の技術を習得しよう"
+     1 string mchinese = "學習人物結構，“三歲看老”——這裏就能固定下自己的畫風"
+   [19546]
+    0 TableSoItemLang data
+     0 int id = 1029547
+     1 string schinese = "学习日本漫画基础，走向专门化的第一步"
+     1 string schinese_censored = "学习日本漫画基础，走向专门化的第一步"
+     1 string english = "Manga Basics leads to professionalism."
+     1 string japanese = "日本漫画基礎を学ぶ。専門化するための第一歩だ"
+     1 string mchinese = "學習日本漫畫基礎，走向專門化的第一步"
+   [19547]
+    0 TableSoItemLang data
+     0 int id = 1029548
+     1 string schinese = "学习漫画上色要诀，上色对每个漫画师来说都是噩梦"
+     1 string schinese_censored = "学习漫画上色要诀，上色对每个漫画师来说都是噩梦"
+     1 string english = "Manga Coloring, all artists nightmare."
+     1 string japanese = "漫画着色技術を学ぶ。着色はすべての漫画家にとって悪夢だ"
+     1 string mchinese = "學習漫畫上色要訣，上色對每個漫畫師來說都是噩夢"
+   [19548]
+    0 TableSoItemLang data
+     0 int id = 1029549
+     1 string schinese = "学习动画基础教程，如何让人物动起来，里面可大有学问"

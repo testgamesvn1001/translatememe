@@ -1,0 +1,184 @@
+     1 string schinese_censored = ""
+     1 string english = "Join Them"
+     1 string japanese = "このチームに加入"
+     1 string mchinese = "加入他們"
+   [21619]
+    0 TableSoItemLang data
+     0 int id = 6600233
+     1 string schinese = "你的出色表现引起了职业赛场的注意。现在，有两家俱乐部想要跟你签约，在人生的分水岭上，请做出选择吧……"
+     1 string schinese_censored = ""
+     1 string english = "Your great performance has attracted the attention of pro clubs. Two clubs are willing to hire you. Please make your choice at this crossroads of your life..."
+     1 string japanese = "あなたの能力がプロの注目を集め、クラブから契約の申し込みがあった。ここが人生のターニングポイントだ。選択しよう…"
+     1 string mchinese = "你的出色表現引起了職業賽場的注意。現在，有兩家俱樂部想要跟你簽約，在人生的分水嶺上，請做出選擇吧……"
+   [21620]
+    0 TableSoItemLang data
+     0 int id = 6600234
+     1 string schinese = "俱乐部选择"
+     1 string schinese_censored = ""
+     1 string english = "Choose Your Club"
+     1 string japanese = "クラブ選択"
+     1 string mchinese = "俱樂部選擇"
+   [21621]
+    0 TableSoItemLang data
+     0 int id = 6600235
+     1 string schinese = "高考学科"
+     1 string schinese_censored = ""
+     1 string english = "Gaokao Subjects"
+     1 string japanese = "大学入試教科"
+     1 string mchinese = "高考學科"
+   [21622]
+    0 TableSoItemLang data
+     0 int id = 6600236
+     1 string schinese = "课外技能"
+     1 string schinese_censored = ""
+     1 string english = "Extracurricular Skills"
+     1 string japanese = "課外スキル"
+     1 string mchinese = "課外技能"
+   [21623]
+    0 TableSoItemLang data
+     0 int id = 6600237
+     1 string schinese = "老师"
+     1 string schinese_censored = ""
+     1 string english = "Teachers"
+     1 string japanese = "先生"
+     1 string mchinese = "老師"
+   [21624]
+    0 TableSoItemLang data
+     0 int id = 6600238
+     1 string schinese = "未翻译"
+     1 string schinese_censored = ""
+     1 string english = "/6600238"
+     1 string japanese = "/"
+     1 string mchinese = "未翻譯"
+   [21625]
+    0 TableSoItemLang data
+     0 int id = 6600239
+     1 string schinese = "未翻译"
+     1 string schinese_censored = ""
+     1 string english = "/6600239"
+     1 string japanese = "/"
+     1 string mchinese = "未翻譯"
+   [21626]
+    0 TableSoItemLang data
+     0 int id = 6600240
+     1 string schinese = "填报志愿"
+     1 string schinese_censored = ""
+     1 string english = "Fill in Form"
+     1 string japanese = "志望校記入"
+     1 string mchinese = "填報志願"
+   [21627]
+    0 TableSoItemLang data
+     0 int id = 6600241
+     1 string schinese = "我的高考成绩:{0}"
+     1 string schinese_censored = ""
+     1 string english = "Final score: {0}"
+     1 string japanese = "受験成績:{0}"
+     1 string mchinese = "我的高考成績:{0}"
+   [21628]
+    0 TableSoItemLang data
+     0 int id = 6600242
+     1 string schinese = "文化分:{0}"
+     1 string schinese_censored = ""
+     1 string english = "Gaokao score: {0}"
+     1 string japanese = "教養科目成績:{0}"
+     1 string mchinese = "文化分:{0}"
+   [21629]
+    0 TableSoItemLang data
+     0 int id = 6600243
+     1 string schinese = "专业分:{0}"
+     1 string schinese_censored = ""
+     1 string english = "Art score: {0}"
+     1 string japanese = "専門科目成績:{0}"
+     1 string mchinese = "專業分:{0}"
+   [21630]
+    0 TableSoItemLang data
+     0 int id = 6600244
+     1 string schinese = "填报"
+     1 string schinese_censored = ""
+     1 string english = "Fill In"
+     1 string japanese = "志望"
+     1 string mchinese = "填報"
+   [21631]
+    0 TableSoItemLang data
+     0 int id = 6600245
+     1 string schinese = "文化分要求:{0}"
+     1 string schinese_censored = ""
+     1 string english = "Gaokao score required: {0}"
+     1 string japanese = "教養科目合格点:{0}"
+     1 string mchinese = "文化分要求:{0}"
+   [21632]
+    0 TableSoItemLang data
+     0 int id = 6600246
+     1 string schinese = "专业分要求:{0}"
+     1 string schinese_censored = ""
+     1 string english = "Arts score required: {0}"
+     1 string japanese = "専門科目合格点:{0}"
+     1 string mchinese = "專業分要求:{0}"
+   [21633]
+    0 TableSoItemLang data
+     0 int id = 6600247
+     1 string schinese = "录取几率:{0}%"
+     1 string schinese_censored = ""
+     1 string english = "Chance of enrollment: {0}%"
+     1 string japanese = "合格率:{0}"
+     1 string mchinese = "錄取幾率:{0}%"
+   [21634]
+    0 TableSoItemLang data
+     0 int id = 6600248
+     1 string schinese = "分数未达到"
+     1 string schinese_censored = ""
+     1 string english = "You do not meet the score requirements."
+     1 string japanese = "合格点未達"
+     1 string mchinese = "分數未達到"
+   [21635]
+    0 TableSoItemLang data
+     0 int id = 6600249
+     1 string schinese = "我的专业分数:{0}"
+     1 string schinese_censored = ""
+     1 string english = "My art score: {0}"
+     1 string japanese = "学科成績:{0}"
+     1 string mchinese = "我的專業分數:{0}"
+   [21636]
+    0 TableSoItemLang data
+     0 int id = 6600250
+     1 string schinese = ""
+     1 string schinese_censored = ""
+     1 string english = "/6600250"
+     1 string japanese = "/"
+     1 string mchinese = ""
+   [21637]
+    0 TableSoItemLang data
+     0 int id = 6600251
+     1 string schinese = ""
+     1 string schinese_censored = ""
+     1 string english = "/6600251"
+     1 string japanese = "/"
+     1 string mchinese = ""
+   [21638]
+    0 TableSoItemLang data
+     0 int id = 6600252
+     1 string schinese = "这里是特长图鉴。\n\n家族成员获得过的特长都会显示在这里，多多解锁新特长，可以开启更多游戏内容噢！"
+     1 string schinese_censored = "这里是特长图鉴。\n\n家族成员获得过的特长都会显示在这里，多多解锁新特长，可以开启更多游戏内容噢！"
+     1 string english = "This is the Trait Gallery.\n\nTraits which this family has acquired will be displayed here. You get access to more game content by unlocking more traits!"
+     1 string japanese = "ここが特技図鑑。\n\n一族が獲得した特技がすべて記載される。ドンドン特技を解放してゲームを充実させよう！"
+     1 string mchinese = "這裏是特長圖鑒。\n\n家族成員獲得過的特長都會顯示在這裏，多多解鎖新特長，可以開啟更多遊戲內容噢！"
+   [21639]
+    0 TableSoItemLang data
+     0 int id = 6600253
+     1 string schinese = "这里是职业图鉴。\n\n家族成员获得过的职业的属性加成，零花钱等信息会显示在这里噢！"
+     1 string schinese_censored = "这里是职业图鉴。\n\n家族成员获得过的职业的属性加成，零花钱等信息会显示在这里噢！"
+     1 string english = "This is the Profession Gallery.\n\nStat and pocket money bonuses which this family has acquired will be displayed here!"
+     1 string japanese = "ここが職業図鑑。\n\n一族が就いた職業のボーナス、お小遣いなどの情報が記載される！"
+     1 string mchinese = "這裏是職業圖鑒。\n\n家族成員獲得過的職業的屬性加成，零花錢等資訊會顯示在這裏噢！"
+   [21640]
+    0 TableSoItemLang data
+     0 int id = 6600254
+     1 string schinese = "成就"
+     1 string schinese_censored = "成就"
+     1 string english = "Challenges"
+     1 string japanese = "成績"
+     1 string mchinese = "成就"
+   [21641]
+    0 TableSoItemLang data
+     0 int id = 6600255
+     1 string schinese = "家族起源"

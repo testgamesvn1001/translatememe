@@ -1,0 +1,184 @@
+     1 string schinese_censored = "团队核心Lv1（操作）"
+     1 string english = "Team Core Lv. 1 (Controls)"
+     1 string japanese = "チームの中核Lv.1 (操作)"
+     1 string mchinese = "團隊核心Lv1（操作）"
+   [28680]
+    0 TableSoItemLang data
+     0 int id = 8010308
+     1 string schinese = "团队核心Lv2（操作）"
+     1 string schinese_censored = "团队核心Lv2（操作）"
+     1 string english = "Team Core Lv. 2 (Controls)"
+     1 string japanese = "チームの中核Lv.2 (操作)"
+     1 string mchinese = "團隊核心Lv2（操作）"
+   [28681]
+    0 TableSoItemLang data
+     0 int id = 8010309
+     1 string schinese = "团队核心Lv3（操作）"
+     1 string schinese_censored = "团队核心Lv3（操作）"
+     1 string english = "Team Core Lv. 3 (Controls)"
+     1 string japanese = "チームの中核Lv.3 (操作)"
+     1 string mchinese = "團隊核心Lv3（操作）"
+   [28682]
+    0 TableSoItemLang data
+     0 int id = 8010310
+     1 string schinese = "接管比赛（操作）"
+     1 string schinese_censored = "接管比赛（操作）"
+     1 string english = "Match Control (Controls)"
+     1 string japanese = "ゲーム支配 (操作)"
+     1 string mchinese = "接管比賽（操作）"
+   [28683]
+    0 TableSoItemLang data
+     0 int id = 8010401
+     1 string schinese = "补刀练习Lv1（发挥）"
+     1 string schinese_censored = "补刀练习Lv1（发挥）"
+     1 string english = "Last Hitting Lv. 1 (Performance)"
+     1 string japanese = "ＣＳ練習Lv.1 (発揮)"
+     1 string mchinese = "補刀練習Lv1（發揮）"
+   [28684]
+    0 TableSoItemLang data
+     0 int id = 8010402
+     1 string schinese = "补刀练习Lv2（发挥）"
+     1 string schinese_censored = "补刀练习Lv2（发挥）"
+     1 string english = "Last Hitting Lv. 2 (Performance)"
+     1 string japanese = "ＣＳ練習Lv.2 (発揮)"
+     1 string mchinese = "補刀練習Lv2（發揮）"
+   [28685]
+    0 TableSoItemLang data
+     0 int id = 8010403
+     1 string schinese = "补刀练习Lv3（发挥）"
+     1 string schinese_censored = "补刀练习Lv3（发挥）"
+     1 string english = "Last Hitting Lv. 3 (Performance)"
+     1 string japanese = "ＣＳ練習Lv.3 (発揮)"
+     1 string mchinese = "補刀練習Lv3（發揮）"
+   [28686]
+    0 TableSoItemLang data
+     0 int id = 8010404
+     1 string schinese = "伤害计算Lv1（发挥）"
+     1 string schinese_censored = "伤害计算Lv1（发挥）"
+     1 string english = "Calculating Damage Lv. 1 (Performance)"
+     1 string japanese = "ダメージ計算Lv.1 (発揮)"
+     1 string mchinese = "傷害計算Lv1（發揮）"
+   [28687]
+    0 TableSoItemLang data
+     0 int id = 8010405
+     1 string schinese = "伤害计算Lv2（发挥）"
+     1 string schinese_censored = "伤害计算Lv2（发挥）"
+     1 string english = "Calculating Damage Lv. 2 (Performance)"
+     1 string japanese = "ダメージ計算Lv.2 (発揮)"
+     1 string mchinese = "傷害計算Lv2（發揮）"
+   [28688]
+    0 TableSoItemLang data
+     0 int id = 8010406
+     1 string schinese = "伤害计算Lv3（发挥）"
+     1 string schinese_censored = "伤害计算Lv3（发挥）"
+     1 string english = "Calculating Damage Lv. 3 (Performance)"
+     1 string japanese = "ダメージ計算Lv.3 (発揮)"
+     1 string mchinese = "傷害計算Lv3（發揮）"
+   [28689]
+    0 TableSoItemLang data
+     0 int id = 8010407
+     1 string schinese = "调整心态Lv1（发挥）"
+     1 string schinese_censored = "调整心态Lv1（发挥）"
+     1 string english = "Mental State Lv. 1 (Performance)"
+     1 string japanese = "メンタル調整Lv.1 (発揮)"
+     1 string mchinese = "調整心態Lv1（發揮）"
+   [28690]
+    0 TableSoItemLang data
+     0 int id = 8010408
+     1 string schinese = "调整心态Lv2（发挥）"
+     1 string schinese_censored = "调整心态Lv2（发挥）"
+     1 string english = "Mental State Lv. 2 (Performance)"
+     1 string japanese = "メンタル調整Lv.2 (発揮)"
+     1 string mchinese = "調整心態Lv2（發揮）"
+   [28691]
+    0 TableSoItemLang data
+     0 int id = 8010409
+     1 string schinese = "调整心态Lv3（发挥）"
+     1 string schinese_censored = "调整心态Lv3（发挥）"
+     1 string english = "Mental State Lv. 3 (Performance)"
+     1 string japanese = "メンタル調整Lv.3 (発揮)"
+     1 string mchinese = "調整心態Lv3（發揮）"
+   [28692]
+    0 TableSoItemLang data
+     0 int id = 8010410
+     1 string schinese = "大心脏（发挥）"
+     1 string schinese_censored = "大心脏（发挥）"
+     1 string english = "Stable Mind (Performance)"
+     1 string japanese = "強心臓 (発揮)"
+     1 string mchinese = "大心臟（發揮）"
+   [28693]
+    0 TableSoItemLang data
+     0 int id = 8010501
+     1 string schinese = "玩梗"
+     1 string schinese_censored = "玩梗"
+     1 string english = "Puns 101"
+     1 string japanese = "スラング"
+     1 string mchinese = "玩梗"
+   [28694]
+    0 TableSoItemLang data
+     0 int id = 8010502
+     1 string schinese = "直播技巧"
+     1 string schinese_censored = "直播技巧"
+     1 string english = "Streamer Skills"
+     1 string japanese = "配信技術"
+     1 string mchinese = "直播技巧"
+   [28695]
+    0 TableSoItemLang data
+     0 int id = 8010503
+     1 string schinese = "即兴演唱"
+     1 string schinese_censored = "即兴演唱"
+     1 string english = "Ad-lib Singing"
+     1 string japanese = "即興歌"
+     1 string mchinese = "即興演唱"
+   [28696]
+    0 TableSoItemLang data
+     0 int id = 8010504
+     1 string schinese = "个人风格"
+     1 string schinese_censored = "个人风格"
+     1 string english = "Personal Style"
+     1 string japanese = "個性的スタイル"
+     1 string mchinese = "個人風格"
+   [28697]
+    0 TableSoItemLang data
+     0 int id = 8010505
+     1 string schinese = "人设运营"
+     1 string schinese_censored = "人设运营"
+     1 string english = "Personal Image"
+     1 string japanese = "キャラ設定"
+     1 string mchinese = "人設運營"
+   [28698]
+    0 TableSoItemLang data
+     0 int id = 8010601
+     1 string schinese = "普通话训练"
+     1 string schinese_censored = "普通话训练"
+     1 string english = "English Practice"
+     1 string japanese = "標準語練習"
+     1 string mchinese = "普通話訓練"
+   [28699]
+    0 TableSoItemLang data
+     0 int id = 8010602
+     1 string schinese = "口播"
+     1 string schinese_censored = "口播"
+     1 string english = "Anchor"
+     1 string japanese = "しゃべり"
+     1 string mchinese = "口播"
+   [28700]
+    0 TableSoItemLang data
+     0 int id = 8010603
+     1 string schinese = "活跃思维课"
+     1 string schinese_censored = "活跃思维课"
+     1 string english = "Active Thinking"
+     1 string japanese = "思考活性化"
+     1 string mchinese = "活躍思維課"
+   [28701]
+    0 TableSoItemLang data
+     0 int id = 8010604
+     1 string schinese = "救场"
+     1 string schinese_censored = "救场"
+     1 string english = "Understudy"
+     1 string japanese = "平場"
+     1 string mchinese = "救場"
+   [28702]
+    0 TableSoItemLang data
+     0 int id = 8010605
+     1 string schinese = "电竞发展史"

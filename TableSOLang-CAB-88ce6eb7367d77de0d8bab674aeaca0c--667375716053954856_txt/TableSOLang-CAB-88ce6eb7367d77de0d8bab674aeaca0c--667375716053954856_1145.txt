@@ -1,0 +1,184 @@
+     1 string schinese_censored = "出现新的学习"
+     1 string english = "New Class Available"
+     1 string japanese = "新学習出現"
+     1 string mchinese = "出現新的學習"
+   [26311]
+    0 TableSoItemLang data
+     0 int id = 1596172598
+     1 string schinese = "出现新的期望"
+     1 string schinese_censored = "出现新的期望"
+     1 string english = "New Goal Available"
+     1 string japanese = "新期待出現"
+     1 string mchinese = "出現新的期望"
+   [26312]
+    0 TableSoItemLang data
+     0 int id = 1596172599
+     1 string schinese = "充值取消"
+     1 string schinese_censored = "充值取消"
+     1 string english = "Top Up cancelled."
+     1 string japanese = "PC/NS不用翻譯"
+     1 string mchinese = "充值取消"
+   [26313]
+    0 TableSoItemLang data
+     0 int id = 1596172600
+     1 string schinese = "购买取消"
+     1 string schinese_censored = "购买取消"
+     1 string english = "Purchase cancelled."
+     1 string japanese = "購入キャンセル"
+     1 string mchinese = "購買取消"
+   [26314]
+    0 TableSoItemLang data
+     0 int id = 1596172601
+     1 string schinese = "领取奖励"
+     1 string schinese_censored = "领取奖励"
+     1 string english = "Claim"
+     1 string japanese = "ご褒美取得"
+     1 string mchinese = "領取獎勵"
+   [26315]
+    0 TableSoItemLang data
+     0 int id = 1596172602
+     1 string schinese = "录取通知书"
+     1 string schinese_censored = "录取通知书"
+     1 string english = "Letter of Admission"
+     1 string japanese = "合格通知書"
+     1 string mchinese = "錄取通知書"
+   [26316]
+    0 TableSoItemLang data
+     0 int id = 1596172603
+     1 string schinese = "<color=#C52626>{0}</color> 选手：\n<color=#FFFFFF00>缩进</color>恭喜你在联赛中获得："
+     1 string schinese_censored = "<color=#C52626>{0}</color> 选手：\n<color=#FFFFFF00>缩进</color>恭喜你在联赛中获得："
+     1 string english = "<color=#C52626>{0}</color>:\n<color=#FFFFFF00>Indent</color> Congratulations! In the League you've got:"
+     1 string japanese = "<color=#C52626>{0}</color> 選手：\n<color=#FFFFFF00>缩进</color>リーグ戦で次の結果を残しました。"
+     1 string mchinese = "<color=#C52626>{0}</color> 選手：\n<color=#FFFFFF00>縮進</color>恭喜你在聯賽中獲得："
+   [26317]
+    0 TableSoItemLang data
+     0 int id = 1596172604
+     1 string schinese = "完成期望"
+     1 string schinese_censored = "完成期望"
+     1 string english = "Expectation fulfilled"
+     1 string japanese = "期待に応える"
+     1 string mchinese = "完成期望"
+   [26318]
+    0 TableSoItemLang data
+     0 int id = 1596172605
+     1 string schinese = "学会技能"
+     1 string schinese_censored = "学会技能"
+     1 string english = "Learn Skills"
+     1 string japanese = "スキル取得"
+     1 string mchinese = "學會技能"
+   [26319]
+    0 TableSoItemLang data
+     0 int id = 1596172606
+     1 string schinese = "家族等级加成"
+     1 string schinese_censored = "家族等级加成"
+     1 string english = "Gallery Bonus"
+     1 string japanese = "図鑑レベルボーナス"
+     1 string mchinese = "家族等級加成"
+   [26320]
+    0 TableSoItemLang data
+     0 int id = 1596172607
+     1 string schinese = "当前等级"
+     1 string schinese_censored = "当前等级"
+     1 string english = "Level"
+     1 string japanese = "現在のレベル"
+     1 string mchinese = "當前等級"
+   [26321]
+    0 TableSoItemLang data
+     0 int id = 1596172608
+     1 string schinese = "等级{0}解锁"
+     1 string schinese_censored = "等级{0}解锁"
+     1 string english = "Unlocks at Lv. {0}"
+     1 string japanese = "レベル{0}で解放"
+     1 string mchinese = "等級{0}解鎖"
+   [26322]
+    0 TableSoItemLang data
+     0 int id = 1596172609
+     1 string schinese = "已获得属性加成"
+     1 string schinese_censored = "已获得属性加成"
+     1 string english = "Your Stat Bonuses"
+     1 string japanese = "獲得した能力ボーナス"
+     1 string mchinese = "已獲得屬性加成"
+   [26323]
+    0 TableSoItemLang data
+     0 int id = 1596172610
+     1 string schinese = "下一级属性加成"
+     1 string schinese_censored = "下一级属性加成"
+     1 string english = "Bonus on next level"
+     1 string japanese = "次世代の能力ボーナス"
+     1 string mchinese = "下一級屬性加成"
+   [26324]
+    0 TableSoItemLang data
+     0 int id = 1596172611
+     1 string schinese = "家族等级{0}解锁内容一览"
+     1 string schinese_censored = "家族等级{0}解锁内容一览"
+     1 string english = "Unlocks at Gallery Lv. {0}"
+     1 string japanese = "図鑑レベル{0}の解放特典一覧"
+     1 string mchinese = "家族等級{0}解鎖內容一覽"
+   [26325]
+    0 TableSoItemLang data
+     0 int id = 1596172612
+     1 string schinese = "相机咔嚓一声\n时光画上句号\n我的回忆\n被铭刻的旧事\n有多少呢？"
+     1 string schinese_censored = "相机咔嚓一声\n时光画上句号\n我的回忆\n被铭刻的旧事\n有多少呢？"
+     1 string english = "Photos\nThe Passing of Time\nMy Memories\nMy Past\nWhat is the meaning of life?"
+     1 string japanese = "カメラがカシャと音を立て\n今を記憶する\n私の思い出\n刻まれた出来事\nどれだけあるんだろう？"
+     1 string mchinese = "相機哢嚓一聲\n時光畫上句號\n我的回憶\n被銘刻的舊事\n有多少呢？"
+   [26326]
+    0 TableSoItemLang data
+     0 int id = 1596172613
+     1 string schinese = "最爱科目："
+     1 string schinese_censored = "最爱科目："
+     1 string english = "Favorite Class: "
+     1 string japanese = "最愛科目："
+     1 string mchinese = "最愛科目："
+   [26327]
+    0 TableSoItemLang data
+     0 int id = 1596172614
+     1 string schinese = "最高课程："
+     1 string schinese_censored = "最高课程："
+     1 string english = "Best Class: "
+     1 string japanese = "最高練習："
+     1 string mchinese = "最高課程："
+   [26328]
+    0 TableSoItemLang data
+     0 int id = 1596172615
+     1 string schinese = "我的理想："
+     1 string schinese_censored = "我的理想："
+     1 string english = "My Dream: "
+     1 string japanese = "将来の夢："
+     1 string mchinese = "我的理想："
+   [26329]
+    0 TableSoItemLang data
+     0 int id = 1596172616
+     1 string schinese = "最强特长："
+     1 string schinese_censored = "最强特长："
+     1 string english = "Best Trait: "
+     1 string japanese = "最強特技："
+     1 string mchinese = "最強特長："
+   [26330]
+    0 TableSoItemLang data
+     0 int id = 1596172617
+     1 string schinese = "无感科目："
+     1 string schinese_censored = "无感科目："
+     1 string english = "Least Favorite Class:"
+     1 string japanese = "無視科目："
+     1 string mchinese = "無感科目："
+   [26331]
+    0 TableSoItemLang data
+     0 int id = 1596172618
+     1 string schinese = "老师常说\n读书最忌讳偏科\n可我还是忍不住在喜欢的科目上多下功夫"
+     1 string schinese_censored = "老师常说\n读书最忌讳偏科\n可我还是忍不住在喜欢的科目上多下功夫"
+     1 string english = "My teacher often tells me\nI shouldn't favor one class over other\nbut I just can't help myself."
+     1 string japanese = "先生が良く言ってた\n「偏った勉強は避けなさい」って\nでも、好きだから仕方ないよね"
+     1 string mchinese = "老師常說\n讀書最忌諱偏科\n可我還是忍不住在喜歡的科目上多下功夫"
+   [26332]
+    0 TableSoItemLang data
+     0 int id = 1596172619
+     1 string schinese = "小时候满怀理想\n长大后，理想渐渐忘却\n现在，还有机会实现吗？"
+     1 string schinese_censored = "小时候满怀理想\n长大后，理想渐渐忘却\n现在，还有机会实现吗？"
+     1 string english = "I had many dreams in my youth\nbut most now lie forgotten in the past.\nWill I be able to realize them all?"
+     1 string japanese = "子どもの頃は夢を持ってた\nけど大人になるにつれ、忘れてしまう\n今、実現するチャンスはあるのかな？"
+     1 string mchinese = "小時候滿懷理想\n長大後，理想漸漸忘卻\n現在，還有機會實現嗎？"
+   [26333]
+    0 TableSoItemLang data
+     0 int id = 1596172620
+     1 string schinese = "不过人总是这山望着那山高\n我常常在想\n要是我当时好好学{0}就好了"

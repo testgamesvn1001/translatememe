@@ -1,0 +1,184 @@
+     1 string schinese_censored = "不是让你跟我跳舞，是让你帮我们拿衣服啊"
+     1 string english = "I'm not asking you to dance. I'm just asking you to come along to hold our stuff."
+     1 string japanese = "別に踊らなくていいよ。衣装運びを手伝ってほしいの！"
+     1 string mchinese = "不是讓你跟我跳舞，是讓你幫我們拿衣服啊"
+   [9705]
+    0 TableSoItemLang data
+     0 int id = 1019706
+     1 string schinese = "好吧……果然没好事儿……"
+     1 string schinese_censored = "好吧……果然没好事儿……"
+     1 string english = "Okay... I knew it..."
+     1 string japanese = "やっぱり…そう甘くないな…"
+     1 string mchinese = "好吧……果然沒好事兒……"
+   [9706]
+    0 TableSoItemLang data
+     0 int id = 1019707
+     1 string schinese = "不会亏待你的！拿了奖金，请你吃好吃哒~"
+     1 string schinese_censored = "不会亏待你的！拿了奖金，请你吃好吃哒~"
+     1 string english = "I won the prize, all thanks to you. I'll treat you to something good."
+     1 string japanese = "損はさせないよ！賞金取ったらおごるし！"
+     1 string mchinese = "不會虧待你的！拿了獎金，請你吃好吃噠~"
+   [9707]
+    0 TableSoItemLang data
+     0 int id = 1019708
+     1 string schinese = "那一共多少人去呢？"
+     1 string schinese_censored = "那一共多少人去呢？"
+     1 string english = "How many are going?"
+     1 string japanese = "何人で行くの？"
+     1 string mchinese = "那一共多少人去呢？"
+   [9708]
+    0 TableSoItemLang data
+     0 int id = 1019709
+     1 string schinese = "大概十多个人一起……"
+     1 string schinese_censored = "大概十多个人一起……"
+     1 string english = "10 or so..."
+     1 string japanese = "１０人くらいかな…"
+     1 string mchinese = "大概十多個人一起……"
+   [9709]
+    0 TableSoItemLang data
+     0 int id = 1019710
+     1 string schinese = "你好厉害啊，能找到这么多人……。"
+     1 string schinese_censored = "你好厉害啊，能找到这么多人……。"
+     1 string english = "You're amazing. How did you get so many people to go?"
+     1 string japanese = "すごいな、そんなに人を集められるんだ…"
+     1 string mchinese = "你好厲害啊，能找到這麼多人……。"
+   [9710]
+    0 TableSoItemLang data
+     0 int id = 1019711
+     1 string schinese = "额……这样看来，似乎活动被取消了……抱歉啊"
+     1 string schinese_censored = "额……这样看来，似乎活动被取消了……抱歉啊"
+     1 string english = "Oh... It looks like the event might be canceled... Sorry!"
+     1 string japanese = "うーん、イベントがキャンセルされたみたい…ゴメンね。"
+     1 string mchinese = "額……這樣看來，似乎活動被取消了……抱歉啊"
+   [9711]
+    0 TableSoItemLang data
+     0 int id = 1019712
+     1 string schinese = "没关系，和大家一起出来玩，也挺不错的"
+     1 string schinese_censored = "没关系，和大家一起出来玩，也挺不错的"
+     1 string english = "It's okay. Coming out to play with everyone was pretty fun as well."
+     1 string japanese = "気にしないで。みんなと遊べたし。楽しかったよ。"
+     1 string mchinese = "沒關係，和大家一起出來玩，也挺不錯的"
+   [9712]
+    0 TableSoItemLang data
+     0 int id = 1019713
+     1 string schinese = "下次一定补偿你~"
+     1 string schinese_censored = "下次一定补偿你~"
+     1 string english = "I'll pay you back next time."
+     1 string japanese = "次にお返しするね！"
+     1 string mchinese = "下次一定補償你~"
+   [9713]
+    0 TableSoItemLang data
+     0 int id = 1019714
+     1 string schinese = "话说为什么你从不提起你的爸爸啊"
+     1 string schinese_censored = "话说为什么你从不提起你的爸爸啊"
+     1 string english = "By the way, I've never heard you mention your dad."
+     1 string japanese = "ところで、お父さんの話は全然しないね。"
+     1 string mchinese = "話說為什麼你從不提起你的爸爸啊"
+   [9714]
+    0 TableSoItemLang data
+     0 int id = 1019715
+     1 string schinese = "我爸爸早就跑了"
+     1 string schinese_censored = "我爸爸早就离开我们了"
+     1 string english = "My dad already left us."
+     1 string japanese = "もういないわ。"
+     1 string mchinese = "我爸爸早就跑了"
+   [9715]
+    0 TableSoItemLang data
+     0 int id = 1019716
+     1 string schinese = "跑了？"
+     1 string schinese_censored = "离开？"
+     1 string english = "Left?"
+     1 string japanese = "いない？"
+     1 string mchinese = "跑了？"
+   [9716]
+    0 TableSoItemLang data
+     0 int id = 1019717
+     1 string schinese = "是啊，我妈妈天天在外面做生意，我爸爸很少回家，和外面女人好了"
+     1 string schinese_censored = "是啊，现在我妈妈一个人带我"
+     1 string english = "Yeah, my mom was busy working every day. My dad was never home and we found out he was having an affair."
+     1 string japanese = "そうよ。お母さんが仕事ばっかりだから、お父さんも家に帰ってこなかったの。気づいたら浮気してた。"
+     1 string mchinese = "是啊，我媽媽天天在外面做生意，我爸爸很少回家，和外面女人好了"
+   [9717]
+    0 TableSoItemLang data
+     0 int id = 1019718
+     1 string schinese = "抱歉啊……聊起这些"
+     1 string schinese_censored = "抱歉啊……聊起这些"
+     1 string english = "I'm sorry to bring this up."
+     1 string japanese = "ごめん…余計なこと聞いて。"
+     1 string mchinese = "抱歉啊……聊起這些"
+   [9718]
+    0 TableSoItemLang data
+     0 int id = 1019719
+     1 string schinese = "没关系，我觉得人和人的关系就是这样的，不值得信任"
+     1 string schinese_censored = "没关系，我觉得世事无常"
+     1 string english = "It's okay. I feel that's just how people are. Not trustworthy."
+     1 string japanese = "気にしないで。人と人の関係なんてこんなものよ。信じる価値なんてないわ。"
+     1 string mchinese = "沒關係，我覺得人和人的關係就是這樣的，不值得信任"
+   [9719]
+    0 TableSoItemLang data
+     0 int id = 1019720
+     1 string schinese = "只有利益才是永恒的，不是吗？"
+     1 string schinese_censored = "心情才是最重要的"
+     1 string english = "Only profit is eternal, right?"
+     1 string japanese = "利益だけは裏切らない。そうでしょ？"
+     1 string mchinese = "只有利益才是永恆的，不是嗎？"
+   [9720]
+    0 TableSoItemLang data
+     0 int id = 1019721
+     1 string schinese = "可我觉得你和别人在一起玩，很开心啊"
+     1 string schinese_censored = "可我觉得你和别人在一起玩，很开心啊"
+     1 string english = "But you seem to have fun with others."
+     1 string japanese = "でも、みんなで遊んでる時は楽しそうだったよ。"
+     1 string mchinese = "可我覺得你和別人在一起玩，很開心啊"
+   [9721]
+    0 TableSoItemLang data
+     0 int id = 1019722
+     1 string schinese = "也许吧…不开心也要假装开心啊，这样才得体"
+     1 string schinese_censored = "也许吧…不开心也要假装开心啊，这样才得体"
+     1 string english = "Maybe, but I have to pretend I'm having fun even with I'm not. That's only appropriate."
+     1 string japanese = "かもね…嫌でも楽しいフリをしないと。それが妥当でしょ？"
+     1 string mchinese = "也許吧…不開心也要假裝開心啊，這樣才得體"
+   [9722]
+    0 TableSoItemLang data
+     0 int id = 1019723
+     1 string schinese = "得体……比快乐重要吗？"
+     1 string schinese_censored = "得体……比快乐重要吗？"
+     1 string english = "Appropriate...is more important than having fun?"
+     1 string japanese = "妥当って…それは自分の幸せより大切？"
+     1 string mchinese = "得體……比快樂重要嗎？"
+   [9723]
+    0 TableSoItemLang data
+     0 int id = 1019724
+     1 string schinese = "重要！这才是情商的体现……"
+     1 string schinese_censored = "重要！这才是情商的体现……"
+     1 string english = "Of course! That's because you're clever!"
+     1 string japanese = "当然よ！これこそ思いやりの心ね…"
+     1 string mchinese = "重要！這才是情商的體現……"
+   [9724]
+    0 TableSoItemLang data
+     0 int id = 1019725
+     1 string schinese = "好吧…我说服不了你，人还是自然一点好"
+     1 string schinese_censored = "好吧…我说服不了你，人还是自然一点好"
+     1 string english = "Okay... I can't convince you otherwise. I just feel it's better to be yourself."
+     1 string japanese = "平行線だね…人間は自然のままがいいと思うけどな。"
+     1 string mchinese = "好吧…我說服不了你，人還是自然一點好"
+   [9725]
+    0 TableSoItemLang data
+     0 int id = 1019726
+     1 string schinese = "随意吧……我挂了"
+     1 string schinese_censored = "随意吧……我挂了"
+     1 string english = "Whatever. I'm hanging up."
+     1 string japanese = "勝手にして…それじゃ。"
+     1 string mchinese = "隨意吧……我掛了"
+   [9726]
+    0 TableSoItemLang data
+     0 int id = 1019727
+     1 string schinese = "在吗？"
+     1 string schinese_censored = "在吗？"
+     1 string english = "You there?"
+     1 string japanese = "もしもし？"
+     1 string mchinese = "在嗎？"
+   [9727]
+    0 TableSoItemLang data
+     0 int id = 1019728
+     1 string schinese = "在啊……怎么，又需要我帮什么忙吗？"

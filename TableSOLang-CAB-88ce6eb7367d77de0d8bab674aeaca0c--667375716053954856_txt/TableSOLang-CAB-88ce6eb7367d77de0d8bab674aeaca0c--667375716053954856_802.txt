@@ -1,0 +1,184 @@
+     1 string schinese_censored = "怀念，任意一个记忆力脑洞被挖取，都会增加悟性5点（由脆弱等性格导致）"
+     1 string english = "Yearning (caused by a frail personality). Absorbing memory fragments grants an extra 5 Knowledge."
+     1 string japanese = "懐古：記憶力のカケラを吸収すると理解力が5増加する。(脆弱などの性格による影響)"
+     1 string mchinese = "懷念，任意一個記憶力腦洞被挖取，都會增加悟性5點（由脆弱等性格導致）"
+   [18422]
+    0 TableSoItemLang data
+     0 int id = 1028423
+     1 string schinese = "激情，任意一个想象力脑洞被挖取，都会增加悟性5点（由激情四射等性格导致）"
+     1 string schinese_censored = "激情，任意一个想象力脑洞被挖取，都会增加悟性5点（由激情四射等性格导致）"
+     1 string english = "Enthusiastic (caused by a passionate personality). Absorbing imagination fragments grants an extra 5 Knowledge."
+     1 string japanese = "情熱：想像力のカケラを吸収すると理解力が5増加する。(情熱的などの性格による影響)"
+     1 string mchinese = "激情，任意一個想像力腦洞被挖取，都會增加悟性5點（由激情四射等性格導致）"
+   [18423]
+    0 TableSoItemLang data
+     0 int id = 1028424
+     1 string schinese = "冷静，任意一个悟性脑洞被挖取，都会额外增加悟性5点（由冷漠、果断等性格导致）"
+     1 string schinese_censored = "冷静，任意一个悟性脑洞被挖取，都会额外增加悟性5点（由冷漠、果断等性格导致）"
+     1 string english = "Calm (caused by an indifferent or resolute personality). Absorbing knowledge fragments grants an extra 5 Knowledge."
+     1 string japanese = "冷静：理解力のカケラを吸収すると、追加で理解力が5増加する。(冷徹、即断などの性格による影響)"
+     1 string mchinese = "冷靜，任意一個悟性腦洞被挖取，都會額外增加悟性5點（由冷漠、果斷等性格導致）"
+   [18424]
+    0 TableSoItemLang data
+     0 int id = 1028425
+     1 string schinese = "你..出生了"
+     1 string schinese_censored = "你..出生了"
+     1 string english = "You are born!"
+     1 string japanese = "この地に…生を受けた"
+     1 string mchinese = "你..出生了"
+   [18425]
+    0 TableSoItemLang data
+     0 int id = 1028426
+     1 string schinese = "规则"
+     1 string schinese_censored = "规则"
+     1 string english = "Regular"
+     1 string japanese = "ルール"
+     1 string mchinese = "規則"
+   [18426]
+    0 TableSoItemLang data
+     0 int id = 1028427
+     1 string schinese = "1.仅需40元，即可获得一组号码\n\n2.开奖号码包含4个所持号码，则中一等奖获全额奖金，包含3个号码则中二等奖，以此类推\n\n3.下一回合可在此开奖，每回合限购一注"
+     1 string schinese_censored = "1.仅需40元，即可获得一组号码\n\n2.开奖号码包含4个所持号码，则中一等奖获全额奖金，包含3个号码则中二等奖，以此类推\n\n3.下一回合可在此开奖，每回合限购一注"
+     1 string english = "1. One ticket is for only ¥40.\n\n2. There are four winning numbers. Four matching numbers grant you the grand prize, three secondary prize, etc.\n\n3. One ticket per turn. Check the result here next turn."
+     1 string japanese = "１．４０元で１組の番号をもらう\n２．当せん番号が４つ含まれると一等賞で、賞金をすべてゲット。当せん番号が３つ含まれると二等賞。\n３．当選番号は次のターンにここで確認できる。ターン毎の購入回数は１回のみ。"
+     1 string mchinese = "1.僅需40元，即可獲得一組號碼\n\n2.開獎號碼包含4個所持號碼，則中一等獎獲全額獎金，包含3個號碼則中二等獎，以此類推\n\n3.下一回合可在此開獎，每回合限購一注"
+   [18427]
+    0 TableSoItemLang data
+     0 int id = 1028428
+     1 string schinese = "累计奖池"
+     1 string schinese_censored = "累计奖池"
+     1 string english = "Prize Pool"
+     1 string japanese = "キャリー\nオーバー"
+     1 string mchinese = "累計獎池"
+   [18428]
+    0 TableSoItemLang data
+     0 int id = 1028429
+     1 string schinese = "中奖啦！"
+     1 string schinese_censored = "中奖啦！"
+     1 string english = "A win!"
+     1 string japanese = "当せん！"
+     1 string mchinese = "中獎啦！"
+   [18429]
+    0 TableSoItemLang data
+     0 int id = 1028430
+     1 string schinese = "购买成功"
+     1 string schinese_censored = "购买成功"
+     1 string english = "Bought"
+     1 string japanese = "購入した"
+     1 string mchinese = "購買成功"
+   [18430]
+    0 TableSoItemLang data
+     0 int id = 1028431
+     1 string schinese = "出票完成\n祝你好运"
+     1 string schinese_censored = "出票完成\n祝你好运"
+     1 string english = "Here's your lottery ticket.\nGood luck!"
+     1 string japanese = "発券完了\nグッドラック"
+     1 string mchinese = "出票完成\n祝你好運"
+   [18431]
+    0 TableSoItemLang data
+     0 int id = 1028432
+     1 string schinese = "零用钱不足！老板对你超不屑！"
+     1 string schinese_censored = "零用钱不足！老板对你超不屑！"
+     1 string english = "Not enough pocket money!"
+     1 string japanese = "お小遣いが足りない！店主は見向きもしない！"
+     1 string mchinese = "零用錢不足！老闆對你超不屑！"
+   [18432]
+    0 TableSoItemLang data
+     0 int id = 1028433
+     1 string schinese = "获得了新的娱乐："
+     1 string schinese_censored = "获得了新的娱乐："
+     1 string english = "New entertainment acquired: "
+     1 string japanese = "新しい娯楽を獲得："
+     1 string mchinese = "獲得了新的娛樂："
+   [18433]
+    0 TableSoItemLang data
+     0 int id = 1028434
+     1 string schinese = "本回合无法再购买减压道具了！~"
+     1 string schinese_censored = "本回合无法再购买减压道具了！~"
+     1 string english = "You cannot buy any more stress reduction items this turn."
+     1 string japanese = "このターンではもうストレス発散道具は買えないよ！"
+     1 string mchinese = "本回合無法再購買減壓道具了！~"
+   [18434]
+    0 TableSoItemLang data
+     0 int id = 1028435
+     1 string schinese = "这个物品只能买一次哟~"
+     1 string schinese_censored = "这个物品只能买一次哟~"
+     1 string english = "This item can only be bought once."
+     1 string japanese = "この道具は一回しか買えないよ"
+     1 string mchinese = "這個物品只能買一次喲~"
+   [18435]
+    0 TableSoItemLang data
+     0 int id = 1028436
+     1 string schinese = "彩票要{0}块呢！"
+     1 string schinese_censored = "彩票要{0}块呢！"
+     1 string english = "A lottery ticket costs ¥{0}!"
+     1 string japanese = "宝くじは{0}元だよ！"
+     1 string mchinese = "彩票要{0}塊呢！"
+   [18436]
+    0 TableSoItemLang data
+     0 int id = 1028437
+     1 string schinese = "开始游戏"
+     1 string schinese_censored = "开始游戏"
+     1 string english = "Start Game"
+     1 string japanese = "ゲーム開始"
+     1 string mchinese = "開始遊戲"
+   [18437]
+    0 TableSoItemLang data
+     0 int id = 1028438
+     1 string schinese = "继续游戏"
+     1 string schinese_censored = "继续游戏"
+     1 string english = "Continue"
+     1 string japanese = "ゲーム続行"
+     1 string mchinese = "繼續遊戲"
+   [18438]
+    0 TableSoItemLang data
+     0 int id = 1028439
+     1 string schinese = "抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。"
+     1 string schinese_censored = "抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。"
+     1 string english = "Resist bad games and refuse pirated games. Pay attention to self-protection and beware of being deceived. Moderate game time benefits the brain, but long-term gaming is harmful. Organize your game time and enjoy a healthy life."
+     1 string japanese = "悪質なゲームは拒否、海賊版にはノーを。安全意識を高め、不正行為に注意。適度なゲームは脳にいい、ゲーム中毒には注意。適切に時間を配分し、健康的な生活を楽しもう。"
+     1 string mchinese = "抵制不良遊戲，拒絕盜版遊戲。注意自我保護，謹防受騙上當。適度遊戲益腦，沉迷遊戲傷身。合理安排時間，享受健康生活。"
+   [18439]
+    0 TableSoItemLang data
+     0 int id = 1028440
+     1 string schinese = "距离高考还有{0}回合"
+     1 string schinese_censored = "距离高考还有{0}回合"
+     1 string english = "{0} turn(s) remaining until Gaokao."
+     1 string japanese = "大学入試まで{0}ターン"
+     1 string mchinese = "距離高考還有{0}回合"
+   [18440]
+    0 TableSoItemLang data
+     0 int id = 1028441
+     1 string schinese = "社交"
+     1 string schinese_censored = "社交"
+     1 string english = "Friends"
+     1 string japanese = "社交"
+     1 string mchinese = "社交"
+   [18441]
+    0 TableSoItemLang data
+     0 int id = 1028442
+     1 string schinese = "商店"
+     1 string schinese_censored = "商店"
+     1 string english = "Shop"
+     1 string japanese = "売店"
+     1 string mchinese = "商店"
+   [18442]
+    0 TableSoItemLang data
+     0 int id = 1028443
+     1 string schinese = "事务"
+     1 string schinese_censored = "事务"
+     1 string english = "Events"
+     1 string japanese = "取引"
+     1 string mchinese = "事務"
+   [18443]
+    0 TableSoItemLang data
+     0 int id = 1028444
+     1 string schinese = "学习"
+     1 string schinese_censored = "学习"
+     1 string english = "Study"
+     1 string japanese = "学習"
+     1 string mchinese = "學習"
+   [18444]
+    0 TableSoItemLang data
+     0 int id = 1028445
+     1 string schinese = "期望"

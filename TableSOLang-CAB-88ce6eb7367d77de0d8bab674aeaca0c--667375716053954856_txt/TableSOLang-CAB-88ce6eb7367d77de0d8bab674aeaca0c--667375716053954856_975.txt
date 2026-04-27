@@ -1,0 +1,184 @@
+     1 string schinese_censored = "闹钟响了，你准时出门，却因为公交车坏了，没赶上值日"
+     1 string english = "You get up and out of the house in time. But the bus has broken down."
+     1 string japanese = "目覚まし時計が鳴り、予定どおりに家を出ることができたが、バスの故障で日直には間に合わなかった"
+     1 string mchinese = "鬧鐘響了，你準時出門，卻因為公車壞了，沒趕上值日"
+   [22401]
+    0 TableSoItemLang data
+     0 int id = 1113789
+     1 string schinese = "你开心地玩耍着，仿佛压力都消失了"
+     1 string schinese_censored = "你开心地玩耍着，仿佛压力都消失了"
+     1 string english = "You play all day like you've no worries in the world."
+     1 string japanese = "楽しく遊び、ストレスが解消された"
+     1 string mchinese = "你開心地玩耍著，仿佛壓力都消失了"
+   [22402]
+    0 TableSoItemLang data
+     0 int id = 1113790
+     1 string schinese = "与其出一身汗，不如多刷几套题"
+     1 string schinese_censored = "与其出一身汗，不如多刷几套题"
+     1 string english = "Get sweaty? Nah, better cram for the exam!"
+     1 string japanese = "汗をかくより、たくさん問題を解いた方がいい"
+     1 string mchinese = "與其出一身汗，不如多刷幾套題"
+   [22403]
+    0 TableSoItemLang data
+     0 int id = 1113791
+     1 string schinese = "今天舞蹈队跳的是最流行的女团舞，你觉得很好看"
+     1 string schinese_censored = "今天舞蹈队跳的是最流行的女团舞，你觉得很好看"
+     1 string english = "Today's dancers are the most beautiful girls at school. Ah, such pleasure."
+     1 string japanese = "今日ダンスチームが踊っていたのは、最近流行りの女性ユニットのダンスだ。素晴らしい"
+     1 string mchinese = "今天舞蹈隊跳的是最流行的女團舞，你覺得很好看"
+   [22404]
+    0 TableSoItemLang data
+     0 int id = 1113792
+     1 string schinese = "你不喜欢这首歌，只是按歌词唱完了它，竟然获得了三等奖"
+     1 string schinese_censored = "你不喜欢这首歌，只是按歌词唱完了它，竟然获得了三等奖"
+     1 string english = "You don't like the song at all, but earn third place either way."
+     1 string japanese = "歌は好きではなかったが、歌詞のとおりに歌うと、３等賞がもらえた"
+     1 string mchinese = "你不喜歡這首歌，只是按歌詞唱完了它，竟然獲得了三等獎"
+   [22405]
+    0 TableSoItemLang data
+     0 int id = 1113793
+     1 string schinese = "你决定表达自我，无视文艺委员的表情"
+     1 string schinese_censored = "你决定表达自我，无视文艺委员的表情"
+     1 string english = "You decide to do your own thing and just ignore them."
+     1 string japanese = "あなたは実行委員の表情を無視し、自己表現をすることにした"
+     1 string mchinese = "你決定表達自我，無視文藝委員的表情"
+   [22406]
+    0 TableSoItemLang data
+     0 int id = 1113794
+     1 string schinese = "曲风太过前卫，评委们表示听不懂。但你也不太在意，因为你的目标仅仅是登台"
+     1 string schinese_censored = "曲风太过前卫，评委们表示听不懂。但你也不太在意，因为你的目标仅仅是登台"
+     1 string english = "The song is so old your teachers don't even know what it is. But hey, you do you."
+     1 string japanese = "スタイルが前衛的過ぎて、審査員には理解されなかった。しかし、それでも構わない。ステージに上がることが目的だったからだ"
+     1 string mchinese = "曲風太過前衛，評委們表示聽不懂。但你也不太在意，因為你的目標僅僅是登臺"
+   [22407]
+    0 TableSoItemLang data
+     0 int id = 1115914
+     1 string schinese = "你已经上了三个补习班了，父母认为你成绩还是不够好，准备再给你报一个，你决定……"
+     1 string schinese_censored = "你已经上了三个补习班了，父母认为你成绩还是不够好，准备再给你报一个，你决定……"
+     1 string english = "You've taken three after-school classes and your parents still think your grades suck. They want you to take a forth. You decide to..."
+     1 string japanese = "あなたはすでに３コマの補習に通っているが、両親はあなたの成績に満足しておらず、もう１コマに通わせようとしている。あなたは…"
+     1 string mchinese = "你已經上了三個補習班了，父母認為你成績還是不夠好，準備再給你報一個，你決定……"
+   [22408]
+    0 TableSoItemLang data
+     0 int id = 1115915
+     1 string schinese = "去做课间操的路上总有高年级的同学挡着，非要你叫一声学长才放你过去。你决定……"
+     1 string schinese_censored = "去做课间操的路上总有高年级的同学挡着，非要你叫一声学长才放你过去。你决定……"
+     1 string english = "Upperclassmen always block your way in recess and forces you to call them 'Big bro' before they let you pass. You decide to..."
+     1 string japanese = "休み時間に運動場に出ようとすると、高学年の生徒に道を塞がれ、先輩と言えと言う。あなたは…"
+     1 string mchinese = "去做課間操的路上總有高年級的同學擋著，非要你叫一聲學長才放你過去。你決定……"
+   [22409]
+    0 TableSoItemLang data
+     0 int id = 1115916
+     1 string schinese = "好不容易盼来一个周末，同学叫你去看演唱会，但父母希望你帮忙打扫卫生。你决定……"
+     1 string schinese_censored = "好不容易盼来一个周末，同学叫你去看演唱会，但父母希望你帮忙打扫卫生。你决定……"
+     1 string english = "Your classmate wants you to go with them to a concert in the weekend. But your parents want you to help clean up. You decide to..."
+     1 string japanese = "待ち望んだ週末がやってきた。友達にライブに誘われたが、両親は家の掃除を手伝ってほしい。あなたは…"
+     1 string mchinese = "好不容易盼來一個週末，同學叫你去看演唱會，但父母希望你幫忙打掃衛生。你決定……"
+   [22410]
+    0 TableSoItemLang data
+     0 int id = 1115917
+     1 string schinese = "你写好的作业忘了带到学校，老师说“没带就是没写”，你决定……"
+     1 string schinese_censored = "你写好的作业忘了带到学校，老师说“没带就是没写”，你决定……"
+     1 string english = "You forget to bring your homework and you teacher says that counts as not having done it. You decide to..."
+     1 string japanese = "やった宿題を持ってくるのを忘れてしまった。先生は「持ってこないのはやってないのと同じ」と言う。あなたは…"
+     1 string mchinese = "你寫好的作業忘了帶到學校，老師說“沒帶就是沒寫”，你決定……"
+   [22411]
+    0 TableSoItemLang data
+     0 int id = 1115918
+     1 string schinese = "又到了月考的时间。妈妈特地给你准备了丰盛的早餐，你决定吃……"
+     1 string schinese_censored = "又到了月考的时间。妈妈特地给你准备了丰盛的早餐，你决定吃……"
+     1 string english = "Time for exams again so mom prepares a healthy meal for you. You decide to eat..."
+     1 string japanese = "またもや月例テストがやってきた。お母さんはあなたに山盛りの朝食を作ってくれる。あなたが食べたいのは…"
+     1 string mchinese = "又到了月考的時間。媽媽特地給你準備了豐盛的早餐，你決定吃……"
+   [22412]
+    0 TableSoItemLang data
+     0 int id = 1115919
+     1 string schinese = "你上课开小差没听讲被老师抓到了，他点你起来回答问题。你的答案是……"
+     1 string schinese_censored = "你上课开小差没听讲被老师抓到了，他点你起来回答问题。你的答案是……"
+     1 string english = "The teacher notices that you're not listening and asks you to answer a question. You answer is..."
+     1 string japanese = "授業中、気が散っているところを先生に見つかり、当てられてしまった。あなたの答えは…"
+     1 string mchinese = "你上課開小差沒聽講被老師抓到了，他點你起來回答問題。你的答案是……"
+   [22413]
+    0 TableSoItemLang data
+     0 int id = 1115920
+     1 string schinese = "课间休息的时候你在书包里找到一包零食，同桌找你要。你决定……"
+     1 string schinese_censored = "课间休息的时候你在书包里找到一包零食，同桌找你要。你决定……"
+     1 string english = "You find a bag of snacks in your backpack but your desk mate wants it. You decide to..."
+     1 string japanese = "休み時間、カバンの中からお菓子が出てきた。隣の席の友達が、欲しいと言う。あなたは…"
+     1 string mchinese = "課間休息的時候你在書包裏找到一包零食，同桌找你要。你決定……"
+   [22414]
+    0 TableSoItemLang data
+     0 int id = 1115921
+     1 string schinese = "明天你是值日生，要早点去教室打扫卫生。睡觉前你决定个闹钟，时间设定为……"
+     1 string schinese_censored = "明天你是值日生，要早点去教室打扫卫生。睡觉前你决定个闹钟，时间设定为……"
+     1 string english = "You're up for cleaning in school tomorrow and need to go in early. You decide to set your alarm to..."
+     1 string japanese = "明日は日直なので、早く登校して掃除をしなければならない。眠る前に目覚まし時計を設定する。時間は…"
+     1 string mchinese = "明天你是值日生，要早點去教室打掃衛生。睡覺前你決定個鬧鐘，時間設定為……"
+   [22415]
+    0 TableSoItemLang data
+     0 int id = 1115922
+     1 string schinese = "每周三下午，学校允许你们到操场活动40分钟，但很多同学选择留在教室上自习。你决定……"
+     1 string schinese_censored = "每周三下午，学校允许你们到操场活动41分钟，但很多同学选择留在教室上自习。你决定……"
+     1 string english = "Your school lets you do sports for 40 minutes every Wednesday afternoon, but many choose to study instead. You decide to..."
+     1 string japanese = "毎週水曜の午後は運動場を４０分使うことができる。しかし、多くのクラスメートは教室で自習をしている。あなたは…"
+     1 string mchinese = "每週三下午，學校允許你們到操場活動40分鐘，但很多同學選擇留在教室上自習。你決定……"
+   [22416]
+    0 TableSoItemLang data
+     0 int id = 1115923
+     1 string schinese = "你决定在艺术节代表班级参加歌唱比赛，文娱委员拿来参赛歌单，里面全是老掉牙的歌曲，你决定……"
+     1 string schinese_censored = "你决定在艺术节代表班级参加歌唱比赛，文娱委员拿来参赛歌单，里面全是老掉牙的歌曲，你决定……"
+     1 string english = "You decide to represent your class in the singing contest. The song list is full of old corny folk songs. You decide to..."
+     1 string japanese = "文化祭でクラスを代表して歌謡大会に参加することになった。実行委員が持ってきた曲名リストに記載されているのは、古臭い曲ばっかりだ。あなたは…"
+     1 string mchinese = "你決定在藝術節代表班級參加歌唱比賽，文娛委員拿來參賽歌單，裏面全是老掉牙的歌曲，你決定……"
+   [22417]
+    0 TableSoItemLang data
+     0 int id = 88800000
+     1 string schinese = "成长没有难度选项，你也一样。\n\n下面让我们一起健康成长吧！"
+     1 string schinese_censored = "成长没有难度选项，你也一样。\n\n下面我将引导你，如何健康成长！"
+     1 string english = "There's no easy mode in life, as you'll soon learn.\n\nLet's make the most out of our time!"
+     1 string japanese = "あなたと同じで、成長には難易度を設定できない。\n\n健康に育てていこう！"
+     1 string mchinese = "成長沒有難度選項，你也一樣。\n\n下麵讓我們一起健康成長吧！"
+   [22418]
+    0 TableSoItemLang data
+     0 int id = 88800001
+     1 string schinese = "父母给了你一个期望，你需要获得足够的<color=#08A5E0>体魄值</color>来满足父母的期望。"
+     1 string schinese_censored = "父母给了你一个期望，你需要获得足够的<color=#3CD9FA>体魄值</color>来满足父母的期望。"
+     1 string english = "Your parents have an expectation of you. You must acquire enough<color=#08A5E0>Constitution</color> in order to satisfy them."
+     1 string japanese = "両親の期待に応えるには十分な<color=#08A5E0>体力</color>が必要だ。"
+     1 string mchinese = "父母給了你一個期望，你需要獲得足夠的<color=#08A5E0>體魄值</color>來滿足父母的期望。"
+   [22419]
+    0 TableSoItemLang data
+     0 int id = 88810001
+     1 string schinese = "这里是你当前的<color=#08A5E0>体魄属性</color>"
+     1 string schinese_censored = "这里是你当前的<color=#3CD9FA>体魄属性</color>"
+     1 string english = "Here's your current <color=#08A5E0>Constitution</color>."
+     1 string japanese = "現在の<color=#08A5E0>体力</color>はここに表示されている"
+     1 string mchinese = "這裏是你當前的<color=#08A5E0>體魄屬性</color>"
+   [22420]
+    0 TableSoItemLang data
+     0 int id = 88882001
+     1 string schinese = "让我们通过<color=#EB7350>挖脑洞</color>来获得属性吧。"
+     1 string schinese_censored = "让我们通过<color=#EB7351>挖脑洞</color>来获得属性吧。"
+     1 string english = "Let's <color=#EB7350>absorb fragments</color> to increase your stats."
+     1 string japanese = "<color=#EB7350>カケラ</color>を吸収して能力値を上げよう。"
+     1 string mchinese = "讓我們通過<color=#EB7350>挖腦洞</color>來獲得屬性吧。"
+   [22421]
+    0 TableSoItemLang data
+     0 int id = 88800002
+     1 string schinese = "点击关闭期望界面"
+     1 string schinese_censored = "点击关闭期望界面"
+     1 string english = "Close the Expectations menu."
+     1 string japanese = "選択して期待画面を閉じよう"
+     1 string mchinese = "點擊關閉期望介面"
+   [22422]
+    0 TableSoItemLang data
+     0 int id = 88800003
+     1 string schinese = "点击<color=#EB7350>脑洞</color>。"
+     1 string schinese_censored = "点击<color=#EB7351>脑洞</color>。"
+     1 string english = "Absorb a <color=#EB7350>Fragment</color>."
+     1 string japanese = "<color=#EB7350>カケラ</color>を選択しよう。"
+     1 string mchinese = "點擊<color=#EB7350>腦洞</color>。"
+   [22423]
+    0 TableSoItemLang data
+     0 int id = 88800004
+     1 string schinese = "点击并挖取一个<color=#08A5E0>体魄脑洞</color>"

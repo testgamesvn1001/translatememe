@@ -1,0 +1,184 @@
+     1 string schinese_censored = "“有同学问我为什么血型和父母不匹配，我建议问问隔壁的王叔叔！”\n\n【智商】【想象力】属性越高，学习消耗的悟性越少。\n\n最低消耗80点悟性。"
+     1 string english = "So why don't my parents' blood types match my own?\n\nLearning Biology Knowledge costs less Knowledge the more [IQ] and [Imagination] you have.\n\nStat norm: 6,048\nMinimum Knowledge cost: 80"
+     1 string japanese = "同級生に「なぜ両親と血液型が違うんだろう」と聞かれたので、隣の家のおじさんに聞くことを勧めた。\n\n生物入門を学ぶ。【ＩＱ】【想像力】が高いほど消費理解力は少ない。\n\n能力標準値：6048\n最低消費理解力：80"
+     1 string mchinese = "“有同學問我為什麼血型和父母不匹配，這個你們問老師也沒用呀！”\n\n【智商】【想像力】屬性越高，學習消耗的悟性越少。\n\n最低消耗80點悟性。"
+   [68]
+    0 TableSoItemLang data
+     0 int id = 1010069
+     1 string schinese = "细胞壁！细胞核！都很重要啊！知识点啊！\n\n【智商】【想象力】属性越高，学习消耗的悟性越少。\n\n最低消耗90点悟性。"
+     1 string schinese_censored = "细胞壁！细胞核！都很重要啊！知识点啊！\n\n学会初中生物（理），【智慧】【想象力】越高，会适当减少所需消耗的悟性\n\n属性标准值：6048\n至少消耗悟性:90"
+     1 string english = "Cells and nuclei! Memorize them, they're vital!\n\nLearning Junior Biology costs less Knowledge the more [IQ] and [Imagination] you have.\n\nStat norm: 6,048\nMinimum Knowledge cost: 90"
+     1 string japanese = "細胞壁！細胞核！すべて重要だ！覚えよう！\n\n中学生物を学ぶ。【ＩＱ】【想像力】が高いほど消費理解力は少ない。\n\n能力標準値：6048\n最低消費理解力：90"
+     1 string mchinese = "細胞壁！細胞核！都很重要啊！知識點啊！\n\n【智商】【想像力】屬性越高，學習消耗的悟性越少。\n\n最低消耗90點悟性。"
+   [69]
+    0 TableSoItemLang data
+     0 int id = 1010070
+     1 string schinese = "“别以为被苹果砸了就能成牛顿！也可能成为赵四儿！”\n\n【智商】【想象力】属性越高，学习消耗的悟性越少。\n\n最低消耗100点悟性。"
+     1 string schinese_censored = "“别以为被苹果砸了就能成牛顿！也可能成为赵四儿！”\n\n学会初中物理（理），【智慧】【想象力】越高，会适当减少所需消耗的悟性\n\n属性标准值：10280\n至少消耗悟性:100"
+     1 string english = "An apple hit you? Still not Newton!\n\nLearning Junior Physics costs less Knowledge the more [IQ] and [Imagination] you have.\n\nStat norm: 10,280\nMinimum Knowledge cost: 100"
+     1 string japanese = "頭にりんごが落ちたからって、ニュートンになれると思うなよ！\n\n中学物理を学ぶ。【ＩＱ】【想像力】が高いほど消費理解力は少ない。\n\n能力標準値：10280\n最低消費理解力：100"
+     1 string mchinese = "“別以為被蘋果砸了就能成牛頓！也可能成為趙四兒！”\n\n【智商】【想像力】屬性越高，學習消耗的悟性越少。\n\n最低消耗100點悟性。"
+   [70]
+    0 TableSoItemLang data
+     0 int id = 1010071
+     1 string schinese = "“这节课告诉我们，平时不要喝碳酸饮料！”\n\n【智商】【想象力】属性越高，学习消耗的悟性越少。\n\n最低消耗100点悟性。"
+     1 string schinese_censored = "“这节课告诉我们，平时不要喝碳酸饮料！”\n\n学会初中化学（理），【智慧】【想象力】越高，会适当减少所需消耗的悟性\n\n属性标准值：10280\n至少消耗悟性:100"
+     1 string english = "At least we learn not to drink too much soda!\n\nLearning Junior Chemistry costs less Knowledge the more [IQ] and [Imagination] you have.\n\nStat norm: 10,280\nMinimum Knowledge cost: 100"
+     1 string japanese = "炭酸飲料を飲みすぎない方が良いことを学んだ！\n\n中学化学を学ぶ。【ＩＱ】【想像力】が高いほど消費理解力は少ない。\n\n能力標準値：10280\n最低消費理解力：100"
+     1 string mchinese = "“這節課告訴我們，平時不要喝碳酸飲料！”\n\n【智商】【想像力】屬性越高，學習消耗的悟性越少。\n\n最低消耗100點悟性。"
+   [71]
+    0 TableSoItemLang data
+     0 int id = 1010072
+     1 string schinese = "没有新知识，只是为了应付考试！加快解题速度！\n\n【智商】【想象力】属性越高，学习消耗的悟性越少。\n\n最低消耗100点悟性。"
+     1 string schinese_censored = "没有新知识，只是为了加快解题速度！\n\n学会理科综合1级（理），【智慧】【想象力】越高，会适当减少所需消耗的悟性\n\n属性标准值：18504\n至少消耗悟性:100"
+     1 string english = "Nothing new, we're just revising for Gaokao!\n\nLearning Integrated Science 1 costs less Knowledge the more [IQ] and [Imagination] you have.\n\nStat norm: 18,504\nMinimum Knowledge cost: 100"
+     1 string japanese = "新しい知識はもう要らない。試験問題を解く速度を上げろ！\n\n総合理系Iを学ぶ。【ＩＱ】【想像力】が高いほど消費理解力は少ない。\n\n能力標準値：18504\n最低消費理解力：100"
+     1 string mchinese = "沒有新知識，只是為了應付考試！加快解題速度！\n\n【智商】【想像力】屬性越高，學習消耗的悟性越少。\n\n最低消耗100點悟性。"
+   [72]
+    0 TableSoItemLang data
+     0 int id = 1010073
+     1 string schinese = "没有新知识，只是为了应付考试！加快解题速度！\n\n【智商】【想象力】属性越高，学习消耗的悟性越少。\n\n最低消耗100点悟性。"
+     1 string schinese_censored = "没有新知识，只是为了加快解题速度！\n\n学会理科综合2级（理），【智慧】【想象力】越高，会适当减少所需消耗的悟性\n\n属性标准值：18504\n至少消耗悟性:100"
+     1 string english = "Nothing new, we're just revising for Gaokao!\n\nLearning Integrated Science 2 costs less Knowledge the more [IQ] and [Imagination] you have.\n\nStat norm: 18,504\nMinimum Knowledge cost: 100"
+     1 string japanese = "新しい知識はもう要らない。試験問題を解く速度を上げろ！\n\n総合理系IIを学ぶ。【ＩＱ】【想像力】が高いほど消費理解力は少ない。\n\n能力標準値：18504\n最低消費理解力：100"
+     1 string mchinese = "沒有新知識，只是為了應付考試！加快解題速度！\n\n【智商】【想像力】屬性越高，學習消耗的悟性越少。\n\n最低消耗100點悟性。"
+   [73]
+    0 TableSoItemLang data
+     0 int id = 1010074
+     1 string schinese = "没有新知识，只是为了应付考试！加快解题速度！\n\n【智商】【想象力】属性越高，学习消耗的悟性越少。\n\n最低消耗100点悟性。"
+     1 string schinese_censored = "没有新知识，只是为了加快解题速度！\n\n学会理科综合3级（理），【智慧】【想象力】越高，会适当减少所需消耗的悟性\n\n属性标准值：29604\n至少消耗悟性:100"
+     1 string english = "Nothing new, we're just revising for Gaokao!\n\nLearning Integrated Science 3 costs less Knowledge the more [IQ] and [Imagination] you have.\n\nStat norm: 29,604\nMinimum Knowledge cost: 100"
+     1 string japanese = "新しい知識はもう要らない。試験問題を解く速度を上げろ！\n\n総合理系IIIを学ぶ。【ＩＱ】【想像力】が高いほど消費理解力は少ない。\n\n能力標準値：29604\n最低消費理解力：100"
+     1 string mchinese = "沒有新知識，只是為了應付考試！加快解題速度！\n\n【智商】【想像力】屬性越高，學習消耗的悟性越少。\n\n最低消耗100點悟性。"
+   [74]
+    0 TableSoItemLang data
+     0 int id = 1010075
+     1 string schinese = "没有新知识，只是为了应付考试！加快解题速度！\n\n【智商】【想象力】属性越高，学习消耗的悟性越少。\n\n最低消耗100点悟性。"
+     1 string schinese_censored = "没有新知识，只是为了加快解题速度！\n\n学会理科综合4级（理），【智慧】【想象力】越高，会适当减少所需消耗的悟性\n\n属性标准值：29604\n至少消耗悟性:100"
+     1 string english = "Nothing new, we're just revising for Gaokao!\n\nLearning Integrated Science 4 costs less Knowledge the more [IQ] and [Imagination] you have.\n\nStat norm: 29,604\nMinimum Knowledge cost: 100"
+     1 string japanese = "新しい知識はもう要らない。試験問題を解く速度を上げろ！\n\n総合理系IVを学ぶ。【ＩＱ】【想像力】が高いほど消費理解力は少ない。\n\n能力標準値：29604\n最低消費理解力：100"
+     1 string mchinese = "沒有新知識，只是為了應付考試！加快解題速度！\n\n【智商】【想像力】屬性越高，學習消耗的悟性越少。\n\n最低消耗100點悟性。"
+   [75]
+    0 TableSoItemLang data
+     0 int id = 1010076
+     1 string schinese = "没有新知识，只是为了应付考试！加快解题速度！\n\n【智商】【想象力】属性越高，学习消耗的悟性越少。\n\n最低消耗100点悟性。"
+     1 string schinese_censored = "没有新知识，只是为了加快解题速度！\n\n学会理科综合5级（理），【智慧】【想象力】越高，会适当减少所需消耗的悟性\n\n属性标准值：47364\n至少消耗悟性:100"
+     1 string english = "Nothing new, we're just revising for Gaokao!\n\nLearning Integrated Science 5 costs less Knowledge the more [IQ] and [Imagination] you have.\n\nStat norm: 47,364\nMinimum Knowledge cost: 100"
+     1 string japanese = "新しい知識はもう要らない。試験問題を解く速度を上げろ！\n\n総合理系Vを学ぶ。【ＩＱ】【想像力】が高いほど消費理解力は少ない。\n\n能力標準値：47364\n最低消費理解力：100"
+     1 string mchinese = "沒有新知識，只是為了應付考試！加快解題速度！\n\n【智商】【想像力】屬性越高，學習消耗的悟性越少。\n\n最低消耗100點悟性。"
+   [76]
+    0 TableSoItemLang data
+     0 int id = 1010077
+     1 string schinese = "没有新知识，只是为了应付考试！加快解题速度！\n\n【智商】【想象力】属性越高，学习消耗的悟性越少。\n\n最低消耗100点悟性。"
+     1 string schinese_censored = "没有新知识，只是为了加快解题速度！\n\n学会理科综合6级（理），【智慧】【想象力】越高，会适当减少所需消耗的悟性\n\n属性标准值：47364\n至少消耗悟性:100"
+     1 string english = "Nothing new, we're just revising for Gaokao!\n\nLearning Integrated Science 6 costs less Knowledge the more [IQ] and [Imagination] you have.\n\nStat norm: 47,364\nMinimum Knowledge cost: 100"
+     1 string japanese = "新しい知識はもう要らない。試験問題を解く速度を上げろ！\n\n総合理系VIを学ぶ。【ＩＱ】【想像力】が高いほど消費理解力は少ない。\n\n能力標準値：47364\n最低消費理解力：100"
+     1 string mchinese = "沒有新知識，只是為了應付考試！加快解題速度！\n\n【智商】【想像力】屬性越高，學習消耗的悟性越少。\n\n最低消耗100點悟性。"
+   [77]
+    0 TableSoItemLang data
+     0 int id = 1010078
+     1 string schinese = "没有新知识，只是为了应付考试！加快解题速度！\n\n【智商】【想象力】属性越高，学习消耗的悟性越少。\n\n最低消耗100点悟性。"
+     1 string schinese_censored = "没有新知识，只是为了加快解题速度！\n\n学会理科综合7级（理），【智慧】【想象力】越高，会适当减少所需消耗的悟性\n\n属性标准值：75780\n至少消耗悟性:100"
+     1 string english = "Nothing new, we're just revising for Gaokao!\n\nLearning Integrated Science 7 costs less Knowledge the more [IQ] and [Imagination] you have.\n\nStat norm: 75,780\nMinimum Knowledge cost: 100"
+     1 string japanese = "新しい知識はもう要らない。試験問題を解く速度を上げろ！\n\n総合理系VIIを学ぶ。【ＩＱ】【想像力】が高いほど消費理解力は少ない。\n\n能力標準値：75780\n最低消費理解力：100"
+     1 string mchinese = "沒有新知識，只是為了應付考試！加快解題速度！\n\n【智商】【想像力】屬性越高，學習消耗的悟性越少。\n\n最低消耗100點悟性。"
+   [78]
+    0 TableSoItemLang data
+     0 int id = 1010079
+     1 string schinese = "没有新知识，只是为了应付考试！加快解题速度！\n\n【智商】【想象力】属性越高，学习消耗的悟性越少。\n\n最低消耗100点悟性。"
+     1 string schinese_censored = "没有新知识，只是为了加快解题速度！\n\n学会理科综合8级（理），【智慧】【想象力】越高，会适当减少所需消耗的悟性\n\n属性标准值：75780\n至少消耗悟性:100"
+     1 string english = "Nothing new, we're just revising for Gaokao!\n\nLearning Integrated Science 8 costs less Knowledge the more [IQ] and [Imagination] you have.\n\nStat norm: 75,780\nMinimum Knowledge cost: 100"
+     1 string japanese = "新しい知識はもう要らない。試験問題を解く速度を上げろ！\n\n総合理系VIIIを学ぶ。【ＩＱ】【想像力】が高いほど消費理解力は少ない。\n\n能力標準値：75780\n最低消費理解力：100"
+     1 string mchinese = "沒有新知識，只是為了應付考試！加快解題速度！\n\n【智商】【想像力】屬性越高，學習消耗的悟性越少。\n\n最低消耗100點悟性。"
+   [79]
+    0 TableSoItemLang data
+     0 int id = 1010080
+     1 string schinese = "没有新知识，只是为了应付考试！加快解题速度！\n\n【智商】【想象力】属性越高，学习消耗的悟性越少。\n\n最低消耗100点悟性。"
+     1 string schinese_censored = "没有新知识，只是为了加快解题速度！\n\n学会理科综合9级（理），【智慧】【想象力】越高，会适当减少所需消耗的悟性\n\n属性标准值：121248\n至少消耗悟性:100"
+     1 string english = "Nothing new, we're just revising for Gaokao!\n\nLearning Integrated Science 9 costs less Knowledge the more [IQ] and [Imagination] you have.\n\nStat norm: 121,248\nMinimum Knowledge cost: 100"
+     1 string japanese = "新しい知識はもう要らない。試験問題を解く速度を上げろ！\n\n総合理系IXを学ぶ。【ＩＱ】【想像力】が高いほど消費理解力は少ない。\n\n能力標準値：121248\n最低消費理解力：100"
+     1 string mchinese = "沒有新知識，只是為了應付考試！加快解題速度！\n\n【智商】【想像力】屬性越高，學習消耗的悟性越少。\n\n最低消耗100點悟性。"
+   [80]
+    0 TableSoItemLang data
+     0 int id = 1010081
+     1 string schinese = "没有新知识，只是为了应付考试！加快解题速度！\n\n【智商】【想象力】属性越高，学习消耗的悟性越少。\n\n最低消耗100点悟性。"
+     1 string schinese_censored = "没有新知识，只是为了加快解题速度！\n\n学会理科综合10级（理），【智慧】【想象力】越高，会适当减少所需消耗的悟性\n\n属性标准值：121248\n至少消耗悟性:100"
+     1 string english = "Nothing new, we're just revising for Gaokao!\n\nLearning Integrated Science 10 costs less Knowledge the more [IQ] and [Imagination] you have.\n\nStat norm: 121,248\nMinimum Knowledge cost: 100"
+     1 string japanese = "新しい知識はもう要らない。試験問題を解く速度を上げろ！\n\n理系総合Xを学ぶ。【ＩＱ】【想像力】が高いほど消費理解力は少ない。\n\n能力標準値：121248\n最低消費理解力：100"
+     1 string mchinese = "沒有新知識，只是為了應付考試！加快解題速度！\n\n【智商】【想像力】屬性越高，學習消耗的悟性越少。\n\n最低消耗100點悟性。"
+   [81]
+    0 TableSoItemLang data
+     0 int id = 1010082
+     1 string schinese = "“真正健康、高效的运动课程”\n\n【体魄】属性越高，学习消耗的悟性越少。\n\n最低消耗20点悟性。"
+     1 string schinese_censored = "“真正健康、高效的运动课程”\n\n学会体育课，【体魄】越高，会适当减少所需消耗的悟性\n\n属性标准值：900\n至少消耗悟性:20"
+     1 string english = "Healthy and very advanced sports class.\n\nLearning Physical Education Class costs less Knowledge the more [Constitution] you have.\n\nStat norm: 900\nMinimum Knowledge cost: 20"
+     1 string japanese = "規則正しい運動をし、健康的な体になろう！\n\n体育を学ぶ。【体力】が高いほど消費理解力は少ない。\n\n能力標準値：900\n最低消費理解力：20"
+     1 string mchinese = "“真正健康、高效的運動課程”\n\n【體魄】屬性越高，學習消耗的悟性越少。\n\n最低消耗20點悟性。"
+   [82]
+    0 TableSoItemLang data
+     0 int id = 1010083
+     1 string schinese = "“体验爆发力和速度的激情！”\n\n【体魄】属性越高，学习消耗的悟性越少。\n\n最低消耗30点悟性。"
+     1 string schinese_censored = "“体验爆发力和速度的激情！”\n\n学会50米跑，【体魄】越高，会适当减少所需消耗的悟性\n\n属性标准值：1350\n至少消耗悟性:30"
+     1 string english = "Enjoy the thrill of explosiveness and speed.\n\nLearning 50 Meter Dash costs less Knowledge the more [Constitution] you have.\n\nStat norm: 1,350\nMinimum Knowledge cost: 30"
+     1 string japanese = "瞬発力とスピードでスリルを味わおう！\n\n５０ｍ走を学ぶ。【体力】が高いほど消費理解力は少ない。\n\n能力標準値：1350\n最低消費理解力：30"
+     1 string mchinese = "“體驗爆發力和速度的激情！”\n\n【體魄】屬性越高，學習消耗的悟性越少。\n\n最低消耗30點悟性。"
+   [83]
+    0 TableSoItemLang data
+     0 int id = 1010084
+     1 string schinese = "腹肌撕裂者，每天做三遍！\n\n【体魄】属性越高，学习消耗的悟性越少。\n\n最低消耗40点悟性。"
+     1 string schinese_censored = "腹肌撕裂者，每天做三遍！\n\n学会仰卧起坐，【体魄】越高，会适当减少所需消耗的悟性\n\n属性标准值：1890\n至少消耗悟性:40"
+     1 string english = "Rip your abdominal muscles three times a day!\n\nLearning Sit-ups costs less Knowledge the more [Constitution] you have.\n\nStat norm: 1,890\nMinimum Knowledge cost: 40"
+     1 string japanese = "毎日３回で腹筋バキバキ！\n\n上体起こしを学ぶ。【体力】が高いほど消費理解力は少ない。\n\n能力標準値：1890\n最低消費理解力：40"
+     1 string mchinese = "腹肌撕裂者，每天做三遍！\n\n【體魄】屬性越高，學習消耗的悟性越少。\n\n最低消耗40點悟性。"
+   [84]
+    0 TableSoItemLang data
+     0 int id = 1010085
+     1 string schinese = "“投篮投到半夜，看看这座城市凌晨四点钟的样子！”\n\n【体魄】属性越高，学习消耗的悟性越少。\n\n最低消耗50点悟性。"
+     1 string schinese_censored = "“投篮投到半夜，看看这座城市凌晨四点钟的样子！”\n\n学会投篮，【体魄】越高，会适当减少所需消耗的悟性\n\n属性标准值：3024\n至少消耗悟性:50"
+     1 string english = "Let's shoot hoops till the break of dawn!\n\nLearning Basketball Shooting costs less Knowledge the more [Constitution] you have.\n\nStat norm: 3,024\nMinimum Knowledge cost: 50"
+     1 string japanese = "徹夜で練習して日の出を見よう！\n\nシュートを学ぶ。【体力】が高いほど消費理解力は少ない。\n\n能力標準値：3024\n最低消費理解力：50"
+     1 string mchinese = "“投籃投到半夜，看看這座城市淩晨四點鐘的樣子！”\n\n【體魄】屬性越高，學習消耗的悟性越少。\n\n最低消耗50點悟性。"
+   [85]
+    0 TableSoItemLang data
+     0 int id = 1010086
+     1 string schinese = "体能很重要，带上你的心率仪跑起来\n\n【体魄】属性越高，学习消耗的悟性越少。\n\n最低消耗60点悟性。"
+     1 string schinese_censored = "体能很重要，带上你的心率仪跑起来\n\n学会体能训练，【体魄】越高，会适当减少所需消耗的悟性\n\n属性标准值：5140\n至少消耗悟性:60"
+     1 string english = "Put on your cardiotachometer and get running.\n\nLearning Physical Exercise costs less Knowledge the more [Constitution] you have.\n\nStat norm: 5,140\nMinimum Knowledge cost: 60"
+     1 string japanese = "体力はとても大切。心拍数をモニターしながら走ろう！\n\n体力トレーニングを学ぶ。【体力】が高いほど消費理解力は少ない。\n\n能力標準値：5140\n最低消費理解力：60"
+     1 string mchinese = "體能很重要，帶上你的心率儀跑起來\n\n【體魄】屬性越高，學習消耗的悟性越少。\n\n最低消耗60點悟性。"
+   [86]
+    0 TableSoItemLang data
+     0 int id = 1010087
+     1 string schinese = "校队不只是可以打架的地方，还可以练球！\n\n【体魄】属性越高，学习消耗的悟性越少。\n\n最低消耗70点悟性。"
+     1 string schinese_censored = "校队不只是可以打架的地方，还可以练球！\n\n学会校队训练，【体魄】越高，会适当减少所需消耗的悟性\n\n属性标准值：9252\n至少消耗悟性:70"
+     1 string english = "You can both fight and train in the school team!\n\nLearning School Team Training costs less Knowledge the more [Constitution] you have.\n\nStat norm: 9,252\nMinimum Knowledge cost: 70"
+     1 string japanese = "クラブはケンカだけでなく、練習もできるぞ！\n\nクラブ練習を学ぶ。【体力】が高いほど消費理解力は少ない。\n\n能力標準値：9252\n最低消費理解力：70"
+     1 string mchinese = "校隊不只是可以打架的地方，還可以練球！\n\n【體魄】屬性越高，學習消耗的悟性越少。\n\n最低消耗70點悟性。"
+   [87]
+    0 TableSoItemLang data
+     0 int id = 1010088
+     1 string schinese = "为了高中联赛所准备的集训！加油！湘北！\n\n【体魄】【魅力】属性越高，学习消耗的悟性越少。\n\n最低消耗80点悟性。"
+     1 string schinese_censored = "为了高中联赛所准备的集训！加油！湘北！\n\n学会中学篮球集训，【体魄】【魅力】越高，会适当减少所需消耗的悟性\n\n属性标准值：29604\n至少消耗悟性:80"
+     1 string english = "Train for the high school league! Go, go, go!\n\nLearning Basketball Training costs less Knowledge the more [Constitution] and [Charm] and you have.\n\nStat norm: 29,604\nMinimum Knowledge cost: 80"
+     1 string japanese = "インターハイのための合宿だ！頑張れ！Ｓ北！\n\n学生バスケ合宿を学ぶ。【体力】【魅力】が高いほど消費理解力は少ない。\n\n能力標準値：29604\n最低消費理解力：80"
+     1 string mchinese = "為了高中聯賽所準備的集訓！加油！湘北！\n\n【體魄】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低消耗80點悟性。"
+   [88]
+    0 TableSoItemLang data
+     0 int id = 1010089
+     1 string schinese = "“邓啃：未来是你们的！”\n\n【体魄】【魅力】属性越高，学习消耗的悟性越少。\n\n最低消耗90点悟性。"
+     1 string schinese_censored = "“邓啃：未来是你们的！”\n\n学会美式特训，【体魄】【魅力】越高，会适当减少所需消耗的悟性\n\n属性标准值：47364\n至少消耗悟性:90"
+     1 string english = "Dunk for all you're worth and the future is yours!\n\nLearning American-Style Training costs less Knowledge the more [Constitution] and [Charm] you have.\n\nStat norm: 47,364\nMinimum Knowledge cost: 90"
+     1 string japanese = "今すぐ入隊だ！\n\n北米式特訓を学ぶ。【体力】【魅力】が高いほど消費理解力は少ない。\n\n能力標準値：47364\n最低消費理解力：90"
+     1 string mchinese = "“鄧啃：未來是你們的！”\n\n【體魄】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低消耗90點悟性。"
+   [89]
+    0 TableSoItemLang data
+     0 int id = 1010090
+     1 string schinese = "年轻人需要机会！表现好，拿份儿大合同！\n\n【记忆力】【体魄】【魅力】属性越高，学习消耗的悟性越少。\n\n最低消耗100点悟性。"
+     1 string schinese_censored = "年轻人需要机会！表现好，拿份儿大合同！\n\n学会职业篮球，【记忆力】【体魄】【魅力】越高，会适当减少所需消耗的悟性\n\n属性标准值：113670\n至少消耗悟性:100"
+     1 string english = "Youngsters need chances and hard work.\n\nLearning Professional Basketball costs less Knowledge the more [Memory], [Constitution] and [Charm] you have.\n\nStat norm: 113,670\nMinimum Knowledge cost: 100"
+     1 string japanese = "若者よ！チャンスを掴んで良い契約を勝ち取れ！\n\nプロバスケットを学ぶ。【記憶力】【体力】【魅力】が高いほど消費理解力は少ない。\n\n能力標準値：113670\n最低消費理解力：100"
+     1 string mchinese = "年輕人需要機會！表現好，拿份兒大合同！\n\n【記憶力】【體魄】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低消耗100點悟性。"
+   [90]
+    0 TableSoItemLang data
+     0 int id = 1010091
+     1 string schinese = "“教练！我想打篮球！！”\n\n【记忆力】【体魄】【魅力】属性越高，学习消耗的悟性越少。\n\n最低消耗100点悟性。"

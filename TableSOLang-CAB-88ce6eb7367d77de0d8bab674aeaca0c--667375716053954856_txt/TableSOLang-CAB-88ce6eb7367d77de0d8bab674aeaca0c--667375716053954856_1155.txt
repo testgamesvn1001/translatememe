@@ -1,0 +1,184 @@
+     1 string schinese_censored = "点击此处可以选择<color=#EB7350>【羁绊】</color>中的<color=#EB7350>陪伴者</color>，不同的人会对你有不同的属性加成。"
+     1 string english = "Select a <color=#EB7350>companion</color> for a [Bond] activity. Different companions will grant you different stats."
+     1 string japanese = "ここを選択すると<color=#EB7350>【絆】</color>の中から<color=#EB7350>パートナー</color>を選択できる。選ぶ人によって能力に様々なボーナスを得られるぞ。"
+     1 string mchinese = "點擊此處可以選擇<color=#EB7350>【羈絆】</color>中的<color=#EB7350>陪伴者</color>，不同的人會對你有不同的屬性加成。"
+   [26541]
+    0 TableSoItemLang data
+     0 int id = 1596172828
+     1 string schinese = "现在来选择一位一起放学回家吧。"
+     1 string schinese_censored = "现在来选择一位一起放学回家吧。"
+     1 string english = "Let's choose a schoolmate with whom to walk home from school."
+     1 string japanese = "一人選んで、一緒に下校しよう！"
+     1 string mchinese = "現在來選擇一位一起放學回家吧。"
+   [26542]
+    0 TableSoItemLang data
+     0 int id = 1596172829
+     1 string schinese = "只有两人的<color=#EB7350>亲密度</color>达到一定程度后才可以邀请一起行动，不然别人是不会同意的呢~\n\n现在我们选择多年的闺蜜作为放学回家路上的陪伴者吧"
+     1 string schinese_censored = "只有两人的<color=#EB7350>亲密度</color>达到一定程度后才可以邀请一起行动，不然别人是不会同意的呢~\n\n现在我们选择多年的闺蜜作为放学回家路上的陪伴者吧"
+     1 string english = "You need a certain level of <color=#EB7350>Intimacy</color> to invite someone for activities, otherwise they won't accept.\n\nLet's choose our long-time best friend as our companion and walk home from school together."
+     1 string japanese = "<color=#EB7350>親密度</color>が一定値を超えると誘うことができる。低いと当然誘えないよ！\n\n今は仲がいい親友を下校のパートナーにしよう。"
+     1 string mchinese = "只有兩人的<color=#EB7350>親密度</color>達到一定程度後才可以邀請一起行動，不然別人是不會同意的呢~\n\n現在我們選擇多年的閨蜜作為放學回家路上的陪伴者吧"
+   [26543]
+    0 TableSoItemLang data
+     0 int id = 1596172830
+     1 string schinese = "点击<color=#EB7350>【友谊】</color>。"
+     1 string schinese_censored = "点击<color=#EB7350>【友谊】</color>。"
+     1 string english = "DLC不顯示教程，無需翻譯1596172830"
+     1 string japanese = "DLC不顯示教程，無需翻譯"
+     1 string mchinese = "點擊<color=#EB7350>【友誼】</color>。"
+   [26544]
+    0 TableSoItemLang data
+     0 int id = 1596172831
+     1 string schinese = "此处是同学们的个人信息，随着你的各项属性值的提高，会有更多的同学开始关注你哦~"
+     1 string schinese_censored = "此处是同学们的个人信息，随着你的各项属性值的提高，会有更多的同学开始关注你哦~"
+     1 string english = "Here you can see the personal information of your schoolmates. As you increase your stats, more schoolmates will start to notice you."
+     1 string japanese = "同級生の情報がここに表示される。あなたの能力値が変化するにつれ、関心を持ってくれる同級生が多くなるぞ！"
+     1 string mchinese = "此處是同學們的個人資訊，隨著你的各項屬性值的提高，會有更多的同學開始關注你哦~"
+   [26545]
+    0 TableSoItemLang data
+     0 int id = 1596172832
+     1 string schinese = "这里显示的是同学对<color=#EB7350>我的邀约</color>，接受它可以改变与该同学的<color=#EB7350>友好度</color>。根据你感兴趣的同学或者活动，前往赴约吧。\n\n请注意：赴约会消耗一定的行动力，当行动力不够的时候是不能赴约的哟~同时如果一回合内赴约的次数过多的话，会引起父母的警觉，还请注意"
+     1 string schinese_censored = "这里显示的是同学对<color=#EB7350>我的邀约</color>，接受它可以改变与该同学的<color=#EB7350>友好度</color>。根据你感兴趣的同学或者活动，前往赴约吧。\n\n请注意：赴约会消耗一定的行动力，当行动力不够的时候是不能赴约的哟~同时如果一回合内赴约的次数过多的话，会引起父母的警觉，还请注意"
+     1 string english = "DLC不顯示教程，無需翻譯1596172832"
+     1 string japanese = "DLC不顯示教程，無需翻譯"
+     1 string mchinese = "這裏顯示的是同學對<color=#EB7350>我的邀約</color>，接受它可以改變與該同學的<color=#EB7350>友好度</color>。根據你感興趣的同學或者活動，前往赴約吧。\n\n請注意：赴約會消耗一定的行動力，當行動力不夠的時候是不能赴約的喲~同時如果一回合內赴約的次數過多的話，會引起父母的警覺，還請注意"
+   [26546]
+    0 TableSoItemLang data
+     0 int id = 1596172833
+     1 string schinese = "此处是同学们的个人信息，随着你的各项属性值的提高，会有更多的同学开始关注你哦~"
+     1 string schinese_censored = "此处是同学们的个人信息，随着你的各项属性值的提高，会有更多的同学开始关注你哦~"
+     1 string english = "Here you can see the personal information of your schoolmates. As you increase your stats, more schoolmates will start to notice you."
+     1 string japanese = "同級生の情報がここに表示される。あなたの能力値が変化するにつれ、関心を持ってくれる同級生が多くなるぞ！"
+     1 string mchinese = "此處是同學們的個人資訊，隨著你的各項屬性值的提高，會有更多的同學開始關注你哦~"
+   [26547]
+    0 TableSoItemLang data
+     0 int id = 1596172834
+     1 string schinese = "这里可以选择<color=#EB7350>联络</color>同学，选择你感兴趣的同学，联络ta，改变与ta的<color=#EB7350>亲密度</color>吧。"
+     1 string schinese_censored = "这里可以选择<color=#EB7350>联络</color>同学，选择你感兴趣的同学，联络ta，改变与ta的<color=#EB7350>亲密度</color>吧。"
+     1 string english = "Here you can make <color=#EB7350>contact</color> with your schoolmates. Choose and contact the one you are interested in. (This will change your <color=#EB7350>Intimacy</color>.)"
+     1 string japanese = "ここを選択して同級生に<color=#EB7350>連絡</color>しよう。気になる同級生を選んで連絡すると<color=#EB7350>親密度</color>が変化するぞ。"
+     1 string mchinese = "這裏可以選擇<color=#EB7350>聯絡</color>同學，選擇你感興趣的同學，聯絡ta，改變與ta的<color=#EB7350>親密度</color>吧。"
+   [26548]
+    0 TableSoItemLang data
+     0 int id = 1596172835
+     1 string schinese = "这里显示的是同学对<color=#EB7350>我的邀约</color>，接受它可以改变与该同学的<color=#EB7350>友好度</color>。根据你感兴趣的同学或者活动，前往赴约吧。\n\n请注意：赴约会消耗一定的行动力，当行动力不够的时候是不能赴约的哟~同时如果一回合内赴约的次数过多的话，会引起父母的警觉，还请注意"
+     1 string schinese_censored = "这里显示的是同学对<color=#EB7350>我的邀约</color>，接受它可以改变与该同学的<color=#EB7350>友好度</color>。根据你感兴趣的同学或者活动，前往赴约吧。\n\n请注意：赴约会消耗一定的行动力，当行动力不够的时候是不能赴约的哟~同时如果一回合内赴约的次数过多的话，会引起父母的警觉，还请注意"
+     1 string english = "DLC不顯示教程，無需翻譯1596172835"
+     1 string japanese = "DLC不顯示教程，無需翻譯"
+     1 string mchinese = "這裏顯示的是同學對<color=#EB7350>我的邀約</color>，接受它可以改變與該同學的<color=#EB7350>友好度</color>。根據你感興趣的同學或者活動，前往赴約吧。\n\n請注意：赴約會消耗一定的行動力，當行動力不夠的時候是不能赴約的喲~同時如果一回合內赴約的次數過多的話，會引起父母的警覺，還請注意"
+   [26549]
+    0 TableSoItemLang data
+     0 int id = 1596172836
+     1 string schinese = "此处是同学们的个人信息，随着你的各项属性值的提高，会有更多的同学开始关注你哦~"
+     1 string schinese_censored = "此处是同学们的个人信息，随着你的各项属性值的提高，会有更多的同学开始关注你哦~"
+     1 string english = "Here you can see the personal information of your schoolmates. As you increase your stats, more schoolmates will start to notice you."
+     1 string japanese = "同級生の情報がここに表示される。あなたの能力値が変化するにつれ、関心を持ってくれる同級生が多くなるぞ！"
+     1 string mchinese = "此處是同學們的個人資訊，隨著你的各項屬性值的提高，會有更多的同學開始關注你哦~"
+   [26550]
+    0 TableSoItemLang data
+     0 int id = 1596172837
+     1 string schinese = "这里可以选择<color=#EB7350>联络</color>同学，选择你感兴趣的同学，联络ta，改变与ta的<color=#EB7350>亲密度</color>吧。"
+     1 string schinese_censored = "这里可以选择<color=#EB7350>联络</color>同学，选择你感兴趣的同学，联络ta，改变与ta的<color=#EB7350>亲密度</color>吧。"
+     1 string english = "Here you can make <color=#EB7350>contact</color> with your schoolmates. Choose and contact the one you are interested in. (This will change your <color=#EB7350>Intimacy</color>.)"
+     1 string japanese = "ここを選択して同級生に<color=#EB7350>連絡</color>しよう。気になる同級生を選んで連絡すると<color=#EB7350>親密度</color>が変化するぞ。"
+     1 string mchinese = "這裏可以選擇<color=#EB7350>聯絡</color>同學，選擇你感興趣的同學，聯絡ta，改變與ta的<color=#EB7350>親密度</color>吧。"
+   [26551]
+    0 TableSoItemLang data
+     0 int id = 1596172838
+     1 string schinese = "重新开始"
+     1 string schinese_censored = "重新开始"
+     1 string english = "Restart"
+     1 string japanese = "最初から開始"
+     1 string mchinese = "重新開始"
+   [26552]
+    0 TableSoItemLang data
+     0 int id = 1596172839
+     1 string schinese = "详细信息"
+     1 string schinese_censored = "详细信息"
+     1 string english = "DetailedInfo"
+     1 string japanese = "詳細情報"
+     1 string mchinese = "詳細資訊"
+   [26553]
+    0 TableSoItemLang data
+     0 int id = 1596172840
+     1 string schinese = "推荐"
+     1 string schinese_censored = "推荐"
+     1 string english = "Rec."
+     1 string japanese = "推奨"
+     1 string mchinese = "推薦"
+   [26554]
+    0 TableSoItemLang data
+     0 int id = 1596172841
+     1 string schinese = "切换决定"
+     1 string schinese_censored = "切换决定"
+     1 string english = "ChangeDecision"
+     1 string japanese = "決定の切替"
+     1 string mchinese = "切換決定"
+   [26555]
+    0 TableSoItemLang data
+     0 int id = 1596172842
+     1 string schinese = "上下"
+     1 string schinese_censored = "上下"
+     1 string english = "Up/Down"
+     1 string japanese = "上下"
+     1 string mchinese = "上下"
+   [26556]
+    0 TableSoItemLang data
+     0 int id = 1596172843
+     1 string schinese = "左右"
+     1 string schinese_censored = "左右"
+     1 string english = "Left/Right"
+     1 string japanese = "左右"
+     1 string mchinese = "左右"
+   [26557]
+    0 TableSoItemLang data
+     0 int id = 1596172844
+     1 string schinese = "输入"
+     1 string schinese_censored = "输入"
+     1 string english = "Enter"
+     1 string japanese = "入力"
+     1 string mchinese = "輸入"
+   [26558]
+    0 TableSoItemLang data
+     0 int id = 1596172845
+     1 string schinese = "族谱"
+     1 string schinese_censored = "族谱"
+     1 string english = "Family Tree"
+     1 string japanese = "系譜"
+     1 string mchinese = "族譜"
+   [26559]
+    0 TableSoItemLang data
+     0 int id = 1596172846
+     1 string schinese = "是"
+     1 string schinese_censored = "是"
+     1 string english = "Yes"
+     1 string japanese = "はい"
+     1 string mchinese = "是"
+   [26560]
+    0 TableSoItemLang data
+     0 int id = 1596172847
+     1 string schinese = "否"
+     1 string schinese_censored = "否"
+     1 string english = "No"
+     1 string japanese = "いいえ"
+     1 string mchinese = "否"
+   [26561]
+    0 TableSoItemLang data
+     0 int id = 1596172848
+     1 string schinese = "移除/长按筛选"
+     1 string schinese_censored = "移除/长按筛选"
+     1 string english = "Del/HoldFilter"
+     1 string japanese = "削除/長押し整理"
+     1 string mchinese = "移除/長按篩選"
+   [26562]
+    0 TableSoItemLang data
+     0 int id = 1596172849
+     1 string schinese = "睁开双眼"
+     1 string schinese_censored = "睁开双眼"
+     1 string english = "Open Your Eyes"
+     1 string japanese = "目を覚ます"
+     1 string mchinese = "睜開雙眼"
+   [26563]
+    0 TableSoItemLang data
+     0 int id = 1596172850
+     1 string schinese = "下一回合"

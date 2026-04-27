@@ -1,0 +1,184 @@
+     1 string schinese_censored = "完成父母期望1次"
+     1 string english = "Fulfill 1 expectation."
+     1 string japanese = "両親の期待を１回達成する"
+     1 string mchinese = "完成父母期望1次"
+   [23160]
+    0 TableSoItemLang data
+     0 int id = 881048
+     1 string schinese = "完成父母期望5次"
+     1 string schinese_censored = "完成父母期望5次"
+     1 string english = "Fulfill 5 expectations."
+     1 string japanese = "両親の期待を５回達成する"
+     1 string mchinese = "完成父母期望5次"
+   [23161]
+    0 TableSoItemLang data
+     0 int id = 881049
+     1 string schinese = "完成父母期望10次"
+     1 string schinese_censored = "完成父母期望10次"
+     1 string english = "Fulfill 10 expectations."
+     1 string japanese = "両親の期待を１０回達成する"
+     1 string mchinese = "完成父母期望10次"
+   [23162]
+    0 TableSoItemLang data
+     0 int id = 881050
+     1 string schinese = "智商达到1000"
+     1 string schinese_censored = "智商达到1000"
+     1 string english = "Reach an IQ of 1,000."
+     1 string japanese = "ＩＱが1000に到達する"
+     1 string mchinese = "智商達到1000"
+   [23163]
+    0 TableSoItemLang data
+     0 int id = 881051
+     1 string schinese = "智商达到5000"
+     1 string schinese_censored = "智商达到5000"
+     1 string english = "Reach an IQ of 5,000."
+     1 string japanese = "ＩＱが5000に到達する"
+     1 string mchinese = "智商達到5000"
+   [23164]
+    0 TableSoItemLang data
+     0 int id = 881052
+     1 string schinese = "智商达到10000"
+     1 string schinese_censored = "智商达到10000"
+     1 string english = "Reach an IQ of 10,000."
+     1 string japanese = "ＩＱが10000に到達する"
+     1 string mchinese = "智商達到10000"
+   [23165]
+    0 TableSoItemLang data
+     0 int id = 881053
+     1 string schinese = "情商达到1000"
+     1 string schinese_censored = "情商达到1000"
+     1 string english = "Reach an EQ of 1,000"
+     1 string japanese = "ＥＱが1000に到達する"
+     1 string mchinese = "情商達到1000"
+   [23166]
+    0 TableSoItemLang data
+     0 int id = 881054
+     1 string schinese = "情商达到5000"
+     1 string schinese_censored = "情商达到5000"
+     1 string english = "Reach an EQ of 5,000"
+     1 string japanese = "ＥＱが5000に到達する"
+     1 string mchinese = "情商達到5000"
+   [23167]
+    0 TableSoItemLang data
+     0 int id = 881055
+     1 string schinese = "情商达到10000"
+     1 string schinese_censored = "情商达到10000"
+     1 string english = "Reach an EQ of 10,000"
+     1 string japanese = "ＥＱが10000に到達する"
+     1 string mchinese = "情商達到10000"
+   [23168]
+    0 TableSoItemLang data
+     0 int id = 881056
+     1 string schinese = "想象力达到1000"
+     1 string schinese_censored = "想象力达到1000"
+     1 string english = "Reach an Imagination of 1,000."
+     1 string japanese = "想像力が1000に到達する"
+     1 string mchinese = "想像力達到1000"
+   [23169]
+    0 TableSoItemLang data
+     0 int id = 881057
+     1 string schinese = "想象力达到5000"
+     1 string schinese_censored = "想象力达到5000"
+     1 string english = "Reach an Imagination of 5,000."
+     1 string japanese = "想像力が5000に到達する"
+     1 string mchinese = "想像力達到5000"
+   [23170]
+    0 TableSoItemLang data
+     0 int id = 881058
+     1 string schinese = "想象力达到10000"
+     1 string schinese_censored = "想象力达到10000"
+     1 string english = "Reach an Imagination of 10,000."
+     1 string japanese = "想像力が10000に到達する"
+     1 string mchinese = "想像力達到10000"
+   [23171]
+    0 TableSoItemLang data
+     0 int id = 881059
+     1 string schinese = "记忆力达到1000"
+     1 string schinese_censored = "记忆力达到1000"
+     1 string english = "Reach a Memory of 1,000."
+     1 string japanese = "記憶力が1000に到達する"
+     1 string mchinese = "記憶力達到1000"
+   [23172]
+    0 TableSoItemLang data
+     0 int id = 881060
+     1 string schinese = "记忆力达到5000"
+     1 string schinese_censored = "记忆力达到5000"
+     1 string english = "Reach a Memory of 5,000."
+     1 string japanese = "記憶力が5000に到達する"
+     1 string mchinese = "記憶力達到5000"
+   [23173]
+    0 TableSoItemLang data
+     0 int id = 881061
+     1 string schinese = "记忆力达到10000"
+     1 string schinese_censored = "记忆力达到10000"
+     1 string english = "Reach a Memory of 10,000."
+     1 string japanese = "記憶力が10000に到達する"
+     1 string mchinese = "記憶力達到10000"
+   [23174]
+    0 TableSoItemLang data
+     0 int id = 881062
+     1 string schinese = "体魄达到1000"
+     1 string schinese_censored = "体魄达到1000"
+     1 string english = "Reach a Constitution of 1,000."
+     1 string japanese = "体力が1000に到達する"
+     1 string mchinese = "體魄達到1000"
+   [23175]
+    0 TableSoItemLang data
+     0 int id = 881063
+     1 string schinese = "体魄达到5000"
+     1 string schinese_censored = "体魄达到5000"
+     1 string english = "Reach a Constitution of 5,000."
+     1 string japanese = "体力が5000に到達する"
+     1 string mchinese = "體魄達到5000"
+   [23176]
+    0 TableSoItemLang data
+     0 int id = 881064
+     1 string schinese = "体魄达到10000"
+     1 string schinese_censored = "体魄达到10000"
+     1 string english = "Reach a Constitution of 10,000."
+     1 string japanese = "体力が10000に到達する"
+     1 string mchinese = "體魄達到10000"
+   [23177]
+    0 TableSoItemLang data
+     0 int id = 881065
+     1 string schinese = "魅力达到1000"
+     1 string schinese_censored = "魅力达到1000"
+     1 string english = "Reach a charm of 1,000."
+     1 string japanese = "魅力が1000に到達する"
+     1 string mchinese = "魅力達到1000"
+   [23178]
+    0 TableSoItemLang data
+     0 int id = 881066
+     1 string schinese = "魅力达到5000"
+     1 string schinese_censored = "魅力达到5000"
+     1 string english = "Reach a charm of 5,000."
+     1 string japanese = "魅力が5000に到達する"
+     1 string mchinese = "魅力達到5000"
+   [23179]
+    0 TableSoItemLang data
+     0 int id = 881067
+     1 string schinese = "魅力达到10000"
+     1 string schinese_censored = "魅力达到10000"
+     1 string english = "Reach a charm of 10,000."
+     1 string japanese = "魅力が10000に到達する"
+     1 string mchinese = "魅力達到10000"
+   [23180]
+    0 TableSoItemLang data
+     0 int id = 881068
+     1 string schinese = "考上清华大学1次"
+     1 string schinese_censored = "考上清华大学1次"
+     1 string english = "Get accepted into Tsinghua University 1 time."
+     1 string japanese = "清華大学に１回合格する"
+     1 string mchinese = "考上清華大學1次"
+   [23181]
+    0 TableSoItemLang data
+     0 int id = 881069
+     1 string schinese = "考上清华大学2次"
+     1 string schinese_censored = "考上清华大学2次"
+     1 string english = "Get accepted into Tsinghua University 2 times."
+     1 string japanese = "清華大学に２回合格する"
+     1 string mchinese = "考上清華大學2次"
+   [23182]
+    0 TableSoItemLang data
+     0 int id = 881070
+     1 string schinese = "考上清华大学3次"

@@ -1,0 +1,184 @@
+     1 string schinese_censored = "您现在收看的是，椰岛电视台《电竞达人秀》！让我听到你们的尖叫声！"
+     1 string english = "Hello ladies and gentlemen! Let me hear you scream!"
+     1 string japanese = "皆さんこんにちは！声を出していきましょう！"
+     1 string mchinese = "觀眾朋友們你們好嗎！讓我聽到你們的尖叫聲！"
+   [25000]
+    0 TableSoItemLang data
+     0 int id = 1596171287
+     1 string schinese = "震惊！新老电竞达人，汇聚一堂卖力表演！"
+     1 string schinese_censored = "震惊！新老电竞达人，汇聚一堂卖力表演！这是《电竞达人秀》！"
+     1 string english = "Unbelievable! Old and new pro gamers, coming together for a spectacular display of talent!"
+     1 string japanese = "さあ、新旧ｅスポーツプレイヤーが一堂に会しました！"
+     1 string mchinese = "震驚！新老電競達人，彙聚一堂賣力表演！"
+   [25001]
+    0 TableSoItemLang data
+     0 int id = 1596171288
+     1 string schinese = "话不多说，这次达人们会选择什么奇奇怪怪的特长来出战呢？"
+     1 string schinese_censored = "话不多说，这次达人们会选择什么奇奇怪怪的特长来出战呢？"
+     1 string english = "Without further ado, let's find out what traits the talents will show us this time."
+     1 string japanese = "早速始めましょう！今回はどんな特技で挑みますか？"
+     1 string mchinese = "話不多說，這次達人們會選擇什麼奇奇怪怪的特長來出戰呢？"
+   [25002]
+    0 TableSoItemLang data
+     0 int id = 1596171289
+     1 string schinese = "好了，各位参赛选手已经准备就绪了！"
+     1 string schinese_censored = "好了，各位参赛选手已经准备就绪了！"
+     1 string english = "Alright, the contestants are ready!"
+     1 string japanese = "さあ、挑戦者は準備万端です！"
+     1 string mchinese = "好了，各位參賽選手已經準備就緒了！"
+   [25003]
+    0 TableSoItemLang data
+     0 int id = 1596171290
+     1 string schinese = "好了，下面有请"+readxml.readproperty("/starshow.xml",action_manager.InstanceactionManager.current_starshow_id.ToString(), "player1")"
+     1 string schinese_censored = "好了，下面有请"+readxml.readproperty("/starshow.xml",action_manager.InstanceactionManager.current_starshow_id.ToString(), "player1")"
+     1 string english = "OK, let's welcome "+readxml.readproperty("/starshow.xml",action_manager.InstanceActionManager.current_starshow_id.ToString(), "player1")."
+     1 string japanese = "まずは"+readxml.readproperty("/starshow.xml",action_manager.InstanceactionManager.current_starshow_id.ToString(), "player1")"
+     1 string mchinese = "好了，下麵有請"+readxml.readproperty("/starshow.xml",action_manager.InstanceactionManager.current_starshow_id.ToString(), "player1")"
+   [25004]
+    0 TableSoItemLang data
+     0 int id = 1596171291
+     1 string schinese = "接下来的是" + readxml.readproperty("/starshow.xml", action_manager.InstanceactionManager.current_starshow_id.ToString(), "player2"))"
+     1 string schinese_censored = "接下来的是" + readxml.readproperty("/starshow.xml", action_manager.InstanceactionManager.current_starshow_id.ToString(), "player2"))"
+     1 string english = "Next up is " + readxml.readproperty("/starshow.xml", action_manager.InstanceActionManager.current_starshow_id.ToString(), "player2"))."
+     1 string japanese = "続いては" + readxml.readproperty("/starshow.xml", action_manager.InstanceactionManager.current_starshow_id.ToString(), "player2"))"
+     1 string mchinese = "接下來的是" + readxml.readproperty("/starshow.xml", action_manager.InstanceactionManager.current_starshow_id.ToString(), "player2"))"
+   [25005]
+    0 TableSoItemLang data
+     0 int id = 1596171292
+     1 string schinese = "最终，还有我们的+player_data.Player_data_instance.self_name+"带来的"+readxml.readproperty_fromdoc(global_data.InstanceGlobalData.Trick_data,id.ToString(),"name")"
+     1 string schinese_censored = "最终，还有我们的+player_data.Player_data_instance.self_name+"带来的"+readxml.readproperty_fromdoc(global_data.InstanceGlobalData.Trick_data,id.ToString(),"name")"
+     1 string english = "And last but not least +player_data.Player_data_instance.self_name+"presenting"+readxml.readproperty_fromdoc(global_data.InstanceGlobalData.Trick_data,id.ToString(),"name")."
+     1 string japanese = "最後は+player_data.Player_data_instance.self_name+"からの"+readxml.readproperty_fromdoc(global_data.InstanceGlobalData.Trick_data,id.ToString(),"name")"
+     1 string mchinese = "最終，還有我們的+player_data.Player_data_instance.self_name+"帶來的"+readxml.readproperty_fromdoc(global_data.InstanceGlobalData.Trick_data,id.ToString(),"name")"
+   [25006]
+    0 TableSoItemLang data
+     0 int id = 1596171293
+     1 string schinese = "经过了几十位选手的精彩表演！终于来到来我们的大奖环节了！"
+     1 string schinese_censored = "经过了几十位选手的精彩表演！终于来到来我们的大奖环节了！"
+     1 string english = "And now after all these wonderful performances, let's move on to the grand prize ceremony!"
+     1 string japanese = "見事なパフォーマンスを見せてくれた出演者たちに称賛を！続いて各賞の発表です！"
+     1 string mchinese = "經過了幾十位選手的精彩表演！終於來到來我們的大獎環節了！"
+   [25007]
+    0 TableSoItemLang data
+     0 int id = 1596171294
+     1 string schinese = "今年，获得我们最具潜力达人的是……"
+     1 string schinese_censored = "今年，获得我们最具潜力达人的是……"
+     1 string english = "This year, the prize for greatest potential goes to..."
+     1 string japanese = "今年のポテンシャル賞は…"
+     1 string mchinese = "今年，獲得我們最具潛力達人的是……"
+   [25008]
+    0 TableSoItemLang data
+     0 int id = 1596171295
+     1 string schinese = "今年，获得我们年度电竞达人的是……"
+     1 string schinese_censored = "今年，获得我们年度电竞达人的是……"
+     1 string english = "This year, the prize for the annual e-sports talent goes to..."
+     1 string japanese = "今年のｅスポーツ達人賞は…"
+     1 string mchinese = "今年，獲得我們年度電競達人的是……"
+   [25009]
+    0 TableSoItemLang data
+     0 int id = 1596171296
+     1 string schinese = "电竞有达人，达人在现场，由能量饮料品牌【野马】赞助播出的，《电竞达人秀》即将揭晓最终大奖！"
+     1 string schinese_censored = "电竞有达人，达人在现场，由能量饮料品牌【野马】赞助播出的，《电竞达人秀》即将揭晓最终大奖！"
+     1 string english = "[E-sport's Got Talent] and talents are present here! Thank our sponsor, the energy drink brand Red Steed! Tonight we are going to announce the winner of the grand prize."
+     1 string japanese = "ｅスポーツに達人あり、達人に見せ場あり。エナジードリンク『ブルーブル』の提供でお送りする『ｅスポーツ達人ショー』、いよいよ最優秀賞の発表です！"
+     1 string mchinese = "電競有達人，達人在現場，由能量飲料品牌【野馬】贊助播出的，《電競達人秀》即將揭曉最終大獎！"
+   [25010]
+    0 TableSoItemLang data
+     0 int id = 1596171297
+     1 string schinese = "今天晚上重头戏来啦！《电竞达人秀》的最终大奖即将揭晓！"
+     1 string schinese_censored = "今天晚上重头戏来啦！《电竞达人秀》的最终大奖即将揭晓！"
+     1 string english = "The winner of the [E-Sport's Got Talent]'s grand prize is to be announced."
+     1 string japanese = "さあ、今夜のメインイベント！『ｅスポーツ達人ショー』の最優秀賞は誰でしょう！"
+     1 string mchinese = "今天晚上重頭戲來啦！《電競達人秀》的最終大獎即將揭曉！"
+   [25011]
+    0 TableSoItemLang data
+     0 int id = 1596171298
+     1 string schinese = "下面有请《电竞达人秀》发展委员会顾主任来揭晓最终大奖！"
+     1 string schinese_censored = "下面有请《电竞达人秀》发展委员会顾主任来揭晓最终大奖！"
+     1 string english = "Next, we welcome Director Gu from the [E-sport's Got Talent]'s development committee to announce the winner!"
+     1 string japanese = "それでは、『ｅスポーツ達人ショー』審査員グーさんによる最優秀賞の発表です！"
+     1 string mchinese = "下麵有請《電競達人秀》發展委員會顧主任來揭曉最終大獎！"
+   [25012]
+    0 TableSoItemLang data
+     0 int id = 1596171299
+     1 string schinese = "去年的大奖还历历在目，没想到时间这么快，话不多说，揭晓最终大奖！"
+     1 string schinese_censored = "去年的大奖还历历在目，没想到时间这么快，话不多说，揭晓最终大奖！"
+     1 string english = "Time sure flies. I remember the past winners like it was yesterday. With no further ado, let's announce the winner!"
+     1 string japanese = "去年の光景が昨日のことのように思い出されます。さあ、今年の最優秀賞発表です！"
+     1 string mchinese = "去年的大獎還歷歷在目，沒想到時間這麼快，話不多說，揭曉最終大獎！"
+   [25013]
+    0 TableSoItemLang data
+     0 int id = 1596171300
+     1 string schinese = "好了，这次的《电竞达人秀》就到这里，我们下期再见！"
+     1 string schinese_censored = "好了，这次的《电竞达人秀》就到这里，我们下期再见！"
+     1 string english = "Thank you everyone! That will be all for this year's [E-Sport's Got Talent]. We'll see you next year!"
+     1 string japanese = "今年の『ｅスポーツ達人ショー』はここまで。また、お会いしましょう！"
+     1 string mchinese = "好了，這次的《電競達人秀》就到這裏，我們下期再見！"
+   [25014]
+    0 TableSoItemLang data
+     0 int id = 1596171301
+     1 string schinese = "你说我们儿子到时候第一志愿是填衡山中学还是绿冈中学呢？…"
+     1 string schinese_censored = "儿子，你说到时候第一志愿是填衡山中学还是绿冈中学呢？……"
+     1 string english = "Which high school do you think our son should pick as his first application choice? Hengshan or Lugang...?"
+     1 string japanese = "あの子、衡山高校か緑岡高校を志望してくれないかしら。"
+     1 string mchinese = "你說我們兒子到時候第一志願是填衡山中學還是綠岡中學呢？…"
+   [25015]
+    0 TableSoItemLang data
+     0 int id = 1596171302
+     1 string schinese = "别做梦了，按他现在的成绩，有个差不多的高中上就不错了！"
+     1 string schinese_censored = "别做梦了，按他现在的成绩，有个差不多的高中上就不错了！"
+     1 string english = "Stop dreaming, with his current grades he'll be lucky to get into any high school that's above average!"
+     1 string japanese = "バカ言うな。あの成績じゃあ、そこそこの高校に入れれば御の字だ！"
+     1 string mchinese = "別做夢了，按他現在的成績，有個差不多的高中上就不錯了！"
+   [25016]
+    0 TableSoItemLang data
+     0 int id = 1596171303
+     1 string schinese = "那到时候你去找找关系努把力，乔旭要是能进重点高中啊，那可就相当于半只脚踏进名牌大学了！"
+     1 string schinese_censored = "那到时候你去找找关系努把力，乔旭要是能进重点高中啊，那可就相当于半只脚踏进名牌大学了！"
+     1 string english = "You should go pull some strings by then, see if you can get Martin into a key high school. If you did it, he'll be like halfway into a top university!"
+     1 string japanese = "コネで何とかできないかしら。名門校に入れたら、半分は有名大学に入学したのと同じよ！"
+     1 string mchinese = "那到時候你去找找關係努把力，喬旭要是能進重點高中啊，那可就相當於半只腳踏進名牌大學了！"
+   [25017]
+    0 TableSoItemLang data
+     0 int id = 1596171304
+     1 string schinese = "（天天重点学校重点学校的，也不问问我想不想读…咦，右下角的广告弹窗上不是十哥吗？)"
+     1 string schinese_censored = "（天天重点学校重点学校的，也不问问我想不想读……)"
+     1 string english = "(Key high school, key high school...and they've never even asked what I want... Wait, isn't that OpaqueLove in the pop-up ad?)"
+     1 string japanese = "（毎日名門校名門校って、俺の意見も聞かずに…あれ、この右下の広告、シーさん？）"
+     1 string mchinese = "（天天重點學校重點學校的，也不問問我想不想讀…咦，右下角的廣告彈窗上不是十哥嗎？)"
+   [25018]
+    0 TableSoItemLang data
+     0 int id = 1596171305
+     1 string schinese = "“LAST线上赛即将开启！纵情燃烧，不留遗憾！我是JNG丶十哥，等你一起来战！”"
+     1 string schinese_censored = "“LAST在线赛即将开启！让我们为热爱而战！”"
+     1 string english = ""The LAST tournament is about to begin! Let's burn it out with no regrets! I am team JNG's OpaqueLove, waiting for you to come and fight!""
+     1 string japanese = "「ＬＡＳＴオンラインマッチ、間もなく開催！情熱を燃やせ、悔いを残すな！キミの挑戦を待っているぞ！ＪＮＧ・シー」"
+     1 string mchinese = "“LAST線上賽即將開啟！縱情燃燒，不留遺憾！我是JNG丶十哥，等你一起來戰！”"
+   [25019]
+    0 TableSoItemLang data
+     0 int id = 1596171306
+     1 string schinese = "（！！！线上赛！？！快把爸妈支走，点开看看！）"
+     1 string schinese_censored = "（！！！）"
+     1 string english = "(!!! Tournament?! Gotta get mom and dad out of here and see what's going on!)"
+     1 string japanese = "（！！！オンラインマッチ！？さっさと父さん母さんに出ていってもらって、見てみよう！）"
+     1 string mchinese = "（！！！線上賽！？！快把爸媽支走，點開看看！）"
+   [25020]
+    0 TableSoItemLang data
+     0 int id = 1596171307
+     1 string schinese = "你们说的都对！我要赶紧学习了！爸妈你们先出去吧记得把门带上！！"
+     1 string schinese_censored = "你们说的都对！我要赶紧学习了！爸妈你们先出去吧记得把门带上！"
+     1 string english = "I agree with everything you said! Gotta study now! Mom and dad, please close the door as you leave!"
+     1 string japanese = "確かに！今すぐ勉強しなきゃ！早く出てって！カギもかけてね！！"
+     1 string mchinese = "你們說的都對！我要趕緊學習了！爸媽你們先出去吧記得把門帶上！！"
+   [25021]
+    0 TableSoItemLang data
+     0 int id = 1596171308
+     1 string schinese = "好好好，这就对了！好好学习啊！"
+     1 string schinese_censored = "好好好，这就对了！好好学习啊！"
+     1 string english = "Good, good, that's my boy! Study hard!"
+     1 string japanese = "うんうん、わかればいいの！しっかり勉強するのよ！"
+     1 string mchinese = "好好好，這就對了！好好學習啊！"
+   [25022]
+    0 TableSoItemLang data
+     0 int id = 1596171309
+     1 string schinese = "（爸妈离开房间后，立刻开始搜索线上赛信息。）"

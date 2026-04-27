@@ -1,0 +1,184 @@
+     1 string schinese_censored = "...这位女士，您的亲儿子饿了，请及时投喂。"
+     1 string english = "...I'm your son, and I need to be fed!"
+     1 string japanese = "…レディ、貴女の可愛いお子さんがお腹を空かせています。食事を用意してください。"
+     1 string mchinese = "...這位女士，您的親兒子餓了，請及時投喂。"
+   [33004]
+    0 TableSoItemLang data
+     0 int id = 99993709
+     1 string schinese = "我的宝贝是_petNick, 你都不知道陪妈看电视，你看看_petNick,再看看你，养你不如养个猫..."
+     1 string schinese_censored = "我的宝贝是_petNick, 你都不知道陪妈看电视，你看看_petNick,再看看你，养你不如养个猫..."
+     1 string english = "_petNick's my little baby. Look, they're watching TV with me. When's the last time you did that with me? I'm starting to think cats might be better than kids..."
+     1 string japanese = "ウチの子は_petNickよ！_petNickはあなたと違って、一緒にテレビを観てくれるの！あなたより猫のほうがよっぽどいいわ。"
+     1 string mchinese = "我的寶貝是_petNick, 你都不知道陪媽看電視，你看看_petNick,再看看你，養你不如養個貓..."
+   [33005]
+    0 TableSoItemLang data
+     0 int id = 99993710
+     1 string schinese = "（懒懒地躺在妈妈腿上，眼睛优雅地眯成缝看着你...）"
+     1 string schinese_censored = "（懒懒地躺在妈妈腿上，眼睛优雅地眯成缝看着你...）"
+     1 string english = "(Lies lazily upon Mom's lap, looking up at you with half-open, yet still elegant, eyes.)"
+     1 string japanese = "（お母さんの膝の上でくつろぎながら、優雅に目を細めて見つめてくる）"
+     1 string mchinese = "（懶懶地躺在媽媽腿上，眼睛優雅地眯成縫看著你...）"
+   [33006]
+    0 TableSoItemLang data
+     0 int id = 99993711
+     1 string schinese = "妈，你还看啥电视，我和_petNick不就是活生生的宫斗么……"
+     1 string schinese_censored = "妈，你还看啥电视，我和_petNick不就是活生生的宫斗么……"
+     1 string english = "Watching TV...? Mom, don't you see what this is? _petNick is trying to steal my place!"
+     1 string japanese = "お母さん、テレビなんか観る必要ないだろ。俺と_petNickがもう昼ドラみたいな展開になってるじゃん！"
+     1 string mchinese = "媽，你還看啥電視，我和_petNick不就是活生生的宮鬥麼……"
+   [33007]
+    0 TableSoItemLang data
+     0 int id = 99993712
+     1 string schinese = "_petNick！你这个忘恩负义的小……猫！你已经忘了我们的情谊，忘了以前妈妈要丢你出去时是谁誓死保护你了！"
+     1 string schinese_censored = "_petNick！你这个忘恩负义的小……猫！你已经忘了我们的情谊，忘了以前妈妈要丢你出去时是谁誓死保护你了！"
+     1 string english = "_petNick! You ungrateful little... little kitty cat! You spared no time in forgetting our bond of friendship! Who was it who defended you, tooth and nail, when Mom wanted to kick you out? Me!"
+     1 string japanese = "この恩知らずな泥棒猫！俺たちの友情を忘れたのか！お母さんが捨てようとした時、誰が守ったのか忘れたか！？"
+     1 string mchinese = "_petNick！你這個忘恩負義的小……貓！你已經忘了我們的情誼，忘了以前媽媽要丟你出去時是誰誓死保護你了！"
+   [33008]
+    0 TableSoItemLang data
+     0 int id = 99993713
+     1 string schinese = "（憋了你一眼，淡定地舔了舔毛）"
+     1 string schinese_censored = "（憋了你一眼，淡定地舔了舔毛）"
+     1 string english = "(Gives you a look, then calmly licks a paw.)"
+     1 string japanese = "（こちらをちらっと見ただけで、すぐ落ち着いて毛づくろいを始めた）"
+     1 string mchinese = "（憋了你一眼，淡定地舔了舔毛）"
+   [33009]
+    0 TableSoItemLang data
+     0 int id = 99993714
+     1 string schinese = "《如意攻略》太感人了...（看着电视剧一边嗑瓜子，一边用脚趾撸着狗头）"
+     1 string schinese_censored = "《如意攻略》太感人了...（看着电视剧一边嗑瓜子，一边用脚趾撸着狗头）"
+     1 string english = "狗內容"
+     1 string japanese = "狗内容"
+     1 string mchinese = "《如意攻略》太感人了...（看著電視劇一邊嗑瓜子，一邊用腳趾擼著狗頭）"
+   [33010]
+    0 TableSoItemLang data
+     0 int id = 99993715
+     1 string schinese = "妈，我饿了..."
+     1 string schinese_censored = "妈，我饿了..."
+     1 string english = "狗內容"
+     1 string japanese = "狗内容"
+     1 string mchinese = "媽，我餓了..."
+   [33011]
+    0 TableSoItemLang data
+     0 int id = 99993716
+     1 string schinese = "要不是饿了你也想不起我，呵"
+     1 string schinese_censored = "要不是饿了你也想不起我，呵"
+     1 string english = "狗內容"
+     1 string japanese = "狗内容"
+     1 string mchinese = "要不是餓了你也想不起我，呵"
+   [33012]
+    0 TableSoItemLang data
+     0 int id = 99993717
+     1 string schinese = "...这位女士，您的亲儿子饿了，请及时投喂。"
+     1 string schinese_censored = "...这位女士，您的亲儿子饿了，请及时投喂。"
+     1 string english = "狗內容"
+     1 string japanese = "狗内容"
+     1 string mchinese = "...這位女士，您的親兒子餓了，請及時投喂。"
+   [33013]
+    0 TableSoItemLang data
+     0 int id = 99993718
+     1 string schinese = "我的宝贝是_petNick, 你都不知道陪妈看电视，你看看_petNick,再看看你，养你不如养个狗..."
+     1 string schinese_censored = "我的宝贝是_petNick, 你都不知道陪妈看电视，你看看_petNick,再看看你，养你不如养个狗..."
+     1 string english = "狗內容"
+     1 string japanese = "狗内容"
+     1 string mchinese = "我的寶貝是_petNick, 你都不知道陪媽看電視，你看看_petNick,再看看你，養你不如養個狗..."
+   [33014]
+    0 TableSoItemLang data
+     0 int id = 99993719
+     1 string schinese = "（懒懒地躺在妈妈脚边上，呼呼地喘着傻气抬头看你…）"
+     1 string schinese_censored = "（懒懒地躺在妈妈脚边上，呼呼地喘着傻气抬头看你…）"
+     1 string english = "狗內容"
+     1 string japanese = "狗内容"
+     1 string mchinese = "（懶懶地躺在媽媽腳邊上，呼呼地喘著傻氣抬頭看你…）"
+   [33015]
+    0 TableSoItemLang data
+     0 int id = 99993720
+     1 string schinese = "妈，你还看啥电视，我和_petNick不就是活生生的宫斗么……"
+     1 string schinese_censored = "妈，你还看啥电视，我和_petNick不就是活生生的宫斗么……"
+     1 string english = "狗內容"
+     1 string japanese = "狗内容"
+     1 string mchinese = "媽，你還看啥電視，我和_petNick不就是活生生的宮鬥麼……"
+   [33016]
+    0 TableSoItemLang data
+     0 int id = 99993721
+     1 string schinese = "_petNick！你这个忘恩负义的小……狗！你已经忘了我们的情谊，忘了以前妈妈要丢你出去时是谁誓死保护你了！"
+     1 string schinese_censored = "_petNick！你这个忘恩负义的小……狗！你已经忘了我们的情谊，忘了以前妈妈要丢你出去时是谁誓死保护你了！"
+     1 string english = "狗內容"
+     1 string japanese = "狗内容"
+     1 string mchinese = "_petNick！你這個忘恩負義的小……狗！你已經忘了我們的情誼，忘了以前媽媽要丟你出去時是誰誓死保護你了！"
+   [33017]
+    0 TableSoItemLang data
+     0 int id = 99993722
+     1 string schinese = "汪汪！汪！（兴奋地附和，然而根本不知道你在说什么）"
+     1 string schinese_censored = "汪汪！汪！（兴奋地附和，然而根本不知道你在说什么）"
+     1 string english = "狗內容"
+     1 string japanese = "狗内容"
+     1 string mchinese = "汪汪！汪！（興奮地附和，然而根本不知道你在說什麼）"
+   [33018]
+    0 TableSoItemLang data
+     0 int id = 99993723
+     1 string schinese = "哎，_petNick你过来……你鼻子那边的毛怎么了？"
+     1 string schinese_censored = "哎，_petNick你过来……你鼻子那边的毛怎么了？"
+     1 string english = "Hey, _petNick, c'mere... What's up with the fur by your nose...?"
+     1 string japanese = "こっちにおいで_petNick…鼻辺りの毛はどうしたんだ？"
+     1 string mchinese = "哎，_petNick你過來……你鼻子那邊的毛怎麼了？"
+   [33019]
+    0 TableSoItemLang data
+     0 int id = 99993724
+     1 string schinese = "（颤抖）喵...."
+     1 string schinese_censored = "（颤抖）喵...."
+     1 string english = "(Shakes) Meow..."
+     1 string japanese = "（震えながら）にゃー…。"
+     1 string mchinese = "（顫抖）喵...."
+   [33020]
+    0 TableSoItemLang data
+     0 int id = 99993725
+     1 string schinese = "哎哟，这是怎么了？走都走不动啦？昨天还挺有精神的……"
+     1 string schinese_censored = "哎哟，这是怎么了？走都走不动啦？昨天还挺有精神的……"
+     1 string english = "Ah! What's the matter? What's wrong? You... You're struggling even to walk... Just yesterday you seemed full of energy..."
+     1 string japanese = "どうしたんだ？歩く気力もないのか？昨日は元気だったのに…。"
+     1 string mchinese = "哎喲，這是怎麼了？走都走不動啦？昨天還挺有精神的……"
+   [33021]
+    0 TableSoItemLang data
+     0 int id = 99993726
+     1 string schinese = "怎么这么烫？这是在发抖吗？快带它去医院...!"
+     1 string schinese_censored = "怎么这么烫？这是在发抖吗？快带它去医院...!"
+     1 string english = "You've got a temperature, too! Are you trembling? Quick, we should go to the vet's...!"
+     1 string japanese = "あっつ！もしかして震えてる？病院に連れて行かないと！"
+     1 string mchinese = "怎麼這麼燙？這是在發抖嗎？快帶它去醫院...!"
+   [33022]
+    0 TableSoItemLang data
+     0 int id = 99993727
+     1 string schinese = "唉，算算这猫年纪也不小了...身体虚弱就容易生病啊……"
+     1 string schinese_censored = "唉，算算这猫年纪也不小了...身体虚弱就容易生病啊……"
+     1 string english = "Well, they're getting on... Pretty old for a cat. As your body gets weaker, you become susceptible to illness..."
+     1 string japanese = "もう結構年だし、身体が弱いと病気にかかりやすいな…。"
+     1 string mchinese = "唉，算算這貓年紀也不小了...身體虛弱就容易生病啊……"
+   [33023]
+    0 TableSoItemLang data
+     0 int id = 99993728
+     1 string schinese = "爸..._petNick会不会....（哭腔）"
+     1 string schinese_censored = "爸..._petNick会不会....（哭腔）"
+     1 string english = "Dad... Y-you don't think _petNick is going to... (Starts sobbing.)"
+     1 string japanese = "お父さん…まさか_petNickは…（半べそをかきながら）"
+     1 string mchinese = "爸..._petNick會不會....（哭腔）"
+   [33024]
+    0 TableSoItemLang data
+     0 int id = 99993729
+     1 string schinese = "只要是生命都会有结束的一天。"
+     1 string schinese_censored = "只要是生命都会有结束的一天。"
+     1 string english = "All life comes to an end one day, my child."
+     1 string japanese = "命あるものはいずれ死ぬ。"
+     1 string mchinese = "只要是生命都會有結束的一天。"
+   [33025]
+    0 TableSoItemLang data
+     0 int id = 99993730
+     1 string schinese = "_petNick会死，爸爸妈妈有一天也会死。"
+     1 string schinese_censored = "_petNick会死，爸爸妈妈有一天也会死。"
+     1 string english = "_petNick will pass on to the next world, eventually. Just like your mother and I."
+     1 string japanese = "_petNickもそうだし、お父さんお母さんもいつか死ぬ。"
+     1 string mchinese = "_petNick會死，爸爸媽媽有一天也會死。"
+   [33026]
+    0 TableSoItemLang data
+     0 int id = 99993731
+     1 string schinese = "不可能，_petNick不会死的！你们也……"

@@ -1,0 +1,184 @@
+     1 string schinese_censored = ""
+     1 string english = "Confirm"
+     1 string japanese = "確定"
+     1 string mchinese = "確定"
+   [22516]
+    0 TableSoItemLang data
+     0 int id = 88888026
+     1 string schinese = "学费值：\n用于购买传家宝，随着游戏进程，免费获得！"
+     1 string schinese_censored = ""
+     1 string english = "Tuition:\nUse to purchase Family Heirlooms. Acquired free of charge throughout the game!"
+     1 string japanese = "授業料：\n家宝の購入に使用できる。ゲームが進めば無料で獲得！"
+     1 string mchinese = "學費值：\n用於購買傳家寶，隨著遊戲進程，免費獲得！"
+   [22517]
+    0 TableSoItemLang data
+     0 int id = 88888027
+     1 string schinese = "主玩法入口，点击体验中国式成长！"
+     1 string schinese_censored = ""
+     1 string english = "Main Story. Experience growth the Chinese way!"
+     1 string japanese = "メインモード。中国式教育を体験しよう！"
+     1 string mchinese = "主玩法入口，點擊體驗中國式成長！"
+   [22518]
+    0 TableSoItemLang data
+     0 int id = 88888028
+     1 string schinese = "DLC入口，点击体验别样的人生！"
+     1 string schinese_censored = ""
+     1 string english = "DLCs. Go through various lives!"
+     1 string japanese = "ＤＬＣ。一味違った人生を体験しよう！"
+     1 string mchinese = "DLC入口，點擊體驗別樣的人生！"
+   [22519]
+    0 TableSoItemLang data
+     0 int id = 88888029
+     1 string schinese = "返回标题画面"
+     1 string schinese_censored = ""
+     1 string english = "Title"
+     1 string japanese = "タイトル画面"
+     1 string mchinese = "返回標題畫面"
+   [22520]
+    0 TableSoItemLang data
+     0 int id = 88888030
+     1 string schinese = "网络不佳，请检查网络连接"
+     1 string schinese_censored = ""
+     1 string english = "Network connection unstable. Please check your connection."
+     1 string japanese = "ネットワークが不安定です。ネットワーク接続を確認してください。"
+     1 string mchinese = "網路不佳，請檢查網路連接"
+   [22521]
+    0 TableSoItemLang data
+     0 int id = 88888031
+     1 string schinese = "和老同学结婚了"
+     1 string schinese_censored = ""
+     1 string english = "Got married to an old classmate."
+     1 string japanese = "クラスメートと結婚した"
+     1 string mchinese = "和老同學結婚了"
+   [22522]
+    0 TableSoItemLang data
+     0 int id = 88888032
+     1 string schinese = ""
+     1 string schinese_censored = ""
+     1 string english = "/88888032"
+     1 string japanese = "/"
+     1 string mchinese = ""
+   [22523]
+    0 TableSoItemLang data
+     0 int id = 88888033
+     1 string schinese = ""
+     1 string schinese_censored = ""
+     1 string english = "/88888033"
+     1 string japanese = "/"
+     1 string mchinese = ""
+   [22524]
+    0 TableSoItemLang data
+     0 int id = 88888034
+     1 string schinese = ""
+     1 string schinese_censored = ""
+     1 string english = "/88888034"
+     1 string japanese = "/"
+     1 string mchinese = ""
+   [22525]
+    0 TableSoItemLang data
+     0 int id = 88888035
+     1 string schinese = ""
+     1 string schinese_censored = ""
+     1 string english = "/88888035"
+     1 string japanese = "/"
+     1 string mchinese = ""
+   [22526]
+    0 TableSoItemLang data
+     0 int id = 88888036
+     1 string schinese = "故事介绍"
+     1 string schinese_censored = ""
+     1 string english = "Synopsis"
+     1 string japanese = "ストーリー紹介"
+     1 string mchinese = "故事介紹"
+   [22527]
+    0 TableSoItemLang data
+     0 int id = 88888037
+     1 string schinese = "面子挑战"
+     1 string schinese_censored = ""
+     1 string english = "Face Challenge"
+     1 string japanese = "メンツ挑戦"
+     1 string mchinese = "面子挑戰"
+   [22528]
+    0 TableSoItemLang data
+     0 int id = 88888038
+     1 string schinese = "面子挑战获胜{0}次"
+     1 string schinese_censored = ""
+     1 string english = "{0} Face Challenge(s) won."
+     1 string japanese = "メンツ挑戦で{0}回勝利"
+     1 string mchinese = "面子挑戰獲勝{0}次"
+   [22529]
+    0 TableSoItemLang data
+     0 int id = 88888039
+     1 string schinese = "转换旧版本存档成功"
+     1 string schinese_censored = ""
+     1 string english = "Old saves converted."
+     1 string japanese = "旧バージョンデータ変換成功"
+     1 string mchinese = "轉換舊版本存檔成功"
+   [22530]
+    0 TableSoItemLang data
+     0 int id = 88888040
+     1 string schinese = "转换旧版本存档失败, 请确认你的旧存档文件是否正确"
+     1 string schinese_censored = ""
+     1 string english = "Failed to convert old saves. Please check your save files."
+     1 string japanese = "旧バージョンデータ変換失敗。旧データファイルが正常か確認してください"
+     1 string mchinese = "轉換舊版本存檔失敗, 請確認你的舊存檔檔是否正確"
+   [22531]
+    0 TableSoItemLang data
+     0 int id = 88888041
+     1 string schinese = "挑战成功"
+     1 string schinese_censored = ""
+     1 string english = "Challenge succeeded."
+     1 string japanese = "挑戦成功"
+     1 string mchinese = "挑戰成功"
+   [22532]
+    0 TableSoItemLang data
+     0 int id = 88888042
+     1 string schinese = "看到请联系策划"
+     1 string schinese_censored = ""
+     1 string english = "/88888042"
+     1 string japanese = "/"
+     1 string mchinese = "看到請聯繫策劃"
+   [22533]
+    0 TableSoItemLang data
+     0 int id = 88888043
+     1 string schinese = "看到请联系策划"
+     1 string schinese_censored = ""
+     1 string english = "/88888043"
+     1 string japanese = "/"
+     1 string mchinese = "看到請聯繫策劃"
+   [22534]
+    0 TableSoItemLang data
+     0 int id = 88888044
+     1 string schinese = "看到请联系策划"
+     1 string schinese_censored = ""
+     1 string english = "/88888044"
+     1 string japanese = "/"
+     1 string mchinese = "看到請聯繫策劃"
+   [22535]
+    0 TableSoItemLang data
+     0 int id = 88888045
+     1 string schinese = "看到请联系策划"
+     1 string schinese_censored = ""
+     1 string english = "/88888045"
+     1 string japanese = "/"
+     1 string mchinese = "看到請聯繫策劃"
+   [22536]
+    0 TableSoItemLang data
+     0 int id = 88888046
+     1 string schinese = "看到请联系策划"
+     1 string schinese_censored = ""
+     1 string english = "/88888046"
+     1 string japanese = "/"
+     1 string mchinese = "看到請聯繫策劃"
+   [22537]
+    0 TableSoItemLang data
+     0 int id = 88888047
+     1 string schinese = "看到请联系策划"
+     1 string schinese_censored = ""
+     1 string english = "/88888047"
+     1 string japanese = "/"
+     1 string mchinese = "看到請聯繫策劃"
+   [22538]
+    0 TableSoItemLang data
+     0 int id = 88888048
+     1 string schinese = "看到请联系策划"

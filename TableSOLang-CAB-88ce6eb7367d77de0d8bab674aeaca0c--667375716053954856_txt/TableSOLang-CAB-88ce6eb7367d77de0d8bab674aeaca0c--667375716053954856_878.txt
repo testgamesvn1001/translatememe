@@ -1,0 +1,184 @@
+     1 string schinese_censored = "嗯，现在我终于知道了，以后吃饭的时候一定要带着感激之情，不会再浪费了……"
+     1 string english = "Yes, I think I understand now. From now on, I will pay utmost attention to the food I eat so that these feelings are not lost in the process..."
+     1 string japanese = "はい、やっと理解できました。これからは料理に感謝して、残さないようにします…"
+     1 string mchinese = "嗯，現在我終於知道了，以後吃飯的時候一定要帶著感激之情，不會再浪費了……"
+   [20170]
+    0 TableSoItemLang data
+     0 int id = 1030171
+     1 string schinese = "不过等做完菜，吃的时候一定会更好吃的！你会想到自己的付出，每一口都是独特的味道呢~"
+     1 string schinese_censored = "不过等做完菜，吃的时候一定会更好吃的！你会想到自己的付出，每一口都是独特的味道呢~"
+     1 string english = "Just wait until it's done, it's bound to taste wonderful. You'll think back to when you created it and each bite will bring with it a unique flavor."
+     1 string japanese = "手間をかけた料理は確実に美味しくなる！一口ごとに手間を思い出して味わおう！"
+     1 string mchinese = "不過等做完菜，吃的時候一定會更好吃的！你會想到自己的付出，每一口都是獨特的味道呢~"
+   [20171]
+    0 TableSoItemLang data
+     0 int id = 1030172
+     1 string schinese = "等一会儿吃完了，帮我试吃一下我最近的新品吧~"
+     1 string schinese_censored = "等一会儿吃完了，帮我试吃一下我最近的新品吧~"
+     1 string english = "Once we've finished the dish we just created, you must help me taste my latest creation."
+     1 string japanese = "食べ終わったら、最新メニューの試食はどうかな？"
+     1 string mchinese = "等一會兒吃完了，幫我試吃一下我最近的新品吧~"
+   [20172]
+    0 TableSoItemLang data
+     0 int id = 1030173
+     1 string schinese = "噢~又有新菜了嘛？"
+     1 string schinese_censored = "噢~又有新菜了嘛？"
+     1 string english = "Oh? You've thought of another one?"
+     1 string japanese = "ふーん、また新メニューですか？"
+     1 string mchinese = "噢~又有新菜了嘛？"
+   [20173]
+    0 TableSoItemLang data
+     0 int id = 1030174
+     1 string schinese = "不是新菜，最近想着扩宽一下业务面，准备开始卖一些甜点。"
+     1 string schinese_censored = "不是新菜，最近想着扩宽一下业务面，准备开始卖一些甜点。"
+     1 string english = "It's actually not a dish per se. I've been meaning to expand our business and I am preparing to sell desserts as well."
+     1 string japanese = "ああ、最近は商売の幅を広げようと思って、スイーツを始めたんだ。"
+     1 string mchinese = "不是新菜，最近想著擴寬一下業務面，準備開始賣一些甜點。"
+   [20174]
+    0 TableSoItemLang data
+     0 int id = 1030175
+     1 string schinese = "甜品！我来试！我来试！我就是糖，甜到忧伤！不过，你准备卖些什么甜品呀？蛋糕？"
+     1 string schinese_censored = "甜品！我来试！我来试！我就是糖，甜到忧伤！不过，你准备卖些什么甜品呀？蛋糕？"
+     1 string english = "Desserts!? Give me some! I'll try it for you for sure! I have a serious sweet tooth! What kind of desserts are you planning on selling? Cakes?"
+     1 string japanese = "スイーツ！是非お願いします！実は甘党で、甘いものに目がないんですよ！ところで、どんなスイーツですか？ケーキ？"
+     1 string mchinese = "甜品！我來試！我來試！我就是糖，甜到憂傷！不過，你準備賣些什麼甜品呀？蛋糕？"
+   [20175]
+    0 TableSoItemLang data
+     0 int id = 1030176
+     1 string schinese = "刚开始我想先试营业一下，作为就餐的礼品送一些烘制的曲奇送给顾客，如果反响好就会上蛋糕之类的。"
+     1 string schinese_censored = "刚开始我想先试营业一下，作为就餐的礼品送一些烘制的曲奇送给顾客，如果反响好就会上蛋糕之类的。"
+     1 string english = "In the beginning I'm simply going to try it out and see how it goes. I'm going to start with adding complementary cookies to meals, and if it all goes well I'll start with cakes, too."
+     1 string japanese = "最初は試験的に作るんだ。食事のお土産としてクッキーでも渡そうかな。反響が良ければケーキも作るよ。"
+     1 string mchinese = "剛開始我想先試營業一下，作為就餐的禮品送一些烘制的曲奇送給顧客，如果反響好就會上蛋糕之類的。"
+   [20176]
+    0 TableSoItemLang data
+     0 int id = 1030177
+     1 string schinese = "就交给我吧！我可是甜品美食家！"
+     1 string schinese_censored = "就交给我吧！我可是甜品美食家！"
+     1 string english = "Alright, bring it on! I'm a true dessert gourmet!"
+     1 string japanese = "任せてください！スイーツも詳しいですから！"
+     1 string mchinese = "就交給我吧！我可是甜品美食家！"
+   [20177]
+    0 TableSoItemLang data
+     0 int id = 1030178
+     1 string schinese = "怎么会这样呢？曲奇里有致癌物?完全不是这样的情况嘛！"
+     1 string schinese_censored = "怎么会这样呢？曲奇里有致癌物?完全不是这样的情况嘛！"
+     1 string english = "What? Are there carcinogens in the cookies? That can't be true, right?"
+     1 string japanese = "一体なぜ？クッキーに発がん性物質が含まれてる？完全なデマです！"
+     1 string mchinese = "怎麼會這樣呢？曲奇裏有致癌物?完全不是這樣的情況嘛！"
+   [20178]
+    0 TableSoItemLang data
+     0 int id = 1030179
+     1 string schinese = "……嗯……"
+     1 string schinese_censored = "……嗯……"
+     1 string english = "Uhm..."
+     1 string japanese = "…クソ…"
+     1 string mchinese = "……嗯……"
+   [20179]
+    0 TableSoItemLang data
+     0 int id = 1030180
+     1 string schinese = "现在餐厅都没有人来了，都是这些无良媒体，报道新闻完全不客观，就知道吸引眼球！谈毒性不谈剂量就是耍流氓！"
+     1 string schinese_censored = "现在餐厅都没有人来了，都是这些无良媒体，报导新闻完全不客观，就知道吸引眼球！谈毒性不谈剂量就是耍流氓！"
+     1 string english = "The establishment is rather empty. It's all due to the media reporting news any which way they want to. All they care about is making headlines! They're talking about the toxicity but completely disregard the dose!"
+     1 string japanese = "お客が誰もいない…このメディアは無責任で報道にも客観性がありません！注目を集めたいだけです！発がん性は摂取量が重要なのに、どこにも書いてない！"
+     1 string mchinese = "現在餐廳都沒有人來了，都是這些無良媒體，報導新聞完全不客觀，就知道吸引眼球！談毒性不談劑量就是耍流氓！"
+   [20180]
+    0 TableSoItemLang data
+     0 int id = 1030181
+     1 string schinese = "……可是，大众也不是这方面的专家，他们也不懂……而且食品安全确实是每个人都关系的事情……"
+     1 string schinese_censored = "……可是，大众也不是这方面的专家，他们也不懂……而且食品安全确实是每个人都关系的事情……"
+     1 string english = "...Yes, but the general public aren't experts in the area, so they won't realize that... Besides, food safety is something that everyone cares about..."
+     1 string japanese = "…けど、お客は専門家じゃないから理解できないんだ…そして、食品の安全性は誰もが気にしてるからね…"
+     1 string mchinese = "……可是，大眾也不是這方面的專家，他們也不懂……而且食品安全確實是每個人都關係的事情……"
+   [20181]
+    0 TableSoItemLang data
+     0 int id = 1030182
+     1 string schinese = "不过好奇怪呀，明明没有添加这些物质，为什么还会检测出致癌物呢？"
+     1 string schinese_censored = "不过好奇怪呀，明明没有添加这些物质，为什么还会检测出致癌物呢？"
+     1 string english = "But it sure is a bit odd. I've never added anything of the sort, so why would it come up in their investigation?"
+     1 string japanese = "不思議なのは、なぜ添加していないのに、発がん性物質が検出されたんでしょう？"
+     1 string mchinese = "不過好奇怪呀，明明沒有添加這些物質，為什麼還會檢測出致癌物呢？"
+   [20182]
+    0 TableSoItemLang data
+     0 int id = 1030183
+     1 string schinese = "其实按理说，任何通过高温烘培或者煎炸的食物都会有同样的物质，只是量很少，只要不是每顿都吃很多是完全符合国标的……"
+     1 string schinese_censored = "其实按理说，任何通过高温烘培或者煎炸的食物都会有同样的物质，只是量很少，只要不是每顿都吃很多是完全符合国标的……"
+     1 string english = "To be frank, anything that has been baked with high temperatures or fried will contain it, but in extremely small amounts. @@And as long as you don't gorge on such food for every meal, it's well within the national standards..."
+     1 string japanese = "実は高温で焼いた物には絶対含まれるんだ。微量だけどね。一度に大量に食べない限りは完全に国家基準内なのに…"
+     1 string mchinese = "其實按理說，任何通過高溫烘培或者煎炸的食物都會有同樣的物質，只是量很少，只要不是每頓都吃很多是完全符合國標的……"
+   [20183]
+    0 TableSoItemLang data
+     0 int id = 1030184
+     1 string schinese = "嗯……我觉得我们不能就这么消沉下去了！首先取回顾客的信任是最重要的！"
+     1 string schinese_censored = "嗯……我觉得我们不能就这么消沉下去了！首先取回顾客的信任是最重要的！"
+     1 string english = "Yes... I think that we can't just give up like this! First we have to reestablish our trust with the clients."
+     1 string japanese = "うーん…落ち込んでても仕方ありません！まずはお客様の信頼を取り戻しましょう！"
+     1 string mchinese = "嗯……我覺得我們不能就這麼消沉下去了！首先取回顧客的信任是最重要的！"
+   [20184]
+    0 TableSoItemLang data
+     0 int id = 1030185
+     1 string schinese = "可是……我也不知道该怎么做了……你有什么好想法么？"
+     1 string schinese_censored = "可是……我也不知道该怎么做了……你有什么好想法么？"
+     1 string english = "But... I don't know what to do... Do you have any ideas?"
+     1 string japanese = "でも…どうすれば…何かいい考えは？"
+     1 string mchinese = "可是……我也不知道該怎麼做了……你有什麼好想法麼？"
+   [20185]
+    0 TableSoItemLang data
+     0 int id = 1030186
+     1 string schinese = "之所以顾客失去信任是因为信息不对称，只有不了解才会恐惧。最近有好多餐厅不是在搞什么透明厨房么？"
+     1 string schinese_censored = "之所以顾客失去信任是因为信息不对称，只有不了解才会恐惧。最近有好多餐厅不是在搞什么透明厨房么？"
+     1 string english = "The reason why we've lost their trust is because the information was wrongly displayed, and those that do not understand the truth are right to be afraid. @@Haven't many restaurants begun working with a transparent kitchen as of late?"
+     1 string japanese = "お客様の信頼を失ったのは、情報が偏ってたからです。知らない事は恐怖につながります。最近はオープンキッチンの店が多いですよね？"
+     1 string mchinese = "之所以顧客失去信任是因為資訊不對稱，只有不了解才會恐懼。最近有好多餐廳不是在搞什麼透明廚房麼？"
+   [20186]
+    0 TableSoItemLang data
+     0 int id = 1030187
+     1 string schinese = "我们也可以试一下，同时公开一下使用的食材的来源和新鲜度，让顾客了解每一个流程的安全。让他们知道我们一直都关注着食品安全问题！"
+     1 string schinese_censored = "我们也可以试一下，同时公开一下使用的食材的来源和新鲜度，让顾客了解每一个流程的安全。让他们知道我们一直都关注着食品安全问题！"
+     1 string english = "We could always give that a try. While doing that, we can also share where we get our ingredients from and their freshness. @@That way the clients will know that our dishes are safe. They'll also realize that we put importance on food safety!"
+     1 string japanese = "使用する食材も産地や鮮度を公開します。お客様に流通経路を含めた安全性を知ってもらいましょう。食の安全に気をつけてる事をアピールするんです！"
+     1 string mchinese = "我們也可以試一下，同時公開一下使用的食材的來源和新鮮度，讓顧客瞭解每一個流程的安全。讓他們知道我們一直都關注著食品安全問題！"
+   [20187]
+    0 TableSoItemLang data
+     0 int id = 1030188
+     1 string schinese = "……好主意，不过这行得通么？"
+     1 string schinese_censored = "……好主意，不过这行得通么？"
+     1 string english = "Good idea, but will it work?"
+     1 string japanese = "…いいアイデアだね。問題ないかな？"
+     1 string mchinese = "……好主意，不過這行得通麼？"
+   [20188]
+    0 TableSoItemLang data
+     0 int id = 1030189
+     1 string schinese = "管他呢，都目前这样了，只能死马当活马医了。难道你想回去继承百亿家产吗？"
+     1 string schinese_censored = "管他呢，都目前这样了，只能死马当活马医了。难道你想回去继承百亿家产吗？"
+     1 string english = "Who knows? But what do we have to lose? Or do you perhaps want to inherit that family fortune after all?"
+     1 string japanese = "とにかく今の状況だと、やるしかないです。ただ待ってても死ぬだけですから。それとも家業の跡を継ぎますか？"
+     1 string mchinese = "管他呢，都目前這樣了，只能死馬當活馬醫了。難道你想回去繼承百億家產嗎？"
+   [20189]
+    0 TableSoItemLang data
+     0 int id = 1030190
+     1 string schinese = "也对，好，就听你的，我先试试。"
+     1 string schinese_censored = "也对，好，就听你的，我先试试。"
+     1 string english = "True that. All right, let's give it a try."
+     1 string japanese = "ハハ、そうだね！やってみよう！"
+     1 string mchinese = "也對，好，就聽你的，我先試試。"
+   [20190]
+    0 TableSoItemLang data
+     0 int id = 1030191
+     1 string schinese = "太好了！你成功了！"
+     1 string schinese_censored = "太好了！你成功了！"
+     1 string english = "Great! You succeeded!"
+     1 string japanese = "やった！成功です！"
+     1 string mchinese = "太好了！你成功了！"
+   [20191]
+    0 TableSoItemLang data
+     0 int id = 1030192
+     1 string schinese = "是我们成功了！而且这都是你的功劳啊！多亏了你的主意，现在人们放心多了，餐厅的口碑也在逐渐好起来了！你是“锋锋味道”的大功臣呀！"
+     1 string schinese_censored = "是我们成功了！而且这都是你的功劳啊！多亏了你的主意，现在人们放心多了，餐厅的口碑也在逐渐好起来了！你是“大厨味道”的大功臣呀！"
+     1 string english = "No, no, we succeeded! This is all thanks to you! The people are coming back and our brand is gradually regaining its past glory! You're a real hero of Fiorence's Taste!"
+     1 string japanese = "大成功だよ！そしてこれはキミの手柄だ。アイデアのおかげで安全性を証明できたんだ。評判もドンドン良くなってる。『フォンフォン風飯店』復活の立役者だよ！"
+     1 string mchinese = "是我們成功了！而且這都是你的功勞啊！多虧了你的主意，現在人們放心多了，餐廳的口碑也在逐漸好起來了！你是“鋒鋒味道”的大功臣呀！"
+   [20192]
+    0 TableSoItemLang data
+     0 int id = 1030193
+     1 string schinese = "哈哈，你都说的我不好意思了……不过，现在事情还没有做完，为了预防同样的事情发生，需要做起相应的科普，让人们了解其中的原理，这才是根本呀。"

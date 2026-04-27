@@ -1,0 +1,184 @@
+     1 string schinese_censored = "我是工程师，每次向别人介绍工作就要一遍遍强调我们不搬砖，而且还要考很多证书，很多报表要填，工科不容易啊！"
+     1 string english = "I'm an engineer. But whenever I tell that to others, I have to emphasize @@that I do not move bricks, and that it requires a whole shelf-full of certificates. I have lots of reports to fill in, ah, engineering isn't easy!"
+     1 string japanese = "私は建築士。人に職業を聞かれる時は、いつも大工じゃないと説明が必要になる。資格もたくさん必要だし、建築業界は大変だ！"
+     1 string mchinese = "我是工程師，每次向別人介紹工作就要一遍遍強調我們不搬磚，而且還要考很多證書，很多報表要填，工科不容易啊！"
+   [4162]
+    0 TableSoItemLang data
+     0 int id = 1014163
+     1 string schinese = "我是物理研究员，生活和理想很不一样，我在导师的物理实验室工作了十几个年头，突然发现，我原来还没有毕业啊！"
+     1 string schinese_censored = "我是物理研究员，生活和理想很不一样，我在导师的物理实验室工作了十几个年头，突然发现，我原来还没有毕业啊！"
+     1 string english = "I'm a physicist. My dreams and my life do not really align. I worked as a @@tutor in a physics lab for some ten years, and then I suddenly came to the realization that I still hadn't graduated!"
+     1 string japanese = "私は物理研究者。生活は理想と全く違う。指導教官の研究室で１０年以上働いて気づいたが、まだ卒業してなかった！"
+     1 string mchinese = "我是物理研究員，生活和理想很不一樣，我在導師的物理實驗室工作了十幾個年頭，突然發現，我原來還沒有畢業啊！"
+   [4163]
+    0 TableSoItemLang data
+     0 int id = 1014164
+     1 string schinese = "目前我只是一个中忍，以后慢慢厉害起来，我就可以去上忍的休息室了，里面有PS4呢！"
+     1 string schinese_censored = "目前我只是一个中忍，以后慢慢厉害起来，我就可以去上忍的休息室了，里面有游戏机呢！"
+     1 string english = "I'm only a chunin right now, but I'll get stronger and stronger! And then I @@will be allowed to use the ninja's resting hall, there's even a PS4 there!"
+     1 string japanese = "中忍は私１人だけだ。今は我慢の時。少しずつ強くなって、上忍専用の休憩室を使いたい。あそこには最新ゲーム機があるのだから！"
+     1 string mchinese = "目前我只是一個中忍，以後慢慢厲害起來，我就可以去上忍的休息室了，裏面有PS4呢！"
+   [4164]
+    0 TableSoItemLang data
+     0 int id = 1014165
+     1 string schinese = "我是上忍，忍者中的佼佼者，可惜我仍然不开心啊，队伍越来越少，大家都退役去做网红了，很难做啊！"
+     1 string schinese_censored = "我是上忍，忍者中的佼佼者，可惜我仍然不开心啊，队伍越来越少，大家都退役去做网红了，很难做啊！"
+     1 string english = "I'm a ninja, and an outstanding one at that. But I'm still not happy, there are @@less and less teams working. Most of the good ninjas have retired and are working as cewebrities instead!"
+     1 string japanese = "私は上忍。忍者の中ではトップだが、楽しくない。なぜなら、みんな引退して配信者になるからだ。チームが組めない！"
+     1 string mchinese = "我是上忍，忍者中的佼佼者，可惜我仍然不開心啊，隊伍越來越少，大家都退役去做網紅了，很難做啊！"
+   [4165]
+    0 TableSoItemLang data
+     0 int id = 1014166
+     1 string schinese = "我是一名全栈程序员，客户端和服务器都可以做，可我的工资却还是原来一样，最终我因为一次抢月饼事件，去了一家小公司。"
+     1 string schinese_censored = "我是一名全栈程序员，客户端和服务器都可以做，可我的工资却还是原来一样，最终我因为一次抢月饼事件，去了一家小公司。"
+     1 string english = "I'm a full stack programmer and I can program clients or servers.@@ But my salary is the same as it used to, and as I stole a moon cake once, I was forced to find a smaller company to work for."
+     1 string japanese = "私はフルスタック技術者。クライアントとサーバーどちらでも対応できるが、給料は変わらない。最終的に、ある事件の責任で、子会社に飛ばされた。"
+     1 string mchinese = "我是一名全棧程式員，客戶端和服務器都可以做，可我的工資卻還是原來一樣，最終我因為一次搶月餅事件，去了一家小公司。"
+   [4166]
+    0 TableSoItemLang data
+     0 int id = 1014167
+     1 string schinese = "我是一名算法研究员，我是程序员同时数学能力也很强，我很聪明以致于我可以做这样的工作。我一直有一种职业上的优越性，当然只是在程序员界。"
+     1 string schinese_censored = "我是一名算法研究员，我是程序员同时数学能力也很强，我很聪明以致于我可以做这样的工作。我一直有一种职业上的优越性，当然只是在程序员界。"
+     1 string english = "I'm an algorithm programmer. I am good at both programming and @@math, and the reason why I can do this, is because I'm really smart. I've always felt that I'm on top of the world at work, of course, as a programmer that is."
+     1 string japanese = "私はアルゴリズム技術者。プログラミング力に加えて、数学的能力も高いので、この仕事ができる。この仕事に優越感を持ってるが、プログラマ業界限定だ。"
+     1 string mchinese = "我是一名演算法研究員，我是程式員同時數學能力也很強，我很聰明以致於我可以做這樣的工作。我一直有一種職業上的優越性，當然只是在程式員界。"
+   [4167]
+    0 TableSoItemLang data
+     0 int id = 1014168
+     1 string schinese = "我是游戏程序员，专门为游戏而生的程序员。说到热爱游戏谈不上，最吸引我的还是这个行业的收入啊！"
+     1 string schinese_censored = "我是游戏程序员，专门为游戏而生的程序员。说到热爱游戏谈不上，最吸引我的还是这个行业的收入啊！"
+     1 string english = "I only do programming for games. I can't really say I love games, but @@what really attracted me was the insanely high salary!"
+     1 string japanese = "私はゲームプログラマ。ゲーム専門のプログラマだ。ゲーム愛はないけど、この業界の収入は魅力的だ！"
+     1 string mchinese = "我是遊戲程式員，專門為遊戲而生的程式員。說到熱愛遊戲談不上，最吸引我的還是這個行業的收入啊！"
+   [4168]
+    0 TableSoItemLang data
+     0 int id = 1014169
+     1 string schinese = "在成为一名独立游戏开发者之前，我还只是个爱好者。因为看了独立游戏大电影之后，毅然决然投入到独立游戏的海洋里。"
+     1 string schinese_censored = "在成为一名独立游戏开发者之前，我还只是个爱好者。因为看了独立游戏大电影之后，毅然决然投入到独立游戏的海洋里。"
+     1 string english = "I was just a game lover before I became an indie game developer.@@ After watching a few big movies on indie game development I decided to throw myself into the wide indie sea."
+     1 string japanese = "インディー開発者になるまでは、ただの愛好家だった。インディー開発者の映画を観た後、この世界に身を捧げることを決めた。"
+     1 string mchinese = "在成為一名獨立遊戲開發者之前，我還只是個愛好者。因為看了獨立遊戲大電影之後，毅然決然投入到獨立遊戲的海洋裏。"
+   [4169]
+    0 TableSoItemLang data
+     0 int id = 1014170
+     1 string schinese = "我成为了一名职业的网络UP主，每天叫声老铁，抱抱拳，喊个麦克风似乎就有很多钞票。"
+     1 string schinese_censored = "我成为了一名职业的网络主播，每天叫声老铁，抱抱拳，喊个麦克风似乎就有很多钞票。"
+     1 string english = "I became a professional streamer. I upload videos for a profession @@and I just have to call into the mic for various discounted offers."
+     1 string japanese = "プロ実況主になった。毎日あいさつをするだけで、たくさん稼げるようだ。"
+     1 string mchinese = "我成為了一名職業的網路UP主，每天叫聲老鐵，抱抱拳，喊個麥克風似乎就有很多鈔票。"
+   [4170]
+    0 TableSoItemLang data
+     0 int id = 1014171
+     1 string schinese = "每个游戏行业的人，都渴望成为大山秀夫、宫本茂那样的大神，可惜我们多半都是普通的游戏制作人，有些不那么赚钱不那么出名的作品。"
+     1 string schinese_censored = "每个游戏行业的人，都渴望成为大山秀夫、宫本茂那样的大神，可惜我们多半都是普通的游戏制作人，有些不那么赚钱不那么出名的作品。"
+     1 string english = "Everyone in the gaming business wishes they could be one of the greatest @@game producers in history, but most of us aren't. We just make games that doesn't earn very much, and simply aren't very famous."
+     1 string japanese = "ゲーム業界の誰もがレジェンド級の製作者を目指す。だが、大半は普通のゲーム製作者だ。ゲームは有名でもないし売れない。"
+     1 string mchinese = "每個遊戲行業的人，都渴望成為大山秀夫、宮本茂那樣的大神，可惜我們多半都是普通的遊戲製作人，有些不那麼賺錢不那麼出名的作品。"
+   [4171]
+    0 TableSoItemLang data
+     0 int id = 1014172
+     1 string schinese = "我是股票交易员，所谓的操盘手，就是我这样的人。每天心理承受大量的情绪冲击，心理素质非常好！"
+     1 string schinese_censored = "我是股票交易员，所谓的操盘手，就是我这样的人。每天心理承受大量的情绪冲击，心理素质非常好！"
+     1 string english = "I'm a stockbroker, and I trade in stocks. My mind has to undergo ways of @@each emotion every day, so my mental control is very important! And that's who I am."
+     1 string japanese = "私は株式トレーダー。いわゆる株を売買する人だ。毎日強い精神的ダメージを受ける。心の状態を良好に保たないと！"
+     1 string mchinese = "我是股票交易員，所謂的操盤手，就是我這樣的人。每天心理承受大量的情緒衝擊，心理素質非常好！"
+   [4172]
+    0 TableSoItemLang data
+     0 int id = 1014173
+     1 string schinese = "基金经理是金融行业的金领了，我很有幸也是这样的一位掌握几百亿规模基金的公募基金经理，一直准备攒经验跳到私募去。"
+     1 string schinese_censored = "基金经理是金融行业的金领了，我很有幸也是这样的一位掌握几百亿规模基金的公募基金经理，一直准备攒经验跳到私募去。"
+     1 string english = "Fund managers are part of the financial industry's top brass. I am @@fortunate to be a public fund manager dealing with funds worth tens of billions. I'm also working to get more experienced and then jump over to private equity."
+     1 string japanese = "ファンドマネージャーは金融業界の頂点。何百億ものお金を動かせることを誇りに思ってる。経験を積んで、プライベートファンドを立ち上げるのが夢だ。"
+     1 string mchinese = "基金經理是金融行業的金領了，我很有幸也是這樣的一位掌握幾百億規模基金的公募基金經理，一直準備攢經驗跳到私募去。"
+   [4173]
+    0 TableSoItemLang data
+     0 int id = 1014174
+     1 string schinese = "白天我是一名企业家，管理着一个大型跨国公司，其实我就是螳螂侠，在黑夜中打击犯罪守护城市的安宁"
+     1 string schinese_censored = "白天我是一名企业家，管理着一个大型跨国公司，其实我就是螳螂侠，在黑夜中打击犯罪守护城市的安宁"
+     1 string english = "During the day I'm an entrepreneur managing a large-scale multinational @@corporation. But the reality is that I'm Mantisman. Come nightfall, I beat criminals and uphold the city's peace."
+     1 string japanese = "昼間は大きな多国籍企業を経営する起業家。夜はバットとして、街を守るヒーローとなる。"
+     1 string mchinese = "白天我是一名企業家，管理著一個大型跨國公司，其實我就是螳螂俠，在黑夜中打擊犯罪守護城市的安寧"
+   [4174]
+    0 TableSoItemLang data
+     0 int id = 1014175
+     1 string schinese = "我是有一些作品的文学家，写过小说、散文，出的书得到过一些文学奖的提名，很开心能走到这里，已经了然无憾了。"
+     1 string schinese_censored = "我是有一些作品的文学家，写过小说、散文，出的书得到过一些文学奖的提名，很开心能走到这里，已经了然无憾了。"
+     1 string english = "I'm a litterateur with a few works under my belt. I've written novels and @@columns, and I've some of my books have been nominated for literature awards. I'm happy to have made it this far and I have no regrets."
+     1 string japanese = "私はいくつかの作品を書いた文学家。小説もエッセイも書いたことがある。いくつかの本は文学賞にノミネートされた。ここまでこられたし、これで十分だ。"
+     1 string mchinese = "我是有一些作品的文學家，寫過小說、散文，出的書得到過一些文學獎的提名，很開心能走到這裏，已經了然無憾了。"
+   [4175]
+    0 TableSoItemLang data
+     0 int id = 1014176
+     1 string schinese = "总有人把我和郭沫若、鲁迅相提并论。可我实在不敢当，作品获得了著名的文学奖项，可我一直觉得受之有愧，获得大文豪称号真是不好意思啊。"
+     1 string schinese_censored = "总有人把我和郭沫若、鲁迅相提并论。可我实在不敢当，作品获得了著名的文学奖项，可我一直觉得受之有愧，获得大文豪称号真是不好意思啊。"
+     1 string english = "People put me on par with Guo Moruo and Lu Xun. I daren't consider that @@myself, but my works have received famous literary awards. I, however, don't feel worthy of the praise, nor for being called a literary giant."
+     1 string japanese = "誰かが私と郭沫若や魯迅を比較してる。本当に恥ずかしい。有名な文学賞も受賞したが、似つかわしくない。大文豪と呼ばれると申し訳なく感じる。"
+     1 string mchinese = "總有人把我和郭沫若、魯迅相提並論。可我實在不敢當，作品獲得了著名的文學獎項，可我一直覺得受之有愧，獲得大文豪稱號真是不好意思啊。"
+   [4176]
+    0 TableSoItemLang data
+     0 int id = 1014177
+     1 string schinese = "我并不是程序员，但我特别了解计算机。我是计算机科学家，探索计算机的前沿技术，受聘于著名搜索引擎公司，衣食无忧，风头无量。"
+     1 string schinese_censored = "我并不是程序员，但我特别了解计算机。我是计算机科学家，探索计算机的前沿技术，受聘于著名搜索引擎公司，衣食无忧，风头无量。"
+     1 string english = "I'm not a programmer but I have a deep understanding of computers.@@ I'm a computer scientist, one who explores the frontier of computers. I work for a famous search engine company so I get decent publicity and don't have to worry about a low salary."
+     1 string japanese = "私はコンピュータ科学者。プログラマではないが、コンピュータに詳しい。最先端の技術を研究し、有名検索エンジン会社に入社した。衣食住の心配は一切ない。"
+     1 string mchinese = "我並不是程式員，但我特別瞭解電腦。我是電腦科學家，探索電腦的前沿技術，受聘於著名搜索引擎公司，衣食無憂，風頭無量。"
+   [4177]
+    0 TableSoItemLang data
+     0 int id = 1014178
+     1 string schinese = "我是网红，没事儿做做主播、发发照片，吸引大量的粉丝，没事儿就喜欢搏一搏热度，争取上个热搜什么的。但又不是真明星，挺尴尬的！"
+     1 string schinese_censored = "我是网红，没事儿做做主播、发发照片，吸引大量的粉丝，没事儿就喜欢搏一搏热度，争取上个热搜什么的。但又不是真明星，挺尴尬的！"
+     1 string english = "I'm a cewebrity, I stream and post photos to attract large numbers @@of fans. Sometimes when I'm bored I also join the fight of being at the top of searches and such. But I'm not a real celebrity, and that feels a bit awkward."
+     1 string japanese = "私はネット有名人。生配信をやったり、自撮り写真をアップしたりで、大量のファンを獲得した。人気を競ったりもするが、本当の有名人ではないし、なんだかむなしい。"
+     1 string mchinese = "我是網紅，沒事兒做做主播、發發照片，吸引大量的粉絲，沒事兒就喜歡搏一搏熱度，爭取上個熱搜什麼的。但又不是真明星，挺尷尬的！"
+   [4178]
+    0 TableSoItemLang data
+     0 int id = 1014179
+     1 string schinese = "我算是人气明星了，每次大量粉丝接机，偶尔有一些代表作，但始终还是靠人设来获得大量的关注，我已经很满足了。这个时代我很幸福吧！"
+     1 string schinese_censored = "我算是人气明星了，每次大量粉丝接机，偶尔有一些代表作，但始终还是靠人设来获得大量的关注，我已经很满足了。这个时代我很幸福吧！"
+     1 string english = "I'm a popular celebrity. There's always tons of fans waiting for @@me when I get off airplanes. I take part in great projects every once in a while. I also work hard on having a large following, and I'm very happy with my life. I'm really lucky being alive in this day and age."
+     1 string japanese = "空港では、常に多くのファンが出待ちをしてくれる。代表作よりも重要なのは、キャラ設定だ。自己プロデュースだ。それでも満足してる。この時代に生まれてよかった！"
+     1 string mchinese = "我算是人氣明星了，每次大量粉絲接機，偶爾有一些代表作，但始終還是靠人設來獲得大量的關注，我已經很滿足了。這個時代我很幸福吧！"
+   [4179]
+    0 TableSoItemLang data
+     0 int id = 1014180
+     1 string schinese = "作为一名新人，公司将我定位为偶像，每天元气满满地贩卖梦想。大家只看到我甜美的笑容，挥动着我的应援牌，却忘了我其实是个歌手。"
+     1 string schinese_censored = "作为一名新人，公司将我定位为偶像，每天元气满满地贩卖梦想。大家只看到我甜美的笑容，挥动着我的应援牌，却忘了我其实是个歌手。"
+     1 string english = "I'm a newcomer to the company and they want to set me up as an idol. Full @@of vigor I set out to sell dreams, and as they see my sweet smile everyone waves their pre-written signs high. But they all forget that I'm a singer."
+     1 string japanese = "事務所は新人の私をアイドルと位置づけた。毎日元気いっぱいで夢を売る。みんなは私の笑顔を応援してくれる。歌手であることは誰も気にしてない。"
+     1 string mchinese = "作為一名新人，公司將我定位為偶像，每天元氣滿滿地販賣夢想。大家只看到我甜美的笑容，揮動著我的應援牌，卻忘了我其實是個歌手。"
+   [4180]
+    0 TableSoItemLang data
+     0 int id = 1014181
+     1 string schinese = "在小有成就之后，我被业界冠以实力派唱将的名衔，演唱会也场场爆满，一票难求。但我的压力有增无减，我担心有一天自己不再有名，因此我比出名前更加努力。"
+     1 string schinese_censored = "在小有成就之后，我被业界冠以实力派唱将的名衔，演唱会也场场爆满，一票难求。但我的压力有增无减，我担心有一天自己不再有名，因此我比出名前更加努力。"
+     1 string english = "After some small achievements, I was crowned as being a famous singer.@@ My concerts are full and getting tickets aren't easy for my fans. But I feel the pressure on me increasing, and I'm afraid that one day I won't be famous anymore. So, I work harder than I ever did before."
+     1 string japanese = "少し成功したので、業界では実力派歌手と呼ばれた。いつか人気が無くなるかもという、プレッシャーに押しつぶされそう。今は有名になる前よりも頑張ってる。"
+     1 string mchinese = "在小有成就之後，我被業界冠以實力派唱將的名銜，演唱會也場場爆滿，一票難求。但我的壓力有增無減，我擔心有一天自己不再有名，因此我比出名前更加努力。"
+   [4181]
+    0 TableSoItemLang data
+     0 int id = 1014182
+     1 string schinese = "北腿广阔的朋友圈，让我获得了许多写歌的机会。最后，我成了一名独立音乐人。既给自己写歌，也给别人写歌，有那么几首经典歌曲，也有那么几首口水歌。"
+     1 string schinese_censored = "北腿广阔的朋友圈，让我获得了许多写歌的机会。最后，我成了一名独立音乐人。既给自己写歌，也给别人写歌，有那么几首经典歌曲，也有那么几首口水歌。"
+     1 string english = "I followed Billy Wong on social media, and from there I got many chances @@to write songs. In the end, I became an indie musician. I write for myself as well as for others. I've made a few good ones, and a few catchy ones."
+     1 string japanese = "人脈を駆使して曲作りのチャンスをたくさんもらい、フリーランスミュージシャンになった。名曲もあれば、そうでもない曲もある。"
+     1 string mchinese = "北腿廣闊的朋友圈，讓我獲得了許多寫歌的機會。最後，我成了一名獨立音樂人。既給自己寫歌，也給別人寫歌，有那麼幾首經典歌曲，也有那麼幾首口水歌。"
+   [4182]
+    0 TableSoItemLang data
+     0 int id = 1014183
+     1 string schinese = "在乐坛闯出一番名气后，我开始着眼于新人的挖掘：担当音乐节目导师，指导新人唱歌技巧。技巧其实就那么多，但唱法却随着时代的潮流不断变化。"
+     1 string schinese_censored = "在乐坛闯出一番名气后，我开始着眼于新人的挖掘：担当音乐节目导师，指导新人唱歌技巧。技巧其实就那么多，但唱法却随着时代的潮流不断变化。"
+     1 string english = "After making a name for myself in the music world I began searching for @@new talents instead. I started tutoring and teaching singing skills. There aren't all that many, but at least the style changes with the ages!"
+     1 string japanese = "音楽業界で有名になった後は、新人発掘に力を注いだ。音楽番組で指導者として、テクニックを指導する。しかし、テクニックは時代と共に変化する。"
+     1 string mchinese = "在樂壇闖出一番名氣後，我開始著眼於新人的挖掘：擔當音樂節目導師，指導新人唱歌技巧。技巧其實就那麼多，但唱法卻隨著時代的潮流不斷變化。"
+   [4183]
+    0 TableSoItemLang data
+     0 int id = 1014184
+     1 string schinese = "我是艺术家，虽说是艺术，但又不像以前的艺术家那样受到尊重。这个贫穷就是最大的悲伤，没人在乎你是为了艺术而穷困潦倒的。"
+     1 string schinese_censored = "我是艺术家，虽说是艺术，但又不像以前的艺术家那样受到尊重。这个贫穷就是最大的悲伤，没人在乎你是为了艺术而穷困潦倒的。"
+     1 string english = "I'm an artist. It's still art, but we aren't as well respected as the artists @@of old. It hurts me being poor, and no one really cares that you're poor for the sake of art."
+     1 string japanese = "私は芸術家。芸術家は昔ほど尊敬されない。貧乏が一番悲しい。芸術のために貧乏なんて、誰も気にしてくれない。"
+     1 string mchinese = "我是藝術家，雖說是藝術，但又不像以前的藝術家那樣受到尊重。這個貧窮就是最大的悲傷，沒人在乎你是為了藝術而窮困潦倒的。"
+   [4184]
+    0 TableSoItemLang data
+     0 int id = 1014185
+     1 string schinese = "我是影帝，首先声明一点，影帝并不是戏精！我获得了某电影节的影帝殊荣，恰好是我最喜欢的导演。"

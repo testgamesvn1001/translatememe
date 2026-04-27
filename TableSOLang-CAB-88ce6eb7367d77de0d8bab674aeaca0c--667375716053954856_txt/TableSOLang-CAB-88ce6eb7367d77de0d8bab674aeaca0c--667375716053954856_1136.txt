@@ -1,0 +1,184 @@
+     1 string schinese_censored = "我的属性"
+     1 string english = "My Stats"
+     1 string japanese = "能力"
+     1 string mchinese = "我的屬性"
+   [26104]
+    0 TableSoItemLang data
+     0 int id = 1596172391
+     1 string schinese = "友谊"
+     1 string schinese_censored = "友谊"
+     1 string english = "Friendship"
+     1 string japanese = "友情"
+     1 string mchinese = "友誼"
+   [26105]
+    0 TableSoItemLang data
+     0 int id = 1596172392
+     1 string schinese = "普通"
+     1 string schinese_censored = "普通"
+     1 string english = "Common"
+     1 string japanese = "Ｎ"
+     1 string mchinese = "普通"
+   [26106]
+    0 TableSoItemLang data
+     0 int id = 1596172393
+     1 string schinese = "稀有"
+     1 string schinese_censored = "稀有"
+     1 string english = "Rare"
+     1 string japanese = "Ｒ"
+     1 string mchinese = "稀有"
+   [26107]
+    0 TableSoItemLang data
+     0 int id = 1596172394
+     1 string schinese = "史诗"
+     1 string schinese_censored = "史诗"
+     1 string english = "Epic"
+     1 string japanese = "ＳＲ"
+     1 string mchinese = "史詩"
+   [26108]
+    0 TableSoItemLang data
+     0 int id = 1596172395
+     1 string schinese = "传说"
+     1 string schinese_censored = "传说"
+     1 string english = "Legendary"
+     1 string japanese = "ＳＳＲ"
+     1 string mchinese = "傳說"
+   [26109]
+    0 TableSoItemLang data
+     0 int id = 1596172396
+     1 string schinese = "确定策略"
+     1 string schinese_censored = "确定策略"
+     1 string english = "Confirm"
+     1 string japanese = "方針決定"
+     1 string mchinese = "確定策略"
+   [26110]
+    0 TableSoItemLang data
+     0 int id = 1596172397
+     1 string schinese = "{0}的回合"
+     1 string schinese_censored = "{0}的回合"
+     1 string english = "{0}'s Turn"
+     1 string japanese = "{0}のターン"
+     1 string mchinese = "{0}的回合"
+   [26111]
+    0 TableSoItemLang data
+     0 int id = 1596172398
+     1 string schinese = "对这个人使用"
+     1 string schinese_censored = "对这个人使用"
+     1 string english = "Apply"
+     1 string japanese = "対象にする！"
+     1 string mchinese = "對這個人使用"
+   [26112]
+    0 TableSoItemLang data
+     0 int id = 1596172399
+     1 string schinese = "已经卖完了\n以后再来看看吧"
+     1 string schinese_censored = "已经卖完了\n以后再来看看吧"
+     1 string english = "You have finished it.\nCheck back later."
+     1 string japanese = "もう完売だ\nまた来てくれ"
+     1 string mchinese = "已經賣完了\n以後再來看看吧"
+   [26113]
+    0 TableSoItemLang data
+     0 int id = 1596172400
+     1 string schinese = "暂时没有可用的特长了\n去多多学习或者娱乐吧"
+     1 string schinese_censored = "暂时没有可用的特长了\n去多多学习或者娱乐吧"
+     1 string english = "You don't have any traits to use.\nStudy some more or enjoy entertainment."
+     1 string japanese = "学べる特技がありません\n勉強か娯楽を楽しもう"
+     1 string mchinese = "暫時沒有可用的特長了\n去多多學習或者娛樂吧"
+   [26114]
+    0 TableSoItemLang data
+     0 int id = 1596172401
+     1 string schinese = "获得职业后，可查看属性加成"
+     1 string schinese_censored = "获得职业后，可查看属性加成"
+     1 string english = "You can view a profession's stat bonuses after acquiring it."
+     1 string japanese = "職業に就くと、能力にボーナスが付きます"
+     1 string mchinese = "獲得職業後，可查看屬性加成"
+   [26115]
+    0 TableSoItemLang data
+     0 int id = 1596172402
+     1 string schinese = "职业收集度："
+     1 string schinese_censored = "职业收集度："
+     1 string english = "Profession Collection:"
+     1 string japanese = "職業収集率："
+     1 string mchinese = "職業收集度："
+   [26116]
+    0 TableSoItemLang data
+     0 int id = 1596172403
+     1 string schinese = "可用特长"
+     1 string schinese_censored = "可用特长"
+     1 string english = "Available Traits"
+     1 string japanese = "使用可能特技"
+     1 string mchinese = "可用特長"
+   [26117]
+    0 TableSoItemLang data
+     0 int id = 1596172404
+     1 string schinese = "特长收集度："
+     1 string schinese_censored = "特长收集度："
+     1 string english = "Trait Collection:"
+     1 string japanese = "特技収集率："
+     1 string mchinese = "特長收集度："
+   [26118]
+    0 TableSoItemLang data
+     0 int id = 1596172405
+     1 string schinese = "再努力一次"
+     1 string schinese_censored = "再努力一次"
+     1 string english = "Try Again"
+     1 string japanese = "もう一度頑張ろう"
+     1 string mchinese = "再努力一次"
+   [26119]
+    0 TableSoItemLang data
+     0 int id = 1596172406
+     1 string schinese = "继续"
+     1 string schinese_censored = "继续"
+     1 string english = "Continue"
+     1 string japanese = "継続"
+     1 string mchinese = "繼續"
+   [26120]
+    0 TableSoItemLang data
+     0 int id = 1596172407
+     1 string schinese = "家族智商天赋"
+     1 string schinese_censored = "家族智商天赋"
+     1 string english = "Family IQ Talent"
+     1 string japanese = "一族の天賦ＩＱ"
+     1 string mchinese = "家族智商天賦"
+   [26121]
+    0 TableSoItemLang data
+     0 int id = 1596172408
+     1 string schinese = "家族情商天赋"
+     1 string schinese_censored = "家族情商天赋"
+     1 string english = "Family EQ Talent"
+     1 string japanese = "一族の天賦ＥＱ"
+     1 string mchinese = "家族情商天賦"
+   [26122]
+    0 TableSoItemLang data
+     0 int id = 1596172409
+     1 string schinese = "家族想象力天赋"
+     1 string schinese_censored = "家族想象力天赋"
+     1 string english = "Family Imagination Talent"
+     1 string japanese = "一族の天賦想像力"
+     1 string mchinese = "家族想像力天賦"
+   [26123]
+    0 TableSoItemLang data
+     0 int id = 1596172410
+     1 string schinese = "家族记忆力天赋"
+     1 string schinese_censored = "家族记忆力天赋"
+     1 string english = "Family Memory Talent"
+     1 string japanese = "一族の天賦記憶力"
+     1 string mchinese = "家族記憶力天賦"
+   [26124]
+    0 TableSoItemLang data
+     0 int id = 1596172411
+     1 string schinese = "家族体魄天赋"
+     1 string schinese_censored = "家族体魄天赋"
+     1 string english = "Family Constitution Talent"
+     1 string japanese = "一族の天賦体力"
+     1 string mchinese = "家族體魄天賦"
+   [26125]
+    0 TableSoItemLang data
+     0 int id = 1596172412
+     1 string schinese = "积了灰的同学录，悄然落在你的脚边。\n你俯身拾起，昨日重现。"
+     1 string schinese_censored = "积了灰的同学录，悄然落在你的脚边。\n你俯身拾起，昨日重现。"
+     1 string english = "廢棄字段不用翻譯"
+     1 string japanese = "廢棄字段不用翻譯"
+     1 string mchinese = "積了灰的同學錄，悄然落在你的腳邊。\n你俯身拾起，昨日重現。"
+   [26126]
+    0 TableSoItemLang data
+     0 int id = 1596172413
+     1 string schinese = "学生时代的你，为了提高{0}属性绞尽脑汁。\n为此，你一共挖掘了："

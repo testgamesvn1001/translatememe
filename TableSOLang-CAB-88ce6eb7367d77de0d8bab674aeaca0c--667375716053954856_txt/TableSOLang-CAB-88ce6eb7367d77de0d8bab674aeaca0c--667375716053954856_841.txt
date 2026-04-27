@@ -1,0 +1,184 @@
+     1 string schinese_censored = "播音"
+     1 string english = "Broadcast"
+     1 string japanese = "放送"
+     1 string mchinese = "播音"
+   [19319]
+    0 TableSoItemLang data
+     0 int id = 1029320
+     1 string schinese = "主持"
+     1 string schinese_censored = "主持"
+     1 string english = "Host"
+     1 string japanese = "司会"
+     1 string mchinese = "主持"
+   [19320]
+    0 TableSoItemLang data
+     0 int id = 1029321
+     1 string schinese = "战队经理"
+     1 string schinese_censored = "战队经理"
+     1 string english = "Team Manager"
+     1 string japanese = "チームマネージャー"
+     1 string mchinese = "戰隊經理"
+   [19321]
+    0 TableSoItemLang data
+     0 int id = 1029322
+     1 string schinese = "电竞冠军"
+     1 string schinese_censored = "电竞冠军"
+     1 string english = "E-Sports Champion"
+     1 string japanese = "ｅスポーツ王者"
+     1 string mchinese = "電競冠軍"
+   [19322]
+    0 TableSoItemLang data
+     0 int id = 1029323
+     1 string schinese = "播音主持"
+     1 string schinese_censored = "播音主持"
+     1 string english = "Broadcast Host"
+     1 string japanese = "ラジオ司会者"
+     1 string mchinese = "播音主持"
+   [19323]
+    0 TableSoItemLang data
+     0 int id = 1029324
+     1 string schinese = "荧幕主持"
+     1 string schinese_censored = "荧幕主持"
+     1 string english = "Video Host"
+     1 string japanese = "テレビ司会者"
+     1 string mchinese = "螢幕主持"
+   [19324]
+    0 TableSoItemLang data
+     0 int id = 1029325
+     1 string schinese = "俱乐部后勤管理"
+     1 string schinese_censored = "俱乐部后勤管理"
+     1 string english = "Team Logistics Manager"
+     1 string japanese = "チーム裏方管理"
+     1 string mchinese = "俱樂部後勤管理"
+   [19325]
+    0 TableSoItemLang data
+     0 int id = 1029326
+     1 string schinese = "战队运营"
+     1 string schinese_censored = "战队运营"
+     1 string english = "Team Operations Manager"
+     1 string japanese = "チーム運営"
+     1 string mchinese = "戰隊運營"
+   [19326]
+    0 TableSoItemLang data
+     0 int id = 1029327
+     1 string schinese = "俱乐部经理"
+     1 string schinese_censored = "俱乐部经理"
+     1 string english = "Team Manager"
+     1 string japanese = "チームマネージャー"
+     1 string mchinese = "俱樂部經理"
+   [19327]
+    0 TableSoItemLang data
+     0 int id = 1029328
+     1 string schinese = "业余选手"
+     1 string schinese_censored = "业余选手"
+     1 string english = "Amateur Player"
+     1 string japanese = "アマチュア選手"
+     1 string mchinese = "業餘選手"
+   [19328]
+    0 TableSoItemLang data
+     0 int id = 1029329
+     1 string schinese = "职业战队选手"
+     1 string schinese_censored = "职业战队选手"
+     1 string english = "Player in a Professional Team"
+     1 string japanese = "プロ選手"
+     1 string mchinese = "職業戰隊選手"
+   [19329]
+    0 TableSoItemLang data
+     0 int id = 1029330
+     1 string schinese = "知名电竞选手"
+     1 string schinese_censored = "知名电竞选手"
+     1 string english = "Famous E-Sports Player"
+     1 string japanese = "有名プロ選手"
+     1 string mchinese = "知名電競選手"
+   [19330]
+    0 TableSoItemLang data
+     0 int id = 1029331
+     1 string schinese = "电竞主播"
+     1 string schinese_censored = "电竞主播"
+     1 string english = "E-Sports Streamer"
+     1 string japanese = "ｅスポーツ実況者"
+     1 string mchinese = "電競主播"
+   [19331]
+    0 TableSoItemLang data
+     0 int id = 1029332
+     1 string schinese = "电竞明星"
+     1 string schinese_censored = "电竞明星"
+     1 string english = "E-Sports Celebrity"
+     1 string japanese = "ｅスポーツスター"
+     1 string mchinese = "電競明星"
+   [19332]
+    0 TableSoItemLang data
+     0 int id = 1029333
+     1 string schinese = "电竞世界冠军"
+     1 string schinese_censored = "电竞世界冠军"
+     1 string english = "E-Sports World Champion"
+     1 string japanese = "ｅスポーツ世界王者"
+     1 string mchinese = "電競世界冠軍"
+   [19333]
+    0 TableSoItemLang data
+     0 int id = 1029334
+     1 string schinese = "广播电台主持人"
+     1 string schinese_censored = "广播电台主持人"
+     1 string english = "Radio Host"
+     1 string japanese = "パーソナリティ"
+     1 string mchinese = "廣播電臺主持人"
+   [19334]
+    0 TableSoItemLang data
+     0 int id = 1029335
+     1 string schinese = "新闻评论员"
+     1 string schinese_censored = "新闻评论员"
+     1 string english = "News Critic"
+     1 string japanese = "ニュース解説者"
+     1 string mchinese = "新聞評論員"
+   [19335]
+    0 TableSoItemLang data
+     0 int id = 1029336
+     1 string schinese = "知名声优"
+     1 string schinese_censored = "知名声优"
+     1 string english = "Famous Voice Actor"
+     1 string japanese = "有名声優"
+     1 string mchinese = "知名聲優"
+   [19336]
+    0 TableSoItemLang data
+     0 int id = 1029337
+     1 string schinese = "庆典司仪"
+     1 string schinese_censored = "庆典司仪"
+     1 string english = "Master of Ceremonies"
+     1 string japanese = "イベント司会者"
+     1 string mchinese = "慶典司儀"
+   [19337]
+    0 TableSoItemLang data
+     0 int id = 1029338
+     1 string schinese = "地方台主持人"
+     1 string schinese_censored = "地方台主持人"
+     1 string english = "Local TV Host"
+     1 string japanese = "ローカル局司会者"
+     1 string mchinese = "地方臺主持人"
+   [19338]
+    0 TableSoItemLang data
+     0 int id = 1029339
+     1 string schinese = "省台主持人"
+     1 string schinese_censored = "省台主持人"
+     1 string english = "Provincial TV Host"
+     1 string japanese = "ケーブル局司会者"
+     1 string mchinese = "省臺主持人"
+   [19339]
+    0 TableSoItemLang data
+     0 int id = 1029340
+     1 string schinese = "网综主持人"
+     1 string schinese_censored = "网综主持人"
+     1 string english = "Internet Host"
+     1 string japanese = "ネット司会者"
+     1 string mchinese = "網綜主持人"
+   [19340]
+    0 TableSoItemLang data
+     0 int id = 1029341
+     1 string schinese = "香蕉台主持人"
+     1 string schinese_censored = "香蕉台主持人"
+     1 string english = "Gaming Host"
+     1 string japanese = "キー局司会者"
+     1 string mchinese = "香蕉臺主持人"
+   [19341]
+    0 TableSoItemLang data
+     0 int id = 1029342
+     1 string schinese = "国民级主持人"

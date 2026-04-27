@@ -1,0 +1,184 @@
+     1 string schinese_censored = "（电话响起……）"
+     1 string english = "(Phone rings...)"
+     1 string japanese = "電話が鳴った…"
+     1 string mchinese = "（電話響起……）"
+   [20768]
+    0 TableSoItemLang data
+     0 int id = 1030771
+     1 string schinese = "（嗯？陌生号码）喂，你好"
+     1 string schinese_censored = "（嗯？陌生号码）喂，你好"
+     1 string english = "(Ah? anonymous caller) Hey, hello."
+     1 string japanese = "（え？知らない番号だ）はい、もしもし。"
+     1 string mchinese = "（嗯？陌生號碼）喂，你好"
+   [20769]
+    0 TableSoItemLang data
+     0 int id = 1030772
+     1 string schinese = "我是牧唯。"
+     1 string schinese_censored = "我是牧唯。"
+     1 string english = "It's me, Danny."
+     1 string japanese = "ム・ウェイよ。"
+     1 string mchinese = "我是牧唯。"
+   [20770]
+    0 TableSoItemLang data
+     0 int id = 1030773
+     1 string schinese = "啊，姐，你怎么样了？"
+     1 string schinese_censored = "啊，姐，你怎么样了？"
+     1 string english = "Ah, hey, how are you?"
+     1 string japanese = "え、お姉さん？調子はどう？"
+     1 string mchinese = "啊，姐，你怎麼樣了？"
+   [20771]
+    0 TableSoItemLang data
+     0 int id = 1030774
+     1 string schinese = "……晚上有空么，找你聊聊，顺便来我家吃个晚饭？"
+     1 string schinese_censored = "……晚上有空么，找你聊聊，顺便来我家吃个晚饭？"
+     1 string english = "... Do you have time this evening? I want to talk. How about coming over for dinner?"
+     1 string japanese = "…今夜時間ある？あなたと話がしたいの。私の家で夕食はどう？"
+     1 string mchinese = "……晚上有空麼，找你聊聊，順便來我家吃個晚飯？"
+   [20772]
+    0 TableSoItemLang data
+     0 int id = 1030775
+     1 string schinese = "当然可以！把地址告诉我吧，呃……是不是网上那个？"
+     1 string schinese_censored = "当然可以！把地址告诉我吧，呃……是不是网上那个？"
+     1 string english = "I would love to! Give me the address. Uhm...is it the one on that website?"
+     1 string japanese = "もちろん！住所を教えてほしいな。あ…もしかしてネットで晒されてるところ？"
+     1 string mchinese = "當然可以！把地址告訴我吧，呃……是不是網上那個？"
+   [20773]
+    0 TableSoItemLang data
+     0 int id = 1030776
+     1 string schinese = "不是，这几天上门的狗仔跟记者太多了，我们搬到另一个地方了。"
+     1 string schinese_censored = "不是，这几天上门的狗仔跟记者太多了，我们搬到另一个地方了。"
+     1 string english = "No, there are just too many paparazzi these days. I've moved to a new address."
+     1 string japanese = "違うわ。最近は記者とかうるさくて…引っ越したの。"
+     1 string mchinese = "不是，這幾天上門的狗仔跟記者太多了，我們搬到另一個地方了。"
+   [20774]
+    0 TableSoItemLang data
+     0 int id = 1030777
+     1 string schinese = "……对不起"
+     1 string schinese_censored = "……对不起"
+     1 string english = "...That's tough."
+     1 string japanese = "…ごめん。"
+     1 string mchinese = "……對不起"
+   [20775]
+    0 TableSoItemLang data
+     0 int id = 1030778
+     1 string schinese = "哎呀，又不是你的错，你不要再跟我道歉了，我把地址告诉你，放学后就过来吧。"
+     1 string schinese_censored = "哎呀，又不是你的错，你不要再跟我道歉了，我把地址告诉你，放学后就过来吧。"
+     1 string english = "Ah, well that's how it is. Anyway, I'll give you the address, come on over after school."
+     1 string japanese = "別にあなたが悪いワケじゃないでしょ。前も言ったけど謝らないで。住所を教えるから、学校が終わったら来て。"
+     1 string mchinese = "哎呀，又不是你的錯，你不要再跟我道歉了，我把地址告訴你，放學後就過來吧。"
+   [20776]
+    0 TableSoItemLang data
+     0 int id = 1030779
+     1 string schinese = "好！到时候见！"
+     1 string schinese_censored = "好！到时候见！"
+     1 string english = "Okay! See you!"
+     1 string japanese = "ああ！また後でね！"
+     1 string mchinese = "好！到時候見！"
+   [20777]
+    0 TableSoItemLang data
+     0 int id = 1030780
+     1 string schinese = "欢迎欢迎！进来吧，马上就开饭了~"
+     1 string schinese_censored = "欢迎欢迎！进来吧，马上就开饭了~"
+     1 string english = "Welcome! Come on in, the food is almost ready."
+     1 string japanese = "ようこそ！入って、すぐに夕食を用意するわ！"
+     1 string mchinese = "歡迎歡迎！進來吧，馬上就開飯了~"
+   [20778]
+    0 TableSoItemLang data
+     0 int id = 1030781
+     1 string schinese = "好的，打扰了……"
+     1 string schinese_censored = "好的，打扰了……"
+     1 string english = "Thanks for having me..."
+     1 string japanese = "おじゃまします…"
+     1 string mchinese = "好的，打擾了……"
+   [20779]
+    0 TableSoItemLang data
+     0 int id = 1030782
+     1 string schinese = "哥哥，你是姐姐的男朋友么？"
+     1 string schinese_censored = "哥哥，你是姐姐的男朋友么？"
+     1 string english = "Hey, are you my sister's boyfriend?"
+     1 string japanese = "お兄さんはお姉ちゃんの彼氏？"
+     1 string mchinese = "哥哥，你是姐姐的男朋友麼？"
+   [20780]
+    0 TableSoItemLang data
+     0 int id = 1030783
+     1 string schinese = "噗，不是不是……"
+     1 string schinese_censored = "噗，不是不是……"
+     1 string english = "Uhm, no..."
+     1 string japanese = "え、いやいや…"
+     1 string mchinese = "噗，不是不是……"
+   [20781]
+    0 TableSoItemLang data
+     0 int id = 1030784
+     1 string schinese = "哼，就他？就这样还想泡我姐？"
+     1 string schinese_censored = "哼，就他？就这样还想泡我姐？"
+     1 string english = "Humph, him? You wanna get it on with her?"
+     1 string japanese = "え、違うの？それじゃ彼氏になりたい人？"
+     1 string mchinese = "哼，就他？就這樣還想泡我姐？"
+   [20782]
+    0 TableSoItemLang data
+     0 int id = 1030785
+     1 string schinese = "你们俩又欠揍了是不是！怎么跟客人说话呢！快去洗手，准备吃饭了！"
+     1 string schinese_censored = "你们俩又欠揍了是不是！怎么跟客人说话呢！快去洗手，准备吃饭了！"
+     1 string english = "Do you want a beating or what!? Mind your language! Go wash your hands, the food's ready!"
+     1 string japanese = "あなたたち、また怒られたいの！？お客さんに失礼でしょ！ご飯の前に手を洗ってきなさい！"
+     1 string mchinese = "你們倆又欠揍了是不是！怎麼跟客人說話呢！快去洗手，準備吃飯了！"
+   [20783]
+    0 TableSoItemLang data
+     0 int id = 1030786
+     1 string schinese = "抱歉哈，他俩在家好久没见过有人来玩了，说话口无遮拦的。"
+     1 string schinese_censored = "抱歉哈，他俩在家好久没见过有人来玩了，说话口无遮拦的。"
+     1 string english = "I'm sorry. The two of them have been cooped up inside for too long and don't have anyone to play with. They just say whatever comes to mind."
+     1 string japanese = "ごめんなさい。２人ともお客さんと会うのが久しぶりなの。テンションが上がっちゃってるのね。"
+     1 string mchinese = "抱歉哈，他倆在家好久沒見過有人來玩了，說話口無遮攔的。"
+   [20784]
+    0 TableSoItemLang data
+     0 int id = 1030787
+     1 string schinese = "啊哈哈，没事没事。啊，您就是奶奶吧，奶奶您好。我是牧唯的同学。"
+     1 string schinese_censored = "啊哈哈，没事没事。啊，您就是奶奶吧，奶奶您好。我是牧唯的同学。"
+     1 string english = "Hahaha, that's all right. Ah, you must be her grandma, hi. I'm Danny's classmate."
+     1 string japanese = "アハハ、気にしないで。ああ、おばあちゃんですか。こんにちは。ム・ウェイさんの同級生です。"
+     1 string mchinese = "啊哈哈，沒事沒事。啊，您就是奶奶吧，奶奶您好。我是牧唯的同學。"
+   [20785]
+    0 TableSoItemLang data
+     0 int id = 1030788
+     1 string schinese = "你好你好，哎呀，欢迎欢迎啊，小唯还是第一次带朋友回家呢，嗯，这小伙子不错。"
+     1 string schinese_censored = "你好你好，哎呀，欢迎欢迎啊，小唯还是第一次带朋友回家呢，嗯，这小伙子不错。"
+     1 string english = "Hello there, ah, welcome! It's the first time Danny brings a friend home. Mm, you aren't too bad."
+     1 string japanese = "あら、こんにちは。ようこそ。ウェイちゃんが友達を連れて来たのは初めてなの。男前のいい人ね。"
+     1 string mchinese = "你好你好，哎呀，歡迎歡迎啊，小唯還是第一次帶朋友回家呢，嗯，這小夥子不錯。"
+   [20786]
+    0 TableSoItemLang data
+     0 int id = 1030789
+     1 string schinese = "好了，饭做好了，快来吃饭吧，不用客气哦"
+     1 string schinese_censored = "好了，饭做好了，快来吃饭吧，不用客气哦"
+     1 string english = "Okay, the food is ready. Help yourself!"
+     1 string japanese = "さあ、ご飯の準備ができたわ。こっちに来て。"
+     1 string mchinese = "好了，飯做好了，快來吃飯吧，不用客氣哦"
+   [20787]
+    0 TableSoItemLang data
+     0 int id = 1030790
+     1 string schinese = "嗯~好香啊，那我就不客气了"
+     1 string schinese_censored = "嗯~好香啊，那我就不客气了"
+     1 string english = "Wow, it smells wonderful!"
+     1 string japanese = "う～ん、すっごくいい香り！いただきます！"
+     1 string mchinese = "嗯~好香啊，那我就不客氣了"
+   [20788]
+    0 TableSoItemLang data
+     0 int id = 1030791
+     1 string schinese = "（吃完饭后，两人散步……）"
+     1 string schinese_censored = "（吃完饭后，两人散步……）"
+     1 string english = "(The two goes for a walk after dinner...)"
+     1 string japanese = "夕食後、２人は歩きながら…"
+     1 string mchinese = "（吃完飯後，兩人散步……）"
+   [20789]
+    0 TableSoItemLang data
+     0 int id = 1030792
+     1 string schinese = "啊~今天的晚饭太好吃了，没想到你的手艺这么好。"
+     1 string schinese_censored = "啊~今天的晚饭太好吃了，没想到你的手艺这么好。"
+     1 string english = "Wow, the food was great. I didn't know you cooked this well!"
+     1 string japanese = "あー、今日のご飯はとても美味しかったよ。こんなに料理が上手だとは。"
+     1 string mchinese = "啊~今天的晚飯太好吃了，沒想到你的手藝這麼好。"
+   [20790]
+    0 TableSoItemLang data
+     0 int id = 1030793
+     1 string schinese = "哈哈哈，是不是佩服姐姐我了。"

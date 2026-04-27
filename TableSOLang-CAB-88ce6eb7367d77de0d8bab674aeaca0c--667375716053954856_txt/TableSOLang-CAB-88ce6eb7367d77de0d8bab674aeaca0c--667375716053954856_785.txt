@@ -1,0 +1,184 @@
+     1 string schinese_censored = "理综"
+     1 string english = "Science"
+     1 string japanese = "総合理系"
+     1 string mchinese = "理綜"
+   [18031]
+    0 TableSoItemLang data
+     0 int id = 1028032
+     1 string schinese = "文综"
+     1 string schinese_censored = "文综"
+     1 string english = "Arts"
+     1 string japanese = "総合文系"
+     1 string mchinese = "文綜"
+   [18032]
+    0 TableSoItemLang data
+     0 int id = 1028033
+     1 string schinese = "总分：{0}/{1}"
+     1 string schinese_censored = "总分：{0}/{1}"
+     1 string english = "Score: {0}/{1}"
+     1 string japanese = "総合点：{0}/{1}"
+     1 string mchinese = "總分：{0}/{1}"
+   [18033]
+    0 TableSoItemLang data
+     0 int id = 1028034
+     1 string schinese = "恭喜得奖！并且获得悟性{0}点！父母面子值增加{1}点！"
+     1 string schinese_censored = "恭喜得奖！并且获得悟性{0}点！父母面子增加{1}点！"
+     1 string english = "Congrats on the reward! You acquired {0} Knowledge! Face increased by {1}!"
+     1 string japanese = "おめでとう！理解力{0}獲得！両親のメンツ{1}増加！"
+     1 string mchinese = "恭喜得獎！並且獲得悟性{0}點！父母面子值增加{1}點！"
+   [18034]
+    0 TableSoItemLang data
+     0 int id = 1028035
+     1 string schinese = "才华"
+     1 string schinese_censored = "才华"
+     1 string english = "Talented"
+     1 string japanese = "才能"
+     1 string mchinese = "才華"
+   [18035]
+    0 TableSoItemLang data
+     0 int id = 1028036
+     1 string schinese = "猎奇"
+     1 string schinese_censored = "猎奇"
+     1 string english = "Curious"
+     1 string japanese = "ヘンテコ"
+     1 string mchinese = "獵奇"
+   [18036]
+    0 TableSoItemLang data
+     0 int id = 1028037
+     1 string schinese = "情怀"
+     1 string schinese_censored = "情怀"
+     1 string english = "Compassionate"
+     1 string japanese = "情緒"
+     1 string mchinese = "情懷"
+   [18037]
+    0 TableSoItemLang data
+     0 int id = 1028038
+     1 string schinese = "本次才艺大赛主要以评选<color=#EB7350>" {0} "</color>为主,请问你要选择什么特长来参赛呢？（特长点数越高、评选方向所需属性越高，得奖机会越大）"
+     1 string schinese_censored = "本次选秀主要以评选<color=#EB7350>" {0} "</color>为主,请问你要选择什么特长来参赛呢？（特长点数越高、评选方向所需属性越高，得奖机会越大）"
+     1 string english = "This talent show is aimed at choosing a(n) <color=#EB7350>"{0}"</color>. Which trait will you participate with? (Traits with a higher score tend to give higher stats and better rewards)"
+     1 string japanese = "今回のオーディションのジャンルは<color=#EB7350>「{0}」</color>だ。どの特技で応募する？（特技の点数、評判に合う能力値が高いほど受賞確率が高い）"
+     1 string mchinese = "本次才藝大賽主要以評選<color=#EB7350>" {0} "</color>為主,請問你要選擇什麼特長來參賽呢？（特長點數越高、評選方向所需屬性越高，得獎機會越大）"
+   [18038]
+    0 TableSoItemLang data
+     0 int id = 1028039
+     1 string schinese = "这次选班干部，希望大家有自己的判断！不要被别的因素影响，当然我个人觉得{0}很不错，你们看着办。"
+     1 string schinese_censored = "这次选班干部，希望大家有自己的判断！不要被别的因素影响，当然我个人觉得{0}很不错，你们看着办。"
+     1 string english = "For the class president selection, I implore you to make your own judgments! Do your best to not be swayed by outside information - I for one believe {0} to be a good choice - but just do as you wish!"
+     1 string japanese = "学級委員長の選挙では周りに流されず、自分の判断を示してくださいね。個人的には{0}が適任だと思いますが、選択権は皆さんにあります。"
+     1 string mchinese = "這次選班幹部，希望大家有自己的判斷！不要被別的因素影響，當然我個人覺得{0}很不錯，你們看著辦。"
+   [18039]
+    0 TableSoItemLang data
+     0 int id = 1028040
+     1 string schinese = "该轮到我来行动了。"
+     1 string schinese_censored = "该轮到我来行动了。"
+     1 string english = "It's my turn to act."
+     1 string japanese = "さあ、私の番だ。"
+     1 string mchinese = "該輪到我來行動了。"
+   [18040]
+    0 TableSoItemLang data
+     0 int id = 1028041
+     1 string schinese = "当前剩余{0}回合"
+     1 string schinese_censored = "当前剩余{0}回合"
+     1 string english = "{0} turns remaining."
+     1 string japanese = "残りターン：{0}"
+     1 string mchinese = "當前剩餘{0}回合"
+   [18041]
+    0 TableSoItemLang data
+     0 int id = 1028042
+     1 string schinese = "帮助同学"
+     1 string schinese_censored = "帮助同学"
+     1 string english = "Assist"
+     1 string japanese = "同級生を助ける"
+     1 string mchinese = "幫助同學"
+   [18042]
+    0 TableSoItemLang data
+     0 int id = 1028043
+     1 string schinese = "自我宣传"
+     1 string schinese_censored = "自我宣传"
+     1 string english = "Promote"
+     1 string japanese = "自己アピール"
+     1 string mchinese = "自我宣傳"
+   [18043]
+    0 TableSoItemLang data
+     0 int id = 1028044
+     1 string schinese = "亲近老师"
+     1 string schinese_censored = "亲近老师"
+     1 string english = "Flatter"
+     1 string japanese = "先生と親しくする"
+     1 string mchinese = "親近老師"
+   [18044]
+    0 TableSoItemLang data
+     0 int id = 1028045
+     1 string schinese = "道德声讨"
+     1 string schinese_censored = "道德声讨"
+     1 string english = "Denounce"
+     1 string japanese = "道徳非難"
+     1 string mchinese = "道德聲討"
+   [18045]
+    0 TableSoItemLang data
+     0 int id = 1028046
+     1 string schinese = "打小报告"
+     1 string schinese_censored = "打小报告"
+     1 string english = "Report"
+     1 string japanese = "告発"
+     1 string mchinese = "打小報告"
+   [18046]
+    0 TableSoItemLang data
+     0 int id = 1028047
+     1 string schinese = "孤立"
+     1 string schinese_censored = "孤立"
+     1 string english = "Isolate"
+     1 string japanese = "孤立"
+     1 string mchinese = "孤立"
+   [18047]
+    0 TableSoItemLang data
+     0 int id = 1028048
+     1 string schinese = "结盟"
+     1 string schinese_censored = "结盟"
+     1 string english = "Ally"
+     1 string japanese = "同盟"
+     1 string mchinese = "結盟"
+   [18048]
+    0 TableSoItemLang data
+     0 int id = 1028049
+     1 string schinese = "可提升群众基础，魅力越高增幅越大。但会略微降低师生关系。有一定几率留下话柄，被别人攻击。"
+     1 string schinese_censored = "可提升群众基础，魅力越高增幅越大。但会略微降低师生关系。有一定几率留下话柄，被别人攻击。"
+     1 string english = "Increases popularity based on Charm. Slightly worsens relationship with the teacher. May make you appear dishonorable, attracting other's attention."
+     1 string japanese = "魅力が高いほど同級生の支持率は上がるが、先生との関係は悪くなる。当選に不利な噂を残す恐れがある。"
+     1 string mchinese = "可提升群眾基礎，魅力越高增幅越大。但會略微降低師生關係。有一定幾率留下話柄，被別人攻擊。"
+   [18049]
+    0 TableSoItemLang data
+     0 int id = 1028050
+     1 string schinese = "可提升品德表率，情商越高增幅越大。但会略微丧失群众基础。"
+     1 string schinese_censored = "可提升品德表率，情绪力越高增幅越大。但会略微丧失群众基础。"
+     1 string english = "Increases your Morality based on your EQ. Slightly worsens your standing with the masses."
+     1 string japanese = "ＥＱが高いほど道徳模範値は上がるが、他の人から嫉妬される恐れがある。"
+     1 string mchinese = "可提升品德表率，情商越高增幅越大。但會略微喪失群眾基礎。"
+   [18050]
+    0 TableSoItemLang data
+     0 int id = 1028051
+     1 string schinese = "可增进师生关系，父母面子值越高增幅越大。但会影响自己的品德表率，有一定几率留下话柄。"
+     1 string schinese_censored = "可增进师生关系，父母面子越高增幅越大。但会影响自己的品德表率，有一定几率留下话柄。"
+     1 string english = "Improves your relationship with the class teacher based on your Face. Slightly worsens your Morality. Has a chance of making you appear dishonorable."
+     1 string japanese = "先生との関係を良くする。両親のメンツが高いほど効果は上がるが、道徳模範に悪い影響をもたらし、当選に不利な噂を残す恐れがある。"
+     1 string mchinese = "可增進師生關係，父母面子值越高增幅越大。但會影響自己的品德表率，有一定幾率留下話柄。"
+   [18051]
+    0 TableSoItemLang data
+     0 int id = 1028052
+     1 string schinese = "针对对方话柄进行道德谴责，影响对方的品德表率，同时自身品德表率也会降低。大概率留下话柄。"
+     1 string schinese_censored = "针对对方话柄进行道德谴责，影响对方的品德表率，同时自身品德表率也会降低。大概率留下话柄。"
+     1 string english = "Condemn a dishonorable student's morals. Affects theirs as well as yours Morality. Has a large chance of making you appear dishonorable."
+     1 string japanese = "相手を道徳的に非難し、道徳模範値を下げるが、自分の道徳模範値も影響される。当選に不利な噂を残す恐れがある。"
+     1 string mchinese = "針對對方話柄進行道德譴責，影響對方的品德表率，同時自身品德表率也會降低。大概率留下話柄。"
+   [18052]
+    0 TableSoItemLang data
+     0 int id = 1028053
+     1 string schinese = "针对对方话柄向老师打小报告，降低对方的师生关系并提升自己的师生关系！但群众基础会有所降低。"
+     1 string schinese_censored = "针对对方话柄向老师打小报告，降低对方的师生关系并提升自己的师生关系！但群众基础会有所降低。"
+     1 string english = "Report a dishonorable student to the class teacher. Worsens their relationship with the teacher, while also making the teacher trust you! Worsens your standing with the masses."
+     1 string japanese = "相手の噂を先生に告発し、先生との関係に影響を与える。先生から信頼されるが、同級生の支持率は下がる。"
+     1 string mchinese = "針對對方話柄向老師打小報告，降低對方的師生關係並提升自己的師生關係！但群眾基礎會有所降低。"
+   [18053]
+    0 TableSoItemLang data
+     0 int id = 1028054
+     1 string schinese = "孤立对方，让对方失去一定的群众基础。但自身和老师的关系会产生影响，大概率会留下话柄。"

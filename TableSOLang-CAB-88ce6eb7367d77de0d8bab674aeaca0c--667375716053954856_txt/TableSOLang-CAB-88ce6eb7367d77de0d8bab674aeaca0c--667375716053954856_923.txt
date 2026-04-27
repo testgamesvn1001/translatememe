@@ -1,0 +1,184 @@
+     1 string schinese_censored = "正在加载资源..."
+     1 string english = "Loading resources..."
+     1 string japanese = "リソースロード中…"
+     1 string mchinese = "正在加載資源..."
+   [21205]
+    0 TableSoItemLang data
+     0 int id = 5500106
+     1 string schinese = "正在加载场景..."
+     1 string schinese_censored = "正在加载场景..."
+     1 string english = "Loading scenes..."
+     1 string japanese = "シーンロード中…"
+     1 string mchinese = "正在加載場景..."
+   [21206]
+    0 TableSoItemLang data
+     0 int id = 5500107
+     1 string schinese = "加载完毕"
+     1 string schinese_censored = "加载完毕"
+     1 string english = "Loading complete."
+     1 string japanese = "ロード完了"
+     1 string mchinese = "加載完畢"
+   [21207]
+    0 TableSoItemLang data
+     0 int id = 5500108
+     1 string schinese = "学区房免费入学"
+     1 string schinese_censored = "学区房免费入学"
+     1 string english = "Tuition Exempted for School District Housing"
+     1 string japanese = "学区内住宅で無料入学"
+     1 string mchinese = "學區房免費入學"
+   [21208]
+    0 TableSoItemLang data
+     0 int id = 5500109
+     1 string schinese = "购买学区房"
+     1 string schinese_censored = "购买学区房"
+     1 string english = "Buy School District Housing"
+     1 string japanese = "学区内住宅購入"
+     1 string mchinese = "購買學區房"
+   [21209]
+    0 TableSoItemLang data
+     0 int id = 5500110
+     1 string schinese = "好消息！好消息！\n优质学区房低价出售中！\n住上学区房，直接就近免费入学！"
+     1 string schinese_censored = "好消息！好消息！\n优质学区房低价出售中！\n住上学区房，直接就近免费入学！"
+     1 string english = "Good news! Good news!\nCheap house near a school!\nBuy one and be exempt from admission tuition!"
+     1 string japanese = "グッドニュース！グッドニュース！\nハイクオリティーの学区内住宅が安値で販売中！\n学区内住宅に住めば、タダで入学できるも同然！"
+     1 string mchinese = "好消息！好消息！\n優質學區房低價出售中！\n住上學區房，直接就近免費入學！"
+   [21210]
+    0 TableSoItemLang data
+     0 int id = 5500111
+     1 string schinese = "￥{0}"
+     1 string schinese_censored = "￥{0}"
+     1 string english = "¥ {0}"
+     1 string japanese = "￥{0}"
+     1 string mchinese = "￥{0}"
+   [21211]
+    0 TableSoItemLang data
+     0 int id = 5500112
+     1 string schinese = "你获得了"
+     1 string schinese_censored = "你获得了"
+     1 string english = "You acquired"
+     1 string japanese = "獲得！"
+     1 string mchinese = "你獲得了"
+   [21212]
+    0 TableSoItemLang data
+     0 int id = 5500113
+     1 string schinese = "正在登录...请稍后"
+     1 string schinese_censored = "正在登录...请稍后"
+     1 string english = "Logging in, please wait..."
+     1 string japanese = "ログイン中です…しばらくお待ちください"
+     1 string mchinese = "正在登錄...請稍後"
+   [21213]
+    0 TableSoItemLang data
+     0 int id = 5500114
+     1 string schinese = "正在充值...请稍后"
+     1 string schinese_censored = "正在充值...请稍后"
+     1 string english = "Topping up, please wait..."
+     1 string japanese = "チャージ中です…しばらくお待ちください"
+     1 string mchinese = "正在充值...請稍後"
+   [21214]
+    0 TableSoItemLang data
+     0 int id = 5500115
+     1 string schinese = "分享到："
+     1 string schinese_censored = "分享到："
+     1 string english = "Share to:"
+     1 string japanese = "シェア："
+     1 string mchinese = "分享到："
+   [21215]
+    0 TableSoItemLang data
+     0 int id = 5500116
+     1 string schinese = "微信朋友圈"
+     1 string schinese_censored = "微信朋友圈"
+     1 string english = "WeChat Moments"
+     1 string japanese = "WeChat Moments"
+     1 string mchinese = "微信朋友圈"
+   [21216]
+    0 TableSoItemLang data
+     0 int id = 5500117
+     1 string schinese = "QQ空间"
+     1 string schinese_censored = "QQ空间"
+     1 string english = "QQ Space"
+     1 string japanese = "QQ Space"
+     1 string mchinese = "QQ空間"
+   [21217]
+    0 TableSoItemLang data
+     0 int id = 5500118
+     1 string schinese = "等待超时，请稍后重试。"
+     1 string schinese_censored = "等待超时，请稍后重试。"
+     1 string english = "Timed out, please try again later."
+     1 string japanese = "タイムアウト。後ほど改めてお試しください。"
+     1 string mchinese = "等待超時，請稍後重試。"
+   [21218]
+    0 TableSoItemLang data
+     0 int id = 5500119
+     1 string schinese = "正在切换账号...请稍后"
+     1 string schinese_censored = "正在切换账号...请稍后"
+     1 string english = "Changing accounts, please wait..."
+     1 string japanese = "アカウント切替中です…しばらくお待ちください"
+     1 string mchinese = "正在切換帳號...請稍後"
+   [21219]
+    0 TableSoItemLang data
+     0 int id = 5500120
+     1 string schinese = "游戏ID："
+     1 string schinese_censored = "游戏ID："
+     1 string english = "User ID:"
+     1 string japanese = "ゲームＩＤ："
+     1 string mchinese = "遊戲ID："
+   [21220]
+    0 TableSoItemLang data
+     0 int id = 5500121
+     1 string schinese = "前往兑换页面"
+     1 string schinese_censored = "前往兑换页面"
+     1 string english = "Go to the Redeem menu."
+     1 string japanese = "PC/NS不用翻譯"
+     1 string mchinese = "前往兌換頁面"
+   [21221]
+    0 TableSoItemLang data
+     0 int id = 5500122
+     1 string schinese = "{0}已经无法再继续为父母赢得面子了！"
+     1 string schinese_censored = "{0}已经无法再继续为父母赢得面子了！"
+     1 string english = "{0} cannot win any more Face for your parents!"
+     1 string japanese = "{0}ではもうメンツを立てられないぞ！"
+     1 string mchinese = "{0}已經無法再繼續為父母贏得面子了！"
+   [21222]
+    0 TableSoItemLang data
+     0 int id = 5500123
+     1 string schinese = "正在购买...请稍后"
+     1 string schinese_censored = "正在购买...请稍后"
+     1 string english = "Purchasing, please wait..."
+     1 string japanese = "購入中です…しばらくお待ちください"
+     1 string mchinese = "正在購買...請稍後"
+   [21223]
+    0 TableSoItemLang data
+     0 int id = 5500124
+     1 string schinese = "正在确认订单...请稍后"
+     1 string schinese_censored = "正在确认订单...请稍后"
+     1 string english = "Confirming order, please wait..."
+     1 string japanese = "注文を確認中です…しばらくお待ちください"
+     1 string mchinese = "正在確認訂單...請稍後"
+   [21224]
+    0 TableSoItemLang data
+     0 int id = 5500125
+     1 string schinese = "支付未成功，请稍后再试。"
+     1 string schinese_censored = "支付未成功，请稍后再试。"
+     1 string english = "Payment still in progress, please try again later."
+     1 string japanese = "支払は完了していません。後ほど改めてお試しください。"
+     1 string mchinese = "支付未成功，請稍後再試。"
+   [21225]
+    0 TableSoItemLang data
+     0 int id = 5500126
+     1 string schinese = "订单处理超时，请稍后尝试点击设置页面的[恢复购买]按钮来重新处理订单。"
+     1 string schinese_censored = "订单处理超时，请稍后尝试点击设置页面的[恢复购买]按钮来重新处理订单。"
+     1 string english = "Order timed out, please try again later or tap [Restore Purchases] to return to your order."
+     1 string japanese = "注文の処理がタイムアウトしました。設定画面の[再ダウンロード]ボタンを押して注文の再処理をお試しください。"
+     1 string mchinese = "訂單處理超時，請稍後嘗試點擊設置頁面的[恢復購買]按鈕來重新處理訂單。"
+   [21226]
+    0 TableSoItemLang data
+     0 int id = 5500127
+     1 string schinese = "订单验证失败，请联系客服。"
+     1 string schinese_censored = "订单验证失败，请联系客服。"
+     1 string english = "Order verification failed, please contact customer support."
+     1 string japanese = "注文認証に失敗しました。カスタマーサポートにお問い合わせください。"
+     1 string mchinese = "訂單驗證失敗，請聯繫客服。"
+   [21227]
+    0 TableSoItemLang data
+     0 int id = 5500128
+     1 string schinese = "登录超时，请点击重新尝试？"

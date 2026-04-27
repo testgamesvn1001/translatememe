@@ -1,0 +1,184 @@
+     1 string schinese_censored = "冷却中，下回合可挑战"
+     1 string english = "On cooldown. Wait for next turn to issue a challenge."
+     1 string japanese = "休憩中、次のターンで挑戦できます"
+     1 string mchinese = "冷卻中，下回合可挑戰"
+   [18307]
+    0 TableSoItemLang data
+     0 int id = 1028308
+     1 string schinese = "挑战进度"
+     1 string schinese_censored = "挑战进度"
+     1 string english = "Challenge Progress"
+     1 string japanese = "挑戦状況"
+     1 string mchinese = "挑戰進度"
+   [18308]
+    0 TableSoItemLang data
+     0 int id = 1028309
+     1 string schinese = "已击败"
+     1 string schinese_censored = "已击败"
+     1 string english = "Defeated"
+     1 string japanese = "撃破"
+     1 string mchinese = "已擊敗"
+   [18309]
+    0 TableSoItemLang data
+     0 int id = 1028310
+     1 string schinese = "上一个"
+     1 string schinese_censored = "上一个"
+     1 string english = "Previous"
+     1 string japanese = "前へ"
+     1 string mchinese = "上一個"
+   [18310]
+    0 TableSoItemLang data
+     0 int id = 1028311
+     1 string schinese = "下一个"
+     1 string schinese_censored = "下一个"
+     1 string english = "Next"
+     1 string japanese = "次へ"
+     1 string mchinese = "下一個"
+   [18311]
+    0 TableSoItemLang data
+     0 int id = 1028312
+     1 string schinese = "对方已经被你击败"
+     1 string schinese_censored = "对方已经被你击败"
+     1 string english = "You stand victorious."
+     1 string japanese = "挑戦相手を負かした！"
+     1 string mchinese = "對方已經被你擊敗"
+   [18312]
+    0 TableSoItemLang data
+     0 int id = 1028313
+     1 string schinese = "<color=#EB7350>击败奖励</color>: {0}+{1} 特长<{2}>"
+     1 string schinese_censored = "<color=#EB7350>击败奖励</color>: {0}+{1} 特长<{2}>"
+     1 string english = "<color=#EB7350>Victory reward</color>: {0}+{1} Trait <{2}>"
+     1 string japanese = "<color=#EB7350>勝利報酬</color>: {0}+{1} 特技<{2}>"
+     1 string mchinese = "<color=#EB7350>擊敗獎勵</color>: {0}+{1} 特長<{2}>"
+   [18313]
+    0 TableSoItemLang data
+     0 int id = 1028314
+     1 string schinese = "离\n家\n出\n走"
+     1 string schinese_censored = "离\n\n家\n\n出\n\n走"
+     1 string english = "Leave\nhome"
+     1 string japanese = "家\n出"
+     1 string mchinese = "離\n家\n出\n走"
+   [18314]
+    0 TableSoItemLang data
+     0 int id = 1028315
+     1 string schinese = "同学"
+     1 string schinese_censored = "同学"
+     1 string english = "Classmate"
+     1 string japanese = "同級生"
+     1 string mchinese = "同學"
+   [18315]
+    0 TableSoItemLang data
+     0 int id = 1028316
+     1 string schinese = "羁 绊"
+     1 string schinese_censored = "羁 绊"
+     1 string english = "Bond"
+     1 string japanese = "束縛"
+     1 string mchinese = "羈 絆"
+   [18316]
+    0 TableSoItemLang data
+     0 int id = 1028317
+     1 string schinese = "已索取"
+     1 string schinese_censored = "已收取"
+     1 string english = "Granted"
+     1 string japanese = "要求済"
+     1 string mchinese = "已索取"
+   [18317]
+    0 TableSoItemLang data
+     0 int id = 1028318
+     1 string schinese = "安排"
+     1 string schinese_censored = "安排"
+     1 string english = "Schedule"
+     1 string japanese = "予定"
+     1 string mchinese = "安排"
+   [18318]
+    0 TableSoItemLang data
+     0 int id = 1028319
+     1 string schinese = "日程"
+     1 string schinese_censored = "日程"
+     1 string english = "Calendar"
+     1 string japanese = "日程"
+     1 string mchinese = "日程"
+   [18319]
+    0 TableSoItemLang data
+     0 int id = 1028320
+     1 string schinese = "当前属性"
+     1 string schinese_censored = "当前属性"
+     1 string english = "Stats"
+     1 string japanese = "現能力"
+     1 string mchinese = "當前屬性"
+   [18320]
+    0 TableSoItemLang data
+     0 int id = 1028321
+     1 string schinese = "天赋属性"
+     1 string schinese_censored = "天赋属性"
+     1 string english = "Talents"
+     1 string japanese = "天賦能力"
+     1 string mchinese = "天賦屬性"
+   [18321]
+    0 TableSoItemLang data
+     0 int id = 1028322
+     1 string schinese = "换一组"
+     1 string schinese_censored = "换一组"
+     1 string english = "Refresh"
+     1 string japanese = "変更"
+     1 string mchinese = "換一組"
+   [18322]
+    0 TableSoItemLang data
+     0 int id = 1028323
+     1 string schinese = "师生关系"
+     1 string schinese_censored = "师生关系"
+     1 string english = "Relationship"
+     1 string japanese = "先生との関係"
+     1 string mchinese = "師生關係"
+   [18323]
+    0 TableSoItemLang data
+     0 int id = 1028324
+     1 string schinese = "品德表率"
+     1 string schinese_censored = "品德表率"
+     1 string english = "Morality"
+     1 string japanese = "道徳模範値"
+     1 string mchinese = "品德表率"
+   [18324]
+    0 TableSoItemLang data
+     0 int id = 1028325
+     1 string schinese = "群众基础"
+     1 string schinese_censored = "群众基础"
+     1 string english = "Likeability"
+     1 string japanese = "同級生支持率"
+     1 string mchinese = "群眾基礎"
+   [18325]
+    0 TableSoItemLang data
+     0 int id = 1028326
+     1 string schinese = "成功率"
+     1 string schinese_censored = "成功率"
+     1 string english = "Success rate:"
+     1 string japanese = "成功率"
+     1 string mchinese = "成功率"
+   [18326]
+    0 TableSoItemLang data
+     0 int id = 1028327
+     1 string schinese = "换卷子"
+     1 string schinese_censored = "换卷子"
+     1 string english = "New Exam"
+     1 string japanese = "問題変更"
+     1 string mchinese = "換卷子"
+   [18327]
+    0 TableSoItemLang data
+     0 int id = 1028328
+     1 string schinese = "成绩单"
+     1 string schinese_censored = "成绩单"
+     1 string english = "Exam Marks"
+     1 string japanese = "成績表"
+     1 string mchinese = "成績單"
+   [18328]
+    0 TableSoItemLang data
+     0 int id = 1028329
+     1 string schinese = "学会技能"
+     1 string schinese_censored = "学会技能"
+     1 string english = "Skill learned"
+     1 string japanese = "スキル習得"
+     1 string mchinese = "學會技能"
+   [18329]
+    0 TableSoItemLang data
+     0 int id = 1028330
+     1 string schinese = "完成期望"

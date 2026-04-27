@@ -1,0 +1,184 @@
+     1 string schinese_censored = "哈哈，不是，因为听说是你跟杨姐交涉，还为我的事情跑来跑去，不然我应该会被雪藏吧……"
+     1 string english = "Haha, no. I've heard you're the one negotiating with Cecilia, running here and there to deal with my things. I'd probably get buried in work if not for you..."
+     1 string japanese = "ハハ、違うよ。ヤンさんと交渉してくれたんだろ。そうじゃなかったら、謹慎させられてたよ…"
+     1 string mchinese = "哈哈，不是，因為聽說是你跟楊姐交涉，還為我的事情跑來跑去，不然我應該會被雪藏吧……"
+   [20929]
+    0 TableSoItemLang data
+     0 int id = 1030932
+     1 string schinese = "关于这个……其实，杨姐她，还是决定……"
+     1 string schinese_censored = "关于这个……其实，杨姐她，还是决定……"
+     1 string english = "Regarding that... Uhm, Cecilia... Has decided..."
+     1 string japanese = "それね…実は…ヤンさんは…後で話があるって…"
+     1 string mchinese = "關於這個……其實，楊姐她，還是決定……"
+   [20930]
+    0 TableSoItemLang data
+     0 int id = 1030933
+     1 string schinese = "噢……哈哈明白了，没关系……可以理解。"
+     1 string schinese_censored = "噢……哈哈明白了，没关系……可以理解。"
+     1 string english = "Ah-haha, I see. Oh well...that's that."
+     1 string japanese = "あっ、そう…ハハ、当然だね。大丈夫…なんとかなるさ…"
+     1 string mchinese = "噢……哈哈明白了，沒關係……可以理解。"
+   [20931]
+    0 TableSoItemLang data
+     0 int id = 1030934
+     1 string schinese = "……嗯……对了！所以上次你跟牧唯探讨的那个关于如何平衡生活和工作的问题有什么心得?"
+     1 string schinese_censored = "……嗯……对了！所以上次你跟牧唯探讨的那个关于如何平衡生活和工作的问题有什么心得?"
+     1 string english = "...Ah... Yes! Anyway, what do you think about striking a balance between work and life; like what you talked about with Danny?"
+     1 string japanese = "…えっと…そうだ！前に話してた生活と仕事のバランスってどういう話だったの？"
+     1 string mchinese = "……嗯……對了！所以上次你跟牧唯探討的那個關於如何平衡生活和工作的問題有什麼心得?"
+   [20932]
+    0 TableSoItemLang data
+     0 int id = 1030935
+     1 string schinese = "噢……上次不是说给你说一下家庭问题么？"
+     1 string schinese_censored = "噢……上次不是说给你说一下家庭问题么？"
+     1 string english = "Ah... I did say I would tell you about some family things, right?"
+     1 string japanese = "うーん…この前、家庭の事情があるって話しただろ？"
+     1 string mchinese = "噢……上次不是說給你說一下家庭問題麼？"
+   [20933]
+    0 TableSoItemLang data
+     0 int id = 1030936
+     1 string schinese = "嗯……跟那个有关系么?"
+     1 string schinese_censored = "嗯……跟那个有关系么?"
+     1 string english = "Yes... What does that have to do with this?"
+     1 string japanese = "ええ…それと関係あるの？"
+     1 string mchinese = "嗯……跟那個有關系麼?"
+   [20934]
+    0 TableSoItemLang data
+     0 int id = 1030937
+     1 string schinese = "嗯，因为现在我是自己住，其实我不像牧唯那样担心家庭和生活的问题。"
+     1 string schinese_censored = "嗯，因为现在我是自己住，其实我不像牧唯那样担心家庭和生活的问题。"
+     1 string english = "Well, because I live by myself. I don't have to worry about family and life like Danny does."
+     1 string japanese = "ああ、今は一人暮らしだから、ム・ウェイほど家族のことは心配してないんだ。"
+     1 string mchinese = "嗯，因為現在我是自己住，其實我不像牧唯那樣擔心家庭和生活的問題。"
+   [20935]
+    0 TableSoItemLang data
+     0 int id = 1030938
+     1 string schinese = "自己住？"
+     1 string schinese_censored = "自己住？"
+     1 string english = "Live by yourself?"
+     1 string japanese = "一人暮らし？"
+     1 string mchinese = "自己住？"
+   [20936]
+    0 TableSoItemLang data
+     0 int id = 1030939
+     1 string schinese = "嗯，因为我爸有打人的恶习，所以我爸妈在我很小的时候就离婚了。"
+     1 string schinese_censored = "嗯，因为我爸有打人的恶习，所以我爸妈在我很小的时候就离婚了。"
+     1 string english = "Yes. My dad has a tendency for violence, so my parents divorced when I was still young."
+     1 string japanese = "ああ、父親はよく手を上げる人だった。それが原因で小さい頃に両親が離婚したんだ。"
+     1 string mchinese = "嗯，因為我爸有打人的惡習，所以我爸媽在我很小的時候就離婚了。"
+   [20937]
+    0 TableSoItemLang data
+     0 int id = 1030940
+     1 string schinese = "但离婚后，我妈就有点神经质，易怒，而且时时刻刻要控制我的生活，估计她是怕我离开她。所以从小就要观察她的脸色，不然就没好果子吃。"
+     1 string schinese_censored = "但离婚后，我妈就有点神经质，易怒，而且时时刻刻要控制我的生活，估计她是怕我离开她。所以从小就要观察她的脸色，不然就没好果子吃。"
+     1 string english = "But after they divorced, my mom had a bit of a mental breakdown. She gets angry easily and wants to control my life. @@I guess she's afraid that I'll leave her. I've always had to keep a close eye on her temper, otherwise there'd be hell to pay."
+     1 string japanese = "離婚後は母親についていった。けど、神経質で怒りっぽくってね。いつも俺の人生をコントロールしようとしてた。逃げられるのが怖かったんだろうな。小さい頃はいつも顔色を伺ってたよ。機嫌が悪いとお菓子をもらえないし。"
+     1 string mchinese = "但離婚後，我媽就有點神經質，易怒，而且時時刻刻要控制我的生活，估計她是怕我離開她。所以從小就要觀察她的臉色，不然就沒好果子吃。"
+   [20938]
+    0 TableSoItemLang data
+     0 int id = 1030941
+     1 string schinese = "我想要逃离那样的生活。正好有遇到偶像海选，当时想着当练习生可以很充实地训练或者演出，就不用回家了。故事就是这样。"
+     1 string schinese_censored = "我想要逃离那样的生活。正好有遇到偶像海选，当时想着当练习生可以很充实地训练或者演出，就不用回家了。故事就是这样。"
+     1 string english = "And I wanted to get away from that life. Then there was this audition, and I thought to myself I could try my hand at it and then perhaps become and actor; that way I wouldn't have to return home. And that's about it."
+     1 string japanese = "そんな生活から逃げ出したかった。そんな時に、ちょうどアイドルのオーディションがあったんだ。訓練生の方が生活を充実できると思ったし、トレーニングで家に帰らなくて済むからね。これが家庭の事情さ。"
+     1 string mchinese = "我想要逃離那樣的生活。正好有遇到偶像海選，當時想著當練習生可以很充實地訓練或者演出，就不用回家了。故事就是這樣。"
+   [20939]
+    0 TableSoItemLang data
+     0 int id = 1030942
+     1 string schinese = "原来……网上那些所谓的爆料都是真的。"
+     1 string schinese_censored = "原来……网上那些所谓的爆料都是真的。"
+     1 string english = "So... The gossip online is all true."
+     1 string japanese = "そうだったの…ネットの晒しは全部真実だったのね。"
+     1 string mchinese = "原來……網上那些所謂的爆料都是真的。"
+   [20940]
+    0 TableSoItemLang data
+     0 int id = 1030943
+     1 string schinese = "对啊，哈哈哈，我之前看到的时候还挺惊讶的，竟然能把这些事情都扒出来。"
+     1 string schinese_censored = "对啊，哈哈哈，我之前看到的时候还挺惊讶的，竟然能把这些事情都扒出来。"
+     1 string english = "Yeah, hahaha. I was quite surprised myself when I first read it, I don't know where they got all that from."
+     1 string japanese = "そうさ、ハハハ。見た時は驚いたけど、よく掘り起こしたよね。"
+     1 string mchinese = "對啊，哈哈哈，我之前看到的時候還挺驚訝的，竟然能把這些事情都扒出來。"
+   [20941]
+    0 TableSoItemLang data
+     0 int id = 1030944
+     1 string schinese = "……嗯……我不知道该说些什么好……"
+     1 string schinese_censored = "……嗯……我不知道该说些什么好……"
+     1 string english = "...Uhm... I don't know what to say..."
+     1 string japanese = "…うーん…なんて言ったらいいか…"
+     1 string mchinese = "……嗯……我不知道該說些什麼好……"
+   [20942]
+    0 TableSoItemLang data
+     0 int id = 1030945
+     1 string schinese = "哎呀，你也不用在意，我早就习惯了，而且现在我偶尔也会回家看看妈妈，她已经好很多了，估计也已经想明白了我是个独立的个体，不能过分的干涉，否则只会越推越远。"
+     1 string schinese_censored = "哎呀，你也不用在意，我早就习惯了，而且现在我偶尔也会回家看看妈妈，她已经好很多了，估计也已经想明白了我是个独立的个体，不能过分的干涉，否则只会越推越远。"
+     1 string english = "Anyway, you needn't worry about that, I've gotten used to it already. I go see my mom every once in a while, and she's getting better. @@I guess she has realized that I am my own person and she needn't interfere so much."
+     1 string japanese = "ハハ、別に気にしないでいいよ。前にも言ったけど慣れてるからね。今はたまに家にも帰ってるんだ。母も昔よりはよくなったし。もう俺は独立した大人だからね。干渉しすぎると逆に嫌われるって理解してるはずさ。"
+     1 string mchinese = "哎呀，你也不用在意，我早就習慣了，而且現在我偶爾也會回家看看媽媽，她已經好很多了，估計也已經想明白了我是個獨立的個體，不能過分的干涉，否則只會越推越遠。"
+   [20943]
+    0 TableSoItemLang data
+     0 int id = 1030946
+     1 string schinese = "嗯，只是没想到你会有这样那样的烦恼"
+     1 string schinese_censored = "嗯，只是没想到你会有这样那样的烦恼"
+     1 string english = "Mm, I just didn't think you had such worries."
+     1 string japanese = "うーん、こんな悩みを抱えてたなんて意外。"
+     1 string mchinese = "嗯，只是沒想到你會有這樣那樣的煩惱"
+   [20944]
+    0 TableSoItemLang data
+     0 int id = 1030947
+     1 string schinese = "幸福的家庭大致相同，不幸的家庭各有各的不幸。比起牧唯来说，已经算好很多了，毕竟想回家的时候，我还能看到我的妈妈。"
+     1 string schinese_censored = "幸福的家庭大致相同，不幸的家庭各有各的不幸。比起牧唯来说，已经算好很多了，毕竟想回家的时候，我还能看到我的妈妈。"
+     1 string english = "Happy families are all the same, but the unhappy ones come in all shapes and sizes. Compared to Danny, my life family ain't so bad. After all, I can still go back home and talk to my mom."
+     1 string japanese = "幸福な家庭はどこも一緒だけど、不幸な家庭はそれぞれ異なる不幸があるんだ。ム・ウェイと比べたらいい方だよ。会おうと思えば母親と会えるからね…"
+     1 string mchinese = "幸福的家庭大致相同，不幸的家庭各有各的不幸。比起牧唯來說，已經算好很多了，畢竟想回家的時候，我還能看到我的媽媽。"
+   [20945]
+    0 TableSoItemLang data
+     0 int id = 1030948
+     1 string schinese = "你……真是比我成熟太多了。"
+     1 string schinese_censored = "你……真是比我成熟太多了。"
+     1 string english = "You...really do feel quite like a grown-up."
+     1 string japanese = "大人みたいなこと言うのね。"
+     1 string mchinese = "你……真是比我成熟太多了。"
+   [20946]
+    0 TableSoItemLang data
+     0 int id = 1030949
+     1 string schinese = "我也想过有一个无忧无虑的青春，但，毕竟生活如此嘛。"
+     1 string schinese_censored = "我也想过有一个无忧无虑的青春，但，毕竟生活如此嘛。"
+     1 string english = "I've dreamt of leading a carefree childhood, but, oh well, life is what it is."
+     1 string japanese = "本当は何も心配のない青春を送りたいんだ。けど、人生ってこんなものだよね。"
+     1 string mchinese = "我也想過有一個無憂無慮的青春，但，畢竟生活如此嘛。"
+   [20947]
+    0 TableSoItemLang data
+     0 int id = 1030950
+     1 string schinese = "以后，我会加油的！"
+     1 string schinese_censored = "以后，我会加油的！"
+     1 string english = "I'll do my best from now on!"
+     1 string japanese = "うん！これからは、もっと頑張る！"
+     1 string mchinese = "以後，我會加油的！"
+   [20948]
+    0 TableSoItemLang data
+     0 int id = 1030951
+     1 string schinese = "嗯？虽然不知道你为什么突然这么说，但我的故事能让你更热爱生活的话，也算是功德一件~"
+     1 string schinese_censored = "嗯？虽然不知道你为什么突然这么说，但我的故事能让你更热爱生活的话，也算是功德一件~"
+     1 string english = "Eh? I don't know why you would suddenly say that, but if my story makes you think better of your life that's a win in itself."
+     1 string japanese = "え？突然どうしたの？まあ、この話でキミを励ませたのなら、話してよかったな！"
+     1 string mchinese = "嗯？雖然不知道你為什麼突然這麼說，但我的故事能讓你更熱愛生活的話，也算是功德一件~"
+   [20949]
+    0 TableSoItemLang data
+     0 int id = 1030952
+     1 string schinese = "嗯！以后继续一起努力吧！"
+     1 string schinese_censored = "嗯！以后继续一起努力吧！"
+     1 string english = "Yeah! I'll really work hard!"
+     1 string japanese = "ええ！これからも一緒に頑張ろ！"
+     1 string mchinese = "嗯！以後繼續一起努力吧！"
+   [20950]
+    0 TableSoItemLang data
+     0 int id = 1030953
+     1 string schinese = "新转来一位同学，她只是长得像艺人牧唯，大家不要想太多影响她噢~"
+     1 string schinese_censored = "新转来一位同学，她只是长得像艺人牧唯，大家不要想太多影响她噢~"
+     1 string english = "A new transfer student. She looks a bit like Danny, but don't mind that!"
+     1 string japanese = "転校生がきました。芸能人のム・ウェイに似てますが別人です。あまり関わらないように。"
+     1 string mchinese = "新轉來一位同學，她只是長得像藝人牧唯，大家不要想太多影響她噢~"
+   [20951]
+    0 TableSoItemLang data
+     0 int id = 1030954
+     1 string schinese = "你看最近的“制造101”的综艺节目了没？"

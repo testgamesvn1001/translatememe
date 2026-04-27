@@ -1,0 +1,184 @@
+     1 string schinese_censored = "授权失败，请重新登录"
+     1 string english = "Permissions failed. Please login again."
+     1 string japanese = "ライセンス付与失敗。再度ログインしてください"
+     1 string mchinese = "授權失敗，請重新登錄"
+   [21297]
+    0 TableSoItemLang data
+     0 int id = 5500198
+     1 string schinese = "注：游客模式无法进行充值和内购"
+     1 string schinese_censored = "注：游客模式无法进行充值和内购"
+     1 string english = "Note: Top up and in-game purchases are not available for guest accounts."
+     1 string japanese = "注：ゲストアカウントではチャージやアプリ内購入ができません"
+     1 string mchinese = "注：遊客模式無法進行充值和內購"
+   [21298]
+    0 TableSoItemLang data
+     0 int id = 5500199
+     1 string schinese = "游客模式无法进行充值和内购"
+     1 string schinese_censored = "游客模式无法进行充值和内购"
+     1 string english = "Top up and in-game purchases are not available for guest accounts."
+     1 string japanese = "ゲストアカウントではチャージやアプリ内購入ができません"
+     1 string mchinese = "遊客模式無法進行充值和內購"
+   [21299]
+    0 TableSoItemLang data
+     0 int id = 5500200
+     1 string schinese = "收集度点数："
+     1 string schinese_censored = "收集度点数："
+     1 string english = "Collection Points:"
+     1 string japanese = "獲得ポイント数："
+     1 string mchinese = "收集度點數："
+   [21300]
+    0 TableSoItemLang data
+     0 int id = 5500201
+     1 string schinese = "家族等级世代相传。\n解锁职业和特长，均会为家族等级累积经验。\n每提升一个家族等级，会获得奖励内容，玩家从下一世代起可以体验对应玩法。"
+     1 string schinese_censored = "家族等级世代相传。\n解锁职业和特长，均会为家族等级累积经验。\n每提升一个家族等级，会获得奖励内容，玩家从下一世代起可以体验对应玩法。"
+     1 string english = "Family Level persists through generations.\nUnlocking new professions and traits grants you Gallery XP.\nRewards unlocked by leveling up your Gallery become available in the next generation."
+     1 string japanese = "図鑑レベルは世代間で引き継げます。\n職業と特技のロックを解除することで、経験値を得てレベルが上昇します。\nレベルアップごとにボーナス特典を得られます。\nボーナス特典は次世代より使用可能です。"
+     1 string mchinese = "家族等級世代相傳。\n解鎖職業和特長，均會為家族等級累積經驗。\n每提升一個家族等級，會獲得獎勵內容，玩家從下一世代起可以體驗對應玩法。"
+   [21301]
+    0 TableSoItemLang data
+     0 int id = 5500202
+     1 string schinese = "注意：部分奖励内容有性别限制。需等到对应性别的世代方可体验。"
+     1 string schinese_censored = "注意：部分奖励内容有性别限制。需等到对应性别的世代方可体验。"
+     1 string english = "Note: Some rewards are restricted and can only be used by a certain gender."
+     1 string japanese = "注意：一部のボーナスは性別が制限されています。対応した性別で開始されないと有効になりません。"
+     1 string mchinese = "注意：部分獎勵內容有性別限制。需等到對應性別的世代方可體驗。"
+   [21302]
+    0 TableSoItemLang data
+     0 int id = 5500203
+     1 string schinese = "奖励内容出现♂标记，需要主角是儿子，方可体验"
+     1 string schinese_censored = "奖励内容出现♂标记，需要主角是儿子，方可体验"
+     1 string english = "Rewards that contain a ♂ symbol can only be used by males."
+     1 string japanese = "♂マークのボーナスは男性のみ有効となります"
+     1 string mchinese = "獎勵內容出現♂標記，需要主角是兒子，方可體驗"
+   [21303]
+    0 TableSoItemLang data
+     0 int id = 5500204
+     1 string schinese = "奖励内容出现♀标记，需要主角是女儿，方可体验"
+     1 string schinese_censored = "奖励内容出现♀标记，需要主角是女儿，方可体验"
+     1 string english = "Rewards that contain a ♀ symbol can only be used by females."
+     1 string japanese = "♀マークのボーナスは女性のみ有効となります"
+     1 string mchinese = "獎勵內容出現♀標記，需要主角是女兒，方可體驗"
+   [21304]
+    0 TableSoItemLang data
+     0 int id = 5500205
+     1 string schinese = "脑洞说明"
+     1 string schinese_censored = "脑洞说明"
+     1 string english = "Fragment Info"
+     1 string japanese = "カケラの説明"
+     1 string mchinese = "腦洞說明"
+   [21305]
+    0 TableSoItemLang data
+     0 int id = 5500206
+     1 string schinese = "*请选择想要了解的内容*"
+     1 string schinese_censored = "*请选择想要了解的内容*"
+     1 string english = "*Select the content you wish to learn more about*"
+     1 string japanese = "※知りたい内容を選択してください"
+     1 string mchinese = "*請選擇想要瞭解的內容*"
+   [21306]
+    0 TableSoItemLang data
+     0 int id = 5500207
+     1 string schinese = "上一页"
+     1 string schinese_censored = "上一页"
+     1 string english = "Previous Page"
+     1 string japanese = "前のページ"
+     1 string mchinese = "上一頁"
+   [21307]
+    0 TableSoItemLang data
+     0 int id = 5500208
+     1 string schinese = "下一页"
+     1 string schinese_censored = "下一页"
+     1 string english = "Next Page"
+     1 string japanese = "次のページ"
+     1 string mchinese = "下一頁"
+   [21308]
+    0 TableSoItemLang data
+     0 int id = 5500209
+     1 string schinese = "返回首页"
+     1 string schinese_censored = "返回首页"
+     1 string english = "Return"
+     1 string japanese = "最初に戻る"
+     1 string mchinese = "返回首頁"
+   [21309]
+    0 TableSoItemLang data
+     0 int id = 5500210
+     1 string schinese = "普通脑洞"
+     1 string schinese_censored = "普通脑洞"
+     1 string english = "Common Fragment"
+     1 string japanese = "通常カケラ"
+     1 string mchinese = "普通腦洞"
+   [21310]
+    0 TableSoItemLang data
+     0 int id = 5500211
+     1 string schinese = "特殊脑洞"
+     1 string schinese_censored = "特殊脑洞"
+     1 string english = "Special Fragment"
+     1 string japanese = "特殊カケラ"
+     1 string mchinese = "特殊腦洞"
+   [21311]
+    0 TableSoItemLang data
+     0 int id = 5500212
+     1 string schinese = "脑洞层数"
+     1 string schinese_censored = "脑洞层数"
+     1 string english = "Mind Map Level"
+     1 string japanese = "カケラ階層"
+     1 string mchinese = "腦洞層數"
+   [21312]
+    0 TableSoItemLang data
+     0 int id = 5500213
+     1 string schinese = "挖掘脑洞增加属性。脑洞形状、颜色与属性一一对应。"
+     1 string schinese_censored = "挖掘脑洞增加属性。脑洞形状、颜色与属性一一对应。"
+     1 string english = "Absorb fragments to gain more stats. A fragment's shape and color represent what stat it increases."
+     1 string japanese = "吸収すると能力値が上昇します。形と色が能力値に対応しています。"
+     1 string mchinese = "挖掘腦洞增加屬性。腦洞形狀、顏色與屬性一一對應。"
+   [21313]
+    0 TableSoItemLang data
+     0 int id = 5500214
+     1 string schinese = "挖掘1次消耗10点行动力，增加一些对应属性。"
+     1 string schinese_censored = "挖掘1次消耗10点行动力，增加一些对应属性。"
+     1 string english = "It costs 10 Action to absorb 1, and doing so increases your stats."
+     1 string japanese = "吸収時に行動力を10消費します。対応する能力が向上します。"
+     1 string mchinese = "挖掘1次消耗10點行動力，增加一些對應屬性。"
+   [21314]
+    0 TableSoItemLang data
+     0 int id = 5500215
+     1 string schinese = "以下脑洞为普通脑洞："
+     1 string schinese_censored = "以下脑洞为普通脑洞："
+     1 string english = "The following are common fragments:"
+     1 string japanese = "通常能力カケラ："
+     1 string mchinese = "以下腦洞為普通腦洞："
+   [21315]
+    0 TableSoItemLang data
+     0 int id = 5500216
+     1 string schinese = "挖掘1次消耗15点行动力，增加一些天赋属性。"
+     1 string schinese_censored = "挖掘1次消耗15点行动力，增加一些天赋属性。"
+     1 string english = "It costs 15 Action to absorb 1, and doing so increases your talent."
+     1 string japanese = "吸収時に行動力を15消費します。対応する天賦能力が向上します。"
+     1 string mchinese = "挖掘1次消耗15點行動力，增加一些天賦屬性。"
+   [21316]
+    0 TableSoItemLang data
+     0 int id = 5500217
+     1 string schinese = "以下脑洞为天赋脑洞："
+     1 string schinese_censored = "以下脑洞为天赋脑洞："
+     1 string english = "The following are special fragments:"
+     1 string japanese = "天賦能力カケラ："
+     1 string mchinese = "以下腦洞為天賦腦洞："
+   [21317]
+    0 TableSoItemLang data
+     0 int id = 5500218
+     1 string schinese = "脑洞层数越高，挖脑洞获取的属性值越高。"
+     1 string schinese_censored = "脑洞层数越高，挖脑洞获取的属性值越高。"
+     1 string english = "The stats you gain when absorbing fragments increase as you reach higher mind map levels."
+     1 string japanese = "カケラ階層が深いほど、吸収時に得られる能力値が高くなります。"
+     1 string mchinese = "腦洞層數越高，挖腦洞獲取的屬性值越高。"
+   [21318]
+    0 TableSoItemLang data
+     0 int id = 5500219
+     1 string schinese = "每过一个回合，脑洞层数都会增加；\n除此之外，还可以通过点击【下一层脑洞】直接进入下一层。"
+     1 string schinese_censored = "每过一个回合，脑洞层数都会增加；\n除此之外，还可以通过点击【下一层脑洞】直接进入下一层。"
+     1 string english = "Each turn takes you deeper into the mind map.\nYou can also reach deeper by activating [Enhanced Fragments]."
+     1 string japanese = "ターンが経過すると階層が深くなります。\n【次の階層のカケラ】を吸収することでも深くなります。"
+     1 string mchinese = "每過一個回合，腦洞層數都會增加；\n除此之外，還可以通過點擊【下一層腦洞】直接進入下一層。"
+   [21319]
+    0 TableSoItemLang data
+     0 int id = 5500220
+     1 string schinese = "心情会对挖脑洞的结果产生一定影响。"

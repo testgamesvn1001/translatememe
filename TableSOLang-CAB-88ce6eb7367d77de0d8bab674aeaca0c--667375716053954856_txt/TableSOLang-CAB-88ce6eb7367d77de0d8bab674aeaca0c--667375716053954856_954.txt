@@ -1,0 +1,184 @@
+     1 string schinese_censored = "好像发生了什么~又好像没有~"
+     1 string english = "It seems that something has happened."
+     1 string japanese = "何かが起きたかもしれないし、起きてないかもしれない。"
+     1 string mchinese = "好像發生了什麼~又好像沒有~"
+   [21918]
+    0 TableSoItemLang data
+     0 int id = 6660110
+     1 string schinese = "使用传家宝"
+     1 string schinese_censored = "使用复活币"
+     1 string english = "Use Heirloom"
+     1 string japanese = "家宝を使用"
+     1 string mchinese = "使用傳家寶"
+   [21919]
+    0 TableSoItemLang data
+     0 int id = 6660111
+     1 string schinese = "效果：原地满血复活，心理阴影面积清空。\n<color=#EB7350>携带传家宝[五好家庭]后获得，同一世代只能使用一次。</color>"
+     1 string schinese_censored = "效果：原地满血复活，心理阴影面积清空。\n<color=#EB7350>携带传家宝[XXX]后获得，同一世代只能使用一次。</color>"
+     1 string english = "Effect: reset Mind Shadow size.\n<color=#EB7350>Equip Family Heirloom Five-virtue Family to acquire. Can only be used once per generation.</color>"
+     1 string japanese = "効果：その場でフルＨＰで復活。トラウマ領域がリセットされる。\n<color=#EB7350>家宝[五好家庭]を持っていると獲得。１世代に１回のみ使用可能。</color>"
+     1 string mchinese = "效果：原地滿血復活，心理陰影面積清空。\n<color=#EB7350>攜帶傳家寶[五好家庭]後獲得，同一世代只能使用一次。</color>"
+   [21920]
+    0 TableSoItemLang data
+     0 int id = 6660112
+     1 string schinese = "所谓浪子回头金不换，下次注意点~"
+     1 string schinese_censored = "所谓浪子回头金不换，下次注意点~"
+     1 string english = "It's good to redeem yourself. Be careful next time."
+     1 string japanese = "反省しているならよろしい。次は気を付けよう。"
+     1 string mchinese = "所謂浪子回頭金不換，下次注意點~"
+   [21921]
+    0 TableSoItemLang data
+     0 int id = 6660113
+     1 string schinese = "复读再战！"
+     1 string schinese_censored = "复读再战！"
+     1 string english = "Repeat the grade to take Gaokao once more!"
+     1 string japanese = "復習して再挑戦！"
+     1 string mchinese = "複讀再戰！"
+   [21922]
+    0 TableSoItemLang data
+     0 int id = 6660114
+     1 string schinese = "效果：再进行一次第48回合。\n<color=#EB7350>携带传家宝[月光宝盒]后获得，同一世代只能使用一次。</color>"
+     1 string schinese_censored = "效果：再进行一次第48回合。\n<color=#EB7350>携带传家宝[XXX]后获得，同一世代只能使用一次。</color>"
+     1 string english = "Effect: start Turn 48 over again.\n<color=#EB7350>Equip Family Heirloom Moon Box to acquire. Can only be used once per generation.</color>"
+     1 string japanese = "効果：４８ターン目をもう１回進行する。\n<color=#EB7350>家宝[月光の宝箱]を持っていると獲得。１世代に１回のみ使用可能。</color>"
+     1 string mchinese = "效果：再進行一次第48回合。\n<color=#EB7350>攜帶傳家寶[月光寶盒]後獲得，同一世代只能使用一次。</color>"
+   [21923]
+    0 TableSoItemLang data
+     0 int id = 6660115
+     1 string schinese = "留得青山在，不怕没柴烧，重头再来吧~"
+     1 string schinese_censored = "留得青山在，不怕没柴烧，重头再来吧~"
+     1 string english = "While there's life, there's hope. Please start over again."
+     1 string japanese = "生きていれば良いことがある。もう一度やってみよう。"
+     1 string mchinese = "留得青山在，不怕沒柴燒，重頭再來吧~"
+   [21924]
+    0 TableSoItemLang data
+     0 int id = 6660116
+     1 string schinese = "换预置"
+     1 string schinese_censored = "换预置"
+     1 string english = "Change Plan"
+     1 string japanese = "プリセット変更"
+     1 string mchinese = "換預置"
+   [21925]
+    0 TableSoItemLang data
+     0 int id = 6660117
+     1 string schinese = "获得了新的传家宝[{0}]~"
+     1 string schinese_censored = "获得了新的传家宝[{0}]~"
+     1 string english = "Family Heirloom [{0}] acquired."
+     1 string japanese = "新しい家宝[{0}]を獲得しました。"
+     1 string mchinese = "獲得了新的傳家寶[{0}]~"
+   [21926]
+    0 TableSoItemLang data
+     0 int id = 6660118
+     1 string schinese = "佩戴的传家宝在本世代将一直发挥作用，并且不可以在成长过程中更换。\n确定佩戴这些传家宝吗？"
+     1 string schinese_censored = "佩戴的传家宝在本世代将一直发挥作用，并且不可以在成长过程中更换。\n确定佩戴这些传家宝吗？"
+     1 string english = "Family Heirlooms equipped will be active through this generation and can't be changed during the generation.\nAre you sure you want to equip these heirlooms?"
+     1 string japanese = "装着した家宝はこの世代中永続的に効果を発揮します。\n成長の途中で交換することはできません。\n家宝を装着しますか？"
+     1 string mchinese = "佩戴的傳家寶在本世代將一直發揮作用，並且不可以在成長過程中更換。\n確定佩戴這些傳家寶嗎？"
+   [21927]
+    0 TableSoItemLang data
+     0 int id = 6660119
+     1 string schinese = "已佩戴"
+     1 string schinese_censored = "已佩戴"
+     1 string english = "Equipped"
+     1 string japanese = "装着済み"
+     1 string mchinese = "已佩戴"
+   [21928]
+    0 TableSoItemLang data
+     0 int id = 6660120
+     1 string schinese = "兑换码"
+     1 string schinese_censored = "兑换码"
+     1 string english = "Gift Code"
+     1 string japanese = "引換コード"
+     1 string mchinese = "兌換碼"
+   [21929]
+    0 TableSoItemLang data
+     0 int id = 6660121
+     1 string schinese = "市状元"
+     1 string schinese_censored = "市状元"
+     1 string english = "[City] Top Student"
+     1 string japanese = "地方で一番"
+     1 string mchinese = "市狀元"
+   [21930]
+    0 TableSoItemLang data
+     0 int id = 6660122
+     1 string schinese = "年级前三"
+     1 string schinese_censored = "年级前三"
+     1 string english = "[Grade] Top 3"
+     1 string japanese = "学年トップ３"
+     1 string mchinese = "年級前三"
+   [21931]
+    0 TableSoItemLang data
+     0 int id = 6660123
+     1 string schinese = "年级第一"
+     1 string schinese_censored = "年级第一"
+     1 string english = "[Grade] No. 1"
+     1 string japanese = "学年トップ"
+     1 string mchinese = "年級第一"
+   [21932]
+    0 TableSoItemLang data
+     0 int id = 6660124
+     1 string schinese = "班级第三"
+     1 string schinese_censored = "班级第三"
+     1 string english = "[Class] No. 3"
+     1 string japanese = "クラストップ３"
+     1 string mchinese = "班級第三"
+   [21933]
+    0 TableSoItemLang data
+     0 int id = 6660125
+     1 string schinese = "中不溜"
+     1 string schinese_censored = "中不溜"
+     1 string english = "Super Average"
+     1 string japanese = "真ん中"
+     1 string mchinese = "中不溜"
+   [21934]
+    0 TableSoItemLang data
+     0 int id = 6660126
+     1 string schinese = "中不溜"
+     1 string schinese_censored = "中不溜"
+     1 string english = "Super Average"
+     1 string japanese = "真ん中"
+     1 string mchinese = "中不溜"
+   [21935]
+    0 TableSoItemLang data
+     0 int id = 6660127
+     1 string schinese = "中不溜"
+     1 string schinese_censored = "中不溜"
+     1 string english = "Super Average"
+     1 string japanese = "真ん中"
+     1 string mchinese = "中不溜"
+   [21936]
+    0 TableSoItemLang data
+     0 int id = 6660128
+     1 string schinese = "不及格"
+     1 string schinese_censored = "不及格"
+     1 string english = "Fail"
+     1 string japanese = "不合格"
+     1 string mchinese = "不及格"
+   [21937]
+    0 TableSoItemLang data
+     0 int id = 6660129
+     1 string schinese = "吊车尾"
+     1 string schinese_censored = "吊车尾"
+     1 string english = "Mega Fail"
+     1 string japanese = "ビリ"
+     1 string mchinese = "吊車尾"
+   [21938]
+    0 TableSoItemLang data
+     0 int id = 6660130
+     1 string schinese = "缺乏基础"
+     1 string schinese_censored = "缺乏基础"
+     1 string english = "Lacking foundation"
+     1 string japanese = "基礎が足りない"
+     1 string mchinese = "缺乏基礎"
+   [21939]
+    0 TableSoItemLang data
+     0 int id = 6660131
+     1 string schinese = "请先学习基础课程~"
+     1 string schinese_censored = "请先学习基础课程~"
+     1 string english = "You must study the basic courses first."
+     1 string japanese = "先に勉強画面で基礎課程を完了して下さい"
+     1 string mchinese = "請先在學習面板中完成基礎課程~"
+   [21940]
+    0 TableSoItemLang data
+     0 int id = 6660132
+     1 string schinese = "课程进阶完成！"

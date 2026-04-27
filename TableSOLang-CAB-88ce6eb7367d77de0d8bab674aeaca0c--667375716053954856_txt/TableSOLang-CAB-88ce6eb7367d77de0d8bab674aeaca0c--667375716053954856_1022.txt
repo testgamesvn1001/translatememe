@@ -1,0 +1,184 @@
+     1 string schinese_censored = "训练指导，教练的必备能力"
+     1 string english = "Training Guidance: a must for couches."
+     1 string japanese = "指導力はコーチに必須の能力だ。"
+     1 string mchinese = "訓練指導，教練的必備能力"
+   [23482]
+    0 TableSoItemLang data
+     0 int id = 1108958
+     1 string schinese = "研究对手，教练的核心能力"
+     1 string schinese_censored = "研究对手，教练的核心能力"
+     1 string english = "Enemy Research: a core ability of coaches."
+     1 string japanese = "相手の研究はコーチにとって大事な能力だ。"
+     1 string mchinese = "研究對手，教練的核心能力"
+   [23483]
+    0 TableSoItemLang data
+     0 int id = 1108959
+     1 string schinese = "让你的技术更上一层楼"
+     1 string schinese_censored = "让你的技术更上一层楼"
+     1 string english = "Takes your thinking to the next level."
+     1 string japanese = "一段階上の技術を手に入れよう。"
+     1 string mchinese = "讓你的技術更上一層樓"
+   [23484]
+    0 TableSoItemLang data
+     0 int id = 1108960
+     1 string schinese = "团队调节，教练的进阶水平"
+     1 string schinese_censored = "团队调节，教练的进阶水平"
+     1 string english = "Team Adjustments: an advanced ability of coaches."
+     1 string japanese = "チーム調整はコーチの腕が試される。"
+     1 string mchinese = "團隊調節，教練的進階水準"
+   [23485]
+    0 TableSoItemLang data
+     0 int id = 1108961
+     1 string schinese = "商业推广是明星变现的主要方式"
+     1 string schinese_censored = "商业推广是明星变现的主要方式"
+     1 string english = "Business Promotion creates celebrities."
+     1 string japanese = "商業プロモーションはスターの人気をお金に換える主な方法だ。"
+     1 string mchinese = "商業推廣是明星變現的主要方式"
+   [23486]
+    0 TableSoItemLang data
+     0 int id = 1108962
+     1 string schinese = "公关技巧不仅可以帮你度过难关还可以吸引粉丝"
+     1 string schinese_censored = "公关技巧不仅可以帮你度过难关还可以吸引粉丝"
+     1 string english = "PR Techniques help you attract fans."
+     1 string japanese = "広報技術は難関の突破のほか、ファンの獲得にも役立つ。"
+     1 string mchinese = "公關技巧不僅可以幫你度過難關還可以吸引粉絲"
+   [23487]
+    0 TableSoItemLang data
+     0 int id = 1108963
+     1 string schinese = "粉丝经济入门可以让你更好的认识粉丝这个群体"
+     1 string schinese_censored = "粉丝经济入门可以让你更好的认识粉丝这个群体"
+     1 string english = "Fan Economics 101: to understand fans."
+     1 string japanese = "ファン経済入門は、ファンという人々のことをより深く知ることができる。"
+     1 string mchinese = "粉絲經濟入門可以讓你更好的認識粉絲這個群體"
+   [23488]
+    0 TableSoItemLang data
+     0 int id = 1108964
+     1 string schinese = "合作代言，商业营收是俱乐部收益的重要部分"
+     1 string schinese_censored = "合作代言，商业营收是俱乐部收益的重要部分"
+     1 string english = "Cooperation Endorsement as revenue is of vital importance."
+     1 string japanese = "イメージキャラ：その売上がクラブの収益の中心だ。"
+     1 string mchinese = "合作代言，商業營收是俱樂部收益的重要部分"
+   [23489]
+    0 TableSoItemLang data
+     0 int id = 1108965
+     1 string schinese = "管理入门，战队管理者的基础"
+     1 string schinese_censored = "管理入门，战队管理者的基础"
+     1 string english = "Management 101 is the basics of managing a team."
+     1 string japanese = "管理入門：チームマネージャーの基本。"
+     1 string mchinese = "管理入門，戰隊管理者的基礎"
+   [23490]
+    0 TableSoItemLang data
+     0 int id = 1108966
+     1 string schinese = "团队建设，好的团队氛围带来好的竞技状态"
+     1 string schinese_censored = "团队建设，好的团队氛围带来好的竞技状态"
+     1 string english = "Team Creation helps up everyone's game."
+     1 string japanese = "チームビルディング：チームの良好な雰囲気が優れたパフォーマンスを生む。"
+     1 string mchinese = "團隊建設，好的團隊氛圍帶來好的競技狀態"
+   [23491]
+    0 TableSoItemLang data
+     0 int id = 1108967
+     1 string schinese = "战队管理建设，学习如何管理战队"
+     1 string schinese_censored = "战队管理建设，学习如何管理战队"
+     1 string english = "Team Management & Creation teaches you how to manage teams."
+     1 string japanese = "チーム管理：チームをどのように管理するか学ぶ。"
+     1 string mchinese = "戰隊管理建設，學習如何管理戰隊"
+   [23492]
+    0 TableSoItemLang data
+     0 int id = 1108968
+     1 string schinese = "战队补强，变强是俱乐部发立足之本"
+     1 string schinese_censored = "战队补强，变强是俱乐部发立足之本"
+     1 string english = "Replacing Members is a way to strengthen the team as a whole."
+     1 string japanese = "チーム補強：強くなろうとすることがチームの基本。"
+     1 string mchinese = "戰隊補強，變強是俱樂部發立足之本"
+   [23493]
+    0 TableSoItemLang data
+     0 int id = 1108969
+     1 string schinese = "学习本本分分读书的技能，能增加属性，并使爸爸妈妈开心。"
+     1 string schinese_censored = "学习本本分分读书的技能，能增加属性，并使爸爸妈妈开心。"
+     1 string english = "Learning study-related skills increase your stats and make your parents happy."
+     1 string japanese = "真面目な座学のスキルを学習すると、能力値が増え、両親が喜ぶ。"
+     1 string mchinese = "學習本本分分讀書的技能，能增加屬性，並使爸爸媽媽開心。"
+   [23494]
+    0 TableSoItemLang data
+     0 int id = 1108970
+     1 string schinese = "学习本本分分读书的技能，能增加属性，并使爸爸妈妈开心。"
+     1 string schinese_censored = "学习本本分分读书的技能，能增加属性，并使爸爸妈妈开心。"
+     1 string english = "Learning study-related skills increase your stats and make your parents happy."
+     1 string japanese = "真面目な座学のスキルを学習すると、能力値が増え、両親が喜ぶ。"
+     1 string mchinese = "學習本本分分讀書的技能，能增加屬性，並使爸爸媽媽開心。"
+   [23495]
+    0 TableSoItemLang data
+     0 int id = 1108971
+     1 string schinese = "学习本本分分读书的技能，能增加属性，并使爸爸妈妈开心。"
+     1 string schinese_censored = "学习本本分分读书的技能，能增加属性，并使爸爸妈妈开心。"
+     1 string english = "Learning study-related skills increase your stats and make your parents happy."
+     1 string japanese = "真面目な座学のスキルを学習すると、能力値が増え、両親が喜ぶ。"
+     1 string mchinese = "學習本本分分讀書的技能，能增加屬性，並使爸爸媽媽開心。"
+   [23496]
+    0 TableSoItemLang data
+     0 int id = 1108972
+     1 string schinese = "学习本本分分读书的技能，能增加属性，并使爸爸妈妈开心。"
+     1 string schinese_censored = "学习本本分分读书的技能，能增加属性，并使爸爸妈妈开心。"
+     1 string english = "Learning study-related skills increase your stats and make your parents happy."
+     1 string japanese = "真面目な座学のスキルを学習すると、能力値が増え、両親が喜ぶ。"
+     1 string mchinese = "學習本本分分讀書的技能，能增加屬性，並使爸爸媽媽開心。"
+   [23497]
+    0 TableSoItemLang data
+     0 int id = 1108973
+     1 string schinese = "学习本本分分读书的技能，能增加属性，并使爸爸妈妈开心。"
+     1 string schinese_censored = "学习本本分分读书的技能，能增加属性，并使爸爸妈妈开心。"
+     1 string english = "Learning study-related skills increase your stats and make your parents happy."
+     1 string japanese = "真面目な座学のスキルを学習すると、能力値が増え、両親が喜ぶ。"
+     1 string mchinese = "學習本本分分讀書的技能，能增加屬性，並使爸爸媽媽開心。"
+   [23498]
+    0 TableSoItemLang data
+     0 int id = 1108974
+     1 string schinese = "忍耐可以大幅提高情商"
+     1 string schinese_censored = "忍耐可以大幅提高情商"
+     1 string english = "Be Patient increases your EQ."
+     1 string japanese = "我慢はＥＱを成長させる"
+     1 string mchinese = "忍耐可以大幅提高情商"
+   [23499]
+    0 TableSoItemLang data
+     0 int id = 1108975
+     1 string schinese = "延迟满足也是情商提高的必备技能"
+     1 string schinese_censored = "延迟满足也是情商提高的必备技能"
+     1 string english = "Delayed Gratification is vital for EQ."
+     1 string japanese = "衝動制御はＥＱを成長させるために必須だ"
+     1 string mchinese = "延遲滿足也是情商提高的必備技能"
+   [23500]
+    0 TableSoItemLang data
+     0 int id = 1108976
+     1 string schinese = "安静和独处，可以提高情绪控制能力"
+     1 string schinese_censored = "安静和独处，可以提高情绪控制能力"
+     1 string english = "Be Quiet may hamper mood swings."
+     1 string japanese = "穏やか・独りは感情コントロールを成長させる"
+     1 string mchinese = "安靜和獨處，可以提高情緒控制能力"
+   [23501]
+    0 TableSoItemLang data
+     0 int id = 1108977
+     1 string schinese = "手指舞，灵活手指，手脑开发第一步"
+     1 string schinese_censored = "手指舞，灵活手指，手脑开发第一步"
+     1 string english = "Finger Dancing: flexing fingers is the first step towards hand-brain development."
+     1 string japanese = "フィンガータット：指を動かすことは脳にも良い"
+     1 string mchinese = "手指舞，靈活手指，手腦開發第一步"
+   [23502]
+    0 TableSoItemLang data
+     0 int id = 1108978
+     1 string schinese = "野外生存，适应环境是一种综合能力"
+     1 string schinese_censored = "野外生存，适应环境是一种综合能力"
+     1 string english = "Wilderness Survival helps you adapt to new environments like a boss."
+     1 string japanese = "サバイバル：環境への適応力は総合能力の一つ"
+     1 string mchinese = "野外生存，適應環境是一種綜合能力"
+   [23503]
+    0 TableSoItemLang data
+     0 int id = 1108979
+     1 string schinese = "国际象棋，欣赏人类智商的优雅"
+     1 string schinese_censored = "国际象棋，欣赏人类智商的优雅"
+     1 string english = "Chess teaches you to appreciate the elegance of human intelligence."
+     1 string japanese = "チェス：人類の知能の素晴らしさを鑑賞しよう"
+     1 string mchinese = "國際象棋，欣賞人類智商的優雅"
+   [23504]
+    0 TableSoItemLang data
+     0 int id = 1108980
+     1 string schinese = "自我训练是电竞选手必备的职业素养！"

@@ -1,0 +1,184 @@
+     1 string schinese_censored = "同学也多数都带快餐，你觉得很有安全感\n（ 情绪力增加了150）"
+     1 string english = "Most of your classmates bring fast food as well and you felt it was a safe bet.\n(EQ +150)"
+     1 string japanese = "同級生もほとんどがファーストフードを持ってきていたので、安心した\nＥＱが150増加"
+     1 string mchinese = "同學也多數都帶速食，你覺得很有安全感\n（情商+150）"
+   [6071]
+    0 TableSoItemLang data
+     0 int id = 1016072
+     1 string schinese = "后来发现没有可以买东西吃的地方，同学给你分了点吃的\n（魅力-200）"
+     1 string schinese_censored = "后来发现没有可以买东西吃的地方，同学给你分了点吃的\n（ 魅力-200）"
+     1 string english = "You didn't find anything tasty to buy and you get some food from your classmate.\n(Charm -200)"
+     1 string japanese = "食べ物を買う場所がなかったので、同級生が食べ物を少しずつ分けてくれた\n魅力が200減少"
+     1 string mchinese = "後來發現沒有可以買東西吃的地方，同學給你分了點吃的\n（魅力-200）"
+   [6072]
+    0 TableSoItemLang data
+     0 int id = 1016073
+     1 string schinese = "同学的妈妈打电话问你的父母，发现你同学虚报价格。。。\n（智商+200）"
+     1 string schinese_censored = "同学的妈妈打电话问你的父母，发现你同学虚报价格…\n（ 智慧增加了200）"
+     1 string english = "Your classmate's mom calls your parents and finds out that her child lied about the amount...\n(IQ +200)"
+     1 string japanese = "同級生のお母さんが両親に電話をし、同級生のウソがバレた\nＩＱが200増加"
+     1 string mchinese = "同學的媽媽打電話問你的父母，發現你同學虛報價格。。。\n（智商+200）"
+   [6073]
+    0 TableSoItemLang data
+     0 int id = 1016074
+     1 string schinese = "似乎没有被发现，多拿了5元~~美滋滋\n（情商+150零花钱+5）"
+     1 string schinese_censored = "似乎没有被发现，多拿了5元~~美滋滋\n（ 情绪力增加了150）"
+     1 string english = "You weren't found out and got an extra ¥5! The joy!\n(EQ +150)"
+     1 string japanese = "両親にバレず、５元多くもらえた。ラッキー！\nＥＱが150増加、マネーが5増加"
+     1 string mchinese = "似乎沒有被發現，多拿了5元~~美滋滋\n（情商+150零花錢+5）"
+   [6074]
+    0 TableSoItemLang data
+     0 int id = 1016075
+     1 string schinese = "妈妈不信，打给同学的妈妈核实后，给你了一场别开生面的批判会\n（智商-200）"
+     1 string schinese_censored = "妈妈不信，打给同学的妈妈核实后，给你了一场别开生面的批判会\n（ 智慧-200）"
+     1 string english = "Mom doesn't believe you and after checking with your classmate's mom she criticizes you heavily.\n(IQ -200)"
+     1 string japanese = "お母さんに疑われ、同級生のお母さんに確認された後に、酷く叱られた\nＩＱが200減少"
+     1 string mchinese = "媽媽不信，打給同學的媽媽核實後，給你了一場別開生面的批判會\n（智商-200）"
+   [6075]
+    0 TableSoItemLang data
+     0 int id = 1016076
+     1 string schinese = "父母严厉批评，并告诉你下次一定得考好\n（记忆力+150）"
+     1 string schinese_censored = "父母严厉批评，并告诉你下次一定得考好\n（ 记忆力增加了150）"
+     1 string english = "Your parents scold you and tell you to do better on the next exam.\n(Memory +150)"
+     1 string japanese = "両親に厳しく叱られたが、「次はいい点を取れ」と励まされた\n記憶力が150増加"
+     1 string mchinese = "父母嚴厲批評，並告訴你下次一定得考好\n（記憶力+150）"
+   [6076]
+    0 TableSoItemLang data
+     0 int id = 1016077
+     1 string schinese = "欠同学一个人情。。。\n（情商+200）"
+     1 string schinese_censored = "欠同学一个人情…\n（ 情绪力增加了200）"
+     1 string english = "You owe them one...\n(EQ +200)"
+     1 string japanese = "同級生に借りができた…\nＥＱが200増加"
+     1 string mchinese = "欠同學一個人情。。。\n（情商+200）"
+   [6077]
+    0 TableSoItemLang data
+     0 int id = 1016078
+     1 string schinese = "被老师发现了，回家后父母给你一顿棍子炒肉\n（体魄-150）"
+     1 string schinese_censored = "被老师发现了，回家后父母给你一顿棍子炒肉\n（ 体魄-150）"
+     1 string english = "Your teacher notices it and your parents decide to teach you a proper lesson.\n(Constitution -150)"
+     1 string japanese = "先生にバレて、家に帰ってからは両親にお尻を棒で叩かれた\n体力が150減少"
+     1 string mchinese = "被老師發現了，回家後父母給你一頓棍子炒肉\n（體魄-150）"
+   [6078]
+    0 TableSoItemLang data
+     0 int id = 1016079
+     1 string schinese = "作文分数较高，爸爸说分数高就好，把他写成啥样无所谓\n（智商+150）"
+     1 string schinese_censored = "作文分数较高，父亲说分数高就好，把他写成啥样无所谓\n（ 智慧增加了150）"
+     1 string english = "You get a high score. Your dad says he doesn't care how you depict him as long as you get a high score.\n(IQ +150)"
+     1 string japanese = "思いのほか点数が高く「点数さえ高ければ、内容はどうでもいい」とお父さんに言われた\nＩＱが150増加"
+     1 string mchinese = "作文分數較高，爸爸說分數高就好，把他寫成啥樣無所謂\n（智商+150）"
+   [6079]
+    0 TableSoItemLang data
+     0 int id = 1016080
+     1 string schinese = "作文分数一般，妈妈很高兴~\n（情商+150）"
+     1 string schinese_censored = "作文分数一般，母亲很高兴~\n（ 情绪力增加了150）"
+     1 string english = "You get a mediocre score, but your mom is really happy!\n(EQ +150)"
+     1 string japanese = "点数は普通だったが、お母さんは喜んでくれた\nＥＱが150増加"
+     1 string mchinese = "作文分數一般，媽媽很高興~\n（情商+150）"
+   [6080]
+    0 TableSoItemLang data
+     0 int id = 1016081
+     1 string schinese = "作文分数极高，父母都很高兴你的作文有了长足进步！内容似乎他们不关注\n（想象力+200）"
+     1 string schinese_censored = "作文分数极高，父母都很高兴你的作文有了长足进步！内容似乎他们不关注\n（ 想象力增加了200）"
+     1 string english = "You get great score and your parents are thrilled at your literary progress! They don't care about the content at all.\n(Imagination +200)"
+     1 string japanese = "思いのほか点数が高く、両親がとても喜んでくれた！内容は気に留めていないようだ\n想像力が200増加"
+     1 string mchinese = "作文分數極高，父母都很高興你的作文有了長足進步！內容似乎他們不關注\n（想像力+200）"
+   [6081]
+    0 TableSoItemLang data
+     0 int id = 1016082
+     1 string schinese = "你爸爸给你准备了一条冻带鱼\n（想象力-200）"
+     1 string schinese_censored = "你爸爸给你准备了一条冻带鱼\n（ 想象力-200）"
+     1 string english = "Your dad gives you a frozen ribbon fish to bring.\n(Imagination -200)"
+     1 string japanese = "お父さんが冷凍された魚を準備してくれた\n想像力が200減少"
+     1 string mchinese = "你爸爸給你準備了一條凍帶魚\n（想像力-200）"
+   [6082]
+    0 TableSoItemLang data
+     0 int id = 1016083
+     1 string schinese = "妈妈一大早，去早市买来了金鱼\n（魅力+100）"
+     1 string schinese_censored = "妈妈一大早，去早市买来了金鱼\n（ 魅力增加了100）"
+     1 string english = "Mom gets up early and gets you a goldfish at the morning market.\n(Charm +100)"
+     1 string japanese = "お母さんが朝一で朝市に行って金魚を買ってきてくれた\n魅力が100増加"
+     1 string mchinese = "媽媽一大早，去早市買來了金魚\n（魅力+100）"
+   [6083]
+    0 TableSoItemLang data
+     0 int id = 1016084
+     1 string schinese = "结果第二天买的金鱼死掉了，你很伤心但也吸取了教训\n（记忆力+200）"
+     1 string schinese_censored = "结果第二天买的金鱼死掉了，你很伤心但也吸取了教训\n（ 记忆力增加了200）"
+     1 string english = "The goldfish you bought died on day 2. You feel sad but learnt a lesson.\n(Memory +200)"
+     1 string japanese = "翌日には買った魚が死んでいた。悲しかったが、身をもって教訓を得た\n記憶力が200増加"
+     1 string mchinese = "結果第二天買的金魚死掉了，你很傷心但也吸取了教訓\n（記憶力+200）"
+   [6084]
+    0 TableSoItemLang data
+     0 int id = 1016085
+     1 string schinese = "老师表扬了一通，同学过几天就忘了这个事情\n（记忆力+250）"
+     1 string schinese_censored = "老师表扬了一通，同学过几天就忘了这个事情\n（ 记忆力增加了250）"
+     1 string english = "Your teacher commends you but your classmates has forgotten all about it after just a few days.\n(Memory +250)"
+     1 string japanese = "先生は褒めてくれたが、同級生には数日で忘れられた\n記憶力が250増加"
+     1 string mchinese = "老師表揚了一通，同學過幾天就忘了這個事情\n（記憶力+250）"
+   [6085]
+    0 TableSoItemLang data
+     0 int id = 1016086
+     1 string schinese = "老师冷嘲热讽了一番，并跟你家长说你偷偷赚钱，小心学坏。\n（父母满意度-30）"
+     1 string schinese_censored = "老师冷嘲热讽了一番，并跟你家长说你偷偷赚钱，小心学坏。\n（ 父母满意度-30）"
+     1 string english = "Your teacher makes a sarcastic remark, tells your parents you have been earning money in secret and tells them to keep an eye on you in the future.\n(Satisfaction -30)"
+     1 string japanese = "先生から酷く叱られ、両親にも「勉強せずお金儲けばかりしている」と連絡された\n両親の満足度が30減少"
+     1 string mchinese = "老師冷嘲熱諷了一番，並跟你家長說你偷偷賺錢，小心學壞。\n（父母滿意度-30）"
+   [6086]
+    0 TableSoItemLang data
+     0 int id = 1016087
+     1 string schinese = "获得了父母的表扬\n（父母满意度+30）"
+     1 string schinese_censored = "获得了父母的表扬\n（ 父母满意度增加了30）"
+     1 string english = "Your parents praise you.\n(Satisfaction +30)"
+     1 string japanese = "あなたは両親に褒められた\n両親の満足度が30増加"
+     1 string mchinese = "獲得了父母的表揚\n（父母滿意度+30）"
+   [6087]
+    0 TableSoItemLang data
+     0 int id = 1016088
+     1 string schinese = "被同学看到你的表现了，天天取笑你\n（魅力-250）"
+     1 string schinese_censored = "被同学看到你的表现了，天天取笑你\n（ 魅力-250）"
+     1 string english = "Your classmates saw how you handled the situation and continue to mock you for it.\n(Charm -250)"
+     1 string japanese = "同級生に見られていたようで、からかわれ続けた\n魅力が250減少"
+     1 string mchinese = "被同學看到你的表現了，天天取笑你\n（魅力-250）"
+   [6088]
+    0 TableSoItemLang data
+     0 int id = 1016089
+     1 string schinese = "看你如此勇敢，对方走开了\n（魅力+250）"
+     1 string schinese_censored = "看你如此勇敢，对方走开了\n（ 魅力增加了250）"
+     1 string english = "Seeing you act brave, they back off.\n(Charm +250)"
+     1 string japanese = "あなたの勇気に怖気づいて立ち去った\n魅力が250増加"
+     1 string mchinese = "看你如此勇敢，對方走開了\n（魅力+250）"
+   [6089]
+    0 TableSoItemLang data
+     0 int id = 1016090
+     1 string schinese = "不小心打伤对方的鼻子，鲜血直流。爸妈赔偿了医药费\n（情商-250）"
+     1 string schinese_censored = "把对方吓得大哭，爸妈给对方赔礼道歉了半天\n（ 情绪力-250）"
+     1 string english = "You hurt their nose and they start bleeding, after which your parents had to pay the hospital bill.\n(EQ -250)"
+     1 string japanese = "鼻を殴り怪我をさせてしまったので、両親が治療費を払った\nＥＱが250減少"
+     1 string mchinese = "不小心打傷對方的鼻子，鮮血直流。爸媽賠償了醫藥費\n（情商-250）"
+   [6090]
+    0 TableSoItemLang data
+     0 int id = 1016091
+     1 string schinese = "老师和家长沟通后，不再追究这件事\n（压力-50）"
+     1 string schinese_censored = "老师和家长沟通后，不再追究这件事\n（ 压力-50）"
+     1 string english = "The teacher talks to your parents and decides to not investigate this further.\n(Stress -50)"
+     1 string japanese = "先生が両親に確認し、それ以降は何も言われなかった\nストレスが50減少"
+     1 string mchinese = "老師和家長溝通後，不再追究這件事\n（壓力-50）"
+   [6091]
+    0 TableSoItemLang data
+     0 int id = 1016092
+     1 string schinese = "老师在班里说你真是会赚钱，同学怀疑是你偷得\n（魅力-250）"
+     1 string schinese_censored = "老师在班里说你真是会赚钱，同学有些嫉妒\n（ 魅力-250）"
+     1 string english = "Your teacher tells the class how you are able to earn money yourself, but your classmates suspect you stole it.\n(Charm -250)"
+     1 string japanese = "「よくそんなに稼げるね」と先生からは皮肉られ、同級生からは盗んだと疑われた\n魅力が250減少"
+     1 string mchinese = "老師在班裏說你真是會賺錢，同學懷疑是你偷得\n（魅力-250）"
+   [6092]
+    0 TableSoItemLang data
+     0 int id = 1016093
+     1 string schinese = "同学们私底下聊天，暗示是你偷得。。。你百口莫辩\n（智商-300）"
+     1 string schinese_censored = "同学们私底下聊天，觉得你乱花钱，你百口莫辩\n（ 智慧-300）"
+     1 string english = "Your classmates chat in secret and implicate it was you who stole it... There's nothing for it.\n(IQ -300)"
+     1 string japanese = "同級生は陰であなたが盗んだと噂していた。もう何を言っても信じてもらえない\nＩＱが300減少"
+     1 string mchinese = "同學們私底下聊天，暗示是你偷得。。。你百口莫辯\n（智商-300）"
+   [6093]
+    0 TableSoItemLang data
+     0 int id = 1016094
+     1 string schinese = "老师觉得你很有骨气，并拨通了你父母的电话。。。\n（父母满意度-60）"

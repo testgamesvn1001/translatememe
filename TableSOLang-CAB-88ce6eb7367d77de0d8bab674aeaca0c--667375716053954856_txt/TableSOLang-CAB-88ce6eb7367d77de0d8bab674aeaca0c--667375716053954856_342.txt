@@ -1,0 +1,184 @@
+     1 string schinese_censored = "似乎要和好朋友说再见了，考入了不同的高中。家里人觉得你适应能力太差。"
+     1 string english = "After getting enrolled into different senior high schools you have to say goodbye to your friends."
+     1 string japanese = "違う高校へ進学することになり、親友と別れの時が近づいている。両親は順応力が低いからと、あなたを心配している。"
+     1 string mchinese = "似乎要和好朋友說再見了，考入了不同的高中。家裏人覺得你適應能力太差。"
+   [7842]
+    0 TableSoItemLang data
+     0 int id = 1017843
+     1 string schinese = "亲戚里那些上了职高的孩子，都被批评成坏孩子。父亲很骄傲，觉得你高人一等。"
+     1 string schinese_censored = "亲戚里那些上了职高的孩子，都被批评成坏孩子。父亲很骄傲，觉得你高人一等。"
+     1 string english = "The children who only made it into vocational high schools are all considered as "trouble kids.""
+     1 string japanese = "親戚の子が専門学校に進学した。お父さんは普通高校に進学したあなたをとても誇りに思っている。"
+     1 string mchinese = "親戚裏那些上了職高的孩子，都被批評成壞孩子。父親很驕傲，覺得你高人一等。"
+   [7843]
+    0 TableSoItemLang data
+     0 int id = 1017844
+     1 string schinese = "班里同学经常和不少外校的同学一起回家，你发现很难和人交流"
+     1 string schinese_censored = "班里同学经常和不少外校的同学一起回家，你发现很难和人交流"
+     1 string english = "Many of the girls go home with boys from other schools. You find it hard to make good friends."
+     1 string japanese = "他の学校の男子と下校する女子が何人かいる。そのグループにはうまく入れなかった。"
+     1 string mchinese = "班裏同學經常和不少外校的同學一起回家，你發現很難和人交流"
+   [7844]
+    0 TableSoItemLang data
+     0 int id = 1017845
+     1 string schinese = "一觉睡到中午，却总比不上课上偷偷趴5分钟睡得香。大口吃着零食，却没有课间大家分享一包薯片开心。"
+     1 string schinese_censored = "一觉睡到中午，却总比不上课上偷偷趴5分钟睡得香。大口吃着零食，却没有课间大家分享一包薯片开心。"
+     1 string english = "You feel that a sneaky 5 minute nap in class is much sweeter than the midday nap."
+     1 string japanese = "授業中の居眠り５分は昼まで寝るより気持ちがいい。ポテチも、一人で食べるよりも休み時間にシェアした方がおいしい。"
+     1 string mchinese = "一覺睡到中午，卻總比不上課上偷偷趴5分鐘睡得香。大口吃著零食，卻沒有課間大家分享一包薯片開心。"
+   [7845]
+    0 TableSoItemLang data
+     0 int id = 1017846
+     1 string schinese = "似乎高中开始，考试分数是衡量成功的唯一标准。每次父母也格外重视分数，特长不再被认可了"
+     1 string schinese_censored = "似乎高中开始，考试分数是衡量成功的唯一标准。每次父母也格外重视分数，特长不再被认可了"
+     1 string english = "In senior high school, grades seem to be the only thing that counts."
+     1 string japanese = "高校から点数がすべてを図る基準になった。両親も以前より点数に関心を示している。他の特技は誰にも注目されなくなった。"
+     1 string mchinese = "似乎高中開始，考試分數是衡量成功的唯一標準。每次父母也格外重視分數，特長不再被認可了"
+   [7846]
+    0 TableSoItemLang data
+     0 int id = 1017847
+     1 string schinese = "高中很不一样，学习开始变得繁重多了，压力大很多，时间不够用。"
+     1 string schinese_censored = "高中很不一样，学习开始变得繁重多了，压力大很多，时间不够用。"
+     1 string english = "Senior high school is different from before. There are more classes and the stress is real."
+     1 string japanese = "高校は中学校と違って学業の割合が一気に増える。ストレスも山ほどたまる。時間がいくらあっても足りない。"
+     1 string mchinese = "高中很不一樣，學習開始變得繁重多了，壓力大很多，時間不夠用。"
+   [7847]
+    0 TableSoItemLang data
+     0 int id = 1017848
+     1 string schinese = "有些同学坚信勤能补拙，然后开始疯狂学习！然而似乎没什么明显提高。"
+     1 string schinese_censored = "有些同学坚信勤能补拙，然后开始疯狂学习！然而似乎没什么明显提高。"
+     1 string english = "Some students say that diligence makes up for a lack of talent and begin studying like crazy."
+     1 string japanese = "努力は必ず報われると信じて夢中で勉強している子もいる。しかし、たいして進歩はないようだ。"
+     1 string mchinese = "有些同學堅信勤能補拙，然後開始瘋狂學習！然而似乎沒什麼明顯提高。"
+   [7848]
+    0 TableSoItemLang data
+     0 int id = 1017849
+     1 string schinese = "军训来的有些迟，似乎更多是走了形式，没有想象中艰难。"
+     1 string schinese_censored = "军训来的有些迟，似乎更多是走了形式，没有想象中艰难。"
+     1 string english = "It feels as if military training is just for show and it wasn't as hard as you thought."
+     1 string japanese = "軍事訓練は形式的なもので、思っていたほど難しくなかった。"
+     1 string mchinese = "軍訓來的有些遲，似乎更多是走了形式，沒有想像中艱難。"
+   [7849]
+    0 TableSoItemLang data
+     0 int id = 1017850
+     1 string schinese = "周末来了，本来以为可以休息休息了，突然题海战术来袭，没时间玩了~"
+     1 string schinese_censored = "周末来了，本来以为可以休息休息了，突然题海战术来袭，没时间玩了~"
+     1 string english = "It's the weekend and you should be resting, but there's simply too many test questions."
+     1 string japanese = "週末は休めると思っていたが、山のような宿題が出された。遊ぶ時間がない。"
+     1 string mchinese = "週末來了，本來以為可以休息休息了，突然題海戰術來襲，沒時間玩了~"
+   [7850]
+    0 TableSoItemLang data
+     0 int id = 1017851
+     1 string schinese = "大家发现作业经常很难完成，都在讨论几点睡，似乎12点是常态。"
+     1 string schinese_censored = "大家发现作业经常很难完成，都在讨论几点睡，似乎12点是常态。"
+     1 string english = "The homework is getting worse and worse, most of you don't sleep until after midnight."
+     1 string japanese = "毎日宿題にかけている時間が長すぎるのではといろいろ相談してみたが、０時に寝るのは普通のようだ。"
+     1 string mchinese = "大家發現作業經常很難完成，都在討論幾點睡，似乎12點是常態。"
+   [7851]
+    0 TableSoItemLang data
+     0 int id = 1017852
+     1 string schinese = "弱科无论怎么弥补，都很难大幅提升，基础没打好就难提高。"
+     1 string schinese_censored = "弱科无论怎么弥补，都很难大幅提升，基础没打好就难提高。"
+     1 string english = "You don't seem to make any progress on your weaker subjects no matter how hard you try."
+     1 string japanese = "苦手な科目はどれだけ時間をかけて勉強しても進歩がなかった。元々の基礎が固まっていないので上達が難しい。"
+     1 string mchinese = "弱科無論怎麼彌補，都很難大幅提升，基礎沒打好就難提高。"
+   [7852]
+    0 TableSoItemLang data
+     0 int id = 1017853
+     1 string schinese = "有些同学在以前积累了大量课外书阅读，现在体现出优势。然而你的父母从不在这方面投资"
+     1 string schinese_censored = "有些同学在以前积累了大量课外书阅读，现在体现出优势。然而你的父母从不在这方面投资"
+     1 string english = "Some students have read a large amount of extracurricular books, and now have an easier time."
+     1 string japanese = "小さい頃から本なら何でも読んでいた同級生は、その恩恵を受けている。あなたは、あなたの両親の教育方針を恨んだ。"
+     1 string mchinese = "有些同學在以前積累了大量課外書閱讀，現在體現出優勢。然而你的父母從不在這方面投資"
+   [7853]
+    0 TableSoItemLang data
+     0 int id = 1017854
+     1 string schinese = "小聪明似乎能解决难题，但是粗心导致的错误更多。你的父母似乎觉得你还有希望考的更好！"
+     1 string schinese_censored = "小聪明似乎能解决难题，但是粗心导致的错误更多。你的父母似乎觉得你还有希望考的更好！"
+     1 string english = "Your cleverness solves many issues, but your carelessness gives rise to more still."
+     1 string japanese = "難問は解いたが凡ミスで点数を失った。両親はもっと良い点数が取れると信じているようだ！"
+     1 string mchinese = "小聰明似乎能解決難題，但是粗心導致的錯誤更多。你的父母似乎覺得你還有希望考的更好！"
+   [7854]
+    0 TableSoItemLang data
+     0 int id = 1017855
+     1 string schinese = "你收到了情书，很开心，然而看到对方之后，发现世界并没有想象的那么美好，十动然拒"
+     1 string schinese_censored = "同学邀请你放学后一起回家，然而看到对方之后，发现世界并没有想象的那么美好，十动然拒"
+     1 string english = "You receive a love letter, but upon meeting the sender, you reject them on the spot."
+     1 string japanese = "ラブレターを初めてもらって嬉しかった。相手の顔を見た後、世界は思っていたほど甘くないと思って断った。"
+     1 string mchinese = "你收到了情書，很開心，然而看到對方之後，發現世界並沒有想像的那麼美好，十動然拒"
+   [7855]
+    0 TableSoItemLang data
+     0 int id = 1017856
+     1 string schinese = "在学校里的魅力高的同学，逐渐成为了校园明星，如果学习好简直更加分，然而父母觉得穿衣打扮都是要学坏的！"
+     1 string schinese_censored = "在学校里的魅力高的同学，逐渐成为了校园明星，如果学习好简直更加分，然而父母觉得穿衣打扮都是要学坏的！"
+     1 string english = "You can become a star at school simply by popularity, and good grades can help with that."
+     1 string japanese = "魅力的な子がどんどん学園のスターになっていく。勉強もできて完璧だ。両親には、高校生がオシャレしてけしからんと不評だ。"
+     1 string mchinese = "在學校裏的魅力高的同學，逐漸成為了校園明星，如果學習好簡直更加分，然而父母覺得穿衣打扮都是要學壞的！"
+   [7856]
+    0 TableSoItemLang data
+     0 int id = 1017857
+     1 string schinese = "发现班里电脑奇才，开始搞网站小论坛，偷偷说老师坏话，似乎十分流行。"
+     1 string schinese_censored = "发现班里计算机奇才，开始搞网站小论坛，偷偷说老师坏话，似乎十分流行。"
+     1 string english = "Your class' computer wiz has started a small web forum to complain about the teacher."
+     1 string japanese = "パソコンが得意な同級生がクラス掲示板を作った。先生の悪口を書き込むことが流行した。"
+     1 string mchinese = "發現班裏電腦奇才，開始搞網站小論壇，偷偷說老師壞話，似乎十分流行。"
+   [7857]
+    0 TableSoItemLang data
+     0 int id = 1017858
+     1 string schinese = "模拟联合国似乎开始流行起来了，大家都想去试试，但是考虑到课业繁重，都没行动力了。"
+     1 string schinese_censored = "模拟联合国似乎开始流行起来了，大家都想去试试，但是考虑到课业繁重，都没行动力了。"
+     1 string english = "Model United Nations is getting popular, but many can't go because of their class schedules."
+     1 string japanese = "模擬国連が流行した。参加したい子はいっぱいいたが、課題が多すぎて実際に参加した子は少なかった。"
+     1 string mchinese = "模擬聯合國似乎開始流行起來了，大家都想去試試，但是考慮到課業繁重，都沒行動力了。"
+   [7858]
+    0 TableSoItemLang data
+     0 int id = 1017859
+     1 string schinese = "文学社团纳新，但是没人在乎水平，更多看颜值"
+     1 string schinese_censored = "文学社团纳新，但是没人在乎水平，更多看颜值"
+     1 string english = "The Literature Society is accepting fresh blood, but everyone only cares about appearances."
+     1 string japanese = "文学クラブができたが、内面よりも顔ばかり見ている。"
+     1 string mchinese = "文學社團納新，但是沒人在乎水準，更多看顏值"
+   [7859]
+    0 TableSoItemLang data
+     0 int id = 1017860
+     1 string schinese = "网吧少年团体人数升高了！好多人突然不学习，放弃自己了"
+     1 string schinese_censored = "网吧少年团体人数升高了！好多人打算找学习之外的出路"
+     1 string english = "More and more students go to internet cafés and abandon their studies to indulge their vice."
+     1 string japanese = "ネットカフェに通う子が増えている！人生を諦めて勉強をやめた子が続出だ。"
+     1 string mchinese = "網吧少年團體人數升高了！好多人突然不學習，放棄自己了"
+   [7860]
+    0 TableSoItemLang data
+     0 int id = 1017861
+     1 string schinese = "同学间形成了鄙视链！学习鄙视链，穿戴鄙视链，各种鄙视链！"
+     1 string schinese_censored = "同学间形成了鄙视链！学习鄙视链，穿戴鄙视链，各种鄙视链！"
+     1 string english = "Students start to display contempt for each other, for studying, clothes and other various reasons."
+     1 string japanese = "同級生の間でお互いを見下すブームが生まれた！勉強を見下す、ファッションを見下す、何でもランクを作って比較を始めた。"
+     1 string mchinese = "同學間形成了鄙視鏈！學習鄙視鏈，穿戴鄙視鏈，各種鄙視鏈！"
+   [7861]
+    0 TableSoItemLang data
+     0 int id = 1017862
+     1 string schinese = "学校篮球场经常发生争夺使用权的打架事件，教务处决定暂时封禁篮球场"
+     1 string schinese_censored = "学校篮球场经常发生争夺使用权的事件，教务处决定暂时封禁篮球场"
+     1 string english = "Students often fight about who is allowed to use the basketball court, so it's closed off now."
+     1 string japanese = "学校のバスケットコートは使用権争いで良くバトルになる。教務課により、バスケットコートはしばらく使用禁止になった。"
+     1 string mchinese = "學校籃球場經常發生爭奪使用權的打架事件，教務處決定暫時封禁籃球場"
+   [7862]
+    0 TableSoItemLang data
+     0 int id = 1017863
+     1 string schinese = "老师说从现在开始，每个月都会进行摸底考试，这是掌握学习进度最有效的方法"
+     1 string schinese_censored = "老师说从现在开始，每个月都会进行摸底考试，这是掌握学习进度最有效的方法"
+     1 string english = "From now on, there'll be a placement test every month to check everyone's study progress."
+     1 string japanese = "毎月末に模擬試験を行うことになった。勉強の進度を確認する一番効率の良い方法のようだ。"
+     1 string mchinese = "老師說從現在開始，每個月都會進行摸底考試，這是掌握學習進度最有效的方法"
+   [7863]
+    0 TableSoItemLang data
+     0 int id = 1017864
+     1 string schinese = "你开始怀疑大人们的智商，因为班里谁和谁关系好、谁和谁不对付，除了老师和家长所有同学都知道"
+     1 string schinese_censored = "你开始怀疑大人的智商，因为班里有个同学其实是知名网红的事除了老师和家长所有同学都知道了"
+     1 string english = "Everyone apart from the parents and teachers know about the couples in class. Are they stupid?"
+     1 string japanese = "クラスでこっそりと付き合っているカップルは、先生と保護者以外のみんなにバレている。大人はなぜか気づかない。"
+     1 string mchinese = "你開始懷疑大人們的智商，因為班裏誰和誰關係好、誰和誰不對付，除了老師和家長所有同學都知道"
+   [7864]
+    0 TableSoItemLang data
+     0 int id = 1017865
+     1 string schinese = "上高中后爸爸对你的期望似乎越来越高，俨然要把你树立成家族里孩子们的榜样，"

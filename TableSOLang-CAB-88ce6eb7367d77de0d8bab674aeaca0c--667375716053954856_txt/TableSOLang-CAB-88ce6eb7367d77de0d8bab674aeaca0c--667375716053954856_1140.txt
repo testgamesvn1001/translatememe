@@ -1,0 +1,184 @@
+     1 string schinese_censored = "游戏ID："
+     1 string english = "User ID:"
+     1 string japanese = "ゲームＩＤ："
+     1 string mchinese = "遊戲ID："
+   [26196]
+    0 TableSoItemLang data
+     0 int id = 1596172483
+     1 string schinese = "前往兑换页面"
+     1 string schinese_censored = "前往兑换页面"
+     1 string english = "Go to the Redeem menu."
+     1 string japanese = "PC/NS不用翻譯"
+     1 string mchinese = "前往兌換頁面"
+   [26197]
+    0 TableSoItemLang data
+     0 int id = 1596172484
+     1 string schinese = "{0}已经无法再继续获得人气了！"
+     1 string schinese_censored = "{0}已经无法再继续获得人气了！"
+     1 string english = "{0}Cannot gain any more Popularity!"
+     1 string japanese = "{0}はこれ以上、人気を獲得することはできません！"
+     1 string mchinese = "{0}已經無法再繼續獲得人氣了！"
+   [26198]
+    0 TableSoItemLang data
+     0 int id = 1596172485
+     1 string schinese = "正在购买...请稍后"
+     1 string schinese_censored = "正在购买...请稍后"
+     1 string english = "Purchasing, please wait..."
+     1 string japanese = "購入中です…しばらくお待ちください"
+     1 string mchinese = "正在購買...請稍後"
+   [26199]
+    0 TableSoItemLang data
+     0 int id = 1596172486
+     1 string schinese = "正在确认订单...请稍后"
+     1 string schinese_censored = "正在确认订单...请稍后"
+     1 string english = "Confirming order, please wait..."
+     1 string japanese = "注文を確認中です…しばらくお待ちください"
+     1 string mchinese = "正在確認訂單...請稍後"
+   [26200]
+    0 TableSoItemLang data
+     0 int id = 1596172487
+     1 string schinese = "支付未成功，请稍后再试。"
+     1 string schinese_censored = "支付未成功，请稍后再试。"
+     1 string english = "Payment still in progress, please try again later."
+     1 string japanese = "支払は完了していません。後ほど改めてお試しください。"
+     1 string mchinese = "支付未成功，請稍後再試。"
+   [26201]
+    0 TableSoItemLang data
+     0 int id = 1596172488
+     1 string schinese = "订单处理超时，请稍后尝试点击设置页面的[恢复购买]按钮来重现处理订单。"
+     1 string schinese_censored = "订单处理超时，请稍后尝试点击设置页面的[恢复购买]按钮来重新处理订单。"
+     1 string english = "Order timed out, please try again later or tap [Restore Purchases] to return to your order."
+     1 string japanese = "注文の処理がタイムアウトしました。設定画面の[再ダウンロード]ボタンを押して注文の再処理をお試しください。"
+     1 string mchinese = "訂單處理超時，請稍後嘗試點擊設置頁面的[恢復購買]按鈕來重現處理訂單。"
+   [26202]
+    0 TableSoItemLang data
+     0 int id = 1596172489
+     1 string schinese = "订单验证失败，请联系客服。"
+     1 string schinese_censored = "订单验证失败，请联系客服。"
+     1 string english = "Order verification failed, please contact customer support."
+     1 string japanese = "注文認証に失敗しました。カスタマーサポートにお問い合わせください。"
+     1 string mchinese = "訂單驗證失敗，請聯繫客服。"
+   [26203]
+    0 TableSoItemLang data
+     0 int id = 1596172490
+     1 string schinese = "登录超时，请点击重新尝试？"
+     1 string schinese_censored = "登录超时，请点击重新尝试？"
+     1 string english = "Login timed out, please try again later."
+     1 string japanese = "ログインタイムアウト。再試行しますか？"
+     1 string mchinese = "登錄超時，請點擊重新嘗試？"
+   [26204]
+    0 TableSoItemLang data
+     0 int id = 1596172491
+     1 string schinese = "操作太频繁了，请稍后再试。"
+     1 string schinese_censored = "操作太频繁了，请稍后再试。"
+     1 string english = "Too frequent actions, please try again later."
+     1 string japanese = "操作頻度が高すぎます。後ほど改めてお試しください。"
+     1 string mchinese = "操作太頻繁了，請稍後再試。"
+   [26205]
+    0 TableSoItemLang data
+     0 int id = 1596172492
+     1 string schinese = "登录失败，请稍后再试"
+     1 string schinese_censored = "登录失败，请稍后再试"
+     1 string english = "Login failed, please try again later."
+     1 string japanese = "ログイン失敗。後ほど改めてお試しください"
+     1 string mchinese = "登錄失敗，請稍後再試"
+   [26206]
+    0 TableSoItemLang data
+     0 int id = 1596172493
+     1 string schinese = "登录成功，正在获取用户信息..."
+     1 string schinese_censored = "登录成功，正在获取用户信息..."
+     1 string english = "Login successful, fetching user information..."
+     1 string japanese = "ログイン成功。ユーザー情報を取得しています…"
+     1 string mchinese = "登錄成功，正在獲取用戶資訊..."
+   [26207]
+    0 TableSoItemLang data
+     0 int id = 1596172494
+     1 string schinese = "充值失败，请稍后再试。"
+     1 string schinese_censored = "充值失败，请稍后再试。"
+     1 string english = "Top up failed, please try again later."
+     1 string japanese = "チャージ失敗。後ほど改めてお試しください。"
+     1 string mchinese = "充值失敗，請稍後再試。"
+   [26208]
+    0 TableSoItemLang data
+     0 int id = 1596172495
+     1 string schinese = "充值成功！"
+     1 string schinese_censored = "充值成功！"
+     1 string english = "Top up successful!"
+     1 string japanese = "チャージ成功！"
+     1 string mchinese = "充值成功！"
+   [26209]
+    0 TableSoItemLang data
+     0 int id = 1596172496
+     1 string schinese = "上传存档失败，正在尝试重连..."
+     1 string schinese_censored = "上传存档失败，正在尝试重连..."
+     1 string english = "Failed to upload save, trying to reconnect..."
+     1 string japanese = "データアップロード失敗。再接続試行中…"
+     1 string mchinese = "上傳存檔失敗，正在嘗試重連..."
+   [26210]
+    0 TableSoItemLang data
+     0 int id = 1596172497
+     1 string schinese = "检测到你已断开连接，请重新登录。"
+     1 string schinese_censored = "检测到你已断开连接，请重新登录。"
+     1 string english = "Your connection has been lost, please login again."
+     1 string japanese = "接続の切断が検出されました。改めてログインしてください。"
+     1 string mchinese = "檢測到你已斷開連接，請重新登錄。"
+   [26211]
+    0 TableSoItemLang data
+     0 int id = 1596172498
+     1 string schinese = "请选择是否使用新账号登录？"
+     1 string schinese_censored = "请选择是否使用新账号登录？"
+     1 string english = "Login with a new account?"
+     1 string japanese = "別のアカウントでログインしますか？"
+     1 string mchinese = "請選擇是否使用新帳號登錄？"
+   [26212]
+    0 TableSoItemLang data
+     0 int id = 1596172499
+     1 string schinese = "账号切换"
+     1 string schinese_censored = "账号切换"
+     1 string english = "Change Account"
+     1 string japanese = "アカウント切替"
+     1 string mchinese = "帳號切換"
+   [26213]
+    0 TableSoItemLang data
+     0 int id = 1596172500
+     1 string schinese = "使用新账号"
+     1 string schinese_censored = "使用新账号"
+     1 string english = "New Account"
+     1 string japanese = "別のアカウントでログイン"
+     1 string mchinese = "使用新帳號"
+   [26214]
+    0 TableSoItemLang data
+     0 int id = 1596172501
+     1 string schinese = "使用原账号"
+     1 string schinese_censored = "使用原账号"
+     1 string english = "Old Account"
+     1 string japanese = "元のアカウントでログイン"
+     1 string mchinese = "使用原帳號"
+   [26215]
+    0 TableSoItemLang data
+     0 int id = 1596172502
+     1 string schinese = "恢复购买"
+     1 string schinese_censored = "恢复购买"
+     1 string english = "Restore Purchases"
+     1 string japanese = "再ダウンロード"
+     1 string mchinese = "恢復購買"
+   [26216]
+    0 TableSoItemLang data
+     0 int id = 1596172503
+     1 string schinese = "订单处理成功！"
+     1 string schinese_censored = "订单处理成功！"
+     1 string english = "Order successful!"
+     1 string japanese = "注文を処理しました！"
+     1 string mchinese = "訂單處理成功！"
+   [26217]
+    0 TableSoItemLang data
+     0 int id = 1596172504
+     1 string schinese = "没有未处理的订单，请稍后再试，或联系客服。"
+     1 string schinese_censored = "没有未处理的订单，请稍后再试，或联系客服。"
+     1 string english = "You have unfinished orders, please try again later or contact customer support."
+     1 string japanese = "未処理の注文がありません。後ほど再試行するか、カスタマーサポートにお問い合わせください。"
+     1 string mchinese = "沒有未處理的訂單，請稍後再試，或聯繫客服。"
+   [26218]
+    0 TableSoItemLang data
+     0 int id = 1596172505
+     1 string schinese = "分享成功！"

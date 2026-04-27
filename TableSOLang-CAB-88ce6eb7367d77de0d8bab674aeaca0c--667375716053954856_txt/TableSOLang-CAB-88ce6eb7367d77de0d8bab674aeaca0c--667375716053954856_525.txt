@@ -1,0 +1,184 @@
+     1 string schinese_censored = "当然当然~你能来真是帮了我大忙了！非常感谢~"
+     1 string english = "Of course, of course! I'm thankful for your help! Thanks!"
+     1 string japanese = "もちろん！助かるよ！ありがとう！"
+     1 string mchinese = "當然當然~你能來真是幫了我大忙了！非常感謝~"
+   [12051]
+    0 TableSoItemLang data
+     0 int id = 1022052
+     1 string schinese = "（还有10分钟上课，而我现在还在距离学校20分钟路程的路上。完蛋了，我今天要迟到了……头发也没有来得及梳理而乱糟糟的我心里想着。）"
+     1 string schinese_censored = "（还有10分钟上课，而我现在还在距离学校20分钟路程的路上。完蛋了，我今天要迟到了……头发也没有来得及梳理而乱糟糟的我心里想着。）"
+     1 string english = "(Dammit, class starts in 10 minutes but I'm still 20 minutes away from school. I'm going to be late and I didn't even have time to comb my hair. My hair is in a complete mess)"
+     1 string japanese = "（後１０分で授業が始まる。ここから学校まで２０分。終わり。遅刻決定。髪の毛すらセットしないで出て来たのに…）"
+     1 string mchinese = "（還有10分鐘上課，而我現在還在距離學校20分鐘路程的路上。完蛋了，我今天要遲到了……頭髮也沒有來得及梳理而亂糟糟的我心裏想著。）"
+   [12052]
+    0 TableSoItemLang data
+     0 int id = 1022053
+     1 string schinese = "上来吧，要迟到了。"
+     1 string schinese_censored = "上来吧，要迟到了。"
+     1 string english = "Hop on in or you'll be late."
+     1 string japanese = "遅刻したくないなら乗らないかい？"
+     1 string mchinese = "上來吧，要遲到了。"
+   [12053]
+    0 TableSoItemLang data
+     0 int id = 1022054
+     1 string schinese = "（不知从哪里传来的声音，好像是在对我说话，我循声望去，是一部电影中才会出现的加长版的黑色轿车，后座的玻璃窗摇了下来，露出半张脸，是班上的富二代林雪开同学）"
+     1 string schinese_censored = "（不知从哪里传来的声音，好像是在对我说话，我循声望去，是一部电影中才会出现的加长版的黑色轿车，后座的玻璃窗摇了下来，露出半张脸，是班上的文艺青年林雪开同学）"
+     1 string english = "(A sound comes out of nowhere and it seems to be talking to me. I turn around and see this black limousine that only appears in movies. The window in the back rolls down and I see Herman Lin, the richest guy in class)"
+     1 string japanese = "（どこからか声をかけられた。辺りを見渡したら、映画に出てくるような黒塗りの車が見えた。後部座席の窓から顔が覗いている。クラスのボンボンのシュエカイだ）"
+     1 string mchinese = "（不知從哪里傳來的聲音，好像是在對我說話，我循聲望去，是一部電影中才會出現的加長版的黑色轎車，後座的玻璃窗搖了下來，露出半張臉，是班上的富二代林雪開同學）"
+   [12054]
+    0 TableSoItemLang data
+     0 int id = 1022055
+     1 string schinese = "别愣着啦，再不上来就真迟到啦~"
+     1 string schinese_censored = "别愣着啦，再不上来就真迟到啦~"
+     1 string english = "Don't just stand there. You'll get late if you don't hop in."
+     1 string japanese = "ぼさっとしないで。早く乗らないと本当に遅刻するよ！"
+     1 string mchinese = "別愣著啦，再不上來就真遲到啦~"
+   [12055]
+    0 TableSoItemLang data
+     0 int id = 1022056
+     1 string schinese = "（我在半懵的状态下上了车，用几乎小到听不到的声音说了声）谢谢……"
+     1 string schinese_censored = "（我在半懵的状态下上了车，用几乎小到听不到的声音说了声）谢谢……"
+     1 string english = "(I stand in shock and say in the quietest of voices) Thanks..."
+     1 string japanese = "（あっけにとられながら乗ったので、大きい声が出なかった）ありがとう…"
+     1 string mchinese = "（我在半懵的狀態下上了車，用幾乎小到聽不到的聲音說了聲）謝謝……"
+   [12056]
+    0 TableSoItemLang data
+     0 int id = 1022057
+     1 string schinese = "（突然我的脸开始发烫，估计现在已经羞红了吧。因为我突然想起今天早晨都没有来得及收拾头发，没脸见人了……）"
+     1 string schinese_censored = "（突然我的脸开始发烫，估计现在已经羞红了吧。因为我突然想起今天早晨都没有来得及收拾头发，没脸见人了……）"
+     1 string english = "(I feel my face burning as I realize that I didn't have time to comb my hair this morning. I'm in a complete mess...)"
+     1 string japanese = "（急に顔が熱くなってきた。恥ずかしい。髪の毛をセットしていない事を思い出した。顔を上げられない…）"
+     1 string mchinese = "（突然我的臉開始發燙，估計現在已經羞紅了吧。因為我突然想起今天早晨都沒有來得及收拾頭髮，沒臉見人了……）"
+   [12057]
+    0 TableSoItemLang data
+     0 int id = 1022058
+     1 string schinese = "（学校的操场，远处篮球场上偶尔传来男生打球的声音。在某个角落，那里聚集了大群的流浪猫……）"
+     1 string schinese_censored = "（学校的操场，远处篮球场上偶尔传来男生打球的声音。在某个角落，那里聚集了大群的流浪猫……）"
+     1 string english = "(At the school grounds, distant sounds of guys playing basketball comes from the basketball court. And there are a bunch of stray cats in the corner...)"
+     1 string japanese = "グラウンドから男の子がバスケをやる声が、かすかに聞こえる。グラウンドの片隅に野良猫が集まっている…"
+     1 string mchinese = "（學校的操場，遠處籃球場上偶爾傳來男生打球的聲音。在某個角落，那裏聚集了大群的流浪貓……）"
+   [12058]
+    0 TableSoItemLang data
+     0 int id = 1022059
+     1 string schinese = "小黄你不要抢小黑的东西！你不是有吃的吗？大白！吃完了不要趴在食物上！去旁边睡！大橘！你少吃点！都胖成什么样子了！"
+     1 string schinese_censored = "小黄你不要抢小黑的东西！你不是有吃的吗？大白！吃完了不要趴在食物上！去旁边睡！大橘！你少吃点！都胖成什么样子了！"
+     1 string english = "Hey, Yellow, stop stealing Black's food! Don't you have your own food? White! Don't lie on the food after you're done eating! So sleep on the side! Orange! Don't eat that much! You're already chubby!"
+     1 string japanese = "キジトラ、クロのを横取りするな！お前にはやっただろ？シロ、食べ終わったからって、食べ物の上で寝るな！隣で寝てくれ！茶トラ、お前は食いすぎだ！太りすぎだぞ！"
+     1 string mchinese = "小黃你不要搶小黑的東西！你不是有吃的嗎？大白！吃完了不要趴在食物上！去旁邊睡！大橘！你少吃點！都胖成什麼樣子了！"
+   [12059]
+    0 TableSoItemLang data
+     0 int id = 1022060
+     1 string schinese = "原来每次是你在喂它们呀~"
+     1 string schinese_censored = "原来每次是你在喂它们呀~"
+     1 string english = "So you're the one who keeps on feeding them."
+     1 string japanese = "あなたがエサをあげてたのね！"
+     1 string mchinese = "原來每次是你在喂它們呀~"
+   [12060]
+    0 TableSoItemLang data
+     0 int id = 1022061
+     1 string schinese = "（凶神恶煞）你是谁？"
+     1 string schinese_censored = "（凶神恶煞）你是谁？"
+     1 string english = "(Angrily) Who are you?"
+     1 string japanese = "あ！？誰だ？"
+     1 string mchinese = "（兇神惡煞）你是誰？"
+   [12061]
+    0 TableSoItemLang data
+     0 int id = 1022062
+     1 string schinese = "连同班同学的名字都不记得了嘛？龙弥生同学。"
+     1 string schinese_censored = "连同班同学的名字都不记得了嘛？龙弥生同学。"
+     1 string english = "Oh, Yates Long. You don't even remember the name of your own classmate?"
+     1 string japanese = "同級生の顔も知らないのね。ミシェンくん。"
+     1 string mchinese = "連同班同學的名字都不記得了嘛？龍彌生同學。"
+   [12062]
+    0 TableSoItemLang data
+     0 int id = 1022063
+     1 string schinese = "啊？没兴趣所以不想记。"
+     1 string schinese_censored = "啊？没兴趣所以不想记。"
+     1 string english = "Oh, I'm not interested so I don't remember."
+     1 string japanese = "はあ！？興味なかったら覚えないだろ。"
+     1 string mchinese = "啊？沒興趣所以不想記。"
+   [12063]
+    0 TableSoItemLang data
+     0 int id = 1022064
+     1 string schinese = "那算是重新认识啦~好多次想来喂总是被你抢先了，下次我们一起来喂吧。"
+     1 string schinese_censored = "那算是重新认识啦~好多次想来喂总是被你抢先了，下次我们一起来喂吧。"
+     1 string english = "It's nice to meet you. I've been meaning to feed them quite often, but someone's always come before me. Can we feed them together next time?"
+     1 string japanese = "じゃあ、改めてよろしく！エサをあげたかったけど、いつも先を越されてたの。今度一緒にあげましょ！"
+     1 string mchinese = "那算是重新認識啦~好多次想來喂總是被你搶先了，下次我們一起來喂吧。"
+   [12064]
+    0 TableSoItemLang data
+     0 int id = 1022065
+     1 string schinese = "亲爱的~还能跟你一个学校简直太好了~"
+     1 string schinese_censored = "亲爱的~还能跟你一个学校简直太好了~"
+     1 string english = "My honey, being in the same school with you is the best!"
+     1 string japanese = "ねえ！また、一緒の学校でよかったね！"
+     1 string mchinese = "親愛的~還能跟你一個學校簡直太好了~"
+   [12065]
+    0 TableSoItemLang data
+     0 int id = 1022066
+     1 string schinese = "那可不，还是我爱你是不是？"
+     1 string schinese_censored = "那可不，还是我爱你是不是？"
+     1 string english = "Of course, I still love you, don't I?"
+     1 string japanese = "変わらず、愛してくれる？"
+     1 string mchinese = "那可不，還是我愛你是不是？"
+   [12066]
+    0 TableSoItemLang data
+     0 int id = 1022067
+     1 string schinese = "当然，爱你，么么~"
+     1 string schinese_censored = "当然，爱你，么么~"
+     1 string english = "Of course, I love you too. Kisses!"
+     1 string japanese = "もちろん！愛してる！チュ～"
+     1 string mchinese = "當然，愛你，麼麼~"
+   [12067]
+    0 TableSoItemLang data
+     0 int id = 1022068
+     1 string schinese = "恶心，离我远一点~"
+     1 string schinese_censored = "恶心，离我远一点~"
+     1 string english = "Ew, go away!"
+     1 string japanese = "うわ、ちょっと離れてよ～"
+     1 string mchinese = "噁心，離我遠一點~"
+   [12068]
+    0 TableSoItemLang data
+     0 int id = 1022069
+     1 string schinese = "哇总算放学了，拖堂拖得也太久了……"
+     1 string schinese_censored = "哇总算放学了，拖堂拖得也太久了……"
+     1 string english = "Finally, school is over. The teacher sure took his time letting us go..."
+     1 string japanese = "はあ…やっと授業が終わった。居残り長すぎ…"
+     1 string mchinese = "哇總算放學了，拖堂拖得也太久了……"
+   [12069]
+    0 TableSoItemLang data
+     0 int id = 1022070
+     1 string schinese = "哇，萌萌！你还在呀？"
+     1 string schinese_censored = "哇，萌萌！你还在呀？"
+     1 string english = "Hey, Daisy, you're still here?"
+     1 string japanese = "あ、メンメン！待った？"
+     1 string mchinese = "哇，萌萌！你還在呀？"
+   [12070]
+    0 TableSoItemLang data
+     0 int id = 1022071
+     1 string schinese = "你们班终于放啦，我以为我被留得够久了，结果还是等了半天！一起走吧~"
+     1 string schinese_censored = "你们班终于放啦，我以为我被留得够久了，结果还是等了半天！一起走吧~"
+     1 string english = "You've finally ended class? And here I thought our class ended late. I've been waiting for you. Let's go home!"
+     1 string japanese = "やっと終わったね。こっちが遅いと思ってたけど、結構待っちゃった。一緒に帰ろう？"
+     1 string mchinese = "你們班終於放啦，我以為我被留得夠久了，結果還是等了半天！一起走吧~"
+   [12071]
+    0 TableSoItemLang data
+     0 int id = 1022072
+     1 string schinese = "啊……但是今天不行，我等下要先去别的地方，不顺路……"
+     1 string schinese_censored = "啊……但是今天不行，我等下要先去别的地方，不顺路……"
+     1 string english = "Oh... I can't today. I have somewhere else to be that's not on the way..."
+     1 string japanese = "あ…ゴメン。今日は無理なの。ちょっと寄りたいところがあって、帰る方向と違うし…"
+     1 string mchinese = "啊……但是今天不行，我等下要先去別的地方，不順路……"
+   [12072]
+    0 TableSoItemLang data
+     0 int id = 1022073
+     1 string schinese = "……又不一起走！又是不顺路！"
+     1 string schinese_censored = "……又不一起走！又是不顺路！"
+     1 string english = "Ditching me again? Again?!"
+     1 string japanese = "…また！？前も言ってたよね！"
+     1 string mchinese = "……又不一起走！又是不順路！"
+   [12073]
+    0 TableSoItemLang data
+     0 int id = 1022074
+     1 string schinese = "哼！你肯定是跟男生一起走了吧！我上次都看到了！"

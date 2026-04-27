@@ -1,0 +1,184 @@
+     1 string schinese_censored = "血量"
+     1 string english = "HP"
+     1 string japanese = "HP"
+     1 string mchinese = "血量"
+   [22631]
+    0 TableSoItemLang data
+     0 int id = 9900321
+     1 string schinese = "等级"
+     1 string schinese_censored = "等级"
+     1 string english = "Lv."
+     1 string japanese = "Lv."
+     1 string mchinese = "等級"
+   [22632]
+    0 TableSoItemLang data
+     0 int id = 9900322
+     1 string schinese = "上一页"
+     1 string schinese_censored = "上一页"
+     1 string english = "Previous Page"
+     1 string japanese = "前のページ"
+     1 string mchinese = "上一頁"
+   [22633]
+    0 TableSoItemLang data
+     0 int id = 9900323
+     1 string schinese = "下一页"
+     1 string schinese_censored = "下一页"
+     1 string english = "Next Page"
+     1 string japanese = "次のページ"
+     1 string mchinese = "下一頁"
+   [22634]
+    0 TableSoItemLang data
+     0 int id = 9900324
+     1 string schinese = "职业图鉴"
+     1 string schinese_censored = "职业图鉴"
+     1 string english = "ProfessionGallery"
+     1 string japanese = "職業図鑑"
+     1 string mchinese = "職業圖鑒"
+   [22635]
+    0 TableSoItemLang data
+     0 int id = 9900325
+     1 string schinese = "特长图鉴"
+     1 string schinese_censored = "特长图鉴"
+     1 string english = "TraitGallery"
+     1 string japanese = "特技図鑑"
+     1 string mchinese = "特長圖鑒"
+   [22636]
+    0 TableSoItemLang data
+     0 int id = 9900326
+     1 string schinese = "职业图鉴"
+     1 string schinese_censored = "职业图鉴"
+     1 string english = "ProfessionGallery"
+     1 string japanese = "職業図鑑"
+     1 string mchinese = "職業圖鑒"
+   [22637]
+    0 TableSoItemLang data
+     0 int id = 9900327
+     1 string schinese = "家族等级"
+     1 string schinese_censored = "家族等级"
+     1 string english = "Family Lv."
+     1 string japanese = "家族レベル"
+     1 string mchinese = "家族等級"
+   [22638]
+    0 TableSoItemLang data
+     0 int id = 9900328
+     1 string schinese = "最爱科目:"
+     1 string schinese_censored = "最爱科目:"
+     1 string english = "Favorite Class: "
+     1 string japanese = "最愛科目："
+     1 string mchinese = "最愛科目:"
+   [22639]
+    0 TableSoItemLang data
+     0 int id = 9900329
+     1 string schinese = "最高课程:"
+     1 string schinese_censored = "最高课程:"
+     1 string english = "Best Class: "
+     1 string japanese = "最高練習："
+     1 string mchinese = "最高課程:"
+   [22640]
+    0 TableSoItemLang data
+     0 int id = 9900330
+     1 string schinese = "我的理想:"
+     1 string schinese_censored = "我的理想:"
+     1 string english = "My Dream: "
+     1 string japanese = "将来の夢："
+     1 string mchinese = "我的理想:"
+   [22641]
+    0 TableSoItemLang data
+     0 int id = 9900331
+     1 string schinese = "最强特长:"
+     1 string schinese_censored = "最强特长:"
+     1 string english = "Best Trait: "
+     1 string japanese = "最強特技："
+     1 string mchinese = "最強特長:"
+   [22642]
+    0 TableSoItemLang data
+     0 int id = 9900332
+     1 string schinese = "无感科目:"
+     1 string schinese_censored = "无感科目:"
+     1 string english = "Disliked Class: "
+     1 string japanese = "無視科目:"
+     1 string mchinese = "無感科目:"
+   [22643]
+    0 TableSoItemLang data
+     0 int id = 9900333
+     1 string schinese = "最新进度"
+     1 string schinese_censored = "最新进度"
+     1 string english = "Latest save"
+     1 string japanese = "最新セーブ"
+     1 string mchinese = "最新進度"
+   [22644]
+    0 TableSoItemLang data
+     0 int id = 9900334
+     1 string schinese = "开始新游戏吗?"
+     1 string schinese_censored = "开始新游戏吗?"
+     1 string english = "Are you sure to start a new game?"
+     1 string japanese = "新しいゲームを始めますか？"
+     1 string mchinese = "開始新遊戲嗎?"
+   [22645]
+    0 TableSoItemLang data
+     0 int id = 9900335
+     1 string schinese = "第{0}代"
+     1 string schinese_censored = "第{0}代"
+     1 string english = "Gen. {0}"
+     1 string japanese = "第{0}世代"
+     1 string mchinese = "第{0}代"
+   [22646]
+    0 TableSoItemLang data
+     0 int id = 9900336
+     1 string schinese = "{0}岁"
+     1 string schinese_censored = "{0}岁"
+     1 string english = "Age {0}"
+     1 string japanese = "{0}歳"
+     1 string mchinese = "{0}歲"
+   [22647]
+    0 TableSoItemLang data
+     0 int id = 9900337
+     1 string schinese = "从这个存档继续游戏吗？"
+     1 string schinese_censored = "从这个存档继续游戏吗？"
+     1 string english = "Are you sure to contine from this data?"
+     1 string japanese = "このデータでゲームを続けますか？"
+     1 string mchinese = "從這個存檔繼續遊戲嗎？"
+   [22648]
+    0 TableSoItemLang data
+     0 int id = 9900338
+     1 string schinese = "第{0}代"
+     1 string schinese_censored = "第{0}代"
+     1 string english = "Gen. {0}"
+     1 string japanese = "第{0}世代"
+     1 string mchinese = "第{0}代"
+   [22649]
+    0 TableSoItemLang data
+     0 int id = 9900339
+     1 string schinese = "第{0}代"
+     1 string schinese_censored = "第{0}代"
+     1 string english = "Gen. {0}"
+     1 string japanese = "第{0}世代"
+     1 string mchinese = "第{0}代"
+   [22650]
+    0 TableSoItemLang data
+     0 int id = 9900340
+     1 string schinese = "第{0}代"
+     1 string schinese_censored = "第{0}代"
+     1 string english = "Gen. {0}"
+     1 string japanese = "第{0}世代"
+     1 string mchinese = "第{0}代"
+   [22651]
+    0 TableSoItemLang data
+     0 int id = 870001
+     1 string schinese = ""
+     1 string schinese_censored = "进行一次取名"
+     1 string english = "/870001"
+     1 string japanese = "/"
+     1 string mchinese = ""
+   [22652]
+    0 TableSoItemLang data
+     0 int id = 870002
+     1 string schinese = ""
+     1 string schinese_censored = "小卖部购买1次"
+     1 string english = "/870002"
+     1 string japanese = "/"
+     1 string mchinese = ""
+   [22653]
+    0 TableSoItemLang data
+     0 int id = 870003
+     1 string schinese = ""

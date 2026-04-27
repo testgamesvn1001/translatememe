@@ -1,0 +1,184 @@
+     1 string schinese_censored = "期望"
+     1 string english = "Expectations"
+     1 string japanese = "期待"
+     1 string mchinese = "期望"
+   [18445]
+    0 TableSoItemLang data
+     0 int id = 1028446
+     1 string schinese = "学\n习"
+     1 string schinese_censored = "学\n习"
+     1 string english = "Study"
+     1 string japanese = "勉\n強"
+     1 string mchinese = "學\n習"
+   [18446]
+    0 TableSoItemLang data
+     0 int id = 1028447
+     1 string schinese = "娱\n乐"
+     1 string schinese_censored = "娱\n乐"
+     1 string english = "Ent"
+     1 string japanese = "娯\n楽"
+     1 string mchinese = "娛\n樂"
+   [18447]
+    0 TableSoItemLang data
+     0 int id = 1028448
+     1 string schinese = "({0}/6)下一回合"
+     1 string schinese_censored = "({0}/6)下一回合"
+     1 string english = "({0}/6) Next Turn"
+     1 string japanese = "({0}/6)予定開始"
+     1 string mchinese = "({0}/6)下一回合"
+   [18448]
+    0 TableSoItemLang data
+     0 int id = 1028449
+     1 string schinese = "全 部"
+     1 string schinese_censored = "全 部"
+     1 string english = "All"
+     1 string japanese = "全部"
+     1 string mchinese = "全 部"
+   [18449]
+    0 TableSoItemLang data
+     0 int id = 1028450
+     1 string schinese = "推 荐"
+     1 string schinese_censored = "推 荐"
+     1 string english = "Rec."
+     1 string japanese = "推奨"
+     1 string mchinese = "推 薦"
+   [18450]
+    0 TableSoItemLang data
+     0 int id = 1028451
+     1 string schinese = "智 商"
+     1 string schinese_censored = "智 商"
+     1 string english = "IQ"
+     1 string japanese = "ＩＱ"
+     1 string mchinese = "智 商"
+   [18451]
+    0 TableSoItemLang data
+     0 int id = 1028452
+     1 string schinese = "情 商"
+     1 string schinese_censored = "情 商"
+     1 string english = "EQ"
+     1 string japanese = "ＥＱ"
+     1 string mchinese = "情 商"
+   [18452]
+    0 TableSoItemLang data
+     0 int id = 1028453
+     1 string schinese = "体 魄"
+     1 string schinese_censored = "体 魄"
+     1 string english = "Constitution"
+     1 string japanese = "体力"
+     1 string mchinese = "體 魄"
+   [18453]
+    0 TableSoItemLang data
+     0 int id = 1028454
+     1 string schinese = "记忆力"
+     1 string schinese_censored = "记忆力"
+     1 string english = "Memory"
+     1 string japanese = "記憶力"
+     1 string mchinese = "記憶力"
+   [18454]
+    0 TableSoItemLang data
+     0 int id = 1028455
+     1 string schinese = "想象力"
+     1 string schinese_censored = "想象力"
+     1 string english = "Imagination"
+     1 string japanese = "想像力"
+     1 string mchinese = "想像力"
+   [18455]
+    0 TableSoItemLang data
+     0 int id = 1028456
+     1 string schinese = "魅 力"
+     1 string schinese_censored = "魅 力"
+     1 string english = "Charm"
+     1 string japanese = "魅力"
+     1 string mchinese = "魅 力"
+   [18456]
+    0 TableSoItemLang data
+     0 int id = 1028457
+     1 string schinese = "取消日程：点击右侧日程条目，可取消该日程。"
+     1 string schinese_censored = "取消日程：点击右侧日程条目，可取消该日程。"
+     1 string english = "Cancel schedule: Tap a scheduled activity on the right-hand side to remove it."
+     1 string japanese = "予定キャンセル：右側の入力済予定を選択するとキャンセルできる。"
+     1 string mchinese = "取消日程：點擊右側日程條目，可取消該日程。"
+   [18457]
+    0 TableSoItemLang data
+     0 int id = 1028458
+     1 string schinese = "特长图鉴get√"
+     1 string schinese_censored = "特长图鉴已解锁"
+     1 string english = "New trait √"
+     1 string japanese = "特技獲得済み"
+     1 string mchinese = "特長圖鑒get√"
+   [18458]
+    0 TableSoItemLang data
+     0 int id = 1028459
+     1 string schinese = "图鉴未获得"
+     1 string schinese_censored = "图鉴未获得"
+     1 string english = "Trait Locked"
+     1 string japanese = "特技未獲得"
+     1 string mchinese = "圖鑒未獲得"
+   [18459]
+    0 TableSoItemLang data
+     0 int id = 1028460
+     1 string schinese = "脑洞第{0}层 （{1}%属性加成）"
+     1 string schinese_censored = "脑洞第{0}层 （{1}%属性加成）"
+     1 string english = "Mind map level {0} ({1}% stat bonus)"
+     1 string japanese = "第{0}階層({1}%能力値ボーナス)"
+     1 string mchinese = "腦洞第{0}層 （{1}%屬性加成）"
+   [18460]
+    0 TableSoItemLang data
+     0 int id = 1028461
+     1 string schinese = "脑洞第{0}层 （无属性加成）"
+     1 string schinese_censored = "脑洞第{0}层 （无属性加成）"
+     1 string english = "Mind map level {0} (no stat bonus)"
+     1 string japanese = "第{0}階層(能力値ボーナスなし)"
+     1 string mchinese = "腦洞第{0}層 （無屬性加成）"
+   [18461]
+    0 TableSoItemLang data
+     0 int id = 1028462
+     1 string schinese = "该脑洞尚未解锁，赶紧拓展吧！"
+     1 string schinese_censored = "该脑洞尚未解锁，赶紧拓展吧！"
+     1 string english = "This fragment is locked. Start by absorbing other ones!"
+     1 string japanese = "このカケラはロックされている。頑張って解除しよう！"
+     1 string mchinese = "該腦洞尚未解鎖，趕緊拓展吧！"
+   [18462]
+    0 TableSoItemLang data
+     0 int id = 1028463
+     1 string schinese = "触发了开窍脑洞技能！"
+     1 string schinese_censored = "触发了开窍脑洞技能！"
+     1 string english = "You triggered a Eureka Fragment!"
+     1 string japanese = "ヒラメキのカケラの効果が発動！"
+     1 string mchinese = "觸發了開竅腦洞技能！"
+   [18463]
+    0 TableSoItemLang data
+     0 int id = 1028464
+     1 string schinese = "随机获得行动力："
+     1 string schinese_censored = "随机获得行动力："
+     1 string english = "Grants a random amount of Action:"
+     1 string japanese = "ランダムに行動力を獲得："
+     1 string mchinese = "隨機獲得行動力："
+   [18464]
+    0 TableSoItemLang data
+     0 int id = 1028465
+     1 string schinese = "行动力不足！无法挖取脑洞"
+     1 string schinese_censored = "行动力不足！无法挖取脑洞"
+     1 string english = "Not enough Action to absorb this fragment."
+     1 string japanese = "行動力不足！カケラを吸収できない！"
+     1 string mchinese = "行動力不足！無法挖取腦洞"
+   [18465]
+    0 TableSoItemLang data
+     0 int id = 1028466
+     1 string schinese = "触发了同色脑洞技能效果！"
+     1 string schinese_censored = "触发了同色脑洞技能效果！"
+     1 string english = "You triggered a Chain Fragment!"
+     1 string japanese = "同色のカケラの効果が発動！"
+     1 string mchinese = "觸發了同色腦洞技能效果！"
+   [18466]
+    0 TableSoItemLang data
+     0 int id = 1028467
+     1 string schinese = "触发了洞察脑洞技能效果！"
+     1 string schinese_censored = "触发了洞察脑洞技能效果！"
+     1 string english = "You triggered an Insight Fragment!"
+     1 string japanese = "洞察力のカケラの効果が発動！"
+     1 string mchinese = "觸發了洞察腦洞技能效果！"
+   [18467]
+    0 TableSoItemLang data
+     0 int id = 1028468
+     1 string schinese = "激活了随机脑洞"

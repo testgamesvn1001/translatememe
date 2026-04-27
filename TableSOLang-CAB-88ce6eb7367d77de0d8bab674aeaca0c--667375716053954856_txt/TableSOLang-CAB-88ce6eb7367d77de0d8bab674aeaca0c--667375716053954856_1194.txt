@@ -1,0 +1,184 @@
+     1 string schinese_censored = "你获得了一个了不起的特长~"
+     1 string english = "You acquired a great trait."
+     1 string japanese = "すごい特技を獲得しました。"
+     1 string mchinese = "你獲得了一個了不起的特長~"
+   [27438]
+    0 TableSoItemLang data
+     0 int id = 1596173725
+     1 string schinese = "警告~警告~娱乐禁止启动~"
+     1 string schinese_censored = "警告~警告~娱乐禁止启动~"
+     1 string english = "Warning: unable to launch Entertainment."
+     1 string japanese = "警告！警告！娯楽禁止発動！"
+     1 string mchinese = "警告~警告~娛樂禁止啟動~"
+   [27439]
+    0 TableSoItemLang data
+     0 int id = 1596173726
+     1 string schinese = "好像发生了什么~又好像没有~"
+     1 string schinese_censored = "好像发生了什么~又好像没有~"
+     1 string english = "It seems that something has happened."
+     1 string japanese = "何かが起きたかもしれないし、起きてないかもしれない。"
+     1 string mchinese = "好像發生了什麼~又好像沒有~"
+   [27440]
+    0 TableSoItemLang data
+     0 int id = 1596173727
+     1 string schinese = "使用传家宝"
+     1 string schinese_censored = "使用传家宝"
+     1 string english = "Use Heirloom"
+     1 string japanese = "家宝を使用"
+     1 string mchinese = "使用傳家寶"
+   [27441]
+    0 TableSoItemLang data
+     0 int id = 1596173728
+     1 string schinese = "效果：原地满血复活，心理阴影面积清空。\n<color=#EB7350>携带传家宝[五好家庭]后获得，同一世代只能使用一次。</color>"
+     1 string schinese_censored = "效果：原地满血复活，心理阴影面积清空。\n<color=#EB7350>携带传家宝[五好家庭]后获得，同一世代只能使用一次。</color>"
+     1 string english = "Effect: reset Mind Shadow size.\n<color=#EB7350>Equip Family Heirloom Five-virtue Family to acquire. Can only be used once per generation.</color>"
+     1 string japanese = "効果：その場でフルＨＰで復活。トラウマ領域がリセットされる。\n<color=#EB7350>家宝[五好家庭]を持っていると獲得。１世代に１回のみ使用可能。</color>"
+     1 string mchinese = "效果：原地滿血復活，心理陰影面積清空。\n<color=#EB7350>攜帶傳家寶[五好家庭]後獲得，同一世代只能使用一次。</color>"
+   [27442]
+    0 TableSoItemLang data
+     0 int id = 1596173729
+     1 string schinese = "所谓浪子回头金不换，下次注意点~"
+     1 string schinese_censored = "所谓浪子回头金不换，下次注意点~"
+     1 string english = "It's good to redeem yourself. Be careful next time."
+     1 string japanese = "反省しているならよろしい。次は気を付けよう。"
+     1 string mchinese = "所謂浪子回頭金不換，下次注意點~"
+   [27443]
+    0 TableSoItemLang data
+     0 int id = 1596173730
+     1 string schinese = "复读再战！"
+     1 string schinese_censored = "复读再战！"
+     1 string english = "Repeat the grade to take Gaokao once more!"
+     1 string japanese = "復習して再挑戦！"
+     1 string mchinese = "複讀再戰！"
+   [27444]
+    0 TableSoItemLang data
+     0 int id = 1596173731
+     1 string schinese = "效果：再进行一次第48回合。\n<color=#EB7350>携带传家宝[月光宝盒]后获得，同一世代只能使用一次。</color>"
+     1 string schinese_censored = "效果：再进行一次第48回合。\n<color=#EB7350>携带传家宝[月光宝盒]后获得，同一世代只能使用一次。</color>"
+     1 string english = "Effect: start Turn 48 over again.\n<color=#EB7350>Equip Family Heirloom Moon Box to acquire. Can only be used once per generation.</color>"
+     1 string japanese = "効果：４８ターン目をもう１回進行する。\n<color=#EB7350>家宝[月光の宝箱]を持っていると獲得。１世代に１回のみ使用可能。</color>"
+     1 string mchinese = "效果：再進行一次第48回合。\n<color=#EB7350>攜帶傳家寶[月光寶盒]後獲得，同一世代只能使用一次。</color>"
+   [27445]
+    0 TableSoItemLang data
+     0 int id = 1596173732
+     1 string schinese = "留得青山在，不怕没柴烧，重头再来吧~"
+     1 string schinese_censored = "留得青山在，不怕没柴烧，重头再来吧~"
+     1 string english = "While there's life, there's hope. Please start over again."
+     1 string japanese = "生きていれば良いことがある。もう一度やってみよう。"
+     1 string mchinese = "留得青山在，不怕沒柴燒，重頭再來吧~"
+   [27446]
+    0 TableSoItemLang data
+     0 int id = 1596173733
+     1 string schinese = "换预置"
+     1 string schinese_censored = "换预置"
+     1 string english = "Change Plan"
+     1 string japanese = "プリセット変更"
+     1 string mchinese = "換預置"
+   [27447]
+    0 TableSoItemLang data
+     0 int id = 1596173734
+     1 string schinese = "获得了新的传家宝[{0}]~"
+     1 string schinese_censored = "获得了新的传家宝[{0}]~"
+     1 string english = "Family Heirloom [{0}] acquired."
+     1 string japanese = "新しい家宝[{0}]を獲得しました。"
+     1 string mchinese = "獲得了新的傳家寶[{0}]~"
+   [27448]
+    0 TableSoItemLang data
+     0 int id = 1596173735
+     1 string schinese = "佩戴的传家宝在本世代将一直发挥作用，并且不可以在成长过程中更换。\n确定佩戴这些传家宝吗？"
+     1 string schinese_censored = "佩戴的传家宝在本世代将一直发挥作用，并且不可以在成长过程中更换。\n确定佩戴这些传家宝吗？"
+     1 string english = "Family Heirlooms equipped will be active through this generation and can't be changed during the generation.\nAre you sure you want to equip these heirlooms?"
+     1 string japanese = "装着した家宝はこの世代中永続的に効果を発揮します。\n成長の途中で交換することはできません。\n家宝を装着しますか？"
+     1 string mchinese = "佩戴的傳家寶在本世代將一直發揮作用，並且不可以在成長過程中更換。\n確定佩戴這些傳家寶嗎？"
+   [27449]
+    0 TableSoItemLang data
+     0 int id = 1596173736
+     1 string schinese = "已佩戴"
+     1 string schinese_censored = "已佩戴"
+     1 string english = "Equipped"
+     1 string japanese = "装着済み"
+     1 string mchinese = "已佩戴"
+   [27450]
+    0 TableSoItemLang data
+     0 int id = 1596173737
+     1 string schinese = "兑换码"
+     1 string schinese_censored = "兑换码"
+     1 string english = "Gift Code"
+     1 string japanese = "引換コード"
+     1 string mchinese = "兌換碼"
+   [27451]
+    0 TableSoItemLang data
+     0 int id = 1596173738
+     1 string schinese = "市状元"
+     1 string schinese_censored = "市状元"
+     1 string english = "[City] Top Student"
+     1 string japanese = "地方で一番"
+     1 string mchinese = "市狀元"
+   [27452]
+    0 TableSoItemLang data
+     0 int id = 1596173739
+     1 string schinese = "年级前三"
+     1 string schinese_censored = "年级前三"
+     1 string english = "[Grade] Top 3"
+     1 string japanese = "学年トップ３"
+     1 string mchinese = "年級前三"
+   [27453]
+    0 TableSoItemLang data
+     0 int id = 1596173740
+     1 string schinese = "年级第一"
+     1 string schinese_censored = "年级第一"
+     1 string english = "[Grade] No. 1"
+     1 string japanese = "学年トップ"
+     1 string mchinese = "年級第一"
+   [27454]
+    0 TableSoItemLang data
+     0 int id = 1596173741
+     1 string schinese = "班级第三"
+     1 string schinese_censored = "班级第三"
+     1 string english = "[Class] No. 3"
+     1 string japanese = "クラストップ３"
+     1 string mchinese = "班級第三"
+   [27455]
+    0 TableSoItemLang data
+     0 int id = 1596173742
+     1 string schinese = "中不溜"
+     1 string schinese_censored = "中不溜"
+     1 string english = "Super Average"
+     1 string japanese = "真ん中"
+     1 string mchinese = "中不溜"
+   [27456]
+    0 TableSoItemLang data
+     0 int id = 1596173743
+     1 string schinese = "中不溜"
+     1 string schinese_censored = "中不溜"
+     1 string english = "Super Average"
+     1 string japanese = "真ん中"
+     1 string mchinese = "中不溜"
+   [27457]
+    0 TableSoItemLang data
+     0 int id = 1596173744
+     1 string schinese = "中不溜"
+     1 string schinese_censored = "中不溜"
+     1 string english = "Super Average"
+     1 string japanese = "真ん中"
+     1 string mchinese = "中不溜"
+   [27458]
+    0 TableSoItemLang data
+     0 int id = 1596173745
+     1 string schinese = "不及格"
+     1 string schinese_censored = "不及格"
+     1 string english = "Fail"
+     1 string japanese = "不合格"
+     1 string mchinese = "不及格"
+   [27459]
+    0 TableSoItemLang data
+     0 int id = 1596173746
+     1 string schinese = "吊车尾"
+     1 string schinese_censored = "吊车尾"
+     1 string english = "Mega Fail"
+     1 string japanese = "ビリ"
+     1 string mchinese = "吊車尾"
+   [27460]
+    0 TableSoItemLang data
+     0 int id = 1596173747
+     1 string schinese = "缺乏基础"

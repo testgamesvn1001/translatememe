@@ -1,0 +1,184 @@
+     1 string schinese_censored = "职业图鉴"
+     1 string english = "Profession Gallery"
+     1 string japanese = "職業図鑑"
+     1 string mchinese = "職業圖鑒"
+   [18905]
+    0 TableSoItemLang data
+     0 int id = 1028906
+     1 string schinese = "*游戏在每个回合结束后自动存档"
+     1 string schinese_censored = "*游戏在每个回合结束后自动存档"
+     1 string english = "* The game auto-saves after every turn."
+     1 string japanese = "*データはターン終了時に自動で保存されます"
+     1 string mchinese = "*遊戲在每個回合結束後自動存檔"
+   [18906]
+    0 TableSoItemLang data
+     0 int id = 1028907
+     1 string schinese = "索\n取"
+     1 string schinese_censored = "索\n取"
+     1 string english = "Request"
+     1 string japanese = "要\n求"
+     1 string mchinese = "索\n取"
+   [18907]
+    0 TableSoItemLang data
+     0 int id = 1028908
+     1 string schinese = "打\n工"
+     1 string schinese_censored = "打\n工"
+     1 string english = "Work"
+     1 string japanese = "仕\n事"
+     1 string mchinese = "打\n工"
+   [18908]
+    0 TableSoItemLang data
+     0 int id = 1028909
+     1 string schinese = "日程安排"
+     1 string schinese_censored = "日程安排"
+     1 string english = "Schedule"
+     1 string japanese = "予定の作成"
+     1 string mchinese = "日程安排"
+   [18909]
+    0 TableSoItemLang data
+     0 int id = 1028910
+     1 string schinese = "清空列表"
+     1 string schinese_censored = "清空列表"
+     1 string english = "Clear"
+     1 string japanese = "予定クリア"
+     1 string mchinese = "清空列表"
+   [18910]
+    0 TableSoItemLang data
+     0 int id = 1028911
+     1 string schinese = "个人属性"
+     1 string schinese_censored = "个人属性"
+     1 string english = "Your Stats"
+     1 string japanese = "個人能力"
+     1 string mchinese = "個人屬性"
+   [18911]
+    0 TableSoItemLang data
+     0 int id = 1028912
+     1 string schinese = "心理状态"
+     1 string schinese_censored = "心理状态"
+     1 string english = "Mental status"
+     1 string japanese = "メンタル"
+     1 string mchinese = "心理狀態"
+   [18912]
+    0 TableSoItemLang data
+     0 int id = 1028913
+     1 string schinese = "最亲密好友"
+     1 string schinese_censored = "最亲密好友"
+     1 string english = "Closest friends"
+     1 string japanese = "親友"
+     1 string mchinese = "最親密好友"
+   [18913]
+    0 TableSoItemLang data
+     0 int id = 1028914
+     1 string schinese = "发展建议"
+     1 string schinese_censored = "发展建议"
+     1 string english = "Recommendations"
+     1 string japanese = "アドバイス"
+     1 string mchinese = "發展建議"
+   [18914]
+    0 TableSoItemLang data
+     0 int id = 1028915
+     1 string schinese = "家族"
+     1 string schinese_censored = "家族"
+     1 string english = "Family"
+     1 string japanese = "家族"
+     1 string mchinese = "家族"
+   [18915]
+    0 TableSoItemLang data
+     0 int id = 1028916
+     1 string schinese = "有"
+     1 string schinese_censored = "有"
+     1 string english = "Yes"
+     1 string japanese = "○"
+     1 string mchinese = "有"
+   [18916]
+    0 TableSoItemLang data
+     0 int id = 1028917
+     1 string schinese = "没"
+     1 string schinese_censored = "没"
+     1 string english = "No"
+     1 string japanese = "×"
+     1 string mchinese = "沒"
+   [18917]
+    0 TableSoItemLang data
+     0 int id = 1028918
+     1 string schinese = "未安排"
+     1 string schinese_censored = "未安排"
+     1 string english = "Empty"
+     1 string japanese = "予定\nなし"
+     1 string mchinese = "未安排"
+   [18918]
+    0 TableSoItemLang data
+     0 int id = 1028919
+     1 string schinese = "解题思路：拼凑出解决每个问题所需的脑洞，点击解决，可完成解题并获取奖励！"
+     1 string schinese_censored = "解题思路：拼凑出解决每个问题所需的脑洞，点击解决，可完成解题并获取奖励！"
+     1 string english = "Match fragments to solve questions. Click Solve to complete them for rewards!"
+     1 string japanese = "解答方法：カケラを揃えて解答しよう。正しく解答すると報酬が得られる！"
+     1 string mchinese = "解題思路：拼湊出解決每個問題所需的腦洞，點擊解決，可完成解題並獲取獎勵！"
+   [18919]
+    0 TableSoItemLang data
+     0 int id = 1028920
+     1 string schinese = "试卷"
+     1 string schinese_censored = "试卷"
+     1 string english = "Exam"
+     1 string japanese = "テスト"
+     1 string mchinese = "試卷"
+   [18920]
+    0 TableSoItemLang data
+     0 int id = 1028921
+     1 string schinese = "解题区"
+     1 string schinese_censored = "解题区"
+     1 string english = "Solve questions here"
+     1 string japanese = "解答欄"
+     1 string mchinese = "解題區"
+   [18921]
+    0 TableSoItemLang data
+     0 int id = 1028922
+     1 string schinese = "道具"
+     1 string schinese_censored = "道具"
+     1 string english = "Items"
+     1 string japanese = "道具"
+     1 string mchinese = "道具"
+   [18922]
+    0 TableSoItemLang data
+     0 int id = 1028923
+     1 string schinese = "新技能"
+     1 string schinese_censored = "新技能"
+     1 string english = "New Skills"
+     1 string japanese = "新技能"
+     1 string mchinese = "新技能"
+   [18923]
+    0 TableSoItemLang data
+     0 int id = 1028924
+     1 string schinese = "新娱乐"
+     1 string schinese_censored = "新娱乐"
+     1 string english = "New Ent."
+     1 string japanese = "新娯楽"
+     1 string mchinese = "新娛樂"
+   [18924]
+    0 TableSoItemLang data
+     0 int id = 1028925
+     1 string schinese = "闲话家常"
+     1 string schinese_censored = "闲话家常"
+     1 string english = "Face Duel"
+     1 string japanese = "メンツバトル"
+     1 string mchinese = "閒話家常"
+   [18925]
+    0 TableSoItemLang data
+     0 int id = 1028926
+     1 string schinese = "抽奖"
+     1 string schinese_censored = "抽奖"
+     1 string english = "Draw"
+     1 string japanese = "抽選"
+     1 string mchinese = "抽獎"
+   [18926]
+    0 TableSoItemLang data
+     0 int id = 1028927
+     1 string schinese = "兑奖"
+     1 string schinese_censored = "兑奖"
+     1 string english = "Cash In"
+     1 string japanese = "換金"
+     1 string mchinese = "兌獎"
+   [18927]
+    0 TableSoItemLang data
+     0 int id = 1028928
+     1 string schinese = "索取次数"

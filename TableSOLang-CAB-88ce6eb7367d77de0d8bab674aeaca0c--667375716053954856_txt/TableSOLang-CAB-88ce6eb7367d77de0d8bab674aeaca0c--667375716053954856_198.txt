@@ -1,0 +1,184 @@
+     1 string schinese_censored = "我要去图书馆了…………我想邀…邀…邀请…你一起去……"
+     1 string english = "I'm heading to the library... and... I... err... Do you want... to... come with... me?"
+     1 string japanese = "図書館に行くんだ…い…一緒に…どうかな…と思って…"
+     1 string mchinese = "我要去圖書館了…………我想邀…邀…邀請…你一起去……"
+   [4530]
+    0 TableSoItemLang data
+     0 int id = 1014531
+     1 string schinese = "你最近在学弱相互作用？杰拉德·胡福特，就是那个诺贝尔奖得主来做演讲啦！！！咳哼……没什么"
+     1 string schinese_censored = "你最近在学弱相互作用？胡福特，就是那个诺贝尔奖得主来做演讲啦！！！咳哼……没什么"
+     1 string english = "A Nobel Prize winner is going to hold a speech! Do you want to go together?"
+     1 string japanese = "弱い相互作用は知ってる？ノーベル賞受賞者のジェラルド氏が講演するんだ！コホン…気にしないで。"
+     1 string mchinese = "你最近在學弱相互作用？傑拉德·胡福特，就是那個諾貝爾獎得主來做演講啦！！！咳哼……沒什麼"
+   [4531]
+    0 TableSoItemLang data
+     0 int id = 1014532
+     1 string schinese = "你有考虑过未来去中国最高学府——北京大学吗？刚好最近有个北京大学的宣讲会……"
+     1 string schinese_censored = "你有考虑过未来去中国最高学府——北京大学吗？刚好最近有个北京大学的宣讲会……"
+     1 string english = "Have you thought about going to the most famous university in China—Peking University? There's a lecture there soon..."
+     1 string japanese = "将来、中国最高学府の北京大学に入学したくない？ちょうど北京大学の説明会があって…"
+     1 string mchinese = "你有考慮過未來去中國最高學府——北京大學嗎？剛好最近有個北京大學的宣講會……"
+   [4532]
+    0 TableSoItemLang data
+     0 int id = 1014533
+     1 string schinese = "我想去北大的物理系读书，接受最顶级的物理教育，你不用在意我自言自语而已。"
+     1 string schinese_censored = "我想去北大的物理系读书，接受最顶级的物理教育，你不用在意我自言自语而已。"
+     1 string english = "I want to study at the Physics department of Peking University. Don't mind me, I'm just talking to myself that's all."
+     1 string japanese = "北京大学の物理学科に通って、最高の物理教育を受けたいんだ…なんてね。独り言だから気にしないで。"
+     1 string mchinese = "我想去北大的物理系讀書，接受最頂級的物理教育，你不用在意我自言自語而已。"
+   [4533]
+    0 TableSoItemLang data
+     0 int id = 1014534
+     1 string schinese = "突然感觉前途很迷茫，你有考虑过你的未来么？…………自言自语而已………"
+     1 string schinese_censored = "突然感觉前途很迷茫，你有考虑过你的未来么？…………自言自语而已………"
+     1 string english = "I'm suddenly feeling a bit confused, I don't know what I want to do in the future, how about you?"
+     1 string japanese = "将来に迷ってるんだ。将来は考えてる？"
+     1 string mchinese = "突然感覺前途很迷茫，你有考慮過你的未來麼？…………自言自語而已………"
+   [4534]
+    0 TableSoItemLang data
+     0 int id = 1014535
+     1 string schinese = "这些书跟习题拿着！我来辅导你的功课！你要跟我一起去北大！"
+     1 string schinese_censored = "这些书跟习题拿着！我来辅导你的功课！你要跟我一起去北大！"
+     1 string english = "Take these books! I'll tutor you in all of them, cause I want you to go to Peking University with me!"
+     1 string japanese = "問題集をあげる！勉強も手伝う！絶対一緒に北京大学へ行こう！"
+     1 string mchinese = "這些書跟習題拿著！我來輔導你的功課！你要跟我一起去北大！"
+   [4535]
+    0 TableSoItemLang data
+     0 int id = 1014536
+     1 string schinese = "汤金娜同学委托我组织她的生日会，她有好多的准备在做，所以我代她邀请你参加。"
+     1 string schinese_censored = "汤金娜同学委托我组织她的生日会，她有好多的准备在做，所以我代她邀请你参加。"
+     1 string english = "Yeena Tang asked me to organize her birthday party. Do you want to come?"
+     1 string japanese = "ジンナの誕生パーティーの準備をしてるんだ。彼女、忙しいからさ、代わりに誘いにきたんだ。"
+     1 string mchinese = "湯金娜同學委託我組織她的生日會，她有好多的準備在做，所以我代她邀請你參加。"
+   [4536]
+    0 TableSoItemLang data
+     0 int id = 1014537
+     1 string schinese = "我组织了咱们班同学去唱K，邀请你一起去，好多同学都会去～"
+     1 string schinese_censored = "我组织了咱们班同学去唱歌，邀请你一起去，好多同学都会去～"
+     1 string english = "I've organized an outing with the class for us to go sing karaoke. Do you want to come too?"
+     1 string japanese = "クラスのみんなとカラオケに行こうよ。ほとんど参加してるよ！"
+     1 string mchinese = "我組織了咱們班同學去唱K，邀請你一起去，好多同學都會去～"
+   [4537]
+    0 TableSoItemLang data
+     0 int id = 1014538
+     1 string schinese = "上次听你唱歌好好听～想问一下你有没有兴趣参加学校的校庆晚会？你的话一定惊艳全场！"
+     1 string schinese_censored = "上次听你唱歌好好听～想问一下你有没有兴趣参加学校的校庆晚会？你的话一定惊艳全场！"
+     1 string english = "I heard you singing last time, it was great! Do you want to sing at the school's anniversary party?"
+     1 string japanese = "この前歌ってるのを聴いたけど、学園祭で歌う気はない？絶対盛り上がるよ！"
+     1 string mchinese = "上次聽你唱歌好好聽～想問一下你有沒有興趣參加學校的校慶晚會？你的話一定驚豔全場！"
+   [4538]
+    0 TableSoItemLang data
+     0 int id = 1014539
+     1 string schinese = "上次多谢你能参加校庆，学校那边要求每班都要有个报名，帮了我大忙～我请你吃饭～"
+     1 string schinese_censored = "上次多谢你能参加校庆，学校那边要求每班都要有个报名，帮了我大忙～我请你吃饭～"
+     1 string english = "Thank you for singing at the anniversary party, that way us other classmates didn't have to. Let me treat you to dinner."
+     1 string japanese = "学園祭に参加ありがとう。学校から参加者を探すよう頼まれてたんだ。今度何かおごるね！"
+     1 string mchinese = "上次多謝你能參加校慶，學校那邊要求每班都要有個報名，幫了我大忙～我請你吃飯～"
+   [4539]
+    0 TableSoItemLang data
+     0 int id = 1014540
+     1 string schinese = "这次还想再听一下你唱歌，听你唱歌感觉全部的烦恼都飘走了呢……"
+     1 string schinese_censored = "这次还想再听一下你唱歌，听你唱歌感觉全部的烦恼都飘走了呢……"
+     1 string english = "I really want to hear you sing again. Your voice really is heavenly."
+     1 string japanese = "もう一度、歌声を聴きたいな。キミの歌を聴くとすべての悩みが吹き飛んでく気がするんだ…"
+     1 string mchinese = "這次還想再聽一下你唱歌，聽你唱歌感覺全部的煩惱都飄走了呢……"
+   [4540]
+    0 TableSoItemLang data
+     0 int id = 1014541
+     1 string schinese = "你见过海豚么？它真的很聪明，海洋里的生物有一种奇特的魅力呢……"
+     1 string schinese_censored = "你见过海豚么？它真的很聪明，海洋里的生物有一种奇特的魅力呢……"
+     1 string english = "Have you seen dolphins? They're really clever! I think aquatic animals are mysterious and beautiful..."
+     1 string japanese = "イルカを見たことはある？本当に頭がいいんだ。海の生物は不思議な魅力があるよね…"
+     1 string mchinese = "你見過海豚麼？它真的很聰明，海洋裏的生物有一種奇特的魅力呢……"
+   [4541]
+    0 TableSoItemLang data
+     0 int id = 1014542
+     1 string schinese = "郭敬暗的新书《让悲伤正流成河》发售啦！你喜欢看他的书吗？"
+     1 string schinese_censored = "郭金暗的新书《让快乐正流成河》发售啦！你喜欢看他的书吗？"
+     1 string english = "A new edition of E. Cot's The Modest Grasty has hit the shelves. Do you like his books?"
+     1 string japanese = "グオ・ジンの新作『悲しみが川に流れ込むように』が発売されたよ！彼の作品は好き？"
+     1 string mchinese = "郭敬暗的新書《讓悲傷正流成河》發售啦！你喜歡看他的書嗎？"
+   [4542]
+    0 TableSoItemLang data
+     0 int id = 1014543
+     1 string schinese = "别看我这样子，我特别喜欢看恋爱小说呢，你看过明晓溪么？"
+     1 string schinese_censored = "别看我这样子，我特别喜欢看校园呢，你看过明小西么？"
+     1 string english = "Don't look at me like that! I just love reading romance novels. Have you read Axela Rilon?"
+     1 string japanese = "こう見えても恋愛小説が大好きなんだ。ミン・シャオって作家は知ってる？"
+     1 string mchinese = "別看我這樣子，我特別喜歡看戀愛小說呢，你看過明曉溪麼？"
+   [4543]
+    0 TableSoItemLang data
+     0 int id = 1014544
+     1 string schinese = "我有个不情之请……最近我在尝试自己写恋爱小说，你能帮我参谋一下吗？"
+     1 string schinese_censored = "我有个不情之请……最近我在尝试自己写校园，你能帮我参谋一下吗？"
+     1 string english = "I have a small request... I've been trying to write a romance novel, could you give me some advice?"
+     1 string japanese = "厚かましいお願いなんだけど…実は最近、恋愛小説を書いてるんだ。相談にのってくれないかな？"
+     1 string mchinese = "我有個不情之請……最近我在嘗試自己寫戀愛小說，你能幫我參謀一下嗎？"
+   [4544]
+    0 TableSoItemLang data
+     0 int id = 1014545
+     1 string schinese = "上次多谢你能帮我参谋我的小说，但我也只能当个兴趣来做了……"
+     1 string schinese_censored = "上次多谢你能帮我参谋我的小说，但我也只能当个兴趣来做了……"
+     1 string english = "Thank you for giving me advice on my novel. I'm writing it out of pure interest..."
+     1 string japanese = "この前は相談にのってくれてありがとう。けど今は趣味として書くことしかできないんだ…"
+     1 string mchinese = "上次多謝你能幫我參謀我的小說，但我也只能當個興趣來做了……"
+   [4545]
+    0 TableSoItemLang data
+     0 int id = 1014546
+     1 string schinese = "有件事情能不能麻烦你一下……感觉有点不好意思……"
+     1 string schinese_censored = "有件事情能不能麻烦你一下……感觉有点不好意思……"
+     1 string english = "There's something I would like your help with... Sorry, it's a little bit embarrassing..."
+     1 string japanese = "お願いがあるんだ…ちょっと恥ずかしいけど…"
+     1 string mchinese = "有件事情能不能麻煩你一下……感覺有點不好意思……"
+   [4546]
+    0 TableSoItemLang data
+     0 int id = 1014547
+     1 string schinese = "上次真是谢谢你啦！那这次还是麻烦了……"
+     1 string schinese_censored = "上次真是谢谢你啦！那这次还是麻烦了……"
+     1 string english = "Thank you for last time! So could you perhaps help me again...?"
+     1 string japanese = "この前はありがとう！また、ちょっと面倒なんだけど…"
+     1 string mchinese = "上次真是謝謝你啦！那這次還是麻煩了……"
+   [4547]
+    0 TableSoItemLang data
+     0 int id = 1014548
+     1 string schinese = "谢谢你！多亏了你！我才能学会游泳！这下不怕被同学嘲笑了！"
+     1 string schinese_censored = "谢谢你！多亏了你！我才能学会游泳！这下不怕被同学嘲笑了！"
+     1 string english = "Thanks! If not for you I wouldn't have learned how to swim. Now I won't be afraid of getting ridiculed in class."
+     1 string japanese = "ありがとう！教えてもらって泳げるようになったよ！これで同級生から笑われないぞ！"
+     1 string mchinese = "謝謝你！多虧了你！我才能學會游泳！這下不怕被同學嘲笑了！"
+   [4548]
+    0 TableSoItemLang data
+     0 int id = 1014549
+     1 string schinese = "听说你喜欢打篮球呀？我来教你吧～好歹我也是校篮球队呢～"
+     1 string schinese_censored = "听说你喜欢打篮球呀？我来教你吧～好歹我也是校篮球队呢～"
+     1 string english = "I've heard you like basketball, is that true? How about I tutor you? I'm part of the school team."
+     1 string japanese = "バスケが好きって聞いたんだ。教えてあげようか？なんたってバスケ部だからね！"
+     1 string mchinese = "聽說你喜歡打籃球呀？我來教你吧～好歹我也是校籃球隊呢～"
+   [4549]
+    0 TableSoItemLang data
+     0 int id = 1014550
+     1 string schinese = "很有运动细胞呢～都是一教就会，这次是进阶技巧了哦～"
+     1 string schinese_censored = "很有运动细胞呢～都是一教就会，这次是进阶技巧了哦～"
+     1 string english = "You really have a talent for sports. You're a quick learner, so let's practice some more advanced skills."
+     1 string japanese = "運動神経イイね！何を教えてもすぐできるはず。じゃあ早速、上達のコツを教えるぞ！"
+     1 string mchinese = "很有運動細胞呢～都是一教就會，這次是進階技巧了哦～"
+   [4550]
+    0 TableSoItemLang data
+     0 int id = 1014551
+     1 string schinese = "看你这体格，下次体测肯定不行，我带你去跑步，对篮球来说也是技巧没有体力配合的话也不行的～"
+     1 string schinese_censored = "看你这体格，下次体测肯定不行，我带你去跑步，对篮球来说也是技巧没有体力配合的话也不行的～"
+     1 string english = "With your fitness level you won't pass the school's next stamina test. Come, let's go for a run together."
+     1 string japanese = "その体格だと次の体育テストは絶対に無理だな。ランニングに行こう！バスケは体力も必要だ！"
+     1 string mchinese = "看你這體格，下次體測肯定不行，我帶你去跑步，對籃球來說也是技巧沒有體力配合的話也不行的～"
+   [4551]
+    0 TableSoItemLang data
+     0 int id = 1014552
+     1 string schinese = "这周是我们校队的比赛，我想邀请你来给我加油，有你在我会更努力的～"
+     1 string schinese_censored = "这周是我们校队的比赛，我想邀请你来给我加油，有你在我会更努力的～"
+     1 string english = "There's a competition at school this week, how about you come cheer for me? It would make me really happy."
+     1 string japanese = "今週のバスケ部の試合を見に来てほしいな。来てくれたらもっと頑張れる気がするんだ！"
+     1 string mchinese = "這周是我們校隊的比賽，我想邀請你來給我加油，有你在我會更努力的～"
+   [4552]
+    0 TableSoItemLang data
+     0 int id = 1014553
+     1 string schinese = "上次比赛的时候真是多亏了你～没有你在最后那个球我可能就丢了，所以为了感谢你，我请你去吃饭吧～"

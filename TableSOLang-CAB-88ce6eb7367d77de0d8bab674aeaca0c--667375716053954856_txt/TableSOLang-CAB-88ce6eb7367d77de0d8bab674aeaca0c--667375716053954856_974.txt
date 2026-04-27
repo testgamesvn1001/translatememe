@@ -1,0 +1,184 @@
+     1 string schinese_censored = "补习班报一送二，这下你一周要上7个班，完全没时间休息"
+     1 string english = "Get 3 extra classes for the price of 1! That's 6 per week; no time to rest."
+     1 string japanese = "補習を１コマ申し込むと、おまけで２コマ付いてきた。これで１週間に６コマの補習、まったく休むヒマがない"
+     1 string mchinese = "補習班報一送二，這下你一周要上6個班，完全沒時間休息"
+   [22378]
+    0 TableSoItemLang data
+     0 int id = 1113766
+     1 string schinese = "父母被你说动了，同意根据你下一次月考成绩来决定是否报班"
+     1 string schinese_censored = "父母被你说动了，同意根据你下一次月考成绩来决定是否报班"
+     1 string english = "You persuade them and agree to wait until next month after the exams."
+     1 string japanese = "両親はあなたに説得され、次の月例テストの結果によって決めることにしてくれた"
+     1 string mchinese = "父母被你說動了，同意根據你下一次月考成績來決定是否報班"
+   [22379]
+    0 TableSoItemLang data
+     0 int id = 1113767
+     1 string schinese = "补习老师是你的校友，你们聊得很投缘，但他对你提高成绩并没有帮助"
+     1 string schinese_censored = "补习老师是你的校友，你们聊得很投缘，但他对你提高成绩并没有帮助"
+     1 string english = "The teacher is your friend at school and you spend the time chatting. But it doesn't help your grades."
+     1 string japanese = "先生とはあなたの友達だ。友達との仲は深まったが、成績向上にはまったく役に立たなかった"
+     1 string mchinese = "補習老師是你的校友，你們聊得很投緣，但他對你提高成績並沒有幫助"
+   [22380]
+    0 TableSoItemLang data
+     0 int id = 1113768
+     1 string schinese = "学长很满意，但同学们却用异样的眼神看你"
+     1 string schinese_censored = "学长很满意，但同学们却用异样的眼神看你"
+     1 string english = "They're pleased, but other students look at you sideways."
+     1 string japanese = "先輩は満足したが、同級生たちは奇妙な目であなたを見た"
+     1 string mchinese = "學長很滿意，但同學們卻用異樣的眼神看你"
+   [22381]
+    0 TableSoItemLang data
+     0 int id = 1113769
+     1 string schinese = "虽然多走了段路，但你不用被迫叫学长了，你觉得很开心"
+     1 string schinese_censored = "虽然多走了段路，但你不用被迫叫学长了，你觉得很开心"
+     1 string english = "It was a long walk but you're happy you chose this way."
+     1 string japanese = "遠回りはしたが、先輩と呼ばされずに済んで、うれしい"
+     1 string mchinese = "雖然多走了段路，但你不用被迫叫學長了，你覺得很開心"
+   [22382]
+    0 TableSoItemLang data
+     0 int id = 1113770
+     1 string schinese = "老师批评了高年级同学，没想到他放学后在校门口等你……"
+     1 string schinese_censored = "老师批评了高年级同学，没想到他放学后在校门口等你……"
+     1 string english = "The teacher criticizes them. Though, they wait for you after school..."
+     1 string japanese = "先生は高学年の生徒を叱ったが、まさか授業後に校門で待ち伏せされるとは…"
+     1 string mchinese = "老師批評了高年級同學，沒想到他放學後在校門口等你……"
+   [22383]
+    0 TableSoItemLang data
+     0 int id = 1113771
+     1 string schinese = "父母虽然不满意，但是尊重你的决定"
+     1 string schinese_censored = "父母虽然不满意，但是尊重你的决定"
+     1 string english = "Your parents are displeased but honor your choice."
+     1 string japanese = "両親は不満げだが、あなたの選択を尊重してくれた"
+     1 string mchinese = "父母雖然不滿意，但是尊重你的決定"
+   [22384]
+    0 TableSoItemLang data
+     0 int id = 1113772
+     1 string schinese = "虽然没看成演唱会，但父母额外奖励了你一笔零花钱"
+     1 string schinese_censored = "虽然没看成演唱会，但父母额外奖励了你一笔零花钱"
+     1 string english = "You don't get to see the concert but your parents gives you some."
+     1 string japanese = "ライブは観られなかったが、両親はあなたにお小遣いをくれた"
+     1 string mchinese = "雖然沒看成演唱會，但父母額外獎勵了你一筆零花錢"
+   [22385]
+    0 TableSoItemLang data
+     0 int id = 1113773
+     1 string schinese = "你懒得动弹，决定玩一局计算机游戏"
+     1 string schinese_censored = "你懒得动弹，决定玩一局计算机游戏"
+     1 string english = "You can't be arsed to move so you play games instead."
+     1 string japanese = "動く気がしない。パソコンでゲームをすることにした"
+     1 string mchinese = "你懶得動彈，決定玩一局電腦遊戲"
+   [22386]
+    0 TableSoItemLang data
+     0 int id = 1113774
+     1 string schinese = "你一口气跑了足足5公里，意外地锻炼了身体"
+     1 string schinese_censored = "你一口气跑了足足6公里，意外地锻炼了身体"
+     1 string english = "You run 5 km at a go and gets some good exercise."
+     1 string japanese = "５ｋｍの道のりを一気に走ることにした。意外なことに体が鍛えられた"
+     1 string mchinese = "你一口氣跑了足足5公里，意外地鍛煉了身體"
+   [22387]
+    0 TableSoItemLang data
+     0 int id = 1113775
+     1 string schinese = "你为了证明自己当场写了一份作业"
+     1 string schinese_censored = "你为了证明自己当场写了一份作业"
+     1 string english = "You write it anew just to prove your point."
+     1 string japanese = "自分の力を証明するため、その場で宿題をすることにした"
+     1 string mchinese = "你為了證明自己當場寫了一份作業"
+   [22388]
+    0 TableSoItemLang data
+     0 int id = 1113776
+     1 string schinese = "你又急又气，忍不住哭了。老师给家长打电话，总算证明你没有撒谎。"
+     1 string schinese_censored = "你又急又气，忍不住哭了。老师给家长打电话，总算证明你没有撒谎。"
+     1 string english = "You can't help but bawl your eyes out. Your teacher calls your parents to check whether your lying."
+     1 string japanese = "パニックになり、思わず泣き出してしまった。先生が家に電話をかけると、ようやくウソではないことが証明された。"
+     1 string mchinese = "你又急又氣，忍不住哭了。老師給家長打電話，總算證明你沒有撒謊。"
+   [22389]
+    0 TableSoItemLang data
+     0 int id = 1113777
+     1 string schinese = "妈妈熬的豆浆没有熟，你在考场忍不住拉肚子了"
+     1 string schinese_censored = "妈妈熬的豆浆没有熟，你在考场忍不住拉肚子了"
+     1 string english = "Your mom doesn't heat up the soymilk and you get a bad stomach during the exam."
+     1 string japanese = "お母さんの作った豆乳は半生だった。試験中にお腹が痛くなってしまった"
+     1 string mchinese = "媽媽熬的豆漿沒有熟，你在考場忍不住拉肚子了"
+   [22390]
+    0 TableSoItemLang data
+     0 int id = 1113778
+     1 string schinese = "你迅速吃完了早餐，还顺便看了套题"
+     1 string schinese_censored = "你迅速吃完了早餐，还顺便看了套题"
+     1 string english = "You wolf down your breakfast and studies."
+     1 string japanese = "急いで朝食を食べ終えると、問題集を読み始めた"
+     1 string mchinese = "你迅速吃完了早餐，還順便看了套題"
+   [22391]
+    0 TableSoItemLang data
+     0 int id = 1113779
+     1 string schinese = "咖啡让你的头脑十分精神"
+     1 string schinese_censored = "咖啡让你的头脑十分精神"
+     1 string english = "The coffee clears your mind."
+     1 string japanese = "コーヒーは頭を活性化してくれる"
+     1 string mchinese = "咖啡讓你的頭腦十分精神"
+   [22392]
+    0 TableSoItemLang data
+     0 int id = 1113780
+     1 string schinese = "同学们哄堂大笑，原来这节课讲的是作文题"
+     1 string schinese_censored = "同学们哄堂大笑，原来这节课讲的是作文题"
+     1 string english = "Your classmates laugh out loud. Aha, this class was for writing."
+     1 string japanese = "みんな大笑いした。作文の授業だったからだ"
+     1 string mchinese = "同學們哄堂大笑，原來這節課講的是作文題"
+   [22393]
+    0 TableSoItemLang data
+     0 int id = 1113781
+     1 string schinese = "老师点点头，让你站到教室后面去听讲"
+     1 string schinese_censored = "老师点点头，让你站到教室后面去听讲"
+     1 string english = "The teacher nods and lets you sit in the back."
+     1 string japanese = "先生はうなずき、あなたを教室の後ろに立たせた"
+     1 string mchinese = "老師點點頭，讓你站到教室後面去聽講"
+   [22394]
+    0 TableSoItemLang data
+     0 int id = 1113782
+     1 string schinese = "同桌也开小差了，老师要求你们写一份不少于1000字的检讨"
+     1 string schinese_censored = "同桌也开小差了，老师要求你们写一份不少于1001字的检讨"
+     1 string english = "Your desk mate hasn't been listening either and the teacher requires the two of you to stay after class."
+     1 string japanese = "隣の友達も聞いていなかった。先生はあなたたちに、１０００字以上の反省文を書かせた"
+     1 string mchinese = "同桌也開小差了，老師要求你們寫一份不少於1000字的檢討"
+   [22395]
+    0 TableSoItemLang data
+     0 int id = 1113783
+     1 string schinese = "同桌撇撇嘴，一天没跟你说话"
+     1 string schinese_censored = "同桌撇撇嘴，一天没跟你说话"
+     1 string english = "Your desk mate ignores you."
+     1 string japanese = "友達は不満げな顔をし、一日中口を聞いてくれなかった"
+     1 string mchinese = "同桌撇撇嘴，一天沒跟你說話"
+   [22396]
+    0 TableSoItemLang data
+     0 int id = 1113784
+     1 string schinese = "没想到零食竟然过期了，你们一起去了校医院"
+     1 string schinese_censored = "没想到零食竟然过期了，你们一起去了校医院"
+     1 string english = "The snacks have expired and you are both taken to the infirmary."
+     1 string japanese = "お菓子は古かった。あなたたちは一緒に保健室に行くことになった"
+     1 string mchinese = "沒想到零食竟然過期了，你們一起去了校醫院"
+   [22397]
+    0 TableSoItemLang data
+     0 int id = 1113785
+     1 string schinese = "你刚把零食收起来，卫生检查就开始了。幸好没吃，不然又要被扣分了。"
+     1 string schinese_censored = "你刚把零食收起来，卫生检查就开始了。幸好没吃，不然又要被扣分了。"
+     1 string english = "You later notice the snacks have expired. Thank god you never ate it."
+     1 string japanese = "お菓子をしまった直後、見回りが始まった。食べていたら、罰を受けていたかもしれない"
+     1 string mchinese = "你剛把零食收起來，衛生檢查就開始了。幸好沒吃，不然又要被扣分了。"
+   [22398]
+    0 TableSoItemLang data
+     0 int id = 1113786
+     1 string schinese = "你决定再睡五分钟，结果足足多睡了1小时"
+     1 string schinese_censored = "你决定再睡五分钟，结果足足多睡了2小时"
+     1 string english = "You decide to sleep for another 5 minutes, which turns into a 1-hour nap."
+     1 string japanese = "あと５分寝ることにした。その結果、たっぷり１時間も寝てしまった"
+     1 string mchinese = "你決定再睡五分鐘，結果足足多睡了1小時"
+   [22399]
+    0 TableSoItemLang data
+     0 int id = 1113787
+     1 string schinese = "闹钟吵醒了爸妈，却没有吵醒你，他们来到你房间，一把掀开了被子……"
+     1 string schinese_censored = "闹钟吵醒了爸妈，却没有吵醒你，他们来到你房间，一把掀开了被子……"
+     1 string english = "Your alarm wakes your parents, but not you. Whereupon they charge into your room..."
+     1 string japanese = "目覚まし時計の音で両親は起きたが、あなたは起きなかった。両親が部屋に来て、あなたの布団を引きはがした…"
+     1 string mchinese = "鬧鐘吵醒了爸媽，卻沒有吵醒你，他們來到你房間，一把掀開了被子……"
+   [22400]
+    0 TableSoItemLang data
+     0 int id = 1113788
+     1 string schinese = "闹钟响了，你准时出门，却因为公交车坏了，没赶上值日"

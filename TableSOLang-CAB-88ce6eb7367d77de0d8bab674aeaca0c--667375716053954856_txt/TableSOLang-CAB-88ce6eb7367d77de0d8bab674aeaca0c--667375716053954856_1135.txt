@@ -1,0 +1,184 @@
+     1 string schinese_censored = "退出登录"
+     1 string english = "Log Out"
+     1 string japanese = "ログアウト"
+     1 string mchinese = "退出登錄"
+   [26081]
+    0 TableSoItemLang data
+     0 int id = 1596172368
+     1 string schinese = "注：输入的内容不能为空"
+     1 string schinese_censored = "注：输入的内容不能为空"
+     1 string english = "Note: Entry cannot be blank."
+     1 string japanese = "注意：空白は不可能です"
+     1 string mchinese = "注：輸入的內容不能為空"
+   [26082]
+    0 TableSoItemLang data
+     0 int id = 1596172369
+     1 string schinese = "个人信息"
+     1 string schinese_censored = "个人信息"
+     1 string english = "Personal Info"
+     1 string japanese = "個人情報"
+     1 string mchinese = "個人資訊"
+   [26083]
+    0 TableSoItemLang data
+     0 int id = 1596172370
+     1 string schinese = "语言"
+     1 string schinese_censored = "语言"
+     1 string english = "Language"
+     1 string japanese = "言語"
+     1 string mchinese = "語言"
+   [26084]
+    0 TableSoItemLang data
+     0 int id = 1596172371
+     1 string schinese = "音效"
+     1 string schinese_censored = "音效"
+     1 string english = "Sound"
+     1 string japanese = "ＳＥ"
+     1 string mchinese = "音效"
+   [26085]
+    0 TableSoItemLang data
+     0 int id = 1596172372
+     1 string schinese = "音乐"
+     1 string schinese_censored = "音乐"
+     1 string english = "Music"
+     1 string japanese = "ＢＧＭ"
+     1 string mchinese = "音樂"
+   [26086]
+    0 TableSoItemLang data
+     0 int id = 1596172373
+     1 string schinese = "*游戏将在每个回合结束后自动存档"
+     1 string schinese_censored = "*游戏将在每个回合结束后自动存档"
+     1 string english = "*The game auto-saves after each turn."
+     1 string japanese = "※ターン終了後に自動セーブされます"
+     1 string mchinese = "*遊戲將在每個回合結束後自動存檔"
+   [26087]
+    0 TableSoItemLang data
+     0 int id = 1596172374
+     1 string schinese = "版本号："
+     1 string schinese_censored = "版本号："
+     1 string english = "Version:"
+     1 string japanese = "バージョン："
+     1 string mchinese = "版本號："
+   [26088]
+    0 TableSoItemLang data
+     0 int id = 1596172375
+     1 string schinese = "关注我们"
+     1 string schinese_censored = "关注我们"
+     1 string english = "Follow Us"
+     1 string japanese = "フォロー"
+     1 string mchinese = "關注我們"
+   [26089]
+    0 TableSoItemLang data
+     0 int id = 1596172376
+     1 string schinese = "关注公众号"
+     1 string schinese_censored = "关注公众号"
+     1 string english = "Follow Official Account"
+     1 string japanese = "公式アカウント"
+     1 string mchinese = "關注公眾號"
+   [26090]
+    0 TableSoItemLang data
+     0 int id = 1596172377
+     1 string schinese = "简体中文"
+     1 string schinese_censored = "简体中文"
+     1 string english = "簡體中文"
+     1 string japanese = "簡体中文"
+     1 string mchinese = "簡體中文"
+   [26091]
+    0 TableSoItemLang data
+     0 int id = 1596172378
+     1 string schinese = "English"
+     1 string schinese_censored = "English"
+     1 string english = "English"
+     1 string japanese = "English"
+     1 string mchinese = "English"
+   [26092]
+    0 TableSoItemLang data
+     0 int id = 1596172379
+     1 string schinese = "日本語"
+     1 string schinese_censored = "日本语"
+     1 string english = "日本語"
+     1 string japanese = "日本語"
+     1 string mchinese = "日本語"
+   [26093]
+    0 TableSoItemLang data
+     0 int id = 1596172380
+     1 string schinese = "联络"
+     1 string schinese_censored = "联络"
+     1 string english = "Contact"
+     1 string japanese = "連絡する"
+     1 string mchinese = "聯絡"
+   [26094]
+    0 TableSoItemLang data
+     0 int id = 1596172381
+     1 string schinese = "脑洞"
+     1 string schinese_censored = "脑洞"
+     1 string english = "Fragment"
+     1 string japanese = "カケラ"
+     1 string mchinese = "腦洞"
+   [26095]
+    0 TableSoItemLang data
+     0 int id = 1596172382
+     1 string schinese = "学习&期望"
+     1 string schinese_censored = "学习&期望"
+     1 string english = "Exp. & Study"
+     1 string japanese = "学習&期待"
+     1 string mchinese = "學習&期望"
+   [26096]
+    0 TableSoItemLang data
+     0 int id = 1596172383
+     1 string schinese = "安排"
+     1 string schinese_censored = "安排"
+     1 string english = "Schedule"
+     1 string japanese = "予定"
+     1 string mchinese = "安排"
+   [26097]
+    0 TableSoItemLang data
+     0 int id = 1596172384
+     1 string schinese = "我的属性"
+     1 string schinese_censored = "我的属性"
+     1 string english = "My Stats"
+     1 string japanese = "能力"
+     1 string mchinese = "我的屬性"
+   [26098]
+    0 TableSoItemLang data
+     0 int id = 1596172385
+     1 string schinese = "暂时没有新的期望"
+     1 string schinese_censored = "暂时没有新的期望"
+     1 string english = "There are currently no Expectations."
+     1 string japanese = "新しい期待はありません"
+     1 string mchinese = "暫時沒有新的期望"
+   [26099]
+    0 TableSoItemLang data
+     0 int id = 1596172386
+     1 string schinese = "新技能学完了\n去商店或等到下一个回合吧"
+     1 string schinese_censored = "新技能学完了\n去商店或等到下一个回合吧"
+     1 string english = "You've learned all the skills available for now.\nHead to the shop, or wait for the next turn."
+     1 string japanese = "新しいスキルはありません\n売店に行くか次のターンを待ちましょう"
+     1 string mchinese = "新技能學完了\n去商店或等到下一個回合吧"
+   [26100]
+    0 TableSoItemLang data
+     0 int id = 1596172387
+     1 string schinese = "别献殷勤，说吧！想要啥？"
+     1 string schinese_censored = "别献殷勤，说吧！想要啥？"
+     1 string english = "No need to stand on ceremony, out with it. What do you want?"
+     1 string japanese = "遠慮するな。何が欲しいんだ？"
+     1 string mchinese = "別獻殷勤，說吧！想要啥？"
+   [26101]
+    0 TableSoItemLang data
+     0 int id = 1596172388
+     1 string schinese = "这么勤劳啊今天，想要零用钱了？"
+     1 string schinese_censored = "这么勤劳啊今天，想要零用钱了？"
+     1 string english = "You're working hard. Not just eager for pocket money, I hope?"
+     1 string japanese = "今日は頑張ってるね。お小遣いが必要なの？"
+     1 string mchinese = "這麼勤勞啊今天，想要零用錢了？"
+   [26102]
+    0 TableSoItemLang data
+     0 int id = 1596172389
+     1 string schinese = "暂时没有新的期望"
+     1 string schinese_censored = "暂时没有新的期望"
+     1 string english = "There are currently no Expectations."
+     1 string japanese = "新しい期待はありません"
+     1 string mchinese = "暫時沒有新的期望"
+   [26103]
+    0 TableSoItemLang data
+     0 int id = 1596172390
+     1 string schinese = "我的属性"

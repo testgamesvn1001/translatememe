@@ -1,0 +1,184 @@
+     1 string schinese_censored = "登录超时，请点击重新尝试？"
+     1 string english = "Login timed out, please try again later."
+     1 string japanese = "ログインタイムアウト。再試行しますか？"
+     1 string mchinese = "登錄超時，請點擊重新嘗試？"
+   [21228]
+    0 TableSoItemLang data
+     0 int id = 5500129
+     1 string schinese = "操作太频繁了，请稍后再试。"
+     1 string schinese_censored = "操作太频繁了，请稍后再试。"
+     1 string english = "Too frequent actions, please try again later."
+     1 string japanese = "操作頻度が高すぎます。後ほど改めてお試しください。"
+     1 string mchinese = "操作太頻繁了，請稍後再試。"
+   [21229]
+    0 TableSoItemLang data
+     0 int id = 5500130
+     1 string schinese = "登录失败，请稍后再试"
+     1 string schinese_censored = "登录失败，请稍后再试"
+     1 string english = "Login failed, please try again later."
+     1 string japanese = "ログイン失敗。後ほど改めてお試しください"
+     1 string mchinese = "登錄失敗，請稍後再試"
+   [21230]
+    0 TableSoItemLang data
+     0 int id = 5500131
+     1 string schinese = "登录成功，正在获取用户信息..."
+     1 string schinese_censored = "登录成功，正在获取用户信息..."
+     1 string english = "Login successful, fetching user information..."
+     1 string japanese = "ログイン成功。ユーザー情報を取得しています…"
+     1 string mchinese = "登錄成功，正在獲取用戶資訊..."
+   [21231]
+    0 TableSoItemLang data
+     0 int id = 5500132
+     1 string schinese = "充值失败，请稍后再试。"
+     1 string schinese_censored = "充值失败，请稍后再试。"
+     1 string english = "Top up failed, please try again later."
+     1 string japanese = "チャージ失敗。後ほど改めてお試しください。"
+     1 string mchinese = "充值失敗，請稍後再試。"
+   [21232]
+    0 TableSoItemLang data
+     0 int id = 5500133
+     1 string schinese = "充值成功！"
+     1 string schinese_censored = "充值成功！"
+     1 string english = "Top up successful!"
+     1 string japanese = "チャージ成功！"
+     1 string mchinese = "充值成功！"
+   [21233]
+    0 TableSoItemLang data
+     0 int id = 5500134
+     1 string schinese = "上传存档失败，正在尝试重连..."
+     1 string schinese_censored = "上传存档失败，正在尝试重连..."
+     1 string english = "Failed to upload save, trying to reconnect..."
+     1 string japanese = "データアップロード失敗。再接続試行中…"
+     1 string mchinese = "上傳存檔失敗，正在嘗試重連..."
+   [21234]
+    0 TableSoItemLang data
+     0 int id = 5500135
+     1 string schinese = "检测到你已断开连接，请重新登录。"
+     1 string schinese_censored = "检测到你已断开连接，请重新登录。"
+     1 string english = "Your connection has been lost, please login again."
+     1 string japanese = "接続の切断が検出されました。改めてログインしてください。"
+     1 string mchinese = "檢測到你已斷開連接，請重新登錄。"
+   [21235]
+    0 TableSoItemLang data
+     0 int id = 5500136
+     1 string schinese = "请选择是否使用新账号登录？"
+     1 string schinese_censored = "请选择是否使用新账号登录？"
+     1 string english = "Login with a new account?"
+     1 string japanese = "別のアカウントでログインしますか？"
+     1 string mchinese = "請選擇是否使用新帳號登錄？"
+   [21236]
+    0 TableSoItemLang data
+     0 int id = 5500137
+     1 string schinese = "账号切换"
+     1 string schinese_censored = "账号切换"
+     1 string english = "Change Account"
+     1 string japanese = "アカウント切替"
+     1 string mchinese = "帳號切換"
+   [21237]
+    0 TableSoItemLang data
+     0 int id = 5500138
+     1 string schinese = "使用新账号"
+     1 string schinese_censored = "使用新账号"
+     1 string english = "New Account"
+     1 string japanese = "別のアカウントでログイン"
+     1 string mchinese = "使用新帳號"
+   [21238]
+    0 TableSoItemLang data
+     0 int id = 5500139
+     1 string schinese = "使用原账号"
+     1 string schinese_censored = "使用原账号"
+     1 string english = "Old Account"
+     1 string japanese = "元のアカウントでログイン"
+     1 string mchinese = "使用原帳號"
+   [21239]
+    0 TableSoItemLang data
+     0 int id = 5500140
+     1 string schinese = "恢复购买"
+     1 string schinese_censored = "恢复购买"
+     1 string english = "Restore Purchases"
+     1 string japanese = "再ダウンロード"
+     1 string mchinese = "恢復購買"
+   [21240]
+    0 TableSoItemLang data
+     0 int id = 5500141
+     1 string schinese = "订单处理成功！"
+     1 string schinese_censored = "订单处理成功！"
+     1 string english = "Order successful!"
+     1 string japanese = "注文を処理しました！"
+     1 string mchinese = "訂單處理成功！"
+   [21241]
+    0 TableSoItemLang data
+     0 int id = 5500142
+     1 string schinese = "没有未处理的订单，请稍后再试，或联系客服。"
+     1 string schinese_censored = "没有未处理的订单，请稍后再试，或联系客服。"
+     1 string english = "You have unfinished orders, please try again later or contact customer support."
+     1 string japanese = "未処理の注文がありません。後ほど再試行するか、カスタマーサポートにお問い合わせください。"
+     1 string mchinese = "沒有未處理的訂單，請稍後再試，或聯繫客服。"
+   [21242]
+    0 TableSoItemLang data
+     0 int id = 5500143
+     1 string schinese = "分享成功！"
+     1 string schinese_censored = "分享成功！"
+     1 string english = "Successfully shared!"
+     1 string japanese = "シェアしました！"
+     1 string mchinese = "分享成功！"
+   [21243]
+    0 TableSoItemLang data
+     0 int id = 5500144
+     1 string schinese = "分享失败，请稍后再试！"
+     1 string schinese_censored = "分享失败，请稍后再试！"
+     1 string english = "Failed to share, please try again later!"
+     1 string japanese = "シェア失敗。後ほど改めてお試しください！"
+     1 string mchinese = "分享失敗，請稍後再試！"
+   [21244]
+    0 TableSoItemLang data
+     0 int id = 5500145
+     1 string schinese = "转校生"
+     1 string schinese_censored = "转校生"
+     1 string english = "Transfer"
+     1 string japanese = "転校生"
+     1 string mchinese = "轉校生"
+   [21245]
+    0 TableSoItemLang data
+     0 int id = 5500146
+     1 string schinese = "解锁后TA将成为你的同学"
+     1 string schinese_censored = "解锁后TA将成为你的同学"
+     1 string english = "Once unlocked they'll become your classmate."
+     1 string japanese = "アンロックすると同級生になります"
+     1 string mchinese = "解鎖後TA將成為你的同學"
+   [21246]
+    0 TableSoItemLang data
+     0 int id = 5500147
+     1 string schinese = "传家宝"
+     1 string schinese_censored = "传家宝"
+     1 string english = "Family Heirloom"
+     1 string japanese = "家宝"
+     1 string mchinese = "傳家寶"
+   [21247]
+    0 TableSoItemLang data
+     0 int id = 5500148
+     1 string schinese = "解锁后可进行佩戴"
+     1 string schinese_censored = "解锁后可进行佩戴"
+     1 string english = "Becomes equippable after unlocking."
+     1 string japanese = "アンロックすると装着できます"
+     1 string mchinese = "解鎖後可進行佩戴"
+   [21248]
+    0 TableSoItemLang data
+     0 int id = 5500149
+     1 string schinese = "新课程"
+     1 string schinese_censored = "新课程"
+     1 string english = "New Class"
+     1 string japanese = "新課程"
+     1 string mchinese = "新課程"
+   [21249]
+    0 TableSoItemLang data
+     0 int id = 5500150
+     1 string schinese = "解锁后可进行学习"
+     1 string schinese_censored = "解锁后可进行学习"
+     1 string english = "Becomes learnable after unlocking."
+     1 string japanese = "アンロック後に学習できます"
+     1 string mchinese = "解鎖後可進行學習"
+   [21250]
+    0 TableSoItemLang data
+     0 int id = 5500151
+     1 string schinese = "学费值不足"

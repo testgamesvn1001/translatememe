@@ -1,0 +1,184 @@
+     1 string schinese_censored = "把猫窝拖进房间"
+     1 string english = "Haul the cat bed into your room"
+     1 string japanese = "猫ベッドを部屋まで持ってくる"
+     1 string mchinese = "把貓窩拖進房間"
+   [32659]
+    0 TableSoItemLang data
+     0 int id = 99993364
+     1 string schinese = "放下视频陪它玩"
+     1 string schinese_censored = "放下视频陪它玩"
+     1 string english = "Give up on the videos and play with them instead"
+     1 string japanese = "動画を一時停止して一緒に遊ぶ"
+     1 string mchinese = "放下視頻陪它玩"
+   [32660]
+    0 TableSoItemLang data
+     0 int id = 99993365
+     1 string schinese = "把它挪到一边去"
+     1 string schinese_censored = "把它挪到一边去"
+     1 string english = "Pick them up and place them aside"
+     1 string japanese = "退かす"
+     1 string mchinese = "把它挪到一邊去"
+   [32661]
+    0 TableSoItemLang data
+     0 int id = 99993366
+     1 string schinese = "切到逗猫视频！给猛猫看该看的东西！"
+     1 string schinese_censored = "切到逗猫视频！给猛猫看该看的东西！"
+     1 string english = "Play some cat entertainment videos instead! Give 'em something to watch too!"
+     1 string japanese = "猫用動画を見せて機嫌を取ろう！"
+     1 string mchinese = "切到逗貓視頻！給猛貓看該看的東西！"
+   [32662]
+    0 TableSoItemLang data
+     0 int id = 99993367
+     1 string schinese = "你拍了好多宠物照片发到了企鹅空间，同学们都很羡慕你成为了有猫人！\n（情商+15魅力+35）"
+     1 string schinese_censored = "你拍了好多宠物照片发到了企鹅空间，同学们都很羡慕你成为了有猫人！\n（情商+15魅力+35）"
+     1 string english = "You snap a whole bunch of photos and post them for friends to see. Your classmates all burn with envy at how you're now a true cat person.\n(EQ +15, Charm +35)"
+     1 string japanese = "ペットの写真を沢山撮ってブログにアップロードしたら、友達に羨ましがられた！\nEQが15増加、魅力が35増加"
+     1 string mchinese = "你拍了好多寵物照片發到了企鵝空間，同學們都很羡慕你成為了有貓人！\n（情商+15魅力+35）"
+   [32663]
+    0 TableSoItemLang data
+     0 int id = 99993368
+     1 string schinese = "你把宠物照片发到了围脖上，评论里有人对此各种指指点点，你有点不开心！\n（压力+35想象力-15）"
+     1 string schinese_censored = "你把宠物照片发到了围脖上，评论里有人对此各种指指点点，你有点不开心！\n（压力+35想象力-15）"
+     1 string english = "You post your cat pics online, but someone in the comments acts a know-it-all and tries to tell you what to do with your new friend. How irritating!\n(Stress +35, Imagination -15)"
+     1 string japanese = "猫の写真をツイッテーにアップロードしたら、リプで色々言われて機嫌が悪くなった！\nストレスが35増加、想像力が15減少"
+     1 string mchinese = "你把寵物照片發到了圍脖上，評論裏有人對此各種指指點點，你有點不開心！\n（壓力+35想像力-15）"
+   [32664]
+    0 TableSoItemLang data
+     0 int id = 99993369
+     1 string schinese = "你带好朋友到家玩，_petNick起初有点胆怯，但熟悉后大家一起玩的非常开心~\n（情商+15魅力+25宠物好感度-5）"
+     1 string schinese_censored = "你带好朋友到家玩，_petNick起初有点胆怯，但熟悉后大家一起玩的非常开心~\n（情商+15魅力+25宠物好感度-5）"
+     1 string english = "You have a few friends come round your place. While _petNick is apprehensive at first, they soon warm up to everyone and start playing happily.\n(EQ +15, Charm +25, Pet Intimacy -5)"
+     1 string japanese = "友達を家に呼んだ。_petNickは最初は怖がっていたが、慣れた後は皆で楽しく遊べた。\nEQが15増加、魅力が25増加、ペット好感度が5減少"
+     1 string mchinese = "你帶好朋友到家玩，_petNick起初有點膽怯，但熟悉後大家一起玩的非常開心~\n（情商+15魅力+25寵物好感度-5）"
+   [32665]
+    0 TableSoItemLang data
+     0 int id = 99993370
+     1 string schinese = "你把房门开着睡，_petNick看到你有了安全感，就在门口睡着了..\n（魅力+15）"
+     1 string schinese_censored = "你把房门开着睡，_petNick看到你有了安全感，就在门口睡着了..\n（魅力+15）"
+     1 string english = "You sleep with the door open. _petNick feels safer just being able to see where you are, and snoozes contentedly by the door...\n(Charm +15)"
+     1 string japanese = "部屋のドアを開けて寝た。_petNickはあなたを見つけて安心したので、ドアの近くで眠りについた。\n魅力が15増加"
+     1 string mchinese = "你把房門開著睡，_petNick看到你有了安全感，就在門口睡著了..\n（魅力+15）"
+   [32666]
+    0 TableSoItemLang data
+     0 int id = 99993371
+     1 string schinese = "爸妈不但没同意，还决定晚上把_petNick关笼子里，以免影响你的睡眠....\n（压力+20父母满意度-20宠物好感度-5）"
+     1 string schinese_censored = "爸妈不但没同意，还决定晚上把_petNick关笼子里，以免影响你的睡眠....\n（压力+20父母满意度-20宠物好感度-5）"
+     1 string english = "Not only do your parents dismiss your complaints, they also keep _petNick caged at night, to prevent them from interfering with your sleep...\n(Stress +20, Satisfaction -20, Pet Intimacy -5)"
+     1 string japanese = "話を聞いた両親は、あなたの睡眠を妨げないよう夜は_petNickをケージに入れることにした。\nストレスが20増加、両親の満足度が20減少、ペット好感度が5減少"
+     1 string mchinese = "爸媽不但沒同意，還決定晚上把_petNick關籠子裏，以免影響你的睡眠....\n（壓力+20父母滿意度-20寵物好感度-5）"
+   [32667]
+    0 TableSoItemLang data
+     0 int id = 99993372
+     1 string schinese = "爸爸妈只是说不能上床上，又没说不能进房间对吧~\n（智商+50情商+15宠物好感度+10）"
+     1 string schinese_censored = "爸爸妈只是说不能上床上，又没说不能进房间对吧~\n（智商+50情商+15宠物好感度+10）"
+     1 string english = "Well, your parents had forbidden your furry friend sleeping on the bed—but nobody said anything about just sleeping in your room, right?\n(IQ +50, EQ +15, Pet Intimacy +10)"
+     1 string japanese = "両親はベッドに上がらせるなと言っただけで、部屋に入れるなとは一言も言っていない。\nIQが50増加、EQが15増加、ペット好感度が10増加"
+     1 string mchinese = "爸爸媽只是說不能上床上，又沒說不能進房間對吧~\n（智商+50情商+15寵物好感度+10）"
+   [32668]
+    0 TableSoItemLang data
+     0 int id = 99993373
+     1 string schinese = "你陪_petNick玩了一会儿，然而它一直缠着你玩耍，没完没了……\n（压力-10父母满意度+10宠物好感度+15）"
+     1 string schinese_censored = "你陪_petNick玩了一会儿，然而它一直缠着你玩耍，没完没了……\n（压力-10父母满意度+10宠物好感度+15）"
+     1 string english = "You play awhile with _petNick, but they won't stop headbutting and insisting you continue playing with them. Aren't they worn out yet...?\n(Stress -10, Satisfaction +10, Pet Intimacy +15)"
+     1 string japanese = "_petNickと暫く遊んだ。いつまでも構って欲しそうだった…。\nストレスが10減少、両親の満足度が10増加、ペット好感度が15増加"
+     1 string mchinese = "你陪_petNick玩了一會兒，然而它一直纏著你玩耍，沒完沒了……\n（壓力-10父母滿意度+10寵物好感度+15）"
+   [32669]
+    0 TableSoItemLang data
+     0 int id = 99993374
+     1 string schinese = "_petNick努力想引起你的注意，你都拒绝了。它看起来有点失落……\n（宠物好感度-25）"
+     1 string schinese_censored = "_petNick努力想引起你的注意，你都拒绝了。它看起来有点失落……\n（宠物好感度-25）"
+     1 string english = "Although _petNick does their best to catch your attention, you refuse to let up. They look a little downtrodden...\n(Pet Intimacy -25)"
+     1 string japanese = "_petNickはあなたの注意を惹きつけたかったようだが、あなたにそっぽを向かれて少し落ち込んでいるようだ。\nペット好感度が25減少"
+     1 string mchinese = "_petNick努力想引起你的注意，你都拒絕了。它看起來有點失落……\n（寵物好感度-25）"
+   [32670]
+    0 TableSoItemLang data
+     0 int id = 99993375
+     1 string schinese = "_petNick挥舞起爪子企图抓住视频里的老鼠，差点把屏幕都划坏了……\n（压力-10智商+25宠物好感度+10）"
+     1 string schinese_censored = "_petNick挥舞起爪子企图抓住视频里的老鼠，差点把荧幕都划坏了……\n（压力-10智商+25宠物好感度+10）"
+     1 string english = "_petNick extends their claws to swat at a mouse shown on-screen. They're so excited they almost scratch the screen itself...\n(Stress -10, IQ +25, Pet Intimacy +10)"
+     1 string japanese = "_petNickは手を振りかざして動画の中のネズミを捕ろうとした。ディスプレイが壊れるところだった…。\nストレスが10減少、IQが25増加、ペット好感度が10増加"
+     1 string mchinese = "_petNick揮舞起爪子企圖抓住視頻裏的老鼠，差點把螢幕都劃壞了……\n（壓力-10智商+25寵物好感度+10）"
+   [32671]
+    0 TableSoItemLang data
+     0 int id = 99993376
+     1 string schinese = "猫奴的条件"
+     1 string schinese_censored = "猫奴的条件"
+     1 string english = "Cat Contract"
+     1 string japanese = "猫バカの条件"
+     1 string mchinese = "貓奴的條件"
+   [32672]
+    0 TableSoItemLang data
+     0 int id = 99993377
+     1 string schinese = "猫奴的条件"
+     1 string schinese_censored = "猫奴的条件"
+     1 string english = "Cat Contract"
+     1 string japanese = "猫バカの条件"
+     1 string mchinese = "貓奴的條件"
+   [32673]
+    0 TableSoItemLang data
+     0 int id = 99993378
+     1 string schinese = "铲屎官素养"
+     1 string schinese_censored = "铲屎官素养"
+     1 string english = "A True Poop Scooper"
+     1 string japanese = "猫バカの心構え"
+     1 string mchinese = "鏟屎官素養"
+   [32674]
+    0 TableSoItemLang data
+     0 int id = 99993379
+     1 string schinese = "猫好人就好"
+     1 string schinese_censored = "猫好人就好"
+     1 string english = "The Bond"
+     1 string japanese = "猫は命より重い"
+     1 string mchinese = "貓好人就好"
+   [32675]
+    0 TableSoItemLang data
+     0 int id = 99993380
+     1 string schinese = "如果不能在规定时间内背出一百个单词，就不能成为铲屎官了！"
+     1 string schinese_censored = "如果不能在规定时间内背出一百个单词，就不能成为铲屎官了！"
+     1 string english = "Recite 100 words in the time limit or you'll never take on the role of poop scooper!"
+     1 string japanese = "制限期間内に英単語を百個暗記できないと、猫バカになれないぞ！"
+     1 string mchinese = "如果不能在規定時間內背出一百個單詞，就不能成為鏟屎官了！"
+   [32676]
+    0 TableSoItemLang data
+     0 int id = 99993381
+     1 string schinese = "如果不能在规定时间内好好表现，就不能成为铲屎官了！"
+     1 string schinese_censored = "如果不能在规定时间内好好表现，就不能成为铲屎官了！"
+     1 string english = "You'll have to prove your worth in the time limit or you'll never take on the role of poop scooper!"
+     1 string japanese = "制限期間内に自己アピールできないと、猫バカになれないぞ！"
+     1 string mchinese = "如果不能在規定時間內好好表現，就不能成為鏟屎官了！"
+   [32677]
+    0 TableSoItemLang data
+     0 int id = 99993382
+     1 string schinese = "忧主子之忧，乐主子之乐！这是铲屎官的基本素养！"
+     1 string schinese_censored = "忧主子之忧，乐主子之乐！这是铲屎官的基本素养！"
+     1 string english = "Cats and their owners laugh together, and cry together, too. It's the bond they share. That's what makes a truly qualified poop scooper!"
+     1 string japanese = "常にぬこ様を思い、ぬこ様の為に行動する。これぞ猫バカの心構えである！"
+     1 string mchinese = "憂主子之憂，樂主子之樂！這是鏟屎官的基本素養！"
+   [32678]
+    0 TableSoItemLang data
+     0 int id = 99993383
+     1 string schinese = "自己可以忧郁，主子必须开心！"
+     1 string schinese_censored = "自己可以忧郁，主子必须开心！"
+     1 string english = "You might be down in the dumps but you've got to make sure all's well with your cat!"
+     1 string japanese = "自分の機嫌が悪くとも、ぬこ様の機嫌は取らなければならない！"
+     1 string mchinese = "自己可以憂鬱，主子必須開心！"
+   [32679]
+    0 TableSoItemLang data
+     0 int id = 99993384
+     1 string schinese = "撸毛手套"
+     1 string schinese_censored = "撸毛手套"
+     1 string english = "Cat Brush Glove"
+     1 string japanese = "モフモフ手袋"
+     1 string mchinese = "擼毛手套"
+   [32680]
+    0 TableSoItemLang data
+     0 int id = 99993385
+     1 string schinese = "猫薄荷"
+     1 string schinese_censored = "猫薄荷"
+     1 string english = "Catmint"
+     1 string japanese = "猫用マタタビ"
+     1 string mchinese = "貓薄荷"
+   [32681]
+    0 TableSoItemLang data
+     0 int id = 99993386
+     1 string schinese = "猫猫零食礼包"

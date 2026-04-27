@@ -1,0 +1,184 @@
+     1 string schinese_censored = "兑奖"
+     1 string english = "Cash In"
+     1 string japanese = "換金"
+     1 string mchinese = "兌獎"
+   [18353]
+    0 TableSoItemLang data
+     0 int id = 1028354
+     1 string schinese = "索取次数"
+     1 string schinese_censored = "收取次数"
+     1 string english = "Requests"
+     1 string japanese = "要求数"
+     1 string mchinese = "索取次數"
+   [18354]
+    0 TableSoItemLang data
+     0 int id = 1028355
+     1 string schinese = "心 理 阴 影 面 积"
+     1 string schinese_censored = "心 理 阴 影 面 积"
+     1 string english = "Mind Shadow size"
+     1 string japanese = "トラウマ領域"
+     1 string mchinese = "心 理 陰 影 面 積"
+   [18355]
+    0 TableSoItemLang data
+     0 int id = 1028356
+     1 string schinese = "最近登录"
+     1 string schinese_censored = "最近登录"
+     1 string english = "Last login"
+     1 string japanese = "最新セーブ"
+     1 string mchinese = "最近登錄"
+   [18356]
+    0 TableSoItemLang data
+     0 int id = 1028357
+     1 string schinese = "购买"
+     1 string schinese_censored = "购买"
+     1 string english = "Buy"
+     1 string japanese = "購入"
+     1 string mchinese = "購買"
+   [18357]
+    0 TableSoItemLang data
+     0 int id = 1028358
+     1 string schinese = "元"
+     1 string schinese_censored = "元"
+     1 string english = "¥"
+     1 string japanese = "元"
+     1 string mchinese = "元"
+   [18358]
+    0 TableSoItemLang data
+     0 int id = 1028359
+     1 string schinese = "设置"
+     1 string schinese_censored = "设置"
+     1 string english = "Settings"
+     1 string japanese = "オプション"
+     1 string mchinese = "設置"
+   [18359]
+    0 TableSoItemLang data
+     0 int id = 1028360
+     1 string schinese = "退出"
+     1 string schinese_censored = "退出"
+     1 string english = "Exit"
+     1 string japanese = "閉じる"
+     1 string mchinese = "退出"
+   [18360]
+    0 TableSoItemLang data
+     0 int id = 1028361
+     1 string schinese = "点击空白区域退出"
+     1 string schinese_censored = "点击空白区域退出"
+     1 string english = "Click anywhere to exit."
+     1 string japanese = "空白部分を選択し閉じる"
+     1 string mchinese = "點擊空白區域退出"
+   [18361]
+    0 TableSoItemLang data
+     0 int id = 1028362
+     1 string schinese = "奖励"
+     1 string schinese_censored = "奖励"
+     1 string english = "Reward"
+     1 string japanese = "ご褒美"
+     1 string mchinese = "獎勵"
+   [18362]
+    0 TableSoItemLang data
+     0 int id = 1028363
+     1 string schinese = "删除"
+     1 string schinese_censored = "删除"
+     1 string english = "Delete"
+     1 string japanese = "削除"
+     1 string mchinese = "刪除"
+   [18363]
+    0 TableSoItemLang data
+     0 int id = 1028364
+     1 string schinese = "取消"
+     1 string schinese_censored = "取消"
+     1 string english = "Cancel"
+     1 string japanese = "キャンセル"
+     1 string mchinese = "取消"
+   [18364]
+    0 TableSoItemLang data
+     0 int id = 1028365
+     1 string schinese = "继续游戏"
+     1 string schinese_censored = "继续游戏"
+     1 string english = "Continue"
+     1 string japanese = "ゲーム続行"
+     1 string mchinese = "繼續遊戲"
+   [18365]
+    0 TableSoItemLang data
+     0 int id = 1028366
+     1 string schinese = "当前版本："
+     1 string schinese_censored = "当前版本："
+     1 string english = "Current version:"
+     1 string japanese = "現バージョン："
+     1 string mchinese = "當前版本："
+   [18366]
+    0 TableSoItemLang data
+     0 int id = 1028367
+     1 string schinese = "男"
+     1 string schinese_censored = "男"
+     1 string english = "Male"
+     1 string japanese = "男"
+     1 string mchinese = "男"
+   [18367]
+    0 TableSoItemLang data
+     0 int id = 1028368
+     1 string schinese = "女"
+     1 string schinese_censored = "女"
+     1 string english = "Female"
+     1 string japanese = "女"
+     1 string mchinese = "女"
+   [18368]
+    0 TableSoItemLang data
+     0 int id = 1028369
+     1 string schinese = "我知道了"
+     1 string schinese_censored = "我知道了"
+     1 string english = "OK"
+     1 string japanese = "ＯＫ！"
+     1 string mchinese = "我知道了"
+   [18369]
+    0 TableSoItemLang data
+     0 int id = 1028370
+     1 string schinese = "脑洞"
+     1 string schinese_censored = "脑洞"
+     1 string english = "Fragment"
+     1 string japanese = "カケラ"
+     1 string mchinese = "腦洞"
+   [18370]
+    0 TableSoItemLang data
+     0 int id = 1028371
+     1 string schinese = "父亲："
+     1 string schinese_censored = "父亲："
+     1 string english = "Dad: "
+     1 string japanese = "父親："
+     1 string mchinese = "父親："
+   [18371]
+    0 TableSoItemLang data
+     0 int id = 1028372
+     1 string schinese = "母亲："
+     1 string schinese_censored = "母亲："
+     1 string english = "Mom: "
+     1 string japanese = "母親："
+     1 string mchinese = "母親："
+   [18372]
+    0 TableSoItemLang data
+     0 int id = 1028373
+     1 string schinese = "好感度"
+     1 string schinese_censored = "好感度"
+     1 string english = "Intimacy"
+     1 string japanese = "好感度"
+     1 string mchinese = "好感度"
+   [18373]
+    0 TableSoItemLang data
+     0 int id = 1028374
+     1 string schinese = "妈 妈"
+     1 string schinese_censored = "妈 妈"
+     1 string english = "Mom"
+     1 string japanese = "母"
+     1 string mchinese = "媽 媽"
+   [18374]
+    0 TableSoItemLang data
+     0 int id = 1028375
+     1 string schinese = "完成"
+     1 string schinese_censored = "完成"
+     1 string english = "Complete"
+     1 string japanese = "完成"
+     1 string mchinese = "完成"
+   [18375]
+    0 TableSoItemLang data
+     0 int id = 1028376
+     1 string schinese = "索取"

@@ -1,0 +1,184 @@
+     1 string schinese_censored = "部分同学们开始努力了，一下课老师就被围住，根本走不了。"
+     1 string english = "Some students have upped their game and always surround the teacher for questions after class."
+     1 string japanese = "一部の生徒が頑張り始めた。先生は授業が終わっても生徒に囲まれて教室から出られない。"
+     1 string mchinese = "部分同學們開始努力了，一下課老師就被圍住，根本走不了。"
+   [7888]
+    0 TableSoItemLang data
+     0 int id = 1017889
+     1 string schinese = "喜欢边写作业边听杰伦的歌，妈妈说这是一心二用，肯定不行！"
+     1 string schinese_censored = "喜欢边写作业边听杰伦的歌，妈妈说这是一心二用，肯定不行！"
+     1 string english = "You like listening to music while doing the homework but your mom forbids you from doing so."
+     1 string japanese = "宿題をしながら、ジエイの曲を聞くのが好きだ。でも、「同時に２つのことはできないでしょ！」とお母さんに説教された。"
+     1 string mchinese = "喜歡邊寫作業邊聽傑倫的歌，媽媽說這是一心二用，肯定不行！"
+   [7889]
+    0 TableSoItemLang data
+     0 int id = 1017890
+     1 string schinese = "妈妈给你做了鸡汤补身体，然而你更需要的是睡眠。妈妈觉得只要学习时间久，成绩没问题"
+     1 string schinese_censored = "妈妈给你做了鸡汤补身体，然而你更需要的是睡眠。妈妈觉得只要学习时间久，成绩没问题"
+     1 string english = "Your mom makes you chicken soup, but what you really need is sleep."
+     1 string japanese = "健康のためにとお母さんはチキンスープを作ってくれた。だが、必要なのは睡眠時間だ。お母さんはそれをわかっていない。"
+     1 string mchinese = "媽媽給你做了雞湯補身體，然而你更需要的是睡眠。媽媽覺得只要學習時間久，成績沒問題"
+   [7890]
+    0 TableSoItemLang data
+     0 int id = 1017891
+     1 string schinese = "老师又说要收钱来买辅导材料，爸爸说你老师又要收钱了，当老师可真赚钱！"
+     1 string schinese_censored = "老师又说要收钱来买辅导材料，爸爸说你老师又要收钱了，当老师可真赚钱！"
+     1 string english = "Your teacher is collecting money from all students to buy extra teaching materials, again."
+     1 string japanese = "補習資料を買うためにお金が必要だとお父さんに伝えたら、「先生ってのは儲かるな！」と言われた。"
+     1 string mchinese = "老師又說要收錢來買輔導材料，爸爸說你老師又要收錢了，當老師可真賺錢！"
+   [7891]
+    0 TableSoItemLang data
+     0 int id = 1017892
+     1 string schinese = "似乎提早就进行了学业水平考试，大家把高中毕业考试当做走过场而已。"
+     1 string schinese_censored = "似乎提早就进行了学业水平考试，大家把高中毕业考试当做走过场而已。"
+     1 string english = "Your study level tests have all been done, so everyone takes the final exam just for show."
+     1 string japanese = "学業試験はすでに終わったので、卒業試験を気にしている人は誰もいない。"
+     1 string mchinese = "似乎提早就進行了學業水準考試，大家把高中畢業考試當做走過場而已。"
+   [7892]
+    0 TableSoItemLang data
+     0 int id = 1017893
+     1 string schinese = "证书突然变得有用了，大家都在拼证书，渴望能够最后加分！"
+     1 string schinese_censored = "证书突然变得有用了，大家都在拼证书，渴望能够最后加分！"
+     1 string english = "Certificates suddenly become useful and everyone wants the one with the highest score!"
+     1 string japanese = "資格を持っていると入試が有利になる。追加点をもらおうと必死に資格を取っている子がいる。"
+     1 string mchinese = "證書突然變得有用了，大家都在拼證書，渴望能夠最後加分！"
+   [7893]
+    0 TableSoItemLang data
+     0 int id = 1017894
+     1 string schinese = "有些同学是成绩太差，被家长逼着出国了，大家都很鄙视他们，却忘了自己家境很难堪。"
+     1 string schinese_censored = "有些同学是成绩太差，被家长逼着出国了，大家都很鄙视他们，却忘了自己家境很难堪。"
+     1 string english = "Students with bad grades get sent abroad by their parents, and everyone looks down upon them."
+     1 string japanese = "成績の悪い生徒が留学させられた。一部の生徒は軽蔑していたが、それは貧乏人の僻みだろう。"
+     1 string mchinese = "有些同學是成績太差，被家長逼著出國了，大家都很鄙視他們，卻忘了自己家境很難堪。"
+   [7894]
+    0 TableSoItemLang data
+     0 int id = 1017895
+     1 string schinese = "有些同学想走捷径去别的省高考，结果被告知政策很严！处罚很重！"
+     1 string schinese_censored = "有些同学想要走捷径另外找出路，但是并不顺利。"
+     1 string english = "Some students take Gaokao in other provinces to get the upper hand, but they usually get found out!"
+     1 string japanese = "合格点が低い省の大学入試を受けに行くことを考えてる生徒がいた。「バレたらやばい！厳罰だ！」と注意されていた。"
+     1 string mchinese = "有些同學想走捷徑去別的省高考，結果被告知政策很嚴！處罰很重！"
+   [7895]
+    0 TableSoItemLang data
+     0 int id = 1017896
+     1 string schinese = "老师说抄袭的人最可耻！结果仍然有同学铤而走险！美其名曰，给父母一个安慰！"
+     1 string schinese_censored = "老师说抄袭的人最可耻！结果仍然有同学铤而走险！美其名曰，给父母一个安慰！"
+     1 string english = "Your teacher says plagiarizing is one of the original sins, but some still try anyway!"
+     1 string japanese = "先生は、カンニングが一番の恥だと言っていたが、それでもやる生徒はいた。悪い成績で親をがっかりさせたくないからだ。"
+     1 string mchinese = "老師說抄襲的人最可恥！結果仍然有同學鋌而走險！美其名曰，給父母一個安慰！"
+   [7896]
+    0 TableSoItemLang data
+     0 int id = 1017897
+     1 string schinese = "快高三了，学校要划分出精英班和普通班，爸爸开始考虑要不要送礼，妈妈说估计还是得看成绩"
+     1 string schinese_censored = "快高三了，学校要划分出精英班和普通班，要好好学习，妈妈说还是得看成绩"
+     1 string english = "You're soon in twelfth grade, where the school divides students up into elite and normal classes."
+     1 string japanese = "高校３年生には、クラスがエリートと普通に分かれる。お父さんが先生へ贈り物をしていたが、お母さんはそんな甘くないよと言った。"
+     1 string mchinese = "快高三了，學校要劃分出精英班和普通班，爸爸開始考慮要不要送禮，媽媽說估計還是得看成績"
+   [7897]
+    0 TableSoItemLang data
+     0 int id = 1017898
+     1 string schinese = "午休看到被劝退的同学想打个招呼，但是他摆着造型完全不理你，他等的是低年级朋友。"
+     1 string schinese_censored = "午休看到被劝退的同学想打个招呼，但是他摆着造型完全不理你，他等的是低年级朋友。"
+     1 string english = "You see a schoolmate who has been asked to quit school. He just smokes and combs his hair."
+     1 string japanese = "昼休み、退学した同級生とばったり出会った。挨拶をしようとしたが、タバコを吸っていて、あなたは無視された。後輩を待っているようだ。"
+     1 string mchinese = "午休看到被勸退的同學想打個招呼，但是他擺著造型完全不理你，他等的是低年級朋友。"
+   [7898]
+    0 TableSoItemLang data
+     0 int id = 1017899
+     1 string schinese = "特长生因为有了加分，可以考的更好，现在开始羡慕已经晚了，父亲却说是你自己没有才华"
+     1 string schinese_censored = "特长生因为有了加分，可以考的更好，现在开始羡慕已经晚了，父亲却说是你自己没有才华"
+     1 string english = "Students who are exceptionally good in a subject get plus points. But it's already too late to envy them."
+     1 string japanese = "特待生は入試で追加点がもらえる。今さら羨ましがっても手遅れだ。お父さんには、もともと才能なんてないだろ、と言われた。"
+     1 string mchinese = "特長生因為有了加分，可以考的更好，現在開始羡慕已經晚了，父親卻說是你自己沒有才華"
+   [7899]
+    0 TableSoItemLang data
+     0 int id = 1017900
+     1 string schinese = "学表演的艺术生打扮的花枝招展，妈妈说那些人都不正经，以后会吃亏的！"
+     1 string schinese_censored = "学表演的艺术生打扮的花枝招展，妈妈说那些人都不正经，以后会吃亏的！"
+     1 string english = "Performance arts students dress up as beautiful women. Mom says they've got screws loose."
+     1 string japanese = "演劇学科志望の学生が派手な格好をしていた。お母さんは、あんな子はろくなもんじゃない、後々ダメになるわと言っていた。"
+     1 string mchinese = "學表演的藝術生打扮的花枝招展，媽媽說那些人都不正經，以後會吃虧的！"
+   [7900]
+    0 TableSoItemLang data
+     0 int id = 1017901
+     1 string schinese = "全市地震临时演习，警报拉响同学们也不离开座位，似乎没有比学习更重要的"
+     1 string schinese_censored = "全市地震临时演习，警报拉响同学们也不离开座位，似乎没有比学习更重要的"
+     1 string english = "An earthquake drill takes place in the city and the alarm sounds, but no one leaves the classroom."
+     1 string japanese = "全市で臨時の避難訓練が行われた。サイレンが鳴っても誰も席から離れなかった。勉強より大切なものはないのだろう。"
+     1 string mchinese = "全市地震臨時演習，警報拉響同學們也不離開座位，似乎沒有比學習更重要的"
+   [7901]
+    0 TableSoItemLang data
+     0 int id = 1017902
+     1 string schinese = "来去如风！！不想上大学，已经走入社会的同学，天天吃香喝辣的让人羡慕！"
+     1 string schinese_censored = "来去如风！！不想上大学，已经走入社会的同学，天天吃香喝辣的让人羡慕！"
+     1 string english = "Those who do not wish to attend university have joined society and begun working."
+     1 string japanese = "自由に行動したい！！大学に行きたくない。社会人になった同級生が羨ましい。毎日遊べるなんて！"
+     1 string mchinese = "來去如風！！不想上大學，已經走入社會的同學，天天吃香喝辣的讓人羡慕！"
+   [7902]
+    0 TableSoItemLang data
+     0 int id = 1017903
+     1 string schinese = "有些同学，老师都已经放弃了。只要不打扰大家学习，随便他们在班里玩！"
+     1 string schinese_censored = "有些同学已经打算找学习之外的出路。老师说只要他们不打扰大家学习，随便他们在班里玩！"
+     1 string english = "The teacher has given up on some students, “Just don't you dare to disrupt the other students!”"
+     1 string japanese = "先生に見放された生徒がいる。みんなの邪魔をしないなら、何をしてもいいよと言われていた。"
+     1 string mchinese = "有些同學，老師都已經放棄了。只要不打擾大家學習，隨便他們在班裏玩！"
+   [7903]
+    0 TableSoItemLang data
+     0 int id = 1017904
+     1 string schinese = "现在周六也不能休息了，要准备冲刺了！感觉人生最重要的事情就是高考了"
+     1 string schinese_censored = "现在周六也不能休息了，要准备冲刺了！感觉人生最重要的事情就是高考了"
+     1 string english = "Saturdays are no longer a day of resting, you have to prepare to plow on and study for Gaokao!"
+     1 string japanese = "土曜日も休めない。もうすぐ入試だ！人生で一番大切なのは大学入試なんだ！"
+     1 string mchinese = "現在週六也不能休息了，要準備衝刺了！感覺人生最重要的事情就是高考了"
+   [7904]
+    0 TableSoItemLang data
+     0 int id = 1017905
+     1 string schinese = "晚自习到晚上九点多，感觉生活没有喘息的机会，但是也得加油！"
+     1 string schinese_censored = "晚自习到晚上九点多，感觉生活没有喘息的机会，但是也得加油！"
+     1 string english = "You study until 9pm or later every night, feeling as if there's no breathing room in your life."
+     1 string japanese = "毎日２１時まで自習している。息をつく暇もないが、ここで頑張らないと！"
+     1 string mchinese = "晚自習到晚上九點多，感覺生活沒有喘息的機會，但是也得加油！"
+   [7905]
+    0 TableSoItemLang data
+     0 int id = 1017906
+     1 string schinese = "模范生回学校演讲了，考上名校的学长励志演讲，真的让人羡慕啊！"
+     1 string schinese_censored = "模范生回学校演讲了，考上名校的学长励志演讲，真的让人羡慕啊！"
+     1 string english = "Senior students and those who attend famous schools return to hold speeches of encouragement."
+     1 string japanese = "名門大学に入学した先輩が学校でスピーチをする予定だ。本当に羨ましい！"
+     1 string mchinese = "模範生回學校演講了，考上名校的學長勵志演講，真的讓人羡慕啊！"
+   [7906]
+    0 TableSoItemLang data
+     0 int id = 1017907
+     1 string schinese = "从前的学渣不知为何突然开始奋发学习，成绩提升速度惊人，高考的压力真的可以改变一个人"
+     1 string schinese_censored = "从前的学渣不知为何突然开始奋发学习，成绩提升速度惊人，高考的压力真的可以改变一个人"
+     1 string english = "Students with poor grades suddenly cram like mad. The stress of Gaokao really is life-changing."
+     1 string japanese = "全然勉強ができなかった子の成績が急激に伸び、みんなを驚かせた。大学入試のプレッシャーは本当に人を変える。"
+     1 string mchinese = "從前的學渣不知為何突然開始奮發學習，成績提升速度驚人，高考的壓力真的可以改變一個人"
+   [7907]
+    0 TableSoItemLang data
+     0 int id = 1017908
+     1 string schinese = "原来一起玩得好的朋友被分到了不同班级，你很失落，妈妈告诉你要学会自我排解，不要影响学习"
+     1 string schinese_censored = "原来一起玩得好的朋友被分到了不同班级，你很失落，妈妈告诉你要学会自我排解，不要影响学习"
+     1 string english = "You get sad when you and your best friend are divided into different classes."
+     1 string japanese = "仲の良かった友達と別々のクラスになって残念だ。お母さんに、ちゃんと気持ちを整理して勉強に集中しなさい、と注意された。"
+     1 string mchinese = "原來一起玩得好的朋友被分到了不同班級，你很失落，媽媽告訴你要學會自我排解，不要影響學習"
+   [7908]
+    0 TableSoItemLang data
+     0 int id = 1017909
+     1 string schinese = "高考的临近使你的压力越来越大，吃不下睡不着逐渐成为了你的生活常态"
+     1 string schinese_censored = "高考的临近使你的压力越来越大，吃不下睡不着逐渐成为了你的生活常态"
+     1 string english = "Gaokao is nearing and you don't seem to have any appetite and can't catch a good night's rest."
+     1 string japanese = "大学入試が迫るにつれ、ストレスがどんどんたまる。食欲がなくなり、不眠の日々が続いた。"
+     1 string mchinese = "高考的臨近使你的壓力越來越大，吃不下睡不著逐漸成為了你的生活常態"
+   [7909]
+    0 TableSoItemLang data
+     0 int id = 1017910
+     1 string schinese = "有同学受不了老师的冷嘲热讽爆发了肢体冲突，最后闹得满城风雨"
+     1 string schinese_censored = "有同学受不了学习压力，和老师爆发了冲突，最后闹得满城风雨"
+     1 string english = "A student can no longer take the teacher's berating and a fight ensues."
+     1 string japanese = "先生の辛辣な嘲笑に耐えられず、生徒が先生に暴力を振るった。噂は校内に広まった。"
+     1 string mchinese = "有同學受不了老師的冷嘲熱諷爆發了肢體衝突，最後鬧得滿城風雨"
+   [7910]
+    0 TableSoItemLang data
+     0 int id = 1017911
+     1 string schinese = "不断增加的压力让你的脾气变得喜怒无常，常常因为一点小事情对自己发脾气，父母商量着要带你看心理医生"

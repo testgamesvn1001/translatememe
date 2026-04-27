@@ -1,0 +1,184 @@
+     1 string schinese_censored = "主持人思维课"
+     1 string english = "Host Thinking"
+     1 string japanese = "司会思想教育"
+     1 string mchinese = "主持人思維課"
+   [19181]
+    0 TableSoItemLang data
+     0 int id = 1029182
+     1 string schinese = "广播电视概论"
+     1 string schinese_censored = "广播电视概论"
+     1 string english = "Intro to Broadcast Journalism"
+     1 string japanese = "テレビ理論"
+     1 string mchinese = "廣播電視概論"
+   [19182]
+    0 TableSoItemLang data
+     0 int id = 1029183
+     1 string schinese = "形体礼仪"
+     1 string schinese_censored = "形体礼仪"
+     1 string english = "Posture Etiquette"
+     1 string japanese = "姿勢教育"
+     1 string mchinese = "形體禮儀"
+   [19183]
+    0 TableSoItemLang data
+     0 int id = 1029184
+     1 string schinese = "视听语言"
+     1 string schinese_censored = "视听语言"
+     1 string english = "Visual Language"
+     1 string japanese = "視聴覚言語"
+     1 string mchinese = "視聽語言"
+   [19184]
+    0 TableSoItemLang data
+     0 int id = 1029185
+     1 string schinese = "GO!GO!GO! Fire in the hole!\n\n【记忆力】属性越高，学习消耗的悟性越少。\n\n最低消耗150点悟性。"
+     1 string schinese_censored = "上！上！开火！\n\n学会电竞入门，【记忆力】越高，会适当减少所需消耗的悟性\n\n属性标准值：3780\n至少消耗悟性:150"
+     1 string english = "E-Sports goes "Go! Go! Go! Fire in the hole!"\n\nLearning E-Sports costs less Knowledge the more[Memory]you have. \n\nStat norm: 3,780\nMinimum Knowledge cost: 150"
+     1 string japanese = "行け！行け！撃て！\n\nｅスポーツ入門を学ぶ。【記憶力】が高いほど消費理解力は少なくなる。\n\n能力標準値：3780\n最低消費理解力:150"
+     1 string mchinese = "GO!GO!GO! Fire in the hole!\n\n【記憶力】屬性越高，學習消耗的悟性越少。\n\n最低消耗150點悟性。"
+   [19185]
+    0 TableSoItemLang data
+     0 int id = 1029186
+     1 string schinese = "管理战队也是一门管理的艺术。\n\n【记忆力】属性越高，学习消耗的悟性越少。\n\n最低消耗200点悟性。"
+     1 string schinese_censored = "管理战队也是一门管理的艺术。\n\n学会战队管理建设，【记忆力】越高，会适当减少所需消耗的悟性\n\n属性标准值：9072\n至少消耗悟性:200"
+     1 string english = "Team Management & Creation is an art in itself.\n\nLearning Team Management & Creation costs less Knowledge the more [Memory]you have. \n\nStat norm: 9,072\nMinimum Knowledge cost: 200"
+     1 string japanese = "チームを管理する事も一種の技術だ。\n\nチーム管理を学ぶ。【記憶力】が高いほど消費理解力は少なくなる。\n\n能力標準値：9072\n最低消費理解力:200"
+     1 string mchinese = "管理戰隊也是一門管理的藝術。\n\n【記憶力】屬性越高，學習消耗的悟性越少。\n\n最低消耗200點悟性。"
+   [19186]
+    0 TableSoItemLang data
+     0 int id = 1029187
+     1 string schinese = "早期的电子竞技全都是泪。\n\n【记忆力】属性越高，学习消耗的悟性越少。\n\n最低消耗200点悟性。"
+     1 string schinese_censored = "早期的电子竞技全都是泪。\n\n学会电竞发展史，【记忆力】越高，会适当减少所需消耗的悟性\n\n属性标准值：10280\n至少消耗悟性:200"
+     1 string english = "The foundations of E-Sports were built on blood, sweat and tears!\n\nLearning History of E-Sports costs less Knowledge the more [Memory]you have. \n\nStat norm: 10,280\nMinimum Knowledge cost:200"
+     1 string japanese = "黎明期のｅスポーツは涙無くして語れない。\n\nｅスポーツの歴史を学ぶ。【記憶力】が高いほど消費理解力は少なくなる。\n\n能力標準値：10280\n最低消費理解力:200"
+     1 string mchinese = "早期的電子競技全都是淚。\n\n【記憶力】屬性越高，學習消耗的悟性越少。\n\n最低消耗200點悟性。"
+   [19187]
+    0 TableSoItemLang data
+     0 int id = 1029188
+     1 string schinese = "3个打1个被反杀，会不会玩！？\n\n【记忆力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低消耗200点悟性。"
+     1 string schinese_censored = "3个打1个被反杀，会不会玩！？\n\n学会游戏对战详解，【记忆力】【体魄】越高，会适当减少所需消耗的悟性\n\n属性标准值：18504\n至少消耗悟性:200"
+     1 string english = "3v1 and you still manage to get owned, what's wrong with you!?\n\nLearning Game Strategy costs less Knowledge the more [Memory] and [Constitution] you have.\n\nStat norm: 18,504\nMinimum Knowledge cost: 200"
+     1 string japanese = "３人がかりでも倒せねえ！すげえ上手いな！？\n\nゲーム対戦解説を学ぶ。【記憶力】【体力】が高いほど消費理解力は少なくなる。\n\n能力標準値：18504\n最低消費理解力:200"
+     1 string mchinese = "3個打1個被反殺，會不會玩！？\n\n【記憶力】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低消耗200點悟性。"
+   [19188]
+    0 TableSoItemLang data
+     0 int id = 1029189
+     1 string schinese = "回首，掏。哟，鬼刀一开看不见，走位走位，手里干，哈哈哈，难受……\n\n【记忆力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低消耗200点悟性。"
+     1 string schinese_censored = "回首，掏。哟，鬼刀一开看不见，走位走位，手里干，哈哈哈，难受……\n\n学会游戏进阶训练，【记忆力】【体魄】越高，会适当减少所需消耗的悟性\n\n属性标准值：29604\n至少消耗悟性:200"
+     1 string english = "Advanced Game Training, for the pro gamer within!\n\nLearning Advanced Game Training costs less Knowledge the more [Memory] and [Constitution]you have.\n\nStat norm: 29,604\nMinimum Knowledge cost: 200"
+     1 string japanese = "振り向け、ああ。見えない。動け、手が、ハハハ、ツライ…\n\nゲーム上達訓練を学ぶ。【記憶力】【体力】が高いほど消費理解力は少なくなる。\n\n能力標準値：29604\n最低消費理解力:200"
+     1 string mchinese = "回首，掏。喲，鬼刀一開看不見，走位走位，手裏幹，哈哈哈，難受……\n\n【記憶力】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低消耗200點悟性。"
+   [19189]
+    0 TableSoItemLang data
+     0 int id = 1029190
+     1 string schinese = "10000个小时的实际学习时间。\n\n【想象力】【记忆力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低消耗200点悟性。"
+     1 string schinese_censored = "10000个小时的实际学习时间。\n\n学会电竞终极秘籍，【想象力】【记忆力】【体魄】越高，会适当减少所需消耗的悟性\n\n属性标准值：47364\n至少消耗悟性:200"
+     1 string english = "Ultimate Secret of E-Sports, at least 10,000 hours.\n\nLearning Ultimate Secret of E-Sports costs less Knowledge the more [Imagination] and [Memory] and [Constitution]you have.\n\nStat norm: 47,364\nMinimum Knowledge cost: 200"
+     1 string japanese = "実際のところ１万時間は練習した。\n\nｅスポーツ究極奥義を学ぶ。【想像力】【記憶力】【体力】が高いほど消費理解力は少なくなる。\n\n能力標準値：47364\n最低消費理解力:200"
+     1 string mchinese = "10000個小時的實際學習時間。\n\n【想像力】【記憶力】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低消耗200點悟性。"
+   [19190]
+    0 TableSoItemLang data
+     0 int id = 1029191
+     1 string schinese = "你猜我是奴隶战，我猜你会猜我是奴隶战，所以我要打土豪战。\n\n【想象力】【记忆力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低消耗200点悟性。"
+     1 string schinese_censored = "你猜我是奴隶战，我猜你会猜我是奴隶战，所以我要打土豪战。\n\n学会电竞心理学，【想象力】【记忆力】【体魄】越高，会适当减少所需消耗的悟性\n\n属性标准值：75780\n至少消耗悟性:200"
+     1 string english = "E-Sports Psychology to play the players.\n\nLearning E-Sports Psychology costs less Knowledge the more [Imagination] and [Memory] and [Constitution]you have.\n\nStat norm: 75,780\nMinimum Knowledge cost: 200"
+     1 string japanese = "このデッキは対策済みだろう。今までずっと使ってたからね。だからあのデッキで来るはずだ。\n\nｅスポーツ心理学を学ぶ。【想像力】【記憶力】【体力】が高いほど消費理解力は少なくなる。\n\n能力標準値：75780\n最低消費理解力:200"
+     1 string mchinese = "你猜我是奴隸戰，我猜你會猜我是奴隸戰，所以我要打土豪戰。\n\n【想像力】【記憶力】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低消耗200點悟性。"
+   [19191]
+    0 TableSoItemLang data
+     0 int id = 1029192
+     1 string schinese = "普通话最重要的就是fu南人和hu建人要分清楚！\n\n【情商】属性越高，学习消耗的悟性越少。\n\n最低消耗150点悟性。"
+     1 string schinese_censored = "普通话最重要的就是弗南人和胡建人要分清楚！\n\n学会普通话语音基础，【情绪力】越高，会适当减少所需消耗的悟性\n\n属性标准值：3780\n至少消耗悟性:150"
+     1 string english = "Basic Mandarin Speaking, Lonald the lobber.\n\nLearning Basic Mandarin Speaking costs less Knowledge the more [EQ]you have.\n\nStat norm: 3,780\nMinimum Knowledge cost: 150"
+     1 string japanese = "標準語の発声は重要だ。福南人と福建人の区別がつかなくなるからだ！\n\n標準語発声基礎を学ぶ。【ＥＱ】が高いほど消費理解力は少なくなる。\n\n能力標準値：3780\n最低消費理解力:150"
+     1 string mchinese = "普通話最重要的就是fu南人和hu建人要分清楚！\n\n【情商】屬性越高，學習消耗的悟性越少。\n\n最低消耗150點悟性。"
+   [19192]
+    0 TableSoItemLang data
+     0 int id = 1029193
+     1 string schinese = "这个字的发音突出一个圆润！\n\n【情商】属性越高，学习消耗的悟性越少。\n\n最低消耗200点悟性。"
+     1 string schinese_censored = "这个字的发音突出一个圆润！\n\n学会播音发声学，【情绪力】越高，会适当减少所需消耗的悟性\n\n属性标准值：9072\n至少消耗悟性:200"
+     1 string english = "Broadcasting Accent, you must learn that rolling!\n\nLearning Broadcasting Accent costs less Knowledge the more [EQ]you have.\n\nStat norm: 9,072\nMinimum Knowledge cost: 200"
+     1 string japanese = "単語の発音が丸みを帯びてるね！\n\n放送音響学を学ぶ。【ＥＱ】が高いほど消費理解力は少なくなる。\n\n能力標準値：9072\n最低消費理解力:200"
+     1 string mchinese = "這個字的發音突出一個圓潤！\n\n【情商】屬性越高，學習消耗的悟性越少。\n\n最低消耗200點悟性。"
+   [19193]
+    0 TableSoItemLang data
+     0 int id = 1029194
+     1 string schinese = "吃葡萄不吐葡萄皮，不吃葡萄倒吐葡萄皮！\n\n【情商】【记忆力】属性越高，学习消耗的悟性越少。\n\n最低消耗200点悟性。"
+     1 string schinese_censored = "吃葡萄不吐葡萄皮，不吃葡萄倒吐葡萄皮！\n\n学会主持播音课，【情绪力】【记忆力】越高，会适当减少所需消耗的悟性\n\n属性标准值：10280\n至少消耗悟性:200"
+     1 string english = "Host Broadcasting focuses on tongue twisters.\n\nLearning Host Broadcasting costs less Knowledge the more [EQ] and [Memory]you have.\n\nStat norm: 10,280\nMinimum Knowledge cost: 200"
+     1 string japanese = "裏庭には二羽にわとりがいる！\n\n司会放送教育を学ぶ。【ＥＱ】【記憶力】が高いほど消費理解力は少なくなる。\n\n能力標準値：10280\n最低消費理解力:200"
+     1 string mchinese = "吃葡萄不吐葡萄皮，不吃葡萄倒吐葡萄皮！\n\n【情商】【記憶力】屬性越高，學習消耗的悟性越少。\n\n最低消耗200點悟性。"
+   [19194]
+    0 TableSoItemLang data
+     0 int id = 1029195
+     1 string schinese = "要用观众的视角去看你自己！\n\n【情商】【记忆力】属性越高，学习消耗的悟性越少。\n\n最低消耗200点悟性。"
+     1 string schinese_censored = "要用观众的视角去看你自己！\n\n学会主持人思维课，【情绪力】【记忆力】越高，会适当减少所需消耗的悟性\n\n属性标准值：18504\n至少消耗悟性:200"
+     1 string english = "Host Thinking emphasizes mind reading!\n\nLearning Host Thinking costs less Knowledge the more [EQ] and [Memory]you have.\n\nStat norm: 18,504\nMinimum Knowledge cost: 200"
+     1 string japanese = "観客の視点で自分を鑑みよう！\n\n司会思想教育を学ぶ。【ＥＱ】【記憶力】が高いほど消費理解力は少なくなる。\n\n能力標準値：18504\n最低消費理解力:200"
+     1 string mchinese = "要用觀眾的視角去看你自己！\n\n【情商】【記憶力】屬性越高，學習消耗的悟性越少。\n\n最低消耗200點悟性。"
+   [19195]
+    0 TableSoItemLang data
+     0 int id = 1029196
+     1 string schinese = "并不是教你电视的制造工艺！\n\n【情商】【记忆力】属性越高，学习消耗的悟性越少。\n\n最低消耗200点悟性。"
+     1 string schinese_censored = "并不是教你电视的制造工艺！\n\n学会广播电视概论，【情绪力】【记忆力】越高，会适当减少所需消耗的悟性\n\n属性标准值：29604\n至少消耗悟性:200"
+     1 string english = "Intro to Broadcast Journalism is vital.\n\nLearning Intro to Broadcast Journalism costs less Knowledge the more [EQ] and [Memory]you have.\n\nStat norm: 29,604\nMinimum Knowledge cost: 200"
+     1 string japanese = "テレビの製造方法を教えるワケじゃないよ！\n\nテレビ理論を学ぶ。【ＥＱ】【記憶力】が高いほど消費理解力は少なくなる。\n\n能力標準値：29604\n最低消費理解力:200"
+     1 string mchinese = "並不是教你電視的製造工藝！\n\n【情商】【記憶力】屬性越高，學習消耗的悟性越少。\n\n最低消耗200點悟性。"
+   [19196]
+    0 TableSoItemLang data
+     0 int id = 1029197
+     1 string schinese = "优雅！优雅！优雅！\n\n【情商】【记忆力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低消耗200点悟性。"
+     1 string schinese_censored = "优雅！优雅！优雅！\n\n学会形体礼仪，【情绪力】【记忆力】【体魄】越高，会适当减少所需消耗的悟性\n\n属性标准值：47364\n至少消耗悟性:200"
+     1 string english = "Posture Etiquette, elegance is what matters!\n\nLearning Posture Etiquette costs less Knowledge the more [EQ] and [Memory] and [Constitution]you have.\n\nStat norm: 47,364\nMinimum Knowledge cost: 200"
+     1 string japanese = "優雅！優雅！優雅！\n\n姿勢教育を学ぶ。【ＥＱ】【記憶力】【体力】が高いほど消費理解力は少なくなる。\n\n能力標準値：47364\n最低消費理解力:200"
+     1 string mchinese = "優雅！優雅！優雅！\n\n【情商】【記憶力】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低消耗200點悟性。"
+   [19197]
+    0 TableSoItemLang data
+     0 int id = 1029198
+     1 string schinese = "图像时代的一个表情比文字时代的一整段话都要有效！\n\n【情商】【记忆力】【体魄】属性越高，学习消耗的悟性越少。\n\n最低消耗200点悟性。"
+     1 string schinese_censored = "图像时代的一个表情比文字时代的一整段话都要有效！\n\n学会视听语言，【情绪力】【记忆力】【体魄】越高，会适当减少所需消耗的悟性\n\n属性标准值：75780\n至少消耗悟性:200"
+     1 string english = "Visual Language because image is everything!\n\nLearning Visual Language costs less Knowledge the more [EQ] and [Memory] and [Constitution]you have.\n\nStat norm: 75,780\nMinimum Knowledge cost: 200"
+     1 string japanese = "一瞬の映像は文章での説明より有効だ！\n\n視聴覚言語を学ぶ。【ＥＱ】【記憶力】【体力】が高いほど消費理解力は少なくなる。\n\n能力標準値：75780\n最低消費理解力:200"
+     1 string mchinese = "圖像時代的一個表情比文字時代的一整段話都要有效！\n\n【情商】【記憶力】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低消耗200點悟性。"
+   [19198]
+    0 TableSoItemLang data
+     0 int id = 1029199
+     1 string schinese = "电竞入门开启你的王者之路"
+     1 string schinese_censored = "电竞入门开启你的王者之路"
+     1 string english = "E-Sports takes you on the road to becoming a champion."
+     1 string japanese = "ｅスポーツ入門を学ぶと王者への道が開ける"
+     1 string mchinese = "電競入門開啟你的王者之路"
+   [19199]
+    0 TableSoItemLang data
+     0 int id = 1029200
+     1 string schinese = "战队管理建设如何管理战队"
+     1 string schinese_censored = "战队管理建设如何管理战队"
+     1 string english = "Team Management & Creation teaches you how to manage teams."
+     1 string japanese = "チーム管理とは、チームがチームを管理する方法だ。"
+     1 string mchinese = "戰隊管理建設如何管理戰隊"
+   [19200]
+    0 TableSoItemLang data
+     0 int id = 1029201
+     1 string schinese = "电竞发展史使你更好的了解电竞的发展历史"
+     1 string schinese_censored = "电竞发展史使你更好的了解电竞的发展历史"
+     1 string english = "History of E-Sports teaches you about the history of e-sports."
+     1 string japanese = "ｅスポーツの歴史により、ｅスポーツをより深く理解できる"
+     1 string mchinese = "電競發展史使你更好的瞭解電競的發展歷史"
+   [19201]
+    0 TableSoItemLang data
+     0 int id = 1029202
+     1 string schinese = "游戏对战详解教你各种对抗的基本功"
+     1 string schinese_censored = "游戏对战详解教你各种对抗的基本功"
+     1 string english = "Game Strategy teaches you many of the basic moves."
+     1 string japanese = "ゲーム対戦解説により、基本的な技術を覚える"
+     1 string mchinese = "遊戲對戰詳解教你各種對抗的基本功"
+   [19202]
+    0 TableSoItemLang data
+     0 int id = 1029203
+     1 string schinese = "游戏进阶训练让你的技术更上一层楼"
+     1 string schinese_censored = "游戏进阶训练让你的技术更上一层楼"
+     1 string english = "Advanced Game Training takes your thinking to the next level."
+     1 string japanese = "ゲーム上達訓練により、技術を次のレベルに引き上げる"
+     1 string mchinese = "遊戲進階訓練讓你的技術更上一層樓"
+   [19203]
+    0 TableSoItemLang data
+     0 int id = 1029204
+     1 string schinese = "电竞终极秘籍让你知道获胜的不二法门"

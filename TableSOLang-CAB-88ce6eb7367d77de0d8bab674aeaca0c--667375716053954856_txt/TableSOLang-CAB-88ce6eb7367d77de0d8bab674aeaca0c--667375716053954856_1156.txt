@@ -1,0 +1,184 @@
+     1 string schinese_censored = "下一回合"
+     1 string english = "Next Turn"
+     1 string japanese = "次のターン"
+     1 string mchinese = "下一回合"
+   [26564]
+    0 TableSoItemLang data
+     0 int id = 1596172851
+     1 string schinese = "继续"
+     1 string schinese_censored = "继续"
+     1 string english = "Continue"
+     1 string japanese = "続行"
+     1 string mchinese = "繼續"
+   [26565]
+    0 TableSoItemLang data
+     0 int id = 1596172852
+     1 string schinese = "移除安排"
+     1 string schinese_censored = "移除安排"
+     1 string english = "Remove Plan"
+     1 string japanese = "予定削除"
+     1 string mchinese = "移除安排"
+   [26566]
+    0 TableSoItemLang data
+     0 int id = 1596172853
+     1 string schinese = "点击空白区域或空格键继续"
+     1 string schinese_censored = "点击空白区域或空格键继续"
+     1 string english = "Tap or press the Space to continue"
+     1 string japanese = "空白部分を選択するかスペースキーで続ける"
+     1 string mchinese = "點擊空白區域或空格鍵繼續"
+   [26567]
+    0 TableSoItemLang data
+     0 int id = 1596172854
+     1 string schinese = "请点击空白区域继续"
+     1 string schinese_censored = "请点击空白区域继续"
+     1 string english = "Tap to continue."
+     1 string japanese = "空白部分を選択して継続"
+     1 string mchinese = "請點擊空白區域繼續"
+   [26568]
+    0 TableSoItemLang data
+     0 int id = 1596172855
+     1 string schinese = "点击空白区域退出"
+     1 string schinese_censored = "点击空白区域退出"
+     1 string english = "Tap anywhere to exit."
+     1 string japanese = "空白部分を選択し閉じる"
+     1 string mchinese = "點擊空白區域退出"
+   [26569]
+    0 TableSoItemLang data
+     0 int id = 1596172856
+     1 string schinese = "按"
+     1 string schinese_censored = "按"
+     1 string english = "Press"
+     1 string japanese = "押す"
+     1 string mchinese = "按"
+   [26570]
+    0 TableSoItemLang data
+     0 int id = 1596172857
+     1 string schinese = "（ 点击屏幕上的战术灵感，克敌制胜 ）"
+     1 string schinese_censored = "（ 点击荧幕上的战术灵感，克敌制胜 ）"
+     1 string english = "(Click spur-of-the-moment insights to increase your chance of winning)"
+     1 string japanese = "（ヒラメキを選び、敵を倒そう）"
+     1 string mchinese = "（ 點擊螢幕上的戰術靈感，克敵制勝 ）"
+   [26571]
+    0 TableSoItemLang data
+     0 int id = 1596172858
+     1 string schinese = "按A键继续"
+     1 string schinese_censored = "按A键继续"
+     1 string english = "Press A to continue"
+     1 string japanese = "Aボタンを押して継続"
+     1 string mchinese = "按A鍵繼續"
+   [26572]
+    0 TableSoItemLang data
+     0 int id = 1596172859
+     1 string schinese = "跳过 "
+     1 string schinese_censored = "跳过 "
+     1 string english = "Skip"
+     1 string japanese = "スキップ"
+     1 string mchinese = "跳過 "
+   [26573]
+    0 TableSoItemLang data
+     0 int id = 1596172860
+     1 string schinese = "东子"
+     1 string schinese_censored = "东子"
+     1 string english = "Voltaire"
+     1 string japanese = "ドン"
+     1 string mchinese = "東子"
+   [26574]
+    0 TableSoItemLang data
+     0 int id = 1596172861
+     1 string schinese = "杰克马"
+     1 string schinese_censored = "杰克马"
+     1 string english = "Ali Ma"
+     1 string japanese = "ジャックマ"
+     1 string mchinese = "傑克馬"
+   [26575]
+    0 TableSoItemLang data
+     0 int id = 1596172862
+     1 string schinese = "大章尾"
+     1 string schinese_censored = "大章尾"
+     1 string english = "Ninji"
+     1 string japanese = "ダシャン"
+     1 string mchinese = "大章尾"
+   [26576]
+    0 TableSoItemLang data
+     0 int id = 1596172863
+     1 string schinese = "老吴"
+     1 string schinese_censored = "老吴"
+     1 string english = "Georgie"
+     1 string japanese = "ダー"
+     1 string mchinese = "老吳"
+   [26577]
+    0 TableSoItemLang data
+     0 int id = 1596172864
+     1 string schinese = "大黄"
+     1 string schinese_censored = "大黄"
+     1 string english = "Panna Navlova"
+     1 string japanese = "ダファン"
+     1 string mchinese = "大黃"
+   [26578]
+    0 TableSoItemLang data
+     0 int id = 1596172865
+     1 string schinese = "宝墙"
+     1 string schinese_censored = "宝墙"
+     1 string english = "Haris Pilton"
+     1 string japanese = "バオシャン"
+     1 string mchinese = "寶牆"
+   [26579]
+    0 TableSoItemLang data
+     0 int id = 1596172866
+     1 string schinese = "四维"
+     1 string schinese_censored = "四维"
+     1 string english = "Sino Logist"
+     1 string japanese = "シヴェイ"
+     1 string mchinese = "四維"
+   [26580]
+    0 TableSoItemLang data
+     0 int id = 1596172867
+     1 string schinese = "大刘"
+     1 string schinese_censored = "大刘"
+     1 string english = "Isaac Newton"
+     1 string japanese = "ダリュウ"
+     1 string mchinese = "大劉"
+   [26581]
+    0 TableSoItemLang data
+     0 int id = 1596172868
+     1 string schinese = "亮亮"
+     1 string schinese_censored = "亮亮"
+     1 string english = "Amadeus Mozart"
+     1 string japanese = "リャンリャン"
+     1 string mchinese = "亮亮"
+   [26582]
+    0 TableSoItemLang data
+     0 int id = 1596172869
+     1 string schinese = "楼教祝"
+     1 string schinese_censored = "楼教祝"
+     1 string english = "Meter Polyneux"
+     1 string japanese = "ジアオシュ"
+     1 string mchinese = "樓教祝"
+   [26583]
+    0 TableSoItemLang data
+     0 int id = 1596172870
+     1 string schinese = "韩梅梅"
+     1 string schinese_censored = "韩梅梅"
+     1 string english = "George R T"
+     1 string japanese = "メイメイ"
+     1 string mchinese = "韓梅梅"
+   [26584]
+    0 TableSoItemLang data
+     0 int id = 1596172871
+     1 string schinese = "优优"
+     1 string schinese_censored = "优优"
+     1 string english = "Mid Seier"
+     1 string japanese = "ユウユウ"
+     1 string mchinese = "優優"
+   [26585]
+    0 TableSoItemLang data
+     0 int id = 1596172872
+     1 string schinese = "明珠"
+     1 string schinese_censored = "明珠"
+     1 string english = "Li Bai"
+     1 string japanese = "ミンシュ"
+     1 string mchinese = "明珠"
+   [26586]
+    0 TableSoItemLang data
+     0 int id = 1596172873
+     1 string schinese = "圆圆"

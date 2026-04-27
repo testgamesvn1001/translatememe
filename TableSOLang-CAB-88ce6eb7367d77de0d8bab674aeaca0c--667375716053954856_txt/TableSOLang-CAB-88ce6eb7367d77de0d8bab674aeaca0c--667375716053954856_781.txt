@@ -1,0 +1,184 @@
+     1 string schinese_censored = "随着大学生活的结束，我和大多数人一样，要走上工作岗位...我最终成为了{0}。{1}"
+     1 string english = "Now that university life is coming to an end, I, as well as most others, have set out to find work. In the end I became a(n) {0}. {1}"
+     1 string japanese = "大学生活が終わって、就職し…{0}になった。{1}"
+     1 string mchinese = "隨著大學生活的結束，我和大多數人一樣，要走上工作崗位...我最終成為了{0}。{1}"
+   [17939]
+    0 TableSoItemLang data
+     0 int id = 1027940
+     1 string schinese = "\n智商天赋+{0} 情商天赋+{1} 想象力天赋+{2} 记忆力天赋+{3} 体魄天赋+{4}"
+     1 string schinese_censored = "\n智慧天赋+{0} 情绪力天赋+{1} 想象力天赋+{2} 记忆力天赋+{3} 体魄天赋+{4}"
+     1 string english = "\n IQ Talent +{0}, EQ Talent +{1}, Imag. Talent +{2}, Mem. Talent +{3} and Con. Talent +{4}"
+     1 string japanese = "\n天賦ＩＱ+{0} 天賦ＥＱ+{1} 天賦想像力+{2} 天賦記憶力+{3} 天賦体力+{4}"
+     1 string mchinese = "\n智商天賦+{0} 情商天賦+{1} 想像力天賦+{2} 記憶力天賦+{3} 體魄天賦+{4}"
+   [17940]
+    0 TableSoItemLang data
+     0 int id = 1027941
+     1 string schinese = "智商天赋+{0}\n情商天赋+{1}\n想象力天赋+{2}\n记忆力天赋+{3}\n体魄天赋+{4}\n￥{5}"
+     1 string schinese_censored = "智慧天赋+{0}\n情绪力天赋+{1}\n想象力天赋+{2}\n记忆力天赋+{3}\n体魄天赋+{4}\n￥{5}"
+     1 string english = "IQ Talent +{0}\nEQ Talent +{1}\nImag. Talent +{2}\nMem. Talent +{3}\nCon. Talent +{4}\n¥{5}"
+     1 string japanese = "天賦ＩＱ+{0}\n天賦ＥＱ+{1}\n天賦想像力+{2}\n天賦記憶力+{3}\n天賦体力+{4}\n￥{5}"
+     1 string mchinese = "智商天賦+{0}\n情商天賦+{1}\n想像力天賦+{2}\n記憶力天賦+{3}\n體魄天賦+{4}\n￥{5}"
+   [17941]
+    0 TableSoItemLang data
+     0 int id = 1027942
+     1 string schinese = "你在父母和自己的双重压力下，搞得身心俱疲。心理阴影面积一再增加，直到最后再也承受不了，最终崩溃了！\n\n最终大家看到的是一个奇怪的人，不再和任何人联络，没有人认识。你有很多想做的事情，但最终都做不了了，只能把期望留给你的下一代了！"
+     1 string schinese_censored = "你在父母和自己的双重压力下，搞得身心俱疲。心理阴影面积一再增加，直到最后再也承受不了，最终崩溃了！\n\n最终大家看到的是一个奇怪的人，不再和任何人联络，没有人认识。你有很多想做的事情，但最终都做不了了，只能把期望留给你的下一代了！"
+     1 string english = "Due to the stress put upon you by your parents and yourself, you are both mentally and physically exhausted. Your mind shadow expands and expands, until you can't take it anymore and your mind snaps!\n\nPeople see you as a weirdo, a loner without any friends or human understanding. You had many dreams, none of which you could fulfill, oh well, you can at least leave them to your next generation!"
+     1 string japanese = "両親と自分の二重のストレスによって、心身共にボロボロになった。トラウマ領域の増加に耐え切れず、あなたは壊れてしまった！\n\nみんなからは誰とも連絡を取らない変わり者と思われている。やりたかったことは何もできなかった。次の世代に期待しよう！"
+     1 string mchinese = "你在父母和自己的雙重壓力下，搞得身心俱疲。心理陰影面積一再增加，直到最後再也承受不了，最終崩潰了！\n\n最終大家看到的是一個奇怪的人，不再和任何人聯絡，沒有人認識。你有很多想做的事情，但最終都做不了了，只能把期望留給你的下一代了！"
+   [17942]
+    0 TableSoItemLang data
+     0 int id = 1027943
+     1 string schinese = "（第{0}代 {1}岁）"
+     1 string schinese_censored = "（第{0}代 {1}岁）"
+     1 string english = "(Generation {0}, {1} years old)"
+     1 string japanese = "（第{0}世代 {1}歳）"
+     1 string mchinese = "（第{0}代 {1}歲）"
+   [17943]
+    0 TableSoItemLang data
+     0 int id = 1027944
+     1 string schinese = "新游戏"
+     1 string schinese_censored = "新游戏"
+     1 string english = "New Game"
+     1 string japanese = "ニューゲーム"
+     1 string mchinese = "新遊戲"
+   [17944]
+    0 TableSoItemLang data
+     0 int id = 1027945
+     1 string schinese = "是否删除该存档？"
+     1 string schinese_censored = "是否删除该存档？"
+     1 string english = "Delete this save?"
+     1 string japanese = "このセーブデータを削除しますか？"
+     1 string mchinese = "是否刪除該存檔？"
+   [17945]
+    0 TableSoItemLang data
+     0 int id = 1027946
+     1 string schinese = "该内容包含违禁词，请重新输入"
+     1 string schinese_censored = "该内容包含敏感词，请重新输入"
+     1 string english = "Contains illegal characters. Please choose another name."
+     1 string japanese = "ＮＧワードが含まれています。再入力してください。"
+     1 string mchinese = "該內容包含違禁詞，請重新輸入"
+   [17946]
+    0 TableSoItemLang data
+     0 int id = 1027947
+     1 string schinese = "已经有相同名字的存档了"
+     1 string schinese_censored = "已经有相同名字的存档了"
+     1 string english = "A save with this name already exists."
+     1 string japanese = "同じ名前のセーブデータが存在します"
+     1 string mchinese = "已經有相同名字的存檔了"
+   [17947]
+    0 TableSoItemLang data
+     0 int id = 1027948
+     1 string schinese = "是否继续下一代旅程？"
+     1 string schinese_censored = "是否继续下一代旅程？"
+     1 string english = "Continue your journey with a new generation?"
+     1 string japanese = "次世代の人生を始めますか？"
+     1 string mchinese = "是否繼續下一代旅程？"
+   [17948]
+    0 TableSoItemLang data
+     0 int id = 1027949
+     1 string schinese = "（存档已保留，随时继续下一代）"
+     1 string schinese_censored = "（存档已保留，随时继续下一代）"
+     1 string english = "(Saved. You can continue a new generation whenever you wish to)"
+     1 string japanese = "（データを保存しました。次の世代に継承されます。）"
+     1 string mchinese = "（存檔已保留，隨時繼續下一代）"
+   [17949]
+    0 TableSoItemLang data
+     0 int id = 1027950
+     1 string schinese = "返回标题画面"
+     1 string schinese_censored = "返回标题画面"
+     1 string english = "Return to Title"
+     1 string japanese = "メインメニューに戻る"
+     1 string mchinese = "返回標題畫面"
+   [17950]
+    0 TableSoItemLang data
+     0 int id = 1027951
+     1 string schinese = "（本世代已经结束了，玩家可回到主界面【开始游戏】中读取存档，进行下一代培养！继承了这么多属性，下一代会做的更好吧！）"
+     1 string schinese_censored = "（本世代已经结束了，玩家可回到主界面【开始游戏】中读取存档，进行下一代培养！继承了这么多属性，下一代会做的更好吧！）"
+     1 string english = "(This generation has already ended. Please return to [Start Game] in the main menu to continue your save and the next generation! You've inherited plenty of stats, so our next generation should fare better!)"
+     1 string japanese = "（今世代は終了しました。メインメニューの【スタートゲーム】でセーブデータをロードし、次世代の人生を始めましょう！多くの能力値を継承しているので、次世代の人生は素晴らしいものになるはず！）"
+     1 string mchinese = "（本世代已經結束了，玩家可回到主介面【開始遊戲】中讀取存檔，進行下一代培養！繼承了這麼多屬性，下一代會做的更好吧！）"
+   [17951]
+    0 TableSoItemLang data
+     0 int id = 1027952
+     1 string schinese = "职业图鉴"
+     1 string schinese_censored = "职业图鉴"
+     1 string english = "Profession Gallery"
+     1 string japanese = "職業図鑑"
+     1 string mchinese = "職業圖鑒"
+   [17952]
+    0 TableSoItemLang data
+     0 int id = 1027953
+     1 string schinese = "似乎目前的理想是成为{0}呢！"
+     1 string schinese_censored = "似乎目前的理想是成为{0}呢！"
+     1 string english = "Your current dream is to become a(n) {0}!"
+     1 string japanese = "{0}になることが今の夢のようだね！"
+     1 string mchinese = "似乎目前的理想是成為{0}呢！"
+   [17953]
+    0 TableSoItemLang data
+     0 int id = 1027954
+     1 string schinese = "第 {0} 代"
+     1 string schinese_censored = "第 {0} 代"
+     1 string english = "Generation {0}"
+     1 string japanese = "第{0}世代"
+     1 string mchinese = "第 {0} 代"
+   [17954]
+    0 TableSoItemLang data
+     0 int id = 1027955
+     1 string schinese = "配偶同学"
+     1 string schinese_censored = "配偶同学"
+     1 string english = "Married a schoolmate"
+     1 string japanese = "同級生と結婚"
+     1 string mchinese = "配偶同學"
+   [17955]
+    0 TableSoItemLang data
+     0 int id = 1027956
+     1 string schinese = "配偶相亲对象"
+     1 string schinese_censored = "配偶相亲对象"
+     1 string english = "Married a blind date"
+     1 string japanese = "お見合いで結婚"
+     1 string mchinese = "配偶相親對象"
+   [17956]
+    0 TableSoItemLang data
+     0 int id = 1027957
+     1 string schinese = "相亲失败"
+     1 string schinese_censored = "相亲失败"
+     1 string english = "Failed a blind date"
+     1 string japanese = "お見合い失敗"
+     1 string mchinese = "相親失敗"
+   [17957]
+    0 TableSoItemLang data
+     0 int id = 1027958
+     1 string schinese = "人缘较好，"
+     1 string schinese_censored = "人缘较好，"
+     1 string english = "Very sociable"
+     1 string japanese = "関係良好"
+     1 string mchinese = "人緣較好，"
+   [17958]
+    0 TableSoItemLang data
+     0 int id = 1027959
+     1 string schinese = "与{0}位同学发展良好友谊"
+     1 string schinese_censored = "与{0}位同学发展良好友谊"
+     1 string english = "and made good friends with {0} schoolmate(s)."
+     1 string japanese = "友情を深めた同級生の人数：{0}"
+     1 string mchinese = "與{0}位同學發展良好友誼"
+   [17959]
+    0 TableSoItemLang data
+     0 int id = 1027960
+     1 string schinese = "担任班干部{0}次"
+     1 string schinese_censored = "担任班干部{0}次"
+     1 string english = "Became the class president {0} time(s)."
+     1 string japanese = "学級委員長に選ばれた回数：{0}"
+     1 string mchinese = "擔任班幹部{0}次"
+   [17960]
+    0 TableSoItemLang data
+     0 int id = 1027961
+     1 string schinese = "获得才艺金奖{0}次"
+     1 string schinese_censored = "获得选秀金奖{0}次"
+     1 string english = "Acquired the talent show gold award {0} time(s)."
+     1 string japanese = "オーディションで最優秀賞を獲得した回数：{0}"
+     1 string mchinese = "獲得才藝金獎{0}次"
+   [17961]
+    0 TableSoItemLang data
+     0 int id = 1027962
+     1 string schinese = "作文大赛头奖{0}次"

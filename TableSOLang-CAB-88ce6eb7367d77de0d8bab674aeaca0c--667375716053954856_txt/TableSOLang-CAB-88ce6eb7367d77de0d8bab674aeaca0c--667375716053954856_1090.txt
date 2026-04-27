@@ -1,0 +1,184 @@
+     1 string schinese_censored = "加油啊！崽！你能行！崽！爸妈相信你！"
+     1 string english = "Go, go! You can do it! We believe in you!"
+     1 string japanese = "がんばれ！できる！信じてる！"
+     1 string mchinese = "加油啊！崽！你能行！崽！爸媽相信你！"
+   [25046]
+    0 TableSoItemLang data
+     0 int id = 1596171333
+     1 string schinese = "鼓励？哦。加油，真棒，你能行。（棒读）"
+     1 string schinese_censored = "鼓励？哦。加油，真棒，你能行。（棒读）"
+     1 string english = "Encouragement? Right... Uhm, keep at it? You're the best..."
+     1 string japanese = "励ましてほしい？がんばれ、すごい、お前ならできる。（棒）"
+     1 string mchinese = "鼓勵？哦。加油，真棒，你能行。（棒讀）"
+   [25047]
+    0 TableSoItemLang data
+     0 int id = 1596171334
+     1 string schinese = "为人父母呢，最重要的就是要有梦想~"
+     1 string schinese_censored = "为人父母呢，最重要的就是要有梦想~"
+     1 string english = "The most important thing with parenting is having dreams."
+     1 string japanese = "人の役に立ちたければ、夢を持つことだよ。"
+     1 string mchinese = "為人父母呢，最重要的就是要有夢想~"
+   [25048]
+    0 TableSoItemLang data
+     0 int id = 1596171335
+     1 string schinese = "'=VLOOKUP(A24944,IF({1,0},!:,!:),2,0)[.xlsx][.xlsx]"
+     1 string schinese_censored = "'=VLOOKUP(A24944,IF({1,0},!:,!:),2,0)[.xlsx][.xlsx]"
+     1 string english = "/1596171335"
+     1 string japanese = "/"
+     1 string mchinese = "'=VLOOKUP(A24944,IF({1,0},!:,!:),2,0)[.xlsx][.xlsx]"
+   [25049]
+    0 TableSoItemLang data
+     0 int id = 1596171336
+     1 string schinese = "'=VLOOKUP(A24945,IF({1,0},!:,!:),2,0)[.xlsx][.xlsx]"
+     1 string schinese_censored = "'=VLOOKUP(A24945,IF({1,0},!:,!:),2,0)[.xlsx][.xlsx]"
+     1 string english = "/1596171336"
+     1 string japanese = "/"
+     1 string mchinese = "'=VLOOKUP(A24945,IF({1,0},!:,!:),2,0)[.xlsx][.xlsx]"
+   [25050]
+    0 TableSoItemLang data
+     0 int id = 1596171337
+     1 string schinese = "'=VLOOKUP(A24946,IF({1,0},!:,!:),2,0)[.xlsx][.xlsx]"
+     1 string schinese_censored = "'=VLOOKUP(A24946,IF({1,0},!:,!:),2,0)[.xlsx][.xlsx]"
+     1 string english = "/1596171337"
+     1 string japanese = "/"
+     1 string mchinese = "'=VLOOKUP(A24946,IF({1,0},!:,!:),2,0)[.xlsx][.xlsx]"
+   [25051]
+    0 TableSoItemLang data
+     0 int id = 1596171338
+     1 string schinese = ""
+     1 string schinese_censored = ""
+     1 string english = "/1596171338"
+     1 string japanese = "/"
+     1 string mchinese = ""
+   [25052]
+    0 TableSoItemLang data
+     0 int id = 1596171339
+     1 string schinese = "解说"
+     1 string schinese_censored = "解说"
+     1 string english = "Commentator"
+     1 string japanese = "解説"
+     1 string mchinese = "解說"
+   [25053]
+    0 TableSoItemLang data
+     0 int id = 1596171340
+     1 string schinese = "_useNick，给，这个定制鼠标垫是给你的。"
+     1 string schinese_censored = "_useNick，这个定制鼠标垫是给你的。"
+     1 string english = "Here you are _useNick, this custom mouse pad is for you."
+     1 string japanese = "_useNick、ほら、この特注マウスパッドやるよ。"
+     1 string mchinese = "_useNick，給，這個定制滑鼠墊是給你的。"
+   [25054]
+    0 TableSoItemLang data
+     0 int id = 1596171341
+     1 string schinese = "哇，这上面印的是我们战队的全员合影哎，我们队还有这么棒的周边吗！"
+     1 string schinese_censored = "哇，这上面印的是我们战队的合影哎，我们队还有这么棒的周边吗！"
+     1 string english = "Wow, there's a photo of our whole team on it! I didn't know we had such nice merch!"
+     1 string japanese = "あっ、チーム全員の集合写真だ。こんな良いグッズがあったなんて！"
+     1 string mchinese = "哇，這上面印的是我們戰隊的全員合影哎，我們隊還有這麼棒的周邊嗎！"
+   [25055]
+    0 TableSoItemLang data
+     0 int id = 1596171342
+     1 string schinese = "是啊，一个队就是要整整齐齐。就像比赛一样，无论选手个人能力有多强，五个人缺一个都打不了。"
+     1 string schinese_censored = "是啊，一个队就是要整整齐齐。不管你单兵作战有多强，五个人缺一个都打不了。"
+     1 string english = "Ah, the team is only as good as the sum of its parts. No matter how powerful each player is, we can't play if we don't work together."
+     1 string japanese = "良いだろう。チームは全員そろってこそだ。試合も同じだろう。選手個人の能力がどれだけ優れていても、五人全員そろっていなければ戦えない。"
+     1 string mchinese = "是啊，一個隊就是要整整齊齊。就像比賽一樣，無論選手個人能力有多強，五個人缺一個都打不了。"
+   [25056]
+    0 TableSoItemLang data
+     0 int id = 1596171343
+     1 string schinese = "（感动）嗯嗯，还有风导！我们六个，还有替补的兄弟，是一个团队！"
+     1 string schinese_censored = "（感动）嗯嗯，还有教练你也是！我们六个，还有替补的兄弟，是一个团队！"
+     1 string english = "That's right. And together with you, Coach WaterFox, we six, and our substitutes, we are a team!"
+     1 string japanese = "（感動）はい！それにフォンダオも！俺たち六人に、控えの仲間も含めて一つのチームです！"
+     1 string mchinese = "（感動）嗯嗯，還有風導！我們六個，還有替補的兄弟，是一個團隊！"
+   [25057]
+    0 TableSoItemLang data
+     0 int id = 1596171344
+     1 string schinese = "我要一直和兄弟们并……"
+     1 string schinese_censored = "我要一直和兄弟们并……"
+     1 string english = "I want to continue fighting with..."
+     1 string japanese = "俺はずっと仲間たちと…"
+     1 string mchinese = "我要一直和兄弟們並……"
+   [25058]
+    0 TableSoItemLang data
+     0 int id = 1596171345
+     1 string schinese = "啪呲！"
+     1 string schinese_censored = "啪呲！"
+     1 string english = "Pow!"
+     1 string japanese = "カンッ！"
+     1 string mchinese = "啪呲！"
+   [25059]
+    0 TableSoItemLang data
+     0 int id = 1596171346
+     1 string schinese = "（正说着，你的手碰翻了可乐罐，黑色的液体瞬间浸满鼠标垫，五个人笑嘻嘻的脸变成了暗影模式。）"
+     1 string schinese_censored = "正说着，手碰翻了可乐罐，黑色的液体瞬间浸满鼠标垫，五个人笑嘻嘻的脸变成了暗影模式。"
+     1 string english = "(You knock over the cola and the liquid soaks the mouse pad. All your teammates' faces turned dark.)"
+     1 string japanese = "（言葉を発しようとしたその時、あなたの手がコーラの缶に触れ、マウスパッドは一瞬にして黒い液体に浸された。五人の満面の笑みは真っ黒になった）"
+     1 string mchinese = "（正說著，你的手碰翻了可樂罐，黑色的液體瞬間浸滿滑鼠墊，五個人笑嘻嘻的臉變成了暗影模式。）"
+   [25060]
+    0 TableSoItemLang data
+     0 int id = 1596171347
+     1 string schinese = "（看着存活时长不足1小时的战队内部限定周边，风导也切换成了暗影模式。）"
+     1 string schinese_censored = "看着存活时长不足1小时的战队内部限定周边，教练也切换成了模式。"
+     1 string english = "(Looking at the less than 1-hour old soaked pad, WaterFox's face takes on a gloomy expression.)"
+     1 string japanese = "（１時間ともたなかったチーム関係者限定グッズを見て、フォンダオの心も黒く沈んだ）"
+     1 string mchinese = "（看著存活時長不足1小時的戰隊內部限定周邊，風導也切換成了暗影模式。）"
+   [25061]
+    0 TableSoItemLang data
+     0 int id = 1596171348
+     1 string schinese = "（突！风导的筷子戳了戳你的胳膊肘，你伸向红烧猪蹄的爪子一滞。）"
+     1 string schinese_censored = "突！教练的筷子戳了戳你的胳膊肘，你伸向红烧猪蹄的爪子一滞。"
+     1 string english = "(*Whoosh* Coach WaterFox pokes your elbow with a chopstick, forcing you away from the pig trotters.)"
+     1 string japanese = "（スッ！フォンダオの箸があなたのひじを突いた。あなたは豚足の醤油煮に手を伸ばしたまま固まった）"
+     1 string mchinese = "（突！風導的筷子戳了戳你的胳膊肘，你伸向紅燒豬蹄的爪子一滯。）"
+   [25062]
+    0 TableSoItemLang data
+     0 int id = 1596171349
+     1 string schinese = "！就算是风导也不能跟我抢猪蹄！"
+     1 string schinese_censored = "！就算是风导也不能跟我抢猪蹄！"
+     1 string english = "No one takes my pig trotters! Not even you, Coach WaterFox!"
+     1 string japanese = "！たとえフォンダオでも、豚足は渡しませんよ！"
+     1 string mchinese = "！就算是風導也不能跟我搶豬蹄！"
+   [25063]
+    0 TableSoItemLang data
+     0 int id = 1596171350
+     1 string schinese = "谁要跟你抢，你也不想想自己入队之后都长多少肉了！还好意思同类相食！"
+     1 string schinese_censored = "谁要跟你抢，你也不想想自己入队之后都长多少肉了！还好意思同类相食！"
+     1 string english = "I don't want your trotters. Just look at yourself! How much weight have you gained since you joined the team!? You are what you eat!"
+     1 string japanese = "誰がいるか。入団してどれだけ肉がついたか考えてみろ！それじゃあ共食いじゃないか！"
+     1 string mchinese = "誰要跟你搶，你也不想想自己入隊之後都長多少肉了！還好意思同類相食！"
+   [25064]
+    0 TableSoItemLang data
+     0 int id = 1596171351
+     1 string schinese = "（懵）啊？什么意思.."
+     1 string schinese_censored = "（懵）啊？什么意思.."
+     1 string english = "Uh? What?"
+     1 string japanese = "（ぼんやり）え？それはいったい…。"
+     1 string mchinese = "（懵）啊？什麼意思.."
+   [25065]
+    0 TableSoItemLang data
+     0 int id = 1596171352
+     1 string schinese = "果然脑子转速也一样了。"
+     1 string schinese_censored = "果然脑子转速也一样了。"
+     1 string english = "Got about the same amount of brainpower as well."
+     1 string japanese = "頭まで豚レベルなんだな。"
+     1 string mchinese = "果然腦子轉速也一樣了。"
+   [25066]
+    0 TableSoItemLang data
+     0 int id = 1596171353
+     1 string schinese = "哦！风导我懂了，你在说我是猪！可是，我还是个孩子，还在长身体嘛！（委屈）"
+     1 string schinese_censored = "哦！风导我懂了，你在说我是猪！可是，我还是个孩子，还在长身体嘛！（委屈）"
+     1 string english = "Oh! I see, Coach WaterFox, you mean that I'm like a pig. But I'm still a growing youth. I need to eat to grow stronger!"
+     1 string japanese = "ああっ！フォンダオ、俺が豚だって言うんですか！でも俺はまだ子どもなんですよ。まだ成長中です！（悔しそうな顔）"
+     1 string mchinese = "哦！風導我懂了，你在說我是豬！可是，我還是個孩子，還在長身體嘛！（委屈）"
+   [25067]
+    0 TableSoItemLang data
+     0 int id = 1596171354
+     1 string schinese = "（黑线）少吃油腻，我去跟做饭阿姨说下一顿给你们做点高蛋白低脂肪的。"
+     1 string schinese_censored = "（黑线）少吃油腻，我去跟做饭阿姨说下一顿给你们做点高蛋白低脂肪的。"
+     1 string english = "You shouldn't eat too fatty foods. I'll tell our cooks to make meals with more protein and less fat."
+     1 string japanese = "（落胆）油は控えろ。食堂のおばさんに、高タンパク低脂肪のメニューを頼んでおく。"
+     1 string mchinese = "（黑線）少吃油膩，我去跟做飯阿姨說下一頓給你們做點高蛋白低脂肪的。"
+   [25068]
+    0 TableSoItemLang data
+     0 int id = 1596171355
+     1 string schinese = "别小小年纪就吃出一身病，以后要后悔的！"

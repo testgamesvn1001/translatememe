@@ -1,0 +1,184 @@
+     1 string schinese_censored = "悟性"
+     1 string english = "Knowl."
+     1 string japanese = "理解力"
+     1 string mchinese = "悟性"
+   [19457]
+    0 TableSoItemLang data
+     0 int id = 1029458
+     1 string schinese = "点击空白区域或空格键继续"
+     1 string schinese_censored = "点击空白区域或空格键继续"
+     1 string english = "Click or press the Space to continue"
+     1 string japanese = "空白部分を選択するかスペースキーで続ける"
+     1 string mchinese = "點擊空白區域或空格鍵繼續"
+   [19458]
+    0 TableSoItemLang data
+     0 int id = 1029459
+     1 string schinese = "妈妈"
+     1 string schinese_censored = "妈妈"
+     1 string english = "Mom"
+     1 string japanese = "母"
+     1 string mchinese = "媽媽"
+   [19459]
+    0 TableSoItemLang data
+     0 int id = 1029460
+     1 string schinese = "话柄"
+     1 string schinese_censored = "话柄"
+     1 string english = "Dishonor"
+     1 string japanese = "不利な噂"
+     1 string mchinese = "話柄"
+   [19460]
+    0 TableSoItemLang data
+     0 int id = 1029461
+     1 string schinese = "详情"
+     1 string schinese_censored = "详情"
+     1 string english = "Details"
+     1 string japanese = "詳細"
+     1 string mchinese = "詳情"
+   [19461]
+    0 TableSoItemLang data
+     0 int id = 1029462
+     1 string schinese = " "
+     1 string schinese_censored = "敬请期待"
+     1 string english = ""
+     1 string japanese = ""
+     1 string mchinese = " "
+   [19462]
+    0 TableSoItemLang data
+     0 int id = 1029463
+     1 string schinese = "(优势)"
+     1 string schinese_censored = "(优势)"
+     1 string english = "(Advantage)"
+     1 string japanese = "長所"
+     1 string mchinese = "(優勢)"
+   [19463]
+    0 TableSoItemLang data
+     0 int id = 1029464
+     1 string schinese = "(劣势)"
+     1 string schinese_censored = "(劣势)"
+     1 string english = "(Disadvantage)"
+     1 string japanese = "短所"
+     1 string mchinese = "(劣勢)"
+   [19464]
+    0 TableSoItemLang data
+     0 int id = 1029465
+     1 string schinese = "男"
+     1 string schinese_censored = "男"
+     1 string english = "Male"
+     1 string japanese = "男性"
+     1 string mchinese = "男"
+   [19465]
+    0 TableSoItemLang data
+     0 int id = 1029466
+     1 string schinese = "女"
+     1 string schinese_censored = "女"
+     1 string english = "Female"
+     1 string japanese = "女性"
+     1 string mchinese = "女"
+   [19466]
+    0 TableSoItemLang data
+     0 int id = 1029467
+     1 string schinese = "日程"
+     1 string schinese_censored = "日程"
+     1 string english = "Schedule"
+     1 string japanese = "日程"
+     1 string mchinese = "日程"
+   [19467]
+    0 TableSoItemLang data
+     0 int id = 1029468
+     1 string schinese = "事件"
+     1 string schinese_censored = "事件"
+     1 string english = "Event"
+     1 string japanese = "イベント"
+     1 string mchinese = "事件"
+   [19468]
+    0 TableSoItemLang data
+     0 int id = 1029469
+     1 string schinese = "邀约"
+     1 string schinese_censored = "邀约"
+     1 string english = "Invitation"
+     1 string japanese = "お誘い"
+     1 string mchinese = "邀約"
+   [19469]
+    0 TableSoItemLang data
+     0 int id = 1029470
+     1 string schinese = "红包"
+     1 string schinese_censored = "红包"
+     1 string english = "Red Envelope"
+     1 string japanese = "お年玉"
+     1 string mchinese = "紅包"
+   [19470]
+    0 TableSoItemLang data
+     0 int id = 1029471
+     1 string schinese = "选举"
+     1 string schinese_censored = "选举"
+     1 string english = "Election"
+     1 string japanese = "選挙"
+     1 string mchinese = "選舉"
+   [19471]
+    0 TableSoItemLang data
+     0 int id = 1029472
+     1 string schinese = "作文"
+     1 string schinese_censored = "作文"
+     1 string english = "Writing"
+     1 string japanese = "作文"
+     1 string mchinese = "作文"
+   [19472]
+    0 TableSoItemLang data
+     0 int id = 1029473
+     1 string schinese = "抉择"
+     1 string schinese_censored = "抉择"
+     1 string english = "Choice"
+     1 string japanese = "選択"
+     1 string mchinese = "抉擇"
+   [19473]
+    0 TableSoItemLang data
+     0 int id = 1029474
+     1 string schinese = "才艺"
+     1 string schinese_censored = "选秀"
+     1 string english = "Show"
+     1 string japanese = "オーディション\n"
+     1 string mchinese = "才藝"
+   [19474]
+    0 TableSoItemLang data
+     0 int id = 1029475
+     1 string schinese = "录取通知书"
+     1 string schinese_censored = "录取通知书"
+     1 string english = "Letter of Admission"
+     1 string japanese = "合格通知書"
+     1 string mchinese = "錄取通知書"
+   [19475]
+    0 TableSoItemLang data
+     0 int id = 1029476
+     1 string schinese = "闲话家常"
+     1 string schinese_censored = "闲话家常"
+     1 string english = "Face Duel"
+     1 string japanese = "メンツバトル"
+     1 string mchinese = "閒話家常"
+   [19476]
+    0 TableSoItemLang data
+     0 int id = 1029477
+     1 string schinese = "期望"
+     1 string schinese_censored = "期望"
+     1 string english = "Expectations"
+     1 string japanese = "期待"
+     1 string mchinese = "期望"
+   [19477]
+    0 TableSoItemLang data
+     0 int id = 1029478
+     1 string schinese = "社交"
+     1 string schinese_censored = "社交"
+     1 string english = "Date"
+     1 string japanese = "社交"
+     1 string mchinese = "社交"
+   [19478]
+    0 TableSoItemLang data
+     0 int id = 1029479
+     1 string schinese = "朋友"
+     1 string schinese_censored = "朋友"
+     1 string english = "Friends"
+     1 string japanese = "友達"
+     1 string mchinese = "朋友"
+   [19479]
+    0 TableSoItemLang data
+     0 int id = 1029480
+     1 string schinese = "满意度压力"

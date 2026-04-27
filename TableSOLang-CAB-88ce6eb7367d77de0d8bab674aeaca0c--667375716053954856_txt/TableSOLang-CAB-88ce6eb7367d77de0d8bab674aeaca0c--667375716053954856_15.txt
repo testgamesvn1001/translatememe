@@ -1,0 +1,184 @@
+     1 string schinese_censored = "高等数学虽然和最终考试无关，但能提高逻辑水平"
+     1 string english = "Advanced Mathematics, math is fun!"
+     1 string japanese = "高等数学は大学入試に関係ないが、論理力を伸ばす"
+     1 string mchinese = "高等數學雖然和高考無關，但能提高邏輯水準"
+   [321]
+    0 TableSoItemLang data
+     0 int id = 1010322
+     1 string schinese = "工科数学是大学必学知识"
+     1 string schinese_censored = "工科数学是大学必学知识"
+     1 string english = "Engineering Mathematics, math is fun!"
+     1 string japanese = "工業数学は大学の必修科目だ"
+     1 string mchinese = "工科數學是大學必學知識"
+   [322]
+    0 TableSoItemLang data
+     0 int id = 1010323
+     1 string schinese = "应用数学是数学系必学知识"
+     1 string schinese_censored = "应用数学是数学系必学知识"
+     1 string english = "Applied Mathematics, math is fun!"
+     1 string japanese = "応用数学は数学系学生の必修科目だ"
+     1 string mchinese = "應用數學是數學系必學知識"
+   [323]
+    0 TableSoItemLang data
+     0 int id = 1010324
+     1 string schinese = "理论数学是走向学术前沿的知识"
+     1 string schinese_censored = "理论数学是走向学术前沿的知识"
+     1 string english = "Theoretical Mathematics, math is fun!"
+     1 string japanese = "理論数学は学問の最先端知識だ"
+     1 string mchinese = "理論數學是走向學術前沿的知識"
+   [324]
+    0 TableSoItemLang data
+     0 int id = 1010325
+     1 string schinese = "应用物理学是大学才会学到的知识"
+     1 string schinese_censored = "应用物理学是大学才会学到的知识"
+     1 string english = "Applied Physics, physics is fun!"
+     1 string japanese = "応用物理学は大学で初めて学ぶ"
+     1 string mchinese = "應用物理學是大學才會學到的知識"
+   [325]
+    0 TableSoItemLang data
+     0 int id = 1010326
+     1 string schinese = "理论物理学是物理科研人员必修课"
+     1 string schinese_censored = "理论物理学是物理科研人员必修课"
+     1 string english = "Theoretical Physics, physics is fun!"
+     1 string japanese = "理論物理学は物理研修者の必修科目だ"
+     1 string mchinese = "理論物理學是物理科研人員必修課"
+   [326]
+    0 TableSoItemLang data
+     0 int id = 1010327
+     1 string schinese = "物理问题研究可以让你探究物理前沿奥秘"
+     1 string schinese_censored = "物理问题研究可以让你探究物理前沿奥秘"
+     1 string english = "Physics Problem Research, physics is fun!"
+     1 string japanese = "物理問題研究は物理学の最先端の謎を探究できる"
+     1 string mchinese = "物理問題研究可以讓你探究物理前沿奧秘"
+   [327]
+    0 TableSoItemLang data
+     0 int id = 1010328
+     1 string schinese = "忍者文化让你了解别样文化"
+     1 string schinese_censored = "忍者文化让你了解别样文化"
+     1 string english = "Ninja Culture, teaches you different cultures."
+     1 string japanese = "忍者文化で異なる文化を学べる"
+     1 string mchinese = "忍者文化讓你瞭解別樣文化"
+   [328]
+    0 TableSoItemLang data
+     0 int id = 1010329
+     1 string schinese = "基础忍术可以强身健体"
+     1 string schinese_censored = "基础忍术可以强身健体"
+     1 string english = "Ninjutsu 101 strengthens your resolve."
+     1 string japanese = "基礎忍術は体を強くする"
+     1 string mchinese = "基礎忍術可以強身健體"
+   [329]
+    0 TableSoItemLang data
+     0 int id = 1010330
+     1 string schinese = "下忍之道可以让你变成真的忍者"
+     1 string schinese_censored = "下忍之道可以让你变成真的忍者"
+     1 string english = "Way of the Genin turns you into a real ninja."
+     1 string japanese = "下忍への道で本物の忍者になろう"
+     1 string mchinese = "下忍之道可以讓你變成真的忍者"
+   [330]
+    0 TableSoItemLang data
+     0 int id = 1010331
+     1 string schinese = "中忍之道可以让你和鸣人同在！"
+     1 string schinese_censored = "中忍之道可以让你和鸣人同在！"
+     1 string english = "Way of the Chunin, merge with burrito!"
+     1 string japanese = "中忍への道でヌルトを目指そう！"
+     1 string mchinese = "中忍之道可以讓你和鳴人同在！"
+   [331]
+    0 TableSoItemLang data
+     0 int id = 1010332
+     1 string schinese = "上忍之道可以挑战自我，成为一流忍者"
+     1 string schinese_censored = "上忍之道可以挑战自我，成为一流忍者"
+     1 string english = "Way of the Ninja challenges your limits."
+     1 string japanese = "上忍への道は自分との戦いだ。一流の忍者になろう"
+     1 string mchinese = "上忍之道可以挑戰自我，成為一流忍者"
+   [332]
+    0 TableSoItemLang data
+     0 int id = 1010333
+     1 string schinese = "服饰审美让你美丽极限，爱漂亮没有终点"
+     1 string schinese_censored = "服饰审美让你美丽极限，爱漂亮没有终点"
+     1 string english = "Costume Aesthetics, such beauty!"
+     1 string japanese = "服飾センスで綺麗に。美の追求に終わりはない"
+     1 string mchinese = "服飾審美讓你美麗極限，愛漂亮沒有終點"
+   [333]
+    0 TableSoItemLang data
+     0 int id = 1010334
+     1 string schinese = "美容化妆展现魅力女人一面"
+     1 string schinese_censored = "美容化妆展现魅力女人一面"
+     1 string english = "Beauty Makeup, increases femininity."
+     1 string japanese = "美容メイクで魅力的な一面を見せよう"
+     1 string mchinese = "美容化妝展現魅力女人一面"
+   [334]
+    0 TableSoItemLang data
+     0 int id = 1010335
+     1 string schinese = "仪态训练让你更受别人的喜欢"
+     1 string schinese_censored = "仪态训练让你更受别人的喜欢"
+     1 string english = "Posture Training, they'll notice you for sure."
+     1 string japanese = "立ち振る舞いを磨き、みんなから好かれよう"
+     1 string mchinese = "儀態訓練讓你更受別人的喜歡"
+   [335]
+    0 TableSoItemLang data
+     0 int id = 1010336
+     1 string schinese = "珠宝品鉴让你更懂如何用珠宝装饰自己"
+     1 string schinese_censored = "珠宝品鉴让你更懂如何用珠宝装饰自己"
+     1 string english = "Jewelry Appraisal, the whole world shines!"
+     1 string japanese = "宝石鑑定を学んで素敵に着飾ろう"
+     1 string mchinese = "珠寶品鑒讓你更懂如何用珠寶裝飾自己"
+   [336]
+    0 TableSoItemLang data
+     0 int id = 1010337
+     1 string schinese = "美妆秘笈让你正式自己的缺点"
+     1 string schinese_censored = "美妆秘籍让你正式自己的缺点"
+     1 string english = "Cosmetology Secrets, to embrace your shortcomings."
+     1 string japanese = "メイク奥義で自分の欠点を魅力にしよう"
+     1 string mchinese = "美妝秘笈讓你正式自己的缺點"
+   [337]
+    0 TableSoItemLang data
+     0 int id = 1010338
+     1 string schinese = "基础乐理是音乐创作者的必修课"
+     1 string schinese_censored = "基础乐理是音乐创作者的必修课"
+     1 string english = "Music Theory 101, twinkle twinkle little..."
+     1 string japanese = "音楽理論入門は音楽制作者の必修科目だ"
+     1 string mchinese = "基礎樂理是音樂創作者的必修課"
+   [338]
+    0 TableSoItemLang data
+     0 int id = 1010339
+     1 string schinese = "视唱练耳可以使你拥有更美的嗓音"
+     1 string schinese_censored = "视唱练耳可以使你拥有更美的嗓音"
+     1 string english = "Solfeggio, practice to beautify your voice."
+     1 string japanese = "楽譜・音感を学んで、さらに美しい歌声を得よう"
+     1 string mchinese = "視唱練耳可以使你擁有更美的嗓音"
+   [339]
+    0 TableSoItemLang data
+     0 int id = 1010340
+     1 string schinese = "节奏布鲁斯让你更了解流行"
+     1 string schinese_censored = "节奏布鲁斯让你更了解流行"
+     1 string english = "Rhythm & Blues makes you mainstream."
+     1 string japanese = "リズム＆ブルースを学ぶと流行をさらに理解できる"
+     1 string mchinese = "節奏布魯斯讓你更瞭解流行"
+   [340]
+    0 TableSoItemLang data
+     0 int id = 1010341
+     1 string schinese = "硬核朋克给你反叛在反叛的灵感"
+     1 string schinese_censored = "硬核朋克给你反叛在反叛的灵感"
+     1 string english = "Hardcore Punk, show your rebellious streak."
+     1 string japanese = "あなたに反逆のヒラメキを与える"
+     1 string mchinese = "硬核朋克給你反叛在反叛的靈感"
+   [341]
+    0 TableSoItemLang data
+     0 int id = 1010342
+     1 string schinese = "音乐创作是独立音乐人的必备技能"
+     1 string schinese_censored = "音乐创作是独立音乐人的必备技能"
+     1 string english = "Musical Composition, music, here I come!"
+     1 string japanese = "音楽制作はフリーランスミュージシャンに必須だ"
+     1 string mchinese = "音樂創作是獨立音樂人的必備技能"
+   [342]
+    0 TableSoItemLang data
+     0 int id = 1010343
+     1 string schinese = "即兴说唱考验你的瞬间反应和填词技巧"
+     1 string schinese_censored = "即兴说唱考验你的瞬间反应和填词技巧"
+     1 string english = "Freestyle Rap improves word choice."
+     1 string japanese = "フリースタイルは即興能力とテクニックが試される"
+     1 string mchinese = "即興說唱考驗你的瞬間反應和填詞技巧"
+   [343]
+    0 TableSoItemLang data
+     0 int id = 1010344
+     1 string schinese = "现场表演教你如何引爆现场气氛"

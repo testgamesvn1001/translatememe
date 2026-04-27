@@ -1,0 +1,184 @@
+     1 string schinese_censored = "学艺术，以后每天画画！"
+     1 string english = "I'll study fine art to continue my road for arts!"
+     1 string japanese = "絵画を学ぼう！毎日絵を描きたいから！"
+     1 string mchinese = "學藝術，以後每天畫畫！"
+   [33924]
+    0 TableSoItemLang data
+     0 int id = 99994629
+     1 string schinese = "学设计，以后好找工作！"
+     1 string schinese_censored = "学设计，以后好找工作！"
+     1 string english = "I'll study design to find a job easier."
+     1 string japanese = "デザインを学ぼう！将来仕事を探しやすいから！"
+     1 string mchinese = "學設計，以後好找工作！"
+   [33925]
+    0 TableSoItemLang data
+     0 int id = 99994630
+     1 string schinese = "没想好，考上啥是啥吧……"
+     1 string schinese_censored = "没想好，考上啥是啥吧……"
+     1 string english = "I can't decide... I'll cross that bridge when I come to it."
+     1 string japanese = "まだ決まっていない、受かった方にしよう……"
+     1 string mchinese = "沒想好，考上啥是啥吧……"
+   [33926]
+    0 TableSoItemLang data
+     0 int id = 99994631
+     1 string schinese = "同学们觉得你在强词夺理，嘲笑了你。\n（行动力-10压力+10）"
+     1 string schinese_censored = "同学们觉得你在强词夺理，嘲笑了你。\n（行动力-10压力+10）"
+     1 string english = "Your classmates think you're just full of hot air. They laugh at you.\n(Action -10, Stress +10)"
+     1 string japanese = "同級生はあなたの言葉を屁理屈だと感じて、あなたを嘲笑った。\n行動力が10減少、ストレスが10増加"
+     1 string mchinese = "同學們覺得你在強詞奪理，嘲笑了你。\n（行動力-10壓力+10）"
+   [33927]
+    0 TableSoItemLang data
+     0 int id = 99994632
+     1 string schinese = "同学们听说考大学更轻松，转而向你了解起了什么是美术生……\n（悟性+50魅力+30）"
+     1 string schinese_censored = "同学们听说考大学更轻松，转而向你了解起了什么是美术生……\n（悟性+50魅力+30）"
+     1 string english = "Your classmates are interested in the college entrance part and ask you what an art student is like.\n(Knowledge +50, Charm +30)"
+     1 string japanese = "同級生は大学受験が楽になると知り、あなたに色々質問しだした……\n理解力が50増加、魅力が30増加"
+     1 string mchinese = "同學們聽說考大學更輕鬆，轉而向你瞭解起了什麼是美術生……\n（悟性+50魅力+30）"
+   [33928]
+    0 TableSoItemLang data
+     0 int id = 99994633
+     1 string schinese = "同学们虽然不服气，但你的画的确比他们的涂鸦好很多，于是不再当面议论了……\n（想象力+50）"
+     1 string schinese_censored = "同学们虽然不服气，但你的画的确比他们的涂鸦好很多，于是不再当面议论了……\n（想象力+50）"
+     1 string english = "Your classmates still look down on you. Yet your work's so much better, so they stop bringing the topic up.\n(Imagination +50)"
+     1 string japanese = "同級生は納得していないが、あなたの絵は彼らの落書きより断然上手かったので、表立って何か言われることはなくなった……\n想像力が50増加"
+     1 string mchinese = "同學們雖然不服氣，但你的畫的確比他們的塗鴉好很多，於是不再當面議論了……\n（想像力+50）"
+   [33929]
+    0 TableSoItemLang data
+     0 int id = 99994634
+     1 string schinese = "老师表示重视基本功很好，但也要注意领悟和思考！\n（悟性+30智商+30）"
+     1 string schinese_censored = "老师表示重视基本功很好，但也要注意领悟和思考！\n（悟性+30智商+30）"
+     1 string english = "Your core skills are solid, and the teacher suggests you work more on comprehension and consideration.\n(Knowledge +30, IQ +30)"
+     1 string japanese = "先生に基礎を重視していることを褒められたが、理解力と思考を深めることも大事だ！\n理解力が30増加、ＩＱが30増加"
+     1 string mchinese = "老師表示重視基本功很好，但也要注意領悟和思考！\n（悟性+30智商+30）"
+   [33930]
+    0 TableSoItemLang data
+     0 int id = 99994635
+     1 string schinese = "老师眉头一皱，凉凉地称赞你很有想象力，然后让你下周交一百张素描再来回答这个问题。\n（悟性+50想象力+20体魄-100）"
+     1 string schinese_censored = "老师眉头一皱，凉凉地称赞你很有想象力，然后让你下周交一百张素描再来回答这个问题。\n（悟性+50想象力+20体魄-100）"
+     1 string english = "Your teacher praises your imagination somewhat coldly, and asks you to hand in 100 shading exercise.\n(Knowledge +50, Imagination +20, Constitution -100)"
+     1 string japanese = "「想像力豊かだ」と先生は冷たく言い放った。そして来週までにデッサンを100枚提出してから質問に答えるよう言われた。\n理解力が50増加、想像力が20増加、体力が100減少"
+     1 string mchinese = "老師眉頭一皺，涼涼地稱讚你很有想像力，然後讓你下周交一百張素描再來回答這個問題。\n（悟性+50想像力+20體魄-100）"
+   [33931]
+    0 TableSoItemLang data
+     0 int id = 99994636
+     1 string schinese = "老师赞扬了你的努力，但提醒你也要注意方法。\n（行动力+20智商-20体魄-20）"
+     1 string schinese_censored = "老师赞扬了你的努力，但提醒你也要注意方法。\n（行动力+20智商-20体魄-20）"
+     1 string english = "Your teacher commends your determination, but reminds you that your methods are key, too.\n(Action +20, IQ -20, Constitution -20)"
+     1 string japanese = "先生に努力を褒められたが、正しい方法で努力しないといけないと指摘された。\n行動力が20増加、ＩＱが20減少、体力が20減少"
+     1 string mchinese = "老師讚揚了你的努力，但提醒你也要注意方法。\n（行動力+20智商-20體魄-20）"
+   [33932]
+    0 TableSoItemLang data
+     0 int id = 99994637
+     1 string schinese = "老师鼓励了你，并建议你考中央美院，他们的艺术系特别好！\n（想象力+50）"
+     1 string schinese_censored = "老师鼓励了你，并建议你考中央美院，他们的艺术系特别好！\n（想象力+50）"
+     1 string english = "Your teacher praises you and suggests you aim for the Central Academy of Fine Arts. They're great!\n(Imagination +50)"
+     1 string japanese = "先生から激励され、中央美院の受験を勧められた。中央美院の芸術科は名門らしい！\n想像力が50増加"
+     1 string mchinese = "老師鼓勵了你，並建議你考中央美院，他們的藝術系特別好！\n（想像力+50）"
+   [33933]
+    0 TableSoItemLang data
+     0 int id = 99994638
+     1 string schinese = "老师鼓励了你，并建议你考清华美院，他们的设计系特别好！\n（智商+30情商+30）"
+     1 string schinese_censored = "老师鼓励了你，并建议你考清华美院，他们的设计系特别好！\n（智商+30情商+30）"
+     1 string english = "Your teacher praises you and suggests you aim for the Academy of Arts & Design at Tsinghua. They're great!\n(IQ +30, EQ +30)"
+     1 string japanese = "先生から激励され、清華美院の受験を勧められた。清華美院のデザイン科は名門らしい！\nＩＱが30増加、ＥＱが30増加"
+     1 string mchinese = "老師鼓勵了你，並建議你考清華美院，他們的設計系特別好！\n（智商+30情商+30）"
+   [33934]
+    0 TableSoItemLang data
+     0 int id = 99994639
+     1 string schinese = "老师让你好好练基础，这样不管以后学设计还是艺术，都用的上！\n（悟性+50）"
+     1 string schinese_censored = "老师让你好好练基础，这样不管以后学设计还是艺术，都用的上！\n（悟性+50）"
+     1 string english = "Your teacher recommends you work on the basics. That way, you'll be ready for either path.\n(Knowledge +50)"
+     1 string japanese = "先生に基礎を鍛えるよう言われた。どっちの道に進もうが、基礎は役に立つ！\n理解力が50増加"
+     1 string mchinese = "老師讓你好好練基礎，這樣不管以後學設計還是藝術，都用的上！\n（悟性+50）"
+   [33935]
+    0 TableSoItemLang data
+     0 int id = 99994640
+     1 string schinese = "秋达提醒我，学美术以后也有两种职业方向，我想成为……"
+     1 string schinese_censored = "秋达提醒我，学美术以后也有两种职业方向，我想成为……"
+     1 string english = "Dahlia pointed out to me that, after studying art, I'd be left with two roads to choose from in terms of careers. I'd like to be a..."
+     1 string japanese = "美術を学ぶ場合、職業選択の方向性は二つに分かれることをシュウダが教えてくれた。将来なりたいのは……"
+     1 string mchinese = "秋達提醒我，學美術以後也有兩種職業方向，我想成為……"
+   [33936]
+    0 TableSoItemLang data
+     0 int id = 99994641
+     1 string schinese = "秋达提醒我，学美术以后也有两种职业方向，我想成为……"
+     1 string schinese_censored = "秋达提醒我，学美术以后也有两种职业方向，我想成为……"
+     1 string english = "後續功能，暫不翻譯99994641"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "秋達提醒我，學美術以後也有兩種職業方向，我想成為……"
+   [33937]
+    0 TableSoItemLang data
+     0 int id = 99994642
+     1 string schinese = "我"
+     1 string schinese_censored = "我"
+     1 string english = "Me"
+     1 string japanese = "私"
+     1 string mchinese = "我"
+   [33938]
+    0 TableSoItemLang data
+     0 int id = 99994643
+     1 string schinese = "我"
+     1 string schinese_censored = "我"
+     1 string english = "Me"
+     1 string japanese = "私"
+     1 string mchinese = "我"
+   [33939]
+    0 TableSoItemLang data
+     0 int id = 99994644
+     1 string schinese = "妈妈别管啦！快去滑滑梯！"
+     1 string schinese_censored = "妈妈别管啦！快去滑滑梯！"
+     1 string english = "Forget it, Mom! Let’s go play on the slide instead!"
+     1 string japanese = "早く行こ、お母さん！滑り台で遊びたい！"
+     1 string mchinese = "媽媽別管啦！快去滑滑梯！"
+   [33940]
+    0 TableSoItemLang data
+     0 int id = 99994645
+     1 string schinese = "那你也不能每天光画画不学习啊！我昨天布置的识字作业完成了吗！"
+     1 string schinese_censored = "那你也不能每天光画画不学习啊！我昨天布置的识字作业完成了吗！"
+     1 string english = "Well you can't just spend all your time doodling, you need to study too! Have you finished the reading homework I set for you yesterday?"
+     1 string japanese = "絵ばっか描いて学業をおろそかにしちゃダメよ！昨日私が出した漢字の宿題ちゃんとやった？"
+     1 string mchinese = "那你也不能每天光畫畫不學習啊！我昨天佈置的識字作業完成了嗎！"
+   [33941]
+    0 TableSoItemLang data
+     0 int id = 99994646
+     1 string schinese = "我喜欢画画！我就想画画，不想学习！"
+     1 string schinese_censored = "我喜欢画画！我就想画画，不想学习！"
+     1 string english = "I love drawing! I just want to draw stuff, I don't want to study!"
+     1 string japanese = "絵描くのが好き！勉強なんかしたくない！ずっと絵を描いてたい！"
+     1 string mchinese = "我喜歡畫畫！我就想畫畫，不想學習！"
+   [33942]
+    0 TableSoItemLang data
+     0 int id = 99994647
+     1 string schinese = "不行！你先去把今天的作业做完！就算学美术也不能忘了五大科目！"
+     1 string schinese_censored = "不行！你先去把今天的作业做完！就算学美术也不能忘了五大科目！"
+     1 string english = "That won't do! Finish today's homework first. Fine Art or otherwise, you can't just forget about the five major subjects!"
+     1 string japanese = "ダメよ！まず今日の宿題を片付けてからにしなさい！美術を学ぶにしても五教科はおろそかにできないわよ！"
+     1 string mchinese = "不行！你先去把今天的作業做完！就算學美術也不能忘了五大科目！"
+   [33943]
+    0 TableSoItemLang data
+     0 int id = 99994648
+     1 string schinese = "妈妈"
+     1 string schinese_censored = "妈妈"
+     1 string english = "Mom"
+     1 string japanese = "母"
+     1 string mchinese = "媽媽"
+   [33944]
+    0 TableSoItemLang data
+     0 int id = 99994649
+     1 string schinese = "我"
+     1 string schinese_censored = "我"
+     1 string english = "Me"
+     1 string japanese = "私"
+     1 string mchinese = "我"
+   [33945]
+    0 TableSoItemLang data
+     0 int id = 99994650
+     1 string schinese = "妈妈"
+     1 string schinese_censored = "妈妈"
+     1 string english = "Mom"
+     1 string japanese = "母"
+     1 string mchinese = "媽媽"
+   [33946]
+    0 TableSoItemLang data
+     0 int id = 99994651
+     1 string schinese = "别忘了学习！"

@@ -1,0 +1,184 @@
+     1 string schinese_censored = ""
+     1 string english = "At 100% Satisfaction, 50% chance to get 1 extra Request."
+     1 string japanese = "両親の満足度が100%になり、「要求」の回数が増えるときに、50%の確率で要求可能回数がさらに１回増える"
+     1 string mchinese = "父母滿意度達到100%後當需要增加“索取”次數時，有50%額外增加1次索取次數"
+   [23206]
+    0 TableSoItemLang data
+     0 int id = 891004
+     1 string schinese = "学习和父母职业无关的课程时，悟性额外消耗15%"
+     1 string schinese_censored = ""
+     1 string english = "+15% Knowledge cost when studying classes not of your parents' professions."
+     1 string japanese = "両親の職業に無関係の授業を学習するとき、理解力の消費が15%増える"
+     1 string mchinese = "學習和父母職業無關的課程時，悟性額外消耗15%"
+   [23207]
+    0 TableSoItemLang data
+     0 int id = 891005
+     1 string schinese = "未达成父母期望时，三回合内零花钱变为50%"
+     1 string schinese_censored = ""
+     1 string english = "Only gain 50% Money for 3 turns when failing to meet your parents' Expectations."
+     1 string japanese = "両親の期待を達成していない場合、３ターンのお小遣いが50%になる"
+     1 string mchinese = "未達成父母期望時，三回合內零花錢變為50%"
+   [23208]
+    0 TableSoItemLang data
+     0 int id = 892001
+     1 string schinese = "无变化"
+     1 string schinese_censored = ""
+     1 string english = "No change."
+     1 string japanese = "変化なし"
+     1 string mchinese = "無變化"
+   [23209]
+    0 TableSoItemLang data
+     0 int id = 893001
+     1 string schinese = "特长的获得概率提高10%"
+     1 string schinese_censored = ""
+     1 string english = "+10% chance to acquire traits."
+     1 string japanese = "特技の獲得確率が10%増加"
+     1 string mchinese = "特長的獲得概率提高10%"
+   [23210]
+    0 TableSoItemLang data
+     0 int id = 893002
+     1 string schinese = "安排非五大学科项目时，父母满意度下降效果 -50%"
+     1 string schinese_censored = ""
+     1 string english = "Scheduling non-exam subject lessons reduces 50% less Satisfaction."
+     1 string japanese = "主要五教科以外の予定で、両親の満足度の減少効果が50%軽減される"
+     1 string mchinese = "安排非五大學科專案時，父母滿意度下降效果 -50%"
+   [23211]
+    0 TableSoItemLang data
+     0 int id = 893003
+     1 string schinese = "和同学联系时不容易被父母发现"
+     1 string schinese_censored = ""
+     1 string english = "Your parents don't easily notice that you are talking to friends."
+     1 string japanese = "同級生と連絡を取るときに、両親にバレにくい"
+     1 string mchinese = "和同學聯繫時不容易被父母發現"
+   [23212]
+    0 TableSoItemLang data
+     0 int id = 893004
+     1 string schinese = "安排五大学科相关项目，父母满意度提升效果 -50%"
+     1 string schinese_censored = ""
+     1 string english = "Scheduling exam subject lessons increases 50% less Satisfaction."
+     1 string japanese = "主要五教科に関連する予定で、両親の満足度の上昇効果が50%軽減される"
+     1 string mchinese = "安排五大學科相關專案，父母滿意度提升效果 -50%"
+   [23213]
+    0 TableSoItemLang data
+     0 int id = 893005
+     1 string schinese = "通过安排项目获得的行动力减少，仅能获得70%行动力。"
+     1 string schinese_censored = ""
+     1 string english = "You only gain 70% Action from the activities in your schedule."
+     1 string japanese = "予定で手に入る行動力が70%に減少する"
+     1 string mchinese = "通過安排專案獲得的行動力減少，僅能獲得70%行動力。"
+   [23214]
+    0 TableSoItemLang data
+     0 int id = 894001
+     1 string schinese = "将会面临一些奇怪的“抉择”。"
+     1 string schinese_censored = ""
+     1 string english = "You will be faced with some odd 'choices'."
+     1 string japanese = "奇妙な「選択」に直面するようになる"
+     1 string mchinese = "將會面臨一些奇怪的“抉擇”。"
+   [23215]
+    0 TableSoItemLang data
+     0 int id = 894002
+     1 string schinese = "社交提升好感度效果增加20%"
+     1 string schinese_censored = ""
+     1 string english = "+20% Intimacy gained when talking to friends."
+     1 string japanese = "社交の好感度上昇効果が20%増加する"
+     1 string mchinese = "社交提升好感度效果增加20%"
+   [23216]
+    0 TableSoItemLang data
+     0 int id = 894003
+     1 string schinese = "当父母满意度下降时，下降的效果变为70%"
+     1 string schinese_censored = ""
+     1 string english = "Satisfaction is reduced by 70% of its initial rate."
+     1 string japanese = "両親の満足度が下がるとき、減少効果が70%になる"
+     1 string mchinese = "當父母滿意度下降時，下降的效果變為70%"
+   [23217]
+    0 TableSoItemLang data
+     0 int id = 894004
+     1 string schinese = "父母满意度达到100%后当需要增加“索取”次数时，有50%不会得到索取次数"
+     1 string schinese_censored = ""
+     1 string english = "At 100% Satisfaction, 50% chance to not get any Requests."
+     1 string japanese = "両親の満足度が100%になり、「要求」の回数が増えるときに、50%の確率で要求可能回数が増えない"
+     1 string mchinese = "父母滿意度達到100%後當需要增加“索取”次數時，有50%不會得到索取次數"
+   [23218]
+    0 TableSoItemLang data
+     0 int id = 894005
+     1 string schinese = "完成父母期望仅能获得70%奖励。"
+     1 string schinese_censored = ""
+     1 string english = "Completing Expectations will only grant 70% of the rewards."
+     1 string japanese = "両親の期待を達成したとき、ボーナスが70%になる"
+     1 string mchinese = "完成父母期望僅能獲得70%獎勵。"
+   [23219]
+    0 TableSoItemLang data
+     0 int id = 1595574092
+     1 string schinese = "大扫除时找到了一些陈年旧物，这些可都是我妈妈留给我的宝物呢，现在是时候把它们交给我的宝贝了……"
+     1 string schinese_censored = "大扫除时找到了一些陈年旧物，这些可都是我妈妈留给我的宝物呢，现在是时候把它们交给我的宝贝了……"
+     1 string english = "I found some old trinkets from my mom when cleaning. It's time I give them to you..."
+     1 string japanese = "大掃除のときに懐かしい物が出てきたわ。お母さんが残してくれた宝物なの。今こそこれをうちの子にあげる時ね…。"
+     1 string mchinese = "大掃除時找到了一些陳年舊物，這些可都是我媽媽留給我的寶物呢，現在是時候把它們交給我的寶貝了……"
+   [23220]
+    0 TableSoItemLang data
+     0 int id = 1595574093
+     1 string schinese = "大扫除时找到了一些陈年旧物，这些可都是我妈妈留给我的宝物呢，现在是时候把它们交给我的宝贝了……"
+     1 string schinese_censored = "大扫除时找到了一些陈年旧物，这些可都是我妈妈留给我的宝物呢，现在是时候把它们交给我的宝贝了……"
+     1 string english = "I found some old trinkets from my mom when cleaning. It's time I give them to you..."
+     1 string japanese = "大掃除のときに懐かしい物が出てきたわ。お母さんが残してくれた宝物なの。今こそこれをうちの子にあげる時ね…。"
+     1 string mchinese = "大掃除時找到了一些陳年舊物，這些可都是我媽媽留給我的寶物呢，現在是時候把它們交給我的寶貝了……"
+   [23221]
+    0 TableSoItemLang data
+     0 int id = 1595574095
+     1 string schinese = "时光飞逝，转眼间我也有了自己的孩子。我想这样教育我的孩子……"
+     1 string schinese_censored = "时光飞逝，转眼间我也有了自己的孩子。我想这样教育我的孩子……"
+     1 string english = "Time flies, and just like that, I have a child of my own. I want to educate my child in the following way..."
+     1 string japanese = "光陰矢の如し、いつの間にか自分にも子どもができていた。子どもの育て方は…"
+     1 string mchinese = "時光飛逝，轉眼間我也有了自己的孩子。我想這樣教育我的孩子……"
+   [23222]
+    0 TableSoItemLang data
+     0 int id = 1595574096
+     1 string schinese = "时光飞逝，转眼间我也有了自己的孩子。我想这样教育我的孩子……"
+     1 string schinese_censored = "时光飞逝，转眼间我也有了自己的孩子。我想这样教育我的孩子……"
+     1 string english = "Time flies, and just like that, I have a child of my own. I want to educate my child in the following way..."
+     1 string japanese = "光陰矢の如し、いつの間にか自分にも子どもができていた。子どもの育て方は…"
+     1 string mchinese = "時光飛逝，轉眼間我也有了自己的孩子。我想這樣教育我的孩子……"
+   [23223]
+    0 TableSoItemLang data
+     0 int id = 99000010
+     1 string schinese = "孩子长真快，转眼就要上学了。缴费通知都来了，不付学费不好上学啊！\n或者咬咬牙，买套学区房，听说有了学区房不管小学初中都能直接入学，再也不用缴这些乱七八糟的费了！"
+     1 string schinese_censored = "孩子长真快，转眼就要上学了。缴费通知都来了，不付学费不好上学啊！\n或者咬咬牙，买套学区房，听说有了学区房不管小学初中都能直接入学，再也不用缴这些乱七八糟的费了！"
+     1 string english = "Time flies and my child is already at school age. Here comes the Tuition Notice saying my child won't get enrolled without enough Tuition.\nOr I can make a huge investment and buy a school district housing. It says, that that way, our children can go to a good school without extra payment."
+     1 string japanese = "子どもは成長が早い。もう小学校だ。請求された授業料を払わないと学校に行けない！\nそれか、思い切って学区内住宅を買うことだ。学区内住宅を購入すると、小学校も中学校も自由に入学できるらしいぞ。もうわけのわからない金を取られる必要はないんだ！"
+     1 string mchinese = "孩子長真快，轉眼就要上學了。繳費通知都來了，不付學費不好上學啊！\n或者咬咬牙，買套學區房，聽說有了學區房不管小學初中都能直接入學，再也不用繳這些亂七八糟的費了！"
+   [23224]
+    0 TableSoItemLang data
+     0 int id = 99000020
+     1 string schinese = "马上就初中了，终于找到所不错的学校，要快点缴费报名才行。\n我最近也看中个学区房，对口的学校可好了，而且不用考试就近直接入学！"
+     1 string schinese_censored = "马上就初中了，终于找到所不错的学校，要快点缴费报名才行。\n我最近也看中个学区房，对口的学校可好了，而且不用考试就近直接入学！"
+     1 string english = "My child is going to start junior high school and I've finally found a good one. It's high time to pay Tuition and get registered.\nI've decided which school district housing to buy. The relevant school is great and my child can go there without taking exams!"
+     1 string japanese = "もうすぐ中学校。やっと良さそうな学校を見つけたから、お金を払って申し込まないと。\nそれから、良い学区内住宅も見つけた。近くの学校も良さそうだし、試験を受けなくても入学できる！"
+     1 string mchinese = "馬上就初中了，終於找到所不錯的學校，要快點繳費報名才行。\n我最近也看中個學區房，對口的學校可好了，而且不用考試就近直接入學！"
+   [23225]
+    0 TableSoItemLang data
+     0 int id = 99000030
+     1 string schinese = "熬过了初中不算什么，接下来的高中和高考才是决定一辈子的关键！学费杂费得准备起来了。\n或者干脆买套学区房，直接入学，不仅是我孩子，以后子子孙孙上学都不发愁了！"
+     1 string schinese_censored = "熬过了初中不算什么，接下来的高中和高考才是决定一辈子的关键！学费杂费得准备起来了。\n或者干脆买套学区房，直接入学，不仅是我孩子，以后子子孙孙上学都不发愁了！"
+     1 string english = "It's not a big deal to graduate from junior high school. Which senior high school to enter is a really key choice since Gaokao can hugely influence my child's future. So I need to get fees prepared.\nAnd I can just buy a school district housing so that my following generations don't have to worry about education."
+     1 string japanese = "中学校が何だ。高校と大学入試こそが、人生の重要な選択だ！授業料なんかを準備しないと！\nそれか、いっそ学区内住宅を買ってしまおう。子どもだけじゃない。孫も、ひ孫も子孫代々が学校には困らなくなる！"
+     1 string mchinese = "熬過了初中不算什麼，接下來的高中和高考才是決定一輩子的關鍵！學費雜費得準備起來了。\n或者乾脆買套學區房，直接入學，不僅是我孩子，以後子子孫孫上學都不發愁了！"
+   [23226]
+    0 TableSoItemLang data
+     0 int id = 99000040
+     1 string schinese = "学费交了！快去学校吧孩子！爸爸妈妈为了你上学可花了大钱，你要争气啊！"
+     1 string schinese_censored = "学费交了！快去学校吧儿子！爸爸妈妈为了你上学可花了大钱，你要争气啊！"
+     1 string english = "The tuition is paid! Go to school and study hard! We have invested a lot for you to go to school. Don't let us down!"
+     1 string japanese = "授業料を払ったぞ！さあ、学校に行くんだ！お前のためにたくさんお金を使ってるんだから、頑張ってくれよ！"
+     1 string mchinese = "學費交了！快去學校吧孩子！爸爸媽媽為了你上學可花了大錢，你要爭氣啊！"
+   [23227]
+    0 TableSoItemLang data
+     0 int id = 99000050
+     1 string schinese = "终于有学区房了，以后再也不愁没学上了！你可要好好学习，咱家未来就指望你了！"
+     1 string schinese_censored = "终于有学区房了，以后再也不愁没学上了！你可要好好学习，咱家未来就指望你了！"
+     1 string english = "We finally moved into a school district housing! No more worries about education! You're our family's future, just study hard!"
+     1 string japanese = "やっと学区内住宅が買えたぞ。もう学校の心配はいらない！しっかり勉強してくれよ。期待してるからな！"
+     1 string mchinese = "終於有學區房了，以後再也不愁沒學上了！你可要好好學習，咱家未來就指望你了！"
+   [23228]
+    0 TableSoItemLang data
+     0 int id = 99000060
+     1 string schinese = "孩子和孩子妈身体状况都不错，收拾收拾准备缴完费回家喽！\n我算算，检查费、接生费、手术费、住院费、药费……生个孩子真不容易啊！"

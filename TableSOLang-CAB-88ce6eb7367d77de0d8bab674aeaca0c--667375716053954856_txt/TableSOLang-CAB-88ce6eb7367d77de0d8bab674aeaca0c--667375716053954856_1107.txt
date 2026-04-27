@@ -1,0 +1,184 @@
+     1 string schinese_censored = "决赛"
+     1 string english = "The Final"
+     1 string japanese = "決勝"
+     1 string mchinese = "決賽"
+   [25437]
+    0 TableSoItemLang data
+     0 int id = 1596171724
+     1 string schinese = ">>>按Esc跳过"
+     1 string schinese_censored = ">>>按Esc跳过"
+     1 string english = ">>>Press Esc to skip."
+     1 string japanese = ">>>Escでスキップ"
+     1 string mchinese = ">>>按Esc跳過"
+   [25438]
+    0 TableSoItemLang data
+     0 int id = 1596171725
+     1 string schinese = "无"
+     1 string schinese_censored = "无"
+     1 string english = "None"
+     1 string japanese = "無"
+     1 string mchinese = "無"
+   [25439]
+    0 TableSoItemLang data
+     0 int id = 1596171726
+     1 string schinese = "乔旭"
+     1 string schinese_censored = "乔旭"
+     1 string english = "Martin Qiao"
+     1 string japanese = "チャオ・シュー"
+     1 string mchinese = "喬旭"
+   [25440]
+    0 TableSoItemLang data
+     0 int id = 1596171727
+     1 string schinese = "岁"
+     1 string schinese_censored = "岁"
+     1 string english = " y/o"
+     1 string japanese = "歳"
+     1 string mchinese = "歲"
+   [25441]
+    0 TableSoItemLang data
+     0 int id = 1596171728
+     1 string schinese = "回合"
+     1 string schinese_censored = "回合"
+     1 string english = "turn(s)"
+     1 string japanese = "ターン"
+     1 string mchinese = "回合"
+   [25442]
+    0 TableSoItemLang data
+     0 int id = 1596171729
+     1 string schinese = "第一中学"
+     1 string schinese_censored = "儿童医院"
+     1 string english = "The 1st High School"
+     1 string japanese = "第一中学"
+     1 string mchinese = "第一中學"
+   [25443]
+    0 TableSoItemLang data
+     0 int id = 1596171730
+     1 string schinese = "乔老王"
+     1 string schinese_censored = "乔老王"
+     1 string english = "Qiao The Elder"
+     1 string japanese = "チャオ・ラオワン"
+     1 string mchinese = "喬老王"
+   [25444]
+    0 TableSoItemLang data
+     0 int id = 1596171731
+     1 string schinese = "快中考咯~~"
+     1 string schinese_censored = "上小学咯~~"
+     1 string english = "Time for high shcool entry exam!"
+     1 string japanese = "もうすぐ高校入試！"
+     1 string mchinese = "快中考咯~~"
+   [25445]
+    0 TableSoItemLang data
+     0 int id = 1596171732
+     1 string schinese = "打职业咯~~"
+     1 string schinese_censored = "上初中咯~~"
+     1 string english = "Time for going pro!"
+     1 string japanese = "プロになった！"
+     1 string mchinese = "打職業咯~~"
+   [25446]
+    0 TableSoItemLang data
+     0 int id = 1596171733
+     1 string schinese = "季后赛咯~~"
+     1 string schinese_censored = "打职业咯~~"
+     1 string english = "Time for playoffs!"
+     1 string japanese = "プレーオフだ！"
+     1 string mchinese = "季後賽咯~~"
+   [25447]
+    0 TableSoItemLang data
+     0 int id = 1596171734
+     1 string schinese = "季后赛咯~~"
+     1 string schinese_censored = "去比赛咯~~"
+     1 string english = "Time for playoffs!"
+     1 string japanese = "プレーオフだ！"
+     1 string mchinese = "季後賽咯~~"
+   [25448]
+    0 TableSoItemLang data
+     0 int id = 1596171735
+     1 string schinese = "上高中咯~~"
+     1 string schinese_censored = "上高中咯~~"
+     1 string english = "Time for senior high school!"
+     1 string japanese = "高校生になった！"
+     1 string mchinese = "上高中咯~~"
+   [25449]
+    0 TableSoItemLang data
+     0 int id = 1596171736
+     1 string schinese = "三色幼儿园"
+     1 string schinese_censored = "三色幼儿园"
+     1 string english = "Tricolor Kindergarten"
+     1 string japanese = "三色幼稚園"
+     1 string mchinese = "三色幼稚園"
+   [25450]
+    0 TableSoItemLang data
+     0 int id = 1596171737
+     1 string schinese = "私立重点小学"
+     1 string schinese_censored = "私立重点小学"
+     1 string english = "Private key elementary school"
+     1 string japanese = "私立名門小学校"
+     1 string mchinese = "私立重點小學"
+   [25451]
+    0 TableSoItemLang data
+     0 int id = 1596171738
+     1 string schinese = "打工子弟小学"
+     1 string schinese_censored = "打工子弟小学"
+     1 string english = "Elementary school for workers' children"
+     1 string japanese = "普通小学校"
+     1 string mchinese = "打工子弟小學"
+   [25452]
+    0 TableSoItemLang data
+     0 int id = 1596171739
+     1 string schinese = "市重点中学"
+     1 string schinese_censored = "市重点中学"
+     1 string english = "Public city key high school"
+     1 string japanese = "私立名門中学校"
+     1 string mchinese = "市重點中學"
+   [25453]
+    0 TableSoItemLang data
+     0 int id = 1596171740
+     1 string schinese = "某社区中学"
+     1 string schinese_censored = "某社区中学"
+     1 string english = "A nondescript high school"
+     1 string japanese = "普通中学校"
+     1 string mchinese = "某社區中學"
+   [25454]
+    0 TableSoItemLang data
+     0 int id = 1596171741
+     1 string schinese = "省实验高中"
+     1 string schinese_censored = "省实验高中"
+     1 string english = "Provincial-level experimental senior high school"
+     1 string japanese = "私立実験高等学校"
+     1 string mchinese = "省實驗高中"
+   [25455]
+    0 TableSoItemLang data
+     0 int id = 1596171742
+     1 string schinese = "市立普通高中"
+     1 string schinese_censored = "市立普通高中"
+     1 string english = "Normal municipal senior high school"
+     1 string japanese = "普通高等学校"
+     1 string mchinese = "市立普通高中"
+   [25456]
+    0 TableSoItemLang data
+     0 int id = 1596171743
+     1 string schinese = "平常心"
+     1 string schinese_censored = "平常心"
+     1 string english = "At ease"
+     1 string japanese = "平常心"
+     1 string mchinese = "平常心"
+   [25457]
+    0 TableSoItemLang data
+     0 int id = 1596171744
+     1 string schinese = "悲伤"
+     1 string schinese_censored = "悲伤"
+     1 string english = "Sad"
+     1 string japanese = "悲哀"
+     1 string mchinese = "悲傷"
+   [25458]
+    0 TableSoItemLang data
+     0 int id = 1596171745
+     1 string schinese = "开心"
+     1 string schinese_censored = "开心"
+     1 string english = "Happy"
+     1 string japanese = "幸福"
+     1 string mchinese = "開心"
+   [25459]
+    0 TableSoItemLang data
+     0 int id = 1596171746
+     1 string schinese = "生病"

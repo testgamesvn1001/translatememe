@@ -1,0 +1,184 @@
+     1 string schinese_censored = "当前管道："
+     1 string english = "Active Channel:"
+     1 string japanese = "現在のチャネル："
+     1 string mchinese = "當前管道："
+   [21872]
+    0 TableSoItemLang data
+     0 int id = 6660064
+     1 string schinese = "无"
+     1 string schinese_censored = "无"
+     1 string english = "None"
+     1 string japanese = "なし"
+     1 string mchinese = "無"
+   [21873]
+    0 TableSoItemLang data
+     0 int id = 6660065
+     1 string schinese = "心情"
+     1 string schinese_censored = "心情"
+     1 string english = "Mood"
+     1 string japanese = "気持ち"
+     1 string mchinese = "心情"
+   [21874]
+    0 TableSoItemLang data
+     0 int id = 6660066
+     1 string schinese = "智商脑洞"
+     1 string schinese_censored = "智商脑洞"
+     1 string english = "IQ Fragment"
+     1 string japanese = "ＩＱのカケラ"
+     1 string mchinese = "智商腦洞"
+   [21875]
+    0 TableSoItemLang data
+     0 int id = 6660067
+     1 string schinese = "情商脑洞"
+     1 string schinese_censored = "情商脑洞"
+     1 string english = "EQ Fragment"
+     1 string japanese = "ＥＱのカケラ"
+     1 string mchinese = "情商腦洞"
+   [21876]
+    0 TableSoItemLang data
+     0 int id = 6660068
+     1 string schinese = "想象力脑洞"
+     1 string schinese_censored = "想象力脑洞"
+     1 string english = "Imagination Fragment"
+     1 string japanese = "想像力のカケラ"
+     1 string mchinese = "想像力腦洞"
+   [21877]
+    0 TableSoItemLang data
+     0 int id = 6660069
+     1 string schinese = "记忆力脑洞"
+     1 string schinese_censored = "记忆力脑洞"
+     1 string english = "Memory Fragment"
+     1 string japanese = "記憶力のカケラ"
+     1 string mchinese = "記憶力腦洞"
+   [21878]
+    0 TableSoItemLang data
+     0 int id = 6660070
+     1 string schinese = "体魄脑洞"
+     1 string schinese_censored = "体魄脑洞"
+     1 string english = "Constitution Fragment"
+     1 string japanese = "体力のカケラ"
+     1 string mchinese = "體魄腦洞"
+   [21879]
+    0 TableSoItemLang data
+     0 int id = 6660071
+     1 string schinese = "天赋脑洞"
+     1 string schinese_censored = "天赋脑洞"
+     1 string english = "Talent Fragment"
+     1 string japanese = "天賦のカケラ"
+     1 string mchinese = "天賦腦洞"
+   [21880]
+    0 TableSoItemLang data
+     0 int id = 6660072
+     1 string schinese = "智商天赋脑洞"
+     1 string schinese_censored = "智商天赋脑洞"
+     1 string english = "IQ Talent Fragment"
+     1 string japanese = "天賦ＩＱのカケラ"
+     1 string mchinese = "智商天賦腦洞"
+   [21881]
+    0 TableSoItemLang data
+     0 int id = 6660073
+     1 string schinese = "情商天赋脑洞"
+     1 string schinese_censored = "情商天赋脑洞"
+     1 string english = "EQ Talent Fragment"
+     1 string japanese = "天賦ＥＱのカケラ"
+     1 string mchinese = "情商天賦腦洞"
+   [21882]
+    0 TableSoItemLang data
+     0 int id = 6660074
+     1 string schinese = "想象力天赋脑洞"
+     1 string schinese_censored = "想象力天赋脑洞"
+     1 string english = "Imagination Talent Fragment"
+     1 string japanese = "天賦想像力のカケラ"
+     1 string mchinese = "想像力天賦腦洞"
+   [21883]
+    0 TableSoItemLang data
+     0 int id = 6660075
+     1 string schinese = "记忆力天赋脑洞"
+     1 string schinese_censored = "记忆力天赋脑洞"
+     1 string english = "Memory Talent Fragment"
+     1 string japanese = "天賦記憶力のカケラ"
+     1 string mchinese = "記憶力天賦腦洞"
+   [21884]
+    0 TableSoItemLang data
+     0 int id = 6660076
+     1 string schinese = "体魄天赋脑洞"
+     1 string schinese_censored = "体魄天赋脑洞"
+     1 string english = "Constitution Talent Fragment"
+     1 string japanese = "天賦体力のカケラ"
+     1 string mchinese = "體魄天賦腦洞"
+   [21885]
+    0 TableSoItemLang data
+     0 int id = 6660077
+     1 string schinese = "理想"
+     1 string schinese_censored = "理想"
+     1 string english = "Ideal Vocation"
+     1 string japanese = "将来の夢"
+     1 string mchinese = "理想"
+   [21886]
+    0 TableSoItemLang data
+     0 int id = 6660078
+     1 string schinese = "属性加成："
+     1 string schinese_censored = "属性加成："
+     1 string english = "Stat Bonuses:"
+     1 string japanese = "能力値ボーナス："
+     1 string mchinese = "屬性加成："
+   [21887]
+    0 TableSoItemLang data
+     0 int id = 6660079
+     1 string schinese = "高考分数"
+     1 string schinese_censored = "高考分数"
+     1 string english = "Gaokao Score"
+     1 string japanese = "大学入試得点"
+     1 string mchinese = "高考分數"
+   [21888]
+    0 TableSoItemLang data
+     0 int id = 6660080
+     1 string schinese = "点击可解锁并挖取周围脑洞。\n\n效果拔群！不容错过！"
+     1 string schinese_censored = "点击可解锁并挖取周围脑洞。\n\n效果拔群！不容错过！"
+     1 string english = "Unlocks and absorbs adjacent fragments.\n\nWow, look at it go! Super effective!!"
+     1 string japanese = "爆発のカケラを選択すると、周囲のカケラを吸収する。\n\n効果抜群！見逃すな！"
+     1 string mchinese = "點擊可解鎖並挖取周圍腦洞。\n\n效果拔群！不容錯過！"
+   [21889]
+    0 TableSoItemLang data
+     0 int id = 6660081
+     1 string schinese = "点击可进入下一层，并回复一些行动力。\n\n脑洞层数越高，通过脑洞获得的属性越高！"
+     1 string schinese_censored = "点击可进入下一层，并回复一些行动力。\n\n脑洞层数越高，通过脑洞获得的属性越高！"
+     1 string english = "Reach the next mind map and recover some Action.\n\nThe stats gained from fragments increase as you reach higher mind-map floors."
+     1 string japanese = "次の階層のカケラを選択すると、次の階層に移動して行動力も回復する。\n\n階層が深いほどカケラで入手できる能力値も高くなる！"
+     1 string mchinese = "點擊可進入下一層，並回復一些行動力。\n\n腦洞層數越高，通過腦洞獲得的屬性越高！"
+   [21890]
+    0 TableSoItemLang data
+     0 int id = 6660082
+     1 string schinese = "点击可解锁本层全部脑洞。"
+     1 string schinese_censored = "点击可解锁本层全部脑洞。"
+     1 string english = "Unlock all fragments on this level."
+     1 string japanese = "洞察力のカケラを選択すると階層にあるすべてのカケラが吸収可能になる。"
+     1 string mchinese = "點擊可解鎖本層全部腦洞。"
+   [21891]
+    0 TableSoItemLang data
+     0 int id = 6660083
+     1 string schinese = "点击可挖取所有已解锁的同颜色脑洞。"
+     1 string schinese_censored = "点击可挖取所有已解锁的同颜色脑洞。"
+     1 string english = "Absorb all unlocked fragments of the same color."
+     1 string japanese = "同色のカケラを選択すると、ロック解除済みのすべての同じ色のカケラを吸収する。"
+     1 string mchinese = "點擊可挖取所有已解鎖的同顏色腦洞。"
+   [21892]
+    0 TableSoItemLang data
+     0 int id = 6660084
+     1 string schinese = "点击可获取行动力。\n\n注意不要超过行动力上限！"
+     1 string schinese_censored = "点击可获取行动力。\n\n注意不要超过行动力上限！"
+     1 string english = "Recover some Action.\n\nRemember, you cannot exceed your Action cap!"
+     1 string japanese = "行動力のカケラを選択すると、行動力が手に入る。\n\n行動力の上限は超えないように注意してね！"
+     1 string mchinese = "點擊可獲取行動力。\n\n注意不要超過行動力上限！"
+   [21893]
+    0 TableSoItemLang data
+     0 int id = 6660085
+     1 string schinese = "点击可获得天赋属性。\n\n天赋属性越高，则每回合自动获取的属性越多。"
+     1 string schinese_censored = "点击可获得天赋属性。\n\n天赋属性越高，则每回合自动获取的属性越多。"
+     1 string english = "Increase talent stats.\n\nYou get one stat point for every talent you have per turn."
+     1 string japanese = "天賦のカケラを選択すると、天賦能力値を獲得できる。\n\n天賦能力値が高いほど、毎ターンに獲得する能力値が増加する。"
+     1 string mchinese = "點擊可獲得天賦屬性。\n\n天賦屬性越高，則每回合自動獲取的屬性越多。"
+   [21894]
+    0 TableSoItemLang data
+     0 int id = 6660086
+     1 string schinese = "点击可随机获得属性或行动力。\n\n谁知道呢？试试吧！"

@@ -1,0 +1,184 @@
+     1 string schinese_censored = "看到小明买了最新的铅笔刀，转动的时候有酷炫的灯闪烁~你也想要。于是你决定……"
+     1 string english = "You see a kid buying a new pencil sharpener and it glows as it turns. You also want one, so you decide to..."
+     1 string japanese = "ミンさんのキラキラ光る最新の鉛筆削りを見て、自分もほしいと思ったあなたは…"
+     1 string mchinese = "看到小明買了最新的鉛筆刀，轉動的時候有酷炫的燈閃爍~你也想要。於是你決定……"
+   [5887]
+    0 TableSoItemLang data
+     0 int id = 1015888
+     1 string schinese = "老师说学校明天春游需要带饭。你决定……"
+     1 string schinese_censored = "老师说学校明天春游需要带饭。你决定……"
+     1 string english = "Your teacher tells everyone to bring their own food for tomorrow's spring outing. You decide to..."
+     1 string japanese = "「明日の遠足はお弁当が必要です」と先生が言った。あなたは…"
+     1 string mchinese = "老師說學校明天春遊需要帶飯。你決定……"
+   [5888]
+    0 TableSoItemLang data
+     0 int id = 1015889
+     1 string schinese = "学校要交购买学习材料的钱50元。你决定跟父母说……"
+     1 string schinese_censored = "学校要交购买学习材料的钱50元。你决定跟父母说……"
+     1 string english = "The school requires ¥50 to buy new teaching materials. You decide to tell your father..."
+     1 string japanese = "学校でテキスト費として５０元が必要だ。あなたは両親に…"
+     1 string mchinese = "學校要交購買學習材料的錢50元。你決定跟父母說……"
+   [5889]
+    0 TableSoItemLang data
+     0 int id = 1015890
+     1 string schinese = "临时测验没有准备，考了67分，需要家长签字，你决定……"
+     1 string schinese_censored = "临时测验没有准备，考了67分，需要家长签字，你决定……"
+     1 string english = "You weren't prepared for the sudden quiz and only got 67 points. You require your parents' signature, and you decide to..."
+     1 string japanese = "準備しなかったので、小テストで６７点しかとれなかった。結果に両親の確認サインが必要だ。あなたは…"
+     1 string mchinese = "臨時測驗沒有準備，考了67分，需要家長簽字，你決定……"
+   [5890]
+    0 TableSoItemLang data
+     0 int id = 1015891
+     1 string schinese = "这次考试的题目：我的家长，你准备……"
+     1 string schinese_censored = "这次考试的题目：我的家长，你准备……"
+     1 string english = "The topic of this exam is: My Parents, and you prepare..."
+     1 string japanese = "今回の試験のテーマは「私の両親」だ。あなたのテーマは…"
+     1 string mchinese = "這次考試的題目：我的家長，你準備……"
+   [5891]
+    0 TableSoItemLang data
+     0 int id = 1015892
+     1 string schinese = "美术老师说要带一条鱼来观察，家里只有老爸一个人，你决定……"
+     1 string schinese_censored = "美术老师说要带一条鱼来观察，家里只有老爸一个人，你决定……"
+     1 string english = "Your arts teacher tells everyone to bring a fish to class to observe. Dad is the only one home so you decide to..."
+     1 string japanese = "「魚の観察のために、１人１匹持ってきなさい」と美術の先生が言った。家にはお父さんしかいない。あなたは…"
+     1 string mchinese = "美術老師說要帶一條魚來觀察，家裏只有老爸一個人，你決定……"
+   [5892]
+    0 TableSoItemLang data
+     0 int id = 1015893
+     1 string schinese = "老师看你经常捡班级里的饮料瓶，卖了不少钱，希望你贡献出来作为班费，你决定……"
+     1 string schinese_censored = "老师看你经常捡班级里的饮料瓶，卖了不少钱，希望你贡献出来作为班费，你决定……"
+     1 string english = "The teacher has noticed your habit of recycling empty bottles from class, and thinks you should contribute the profits to the class. You decide to..."
+     1 string japanese = "クラスで捨てられたペットボトルをお金に換えていることがバレた。「資金として寄付しなさい」と先生が言った。あなたは…"
+     1 string mchinese = "老師看你經常撿班級裏的飲料瓶，賣了不少錢，希望你貢獻出來作為班費，你決定……"
+   [5893]
+    0 TableSoItemLang data
+     0 int id = 1015894
+     1 string schinese = "打扮很酷的大孩子在校门口要问我借点钱，买烟抽，你决定……"
+     1 string schinese_censored = "打扮很酷的大孩子在校门口要问我借点钱，买吃的，你决定……"
+     1 string english = "The cool grownup kids ask you for money at the school gates. They want to buy cigarettes, and you decide to..."
+     1 string japanese = "「タバコを買いたいからお金を貸してくれ」と校門で不良っぽい子が言った。あなたは…"
+     1 string mchinese = "打扮很酷的大孩子在校門口要問我借點錢，買煙抽，你決定……"
+   [5894]
+    0 TableSoItemLang data
+     0 int id = 1015895
+     1 string schinese = "同学的手机被偷了，老师怀疑你最近很有钱，和这个案件有关，质问你最近钱哪儿来的。你决定……"
+     1 string schinese_censored = "同学的手机被偷了，老师怀疑你最近很有钱，和这个案件有关，质问你最近钱哪儿来的。你决定……"
+     1 string english = "Your classmate's phone got stolen, and the teacher suspects your recent wealth is connected to that. You decide to..."
+     1 string japanese = "同級生がスマホを盗まれた。先生は最近羽振りがいいあなたを疑っているようだ。先生にお金の出所を聞かれた。あなたは…"
+     1 string mchinese = "同學的手機被偷了，老師懷疑你最近很有錢，和這個案件有關，質問你最近錢哪兒來的。你決定……"
+   [5895]
+    0 TableSoItemLang data
+     0 int id = 1015896
+     1 string schinese = "你在等同路的同学回家，被老师看到，第二天质问你俩关系，你说……"
+     1 string schinese_censored = "你在等同路的同学回家，被老师看到，第二天质问你俩关系，你说……"
+     1 string english = "You're waiting for the girl who takes the same route back home as you, and your teacher suspects that you two are more than just friends. You say..."
+     1 string japanese = "同級生の女の子と一緒に下校するところを先生に見られた。翌日、関係を聞かれた。あなたは…"
+     1 string mchinese = "你在等同路的同學回家，被老師看到，第二天質問你倆關係，你說……"
+   [5896]
+    0 TableSoItemLang data
+     0 int id = 1015897
+     1 string schinese = "你特别爱吃炸串，终于有一次不小心吃坏了肚子。你决定……"
+     1 string schinese_censored = "你特别爱吃炸串，终于有一次不小心吃坏了肚子。你决定……"
+     1 string english = "You really love deep fried kebabs. You eat a few bad ones and get a stomach ache, so you decide to..."
+     1 string japanese = "ある日、大好きな焼き鳥でお腹を壊してしまった。あなたは…"
+     1 string mchinese = "你特別愛吃炸串，終於有一次不小心吃壞了肚子。你決定……"
+   [5897]
+    0 TableSoItemLang data
+     0 int id = 1015898
+     1 string schinese = "最新的流行穿法是把裤子卷上去，父母觉得小流氓才那样穿，你决定……"
+     1 string schinese_censored = "最新的流行穿法是把裤子卷上去，父母觉得小流氓才那样穿，你决定……"
+     1 string english = "The latest fashion is to roll up the ends of your pants. Your parents think only hooligans would do that, so you decide to..."
+     1 string japanese = "流行りなのでズボンの裾をロールアップした。「不良みたいだからやめなさい」と両親が言った。あなたは…"
+     1 string mchinese = "最新的流行穿法是把褲子卷上去，父母覺得小流氓才那樣穿，你決定……"
+   [5898]
+    0 TableSoItemLang data
+     0 int id = 1015899
+     1 string schinese = "开始变得烦躁，上课注意力不集中，你跟父母说是以下方面导致的问题……"
+     1 string schinese_censored = "开始变得烦躁，上课注意力不集中，你跟父母说是以下方面导致的问题……"
+     1 string english = "You're getting irritated and you cannot focus in class. You tell your parents it's because of the following issue..."
+     1 string japanese = "なぜかイライラして授業に集中できなくなった。両親が原因を聞いた。あなたは…"
+     1 string mchinese = "開始變得煩躁，上課注意力不集中，你跟父母說是以下方面導致的問題……"
+   [5899]
+    0 TableSoItemLang data
+     0 int id = 1015900
+     1 string schinese = "爸爸的同事，孩子十分优秀，考试经常第一名。来做客时，让你陪他玩儿"
+     1 string schinese_censored = "爸爸的同事，孩子十分优秀，考试经常第一名。来做客时，让你陪他玩儿"
+     1 string english = "Dad's colleague comes to visit. He has brought his son who often gets the highest test scores in his class, and you play together."
+     1 string japanese = "お父さんの同僚の子はとても優秀でテストはいつも１位だ。「一緒に遊びなさい」とお父さんが言った。あなたは…"
+     1 string mchinese = "爸爸的同事，孩子十分優秀，考試經常第一名。來做客時，讓你陪他玩兒"
+   [5900]
+    0 TableSoItemLang data
+     0 int id = 1015901
+     1 string schinese = "老师给你换了个同桌，是个小痞子，你决定这样跟父母说……"
+     1 string schinese_censored = "老师给你换了个同桌，是个小痞子，你决定这样跟父母说……"
+     1 string english = "Your teacher changes your deskmate for a little hooligan. You decide to tell your parents..."
+     1 string japanese = "先生がやんちゃな子を隣の席に座らせた。あなたは両親に…"
+     1 string mchinese = "老師給你換了個同桌，是個小痞子，你決定這樣跟父母說……"
+   [5901]
+    0 TableSoItemLang data
+     0 int id = 1015902
+     1 string schinese = "地铁遇到了一个小偷，正在偷一个乘客的手机，你决定……"
+     1 string schinese_censored = "地铁遇到了一个小偷，正在偷一个乘客的手机，你决定……"
+     1 string english = "You encountered a thief in the subway, and as he's stealing the phone of another passenger you decide to..."
+     1 string japanese = "地下鉄でスマホを盗むスリを見た。あなたは…"
+     1 string mchinese = "地鐵遇到了一個小偷，正在偷一個乘客的手機，你決定……"
+   [5902]
+    0 TableSoItemLang data
+     0 int id = 1015903
+     1 string schinese = "备战高考，你发现有同学关注你的成绩，敌视你！你决定……"
+     1 string schinese_censored = "备战高考，你发现有同学关注你的成绩，敌视你！你决定……"
+     1 string english = "As you prepare for Gaokao, you notice that a classmate has taken note of your grades, and is looking down on you. You decide to..."
+     1 string japanese = "大学入試の準備をしていたら、あなたの成績を知っている同級生からバカにされた！あなたは…"
+     1 string mchinese = "備戰高考，你發現有同學關注你的成績，敵視你！你決定……"
+   [5903]
+    0 TableSoItemLang data
+     0 int id = 1015904
+     1 string schinese = "你为了备考每天都睡眠不足，精神涣散，妈妈给你三种补品，你决定选用……"
+     1 string schinese_censored = "你为了备考每天都睡眠不足，精神涣散，妈妈给你三种补品，你决定选用……"
+     1 string english = "You get too little sleep while preparing for the exam, and you're often unfocused. Your mom buys you three kinds of supplements, and you decide to take..."
+     1 string japanese = "試験の準備で睡眠不足の毎日を送っている。お母さんが３つの栄養食を持ってきた。あなたは…"
+     1 string mchinese = "你為了備考每天都睡眠不足，精神渙散，媽媽給你三種補品，你決定選用……"
+   [5904]
+    0 TableSoItemLang data
+     0 int id = 1015905
+     1 string schinese = "老妈劝你去市里的庙里烧香拜佛，祈祷高考复习顺利，你决定……"
+     1 string schinese_censored = "老妈劝你去市里的庙里烧香拜佛，祈祷高考复习顺利，你决定……"
+     1 string english = "Your mom urges you to go to the nearby temple, burn incense and pray that Gaokao goes well. You decide to..."
+     1 string japanese = "「受験がうまくいくように、神社にお願いしてきなさい」とお母さんが言った。あなたは…"
+     1 string mchinese = "老媽勸你去市里的廟裏燒香拜佛，祈禱高考復習順利，你決定……"
+   [5905]
+    0 TableSoItemLang data
+     0 int id = 1015906
+     1 string schinese = "老爸说，最后高考复习阶段要扬长避短，老妈说要多补弱科目，你决定复习策略为……"
+     1 string schinese_censored = "老爸说，最后高考复习阶段要扬长避短，老妈说要多补弱科目，你决定复习策略为……"
+     1 string english = "For the final stretch before Gaokao, your dad tells you to focus on your strong subjects, and your mom tells you to focus on your weak ones. You decide to..."
+     1 string japanese = "「受験勉強の最終段階は得意科目を勉強だ」とお父さんが言った。一方、「苦手科目こそ必要よ」とお母さんが言った。あなたは…"
+     1 string mchinese = "老爸說，最後高考復習階段要揚長避短，老媽說要多補弱科目，你決定復習策略為……"
+   [5906]
+    0 TableSoItemLang data
+     0 int id = 1015907
+     1 string schinese = "你跟爸妈去一个亲戚家，那个亲戚一直在表达女孩子不如男孩子的观点，你决定……"
+     1 string schinese_censored = "你跟爸妈去一个亲戚家，那个亲戚一直在表达女孩子不如男孩子的观点，你决定……"
+     1 string english = "You go with your parents to visit a relative. The relative keeps on saying how boys perform better than girls, so you decide to..."
+     1 string japanese = "両親に連れられて親戚の家に行った。「男の子は女の子より優れてる」と親戚が強調した。あなたは…"
+     1 string mchinese = "你跟爸媽去一個親戚家，那個親戚一直在表達女孩子不如男孩子的觀點，你決定……"
+   [5907]
+    0 TableSoItemLang data
+     0 int id = 1015908
+     1 string schinese = "你最好的朋友跟另一个女生玩的很好，而你不喜欢那个女生，你决定……"
+     1 string schinese_censored = "你最好的朋友跟另一个女生玩的很好，而你不喜欢那个女生，你决定……"
+     1 string english = "Your best friend becomes good friends with a girl you dislike, so you decide to..."
+     1 string japanese = "一番の親友が他の子と仲良く遊んでいた。あなたは遊んでいた子が好きではない。あなたは…"
+     1 string mchinese = "你最好的朋友跟另一個女生玩的很好，而你不喜歡那個女生，你決定……"
+   [5908]
+    0 TableSoItemLang data
+     0 int id = 1015909
+     1 string schinese = "班里的男生一直起哄说有个男生喜欢你，你决定……"
+     1 string schinese_censored = "班里的男生一直起哄说有个男生喜欢你，你决定……"
+     1 string english = "The boys in your class always joke, saying there's a boy who likes you. So, you decide to..."
+     1 string japanese = "あなたを好きな男の子がいると、クラスの男の子が騒ぎ立てている。あなたは…"
+     1 string mchinese = "班裏的男生一直起哄說有個男生喜歡你，你決定……"
+   [5909]
+    0 TableSoItemLang data
+     0 int id = 1015910
+     1 string schinese = "去上厕所的时候，你发现几个头发五颜六色的大孩子在门口不让你进，你决定……"

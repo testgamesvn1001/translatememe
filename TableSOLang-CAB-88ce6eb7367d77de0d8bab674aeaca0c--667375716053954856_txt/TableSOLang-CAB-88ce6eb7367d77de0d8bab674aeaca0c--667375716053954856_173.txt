@@ -1,0 +1,184 @@
+     1 string schinese_censored = "买菜"
+     1 string english = "Buy Groceries"
+     1 string japanese = "買い物"
+     1 string mchinese = "買菜"
+   [3955]
+    0 TableSoItemLang data
+     0 int id = 1013956
+     1 string schinese = "导游"
+     1 string schinese_censored = "导游"
+     1 string english = "Guide"
+     1 string japanese = "ガイド"
+     1 string mchinese = "導遊"
+   [3956]
+    0 TableSoItemLang data
+     0 int id = 1013957
+     1 string schinese = "手工剪纸"
+     1 string schinese_censored = "手工剪纸"
+     1 string english = "Handmade Paper Silhouettes"
+     1 string japanese = "切り絵"
+     1 string mchinese = "手工剪紙"
+   [3957]
+    0 TableSoItemLang data
+     0 int id = 1013958
+     1 string schinese = "篮球陪练"
+     1 string schinese_censored = "篮球陪练"
+     1 string english = "Basketball Training"
+     1 string japanese = "バスケ練習の手伝い"
+     1 string mchinese = "籃球陪練"
+   [3958]
+    0 TableSoItemLang data
+     0 int id = 1013959
+     1 string schinese = "美术立绘外包"
+     1 string schinese_censored = "美术立绘外包"
+     1 string english = "Painting Project"
+     1 string japanese = "立ち絵の外注"
+     1 string mchinese = "美術立繪外包"
+   [3959]
+    0 TableSoItemLang data
+     0 int id = 1013960
+     1 string schinese = "射击场运维"
+     1 string schinese_censored = "射击场运维"
+     1 string english = "Shooting Range Maintenance"
+     1 string japanese = "射撃場の運営"
+     1 string mchinese = "射擊場運維"
+   [3960]
+    0 TableSoItemLang data
+     0 int id = 1013961
+     1 string schinese = "重装系统"
+     1 string schinese_censored = "重装系统"
+     1 string english = "Reinstall Operating Systems"
+     1 string japanese = "システム再インストール"
+     1 string mchinese = "重裝系統"
+   [3961]
+    0 TableSoItemLang data
+     0 int id = 1013962
+     1 string schinese = "开发外包"
+     1 string schinese_censored = "开发外包"
+     1 string english = "Development Project"
+     1 string japanese = "開発の外部委託"
+     1 string mchinese = "開發外包"
+   [3962]
+    0 TableSoItemLang data
+     0 int id = 1013963
+     1 string schinese = "跑龙套"
+     1 string schinese_censored = "跑龙套"
+     1 string english = "Walk-On"
+     1 string japanese = "エキストラ"
+     1 string mchinese = "跑龍套"
+   [3963]
+    0 TableSoItemLang data
+     0 int id = 1013964
+     1 string schinese = "网络视频制作"
+     1 string schinese_censored = "网络视频制作"
+     1 string english = "Online Video Production"
+     1 string japanese = "動画制作"
+     1 string mchinese = "網路視頻製作"
+   [3964]
+    0 TableSoItemLang data
+     0 int id = 1013965
+     1 string schinese = "网红直播"
+     1 string schinese_censored = "网红直播"
+     1 string english = "Cewebrity Streamer"
+     1 string japanese = "人気実況主"
+     1 string mchinese = "網紅直播"
+   [3965]
+    0 TableSoItemLang data
+     0 int id = 1013966
+     1 string schinese = "短线投资"
+     1 string schinese_censored = "短线投资"
+     1 string english = "Short-Term Investment"
+     1 string japanese = "短期投資"
+     1 string mchinese = "短線投資"
+   [3966]
+    0 TableSoItemLang data
+     0 int id = 1013967
+     1 string schinese = "期货交易"
+     1 string schinese_censored = "期货交易"
+     1 string english = "Commodities Trading"
+     1 string japanese = "先物取引"
+     1 string mchinese = "期貨交易"
+   [3967]
+    0 TableSoItemLang data
+     0 int id = 1013968
+     1 string schinese = "客服销售"
+     1 string schinese_censored = "客服销售"
+     1 string english = "Customer Service Sales"
+     1 string japanese = "営業販売"
+     1 string mchinese = "客服銷售"
+   [3968]
+    0 TableSoItemLang data
+     0 int id = 1013969
+     1 string schinese = "忍术表演"
+     1 string schinese_censored = "忍术表演"
+     1 string english = "Ninja Performance"
+     1 string japanese = "忍者パフォーマンス"
+     1 string mchinese = "忍術表演"
+   [3969]
+    0 TableSoItemLang data
+     0 int id = 1013970
+     1 string schinese = "化妆助理"
+     1 string schinese_censored = "化妆助理"
+     1 string english = "Makeup Assistant"
+     1 string japanese = "メイク助手"
+     1 string mchinese = "化妝助理"
+   [3970]
+    0 TableSoItemLang data
+     0 int id = 1013971
+     1 string schinese = "音乐助教"
+     1 string schinese_censored = "音乐助教"
+     1 string english = "Music Assistant"
+     1 string japanese = "音響助手"
+     1 string mchinese = "音樂助教"
+   [3971]
+    0 TableSoItemLang data
+     0 int id = 1013972
+     1 string schinese = "扫地是必备家务，可获得少量零花钱"
+     1 string schinese_censored = "扫地是必备家务，可获得少量零花钱"
+     1 string english = "An important household chore."
+     1 string japanese = "床掃除は必須家事だ。お小遣いを少しもらえる。"
+     1 string mchinese = "掃地是必備家務，可獲得少量零花錢"
+   [3972]
+    0 TableSoItemLang data
+     0 int id = 1013973
+     1 string schinese = "小孩不要拖地，大人不要洗碗！"
+     1 string schinese_censored = "小孩不要拖地，大人不要洗碗！"
+     1 string english = "Grownups mop the floor; children do the dishes."
+     1 string japanese = "子どもはモップがけしないで！大人は皿洗いしないで！"
+     1 string mchinese = "小孩不要拖地，大人不要洗碗！"
+   [3973]
+    0 TableSoItemLang data
+     0 int id = 1013974
+     1 string schinese = "做饭是技术性家务，劳动报酬高"
+     1 string schinese_censored = "做饭是技术性家务，劳动报酬高"
+     1 string english = "Cooking is a chore that requires technique."
+     1 string japanese = "料理は技術的な家事だ。労働報酬が高い。"
+     1 string mchinese = "做飯是技術性家務，勞動報酬高"
+   [3974]
+    0 TableSoItemLang data
+     0 int id = 1013975
+     1 string schinese = "大扫除是大型家务活动"
+     1 string schinese_censored = "大扫除是大型家务活动"
+     1 string english = "A large-scale household chore."
+     1 string japanese = "大掃除は大仕事だ。"
+     1 string mchinese = "大掃除是大型家務活動"
+   [3975]
+    0 TableSoItemLang data
+     0 int id = 1013976
+     1 string schinese = "会四则运算就可以买菜了"
+     1 string schinese_censored = "会四则运算就可以买菜了"
+     1 string english = "Learn Arithmetic and you can buy groceries."
+     1 string japanese = "四則演算があれば、買い物ができる。"
+     1 string mchinese = "會四則運算就可以買菜了"
+   [3976]
+    0 TableSoItemLang data
+     0 int id = 1013977
+     1 string schinese = "会中国地理就可以当导游"
+     1 string schinese_censored = "会中国地理就可以当导游"
+     1 string english = "Learn Geography of China to be a guide."
+     1 string japanese = "中国地理があれば、ツアーガイドができる。"
+     1 string mchinese = "會中國地理就可以當導遊"
+   [3977]
+    0 TableSoItemLang data
+     0 int id = 1013978
+     1 string schinese = "会手工常识，就可以做剪纸"

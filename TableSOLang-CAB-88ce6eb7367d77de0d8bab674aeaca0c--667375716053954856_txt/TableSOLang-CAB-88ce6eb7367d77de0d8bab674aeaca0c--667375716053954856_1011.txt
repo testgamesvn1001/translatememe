@@ -1,0 +1,184 @@
+     1 string schinese_censored = "孩子和孩子妈身体状况都不错，收拾收拾准备缴完费回家喽！\n我算算，检查费、接生费、手术费、住院费、药费……生个孩子真不容易啊！"
+     1 string english = "Both my child and wife are in good condition! Pack things up, settle the bill and we can return home!\nLet me think. There are fees for checkups, surgeries, hospitalization, medicine... Raising a child is so demanding!"
+     1 string japanese = "子どもも母親も元気だ。さあ、お金を払って家に帰ろう！\nどれどれ、検査、助産、手術、入院、薬…子どもを産むって大変だな！"
+     1 string mchinese = "孩子和孩子媽身體狀況都不錯，收拾收拾準備繳完費回家嘍！\n我算算，檢查費、接生費、手術費、住院費、藥費……生個孩子真不容易啊！"
+   [23229]
+    0 TableSoItemLang data
+     0 int id = 1122605
+     1 string schinese = "对手A"
+     1 string schinese_censored = "对手A"
+     1 string english = "Opponent A"
+     1 string japanese = "相手Ａ"
+     1 string mchinese = "對手A"
+   [23230]
+    0 TableSoItemLang data
+     0 int id = 1122606
+     1 string schinese = "对手B"
+     1 string schinese_censored = "对手B"
+     1 string english = "Opponent B"
+     1 string japanese = "相手Ｂ"
+     1 string mchinese = "對手B"
+   [23231]
+    0 TableSoItemLang data
+     0 int id = 108957
+     1 string schinese = "“父母给我规划的是一条一眼就能看到头的路，安稳，单调。”"
+     1 string schinese_censored = "不管是公务员还是程序员，父母给自己规划的未来是一条一眼就能看得到头的道路。"
+     1 string english = ""My parents planned a path for me that I can see the end of at a glance. Stable, predictable, and monotonous.""
+     1 string japanese = "「お父さんとお母さんの敷いてくれた道は、すぐに行き止まりが見える、刺激が少ない、単調な道です」"
+     1 string mchinese = "“父母給我規劃的是一條一眼就能看到頭的路，安穩，單調。”"
+   [23232]
+    0 TableSoItemLang data
+     0 int id = 108958
+     1 string schinese = "“但我知道我想做什么，我有我非实现不可的梦想。”"
+     1 string schinese_censored = "这是上一代人的生活、上一代人的经验。"
+     1 string english = ""But I know what I truly want. I have dreams that I must fulfill.""
+     1 string japanese = "「でも僕にはやりたいことがあります。絶対に実現しなければならない夢があります」"
+     1 string mchinese = "“但我知道我想做什麼，我有我非實現不可的夢想。”"
+   [23233]
+    0 TableSoItemLang data
+     0 int id = 108959
+     1 string schinese = "“我要成为职业选手，我要在最高的舞台上打比赛，我要捧杯，”"
+     1 string schinese_censored = "单调是他们认为不可避免的事情，是生活的一部分。"
+     1 string english = ""I want to be a pro e-sporter, I want to play on the greatest stage, and I want to win the trophy,""
+     1 string japanese = "「僕はプロの選手になりたいです。最高の舞台で試合に出て、トロフィーを受け取りたいです」"
+     1 string mchinese = "“我要成為職業選手，我要在最高的舞臺上打比賽，我要捧杯，”"
+   [23234]
+    0 TableSoItemLang data
+     0 int id = 108960
+     1 string schinese = "“我要成为冠军！”"
+     1 string schinese_censored = "这种人生观上的差异是无法通过语言调和的 ，唯一能够获得“理解”的方法就是实实在在的“成功”。"
+     1 string english = ""I want to become the champion!""
+     1 string japanese = "「僕は優勝したい！」"
+     1 string mchinese = "“我要成為冠軍！”"
+   [23235]
+    0 TableSoItemLang data
+     0 int id = 107837
+     1 string schinese = "我叫乔旭，是一名初三学生。"
+     1 string schinese_censored = "我叫XXX，是一名小学5年纪的学生。"
+     1 string english = "My name is Martin Qiao, and I am a ninth-grade student."
+     1 string japanese = "俺はチャオ・シュー。中学３年生。"
+     1 string mchinese = "我叫喬旭，是一名初三學生。"
+   [23236]
+    0 TableSoItemLang data
+     0 int id = 107838
+     1 string schinese = "平时成绩还凑合，父母希望我好好学习，努努力，将来考个好大学。"
+     1 string schinese_censored = "平时成绩还不错，父母希望我好好学习将来考个好大学。"
+     1 string english = "My grades are average. My parents want me to study hard and get into a good university in the future."
+     1 string japanese = "成績はまあまあ。お父さんとお母さんは、しっかりと勉強して、良い大学に行ってほしいと思ってる。"
+     1 string mchinese = "平時成績還湊合，父母希望我好好學習，努努力，將來考個好大學。"
+   [23237]
+    0 TableSoItemLang data
+     0 int id = 107839
+     1 string schinese = "但我更想成为一名电竞选手，获得世界冠军！"
+     1 string schinese_censored = "但我更想象Sky一样成为一名电竞选手，获得世界冠军！"
+     1 string english = "But I want to be an e-sports player and become the world champion!"
+     1 string japanese = "でも俺はｅスポーツ選手になって世界一になりたい！"
+     1 string mchinese = "但我更想成為一名電競選手，獲得世界冠軍！"
+   [23238]
+    0 TableSoItemLang data
+     0 int id = 107840
+     1 string schinese = "我要是直说，估计会会给爸妈直接扔出去…我得想个办法让他们同意！"
+     1 string schinese_censored = "如果我直说，爸妈肯定会打断我的腿，我得想个办法让他们同意！"
+     1 string english = "But if I tell my parents, I wouldn't be surprised if they throw me out the window... Gotta find a way to make them agree."
+     1 string japanese = "そう言うと、お父さんとお母さんには家を追い出されるだろう。…納得してもらえる方法を考えないと！"
+     1 string mchinese = "我要是直說，估計會會給爸媽直接扔出去…我得想個辦法讓他們同意！"
+   [23239]
+    0 TableSoItemLang data
+     0 int id = 107897
+     1 string schinese = "“今年电子竞技市场规模超越了电影，成为了中国娱乐产业的重要支柱。”"
+     1 string schinese_censored = "今年电子竞技市场规模超越了电影，已经成为中国娱乐产业的主要支柱了！"
+     1 string english = ""The e-sports market surpassed the movie industry in size this year, and has become a major pillar of China's entertainment industry.""
+     1 string japanese = "「今年のｅスポーツの市場規模は映画を超え、中国のエンタメ産業の柱となりました」"
+     1 string mchinese = "“今年電子競技市場規模超越了電影，成為了中國娛樂產業的重要支柱。”"
+   [23240]
+    0 TableSoItemLang data
+     0 int id = 107898
+     1 string schinese = "“职业电竞选手月入数万乃至数十万，成为一种新兴高薪职业。”"
+     1 string schinese_censored = "职业选手月入数万乃至数十万，已经超过一些高薪职业了。"
+     1 string english = ""Professional e-sports players are earning tens of thousands, if not hundreds of thousands of RMB a month, becoming an emerging high paid profession.""
+     1 string japanese = "「プロのｅスポーツ選手の月収は数万元から数十万元に上り、新たな高収入職となっています」"
+     1 string mchinese = "“職業電競選手月入數萬乃至數十萬，成為一種新興高薪職業。”"
+   [23241]
+    0 TableSoItemLang data
+     0 int id = 107899
+     1 string schinese = "（啊！是鱼子哥！！！）"
+     1 string schinese_censored = "玩游戏还能挣这么多钱？这个世界是不是疯了！"
+     1 string english = "(Ah! It's UZU!!!)"
+     1 string japanese = "（あっ！ユーさんだ！！！）"
+     1 string mchinese = "（啊！是魚子哥！！！）"
+   [23242]
+    0 TableSoItemLang data
+     0 int id = 107900
+     1 string schinese = "怎么连打游戏的都能上新闻！这不是在鼓励孩子们不务正业嘛！"
+     1 string schinese_censored = "这不是在鼓励孩子们不务正业嘛！"
+     1 string english = "How come a guy who just plays video games is in the news? What a bad influence for children!"
+     1 string japanese = "ゲームをやってるだけの人をニュースに出すなんて！子どもに不真面目な仕事を勧めるつもりか！"
+     1 string mchinese = "怎麼連打遊戲的都能上新聞！這不是在鼓勵孩子們不務正業嘛！"
+   [23243]
+    0 TableSoItemLang data
+     0 int id = 108967
+     1 string schinese = "你成绩又不差，为什么非要搞什么电竞！"
+     1 string schinese_censored = "公务员不好吗？当个老师当个医生，或者去国企当一名职员有什么不好？！"
+     1 string english = "Your grades aren't bad, so why do you have to do this e-sports thing?"
+     1 string japanese = "成績が悪いのに、どうしてｅスポーツなんかやるんだ！"
+     1 string mchinese = "你成績又不差，為什麼非要搞什麼電競！"
+   [23244]
+    0 TableSoItemLang data
+     0 int id = 108968
+     1 string schinese = "我就想你本本分分考大学，然后找个安稳的工作，结婚生子..."
+     1 string schinese_censored = "你的成绩又不差，为什么非得去搞哪个什么电竞！"
+     1 string english = "I just want you to go to college, find a stable job, get married, and have kids..."
+     1 string japanese = "普通に大学に行って、安定した仕事に就いて、結婚して子供を産んで…"
+     1 string mchinese = "我就想你本本分分考大學，然後找個安穩的工作，結婚生子..."
+   [23245]
+    0 TableSoItemLang data
+     0 int id = 108969
+     1 string schinese = "别人都这么过到你这儿怎么就不行？！"
+     1 string schinese_censored = "职业选手是一个超挣钱的职业！你凭什么不让我搞！"
+     1 string english = "Why can't you just live normally like everybody else?"
+     1 string japanese = "みんなそうしてるのに、どうしてあんたはできないの！？"
+     1 string mchinese = "別人都這麼過到你這兒怎麼就不行？！"
+   [23246]
+    0 TableSoItemLang data
+     0 int id = 108970
+     1 string schinese = "你们不懂就不要管我，我说的这个线上赛是个好机会！表现得好就能进职业战队！"
+     1 string schinese_censored = "就不能向别人一样，本本分分地考大学，然后找个安稳的工作，结婚生子，这有什么不好？"
+     1 string english = "Stop interfering with my life if you don't understand me, this tournament I'm talking about is a great opportunity! If I do well I can get into a pro team!"
+     1 string japanese = "わからないなら放っといてよ。このオンラインマッチは絶好のチャンスなんだ！活躍すればプロチームに入れる！"
+     1 string mchinese = "你們不懂就不要管我，我說的這個線上賽是個好機會！表現得好就能進職業戰隊！"
+   [23247]
+    0 TableSoItemLang data
+     0 int id = 108971
+     1 string schinese = "我会证明给你们看的！我有实力实现我的梦想！"
+     1 string schinese_censored = "别人都这么过到你这儿怎么就不行？！"
+     1 string english = "I will prove it to you! I have the power to make my dreams come true!"
+     1 string japanese = "証明するよ！夢を実現するだけの力があるって！"
+     1 string mchinese = "我會證明給你們看的！我有實力實現我的夢想！"
+   [23248]
+    0 TableSoItemLang data
+     0 int id = 108972
+     1 string schinese = "这孩子！玩游戏玩得魔怔了！"
+     1 string schinese_censored = "你们懂什么！你们根本就不理解，现在大家都打电竞！"
+     1 string english = "This kid has gone bonkers playing video games!"
+     1 string japanese = "この子！ゲームのし過ぎで頭がおかしくなったんだわ！"
+     1 string mchinese = "這孩子！玩遊戲玩得魔怔了！"
+   [23249]
+    0 TableSoItemLang data
+     0 int id = 108973
+     1 string schinese = "行，就只给你这一次机会！"
+     1 string schinese_censored = "我说的这个在线赛的很重要的，只要我表现的够好，就一定能进职业战队！"
+     1 string english = "Fine, I will just give you one chance!"
+     1 string japanese = "いいだろう、今回だけだ！"
+     1 string mchinese = "行，就只給你這一次機會！"
+   [23250]
+    0 TableSoItemLang data
+     0 int id = 108974
+     1 string schinese = "如果不行，就给我回来好好读书！"
+     1 string schinese_censored = "打职业一个月两三万轻轻松松的！那个什么国际赛奖金就一个亿！"
+     1 string english = "If you can't make it work, then go back to studying!"
+     1 string japanese = "ダメだったら、ちゃんと勉強するんだぞ！"
+     1 string mchinese = "如果不行，就給我回來好好讀書！"
+   [23251]
+    0 TableSoItemLang data
+     0 int id = 108975
+     1 string schinese = "……（抹眼角）"

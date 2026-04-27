@@ -1,0 +1,184 @@
+     1 string schinese_censored = "练习"
+     1 string english = "Learn"
+     1 string japanese = "練習"
+     1 string mchinese = "練習"
+   [25897]
+    0 TableSoItemLang data
+     0 int id = 1596172184
+     1 string schinese = "娱乐"
+     1 string schinese_censored = "娱乐"
+     1 string english = "Ent"
+     1 string japanese = "娯楽"
+     1 string mchinese = "娛樂"
+   [25898]
+    0 TableSoItemLang data
+     0 int id = 1596172185
+     1 string schinese = "日常"
+     1 string schinese_censored = "日常"
+     1 string english = "Daily"
+     1 string japanese = "日常"
+     1 string mchinese = "日常"
+   [25899]
+    0 TableSoItemLang data
+     0 int id = 1596172186
+     1 string schinese = "你也有相似经历吗？"
+     1 string schinese_censored = "你也有相似经历吗？"
+     1 string english = "Have you had a similar experience?"
+     1 string japanese = "似たような体験があるよね？"
+     1 string mchinese = "你也有相似經歷嗎？"
+   [25900]
+    0 TableSoItemLang data
+     0 int id = 1596172187
+     1 string schinese = "人与你有相似经历"
+     1 string schinese_censored = "人与你有相似经历"
+     1 string english = " others have had a similar experience to yours."
+     1 string japanese = "人が似たような体験をしている"
+     1 string mchinese = "人與你有相似經歷"
+   [25901]
+    0 TableSoItemLang data
+     0 int id = 1596172188
+     1 string schinese = "人和你一样"
+     1 string schinese_censored = "人和你一样"
+     1 string english = " others are very similar to you."
+     1 string japanese = "人があなたと一緒だ"
+     1 string mchinese = "人和你一樣"
+   [25902]
+    0 TableSoItemLang data
+     0 int id = 1596172189
+     1 string schinese = "(第{0}代)"
+     1 string schinese_censored = "(第{0}代)"
+     1 string english = "(Generation {0})"
+     1 string japanese = "(第{0}世代)"
+     1 string mchinese = "(第{0}代)"
+   [25903]
+    0 TableSoItemLang data
+     0 int id = 1596172190
+     1 string schinese = "心理阴影面积：{0}平方米"
+     1 string schinese_censored = "心理阴影面积：{0}平方米"
+     1 string english = "Mind Shadow size: {0}㎡"
+     1 string japanese = "トラウマ領域：{0}平方メートル"
+     1 string mchinese = "心理陰影面積：{0}平方米"
+   [25904]
+    0 TableSoItemLang data
+     0 int id = 1596172191
+     1 string schinese = "童心依旧，天真烂漫"
+     1 string schinese_censored = "童心依旧，天真烂漫"
+     1 string english = "Cute and childlike innocence."
+     1 string japanese = "ピュアで、天真爛漫"
+     1 string mchinese = "童心依舊，天真爛漫"
+   [25905]
+    0 TableSoItemLang data
+     0 int id = 1596172192
+     1 string schinese = "职业："
+     1 string schinese_censored = "职业："
+     1 string english = "Profession: "
+     1 string japanese = "職業："
+     1 string mchinese = "職業："
+   [25906]
+    0 TableSoItemLang data
+     0 int id = 1596172193
+     1 string schinese = "（零用钱{0}元/回合）"
+     1 string schinese_censored = "（零用钱{0}元/回合）"
+     1 string english = " (Pocket money ¥{0}/month)"
+     1 string japanese = "(お小遣い毎ターン{0}元)"
+     1 string mchinese = "（零用錢{0}元/回合）"
+   [25907]
+    0 TableSoItemLang data
+     0 int id = 1596172194
+     1 string schinese = "性格特征："
+     1 string schinese_censored = "性格特征："
+     1 string english = "Personality traits: "
+     1 string japanese = "性格特性："
+     1 string mchinese = "性格特徵："
+   [25908]
+    0 TableSoItemLang data
+     0 int id = 1596172195
+     1 string schinese = "高深莫测，无法捉摸！"
+     1 string schinese_censored = "高深莫测，无法捉摸！"
+     1 string english = "You're a hard one to get, quite profound!"
+     1 string japanese = "底知れず、予測不能！"
+     1 string mchinese = "高深莫測，無法捉摸！"
+   [25909]
+    0 TableSoItemLang data
+     0 int id = 1596172196
+     1 string schinese = "目前是你的优势学科，可以继续学习发展壮大！"
+     1 string schinese_censored = "目前是你的优势学科，可以继续学习发展壮大！"
+     1 string english = " is your strong subject. You can always continue to study it and become great!"
+     1 string japanese = "が得意科目だから、勉強すればもっと成長するよ！"
+     1 string mchinese = "目前是你的優勢學科，可以繼續學習發展壯大！"
+   [25910]
+    0 TableSoItemLang data
+     0 int id = 1596172197
+     1 string schinese = "目前是你的弱势学科，需要补足！"
+     1 string schinese_censored = "目前是你的弱势学科，需要补足！"
+     1 string english = " is your weak subject, and there is some catching up to do!"
+     1 string japanese = "が苦手科目だね、少し頑張らないとね！"
+     1 string mchinese = "目前是你的弱勢學科，需要補足！"
+   [25911]
+    0 TableSoItemLang data
+     0 int id = 1596172198
+     1 string schinese = "目前理科比较有优势"
+     1 string schinese_censored = "目前理科比较有优势"
+     1 string english = "You are fairly good in Science."
+     1 string japanese = "今は理系の方が得意"
+     1 string mchinese = "目前理科比較有優勢"
+   [25912]
+    0 TableSoItemLang data
+     0 int id = 1596172199
+     1 string schinese = "目前文科比较有优势"
+     1 string schinese_censored = "目前文科比较有优势"
+     1 string english = "You are fairly good in Liberal Arts."
+     1 string japanese = "今は文系の方が得意"
+     1 string mchinese = "目前文科比較有優勢"
+   [25913]
+    0 TableSoItemLang data
+     0 int id = 1596172200
+     1 string schinese = "目前没有什么好的建议，顺其自然吧！"
+     1 string schinese_censored = "目前没有什么好的建议，顺其自然吧！"
+     1 string english = "I don't have any good recommendations for you, just wing it!"
+     1 string japanese = "今はアドバイスがないよ。そのままが一番！"
+     1 string mchinese = "目前沒有什麼好的建議，順其自然吧！"
+   [25914]
+    0 TableSoItemLang data
+     0 int id = 1596172201
+     1 string schinese = "注意：该选项会影响你的未来职业"
+     1 string schinese_censored = "注意：该选项会影响你的未来职业"
+     1 string english = "Tip: This choice will affect your future profession."
+     1 string japanese = "注意：この選択肢は未来の職業に影響します"
+     1 string mchinese = "注意：該選項會影響你的未來職業"
+   [25915]
+    0 TableSoItemLang data
+     0 int id = 1596172202
+     1 string schinese = "窗口"
+     1 string schinese_censored = "窗口"
+     1 string english = "Windowed"
+     1 string japanese = "ウィンドウ"
+     1 string mchinese = "窗口"
+   [25916]
+    0 TableSoItemLang data
+     0 int id = 1596172203
+     1 string schinese = "分辨率"
+     1 string schinese_censored = "分辨率"
+     1 string english = "Resolution"
+     1 string japanese = "解像度"
+     1 string mchinese = "解析度"
+   [25917]
+    0 TableSoItemLang data
+     0 int id = 1596172204
+     1 string schinese = "声音"
+     1 string schinese_censored = "声音"
+     1 string english = "Sound"
+     1 string japanese = "効果音"
+     1 string mchinese = "聲音"
+   [25918]
+    0 TableSoItemLang data
+     0 int id = 1596172205
+     1 string schinese = "音乐"
+     1 string schinese_censored = "音乐"
+     1 string english = "Music"
+     1 string japanese = "ＢＧＭ"
+     1 string mchinese = "音樂"
+   [25919]
+    0 TableSoItemLang data
+     0 int id = 1596172206
+     1 string schinese = "帧数"

@@ -1,0 +1,184 @@
+     1 string schinese_censored = "西洋参片"
+     1 string english = "American ginseng"
+     1 string japanese = "西洋人参錠"
+     1 string mchinese = "西洋參片"
+   [6002]
+    0 TableSoItemLang data
+     0 int id = 1016003
+     1 string schinese = "乌鸡大补汤"
+     1 string schinese_censored = "乌鸡大补汤"
+     1 string english = "Thick Chicken Broth"
+     1 string japanese = "烏骨鶏十全大補湯"
+     1 string mchinese = "烏雞大補湯"
+   [6003]
+    0 TableSoItemLang data
+     0 int id = 1016004
+     1 string schinese = "痛批迷信思想"
+     1 string schinese_censored = "痛批迷信思想"
+     1 string english = "Criticize their superstition"
+     1 string japanese = "迷信は信じない"
+     1 string mchinese = "痛批迷信思想"
+   [6004]
+    0 TableSoItemLang data
+     0 int id = 1016005
+     1 string schinese = "宁可信其有，欣然前往"
+     1 string schinese_censored = "宁可信其有，欣然前往"
+     1 string english = "Believe and be happy"
+     1 string japanese = "信じて、喜んで行く"
+     1 string mchinese = "寧可信其有，欣然前往"
+   [6005]
+    0 TableSoItemLang data
+     0 int id = 1016006
+     1 string schinese = "改日再去"
+     1 string schinese_censored = "改日再去"
+     1 string english = "Change the date"
+     1 string japanese = "日を改めて行く"
+     1 string mchinese = "改日再去"
+   [6006]
+    0 TableSoItemLang data
+     0 int id = 1016007
+     1 string schinese = "重点复习弱势科"
+     1 string schinese_censored = "重点复习弱势科"
+     1 string english = "Study your weak subjects"
+     1 string japanese = "苦手科目を重点的に勉強"
+     1 string mchinese = "重點復習弱勢科"
+   [6007]
+    0 TableSoItemLang data
+     0 int id = 1016008
+     1 string schinese = "重点复习强势科"
+     1 string schinese_censored = "重点复习强势科"
+     1 string english = "Study your strong subjects"
+     1 string japanese = "得意科目を重点的に勉強"
+     1 string mchinese = "重點復習強勢科"
+   [6008]
+    0 TableSoItemLang data
+     0 int id = 1016009
+     1 string schinese = "均衡复习，按部就班"
+     1 string schinese_censored = "均衡复习，按部就班"
+     1 string english = "Follow a balanced revision routine"
+     1 string japanese = "バランスよく勉強"
+     1 string mchinese = "均衡復習，按部就班"
+   [6009]
+    0 TableSoItemLang data
+     0 int id = 1016010
+     1 string schinese = "大声反驳他的观点"
+     1 string schinese_censored = "大声反驳他的观点"
+     1 string english = "Retort loudly"
+     1 string japanese = "大声で反論する"
+     1 string mchinese = "大聲反駁他的觀點"
+   [6010]
+    0 TableSoItemLang data
+     0 int id = 1016011
+     1 string schinese = "跟妈妈说想回家了"
+     1 string schinese_censored = "跟妈妈说想回家了"
+     1 string english = "Tell mom you want to go home"
+     1 string japanese = "お母さんに帰りたいと伝える"
+     1 string mchinese = "跟媽媽說想回家了"
+   [6011]
+    0 TableSoItemLang data
+     0 int id = 1016012
+     1 string schinese = "假装没听见"
+     1 string schinese_censored = "假装没听见"
+     1 string english = "Pretend to hear nothing"
+     1 string japanese = "聞こえなかったふりをする"
+     1 string mchinese = "假裝沒聽見"
+   [6012]
+    0 TableSoItemLang data
+     0 int id = 1016013
+     1 string schinese = "跟其他人说那个女生的坏话"
+     1 string schinese_censored = "跟其他人说那个女生的坏话"
+     1 string english = "Talk behind her back"
+     1 string japanese = "他の人に遊んでいた子の悪口を言う"
+     1 string mchinese = "跟其他人說那個女生的壞話"
+   [6013]
+    0 TableSoItemLang data
+     0 int id = 1016014
+     1 string schinese = "跟好朋友说你的想法"
+     1 string schinese_censored = "跟好朋友说你的想法"
+     1 string english = "Talk to a friend"
+     1 string japanese = "親友に気持ちを伝える"
+     1 string mchinese = "跟好朋友說你的想法"
+   [6014]
+    0 TableSoItemLang data
+     0 int id = 1016015
+     1 string schinese = "在好朋友面前故意生闷气"
+     1 string schinese_censored = "在好朋友面前故意生闷气"
+     1 string english = "Sulk on purpose"
+     1 string japanese = "親友の前でわざとムッとする"
+     1 string mchinese = "在好朋友面前故意生悶氣"
+   [6015]
+    0 TableSoItemLang data
+     0 int id = 1016016
+     1 string schinese = "告诉老师"
+     1 string schinese_censored = "告诉老师"
+     1 string english = "Tell your teacher"
+     1 string japanese = "先生に報告"
+     1 string mchinese = "告訴老師"
+   [6016]
+    0 TableSoItemLang data
+     0 int id = 1016017
+     1 string schinese = "视而不见"
+     1 string schinese_censored = "视而不见"
+     1 string english = "Turn a blind eye"
+     1 string japanese = "無視する"
+     1 string mchinese = "視而不見"
+   [6017]
+    0 TableSoItemLang data
+     0 int id = 1016018
+     1 string schinese = "大声说他们很烦"
+     1 string schinese_censored = "大声说他们很烦"
+     1 string english = "Say they are annoying"
+     1 string japanese = "大声で注意する"
+     1 string mchinese = "大聲說他們很煩"
+   [6018]
+    0 TableSoItemLang data
+     0 int id = 1016019
+     1 string schinese = "强行突破"
+     1 string schinese_censored = "强行突破"
+     1 string english = "Force your way through"
+     1 string japanese = "強行突破"
+     1 string mchinese = "強行突破"
+   [6019]
+    0 TableSoItemLang data
+     0 int id = 1016020
+     1 string schinese = "绕路去远点的厕所"
+     1 string schinese_censored = "绕路去远点的厕所"
+     1 string english = "Take a detour"
+     1 string japanese = "他のトイレに行く"
+     1 string mchinese = "繞路去遠點的廁所"
+   [6020]
+    0 TableSoItemLang data
+     0 int id = 1016021
+     1 string schinese = "告诉老师"
+     1 string schinese_censored = "告诉老师"
+     1 string english = "Tell your teacher"
+     1 string japanese = "先生に報告"
+     1 string mchinese = "告訴老師"
+   [6021]
+    0 TableSoItemLang data
+     0 int id = 1016022
+     1 string schinese = "“我们处对象呢！！”"
+     1 string schinese_censored = "“我们是好朋友！！”"
+     1 string english = "Let's go out"
+     1 string japanese = "付き合ってる！"
+     1 string mchinese = "“我們處對象呢！！”"
+   [6022]
+    0 TableSoItemLang data
+     0 int id = 1016023
+     1 string schinese = "“顺路碰到的而已”"
+     1 string schinese_censored = "“顺路碰到的而已”"
+     1 string english = "It was just a chance meeting"
+     1 string japanese = "帰る方向が一緒なだけ"
+     1 string mchinese = "“順路碰到的而已”"
+   [6023]
+    0 TableSoItemLang data
+     0 int id = 1016024
+     1 string schinese = "“你看错了吧……”"
+     1 string schinese_censored = "“你看错了吧……”"
+     1 string english = "You must be mistaken"
+     1 string japanese = "見間違いでしょ…"
+     1 string mchinese = "“你看錯了吧……”"
+   [6024]
+    0 TableSoItemLang data
+     0 int id = 1016025
+     1 string schinese = "试着消除她们的误会"

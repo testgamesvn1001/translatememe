@@ -1,0 +1,184 @@
+     1 string schinese_censored = "摇摆选人"
+     1 string english = "Strategic Picks"
+     1 string japanese = "マルチロール"
+     1 string mchinese = "搖擺選人"
+   [23988]
+    0 TableSoItemLang data
+     0 int id = 1109464
+     1 string schinese = "注重运营"
+     1 string schinese_censored = "擅长运营"
+     1 string english = "Focus on Strategy"
+     1 string japanese = "リソース管理重視"
+     1 string mchinese = "注重運營"
+   [23989]
+    0 TableSoItemLang data
+     0 int id = 1109465
+     1 string schinese = "四人打团一人分带"
+     1 string schinese_censored = "41分带"
+     1 string english = "4-1 Split Push"
+     1 string japanese = "４・１で分散"
+     1 string mchinese = "四人打團一人分帶"
+   [23990]
+    0 TableSoItemLang data
+     0 int id = 1109466
+     1 string schinese = "四人辅助一人输出"
+     1 string schinese_censored = "终极四保一"
+     1 string english = "Rely on ADC to Win"
+     1 string japanese = "４人サポート、１人アタッカー"
+     1 string mchinese = "四人輔助一人輸出"
+   [23991]
+    0 TableSoItemLang data
+     0 int id = 1109467
+     1 string schinese = "游戏后期无敌的阵容"
+     1 string schinese_censored = "大后期阵容"
+     1 string english = "Great Late-Game Lineup"
+     1 string japanese = "ゲーム後半で無敵のパーティー"
+     1 string mchinese = "遊戲後期無敵的陣容"
+   [23992]
+    0 TableSoItemLang data
+     0 int id = 1109468
+     1 string schinese = "重视消耗血量的阵容"
+     1 string schinese_censored = "poke流"
+     1 string english = "Poking Lineup"
+     1 string japanese = "ダメージ重視のパーティー"
+     1 string mchinese = "重視消耗血量的陣容"
+   [23993]
+    0 TableSoItemLang data
+     0 int id = 1109469
+     1 string schinese = "重视控制技能的阵容"
+     1 string schinese_censored = "强控阵容"
+     1 string english = "Heavy CC Lineup"
+     1 string japanese = "ＣＣスキル重視のパーティー"
+     1 string mchinese = "重視控制技能的陣容"
+   [23994]
+    0 TableSoItemLang data
+     0 int id = 1109470
+     1 string schinese = "针对对手选择英雄"
+     1 string schinese_censored = "counter pick（针对性选人）"
+     1 string english = "Pick Counters"
+     1 string japanese = "相手に応じてキャラを選択"
+     1 string mchinese = "針對對手選擇英雄"
+   [23995]
+    0 TableSoItemLang data
+     0 int id = 1109471
+     1 string schinese = "首抢自己擅长英雄"
+     1 string schinese_censored = "首选招牌英雄"
+     1 string english = "Pick Main Heroes First"
+     1 string japanese = "自分の得意キャラを選択"
+     1 string mchinese = "首搶自己擅長英雄"
+   [23996]
+    0 TableSoItemLang data
+     0 int id = 1109472
+     1 string schinese = "首抢版本强势英雄"
+     1 string schinese_censored = "首选版本强势英雄/版本之子"
+     1 string english = "Pick Buffed Heroes First"
+     1 string japanese = "このバージョンで有利なキャラを選択"
+     1 string mchinese = "首搶版本強勢英雄"
+   [23997]
+    0 TableSoItemLang data
+     0 int id = 1109473
+     1 string schinese = "针对对手擅长的英雄"
+     1 string schinese_censored = "针对性ban人"
+     1 string english = "Counter Enemy Main"
+     1 string japanese = "相手の得意キャラに応じて選択"
+     1 string mchinese = "針對對手擅長的英雄"
+   [23998]
+    0 TableSoItemLang data
+     0 int id = 1109474
+     1 string schinese = "抢选对手擅长的英雄"
+     1 string schinese_censored = "以抢代ban"
+     1 string english = "Pick Main Heroes of Enemy"
+     1 string japanese = "まず相手の得意キャラを選択"
+     1 string mchinese = "搶選對手擅長的英雄"
+   [23999]
+    0 TableSoItemLang data
+     0 int id = 1109475
+     1 string schinese = "培养多个阵容核心"
+     1 string schinese_censored = "输出三叉戟/三核阵容"
+     1 string english = "Pick Multi-core Lineup"
+     1 string japanese = "パーティーの核となるキャラを複数育成"
+     1 string mchinese = "培養多個陣容核心"
+   [24000]
+    0 TableSoItemLang data
+     0 int id = 1109476
+     1 string schinese = "前期对线压制对手"
+     1 string schinese_censored = "对线压制"
+     1 string english = "Early Game Focus"
+     1 string japanese = "前半のレーンで相手を圧倒"
+     1 string mchinese = "前期對線壓制對手"
+   [24001]
+    0 TableSoItemLang data
+     0 int id = 1109477
+     1 string schinese = "进游戏后随机应变"
+     1 string schinese_censored = "上中换线"
+     1 string english = "Situational Strategy"
+     1 string japanese = "ゲーム開始後、臨機応変に対応"
+     1 string mchinese = "進遊戲後隨機應變"
+   [24002]
+    0 TableSoItemLang data
+     0 int id = 1109478
+     1 string schinese = "2级抓下"
+     1 string schinese_censored = "2级抓下"
+     1 string english = "Gank Bot at Level 2"
+     1 string japanese = "レベル２ガンク"
+     1 string mchinese = "2級抓下"
+   [24003]
+    0 TableSoItemLang data
+     0 int id = 1109479
+     1 string schinese = "控峡谷先锋"
+     1 string schinese_censored = "控峡谷先锋"
+     1 string english = "Take the Herald"
+     1 string japanese = "ヘロルド制御"
+     1 string mchinese = "控峽谷先鋒"
+   [24004]
+    0 TableSoItemLang data
+     0 int id = 1109480
+     1 string schinese = "抢一血塔"
+     1 string schinese_censored = "抢一血塔"
+     1 string english = "Destroy the First Turret"
+     1 string japanese = "第一タワー破壊"
+     1 string mchinese = "搶一血塔"
+   [24005]
+    0 TableSoItemLang data
+     0 int id = 1109481
+     1 string schinese = "前期优势"
+     1 string schinese_censored = "前期优势"
+     1 string english = "Early Game Advantage"
+     1 string japanese = "前半有利"
+     1 string mchinese = "前期優勢"
+   [24006]
+    0 TableSoItemLang data
+     0 int id = 1109482
+     1 string schinese = "对线压制"
+     1 string schinese_censored = "对线压制"
+     1 string english = "Win the Laning Phase"
+     1 string japanese = "レーン制圧"
+     1 string mchinese = "對線壓制"
+   [24007]
+    0 TableSoItemLang data
+     0 int id = 1109483
+     1 string schinese = "TP支援"
+     1 string schinese_censored = "TP支援"
+     1 string english = "TP to Join Teamfights"
+     1 string japanese = "ＴＰサポート"
+     1 string mchinese = "TP支援"
+   [24008]
+    0 TableSoItemLang data
+     0 int id = 1109484
+     1 string schinese = "芜湖！起飞！"
+     1 string schinese_censored = "芜湖！节奏起飞！"
+     1 string english = "Woo-hoo! Advantage Got!"
+     1 string japanese = "行け！行け！"
+     1 string mchinese = "蕪湖！起飛！"
+   [24009]
+    0 TableSoItemLang data
+     0 int id = 1109485
+     1 string schinese = "稳定发育"
+     1 string schinese_censored = "稳定发育"
+     1 string english = "Steady Farm"
+     1 string japanese = "着実にファーム"
+     1 string mchinese = "穩定發育"
+   [24010]
+    0 TableSoItemLang data
+     0 int id = 1109486
+     1 string schinese = "等大哥三件套"

@@ -1,0 +1,184 @@
+     1 string schinese_censored = "啊？意思是一直到你画完位置我都要维持一个姿势不能动吗？"
+     1 string english = "What? So I should keep that same pose, without moving at all, until you've finished your painting?!"
+     1 string japanese = "/"
+     1 string mchinese = "啊？意思是一直到你畫完位置我都要維持一個姿勢不能動嗎？"
+   [20308]
+    0 TableSoItemLang data
+     0 int id = 1030313
+     1 string schinese = "嗯，就是这样。当然~这不是无偿的，你要是做我的模特，我可以给你你一直在找的东西~"
+     1 string schinese_censored = "嗯，就是这样。当然~这不是无偿的，你要是做我的模特，我可以给你你一直在找的东西~"
+     1 string english = "Yeah, you've got it! Of course, you'll get something for it. If you model for me, I'll give you what you're looking for."
+     1 string japanese = "/"
+     1 string mchinese = "嗯，就是這樣。當然~這不是無償的，你要是做我的模特，我可以給你你一直在找的東西~"
+   [20309]
+    0 TableSoItemLang data
+     0 int id = 1030314
+     1 string schinese = "班长跟你说的？"
+     1 string schinese_censored = "班长跟你说的？"
+     1 string english = "Did Zero tell you?"
+     1 string japanese = "/"
+     1 string mchinese = "班長跟你說的？"
+   [20310]
+    0 TableSoItemLang data
+     0 int id = 1030315
+     1 string schinese = "模特，做不做？"
+     1 string schinese_censored = "模特，做不做？"
+     1 string english = "So, will you model or not?"
+     1 string japanese = "/"
+     1 string mchinese = "模特，做不做？"
+   [20311]
+    0 TableSoItemLang data
+     0 int id = 1030316
+     1 string schinese = "做！来吧，但是要给我藏宝图哦~"
+     1 string schinese_censored = "做！来吧，但是要给我藏宝图哦~"
+     1 string english = "I'll do it! Let's get it over with, but remember to give me that treasure map."
+     1 string japanese = "/"
+     1 string mchinese = "做！來吧，但是要給我藏寶圖哦~"
+   [20312]
+    0 TableSoItemLang data
+     0 int id = 1030317
+     1 string schinese = "肯定给你的，放心吧。OK，那开始摆姿势，你的两个胳膊先抬起来，双脚………………"
+     1 string schinese_censored = "肯定给你的，放心吧。好的，那开始摆姿势，你的两个胳膊先抬起来，双脚………………"
+     1 string english = "It's a deal. OK, strike up that pose for me. Raise your hands, and then..."
+     1 string japanese = "/"
+     1 string mchinese = "肯定給你的，放心吧。OK，那開始擺姿勢，你的兩個胳膊先抬起來，雙腳………………"
+   [20313]
+    0 TableSoItemLang data
+     0 int id = 1030318
+     1 string schinese = "嗨，小杨哥"
+     1 string schinese_censored = "嗨，小杨哥"
+     1 string english = "Hey Nabe Gewell!"
+     1 string japanese = "/"
+     1 string mchinese = "嗨，小楊哥"
+   [20314]
+    0 TableSoItemLang data
+     0 int id = 1030319
+     1 string schinese = "啊，hi，你过来啦"
+     1 string schinese_censored = "啊，嗨，你过来啦"
+     1 string english = "Hi, you're here."
+     1 string japanese = "/"
+     1 string mchinese = "啊，hi，你過來啦"
+   [20315]
+    0 TableSoItemLang data
+     0 int id = 1030320
+     1 string schinese = "怎么了？这么严肃？"
+     1 string schinese_censored = "怎么了？这么严肃？"
+     1 string english = "What's wrong? Why so solemn?"
+     1 string japanese = "/"
+     1 string mchinese = "怎麼了？這麼嚴肅？"
+   [20316]
+    0 TableSoItemLang data
+     0 int id = 1030321
+     1 string schinese = "在改bug呢，我这边有个大bug，还在定位位置，逻辑有点乱"
+     1 string schinese_censored = "在改漏洞呢，我这边有个大漏洞，还在定位位置，逻辑有点乱"
+     1 string english = "I'm fixing bugs... I've got a huge one and it's regarding location position, the logic is a bit chaotic."
+     1 string japanese = "/"
+     1 string mchinese = "在改bug呢，我這邊有個大bug，還在定位位置，邏輯有點亂"
+   [20317]
+    0 TableSoItemLang data
+     0 int id = 1030322
+     1 string schinese = "是上次写的那个网站吗？"
+     1 string schinese_censored = "是上次写的那个网站吗？"
+     1 string english = "Are you still working on that website?"
+     1 string japanese = "/"
+     1 string mchinese = "是上次寫的那個網站嗎？"
+   [20318]
+    0 TableSoItemLang data
+     0 int id = 1030323
+     1 string schinese = "嗯，影响用户比较多，所以现在已经停服了，但是始终定位不到位置，再这么下去停服时间就太长了……"
+     1 string schinese_censored = "嗯，影响用户比较多，所以现在已经停服了，但是始终定位不到位置，再这么下去停服时间就太长了……"
+     1 string english = "Yeah, quite a few users were affected so it's been taken down. In the end I haven't managed to fixed the location position, and if that's the case, the downtime will be too long..."
+     1 string japanese = "/"
+     1 string mchinese = "嗯，影響用戶比較多，所以現在已經停服了，但是始終定位不到位置，再這麼下去停服時間就太長了……"
+   [20319]
+    0 TableSoItemLang data
+     0 int id = 1030324
+     1 string schinese = "来，我来帮你看看"
+     1 string schinese_censored = "来，我来帮你看看"
+     1 string english = "Right, let me take a look."
+     1 string japanese = "/"
+     1 string mchinese = "來，我來幫你看看"
+   [20320]
+    0 TableSoItemLang data
+     0 int id = 1030325
+     1 string schinese = "嗯……这个函数是这个意思……然后跳转到这里……嗯……然后跳转到这里……在这里加个打印……运行一下，这个报错是这个意思啊"
+     1 string schinese_censored = "嗯……这个函数是这个意思……然后跳转到这里……嗯……然后跳转到这里……在这里加个打印……运行一下，这个报错是这个意思啊"
+     1 string english = "Yes... That's this function, and then it goes to here... Yes... And then over here... Perhaps adding a print here... And then we execute. What does this error code mean?"
+     1 string japanese = "/"
+     1 string mchinese = "嗯……這個函數是這個意思……然後跳轉到這裏……嗯……然後跳轉到這裏……在這裏加個列印……運行一下，這個報錯是這個意思啊"
+   [20321]
+    0 TableSoItemLang data
+     0 int id = 1030326
+     1 string schinese = "好了，找到问题的位置了，就在第829行，这里有问题。"
+     1 string schinese_censored = "好了，找到问题的位置了，就在第829行，这里有问题。"
+     1 string english = "Okay, we've found the issue. It's in line 829."
+     1 string japanese = "/"
+     1 string mchinese = "好了，找到問題的位置了，就在第829行，這裏有問題。"
+   [20322]
+    0 TableSoItemLang data
+     0 int id = 1030327
+     1 string schinese = "哇，可以呀，我找了半天都没有找到的问题就这么被你找到了？大佬受我一拜~"
+     1 string schinese_censored = "哇，可以呀，我找了半天都没有找到的问题就这么被你找到了？大佬受我一拜~"
+     1 string english = "Wow, not bad! I've been looking for ages and I didn't find anything, and here you come! Please, teach me!"
+     1 string japanese = "/"
+     1 string mchinese = "哇，可以呀，我找了半天都沒有找到的問題就這麼被你找到了？大佬受我一拜~"
+   [20323]
+    0 TableSoItemLang data
+     0 int id = 1030328
+     1 string schinese = "……说来惭愧，这部分模块好像是我写的……"
+     1 string schinese_censored = "……说来惭愧，这部分模块好像是我写的……"
+     1 string english = "... Err, to be honest, I think I wrote it..."
+     1 string japanese = "/"
+     1 string mchinese = "……說來慚愧，這部分模組好像是我寫的……"
+   [20324]
+    0 TableSoItemLang data
+     0 int id = 1030329
+     1 string schinese = "……"
+     1 string schinese_censored = "……"
+     1 string english = "..."
+     1 string japanese = "/"
+     1 string mchinese = "……"
+   [20325]
+    0 TableSoItemLang data
+     0 int id = 1030330
+     1 string schinese = "嘿嘿……真是不好意思……"
+     1 string schinese_censored = "嘿嘿……真是不好意思……"
+     1 string english = "Hahaha... I'm feeling a bit embarrassed here..."
+     1 string japanese = "/"
+     1 string mchinese = "嘿嘿……真是不好意思……"
+   [20326]
+    0 TableSoItemLang data
+     0 int id = 1030331
+     1 string schinese = "……算了，既然都修好了那就没问题了。话说你过来不是特意来帮我修bug的吧？"
+     1 string schinese_censored = "……算了，既然都修好了那就没问题了。话说你过来不是特意来帮我修漏洞的吧？"
+     1 string english = "Anyway, we found the issue, that's what matters. But you didn't come here just to help me fix bugs now, did you?"
+     1 string japanese = "/"
+     1 string mchinese = "……算了，既然都修好了那就沒問題了。話說你過來不是特意來幫我修bug的吧？"
+   [20327]
+    0 TableSoItemLang data
+     0 int id = 1030332
+     1 string schinese = "喔，差点忘了，你们家是不是有一块藏宝图？"
+     1 string schinese_censored = "喔，差点忘了，你们家是不是有一块藏宝图？"
+     1 string english = "Oh right, I almost forgot. Your family doesn't happen to have a treasure map?"
+     1 string japanese = "/"
+     1 string mchinese = "喔，差點忘了，你們家是不是有一塊藏寶圖？"
+   [20328]
+    0 TableSoItemLang data
+     0 int id = 1030333
+     1 string schinese = "藏宝图？啊，你说一张脏兮兮的纸么？好像是有见过……"
+     1 string schinese_censored = "藏宝图？啊，你说一张脏兮兮的纸么？好像是有见过……"
+     1 string english = "Treasure map? Oh, do you mean that dirty piece of paper? I think I've seen one..."
+     1 string japanese = "/"
+     1 string mchinese = "藏寶圖？啊，你說一張髒兮兮的紙麼？好像是有見過……"
+   [20329]
+    0 TableSoItemLang data
+     0 int id = 1030334
+     1 string schinese = "那……那张藏宝图能不能卖给我呀？"
+     1 string schinese_censored = "那……那张藏宝图能不能卖给我呀？"
+     1 string english = "Uhm... Could you perhaps sell me that map?"
+     1 string japanese = "/"
+     1 string mchinese = "那……那張藏寶圖能不能賣給我呀？"
+   [20330]
+    0 TableSoItemLang data
+     0 int id = 1030335
+     1 string schinese = "没事，就当你帮我修好bug的报酬送你得了。"

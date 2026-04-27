@@ -1,0 +1,184 @@
+     1 string schinese_censored = "奢侈品牌"
+     1 string english = "Luxury Brands"
+     1 string japanese = "高級ブランド"
+     1 string mchinese = "奢侈品牌"
+   [7221]
+    0 TableSoItemLang data
+     0 int id = 1017222
+     1 string schinese = "小区滑梯"
+     1 string schinese_censored = "社区滑梯"
+     1 string english = "Resident Community Slide"
+     1 string japanese = "公園のすべり台"
+     1 string mchinese = "社區滑梯"
+   [7222]
+    0 TableSoItemLang data
+     0 int id = 1017223
+     1 string schinese = "沙发蹦床"
+     1 string schinese_censored = "沙发蹦床"
+     1 string english = "Sofa Trampoline"
+     1 string japanese = "家でトランポリン"
+     1 string mchinese = "沙發蹦床"
+   [7223]
+    0 TableSoItemLang data
+     0 int id = 1017224
+     1 string schinese = "平板游戏"
+     1 string schinese_censored = "平板游戏"
+     1 string english = "Tablet Games"
+     1 string japanese = "タブレットゲーム"
+     1 string mchinese = "平板遊戲"
+   [7224]
+    0 TableSoItemLang data
+     0 int id = 1017225
+     1 string schinese = "橡皮泥"
+     1 string schinese_censored = "橡皮泥"
+     1 string english = "Playdough"
+     1 string japanese = "小麦粘土"
+     1 string mchinese = "橡皮泥"
+   [7225]
+    0 TableSoItemLang data
+     0 int id = 1017226
+     1 string schinese = "游乐场"
+     1 string schinese_censored = "游乐场"
+     1 string english = "Playground"
+     1 string japanese = "遊園地"
+     1 string mchinese = "遊樂場"
+   [7226]
+    0 TableSoItemLang data
+     0 int id = 1017227
+     1 string schinese = "课外读物"
+     1 string schinese_censored = "课外读物"
+     1 string english = "Extracurricular Reading"
+     1 string japanese = "課外読書"
+     1 string mchinese = "課外讀物"
+   [7227]
+    0 TableSoItemLang data
+     0 int id = 1017228
+     1 string schinese = "篮球赛门票"
+     1 string schinese_censored = "篮球赛门票"
+     1 string english = "Basketball Game Ticket"
+     1 string japanese = "バスケチケット"
+     1 string mchinese = "籃球賽門票"
+   [7228]
+    0 TableSoItemLang data
+     0 int id = 1017229
+     1 string schinese = "骑马"
+     1 string schinese_censored = "骑马"
+     1 string english = "Horse Riding"
+     1 string japanese = "乗馬"
+     1 string mchinese = "騎馬"
+   [7229]
+    0 TableSoItemLang data
+     0 int id = 1017230
+     1 string schinese = "东南亚游"
+     1 string schinese_censored = "东南亚游"
+     1 string english = "Southeast Asia Travel"
+     1 string japanese = "東南アジア旅行"
+     1 string mchinese = "東南亞遊"
+   [7230]
+    0 TableSoItemLang data
+     0 int id = 1017231
+     1 string schinese = "新手机"
+     1 string schinese_censored = "新手机"
+     1 string english = "New Phone"
+     1 string japanese = "新型スマホ"
+     1 string mchinese = "新手機"
+   [7231]
+    0 TableSoItemLang data
+     0 int id = 1017232
+     1 string schinese = "欧洲游"
+     1 string schinese_censored = "欧洲游"
+     1 string english = "Europe Travel"
+     1 string japanese = "ヨーロッパ旅行"
+     1 string mchinese = "歐洲遊"
+   [7232]
+    0 TableSoItemLang data
+     0 int id = 1017233
+     1 string schinese = "健身房"
+     1 string schinese_censored = "健身房"
+     1 string english = "Gym"
+     1 string japanese = "フィットネスジム"
+     1 string mchinese = "健身房"
+   [7233]
+    0 TableSoItemLang data
+     0 int id = 1017234
+     1 string schinese = "黄冈密卷"
+     1 string schinese_censored = "黄冈密卷"
+     1 string english = "Huanggang Exam Book"
+     1 string japanese = "黄岡問題集"
+     1 string mchinese = "黃岡密卷"
+   [7234]
+    0 TableSoItemLang data
+     0 int id = 1017235
+     1 string schinese = "应该学点什么练习一下，否则只能再荒废一阵子"
+     1 string schinese_censored = "应该学点什么练习一下，否则只能再荒废一阵子"
+     1 string english = "You should probably pick a subject to study, otherwise you'll waste your entire life away."
+     1 string japanese = "何か練習するべきだ。時間の無駄だぞ。"
+     1 string mchinese = "應該學點什麼練習一下，否則只能再荒廢一陣子"
+   [7235]
+    0 TableSoItemLang data
+     0 int id = 1017236
+     1 string schinese = "没有什么提起兴趣的娱乐活动，只能无聊待着"
+     1 string schinese_censored = "没有什么提起兴趣的娱乐活动，只能无聊待着"
+     1 string english = "Unable to find anything interesting to do, you can only sit in boredom looking dumbfounded."
+     1 string japanese = "興味を持てる娯楽がない。退屈だ。"
+     1 string mchinese = "沒有什麼提起興趣的娛樂活動，只能無聊待著"
+   [7236]
+    0 TableSoItemLang data
+     0 int id = 1017237
+     1 string schinese = "日子过的平淡，是由于策划君偷懒，没有配置足够多的事件"
+     1 string schinese_censored = "日子过的平淡，是由于策划君偷懒，没有配置足够多的事件"
+     1 string english = "The reason your days are dull is because you're too lazy to plan anything to do."
+     1 string japanese = "ヒマ。計画するのをサボったからだ。何も起こらない。"
+     1 string mchinese = "日子過的平淡，是由於策劃君偷懶，沒有配置足夠多的事件"
+   [7237]
+    0 TableSoItemLang data
+     0 int id = 1017238
+     1 string schinese = "正在练习翻身"
+     1 string schinese_censored = "正在练习翻身"
+     1 string english = "Practicing how to turn over."
+     1 string japanese = "寝返り練習中"
+     1 string mchinese = "正在練習翻身"
+   [7238]
+    0 TableSoItemLang data
+     0 int id = 1017239
+     1 string schinese = "正在练习行走"
+     1 string schinese_censored = "正在练习行走"
+     1 string english = "Practicing how to walk."
+     1 string japanese = "歩く練習中"
+     1 string mchinese = "正在練習行走"
+   [7239]
+    0 TableSoItemLang data
+     0 int id = 1017240
+     1 string schinese = "正在练习跑步"
+     1 string schinese_censored = "正在练习跑步"
+     1 string english = "Practicing how to run."
+     1 string japanese = "走る練習中"
+     1 string mchinese = "正在練習跑步"
+   [7240]
+    0 TableSoItemLang data
+     0 int id = 1017241
+     1 string schinese = "正在练习幼儿游泳"
+     1 string schinese_censored = "正在练习幼儿游泳"
+     1 string english = "Practicing baby swim."
+     1 string japanese = "幼児水泳参加中"
+     1 string mchinese = "正在練習幼兒游泳"
+   [7241]
+    0 TableSoItemLang data
+     0 int id = 1017242
+     1 string schinese = "正在练习骑自行车"
+     1 string schinese_censored = "正在练习骑自行车"
+     1 string english = "Practicing how to ride a bike."
+     1 string japanese = "自転車に乗る練習中"
+     1 string mchinese = "正在練習騎自行車"
+   [7242]
+    0 TableSoItemLang data
+     0 int id = 1017243
+     1 string schinese = "正在练习做操"
+     1 string schinese_censored = "正在练习做操"
+     1 string english = "Practicing how to exercise."
+     1 string japanese = "体操練習中"
+     1 string mchinese = "正在練習做操"
+   [7243]
+    0 TableSoItemLang data
+     0 int id = 1017244
+     1 string schinese = "正在练习学说话"

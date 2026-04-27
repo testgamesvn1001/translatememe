@@ -1,0 +1,184 @@
+     1 string schinese_censored = "正在练习学说话"
+     1 string english = "Practicing speaking."
+     1 string japanese = "話す練習中"
+     1 string mchinese = "正在練習學說話"
+   [7244]
+    0 TableSoItemLang data
+     0 int id = 1017245
+     1 string schinese = "正在练习忍耐"
+     1 string schinese_censored = "正在练习忍耐"
+     1 string english = "Practicing patience."
+     1 string japanese = "我慢練習中"
+     1 string mchinese = "正在練習忍耐"
+   [7245]
+    0 TableSoItemLang data
+     0 int id = 1017246
+     1 string schinese = "正在练习延迟满足"
+     1 string schinese_censored = "正在练习延迟满足"
+     1 string english = "Practicing delayed gratification."
+     1 string japanese = "衝動制御習得中"
+     1 string mchinese = "正在練習延遲滿足"
+   [7246]
+    0 TableSoItemLang data
+     0 int id = 1017247
+     1 string schinese = "正在练习安静"
+     1 string schinese_censored = "正在练习安静"
+     1 string english = "Practicing how to be quiet."
+     1 string japanese = "穏やかにする練習中"
+     1 string mchinese = "正在練習安靜"
+   [7247]
+    0 TableSoItemLang data
+     0 int id = 1017248
+     1 string schinese = "正在练习独处"
+     1 string schinese_censored = "正在练习独处"
+     1 string english = "Practicing how to be alone."
+     1 string japanese = "独りでいる練習中"
+     1 string mchinese = "正在練習獨處"
+   [7248]
+    0 TableSoItemLang data
+     0 int id = 1017249
+     1 string schinese = "正在练习拼音（语）"
+     1 string schinese_censored = "正在练习拼音（语）"
+     1 string english = "Practicing pinyin."
+     1 string japanese = "ピンイン勉強中"
+     1 string mchinese = "正在練習拼音（語）"
+   [7249]
+    0 TableSoItemLang data
+     0 int id = 1017250
+     1 string schinese = "正在练习识字写字（语）"
+     1 string schinese_censored = "正在练习识字写字（语）"
+     1 string english = "Practicing how to read and write."
+     1 string japanese = "読み書き勉強中"
+     1 string mchinese = "正在練習識字寫字（語）"
+   [7250]
+    0 TableSoItemLang data
+     0 int id = 1017251
+     1 string schinese = "正在练习古诗（语）"
+     1 string schinese_censored = "正在练习古诗（语）"
+     1 string english = "Practicing reading and understanding ancient poetry."
+     1 string japanese = "古詩勉強中"
+     1 string mchinese = "正在練習古詩（語）"
+   [7251]
+    0 TableSoItemLang data
+     0 int id = 1017252
+     1 string schinese = "正在练习作文（语）"
+     1 string schinese_censored = "正在练习作文（语）"
+     1 string english = "Practicing literary writing."
+     1 string japanese = "作文勉強中"
+     1 string mchinese = "正在練習作文（語）"
+   [7252]
+    0 TableSoItemLang data
+     0 int id = 1017253
+     1 string schinese = "正在练习写小说（语）"
+     1 string schinese_censored = "正在练习写小说（语）"
+     1 string english = "Practicing novel writing."
+     1 string japanese = "小説を書く勉強中"
+     1 string mchinese = "正在練習寫小說（語）"
+   [7253]
+    0 TableSoItemLang data
+     0 int id = 1017254
+     1 string schinese = "正在练习文言文（语）"
+     1 string schinese_censored = "正在练习文言文（语）"
+     1 string english = "Practicing reading and understanding classical Chinese."
+     1 string japanese = "古文勉強中"
+     1 string mchinese = "正在練習文言文（語）"
+   [7254]
+    0 TableSoItemLang data
+     0 int id = 1017255
+     1 string schinese = "正在练习名著（语）"
+     1 string schinese_censored = "正在练习名著（语）"
+     1 string english = "Practicing reading and understanding famous works."
+     1 string japanese = "名作勉強中"
+     1 string mchinese = "正在練習名著（語）"
+   [7255]
+    0 TableSoItemLang data
+     0 int id = 1017256
+     1 string schinese = "正在练习文学基础（语）"
+     1 string schinese_censored = "正在练习文学基础（语）"
+     1 string english = "Learning about basic literature."
+     1 string japanese = "基礎文学勉強中"
+     1 string mchinese = "正在練習文學基礎（語）"
+   [7256]
+    0 TableSoItemLang data
+     0 int id = 1017257
+     1 string schinese = "正在练习高级语文（语）"
+     1 string schinese_censored = "正在练习高级语文技巧（语）"
+     1 string english = "Practicing how to pass advanced Chinese exams."
+     1 string japanese = "上級受験国語勉強中"
+     1 string mchinese = "正在練習高級語文（語）"
+   [7257]
+    0 TableSoItemLang data
+     0 int id = 1017258
+     1 string schinese = "正在练习语文非常规技巧（语）"
+     1 string schinese_censored = "正在练习语文非常规技巧（语）"
+     1 string english = "Practicing special Chinese skills."
+     1 string japanese = "特殊国語技術勉強中"
+     1 string mchinese = "正在練習語文非常規技巧（語）"
+   [7258]
+    0 TableSoItemLang data
+     0 int id = 1017259
+     1 string schinese = "正在练习四则运算（数）"
+     1 string schinese_censored = "正在练习四则运算（数）"
+     1 string english = "Practicing addition, subtraction, multiplication and division."
+     1 string japanese = "四則演算勉強中"
+     1 string mchinese = "正在練習四則運算（數）"
+   [7259]
+    0 TableSoItemLang data
+     0 int id = 1017260
+     1 string schinese = "正在练习代数初步（数）"
+     1 string schinese_censored = "正在练习代数初步（数）"
+     1 string english = "Practicing basic algebra."
+     1 string japanese = "線形代数勉強中"
+     1 string mchinese = "正在練習代數初步（數）"
+   [7260]
+    0 TableSoItemLang data
+     0 int id = 1017261
+     1 string schinese = "正在练习认识几何（数）"
+     1 string schinese_censored = "正在练习认识几何（数）"
+     1 string english = "Practicing basic geometry."
+     1 string japanese = "幾何学入門勉強中"
+     1 string mchinese = "正在練習認識幾何（數）"
+   [7261]
+    0 TableSoItemLang data
+     0 int id = 1017262
+     1 string schinese = "正在练习概率（数）"
+     1 string schinese_censored = "正在练习概率（数）"
+     1 string english = "Learning about probability."
+     1 string japanese = "確率勉強中"
+     1 string mchinese = "正在練習概率（數）"
+   [7262]
+    0 TableSoItemLang data
+     0 int id = 1017263
+     1 string schinese = "正在练习函数（数）"
+     1 string schinese_censored = "正在练习函数（数）"
+     1 string english = "Learning about functions."
+     1 string japanese = "関数勉強中"
+     1 string mchinese = "正在練習函數（數）"
+   [7263]
+    0 TableSoItemLang data
+     0 int id = 1017264
+     1 string schinese = "正在练习奥数试题（数）"
+     1 string schinese_censored = "正在练习奥数试题（数）"
+     1 string english = "Practicing Mathematical Olympiad test questions."
+     1 string japanese = "数学オリンピック勉強中"
+     1 string mchinese = "正在練習奧數試題（數）"
+   [7264]
+    0 TableSoItemLang data
+     0 int id = 1017265
+     1 string schinese = "正在练习逻辑学（数）"
+     1 string schinese_censored = "正在练习逻辑学（数）"
+     1 string english = "Learning to improve mathematical logic."
+     1 string japanese = "数理論理学勉強中"
+     1 string mchinese = "正在練習邏輯學（數）"
+   [7265]
+    0 TableSoItemLang data
+     0 int id = 1017266
+     1 string schinese = "正在练习数学压轴题（数）"
+     1 string schinese_censored = "正在练习数学压轴题（数）"
+     1 string english = "Practicing final math exam questions."
+     1 string japanese = "数学の難問勉強中"
+     1 string mchinese = "正在練習數學壓軸題（數）"
+   [7266]
+    0 TableSoItemLang data
+     0 int id = 1017267
+     1 string schinese = "正在练习高级数学（数）"

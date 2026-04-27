@@ -1,0 +1,184 @@
+     1 string schinese_censored = "帧数"
+     1 string english = "FPS"
+     1 string japanese = "フレーム数"
+     1 string mchinese = "幀數"
+   [25920]
+    0 TableSoItemLang data
+     0 int id = 1596172207
+     1 string schinese = "选择存档"
+     1 string schinese_censored = "选择存档"
+     1 string english = "Select Save"
+     1 string japanese = "セーブを選択"
+     1 string mchinese = "選擇存檔"
+   [25921]
+    0 TableSoItemLang data
+     0 int id = 1596172208
+     1 string schinese = "请输入<color=#EB7350>存档</color>名"
+     1 string schinese_censored = "请输入<color=#EB7350>存档</color>名"
+     1 string english = "Choose a name for your <color=#EB7350>save file</color>."
+     1 string japanese = "<color=#EB7350>セーブ</color>に名前を入力"
+     1 string mchinese = "請輸入<color=#EB7350>存檔</color>名"
+   [25922]
+    0 TableSoItemLang data
+     0 int id = 1596172209
+     1 string schinese = "存档名称"
+     1 string schinese_censored = "存档名称"
+     1 string english = "Save File Name"
+     1 string japanese = "セーブ名"
+     1 string mchinese = "存檔名稱"
+   [25923]
+    0 TableSoItemLang data
+     0 int id = 1596172210
+     1 string schinese = "家族属性"
+     1 string schinese_censored = "家族属性"
+     1 string english = "Family Stats"
+     1 string japanese = "一族能力値"
+     1 string mchinese = "家族屬性"
+   [25924]
+    0 TableSoItemLang data
+     0 int id = 1596172211
+     1 string schinese = "特长图鉴收集度"
+     1 string schinese_censored = "特长图鉴收集度"
+     1 string english = "Trait Gallery Completion"
+     1 string japanese = "特技図鑑の達成率"
+     1 string mchinese = "特長圖鑒收集度"
+   [25925]
+    0 TableSoItemLang data
+     0 int id = 1596172212
+     1 string schinese = ""
+     1 string schinese_censored = ""
+     1 string english = ""
+     1 string japanese = ""
+     1 string mchinese = ""
+   [25926]
+    0 TableSoItemLang data
+     0 int id = 1596172213
+     1 string schinese = "删除存档"
+     1 string schinese_censored = "删除存档"
+     1 string english = "Delete Save"
+     1 string japanese = "セーブ削除"
+     1 string mchinese = "刪除存檔"
+   [25927]
+    0 TableSoItemLang data
+     0 int id = 1596172214
+     1 string schinese = "返回"
+     1 string schinese_censored = "返回"
+     1 string english = "Return"
+     1 string japanese = "戻る"
+     1 string mchinese = "返回"
+   [25928]
+    0 TableSoItemLang data
+     0 int id = 1596172215
+     1 string schinese = "确定"
+     1 string schinese_censored = "确定"
+     1 string english = "Confirm"
+     1 string japanese = "決定"
+     1 string mchinese = "確定"
+   [25929]
+    0 TableSoItemLang data
+     0 int id = 1596172216
+     1 string schinese = "族 谱"
+     1 string schinese_censored = "族 谱"
+     1 string english = "Family Tree"
+     1 string japanese = "系 譜"
+     1 string mchinese = "族 譜"
+   [25930]
+    0 TableSoItemLang data
+     0 int id = 1596172217
+     1 string schinese = "族谱"
+     1 string schinese_censored = "族谱"
+     1 string english = "Family Tree"
+     1 string japanese = "系譜"
+     1 string mchinese = "族譜"
+   [25931]
+    0 TableSoItemLang data
+     0 int id = 1596172218
+     1 string schinese = "学习路径"
+     1 string schinese_censored = "学习路径"
+     1 string english = "Study Route"
+     1 string japanese = "学習結果"
+     1 string mchinese = "學習路徑"
+   [25932]
+    0 TableSoItemLang data
+     0 int id = 1596172219
+     1 string schinese = "特长"
+     1 string schinese_censored = "特长"
+     1 string english = "Traits"
+     1 string japanese = "特技"
+     1 string mchinese = "特長"
+   [25933]
+    0 TableSoItemLang data
+     0 int id = 1596172220
+     1 string schinese = "依赖:"
+     1 string schinese_censored = "依赖:"
+     1 string english = "Affected by:"
+     1 string japanese = "関連："
+     1 string mchinese = "依賴:"
+   [25934]
+    0 TableSoItemLang data
+     0 int id = 1596172221
+     1 string schinese = "特长图鉴"
+     1 string schinese_censored = "特长图鉴"
+     1 string english = "Trait Gallery"
+     1 string japanese = "特技図鑑"
+     1 string mchinese = "特長圖鑒"
+   [25935]
+    0 TableSoItemLang data
+     0 int id = 1596172222
+     1 string schinese = "羁绊"
+     1 string schinese_censored = "羁绊"
+     1 string english = "Bond"
+     1 string japanese = "絆"
+     1 string mchinese = "羈絆"
+   [25936]
+    0 TableSoItemLang data
+     0 int id = 1596172223
+     1 string schinese = "接受"
+     1 string schinese_censored = "接受"
+     1 string english = "Accept"
+     1 string japanese = "引き受ける"
+     1 string mchinese = "接受"
+   [25937]
+    0 TableSoItemLang data
+     0 int id = 1596172224
+     1 string schinese = "弃权"
+     1 string schinese_censored = "弃权"
+     1 string english = "Forfeit"
+     1 string japanese = "放棄"
+     1 string mchinese = "棄權"
+   [25938]
+    0 TableSoItemLang data
+     0 int id = 1596172225
+     1 string schinese = "逃跑"
+     1 string schinese_censored = "逃跑"
+     1 string english = "Flee"
+     1 string japanese = "逃げる"
+     1 string mchinese = "逃跑"
+   [25939]
+    0 TableSoItemLang data
+     0 int id = 1596172226
+     1 string schinese = "开始"
+     1 string schinese_censored = "开始"
+     1 string english = "Start"
+     1 string japanese = "始める"
+     1 string mchinese = "開始"
+   [25940]
+    0 TableSoItemLang data
+     0 int id = 1596172227
+     1 string schinese = "获得"
+     1 string schinese_censored = "获得"
+     1 string english = "Acquire"
+     1 string japanese = "獲得"
+     1 string mchinese = "獲得"
+   [25941]
+    0 TableSoItemLang data
+     0 int id = 1596172228
+     1 string schinese = "消耗"
+     1 string schinese_censored = "消耗"
+     1 string english = "Spend"
+     1 string japanese = "消耗"
+     1 string mchinese = "消耗"
+   [25942]
+    0 TableSoItemLang data
+     0 int id = 1596172229
+     1 string schinese = "干劲×"

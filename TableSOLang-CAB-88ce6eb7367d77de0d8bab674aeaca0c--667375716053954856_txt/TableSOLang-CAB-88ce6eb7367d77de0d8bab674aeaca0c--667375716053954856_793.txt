@@ -1,0 +1,184 @@
+     1 string schinese_censored = "收取失败！"
+     1 string english = "Failure!"
+     1 string japanese = "要求失敗！"
+     1 string mchinese = "索取失敗！"
+   [18215]
+    0 TableSoItemLang data
+     0 int id = 1028216
+     1 string schinese = "面子值不足！"
+     1 string schinese_censored = "面子不足！"
+     1 string english = "Not enough Face!"
+     1 string japanese = "メンツ不足！"
+     1 string mchinese = "面子值不足！"
+   [18216]
+    0 TableSoItemLang data
+     0 int id = 1028217
+     1 string schinese = "我都没脸了，你还好意思要东西！给我好好表现吧！"
+     1 string schinese_censored = "我都没脸了，你还好意思要东西！给我好好表现吧！"
+     1 string english = "I don't have any Face left, and you think I'll give you something! Make me proud first!"
+     1 string japanese = "メンツも保ててないのに要求するな！もっとがんばれ！"
+     1 string mchinese = "我都沒臉了，你還好意思要東西！給我好好表現吧！"
+   [18217]
+    0 TableSoItemLang data
+     0 int id = 1028218
+     1 string schinese = "行动力不足！无法进行该项事务~"
+     1 string schinese_censored = "行动力不足！无法进行该项事务~"
+     1 string english = "Not enough Action to undertake this event."
+     1 string japanese = "行動力不足！この予定は実行できない！"
+     1 string mchinese = "行動力不足！無法進行該項事務~"
+   [18218]
+    0 TableSoItemLang data
+     0 int id = 1028219
+     1 string schinese = "{0}的工作终于完成了！获得零用钱：{1}！"
+     1 string schinese_censored = "{0}的工作终于完成了！获得零用钱：{1}！"
+     1 string english = "You finally finished the {0} work! Acquired pocket money: {1}!"
+     1 string japanese = "{0}が終わった！もらったお小遣い：{1}！"
+     1 string mchinese = "{0}的工作終於完成了！獲得零用錢：{1}！"
+   [18219]
+    0 TableSoItemLang data
+     0 int id = 1028220
+     1 string schinese = "图鉴完成度：{0}% ({1}/{2})"
+     1 string schinese_censored = "图鉴完成度：{0}% ({1}/{2})"
+     1 string english = "Gallery completion rate: {0}% ({1}/{2})"
+     1 string japanese = "図鑑完成度：{0}% ({1}/{2})"
+     1 string mchinese = "圖鑒完成度：{0}% ({1}/{2})"
+   [18220]
+    0 TableSoItemLang data
+     0 int id = 1028221
+     1 string schinese = "通过安排：{0}领悟"
+     1 string schinese_censored = "通过安排：{0}领悟"
+     1 string english = "From schedule: {0} Knowledge"
+     1 string japanese = "予定より：{0}理解"
+     1 string mchinese = "通過安排：{0}領悟"
+   [18221]
+    0 TableSoItemLang data
+     0 int id = 1028222
+     1 string schinese = "家族智商天赋+"
+     1 string schinese_censored = "家族智慧天赋+"
+     1 string english = "Family IQ Talent +"
+     1 string japanese = "一族の天賦ＩＱ+"
+     1 string mchinese = "家族智商天賦+"
+   [18222]
+    0 TableSoItemLang data
+     0 int id = 1028223
+     1 string schinese = "家族情商天赋+"
+     1 string schinese_censored = "家族情绪力天赋+"
+     1 string english = "Family EQ Talent +"
+     1 string japanese = "一族の天賦ＥＱ+"
+     1 string mchinese = "家族情商天賦+"
+   [18223]
+    0 TableSoItemLang data
+     0 int id = 1028224
+     1 string schinese = "家族想象力天赋+"
+     1 string schinese_censored = "家族想象力天赋+"
+     1 string english = "Family Imagination Talent +"
+     1 string japanese = "一族の天賦想像力+"
+     1 string mchinese = "家族想像力天賦+"
+   [18224]
+    0 TableSoItemLang data
+     0 int id = 1028225
+     1 string schinese = "家族记忆力天赋+"
+     1 string schinese_censored = "家族记忆力天赋+"
+     1 string english = "Family Memory Talent +"
+     1 string japanese = "一族の天賦記憶力+"
+     1 string mchinese = "家族記憶力天賦+"
+   [18225]
+    0 TableSoItemLang data
+     0 int id = 1028226
+     1 string schinese = "家族体魄天赋+"
+     1 string schinese_censored = "家族体魄天赋+"
+     1 string english = "Family Constitution Talent +"
+     1 string japanese = "一族の天賦体力+"
+     1 string mchinese = "家族體魄天賦+"
+   [18226]
+    0 TableSoItemLang data
+     0 int id = 1028227
+     1 string schinese = "已经无法再继续为父母赢得面子值了！"
+     1 string schinese_censored = "已经无法再继续为父母赢得面子了！"
+     1 string english = "You cannot win any more Face for your parents!"
+     1 string japanese = "もうこれ以上両親のメンツを保てない！"
+     1 string mchinese = "已經無法再繼續為父母贏得面子值了！"
+   [18227]
+    0 TableSoItemLang data
+     0 int id = 1028228
+     1 string schinese = "通 用"
+     1 string schinese_censored = "通 用"
+     1 string english = "General"
+     1 string japanese = "一般"
+     1 string mchinese = "通 用"
+   [18228]
+    0 TableSoItemLang data
+     0 int id = 1028229
+     1 string schinese = "情 绪"
+     1 string schinese_censored = "情 绪"
+     1 string english = "Mood"
+     1 string japanese = "感情"
+     1 string mchinese = "情 緒"
+   [18229]
+    0 TableSoItemLang data
+     0 int id = 1028230
+     1 string schinese = "体 育"
+     1 string schinese_censored = "体 育"
+     1 string english = "Physical Education"
+     1 string japanese = "体育"
+     1 string mchinese = "體 育"
+   [18230]
+    0 TableSoItemLang data
+     0 int id = 1028231
+     1 string schinese = "艺 术"
+     1 string schinese_censored = "艺 术"
+     1 string english = "Fine Arts"
+     1 string japanese = "芸術"
+     1 string mchinese = "藝 術"
+   [18231]
+    0 TableSoItemLang data
+     0 int id = 1028232
+     1 string schinese = "社 会"
+     1 string schinese_censored = "社 会"
+     1 string english = "Sociology"
+     1 string japanese = "社会"
+     1 string mchinese = "社 會"
+   [18232]
+    0 TableSoItemLang data
+     0 int id = 1028233
+     1 string schinese = "计算机"
+     1 string schinese_censored = "计算机"
+     1 string english = "Computer Science"
+     1 string japanese = "ＰＣ"
+     1 string mchinese = "電腦"
+   [18233]
+    0 TableSoItemLang data
+     0 int id = 1028234
+     1 string schinese = "表 演"
+     1 string schinese_censored = "表 演"
+     1 string english = "Performing Arts"
+     1 string japanese = "演技"
+     1 string mchinese = "表 演"
+   [18234]
+    0 TableSoItemLang data
+     0 int id = 1028235
+     1 string schinese = "财 富"
+     1 string schinese_censored = "财 富"
+     1 string english = "Finance"
+     1 string japanese = "財産"
+     1 string mchinese = "財 富"
+   [18235]
+    0 TableSoItemLang data
+     0 int id = 1028236
+     1 string schinese = "口 才"
+     1 string schinese_censored = "口 才"
+     1 string english = "Speechcraft"
+     1 string japanese = "弁舌"
+     1 string mchinese = "口 才"
+   [18236]
+    0 TableSoItemLang data
+     0 int id = 1028237
+     1 string schinese = "科 研"
+     1 string schinese_censored = "科 研"
+     1 string english = "Research"
+     1 string japanese = "研究"
+     1 string mchinese = "科 研"
+   [18237]
+    0 TableSoItemLang data
+     0 int id = 1028238
+     1 string schinese = "忍 者"

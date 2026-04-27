@@ -1,0 +1,184 @@
+     1 string schinese_censored = "这次的风格就定为"
+     1 string english = "So, the style for this composition will be "
+     1 string japanese = "今回のスタイルは…"
+     1 string mchinese = "這次的風格就定為"
+   [18721]
+    0 TableSoItemLang data
+     0 int id = 1028722
+     1 string schinese = "那就这样开始写吧！"
+     1 string schinese_censored = "那就这样开始写吧！"
+     1 string english = "Let's get writing!"
+     1 string japanese = "このスタイルで書き始めよう！"
+     1 string mchinese = "那就這樣開始寫吧！"
+   [18722]
+    0 TableSoItemLang data
+     0 int id = 1028723
+     1 string schinese = "完成了！不知道会得到什么奖呢？"
+     1 string schinese_censored = "完成了！不知道会得到什么奖呢？"
+     1 string english = "Finished! I wonder if I'll get any awards."
+     1 string japanese = "完成！どんな賞がもらえるかな？"
+     1 string mchinese = "完成了！不知道會得到什麼獎呢？"
+   [18723]
+    0 TableSoItemLang data
+     0 int id = 1028724
+     1 string schinese = "似乎没获得奖"
+     1 string schinese_censored = "似乎没获得奖"
+     1 string english = "I didn't win any awards."
+     1 string japanese = "受賞できなかったらしい"
+     1 string mchinese = "似乎沒獲得獎"
+   [18724]
+    0 TableSoItemLang data
+     0 int id = 1028725
+     1 string schinese = "获得了安慰奖，获得悟性{0}点"
+     1 string schinese_censored = "获得了安慰奖，获得悟性{0}点"
+     1 string english = "I got a consolation prize and acquired {0} Knowledge."
+     1 string japanese = "努力賞を受賞！理解力を獲得：{0}"
+     1 string mchinese = "獲得了安慰獎，獲得悟性{0}點"
+   [18725]
+    0 TableSoItemLang data
+     0 int id = 1028726
+     1 string schinese = "获得了入围奖，获得悟性{0}点"
+     1 string schinese_censored = "获得了入围奖，获得悟性{0}点"
+     1 string english = "I got a nominee prize and acquired {0} Knowledge."
+     1 string japanese = "佳作を受賞！理解力を獲得：{0}"
+     1 string mchinese = "獲得了入圍獎，獲得悟性{0}點"
+   [18726]
+    0 TableSoItemLang data
+     0 int id = 1028727
+     1 string schinese = "获得了大赛银奖，获得悟性{0}点"
+     1 string schinese_censored = "获得了大赛银奖，获得悟性{0}点"
+     1 string english = "I got the silver prize and acquired {0} Knowledge."
+     1 string japanese = "銀賞を受賞！理解力を獲得：{0}"
+     1 string mchinese = "獲得了大賽銀獎，獲得悟性{0}點"
+   [18727]
+    0 TableSoItemLang data
+     0 int id = 1028728
+     1 string schinese = "获得了大赛金奖，获得悟性{0}点"
+     1 string schinese_censored = "获得了大赛金奖，获得悟性{0}点"
+     1 string english = "I got the gold prize and acquired {0} Knowledge."
+     1 string japanese = "金賞を受賞！理解力を獲得：{0}"
+     1 string mchinese = "獲得了大賽金獎，獲得悟性{0}點"
+   [18728]
+    0 TableSoItemLang data
+     0 int id = 1028729
+     1 string schinese = "思想"
+     1 string schinese_censored = "思想"
+     1 string english = "Idea"
+     1 string japanese = "思想"
+     1 string mchinese = "思想"
+   [18729]
+    0 TableSoItemLang data
+     0 int id = 1028730
+     1 string schinese = "想象"
+     1 string schinese_censored = "想象"
+     1 string english = "Imagination"
+     1 string japanese = "想像力"
+     1 string mchinese = "想像"
+   [18730]
+    0 TableSoItemLang data
+     0 int id = 1028731
+     1 string schinese = "逻辑"
+     1 string schinese_censored = "逻辑"
+     1 string english = "Logic"
+     1 string japanese = "論理"
+     1 string mchinese = "邏輯"
+   [18731]
+    0 TableSoItemLang data
+     0 int id = 1028732
+     1 string schinese = "文笔"
+     1 string schinese_censored = "文笔"
+     1 string english = "Writing Style"
+     1 string japanese = "文章"
+     1 string mchinese = "文筆"
+   [18732]
+    0 TableSoItemLang data
+     0 int id = 1028733
+     1 string schinese = "结局大考"
+     1 string schinese_censored = "结局大考"
+     1 string english = "Gaokao"
+     1 string japanese = "最終試験"
+     1 string mchinese = "結局大考"
+   [18733]
+    0 TableSoItemLang data
+     0 int id = 1028734
+     1 string schinese = "需习得"
+     1 string schinese_censored = "需习得"
+     1 string english = "Need to learn: "
+     1 string japanese = "要習得："
+     1 string mchinese = "需習得"
+   [18734]
+    0 TableSoItemLang data
+     0 int id = 1028735
+     1 string schinese = "完成了父母的期望："
+     1 string schinese_censored = "完成了父母的期望："
+     1 string english = "You fulfilled your parents' expectation:"
+     1 string japanese = "達成済みの両親の期待："
+     1 string mchinese = "完成了父母的期望："
+   [18735]
+    0 TableSoItemLang data
+     0 int id = 1028736
+     1 string schinese = "安排一下这一季要做的事情吧！\n\n点击此处可切换<color=#EB7350>【学习】</color>事务和<color=#EB7350>【娱乐】</color>事务"
+     1 string schinese_censored = "安排一下这一季要做的事情吧！\n\n点击此处可切换<color=#EB7350>【学习】</color>事务和<color=#EB7350>【娱乐】</color>事务"
+     1 string english = "Plan for what you need to finish this turn!\n\nClick here to change <color=#EB7350>[Study]</color> activities and/or <color=#EB7350>[Entertainment]</color> activities."
+     1 string japanese = "予定を組もう！\n\nここを選択すると<color=#EB7350>【学習】</color>の予定と<color=#EB7350>【娯楽】</color>の予定を切り替えられる！"
+     1 string mchinese = "安排一下這一季要做的事情吧！\n\n點擊此處可切換<color=#EB7350>【學習】</color>事務和<color=#EB7350>【娛樂】</color>事務"
+   [18736]
+    0 TableSoItemLang data
+     0 int id = 1028737
+     1 string schinese = "点击此处可通过<color=#EB7350>【全部】</color>和<color=#EB7350>【推荐】</color>，进行事务的筛选！"
+     1 string schinese_censored = "点击此处可通过<color=#EB7350>【全部】</color>和<color=#EB7350>【推荐】</color>，进行事务的筛选！"
+     1 string english = "Click <color=#EB7350>[All]</color> or <color=#EB7350>[Rec.]</color> to change displayed activities."
+     1 string japanese = "<color=#EB7350>【全部】</color>と<color=#EB7350>【推奨】</color>のフィルタの切り替えは、ここを選択！"
+     1 string mchinese = "點擊此處可通過<color=#EB7350>【全部】</color>和<color=#EB7350>【推薦】</color>，進行事務的篩選！"
+   [18737]
+    0 TableSoItemLang data
+     0 int id = 1028738
+     1 string schinese = "点击此处可进行筛选"
+     1 string schinese_censored = "点击此处可进行筛选"
+     1 string english = "Click here to change what is displayed."
+     1 string japanese = "フィルタの切り替えはこれらを選択！"
+     1 string mchinese = "點擊此處可進行篩選"
+   [18738]
+    0 TableSoItemLang data
+     0 int id = 1028739
+     1 string schinese = "选中所需查看的安排条目！\n\n再次点击可将此项安排进日程中"
+     1 string schinese_censored = "选中所需查看的安排条目！\n\n再次点击可将此项安排进日程中"
+     1 string english = "Select an activity you wish to view!\n\nClick it again to plan it into your schedule."
+     1 string japanese = "項目を選択して選ぼう！\n\nもう一度選択すると、予定に追加できる"
+     1 string mchinese = "選中所需查看的安排條目！\n\n再次點擊可將此項安排進日程中"
+   [18739]
+    0 TableSoItemLang data
+     0 int id = 1028740
+     1 string schinese = "可查看当前选中事务的具体信息。\n\n下面，我们将日程排满吧！"
+     1 string schinese_censored = "可查看当前选中事务的具体信息。\n\n下面，我们将日程排满吧！"
+     1 string english = "You can check information regarding all of your selected activities.\n\nNext up, let's fill our schedule for today!"
+     1 string japanese = "選択中の項目の詳細だ。\n\nさあ、予定を埋めよう！"
+     1 string mchinese = "可查看當前選中事務的具體資訊。\n\n下麵，我們將日程排滿吧！"
+   [18740]
+    0 TableSoItemLang data
+     0 int id = 1028741
+     1 string schinese = "如果行动力都消耗光了，那可以试试点击<color=#EB7350>【安排】</color>进入下一回合！并等待行动力的恢复！\n\n游戏一共48回合，每回合大家都不要忘记挖脑洞哟~~"
+     1 string schinese_censored = "如果行动力都消耗光了，那可以试试点击<color=#EB7350>【安排】</color>进入下一回合！并等待行动力的恢复！\n\n游戏一共48回合，每回合大家都不要忘记挖脑洞哟~~"
+     1 string english = "When you have used up all of your Action, try clicking on <color=#EB7350>[Schedule]</color> to begin the next turn, and wait for our Action to replenish!\n\nThe game consists of 48 turns, so don't forget to absorb fragments in each one of them!"
+     1 string japanese = "行動力がなくなったら<color=#EB7350>【予定】</color>を選択して次のターンへ進み、行動力を回復しよう！\n\nゲームのターンは全部で４８。カケラを吸収してから、次のターンへ進もう！"
+     1 string mchinese = "如果行動力都消耗光了，那可以試試點擊<color=#EB7350>【安排】</color>進入下一回合！並等待行動力的恢復！\n\n遊戲一共48回合，每回合大家都不要忘記挖腦洞喲~~"
+   [18741]
+    0 TableSoItemLang data
+     0 int id = 1028742
+     1 string schinese = "不同年龄，父母会提供<color=#EB7350>【娱乐】</color>项目供玩家挑选。\n\n当然前提是得给父母挣得<color=#EB7350>【足够的面子值】</color>和好运气！"
+     1 string schinese_censored = "不同年龄，父母会提供<color=#EB7350>【娱乐】</color>项目供玩家挑选。\n\n当然前提是得给父母挣得<color=#EB7350>【足够的面子】</color>和好运气！"
+     1 string english = "Your parents will provide you with different <color=#EB7350>[Entertainment]</color> activities according to your age.\n\nOf course, the precondition is that your parents have <color=#EB7350>[enough Face]</color> and that you’re lucky!"
+     1 string japanese = "年齢に応じて両親は<color=#EB7350>【娯楽】</color>を用意してくれる。\n\nもちろん獲得するには<color=#EB7350>【メンツ】</color>と運が必要だよ！"
+     1 string mchinese = "不同年齡，父母會提供<color=#EB7350>【娛樂】</color>專案供玩家挑選。\n\n當然前提是得給父母掙得<color=#EB7350>【足夠的面子值】</color>和好運氣！"
+   [18742]
+    0 TableSoItemLang data
+     0 int id = 1028743
+     1 string schinese = "向<color=#EB7350>父母索取的次数</color>，每隔一段时间都会增加！\n\n如果平时表现较好，也会有<color=#EB7350>额外的次数</color>！"
+     1 string schinese_censored = "向<color=#EB7350>父母送礼物的次数</color>，每隔一段时间都会增加！\n\n如果平时表现较好，也会有<color=#EB7350>额外的次数</color>！"
+     1 string english = "The number of <color=#EB7350>requests you can make of your parents</color> increases over time!\n\nYou can make <color=#EB7350>extra requests</color> if you behave well!"
+     1 string japanese = "両親への<color=#EB7350>要求回数</color>は時間が経つと増加する！\n\n普段から良い子にしていれば<color=#EB7350>ボーナス回数</color>がもらえるかも！"
+     1 string mchinese = "向<color=#EB7350>父母索取的次數</color>，每隔一段時間都會增加！\n\n如果平時表現較好，也會有<color=#EB7350>額外的次數</color>！"
+   [18743]
+    0 TableSoItemLang data
+     0 int id = 1028744
+     1 string schinese = "成长没有难度选项，你也一样。\n\n下面我将引导您，在中国式家长的困境下，艰难成长！"

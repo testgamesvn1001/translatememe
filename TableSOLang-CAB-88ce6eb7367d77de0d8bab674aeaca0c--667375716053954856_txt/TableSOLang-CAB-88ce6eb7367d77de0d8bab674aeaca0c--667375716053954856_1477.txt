@@ -1,0 +1,184 @@
+     1 string schinese_censored = "别忘了学习！"
+     1 string english = "後續功能，暫不翻譯99994651"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "別忘了學習！"
+   [33947]
+    0 TableSoItemLang data
+     0 int id = 99994652
+     1 string schinese = "只画画不学习，可当不成美术生哟！"
+     1 string schinese_censored = "只画画不学习，可当不成美术生哟！"
+     1 string english = "後續功能，暫不翻譯99994652"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "只畫畫不學習，可當不成美術生喲！"
+   [33948]
+    0 TableSoItemLang data
+     0 int id = 99994653
+     1 string schinese = "雪糕"
+     1 string schinese_censored = "雪糕"
+     1 string english = "Ice Cream"
+     1 string japanese = "アイスクリーム"
+     1 string mchinese = "雪糕"
+   [33949]
+    0 TableSoItemLang data
+     0 int id = 99994654
+     1 string schinese = "冰镇西瓜"
+     1 string schinese_censored = "冰镇西瓜"
+     1 string english = "Iced Watermelon"
+     1 string japanese = "冷やしスイカ"
+     1 string mchinese = "冰鎮西瓜"
+   [33950]
+    0 TableSoItemLang data
+     0 int id = 99994655
+     1 string schinese = "酸梅汤"
+     1 string schinese_censored = "酸梅汤"
+     1 string english = "Hawthorn Juice"
+     1 string japanese = "酸梅湯"
+     1 string mchinese = "酸梅湯"
+   [33951]
+    0 TableSoItemLang data
+     0 int id = 99994656
+     1 string schinese = "防晒霜"
+     1 string schinese_censored = "防晒霜"
+     1 string english = "Sun Cream"
+     1 string japanese = "日焼け止め"
+     1 string mchinese = "防曬霜"
+   [33952]
+    0 TableSoItemLang data
+     0 int id = 99994657
+     1 string schinese = "月饼"
+     1 string schinese_censored = "月饼"
+     1 string english = "Mooncake"
+     1 string japanese = "月餅"
+     1 string mchinese = "月餅"
+   [33953]
+    0 TableSoItemLang data
+     0 int id = 99994658
+     1 string schinese = "游乐场门票"
+     1 string schinese_censored = "游乐场门票"
+     1 string english = "Amusement Park Ticket"
+     1 string japanese = "入場チケット"
+     1 string mchinese = "遊樂場門票"
+   [33954]
+    0 TableSoItemLang data
+     0 int id = 99994659
+     1 string schinese = "桂花糖"
+     1 string schinese_censored = "桂花糖"
+     1 string english = "Osmanthus Candy"
+     1 string japanese = "金木犀ゼリー"
+     1 string mchinese = "桂花糖"
+   [33955]
+    0 TableSoItemLang data
+     0 int id = 99994660
+     1 string schinese = "旅游券"
+     1 string schinese_censored = "旅游券"
+     1 string english = "Vacation Ticket"
+     1 string japanese = "観光クーポン"
+     1 string mchinese = "旅遊券"
+   [33956]
+    0 TableSoItemLang data
+     0 int id = 99994661
+     1 string schinese = "惊！这个笑脸雪糕，竟然没有冻到变形！\n压力-10"
+     1 string schinese_censored = "惊！这个笑脸雪糕，竟然没有冻到变形！\n压力-10"
+     1 string english = "It's in the shape of a (melting) face!\nStress -10"
+     1 string japanese = "えっ、スマイリーアイスがそのままで凍ってる！\nストレス-10"
+     1 string mchinese = "驚！ 這個笑臉雪糕，竟然沒有凍到變形！ \n壓力-10"
+   [33957]
+    0 TableSoItemLang data
+     0 int id = 99994662
+     1 string schinese = "爱ta，就把西瓜最中间的一勺瓜瓤让给ta！\n压力-15"
+     1 string schinese_censored = "爱ta，就把西瓜最中间的一勺瓜瓤让给ta！\n压力-15"
+     1 string english = "A cool slice to gift to your loved ones!\nStress -15"
+     1 string japanese = "ねえ、実の真ん中の部分だけほしいなあ～。\nストレス-15"
+     1 string mchinese = "愛ta，就把西瓜最中間的一勺瓜瓤讓給ta！ \n壓力-15"
+   [33958]
+    0 TableSoItemLang data
+     0 int id = 99994663
+     1 string schinese = "酸梅汤还是冰阔落，这是个问题。\n父母满意度+35"
+     1 string schinese_censored = "酸梅汤还是冰阔落，这是个问题。\n父母满意度+35"
+     1 string english = "Hmm... This, or cola? Tough choice.\nSatisfaction +35"
+     1 string japanese = "酸梅湯かコーラか選べない！\n両親の満足度+35"
+     1 string mchinese = "酸梅湯還是冰闊落，這是個問題。 \n父母滿意度+35"
+   [33959]
+    0 TableSoItemLang data
+     0 int id = 99994664
+     1 string schinese = "零重力小白伞防晒隔离精华，SPF100+PA++++！！！\n父母满意度+50"
+     1 string schinese_censored = "零重力小白伞防晒隔离精华，SPF100+PA++++！！！\n父母满意度+50"
+     1 string english = "Parasol: check. Sun cream: it's got to be SPF 100+ PA+++!\nSatisfaction +50"
+     1 string japanese = "ゼログラビティホワイトアンブレラアイソレーションエッセンスSPF100+PA++++！\n両親の満足度+50"
+     1 string mchinese = "零重力小白傘防曬隔離精華，SPF100+PA++++!!! \n父母滿意度+50"
+   [33960]
+    0 TableSoItemLang data
+     0 int id = 99994665
+     1 string schinese = "小朋友，你是要这个甜月饼，还是这个咸月饼，还是这个五仁月饼呢？\n压力-10"
+     1 string schinese_censored = "小朋友，你是要这个甜月饼，还是这个咸月饼，还是这个五仁月饼呢？\n压力-10"
+     1 string english = "What filling d'you want: sweet, savory or five-nut?\nStress -10"
+     1 string japanese = "落としたのは甘い月餅か香ばしい月餅ですか？それとも五仁月餅ですか？\nストレス-10"
+     1 string mchinese = "小朋友，你是要這個甜月餅，還是這個鹹月餅，還是這個五仁月餅呢？ \n壓力-10"
+   [33961]
+    0 TableSoItemLang data
+     0 int id = 99994666
+     1 string schinese = "门票只能让你进游乐场，玩儿游戏还是得单独买票。\n压力-15"
+     1 string schinese_censored = "门票只能让你进游乐场，玩儿游戏还是得单独买票。\n压力-15"
+     1 string english = "Gets you in the park. Then, you need tickets for each ride...\nStress -15"
+     1 string japanese = "このチケットは入れるだけ。遊ぶには別のチケットが必要だよ。\nストレス-15"
+     1 string mchinese = "門票只能讓你進遊樂場，玩兒遊戲還是得單獨買票。 \n壓力-15"
+   [33962]
+    0 TableSoItemLang data
+     0 int id = 99994667
+     1 string schinese = "甜糯绵软，香郁适口，爸妈完全停不下来！\n父母满意度+35"
+     1 string schinese_censored = "甜糯绵软，香郁适口，爸妈完全停不下来！\n父母满意度+35"
+     1 string english = "Sweet, fragrant, and your parents' favorite!\nSatisfaction +35"
+     1 string japanese = "甘くてもちもちで濃厚な美味しさに両親が夢中！\n両親の満足度+35"
+     1 string mchinese = "甜糯綿軟，香鬱適口，爸媽完全停不下來！ \n父母滿意度+35"
+   [33963]
+    0 TableSoItemLang data
+     0 int id = 99994668
+     1 string schinese = "爸爸妈妈出去旅游，孩子获得电视自由！\n父母满意度+50"
+     1 string schinese_censored = "爸爸妈妈出去旅游，孩子获得电视自由！\n父母满意度+50"
+     1 string english = "Parents heading off on vacation—that means I can watch TV all day!\nSatisfaction +50"
+     1 string japanese = "両親が旅行に出た。あなたはテレビ視聴の自由を手に入れた！\n両親の満足度+50"
+     1 string mchinese = "爸爸媽媽出去旅遊，孩子獲得電視自由！ \n父母滿意度+50"
+   [33964]
+    0 TableSoItemLang data
+     0 int id = 99994669
+     1 string schinese = "这是给我冰的？大夏天的，下班回家就有准备好的冰镇酸梅汤喝！真是个孝顺孩子！"
+     1 string schinese_censored = "这是给我冰的？大夏天的，下班回家就有准备好的冰镇酸梅汤喝！真是个孝顺孩子！"
+     1 string english = "For me? Ah, something to cool me off after work! You're a good kid!"
+     1 string japanese = "俺のために？帰ってすぐに冷えた酸梅湯が飲めるなんて、本当に親孝行のいい子だ！"
+     1 string mchinese = "這是給我冰的？大夏天的，下班回家就有準備好的冰鎮酸梅湯喝！真是個孝順孩子！"
+   [33965]
+    0 TableSoItemLang data
+     0 int id = 99994670
+     1 string schinese = "哎呀，这么讲究！我早就想要这款防晒啦！"
+     1 string schinese_censored = "哎呀，这么讲究！我早就想要这款防晒啦！"
+     1 string english = "Oho, how thoughtful! How'd you know I wanted this?"
+     1 string japanese = "えっ、本当！？前からこの日焼け止めが欲しかったの！"
+     1 string mchinese = "哎呀，這麼講究！我早就想要這款防曬啦！"
+   [33966]
+    0 TableSoItemLang data
+     0 int id = 99994671
+     1 string schinese = "正好，看电视的时候正缺个零食！"
+     1 string schinese_censored = "正好，看电视的时候正缺个零食！"
+     1 string english = "Perfect! Something to snack on while I watch TV!"
+     1 string japanese = "テレビを観るのに丁度おつまみがほしかったの！"
+     1 string mchinese = "正好，看電視的時候正缺個零食！"
+   [33967]
+    0 TableSoItemLang data
+     0 int id = 99994672
+     1 string schinese = "我们去去就回，你在家可别一直看电视啊！"
+     1 string schinese_censored = "我们去去就回，你在家可别一直看电视啊！"
+     1 string english = "We'll be back before long! Don't watch TV all day!"
+     1 string japanese = "すぐに帰ってくるぞ。テレビばかり観るなよ！"
+     1 string mchinese = "我們去去就回，你在家可別一直看電視啊！"
+   [33968]
+    0 TableSoItemLang data
+     0 int id = 99994673
+     1 string schinese = "爸爸"
+     1 string schinese_censored = "爸爸"
+     1 string english = "Dad"
+     1 string japanese = "父"
+     1 string mchinese = "爸爸"
+   [33969]
+    0 TableSoItemLang data
+     0 int id = 99994674
+     1 string schinese = "妈妈"

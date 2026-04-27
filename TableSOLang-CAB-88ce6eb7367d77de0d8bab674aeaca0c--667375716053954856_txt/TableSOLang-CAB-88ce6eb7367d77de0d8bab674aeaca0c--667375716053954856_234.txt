@@ -1,0 +1,184 @@
+     1 string schinese_censored = "你们也别羡慕我，我也是一步步走过来的呀，听我的，先定个小目标，赚他一个亿，再慢慢发展嘛\n<color=#EB7350>#先定个小目标#</color>"
+     1 string english = "We're only worth 100 million.\n<color=#EB7350>#100 Million#</color>"
+     1 string japanese = "私を妬む人がいるがね、私もコツコツ努力したんだ。あなたもコツコツやりなさい。\n<color=#EB7350>＃小さなことからコツコツと</color>"
+     1 string mchinese = "你們也別羡慕我，我也是一步步走過來的呀，聽我的，先定個小目標，賺他一個億，再慢慢發展嘛\n<color=#EB7350>#先定個小目標#</color>"
+   [5358]
+    0 TableSoItemLang data
+     0 int id = 1015359
+     1 string schinese = "我家孩子最近上国外的新闻，说是千年一遇的大美女！\n<color=#EB7350>#无法掩盖的美丽#</color>"
+     1 string schinese_censored = "我家孩子最近上国外的新闻，说是千年一遇的大美女！\n<color=#EB7350>#无法掩盖的美丽#</color>"
+     1 string english = "Hello, miss world next?\n<color=#EB7350>#Radiant Beauty#</color>"
+     1 string japanese = "ウチの子が海外ニュースに取り上げられたの！１０００年に１人の美人ですって！\n<color=#EB7350>＃溢れ出る美しさ</color>"
+     1 string mchinese = "我家孩子最近上國外的新聞，說是千年一遇的大美女！\n<color=#EB7350>#無法掩蓋的美麗#</color>"
+   [5359]
+    0 TableSoItemLang data
+     0 int id = 1015360
+     1 string schinese = "前几天上网的时候看到有人称我家孩子在世图灵，虽然不知道什么意思但是感觉很厉害！\n<color=#EB7350>#整这些虚头八脑的#</color>"
+     1 string schinese_censored = "前几天上网的时候看到有人称我家孩子在世图灵，虽然不知道什么意思但是感觉很厉害！\n<color=#EB7350>#整这些虚头八脑的#</color>"
+     1 string english = "They say my child is the master of VR!\n<color=#EB7350>#VR#</color>"
+     1 string japanese = "ウチの子がネットでチューリングって呼ばれてたの。わからないけど、すごいの？\n<color=#EB7350>＃わかってるクセに</color>"
+     1 string mchinese = "前幾天上網的時候看到有人稱我家孩子在世圖靈，雖然不知道什麼意思但是感覺很厲害！\n<color=#EB7350>#整這些虛頭八腦的#</color>"
+   [5360]
+    0 TableSoItemLang data
+     0 int id = 1015361
+     1 string schinese = "不理睬"
+     1 string schinese_censored = "不理睬"
+     1 string english = "Emotional Abuse"
+     1 string japanese = "無視"
+     1 string mchinese = "不理睬"
+   [5361]
+    0 TableSoItemLang data
+     0 int id = 1015362
+     1 string schinese = "背书"
+     1 string schinese_censored = "背书"
+     1 string english = "Tough Love"
+     1 string japanese = "家庭内暴力"
+     1 string mchinese = "背書"
+   [5362]
+    0 TableSoItemLang data
+     0 int id = 1015363
+     1 string schinese = "责备"
+     1 string schinese_censored = "责备"
+     1 string english = "Verbal Insult"
+     1 string japanese = "言葉の暴力"
+     1 string mchinese = "責備"
+   [5363]
+    0 TableSoItemLang data
+     0 int id = 1015364
+     1 string schinese = "罚站"
+     1 string schinese_censored = "罚站"
+     1 string english = "Punishment"
+     1 string japanese = "叱責"
+     1 string mchinese = "罰站"
+   [5364]
+    0 TableSoItemLang data
+     0 int id = 1015365
+     1 string schinese = "不吃晚饭"
+     1 string schinese_censored = "不吃晚饭"
+     1 string english = "Intimidation"
+     1 string japanese = "恐喝"
+     1 string mchinese = "不吃晚飯"
+   [5365]
+    0 TableSoItemLang data
+     0 int id = 1015366
+     1 string schinese = "对比"
+     1 string schinese_censored = "对比"
+     1 string english = "Comparison"
+     1 string japanese = "比較"
+     1 string mchinese = "對比"
+   [5366]
+    0 TableSoItemLang data
+     0 int id = 1015367
+     1 string schinese = "放弃"
+     1 string schinese_censored = "放弃"
+     1 string english = "Indulgence"
+     1 string japanese = "放棄"
+     1 string mchinese = "放棄"
+   [5367]
+    0 TableSoItemLang data
+     0 int id = 1015368
+     1 string schinese = "陪伴"
+     1 string schinese_censored = "陪伴"
+     1 string english = "Companion"
+     1 string japanese = "親密"
+     1 string mchinese = "陪伴"
+   [5368]
+    0 TableSoItemLang data
+     0 int id = 1015369
+     1 string schinese = "奖励"
+     1 string schinese_censored = "奖励"
+     1 string english = "Reward"
+     1 string japanese = "ご褒美"
+     1 string mchinese = "獎勵"
+   [5369]
+    0 TableSoItemLang data
+     0 int id = 1015370
+     1 string schinese = "鼓励"
+     1 string schinese_censored = "鼓励"
+     1 string english = "Encouragement"
+     1 string japanese = "激励"
+     1 string mchinese = "鼓勵"
+   [5370]
+    0 TableSoItemLang data
+     0 int id = 1015371
+     1 string schinese = "安全感"
+     1 string schinese_censored = "安全感"
+     1 string english = "Sense of Security"
+     1 string japanese = "安心感"
+     1 string mchinese = "安全感"
+   [5371]
+    0 TableSoItemLang data
+     0 int id = 1015372
+     1 string schinese = "适当的压力"
+     1 string schinese_censored = "适当的压力"
+     1 string english = "Moderate Stress"
+     1 string japanese = "適度なストレス"
+     1 string mchinese = "適當的壓力"
+   [5372]
+    0 TableSoItemLang data
+     0 int id = 1015373
+     1 string schinese = "井井有条"
+     1 string schinese_censored = "井井有条"
+     1 string english = "Well Organized"
+     1 string japanese = "理路整然"
+     1 string mchinese = "井井有條"
+   [5373]
+    0 TableSoItemLang data
+     0 int id = 1015374
+     1 string schinese = "不卑不亢"
+     1 string schinese_censored = "不卑不亢"
+     1 string english = "Peaceful Mind"
+     1 string japanese = "平常心"
+     1 string mchinese = "不卑不亢"
+   [5374]
+    0 TableSoItemLang data
+     0 int id = 1015375
+     1 string schinese = "压力过大"
+     1 string schinese_censored = "压力过大"
+     1 string english = "Stressed Out"
+     1 string japanese = "過度のストレス"
+     1 string mchinese = "壓力過大"
+   [5375]
+    0 TableSoItemLang data
+     0 int id = 1015376
+     1 string schinese = "疲惫不堪"
+     1 string schinese_censored = "疲惫不堪"
+     1 string english = "Fatigued"
+     1 string japanese = "疲労困憊"
+     1 string mchinese = "疲憊不堪"
+   [5376]
+    0 TableSoItemLang data
+     0 int id = 1015377
+     1 string schinese = "厌倦"
+     1 string schinese_censored = "厌倦"
+     1 string english = "Bored"
+     1 string japanese = "疲弊"
+     1 string mchinese = "厭倦"
+   [5377]
+    0 TableSoItemLang data
+     0 int id = 1015378
+     1 string schinese = "父母三四天都不理睬你，表达自己的不满！"
+     1 string schinese_censored = "父母三四天都不理睬你，表达自己的不满！"
+     1 string english = "Your parents have ignored you for days to show their discontent!"
+     1 string japanese = "両親から４日間ほど無視された。不満があったらしい！"
+     1 string mchinese = "父母三四天都不理睬你，表達自己的不滿！"
+   [5378]
+    0 TableSoItemLang data
+     0 int id = 1015379
+     1 string schinese = "因为你不听话，父亲让你背二十四孝好好学学！"
+     1 string schinese_censored = "因为你不听话，父亲让你背二十四孝好好学学！"
+     1 string english = "The bamboo stick or the belt... Pick your poison!"
+     1 string japanese = "この定規やベルトは、あなたを叩くためにあるよ！"
+     1 string mchinese = "因為你不聽話，父親讓你背二十四孝好好學學！"
+   [5379]
+    0 TableSoItemLang data
+     0 int id = 1015380
+     1 string schinese = "你怎么可以这个样子？！"
+     1 string schinese_censored = "你怎么可以这个样子？！"
+     1 string english = "“I regret having you!”"
+     1 string japanese = "一番の後悔はあなたを産んだことよ！"
+     1 string mchinese = "你怎麼可以這個樣子？！"
+   [5380]
+    0 TableSoItemLang data
+     0 int id = 1015381
+     1 string schinese = "你太过分了！给我罚站去，俩小时！快！"

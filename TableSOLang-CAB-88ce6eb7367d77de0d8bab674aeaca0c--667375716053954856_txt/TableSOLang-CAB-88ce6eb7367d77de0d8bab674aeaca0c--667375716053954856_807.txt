@@ -1,0 +1,184 @@
+     1 string schinese_censored = "彩票一等奖{0}次"
+     1 string english = "Won the lottery grand prize {0} time(s)."
+     1 string japanese = "宝くじで一等賞に当せんした回数：{0}"
+     1 string mchinese = "彩票一等獎{0}次"
+   [18537]
+    0 TableSoItemLang data
+     0 int id = 1028538
+     1 string schinese = "高考{0}"
+     1 string schinese_censored = "高考{0}"
+     1 string english = "Gaokao {0}"
+     1 string japanese = "大学入試成績：{0}"
+     1 string mchinese = "高考{0}"
+   [18538]
+    0 TableSoItemLang data
+     0 int id = 1028539
+     1 string schinese = "*每个存档最多可以存{0}代"
+     1 string schinese_censored = "*每个存档最多可以存{0}代"
+     1 string english = "* Maximum of {0} generations can be displayed."
+     1 string japanese = "*セーブデータには最大{0}世代まで保存できます"
+     1 string mchinese = "*每個存檔最多可以存{0}代"
+   [18539]
+    0 TableSoItemLang data
+     0 int id = 1028540
+     1 string schinese = "离家出走"
+     1 string schinese_censored = "离家出走"
+     1 string english = "Leave Home"
+     1 string japanese = "家出"
+     1 string mchinese = "離家出走"
+   [18540]
+    0 TableSoItemLang data
+     0 int id = 1028541
+     1 string schinese = "生平不详"
+     1 string schinese_censored = "生平不详"
+     1 string english = "Birthdate unknown"
+     1 string japanese = "詳細不明"
+     1 string mchinese = "生平不詳"
+   [18541]
+    0 TableSoItemLang data
+     0 int id = 1028542
+     1 string schinese = "闲话家常获胜{0}次"
+     1 string schinese_censored = "闲话家常获胜{0}次"
+     1 string english = "{0} Face Challenge(s) won."
+     1 string japanese = "メンツ挑戦勝利回数：{0}"
+     1 string mchinese = "閒話家常獲勝{0}次"
+   [18542]
+    0 TableSoItemLang data
+     0 int id = 1028543
+     1 string schinese = "公告"
+     1 string schinese_censored = "公告"
+     1 string english = "Notice"
+     1 string japanese = "お知らせ"
+     1 string mchinese = "公告"
+   [18543]
+    0 TableSoItemLang data
+     0 int id = 1028544
+     1 string schinese = "通过这次考试，面子值"
+     1 string schinese_censored = "通过这次考试，面子"
+     1 string english = "After this exam, your Face"
+     1 string japanese = "今回の試験後のメンツ"
+     1 string mchinese = "通過這次考試，面子值"
+   [18544]
+    0 TableSoItemLang data
+     0 int id = 1028545
+     1 string schinese = "面子值没有变化"
+     1 string schinese_censored = "面子没有变化"
+     1 string english = "Face remains unchanged."
+     1 string japanese = "メンツに変化なし"
+     1 string mchinese = "面子值沒有變化"
+   [18545]
+    0 TableSoItemLang data
+     0 int id = 1028546
+     1 string schinese = "剩余{0}回合"
+     1 string schinese_censored = "剩余{0}回合"
+     1 string english = "{0} turn(s) remaining."
+     1 string japanese = "残りターン：{0}"
+     1 string mchinese = "剩餘{0}回合"
+   [18546]
+    0 TableSoItemLang data
+     0 int id = 1028547
+     1 string schinese = "无可奈何"
+     1 string schinese_censored = "无可奈何"
+     1 string english = "Helpless"
+     1 string japanese = "どうしようもない"
+     1 string mchinese = "無可奈何"
+   [18547]
+    0 TableSoItemLang data
+     0 int id = 1028548
+     1 string schinese = "\n<color=#d22f00>#没有别的可聊了#</color>"
+     1 string schinese_censored = "\n<color=#d22f00>#没有拿得出手的特长了#</color>"
+     1 string english = "\n<color=#d22f00>#Didn't retort with any trait at all.#</color>"
+     1 string japanese = "\n<color=#d22f00>＃出せる特技がない</color>"
+     1 string mchinese = "\n<color=#d22f00>#沒有別的可聊了#</color>"
+   [18548]
+    0 TableSoItemLang data
+     0 int id = 1028549
+     1 string schinese = "\n<color=#d22f00>#特长：{0}#</color>"
+     1 string schinese_censored = "\n<color=#d22f00>#炫耀特长：{0}#</color>"
+     1 string english = "\n<color=#d22f00>#Flaunt trait: {0}#</color>"
+     1 string japanese = "\n<color=#d22f00>＃特技自慢：{0}</color>"
+     1 string mchinese = "\n<color=#d22f00>#特長：{0}#</color>"
+   [18549]
+    0 TableSoItemLang data
+     0 int id = 1028550
+     1 string schinese = "没什么可聊的了，让父母很尴尬！"
+     1 string schinese_censored = "气势完全被压下去了，让父母很没面子！"
+     1 string english = "The momentum was completely broken and your parents lose face!"
+     1 string japanese = "相手に圧倒された！両親のメンツが潰れた！"
+     1 string mchinese = "沒什麼可聊的了，讓父母很尷尬！"
+   [18550]
+    0 TableSoItemLang data
+     0 int id = 1028551
+     1 string schinese = "对方完全被你们一家的精彩生活镇住了！掌控全场！"
+     1 string schinese_censored = "对方完全被你们一家的气势镇住了！大有面子！"
+     1 string english = "The opponent was completely shredded by your family! Face aplenty!"
+     1 string japanese = "相手を圧倒し、メンツを保った！"
+     1 string mchinese = "對方完全被你們一家的精彩生活鎮住了！掌控全場！"
+   [18551]
+    0 TableSoItemLang data
+     0 int id = 1028552
+     1 string schinese = "一番商业互吹，对方略胜一筹！"
+     1 string schinese_censored = "一番唇枪舌剑，对方略胜一筹！"
+     1 string english = "You cross verbal swords, but the opponent was one notch above you!"
+     1 string japanese = "激論の末に、やや負けている！"
+     1 string mchinese = "一番商業互吹，對方略勝一籌！"
+   [18552]
+    0 TableSoItemLang data
+     0 int id = 1028553
+     1 string schinese = "这波闲话家常结束后，我方"
+     1 string schinese_censored = "这波闲话家常结束后，我方面子"
+     1 string english = "After this Face Duel, your Face"
+     1 string japanese = "メンツバトル後のメンツ"
+     1 string mchinese = "這波閒話家常結束後，我方"
+   [18553]
+    0 TableSoItemLang data
+     0 int id = 1028554
+     1 string schinese = "看来对方也不过如此"
+     1 string schinese_censored = "看来对方也不过如此"
+     1 string english = "The opponent didn't even put up a fight."
+     1 string japanese = "相手も大したことない"
+     1 string mchinese = "看來對方也不過如此"
+   [18554]
+    0 TableSoItemLang data
+     0 int id = 1028555
+     1 string schinese = "哟，真是厉害啊！"
+     1 string schinese_censored = "哟，真是厉害啊！"
+     1 string english = "Humph, you're not so bad!"
+     1 string japanese = "あら、それはすごい！"
+     1 string mchinese = "喲，真是厲害啊！"
+   [18555]
+    0 TableSoItemLang data
+     0 int id = 1028556
+     1 string schinese = "真羡慕啊！"
+     1 string schinese_censored = "真羡慕啊！"
+     1 string english = "Ah, I envy them!"
+     1 string japanese = "羨ましいわ！"
+     1 string mchinese = "真羡慕啊！"
+   [18556]
+    0 TableSoItemLang data
+     0 int id = 1028557
+     1 string schinese = "哎，看看我们家孩子，可真是不行"
+     1 string schinese_censored = "哎，看看我们家孩子，可真是不行"
+     1 string english = "Bah, my child just doesn't cut it."
+     1 string japanese = "あらあら、うちの子ったら全然ダメね"
+     1 string mchinese = "哎，看看我們家孩子，可真是不行"
+   [18557]
+    0 TableSoItemLang data
+     0 int id = 1028558
+     1 string schinese = "人和人，真是不一样啊"
+     1 string schinese_censored = "人比人，真是不一样啊"
+     1 string english = "People really are so very different."
+     1 string japanese = "人は人よ"
+     1 string mchinese = "人和人，真是不一樣啊"
+   [18558]
+    0 TableSoItemLang data
+     0 int id = 1028559
+     1 string schinese = "没办法，我孩子随我，认命了！"
+     1 string schinese_censored = "没办法，我孩子随我，认命了！"
+     1 string english = "My child takes after me, you're done for!"
+     1 string japanese = "仕方がないわ。うちの子は私に似てるから、諦めるわ！"
+     1 string mchinese = "沒辦法，我孩子隨我，認命了！"
+   [18559]
+    0 TableSoItemLang data
+     0 int id = 1028560
+     1 string schinese = "我孩子是干啥啥不行，吃啥啥不剩啊！"

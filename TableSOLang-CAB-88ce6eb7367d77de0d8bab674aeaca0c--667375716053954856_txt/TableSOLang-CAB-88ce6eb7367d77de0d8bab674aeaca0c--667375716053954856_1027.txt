@@ -1,0 +1,184 @@
+     1 string schinese_censored = "不管孩子学习成绩怎么样，父母都觉得他能考上重点班。"
+     1 string english = "Parents all want their children to get into a key school."
+     1 string japanese = "子どもの成績や気持ちにかかわらず、親としては名門校に行ってほしいものだ。"
+     1 string mchinese = "不管孩子成績怎麼樣心裏怎麼想，父母都要他考重點學校。"
+   [23597]
+    0 TableSoItemLang data
+     0 int id = 1109073
+     1 string schinese = "怎么才能让父母同意我成为职业选手，快用我无敌的脑子想想办法啊！"
+     1 string schinese_censored = "怎么才能让父母同意我成为职业选手，快用我无敌的脑子想想办法啊！"
+     1 string english = "How can I convince my parents to let me become a professional e-sporter? Come on brain, how?!"
+     1 string japanese = "どうすれば親はプロ選手を目指すことを認めてくれるのか。無敵の頭脳で考えてみよう！"
+     1 string mchinese = "怎麼才能讓父母同意我成為職業選手，快用我無敵的腦子想想辦法啊！"
+   [23598]
+    0 TableSoItemLang data
+     0 int id = 1109074
+     1 string schinese = "什么叫天才少年啊，天才少年就是考试电竞两开花！（战术后仰）"
+     1 string schinese_censored = "什么叫天才少年啊，天才少年就是考试电竞两开花！（战术后仰）"
+     1 string english = "What is a genius? A genius is one who excels in both school and gaming!"
+     1 string japanese = "天才少年とは何か。それは、試験とｅスポーツを両立させる少年のことだ！"
+     1 string mchinese = "什麼叫天才少年啊，天才少年就是考試電競兩開花！（戰術後仰）"
+   [23599]
+    0 TableSoItemLang data
+     0 int id = 1109075
+     1 string schinese = "先定一个能达到的小目标，比如拿个线上赛冠军。"
+     1 string schinese_censored = "先定一个能达到的小目标，比如拿个在线赛冠军。"
+     1 string english = "Start small and set achievable goals first—such as becoming the champion of an online tournament."
+     1 string japanese = "まず簡単な小目標を設定する。例えば、オンラインリーグで優勝するとか。"
+     1 string mchinese = "先定一個能達到的小目標，比如拿個線上賽冠軍。"
+   [23600]
+    0 TableSoItemLang data
+     0 int id = 1109076
+     1 string schinese = "诸君，我不做普通玩家啦！我要成为职业选手！"
+     1 string schinese_censored = "诸君，我不做普通玩家啦！我要成为职业选手！"
+     1 string english = "Everyone, I won't just be an average gamer anymore! I'm gonna become a professional e-sporter!"
+     1 string japanese = "諸君、私は普通のプレイヤーをやめる！プロ選手になるんだ！"
+     1 string mchinese = "諸君，我不做普通玩家啦！我要成為職業選手！"
+   [23601]
+    0 TableSoItemLang data
+     0 int id = 1109077
+     1 string schinese = "既然决定做职业选手，就要做到顶尖！"
+     1 string schinese_censored = "既然决定做职业选手，就要做到顶尖！"
+     1 string english = "Now that I've decided to go pro, I'm gunning for the top!"
+     1 string japanese = "プロになると決めたなら、上を目指せ！"
+     1 string mchinese = "既然決定做職業選手，就要做到頂尖！"
+   [23602]
+    0 TableSoItemLang data
+     0 int id = 1109078
+     1 string schinese = "差距不可怕，可怕的是强者比你更努力。"
+     1 string schinese_censored = "差距不可怕，可怕的是强者比你更努力。"
+     1 string english = "What's frightening is someone better than you also works hard than you."
+     1 string japanese = "力の差は怖くない。怖いのは、強者の方が努力することだ。"
+     1 string mchinese = "差距不可怕，可怕的是強者比你更努力。"
+   [23603]
+    0 TableSoItemLang data
+     0 int id = 1109079
+     1 string schinese = "适当的压力是动力，过度的压力是阻力。调节心态，冲刺冠军！"
+     1 string schinese_censored = "适当的压力是动力，过度的压力是阻力。调节心态，冲刺冠军！"
+     1 string english = "The right amount of pressure fuels motivation; too much pressure creates opposition. Adjust your mind and charge for the title!"
+     1 string japanese = "プレッシャーは原動力だが、過度になると抑止力だ。メンタルを調整し優勝へ突き進め！"
+     1 string mchinese = "適當的壓力是動力，過度的壓力是阻力。調節心態，衝刺冠軍！"
+   [23604]
+    0 TableSoItemLang data
+     0 int id = 1109080
+     1 string schinese = "娱乐"
+     1 string schinese_censored = "娱乐"
+     1 string english = "Entertainment"
+     1 string japanese = "娯楽"
+     1 string mchinese = "娛樂"
+   [23605]
+    0 TableSoItemLang data
+     0 int id = 1109081
+     1 string schinese = "垃圾话"
+     1 string schinese_censored = "垃圾话"
+     1 string english = "Trash Talk"
+     1 string japanese = "口撃"
+     1 string mchinese = "垃圾話"
+   [23606]
+    0 TableSoItemLang data
+     0 int id = 1109082
+     1 string schinese = "马后炮"
+     1 string schinese_censored = "马后炮"
+     1 string english = "Hindsight"
+     1 string japanese = "言い訳"
+     1 string mchinese = "馬後炮"
+   [23607]
+    0 TableSoItemLang data
+     0 int id = 1109083
+     1 string schinese = "刷围脖"
+     1 string schinese_censored = "刷微博"
+     1 string english = "Social Media"
+     1 string japanese = "ＳＮＳ"
+     1 string mchinese = "刷圍脖"
+   [23608]
+    0 TableSoItemLang data
+     0 int id = 1109084
+     1 string schinese = "排资论辈"
+     1 string schinese_censored = "排资论辈"
+     1 string english = "Seniority"
+     1 string japanese = "年功序列"
+     1 string mchinese = "排資論輩"
+   [23609]
+    0 TableSoItemLang data
+     0 int id = 1109085
+     1 string schinese = "刷好感"
+     1 string schinese_censored = "交友"
+     1 string english = "Feelgood"
+     1 string japanese = "好感度アップ"
+     1 string mchinese = "刷好感"
+   [23610]
+    0 TableSoItemLang data
+     0 int id = 1109086
+     1 string schinese = "看比赛"
+     1 string schinese_censored = "看比赛"
+     1 string english = "Watch Game"
+     1 string japanese = "試合観戦"
+     1 string mchinese = "看比賽"
+   [23611]
+    0 TableSoItemLang data
+     0 int id = 1109087
+     1 string schinese = "水友赛"
+     1 string schinese_censored = "水友赛"
+     1 string english = "Friendly Tourn."
+     1 string japanese = "エンジョイマッチ"
+     1 string mchinese = "水友賽"
+   [23612]
+    0 TableSoItemLang data
+     0 int id = 1109088
+     1 string schinese = "黑队友"
+     1 string schinese_censored = "黑队友"
+     1 string english = "Diss Teammates"
+     1 string japanese = "仲間ｄｉｓ"
+     1 string mchinese = "黑隊友"
+   [23613]
+    0 TableSoItemLang data
+     0 int id = 1109089
+     1 string schinese = "玩游戏"
+     1 string schinese_censored = "玩游戏"
+     1 string english = "Play Games"
+     1 string japanese = "ゲームプレイ"
+     1 string mchinese = "玩遊戲"
+   [23614]
+    0 TableSoItemLang data
+     0 int id = 1109090
+     1 string schinese = "玄学毒奶"
+     1 string schinese_censored = "玄学毒奶"
+     1 string english = "Tempting Fate"
+     1 string japanese = "逆神"
+     1 string mchinese = "玄學毒奶"
+   [23615]
+    0 TableSoItemLang data
+     0 int id = 1109091
+     1 string schinese = "卖队友"
+     1 string schinese_censored = "卖队友"
+     1 string english = "Tease Teammate"
+     1 string japanese = "裏切り"
+     1 string mchinese = "賣隊友"
+   [23616]
+    0 TableSoItemLang data
+     0 int id = 1109092
+     1 string schinese = "宿命对决"
+     1 string schinese_censored = "宿命对决"
+     1 string english = "Fated Showdown"
+     1 string japanese = "宿命の対決"
+     1 string mchinese = "宿命對決"
+   [23617]
+    0 TableSoItemLang data
+     0 int id = 1109093
+     1 string schinese = "对决前夕"
+     1 string schinese_censored = "对决前夕"
+     1 string english = "Eve of the Match"
+     1 string japanese = "対決前夜"
+     1 string mchinese = "對決前夕"
+   [23618]
+    0 TableSoItemLang data
+     0 int id = 1109094
+     1 string schinese = "代练邀请"
+     1 string schinese_censored = "代练邀请"
+     1 string english = "Booster Invitation"
+     1 string japanese = "替え玉依頼"
+     1 string mchinese = "代練邀請"
+   [23619]
+    0 TableSoItemLang data
+     0 int id = 1109095
+     1 string schinese = "假赛邀请"

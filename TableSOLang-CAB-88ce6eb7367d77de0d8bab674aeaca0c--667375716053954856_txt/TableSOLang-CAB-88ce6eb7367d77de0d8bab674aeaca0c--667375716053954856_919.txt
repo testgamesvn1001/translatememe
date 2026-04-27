@@ -1,0 +1,184 @@
+     1 string schinese_censored = "关注我们"
+     1 string english = "Follow Us"
+     1 string japanese = "フォロー"
+     1 string mchinese = "關注我們"
+   [21113]
+    0 TableSoItemLang data
+     0 int id = 5500014
+     1 string schinese = "关注公众号"
+     1 string schinese_censored = "关注公众号"
+     1 string english = "Follow Official Account"
+     1 string japanese = "公式アカウント"
+     1 string mchinese = "關注公眾號"
+   [21114]
+    0 TableSoItemLang data
+     0 int id = 5500015
+     1 string schinese = "简体中文"
+     1 string schinese_censored = "简体中文"
+     1 string english = "簡體中文"
+     1 string japanese = "簡体中文"
+     1 string mchinese = "簡體中文"
+   [21115]
+    0 TableSoItemLang data
+     0 int id = 5500016
+     1 string schinese = "English"
+     1 string schinese_censored = "英语"
+     1 string english = "English"
+     1 string japanese = "English"
+     1 string mchinese = "English"
+   [21116]
+    0 TableSoItemLang data
+     0 int id = 5500017
+     1 string schinese = "日本语"
+     1 string schinese_censored = "日本语"
+     1 string english = "日本語"
+     1 string japanese = "日本語"
+     1 string mchinese = "日本語"
+   [21117]
+    0 TableSoItemLang data
+     0 int id = 5500018
+     1 string schinese = "联络ta"
+     1 string schinese_censored = "联络ta"
+     1 string english = "Contact"
+     1 string japanese = "連絡する"
+     1 string mchinese = "聯絡ta"
+   [21118]
+    0 TableSoItemLang data
+     0 int id = 5500019
+     1 string schinese = "脑洞"
+     1 string schinese_censored = "脑洞"
+     1 string english = "Fragment"
+     1 string japanese = "カケラ"
+     1 string mchinese = "腦洞"
+   [21119]
+    0 TableSoItemLang data
+     0 int id = 5500020
+     1 string schinese = "学习&期望"
+     1 string schinese_censored = "学习&期望"
+     1 string english = "Exp. & Study"
+     1 string japanese = "学習&期待"
+     1 string mchinese = "學習&期望"
+   [21120]
+    0 TableSoItemLang data
+     0 int id = 5500021
+     1 string schinese = "安排"
+     1 string schinese_censored = "安排"
+     1 string english = "Schedule"
+     1 string japanese = "予定"
+     1 string mchinese = "安排"
+   [21121]
+    0 TableSoItemLang data
+     0 int id = 5500022
+     1 string schinese = "我的属性"
+     1 string schinese_censored = "我的属性"
+     1 string english = "My Stats"
+     1 string japanese = "能力"
+     1 string mchinese = "我的屬性"
+   [21122]
+    0 TableSoItemLang data
+     0 int id = 5500023
+     1 string schinese = "暂时没有新的期望"
+     1 string schinese_censored = "暂时没有新的期望"
+     1 string english = "There are currently no Expectations."
+     1 string japanese = "新しい期待はありません"
+     1 string mchinese = "暫時沒有新的期望"
+   [21123]
+    0 TableSoItemLang data
+     0 int id = 5500024
+     1 string schinese = "新技能学完了\n去商店或等到下一个回合吧"
+     1 string schinese_censored = "新技能学完了\n去商店或等到下一个回合吧"
+     1 string english = "You've learned all the skills available for now.\nHead to the shop, or wait for the next turn."
+     1 string japanese = "新しいスキルはありません\n売店に行くか次のターンを待ちましょう"
+     1 string mchinese = "新技能學完了\n去商店或等到下一個回合吧"
+   [21124]
+    0 TableSoItemLang data
+     0 int id = 5500025
+     1 string schinese = "别献殷勤，说吧！想要啥？"
+     1 string schinese_censored = "别献殷勤，说吧！想要啥？"
+     1 string english = "No need to stand on ceremony, out with it. What do you want?"
+     1 string japanese = "遠慮するな。何が欲しいんだ？"
+     1 string mchinese = "別獻殷勤，說吧！想要啥？"
+   [21125]
+    0 TableSoItemLang data
+     0 int id = 5500026
+     1 string schinese = "这么勤劳啊今天，想要零用钱了？"
+     1 string schinese_censored = "这么勤劳啊今天，想要零用钱了？"
+     1 string english = "You're working hard. Not just eager for pocket money, I hope?"
+     1 string japanese = "今日は頑張ってるね。お小遣いが必要なの？"
+     1 string mchinese = "這麼勤勞啊今天，想要零用錢了？"
+   [21126]
+    0 TableSoItemLang data
+     0 int id = 5500027
+     1 string schinese = "暂时没有新的期望"
+     1 string schinese_censored = "暂时没有新的期望"
+     1 string english = "There are currently no Expectations."
+     1 string japanese = "新しい期待はありません"
+     1 string mchinese = "暫時沒有新的期望"
+   [21127]
+    0 TableSoItemLang data
+     0 int id = 5500028
+     1 string schinese = "我的属性"
+     1 string schinese_censored = "我的属性"
+     1 string english = "My Stats"
+     1 string japanese = "能力"
+     1 string mchinese = "我的屬性"
+   [21128]
+    0 TableSoItemLang data
+     0 int id = 5500029
+     1 string schinese = "友谊"
+     1 string schinese_censored = "友谊"
+     1 string english = "Friendship"
+     1 string japanese = "友情"
+     1 string mchinese = "友誼"
+   [21129]
+    0 TableSoItemLang data
+     0 int id = 5500030
+     1 string schinese = "普通"
+     1 string schinese_censored = "普通"
+     1 string english = "Common"
+     1 string japanese = "Ｎ"
+     1 string mchinese = "普通"
+   [21130]
+    0 TableSoItemLang data
+     0 int id = 5500031
+     1 string schinese = "稀有"
+     1 string schinese_censored = "稀有"
+     1 string english = "Rare"
+     1 string japanese = "Ｒ"
+     1 string mchinese = "稀有"
+   [21131]
+    0 TableSoItemLang data
+     0 int id = 5500032
+     1 string schinese = "史诗"
+     1 string schinese_censored = "史诗"
+     1 string english = "Epic"
+     1 string japanese = "ＳＲ"
+     1 string mchinese = "史詩"
+   [21132]
+    0 TableSoItemLang data
+     0 int id = 5500033
+     1 string schinese = "传说"
+     1 string schinese_censored = "传说"
+     1 string english = "Legendary"
+     1 string japanese = "ＳＳＲ"
+     1 string mchinese = "傳說"
+   [21133]
+    0 TableSoItemLang data
+     0 int id = 5500034
+     1 string schinese = "确定策略"
+     1 string schinese_censored = "确定策略"
+     1 string english = "Confirm"
+     1 string japanese = "方針決定"
+     1 string mchinese = "確定策略"
+   [21134]
+    0 TableSoItemLang data
+     0 int id = 5500035
+     1 string schinese = "{0}的回合"
+     1 string schinese_censored = "{0}的回合"
+     1 string english = "{0}'s Turn"
+     1 string japanese = "{0}のターン"
+     1 string mchinese = "{0}的回合"
+   [21135]
+    0 TableSoItemLang data
+     0 int id = 5500036
+     1 string schinese = "对这个人使用"

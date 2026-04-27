@@ -1,0 +1,184 @@
+     1 string schinese_censored = "吃完饭后立即出门寻找"
+     1 string english = "Say you lent it to a classmate"
+     1 string japanese = "同級生に貸したと言う"
+     1 string mchinese = "說自己借給同學了"
+   [5933]
+    0 TableSoItemLang data
+     0 int id = 1015934
+     1 string schinese = "说路上丢了"
+     1 string schinese_censored = "向爷爷奶奶寻求帮助"
+     1 string english = "Say you lost it"
+     1 string japanese = "落としたと言う"
+     1 string mchinese = "說路上丟了"
+   [5934]
+    0 TableSoItemLang data
+     0 int id = 1015935
+     1 string schinese = "花费50元注册"
+     1 string schinese_censored = "花费50元注册"
+     1 string english = "Spend ¥50 to register"
+     1 string japanese = "５０元を振り込む"
+     1 string mchinese = "花費50元註冊"
+   [5935]
+    0 TableSoItemLang data
+     0 int id = 1015936
+     1 string schinese = "不理会"
+     1 string schinese_censored = "不理会"
+     1 string english = "Ignore it"
+     1 string japanese = "無視する"
+     1 string mchinese = "不理會"
+   [5936]
+    0 TableSoItemLang data
+     0 int id = 1015937
+     1 string schinese = "发骚扰短信"
+     1 string schinese_censored = "发骚扰短信"
+     1 string english = "Send a text to harass"
+     1 string japanese = "迷惑メールを送り返す"
+     1 string mchinese = "發騷擾短信"
+   [5937]
+    0 TableSoItemLang data
+     0 int id = 1015938
+     1 string schinese = "小人书"
+     1 string schinese_censored = "小人书"
+     1 string english = "Picture book"
+     1 string japanese = "漫画"
+     1 string mchinese = "小人書"
+   [5938]
+    0 TableSoItemLang data
+     0 int id = 1015939
+     1 string schinese = "字典"
+     1 string schinese_censored = "字典"
+     1 string english = "Dictionary"
+     1 string japanese = "辞書"
+     1 string mchinese = "字典"
+   [5939]
+    0 TableSoItemLang data
+     0 int id = 1015940
+     1 string schinese = "算盘"
+     1 string schinese_censored = "算盘"
+     1 string english = "Abacus"
+     1 string japanese = "そろばん"
+     1 string mchinese = "算盤"
+   [5940]
+    0 TableSoItemLang data
+     0 int id = 1015941
+     1 string schinese = "“爸爸”"
+     1 string schinese_censored = "“爸爸”"
+     1 string english = "Dad"
+     1 string japanese = "お父さん"
+     1 string mchinese = "“爸爸”"
+   [5941]
+    0 TableSoItemLang data
+     0 int id = 1015942
+     1 string schinese = "“妈妈”"
+     1 string schinese_censored = "“妈妈”"
+     1 string english = "Mom"
+     1 string japanese = "お母さん"
+     1 string mchinese = "“媽媽”"
+   [5942]
+    0 TableSoItemLang data
+     0 int id = 1015943
+     1 string schinese = "“关你啥事！”"
+     1 string schinese_censored = "“关你啥事！”"
+     1 string english = "It's not your business!"
+     1 string japanese = "お前には関係ない！"
+     1 string mchinese = "“關你啥事！”"
+   [5943]
+    0 TableSoItemLang data
+     0 int id = 1015944
+     1 string schinese = "“这都随你！”"
+     1 string schinese_censored = "“这都随你！”"
+     1 string english = "I inherited it from you!"
+     1 string japanese = "親に似ただけ！"
+     1 string mchinese = "“這都隨你！”"
+   [5944]
+    0 TableSoItemLang data
+     0 int id = 1015945
+     1 string schinese = "“你不给我做好吃的！别怨我！”"
+     1 string schinese_censored = "“你不给我做好吃的！别怨我！”"
+     1 string english = "You're not making me any food! Don't blame me!"
+     1 string japanese = "良い物くれないのに、子どものせいにしないで！"
+     1 string mchinese = "“你不給我做好吃的！別怨我！”"
+   [5945]
+    0 TableSoItemLang data
+     0 int id = 1015946
+     1 string schinese = "“你多回家陪我吃吧！”"
+     1 string schinese_censored = "“你多回家陪我吃吧！”"
+     1 string english = "You should eat with me more often!"
+     1 string japanese = "次からは何でも食べるよ！"
+     1 string mchinese = "“你多回家陪我吃吧！”"
+   [5946]
+    0 TableSoItemLang data
+     0 int id = 1015947
+     1 string schinese = "告诉妈妈这个秘密"
+     1 string schinese_censored = "告诉妈妈这个秘密"
+     1 string english = "Tell mom the secret"
+     1 string japanese = "お母さんに報告"
+     1 string mchinese = "告訴媽媽這個秘密"
+   [5947]
+    0 TableSoItemLang data
+     0 int id = 1015948
+     1 string schinese = "询问爸爸藏了什么"
+     1 string schinese_censored = "询问爸爸藏了什么"
+     1 string english = "Ask dad what he did"
+     1 string japanese = "お父さんに尋ねる"
+     1 string mchinese = "詢問爸爸藏了什麼"
+   [5948]
+    0 TableSoItemLang data
+     0 int id = 1015949
+     1 string schinese = "自己偷偷拿走"
+     1 string schinese_censored = "自己偷偷拿走"
+     1 string english = "Take it for yourself"
+     1 string japanese = "こっそりと盗む"
+     1 string mchinese = "自己偷偷拿走"
+   [5949]
+    0 TableSoItemLang data
+     0 int id = 1015950
+     1 string schinese = "跟爸妈说我也想要"
+     1 string schinese_censored = "跟爸妈说我也想要"
+     1 string english = "Tell your parents you want one too"
+     1 string japanese = "両親に要求"
+     1 string mchinese = "跟爸媽說我也想要"
+   [5950]
+    0 TableSoItemLang data
+     0 int id = 1015951
+     1 string schinese = "问同学借着用"
+     1 string schinese_censored = "问同学借着用"
+     1 string english = "Ask your classmate to borrow it"
+     1 string japanese = "貸してくれるよう頼む"
+     1 string mchinese = "問同學借著用"
+   [5951]
+    0 TableSoItemLang data
+     0 int id = 1015952
+     1 string schinese = "偷同学的用"
+     1 string schinese_censored = "偷同学的用"
+     1 string english = "Use it in secret"
+     1 string japanese = "盗む"
+     1 string mchinese = "偷同學的用"
+   [5952]
+    0 TableSoItemLang data
+     0 int id = 1015953
+     1 string schinese = "让妈妈做好吃的带过去"
+     1 string schinese_censored = "让妈妈做好吃的带过去"
+     1 string english = "Have mom cook food"
+     1 string japanese = "お母さんに美味しい物を作ってもらう"
+     1 string mchinese = "讓媽媽做好吃的帶過去"
+   [5953]
+    0 TableSoItemLang data
+     0 int id = 1015954
+     1 string schinese = "去买高档快餐带着"
+     1 string schinese_censored = "去买高档快餐带着"
+     1 string english = "Buy luxury fast food"
+     1 string japanese = "高価なファーストフードを持っていく"
+     1 string mchinese = "去買高檔速食帶著"
+   [5954]
+    0 TableSoItemLang data
+     0 int id = 1015955
+     1 string schinese = "问爸妈要钱"
+     1 string schinese_censored = "问爸妈要钱"
+     1 string english = "Ask your parents for money"
+     1 string japanese = "両親からお金をもらう"
+     1 string mchinese = "問爸媽要錢"
+   [5955]
+    0 TableSoItemLang data
+     0 int id = 1015956
+     1 string schinese = "需要50元"

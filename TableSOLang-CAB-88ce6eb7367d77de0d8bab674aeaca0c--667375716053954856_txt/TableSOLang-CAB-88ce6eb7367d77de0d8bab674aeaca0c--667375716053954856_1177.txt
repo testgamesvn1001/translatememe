@@ -1,0 +1,184 @@
+     1 string schinese_censored = "（本世代已经结束了，点击【继续】按钮，进行下一代培养！继承了这么多属性，下一代会做的更好吧！）"
+     1 string english = "(This generation has already ended. Click [Continue] to start the next generation! You've inherited plenty of stats, so the next generation should fare better!)"
+     1 string japanese = "（現世代はこれで終了。【継続】を選んで次世代を開始しよう！これだけ能力を継いだんだから、次世代はもっと頑張ろう！）"
+     1 string mchinese = "（本世代已經結束了，點擊【繼續】按鈕，進行下一代培養！繼承了這麼多屬性，下一代會做的更好吧！）"
+   [27047]
+    0 TableSoItemLang data
+     0 int id = 1596173334
+     1 string schinese = "Facebook"
+     1 string schinese_censored = "Facebook"
+     1 string english = "Facebook"
+     1 string japanese = "Facebook"
+     1 string mchinese = "Facebook"
+   [27048]
+    0 TableSoItemLang data
+     0 int id = 1596173335
+     1 string schinese = "退出游戏"
+     1 string schinese_censored = "退出游戏"
+     1 string english = "Exit Game"
+     1 string japanese = "ゲーム終了"
+     1 string mchinese = "退出遊戲"
+   [27049]
+    0 TableSoItemLang data
+     0 int id = 1596173336
+     1 string schinese = "现在退出游戏，当前回合的数据将不会上传至存档，确定退出吗？"
+     1 string schinese_censored = "现在退出游戏，当前回合的数据将不会上传至存档，确定退出吗？"
+     1 string english = "If you exit the game now, actions taken on the current turn will not be saved. Do you wish to exit anyway?"
+     1 string japanese = "（現世代はこれで終了。【継続】を選んで次世代を開始しよう！これだけ能力を継いだら、次世代はうまくいくはず！）"
+     1 string mchinese = "現在退出遊戲，當前回合的數據將不會上傳至存檔，確定退出嗎？"
+   [27050]
+    0 TableSoItemLang data
+     0 int id = 1596173337
+     1 string schinese = "获取验证码"
+     1 string schinese_censored = "获取验证码"
+     1 string english = "Get Verification Code"
+     1 string japanese = "PC/NS不用翻譯"
+     1 string mchinese = "獲取驗證碼"
+   [27051]
+    0 TableSoItemLang data
+     0 int id = 1596173338
+     1 string schinese = "登录"
+     1 string schinese_censored = "登录"
+     1 string english = "Log In"
+     1 string japanese = "PC/NS不用翻譯"
+     1 string mchinese = "登錄"
+   [27052]
+    0 TableSoItemLang data
+     0 int id = 1596173339
+     1 string schinese = "请输入手机号"
+     1 string schinese_censored = "请输入手机号"
+     1 string english = "Enter a phone number."
+     1 string japanese = "PC/NS不用翻譯"
+     1 string mchinese = "請輸入手機號"
+   [27053]
+    0 TableSoItemLang data
+     0 int id = 1596173340
+     1 string schinese = "请输入验证码"
+     1 string schinese_censored = "请输入验证码"
+     1 string english = "Enter your verification code."
+     1 string japanese = "PC/NS不用翻譯"
+     1 string mchinese = "請輸入驗證碼"
+   [27054]
+    0 TableSoItemLang data
+     0 int id = 1596173341
+     1 string schinese = "提 示"
+     1 string schinese_censored = "提 示"
+     1 string english = "Tip"
+     1 string japanese = "ヒント"
+     1 string mchinese = "提 示"
+   [27055]
+    0 TableSoItemLang data
+     0 int id = 1596173342
+     1 string schinese = "抉择"
+     1 string schinese_censored = "抉择"
+     1 string english = "Choice"
+     1 string japanese = "選択"
+     1 string mchinese = "抉擇"
+   [27056]
+    0 TableSoItemLang data
+     0 int id = 1596173343
+     1 string schinese = "换一换"
+     1 string schinese_censored = "换一换"
+     1 string english = "Refresh"
+     1 string japanese = "入れ替え"
+     1 string mchinese = "換一換"
+   [27057]
+    0 TableSoItemLang data
+     0 int id = 1596173344
+     1 string schinese = "成功率 75%"
+     1 string schinese_censored = "成功率 75%"
+     1 string english = "0.75"
+     1 string japanese = "成功率 75%"
+     1 string mchinese = "成功率 75%"
+   [27058]
+    0 TableSoItemLang data
+     0 int id = 1596173345
+     1 string schinese = "成功率 50%"
+     1 string schinese_censored = "成功率 50%"
+     1 string english = "0.5"
+     1 string japanese = "成功率 50%"
+     1 string mchinese = "成功率 50%"
+   [27059]
+    0 TableSoItemLang data
+     0 int id = 1596173346
+     1 string schinese = "成功率{0}%"
+     1 string schinese_censored = "成功率{0}%"
+     1 string english = "{0}%"
+     1 string japanese = "成功率 {0}%"
+     1 string mchinese = "成功率{0}%"
+   [27060]
+    0 TableSoItemLang data
+     0 int id = 1596173347
+     1 string schinese = "已售罄"
+     1 string schinese_censored = "已售罄"
+     1 string english = "Sold Out"
+     1 string japanese = "売り切れ"
+     1 string mchinese = "已售罄"
+   [27061]
+    0 TableSoItemLang data
+     0 int id = 1596173348
+     1 string schinese = "筹措学费"
+     1 string schinese_censored = "筹措学费"
+     1 string english = "Raise Tuition"
+     1 string japanese = "PC/NS不用翻譯"
+     1 string mchinese = "籌措學費"
+   [27062]
+    0 TableSoItemLang data
+     0 int id = 1596173349
+     1 string schinese = "学区房"
+     1 string schinese_censored = "学区房"
+     1 string english = "School District Housing"
+     1 string japanese = "学区内住宅"
+     1 string mchinese = "學區房"
+   [27063]
+    0 TableSoItemLang data
+     0 int id = 1596173350
+     1 string schinese = "（"
+     1 string schinese_censored = "（"
+     1 string english = "("
+     1 string japanese = "（"
+     1 string mchinese = "（"
+   [27064]
+    0 TableSoItemLang data
+     0 int id = 1596173351
+     1 string schinese = "请选择"
+     1 string schinese_censored = "请选择"
+     1 string english = "Select a"
+     1 string japanese = "対象に"
+     1 string mchinese = "請選擇"
+   [27065]
+    0 TableSoItemLang data
+     0 int id = 1596173352
+     1 string schinese = "目标）"
+     1 string schinese_censored = "目标）"
+     1 string english = "target)"
+     1 string japanese = "が必要）"
+     1 string mchinese = "目標）"
+   [27066]
+    0 TableSoItemLang data
+     0 int id = 1596173353
+     1 string schinese = "当前人气："
+     1 string schinese_censored = "当前人气："
+     1 string english = "Popularity:"
+     1 string japanese = "現在の人気："
+     1 string mchinese = "當前人氣："
+   [27067]
+    0 TableSoItemLang data
+     0 int id = 1596173354
+     1 string schinese = "已选中"
+     1 string schinese_censored = "已选中"
+     1 string english = "Selected"
+     1 string japanese = "選択済み"
+     1 string mchinese = "已選中"
+   [27068]
+    0 TableSoItemLang data
+     0 int id = 1596173355
+     1 string schinese = "兑换说明"
+     1 string schinese_censored = "兑换说明"
+     1 string english = "Redeem Info"
+     1 string japanese = "両替説明"
+     1 string mchinese = "兌換說明"
+   [27069]
+    0 TableSoItemLang data
+     0 int id = 1596173356
+     1 string schinese = "请在下方输入兑换码兑换礼物\n（一个兑换码只能使用一次）"

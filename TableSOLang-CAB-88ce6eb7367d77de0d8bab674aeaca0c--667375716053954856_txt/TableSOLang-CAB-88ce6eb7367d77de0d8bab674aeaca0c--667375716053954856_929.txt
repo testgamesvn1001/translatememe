@@ -1,0 +1,184 @@
+     1 string schinese_censored = "学会技能"
+     1 string english = "Learn Skills"
+     1 string japanese = "スキル取得"
+     1 string mchinese = "學會技能"
+   [21343]
+    0 TableSoItemLang data
+     0 int id = 5500244
+     1 string schinese = "家族等级加成"
+     1 string schinese_censored = "家族等级加成"
+     1 string english = "Family Bonus"
+     1 string japanese = "図鑑レベルボーナス"
+     1 string mchinese = "家族等級加成"
+   [21344]
+    0 TableSoItemLang data
+     0 int id = 5500245
+     1 string schinese = "当前等级"
+     1 string schinese_censored = "当前等级"
+     1 string english = "Level"
+     1 string japanese = "現在のレベル"
+     1 string mchinese = "當前等級"
+   [21345]
+    0 TableSoItemLang data
+     0 int id = 5500246
+     1 string schinese = "等级{0}解锁"
+     1 string schinese_censored = "等级{0}解锁"
+     1 string english = "Unlocks at Lv. {0}"
+     1 string japanese = "レベル{0}で解放"
+     1 string mchinese = "等級{0}解鎖"
+   [21346]
+    0 TableSoItemLang data
+     0 int id = 5500247
+     1 string schinese = "已获得属性加成"
+     1 string schinese_censored = "已获得属性加成"
+     1 string english = "Your Stat Bonuses"
+     1 string japanese = "獲得した能力ボーナス"
+     1 string mchinese = "已獲得屬性加成"
+   [21347]
+    0 TableSoItemLang data
+     0 int id = 5500248
+     1 string schinese = "下一级属性加成"
+     1 string schinese_censored = "下一级属性加成"
+     1 string english = "Bonus on next level"
+     1 string japanese = "次世代の能力ボーナス"
+     1 string mchinese = "下一級屬性加成"
+   [21348]
+    0 TableSoItemLang data
+     0 int id = 5500249
+     1 string schinese = "家族等级{0}解锁内容一览"
+     1 string schinese_censored = "家族等级{0}解锁内容一览"
+     1 string english = "Unlocks at Gallery Lv. {0}"
+     1 string japanese = "図鑑レベル{0}の解放特典一覧"
+     1 string mchinese = "家族等級{0}解鎖內容一覽"
+   [21349]
+    0 TableSoItemLang data
+     0 int id = 5500250
+     1 string schinese = "相机咔嚓一声\n时光画上句号\n我的回忆\n被铭刻的旧事\n有多少呢？"
+     1 string schinese_censored = "相机咔嚓一声\n时光画上句号\n我的回忆\n被铭刻的旧事\n有多少呢？"
+     1 string english = "Photos\nThe Passing of Time\nMy Memories\nMy Past\nWhat is the meaning of life?"
+     1 string japanese = "カメラがカシャと音を立て\n今を記憶する\n私の思い出\n刻まれた出来事\nどれだけあるんだろう？"
+     1 string mchinese = "相機哢嚓一聲\n時光畫上句號\n我的回憶\n被銘刻的舊事\n有多少呢？"
+   [21350]
+    0 TableSoItemLang data
+     0 int id = 5500251
+     1 string schinese = "最爱科目："
+     1 string schinese_censored = "最爱科目："
+     1 string english = "Favorite Class: "
+     1 string japanese = "最愛科目："
+     1 string mchinese = "最愛科目："
+   [21351]
+    0 TableSoItemLang data
+     0 int id = 5500252
+     1 string schinese = "最高课程："
+     1 string schinese_censored = "最高课程："
+     1 string english = "Best Class: "
+     1 string japanese = "最高練習："
+     1 string mchinese = "最高課程："
+   [21352]
+    0 TableSoItemLang data
+     0 int id = 5500253
+     1 string schinese = "我的理想："
+     1 string schinese_censored = "我的理想："
+     1 string english = "My Dream: "
+     1 string japanese = "将来の夢："
+     1 string mchinese = "我的理想："
+   [21353]
+    0 TableSoItemLang data
+     0 int id = 5500254
+     1 string schinese = "最强特长："
+     1 string schinese_censored = "最强特长："
+     1 string english = "Best Trait: "
+     1 string japanese = "最強特技："
+     1 string mchinese = "最強特長："
+   [21354]
+    0 TableSoItemLang data
+     0 int id = 5500255
+     1 string schinese = "无感科目："
+     1 string schinese_censored = "无感科目："
+     1 string english = "Least Favorite Class:"
+     1 string japanese = "無視科目："
+     1 string mchinese = "無感科目："
+   [21355]
+    0 TableSoItemLang data
+     0 int id = 5500256
+     1 string schinese = "老师常说\n读书最忌讳偏科\n可我还是忍不住在喜欢的科目上多下功夫"
+     1 string schinese_censored = "老师常说\n读书最忌讳偏科\n可我还是忍不住在喜欢的科目上多下功夫"
+     1 string english = "My teacher often tells me\nI shouldn't favor one class over other\nbut I just can't help myself."
+     1 string japanese = "先生が良く言ってた\n「偏った勉強は避けなさい」って\nでも、好きだから仕方ないよね"
+     1 string mchinese = "老師常說\n讀書最忌諱偏科\n可我還是忍不住在喜歡的科目上多下功夫"
+   [21356]
+    0 TableSoItemLang data
+     0 int id = 5500257
+     1 string schinese = "小时候满怀理想\n长大后，理想渐渐忘却\n现在，还有机会实现吗？"
+     1 string schinese_censored = "小时候满怀理想\n长大后，理想渐渐忘却\n现在，还有机会实现吗？"
+     1 string english = "I had many dreams in my youth\nbut most now lie forgotten in the past.\nWill I be able to realize them all?"
+     1 string japanese = "子どもの頃は夢を持ってた\nけど大人になるにつれ、忘れてしまう\n今、実現するチャンスはあるのかな？"
+     1 string mchinese = "小時候滿懷理想\n長大後，理想漸漸忘卻\n現在，還有機會實現嗎？"
+   [21357]
+    0 TableSoItemLang data
+     0 int id = 5500258
+     1 string schinese = "不过人总是这山望着那山高\n我常常在想\n要是我当时好好学{0}就好了"
+     1 string schinese_censored = "不过人总是这山望着那山高\n我常常在想\n要是我当时好好学{0}就好了"
+     1 string english = "The grass is always greener on the other side.\nI often think to myself,\nthat I should've learned {0} instead."
+     1 string japanese = "隣の芝生は青い\nいつも考えてはいるんだ\n{0}をもっと勉強するべきだったって"
+     1 string mchinese = "不過人總是這山望著那山高\n我常常在想\n要是我當時好好學{0}就好了"
+   [21358]
+    0 TableSoItemLang data
+     0 int id = 5500259
+     1 string schinese = "在你慢慢长大的这些年，虽然与父母产生过许多的矛盾和误解，但陪伴仍然是最长情的告白不是吗？"
+     1 string schinese_censored = "在你慢慢长大的这些年，虽然与父母产生过许多的矛盾和误解，但陪伴仍然是最长情的告白不是吗？"
+     1 string english = "Though there were some conflicts and misunderstandings between your parents and you, they still show the deepest love by accompanying you growing up."
+     1 string japanese = "長年かけてゆっくりと育てられていく中で、両親とケンカすることもあった。しかし、一緒に過ごした年月が、親子の情の深さを証明してくれる。そうだろう？"
+     1 string mchinese = "在你慢慢長大的這些年，雖然與父母產生過許多的矛盾和誤解，但陪伴仍然是最長情的告白不是嗎？"
+   [21359]
+    0 TableSoItemLang data
+     0 int id = 5500260
+     1 string schinese = "共完成父母期望<color=#FFCC31><size=90>{0}</size></color>次"
+     1 string schinese_censored = "共完成父母期望<color=#FFCC31><size=90>{0}</size></color>次"
+     1 string english = "Expectations Fulfilled: <color=#FFCC31><size=90>{0}</size></color>"
+     1 string japanese = "両親の期待を計<color=#FFCC31><size=90>{0}</size></color>回達成した"
+     1 string mchinese = "共完成父母期望<color=#FFCC31><size=90>{0}</size></color>次"
+   [21360]
+    0 TableSoItemLang data
+     0 int id = 5500261
+     1 string schinese = "{0}"
+     1 string schinese_censored = "{0}"
+     1 string english = "{0}"
+     1 string japanese = "{0}"
+     1 string mchinese = "{0}"
+   [21361]
+    0 TableSoItemLang data
+     0 int id = 5500262
+     1 string schinese = "传家宝详情"
+     1 string schinese_censored = "传家宝详情"
+     1 string english = "Family Heirloom Details"
+     1 string japanese = "家宝詳細"
+     1 string mchinese = "傳家寶詳情"
+   [21362]
+    0 TableSoItemLang data
+     0 int id = 5500263
+     1 string schinese = "当前回合不可使用~"
+     1 string schinese_censored = "当前回合不可使用~"
+     1 string english = "Not usable this turn."
+     1 string japanese = "このターンでは使用できません"
+     1 string mchinese = "當前回合不可使用~"
+   [21363]
+    0 TableSoItemLang data
+     0 int id = 5500264
+     1 string schinese = "时光荏苒，转眼又到了七夕。 \n今天的朋友圈充满了恋爱的酸臭味， \n只有出淤泥而不染的我还散发着清香。\n今年，我还是一个人吗？\n不，我是一条狗。\n你问今年七夕怎么过？略过。"
+     1 string schinese_censored = ""
+     1 string english = "Time flies and here comes another Qixi Festival.\nSocial media is full of stinky lovey-dovey couples' posts.\nOnly single people like me remain fragrant.\nAre you still a single person?\nYes. I'm so lonely that I feel like a single dog.\nHow will I spend Qixi Festival this year, you ask? I'll just… loaf it away."
+     1 string japanese = "時は過ぎ、いつの間にかまた七夕がやってきた。\n今日のＳＮＳは浮かれた雰囲気に包まれている。\n平静を保っているのは自分だけだ。\n今年も私は一人なのだろうか。\n違う。一匹のオオカミだ。\n今年はどうやって七夕を過ごすのかって？やり過ごすのさ。"
+     1 string mchinese = "時光荏苒，轉眼又到了七夕。 \n今天的朋友圈充滿了戀愛的酸臭味， \n只有出淤泥而不染的我還散發著清香。\n今年，我還是一個人嗎？\n不，我是一條狗。\n你問今年七夕怎麼過？略過。"
+   [21364]
+    0 TableSoItemLang data
+     0 int id = 5500265
+     1 string schinese = "时光荏苒，转眼又到了七夕。 \n今天的朋友圈充满了恋爱的酸臭味， \n只有出淤泥而不染的我还散发着清香。\n今年，我还是一个人吗？\n不，我是一条狗。\n你问今年七夕怎么过？略过。"
+     1 string schinese_censored = ""
+     1 string english = "Time flies and here comes another Qixi Festival.\nSocial media is full of stinky lovey-dovey couples' posts.\nOnly single people like me remain fragrant.\nAre you still a single person?\nYes. I'm so lonely that I feel like a single dog.\nHow will I spend Qixi Festival this year, you ask? I'll just… loaf it away."
+     1 string japanese = "時は過ぎ、いつの間にかまた七夕がやってきた。\n今日のＳＮＳは浮かれた雰囲気に包まれている。\n平静を保っているのは自分だけだ。\n今年も私は一人なのだろうか。\n違う。一匹のオオカミだ。\n今年はどうやって七夕を過ごすのかって？やり過ごすのさ。"
+     1 string mchinese = "時光荏苒，轉眼又到了七夕。 \n今天的朋友圈充滿了戀愛的酸臭味， \n只有出淤泥而不染的我還散發著清香。\n今年，我還是一個人嗎？\n不，我是一條狗。\n你問今年七夕怎麼過？略過。"
+   [21365]
+    0 TableSoItemLang data
+     0 int id = 5500266
+     1 string schinese = "年少时的好友，追求着自己的理想，拥有着不同的烦恼，\n走上了各自的人生轨迹。\n我们就这样渐行渐远，散落在天涯。"

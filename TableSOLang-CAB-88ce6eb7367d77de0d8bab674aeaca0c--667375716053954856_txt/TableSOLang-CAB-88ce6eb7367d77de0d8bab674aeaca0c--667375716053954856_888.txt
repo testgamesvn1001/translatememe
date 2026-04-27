@@ -1,0 +1,184 @@
+     1 string schinese_censored = "TIPS：去学校上课（安排<color=#EB7350>基础哲学（文）</color> 开始下一章节）"
+     1 string english = "Tip: Go take a class in school (Start the next chapter by practicing: 基础哲学（文）)"
+     1 string japanese = "/"
+     1 string mchinese = "TIPS：去學校上課（安排<color=#EB7350>基礎哲學（文）</color> 開始下一章節）"
+   [20400]
+    0 TableSoItemLang data
+     0 int id = 1030406
+     1 string schinese = "TIPS：去美术教室找秋达（安排<color=#EB7350>素描</color> 可遇见秋达）"
+     1 string schinese_censored = "TIPS：去美术教室找秋达（安排<color=#EB7350>素描</color> 可遇见秋达）"
+     1 string english = "Tip: Go to the art classroom and  find Dahlia Qiu (Meet Dahlia by practicing: 素描)"
+     1 string japanese = "/"
+     1 string mchinese = "TIPS：去美術教室找秋達（安排<color=#EB7350>素描</color> 可遇見秋達）"
+   [20401]
+    0 TableSoItemLang data
+     0 int id = 1030407
+     1 string schinese = "TIPS：去电脑教室找小马哥（安排<color=#EB7350>数据库基础</color> 可遇见小马哥）"
+     1 string schinese_censored = "TIPS：去计算机教室找小杨哥（安排<color=#EB7350>数据库基础</color> 可遇见小杨哥）"
+     1 string english = "Tip: Find Mark in the computer lab (Meet Mark by practicing: 数据库基础)"
+     1 string japanese = "/"
+     1 string mchinese = "TIPS：去電腦教室找小馬哥（安排<color=#EB7350>資料庫基礎</color> 可遇見小馬哥）"
+   [20402]
+    0 TableSoItemLang data
+     0 int id = 1030408
+     1 string schinese = "TIPS：跟爸爸报告进度（安排<color=#EB7350>独立游戏文化</color> 开始下一章节）"
+     1 string schinese_censored = "TIPS：跟爸爸报告进度（安排<color=#EB7350>独立游戏文化</color> 开始下一章节）"
+     1 string english = "Tip: Report your progress to dad (Start the next chapter by practicing: 独立游戏文化)"
+     1 string japanese = "/"
+     1 string mchinese = "TIPS：跟爸爸報告進度（安排<color=#EB7350>獨立遊戲文化</color> 開始下一章節）"
+   [20403]
+    0 TableSoItemLang data
+     0 int id = 1030409
+     1 string schinese = "TIPS：去找妈妈找到最后的碎片（安排<color=#EB7350>独处</color> 可见到妈妈）"
+     1 string schinese_censored = "TIPS：去找妈妈找到最后的碎片（安排<color=#EB7350>独处</color> 可见到妈妈）"
+     1 string english = "Tip: Find mom to get the last fragment (Meet mom by practicing: 独处)"
+     1 string japanese = "/"
+     1 string mchinese = "TIPS：去找媽媽找到最後的碎片（安排<color=#EB7350>獨處</color> 可見到媽媽）"
+   [20404]
+    0 TableSoItemLang data
+     0 int id = 1030410
+     1 string schinese = "TIPS：点击<color=#EB7350>结局</color> 按钮"
+     1 string schinese_censored = "TIPS：点击<color=#EB7350>结局</color> 按钮"
+     1 string english = "Tip: Click the ending's button"
+     1 string japanese = "/"
+     1 string mchinese = "TIPS：點擊<color=#EB7350>結局</color> 按鈕"
+   [20405]
+    0 TableSoItemLang data
+     0 int id = 1030411
+     1 string schinese = "TIPS：长大并开始任务‘家族的秘密’（安排<color=#EB7350>爬行</color> 可解锁）"
+     1 string schinese_censored = "TIPS：长大并开始任务‘家族的秘密’（安排<color=#EB7350>爬行</color> 可解锁）"
+     1 string english = "Tip: Grow up to start the quest ‘Family Secret' (Unlocked by practicing: 爬行)"
+     1 string japanese = "/"
+     1 string mchinese = "TIPS：長大並開始任務‘家族的秘密’（安排<color=#EB7350>爬行</color> 可解鎖）"
+   [20406]
+    0 TableSoItemLang data
+     0 int id = 1030412
+     1 string schinese = "TIPS：去找苏豪找回输掉的藏宝图（安排<color=#EB7350>三步上篮</color> 可遇见苏豪）"
+     1 string schinese_censored = "TIPS：去找苏豪找回输掉的藏宝图（安排<color=#EB7350>三步上篮</color> 可遇见苏豪）"
+     1 string english = "Tip: Talk to Giant Yao and recover the lost treasure map (Meet Harold by practicing:三步上篮)"
+     1 string japanese = "/"
+     1 string mchinese = "TIPS：去找蘇豪找回輸掉的藏寶圖（安排<color=#EB7350>三步上籃</color> 可遇見蘇豪）"
+   [20407]
+    0 TableSoItemLang data
+     0 int id = 1030413
+     1 string schinese = "TIPS：把事情告诉爸爸（安排<color=#EB7350>翻跟头</color> 可与爸爸交谈）"
+     1 string schinese_censored = "TIPS：把事情告诉爸爸（安排<color=#EB7350>翻跟头</color> 可与爸爸交谈）"
+     1 string english = "Tip: Tell your dad (Talk to dad by practicing:翻跟头)"
+     1 string japanese = "/"
+     1 string mchinese = "TIPS：把事情告訴爸爸（安排<color=#EB7350>翻跟頭</color> 可與爸爸交談）"
+   [20408]
+    0 TableSoItemLang data
+     0 int id = 1030414
+     1 string schinese = "TIPS：去找席梦来（安排<color=#EB7350>作文（语）</color> 可遇见席梦来）"
+     1 string schinese_censored = "TIPS：去找席梦来（安排<color=#EB7350>作文（语）</color> 可遇见席梦来）"
+     1 string english = "Tip: Go talk to Marleen Xi (Meet Marleen by practicing: 作文（语）)"
+     1 string japanese = "/"
+     1 string mchinese = "TIPS：去找席夢來（安排<color=#EB7350>作文（語）</color> 可遇見席夢來）"
+   [20409]
+    0 TableSoItemLang data
+     0 int id = 1030415
+     1 string schinese = "TIPS：去学校上课（安排<color=#EB7350>基础哲学（文）</color> 开始下一章节）"
+     1 string schinese_censored = "TIPS：去学校上课（安排<color=#EB7350>基础哲学（文）</color> 开始下一章节）"
+     1 string english = "Tip: Go take a class in school (Start the next chapter by practicing: 基础哲学（文）)"
+     1 string japanese = "/"
+     1 string mchinese = "TIPS：去學校上課（安排<color=#EB7350>基礎哲學（文）</color> 開始下一章節）"
+   [20410]
+    0 TableSoItemLang data
+     0 int id = 1030416
+     1 string schinese = "TIPS：去美术教室找秋达（安排<color=#EB7350>素描</color> 可遇见秋达）"
+     1 string schinese_censored = "TIPS：去美术教室找秋达（安排<color=#EB7350>素描</color> 可遇见秋达）"
+     1 string english = "Tip: Go to the art classroom and find Dahlia Qiu (Meet Dahlia by practicing: 素描)"
+     1 string japanese = "/"
+     1 string mchinese = "TIPS：去美術教室找秋達（安排<color=#EB7350>素描</color> 可遇見秋達）"
+   [20411]
+    0 TableSoItemLang data
+     0 int id = 1030417
+     1 string schinese = "TIPS：去电脑教室找小马哥（安排<color=#EB7350>数据库基础</color> 可遇见小马哥）"
+     1 string schinese_censored = "TIPS：去计算机教室找小杨哥（安排<color=#EB7350>数据库基础</color> 可遇见小杨哥）"
+     1 string english = "Tip: Find Mark in the computer lab (Meet Mark by practicing: 数据库基础)"
+     1 string japanese = "/"
+     1 string mchinese = "TIPS：去電腦教室找小馬哥（安排<color=#EB7350>資料庫基礎</color> 可遇見小馬哥）"
+   [20412]
+    0 TableSoItemLang data
+     0 int id = 1030418
+     1 string schinese = "TIPS：跟爸爸报告进度（安排<color=#EB7350>独立游戏文化</color> 开始下一章节）"
+     1 string schinese_censored = "TIPS：跟爸爸报告进度（安排<color=#EB7350>独立游戏文化</color> 开始下一章节）"
+     1 string english = "Tip: Report your progress to dad (Start the next chapter by practicing: 独立游戏文化)"
+     1 string japanese = "/"
+     1 string mchinese = "TIPS：跟爸爸報告進度（安排<color=#EB7350>獨立遊戲文化</color> 開始下一章節）"
+   [20413]
+    0 TableSoItemLang data
+     0 int id = 1030419
+     1 string schinese = "TIPS：去找妈妈找到最后的碎片（安排<color=#EB7350>自我鼓励</color> 可见到妈妈）"
+     1 string schinese_censored = "TIPS：去找妈妈找到最后的碎片（安排<color=#EB7350>自我鼓励</color> 可见到妈妈）"
+     1 string english = "Tip: Find mom to get the last fragment (Meet mom by practicing: 自我鼓励)"
+     1 string japanese = "/"
+     1 string mchinese = "TIPS：去找媽媽找到最後的碎片（安排<color=#EB7350>自我鼓勵</color> 可見到媽媽）"
+   [20414]
+    0 TableSoItemLang data
+     0 int id = 1030420
+     1 string schinese = "TIPS：点击<color=#EB7350>结局</color> 按钮"
+     1 string schinese_censored = "TIPS：点击<color=#EB7350>结局</color> 按钮"
+     1 string english = "Tip: Click the ending's button"
+     1 string japanese = "/"
+     1 string mchinese = "TIPS：點擊<color=#EB7350>結局</color> 按鈕"
+   [20415]
+    0 TableSoItemLang data
+     0 int id = 1030421
+     1 string schinese = "孩子，来，爸爸跟你说件事"
+     1 string schinese_censored = "孩子，来，爸爸跟你说件事"
+     1 string english = "Child, come here, I've got something to tell you."
+     1 string japanese = "/"
+     1 string mchinese = "孩子，來，爸爸跟你說件事"
+   [20416]
+    0 TableSoItemLang data
+     0 int id = 1030422
+     1 string schinese = "干什么呀？这么严肃，不是你的风格呀~"
+     1 string schinese_censored = "干什么呀？这么严肃，不是你的风格呀~"
+     1 string english = "What's up? Why so serious? This isn't like you at all."
+     1 string japanese = "/"
+     1 string mchinese = "幹什麼呀？這麼嚴肅，不是你的風格呀~"
+   [20417]
+    0 TableSoItemLang data
+     0 int id = 1030423
+     1 string schinese = "不要嬉皮笑脸的，爸爸跟你说的这件事非常重要，这是咱们家一直传下来的大秘密！"
+     1 string schinese_censored = "不要嬉皮笑脸的，爸爸跟你说的这件事非常重要，这是咱们家一直传下来的大秘密！"
+     1 string english = "What I'm about to tell you is of the utmost importance. This is about a great secret that has been passed down in our family for generations!"
+     1 string japanese = "/"
+     1 string mchinese = "不要嬉皮笑臉的，爸爸跟你說的這件事非常重要，這是咱們家一直傳下來的大秘密！"
+   [20418]
+    0 TableSoItemLang data
+     0 int id = 1030424
+     1 string schinese = "现在你懂事了，我觉得是时候把这件事情告诉你了，以后你有了孩子也要把这个秘密继续传承下去。"
+     1 string schinese_censored = "现在你懂事了，我觉得是时候把这件事情告诉你了，以后你有了孩子也要把这个秘密继续传承下去。"
+     1 string english = "Now that you understand the world a bit better, I think it is time for me to tell you. When you get a child of your own, you must also tell them this greatest of secrets."
+     1 string japanese = "/"
+     1 string mchinese = "現在你懂事了，我覺得是時候把這件事情告訴你了，以後你有了孩子也要把這個秘密繼續傳承下去。"
+   [20419]
+    0 TableSoItemLang data
+     0 int id = 1030425
+     1 string schinese = "等你做好准备就来<color=#EB7350>【事务】</color>中<color=#EB7350>【寻宝】</color>中来吧。"
+     1 string schinese_censored = "等你做好准备就来<color=#EB7350>【事务】</color>中<color=#EB7350>【寻宝】</color>中来吧。"
+     1 string english = "Once you are prepared, head to <color=#EB7350>[Events]</color> and find <color=#EB7350>[Treasure]</color>."
+     1 string japanese = "/"
+     1 string mchinese = "等你做好準備就來<color=#EB7350>【事務】</color>中<color=#EB7350>【尋寶】</color>中來吧。"
+   [20420]
+    0 TableSoItemLang data
+     0 int id = 1030426
+     1 string schinese = "跟妈妈回家的路上……"
+     1 string schinese_censored = "跟妈妈回家的路上……"
+     1 string english = "On the way home with mom..."
+     1 string japanese = "/"
+     1 string mchinese = "跟媽媽回家的路上……"
+   [20421]
+    0 TableSoItemLang data
+     0 int id = 1030427
+     1 string schinese = "这是什么？怎么乱七八糟的？"
+     1 string schinese_censored = "这是什么？怎么乱七八糟的？"
+     1 string english = "What's this? What the...?"
+     1 string japanese = "/"
+     1 string mchinese = "這是什麼？怎麼亂七八糟的？"
+   [20422]
+    0 TableSoItemLang data
+     0 int id = 1030428
+     1 string schinese = "你看着这个不眼熟么？"

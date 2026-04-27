@@ -1,0 +1,184 @@
+     1 string schinese_censored = "挖取后获得一定情绪力！ \n（消耗10点行动力）"
+     1 string english = "Absorb to improve your EQ!\n(Costs 10 Action)"
+     1 string japanese = "ＥＱが上がる！\n行動力：-10"
+     1 string mchinese = "挖取後獲得一定情商！ \n（消耗10點行動力）"
+   [18951]
+    0 TableSoItemLang data
+     0 int id = 1028952
+     1 string schinese = "挖取后获得一定想象力！\n（消耗10点行动力）"
+     1 string schinese_censored = "挖取后获得一定想象力！\n（消耗10点行动力）"
+     1 string english = "Absorb to improve your Imagination!\n(Costs 10 Action)"
+     1 string japanese = "想像力が上がる！\n行動力：-10"
+     1 string mchinese = "挖取後獲得一定想像力！\n（消耗10點行動力）"
+   [18952]
+    0 TableSoItemLang data
+     0 int id = 1028953
+     1 string schinese = "挖取后获得一定记忆力！\n（消耗10点行动力）"
+     1 string schinese_censored = "挖取后获得一定记忆力！\n（消耗10点行动力）"
+     1 string english = "Absorb to improve your Memory!\n(Costs 10 Action)"
+     1 string japanese = "記憶力が上がる！\n行動力：-10"
+     1 string mchinese = "挖取後獲得一定記憶力！\n（消耗10點行動力）"
+   [18953]
+    0 TableSoItemLang data
+     0 int id = 1028954
+     1 string schinese = "挖取后获得一定体魄！\n（消耗10点行动力）"
+     1 string schinese_censored = "挖取后获得一定体魄！\n（消耗10点行动力）"
+     1 string english = "Absorb to improve your Constitution!\n(Costs 10 Action)"
+     1 string japanese = "体力が上がる！\n行動力：-10"
+     1 string mchinese = "挖取後獲得一定體魄！\n（消耗10點行動力）"
+   [18954]
+    0 TableSoItemLang data
+     0 int id = 1028955
+     1 string schinese = "挖取后每回合可额外获得一些智商！\n（消耗15点行动力）"
+     1 string schinese_censored = "挖取后每回合可额外获得一些智慧！\n（消耗15点行动力）"
+     1 string english = "Absorb to increase the IQ you gain per round!\n(Costs 15 Action)"
+     1 string japanese = "ＩＱが毎ターン追加で上がる！\n行動力：-15"
+     1 string mchinese = "挖取後每回合可額外獲得一些智商！\n（消耗15點行動力）"
+   [18955]
+    0 TableSoItemLang data
+     0 int id = 1028956
+     1 string schinese = "挖取后每回合可额外获得一些情商！\n（消耗15点行动力）"
+     1 string schinese_censored = "挖取后每回合可额外获得一些情绪力！\n（消耗15点行动力）"
+     1 string english = "Absorb to increase the EQ you gain per round!\n(Costs 15 Action)"
+     1 string japanese = "ＥＱが毎ターン追加で上がる！\n行動力：-15"
+     1 string mchinese = "挖取後每回合可額外獲得一些情商！\n（消耗15點行動力）"
+   [18956]
+    0 TableSoItemLang data
+     0 int id = 1028957
+     1 string schinese = "挖取后每回合可额外获得一些想象力！\n（消耗15点行动力）"
+     1 string schinese_censored = "挖取后每回合可额外获得一些想象力！\n（消耗15点行动力）"
+     1 string english = "Absorb to increase the Imagination you gain per round!\n(Costs 15 Action)"
+     1 string japanese = "想像力が毎ターン追加で上がる！\n行動力：-15"
+     1 string mchinese = "挖取後每回合可額外獲得一些想像力！\n（消耗15點行動力）"
+   [18957]
+    0 TableSoItemLang data
+     0 int id = 1028958
+     1 string schinese = "挖取后每回合可额外获得一些记忆力！\n（消耗15点行动力）"
+     1 string schinese_censored = "挖取后每回合可额外获得一些记忆力！\n（消耗15点行动力）"
+     1 string english = "Absorb to increase the Memory you gain per round!\n(Costs 15 Action)"
+     1 string japanese = "記憶力が毎ターン追加で上がる！\n行動力：-15"
+     1 string mchinese = "挖取後每回合可額外獲得一些記憶力！\n（消耗15點行動力）"
+   [18958]
+    0 TableSoItemLang data
+     0 int id = 1028959
+     1 string schinese = "挖取后每回合可额外获得一些体魄！\n（消耗15点行动力）"
+     1 string schinese_censored = "挖取后每回合可额外获得一些体魄！\n（消耗15点行动力）"
+     1 string english = "Absorb to increase the Constitution you gain per round!\n(Costs 15 Action)"
+     1 string japanese = "体力が毎ターン追加で上がる！\n行動力：-15"
+     1 string mchinese = "挖取後每回合可額外獲得一些體魄！\n（消耗15點行動力）"
+   [18959]
+    0 TableSoItemLang data
+     0 int id = 1028960
+     1 string schinese = "随机获得一些属性！\n（消耗10点行动力）"
+     1 string schinese_censored = "随机获得一些属性！\n（消耗10点行动力）"
+     1 string english = "Improves a random attribute!\n(Costs 10 Action)"
+     1 string japanese = "能力値がランダムで上がる！\n行動力：-10"
+     1 string mchinese = "隨機獲得一些屬性！\n（消耗10點行動力）"
+   [18960]
+    0 TableSoItemLang data
+     0 int id = 1028961
+     1 string schinese = "挖取后每回合可触发事件！\n（消耗10点行动力）"
+     1 string schinese_censored = "挖取后每回合可触发事件！\n（消耗10点行动力）"
+     1 string english = "Absorb for a chance to trigger events every round!\n(Costs 10 Action)"
+     1 string japanese = "イベントが毎ターン発生する！\n行動力：-10"
+     1 string mchinese = "挖取後每回合可觸發事件！\n（消耗10點行動力）"
+   [18961]
+    0 TableSoItemLang data
+     0 int id = 1028962
+     1 string schinese = "使周围的脑洞都可被挖取！\n（消耗15点行动力）"
+     1 string schinese_censored = "使周围的脑洞都可被挖取！\n（消耗15点行动力）"
+     1 string english = "Absorbs all adjacent fragments!\n(Costs 15 Action)"
+     1 string japanese = "周囲の未知のカケラが表示される！\n行動力：-15"
+     1 string mchinese = "使周圍的腦洞都可被挖取！\n（消耗15點行動力）"
+   [18962]
+    0 TableSoItemLang data
+     0 int id = 1028963
+     1 string schinese = "挖取后可随机获得一些行动力！"
+     1 string schinese_censored = "挖取后可随机获得一些行动力！"
+     1 string english = "Absorb to gain a random amount of Action!"
+     1 string japanese = "行動力がランダムで増加！"
+     1 string mchinese = "挖取後可隨機獲得一些行動力！"
+   [18963]
+    0 TableSoItemLang data
+     0 int id = 1028964
+     1 string schinese = "可挖取同种类型({0})的全部脑洞！\n（消耗20点行动力）"
+     1 string schinese_censored = "可挖取同种类型({0})的全部脑洞！\n（消耗20点行动力）"
+     1 string english = "Absorbs all fragments of the same type ({0})!\n(Costs 20 Action)"
+     1 string japanese = "同じタイプのカケラをすべて吸収できる！\n行動力：-20"
+     1 string mchinese = "可挖取同種類型({0})的全部腦洞！\n（消耗20點行動力）"
+   [18964]
+    0 TableSoItemLang data
+     0 int id = 1028965
+     1 string schinese = "挖取后可显示所有未知脑洞！\n（消耗18点行动力）"
+     1 string schinese_censored = "挖取后可显示所有未知脑洞！\n（消耗18点行动力）"
+     1 string english = "Absorb to reveal the current mind map!\n(Costs 18 Action)"
+     1 string japanese = "未知のカケラがすべて表示される！\n行動力：-18"
+     1 string mchinese = "挖取後可顯示所有未知腦洞！\n（消耗18點行動力）"
+   [18965]
+    0 TableSoItemLang data
+     0 int id = 1028966
+     1 string schinese = "可直接进入下一层脑区！并获得50点行动力"
+     1 string schinese_censored = "可直接进入下一层脑区！并获得50点行动力"
+     1 string english = "Enhance your mind and reach a new mind map! (Grants 50 Action)"
+     1 string japanese = "次の階層に移動できる！\n行動力：+50"
+     1 string mchinese = "可直接進入下一層腦區！並獲得50點行動力"
+   [18966]
+    0 TableSoItemLang data
+     0 int id = 1028967
+     1 string schinese = "普通"
+     1 string schinese_censored = "普通"
+     1 string english = "Ordinary"
+     1 string japanese = "一般"
+     1 string mchinese = "普通"
+   [18967]
+    0 TableSoItemLang data
+     0 int id = 1028968
+     1 string schinese = "正义"
+     1 string schinese_censored = "正义"
+     1 string english = "Justice"
+     1 string japanese = "正義"
+     1 string mchinese = "正義"
+   [18968]
+    0 TableSoItemLang data
+     0 int id = 1028969
+     1 string schinese = "忍者"
+     1 string schinese_censored = "忍者"
+     1 string english = "Ninja"
+     1 string japanese = "忍者"
+     1 string mchinese = "忍者"
+   [18969]
+    0 TableSoItemLang data
+     0 int id = 1028970
+     1 string schinese = "明星"
+     1 string schinese_censored = "明星"
+     1 string english = "Star"
+     1 string japanese = "スター"
+     1 string mchinese = "明星"
+   [18970]
+    0 TableSoItemLang data
+     0 int id = 1028971
+     1 string schinese = "销售"
+     1 string schinese_censored = "销售"
+     1 string english = "Seller"
+     1 string japanese = "営業"
+     1 string mchinese = "銷售"
+   [18971]
+    0 TableSoItemLang data
+     0 int id = 1028972
+     1 string schinese = "计算机"
+     1 string schinese_censored = "计算机"
+     1 string english = "Computer"
+     1 string japanese = "ＰＣ"
+     1 string mchinese = "電腦"
+   [18972]
+    0 TableSoItemLang data
+     0 int id = 1028973
+     1 string schinese = "游戏"
+     1 string schinese_censored = "游戏"
+     1 string english = "Game"
+     1 string japanese = "ゲーム"
+     1 string mchinese = "遊戲"
+   [18973]
+    0 TableSoItemLang data
+     0 int id = 1028974
+     1 string schinese = "文学"

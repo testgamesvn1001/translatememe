@@ -1,0 +1,184 @@
+     1 string schinese_censored = "似乎什么变化都没有发生呢"
+     1 string english = "It seems like nothing has changed..."
+     1 string japanese = "何も変わらなかった…"
+     1 string mchinese = "似乎什麼變化都沒有發生呢"
+   [8440]
+    0 TableSoItemLang data
+     0 int id = 1018441
+     1 string schinese = "好感度似乎增加了！"
+     1 string schinese_censored = "友好度似乎有所增加！"
+     1 string english = "Your Friendship seems to have increased."
+     1 string japanese = "好感度が少し上がったみたいだ！"
+     1 string mchinese = "好感度似乎增加了！"
+   [8441]
+    0 TableSoItemLang data
+     0 int id = 1018442
+     1 string schinese = "好感度似乎减少了……"
+     1 string schinese_censored = "友好度减少了……"
+     1 string english = "Friendship decreased..."
+     1 string japanese = "好感度が下がった…"
+     1 string mchinese = "好感度似乎減少了……"
+   [8442]
+    0 TableSoItemLang data
+     0 int id = 1018443
+     1 string schinese = "你好啊，刚做完作业呢……"
+     1 string schinese_censored = "你好啊，刚做完作业呢……"
+     1 string english = "Hello, I just finished my homework..."
+     1 string japanese = "あっ、ちょうど宿題が終わったところよ…"
+     1 string mchinese = "你好啊，剛做完作業呢……"
+   [8443]
+    0 TableSoItemLang data
+     0 int id = 1018444
+     1 string schinese = "啊！刚还想联系你呢！"
+     1 string schinese_censored = "啊！刚还想联系你呢！"
+     1 string english = "Ah! I was just about to contact you!"
+     1 string japanese = "あ！ちょうど連絡しようと思ってたの！"
+     1 string mchinese = "啊！剛還想聯繫你呢！"
+   [8444]
+    0 TableSoItemLang data
+     0 int id = 1018445
+     1 string schinese = "跑完步就精神多了呢，找我做什么？"
+     1 string schinese_censored = "跑完步就精神多了呢，找我做什么？"
+     1 string english = "I feel better after running. Were you looking for me?"
+     1 string japanese = "ジョギングしたら少し元気になったよ。どうしたの？"
+     1 string mchinese = "跑完步就精神多了呢，找我做什麼？"
+   [8445]
+    0 TableSoItemLang data
+     0 int id = 1018446
+     1 string schinese = "你好啊，找我做什么呢？"
+     1 string schinese_censored = "你好啊，找我做什么呢？"
+     1 string english = "Hello. Were you looking for me?"
+     1 string japanese = "こんにちは、どうしたの？"
+     1 string mchinese = "你好啊，找我做什麼呢？"
+   [8446]
+    0 TableSoItemLang data
+     0 int id = 1018447
+     1 string schinese = "真是有缘啊，找我作甚？"
+     1 string schinese_censored = "真是有缘啊，找我作甚？"
+     1 string english = "What a coincidence. Were you looking for me?"
+     1 string japanese = "奇遇だね！何か用かな？"
+     1 string mchinese = "真是有緣啊，找我作甚？"
+   [8447]
+    0 TableSoItemLang data
+     0 int id = 1018448
+     1 string schinese = "下午遇到了好帅的人呢！你好啊，找我干嘛~"
+     1 string schinese_censored = "下午遇到了好帅的人呢！你好啊，找我干嘛~"
+     1 string english = "I was meeting up with a handsome guy! Hello, were you looking for me?"
+     1 string japanese = "今イケメンに会ったの！あれ、どうしたの？"
+     1 string mchinese = "下午遇到了好帥的人呢！你好啊，找我幹嘛~"
+   [8448]
+    0 TableSoItemLang data
+     0 int id = 1018449
+     1 string schinese = "找我做什么呢？送我零用钱吗？"
+     1 string schinese_censored = "找我做什么呢？送我零用钱吗？"
+     1 string english = "Were you looking for me? Are you giving me spending money?"
+     1 string japanese = "私に何か用？お金でもくれるの？"
+     1 string mchinese = "找我做什麼呢？送我零用錢嗎？"
+   [8449]
+    0 TableSoItemLang data
+     0 int id = 1018450
+     1 string schinese = "不好意思哈，我还有六套练习题没做完呢……晚点聊（智商那么低，就不要联系我了）"
+     1 string schinese_censored = "不好意思哈，我还有六套练习题没做完呢……晚点聊（这个人智商不够高，没什么共同话题啊）"
+     1 string english = "Sorry, I still have six sets of practice tests to finish... I'll talk to you later. (Don't bother me if you have low IQ)"
+     1 string japanese = "ごめんね、まだ宿題が終わってないんだ…また後で。（ＩＱ低いんだから空気くらいは読んで）"
+     1 string mchinese = "不好意思哈，我還有六套練習題沒做完呢……晚點聊（智商那麼低，就不要聯繫我了）"
+   [8450]
+    0 TableSoItemLang data
+     0 int id = 1018451
+     1 string schinese = "不好意思已经有约了~下次再聊~（情商太低了，不要做朋友）"
+     1 string schinese_censored = "不好意思已经有约了~下次再聊~（情商太低了，不想说话）"
+     1 string english = "Sorry I already have plans! Next time! (EQ too low to be friends)"
+     1 string japanese = "ごめん、他の予定が入ってるの。また今度ね。（ＥＱが低すぎる人と友達になりたくないわ）"
+     1 string mchinese = "不好意思已經有約了~下次再聊~（情商太低了，不要做朋友）"
+   [8451]
+    0 TableSoItemLang data
+     0 int id = 1018452
+     1 string schinese = "我的瑜伽课快到了，下次聊！（没法跟没运动细胞的人聊天呢）"
+     1 string schinese_censored = "我的瑜伽课快到了，下次聊！（没法跟没运动细胞的人聊天呢）"
+     1 string english = "My yoga class is about to start! Let's talk next time! (Your sports genes are too bad to talk to her)"
+     1 string japanese = "これからヨガに行くの。また今度！（運動音痴の人となんて話したくない）"
+     1 string mchinese = "我的瑜伽課快到了，下次聊！（沒法跟沒運動細胞的人聊天呢）"
+   [8452]
+    0 TableSoItemLang data
+     0 int id = 1018453
+     1 string schinese = "不好意思哈，我还有事~（感觉这个人记性不好的样子）"
+     1 string schinese_censored = "不好意思哈，我还有事~（感觉这个人记性不好的样子）"
+     1 string english = "Sorry, I have other plans!"
+     1 string japanese = "ごめん、これから用事なの。（記憶力が無いみたい）"
+     1 string mchinese = "不好意思哈，我還有事~（感覺這個人記性不好的樣子）"
+   [8453]
+    0 TableSoItemLang data
+     0 int id = 1018454
+     1 string schinese = "我很无聊的，无聊就不要聊咯~（俗不可耐啊）"
+     1 string schinese_censored = "我很无聊的，无聊就不要聊咯~（想象力不够，俗不可耐）"
+     1 string english = "I'm very boring. It won't be fun talking to me! (Too vulgar)"
+     1 string japanese = "つまらないわ。話しても楽しくないし。（ホント地味）"
+     1 string mchinese = "我很無聊的，無聊就不要聊咯~（俗不可耐啊）"
+   [8454]
+    0 TableSoItemLang data
+     0 int id = 1018455
+     1 string schinese = "我要去洗澡啦~下次再说（姐是颜控，拜拜了）"
+     1 string schinese_censored = "我要去洗澡啦~下次再说（这个人人格魅力不行呢）"
+     1 string english = "I'm taking a shower. Maybe next time! (I am superficial, bye)"
+     1 string japanese = "シャワーを浴びなきゃ。またね。（イケメン以外お断りよ）"
+     1 string mchinese = "我要去洗澡啦~下次再說（姐是顏控，拜拜了）"
+   [8455]
+    0 TableSoItemLang data
+     0 int id = 1018456
+     1 string schinese = "要去买包包了~回见~（姐是人民币玩家~你不要打扰我）"
+     1 string schinese_censored = "要去买包包了~回见~（条件不一样，玩不到一起啊~）"
+     1 string english = "I'm going shopping! See you around! (I'm a P2W player so don't talk to me unless you have money)"
+     1 string japanese = "バッグを買いに行くから。じゃあね。（金持ちは貧乏人なんて相手にしないの）"
+     1 string mchinese = "要去買包包了~回見~（姐是人民幣玩家~你不要打擾我）"
+   [8456]
+    0 TableSoItemLang data
+     0 int id = 1018457
+     1 string schinese = "啊哈哈，有趣的人真是很难得呢"
+     1 string schinese_censored = "啊哈哈，有趣的人真是很难得呢"
+     1 string english = "It's really rare meeting someone interesting."
+     1 string japanese = "フフフ、珍しいくらいに面白い人ね。"
+     1 string mchinese = "啊哈哈，有趣的人真是很難得呢"
+   [8457]
+    0 TableSoItemLang data
+     0 int id = 1018458
+     1 string schinese = "啊，今天真是很开心~"
+     1 string schinese_censored = "啊，今天真是很开心~"
+     1 string english = "I had a great time today."
+     1 string japanese = "ああ、楽しかった～。"
+     1 string mchinese = "啊，今天真是很開心~"
+   [8458]
+    0 TableSoItemLang data
+     0 int id = 1018459
+     1 string schinese = "高兴跳起来~我们一起来抖腿！"
+     1 string schinese_censored = "高兴跳起来~我们一起来抖腿！"
+     1 string english = "Come on, jump if you're happy!"
+     1 string japanese = "ダンスしよう！一緒に踊ろう！"
+     1 string mchinese = "高興跳起來~我們一起來抖腿！"
+   [8459]
+    0 TableSoItemLang data
+     0 int id = 1018460
+     1 string schinese = "好有意思~~~"
+     1 string schinese_censored = "好有意思~~~"
+     1 string english = "Very interesting..."
+     1 string japanese = "おもしろ～い！"
+     1 string mchinese = "好有意思~~~"
+   [8460]
+    0 TableSoItemLang data
+     0 int id = 1018461
+     1 string schinese = "不错不错，心情愉悦了起来"
+     1 string schinese_censored = "不错不错，心情愉悦了起来"
+     1 string english = "Good, I'm in a better mood now."
+     1 string japanese = "いいね、楽しくなってきたよ。"
+     1 string mchinese = "不錯不錯，心情愉悅了起來"
+   [8461]
+    0 TableSoItemLang data
+     0 int id = 1018462
+     1 string schinese = "啊，颜值和有趣不可辜负啊~有意思"
+     1 string schinese_censored = "啊，颜值和有趣不可辜负啊~有意思"
+     1 string english = "Good looks and fun cannot let you down. How interesting!"
+     1 string japanese = "顔もイケてるね。性格もイイし。なかなかイイ感じ。"
+     1 string mchinese = "啊，顏值和有趣不可辜負啊~有意思"
+   [8462]
+    0 TableSoItemLang data
+     0 int id = 1018463
+     1 string schinese = "这样啊，真是很棒棒哟~"

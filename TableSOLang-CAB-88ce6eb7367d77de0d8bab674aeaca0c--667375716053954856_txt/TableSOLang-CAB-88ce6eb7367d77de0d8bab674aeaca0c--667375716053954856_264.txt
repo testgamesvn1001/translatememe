@@ -1,0 +1,184 @@
+     1 string schinese_censored = "最后被打的更惨了\n（ 体魄-100）"
+     1 string english = "You get beaten even worse.\n(Constitution -100)"
+     1 string japanese = "もっとボコボコにされた\n体力が100減少"
+     1 string mchinese = "最後被打的更慘了\n（體魄-100）"
+   [6048]
+    0 TableSoItemLang data
+     0 int id = 1016049
+     1 string schinese = "父母没说话，第二天找老师要了回来\n（智商+120）"
+     1 string schinese_censored = "父母没说话，第二天找老师要了回来\n（ 智慧增加了120）"
+     1 string english = "Your parents don't say a word and ask the teacher to come back the following day.\n(IQ +120)"
+     1 string japanese = "両親は何も言わず、翌日先生から取り返してきた\nＩＱが120増加"
+     1 string mchinese = "父母沒說話，第二天找老師要了回來\n（智商+120）"
+   [6049]
+    0 TableSoItemLang data
+     0 int id = 1016050
+     1 string schinese = "父母说老师都已经告诉他们了，今晚别吃饭了\n（行动力-30）"
+     1 string schinese_censored = "父母说老师都已经告诉他们了，今晚别吃饭了\n（ 行动力-30）"
+     1 string english = "Your parents say your teacher already told them. There's no food for you this evening.\n(Action -30)"
+     1 string japanese = "両親はすでに先生から聞いていたので、晩御飯が抜きになった…\n行動力が30減少"
+     1 string mchinese = "父母說老師都已經告訴他們了，今晚別吃飯了\n（行動力-30）"
+   [6050]
+    0 TableSoItemLang data
+     0 int id = 1016051
+     1 string schinese = "父母说老师都已经告诉他们了，今晚别吃饭了\n（行动力-30）"
+     1 string schinese_censored = "父母说老师都已经告诉他们了，今晚别吃饭了\n（ 行动力-30）"
+     1 string english = "Your parents say your teacher already told them. There's no food for you this evening.\n(Action -30)"
+     1 string japanese = "両親はすでに先生から聞いていたので、晩御飯が抜きになった…\n行動力が30減少"
+     1 string mchinese = "父母說老師都已經告訴他們了，今晚別吃飯了\n（行動力-30）"
+   [6051]
+    0 TableSoItemLang data
+     0 int id = 1016052
+     1 string schinese = "发完之后，再也没有了下文\n（智商-30）"
+     1 string schinese_censored = "发完之后，再也没有了下文\n（ 智慧-30）"
+     1 string english = "You send it over, but never receive any reply.\n(IQ -30)"
+     1 string japanese = "振り込んだ後、二度と返事は来なかった\nＩＱが30減少"
+     1 string mchinese = "發完之後，再也沒有了下文\n（智商-30）"
+   [6052]
+    0 TableSoItemLang data
+     0 int id = 1016053
+     1 string schinese = "后来听说同学被骗了\n（记忆力+50）"
+     1 string schinese_censored = "后来知道那个诈骗团伙落网了\n（ 记忆力增加了50）"
+     1 string english = "Later on you heard that your classmate was tricked.\n(Memory +50)"
+     1 string japanese = "後で友達が騙されたと聞いた\n記憶力が50増加"
+     1 string mchinese = "後來聽說同學被騙了\n（記憶力+50）"
+   [6053]
+    0 TableSoItemLang data
+     0 int id = 1016054
+     1 string schinese = "对方并没有回复你的骚扰短信\n（想象力+30）"
+     1 string schinese_censored = "对方并没有回复你的短信\n（ 想象力增加了30）"
+     1 string english = "Your friend doesn't even respond to your text.\n(Imagination +30)"
+     1 string japanese = "返事は来なかった\n想像力が30増加"
+     1 string mchinese = "對方並沒有回復你的騷擾短信\n（想像力+30）"
+   [6054]
+    0 TableSoItemLang data
+     0 int id = 1016055
+     1 string schinese = "算命先生大喊一句："此娃必成大画家啊！"，父亲高兴的付了咨询费\n（想象力+80）"
+     1 string schinese_censored = "算命先生大喊一句："此娃必成大画家啊！"，父亲高兴的付了咨询费\n（ 想象力增加了80）"
+     1 string english = "The fortune teller calls out: "This child will become a great painter!". Your dad exclaims in joy and pays the fee.\n(Imagination +80)"
+     1 string japanese = "「この子は将来偉大な画家になる！」お父さんは大喜びで占い料を払った\n想像力が80増加"
+     1 string mchinese = "算命先生大喊一句："此娃必成大畫家啊！"，父親高興的付了諮詢費\n（想像力+80）"
+   [6055]
+    0 TableSoItemLang data
+     0 int id = 1016056
+     1 string schinese = "算命先生大喊一句："此娃必上好大学啊！"，父亲高兴的付了咨询费\n（智商+80）"
+     1 string schinese_censored = "算命先生大喊一句："此娃必上好大学啊！"，父亲高兴的付了咨询费\n（ 智慧增加了80）"
+     1 string english = "The fortune teller calls out: "This child will enroll in a great university!". Your dad exclaims in joy and pays the fee.\n(IQ +80)"
+     1 string japanese = "「この子は将来一流大学に受かる！」お父さんは大喜びで占い料を払った\nＩＱが80増加"
+     1 string mchinese = "算命先生大喊一句："此娃必上好大學啊！"，父親高興的付了諮詢費\n（智商+80）"
+   [6056]
+    0 TableSoItemLang data
+     0 int id = 1016057
+     1 string schinese = "算命先生大喊一句："此娃必成大富翁啊！"，父亲高兴的付了咨询费\n（情商+80）"
+     1 string schinese_censored = "算命先生大喊一句："此娃必成大富翁啊！"，父亲高兴的付了咨询费\n（ 情绪力增加了80）"
+     1 string english = "The fortune teller calls out: "This child will become a millionaire!". Your dad exclaims in joy and pays the fee.\n(EQ +80)"
+     1 string japanese = "「この子は将来大金持ちになる！」お父さんは大喜びで占い料を払った\nＥＱが80増加"
+     1 string mchinese = "算命先生大喊一句："此娃必成大富翁啊！"，父親高興的付了諮詢費\n（情商+80）"
+   [6057]
+    0 TableSoItemLang data
+     0 int id = 1016058
+     1 string schinese = "爸爸十分得意，并夸奖了你\n（情商+20魅力+20）"
+     1 string schinese_censored = "爸爸十分得意，并夸奖了你\n（ 父母满意度增加了80）"
+     1 string english = "Your dad is very proud and commends you.\n(EQ +20, Charm +20)"
+     1 string japanese = "お父さんは満足して、あなたを褒めた\nＥＱが20増加、魅力が20増加"
+     1 string mchinese = "爸爸十分得意，並誇獎了你\n（情商+20魅力+20）"
+   [6058]
+    0 TableSoItemLang data
+     0 int id = 1016059
+     1 string schinese = "妈妈十分得意，并夸奖了你\n（情商+20魅力+20）"
+     1 string schinese_censored = "妈妈十分得意，并夸奖了你\n（ 父母满意度增加了80）"
+     1 string english = "Your mom is very proud and commends you.\n(EQ +20, Charm +20)"
+     1 string japanese = "お母さんは満足して、あなたを褒めた\nＥＱが20増加、魅力が20増加"
+     1 string mchinese = "媽媽十分得意，並誇獎了你\n（情商+20魅力+20）"
+   [6059]
+    0 TableSoItemLang data
+     0 int id = 1016060
+     1 string schinese = "“你这都是从哪儿学的！”爸爸十分生气，让你罚站。\n（情商-20体魄-120）"
+     1 string schinese_censored = "“你这都是从哪儿学的！”爸爸十分生气，让你罚站。\n（ 父母满意度-80 体魄-120）"
+     1 string english = "Where did you learn that!? Your dad gets very angry and forces you to stand still as punishment.\n(EQ -20, Constitution -120)"
+     1 string japanese = "「どこでそんな言葉を覚えた！」お父さんは怒り、あなたに罰を与えた\nＥＱが20減少、体力が120減少"
+     1 string mchinese = "“你這都是從哪兒學的！”爸爸十分生氣，讓你罰站。\n（情商-20體魄-120）"
+   [6060]
+    0 TableSoItemLang data
+     0 int id = 1016061
+     1 string schinese = "父亲十分尴尬，并和同事继续聊天\n（情商-100）"
+     1 string schinese_censored = "父亲十分尴尬，并和同事继续聊天\n（ 情绪力-100）"
+     1 string english = "Dad feels embarrassed and continues talking with his coworker.\n(EQ -100)"
+     1 string japanese = "お父さんは気まずそうに同僚と会話を続けた\nＥＱが100減少"
+     1 string mchinese = "父親十分尷尬，並和同事繼續聊天\n（情商-100）"
+   [6061]
+    0 TableSoItemLang data
+     0 int id = 1016062
+     1 string schinese = "之后的几天，你吃了很多大鱼大肉\n（体魄+125）"
+     1 string schinese_censored = "之后的几天，你吃了很多大鱼大肉\n（ 体魄增加了125）"
+     1 string english = "You get a lot of meat and fish in the following days.\n(Constitution +125)"
+     1 string japanese = "それから数日間は食事が豪華になった\n体力が125増加"
+     1 string mchinese = "之後的幾天，你吃了很多大魚大肉\n（體魄+125）"
+   [6062]
+    0 TableSoItemLang data
+     0 int id = 1016063
+     1 string schinese = "父亲十分感动，以后更加疼爱你了\n（魅力+150）"
+     1 string schinese_censored = "父亲十分感动，以后更加疼爱你了\n（ 魅力增加了150）"
+     1 string english = "Your parents are touched by your words and will care for you better.\n(Charm +150)"
+     1 string japanese = "お父さんは感動し、あなたをかわいがった\n魅力が150増加"
+     1 string mchinese = "父親十分感動，以後更加疼愛你了\n（魅力+150）"
+   [6063]
+    0 TableSoItemLang data
+     0 int id = 1016064
+     1 string schinese = "妈妈说这件事情她了如指掌，让你不必担心\n（记忆力+100）"
+     1 string schinese_censored = "妈妈说这件事情她了如指掌，让你不必担心\n（ 记忆力增加了100）"
+     1 string english = "Mom says she'll take care of it for you.\n(Memory +100)"
+     1 string japanese = "お母さんは知っていたようで「心配しないで」と言われた\n記憶力が100増加"
+     1 string mchinese = "媽媽說這件事情她瞭若指掌，讓你不必擔心\n（記憶力+100）"
+   [6064]
+    0 TableSoItemLang data
+     0 int id = 1016065
+     1 string schinese = "爸爸说这是个秘密，不要告诉妈妈\n（想象力+100）"
+     1 string schinese_censored = "爸爸说这是个秘密，不要告诉妈妈\n（ 想象力增加了100）"
+     1 string english = "Dad says it's a secret and you're not to tell your mom.\n(Imagination +100)"
+     1 string japanese = "「秘密だからお母さんには言わないで」とお父さんに言われた\n想像力が100増加"
+     1 string mchinese = "爸爸說這是個秘密，不要告訴媽媽\n（想像力+100）"
+   [6065]
+    0 TableSoItemLang data
+     0 int id = 1016066
+     1 string schinese = "两天后事情败露了，被罚不许吃糖一个星期\n（魅力-150）"
+     1 string schinese_censored = "两天后事情败露了，被罚不许吃糖一个星期\n（ 魅力-150）"
+     1 string english = "They get wind of the news two days later and aren't allowed to eat sweets for a week.\n(Charm -150)"
+     1 string japanese = "後日バレて飴を一週間禁止された\n魅力が150減少"
+     1 string mchinese = "兩天後事情敗露了，被罰不許吃糖一個星期\n（魅力-150）"
+   [6066]
+    0 TableSoItemLang data
+     0 int id = 1016067
+     1 string schinese = "父母说不能攀比，拒绝了这个请求\n（智商+100）"
+     1 string schinese_censored = "父母说不能攀比，拒绝了这个请求\n（ 智慧增加了100）"
+     1 string english = "They tell you not to compare yourself with others and refuse your request.\n(IQ +100)"
+     1 string japanese = "「うちはうち、よそはよそ」と両親に断られた\nＩＱが100増加"
+     1 string mchinese = "父母說不能攀比，拒絕了這個請求\n（智商+100）"
+   [6067]
+    0 TableSoItemLang data
+     0 int id = 1016068
+     1 string schinese = "同学嫌弃你，不肯借给你\n（魅力-150）"
+     1 string schinese_censored = "同学嫌弃你，不肯借给你\n（ 魅力-150）"
+     1 string english = "Your classmate dislikes you and won't lend it to you.\n(Charm -150)"
+     1 string japanese = "嫌がって貸してくれなかった\n魅力が150減少"
+     1 string mchinese = "同學嫌棄你，不肯借給你\n（魅力-150）"
+   [6068]
+    0 TableSoItemLang data
+     0 int id = 1016069
+     1 string schinese = "被老师发现，并向同学道歉\n（魅力-150）"
+     1 string schinese_censored = "被老师发现，并向同学道歉\n（ 魅力-150）"
+     1 string english = "You get found out by the teacher and have to apologize to your classmate.\n(Charm -150)"
+     1 string japanese = "先生にバレて謝った\n魅力が150減少"
+     1 string mchinese = "被老師發現，並向同學道歉\n（魅力-150）"
+   [6069]
+    0 TableSoItemLang data
+     0 int id = 1016070
+     1 string schinese = "同学夸父母手艺好\n（魅力+200）"
+     1 string schinese_censored = "同学夸父母手艺好\n（ 魅力增加了200）"
+     1 string english = "Your classmate commends your parents on their cooking.\n(Charm +200)"
+     1 string japanese = "同級生から美味しいと絶賛された\n魅力が200増加"
+     1 string mchinese = "同學誇父母手藝好\n（魅力+200）"
+   [6070]
+    0 TableSoItemLang data
+     0 int id = 1016071
+     1 string schinese = "同学也多数都带快餐，你觉得很有安全感\n（情商+150）"

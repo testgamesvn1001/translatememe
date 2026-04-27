@@ -1,0 +1,184 @@
+     1 string schinese_censored = "烤串点老板"
+     1 string english = "Restaurant Assistant"
+     1 string japanese = "食堂料理人見習い"
+     1 string mchinese = "飯店幫工"
+   [19963]
+    0 TableSoItemLang data
+     0 int id = 1029964
+     1 string schinese = "家常小饭馆主厨"
+     1 string schinese_censored = "酒店厨工"
+     1 string english = "Restaurant Head Chef"
+     1 string japanese = "家庭料理屋料理長"
+     1 string mchinese = "家常小飯館主廚"
+   [19964]
+    0 TableSoItemLang data
+     0 int id = 1029965
+     1 string schinese = "高级酒店主厨"
+     1 string schinese_censored = "面包店老板"
+     1 string english = "5★ Hotel Head Chef"
+     1 string japanese = "高級ホテル料理長"
+     1 string mchinese = "高級酒店主廚"
+   [19965]
+    0 TableSoItemLang data
+     0 int id = 1029966
+     1 string schinese = "国宴总厨"
+     1 string schinese_censored = "饭店帮工"
+     1 string english = "State Banquet Head Chef"
+     1 string japanese = "国賓料理人"
+     1 string mchinese = "國宴總廚"
+   [19966]
+    0 TableSoItemLang data
+     0 int id = 1029967
+     1 string schinese = "酒店帮工"
+     1 string schinese_censored = "家常小饭馆主厨"
+     1 string english = "Hotel Assistant"
+     1 string japanese = "ホテル料理人見習い"
+     1 string mchinese = "酒店幫工"
+   [19967]
+    0 TableSoItemLang data
+     0 int id = 1029968
+     1 string schinese = "酒店厨工"
+     1 string schinese_censored = "甜品大师"
+     1 string english = "Hotel Kitchen Worker"
+     1 string japanese = "料理人"
+     1 string mchinese = "酒店廚工"
+   [19968]
+    0 TableSoItemLang data
+     0 int id = 1029969
+     1 string schinese = "面包店老板"
+     1 string schinese_censored = "高级酒店主厨"
+     1 string english = "Bakery Owner"
+     1 string japanese = "パン屋店主"
+     1 string mchinese = "麵包店老闆"
+   [19969]
+    0 TableSoItemLang data
+     0 int id = 1029970
+     1 string schinese = "甜品大师"
+     1 string schinese_censored = "分子料理师"
+     1 string english = "Dessert Master"
+     1 string japanese = "パティシエ"
+     1 string mchinese = "甜品大師"
+   [19970]
+    0 TableSoItemLang data
+     0 int id = 1029971
+     1 string schinese = "分子料理师"
+     1 string schinese_censored = "国宴总厨"
+     1 string english = "Molecular Chef"
+     1 string japanese = "科学的料理人"
+     1 string mchinese = "分子料理師"
+   [19971]
+    0 TableSoItemLang data
+     0 int id = 1029972
+     1 string schinese = "米其林三星主厨"
+     1 string schinese_censored = "米其林三星主厨"
+     1 string english = "Michelin ★-Star Head Chef"
+     1 string japanese = "三ツ星店料理長"
+     1 string mchinese = "米其林三星主廚"
+   [19972]
+    0 TableSoItemLang data
+     0 int id = 1029973
+     1 string schinese = "在学校门口开了个煎饼摊，每天光顾的顾客学生居多，看着他们大口大口吃着我的煎饼，我也有些心满意足。@@但是每天3点就要起来揉面，直到半夜才能收攤，非常辛苦。希望有天能组个小店面不用再过这样每天担惊受怕的生活了。"
+     1 string schinese_censored = "在学校门口开了个煎饼摊，每天光顾的顾客学生居多，看着他们大口大口吃着我的煎饼，我也有些心满意足。@@但是每天3点就要起来揉面，直到半夜才能收摊，非常辛苦。希望有天能组个小店面不用再过这样每天担惊受怕的生活了。"
+     1 string english = "I have started a pancake stall outside the school gates. @@Seeing students wolf down my pancakes makes me happy. The only downside is that I have to get up at 3 in the morning to knead dough, then I take down my stall late in the evening. @@I hope that I can set up a small restaurant someday so that I don't have to work so hard."
+     1 string japanese = "学校の近くで煎餅屋台を始めた。毎日学生が食べてくれるのを見て、少し満足できた。朝３時から生地を準備するので、起きるのが大変だ。いつかこんな生活はやめて自分の店を持ちたい。"
+     1 string mchinese = "在學校門口開了個煎餅攤，每天光顧的顧客學生居多，看著他們大口大口吃著我的煎餅，我也有些心滿意足。@@但是每天3點就要起來揉面，直到半夜才能收攤，非常辛苦。希望有天能組個小店面不用再過這樣每天擔驚受怕的生活了。"
+   [19973]
+    0 TableSoItemLang data
+     0 int id = 1029974
+     1 string schinese = "我这烤串店说不大不小，一到晚上生意还算火爆，大家吃完都夸说老板的手艺好，味道独特，我也挺高兴的。忙完之后闲暇之余，@@偶尔做几道高大上的菜，看来我的厨艺也还没退步多少啊"
+     1 string schinese_censored = "我这烤串店说不大不小，一到晚上生意还算火爆，大家吃完都夸说老板的手艺好，味道独特，我也挺高兴的。忙完之后闲暇之余，@@偶尔做几道高大上的菜，看来我的厨艺也还没退步多少啊"
+     1 string english = "My kabob restaurant isn't really big, nor is it really small. @@Come evening the business is always booming and everyone praise me for the great taste and experience. @@I sometimes cook luxurious dishes in my spare time; it seems that I am as skillful as ever."
+     1 string japanese = "串焼き店は夕方からがアツい。誰もが私の手際と串焼きの独自の味を褒めてくれるので、とても嬉しい。閉店後に練習で高級料理を作ってるが、まだまだ実力が足りないと思う。"
+     1 string mchinese = "我這烤串店說不大不小，一到晚上生意還算火爆，大家吃完都誇說老闆的手藝好，味道獨特，我也挺高興的。忙完之後閒暇之餘，@@偶爾做幾道高大上的菜，看來我的廚藝也還沒退步多少啊"
+   [19974]
+    0 TableSoItemLang data
+     0 int id = 1029975
+     1 string schinese = "在一家小饭店的后厨当帮工，被人使唤来使唤去的，简而言之就是打杂的。我也不想这样，可任何工作一开始不都是这样的吗，@@等积累点经验我就找个饭店去当主厨！"
+     1 string schinese_censored = "在一家小饭店的后厨当帮工，被人使唤来使唤去的，简而言之就是打杂的。我也不想这样，可任何工作一开始不都是这样的吗，@@等积累点经验我就找个饭店去当主厨！"
+     1 string english = "I work as a kitchen assistant in a small restaurant. @@I do whatever needs doing, but I don't want to go on like this. But isn't this the case for every new work? After I've accumulated enough experience I'll try being the head chef of a restaurant!"
+     1 string japanese = "小さな食堂で料理人見習いになった。いつも誰かに仕事を頼まれる。要は雑用係だ。どんな仕事でも最初はこうだと思いたい。経験を積んで料理人を目指す！"
+     1 string mchinese = "在一家小飯店的後廚當幫工，被人使喚來使喚去的，簡而言之就是打雜的。我也不想這樣，可任何工作一開始不都是這樣的嗎，@@等積累點經驗我就找個飯店去當主廚！"
+   [19975]
+    0 TableSoItemLang data
+     0 int id = 1029976
+     1 string schinese = "在一家夫妻俩开的家常小饭馆里当主厨，说是主厨，加上我一共3个厨师，也不是多么高大上的工作，菜品也是普通的家常菜，@@身上全是油烟的味道，可这不就是生活吗……"
+     1 string schinese_censored = "在一家夫妻俩开的家常小饭馆里当主厨，说是主厨，加上我一共3个厨师，也不是多么高大上的工作，菜品也是普通的家常菜，@@身上全是油烟的味道，可这不就是生活吗……"
+     1 string english = "I am the head chef in a small restaurant. @@It is run by a married couple, and well, I say I'm the head chef, but we're only three chefs in total. It is simple work and the dishes are also rather simple. I reek of cooking oil, but isn't this what life is?"
+     1 string japanese = "夫婦で経営してる料理屋で料理長になった。料理長と言っても料理人は３人だけ。料理も高級料理じゃなくて、よくある普通の味の家庭料理。これが人生なのか…"
+     1 string mchinese = "在一家夫妻倆開的家常小飯館裏當主廚，說是主廚，加上我一共3個廚師，也不是多麼高大上的工作，菜品也是普通的家常菜，@@身上全是油煙的味道，可這不就是生活嗎……"
+   [19976]
+    0 TableSoItemLang data
+     0 int id = 1029977
+     1 string schinese = "我是高级酒店的主厨，掌管着整个厨房，手下有上百号人，做到我这种位置，一般都是制定一下宴席菜品的构成和酒店后厨的管理，古代的将军不也就差不多的工作吗……"
+     1 string schinese_censored = "我是高级酒店的主厨，掌管着整个厨房，手下有上百号人，做到我这种位置，一般都是制定一下宴席菜品的构成和酒店后厨的管理，古代的将军不也就差不多的工作吗……"
+     1 string english = "I'm the head chef of a high-class hotel.@@And I manage the entire kitchen.I have around 100 helpers under me and the only time I cook myself anymore is when we are hosting VIP guests. @@Otherwise I generally tend to decide upon which dishes to host at the banquet while managing the kitchen. I believe that my work here is not very unlike that of the generals of old."
+     1 string japanese = "高級ホテルの料理長になった。厨房全体を管理し、１００人もの料理人に指示を出してる。実際に料理するのは貴賓が訪れた時のみ。普段はコースメニューや仕入れ、厨房の管理方法を考えてる。戦国時代の将軍になった気分だ…"
+     1 string mchinese = "我是高級酒店的主廚，掌管著整個廚房，手下有上百號人，做到我這種位置，一般都是制定一下宴席菜品的構成和酒店後廚的管理，古代的將軍不也就差不多的工作嗎……"
+   [19977]
+    0 TableSoItemLang data
+     0 int id = 1029978
+     1 string schinese = "我是国宴主厨，国宴代表着整个国家最高的料理水平，北京也经常请我去接待外宾，毕竟也就只有我才能hold住这么大的场面吧，@@最近我开了一家餐厅，听说预约位置的都已经排到3年后了！"
+     1 string schinese_censored = "我是国宴主厨，国宴代表着整个国家最高的料理水平，各地也经常请我去接待外宾，毕竟也就只有我才能掌控住这么大的场面吧，@@最近我开了一家餐厅，听说预约位置的都已经排到3年后了！"
+     1 string english = "I am the head chef for the state banquet. @@Which means to say that I must serve the highest level of dishes humanly possible. I often get invited to Peking, after all, I'm the only one capable of hosting such magnificent feasts. @@I started a restaurant a short while back, and I believe the reservations are full for at least 3 years!"
+     1 string japanese = "国賓料理人になった。国を代表する最高レベルの料理を作る。外国人の接待にもよく呼ばれる。私以外に対応できないのだから当然だ。最近自分の店をオープンしたが、すでに予約は３年先まで埋まってる！"
+     1 string mchinese = "我是國宴主廚，國宴代表著整個國家最高的料理水準，北京也經常請我去接待外賓，畢竟也就只有我才能hold住這麼大的場面吧，@@最近我開了一家餐廳，聽說預約位置的都已經排到3年後了！"
+   [19978]
+    0 TableSoItemLang data
+     0 int id = 1029979
+     1 string schinese = "在一家大型外资连锁酒店的后厨当帮工，虽说是打杂的，但好歹是个连锁酒店，每天接触的人和物跟小饭店根本不是一个水平的，@@如果哪天可以当上这里的主厨就等着飞黄腾达了"
+     1 string schinese_censored = "在一家大型外资连锁酒店的后厨当帮工，虽说是打杂的，但好歹是个连锁酒店，每天接触的人和物跟小饭店根本不是一个水平的，@@如果哪天可以当上这里的主厨就等着飞黄腾达了"
+     1 string english = "I am a kitchen assistant at a branch hotel of a foreign hotel chain. @@I do all manner of work, but at least I work for a hotel chain. The people and ingredients I get to work with are far above those that frequent common restaurants. @@It would make my day if I can become the head chef here."
+     1 string japanese = "外資系ホテルで料理人見習いになった。雑用係だが、さすが外資系ホテルは違う。泊まる人も扱うものも普通のホテルと比べ物にならない。ここで料理長になれば成功が約束されたようなものだ。"
+     1 string mchinese = "在一家大型外資連鎖酒店的後廚當幫工，雖說是打雜的，但好歹是個連鎖酒店，每天接觸的人和物跟小飯店根本不是一個水準的，@@如果哪天可以當上這裏的主廚就等著飛黃騰達了"
+   [19979]
+    0 TableSoItemLang data
+     0 int id = 1029980
+     1 string schinese = "在一家大型外资连锁酒店的后厨当厨工，跟帮工不一样，我做的工作都是跟做菜相关的工作，比如西餐的装盘，调配酱汁，偶尔忙的时候我也可以帮忙做一下main dish，@@虽然现在挺苦的，但总可以看到未来的希望"
+     1 string schinese_censored = "在一家大型外资连锁酒店的后厨当厨工，跟帮工不一样，我做的工作都是跟做菜相关的工作，比如西餐的装盘，调配酱汁，偶尔忙的时候我也可以帮忙做一下主菜，@@虽然现在挺苦的，但总可以看到未来的希望"
+     1 string english = "I am a chef at a branch hotel of a large foreign hotel chain. @@It's completely different from being an assistant, that's for sure. All my work is related to cooking, for example, when we serve western cuisine, I lay the tables, create the sauce. @@Sometimes I even get to help making the main dish. It's hard work but I see a future for myself."
+     1 string japanese = "外資系ホテルで料理人になった。雑用とは違い、盛り付けやソースの調整をしてる。忙しい時はメインの調理もできる。今はつらいけど、将来に希望はある。"
+     1 string mchinese = "在一家大型外資連鎖酒店的後廚當廚工，跟幫工不一樣，我做的工作都是跟做菜相關的工作，比如西餐的裝盤，調配醬汁，偶爾忙的時候我也可以幫忙做一下main dish，@@雖然現在挺苦的，但總可以看到未來的希望"
+   [19980]
+    0 TableSoItemLang data
+     0 int id = 1029981
+     1 string schinese = "在一家大型外资连锁酒店的后厨当厨工，跟帮工不一样，我做的工作都是跟做菜相关的工作，比如西餐的装盘，调配酱汁，偶尔忙的时候我也可以帮忙做一下main dish，@@虽然现在挺苦的，但总可以看到未来的希望"
+     1 string schinese_censored = "自己在街口开了家面包店，卖一些现烤面包和蛋糕甜品，得以于我的创意和手法，店里也还算是火爆，不过我偶尔也会想现在处在这个信息时代，@@我是不是也需要转型成网红店才能更好的生存下去呢？"
+     1 string english = "I've started a bakery at the end of the street. @@My establishment is popular due to my creativity and skill, but I sometimes ponder about the age that we live it. Perhaps I should also become a cewebrity and open up a net shop?"
+     1 string japanese = "パン屋をオープンした。独自の焼きたてパンやスイーツで成功した。今は情報の時代だから、ネットショップに移行しないと生き残れないのかな？"
+     1 string mchinese = "在一家大型外資連鎖酒店的後廚當廚工，跟幫工不一樣，我做的工作都是跟做菜相關的工作，比如西餐的裝盤，調配醬汁，偶爾忙的時候我也可以幫忙做一下main dish，@@雖然現在挺苦的，但總可以看到未來的希望"
+   [19981]
+    0 TableSoItemLang data
+     0 int id = 1029982
+     1 string schinese = "专注于甜品十几年，我现在对甜品的理解更上一层楼了，因此不仅店里的生意火爆，连网上的销量都非常好，果然人类这种生物始终对@@可爱和甜品这两种东西不能抵抗啊"
+     1 string schinese_censored = "专注于甜品十几年，我现在对甜品的理解更上一层楼了，因此不仅店里的生意火爆，连网上的销量都非常好，果然人类这种生物始终对@@可爱和甜品这两种东西不能抵抗啊"
+     1 string english = "I've worked with desserts for decades and I am a master in my own right. @@This has led to my shop being very popular, and the Internet sales are flourishing. It would seem am I right after all, humans simply cannot resist cute and sweet things."
+     1 string japanese = "スイーツ特化して早１０年。スイーツが一般的になった今は、店頭販売だけじゃなく、ネット販売も好調だ。人間という生き物はカワイイと甘いには抵抗できないのかな。"
+     1 string mchinese = "專注於甜品十幾年，我現在對甜品的理解更上一層樓了，因此不僅店裏的生意火爆，連網上的銷量都非常好，果然人類這種生物始終對@@可愛和甜品這兩種東西不能抵抗啊"
+   [19982]
+    0 TableSoItemLang data
+     0 int id = 1029983
+     1 string schinese = "科技日新月异，料理界也不例外，多亏了早年就已经注意到了分子料理的美好前景有所涉猎，现在我的分子料理餐厅每天人络绎不绝，@@这种食物的魔法总能引得人们连连惊叹。但我还不会满足，因为料理，永无止境"
+     1 string schinese_censored = "科技日新月异，料理界也不例外，多亏了早年就已经注意到了分子料理的美好前景有所涉猎，现在我的分子料理餐厅每天人络绎不绝，@@这种食物的魔法总能引得人们连连惊叹。但我还不会满足，因为料理，永无止境"
+     1 string english = "The cooking realm is not exempt from the rapid development of science. @@Luckily, I noticed the importance of molecular cooking early on and my restaurant is booming. @@The magic my cooking involves makes people stop in wonder but I myself am still not satisfied—because cooking is ever-changing."
+     1 string japanese = "科学技術は日進月歩だ。料理界も例外じゃない。早くから科学的料理に気づいて勉強していたので、私の店は行列が絶えない。魔法的な料理で人々を驚かすが、いまだに満足はしてない。料理に終わりはないからね！"
+     1 string mchinese = "科技日新月異，料理界也不例外，多虧了早年就已經注意到了分子料理的美好前景有所涉獵，現在我的分子料理餐廳每天人絡繹不絕，@@這種食物的魔法總能引得人們連連驚歎。但我還不會滿足，因為料理，永無止境"
+   [19983]
+    0 TableSoItemLang data
+     0 int id = 1029984
+     1 string schinese = "在费劲千辛万苦，终于我的餐厅获得了米其林三星的称号后，我才明白所谓米其林三星也仅仅只是个评价而已，真正好的厨师不在乎这种称号，@@好吃才应该是他一生追求的目标，而我也会向这个目标不停的前进和修行"
+     1 string schinese_censored = "在费劲千辛万苦，终于我的餐厅获得了米其林三星的称号后，我才明白所谓米其林三星也仅仅只是个评价而已，真正好的厨师不在乎这种称号，@@好吃才应该是他一生追求的目标，而我也会向这个目标不停的前进和修行"
+     1 string english = "After years of work my restaurant has achieved a 3-star Michelin rating. @@Now I've finally come to understand that the so-called 3-star is simply a rating and it holds no meaning to a true chef. @@Rather, a chef's ultimate goal should be the pursuit of taste, and that is what I will spend my time doing."
+     1 string japanese = "苦労の末に自分の店が三ツ星店になった。あくまで他人の評価なので、本物の料理人は称号にこだわらない。最高の料理を作ることが目標だと気づいたので、日々目標に向かって修行を続けてる。"
+     1 string mchinese = "在費勁千辛萬苦，終於我的餐廳獲得了米其林三星的稱號後，我才明白所謂米其林三星也僅僅只是個評價而已，真正好的廚師不在乎這種稱號，@@好吃才應該是他一生追求的目標，而我也會向這個目標不停的前進和修行"
+   [19984]
+    0 TableSoItemLang data
+     0 int id = 1029985
+     1 string schinese = "在学校门口开了个煎饼摊，每天光顾的顾客学生居多，看着他们大口大口吃着我的煎饼，我也有些心满意足。@@但是每天3点就要起来揉面，直到半夜才能收攤，非常辛苦。希望有天能组个小店面不用再过这样每天担惊受怕的生活了。"
+     1 string schinese_censored = "在学校门口开了个煎饼摊，每天光顾的顾客学生居多，看着他们大口大口吃着我的煎饼，我也有些心满意足。@@但是每天3点就要起来揉面，直到半夜才能收摊，非常辛苦。希望有天能组个小店面不用再过这样每天担惊受怕的生活了。"
+     1 string english = "I have started a pancake stall outside the school gates. @@Seeing students wolf down my pancakes makes me happy. The only downside is that I have to get up at 3 in the morning to knead dough, then I take down my stall late in the evening. @@I hope that I can set up a small restaurant someday so that I don't have to work so hard."
+     1 string japanese = "学校の近くで煎餅屋台を始めた。毎日学生が食べてくれるので、少し満足できた。朝３時から生地を準備するので、起きるのが大変。自分の店を持ったら、こんな苦労はなくなるのかな。"
+     1 string mchinese = "在學校門口開了個煎餅攤，每天光顧的顧客學生居多，看著他們大口大口吃著我的煎餅，我也有些心滿意足。@@但是每天3點就要起來揉面，直到半夜才能收攤，非常辛苦。希望有天能組個小店面不用再過這樣每天擔驚受怕的生活了。"
+   [19985]
+    0 TableSoItemLang data
+     0 int id = 1029986
+     1 string schinese = "我这烤串店不大不小，一到晚上生意还算火爆，大家都夸说老板的手艺好，味道独特，我也挺高兴的。唯一不爽的一点就是总有人叫我烤串西施，@@总觉得顾客来吃饭不是因为我家烤串好吃来的……"

@@ -1,0 +1,184 @@
+     1 string schinese_censored = "零用钱不够用了~"
+     1 string english = "Not enough pocket money."
+     1 string japanese = "お小遣いが足りない！"
+     1 string mchinese = "零用錢不夠用了~"
+   [18008]
+    0 TableSoItemLang data
+     0 int id = 1028009
+     1 string schinese = "行动力不足，已经无法兼顾这些了！"
+     1 string schinese_censored = "行动力不足，已经无法兼顾这些了！"
+     1 string english = "Not enough Action to even think about doing this!"
+     1 string japanese = "行動力が不足している。あれこれ構うな！"
+     1 string mchinese = "行動力不足，已經無法兼顧這些了！"
+   [18009]
+    0 TableSoItemLang data
+     0 int id = 1028010
+     1 string schinese = "我的邀约"
+     1 string schinese_censored = "我的邀约"
+     1 string english = "Invitations"
+     1 string japanese = "お誘い"
+     1 string mchinese = "我的邀約"
+   [18010]
+    0 TableSoItemLang data
+     0 int id = 1028011
+     1 string schinese = "暂时没有邀约"
+     1 string schinese_censored = "暂时没有邀约"
+     1 string english = "No invitations"
+     1 string japanese = "今のところ招待状はない"
+     1 string mchinese = "暫時沒有邀約"
+   [18011]
+    0 TableSoItemLang data
+     0 int id = 1028012
+     1 string schinese = "获得悟性：+"
+     1 string schinese_censored = "获得悟性：+"
+     1 string english = "Acquired Knowledge: +"
+     1 string japanese = "理解力獲得：+"
+     1 string mchinese = "獲得悟性：+"
+   [18012]
+    0 TableSoItemLang data
+     0 int id = 1028013
+     1 string schinese = "不满足条件,再绞尽脑汁想想"
+     1 string schinese_censored = "不满足条件，再绞尽脑汁想想"
+     1 string english = "You do not meet the requirements. Rack your brain and try again."
+     1 string japanese = "条件不足なので、もう少し考えよう"
+     1 string mchinese = "不滿足條件,再絞盡腦汁想想"
+   [18013]
+    0 TableSoItemLang data
+     0 int id = 1028014
+     1 string schinese = "做不动了，还是换套题来做吧"
+     1 string schinese_censored = "做不动了，还是换套题来做吧"
+     1 string english = "I have to take a break, let's switch to another topic."
+     1 string japanese = "頭が回らないので、他の問題をやろう"
+     1 string mchinese = "做不動了，還是換套題來做吧"
+   [18014]
+    0 TableSoItemLang data
+     0 int id = 1028015
+     1 string schinese = "行动力不足！已经精力憔悴~还是休息休息吧"
+     1 string schinese_censored = "行动力不足！已经精力憔悴~还是休息休息吧"
+     1 string english = "Not enough Action! You've out of energy. You'd better take a rest."
+     1 string japanese = "行動力不足！疲れた！やめやめ！"
+     1 string mchinese = "行動力不足！已經精力憔悴~還是休息休息吧"
+   [18015]
+    0 TableSoItemLang data
+     0 int id = 1028016
+     1 string schinese = "姓名中不得包含违禁词！"
+     1 string schinese_censored = "姓名中不得包含违禁词！"
+     1 string english = "The name cannot contain illegal characters."
+     1 string japanese = "名前にＮＧワードを含めてはいけない！"
+     1 string mchinese = "姓名中不得包含違禁詞！"
+   [18016]
+    0 TableSoItemLang data
+     0 int id = 1028017
+     1 string schinese = "老师鼓励了我，奖励了一枚小红花！"
+     1 string schinese_censored = "老师鼓励了我一枚小红花！"
+     1 string english = "The teacher encouraged me and gave me a red flower!"
+     1 string japanese = "先生からご褒美のはなまるをゲット！"
+     1 string mchinese = "老師鼓勵了我，獎勵了一枚小紅花！"
+   [18017]
+    0 TableSoItemLang data
+     0 int id = 1028018
+     1 string schinese = "帮助小朋友，获得了一枚小红花"
+     1 string schinese_censored = "帮助小朋友，获得了一枚小红花"
+     1 string english = "I helped a kid and got a red flower!"
+     1 string japanese = "他の子を手伝ったので、はなまるをもらった"
+     1 string mchinese = "幫助小朋友，獲得了一枚小紅花"
+   [18018]
+    0 TableSoItemLang data
+     0 int id = 1028019
+     1 string schinese = "被选为幼儿园最听话的孩子"
+     1 string schinese_censored = "被选为幼儿园最听话的孩子"
+     1 string english = "You were selected as the most obedient child in kindergarten."
+     1 string japanese = "幼稚園で最も素直な子に選ばれた！"
+     1 string mchinese = "被選為幼稚園最聽話的孩子"
+   [18019]
+    0 TableSoItemLang data
+     0 int id = 1028020
+     1 string schinese = "被评为爱护牙齿小卫士"
+     1 string schinese_censored = "被评为爱护牙齿小卫士"
+     1 string english = "You were selected as one who loves to brush their teeth."
+     1 string japanese = "歯みがき上手で賞に選ばれた！"
+     1 string mchinese = "被評為愛護牙齒小衛士"
+   [18020]
+    0 TableSoItemLang data
+     0 int id = 1028021
+     1 string schinese = "恭喜获得奖励！悟性+"
+     1 string schinese_censored = "恭喜获得奖励！悟性+"
+     1 string english = "Congrats on the reward! Knowledge +"
+     1 string japanese = "ボーナス獲得おめでとう！理解力+"
+     1 string mchinese = "恭喜獲得獎勵！悟性+"
+   [18021]
+    0 TableSoItemLang data
+     0 int id = 1028022
+     1 string schinese = "父母觉得你最近表现不错，快向他们索取新东西吧！"
+     1 string schinese_censored = "父母觉得你最近表现不错，准备给你新的礼物！"
+     1 string english = "Your parents think you've behaved yourself lately. Request something new from them!"
+     1 string japanese = "両親にいい子だと思われているようなので、何か要求してみよう！"
+     1 string mchinese = "父母覺得你最近表現不錯，快向他們索取新東西吧！"
+   [18022]
+    0 TableSoItemLang data
+     0 int id = 1028023
+     1 string schinese = "本次测验主要考察学生五大科目技能的数量情况，学的技能越多分数越高"
+     1 string schinese_censored = "本次测验主要考察学生五大科目技能的数量情况，学的技能越多分数越高"
+     1 string english = "This exam tests a student's grasp of the five big subjects. You attain a higher score by learning more related skills."
+     1 string japanese = "テストは五科目の能力で審査する。習得したスキルが多いほど点数が高くなる。"
+     1 string mchinese = "本次測驗主要考察學生五大科目技能的數量情況，學的技能越多分數越高"
+   [18023]
+    0 TableSoItemLang data
+     0 int id = 1028024
+     1 string schinese = "语文"
+     1 string schinese_censored = "语文"
+     1 string english = "Chinese"
+     1 string japanese = "国語"
+     1 string mchinese = "語文"
+   [18024]
+    0 TableSoItemLang data
+     0 int id = 1028025
+     1 string schinese = "数学"
+     1 string schinese_censored = "数学"
+     1 string english = "Mathematics"
+     1 string japanese = "数学"
+     1 string mchinese = "數學"
+   [18025]
+    0 TableSoItemLang data
+     0 int id = 1028026
+     1 string schinese = "英语"
+     1 string schinese_censored = "英语"
+     1 string english = "English"
+     1 string japanese = "英語"
+     1 string mchinese = "英語"
+   [18026]
+    0 TableSoItemLang data
+     0 int id = 1028027
+     1 string schinese = "自然"
+     1 string schinese_censored = "自然"
+     1 string english = "Natural Science"
+     1 string japanese = "理科"
+     1 string mchinese = "自然"
+   [18027]
+    0 TableSoItemLang data
+     0 int id = 1028028
+     1 string schinese = "人文"
+     1 string schinese_censored = "人文"
+     1 string english = "Arts"
+     1 string japanese = "人文"
+     1 string mchinese = "人文"
+   [18028]
+    0 TableSoItemLang data
+     0 int id = 1028029
+     1 string schinese = "理科"
+     1 string schinese_censored = "理科"
+     1 string english = "Science"
+     1 string japanese = "理系"
+     1 string mchinese = "理科"
+   [18029]
+    0 TableSoItemLang data
+     0 int id = 1028030
+     1 string schinese = "文科"
+     1 string schinese_censored = "文科"
+     1 string english = "Liberal Arts"
+     1 string japanese = "文系"
+     1 string mchinese = "文科"
+   [18030]
+    0 TableSoItemLang data
+     0 int id = 1028031
+     1 string schinese = "理综"

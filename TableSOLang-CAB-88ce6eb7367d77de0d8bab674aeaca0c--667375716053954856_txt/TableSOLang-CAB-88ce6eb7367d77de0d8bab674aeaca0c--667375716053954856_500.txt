@@ -1,0 +1,184 @@
+     1 string schinese_censored = "那好吧，我加油试一试吧…"
+     1 string english = "Alright then, let me try..."
+     1 string japanese = "じゃあ、なんとか頑張ってみます…"
+     1 string mchinese = "那好吧，我加油試一試吧…"
+   [11476]
+    0 TableSoItemLang data
+     0 int id = 1021477
+     1 string schinese = "这场是满座啊，第一次公开表演，好紧张。"
+     1 string schinese_censored = "这场是满座啊，第一次公开表演，好紧张。"
+     1 string english = "Wow, full audience! This is the first public performance. I'm so nervous."
+     1 string japanese = "見てください、満席ですよ！初公演なのに… 緊張しちゃう…"
+     1 string mchinese = "這場是滿座啊，第一次公開表演，好緊張。"
+   [11477]
+    0 TableSoItemLang data
+     0 int id = 1021478
+     1 string schinese = "观众对这次话剧的题材特别感兴趣，你好好演。"
+     1 string schinese_censored = "观众对这次话剧的题材特别感兴趣，你好好演。"
+     1 string english = "The audience is very interested in the topic of this play. Do a good job!"
+     1 string japanese = "観客はお前を見に来たんやない、劇のテーマを見に来たんや。しっかり演じろ。"
+     1 string mchinese = "觀眾對這次話劇的題材特別感興趣，你好好演。"
+   [11478]
+    0 TableSoItemLang data
+     0 int id = 1021479
+     1 string schinese = "老吴，万一上去忘词、跳戏了怎么办？"
+     1 string schinese_censored = "导演，万一上去忘词、跳戏了怎么办？"
+     1 string english = "Georgie. What if I forget my lines or skip some?"
+     1 string japanese = "タツさん、もしセリフを忘れたらどうしましょう？"
+     1 string mchinese = "老吳，萬一上去忘詞、跳戲了怎麼辦？"
+   [11479]
+    0 TableSoItemLang data
+     0 int id = 1021480
+     1 string schinese = "我不是让你把《话剧演出指南》背熟吗？你背了没有。"
+     1 string schinese_censored = "我不是让你把《话剧演出指南》背熟吗？你背了没有。"
+     1 string english = "Didn't I tell you to memorize "Dummy's Guide to Drama Performance?" Did you memorize it?"
+     1 string japanese = "『話劇について』を暗記しろと言ったじゃろうが！しとらんのか！？"
+     1 string mchinese = "我不是讓你把《話劇演出指南》背熟嗎？你背了沒有。"
+   [11480]
+    0 TableSoItemLang data
+     0 int id = 1021481
+     1 string schinese = "就算背得滚瓜烂熟，也还是紧张啊……"
+     1 string schinese_censored = "就算背得滚瓜烂熟，也还是紧张啊……"
+     1 string english = "Even if I memorized the whole thing, I'm still nervous..."
+     1 string japanese = "しました！しましたけど… やっぱり緊張します…"
+     1 string mchinese = "就算背得滾瓜爛熟，也還是緊張啊……"
+   [11481]
+    0 TableSoItemLang data
+     0 int id = 1021482
+     1 string schinese = "这次张导的新片要挑新人当主角，我看你也挺用功的，就推荐你去试镜吧。"
+     1 string schinese_censored = "这次张导的新片要挑新人当主角，我看你也挺用功的，就推荐你去试镜吧。"
+     1 string english = "Director Zhang wants a new actor to play the main role in his new film. I see that you work pretty hard so I'll recommend you for an audition."
+     1 string japanese = "チョウ監督が主役のために良い新人を探しとるらしい。おめえはよう頑張っとるからな。オーディションに推薦しといたわ。"
+     1 string mchinese = "這次張導的新片要挑新人當主角，我看你也挺用功的，就推薦你去試鏡吧。"
+   [11482]
+    0 TableSoItemLang data
+     0 int id = 1021483
+     1 string schinese = "谢谢老吴，我会好好表演的。"
+     1 string schinese_censored = "谢谢导演，我会好好表演的。"
+     1 string english = "Thank you Georgie. I'll do my best."
+     1 string japanese = "ありがとうございます！全力を尽くします！"
+     1 string mchinese = "謝謝老吳，我會好好表演的。"
+   [11483]
+    0 TableSoItemLang data
+     0 int id = 1021484
+     1 string schinese = "记住，你可是我的关门弟子，到了现场，可别给我丢人。"
+     1 string schinese_censored = "记住，你可是我的关门弟子，到了现场，可别给我丢人。"
+     1 string english = "Remember, you're my apprentice. When you get there, don't embarrass me."
+     1 string japanese = "よっしゃよっしゃ、おめえさんの実力を見せてやれ。会場で他の奴らに気ぃ取られんじゃねえぞ。変なクセついちまうからな。"
+     1 string mchinese = "記住，你可是我的關門弟子，到了現場，可別給我丟人。"
+   [11484]
+    0 TableSoItemLang data
+     0 int id = 1021485
+     1 string schinese = "老吴你放心吧，我可是实力派演员，肯定没问题！"
+     1 string schinese_censored = "导演你放心吧，我可是实力派演员，肯定没问题！"
+     1 string english = "Don't worry Georgie, I'm a skilled actor. I will be just fine!"
+     1 string japanese = "そんな生徒に育てた覚えはないでしょう？あなたの弟子なんですから。いざとなったら直接監督に頼みに行きます！"
+     1 string mchinese = "老吳你放心吧，我可是實力派演員，肯定沒問題！"
+   [11485]
+    0 TableSoItemLang data
+     0 int id = 1021486
+     1 string schinese = "有你这句话我就放心了。"
+     1 string schinese_censored = "有你这句话我就放心了。"
+     1 string english = "It's very comforting to hear you say that."
+     1 string japanese = "そこまでやらんでええわい！"
+     1 string mchinese = "有你這句話我就放心了。"
+   [11486]
+    0 TableSoItemLang data
+     0 int id = 1021487
+     1 string schinese = "哎呀，老吴，张导的戏是讲什么的呀？你给我排排呗。"
+     1 string schinese_censored = "哎呀，导演，张导的戏是讲什么的呀？你给我排排呗。"
+     1 string english = "Ah, Georgie, what is Director Zhang's movie about? Help me out."
+     1 string japanese = "チョウ監督の新作はどんな内容ですか？教えて下さい。"
+     1 string mchinese = "哎呀，老吳，張導的戲是講什麼的呀？你給我排排唄。"
+   [11487]
+    0 TableSoItemLang data
+     0 int id = 1021488
+     1 string schinese = "就这等着你这么问呢。这是剧本，拿好了。"
+     1 string schinese_censored = "就这等着你这么问呢。这是剧本，拿好了。"
+     1 string english = "I've been waiting for you to ask. This is the script. Hold on to it."
+     1 string japanese = "それを待っとったわ。ほれ、台本や。"
+     1 string mchinese = "就這等著你這麼問呢。這是劇本，拿好了。"
+   [11488]
+    0 TableSoItemLang data
+     0 int id = 1021489
+     1 string schinese = "老吴，我要拍电影了。诚心邀请你做我电影的男主角。"
+     1 string schinese_censored = "导演，我要拍电影了。诚心邀请你做我电影的男主角。"
+     1 string english = "Georgie, I'm going to make a film. I'd like to invite you to be the leading male actor in my film."
+     1 string japanese = "タツさん、今度映画を撮る予定なんです。そこで是非、タツさんに主役を演じてほしいんです。"
+     1 string mchinese = "老吳，我要拍電影了。誠心邀請你做我電影的男主角。"
+   [11489]
+    0 TableSoItemLang data
+     0 int id = 1021490
+     1 string schinese = "大明星，你这可是演而优则导啊。跑了一辈子龙套，真没想到我也有当主角的一天。"
+     1 string schinese_censored = "大明星，你这可是演而优则导啊。跑了一辈子龙套，真没想到我也有当主角的一天。"
+     1 string english = "Hey there big celebrity, you've gone from acting to directing. I've been a supporting actor all my life. Never thought I'd be a leading role one day."
+     1 string japanese = "さすが大スター様やな！役者も監督もなんでもござれってか！死ぬまで脇役かと思ってたが、まさかワシが主役になるとはなぁ！"
+     1 string mchinese = "大明星，你這可是演而優則導啊。跑了一輩子龍套，真沒想到我也有當主角的一天。"
+   [11490]
+    0 TableSoItemLang data
+     0 int id = 1021491
+     1 string schinese = "老吴当了太久的绿叶，也该当当主角了。这次我电影的拍摄手法特别先锋，还深刻地揭露了环境污染问题。"
+     1 string schinese_censored = "导演当了太久的绿叶，也该当当主角了。这次我电影的拍摄手法特别先锋，还深刻地揭露了环境污染问题。"
+     1 string english = "Georgie you've been in supporting roles for too long. It's your turn to take the lead. The themes of my movie are very progressive. It's about the issues with environmental pollution."
+     1 string japanese = "タツさんは脇役そろそろ飽きてきたでしょう？そろそろ主役も演じないと。今回は最先端の撮影手法を使います。環境汚染問題をテーマにします。"
+     1 string mchinese = "老吳當了太久的綠葉，也該當當主角了。這次我電影的拍攝手法特別先鋒，還深刻地揭露了環境污染問題。"
+   [11491]
+    0 TableSoItemLang data
+     0 int id = 1021492
+     1 string schinese = "我饰演的角色是什么呢？"
+     1 string schinese_censored = "我饰演的角色是什么呢？"
+     1 string english = "What is the role that I'll be playing?"
+     1 string japanese = "それで、ワシはどういう役なんよ？"
+     1 string mchinese = "我飾演的角色是什麼呢？"
+   [11492]
+    0 TableSoItemLang data
+     0 int id = 1021493
+     1 string schinese = "你演的是一个居住在重金属污染区的变异鲨鱼。"
+     1 string schinese_censored = "你演的是一个居住在重金属污染区的变异鲨鱼。"
+     1 string english = "You'll be playing a mutated shark in a heavily alloy-polluted area."
+     1 string japanese = "タツさんは汚染地域に生息する突然変異したサメです！"
+     1 string mchinese = "你演的是一個居住在重金屬污染區的變異鯊魚。"
+   [11493]
+    0 TableSoItemLang data
+     0 int id = 1021494
+     1 string schinese = "鲨鱼？？我一个人类怎么演鲨鱼啊？"
+     1 string schinese_censored = "鲨鱼？？我一个人类怎么演鲨鱼啊？"
+     1 string english = "Shark? But I'm human. How am I supposed to play a shark?"
+     1 string japanese = "あぁ？サメ！？人間のワシがどうやってサメを演じるんじゃい？"
+     1 string mchinese = "鯊魚？？我一個人類怎麼演鯊魚啊？"
+   [11494]
+    0 TableSoItemLang data
+     0 int id = 1021495
+     1 string schinese = "我们捕捉到你的面部表情和肢体动作，剩下的交给特效制作就好了。你只要解放天性表演就行。"
+     1 string schinese_censored = "我们捕捉到你的面部表情和肢体动作，剩下的交给特效制作就好了。你只要解放天性表演就行。"
+     1 string english = "We will capture your facial and body movements, and leave the rest to the special effects guys. You just need to be free and act your heart out."
+     1 string japanese = "あなたの表情と体の動きをキャプチャーするんです。後はＳＦＸ班に任せてください。タツさんは思うように演じてください。"
+     1 string mchinese = "我們捕捉到你的面部表情和肢體動作，剩下的交給特效製作就好了。你只要解放天性表演就行。"
+   [11495]
+    0 TableSoItemLang data
+     0 int id = 1021496
+     1 string schinese = "那，我还是一枚绿叶嘛……"
+     1 string schinese_censored = "那，我还是一枚绿叶嘛……"
+     1 string english = "Um, so I'm technically still a supporting actor..."
+     1 string japanese = "それぁ、主役じゃなくねえか…？"
+     1 string mchinese = "那，我還是一枚綠葉嘛……"
+   [11496]
+    0 TableSoItemLang data
+     0 int id = 1021497
+     1 string schinese = "您好，你是第100万名观看我们水影忍者动画的朋友~可以参加我们的集训活动~"
+     1 string schinese_censored = "您好，你是第100万名观看我们水影忍者动画的朋友~可以参加我们的集训活动~"
+     1 string english = "Hello! You are the 1,000,000th person to watch this anime. You are eligible to join our event!"
+     1 string japanese = "オッス！オメエが「ニンニン動画」の記念すべき１００万人目の観客だ！俺たちの修行に参加できるってばよ。"
+     1 string mchinese = "您好，你是第100萬名觀看我們水影忍者動畫的朋友~可以參加我們的集訓活動~"
+   [11497]
+    0 TableSoItemLang data
+     0 int id = 1021498
+     1 string schinese = "可以有周边拿吗？我想跟酷酷的卡卡东合影~"
+     1 string schinese_censored = "可以有周边拿吗？我想跟酷酷的卡卡东合影~"
+     1 string english = "Are there gifts there? I want to take a picture with the coolest Kaekaeishi."
+     1 string japanese = "やった！他に賞品はないの？カカスィとツーショット写真とか！"
+     1 string mchinese = "可以有周邊拿嗎？我想跟酷酷的卡卡東合影~"
+   [11498]
+    0 TableSoItemLang data
+     0 int id = 1021499
+     1 string schinese = "当然可以，诶？卡卡东又跑去撩妹了……"

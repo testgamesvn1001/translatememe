@@ -1,0 +1,184 @@
+     1 string schinese_censored = "你看着这个不眼熟么？"
+     1 string english = "Does this one look familiar?"
+     1 string japanese = "/"
+     1 string mchinese = "你看著這個不眼熟麼？"
+   [20423]
+    0 TableSoItemLang data
+     0 int id = 1030429
+     1 string schinese = "？没啊……这是什么啊？"
+     1 string schinese_censored = "？没啊……这是什么啊？"
+     1 string english = "? No... What's this?"
+     1 string japanese = "/"
+     1 string mchinese = "？沒啊……這是什麼啊？"
+   [20424]
+    0 TableSoItemLang data
+     0 int id = 1030430
+     1 string schinese = "你先把它拼好吧，拼好了你应该就知道了……"
+     1 string schinese_censored = "你先把它拼好吧，拼好了你应该就知道了……"
+     1 string english = "Piece it together and you should understand..."
+     1 string japanese = "/"
+     1 string mchinese = "你先把它拼好吧，拼好了你應該就知道了……"
+   [20425]
+    0 TableSoItemLang data
+     0 int id = 1030431
+     1 string schinese = "一段时间后……"
+     1 string schinese_censored = "一段时间后……"
+     1 string english = "After a while..."
+     1 string japanese = "/"
+     1 string mchinese = "一段時間後……"
+   [20426]
+    0 TableSoItemLang data
+     0 int id = 1030432
+     1 string schinese = "怎么样？拼好了？看出来了吗？"
+     1 string schinese_censored = "怎么样？拼好了？看出来了吗？"
+     1 string english = "So? Have you pieced it together? Do you understand?"
+     1 string japanese = "/"
+     1 string mchinese = "怎麼樣？拼好了？看出來了嗎？"
+   [20427]
+    0 TableSoItemLang data
+     0 int id = 1030433
+     1 string schinese = "嗯呣呣……没有，这是什么呀？"
+     1 string schinese_censored = "嗯呣呣……没有，这是什么呀？"
+     1 string english = "Uhm... No, not really. What is it?"
+     1 string japanese = "/"
+     1 string mchinese = "嗯呣呣……沒有，這是什麼呀？"
+   [20428]
+    0 TableSoItemLang data
+     0 int id = 1030434
+     1 string schinese = "行了，到家了，回家再说吧！"
+     1 string schinese_censored = "行了，到家了，回家再说吧！"
+     1 string english = "OK, anyway, let's continue this when we get home."
+     1 string japanese = "/"
+     1 string mchinese = "行了，到家了，回家再說吧！"
+   [20429]
+    0 TableSoItemLang data
+     0 int id = 1030435
+     1 string schinese = "推门而入……"
+     1 string schinese_censored = "推门而入……"
+     1 string english = "Pushes open the door and enters..."
+     1 string japanese = "/"
+     1 string mchinese = "推門而入……"
+   [20430]
+    0 TableSoItemLang data
+     0 int id = 1030436
+     1 string schinese = "寻宝"
+     1 string schinese_censored = "寻宝"
+     1 string english = "Treasure"
+     1 string japanese = "/"
+     1 string mchinese = "尋寶"
+   [20431]
+    0 TableSoItemLang data
+     0 int id = 1030437
+     1 string schinese = "家族财宝"
+     1 string schinese_censored = "家族财宝"
+     1 string english = "Family Treasure"
+     1 string japanese = "/"
+     1 string mchinese = "家族財寶"
+   [20432]
+    0 TableSoItemLang data
+     0 int id = 1030438
+     1 string schinese = "{0}回合后解锁"
+     1 string schinese_censored = "{0}回合后解锁"
+     1 string english = "Unlocks in {0} turn(s)."
+     1 string japanese = "/"
+     1 string mchinese = "{0}回合後解鎖"
+   [20433]
+    0 TableSoItemLang data
+     0 int id = 1030439
+     1 string schinese = "获得了新藏宝图！"
+     1 string schinese_censored = "获得了新藏宝图！"
+     1 string english = "You acquired a treasure map!"
+     1 string japanese = "/"
+     1 string mchinese = "獲得了新藏寶圖！"
+   [20434]
+    0 TableSoItemLang data
+     0 int id = 1030440
+     1 string schinese = "根据提示解锁"
+     1 string schinese_censored = "根据提示解锁"
+     1 string english = "Follow the tip to unlock"
+     1 string japanese = "/"
+     1 string mchinese = "根據提示解鎖"
+   [20435]
+    0 TableSoItemLang data
+     0 int id = 1030441
+     1 string schinese = "收集到前一片后开启"
+     1 string schinese_censored = "收集到前一片后开启"
+     1 string english = "Available after collecting\nthe previous piece"
+     1 string japanese = "/"
+     1 string mchinese = "收集到前一片後開啟"
+   [20436]
+    0 TableSoItemLang data
+     0 int id = 1030442
+     1 string schinese = "结局"
+     1 string schinese_censored = "结局"
+     1 string english = "Ending"
+     1 string japanese = "/"
+     1 string mchinese = "結局"
+   [20437]
+    0 TableSoItemLang data
+     0 int id = 1030443
+     1 string schinese = "拼藏宝图"
+     1 string schinese_censored = "拼藏宝图"
+     1 string english = "Piece together"
+     1 string japanese = "/"
+     1 string mchinese = "拼藏寶圖"
+   [20438]
+    0 TableSoItemLang data
+     0 int id = 1030444
+     1 string schinese = "点击按钮将藏宝图拼至完整"
+     1 string schinese_censored = "点击按钮将藏宝图拼至完整"
+     1 string english = "Click the button to piece them together"
+     1 string japanese = "/"
+     1 string mchinese = "點擊按鈕將藏寶圖拼至完整"
+   [20439]
+    0 TableSoItemLang data
+     0 int id = 1030445
+     1 string schinese = "生日回顾"
+     1 string schinese_censored = "生日回顾"
+     1 string english = "Birthday Recall"
+     1 string japanese = "/"
+     1 string mchinese = "生日回顧"
+   [20440]
+    0 TableSoItemLang data
+     0 int id = 1030446
+     1 string schinese = "是否要跳过新手引导？"
+     1 string schinese_censored = "是否要跳过新手引导？"
+     1 string english = "Do you want to skip the tutorial？"
+     1 string japanese = "チュートリアルをスキップしますか？"
+     1 string mchinese = "是否要跳過新手引導？"
+   [20441]
+    0 TableSoItemLang data
+     0 int id = 1030447
+     1 string schinese = "龙套君B"
+     1 string schinese_censored = "龙套君B"
+     1 string english = "Nameless B"
+     1 string japanese = "同級生B"
+     1 string mchinese = "龍套君B"
+   [20442]
+    0 TableSoItemLang data
+     0 int id = 1030448
+     1 string schinese = "杨姐"
+     1 string schinese_censored = "杨姐"
+     1 string english = "Cecilia"
+     1 string japanese = "ヤン"
+     1 string mchinese = "楊姐"
+   [20443]
+    0 TableSoItemLang data
+     0 int id = 1030449
+     1 string schinese = "你看最近的“制造101”的综艺节目了没？"
+     1 string schinese_censored = "你看最近的“制造101”的综艺节目了没？"
+     1 string english = "Did you watch the new Production 101 show?"
+     1 string japanese = "最近始まった『メイキング１０１』は見た？"
+     1 string mchinese = "你看最近的“製造101”的綜藝節目了沒？"
+   [20444]
+    0 TableSoItemLang data
+     0 int id = 1030450
+     1 string schinese = "看了！看了！你也看那个节目吗？"
+     1 string schinese_censored = "看了！看了！你也看那个节目吗？"
+     1 string english = "Yes! I did! Did you watch it too?"
+     1 string japanese = "見た！見た！あなたも見たの？"
+     1 string mchinese = "看了！看了！你也看那個節目嗎？"
+   [20445]
+    0 TableSoItemLang data
+     0 int id = 1030451
+     1 string schinese = "嗯嗯，你最喜欢里面的谁呀？"

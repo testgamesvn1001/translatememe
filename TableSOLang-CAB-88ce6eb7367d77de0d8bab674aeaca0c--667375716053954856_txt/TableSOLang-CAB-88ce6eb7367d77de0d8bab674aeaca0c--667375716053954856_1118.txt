@@ -1,0 +1,184 @@
+     1 string schinese_censored = "可增进师生关系，父母面子越高增幅越大。但会影响自己的品德表率，有一定几率留下话柄。"
+     1 string english = "Improves your relationship with the teacher based on your parents' Face. Worsens your Morality with a chance to make you appear dishonorable."
+     1 string japanese = "先生との関係を良くする。両親のメンツが高いほど効果は上がるが、道徳模範に悪い影響をもたらし、当選に不利な噂を残す恐れがある。"
+     1 string mchinese = "可增進師生關係，父母面子越高增幅越大。但會影響自己的品德表率，有一定幾率留下話柄。"
+   [25690]
+    0 TableSoItemLang data
+     0 int id = 1596171977
+     1 string schinese = "针对对方话柄进行道德谴责，影响对方的品德表率，同时自身品德表率也会降低。大概率留下话柄。"
+     1 string schinese_censored = "针对对方话柄进行道德谴责，影响对方的品德表率，同时自身品德表率也会降低。大概率留下话柄。"
+     1 string english = "Condemn a dishonorable student's morals. Affects theirs as well as your Morality. Has a large chance of making you appear dishonorable."
+     1 string japanese = "相手を道徳的に非難し、道徳模範値を下げるが、自分の道徳模範値も影響される。当選に不利な噂を残す恐れがある。"
+     1 string mchinese = "針對對方話柄進行道德譴責，影響對方的品德表率，同時自身品德表率也會降低。大概率留下話柄。"
+   [25691]
+    0 TableSoItemLang data
+     0 int id = 1596171978
+     1 string schinese = "针对对方话柄向老师打小报告，降低对方的师生关系并提升自己的师生关系！但群众基础会有所降低。"
+     1 string schinese_censored = "针对对方话柄向老师打小报告，降低对方的师生关系并提升自己的师生关系！但群众基础会有所降低。"
+     1 string english = "Report a dishonorable student to the class teacher. Worsens their relationship with the teacher, while also making the teacher trust you! Worsens your standing with the masses."
+     1 string japanese = "相手の噂を先生に告発し、先生との関係に影響を与える。先生から信頼されるが、同級生の支持率は下がる。"
+     1 string mchinese = "針對對方話柄向老師打小報告，降低對方的師生關係並提升自己的師生關係！但群眾基礎會有所降低。"
+   [25692]
+    0 TableSoItemLang data
+     0 int id = 1596171979
+     1 string schinese = "孤立对方，让对方失去一定的群众基础。但自身和老师的关系会产生影响，大概率会留下话柄。"
+     1 string schinese_censored = "孤立对方，让对方失去一定的群众基础。但自身和老师的关系会产生影响，大概率会留下话柄。"
+     1 string english = "Isolate a student to worsen their class standing. Affects your relationship with the teacher with a big chance to appear dishonorable."
+     1 string japanese = "相手を孤立させ、同級生の支持率を下げるが、先生との関係に影響する。当選に不利な噂を残す可能性が高い。"
+     1 string mchinese = "孤立對方，讓對方失去一定的群眾基礎。但自身和老師的關係會產生影響，大概率會留下話柄。"
+   [25693]
+    0 TableSoItemLang data
+     0 int id = 1596171980
+     1 string schinese = "和对方结盟，互相吹捧。双方群众基础会有所增加，同时双方的师生关系都会恶化。"
+     1 string schinese_censored = "和对方结盟，互相吹捧。双方群众基础会有所增加，同时双方的师生关系都会恶化。"
+     1 string english = "Ally with a student to flatter each other, gaining standing. The teacher won't let it slide without repercussions though."
+     1 string japanese = "相手と同盟を組んで褒め合う。お互いに同級生の支持率は上がるが、先生との関係は悪くなる。"
+     1 string mchinese = "和對方結盟，互相吹捧。雙方群眾基礎會有所增加，同時雙方的師生關係都會惡化。"
+   [25694]
+    0 TableSoItemLang data
+     0 int id = 1596171981
+     1 string schinese = "通过帮助同学，增加了一定群众基础，略微降低师生关系。"
+     1 string schinese_censored = "通过帮助同学，增加了一定群众基础，略微降低师生关系。"
+     1 string english = " helps a classmate and gain standing with the masses, but their relationship with the teacher worsens."
+     1 string japanese = "が同級生を助けたため、同級生の支持率は上がったが、先生との関係は少し悪くなった。"
+     1 string mchinese = "通過幫助同學，增加了一定群眾基礎，略微降低師生關係。"
+   [25695]
+    0 TableSoItemLang data
+     0 int id = 1596171982
+     1 string schinese = "通过自我宣传，增加了一定的品德表率，但会略微降低群众基础。"
+     1 string schinese_censored = "通过自我宣传，增加了一定的品德表率，但会略微降低群众基础。"
+     1 string english = " promotes themselves to gain Morality, but the other students are not so pleased."
+     1 string japanese = "は自己アピールで道徳模範値を上げたが、同級生から反感を買ってしまった。"
+     1 string mchinese = "通過自我宣傳，增加了一定的品德表率，但會略微降低群眾基礎。"
+   [25696]
+    0 TableSoItemLang data
+     0 int id = 1596171983
+     1 string schinese = "通过亲近老师，增加了的师生关系，稍微降低品德表率。"
+     1 string schinese_censored = "通过亲近老师，增加了的师生关系，稍微降低品德表率。"
+     1 string english = " flatters the teacher, improving their relationship at the cost of Morality."
+     1 string japanese = "が先生と親しくなったため、先生との関係は良くなったが、道徳模範値に影響を与えた。"
+     1 string mchinese = "通過親近老師，增加了的師生關係，稍微降低品德表率。"
+   [25697]
+    0 TableSoItemLang data
+     0 int id = 1596171984
+     1 string schinese = "对{0}进行了道德声讨！对方品德表率值下降了，自身也受到了影响。"
+     1 string schinese_censored = "对{0}进行了道德声讨！对方品德表率值下降了，自身也受到了影响。"
+     1 string english = " denounces {0}'s morals! Their Morality decreases but the one who denounced them is also affected. "
+     1 string japanese = "が{0}を道徳的に非難した！相手の道徳模範値を下げたが、自分の道徳模範値も影響を受けた。"
+     1 string mchinese = "對{0}進行了道德聲討！對方品德表率值下降了，自身也受到了影響。"
+   [25698]
+    0 TableSoItemLang data
+     0 int id = 1596171985
+     1 string schinese = "私下跟老师报告了{0}的问题，老师开始疏远他，并开始亲近{1}。"
+     1 string schinese_censored = "私下跟老师报告了{0}的问题，老师开始疏远他，并开始亲近{1}。"
+     1 string english = " secretly tells the teacher about {0}'s issues, putting them on better terms with {1}. But the teacher starts keeping their distance."
+     1 string japanese = "が先生に{0}の噂を告発した。先生は敬遠するようになり、{1}と親しくなった。"
+     1 string mchinese = "私下跟老師報告了{0}的問題，老師開始疏遠他，並開始親近{1}。"
+   [25699]
+    0 TableSoItemLang data
+     0 int id = 1596171986
+     1 string schinese = "发动同学孤立{0}，对方群众基础有所动摇！而{1}的品德表率也被质疑。"
+     1 string schinese_censored = "发动同学孤立{0}，对方群众基础有所动摇！而{1}的品德表率也被质疑。"
+     1 string english = " incites students to isolate from {0}. Their standing with the masses falls! {1}'s Morality is also questioned. "
+     1 string japanese = "がクラスで{0}を孤立させて、同級生の支持率を下げた！{1}の道徳性も疑われるようになった。"
+     1 string mchinese = "發動同學孤立{0}，對方群眾基礎有所動搖！而{1}的品德表率也被質疑。"
+   [25700]
+    0 TableSoItemLang data
+     0 int id = 1596171987
+     1 string schinese = "与{0}结盟，双方群众基础都有所增加！同时也都被老师疏远了！"
+     1 string schinese_censored = "与{0}结盟，双方群众基础都有所增加！同时也都被老师疏远了！"
+     1 string english = " allies with {0}. Both gain standing with the masses, but the teacher won't let it slide without repercussions!"
+     1 string japanese = "が{0}と同盟を結び、お互いに同級生の支持率を上げたが、先生との関係は悪くなった！"
+     1 string mchinese = "與{0}結盟，雙方群眾基礎都有所增加！同時也都被老師疏遠了！"
+   [25701]
+    0 TableSoItemLang data
+     0 int id = 1596171988
+     1 string schinese = "这次班干部选举的结果很明显，我们给{0}掌声鼓励下！"
+     1 string schinese_censored = "这次班干部选举的结果很明显，我们给{0}掌声鼓励下！"
+     1 string english = "The results of the class president elections are clear this time. Give {0} a round of applause!"
+     1 string japanese = "学級委員長選挙の結果を発表します！{0}、おめでとう！"
+     1 string mchinese = "這次班幹部選舉的結果很明顯，我們給{0}掌聲鼓勵下！"
+   [25702]
+    0 TableSoItemLang data
+     0 int id = 1596171989
+     1 string schinese = "竞选班干部成功，获得了悟性"
+     1 string schinese_censored = "竞选班干部成功，获得了悟性"
+     1 string english = "You were selected as class president and acquired Knowledge: "
+     1 string japanese = "学級委員長に選ばれた！獲得理解力"
+     1 string mchinese = "競選班幹部成功，獲得了悟性"
+   [25703]
+    0 TableSoItemLang data
+     0 int id = 1596171990
+     1 string schinese = "有了话柄！"
+     1 string schinese_censored = "有了话柄！"
+     1 string english = " is dishonorable!"
+     1 string japanese = "は不利な噂を残した！"
+     1 string mchinese = "有了話柄！"
+   [25704]
+    0 TableSoItemLang data
+     0 int id = 1596171991
+     1 string schinese = "毫无疑问，选{0}！大家选我，我为大家！"
+     1 string schinese_censored = "毫无疑问，选{0}！大家选我，我为大家！"
+     1 string english = "Let's choose {0}! Everyone pick me, I'll do my best for you!"
+     1 string japanese = "{0}に一票を！皆さんのために尽くします！"
+     1 string mchinese = "毫無疑問，選{0}！大家選我，我為大家！"
+   [25705]
+    0 TableSoItemLang data
+     0 int id = 1596171992
+     1 string schinese = "我绝对不拿同学一针一线！"
+     1 string schinese_censored = "我绝对不拿同学一针一线！"
+     1 string english = "I won't take advantage of any student!"
+     1 string japanese = "私なら、皆さんに損はさせません！"
+     1 string mchinese = "我絕對不拿同學一針一線！"
+   [25706]
+    0 TableSoItemLang data
+     0 int id = 1596171993
+     1 string schinese = "让我们班再次伟大！！"
+     1 string schinese_censored = "让我们班再次伟大！！"
+     1 string english = "Let our class become great!"
+     1 string japanese = "我がクラスの栄光のために！！"
+     1 string mchinese = "讓我們班再次偉大！！"
+   [25707]
+    0 TableSoItemLang data
+     0 int id = 1596171994
+     1 string schinese = "为同学们服务，是我一贯宗旨！"
+     1 string schinese_censored = "为同学们服务，是我一贯宗旨！"
+     1 string english = "I'll serve our classmates and work for our common goal!"
+     1 string japanese = "クラスをより良くすることが、私の使命です！"
+     1 string mchinese = "為同學們服務，是我一貫宗旨！"
+   [25708]
+    0 TableSoItemLang data
+     0 int id = 1596171995
+     1 string schinese = "大家选我之后，一定不会失望"
+     1 string schinese_censored = "大家选我之后，一定不会失望"
+     1 string english = "You won't be disappointed if you choose me."
+     1 string japanese = "私を選んでください！後悔はさせません！"
+     1 string mchinese = "大家選我之後，一定不會失望"
+   [25709]
+    0 TableSoItemLang data
+     0 int id = 1596171996
+     1 string schinese = "相信大家会投我庄严的一票！"
+     1 string schinese_censored = "相信大家会投我庄严的一票！"
+     1 string english = "I trust you'll do the right thing and vote for me!"
+     1 string japanese = "皆さんを信じています！どうか清き一票を！"
+     1 string mchinese = "相信大家會投我莊嚴的一票！"
+   [25710]
+    0 TableSoItemLang data
+     0 int id = 1596171997
+     1 string schinese = "我最爱服务，做人不能自顾自！"
+     1 string schinese_censored = "我最爱服务，做人不能自顾自！"
+     1 string english = "I love serving, after all, one cannot just care for oneself!"
+     1 string japanese = "私は皆さんの公僕です！自分など二の次です！"
+     1 string mchinese = "我最愛服務，做人不能自顧自！"
+   [25711]
+    0 TableSoItemLang data
+     0 int id = 1596171998
+     1 string schinese = "忠于同学，也忠于内心！选我，选我！"
+     1 string schinese_censored = "忠于同学，也忠于内心！选我，选我！"
+     1 string english = "I'll be loyal to my classmates and my heart! Pick me, pick me!"
+     1 string japanese = "同級生と良心に忠誠を誓っています！どうか私に一票を！"
+     1 string mchinese = "忠於同學，也忠於內心！選我，選我！"
+   [25712]
+    0 TableSoItemLang data
+     0 int id = 1596171999
+     1 string schinese = "现在老师抓得严，我会给大家更多的喘息空间！"

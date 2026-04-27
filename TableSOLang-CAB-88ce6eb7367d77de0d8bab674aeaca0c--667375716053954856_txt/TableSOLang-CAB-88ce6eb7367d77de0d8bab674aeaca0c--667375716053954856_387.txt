@@ -1,0 +1,184 @@
+     1 string schinese_censored = "这位同学的问题非常好。一般来说法力不满足上限，就会随时间慢慢补足~也可以吃东西来快速补充茶客辣！所以厉害的忍者，法力上限都比较高！"
+     1 string english = "That's a very good question. As long as your MP isn't max, you will slowly recover it. You can also eat something to quickly recover your chakra! Powerful ninjas have a high MP cap!"
+     1 string japanese = "いい質問だね！NPは時間の経過で徐々に回復するけど、食事で早く回復することもできるよ！レベルの高い忍者はNP上限値も高いぞ！"
+     1 string mchinese = "這位同學的問題非常好。一般來說法力不滿足上限，就會隨時間慢慢補足~也可以吃東西來快速補充茶客辣！所以厲害的忍者，法力上限都比較高！"
+   [8877]
+    0 TableSoItemLang data
+     0 int id = 1018878
+     1 string schinese = "那吃什么才能快速补充法力呢？"
+     1 string schinese_censored = "那吃什么才能快速补充法力呢？"
+     1 string english = "What can we eat to quickly recover chakra?"
+     1 string japanese = "NPが早く回復する食事ってあるんですか？"
+     1 string mchinese = "那吃什麼才能快速補充法力呢？"
+   [8878]
+    0 TableSoItemLang data
+     0 int id = 1018879
+     1 string schinese = "这位同学问的好！今天我给大家推荐一款功能饮料佳查克！解口渴，更加查克！"
+     1 string schinese_censored = "这位同学问的好！今天我给大家推荐一款功能饮料佳查克！解口渴，更加查克！"
+     1 string english = "This is a great question! Today I am recommending a superb drink called Jhakra! It relieves thirst and refills your Chakra!"
+     1 string japanese = "それもいい質問だ！忍者機能性飲料「チャック＋」がオススメだぞ！チャクラも回復！渇きもチャック！"
+     1 string mchinese = "這位同學問的好！今天我給大家推薦一款功能飲料佳查克！解口渴，更加查克！"
+   [8879]
+    0 TableSoItemLang data
+     0 int id = 1018880
+     1 string schinese = "如果时间充分，还可以吃查克架！把它吃掉，把它吃掉！富含牛奶、花生、巧克力！"
+     1 string schinese_censored = "如果时间充分，还可以吃查克架！把它吃掉，把它吃掉！富含牛奶、花生、巧克力！"
+     1 string english = "If there's enough time, you can even eat a Snickra! Eat it, eat it! It's high in milk, peanuts, and chocolate!"
+     1 string japanese = "時間があるなら忍者機能性食品「チャクラック」もオススメだ！ただし、牛乳、ピーナッツ、チョコレート等、アレルギー成分が含まれていますのでお気をつけください！"
+     1 string mchinese = "如果時間充分，還可以吃查克架！把它吃掉，把它吃掉！富含牛奶、花生、巧克力！"
+   [8880]
+    0 TableSoItemLang data
+     0 int id = 1018881
+     1 string schinese = "那我们哪里买得到呢？"
+     1 string schinese_censored = "那我们哪里买得到呢？"
+     1 string english = "Where can we buy them?"
+     1 string japanese = "どこで売ってるんですか？"
+     1 string mchinese = "那我們哪里買得到呢？"
+   [8881]
+    0 TableSoItemLang data
+     0 int id = 1018882
+     1 string schinese = "这位同学问的好！来我这里，扫码支付，童叟无欺！早买早享受，晚买有折扣~"
+     1 string schinese_censored = "这位同学问的好！来我这里，扫码支付，童叟无欺！早买早享受，晚买有折扣~"
+     1 string english = "That's a great question! You can scan this QR code to pay me directly! First come, first served!"
+     1 string japanese = "さては質問のプロだねキミ！このQRコードからすぐ買えるぞ！深夜割引もあるぞ！"
+     1 string mchinese = "這位同學問的好！來我這裏，掃碼支付，童叟無欺！早買早享受，晚買有折扣~"
+   [8882]
+    0 TableSoItemLang data
+     0 int id = 1018883
+     1 string schinese = "很好，大家都已经通过了理论考试，也发了多篇国际期刊~可以参加上忍职业资格考试了。"
+     1 string schinese_censored = "很好，大家都已经通过了理论考试，也发了多篇国际期刊~可以参加上忍职业资格考试了。"
+     1 string english = "Very good. Everyone has passed the theoretical test and published many articles! You can now enter the ninja qualifications exam!"
+     1 string japanese = "よし、理論試験は合格だね。国際ジャーナルにも掲載されたし、次は上忍試験だよ。"
+     1 string mchinese = "很好，大家都已經通過了理論考試，也發了多篇國際期刊~可以參加上忍職業資格考試了。"
+   [8883]
+    0 TableSoItemLang data
+     0 int id = 1018884
+     1 string schinese = "要去日本考吗？"
+     1 string schinese_censored = "要去日本考吗？"
+     1 string english = "Do we need to go to Japan to take the exam?"
+     1 string japanese = "試験は日本までわざわざ行くんでしょうか？"
+     1 string mchinese = "要去日本考嗎？"
+   [8884]
+    0 TableSoItemLang data
+     0 int id = 1018885
+     1 string schinese = "也不用，今年大家报名踊跃，4个人以上可以团购，所以刚刚派了代表过来……"
+     1 string schinese_censored = "也不用，今年大家报名踊跃，4个人以上可以团购，所以刚刚派了代表过来……"
+     1 string english = "That's not necessary. You can register in groups of 4 for a better price! We have a representative here today!"
+     1 string japanese = "いや、今年は受験者が多いからね、ここでやるよ。代表が日本から来てくれるんだ。ちなみに４人グループ以上なら割引も利くよ！"
+     1 string mchinese = "也不用，今年大家報名踴躍，4個人以上可以團購，所以剛剛派了代表過來……"
+   [8885]
+    0 TableSoItemLang data
+     0 int id = 1018886
+     1 string schinese = "代表希望大家拉更多的人购买官方忍者头巾，让我们发展更多会员"
+     1 string schinese_censored = "代表希望大家拉更多的人购买官方忍者头巾，让我们发展更多会员"
+     1 string english = "The representative wishes for us to buy more ninja headbands so we can get more members."
+     1 string japanese = "代表の願いは、できるだけ多くの人がこの忍者頭巾を買って、会員になることだからね。"
+     1 string mchinese = "代表希望大家拉更多的人購買官方忍者頭巾，讓我們發展更多會員"
+   [8886]
+    0 TableSoItemLang data
+     0 int id = 1018887
+     1 string schinese = "比较早加入团体的朋友，分成更多！"
+     1 string schinese_censored = "比较早加入团体的朋友，分成更多！"
+     1 string english = "Friends who joined us earlier can enjoy better benefits!"
+     1 string japanese = "しかも早期入会者には多数の特典が！"
+     1 string mchinese = "比較早加入團體的朋友，分成更多！"
+   [8887]
+    0 TableSoItemLang data
+     0 int id = 1018888
+     1 string schinese = "唉呀妈呀，这太商业了吧？"
+     1 string schinese_censored = "唉呀妈呀，这太商业了吧？"
+     1 string english = "Oh my, isn't this too commercialized?"
+     1 string japanese = "あれ？ビジネスっぽくなってきたぞ？"
+     1 string mchinese = "唉呀媽呀，這太商業了吧？"
+   [8888]
+    0 TableSoItemLang data
+     0 int id = 1018889
+     1 string schinese = "会不会说话啊！这是日本官方认证的，现在忍者行业不景气，不做点微型商业怎么维持下去？"
+     1 string schinese_censored = "会不会说话啊！这是日本官方认证的，现在忍者行业不景气，不做点微型商业怎么维持下去？"
+     1 string english = "Stop talking nonsense! This is the official product from Japan. The ninja industry is doing poorly right now so we must do whatever we can to survive!"
+     1 string japanese = "忍者を侮辱するなってばよ！この頭巾はメイドインジャパンだし、最近の忍者産業は不景気なんだ。生き残るためには必要なのさ。"
+     1 string mchinese = "會不會說話啊！這是日本官方認證的，現在忍者行業不景氣，不做點微型商業怎麼維持下去？"
+   [8889]
+    0 TableSoItemLang data
+     0 int id = 1018890
+     1 string schinese = "（我还是去某宝买个吧，反正手工代工的值得信赖）"
+     1 string schinese_censored = "（我还是去某宝买个吧，反正手工代工的值得信赖）"
+     1 string english = "(I'll just go buy it online. The DIY stores are pretty reliable.)"
+     1 string japanese = "（オンラインストアで似たようなの売ってそうだな… DIYでもいいか…）"
+     1 string mchinese = "（我還是去某寶買個吧，反正手工代工的值得信賴）"
+   [8890]
+    0 TableSoItemLang data
+     0 int id = 1018891
+     1 string schinese = "聪聪，你为什么每天都不买零食吃啊。"
+     1 string schinese_censored = "聪聪，你为什么每天都不买零食吃啊。"
+     1 string english = "Charles Cong, why do you never buy any snacks?"
+     1 string japanese = "コンコン、キミはなんでお菓子を買わないんだい？"
+     1 string mchinese = "聰聰，你為什麼每天都不買零食吃啊。"
+   [8891]
+    0 TableSoItemLang data
+     0 int id = 1018892
+     1 string schinese = "我把每天的零用钱的一半，都放到存钱罐，这样有特别想买的东西，就可以买得起了。"
+     1 string schinese_censored = "我把每天的零用钱的一半，都放到存钱罐，这样有特别想买的东西，就可以买得起了。"
+     1 string english = "I save half of my snack money every day so when I see something I really want, I can just buy it."
+     1 string japanese = "僕は毎日お小遣いの半分を貯めるようにしてる。こうすると買いたい物ができた時にすぐ買えるんだ！"
+     1 string mchinese = "我把每天的零用錢的一半，都放到存錢罐，這樣有特別想買的東西，就可以買得起了。"
+   [8892]
+    0 TableSoItemLang data
+     0 int id = 1018893
+     1 string schinese = "这么神奇，我也要跟着存钱，以后变成钱多多！"
+     1 string schinese_censored = "这么神奇，我也要跟着存钱，以后变成钱多多！"
+     1 string english = "That's interesting. I should start saving money as well!"
+     1 string japanese = "頭いいね！僕も貯めてみるよ！"
+     1 string mchinese = "這麼神奇，我也要跟著存錢，以後變成錢多多！"
+   [8893]
+    0 TableSoItemLang data
+     0 int id = 1018894
+     1 string schinese = "嗯，忍一忍就会有更大的快乐！"
+     1 string schinese_censored = "嗯，忍一忍就会有更大的快乐！"
+     1 string english = "Yes, keep it up and get rewarded with greater happiness!"
+     1 string japanese = "お金を貯めておいて損は絶対しないよ！"
+     1 string mchinese = "嗯，忍一忍就會有更大的快樂！"
+   [8894]
+    0 TableSoItemLang data
+     0 int id = 1018895
+     1 string schinese = "聪聪没想到你都已经开始买股票了啊！"
+     1 string schinese_censored = "聪聪没想到你都已经开始买股票了啊！"
+     1 string english = "Charles Cong, I didn't realize that you already started buying stocks!"
+     1 string japanese = "まさか、もう株を買っているのかい！？"
+     1 string mchinese = "聰聰沒想到你都已經開始買股票了啊！"
+   [8895]
+    0 TableSoItemLang data
+     0 int id = 1018896
+     1 string schinese = "不是股票啦~只是基金而已……这样可以钱生钱~"
+     1 string schinese_censored = "不是股票啦~只是基金而已……这样可以钱生钱~"
+     1 string english = "It's not stocks. I just invest into a fund so I can start making some money."
+     1 string japanese = "これは株取引じゃないよ。これは投資ファンド…運用を任せてるんだ。"
+     1 string mchinese = "不是股票啦~只是基金而已……這樣可以錢生錢~"
+   [8896]
+    0 TableSoItemLang data
+     0 int id = 1018897
+     1 string schinese = "啊，这么厉害……不过感觉会有负罪感啊，什么也没做就有钱拿！"
+     1 string schinese_censored = "啊，这么厉害……不过感觉会有负罪感啊，什么也没做就有钱拿！"
+     1 string english = "Wow, that's amazing. But don't you feel bad that you're making money just by doing nothing?"
+     1 string japanese = "すごいなぁ。でも、何もしないで金を稼げるなんて、罪悪感が湧かないか？"
+     1 string mchinese = "啊，這麼厲害……不過感覺會有負罪感啊，什麼也沒做就有錢拿！"
+   [8897]
+    0 TableSoItemLang data
+     0 int id = 1018898
+     1 string schinese = "这个世界就是这样运转的呀，你借给别人钱让别人拿着你的钱去做事情，相应的你应该获得回报，我爸爸经常跟我这么说……"
+     1 string schinese_censored = "这个世界就是这样运转的呀，你借给别人钱让别人拿着你的钱去做事情，相应的你应该获得回报，我爸爸经常跟我这么说……"
+     1 string english = "This is how the world works. My dad always told me that the rich don't need to do any work."
+     1 string japanese = "世界はこんなもんだよ。「金持ちこそ働かなくていいんだ」ってお父さんがよく言ってる…"
+     1 string mchinese = "這個世界就是這樣運轉的呀，你借給別人錢讓別人拿著你的錢去做事情，相應的你應該獲得回報，我爸爸經常跟我這麼說……"
+   [8898]
+    0 TableSoItemLang data
+     0 int id = 1018899
+     1 string schinese = "所以你爸爸好有钱啊，这才是人生的真谛吗！"
+     1 string schinese_censored = "所以你爸爸好有钱啊，这才是人生的真谛吗！"
+     1 string english = "So your dad is really rich. Is that the true meaning of life?"
+     1 string japanese = "お前んちは本当に金持ちなんだな。これが世界の真理か！"
+     1 string mchinese = "所以你爸爸好有錢啊，這才是人生的真諦嗎！"
+   [8899]
+    0 TableSoItemLang data
+     0 int id = 1018900
+     1 string schinese = "是啊，你需要转变你的思维方式。"

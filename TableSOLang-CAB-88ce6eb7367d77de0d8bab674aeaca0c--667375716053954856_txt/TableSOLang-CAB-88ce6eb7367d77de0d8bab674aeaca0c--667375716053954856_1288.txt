@@ -1,0 +1,184 @@
+     1 string schinese_censored = "切…不过你才刚出道，还没什么粉丝是正常的，别灰心！以后肯定满场都是给你加油的声音！"
+     1 string english = "Bah... no respect. But you're just starting out; you'll get fans too eventually! I'm sure everyone and their mom'll be cheering you on later!"
+     1 string japanese = "ふーん…デビューしたてだから、ファンがいなくたってしょうがないよね！そのうち、会場中から応援をもらえるようになるって！"
+     1 string mchinese = "切…不過你才剛出道，還沒什麼粉絲是正常的，別灰心！以後肯定滿場都是給你加油的聲音！"
+   [29600]
+    0 TableSoItemLang data
+     0 int id = 1034568
+     1 string schinese = "我是为了自己打比赛，不是为了粉丝……那你给我加油了么。"
+     1 string schinese_censored = "我是为了自己打比赛，不是为了粉丝……那你给我加油了么。"
+     1 string english = "I'm playing for myself, not to attract fans... Well, were you cheering me on just now?"
+     1 string japanese = "僕は自分のために戦っているんだ。ファンのためじゃない…。それで、キミは応援してくれた？"
+     1 string mchinese = "我是為了自己打比賽，不是為了粉絲……那你給我加油了麼。"
+   [29601]
+    0 TableSoItemLang data
+     0 int id = 1034569
+     1 string schinese = "当然啊，我一直在喊小荗加油！"
+     1 string schinese_censored = "当然啊，我一直在喊小荗加油！"
+     1 string english = "Of course! I was literally screaming your name!"
+     1 string japanese = "もちろん。ずっとレンマオ頑張れって叫んでたよ！"
+     1 string mchinese = "當然啊，我一直在喊小荗加油！"
+   [29602]
+    0 TableSoItemLang data
+     0 int id = 1034570
+     1 string schinese = "那就行，看来我也不是没有粉丝，这就足够了。"
+     1 string schinese_censored = "那就行，看来我也不是没有粉丝，这就足够了。"
+     1 string english = "Then I'm not fan-less after all. Enough for me."
+     1 string japanese = "よかった。僕にもファンがいるとわかっただけで十分だ。"
+     1 string mchinese = "那就行，看來我也不是沒有粉絲，這就足夠了。"
+   [29603]
+    0 TableSoItemLang data
+     0 int id = 1034571
+     1 string schinese = "今天我们要进行每学期一次的换座位。"
+     1 string schinese_censored = "今天我们要进行每学期一次的换座位。"
+     1 string english = "Today is the first time this term we're switching seating at school."
+     1 string japanese = "今日は一学期に１回の席替えの日です。"
+     1 string mchinese = "今天我們要進行每學期一次的換座位。"
+   [29604]
+    0 TableSoItemLang data
+     0 int id = 1034572
+     1 string schinese = "你个子窜得很快，往后换两排，就坐..周人荗边上吧。"
+     1 string schinese_censored = "你个子窜得很快，往后换两排，就坐..周人荗边上吧。"
+     1 string english = "You're growing fast. Back two rows with you, next to Mikael there."
+     1 string japanese = "あなたは背が伸びるのが早いから、２列後ろにしましょう。…チョウ・レンマオの隣ね。"
+     1 string mchinese = "你個子竄得很快，往後換兩排，就坐..周人荗邊上吧。"
+   [29605]
+    0 TableSoItemLang data
+     0 int id = 1034573
+     1 string schinese = "好的老师。"
+     1 string schinese_censored = "好的老师。"
+     1 string english = "Oki-dokie."
+     1 string japanese = "はい、先生。"
+     1 string mchinese = "好的老師。"
+   [29606]
+    0 TableSoItemLang data
+     0 int id = 1034574
+     1 string schinese = "（你整理好东西，有一大叠书..)"
+     1 string schinese_censored = "（你整理好东西，有一大叠书..)"
+     1 string english = "(You organize your stuff and end up with a large pile of books.)"
+     1 string japanese = "（あなたは荷物をまとめた。その中には、教科書の山もある…）"
+     1 string mchinese = "（你整理好東西，有一大疊書..)"
+   [29607]
+    0 TableSoItemLang data
+     0 int id = 1034575
+     1 string schinese = "(周人荗一言不发地帮你搬起书到他边上的座位。）"
+     1 string schinese_censored = "(周人荗一言不发地帮你搬起书到他边上的座位。）"
+     1 string english = "(Mikael helps you in silence and sets them down at the desk next to his.)"
+     1 string japanese = "（チョウ・レンマオは何も言わず、あなたの教科書を隣の席まで運んでくれた）"
+     1 string mchinese = "(周人荗一言不發地幫你搬起書到他邊上的座位。）"
+   [29608]
+    0 TableSoItemLang data
+     0 int id = 1034576
+     1 string schinese = "谢谢你啊，周人荗同学。"
+     1 string schinese_censored = "谢谢你啊，周人荗同学。"
+     1 string english = "Thank you, deskmate Mikael!"
+     1 string japanese = "ありがとう、チョウ・レンマオ。"
+     1 string mchinese = "謝謝你啊，周人荗同學。"
+   [29609]
+    0 TableSoItemLang data
+     0 int id = 1034577
+     1 string schinese = "不谢。"
+     1 string schinese_censored = "不谢。"
+     1 string english = "You're welcome."
+     1 string japanese = "どうも。"
+     1 string mchinese = "不謝。"
+   [29610]
+    0 TableSoItemLang data
+     0 int id = 1034578
+     1 string schinese = "之前我就一直很想问你，为什么你不怎么学习成绩还是那么好啊~"
+     1 string schinese_censored = "之前我就一直很想问你，为什么你不怎么学习成绩还是那么好啊~"
+     1 string english = "I've always wanted to ask... Why do you have so good grades while you don't study?"
+     1 string japanese = "ずっと聞きたかったんだけど、あなたはそれほど勉強してないのにどうして成績が良いの？"
+     1 string mchinese = "之前我就一直很想問你，為什麼你不怎麼學習成績還是那麼好啊~"
+   [29611]
+    0 TableSoItemLang data
+     0 int id = 1034579
+     1 string schinese = "不知道。"
+     1 string schinese_censored = "不知道。"
+     1 string english = "Dunno."
+     1 string japanese = "知らないよ。"
+     1 string mchinese = "不知道。"
+   [29612]
+    0 TableSoItemLang data
+     0 int id = 1034580
+     1 string schinese = "...那..虽然我们不是很熟，但现在我们要做一学期的同桌呢，我们交个朋友吧~"
+     1 string schinese_censored = "...那..虽然我们不是很熟，但现在我们要做一学期的同桌呢，我们交个朋友吧~"
+     1 string english = "Mm, well... We're not really close. But hey, we'll be deskmates for a term. How about we become friends?"
+     1 string japanese = "…そっか。まだよく知らないけど、一学期の間隣の席なんだから、友達になりましょう。"
+     1 string mchinese = "...那..雖然我們不是很熟，但現在我們要做一學期的同桌呢，我們交個朋友吧~"
+   [29613]
+    0 TableSoItemLang data
+     0 int id = 1034581
+     1 string schinese = "不用了。"
+     1 string schinese_censored = "不用了。"
+     1 string english = "No need."
+     1 string japanese = "いや、いい。"
+     1 string mchinese = "不用了。"
+   [29614]
+    0 TableSoItemLang data
+     0 int id = 1034582
+     1 string schinese = "（……这也太高冷了吧……）"
+     1 string schinese_censored = "（……这也太高冷了吧……）"
+     1 string english = "(...Err, he's giving me the cold shoulder...)"
+     1 string japanese = "（…ドライすぎ…）"
+     1 string mchinese = "（……這也太高冷了吧……）"
+   [29615]
+    0 TableSoItemLang data
+     0 int id = 1034583
+     1 string schinese = "0"
+     1 string schinese_censored = "0"
+     1 string english = "/1034583"
+     1 string japanese = "/"
+     1 string mchinese = "0"
+   [29616]
+    0 TableSoItemLang data
+     0 int id = 1034584
+     1 string schinese = "周人荗认识test"
+     1 string schinese_censored = "周人荗认识test"
+     1 string english = "/1034584"
+     1 string japanese = "/"
+     1 string mchinese = "周人荗認識test"
+   [29617]
+    0 TableSoItemLang data
+     0 int id = 1034585
+     1 string schinese = ""
+     1 string schinese_censored = ""
+     1 string english = "/1034585"
+     1 string japanese = "/"
+     1 string mchinese = ""
+   [29618]
+    0 TableSoItemLang data
+     0 int id = 1034586
+     1 string schinese = "市面最新潮的平板游戏"
+     1 string schinese_censored = "市面最新潮的平板游戏"
+     1 string english = "The most fashionable tablet games."
+     1 string japanese = "最新モデルのタブレットゲーム"
+     1 string mchinese = "市面最新潮的平板遊戲"
+   [29619]
+    0 TableSoItemLang data
+     0 int id = 1034587
+     1 string schinese = "不愉快的时候，冲一个648！"
+     1 string schinese_censored = "不愉快的时候，冲一个648！"
+     1 string english = "When you're feeling down, just recharge what you can!"
+     1 string japanese = "むしゃくしゃしたら廃課金！"
+     1 string mchinese = "不愉快的時候，沖一個648！"
+   [29620]
+    0 TableSoItemLang data
+     0 int id = 1034588
+     1 string schinese = "真正的老少皆宜，游戏性满满的诚意作品。"
+     1 string schinese_censored = "真正的老少皆宜，游戏性满满的诚意作品。"
+     1 string english = "They've got awesome gameplay and are entertaining for both young and old."
+     1 string japanese = "老若男女楽しめる、遊び心に溢れた本格作品だ。"
+     1 string mchinese = "真正的老少皆宜，遊戲性滿滿的誠意作品。"
+   [29621]
+    0 TableSoItemLang data
+     0 int id = 1034589
+     1 string schinese = "卡牌可交换，友情点个赞！"
+     1 string schinese_censored = "卡牌可交换，友情点个赞！"
+     1 string english = "Exchange cards and get closer to your friends!"
+     1 string japanese = "カードを交換して、友情を育もう！"
+     1 string mchinese = "卡牌可交換，友情點個贊！"
+   [29622]
+    0 TableSoItemLang data
+     0 int id = 1034590
+     1 string schinese = "紧跟潮流，变身电竞巨星！"

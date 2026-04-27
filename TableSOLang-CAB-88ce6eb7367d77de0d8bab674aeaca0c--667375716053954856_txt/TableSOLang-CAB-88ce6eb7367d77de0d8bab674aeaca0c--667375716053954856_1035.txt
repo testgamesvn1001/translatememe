@@ -1,0 +1,184 @@
+     1 string schinese_censored = "微博收到一位主播的私信，邀请代打，我果断无视了这条信息。"
+     1 string english = "A streamer asks me to boost him. I refuse."
+     1 string japanese = "ＳＮＳである配信者からメッセージが届いた。替え玉の依頼だった。そのメッセージはきっぱりと無視した。"
+     1 string mchinese = "微博收到一位主播的私信，邀請代打，我果斷無視了這條資訊。"
+   [23781]
+    0 TableSoItemLang data
+     0 int id = 1109257
+     1 string schinese = "微博收到一条匿名信息邀请我打假赛参与菠菜，我很生气地点了举报。"
+     1 string schinese_censored = "微博收到一条匿名信息邀请我打假赛参与菠菜，我很生气地点了举报。"
+     1 string english = "A strangers asks me to fix the match. I report it with furor."
+     1 string japanese = "ＳＮＳで、八百長に誘う匿名メッセージが届いた。腹が立って、通報してやった。"
+     1 string mchinese = "微博收到一條匿名信息邀請我打假賽參與菠菜，我很生氣地點了舉報。"
+   [23782]
+    0 TableSoItemLang data
+     0 int id = 1109258
+     1 string schinese = "碾压对手后，围脖网友们把我吹上了天：\nNice啊_useNick！对线直接打穿对位，虾仁猪心啊。"
+     1 string schinese_censored = "碾压对手后，围脖网友们把自己吹上了天：/n Nice啊{0}！对线直接打穿，虾仁猪心啊。"
+     1 string english = "Fans tout me on social media after me dominating the game:\n Nice, _useNick! You destroyed the enemy laner early on."
+     1 string japanese = "相手に圧勝すると、ＳＮＳに称賛の言葉が並んだ。\n「いいぞ、_useNick！レーンを一気に制圧するプレイング、お見事！」"
+     1 string mchinese = "碾壓對手後，圍脖網友們把我吹上了天：\nNice啊_useNick！對線直接打穿對位，蝦仁豬心啊。"
+   [23783]
+    0 TableSoItemLang data
+     0 int id = 1109259
+     1 string schinese = "碾压对手后，围脖网友们把我吹上了天：\nsolo大龙这种事情都做到了！真有你的_useNick！"
+     1 string schinese_censored = "碾压对手后，围脖网友们把自己吹上了天：/n solo大龙这种事情都做到了！真有你的{0}！"
+     1 string english = "Fans tout me on social media after me dominating the game:\n Nice, _useNick! You even solo killed the Baron!"
+     1 string japanese = "相手に圧勝すると、ＳＮＳに称賛の言葉が並んだ。\n「ソロで大きいドラゴンを倒すなんて！さすが_useNick！」"
+     1 string mchinese = "碾壓對手後，圍脖網友們把我吹上了天：\nsolo大龍這種事情都做到了！真有你的_useNick！"
+   [23784]
+    0 TableSoItemLang data
+     0 int id = 1109260
+     1 string schinese = "碾压对手后，围脖网友们把我吹上了天：\nJNG第三把的阵容就是为所欲为之终极为所欲为，选出来都不知道怎么输！"
+     1 string schinese_censored = "碾压对手后，围脖网友们把自己吹上了天：/n {队名}第三把的阵容就是为所欲为之终极为所欲为，BP完都不知道怎么输！"
+     1 string english = "Fans tout me on social media after me dominating the game:\nJNG picked such a great lineup they weren't likely to lose at all."
+     1 string japanese = "相手に圧勝すると、ＳＮＳに称賛の言葉が並んだ。\n「ＪＮＧの３戦目のパーティーはベスト中のベストだ。負けるわけがない！」"
+     1 string mchinese = "碾壓對手後，圍脖網友們把我吹上了天：\nJNG第三把的陣容就是為所欲為之終極為所欲為，選出來都不知道怎麼輸！"
+   [23785]
+    0 TableSoItemLang data
+     0 int id = 1109261
+     1 string schinese = "碾压对手后，围脖网友们把我吹上了天：\n_useNick表现堪称完美，这竟然是个刚出道的新人你敢信？？？"
+     1 string schinese_censored = "碾压对手后，围脖网友们把自己吹上了天：/n {0}表现堪称完美，这竟然是个刚出道的新人你敢信？？？"
+     1 string english = "Fans tout me on social media after me dominating the game:\n_useNick's performance was close to perfect. Can you believe he's a new player?"
+     1 string japanese = "相手に圧勝すると、ＳＮＳに称賛の言葉が並んだ。\n「_useNickのプレイングは非の打ちどころがなかった。デビューしたてのルーキーなんて信じられないんだが？？？」"
+     1 string mchinese = "碾壓對手後，圍脖網友們把我吹上了天：\n_useNick表現堪稱完美，這竟然是個剛出道的新人你敢信？？？"
+   [23786]
+    0 TableSoItemLang data
+     0 int id = 1109262
+     1 string schinese = "碾压对手后，围脖网友们把我吹上了天：\n_useNick：来四个眼，带你躺赢。"
+     1 string schinese_censored = "碾压对手后，围脖网友们把自己吹上了天：/n {0}：来四个眼，带你躺赢。"
+     1 string english = "Fans tout me on social media after me dominating the game:\n_useNick says he can hard carry even with his other four teammates playing like four wards."
+     1 string japanese = "相手に圧勝すると、ＳＮＳに称賛の言葉が並んだ。\n「_useNickがいれば、あとの仲間は寝てても勝てる」"
+     1 string mchinese = "碾壓對手後，圍脖網友們把我吹上了天：\n_useNick：來四個眼，帶你躺贏。"
+   [23787]
+    0 TableSoItemLang data
+     0 int id = 1109263
+     1 string schinese = "碾压对手后，别家粉丝酸溜溜的：\n赛后采访有点膨胀啊，看他们能笑多久。"
+     1 string schinese_censored = "碾压对手后，别家粉丝酸溜溜的：/n赛后采访有点膨胀啊，看他们能笑多久。"
+     1 string english = "The opposing team's fans got disheartened after our win:\nI don't think they can win the championship. They were too arrogant in the post-match interview."
+     1 string japanese = "相手に圧勝すると、相手チームのファンは悔しそうだった。\n「試合後のインタビューで調子に乗ってたな。笑いすぎだよ」"
+     1 string mchinese = "碾壓對手後，別家粉絲酸溜溜的：\n賽後採訪有點膨脹啊，看他們能笑多久。"
+   [23788]
+    0 TableSoItemLang data
+     0 int id = 1109264
+     1 string schinese = "我的偶像盖哥，在电子竞技远古时代将中国推上了全球电子竞技的舞台，成为了无数风云后辈走上舞台的最初启蒙偶像。"
+     1 string schinese_censored = "电子竞技远古时代，盖哥将中国首次推上了全球电子竞技的舞台最高峰，成为了无数风云后辈走上舞台的最初启蒙偶像。"
+     1 string english = "Sky is my idol. He made the world learn about Chinese e-sports during the early years, encouraging countless gamers to start their own careers."
+     1 string japanese = "敬愛するガイさんは、ｅスポーツ草創期に中国を世界大会に連れていった。数々の力ある後輩が活躍するきっかけとなったレジェンドだ。"
+     1 string mchinese = "我的偶像蓋哥，在電子競技遠古時代將中國推上了全球電子競技的舞臺，成為了無數風雲後輩走上舞臺的最初啟蒙偶像。"
+   [23789]
+    0 TableSoItemLang data
+     0 int id = 1109265
+     1 string schinese = "刷视频刷到了神奇男孩黄旭西。从选手到解说，他留下了无数毒奶佳话。严重怀疑他的真实身份为不可公开的因果律人形兵器。"
+     1 string schinese_censored = "电竞老男孩黄旭西，从选手到解说，数十年如一日投身于电子竞技行业，留下了一段段毒奶的佳话。黑粉们怀疑其真实身份为不可公开的因果律人形兵器。"
+     1 string english = "There are videos about the amazing commentator and former player Huang Rex. Teams that he predicts going to win will always lose. I honestly think he's actually a walking Causality-violation Weapon."
+     1 string japanese = "ホアン・シューシーの動画を見た。選手から解説まで、数々の逆神伝説を残している。彼の正体は秘密の人型未来干渉兵器なのではないだろうか。"
+     1 string mchinese = "刷視頻刷到了神奇男孩黃旭西。從選手到解說，他留下了無數毒奶佳話。嚴重懷疑他的真實身份為不可公開的因果律人形兵器。"
+   [23790]
+    0 TableSoItemLang data
+     0 int id = 1109266
+     1 string schinese = "围脖#远古60E#冲上了热搜，大家都在追忆W3称霸IOI的那些年。当初一起举起奖杯的少年们现在只剩下赛文老祖还在场上了。唉，青春结束了……"
+     1 string schinese_censored = "远古60E追忆当年的W3称霸IOI的时代，物是人非，当年一起举起奖杯的少年们现在只剩下赛文老祖还在场上了。"
+     1 string english = "#W3 fans# is trending on the social media. Fans are talking about the years when the team dominated iOi. Players who held up the trophy have all retired, except Good Old Times. Alas, the good old times..."
+     1 string japanese = "ＳＮＳで#６０Ｅ老人会がトレンド入りした。みんな、チームＷ３がＩＯＩで覇権を握っていた時代のことを懐かしんでいる。そのときにトロフィーを掲げた少年たちのうち、今でも現役なのはセブン老師だけだ。ああ、青春が終ってしまう…。"
+     1 string mchinese = "圍脖#遠古60E#沖上了熱搜，大家都在追憶W3稱霸IOI的那些年。當初一起舉起獎盃的少年們現在只剩下賽文老祖還在場上了。唉，青春結束了……"
+   [23791]
+    0 TableSoItemLang data
+     0 int id = 1109267
+     1 string schinese = "前几天的Ti比赛中。液体队一串六夺冠后，国内刀圈一片愁云惨淡：\n喊了一个星期的LG老肥羊老干爷NB，结果围剿失败，液体队夺冠。我真是没脾气了！"
+     1 string schinese_censored = "液体队Ti一串六夺冠后，国内刀圈一片愁云惨淡：/n 喊了一个星期的LG老肥羊老干爷NB，结果围剿失败，液体队夺冠。没脾气了！"
+     1 string english = "Team Fluid won the Ti Tournament after defeating the other six teams several days ago, and that infuriated the DatO fans!\nWe supported four teams for the whole week but they all failed to stop Team Fluid. Gah!"
+     1 string japanese = "数日前のＴｉ大会で、国外のチームソリッドが見事に優勝を収めると、国内のＤａｔｏ界隈は落胆に包まれた。\n「ＬＧのメンバーはすごいぞって１週間言い続けてきたのに、優勝を逃すなんて。失望した！」"
+     1 string mchinese = "前幾天的Ti比賽中。液體隊一串六奪冠後，國內刀圈一片愁雲慘澹：\n喊了一個星期的LG老肥羊老幹爺NB，結果圍剿失敗，液體隊奪冠。我真是沒脾氣了！"
+   [23792]
+    0 TableSoItemLang data
+     0 int id = 1109268
+     1 string schinese = "我觉得电竞是相对公平的。不管选手家境如何，在电脑面前大家都站在同一起跑线上，都可能超越自己。"
+     1 string schinese_censored = "电竞是相对公平的。不管选手在现实中的家境如何，有钱没钱有权没权，在计算机面前大家都是站在同一起跑线上，都有超越自身的可能性。"
+     1 string english = "I think there's relative fairness in e-sports. Everyone starts with the same gold and experience no matter what their background."
+     1 string japanese = "ｅスポーツは公平だと思う。選手の家庭環境にかかわらず、ＰＣの前ではみんなが同じスタートラインに立ち、自分を超えられるかもしれない。"
+     1 string mchinese = "我覺得電競是相對公平的。不管選手家境如何，在電腦面前大家都站在同一起跑線上，都可能超越自己。"
+   [23793]
+    0 TableSoItemLang data
+     0 int id = 1109269
+     1 string schinese = "电子竞技没有永远的常胜将军，只有永远的自强不息！"
+     1 string schinese_censored = "电子竞技没有永远的常胜将军，只有永远的自强不息。"
+     1 string english = "No champions lasts forever. Only perpetual training and working hard reigns supreme."
+     1 string japanese = "ｅスポーツの世界に優勝請負監督はいない。自分との闘いが永遠に続く！"
+     1 string mchinese = "電子競技沒有永遠的常勝將軍，只有永遠的自強不息！"
+   [23794]
+    0 TableSoItemLang data
+     0 int id = 1109270
+     1 string schinese = "打职业真的好累啊，不断地重复一样的训练一样的内容。有时候我真想回去读书..."
+     1 string schinese_censored = "打职业真的好累，不断地重复一样的训练一样的内容，真想回去读书啊。"
+     1 string english = "The endless repeating training tires me. I really want to go back to school sometimes..."
+     1 string japanese = "プロの世界は本当に大変だ。同じ内容の同じ練習を何度も何度も繰り返す。学校の勉強に戻りたいと思うこともある…。"
+     1 string mchinese = "打職業真的好累啊，不斷地重複一樣的訓練一樣的內容。有時候我真想回去讀書..."
+   [23795]
+    0 TableSoItemLang data
+     0 int id = 1109271
+     1 string schinese = "人生第一场比赛前我失眠了，后来迷迷糊糊睡着后又做了一个梦，梦见我拿冠军了。"
+     1 string schinese_censored = "人生第一场比赛前我失眠了，后来迷迷糊糊睡着后又做了一个梦，梦见我拿冠军了。"
+     1 string english = "I could hardly sleep before my first pro match. I fell asleep later and dreamed of my becoming the champion."
+     1 string japanese = "人生で初めての試合の前日はなかなか寝付けなかった。ようやくうとうとし始めると、ある夢を見た。優勝を手にする夢だった。"
+     1 string mchinese = "人生第一場比賽前我失眠了，後來迷迷糊糊睡著後又做了一個夢，夢見我拿冠軍了。"
+   [23796]
+    0 TableSoItemLang data
+     0 int id = 1109272
+     1 string schinese = "以前玩游戏是快乐，”全军出击“后什么场外的烦恼都没有了；而现在，打不好的后果是以前无法想象的、铺天盖地的谩骂，它们甚至让我害怕起了打开游戏。"
+     1 string schinese_censored = "以前玩游戏是快乐，”全军出击“后什么场外的烦恼都没有了；而现在，打不好的后果是以前无法想象的、铺天盖地的谩骂，它们甚至让我害怕起了打开游戏。"
+     1 string english = "I used to play the game for fun. I never had any worries then. But I have to face harsh criticism now when I don't play well, something which makes me think twice about booting up the game."
+     1 string japanese = "ゲームは楽しいものだった。『砂漠行動』をプレイすると、悩みなんて吹き飛んだ。今では、上手くプレイできないと罵声が浴びせられる。以前は想像もできなかった。そのせいでゲームを起動するのが怖くなるほどだ。"
+     1 string mchinese = "以前玩遊戲是快樂，”全軍出擊“後什麼場外的煩惱都沒有了；而現在，打不好的後果是以前無法想像的、鋪天蓋地的謾罵，它們甚至讓我害怕起了打開遊戲。"
+   [23797]
+    0 TableSoItemLang data
+     0 int id = 1109273
+     1 string schinese = "半只脚踏入职业圈才体会到，上大学的确是生来平凡的人手中最粗的一根绳索。电子竞技的确是另一种可能，但它不仅脆弱易断，还要与千万人争夺。"
+     1 string schinese_censored = "上大学是生来平凡的人手中最粗的一根绳索。电子竞技的确是另一种可能，但它不仅脆弱易断，还要与千万人争夺。"
+     1 string english = "After going pro, I've realized that going to university is indeed the best chance for people born ordinary. E-sports may be another, but you have to compete with hundreds of thousands if you want to make a living."
+     1 string japanese = "プロの世界に半分足を踏み入れてようやくわかった。大学進学は、生まれつき平凡な人間が握る最も太い１本の縄だ。ｅスポーツはもう１本の縄だが、その縄はもろくて切れやすい。そして、大勢と奪い合わなければならない。"
+     1 string mchinese = "半只腳踏入職業圈才體會到，上大學的確是生來平凡的人手中最粗的一根繩索。電子競技的確是另一種可能，但它不僅脆弱易斷，還要與千萬人爭奪。"
+   [23798]
+    0 TableSoItemLang data
+     0 int id = 1109274
+     1 string schinese = "俱乐部前辈给我们讲起过去的故事：\n那时候职业选手待遇差，我一个兄弟当初白天发传单，晚上打dato，但可惜没坚持到出成绩。"
+     1 string schinese_censored = "俱乐部前辈给我们讲起过去的故事：/n 那时候职业选手待遇差，我一个兄弟当初白天发传单，晚上打dato，但可惜没坚持到出成绩。"
+     1 string english = "Former club members tell us stories of the past:\nOur wages were so low back then. A friend of mine worked part-time and trained DatO at night. Such a shame he never made it."
+     1 string japanese = "クラブの先輩が昔の話をしてくれた。\n「昔はプロ選手の待遇がひどかった。俺の仲間は昼間にビラ配りをし、夜にＤａｔｏをプレイしていた。でも、まともな成績を残すには至らなかったな」"
+     1 string mchinese = "俱樂部前輩給我們講起過去的故事：\n那時候職業選手待遇差，我一個兄弟當初白天發傳單，晚上打dato，但可惜沒堅持到出成績。"
+   [23799]
+    0 TableSoItemLang data
+     0 int id = 1109275
+     1 string schinese = "输了团战，从喷队友不会玩到“这波我的我的我的对不起”，我应该是成长了吧。"
+     1 string schinese_censored = "输了团战，从喷队友不会玩到“这波我的我的我的对不起”，我应该是成长了吧。"
+     1 string english = "I used to blame my teammates for losing team fights. But I've learned to admit my faults now. I've grown up, haven't I?"
+     1 string japanese = "集団戦で負けると、昔は仲間を責めていたが、今では「自分のせいだ」と言えるようになった。成長したなあ。"
+     1 string mchinese = "輸了團戰，從噴隊友不會玩到“這波我的我的我的對不起”，我應該是成長了吧。"
+   [23800]
+    0 TableSoItemLang data
+     0 int id = 1109276
+     1 string schinese = "旁人都觉得电子竞技不过是逃避考学的可笑小把戏，但只有投身其中的人才知道这是一条怎样艰难的路。"
+     1 string schinese_censored = "旁人眼里的电子竞技不过是逃避考学的可笑小把戏，但只有投身其中的人才知道这是一条怎样艰难的路。"
+     1 string english = "Others see going pro as a trick to run away from studies and exams. But only those who devote themselves to e-sports know how hard it is."
+     1 string japanese = "他人はｅスポーツなんて勉強から逃げるための言い訳だと笑うが、その世界に身を置く人間は、それがどれほど苦しい道なのか知っている。"
+     1 string mchinese = "旁人都覺得電子競技不過是逃避考學的可笑小把戲，但只有投身其中的人才知道這是一條怎樣艱難的路。"
+   [23801]
+    0 TableSoItemLang data
+     0 int id = 1109277
+     1 string schinese = "在观众看不见的地方，无数对电竞充满了期望的热血青年最终都选择离开。最终只有胜利者的名字会被人铭记。"
+     1 string schinese_censored = "在观众看不见的地方，无数对电竞充满了期望的热血青年最终都选择离开。最终只有胜利者的名字会被人铭记。"
+     1 string english = "Countless teenagers have chosen to leave and given up their e-sports dreams. But people only remember the names of the victors."
+     1 string japanese = "誰も見ていないところで、ｅスポーツに対して情熱を燃やす多くの熱血青年が夢を諦めて去っていく。勝者の名前だけが、人々の記憶に刻まれるのである。"
+     1 string mchinese = "在觀眾看不見的地方，無數對電競充滿了期望的熱血青年最終都選擇離開。最終只有勝利者的名字會被人銘記。"
+   [23802]
+    0 TableSoItemLang data
+     0 int id = 1109278
+     1 string schinese = "今天被同学科普了，当年马夫元与队友韦基迪双人配合，夺下了中国首个电子竞技冠军，参赛项目为星际争霸。"
+     1 string schinese_censored = "马夫元与队友韦基迪（DEEP）双人配合，夺下了中国首个电子竞技冠军，参赛项目为星际争霸。"
+     1 string english = "A classmate of mine told me today that MFY and JEEP won the first Chinese StarsCraft e-sports championship."
+     1 string japanese = "今日、同級生が教えてくれた。マー・フーユエンとウェイ・ジーディーの二人が中国人として初めてｅスポーツで優勝したそうだ。参加種目は『ムーンクラフト』だ。"
+     1 string mchinese = "今天被同學科普了，當年馬夫元與隊友韋基迪雙人配合，奪下了中國首個電子競技冠軍，參賽專案為星際爭霸。"
+   [23803]
+    0 TableSoItemLang data
+     0 int id = 1109279
+     1 string schinese = "Ti冠军！LG牛啤！CN Dato Best Dato！"

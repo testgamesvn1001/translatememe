@@ -1,0 +1,184 @@
+     1 string schinese_censored = "通过练习:芭蕾舞获得\n\n给我一双鞋，我就能在地球踮脚。"
+     1 string english = "Get by practicing: Ballet\n\nA pair of shoes is all I need to take over the world."
+     1 string japanese = "特技獲得条件：バレエ\n\n靴さえ履けば、ずっとつま先立ちができる。"
+     1 string mchinese = "通過練習:芭蕾舞獲得\n\n給我一雙鞋，我就能在地球踮腳。"
+   [2230]
+    0 TableSoItemLang data
+     0 int id = 1012231
+     1 string schinese = "通过练习:艺术体操获得\n\n拿冠军不可怕，可怕的是次次拿冠军。"
+     1 string schinese_censored = "通过练习:艺术体操获得\n\n拿冠军不可怕，可怕的是次次拿冠军。"
+     1 string english = "Get by practicing: Eurhythmics\n\nBecoming the champion once isn't that hard, doing it consecutively is what really counts."
+     1 string japanese = "特技獲得条件：新体操\n\nメダリストになることは怖くない。怖いのは次にメダルが取れるかだ。"
+     1 string mchinese = "通過練習:藝術體操獲得\n\n拿冠軍不可怕，可怕的是次次拿冠軍。"
+   [2231]
+    0 TableSoItemLang data
+     0 int id = 1012232
+     1 string schinese = "通过练习:学说话获得\n\n正着说也行，反着说也行。"
+     1 string schinese_censored = "通过练习:学说话获得\n\n正着说也行，反着说也行。"
+     1 string english = "Get by practicing: Learn to Speak\n\nI can speak properly, as well as backwards."
+     1 string japanese = "特技獲得条件：話す\n\n前からでも後ろからでも話すことができる。"
+     1 string mchinese = "通過練習:學說話獲得\n\n正著說也行，反著說也行。"
+   [2232]
+    0 TableSoItemLang data
+     0 int id = 1012233
+     1 string schinese = "通过练习:友善获得\n\n世界以痛吻我，我却以微笑报之。"
+     1 string schinese_censored = "通过练习:友善获得\n\n世界以痛吻我，我却以微笑报之。"
+     1 string english = "Get by practicing: Be Friendly\n\nThe world has treated me coldly, but I take it all with a smile."
+     1 string japanese = "特技獲得条件：親切\n\n世界中が敵だとしても、私は微笑み返す。"
+     1 string mchinese = "通過練習:友善獲得\n\n世界以痛吻我，我卻以微笑報之。"
+   [2233]
+    0 TableSoItemLang data
+     0 int id = 1012234
+     1 string schinese = "通过练习:情绪管理获得\n\n看见我的眼泪没，说掉几滴就掉几滴。"
+     1 string schinese_censored = "通过练习:情绪管理获得\n\n看见我的眼泪没，说掉几滴就掉几滴。"
+     1 string english = "Get by practicing: Mood Management\n\nDo you see these tears? I can open the valve on command."
+     1 string japanese = "特技獲得条件：感情コントロール\n\n涙を見て。何滴でも自由に落とせるよ。"
+     1 string mchinese = "通過練習:情緒管理獲得\n\n看見我的眼淚沒，說掉幾滴就掉幾滴。"
+   [2234]
+    0 TableSoItemLang data
+     0 int id = 1012235
+     1 string schinese = "通过练习:沟通获得\n\n快速了解他人内心"
+     1 string schinese_censored = "通过练习:沟通获得\n\n快速了解他人内心"
+     1 string english = "Get by practicing: Communication\n\nUnderstand the other person's most innermost thoughts in the blink of an eye."
+     1 string japanese = "特技獲得条件：意志疎通\n\n他人の心を素早く理解する。"
+     1 string mchinese = "通過練習:溝通獲得\n\n快速瞭解他人內心"
+   [2235]
+    0 TableSoItemLang data
+     0 int id = 1012236
+     1 string schinese = "通过练习:自我鼓励获得\n\n真正的言灵"
+     1 string schinese_censored = "通过练习:自我鼓励获得\n\n真正的言灵"
+     1 string english = "Get by practicing: Self Motivation\n\nA true master of the word."
+     1 string japanese = "特技獲得条件：自分を励ます\n\n本物の言霊。"
+     1 string mchinese = "通過練習:自我鼓勵獲得\n\n真正的言靈"
+   [2236]
+    0 TableSoItemLang data
+     0 int id = 1012237
+     1 string schinese = "通过练习:体育课获得\n\n同学们，今天语文课改上体育课。"
+     1 string schinese_censored = "通过练习:体育课获得\n\n同学们，今天语文课改上体育课。"
+     1 string english = "Get by practicing: PE Class\n\nGood morning! Today's Chinese class has been changed to PE class."
+     1 string japanese = "特技獲得条件：体育\n\nみんな、今日の国語は体育に変更。"
+     1 string mchinese = "通過練習:體育課獲得\n\n同學們，今天語文課改上體育課。"
+   [2237]
+    0 TableSoItemLang data
+     0 int id = 1012238
+     1 string schinese = "通过练习:长跑获得\n\n长跑是脚对大地的亲吻"
+     1 string schinese_censored = "通过练习:长跑获得\n\n长跑是脚对大地的亲吻"
+     1 string english = "Get by practicing: Long-distance Run\n\nLong-distance running is your feet's way of kissing mother earth."
+     1 string japanese = "特技獲得条件：長距離走\n\n長距離走の一歩一歩は大地へのキスだ。"
+     1 string mchinese = "通過練習:長跑獲得\n\n長跑是腳對大地的親吻"
+   [2238]
+    0 TableSoItemLang data
+     0 int id = 1012239
+     1 string schinese = "通过练习:卷腹获得\n\n卷腹不是仰卧起坐"
+     1 string schinese_censored = "通过练习:卷腹获得\n\n卷腹不是仰卧起坐"
+     1 string english = "Get by practicing: Crunches\n\nCrunches are not the same as sit-ups."
+     1 string japanese = "特技獲得条件：腹筋\n\n上体起こしと腹筋は別物だよ。"
+     1 string mchinese = "通過練習:卷腹獲得\n\n卷腹不是仰臥起坐"
+   [2239]
+    0 TableSoItemLang data
+     0 int id = 1012240
+     1 string schinese = "通过练习:三步上篮获得\n\n三步上篮，简单又实用。"
+     1 string schinese_censored = "通过练习:三步上篮获得\n\n三步上篮，简单又实用。"
+     1 string english = "Get by practicing: Jump Shot\n\n3 steps and then bam; simple yet useful."
+     1 string japanese = "特技獲得条件：レイアップ\n\nレイアップシュートは簡単で実用的。"
+     1 string mchinese = "通過練習:三步上籃獲得\n\n三步上籃，簡單又實用。"
+   [2240]
+    0 TableSoItemLang data
+     0 int id = 1012241
+     1 string schinese = "通过练习:体能训练获得\n\n体能好了，题都可以多刷两套了。"
+     1 string schinese_censored = "通过练习:体能训练获得\n\n体能好了，题都可以多刷两套了。"
+     1 string english = "Get by practicing: Physical Exercise\n\nIf you're in good physical condition, you can take exams twice as fast."
+     1 string japanese = "特技獲得条件：体力トレーニング\n\n体力がつくと勉強も捗る。"
+     1 string mchinese = "通過練習:體能訓練獲得\n\n體能好了，題都可以多刷兩套了。"
+   [2241]
+    0 TableSoItemLang data
+     0 int id = 1012242
+     1 string schinese = "通过练习:校队训练获得\n\n能力越大，责任越大。"
+     1 string schinese_censored = "通过练习:校队训练获得\n\n能力越大，责任越大。"
+     1 string english = "Get by practicing: School Team Training\n\nWith great power comes great responsibility."
+     1 string japanese = "特技獲得条件：クラブ練習\n\n大いなる力には大いなる責任が伴う。"
+     1 string mchinese = "通過練習:校隊訓練獲得\n\n能力越大，責任越大。"
+   [2242]
+    0 TableSoItemLang data
+     0 int id = 1012243
+     1 string schinese = "通过练习:中学女篮集训获得\n\n女孩子在一起集训，很容易成为闺蜜呢。"
+     1 string schinese_censored = "通过练习:中学女篮集训获得\n\n女孩子在一起集训，很容易成为闺蜜呢。"
+     1 string english = "Get by practicing: High-School Women's Basketball\n\nGirls training together often become besties."
+     1 string japanese = "特技獲得条件：女子バスケ合宿\n\n女の子同士が一緒に合宿をすると、すぐ親友になってしまう。"
+     1 string mchinese = "通過練習:中學女籃集訓獲得\n\n女孩子在一起集訓，很容易成為閨蜜呢。"
+   [2243]
+    0 TableSoItemLang data
+     0 int id = 1012244
+     1 string schinese = "通过练习:美式女篮特训获得\n\n更高、更快、更强！"
+     1 string schinese_censored = "通过练习:美式女篮特训获得\n\n更高、更快、更强！"
+     1 string english = "Get by practicing: American-Style Basketball\n\nHigher, faster, stronger!"
+     1 string japanese = "特技獲得条件：北米式バスケ特訓\n\nより高く、速く、強く！"
+     1 string mchinese = "通過練習:美式女籃特訓獲得\n\n更高、更快、更強！"
+   [2244]
+    0 TableSoItemLang data
+     0 int id = 1012245
+     1 string schinese = "通过练习:职业篮球获得\n\n终于踏上了职业之道"
+     1 string schinese_censored = "通过练习:职业篮球获得\n\n终于踏上了职业之道"
+     1 string english = "Get by practicing: Professional Basketball\n\nI've finally become a pro."
+     1 string japanese = "特技獲得条件：プロバスケット\n\nついにプロの世界へ足を踏み入れた。"
+     1 string mchinese = "通過練習:職業籃球獲得\n\n終於踏上了職業之道"
+   [2245]
+    0 TableSoItemLang data
+     0 int id = 1012246
+     1 string schinese = "通过练习:国青队集训获得\n\n代表国家出战，光荣！"
+     1 string schinese_censored = "通过练习:国青队集训获得\n\n代表国家出战，光荣！"
+     1 string english = "Get by practicing: National Youth Team Training\n\nRepresent your country for honor and glory!"
+     1 string japanese = "特技獲得条件：国家青年代表合宿\n\n国の代表としての出場は光栄だ！"
+     1 string mchinese = "通過練習:國青隊集訓獲得\n\n代表國家出戰，光榮！"
+   [2246]
+    0 TableSoItemLang data
+     0 int id = 1012247
+     1 string schinese = "通过练习:表演潜能开发获得\n\n优秀的看板娘在镜头外也能表演自如"
+     1 string schinese_censored = "通过练习:表演潜能开发获得\n\n优秀的广告牌娘在镜头外也能表演自如"
+     1 string english = "Get by practicing: Performance Potential\n\nOutstanding poster girls perform even when the camera is off."
+     1 string japanese = "特技獲得条件：演技潜在能力開発\n\n優秀な看板娘はカメラが回っていなくても、自由自在に演技ができる。"
+     1 string mchinese = "通過練習:表演潛能開發獲得\n\n優秀的看板娘在鏡頭外也能表演自如"
+   [2247]
+    0 TableSoItemLang data
+     0 int id = 1012248
+     1 string schinese = "通过练习:表演基础理论获得\n\n偶像最要紧的是不要失格"
+     1 string schinese_censored = "通过练习:表演基础理论获得\n\n偶像最要紧的是不要失格"
+     1 string english = "Get by practicing: Performance Theory 101\n\nThe most important thing for an idol, is not to fail."
+     1 string japanese = "特技獲得条件：演技理論入門\n\nアイドルで最も大切なことはキャラ崩壊しないこと。"
+     1 string mchinese = "通過練習:表演基礎理論獲得\n\n偶像最要緊的是不要失格"
+   [2248]
+    0 TableSoItemLang data
+     0 int id = 1012249
+     1 string schinese = "通过练习:街头模仿获得\n\n从群众中来，到群众中去"
+     1 string schinese_censored = "通过练习:街头模仿获得\n\n从群众中来，到群众中去"
+     1 string english = "Get by practicing: Street Imitation\n\nI come and go with the masses."
+     1 string japanese = "特技獲得条件：大道芸\n\n大衆から学び、大衆に教える。"
+     1 string mchinese = "通過練習:街頭模仿獲得\n\n從群眾中來，到群眾中去"
+   [2249]
+    0 TableSoItemLang data
+     0 int id = 1012250
+     1 string schinese = "通过练习:即兴表演获得\n\n其实我是一个演员"
+     1 string schinese_censored = "通过练习:即兴表演获得\n\n其实我是一个演员"
+     1 string english = "Get by practicing: Ad-lib Performance\n\nActually, I'm an actress."
+     1 string japanese = "特技獲得条件：アドリブ\n\n実は俳優なんです。"
+     1 string mchinese = "通過練習:即興表演獲得\n\n其實我是一個演員"
+   [2250]
+    0 TableSoItemLang data
+     0 int id = 1012251
+     1 string schinese = "通过练习:话剧演出指南获得\n\n人生如戏，全靠演技"
+     1 string schinese_censored = "通过练习:话剧演出指南获得\n\n话剧是一门综合艺术"
+     1 string english = "Get by practicing: Guide to Drama Performance\n\nLife is like a game, and it's all part of an act."
+     1 string japanese = "特技獲得条件：話劇について\n\n人生はまるで芝居のようだ。どう演じるかは演技力次第だよ。"
+     1 string mchinese = "通過練習:話劇演出指南獲得\n\n人生如戲，全靠演技"
+   [2251]
+    0 TableSoItemLang data
+     0 int id = 1012252
+     1 string schinese = "通过练习:影视表演进阶获得\n\n心有多大，舞台就有多大"
+     1 string schinese_censored = "通过练习:影视表演进阶获得\n\n心有多大，舞台就有多大"
+     1 string english = "Get by practicing: Movie & TV Performance\n\nThe dance stage is as big as you will it to be."
+     1 string japanese = "特技獲得条件：ハイレベル演技\n\n舞台の広さは心の広さ次第。"
+     1 string mchinese = "通過練習:影視表演進階獲得\n\n心有多大，舞臺就有多大"
+   [2252]
+    0 TableSoItemLang data
+     0 int id = 1012253
+     1 string schinese = "通过练习:电影导演获得\n\n在商业和艺术之间找到完美平衡"

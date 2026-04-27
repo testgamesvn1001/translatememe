@@ -1,0 +1,184 @@
+     1 string schinese_censored = "魅力达到1500\n学习歌后“音乐创作”课程"
+     1 string english = "1,500 Charm\nStudy the [Musical Composition] singer class."
+     1 string japanese = "魅力が1500に到達\n歌姫の学習で「音楽制作」を学ぶ"
+     1 string mchinese = "魅力達到1500\n學習歌後“音樂創作”課程"
+   [24494]
+    0 TableSoItemLang data
+     0 int id = 1596170781
+     1 string schinese = "学习经纪人“明星运营”课程"
+     1 string schinese_censored = "学习经纪人“明星运营”课程"
+     1 string english = "Study the [Celebrity Management] agent class."
+     1 string japanese = "演芸製作者の学習で「スタープロデュース」を学ぶ"
+     1 string mchinese = "學習經紀人“明星運營”課程"
+   [24495]
+    0 TableSoItemLang data
+     0 int id = 1596170782
+     1 string schinese = "解锁条件"
+     1 string schinese_censored = "解锁条件"
+     1 string english = "Unlock Condition"
+     1 string japanese = "アンロック条件"
+     1 string mchinese = "解鎖條件"
+   [24496]
+    0 TableSoItemLang data
+     0 int id = 1596170783
+     1 string schinese = "社交条件"
+     1 string schinese_censored = "社交条件"
+     1 string english = "Socializing Requirement"
+     1 string japanese = "社交条件"
+     1 string mchinese = "社交條件"
+   [24497]
+    0 TableSoItemLang data
+     0 int id = 1596170784
+     1 string schinese = "努力实现小时候吹过的牛！距离高考还有{0}回合"
+     1 string schinese_censored = "努力实现小时候吹过的牛！距离高考还有{0}回合"
+     1 string english = "Work hard and be the best you can. {0} turn(s) remaining until Gaokao."
+     1 string japanese = "昔叩いた大口を実現しよう！大学入試まで{0}ターン"
+     1 string mchinese = "努力實現小時候吹過的牛！距離高考還有{0}回合"
+   [24498]
+    0 TableSoItemLang data
+     0 int id = 1596170785
+     1 string schinese = "奋斗的青春最美丽！距离高考还有{0}回合"
+     1 string schinese_censored = "考过高富帅，战胜官二代！距离高考还有{0}回合"
+     1 string english = "There is beauty in hard work. {0} turn(s) remaining until Gaokao."
+     1 string japanese = "青春時代の奮闘は美しい！大学入試まで{0}ターン"
+     1 string mchinese = "奮鬥的青春最美麗！距離高考還有{0}回合"
+   [24499]
+    0 TableSoItemLang data
+     0 int id = 1596170786
+     1 string schinese = "考过高富帅，战胜官二代！距离高考还有{0}回合"
+     1 string schinese_censored = "不苦不累，青春无味！距离高考还有{0}回合"
+     1 string english = "Get a high score and make it big! {0} turn(s) remaining until Gaokao."
+     1 string japanese = "大学合格で人生大逆転！大学入試まで{0}ターン"
+     1 string mchinese = "考過高富帥，戰勝官二代！距離高考還有{0}回合"
+   [24500]
+    0 TableSoItemLang data
+     0 int id = 1596170787
+     1 string schinese = "不苦不累，青春无味！距离高考还有{0}回合"
+     1 string schinese_censored = "逆天改命，在此一考！距离高考还有{0}回合"
+     1 string english = "No effort, no gains! {0} turn(s) remaining until Gaokao."
+     1 string japanese = "苦労しなけりゃ青春じゃない！大学入試まで{0}ターン"
+     1 string mchinese = "不苦不累，青春無味！距離高考還有{0}回合"
+   [24501]
+    0 TableSoItemLang data
+     0 int id = 1596170788
+     1 string schinese = "再努力一下，到了大学就自由了！距离高考还有{0}回合"
+     1 string schinese_censored = "再努力一下，到了大学就自由了！距离高考还有{0}回合"
+     1 string english = "Keep at it! Uni will be easier! {0} turn(s) remaining until Gaokao."
+     1 string japanese = "もうひと踏ん張り、大学に入れば自由だ！大学入試まで{0}ターン"
+     1 string mchinese = "再努力一下，到了大學就自由了！距離高考還有{0}回合"
+   [24502]
+    0 TableSoItemLang data
+     0 int id = 1596170789
+     1 string schinese = "逆天改命，在此一考！距离高考还有{0}回合"
+     1 string schinese_censored = "奋斗的青春最美丽！距离高考还有{0}回合"
+     1 string english = "Your future depends on this exam! {0} turn(s) remaining until Gaokao."
+     1 string japanese = "運命をかけた試験！大学入試まで{0}ターン"
+     1 string mchinese = "逆天改命，在此一考！距離高考還有{0}回合"
+   [24503]
+    0 TableSoItemLang data
+     0 int id = 1596170790
+     1 string schinese = "十年苦读磨一剑！距离高考还有{0}回合"
+     1 string schinese_censored = "不赢高考非英雄！距离高考还有{0}回合"
+     1 string english = "The pen is mightier than the sword! {0} turn(s) remaining until Gaokao."
+     1 string japanese = "この日のために苦労を重ねてきた！大学入試まで{0}ターン"
+     1 string mchinese = "十年苦讀磨一劍！距離高考還有{0}回合"
+   [24504]
+    0 TableSoItemLang data
+     0 int id = 1596170791
+     1 string schinese = "只要学不死，就往死里学！距离高考还有{0}回合"
+     1 string schinese_censored = "十年苦读磨一剑！距离高考还有{0}回合"
+     1 string english = "Study till you drop, then study some more! {0} turn(s) remaining until Gaokao."
+     1 string japanese = "死ぬ気で勉強！大学入試まで{0}ターン"
+     1 string mchinese = "只要學不死，就往死裏學！距離高考還有{0}回合"
+   [24505]
+    0 TableSoItemLang data
+     0 int id = 1596170792
+     1 string schinese = "不赢高考非英雄！距离高考还有{0}回合"
+     1 string schinese_censored = "激情点燃高考，拼搏换取成功！距离高考还有{0}回合"
+     1 string english = "Only a true hero gets good grades! {0} turn(s) remaining until Gaokao."
+     1 string japanese = "大学合格してこそ英雄！大学入試まで{0}ターン"
+     1 string mchinese = "不贏高考非英雄！距離高考還有{0}回合"
+   [24506]
+    0 TableSoItemLang data
+     0 int id = 1596170793
+     1 string schinese = "高考拼命冲，富过柯思聪！距离高考还有{0}回合"
+     1 string schinese_censored = "高考拼命冲，富过柯思聪！距离高考还有{0}回合"
+     1 string english = "Give the exam your all! {0} turn(s) remaining until Gaokao."
+     1 string japanese = "入試の頑張りが将来の富になる！大学入試まで{0}ターン"
+     1 string mchinese = "高考拼命沖，富過柯思聰！距離高考還有{0}回合"
+   [24507]
+    0 TableSoItemLang data
+     0 int id = 1596170794
+     1 string schinese = "激情点燃高考，拼搏换取成功！距离高考还有{0}回合"
+     1 string schinese_censored = "只要学不死，就往死里学！距离高考还有{0}回合"
+     1 string english = "Strive for perfection in everything! {0} turn(s) remaining until Gaokao."
+     1 string japanese = "情熱を燃やせ！努力が成功に導く！大学入試まで{0}ターン"
+     1 string mchinese = "激情點燃高考，拼搏換取成功！距離高考還有{0}回合"
+   [24508]
+    0 TableSoItemLang data
+     0 int id = 1596170795
+     1 string schinese = "高考不退却，逆袭全世界！距离高考还有{0}回合"
+     1 string schinese_censored = "高考不退却，逆袭全世界！距离高考还有{0}回合"
+     1 string english = "This is your shot at climbing the social ladder! {0} turn(s) remaining until Gaokao."
+     1 string japanese = "入試に立ち向かえば世界が変わる！大学入試まで{0}ターン"
+     1 string mchinese = "高考不退卻，逆襲全世界！距離高考還有{0}回合"
+   [24509]
+    0 TableSoItemLang data
+     0 int id = 1596170796
+     1 string schinese = "不拼不搏，等于白活！距离高考还有{0}回合"
+     1 string schinese_censored = "不拼不搏，等于白活！距离高考还有{0}回合"
+     1 string english = "This is the culmination of your studies! {0} turn(s) remaining until Gaokao."
+     1 string japanese = "苦労のない人生なんてムダだ！大学入試まで{0}ターン"
+     1 string mchinese = "不拼不搏，等於白活！距離高考還有{0}回合"
+   [24510]
+    0 TableSoItemLang data
+     0 int id = 1596170797
+     1 string schinese = "我高考我自信我成功！距离高考还有{0}回合"
+     1 string schinese_censored = "我高考我自信我成功！距离高考还有{0}回合"
+     1 string english = "Confidence is key to success! {0} turn(s) remaining until Gaokao."
+     1 string japanese = "合格すれば自信がつく！成功はすぐそこ！大学入試まで{0}ターン"
+     1 string mchinese = "我高考我自信我成功！距離高考還有{0}回合"
+   [24511]
+    0 TableSoItemLang data
+     0 int id = 1596170798
+     1 string schinese = "天王盖地虎，考上985！距离高考还有{0}回合"
+     1 string schinese_censored = "天王盖地虎，考上985！距离高考还有{0}回合"
+     1 string english = "Go for the top score! {0} turn(s) remaining until Gaokao."
+     1 string japanese = "目指せ最高峰！大学入試まで{0}ターン"
+     1 string mchinese = "天王蓋地虎，考上985！距離高考還有{0}回合"
+   [24512]
+    0 TableSoItemLang data
+     0 int id = 1596170799
+     1 string schinese = "提高一分，干掉千人！距离高考还有{0}回合"
+     1 string schinese_censored = "提高一分，干掉千人！距离高考还有{0}回合"
+     1 string english = "A single point makes or breaks you! {0} turn(s) remaining until Gaokao."
+     1 string japanese = "１点の差が１０００人の差！大学入試まで{0}ターン"
+     1 string mchinese = "提高一分，幹掉千人！距離高考還有{0}回合"
+   [24513]
+    0 TableSoItemLang data
+     0 int id = 1596170800
+     1 string schinese = "辛苦三年，幸福一生！距离高考还有{0}回合"
+     1 string schinese_censored = "辛苦三年，幸福一生！距离高考还有{0}回合"
+     1 string english = "This is what your studies have been for! {0} turn(s) remaining until Gaokao."
+     1 string japanese = "３年の苦労は一生の幸福！大学入試まで{0}ターン"
+     1 string mchinese = "辛苦三年，幸福一生！距離高考還有{0}回合"
+   [24514]
+    0 TableSoItemLang data
+     0 int id = 1596170801
+     1 string schinese = "进理想大学，铸辉煌人生！距离高考还有{0}回合"
+     1 string schinese_censored = "进理想大学，铸辉煌人生！距离高考还有{0}回合"
+     1 string english = "Get into a good university and your life is set! {0} turn(s) remaining until Gaokao."
+     1 string japanese = "理想の大学で輝かしい人生を！大学入試まで{0}ターン"
+     1 string mchinese = "進理想大學，鑄輝煌人生！距離高考還有{0}回合"
+   [24515]
+    0 TableSoItemLang data
+     0 int id = 1596170802
+     1 string schinese = "跑马灯女optional！距离高考还有{0}回合"
+     1 string schinese_censored = "跑马灯女optional！距离高考还有{0}回合"
+     1 string english = "/1596170802"
+     1 string japanese = "/"
+     1 string mchinese = "跑馬燈女optional！距離高考還有{0}回合"
+   [24516]
+    0 TableSoItemLang data
+     0 int id = 1596170803
+     1 string schinese = "跑马灯女optional！距离高考还有{0}回合"

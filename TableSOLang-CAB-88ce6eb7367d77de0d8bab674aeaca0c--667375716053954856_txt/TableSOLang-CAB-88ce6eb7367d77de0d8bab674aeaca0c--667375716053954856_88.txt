@@ -1,0 +1,184 @@
+     1 string schinese_censored = "通过练习:文科综合6级（文）获得\n\n"
+     1 string english = "Get by practicing: Integrated Liberal Arts 6\n\n"
+     1 string japanese = "特技獲得条件：総合文系VI\n\n"
+     1 string mchinese = "通過練習:文科綜合6級（文）獲得\n\n"
+   [2000]
+    0 TableSoItemLang data
+     0 int id = 1012001
+     1 string schinese = "通过练习:文科综合7级（文）获得\n\n"
+     1 string schinese_censored = "通过练习:文科综合7级（文）获得\n\n"
+     1 string english = "Get by practicing: Integrated Liberal Arts 7\n\n"
+     1 string japanese = "特技獲得条件：総合文系VII\n\n"
+     1 string mchinese = "通過練習:文科綜合7級（文）獲得\n\n"
+   [2001]
+    0 TableSoItemLang data
+     0 int id = 1012002
+     1 string schinese = "通过练习:文科综合8级（文）获得\n\n"
+     1 string schinese_censored = "通过练习:文科综合8级（文）获得\n\n"
+     1 string english = "Get by practicing: Integrated Liberal Arts 8\n\n"
+     1 string japanese = "特技獲得条件：総合文系VIII\n\n"
+     1 string mchinese = "通過練習:文科綜合8級（文）獲得\n\n"
+   [2002]
+    0 TableSoItemLang data
+     0 int id = 1012003
+     1 string schinese = "通过练习:文科综合9级（文）获得\n\n"
+     1 string schinese_censored = "通过练习:文科综合9级（文）获得\n\n"
+     1 string english = "Get by practicing: Integrated Liberal Arts 9\n\n"
+     1 string japanese = "特技獲得条件：総合文系IX\n\n"
+     1 string mchinese = "通過練習:文科綜合9級（文）獲得\n\n"
+   [2003]
+    0 TableSoItemLang data
+     0 int id = 1012004
+     1 string schinese = "通过练习:文科综合10级（文）获得\n\n"
+     1 string schinese_censored = "通过练习:文科综合10级（文）获得\n\n"
+     1 string english = "Get by practicing: Integrated Liberal Arts 10\n\n"
+     1 string japanese = "特技獲得条件：総合文系X\n\n"
+     1 string mchinese = "通過練習:文科綜合10級（文）獲得\n\n"
+   [2004]
+    0 TableSoItemLang data
+     0 int id = 1012005
+     1 string schinese = "通过练习:自然常识（理）获得\n\n滑板鞋可以摩擦起电！"
+     1 string schinese_censored = "通过练习:自然常识（理）获得\n\n滑板鞋可以摩擦起电！"
+     1 string english = "Get by studying: Natural Knowledge\n\nHaving perfect knowledge of nature makes you into more of a king of the jungle than Kong and Simba."
+     1 string japanese = "特技獲得条件：理科入門\n\nスケボーシューズは摩擦で帯電する！"
+     1 string mchinese = "通過練習:自然常識（理）獲得\n\n滑板鞋可以摩擦起電！"
+   [2005]
+    0 TableSoItemLang data
+     0 int id = 1012006
+     1 string schinese = "通过练习:天文常识（理）获得\n\n就认识个北斗七星！"
+     1 string schinese_censored = "通过练习:天文常识（理）获得\n\n就认识个北斗七星！"
+     1 string english = "Get by studying: Astronomy Knowledge\n\nThe stars in the sky form the Big Dipper."
+     1 string japanese = "特技獲得条件：天文学入門\n\n見上げてごらん夜の星を！"
+     1 string mchinese = "通過練習:天文常識（理）獲得\n\n就認識個北斗七星！"
+   [2006]
+    0 TableSoItemLang data
+     0 int id = 1012007
+     1 string schinese = "通过练习:物理常识（理）获得\n\n信仰之跃可以对抗自由落体！"
+     1 string schinese_censored = "通过练习:物理常识（理）获得\n\n信仰之跃可以对抗自由落体！"
+     1 string english = "Get by studying: Physics Knowledge\n\nA leap of faith is all it takes to overcome a free fall!"
+     1 string japanese = "特技獲得条件：物理入門\n\nイーグルダイブで自由落下に立ち向かおう！"
+     1 string mchinese = "通過練習:物理常識（理）獲得\n\n信仰之躍可以對抗自由落體！"
+   [2007]
+    0 TableSoItemLang data
+     0 int id = 1012008
+     1 string schinese = "通过练习:手工常识（理）获得\n\n手工做多了，积攒了若干小红花"
+     1 string schinese_censored = "通过练习:手工常识（理）获得\n\n手工做多了，积攒了若干小红花"
+     1 string english = "Get by studying: Handcraft Knowledge\n\nEven my teacher's teacher commends me on my handiwork."
+     1 string japanese = "特技獲得条件：手芸入門\n\n手芸を頑張ったので、はなまるをもらった。"
+     1 string mchinese = "通過練習:手工常識（理）獲得\n\n手工做多了，積攢了若干小紅花"
+   [2008]
+    0 TableSoItemLang data
+     0 int id = 1012009
+     1 string schinese = "通过练习:模型常识（理）获得\n\n施巴拉古大师！变变变！"
+     1 string schinese_censored = "通过练习:模型常识（理）获得\n\n施巴拉古大师！变变变！"
+     1 string english = "Get by studying: Modeling Knowledge\n\nLook at these mice, they can transform!"
+     1 string japanese = "特技獲得条件：模型入門\n\nコイツ、動くぞ！"
+     1 string mchinese = "通過練習:模型常識（理）獲得\n\n施巴拉古大師！變變變！"
+   [2009]
+    0 TableSoItemLang data
+     0 int id = 1012010
+     1 string schinese = "通过练习:化学常识（理）获得\n\n专注于我们的化学浪漫！"
+     1 string schinese_censored = "通过练习:化学常识（理）获得\n\n专注于我们的化学浪漫！"
+     1 string english = "Get by studying: Chemistry Knowledge\n\nJust focus on the chemical romance!"
+     1 string japanese = "特技獲得条件：化学入門\n\n化学反応こそロマン！"
+     1 string mchinese = "通過練習:化學常識（理）獲得\n\n專注於我們的化學浪漫！"
+   [2010]
+    0 TableSoItemLang data
+     0 int id = 1012011
+     1 string schinese = "通过练习:生物常识（理）获得\n\n细胞壁和细胞核？"
+     1 string schinese_censored = "通过练习:生物常识（理）获得\n\n细胞壁和细胞核？"
+     1 string english = "Get by studying: Biology Knowledge\n\nCellular wall and the cell's nucleus?"
+     1 string japanese = "特技獲得条件：生物入門\n\n細胞壁と細胞核？"
+     1 string mchinese = "通過練習:生物常識（理）獲得\n\n細胞壁和細胞核？"
+   [2011]
+    0 TableSoItemLang data
+     0 int id = 1012012
+     1 string schinese = "通过练习:初中生物（理）获得\n\n实验室是创造奇迹的地方！"
+     1 string schinese_censored = "通过练习:初中生物（理）获得\n\n实验室是创造奇迹的地方！"
+     1 string english = "Get by studying: Junior Biology\n\nLaboratories are where miracles are created!"
+     1 string japanese = "特技獲得条件：中学生物\n\n実験室では奇跡が起きる！"
+     1 string mchinese = "通過練習:初中生物（理）獲得\n\n實驗室是創造奇跡的地方！"
+   [2012]
+    0 TableSoItemLang data
+     0 int id = 1012013
+     1 string schinese = "通过练习:初中物理（理）获得\n\n我觉得我们都是牛顿的毒唯！"
+     1 string schinese_censored = "通过练习:初中物理（理）获得\n\n我觉得我们都是牛顿的毒唯！"
+     1 string english = "Get by studying: Junior Physics\n\nWe all follow Newton!"
+     1 string japanese = "特技獲得条件：中学物理\n\n当然ニュートン推しだよね！？"
+     1 string mchinese = "通過練習:初中物理（理）獲得\n\n我覺得我們都是牛頓的毒唯！"
+   [2013]
+    0 TableSoItemLang data
+     0 int id = 1012014
+     1 string schinese = "通过练习:初中化学（理）获得\n\n烟花棒的制作工艺已完全掌握！"
+     1 string schinese_censored = "通过练习:初中化学（理）获得\n\n烟花棒的制作工艺已完全掌握！"
+     1 string english = "Get by studying: Junior Chemistry\n\nI've mastered the art of manufacturing fireworks!"
+     1 string japanese = "特技獲得条件：中学化学\n\n花火の製造工程はすべて把握している。"
+     1 string mchinese = "通過練習:初中化學（理）獲得\n\n煙花棒的製作工藝已完全掌握！"
+   [2014]
+    0 TableSoItemLang data
+     0 int id = 1012015
+     1 string schinese = "通过练习:理科综合1级（理）获得\n\n"
+     1 string schinese_censored = "通过练习:理科综合1级（理）获得\n\n"
+     1 string english = "Get by studying: Integrated Science 1\n\n"
+     1 string japanese = "特技獲得条件：総合理系I\n\n"
+     1 string mchinese = "通過練習:理科綜合1級（理）獲得\n\n"
+   [2015]
+    0 TableSoItemLang data
+     0 int id = 1012016
+     1 string schinese = "通过练习:理科综合2级（理）获得\n\n"
+     1 string schinese_censored = "通过练习:理科综合2级（理）获得\n\n"
+     1 string english = "Get by studying: Integrated Science 2\n\n"
+     1 string japanese = "特技獲得条件：総合理系II\n\n"
+     1 string mchinese = "通過練習:理科綜合2級（理）獲得\n\n"
+   [2016]
+    0 TableSoItemLang data
+     0 int id = 1012017
+     1 string schinese = "通过练习:理科综合3级（理）获得\n\n"
+     1 string schinese_censored = "通过练习:理科综合3级（理）获得\n\n"
+     1 string english = "Get by studying: Integrated Science 3\n\n"
+     1 string japanese = "特技獲得条件：総合理系III\n\n"
+     1 string mchinese = "通過練習:理科綜合3級（理）獲得\n\n"
+   [2017]
+    0 TableSoItemLang data
+     0 int id = 1012018
+     1 string schinese = "通过练习:理科综合4级（理）获得\n\n"
+     1 string schinese_censored = "通过练习:理科综合4级（理）获得\n\n"
+     1 string english = "Get by studying: Integrated Science 4\n\n"
+     1 string japanese = "特技獲得条件：総合理系IV\n\n"
+     1 string mchinese = "通過練習:理科綜合4級（理）獲得\n\n"
+   [2018]
+    0 TableSoItemLang data
+     0 int id = 1012019
+     1 string schinese = "通过练习:理科综合5级（理）获得\n\n"
+     1 string schinese_censored = "通过练习:理科综合5级（理）获得\n\n"
+     1 string english = "Get by studying: Integrated Science 5\n\n"
+     1 string japanese = "特技獲得条件：総合理系V\n\n"
+     1 string mchinese = "通過練習:理科綜合5級（理）獲得\n\n"
+   [2019]
+    0 TableSoItemLang data
+     0 int id = 1012020
+     1 string schinese = "通过练习:理科综合6级（理）获得\n\n"
+     1 string schinese_censored = "通过练习:理科综合6级（理）获得\n\n"
+     1 string english = "Get by studying: Integrated Science 6\n\n"
+     1 string japanese = "特技獲得条件：総合理系VI\n\n"
+     1 string mchinese = "通過練習:理科綜合6級（理）獲得\n\n"
+   [2020]
+    0 TableSoItemLang data
+     0 int id = 1012021
+     1 string schinese = "通过练习:理科综合7级（理）获得\n\n"
+     1 string schinese_censored = "通过练习:理科综合7级（理）获得\n\n"
+     1 string english = "Get by studying: Integrated Science 7\n\n"
+     1 string japanese = "特技獲得条件：総合理系VII\n\n"
+     1 string mchinese = "通過練習:理科綜合7級（理）獲得\n\n"
+   [2021]
+    0 TableSoItemLang data
+     0 int id = 1012022
+     1 string schinese = "通过练习:理科综合8级（理）获得\n\n"
+     1 string schinese_censored = "通过练习:理科综合8级（理）获得\n\n"
+     1 string english = "Get by studying: Integrated Science 8\n\n"
+     1 string japanese = "特技獲得条件：総合理系VIII\n\n"
+     1 string mchinese = "通過練習:理科綜合8級（理）獲得\n\n"
+   [2022]
+    0 TableSoItemLang data
+     0 int id = 1012023
+     1 string schinese = "通过练习:理科综合9级（理）获得\n\n"

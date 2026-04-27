@@ -1,0 +1,184 @@
+     1 string schinese_censored = "家长互动交流3群：1063882810 \n家长互动交流4群：891086208 \n家长互动交流5群：884749929 \n客服QQ：1481162449"
+     1 string english = "簡中專用字段，英文不用翻譯1596170987"
+     1 string japanese = "簡中專用字段，英文不用翻譯"
+     1 string mchinese = "家長互動交流3群：1063882810 \n家長互動交流4群：891086208 \n家長互動交流5群：884749929 \n客服QQ：1481162449"
+   [24701]
+    0 TableSoItemLang data
+     0 int id = 1596170988
+     1 string schinese = "“5月10日：今天作业完成的早，打了几盘排位。团战走位有进步，但是！不要贪伤害！”"
+     1 string schinese_censored = "怎么一回家就把房间门关上啦！在家不许关房门！"
+     1 string english = ""May 10: Finished my homework early today and played a few ranked matches. My team fight positioning has improved. However, I mustn't be greedy for damage!""
+     1 string japanese = "「５月１０日：宿題が早く終わったので、ランク戦を回した。集団戦の動き方はわかってきた。でも！ダメージにこだわってはいけない！」"
+     1 string mchinese = "“5月10日：今天作業完成的早，打了幾盤排位。團戰走位有進步，但是！不要貪傷害！”"
+   [24702]
+    0 TableSoItemLang data
+     0 int id = 1596170989
+     1 string schinese = "（关掉电脑，理好书包。你揉了揉酸胀的眼睛，翻开日记本。）"
+     1 string schinese_censored = "关门准没什么好事，一定又在搞破游戏！"
+     1 string english = "(You turn off the computer and organize your school bag. You rub your sore eyes and opens your diary.)"
+     1 string japanese = "（ＰＣを閉じ、カバンを整理して、疲れた目をこすりながら日記を開く）"
+     1 string mchinese = "（關掉電腦，理好書包。你揉了揉酸脹的眼睛，翻開日記本。）"
+   [24703]
+    0 TableSoItemLang data
+     0 int id = 1596170990
+     1 string schinese = "爸妈因为你玩游戏的事情变得疑神疑鬼，甚至还拔你网线！你决定..."
+     1 string schinese_censored = "爸妈因为你玩游戏的事情变得疑神疑鬼，甚至还拔你网线！你决定..."
+     1 string english = "Your parents go mental because you play too much computer and cuts off your Internet. You decide to..."
+     1 string japanese = "両親はあなたがゲームをし過ぎていると思い、回線を抜いてしまった！あなたは…"
+     1 string mchinese = "爸媽因為你玩遊戲的事情變得疑神疑鬼，甚至還拔你網線！你決定..."
+   [24704]
+    0 TableSoItemLang data
+     0 int id = 1596170991
+     1 string schinese = "锁门！谁都别想控制我！"
+     1 string schinese_censored = "锁门！谁都别想控制我！"
+     1 string english = "I'm locking the door! No one decides for me!"
+     1 string japanese = "部屋に閉じこもる！誰の言うことも聞くものか！"
+     1 string mchinese = "鎖門！誰都別想控制我！"
+   [24705]
+    0 TableSoItemLang data
+     0 int id = 1596170992
+     1 string schinese = "冷战！惹不起还躲不起么！"
+     1 string schinese_censored = "冷战！惹不起还躲不起么！"
+     1 string english = "I'll give you the cold shoulder!"
+     1 string japanese = "フン！冷戦だ！"
+     1 string mchinese = "冷戰！惹不起還躲不起麼！"
+   [24706]
+    0 TableSoItemLang data
+     0 int id = 1596170993
+     1 string schinese = "和爸妈推心置腹一波"
+     1 string schinese_censored = "和爸妈推心置腹一波"
+     1 string english = "Tell your parents everything."
+     1 string japanese = "両親と腹を割って話す"
+     1 string mchinese = "和爸媽推心置腹一波"
+   [24707]
+    0 TableSoItemLang data
+     0 int id = 1596170994
+     1 string schinese = "爸妈形成了统一战线，家中战火一触即发! "
+     1 string schinese_censored = "爸妈形成了统一战线，家中战火一触即发!\n（ 情商-20）"
+     1 string english = "Your parents stand together as allies and an argument is imminent! "
+     1 string japanese = "両親が統一戦線を形勢し、家の中は一触即発になった！"
+     1 string mchinese = "爸媽形成了統一戰線，家中戰火一觸即發! "
+   [24708]
+    0 TableSoItemLang data
+     0 int id = 1596170995
+     1 string schinese = "在家一言不发，坐禅入定，家里温度降到冰点.. "
+     1 string schinese_censored = "在家一言不发，坐禅入定，家里温度降到冰点..\n（ 情商-20）"
+     1 string english = "No one utters a word and it is as if the temperature drops to below freezing... "
+     1 string japanese = "一言も発さないでいると、家の中の温度が氷点下まで下がった…"
+     1 string mchinese = "在家一言不發，坐禪入定，家裏溫度降到冰點.. "
+   [24709]
+    0 TableSoItemLang data
+     0 int id = 1596170996
+     1 string schinese = "冷静下来和爸妈好好聊了，但还是被冷嘲热讽，简直要憋出内伤.. "
+     1 string schinese_censored = "冷静下来和爸妈好好聊了，但还是被冷嘲热讽，简直要憋出内伤..\n（ 情商+50）"
+     1 string english = "You calm down and have a chat with your folks. Though, they still give you snide remarks... "
+     1 string japanese = "落ち着いて両親と話し合ったが、ちくちくと小言を言われ、息が詰まった…"
+     1 string mchinese = "冷靜下來和爸媽好好聊了，但還是被冷嘲熱諷，簡直要憋出內傷.. "
+   [24710]
+    0 TableSoItemLang data
+     0 int id = 1596170997
+     1 string schinese = "全场最佳"
+     1 string schinese_censored = "全场最佳"
+     1 string english = "Play of the Game"
+     1 string japanese = "ＭＶＰ"
+     1 string mchinese = "全場最佳"
+   [24711]
+    0 TableSoItemLang data
+     0 int id = 1596170998
+     1 string schinese = "梗如泉涌"
+     1 string schinese_censored = "梗如泉涌"
+     1 string english = "Quick-witted Commentator"
+     1 string japanese = "すらすらスラング"
+     1 string mchinese = "梗如泉湧"
+   [24712]
+    0 TableSoItemLang data
+     0 int id = 1596170999
+     1 string schinese = "赛场导演"
+     1 string schinese_censored = "赛场导演"
+     1 string english = "Director on the Field"
+     1 string japanese = "試合会場の演出家"
+     1 string mchinese = "賽場導演"
+   [24713]
+    0 TableSoItemLang data
+     0 int id = 1596171000
+     1 string schinese = "特殊才能"
+     1 string schinese_censored = "特殊才能"
+     1 string english = "Special Talents"
+     1 string japanese = "特殊な才能"
+     1 string mchinese = "特殊才能"
+   [24714]
+    0 TableSoItemLang data
+     0 int id = 1596171001
+     1 string schinese = "我的特长"
+     1 string schinese_censored = "我的特长"
+     1 string english = "My Traits"
+     1 string japanese = "私の特技"
+     1 string mchinese = "我的特長"
+   [24715]
+    0 TableSoItemLang data
+     0 int id = 1596171002
+     1 string schinese = "我的短板"
+     1 string schinese_censored = "我的短板"
+     1 string english = "My Shortcomings"
+     1 string japanese = "私の短所"
+     1 string mchinese = "我的短板"
+   [24716]
+    0 TableSoItemLang data
+     0 int id = 1596171003
+     1 string schinese = "退役之后"
+     1 string schinese_censored = "未来理想"
+     1 string english = "After Retirement"
+     1 string japanese = "引退後"
+     1 string mchinese = "退役之後"
+   [24717]
+    0 TableSoItemLang data
+     0 int id = 1596171004
+     1 string schinese = "平平无奇"
+     1 string schinese_censored = "平平无奇"
+     1 string english = "Ordinary"
+     1 string japanese = "平々凡々"
+     1 string mchinese = "平平無奇"
+   [24718]
+    0 TableSoItemLang data
+     0 int id = 1596171005
+     1 string schinese = "打职业时，我在评选中拿过常规赛MVP！"
+     1 string schinese_censored = "打职业时，我在评选中拿过常规赛MVP！"
+     1 string english = "I was voted as the regular season MVP when I was a pro."
+     1 string japanese = "プロ選手時代にレギュラーリーグＭＶＰに選ばれた！"
+     1 string mchinese = "打職業時，我在評選中拿過常規賽MVP！"
+   [24719]
+    0 TableSoItemLang data
+     0 int id = 1596171006
+     1 string schinese = "打职业时，我在综艺节目中拿过金奖！"
+     1 string schinese_censored = "打职业时，我在综艺节目中拿过金奖！"
+     1 string english = "I got the first prize from a TV show when I was a pro."
+     1 string japanese = "プロ選手時代にバラエティー番組で金賞を取った！"
+     1 string mchinese = "打職業時，我在綜藝節目中拿過金獎！"
+   [24720]
+    0 TableSoItemLang data
+     0 int id = 1596171007
+     1 string schinese = "打职业时，我在比赛中制霸全场！"
+     1 string schinese_censored = "打职业时，我在比赛中制霸全场！"
+     1 string english = "I dominated in games when I was a pro."
+     1 string japanese = "プロ選手時代に試合で大活躍した！"
+     1 string mchinese = "打職業時，我在比賽中制霸全場！"
+   [24721]
+    0 TableSoItemLang data
+     0 int id = 1596171008
+     1 string schinese = "{0}"
+     1 string schinese_censored = "{0}"
+     1 string english = "{0}"
+     1 string japanese = "{0}"
+     1 string mchinese = "{0}"
+   [24722]
+    0 TableSoItemLang data
+     0 int id = 1596171009
+     1 string schinese = "{0}"
+     1 string schinese_censored = "{0}"
+     1 string english = "{0}"
+     1 string japanese = "{0}"
+     1 string mchinese = "{0}"
+   [24723]
+    0 TableSoItemLang data
+     0 int id = 1596171010
+     1 string schinese = "{0}"

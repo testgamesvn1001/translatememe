@@ -1,0 +1,184 @@
+     1 string schinese_censored = "记住，想要活得好，先得活下来。\n\n【记忆力】【体魄】【魅力】属性越高，学习消耗的悟性越少。\n\n最低只需消耗70点悟性。"
+     1 string english = "Remember, to live well, you must first survive!\n\nKnowledge cost decreases with [Memory], [Constitution], and [Charm].\n\nMinimum Knowledge Cost: 70"
+     1 string japanese = "覚えておけ。よく生きたければ、まずは生き残ることだ。\n\n【記憶力】【体力】【魅力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:70"
+     1 string mchinese = "記住，想要活得好，先得活下來。\n\n【記憶力】【體魄】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗70點悟性。"
+   [28818]
+    0 TableSoItemLang data
+     0 int id = 8211006
+     1 string schinese = "永远比对方多看一步。\n\n【智商】【记忆力】【魅力】属性越高，学习消耗的悟性越少。\n\n最低只需消耗70点悟性。"
+     1 string schinese_censored = "永远比对方多看一步。\n\n【智商】【记忆力】【魅力】属性越高，学习消耗的悟性越少。\n\n最低只需消耗70点悟性。"
+     1 string english = "Stay one step ahead of your opponent!\n\nKnowledge cost decreases with [IQ], [Memory], and [Charm].\n\nMinimum Knowledge Cost: 70"
+     1 string japanese = "常に相手より一手先を読む。\n\n【ＩＱ】【記憶力】【魅力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:70"
+     1 string mchinese = "永遠比對方多看一步。\n\n【智商】【記憶力】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗70點悟性。"
+   [28819]
+    0 TableSoItemLang data
+     0 int id = 8211007
+     1 string schinese = "打游戏是个体力活！\n\n【想象力】【体魄】【魅力】属性越高，学习消耗的悟性越少。\n\n最低只需消耗80点悟性。"
+     1 string schinese_censored = "打游戏是个体力活！\n\n【想象力】【体魄】【魅力】属性越高，学习消耗的悟性越少。\n\n最低只需消耗80点悟性。"
+     1 string english = "Gaming is hard manual labor!\n\nKnowledge cost decreases with [Imagination], [Constitution], and [Charm].\n\nMinimum Knowledge Cost: 80"
+     1 string japanese = "ゲームは体力勝負！\n\n【想像力】【体力】【魅力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:80"
+     1 string mchinese = "打遊戲是個體力活！\n\n【想像力】【體魄】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗80點悟性。"
+   [28820]
+    0 TableSoItemLang data
+     0 int id = 8110001
+     1 string schinese = "正在练习新英雄Lv1（创新）"
+     1 string schinese_censored = "正在练习新英雄Lv1（创新）"
+     1 string english = "Practicing new hero Lv. 1 (creative)."
+     1 string japanese = "新ヒーローLv.1(創造)練習中"
+     1 string mchinese = "正在練習新英雄Lv1（創新）"
+   [28821]
+    0 TableSoItemLang data
+     0 int id = 8110002
+     1 string schinese = "正在练习新英雄Lv2（创新）"
+     1 string schinese_censored = "正在练习新英雄Lv2（创新）"
+     1 string english = "Practicing new hero Lv. 2 (creative)."
+     1 string japanese = "新ヒーローLv.2(創造)練習中"
+     1 string mchinese = "正在練習新英雄Lv2（創新）"
+   [28822]
+    0 TableSoItemLang data
+     0 int id = 8110003
+     1 string schinese = "正在练习新英雄Lv3（创新）"
+     1 string schinese_censored = "正在练习新英雄Lv3（创新）"
+     1 string english = "Practicing new hero Lv. 3 (creative)."
+     1 string japanese = "新ヒーローLv.3(創造)練習中"
+     1 string mchinese = "正在練習新英雄Lv3（創新）"
+   [28823]
+    0 TableSoItemLang data
+     0 int id = 8110004
+     1 string schinese = "正在练习新出装Lv1（创新）"
+     1 string schinese_censored = "正在练习新出装Lv1（创新）"
+     1 string english = "Practicing new item build Lv. 1 (creative)."
+     1 string japanese = "新ビルドLv.1(創造)練習中"
+     1 string mchinese = "正在練習新出裝Lv1（創新）"
+   [28824]
+    0 TableSoItemLang data
+     0 int id = 8110005
+     1 string schinese = "正在练习新出装Lv2（创新）"
+     1 string schinese_censored = "正在练习新出装Lv2（创新）"
+     1 string english = "Practicing new item build Lv. 2 (creative)."
+     1 string japanese = "新ビルドLv.2(創造)練習中"
+     1 string mchinese = "正在練習新出裝Lv2（創新）"
+   [28825]
+    0 TableSoItemLang data
+     0 int id = 8110006
+     1 string schinese = "正在练习新出装Lv3（创新）"
+     1 string schinese_censored = "正在练习新出装Lv3（创新）"
+     1 string english = "Practicing new item build Lv. 3 (creative)."
+     1 string japanese = "新ビルドLv.3(創造)練習中"
+     1 string mchinese = "正在練習新出裝Lv3（創新）"
+   [28826]
+    0 TableSoItemLang data
+     0 int id = 8110007
+     1 string schinese = "正在练习新套路Lv1（创新）"
+     1 string schinese_censored = "正在练习新套路Lv1（创新）"
+     1 string english = "Practicing new strategy Lv. 1 (creative)."
+     1 string japanese = "新戦略Lv.1(創造)練習中"
+     1 string mchinese = "正在練習新套路Lv1（創新）"
+   [28827]
+    0 TableSoItemLang data
+     0 int id = 8110008
+     1 string schinese = "正在练习新套路Lv2（创新）"
+     1 string schinese_censored = "正在练习新套路Lv2（创新）"
+     1 string english = "Practicing new strategy Lv. 2 (creative)."
+     1 string japanese = "新戦略Lv.2(創造)練習中"
+     1 string mchinese = "正在練習新套路Lv2（創新）"
+   [28828]
+    0 TableSoItemLang data
+     0 int id = 8110009
+     1 string schinese = "正在练习新套路Lv3（创新）"
+     1 string schinese_censored = "正在练习新套路Lv3（创新）"
+     1 string english = "Practicing new strategy Lv. 3 (creative)."
+     1 string japanese = "新戦略Lv.3(創造)練習中"
+     1 string mchinese = "正在練習新套路Lv3（創新）"
+   [28829]
+    0 TableSoItemLang data
+     0 int id = 8110010
+     1 string schinese = "正在练习超前理解（创新）"
+     1 string schinese_censored = "正在练习超前理解（创新）"
+     1 string english = "Practicing your game sense (Creativity)."
+     1 string japanese = "先読み(創造)練習中"
+     1 string mchinese = "正在練習超前理解（創新）"
+   [28830]
+    0 TableSoItemLang data
+     0 int id = 8110101
+     1 string schinese = "正在练习游走支援Lv1（意识）"
+     1 string schinese_censored = "正在练习游走支援Lv1（意识）"
+     1 string english = "Practicing roaming support Lv. 1 (awareness)."
+     1 string japanese = "ロームサポートLv.1(意識)練習中"
+     1 string mchinese = "正在練習遊走支援Lv1（意識）"
+   [28831]
+    0 TableSoItemLang data
+     0 int id = 8110102
+     1 string schinese = "正在练习游走支援Lv2（意识）"
+     1 string schinese_censored = "正在练习游走支援Lv2（意识）"
+     1 string english = "Practicing roaming support Lv. 2 (awareness)."
+     1 string japanese = "ロームサポートLv.2(意識)練習中"
+     1 string mchinese = "正在練習遊走支援Lv2（意識）"
+   [28832]
+    0 TableSoItemLang data
+     0 int id = 8110103
+     1 string schinese = "正在练习游走支援Lv3（意识）"
+     1 string schinese_censored = "正在练习游走支援Lv3（意识）"
+     1 string english = "Practicing roaming support Lv. 3 (awareness)."
+     1 string japanese = "ロームサポートLv.3(意識)練習中"
+     1 string mchinese = "正在練習遊走支援Lv3（意識）"
+   [28833]
+    0 TableSoItemLang data
+     0 int id = 8110104
+     1 string schinese = "正在练习地图掌控Lv1（意识）"
+     1 string schinese_censored = "正在练习地图掌控Lv1（意识）"
+     1 string english = "Practicing map control Lv. 1 (awareness)."
+     1 string japanese = "マップ把握Lv.1(意識)練習中"
+     1 string mchinese = "正在練習地圖掌控Lv1（意識）"
+   [28834]
+    0 TableSoItemLang data
+     0 int id = 8110105
+     1 string schinese = "正在练习地图掌控Lv2（意识）"
+     1 string schinese_censored = "正在练习地图掌控Lv2（意识）"
+     1 string english = "Practicing map control Lv. 2 (awareness)."
+     1 string japanese = "マップ把握Lv.2(意識)練習中"
+     1 string mchinese = "正在練習地圖掌控Lv2（意識）"
+   [28835]
+    0 TableSoItemLang data
+     0 int id = 8110106
+     1 string schinese = "正在练习地图掌控Lv3（意识）"
+     1 string schinese_censored = "正在练习地图掌控Lv3（意识）"
+     1 string english = "Practicing map control Lv. 3 (awareness)."
+     1 string japanese = "マップ把握Lv.3(意識)練習中"
+     1 string mchinese = "正在練習地圖掌控Lv3（意識）"
+   [28836]
+    0 TableSoItemLang data
+     0 int id = 8110107
+     1 string schinese = "正在练习寻找战机Lv1（意识）"
+     1 string schinese_censored = "正在练习寻找战机Lv1（意识）"
+     1 string english = "Practicing battle seeker Lv. 1 (awareness)."
+     1 string japanese = "戦闘機会探索Lv.1(意識)練習中"
+     1 string mchinese = "正在練習尋找戰機Lv1（意識）"
+   [28837]
+    0 TableSoItemLang data
+     0 int id = 8110108
+     1 string schinese = "正在练习寻找战机Lv2（意识）"
+     1 string schinese_censored = "正在练习寻找战机Lv2（意识）"
+     1 string english = "Practicing battle seeker Lv. 2 (awareness)."
+     1 string japanese = "戦闘機会探索Lv.2(意識)練習中"
+     1 string mchinese = "正在練習尋找戰機Lv2（意識）"
+   [28838]
+    0 TableSoItemLang data
+     0 int id = 8110109
+     1 string schinese = "正在练习寻找战机Lv3（意识）"
+     1 string schinese_censored = "正在练习寻找战机Lv3（意识）"
+     1 string english = "Practicing battle seeker Lv. 3 (awareness)."
+     1 string japanese = "戦闘機会探索Lv.3(意識)練習中"
+     1 string mchinese = "正在練習尋找戰機Lv3（意識）"
+   [28839]
+    0 TableSoItemLang data
+     0 int id = 8110110
+     1 string schinese = "正在练习游戏理解（意识）"
+     1 string schinese_censored = "正在练习游戏理解（意识）"
+     1 string english = "Practicing game knowledge (awareness)."
+     1 string japanese = "ゲーム理解(意識)練習中"
+     1 string mchinese = "正在練習遊戲理解（意識）"
+   [28840]
+    0 TableSoItemLang data
+     0 int id = 8110201
+     1 string schinese = "正在练习复盘比赛Lv1（指挥）"

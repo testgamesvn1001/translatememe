@@ -1,0 +1,184 @@
+     1 string schinese_censored = "父母半信半疑但最后也相信了你\n（ 智慧增加了200）"
+     1 string english = "Your parents are suspicious but decide to trust you in the end.\n(IQ +200)"
+     1 string japanese = "半信半疑だったが、最終的には信じてくれた\nＩＱが200増加"
+     1 string mchinese = "父母半信半疑但最後也相信了你\n（智商+200）"
+   [6140]
+    0 TableSoItemLang data
+     0 int id = 1016141
+     1 string schinese = "爸爸强调他肯定没看错，你被妈妈狠狠的教训了一顿\n（父母满意度-60智商-100）"
+     1 string schinese_censored = "爸爸强调他肯定没看错，你被妈妈狠狠的教训了一顿\n（ 父母满意度-60 智慧-100）"
+     1 string english = "Your dad is adamant about not being mistaken and your mom scolds you something fiercely.\n(Satisfaction -60 and IQ -100)"
+     1 string japanese = "「間違いない」とお父さんに言われ、お母さんに酷く叱られた\n両親の満足度が60減少、ＩＱが100減少"
+     1 string mchinese = "爸爸強調他肯定沒看錯，你被媽媽狠狠的教訓了一頓\n（父母滿意度-60智商-100）"
+   [6141]
+    0 TableSoItemLang data
+     0 int id = 1016142
+     1 string schinese = "她们并没有理会你\n（情商-300）"
+     1 string schinese_censored = "她们并没有理会你\n（ 情绪力-300）"
+     1 string english = "She ignores you completely.\n(EQ -300)"
+     1 string japanese = "相手にしてくれなかった\nＥＱが300減少"
+     1 string mchinese = "她們並沒有理會你\n（情商-300）"
+   [6142]
+    0 TableSoItemLang data
+     0 int id = 1016143
+     1 string schinese = "她们发现自讨没趣转而开始排挤另一个女生\n（情商+300）"
+     1 string schinese_censored = "她们发现自讨没趣转而开始排挤另一个女生\n（ 情绪力增加了300）"
+     1 string english = "The girls love talking behind others' backs, especially yours, but you ignore them so they chose another one as their target.\n(EQ +300)"
+     1 string japanese = "あなたに興味をなくし、他の子をターゲットにした\nＥＱが300増加"
+     1 string mchinese = "她們發現自討沒趣轉而開始排擠另一個女生\n（情商+300）"
+   [6143]
+    0 TableSoItemLang data
+     0 int id = 1016144
+     1 string schinese = "两方呈现了对立，开始处处对着干\n（智商+200魅力-150）"
+     1 string schinese_censored = "两方呈现了对立，开始处处对着干\n（ 智慧增加了200 魅力-150）"
+     1 string english = "Both starts spouting remarks against each other.\n(IQ +200 and Charm -150)"
+     1 string japanese = "対立が激化し、あちこちでやり合うようになった\nＩＱが200増加、魅力が150減少"
+     1 string mchinese = "兩方呈現了對立，開始處處對著幹\n（智商+200魅力-150）"
+   [6144]
+    0 TableSoItemLang data
+     0 int id = 1016145
+     1 string schinese = "那个姐姐谢了你并报了警\n（压力-20智商+300）"
+     1 string schinese_censored = "那个姐姐谢了你并报了警\n（ 压力-20 智慧增加了300）"
+     1 string english = "The girl thanks you for your timely warning.\n(Stress -20, IQ+300)"
+     1 string japanese = "お姉さんはあなたに感謝し、警察に通報した\nストレスが20減少、ＩＱが300増加"
+     1 string mchinese = "那個姐姐謝了你並報了警\n（壓力-20智商+300）"
+   [6145]
+    0 TableSoItemLang data
+     0 int id = 1016146
+     1 string schinese = "大庭广众之下那个人没有过多纠缠，悻悻地离开了\n（魅力+300）"
+     1 string schinese_censored = "大庭广众之下那个人没有过多纠缠，悻悻地离开了\n（ 魅力增加了300）"
+     1 string english = "The person daren't do anything in public and leaves in anger.\n(Charm +300)"
+     1 string japanese = "公共の場なので反撃されず、そそくさと逃げ去った\n魅力が300増加"
+     1 string mchinese = "大庭廣眾之下那個人沒有過多糾纏，悻悻地離開了\n（魅力+300）"
+   [6146]
+    0 TableSoItemLang data
+     0 int id = 1016147
+     1 string schinese = "后来有个男生站了出来把那个人扭送到了乘务员那里\n（压力-20）"
+     1 string schinese_censored = "后来有个男生站了出来把那个人扭送到了乘务员那里\n（ 压力-20）"
+     1 string english = "Later on, a man grabs hold of the photographer and turns him over to the conductor.\n(Stress -20)"
+     1 string japanese = "後で男性がその人を乗務員のところまで引っ張っていった\nストレスが20減少"
+     1 string mchinese = "後來有個男生站了出來把那個人扭送到了乘務員那裏\n（壓力-20）"
+   [6147]
+    0 TableSoItemLang data
+     0 int id = 1016148
+     1 string schinese = "故乡"
+     1 string schinese_censored = "故乡"
+     1 string english = "Hometown"
+     1 string japanese = "ふるさと"
+     1 string mchinese = "故鄉"
+   [6148]
+    0 TableSoItemLang data
+     0 int id = 1016149
+     1 string schinese = "向日葵与阳光"
+     1 string schinese_censored = "向日葵与阳光"
+     1 string english = "Sunflowers and Sunshine"
+     1 string japanese = "向日葵と太陽"
+     1 string mchinese = "向日葵與陽光"
+   [6149]
+    0 TableSoItemLang data
+     0 int id = 1016150
+     1 string schinese = "怀念"
+     1 string schinese_censored = "怀念"
+     1 string english = "Yearning"
+     1 string japanese = "懐古"
+     1 string mchinese = "懷念"
+   [6150]
+    0 TableSoItemLang data
+     0 int id = 1016151
+     1 string schinese = "义气与正义"
+     1 string schinese_censored = "义气与正义"
+     1 string english = "Loyalty and Justice"
+     1 string japanese = "仁義と正義"
+     1 string mchinese = "義氣與正義"
+   [6151]
+    0 TableSoItemLang data
+     0 int id = 1016152
+     1 string schinese = "葡萄酸"
+     1 string schinese_censored = "葡萄酸"
+     1 string english = "Sour Grapes"
+     1 string japanese = "葡萄酸"
+     1 string mchinese = "葡萄酸"
+   [6152]
+    0 TableSoItemLang data
+     0 int id = 1016153
+     1 string schinese = "风与太平洋"
+     1 string schinese_censored = "风与太平洋"
+     1 string english = "Wind and the Pacific Ocean"
+     1 string japanese = "風と太平洋"
+     1 string mchinese = "風與太平洋"
+   [6153]
+    0 TableSoItemLang data
+     0 int id = 1016154
+     1 string schinese = "在银河的那一年"
+     1 string schinese_censored = "在银河的那一年"
+     1 string english = "That Year in the Milky Way"
+     1 string japanese = "銀河での一年"
+     1 string mchinese = "在銀河的那一年"
+   [6154]
+    0 TableSoItemLang data
+     0 int id = 1016155
+     1 string schinese = "谁和谁的看法"
+     1 string schinese_censored = "谁和谁的看法"
+     1 string english = "Who and Whose Opinions"
+     1 string japanese = "人の見解"
+     1 string mchinese = "誰和誰的看法"
+   [6155]
+    0 TableSoItemLang data
+     0 int id = 1016156
+     1 string schinese = "梦中风景"
+     1 string schinese_censored = "梦中风景"
+     1 string english = "Dreamscape"
+     1 string japanese = "夢の風景"
+     1 string mchinese = "夢中風景"
+   [6156]
+    0 TableSoItemLang data
+     0 int id = 1016157
+     1 string schinese = "再见与不见"
+     1 string schinese_censored = "再见与不见"
+     1 string english = "Laters & Goodbye"
+     1 string japanese = "またね、さようなら"
+     1 string mchinese = "再見與不見"
+   [6157]
+    0 TableSoItemLang data
+     0 int id = 1016158
+     1 string schinese = "不能抵达的世界"
+     1 string schinese_censored = "不能抵达的世界"
+     1 string english = "Unreachable World"
+     1 string japanese = "辿り着けない世界"
+     1 string mchinese = "不能抵達的世界"
+   [6158]
+    0 TableSoItemLang data
+     0 int id = 1016159
+     1 string schinese = "救赎与拯救"
+     1 string schinese_censored = "救赎与拯救"
+     1 string english = "Redemption and Salvation"
+     1 string japanese = "救済と救助"
+     1 string mchinese = "救贖與拯救"
+   [6159]
+    0 TableSoItemLang data
+     0 int id = 1016160
+     1 string schinese = "传记与真实"
+     1 string schinese_censored = "传记与真实"
+     1 string english = "Biography and Truth"
+     1 string japanese = "伝記と真実"
+     1 string mchinese = "傳記與真實"
+   [6160]
+    0 TableSoItemLang data
+     0 int id = 1016161
+     1 string schinese = "庄周蝴蝶"
+     1 string schinese_censored = "庄周蝴蝶"
+     1 string english = "Escapism"
+     1 string japanese = "荘周の胡蝶"
+     1 string mchinese = "莊周蝴蝶"
+   [6161]
+    0 TableSoItemLang data
+     0 int id = 1016162
+     1 string schinese = "盲人与心眼"
+     1 string schinese_censored = "盲人与心眼"
+     1 string english = "The Blind and the Mind's Eye"
+     1 string japanese = "盲目と心眼"
+     1 string mchinese = "盲人與心眼"
+   [6162]
+    0 TableSoItemLang data
+     0 int id = 1016163
+     1 string schinese = "对岸"

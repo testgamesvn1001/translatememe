@@ -1,0 +1,184 @@
+     1 string schinese_censored = "打职业毕竟也只是一种职业，赚钱更重要，如果退役更赚钱那就退役。\n（ 想象力增加了100 记忆力增加了100）"
+     1 string english = "Being a pro player is also just a job. What really matters is to make money. I will choose to retire if I make more money by doing so.\n(Imagination +100, Memory +100)"
+     1 string japanese = "プロ選手だって立派な職業だ。稼げることが大事。引退した方が稼げるなら、引退しよう。\n想像力が100増加、記憶力が100増加"
+     1 string mchinese = "打職業畢竟也只是一種職業，賺錢更重要，如果退役更賺錢那就退役。\n（ 想像力+100 記憶力+100）"
+   [24356]
+    0 TableSoItemLang data
+     0 int id = 1596170643
+     1 string schinese = "观众席发出了欢呼，不少观众在网络上留言表示MCG的这个新人未来可期。\n（ 魅力+100）"
+     1 string schinese_censored = "观众席发出了欢呼，但也有不少观众在网络上留言表示MCG的这个新人太膨胀了。\n（ 自信增加了100）"
+     1 string english = "I get applause from the audience and many of them comment on the internet that this new MCG player has a promising future.\n(Charm +100)"
+     1 string japanese = "観客席から歓声が上がった。多くのファンがネット上で、ルーキーの未来を期待するコメントを投稿した。\n魅力が100増加"
+     1 string mchinese = "觀眾席發出了歡呼，不少觀眾在網路上留言表示MCG的這個新人未來可期。\n（ 魅力+100）"
+   [24357]
+    0 TableSoItemLang data
+     0 int id = 1596170644
+     1 string schinese = "观众席发出了欢呼，但也有不少观众在网络上留言表示MCG的这个新人有点装。\n（ 魅力+100）"
+     1 string schinese_censored = "观众席发出了欢呼，但也有不少观众在网络上留言表示MCG的这个新人太膨胀了。\n（ 自信增加了100）"
+     1 string english = "I get applause from the audience and many of them comment on the internet that this new MCG player is a bit pretentious.\n(Charm +100)"
+     1 string japanese = "観客席から歓声が上がった。しかし、多くのファンがネット上で、ルーキーはカッコつけ過ぎだと投稿した。\n魅力が100増加"
+     1 string mchinese = "觀眾席發出了歡呼，但也有不少觀眾在網路上留言表示MCG的這個新人有點裝。\n（ 魅力+100）"
+   [24358]
+    0 TableSoItemLang data
+     0 int id = 1596170645
+     1 string schinese = "观众席发出了欢呼，但也有不少观众在网络上留言表示MCG的这个新人太膨胀了。\n（ 魅力+100）"
+     1 string schinese_censored = "观众席发出了欢呼，但也有不少观众在网络上留言表示MCG的这个新人太膨胀了。\n（ 自信增加了100）"
+     1 string english = "I get applause from the audience and many of them comment on the internet that this new MCG player is too proud.\n(Charm +100)"
+     1 string japanese = "観客席から歓声が上がった。しかし、多くのファンがネット上で、ルーキーは調子に乗っていると投稿した。\n魅力が100増加"
+     1 string mchinese = "觀眾席發出了歡呼，但也有不少觀眾在網路上留言表示MCG的這個新人太膨脹了。\n（ 魅力+100）"
+   [24359]
+    0 TableSoItemLang data
+     0 int id = 1596170646
+     1 string schinese = "你开始有意识地将必拿的击杀让给更需要的队友。\n（ 满意度+100 情商+100）"
+     1 string schinese_censored = "你开始有意识地将必拿的击杀让给更需要的队友。\n（ 满意度增加了100 情商增加了100）"
+     1 string english = "You begin to leave the kills to teammates who need more gold than you.\n(Satisfaction +100, EQ +100)"
+     1 string japanese = "あなたはキルを必要としている仲間に譲ることを意識するようになった。\n満足度が100増加、ＥＱが100増加"
+     1 string mchinese = "你開始有意識地將必拿的擊殺讓給更需要的隊友。\n（ 滿意度+100 情商+100）"
+   [24360]
+    0 TableSoItemLang data
+     0 int id = 1596170647
+     1 string schinese = "你开始有意识地计算伤害、控制兵线、消耗防御塔。\n（ 满意度+100 情商+100）"
+     1 string schinese_censored = "你开始有意识地计算伤害、控制兵线、消耗防御塔。\n（ 满意度增加了100 情商增加了100）"
+     1 string english = "You begin to learn to calculate damage, plan the minions' position and deal extra damage to turrets.\n(Satisfaction +100, EQ +100)"
+     1 string japanese = "あなたはダメージ計算、レーニング、タワー破壊を意識するようになった。\n満足度が100増加、ＥＱが100増加"
+     1 string mchinese = "你開始有意識地計算傷害、控制兵線、消耗防禦塔。\n（ 滿意度+100 情商+100）"
+   [24361]
+    0 TableSoItemLang data
+     0 int id = 1596170648
+     1 string schinese = "你开始增加和队友的组排时间，加紧团队磨合。\n（ 满意度+100 情商+100）"
+     1 string schinese_censored = "你开始增加和队友的组排时间，加紧团队磨合。\n（ 满意度增加了100 情商增加了100）"
+     1 string english = "You begin to spend more time with teammates on ranking up. Thus, you strengthen your team bond.\n(Satisfaction +100, EQ +100)"
+     1 string japanese = "あなたはチームワークを高めるため、仲間とのランク戦の時間を増やした。\n満足度が100増加、ＥＱが100増加"
+     1 string mchinese = "你開始增加和隊友的組排時間，加緊團隊磨合。\n（ 滿意度+100 情商+100）"
+   [24362]
+    0 TableSoItemLang data
+     0 int id = 1596170649
+     1 string schinese = "本周MVP"
+     1 string schinese_censored = "常规赛MVP"
+     1 string english = "MVP of the Week"
+     1 string japanese = "週間ＭＶＰ"
+     1 string mchinese = "本周MVP"
+   [24363]
+    0 TableSoItemLang data
+     0 int id = 1596170650
+     1 string schinese = "本周MVP"
+     1 string schinese_censored = "本周MVP"
+     1 string english = "MVP of the Week"
+     1 string japanese = "週間ＭＶＰ"
+     1 string mchinese = "本周MVP"
+   [24364]
+    0 TableSoItemLang data
+     0 int id = 1596170651
+     1 string schinese = "周最佳阵容1阵"
+     1 string schinese_censored = "周最佳阵容1阵"
+     1 string english = "1st Top Lineup of the Week"
+     1 string japanese = "週間ベスト５（Ａ）"
+     1 string mchinese = "周最佳陣容1陣"
+   [24365]
+    0 TableSoItemLang data
+     0 int id = 1596170652
+     1 string schinese = "周最佳阵容2阵"
+     1 string schinese_censored = "周最佳阵容2阵"
+     1 string english = "2nd Top Lineup of the Week"
+     1 string japanese = "週間ベスト５（Ｂ）"
+     1 string mchinese = "周最佳陣容2陣"
+   [24366]
+    0 TableSoItemLang data
+     0 int id = 1596170653
+     1 string schinese = "周最佳阵容2阵"
+     1 string schinese_censored = "周最佳阵容3阵"
+     1 string english = "2nd Top Lineup of the Week"
+     1 string japanese = "週間ベスト５（Ｂ）"
+     1 string mchinese = "周最佳陣容2陣"
+   [24367]
+    0 TableSoItemLang data
+     0 int id = 1596170654
+     1 string schinese = "周最佳阵容3阵"
+     1 string schinese_censored = "不起眼的路人"
+     1 string english = "3rd Top Lineup of the Week"
+     1 string japanese = "週間ベスト５（Ｃ）"
+     1 string mchinese = "周最佳陣容3陣"
+   [24368]
+    0 TableSoItemLang data
+     0 int id = 1596170655
+     1 string schinese = "周最佳阵容3阵"
+     1 string schinese_censored = "不起眼的路人"
+     1 string english = "3rd Top Lineup of the Week"
+     1 string japanese = "週間ベスト５（Ｃ）"
+     1 string mchinese = "周最佳陣容3陣"
+   [24369]
+    0 TableSoItemLang data
+     0 int id = 1596170656
+     1 string schinese = "不起眼的路人"
+     1 string schinese_censored = "不起眼的路人"
+     1 string english = "Ordinary Player"
+     1 string japanese = "その辺のモブ"
+     1 string mchinese = "不起眼的路人"
+   [24370]
+    0 TableSoItemLang data
+     0 int id = 1596170657
+     1 string schinese = "本周最下饭选手"
+     1 string schinese_censored = "本周最下饭选手"
+     1 string english = "Funniest Misplays of the Week"
+     1 string japanese = "週間ワーストプレイヤー"
+     1 string mchinese = "本周最下飯選手"
+   [24371]
+    0 TableSoItemLang data
+     0 int id = 1596170658
+     1 string schinese = "嗷斯卡影帝"
+     1 string schinese_censored = "本周最下饭选手"
+     1 string english = "Ohscar Best Actor"
+     1 string japanese = "そっくりさん"
+     1 string mchinese = "嗷斯卡影帝"
+   [24372]
+    0 TableSoItemLang data
+     0 int id = 1596170659
+     1 string schinese = "但是请注意，同样的特长对观众只能使用一次。所以这次才艺比赛使用过的特长，下次比赛就不会再出现啦！"
+     1 string schinese_censored = "但是请注意，同样的特长对观众只能使用一次。所以这次选秀使用过的特长，下次选秀就不会再出现啦！"
+     1 string english = "Please note that you can only use each trait once. So you won't be able to choose traits you've used before in the following matches."
+     1 string japanese = "ただし、１つの特技は１回しか使用できないことに注意しよう。今回のオーディションで使用した特技は、次のオーディションで使用できないということだ！"
+     1 string mchinese = "但是請注意，同樣的特長對觀眾只能使用一次。所以這次才藝比賽使用過的特長，下次比賽就不會再出現啦！"
+   [24373]
+    0 TableSoItemLang data
+     0 int id = 1596170660
+     1 string schinese = "算命先生大喊一句："此娃必身体倍棒啊！"，父亲高兴的付了咨询费\n（体魄+80）"
+     1 string schinese_censored = "算命先生大喊一句："此娃必身体倍棒啊！"，父亲高兴的付了咨询费\n（ 体魄增加了80）"
+     1 string english = "The fortune teller calls out: "This child will lead a healthy life!". Your dad exclaims in joy and pays the fee.\n(Constitution +80)"
+     1 string japanese = "「この子は将来健康的な体になる！」お父さんは大喜びで占い料を払った\n体力が80増加"
+     1 string mchinese = "算命先生大喊一句："此娃必身體倍棒啊！"，父親高興的付了諮詢費\n（體魄+80）"
+   [24374]
+    0 TableSoItemLang data
+     0 int id = 1596170661
+     1 string schinese = "算命先生大喊一句："此娃必成大文豪啊！"，父亲高兴的付了咨询费\n（想象力+80）"
+     1 string schinese_censored = "算命先生大喊一句："此娃必成大文豪啊！"，父亲高兴的付了咨询费\n（ 想象力增加了80）"
+     1 string english = "The fortune teller calls out: "This child will become a literary giant!". Your dad exclaims in joy and pays the fee.\n(Imagination +80)"
+     1 string japanese = "「この子は将来大文豪になる！」お父さんは大喜びで占い料を払った\n想像力が80増加"
+     1 string mchinese = "算命先生大喊一句："此娃必成大文豪啊！"，父親高興的付了諮詢費\n（想像力+80）"
+   [24375]
+    0 TableSoItemLang data
+     0 int id = 1596170662
+     1 string schinese = "算命先生大喊一句："此娃必生财有道啊！"，父亲高兴的付了咨询费\n（情商+80）"
+     1 string schinese_censored = "算命先生大喊一句："此娃必生财有道啊！"，父亲高兴的付了咨询费\n（ 情商增加了80）"
+     1 string english = "The fortune teller calls out: "This child will learn how to make millions!". Your dad exclaims in joy and pays the fee.\n(EQ +80)"
+     1 string japanese = "「この子は将来お金儲けが上手くなる！」お父さんは大喜びで占い料を払った\nＥＱが80増加"
+     1 string mchinese = "算命先生大喊一句："此娃必生財有道啊！"，父親高興的付了諮詢費\n（情商+80）"
+   [24376]
+    0 TableSoItemLang data
+     0 int id = 1596170663
+     1 string schinese = "算命先生大喊一句："此娃必生活幸福啊！"，父亲很高兴，但觉得你更可能是易蛀牙体质\n（想象力+90体魄-10）"
+     1 string schinese_censored = "算命先生大喊一句："此娃必生活幸福啊！"，父亲很高兴费，但觉得你更可能是易蛀牙体质\n（ 想象力增加了90 体魄-10）"
+     1 string english = "The fortune teller calls out: "This child will lead a happy life!". Your dad exclaims in joy and pays the fee.\n(Imagination +90, Constitution -10)"
+     1 string japanese = "「この子は将来幸せになる！」お父さんは喜んだが、虫歯にかかりやすくなるかも知れないと思った\n想像力が90増加、体力が10減少"
+     1 string mchinese = "算命先生大喊一句："此娃必生活幸福啊！"，父親很高興，但覺得你更可能是易蛀牙體質\n（想像力+90體魄-10）"
+   [24377]
+    0 TableSoItemLang data
+     0 int id = 1596170664
+     1 string schinese = "算命先生大喊一句："此娃必成赛车手啊！"，父亲半信半疑，觉得你更可能成为快递员\n（想象力-10体魄+90）"
+     1 string schinese_censored = "算命先生大喊一句："此娃必成赛车手啊！"，父亲半信半疑，觉得你更可能成为快递员\n（ 想象力-10 体魄增加了90）"
+     1 string english = "The fortune teller calls out: "This child will become a racing driver!". Your dad is skeptical and thinks that you're more likely to become a delivery guy.\n(Imagination -10, Constitution +90)"
+     1 string japanese = "「この子は将来レーサーになる！」お父さんは半信半疑で、どちらかといえば配達員だろうと思った\n想像力が10減少、体力が90増加"
+     1 string mchinese = "算命先生大喊一句："此娃必成賽車手啊！"，父親半信半疑，覺得你更可能成為快遞員\n（想像力-10體魄+90）"
+   [24378]
+    0 TableSoItemLang data
+     0 int id = 1596170665
+     1 string schinese = "算命先生有点尴尬，爸爸不甘心地想让你再抓一次，但妈妈已经高兴地付了咨询费\n（魅力+80）"

@@ -1,0 +1,184 @@
+     1 string schinese_censored = "行动力不足时，可点击安排日程至下回合，可恢复行动力!"
+     1 string english = "When your Action is not enough, you can click the "Schedule" to recover your Action next turn!"
+     1 string japanese = "行動力がなくなった場合は、予定を選択して次のターンに進めば回復するぞ！"
+     1 string mchinese = "行動力不足時，可點擊安排日程至下回合，可恢復行動力!"
+   [26058]
+    0 TableSoItemLang data
+     0 int id = 1596172345
+     1 string schinese = "请点击空白区域继续"
+     1 string schinese_censored = "请点击空白区域继续"
+     1 string english = "Tap to continue."
+     1 string japanese = "空白部を選択して続けてください"
+     1 string mchinese = "請點擊空白區域繼續"
+   [26059]
+    0 TableSoItemLang data
+     0 int id = 1596172346
+     1 string schinese = "解决"
+     1 string schinese_censored = "解决"
+     1 string english = "Solve"
+     1 string japanese = "解答"
+     1 string mchinese = "解決"
+   [26060]
+    0 TableSoItemLang data
+     0 int id = 1596172347
+     1 string schinese = "必胜"
+     1 string schinese_censored = "必胜"
+     1 string english = "Victory"
+     1 string japanese = "必勝"
+     1 string mchinese = "必勝"
+   [26061]
+    0 TableSoItemLang data
+     0 int id = 1596172348
+     1 string schinese = "闲话家常"
+     1 string schinese_censored = "闲话家常"
+     1 string english = "Face Challenge"
+     1 string japanese = "メンツ挑戦"
+     1 string mchinese = "閒話家常"
+   [26062]
+    0 TableSoItemLang data
+     0 int id = 1596172349
+     1 string schinese = "继续"
+     1 string schinese_censored = "继续"
+     1 string english = "Continue"
+     1 string japanese = "続ける"
+     1 string mchinese = "繼續"
+   [26063]
+    0 TableSoItemLang data
+     0 int id = 1596172350
+     1 string schinese = "解题区中每三个同色同等级脑洞，会合并为更高级脑洞。\n\n题目中会出现解决题目所需的脑洞，只要解题区中出现对应的脑洞，无需相邻，只要点击【解决】按钮就可完成题目，并获得悟性奖励。\n\n有剩余换卷子次数时，可更换试卷，题目和解题区会刷新。\n\n题目为无限刷新。\n\n"
+     1 string schinese_censored = "解题区中每三个同色同等级脑洞，会合并为更高级脑洞。\n\n题目中会出现解决题目所需的脑洞，只要解题区中出现对应的脑洞，无需相邻，只要点击【解决】按钮就可完成题目，并获得悟性奖励。\n\n有剩余换卷子次数时，可更换试卷，题目和解题区会刷新。\n\n题目为无限刷新。\n\n"
+     1 string english = "Three fragments of the same level and grade can be merged into a better fragment.\n\nThe fragments required to solve each question will be displayed on the exam. These fragments do not have to be interjacent and once you have collected them all you simply click [Solve] to complete the question and get the Knowledge reward.\n\nYou can ask for a new exam once during each quiz, upon which all questions and the solution area will be refreshed.\n\nThere is an endless number of questions and the quiz ends when you are out of Action."
+     1 string japanese = "解答欄に同じ色で同じ数字のカケラが３つ連続すると、１つ上のレベルのカケラに合成される。\n\n問題は解答するために必要なカケラを表示している。解答欄に同じ並び（連続していなくても可）のカケラがあれば、【解答】を選択することで、理解力を獲得できる。\n\n一度解答すると【問題変更】ができる。問題と解答欄の両方が更新される。\n\n解答した問題は更新される。行動力が無くなるまでテストは終わらない。"
+     1 string mchinese = "解題區中每三個同色同等級腦洞，會合並為更高級腦洞。\n\n題目中會出現解決題目所需的腦洞，只要解題區中出現對應的腦洞，無需相鄰，只要點擊【解決】按鈕就可完成題目，並獲得悟性獎勵。\n\n有剩餘換卷子次數時，可更換試卷，題目和解題區會刷新。\n\n題目為無限刷新。\n\n"
+   [26064]
+    0 TableSoItemLang data
+     0 int id = 1596172351
+     1 string schinese = "普通"
+     1 string schinese_censored = "普通"
+     1 string english = "Common"
+     1 string japanese = "Ｎ"
+     1 string mchinese = "普通"
+   [26065]
+    0 TableSoItemLang data
+     0 int id = 1596172352
+     1 string schinese = "稀有"
+     1 string schinese_censored = "稀有"
+     1 string english = "Rare"
+     1 string japanese = "Ｒ"
+     1 string mchinese = "稀有"
+   [26066]
+    0 TableSoItemLang data
+     0 int id = 1596172353
+     1 string schinese = "史诗"
+     1 string schinese_censored = "史诗"
+     1 string english = "Epic"
+     1 string japanese = "ＳＲ"
+     1 string mchinese = "史詩"
+   [26067]
+    0 TableSoItemLang data
+     0 int id = 1596172354
+     1 string schinese = "传说"
+     1 string schinese_censored = "传说"
+     1 string english = "Legendary"
+     1 string japanese = "ＳＳＲ"
+     1 string mchinese = "傳說"
+   [26068]
+    0 TableSoItemLang data
+     0 int id = 1596172355
+     1 string schinese = "语言"
+     1 string schinese_censored = "语言"
+     1 string english = "Language"
+     1 string japanese = "言語"
+     1 string mchinese = "語言"
+   [26069]
+    0 TableSoItemLang data
+     0 int id = 1596172356
+     1 string schinese = "关注我们"
+     1 string schinese_censored = "关注我们"
+     1 string english = "Follow Us"
+     1 string japanese = "フォロー"
+     1 string mchinese = "關注我們"
+   [26070]
+    0 TableSoItemLang data
+     0 int id = 1596172357
+     1 string schinese = "岁"
+     1 string schinese_censored = "岁"
+     1 string english = "year old"
+     1 string japanese = "歳"
+     1 string mchinese = "歲"
+   [26071]
+    0 TableSoItemLang data
+     0 int id = 1596172358
+     1 string schinese = "回合"
+     1 string schinese_censored = "回合"
+     1 string english = "Turn"
+     1 string japanese = "ターン"
+     1 string mchinese = "回合"
+   [26072]
+    0 TableSoItemLang data
+     0 int id = 1596172359
+     1 string schinese = "安排"
+     1 string schinese_censored = "安排"
+     1 string english = "Schedule"
+     1 string japanese = "予定"
+     1 string mchinese = "安排"
+   [26073]
+    0 TableSoItemLang data
+     0 int id = 1596172360
+     1 string schinese = "使不得，使不得！"
+     1 string schinese_censored = "使不得，使不得！"
+     1 string english = "Nope, I just can't!"
+     1 string japanese = "ちょっと、いけません！"
+     1 string mchinese = "使不得，使不得！"
+   [26074]
+    0 TableSoItemLang data
+     0 int id = 1596172361
+     1 string schinese = "收下收下，应该的嘛"
+     1 string schinese_censored = "收下收下，应该的嘛"
+     1 string english = "Here, take it, it's yours!"
+     1 string japanese = "遠慮しないで、もらってよぉ"
+     1 string mchinese = "收下收下，應該的嘛"
+   [26075]
+    0 TableSoItemLang data
+     0 int id = 1596172362
+     1 string schinese = "繁体中文"
+     1 string schinese_censored = "繁体中文"
+     1 string english = "Traditional Chinese"
+     1 string japanese = "繁体中文"
+     1 string mchinese = "繁體中文"
+   [26076]
+    0 TableSoItemLang data
+     0 int id = 1596172363
+     1 string schinese = "解锁全部内容"
+     1 string schinese_censored = "解锁全部内容"
+     1 string english = "Unlock All Content"
+     1 string japanese = "全コンテンツアンロック"
+     1 string mchinese = "解鎖全部內容"
+   [26077]
+    0 TableSoItemLang data
+     0 int id = 1596172364
+     1 string schinese = "当前登录账号："
+     1 string schinese_censored = "当前登录账号："
+     1 string english = "Account:"
+     1 string japanese = "現在のログインアカウント："
+     1 string mchinese = "當前登錄帳號："
+   [26078]
+    0 TableSoItemLang data
+     0 int id = 1596172365
+     1 string schinese = "当前登录方式："
+     1 string schinese_censored = "当前登录方式："
+     1 string english = "Login method:"
+     1 string japanese = "現在のログイン方法："
+     1 string mchinese = "當前登錄方式："
+   [26079]
+    0 TableSoItemLang data
+     0 int id = 1596172366
+     1 string schinese = "绑定微信"
+     1 string schinese_censored = "绑定微信"
+     1 string english = "Link WeChat"
+     1 string japanese = "WeChat連携"
+     1 string mchinese = "綁定微信"
+   [26080]
+    0 TableSoItemLang data
+     0 int id = 1596172367
+     1 string schinese = "退出登录"

@@ -1,0 +1,184 @@
+     1 string schinese_censored = "送纪念册(¥130)"
+     1 string english = "Give a commemorative album (¥130)"
+     1 string japanese = "記念アルバムをプレゼントする\n(¥130)"
+     1 string mchinese = "送二戰紀念冊(¥130)"
+   [4921]
+    0 TableSoItemLang data
+     0 int id = 1014922
+     1 string schinese = "聊最新出版的教辅书"
+     1 string schinese_censored = "聊最新出版的教辅书"
+     1 string english = "Talk about the newest school books"
+     1 string japanese = "販売中の最新参考書の話をする"
+     1 string mchinese = "聊最新出版的教輔書"
+   [4922]
+    0 TableSoItemLang data
+     0 int id = 1014923
+     1 string schinese = "聊学习的效率与方法"
+     1 string schinese_censored = "聊学习的效率与方法"
+     1 string english = "Talk about study efficiency and methods"
+     1 string japanese = "勉強効率について話をする"
+     1 string mchinese = "聊學習的效率與方法"
+   [4923]
+    0 TableSoItemLang data
+     0 int id = 1014924
+     1 string schinese = "聊聊校园传说"
+     1 string schinese_censored = "聊聊校园传说"
+     1 string english = "Talk about school legends"
+     1 string japanese = "学校の怪談話をする"
+     1 string mchinese = "聊聊校園傳說"
+   [4924]
+    0 TableSoItemLang data
+     0 int id = 1014925
+     1 string schinese = "谈论昨晚朋友圈动态"
+     1 string schinese_censored = "谈论昨晚朋友圈动态"
+     1 string english = "Talk about yesterday's social media posts"
+     1 string japanese = "昨夜送ったタイムラインの話をする"
+     1 string mchinese = "談論昨晚朋友圈動態"
+   [4925]
+    0 TableSoItemLang data
+     0 int id = 1014926
+     1 string schinese = "聊最新的艺术展"
+     1 string schinese_censored = "聊最新的艺术展"
+     1 string english = "Talk about the latest art exhibition"
+     1 string japanese = "最新アートの展覧会の話をする"
+     1 string mchinese = "聊最新的藝術展"
+   [4926]
+    0 TableSoItemLang data
+     0 int id = 1014927
+     1 string schinese = "朗诵一首诗"
+     1 string schinese_censored = "朗诵一首诗"
+     1 string english = "Recite a poem"
+     1 string japanese = "詩を朗読する"
+     1 string mchinese = "朗誦一首詩"
+   [4927]
+    0 TableSoItemLang data
+     0 int id = 1014928
+     1 string schinese = "聊护肤产品"
+     1 string schinese_censored = "聊护肤产品"
+     1 string english = "Talk about skin care products"
+     1 string japanese = "スキンケア製品の話をする"
+     1 string mchinese = "聊護膚產品"
+   [4928]
+    0 TableSoItemLang data
+     0 int id = 1014929
+     1 string schinese = "谈论男生衣品"
+     1 string schinese_censored = "谈论男生衣品"
+     1 string english = "Talk about male clothes"
+     1 string japanese = "メンズファッションの話をする"
+     1 string mchinese = "談論男生衣品"
+   [4929]
+    0 TableSoItemLang data
+     0 int id = 1014930
+     1 string schinese = "谈论体育八卦"
+     1 string schinese_censored = "谈论体育八卦"
+     1 string english = "Talk about the latest celebrity couples"
+     1 string japanese = "スポーツ界のゴシップ話をする"
+     1 string mchinese = "談論體育八卦"
+   [4930]
+    0 TableSoItemLang data
+     0 int id = 1014931
+     1 string schinese = "聊蹦迪的正确姿势"
+     1 string schinese_censored = "聊蹦迪的正确姿势"
+     1 string english = "Talk about disco dance moves"
+     1 string japanese = "クラブでモテるダンスの話をする"
+     1 string mchinese = "聊蹦迪的正確姿勢"
+   [4931]
+    0 TableSoItemLang data
+     0 int id = 1014932
+     1 string schinese = "谈孝敬父母"
+     1 string schinese_censored = "谈孝敬父母"
+     1 string english = "Talk about filial respect"
+     1 string japanese = "親孝行の話をする"
+     1 string mchinese = "談孝敬父母"
+   [4932]
+    0 TableSoItemLang data
+     0 int id = 1014933
+     1 string schinese = "聊未来的出路"
+     1 string schinese_censored = "聊未来的出路"
+     1 string english = "Talk about your futures"
+     1 string japanese = "将来の話をする"
+     1 string mchinese = "聊未來的出路"
+   [4933]
+    0 TableSoItemLang data
+     0 int id = 1014934
+     1 string schinese = "聊奢侈品新品发布会"
+     1 string schinese_censored = "聊奢侈品新品发布会"
+     1 string english = "Talk about luxury products"
+     1 string japanese = "ルイ・ブィトンの新作発表会の話をする"
+     1 string mchinese = "聊奢侈品新品發佈會"
+   [4934]
+    0 TableSoItemLang data
+     0 int id = 1014935
+     1 string schinese = "谈论最新的豪车动态"
+     1 string schinese_censored = "谈论最新的豪车动态"
+     1 string english = "Talk about the latest sports cars"
+     1 string japanese = "最新の高級車の話をする"
+     1 string mchinese = "談論最新的豪車動態"
+   [4935]
+    0 TableSoItemLang data
+     0 int id = 1014936
+     1 string schinese = "送最新习题集(¥50)"
+     1 string schinese_censored = "送最新习题集(¥50)"
+     1 string english = "Give the latest school exercise book set (¥50)"
+     1 string japanese = "最新の問題集をプレゼントする\n(¥50)"
+     1 string mchinese = "送最新習題集(¥50)"
+   [4936]
+    0 TableSoItemLang data
+     0 int id = 1014937
+     1 string schinese = "送一次性大头贴(¥30)"
+     1 string schinese_censored = "送一次性大头贴(¥30)"
+     1 string english = "Give a one-time Japanese print club picture (¥30)"
+     1 string japanese = "プリントシールをプレゼントする\n(¥30)"
+     1 string mchinese = "送一次性大頭貼(¥30)"
+   [4937]
+    0 TableSoItemLang data
+     0 int id = 1014938
+     1 string schinese = "送西川诗集(¥50)"
+     1 string schinese_censored = "送西川诗集(¥50)"
+     1 string english = "Give a poem collection (¥50)"
+     1 string japanese = "西川詩集をプレゼントする\n(¥50)"
+     1 string mchinese = "送西川詩集(¥50)"
+   [4938]
+    0 TableSoItemLang data
+     0 int id = 1014939
+     1 string schinese = "送高端健身房次卡(¥100)"
+     1 string schinese_censored = "送高端健身房次卡(¥100)"
+     1 string english = "Give a membership card to a high-end gym (¥100)"
+     1 string japanese = "高級ジムの会員証をプレゼントする\n(¥100)"
+     1 string mchinese = "送高端健身房次卡(¥100)"
+   [4939]
+    0 TableSoItemLang data
+     0 int id = 1014940
+     1 string schinese = "送明星签名帅照(¥50)"
+     1 string schinese_censored = "送明星签名帅照(¥50)"
+     1 string english = "Give an autographed picture of a hot celebrity (¥50)"
+     1 string japanese = "芸能人のサイン付き写真をプレゼントする\n(¥50)"
+     1 string mchinese = "送明星簽名帥照(¥50)"
+   [4940]
+    0 TableSoItemLang data
+     0 int id = 1014941
+     1 string schinese = "送枸杞保温杯(¥50)"
+     1 string schinese_censored = "送枸杞保温杯(¥50)"
+     1 string english = "Give a thermos mug (¥50)"
+     1 string japanese = "魔法瓶をプレゼントする\n(¥50)"
+     1 string mchinese = "送枸杞保溫杯(¥50)"
+   [4941]
+    0 TableSoItemLang data
+     0 int id = 1014942
+     1 string schinese = "送卡地亚钥匙扣(¥500)"
+     1 string schinese_censored = "送卡天丫钥匙扣(¥500)"
+     1 string english = "Give a nice key chain (¥500)"
+     1 string japanese = "カレティエのキーホルダーをプレゼントする\n(¥500)"
+     1 string mchinese = "送卡地亞鑰匙扣(¥500)"
+   [4942]
+    0 TableSoItemLang data
+     0 int id = 1014943
+     1 string schinese = "变一个硬币魔术"
+     1 string schinese_censored = "变一个硬币魔术"
+     1 string english = "Perform coin magic tricks"
+     1 string japanese = "コインマジックをする"
+     1 string mchinese = "變一個硬幣魔術"
+   [4943]
+    0 TableSoItemLang data
+     0 int id = 1014944
+     1 string schinese = "谈论最近的电影"

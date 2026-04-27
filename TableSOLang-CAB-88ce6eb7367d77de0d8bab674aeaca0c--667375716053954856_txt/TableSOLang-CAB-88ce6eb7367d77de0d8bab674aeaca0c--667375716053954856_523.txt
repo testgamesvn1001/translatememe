@@ -1,0 +1,184 @@
+     1 string schinese_censored = "一会儿厨师就能上菜了，10分钟后我来找你，咱们去吃饭了"
+     1 string english = "The food is being served in a bit. I'll come find you in 10 minutes and then we can eat!"
+     1 string japanese = "もうすぐで料理ができるみたい。１０分後にまた来るから、一緒に食べに行こう！"
+     1 string mchinese = "一會兒廚師就能上菜了，10分鐘後我來找你，咱們去吃飯了"
+   [12005]
+    0 TableSoItemLang data
+     0 int id = 1022006
+     1 string schinese = "嗯嗯"
+     1 string schinese_censored = "嗯嗯"
+     1 string english = "Great."
+     1 string japanese = "うん！"
+     1 string mchinese = "嗯嗯"
+   [12006]
+    0 TableSoItemLang data
+     0 int id = 1022007
+     1 string schinese = "哇！你家的房子好大呀！还带游泳池的！"
+     1 string schinese_censored = "哇！你家的房子好大呀！还带游泳池的！"
+     1 string english = "Wow! Your house is huge! You even have a swimming pool!"
+     1 string japanese = "わあ！大きい家！プールまである！"
+     1 string mchinese = "哇！你家的房子好大呀！還帶游泳池的！"
+   [12007]
+    0 TableSoItemLang data
+     0 int id = 1022008
+     1 string schinese = "一般啦，主要是我爸妈看上这游泳池了。"
+     1 string schinese_censored = "一般啦，主要是我爸妈看上这游泳池了。"
+     1 string english = "That's normal. My parents really like swimming so they bought this house!"
+     1 string japanese = "まあね。プールがあるからこの家にしたんだって。"
+     1 string mchinese = "一般啦，主要是我爸媽看上這游泳池了。"
+   [12008]
+    0 TableSoItemLang data
+     0 int id = 1022009
+     1 string schinese = "你也快去玩吧，看汤金娜她们玩的多开心~"
+     1 string schinese_censored = "你也快去玩吧，看汤金娜她们玩的多开心~"
+     1 string english = "Go play. Look at how much fun Yeena and them are having."
+     1 string japanese = "キミも遊びに行ったら？ジンナさんたちは楽しそうに遊んでるよ！"
+     1 string mchinese = "你也快去玩吧，看湯金娜她們玩的多開心~"
+   [12009]
+    0 TableSoItemLang data
+     0 int id = 1022010
+     1 string schinese = "这次的聚会只邀请了少数的同学，这次咱们可以尽情的玩咯~"
+     1 string schinese_censored = "这次的聚会只邀请了少数的同学，这次咱们可以尽情的玩咯~"
+     1 string english = "I only invited a few students to this party so play to your heart's content."
+     1 string japanese = "今回のパーティーは少ししか誘ってないからね。思いっ切り遊べるよ！"
+     1 string mchinese = "這次的聚會只邀請了少數的同學，這次咱們可以盡情的玩咯~"
+   [12010]
+    0 TableSoItemLang data
+     0 int id = 1022011
+     1 string schinese = "谢谢你能邀请我~"
+     1 string schinese_censored = "谢谢你能邀请我~"
+     1 string english = "Thank you for inviting me!"
+     1 string japanese = "誘ってくれてありがとう！"
+     1 string mchinese = "謝謝你能邀請我~"
+   [12011]
+    0 TableSoItemLang data
+     0 int id = 1022012
+     1 string schinese = "你上次在泳池上你也很活跃，以前接触不多，现在算是重新认识啦~"
+     1 string schinese_censored = "你上次在泳池上你也很活跃，以前接触不多，现在算是重新认识啦~"
+     1 string english = "You were really enjoying yourself at the pool party. We weren't friends before but I'm glad we got to know each other."
+     1 string japanese = "この前はプールですごく楽しんでたし、あまり話せなかったよね。改めて、よろしく！"
+     1 string mchinese = "你上次在泳池上你也很活躍，以前接觸不多，現在算是重新認識啦~"
+   [12012]
+    0 TableSoItemLang data
+     0 int id = 1022013
+     1 string schinese = "嗯~以后多指教哦~"
+     1 string schinese_censored = "嗯~以后多指教哦~"
+     1 string english = "Yes, I hope we can become better friends."
+     1 string japanese = "うん！これからもよろしく！"
+     1 string mchinese = "嗯~以後多指教哦~"
+   [12013]
+    0 TableSoItemLang data
+     0 int id = 1022014
+     1 string schinese = "冰冰的好舒服~"
+     1 string schinese_censored = "冰冰的好舒服~"
+     1 string english = "So cool and comfy."
+     1 string japanese = "冷たくて気持ちいい！"
+     1 string mchinese = "冰冰的好舒服~"
+   [12014]
+    0 TableSoItemLang data
+     0 int id = 1022015
+     1 string schinese = "夏天最舒服的事情就是泡在泳池里吃西瓜了~来，刚才地窖里拿出来~"
+     1 string schinese_censored = "夏天最舒服的事情就是泡在泳池里吃西瓜了~来，刚才地窖里拿出来~"
+     1 string english = "The best thing about summer is being in a swimming pool eating watermelon. I just took this one out from our basement."
+     1 string japanese = "夏を気持ち良く過ごすには、プールでスイカを食べる事だね。はい、さっきまで冷やしてたスイカだよ！"
+     1 string mchinese = "夏天最舒服的事情就是泡在泳池裏吃西瓜了~來，剛才地窖裏拿出來~"
+   [12015]
+    0 TableSoItemLang data
+     0 int id = 1022016
+     1 string schinese = "谢谢~真是惬意的人生呢~"
+     1 string schinese_censored = "谢谢~真是惬意的人生呢~"
+     1 string english = "Thank you! This is the life!"
+     1 string japanese = "ありがとう！最高ね！"
+     1 string mchinese = "謝謝~真是愜意的人生呢~"
+   [12016]
+    0 TableSoItemLang data
+     0 int id = 1022017
+     1 string schinese = "哇~这个城市尽收眼底~"
+     1 string schinese_censored = "哇~这个城市尽收眼底~"
+     1 string english = "Wow, the view of this city!"
+     1 string japanese = "わあ、街が見渡せる！"
+     1 string mchinese = "哇~這個城市盡收眼底~"
+   [12017]
+    0 TableSoItemLang data
+     0 int id = 1022018
+     1 string schinese = "而我的眼里是我的整个世界~（视线盯着）"
+     1 string schinese_censored = "而我的眼里是我的整个世界~（视线盯着）"
+     1 string english = "What I see now is my whole world (looks at you)."
+     1 string japanese = "僕の目にも世界が映ってるよ(こちらを見つめている)"
+     1 string mchinese = "而我的眼裏是我的整個世界~（視線盯著）"
+   [12018]
+    0 TableSoItemLang data
+     0 int id = 1022019
+     1 string schinese = "听说你上次考试没有考好，正好这次我爸妈给我准备了家教，以后跟我一起上课~下次考试一定让你考好"
+     1 string schinese_censored = "听说你上次考试没有考好，正好这次我爸妈给我准备了家教，以后跟我一起上课~下次考试一定让你考好"
+     1 string english = "My parents have hired a personal tutor for me. How about you come and study with me?"
+     1 string japanese = "この前の試験結果が悪かったみたいだね。ちょうど親が家庭教師を雇ってくれたんだ。一緒に勉強しよう！次は絶対に良くなるよ！"
+     1 string mchinese = "聽說你上次考試沒有考好，正好這次我爸媽給我準備了家教，以後跟我一起上課~下次考試一定讓你考好"
+   [12019]
+    0 TableSoItemLang data
+     0 int id = 1022020
+     1 string schinese = "……好吧"
+     1 string schinese_censored = "……好吧"
+     1 string english = "Okay..."
+     1 string japanese = "…そうね。"
+     1 string mchinese = "……好吧"
+   [12020]
+    0 TableSoItemLang data
+     0 int id = 1022021
+     1 string schinese = "没有打过高尔夫么？来我来教你……双脚分开站立，手拿着杆子，这样挥杆……"
+     1 string schinese_censored = "没有打过高尔夫么？来我来教你……双脚分开站立，手拿着杆子，这样挥杆……"
+     1 string english = "Have you played golf before? Let me teach you. Spread your feet shoulder-width apart and hold the club. Then swing it like this..."
+     1 string japanese = "ゴルフをやったことはある？教えてあげるよ！まずは足を広げて立って、クラブを持って、こうスイングしてみて。"
+     1 string mchinese = "沒有打過高爾夫麼？來我來教你……雙腳分開站立，手拿著杆子，這樣揮杆……"
+   [12021]
+    0 TableSoItemLang data
+     0 int id = 1022022
+     1 string schinese = "喔！球飞出去了~"
+     1 string schinese_censored = "喔！球飞出去了~"
+     1 string english = "Wow! I hit the ball!"
+     1 string japanese = "やった！飛んだよ！"
+     1 string mchinese = "喔！球飛出去了~"
+   [12022]
+    0 TableSoItemLang data
+     0 int id = 1022023
+     1 string schinese = "对，就是这样练习，很有天赋的样子，自己练习一下吧~"
+     1 string schinese_censored = "对，就是这样练习，很有天赋的样子，自己练习一下吧~"
+     1 string english = "Yes, just practice like that. You seem to have quite the talent!"
+     1 string japanese = "すごい！今みたいに練習すればいいよ。センスはあるし、きっとすぐ上手くなるよ！"
+     1 string mchinese = "對，就是這樣練習，很有天賦的樣子，自己練習一下吧~"
+   [12023]
+    0 TableSoItemLang data
+     0 int id = 1022024
+     1 string schinese = "（图书馆中，大家都在安静的看书，巨大的落地窗透进来的阳光充满了整个空间，书架的一隅……）"
+     1 string schinese_censored = "（图书馆中，大家都在安静的看书，巨大的落地窗透进来的阳光充满了整个空间，书架的一隅……）"
+     1 string english = "(In the library, everyone is studying in silence. From a French window, sunlight flows in and brightens up the whole room. In one section of the library...)"
+     1 string japanese = "図書館で、みんなが静かに本を読んでいる。大きな窓から差し込む光が空間を満たす。そして、ある本棚の隅で…"
+     1 string mchinese = "（圖書館中，大家都在安靜的看書，巨大的落地窗透進來的陽光充滿了整個空間，書架的一隅……）"
+   [12024]
+    0 TableSoItemLang data
+     0 int id = 1022025
+     1 string schinese = "（小声）咦？那本书应该在这附近的吧？去哪儿了呢？………………啊！找到了！"
+     1 string schinese_censored = "（小声）咦？那本书应该在这附近的吧？去哪儿了呢？………………啊！找到了！"
+     1 string english = "(In a low voice) The book should be around here? Where is it? Oh! Here it is!"
+     1 string japanese = "（小声）あれ？あの本どこにいったんだろ？あっ…あった！"
+     1 string mchinese = "（小聲）咦？那本書應該在這附近的吧？去哪兒了呢？………………啊！找到了！"
+   [12025]
+    0 TableSoItemLang data
+     0 int id = 1022026
+     1 string schinese = "（有两只手同时伸向刚才的那本书……）"
+     1 string schinese_censored = "（有两只手同时伸向刚才的那本书……）"
+     1 string english = "(Two hands reach for the same book...)"
+     1 string japanese = "二人同時に本へ手を伸ばす…"
+     1 string mchinese = "（有兩只手同時伸向剛才的那本書……）"
+   [12026]
+    0 TableSoItemLang data
+     0 int id = 1022027
+     1 string schinese = "啊，是江寒波同学……不好意思，这本书我着急看，能先让给我吗？"
+     1 string schinese_censored = "啊，是江寒波同学……不好意思，这本书我着急看，能先让给我吗？"
+     1 string english = "Oh, if it isn't Hans. I'm sorry but can I check this book out first?"
+     1 string japanese = "あ、ハンボくんだよね…ごめん。どうしても読みたいから、譲ってくれない？"
+     1 string mchinese = "啊，是江寒波同學……不好意思，這本書我著急看，能先讓給我嗎？"
+   [12027]
+    0 TableSoItemLang data
+     0 int id = 1022028
+     1 string schinese = "……你先看吧。"

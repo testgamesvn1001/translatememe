@@ -1,0 +1,184 @@
+     1 string schinese_censored = "苹果账号登录"
+     1 string english = "iOS Log In"
+     1 string japanese = "Ａｐｐｌｅアカウントでログイン"
+     1 string mchinese = "蘋果帳號登錄"
+   [21596]
+    0 TableSoItemLang data
+     0 int id = 6600210
+     1 string schinese = "授权已过期，请重新登录"
+     1 string schinese_censored = "授权已过期，请重新登录"
+     1 string english = "Permissions timed out. Please login again."
+     1 string japanese = "ライセンス期限が切れています。再度ログインしてください"
+     1 string mchinese = "授權已過期，請重新登錄"
+   [21597]
+    0 TableSoItemLang data
+     0 int id = 6600211
+     1 string schinese = "还有多余的行动力，请继续挖掘！"
+     1 string schinese_censored = "还有多余的行动力，请继续挖掘！"
+     1 string english = "You still have Action points; go absorb some more fragments!"
+     1 string japanese = "行動力が余ってるぞ。もっとカケラを吸収しよう！"
+     1 string mchinese = "還有多餘的行動力，請繼續挖掘！"
+   [21598]
+    0 TableSoItemLang data
+     0 int id = 6600212
+     1 string schinese = "还有剩余的位置，请继续安排！"
+     1 string schinese_censored = "还有剩余的位置，请继续安排！"
+     1 string english = "Your schedule isn't full yet!"
+     1 string japanese = "予定が埋まってないぞ。もっと埋めよう！"
+     1 string mchinese = "還有剩餘的位置，請繼續安排！"
+   [21599]
+    0 TableSoItemLang data
+     0 int id = 6600213
+     1 string schinese = "暂无邀约，下回合再来看看吧~"
+     1 string schinese_censored = "暂无邀约，下回合再来看看吧~"
+     1 string english = "You have no invitations; check back next turn."
+     1 string japanese = "お誘いは届いてないぞ。次のターンに来てね！"
+     1 string mchinese = "暫無邀約，下回合再來看看吧~"
+   [21600]
+    0 TableSoItemLang data
+     0 int id = 6600214
+     1 string schinese = "满意度"
+     1 string schinese_censored = "满意度"
+     1 string english = "Satisfaction"
+     1 string japanese = "満足度"
+     1 string mchinese = "滿意度"
+   [21601]
+    0 TableSoItemLang data
+     0 int id = 6600215
+     1 string schinese = "正在启动，请稍后..."
+     1 string schinese_censored = "正在启动，请稍后..."
+     1 string english = "Activating, please wait..."
+     1 string japanese = "アクティベーション中です…しばらくお待ちください"
+     1 string mchinese = "正在啟動，請稍後..."
+   [21602]
+    0 TableSoItemLang data
+     0 int id = 6600216
+     1 string schinese = "适度娱乐，理性消费"
+     1 string schinese_censored = "适度娱乐，理性消费"
+     1 string english = "簡中專用字段，英文不用翻譯6600216"
+     1 string japanese = "簡中專用字段，英文不用翻譯"
+     1 string mchinese = "適度娛樂，理性消費"
+   [21603]
+    0 TableSoItemLang data
+     0 int id = 6600217
+     1 string schinese = "本游戏适合全年龄的用户使用；为了您的健康，请合理控制游戏时间。"
+     1 string schinese_censored = "本游戏适合全年龄的用户使用；为了您的健康，请合理控制游戏时间。"
+     1 string english = "簡中專用字段，英文不用翻譯6600217"
+     1 string japanese = "簡中專用字段，英文不用翻譯"
+     1 string mchinese = "本遊戲適合全年齡的用戶使用；為了您的健康，請合理控制遊戲時間。"
+   [21604]
+    0 TableSoItemLang data
+     0 int id = 6600218
+     1 string schinese = "客服QQ："
+     1 string schinese_censored = " "
+     1 string english = "簡中專用字段，英文不用翻譯6600218"
+     1 string japanese = "簡中專用字段，英文不用翻譯"
+     1 string mchinese = "客服QQ："
+   [21605]
+    0 TableSoItemLang data
+     0 int id = 6600219
+     1 string schinese = "下面请再挖几次脑洞吧。"
+     1 string schinese_censored = "下面请再挖几次脑洞吧。"
+     1 string english = "Now, go ahead and absorb a few fragments."
+     1 string japanese = "次はカケラを吸収しよう。"
+     1 string mchinese = "下麵請再挖幾次腦洞吧。"
+   [21606]
+    0 TableSoItemLang data
+     0 int id = 6600220
+     1 string schinese = "下面，让我们用学习和娱乐将日程排满吧！"
+     1 string schinese_censored = "下面，让我们用学习和娱乐将日程排满吧！"
+     1 string english = "Fill up your schedule with study and entertainment!"
+     1 string japanese = "勉強と娯楽で予定を埋めよう！"
+     1 string mchinese = "下麵，讓我們用學習和娛樂將日程排滿吧！"
+   [21607]
+    0 TableSoItemLang data
+     0 int id = 6600221
+     1 string schinese = "技能"
+     1 string schinese_censored = "技能"
+     1 string english = "Skills"
+     1 string japanese = "スキル"
+     1 string mchinese = "技能"
+   [21608]
+    0 TableSoItemLang data
+     0 int id = 6600222
+     1 string schinese = "请挖取一个悟性脑洞吧。"
+     1 string schinese_censored = "请挖取一个悟性脑洞吧。"
+     1 string english = "Go ahead and absorb a Knowledge Fragment."
+     1 string japanese = "理解力のカケラを吸収しよう。"
+     1 string mchinese = "請挖取一個悟性腦洞吧。"
+   [21609]
+    0 TableSoItemLang data
+     0 int id = 6600223
+     1 string schinese = "花式炫孩"
+     1 string schinese_censored = "花式炫孩"
+     1 string english = "My Kid Rules"
+     1 string japanese = "おしゃれな子"
+     1 string mchinese = "花式炫孩"
+   [21610]
+    0 TableSoItemLang data
+     0 int id = 6600224
+     1 string schinese = "我们家孩子跟别的孩子就是不一样"
+     1 string schinese_censored = "我们家孩子跟别的孩子就是不一样"
+     1 string english = "Our child is a cut above the rest."
+     1 string japanese = "うちの子は他の子とは違うの"
+     1 string mchinese = "我們家孩子跟別的孩子就是不一樣"
+   [21611]
+    0 TableSoItemLang data
+     0 int id = 6600225
+     1 string schinese = "幼儿神童"
+     1 string schinese_censored = "幼儿神童"
+     1 string english = "Child Prodigy"
+     1 string japanese = "神童"
+     1 string mchinese = "幼兒神童"
+   [21612]
+    0 TableSoItemLang data
+     0 int id = 6600226
+     1 string schinese = "哭声洪亮"
+     1 string schinese_censored = "哭声洪亮"
+     1 string english = "Bawl Your Eyes Out"
+     1 string japanese = "驚異的な泣き声"
+     1 string mchinese = "哭聲洪亮"
+   [21613]
+    0 TableSoItemLang data
+     0 int id = 6600227
+     1 string schinese = "比谁都能吃"
+     1 string schinese_censored = "比谁都能吃"
+     1 string english = "Super Eater"
+     1 string japanese = "何でも食べる"
+     1 string mchinese = "比誰都能吃"
+   [21614]
+    0 TableSoItemLang data
+     0 int id = 6600228
+     1 string schinese = "三岁识千字"
+     1 string schinese_censored = "三岁识千字"
+     1 string english = "Early Reader"
+     1 string japanese = "三歳で千の言葉を知る"
+     1 string mchinese = "三歲識千字"
+   [21615]
+    0 TableSoItemLang data
+     0 int id = 6600229
+     1 string schinese = "习得<color=#EB7350>{0}</color>后解锁"
+     1 string schinese_censored = "习得<color=#EB7350>{0}</color>后解锁"
+     1 string english = "Learn <color=#EB7350>{0}</color> to unlock."
+     1 string japanese = "<color=#EB7350>{0}</color>を習得するとアンロック"
+     1 string mchinese = "習得<color=#EB7350>{0}</color>後解鎖"
+   [21616]
+    0 TableSoItemLang data
+     0 int id = 6600230
+     1 string schinese = "零花钱/回合"
+     1 string schinese_censored = "零花钱/回合"
+     1 string english = "Money/Turn"
+     1 string japanese = "お小遣い/ターン"
+     1 string mchinese = "零花錢/回合"
+   [21617]
+    0 TableSoItemLang data
+     0 int id = 6600231
+     1 string schinese = "感谢您参与本次测试，请您关注官方公告和网站以获得最新消息！"
+     1 string schinese_censored = "您可以免费体验的代际数已经达到上限，请购买解锁游戏或者前往邀请新朋友来给你助力获取体验下一代的权限吧~"
+     1 string english = "簡中專用字段，英文不用翻譯6600231"
+     1 string japanese = "簡中專用字段，英文不用翻譯"
+     1 string mchinese = "感謝您參與本次測試，請您關注官方公告和網站以獲得最新消息！"
+   [21618]
+    0 TableSoItemLang data
+     0 int id = 6600232
+     1 string schinese = "加入他们"

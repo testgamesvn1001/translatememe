@@ -1,0 +1,184 @@
+     1 string schinese_censored = "你发现身体有些地方和以前不一样了，但是又羞于启齿不好意思和父母说"
+     1 string english = "Your body begins to change in various places, but you're too shy to tell your parents about it."
+     1 string japanese = "体のどこかが変化している。だが、恥ずかしくて親に言えなかった。"
+     1 string mchinese = "你發現身體有些地方和以前不一樣了，但是又羞於啟齒不好意思和父母說"
+   [7727]
+    0 TableSoItemLang data
+     0 int id = 1017728
+     1 string schinese = "父母每次意见不和时你都会选边站队，以此巩固自己的地位，不过有时会因为观察不清形势而挨揍"
+     1 string schinese_censored = "父母每次意见不和时你都会选边站队，以此巩固自己的地位，不过有时会因为观察不清形势而出问题"
+     1 string english = "Whenever your parents argue, you choose a side depending on the situation."
+     1 string japanese = "両親が喧嘩を始めると、あなたはどちらかを選び同盟を結ぶ。地位固めが成功することもあれば、失敗して殴られることもあった"
+     1 string mchinese = "父母每次意見不和時你都會選邊站隊，以此鞏固自己的地位，不過有時會因為觀察不清形勢而挨揍"
+   [7728]
+    0 TableSoItemLang data
+     0 int id = 1017729
+     1 string schinese = "一些女生觉得和女生打交道太麻烦，所以反而和男生玩得更多。"
+     1 string schinese_censored = "一些女生觉得和女生打交道太麻烦，所以反而和男生玩得更多。"
+     1 string english = "Some girls think talking to other girls is annoying, so they spend more time with guys."
+     1 string japanese = "女の子同士の付き合いが面倒くさくて、よく男の子と遊ぶ女の子がいる。"
+     1 string mchinese = "一些女生覺得和女生打交道太麻煩，所以反而和男生玩得更多。"
+   [7729]
+    0 TableSoItemLang data
+     0 int id = 1017730
+     1 string schinese = "串门的时候被一些爷爷奶奶说“女娃读书没用”，但爸妈说“不要听他们乱讲，好好读书才有出息”。\n——改编自 <color=#18AF46> @咪呜Mew </color> 的故事"
+     1 string schinese_censored = "串门的时候被一些爷爷奶奶说“女娃读书没用”，但爸妈说“不要听他们乱讲，好好读书才有出息”。"
+     1 string english = "A bunch of oldies say "girls shouldn't read", but your parents say to ignore them and just read."
+     1 string japanese = "親戚の家に行くとお年寄りに「女の子は勉強しても無駄だ」と言われた。親に「無視しろ。勉強ができれば出世できる」と強く言われた。"
+     1 string mchinese = "串門的時候被一些爺爺奶奶說“女娃讀書沒用”，但爸媽說“不要聽他們亂講，好好讀書才有出息”。\n——改編自 <color=#18AF46> @咪嗚Mew </color> 的故事"
+   [7730]
+    0 TableSoItemLang data
+     0 int id = 1017731
+     1 string schinese = "你和同桌男生兴趣相投，聊天聊得很开心，结果却被老师误会是早恋而找了家长。\n——改编自 <color=#18AF46> @董姝言要可爱 </color> 的故事"
+     1 string schinese_censored = "你和同桌男生兴趣相投，聊天聊得很开心，结果却被老师误会是早恋而找了家长。"
+     1 string english = "You get on well with a deskmate, and the teacher thinks you are a couple—a much too young one."
+     1 string japanese = "隣の席の男の子と話が合って、好きな話題で盛り上がった。先生に恋をするには早すぎると親を呼び出された。"
+     1 string mchinese = "你和同桌男生興趣相投，聊天聊得很開心，結果卻被老師誤會是早戀而找了家長。\n——改編自 <color=#18AF46> @董姝言要可愛 </color> 的故事"
+   [7731]
+    0 TableSoItemLang data
+     0 int id = 1017732
+     1 string schinese = "你和班级里的关系好的女生们一起组建了“家族”，女生们之间会互相称呼“老婆”、“媳妇”之类的。"
+     1 string schinese_censored = "你和班级里的关系好的女生们一起组建了“家族”，女生们之间会互相称呼“老婆”、“媳妇”之类的。"
+     1 string english = "You start a 'household' with a few of the girls in your class, calling each other 'mom', etc."
+     1 string japanese = "クラスの仲がいい女の子で「家族｣を作った。みんながお互いを「ダーリン」、「うちの嫁」などで呼び合った。"
+     1 string mchinese = "你和班級裏的關係好的女生們一起組建了“家族”，女生們之間會互相稱呼“老婆”、“媳婦”之類的。"
+   [7732]
+    0 TableSoItemLang data
+     0 int id = 1017733
+     1 string schinese = "你闭着眼做眼保健操的时候，听到其他班过来值日检查的同学轻轻感叹班里的一个男生很帅。"
+     1 string schinese_censored = "你闭着眼做眼保健操的时候，听到其他班过来值日检查的同学轻轻感叹班里的一个男生很帅。"
+     1 string english = "As you perform eye exercises, you hear the on-duty students sigh and say "That's a hot guy.""
+     1 string japanese = "目を閉じて眼保健操をやっていると、他のクラスの子が、あなたのクラスの男の子がカッコイイと言っているのを聞いた。"
+     1 string mchinese = "你閉著眼做眼保健操的時候，聽到其他班過來值日檢查的同學輕輕感歎班裏的一個男生很帥。"
+   [7733]
+    0 TableSoItemLang data
+     0 int id = 1017734
+     1 string schinese = "刚入学时比自己矮了一头的男生，不知道什么时候已经一米八了。"
+     1 string schinese_censored = "刚入学时比自己矮了一头的男生，不知道什么时候已经一米八了。"
+     1 string english = "A student who was shorter than you by a head, has suddenly grown to be 180cm tall."
+     1 string japanese = "入学時はあなたより背の低かった男の子が、いつの間にか１８０センチになっていた。"
+     1 string mchinese = "剛入學時比自己矮了一頭的男生，不知道什麼時候已經一米八了。"
+   [7734]
+    0 TableSoItemLang data
+     0 int id = 1017735
+     1 string schinese = "初中开始，男女生体育课要分开上了。"
+     1 string schinese_censored = "初中开始，男女生体育课要分开上了。"
+     1 string english = "In junior high school the boys and girls take physical education in seperate classes."
+     1 string japanese = "中学校から男の子と女の子は分かれて体育をするようになった。"
+     1 string mchinese = "初中開始，男女生體育課要分開上了。"
+   [7735]
+    0 TableSoItemLang data
+     0 int id = 1017736
+     1 string schinese = "到了教室才发现今天出门忘记戴文胸，于是整天都遮遮掩掩不敢和别人接触。闺蜜安慰你说别在意，看上去根本没有区别。"
+     1 string schinese_censored = "到了教室才发现今天出门忘记戴文胸，于是整天都遮遮掩掩不敢和别人接触。闺蜜安慰你说别在意，看上去根本没有区别。"
+     1 string english = "As you enter the classroom, you realize you forgot to wear a bra. Luckily, no one notices."
+     1 string japanese = "教室に入ってからブラを忘れたことに気づいた。一日中気にしていたが、親友に「大丈夫。全然わからないから」と言われた。"
+     1 string mchinese = "到了教室才發現今天出門忘記戴文胸，於是整天都遮遮掩掩不敢和別人接觸。閨蜜安慰你說別在意，看上去根本沒有區別。"
+   [7736]
+    0 TableSoItemLang data
+     0 int id = 1017737
+     1 string schinese = "午休的时候好好的，突然你后排的男生恶作剧地弹了你的内衣肩带。"
+     1 string schinese_censored = "午休的时候好好的，突然你后排的男生恶作剧地弹了你的内衣肩带。"
+     1 string english = "You rest well during the midday rest, but then a classmate pulls your bra string."
+     1 string japanese = "昼休み、後ろの男の子が急にブラの紐を引っ張った。"
+     1 string mchinese = "午休的時候好好的，突然你後排的男生惡作劇地彈了你的內衣肩帶。"
+   [7737]
+    0 TableSoItemLang data
+     0 int id = 1017738
+     1 string schinese = "去闺蜜家过夜，开开心心聊了个通宵。"
+     1 string schinese_censored = "去闺蜜家过夜，开开心心聊了个通宵。"
+     1 string english = "You spend the night at your best friend's home. You talk happily through the night."
+     1 string japanese = "親友の家に泊まって夜通し話した。"
+     1 string mchinese = "去閨蜜家過夜，開開心心聊了個通宵。"
+   [7738]
+    0 TableSoItemLang data
+     0 int id = 1017739
+     1 string schinese = "口袋里的卫生巾不小心掉了出来，后排男生还给你的时候说“你餐巾纸掉了”。"
+     1 string schinese_censored = "口袋里的卫生巾不小心掉了出来，后排男生还给你的时候说“你餐巾纸掉了”。"
+     1 string english = "You drop a sanitary towel, a boy hands it back and says "You dropped your napkin.""
+     1 string japanese = "ナプキンがポケットから落ちた。それを拾った男の子は「ティッシュ落としたよ」と言ってくれた。"
+     1 string mchinese = "口袋裏的衛生巾不小心掉了出來，後排男生還給你的時候說“你餐巾紙掉了”。"
+   [7739]
+    0 TableSoItemLang data
+     0 int id = 1017740
+     1 string schinese = "同学之间开始流行性格测试星座测试的杂志，而且大家对内容深信不疑。\n——改编自 <color=#18AF46> @RipoA </color> 的故事"
+     1 string schinese_censored = "同学之间开始流行性格测试星座测试的杂志，而且大家对内容深信不疑。"
+     1 string english = "Students begin reading personality and constellation magazines and they believe it all."
+     1 string japanese = "同級生の間で星座占いの雑誌が流行り始めた。それを疑いなく信じているみんなが面白い。"
+     1 string mchinese = "同學之間開始流行性格測試星座測試的雜誌，而且大家對內容深信不疑。\n——改編自 <color=#18AF46> @RipoA </color> 的故事"
+   [7740]
+    0 TableSoItemLang data
+     0 int id = 1017741
+     1 string schinese = "同学们已经不满足于看言情小说了，甚至开始互相交流自己写的玛丽苏文。\n——改编自 <color=#18AF46> @黄粗糙 </color> 的故事"
+     1 string schinese_censored = "同学们已经不满足于看小说了，甚至开始互相交流自己写的玛丽苏文。"
+     1 string english = "Reading romantic novels is no longer enough, some students begin writing their own!"
+     1 string japanese = "単なる恋愛小説では物足りなくて、あなたたちは自らの恋愛小説を書き始めた。"
+     1 string mchinese = "同學們已經不滿足於看言情小說了，甚至開始互相交流自己寫的瑪麗蘇文。\n——改編自 <color=#18AF46> @黃粗糙 </color> 的故事"
+   [7741]
+    0 TableSoItemLang data
+     0 int id = 1017742
+     1 string schinese = "和非常聊得来的同学约好，要努力考取同一所学校。"
+     1 string schinese_censored = "和非常聊得来的同学约好，要努力考取同一所学校。"
+     1 string english = "You and a friend with whom you can talk about anything, promise to get into the same school."
+     1 string japanese = "仲のいい同級生とお互いに頑張って同じ学校に行く約束をした。"
+     1 string mchinese = "和非常聊得來的同學約好，要努力考取同一所學校。"
+   [7742]
+    0 TableSoItemLang data
+     0 int id = 1017743
+     1 string schinese = "自己内心不想做某些事情，为了获得父母奖励而勉强自己，父母很欣慰，觉得你变得懂事"
+     1 string schinese_censored = "自己内心不想做某些事情，为了获得父母奖励而勉强自己，父母很欣慰，觉得你变得懂事"
+     1 string english = "You force yourself to do things you'd rather not just to get your parents approval."
+     1 string japanese = "本当はやりたくないことだったのだが、親のために渋々やった。それを見た両親はあなたが大人になったと、ホッとしている。"
+     1 string mchinese = "自己內心不想做某些事情，為了獲得父母獎勵而勉強自己，父母很欣慰，覺得你變得懂事"
+   [7743]
+    0 TableSoItemLang data
+     0 int id = 1017744
+     1 string schinese = "自我展示总是让你害怕，你觉得自己配不上展示自己，没有优点。父母觉得你很谦虚低调，自己的教育成果卓著"
+     1 string schinese_censored = "自我展示总是让你害怕，你觉得自己配不上展示自己，没有优点。父母觉得你很谦虚低调，自己的教育成果卓著"
+     1 string english = "Presentations make you afraid. Your parents say you're just modest and they've taught you well."
+     1 string japanese = "あなたは自分の長所がわからないから、自己アピールが苦手だ。親は、「素晴らしい教育で謙虚な子に育った」と自慢しているらしい。"
+     1 string mchinese = "自我展示總是讓你害怕，你覺得自己配不上展示自己，沒有優點。父母覺得你很謙虛低調，自己的教育成果卓著"
+   [7744]
+    0 TableSoItemLang data
+     0 int id = 1017745
+     1 string schinese = "你总是变得紧张，每次受到关注就变得不自在，你父母觉得你老实本分，随他"
+     1 string schinese_censored = "你总是变得紧张，每次受到关注就变得不自在，你父母觉得你老实本分，随他"
+     1 string english = "You feel nervous whenever you're the center of attention. Your parents say you're modest."
+     1 string japanese = "緊張しやすいあなたは、注目されると居ても立っても居られなくなる。親はあなたを大人しい子だと思い、特に気にしていない。"
+     1 string mchinese = "你總是變得緊張，每次受到關注就變得不自在，你父母覺得你老實本分，隨他"
+   [7745]
+    0 TableSoItemLang data
+     0 int id = 1017746
+     1 string schinese = "你觉得同学好优秀，羡慕又嫉妒，不希望变得比你更好。父母觉得你还是不够努力，努力就一定能成功"
+     1 string schinese_censored = "你觉得同学好优秀，羡慕又嫉妒，不希望变得比你更好。父母觉得你还是不够努力，努力就一定能成功"
+     1 string english = "You think your classmate is great at everything, so you feel envy and want to better yourself."
+     1 string japanese = "優秀な子に対して嫉妬心が芽生えた。自分より優秀な人はいらない。「努力が足りないだけ。もっと努力すれば必ず報われる」と親に言われた。"
+     1 string mchinese = "你覺得同學好優秀，羡慕又嫉妒，不希望變得比你更好。父母覺得你還是不夠努力，努力就一定能成功"
+   [7746]
+    0 TableSoItemLang data
+     0 int id = 1017747
+     1 string schinese = "每次当别人夸奖你的时候，你都自嘲一番，觉得自己并不值得夸奖。朋友也都不愿意夸你了"
+     1 string schinese_censored = "每次当别人夸奖你的时候，你都自嘲一番，觉得自己并不值得夸奖。朋友也都不愿意夸你了"
+     1 string english = "You always belittle yourself whenever someone praises you as you don't feel yourself worthy."
+     1 string japanese = "褒められる度に「私なんて」と自虐した。あなたを褒める友達がだんだん減っていった。"
+     1 string mchinese = "每次當別人誇獎你的時候，你都自嘲一番，覺得自己並不值得誇獎。朋友也都不願意誇你了"
+   [7747]
+    0 TableSoItemLang data
+     0 int id = 1017748
+     1 string schinese = "有个衣着朴素的同学，因为买了昂贵的书籍，被同学指指点点。他只是想告诉大家，他们家不穷。"
+     1 string schinese_censored = "有个衣着朴素的同学，因为买了昂贵的书籍，被同学指指点点。他只是想告诉大家，他们家不穷。"
+     1 string english = "The students with less fancy things always get pointed at by the richer students."
+     1 string japanese = "地味な格好の同級生が急に高い本を買ってきた。みんな不思議に思ったが、貧乏じゃないことをアピールするためだった。"
+     1 string mchinese = "有個衣著樸素的同學，因為買了昂貴的書籍，被同學指指點點。他只是想告訴大家，他們家不窮。"
+   [7748]
+    0 TableSoItemLang data
+     0 int id = 1017749
+     1 string schinese = "跑调了吗？我没跑调啊！戴着耳机，你就觉得自己是歌神！"
+     1 string schinese_censored = "跑调了吗？我没跑调啊！戴着耳机，你就觉得自己是歌神！"
+     1 string english = "Out of tune? Never! Just wear a pair of earphones and you'll think you're a singing god!"
+     1 string japanese = "音程が外れた？いや外れていない！イヤホンをつければ、あなたもまるで歌手のようだ！"
+     1 string mchinese = "跑調了嗎？我沒跑調啊！戴著耳機，你就覺得自己是歌神！"
+   [7749]
+    0 TableSoItemLang data
+     0 int id = 1017750
+     1 string schinese = "同学让你一起排挤一个同学，不许别人理他！你觉得这样很残忍"

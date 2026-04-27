@@ -1,0 +1,184 @@
+     1 string schinese_censored = "超文本预处理"
+     1 string english = "PHP Language"
+     1 string japanese = "ＰＨＰ言語"
+     1 string mchinese = "超文本預處理"
+   [6485]
+    0 TableSoItemLang data
+     0 int id = 1016486
+     1 string schinese = "数据库基础"
+     1 string schinese_censored = "数据库基础"
+     1 string english = "Databases 101"
+     1 string japanese = "データベース基礎"
+     1 string mchinese = "資料庫基礎"
+   [6486]
+    0 TableSoItemLang data
+     0 int id = 1016487
+     1 string schinese = "代码大全"
+     1 string schinese_censored = "代码大全"
+     1 string english = "All About Coding"
+     1 string japanese = "コード大全"
+     1 string mchinese = "代碼大全"
+   [6487]
+    0 TableSoItemLang data
+     0 int id = 1016488
+     1 string schinese = "算法导论"
+     1 string schinese_censored = "算法导论"
+     1 string english = "Algorithms 101"
+     1 string japanese = "アルゴリズム理論"
+     1 string mchinese = "演算法導論"
+   [6488]
+    0 TableSoItemLang data
+     0 int id = 1016489
+     1 string schinese = "游戏引擎架构"
+     1 string schinese_censored = "游戏引擎架构"
+     1 string english = "Game Engine Architecture"
+     1 string japanese = "ゲームエンジン"
+     1 string mchinese = "遊戲引擎架構"
+   [6489]
+    0 TableSoItemLang data
+     0 int id = 1016490
+     1 string schinese = "独立游戏文化"
+     1 string schinese_censored = "独立游戏文化"
+     1 string english = "Indie Game Culture"
+     1 string japanese = "インディー文化"
+     1 string mchinese = "獨立遊戲文化"
+   [6490]
+    0 TableSoItemLang data
+     0 int id = 1016491
+     1 string schinese = "算法研究"
+     1 string schinese_censored = "算法研究"
+     1 string english = "Algorithm Research"
+     1 string japanese = "アルゴリズム研究"
+     1 string mchinese = "演算法研究"
+   [6491]
+    0 TableSoItemLang data
+     0 int id = 1016492
+     1 string schinese = "游戏策划案"
+     1 string schinese_censored = "游戏策划案"
+     1 string english = "Game Design"
+     1 string japanese = "ゲームデザイン"
+     1 string mchinese = "遊戲策劃案"
+   [6492]
+    0 TableSoItemLang data
+     0 int id = 1016493
+     1 string schinese = "游戏项目管理"
+     1 string schinese_censored = "游戏项目管理"
+     1 string english = "Game Project Management"
+     1 string japanese = "プロジェクト管理"
+     1 string mchinese = "遊戲專案管理"
+   [6493]
+    0 TableSoItemLang data
+     0 int id = 1016494
+     1 string schinese = "游戏公司运营"
+     1 string schinese_censored = "游戏公司运营"
+     1 string english = "Game Operation"
+     1 string japanese = "ゲーム会社経営"
+     1 string mchinese = "遊戲公司運營"
+   [6494]
+    0 TableSoItemLang data
+     0 int id = 1016495
+     1 string schinese = "演技培训"
+     1 string schinese_censored = "演技培训"
+     1 string english = "Acting Training"
+     1 string japanese = "演技訓練"
+     1 string mchinese = "演技培訓"
+   [6495]
+    0 TableSoItemLang data
+     0 int id = 1016496
+     1 string schinese = "演员自我修养"
+     1 string schinese_censored = "演员自我修养"
+     1 string english = "Acting Self-Improvement"
+     1 string japanese = "役者の自己修練"
+     1 string mchinese = "演員自我修養"
+   [6496]
+    0 TableSoItemLang data
+     0 int id = 1016497
+     1 string schinese = "造型训练"
+     1 string schinese_censored = "造型训练"
+     1 string english = "Modeling"
+     1 string japanese = "ポーズ練習"
+     1 string mchinese = "造型訓練"
+   [6497]
+    0 TableSoItemLang data
+     0 int id = 1016498
+     1 string schinese = "网络主播培训"
+     1 string schinese_censored = "网络主播培训"
+     1 string english = "Streamer Training"
+     1 string japanese = "配信者訓練"
+     1 string mchinese = "網路主播培訓"
+   [6498]
+    0 TableSoItemLang data
+     0 int id = 1016499
+     1 string schinese = "方法派表演"
+     1 string schinese_censored = "方法派表演"
+     1 string english = "Method Acting"
+     1 string japanese = "メソッド演技法"
+     1 string mchinese = "方法派表演"
+   [6499]
+    0 TableSoItemLang data
+     0 int id = 1016500
+     1 string schinese = "视频素材剪辑"
+     1 string schinese_censored = "视频素材剪辑"
+     1 string english = "Video Editing"
+     1 string japanese = "動画編集"
+     1 string mchinese = "視頻素材剪輯"
+   [6500]
+    0 TableSoItemLang data
+     0 int id = 1016501
+     1 string schinese = "直播刷榜"
+     1 string schinese_censored = "直播刷榜"
+     1 string english = "Streamer Ranking"
+     1 string japanese = "配信・投げ銭"
+     1 string mchinese = "直播刷榜"
+   [6501]
+    0 TableSoItemLang data
+     0 int id = 1016502
+     1 string schinese = "基础理财"
+     1 string schinese_censored = "基础理财"
+     1 string english = "Financing 101"
+     1 string japanese = "ファイナンス入門"
+     1 string mchinese = "基礎理財"
+   [6502]
+    0 TableSoItemLang data
+     0 int id = 1016503
+     1 string schinese = "财务管理"
+     1 string schinese_censored = "财务管理"
+     1 string english = "Financial Management"
+     1 string japanese = "財務管理"
+     1 string mchinese = "財務管理"
+   [6503]
+    0 TableSoItemLang data
+     0 int id = 1016504
+     1 string schinese = "会计与金融"
+     1 string schinese_censored = "会计与金融"
+     1 string english = "Accounting & Finance"
+     1 string japanese = "会計・金融"
+     1 string mchinese = "會計與金融"
+   [6504]
+    0 TableSoItemLang data
+     0 int id = 1016505
+     1 string schinese = "金融工程"
+     1 string schinese_censored = "金融工程"
+     1 string english = "Financial Engineering"
+     1 string japanese = "金融工学"
+     1 string mchinese = "金融工程"
+   [6505]
+    0 TableSoItemLang data
+     0 int id = 1016506
+     1 string schinese = "量化经济学"
+     1 string schinese_censored = "量化经济学"
+     1 string english = "Quantitative Economics"
+     1 string japanese = "計量経済学"
+     1 string mchinese = "量化經濟學"
+   [6506]
+    0 TableSoItemLang data
+     0 int id = 1016507
+     1 string schinese = "价值投资"
+     1 string schinese_censored = "价值投资"
+     1 string english = "Value Investment"
+     1 string japanese = "バリュー投資"
+     1 string mchinese = "價值投資"
+   [6507]
+    0 TableSoItemLang data
+     0 int id = 1016508
+     1 string schinese = "说服"

@@ -1,0 +1,184 @@
+     1 string schinese_censored = ""
+     1 string english = "Fulfill Expectations to get rewards.\nSet these Expectations as your goals and go for them!"
+     1 string japanese = "期待を達成すると、ご褒美が得られる。\nご褒美目指して頑張ろう！"
+     1 string mchinese = "完成期望就能獲得獎勵。\n把它當作目標努力吧！"
+   [22493]
+    0 TableSoItemLang data
+     0 int id = 88888003
+     1 string schinese = "点此处关闭该窗口"
+     1 string schinese_censored = ""
+     1 string english = "Close the window."
+     1 string japanese = "画面を閉じる"
+     1 string mchinese = "點此處關閉該窗口"
+   [22494]
+    0 TableSoItemLang data
+     0 int id = 88888004
+     1 string schinese = "<color=#EB7350>属性</color>在你的成长过程中，将发挥重要效果~"
+     1 string schinese_censored = ""
+     1 string english = "<color=#EB7350>Stats</color> are of great importance during your growth."
+     1 string japanese = "<color=#EB7350>能力値</color>は、成長の過程で重要な役割を果たすぞ。"
+     1 string mchinese = "<color=#EB7350>屬性</color>在你的成長過程中，將發揮重要效果~"
+   [22495]
+    0 TableSoItemLang data
+     0 int id = 88888005
+     1 string schinese = "挖<color=#EB7350>脑洞</color>可以增加属性。"
+     1 string schinese_censored = ""
+     1 string english = "Increase your stats by absorbing <color=#EB7350>Fragments</color>."
+     1 string japanese = "<color=#EB7350>カケラ</color>を吸収すると能力値が増加する。"
+     1 string mchinese = "挖<color=#EB7350>腦洞</color>可以增加屬性。"
+   [22496]
+    0 TableSoItemLang data
+     0 int id = 88888006
+     1 string schinese = "这是脑洞面板，每一种<color=#EB7350>脑洞</color>都有自己独特的形状和颜色。随着游戏的进行，会有越来越多神奇的脑洞出现。"
+     1 string schinese_censored = ""
+     1 string english = "This is the Fragment Panel. Every type of <color=#EB7350>Fragment</color> has its own unique shape and color. You will find more and more wonderful Fragments as the game goes on."
+     1 string japanese = "これはカケラパネルだ。<color=#EB7350>脳のカケラ</color>にはそれぞれ異なる形状と色がある。ゲームが進むと、特殊なカケラがたくさん登場するようになる。"
+     1 string mchinese = "這是腦洞面板，每一種<color=#EB7350>腦洞</color>都有自己獨特的形狀和顏色。隨著遊戲的進行，會有越來越多神奇的腦洞出現。"
+   [22497]
+    0 TableSoItemLang data
+     0 int id = 88888007
+     1 string schinese = "挖取一个<color=#08A5E0>体魄</color>脑洞吧~"
+     1 string schinese_censored = ""
+     1 string english = "Try to absorb a <color=#08A5E0>Constitution</color> Fragment."
+     1 string japanese = "<color=#08A5E0>体力</color>のカケラを吸収しよう。"
+     1 string mchinese = "挖取一個<color=#08A5E0>體魄</color>腦洞吧~"
+   [22498]
+    0 TableSoItemLang data
+     0 int id = 88888008
+     1 string schinese = "挖取的<color=#08A5E0>体魄脑洞</color>将增加你的<color=#08A5E0>体魄属性</color>\n\n点击空白处继续"
+     1 string schinese_censored = ""
+     1 string english = "<color=#08A5E0>Constitution Fragments</color> you absorb increase your <color=#08A5E0>Constitution</color>.\n\nClick outside the dialog box to continue."
+     1 string japanese = "<color=#08A5E0>体力のカケラ</color>を吸収すると<color=#08A5E0>体力の能力値</color>が上がる。\n\n空白部分を選択して次に進む"
+     1 string mchinese = "挖取的<color=#08A5E0>體魄腦洞</color>將增加你的<color=#08A5E0>體魄屬性</color>\n\n點擊空白處繼續"
+   [22499]
+    0 TableSoItemLang data
+     0 int id = 88888009
+     1 string schinese = "接下来再挖取一个绿色的<color=#47A42E>智商脑洞</color>"
+     1 string schinese_censored = ""
+     1 string english = "Now absorb a green <color=#47A42E>IQ Fragment</color>."
+     1 string japanese = "次は緑色の<color=#47A42E>ＩＱのカケラ</color>を選択しよう。"
+     1 string mchinese = "接下來再挖取一個綠色的<color=#47A42E>智商腦洞</color>"
+   [22500]
+    0 TableSoItemLang data
+     0 int id = 88888010
+     1 string schinese = "学习在成长中可太重要了！\n请点击<color=#EB7350>【学习】</color>按钮。"
+     1 string schinese_censored = ""
+     1 string english = "Study is so significant during one's growth!\nGo ahead and click <color=#EB7350>[Study]</color>."
+     1 string japanese = "成長の過程で、学習は非常に重要な役割を果たす！\n<color=#EB7350>【学習】</color>ボタンを選択しよう。"
+     1 string mchinese = "學習在成長中可太重要了！\n請點擊<color=#EB7350>【學習】</color>按鈕。"
+   [22501]
+    0 TableSoItemLang data
+     0 int id = 88888011
+     1 string schinese = "下面请把安排填满吧~"
+     1 string schinese_censored = ""
+     1 string english = "Now, fill up your schedule."
+     1 string japanese = "次は予定を埋めましょう。"
+     1 string mchinese = "下麵請把安排填滿吧~"
+   [22502]
+    0 TableSoItemLang data
+     0 int id = 88888012
+     1 string schinese = "看来你已经全都掌握了！\n现在请尽情<color=#EB7350>挖掘脑洞</color>、<color=#EB7350>安排</color>自己的人生吧！"
+     1 string schinese_censored = ""
+     1 string english = "Looks like you've learned the basics!\nIt is time you <color=#EB7350>absorb fragments</color> and <color=#EB7350>schedule</color> and make your own life decisions!"
+     1 string japanese = "マスターしたみたいだね！\n<color=#EB7350>「カケラ」の吸収</color>と<color=#EB7350>予定</color>の実行で人生を存分に楽しもう！"
+     1 string mchinese = "看來你已經全都掌握了！\n現在請盡情<color=#EB7350>挖掘腦洞</color>、<color=#EB7350>安排</color>自己的人生吧！"
+   [22503]
+    0 TableSoItemLang data
+     0 int id = 88888013
+     1 string schinese = "除点击外，你还可以<color=#EB7350>拖动</color>项目进行<color=#EB7350>安排</color>~"
+     1 string schinese_censored = ""
+     1 string english = "You don't have to select an activity to <color=#EB7350>schedule</color> it. You can also <color=#EB7350>drag</color> them into your <color=#EB7350>schedule</color>."
+     1 string japanese = "選択するほか、<color=#EB7350>ドラッグ</color>によっても<color=#EB7350>予定</color>を実行できます。"
+     1 string mchinese = "除點擊外，你還可以<color=#EB7350>拖動</color>專案進行<color=#EB7350>安排</color>~"
+   [22504]
+    0 TableSoItemLang data
+     0 int id = 88888014
+     1 string schinese = "咪咪"
+     1 string schinese_censored = ""
+     1 string english = "Kitty"
+     1 string japanese = "猫ちゃん"
+     1 string mchinese = "咪咪"
+   [22505]
+    0 TableSoItemLang data
+     0 int id = 88888015
+     1 string schinese = "解锁新娱乐"
+     1 string schinese_censored = ""
+     1 string english = "Unlock New Ent."
+     1 string japanese = "新しい娯楽をアンロック"
+     1 string mchinese = "解鎖新娛樂"
+   [22506]
+    0 TableSoItemLang data
+     0 int id = 88888016
+     1 string schinese = "{0}回合后开始创作考核"
+     1 string schinese_censored = ""
+     1 string english = "後續功能，暫不翻譯"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "{0}回合後開始創作考核"
+   [22507]
+    0 TableSoItemLang data
+     0 int id = 88888017
+     1 string schinese = "赢在起跑线~"
+     1 string schinese_censored = ""
+     1 string english = "後續功能，暫不翻譯"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "贏在起跑線~"
+   [22508]
+    0 TableSoItemLang data
+     0 int id = 88888018
+     1 string schinese = "素描创作玩法说明：\n<color=#FFFFFF00>缩进</color>1.素描创作分为四个阶段，每个阶段都需要尽可能达到完美。\n<color=#FFFFFF00>缩进</color>2.游戏开始后，指针开始匀速移动，点击“空白区域”使指针停止移动，不同区域评价不同，完美评价最高。\n<color=#FFFFFF00>缩进</color>3.指针落到绿色区域评价为“完美”，橙色为“还行”，红色为“凑活”，白色为“糟糕”。\n<color=#FFFFFF00>缩进</color>3.不同的表现，画出来的画，差距巨大！\n<color=#FFFFFF00>缩进</color>4.奖励包括培训点，评价越高获得的奖励越多。"
+     1 string schinese_censored = ""
+     1 string english = "後續功能，暫不翻譯"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "素描創作玩法說明：\n<color=#FFFFFF00>縮進</color>1.素描創作分為四個階段，每個階段都需要盡可能達到完美；\n<color=#FFFFFF00>縮進</color>2.遊戲開始後，指針開始勻速移動，點擊“空白區域”使指針停止移動，不同區域評價不同，完美評價最高；\n<color=#FFFFFF00>縮進</color>3.指針落到綠色區域評價為“完美”，橙色為“優秀”，灰色為“一般”，紅色為“糟糕”；\n<color=#FFFFFF00>縮進</color>3.不同的表現，畫出來的畫，差距巨大！\n<color=#FFFFFF00>縮進</color>4.獎勵包括培訓點，評價越高獲得的獎勵越多；"
+   [22509]
+    0 TableSoItemLang data
+     0 int id = 88888019
+     1 string schinese = "色彩创作玩法说明：\n<color=#FFFFFF00>缩进</color>1.色彩创作分为4个阶段，每个阶段游戏开始前，请留意标记的调色目标点，目标是使指针1和2的交叉点落在目标点上，与目标点越近越完美。\n<color=#FFFFFF00>缩进</color>2.游戏开始后，指针1开始匀速移动，通过点击“空白区域”使指针停止，之后指针2开始匀速移动，再次点击“空白区域”使指针停止。\n<color=#FFFFFF00>缩进</color>3.指针交叉点距离目标点越远评价越差。\n<color=#FFFFFF00>缩进</color>4.不同的表现，画出来的画，差距\n巨大！\n<color=#FFFFFF00>缩进</color>5.奖励为培训点，评价越高获得的奖励越多。"
+     1 string schinese_censored = ""
+     1 string english = "後續功能，暫不翻譯"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "色彩創作玩法說明：\n<color=#FFFFFF00>縮進</color>1.色彩創作分為4個階段，每個階段遊戲開始前，請留意標記的調色目標點，目標是使指針1和2的交叉點落在目標點上，與目標點越近越完美；\n<color=#FFFFFF00>縮進</color>2.遊戲開始後，指針1開始勻速移動，通過點擊“空白區域”使指針停止，之後指針2開始勻速移動，再次點擊“空白區域”使指針停止；\n<color=#FFFFFF00>縮進</color>3.指針交叉點距離目標點越遠評價越差；\n<color=#FFFFFF00>縮進</color>4.不同的表現，畫出來的畫，差距\n巨大！\n<color=#FFFFFF00>縮進</color>5.獎勵為培訓點，評價越高獲得的獎勵越多；"
+   [22510]
+    0 TableSoItemLang data
+     0 int id = 88888020
+     1 string schinese = "才艺大赛火热进行中！"
+     1 string schinese_censored = ""
+     1 string english = "後續功能，暫不翻譯"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "才藝大賽火熱進行中！"
+   [22511]
+    0 TableSoItemLang data
+     0 int id = 88888021
+     1 string schinese = "完成进阶"
+     1 string schinese_censored = ""
+     1 string english = "後續功能，暫不翻譯"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "完成進階"
+   [22512]
+    0 TableSoItemLang data
+     0 int id = 88888022
+     1 string schinese = "开始创作吧！"
+     1 string schinese_censored = ""
+     1 string english = "後續功能，暫不翻譯"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "開始創作吧！"
+   [22513]
+    0 TableSoItemLang data
+     0 int id = 88888023
+     1 string schinese = "奖励"
+     1 string schinese_censored = ""
+     1 string english = "後續功能，暫不翻譯"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "獎勵"
+   [22514]
+    0 TableSoItemLang data
+     0 int id = 88888024
+     1 string schinese = "获得培训点："
+     1 string schinese_censored = ""
+     1 string english = "後續功能，暫不翻譯"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "獲得培訓點："
+   [22515]
+    0 TableSoItemLang data
+     0 int id = 88888025
+     1 string schinese = "确定"

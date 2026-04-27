@@ -1,0 +1,184 @@
+     1 string schinese_censored = "英语听力（英）"
+     1 string english = "Listening Comprehension"
+     1 string japanese = "リスニング"
+     1 string mchinese = "英語聽力（英）"
+   [3472]
+    0 TableSoItemLang data
+     0 int id = 1013473
+     1 string schinese = "阅读理解（英）"
+     1 string schinese_censored = "阅读理解（英）"
+     1 string english = "Reading Comprehension"
+     1 string japanese = "英文読解"
+     1 string mchinese = "閱讀理解（英）"
+   [3473]
+    0 TableSoItemLang data
+     0 int id = 1013474
+     1 string schinese = "英语作文（英）"
+     1 string schinese_censored = "英语作文（英）"
+     1 string english = "English Writing"
+     1 string japanese = "英作文"
+     1 string mchinese = "英語作文（英）"
+   [3474]
+    0 TableSoItemLang data
+     0 int id = 1013475
+     1 string schinese = "英语做题速度（英）"
+     1 string schinese_censored = "英语做题速度（英）"
+     1 string english = "Exam Speed"
+     1 string japanese = "英語解答速度"
+     1 string mchinese = "英語做題速度（英）"
+   [3475]
+    0 TableSoItemLang data
+     0 int id = 1013476
+     1 string schinese = "高级英语（英）"
+     1 string schinese_censored = "高级英语技巧（英）"
+     1 string english = "Advanced Exam-Oriented English"
+     1 string japanese = "上級受験英語"
+     1 string mchinese = "高級英語（英）"
+   [3476]
+    0 TableSoItemLang data
+     0 int id = 1013477
+     1 string schinese = "英语非常规技巧（英）"
+     1 string schinese_censored = "英语非常规技巧（英）"
+     1 string english = "Special English Skills"
+     1 string japanese = "特殊英語技術"
+     1 string mchinese = "英語非常規技巧（英）"
+   [3477]
+    0 TableSoItemLang data
+     0 int id = 1013478
+     1 string schinese = "地理常识（文）"
+     1 string schinese_censored = "地理常识（文）"
+     1 string english = "Geography Knowledge"
+     1 string japanese = "地理入門"
+     1 string mchinese = "地理常識（文）"
+   [3478]
+    0 TableSoItemLang data
+     0 int id = 1013479
+     1 string schinese = "德育思想（文）"
+     1 string schinese_censored = "德育思想（文）"
+     1 string english = "Moral Education"
+     1 string japanese = "道徳"
+     1 string mchinese = "德育思想（文）"
+   [3479]
+    0 TableSoItemLang data
+     0 int id = 1013480
+     1 string schinese = "历史常识（文）"
+     1 string schinese_censored = "历史常识（文）"
+     1 string english = "History Knowledge"
+     1 string japanese = "歴史入門"
+     1 string mchinese = "歷史常識（文）"
+   [3480]
+    0 TableSoItemLang data
+     0 int id = 1013481
+     1 string schinese = "中国地理（文）"
+     1 string schinese_censored = "中国地理（文）"
+     1 string english = "Geography of China"
+     1 string japanese = "中国地理"
+     1 string mchinese = "中國地理（文）"
+   [3481]
+    0 TableSoItemLang data
+     0 int id = 1013482
+     1 string schinese = "思想政治（文）"
+     1 string schinese_censored = "思想政治（文）"
+     1 string english = "Ideological & Political Thoughts"
+     1 string japanese = "政治思想"
+     1 string mchinese = "思想政治（文）"
+   [3482]
+    0 TableSoItemLang data
+     0 int id = 1013483
+     1 string schinese = "古代史（文）"
+     1 string schinese_censored = "古代史（文）"
+     1 string english = "Ancient History"
+     1 string japanese = "古代史"
+     1 string mchinese = "古代史（文）"
+   [3483]
+    0 TableSoItemLang data
+     0 int id = 1013484
+     1 string schinese = "世界地理（文）"
+     1 string schinese_censored = "世界地理（文）"
+     1 string english = "World Geography"
+     1 string japanese = "世界地理"
+     1 string mchinese = "世界地理（文）"
+   [3484]
+    0 TableSoItemLang data
+     0 int id = 1013485
+     1 string schinese = "基础哲学（文）"
+     1 string schinese_censored = "基础哲学（文）"
+     1 string english = "Philosophy 101"
+     1 string japanese = "基礎哲学"
+     1 string mchinese = "基礎哲學（文）"
+   [3485]
+    0 TableSoItemLang data
+     0 int id = 1013486
+     1 string schinese = "近代史（文）"
+     1 string schinese_censored = "近代史（文）"
+     1 string english = "Modern History"
+     1 string japanese = "近代史"
+     1 string mchinese = "近代史（文）"
+   [3486]
+    0 TableSoItemLang data
+     0 int id = 1013487
+     1 string schinese = "经济常识（文）"
+     1 string schinese_censored = "经济常识（文）"
+     1 string english = "Economic Knowledge"
+     1 string japanese = "経済学入門"
+     1 string mchinese = "經濟常識（文）"
+   [3487]
+    0 TableSoItemLang data
+     0 int id = 1013488
+     1 string schinese = "文科综合1级（文）"
+     1 string schinese_censored = "文科综合1级（文）"
+     1 string english = "Integrated Liberal Arts 1"
+     1 string japanese = "総合文系I"
+     1 string mchinese = "文科綜合1級（文）"
+   [3488]
+    0 TableSoItemLang data
+     0 int id = 1013489
+     1 string schinese = "文科综合2级（文）"
+     1 string schinese_censored = "文科综合2级（文）"
+     1 string english = "Integrated Liberal Arts 2"
+     1 string japanese = "総合文系II"
+     1 string mchinese = "文科綜合2級（文）"
+   [3489]
+    0 TableSoItemLang data
+     0 int id = 1013490
+     1 string schinese = "文科综合3级（文）"
+     1 string schinese_censored = "文科综合3级（文）"
+     1 string english = "Integrated Liberal Arts 3"
+     1 string japanese = "総合文系III"
+     1 string mchinese = "文科綜合3級（文）"
+   [3490]
+    0 TableSoItemLang data
+     0 int id = 1013491
+     1 string schinese = "文科综合4级（文）"
+     1 string schinese_censored = "文科综合4级（文）"
+     1 string english = "Integrated Liberal Arts 4"
+     1 string japanese = "総合文系IV"
+     1 string mchinese = "文科綜合4級（文）"
+   [3491]
+    0 TableSoItemLang data
+     0 int id = 1013492
+     1 string schinese = "文科综合5级（文）"
+     1 string schinese_censored = "文科综合5级（文）"
+     1 string english = "Integrated Liberal Arts 5"
+     1 string japanese = "総合文系V"
+     1 string mchinese = "文科綜合5級（文）"
+   [3492]
+    0 TableSoItemLang data
+     0 int id = 1013493
+     1 string schinese = "文科综合6级（文）"
+     1 string schinese_censored = "文科综合6级（文）"
+     1 string english = "Integrated Liberal Arts 6"
+     1 string japanese = "総合文系VI"
+     1 string mchinese = "文科綜合6級（文）"
+   [3493]
+    0 TableSoItemLang data
+     0 int id = 1013494
+     1 string schinese = "文科综合7级（文）"
+     1 string schinese_censored = "文科综合7级（文）"
+     1 string english = "Integrated Liberal Arts 7"
+     1 string japanese = "総合文系VII"
+     1 string mchinese = "文科綜合7級（文）"
+   [3494]
+    0 TableSoItemLang data
+     0 int id = 1013495
+     1 string schinese = "文科综合8级（文）"

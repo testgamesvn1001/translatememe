@@ -1,0 +1,184 @@
+     1 string schinese_censored = "你学习用功，各科成绩不错。\n完成度最高的是{0}，\n你已经学到{1}课程。\n而{2}还要再加油哦，\n你只学到了{3}课程。\n与此同时，在成长的过程中，\n你获得的最厉害的特长是{4}。"
+     1 string english = "You have studied hard and your grades are good.\nYour highest completion is {0},\nand you have completed {1} classes.\n{2} still needs to keep up the good work\nas you have only completed {3} classes.\nDuring all of your studies,\nthe greatest trait you have gained is {4}."
+     1 string japanese = "5500059"
+     1 string mchinese = "你學習用功，各科成績不錯。\n完成度最高的是{0}，\n你已經學到{1}課程。\n而{2}還要再加油哦，\n你只學到了{3}課程。\n與此同時，在成長的過程中，\n你獲得的最厲害的特長是{4}。"
+   [21159]
+    0 TableSoItemLang data
+     0 int id = 5500060
+     1 string schinese = "学生时代的你，非常体谅父母,\n让他们满意了{0}次，但你也让他们失望了{1}次。同时，你一共为他们购买了{2}次礼物。"
+     1 string schinese_censored = "学生时代的你，非常体谅父母，\n让他们满意了{0}次，但你也让他们失望了{1}次。同时，你一共为他们购买了{2}次礼物。"
+     1 string english = "You truly understand your parents\nand have fulfilled their wishes {0} times, but you have also let them down {1} times. You have also bought them {2} gifts."
+     1 string japanese = "5500060"
+     1 string mchinese = "學生時代的你，非常體諒父母,\n讓他們滿意了{0}次，但你也讓他們失望了{1}次。同時，你一共為他們購買了{2}次禮物。"
+   [21160]
+    0 TableSoItemLang data
+     0 int id = 5500061
+     1 string schinese = "你一共进行了{0}场闲话家常，\n为父母挣得了{1}点面子。\n父母对乖巧的你有求必应，\n共满足了你{2}次索取要求。"
+     1 string schinese_censored = "你一共进行了{0}场闲话家常，\n为父母挣得了{1}点面子。\n父母对乖巧的你有求必应，\n共满足了你{2}次礼物要求。"
+     1 string english = "You have taken part in {0} face duel(s)\nand claimed {1} face for your parents.\nIn recompense for the face you have given them,\nthey have fulfilled {2} of your requests."
+     1 string japanese = "5500061"
+     1 string mchinese = "你一共進行了{0}場閒話家常，\n為父母掙得了{1}點面子。\n父母對乖巧的你有求必應，\n共滿足了你{2}次索取要求。"
+   [21161]
+    0 TableSoItemLang data
+     0 int id = 5500062
+     1 string schinese = "其中，{0}你要了{1}次才成功。"
+     1 string schinese_censored = "其中，{0}你要了{1}次才成功。"
+     1 string english = "You got what you wanted {1} of the times you requested {0}."
+     1 string japanese = "5500062"
+     1 string mchinese = "其中，{0}你要了{1}次才成功。"
+   [21162]
+    0 TableSoItemLang data
+     0 int id = 5500063
+     1 string schinese = "你总共向{0}名同学发出了邀请，其中{1}是你最好的朋友，你们的好感度达到了{2}。"
+     1 string schinese_censored = "你总共向{0}名同学发出了邀请，其中{1}是你最好的朋友，你们的好感度达到了{2}。"
+     1 string english = "You have invited friends a total of {0} times, and {1} of these were your best friend and your Intimacy has reached {2}."
+     1 string japanese = "5500063"
+     1 string mchinese = "你總共向{0}名同學發出了邀請，其中{1}是你最好的朋友，你們的好感度達到了{2}。"
+   [21163]
+    0 TableSoItemLang data
+     0 int id = 5500064
+     1 string schinese = "你总共接受了{0}名同学的邀请，其中{1}是你最好的朋友，你们的好感度达到了{2}。"
+     1 string schinese_censored = "你总共接受了{0}名同学的邀请，其中{1}是你最好的朋友，你们的好感度达到了{2}。"
+     1 string english = "You have been invited {0} times, and {1} of these were from your best friend and your Intimacy has reached {2}."
+     1 string japanese = "5500064"
+     1 string mchinese = "你總共接受了{0}名同學的邀請，其中{1}是你最好的朋友，你們的好感度達到了{2}。"
+   [21164]
+    0 TableSoItemLang data
+     0 int id = 5500065
+     1 string schinese = "很快你就要走上工作岗位了，你愿意把你的回忆分享给朋友们吗？"
+     1 string schinese_censored = "很快你就要走上工作岗位了，你愿意把你的回忆分享给朋友们吗？"
+     1 string english = "You are about to become part of the work force, so are you willing to share your memories with your friends?"
+     1 string japanese = "5500065"
+     1 string mchinese = "很快你就要走上工作崗位了，你願意把你的回憶分享給朋友們嗎？"
+   [21165]
+    0 TableSoItemLang data
+     0 int id = 5500066
+     1 string schinese = "你本质天真、热忱，\n旺盛的好奇心让你在这个世界特立独行。\n按耐不住躁动的灵魂，你决定暂时离开学校，四处走走逛逛。\n平日与你吵吵闹闹的同桌，会在学校里帮你整理所有的作业。"
+     1 string schinese_censored = "你本质天真、热忱，\n然而旺盛的好奇心让你在这个世界特立独行。\n你决定暂时离开，四处走走逛逛。\n虽然你已经让父母失望了{0}次，\n但他们仍然在等待着你归来。\n你最好的朋友{1}，会在学校里帮你记下所有的笔记。"
+     1 string english = "You are innocent yet enthusiastic,\nbut your curiosity is what really sets you apart from others.\nYou decide to take a break from campus to see the world.\nYour classmates back in school help you sort out all your homework."
+     1 string japanese = "あなたは純真で情熱的です。\nしかし、その性格が原因で、孤立してしまいました。\nあなたはざわつく心を抑えきれず、一時的に学校を離れて放浪することにしました。\nいつもあなたと騒いでいる仲間が、学校で宿題を片づけてくれます。"
+     1 string mchinese = "你本質天真、熱忱，\n旺盛的好奇心讓你在這個世界特立獨行。\n按耐不住躁動的靈魂，你決定暫時離開學校，四處走走逛逛。\n平日與你吵吵鬧鬧的同桌，會在學校裏幫你整理所有的作業。"
+   [21166]
+    0 TableSoItemLang data
+     0 int id = 5500067
+     1 string schinese = "暂无邀约"
+     1 string schinese_censored = "暂无邀约"
+     1 string english = "No Invitations"
+     1 string japanese = "お誘い無し"
+     1 string mchinese = "暫無邀約"
+   [21167]
+    0 TableSoItemLang data
+     0 int id = 5500068
+     1 string schinese = "确定要放弃竞选吗？"
+     1 string schinese_censored = "确定要放弃竞选吗？"
+     1 string english = "Are you sure you wish to give up the election?"
+     1 string japanese = "本当に立候補を取り下げますか？"
+     1 string mchinese = "確定要放棄競選嗎？"
+   [21168]
+    0 TableSoItemLang data
+     0 int id = 5500069
+     1 string schinese = ">>>跳过"
+     1 string schinese_censored = ">>>跳过"
+     1 string english = ">>> Skip"
+     1 string japanese = ">>>スキップ"
+     1 string mchinese = ">>>跳過"
+   [21169]
+    0 TableSoItemLang data
+     0 int id = 5500070
+     1 string schinese = "事件"
+     1 string schinese_censored = "事件"
+     1 string english = "Events"
+     1 string japanese = "イベント"
+     1 string mchinese = "事件"
+   [21170]
+    0 TableSoItemLang data
+     0 int id = 5500071
+     1 string schinese = "当有事件发生时，得先解决事件，才可以安排学习噢！"
+     1 string schinese_censored = "当有事件发生时，得先解决事件，才可以安排学习噢！"
+     1 string english = "You must complete current events before you can continue with your schedule!"
+     1 string japanese = "イベント発生中は予定が立てられない！"
+     1 string mchinese = "當有事件發生時，得先解決事件，才可以安排學習噢！"
+   [21171]
+    0 TableSoItemLang data
+     0 int id = 5500072
+     1 string schinese = "面子值不足"
+     1 string schinese_censored = "面子不足"
+     1 string english = "Not enough face."
+     1 string japanese = "メンツ不足"
+     1 string mchinese = "面子值不足"
+   [21172]
+    0 TableSoItemLang data
+     0 int id = 5500073
+     1 string schinese = "提示"
+     1 string schinese_censored = "提示"
+     1 string english = "Tip"
+     1 string japanese = "ヒント"
+     1 string mchinese = "提示"
+   [21173]
+    0 TableSoItemLang data
+     0 int id = 5500074
+     1 string schinese = "下一世代零花钱额度"
+     1 string schinese_censored = "下一世代零花钱额度"
+     1 string english = "Pocket Money for your next generation."
+     1 string japanese = "次世代のお小遣い"
+     1 string mchinese = "下一世代零花錢額度"
+   [21174]
+    0 TableSoItemLang data
+     0 int id = 5500075
+     1 string schinese = "*当前可用特长"
+     1 string schinese_censored = "*当前可用特长"
+     1 string english = "*Available traits"
+     1 string japanese = "※現在の使用可能特技"
+     1 string mchinese = "*當前可用特長"
+   [21175]
+    0 TableSoItemLang data
+     0 int id = 5500076
+     1 string schinese = "*本世代已解锁特长"
+     1 string schinese_censored = "*本世代已解锁特长"
+     1 string english = "*Traits unlocked this generation"
+     1 string japanese = "※現世代が解放した特技"
+     1 string mchinese = "*本世代已解鎖特長"
+   [21176]
+    0 TableSoItemLang data
+     0 int id = 5500077
+     1 string schinese = "*本家族已解锁职业"
+     1 string schinese_censored = "*本家族已解锁职业"
+     1 string english = "*Professions unlocked by this family"
+     1 string japanese = "※現世代が解放した職業"
+     1 string mchinese = "*本家族已解鎖職業"
+   [21177]
+    0 TableSoItemLang data
+     0 int id = 5500078
+     1 string schinese = "*获得特长的学习路径"
+     1 string schinese_censored = "*获得特长的学习路径"
+     1 string english = "*Study route for acquiring trait"
+     1 string japanese = "※特殊特技を学ぶためのルート獲得"
+     1 string mchinese = "*獲得特長的學習路徑"
+   [21178]
+    0 TableSoItemLang data
+     0 int id = 5500079
+     1 string schinese = "接受邀请"
+     1 string schinese_censored = "接受邀请"
+     1 string english = "Accept Invitation"
+     1 string japanese = "お誘いを受ける"
+     1 string mchinese = "接受邀請"
+   [21179]
+    0 TableSoItemLang data
+     0 int id = 5500080
+     1 string schinese = "距离高考"
+     1 string schinese_censored = "距离高考"
+     1 string english = "Gaokao in"
+     1 string japanese = "入試\nまで"
+     1 string mchinese = "距離高考"
+   [21180]
+    0 TableSoItemLang data
+     0 int id = 5500081
+     1 string schinese = "学费值"
+     1 string schinese_censored = "学费值"
+     1 string english = "Tuition"
+     1 string japanese = "授業料"
+     1 string mchinese = "學費值"
+   [21181]
+    0 TableSoItemLang data
+     0 int id = 5500082
+     1 string schinese = "学费可以帮你解锁游戏全部内容，\n也可用于购买一些关键道具。\n你可以充值购买，\n也可以看广告获取。"

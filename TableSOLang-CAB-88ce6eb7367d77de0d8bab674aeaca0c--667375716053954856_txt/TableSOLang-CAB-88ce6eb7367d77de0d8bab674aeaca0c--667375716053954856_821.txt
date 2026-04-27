@@ -1,0 +1,184 @@
+     1 string schinese_censored = ""
+     1 string english = ""
+     1 string japanese = ""
+     1 string mchinese = ""
+   [18859]
+    0 TableSoItemLang data
+     0 int id = 1028860
+     1 string schinese = "删除存档"
+     1 string schinese_censored = "删除存档"
+     1 string english = "Delete Save"
+     1 string japanese = "セーブ削除"
+     1 string mchinese = "刪除存檔"
+   [18860]
+    0 TableSoItemLang data
+     0 int id = 1028861
+     1 string schinese = "返回"
+     1 string schinese_censored = "返回"
+     1 string english = "Return"
+     1 string japanese = "戻る"
+     1 string mchinese = "返回"
+   [18861]
+    0 TableSoItemLang data
+     0 int id = 1028862
+     1 string schinese = "确定"
+     1 string schinese_censored = "确定"
+     1 string english = "Confirm"
+     1 string japanese = "決定"
+     1 string mchinese = "確定"
+   [18862]
+    0 TableSoItemLang data
+     0 int id = 1028863
+     1 string schinese = "族 谱"
+     1 string schinese_censored = "族 谱"
+     1 string english = "Family Tree"
+     1 string japanese = "家系"
+     1 string mchinese = "族 譜"
+   [18863]
+    0 TableSoItemLang data
+     0 int id = 1028864
+     1 string schinese = "族谱"
+     1 string schinese_censored = "族谱"
+     1 string english = "Family Tree"
+     1 string japanese = "家系"
+     1 string mchinese = "族譜"
+   [18864]
+    0 TableSoItemLang data
+     0 int id = 1028865
+     1 string schinese = "学习路径"
+     1 string schinese_censored = "学习路径"
+     1 string english = "Study Route"
+     1 string japanese = "学習結果"
+     1 string mchinese = "學習路徑"
+   [18865]
+    0 TableSoItemLang data
+     0 int id = 1028866
+     1 string schinese = "特长"
+     1 string schinese_censored = "特长"
+     1 string english = "Traits"
+     1 string japanese = "特技"
+     1 string mchinese = "特長"
+   [18866]
+    0 TableSoItemLang data
+     0 int id = 1028867
+     1 string schinese = "依赖:"
+     1 string schinese_censored = "依赖:"
+     1 string english = "Affected by:"
+     1 string japanese = "関連："
+     1 string mchinese = "依賴:"
+   [18867]
+    0 TableSoItemLang data
+     0 int id = 1028868
+     1 string schinese = "特长图鉴"
+     1 string schinese_censored = "特长图鉴"
+     1 string english = "Trait Gallery"
+     1 string japanese = "特技図鑑"
+     1 string mchinese = "特長圖鑒"
+   [18868]
+    0 TableSoItemLang data
+     0 int id = 1028869
+     1 string schinese = "羁绊"
+     1 string schinese_censored = "羁绊"
+     1 string english = "Bond"
+     1 string japanese = "絆"
+     1 string mchinese = "羈絆"
+   [18869]
+    0 TableSoItemLang data
+     0 int id = 1028870
+     1 string schinese = "接受"
+     1 string schinese_censored = "接受"
+     1 string english = "Accept"
+     1 string japanese = "ＯＫ！"
+     1 string mchinese = "接受"
+   [18870]
+    0 TableSoItemLang data
+     0 int id = 1028871
+     1 string schinese = "弃权"
+     1 string schinese_censored = "弃权"
+     1 string english = "Forfeit"
+     1 string japanese = "放棄"
+     1 string mchinese = "棄權"
+   [18871]
+    0 TableSoItemLang data
+     0 int id = 1028872
+     1 string schinese = "逃跑"
+     1 string schinese_censored = "逃跑"
+     1 string english = "Flee"
+     1 string japanese = "逃げる"
+     1 string mchinese = "逃跑"
+   [18872]
+    0 TableSoItemLang data
+     0 int id = 1028873
+     1 string schinese = "开始"
+     1 string schinese_censored = "开始"
+     1 string english = "Start"
+     1 string japanese = "始める"
+     1 string mchinese = "開始"
+   [18873]
+    0 TableSoItemLang data
+     0 int id = 1028874
+     1 string schinese = "获得"
+     1 string schinese_censored = "获得"
+     1 string english = "Acquire"
+     1 string japanese = "獲得"
+     1 string mchinese = "獲得"
+   [18874]
+    0 TableSoItemLang data
+     0 int id = 1028875
+     1 string schinese = "消耗"
+     1 string schinese_censored = "消耗"
+     1 string english = "Spend"
+     1 string japanese = "消耗"
+     1 string mchinese = "消耗"
+   [18875]
+    0 TableSoItemLang data
+     0 int id = 1028876
+     1 string schinese = "干劲×"
+     1 string schinese_censored = "干劲×"
+     1 string english = "Drive x"
+     1 string japanese = "意欲×"
+     1 string mchinese = "幹勁×"
+   [18876]
+    0 TableSoItemLang data
+     0 int id = 1028877
+     1 string schinese = "进度"
+     1 string schinese_censored = "进度"
+     1 string english = "Progress"
+     1 string japanese = "進捗度"
+     1 string mchinese = "進度"
+   [18877]
+    0 TableSoItemLang data
+     0 int id = 1028878
+     1 string schinese = "挑战"
+     1 string schinese_censored = "挑战"
+     1 string english = "Challenge"
+     1 string japanese = "挑戦"
+     1 string mchinese = "挑戰"
+   [18878]
+    0 TableSoItemLang data
+     0 int id = 1028879
+     1 string schinese = "当前还没有能力去挑战"
+     1 string schinese_censored = "当前还没有能力去挑战"
+     1 string english = "You are currently not strong enough to issue challenges."
+     1 string japanese = "能力不足のため、挑戦できません"
+     1 string mchinese = "當前還沒有能力去挑戰"
+   [18879]
+    0 TableSoItemLang data
+     0 int id = 1028880
+     1 string schinese = "{0}需达到{1}"
+     1 string schinese_censored = "{0}需达到{1}"
+     1 string english = "{0} has to be at least {1}."
+     1 string japanese = "{0}が{1}必要"
+     1 string mchinese = "{0}需達到{1}"
+   [18880]
+    0 TableSoItemLang data
+     0 int id = 1028881
+     1 string schinese = "冷却中，下回合可挑战"
+     1 string schinese_censored = "冷却中，下回合可挑战"
+     1 string english = "On cooldown. Wait for next turn to issue a challenge."
+     1 string japanese = "休憩中、次のターンで挑戦できます"
+     1 string mchinese = "冷卻中，下回合可挑戰"
+   [18881]
+    0 TableSoItemLang data
+     0 int id = 1028882
+     1 string schinese = "挑战进度"

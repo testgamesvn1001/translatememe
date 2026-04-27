@@ -1,0 +1,184 @@
+     1 string schinese_censored = "绯闻"
+     1 string english = "Gossip"
+     1 string japanese = "噂"
+     1 string mchinese = "緋聞"
+   [3380]
+    0 TableSoItemLang data
+     0 int id = 1013381
+     1 string schinese = "恋爱"
+     1 string schinese_censored = "非一般关系"
+     1 string english = "In Love"
+     1 string japanese = "恋愛"
+     1 string mchinese = "戀愛"
+   [3381]
+    0 TableSoItemLang data
+     0 int id = 1013382
+     1 string schinese = "理科思维"
+     1 string schinese_censored = "理科思维"
+     1 string english = "Scientific Thought"
+     1 string japanese = "理系マインド"
+     1 string mchinese = "理科思維"
+   [3382]
+    0 TableSoItemLang data
+     0 int id = 1013383
+     1 string schinese = "努力与聪明"
+     1 string schinese_censored = "努力与聪明"
+     1 string english = "Hard Work & Int."
+     1 string japanese = "努力と才能"
+     1 string mchinese = "努力與聰明"
+   [3383]
+    0 TableSoItemLang data
+     0 int id = 1013384
+     1 string schinese = "学业压力"
+     1 string schinese_censored = "学业压力"
+     1 string english = "Stress of Study"
+     1 string japanese = "勉強ストレス"
+     1 string mchinese = "學業壓力"
+   [3384]
+    0 TableSoItemLang data
+     0 int id = 1013385
+     1 string schinese = "形象"
+     1 string schinese_censored = "形象"
+     1 string english = "Image"
+     1 string japanese = "印象"
+     1 string mchinese = "形象"
+   [3385]
+    0 TableSoItemLang data
+     0 int id = 1013386
+     1 string schinese = "攀比"
+     1 string schinese_censored = "攀比"
+     1 string english = "Comparisons"
+     1 string japanese = "格差"
+     1 string mchinese = "攀比"
+   [3386]
+    0 TableSoItemLang data
+     0 int id = 1013387
+     1 string schinese = "分裂"
+     1 string schinese_censored = "分裂"
+     1 string english = "Division"
+     1 string japanese = "動揺"
+     1 string mchinese = "分裂"
+   [3387]
+    0 TableSoItemLang data
+     0 int id = 1013388
+     1 string schinese = "自我展示"
+     1 string schinese_censored = "自我展示"
+     1 string english = "Presentations"
+     1 string japanese = "自己アピール"
+     1 string mchinese = "自我展示"
+   [3388]
+    0 TableSoItemLang data
+     0 int id = 1013389
+     1 string schinese = "紧张"
+     1 string schinese_censored = "紧张"
+     1 string english = "Nervous"
+     1 string japanese = "緊張"
+     1 string mchinese = "緊張"
+   [3389]
+    0 TableSoItemLang data
+     0 int id = 1013390
+     1 string schinese = "羡慕嫉妒"
+     1 string schinese_censored = "羡慕嫉妒"
+     1 string english = "Envy"
+     1 string japanese = "嫉妬"
+     1 string mchinese = "羡慕嫉妒"
+   [3390]
+    0 TableSoItemLang data
+     0 int id = 1013391
+     1 string schinese = "自嘲"
+     1 string schinese_censored = "自嘲"
+     1 string english = "Belittling Yourself"
+     1 string japanese = "自虐"
+     1 string mchinese = "自嘲"
+   [3391]
+    0 TableSoItemLang data
+     0 int id = 1013392
+     1 string schinese = "癖好"
+     1 string schinese_censored = "癖好"
+     1 string english = "Partialities"
+     1 string japanese = "癖"
+     1 string mchinese = "癖好"
+   [3392]
+    0 TableSoItemLang data
+     0 int id = 1013393
+     1 string schinese = "绰号"
+     1 string schinese_censored = "绰号"
+     1 string english = "Nickname"
+     1 string japanese = "ニックネーム"
+     1 string mchinese = "綽號"
+   [3393]
+    0 TableSoItemLang data
+     0 int id = 1013394
+     1 string schinese = "武侠小说"
+     1 string schinese_censored = "武侠小说"
+     1 string english = "Martial Arts Novels"
+     1 string japanese = "武侠小説"
+     1 string mchinese = "武俠小說"
+   [3394]
+    0 TableSoItemLang data
+     0 int id = 1013395
+     1 string schinese = "言情小说"
+     1 string schinese_censored = "校园小说"
+     1 string english = "Romance Novels"
+     1 string japanese = "恋愛小説"
+     1 string mchinese = "言情小說"
+   [3395]
+    0 TableSoItemLang data
+     0 int id = 1013396
+     1 string schinese = "虚拟社区"
+     1 string schinese_censored = "虚拟社区"
+     1 string english = "Virtual Community"
+     1 string japanese = "ＳＮＳ"
+     1 string mchinese = "虛擬社區"
+   [3396]
+    0 TableSoItemLang data
+     0 int id = 1013397
+     1 string schinese = "游戏达人"
+     1 string schinese_censored = "游戏达人"
+     1 string english = "Master Gamer"
+     1 string japanese = "ゲームマスター"
+     1 string mchinese = "遊戲達人"
+   [3397]
+    0 TableSoItemLang data
+     0 int id = 1013398
+     1 string schinese = "运动会"
+     1 string schinese_censored = "运动会"
+     1 string english = "Sports Meeting"
+     1 string japanese = "運動会"
+     1 string mchinese = "運動會"
+   [3398]
+    0 TableSoItemLang data
+     0 int id = 1013399
+     1 string schinese = "流言"
+     1 string schinese_censored = "流言"
+     1 string english = "Rumors"
+     1 string japanese = "噂"
+     1 string mchinese = "流言"
+   [3399]
+    0 TableSoItemLang data
+     0 int id = 1013400
+     1 string schinese = "茶话会"
+     1 string schinese_censored = "茶话会"
+     1 string english = "Tea Party"
+     1 string japanese = "茶話会"
+     1 string mchinese = "茶話會"
+   [3400]
+    0 TableSoItemLang data
+     0 int id = 1013401
+     1 string schinese = "才艺表演"
+     1 string schinese_censored = "茶话会"
+     1 string english = "Talent Show"
+     1 string japanese = "特技披露"
+     1 string mchinese = "才藝表演"
+   [3401]
+    0 TableSoItemLang data
+     0 int id = 1013402
+     1 string schinese = "中考"
+     1 string schinese_censored = "中考"
+     1 string english = "Mid-Term Exam"
+     1 string japanese = "高校入試"
+     1 string mchinese = "中考"
+   [3402]
+    0 TableSoItemLang data
+     0 int id = 1013403
+     1 string schinese = "特殊家教"

@@ -1,0 +1,184 @@
+     1 string schinese_censored = "坤坤"
+     1 string english = "Dina Rohana"
+     1 string japanese = "クンクン"
+     1 string mchinese = "坤坤"
+   [22286]
+    0 TableSoItemLang data
+     0 int id = 9900038
+     1 string schinese = "属性加成"
+     1 string schinese_censored = "属性加成"
+     1 string english = "Stat Bonuses"
+     1 string japanese = "能力値ボーナス"
+     1 string mchinese = "屬性加成"
+   [22287]
+    0 TableSoItemLang data
+     0 int id = 9900039
+     1 string schinese = "下一等级："
+     1 string schinese_censored = "下一等级："
+     1 string english = "Next Level: "
+     1 string japanese = "次のレベル："
+     1 string mchinese = "下一等級："
+   [22288]
+    0 TableSoItemLang data
+     0 int id = 9900040
+     1 string schinese = "等级{0}"
+     1 string schinese_censored = "等级{0}"
+     1 string english = "Lv. {0}"
+     1 string japanese = "レベル{0}"
+     1 string mchinese = "等級{0}"
+   [22289]
+    0 TableSoItemLang data
+     0 int id = 9900041
+     1 string schinese = "获得新特长、新职业，提升家族等级并解锁奖励。（每世代结束时升级）"
+     1 string schinese_censored = "获得新特长、新职业，提升家族等级并解锁奖励。（每世代结束时升级）"
+     1 string english = "Acquire new Traits and Professions. Upgrade Family Lv. and unlock Rewards. (Level up at the end of every generation.)"
+     1 string japanese = "新特技・新職業を獲得。家族レベルがアップし、ご褒美がアンロック。（各世代終了時にレベルアップ）"
+     1 string mchinese = "獲得新特長、新職業，提升家族等級並解鎖獎勵。（每世代結束時升級）"
+   [22290]
+    0 TableSoItemLang data
+     0 int id = 9900042
+     1 string schinese = "可升级："
+     1 string schinese_censored = "可升级："
+     1 string english = "Ready to Level Up: "
+     1 string japanese = "レベルアップ可能："
+     1 string mchinese = "可升級："
+   [22291]
+    0 TableSoItemLang data
+     0 int id = 9900043
+     1 string schinese = "（上幼儿园后解锁）"
+     1 string schinese_censored = "（上幼儿园后解锁）"
+     1 string english = "(Unlock after entering kindergarten)"
+     1 string japanese = "（幼稚園に上がるとアンロック）"
+     1 string mchinese = "（上幼稚園後解鎖）"
+   [22292]
+    0 TableSoItemLang data
+     0 int id = 9900044
+     1 string schinese = "长按筛选"
+     1 string schinese_censored = "长按筛选"
+     1 string english = "Hold to Filter"
+     1 string japanese = "長押しでフィルタリング"
+     1 string mchinese = "長按篩選"
+   [22293]
+    0 TableSoItemLang data
+     0 int id = 9900045
+     1 string schinese = "正在切换语言…"
+     1 string schinese_censored = "正在切换语言…"
+     1 string english = "Changing Language..."
+     1 string japanese = "言語切替中…"
+     1 string mchinese = "正在切換語言…"
+   [22294]
+    0 TableSoItemLang data
+     0 int id = 9900046
+     1 string schinese = "查看族谱"
+     1 string schinese_censored = ""
+     1 string english = "View Family Tree"
+     1 string japanese = "家系確認"
+     1 string mchinese = "查看族譜"
+   [22295]
+    0 TableSoItemLang data
+     0 int id = 9900047
+     1 string schinese = "*社会实践中“干劲”越大奖励越多！"
+     1 string schinese_censored = ""
+     1 string english = "*The more “driven” you are, the more rewards you will get from Work!"
+     1 string japanese = "*仕事中の「意欲」が大きいほど報酬も多くなる！"
+     1 string mchinese = "*社會實踐中“幹勁”越大獎勵越多！"
+   [22296]
+    0 TableSoItemLang data
+     0 int id = 9900048
+     1 string schinese = "提示"
+     1 string schinese_censored = ""
+     1 string english = "Tip"
+     1 string japanese = "ヒント"
+     1 string mchinese = "提示"
+   [22297]
+    0 TableSoItemLang data
+     0 int id = 9900049
+     1 string schinese = "下回合将无法领取期望奖励哦！"
+     1 string schinese_censored = ""
+     1 string english = "Unable to claim Expectation Rewards on next turn."
+     1 string japanese = "次のターンでは期待ボーナスを受領できませんよ！"
+     1 string mchinese = "下回合將無法領取期望獎勵哦！"
+   [22298]
+    0 TableSoItemLang data
+     0 int id = 9900050
+     1 string schinese = "现在领取"
+     1 string schinese_censored = ""
+     1 string english = "Claim Now"
+     1 string japanese = "受領中"
+     1 string mchinese = "現在領取"
+   [22299]
+    0 TableSoItemLang data
+     0 int id = 9900051
+     1 string schinese = "安排列表"
+     1 string schinese_censored = ""
+     1 string english = "List"
+     1 string japanese = "予定リスト"
+     1 string mchinese = "安排列表"
+   [22300]
+    0 TableSoItemLang data
+     0 int id = 9900052
+     1 string schinese = "专属道具"
+     1 string schinese_censored = ""
+     1 string english = "Item"
+     1 string japanese = "アイテム"
+     1 string mchinese = "專屬道具"
+   [22301]
+    0 TableSoItemLang data
+     0 int id = 9900053
+     1 string schinese = "专属动作"
+     1 string schinese_censored = ""
+     1 string english = "Action"
+     1 string japanese = "動き"
+     1 string mchinese = "專屬動作"
+   [22302]
+    0 TableSoItemLang data
+     0 int id = 9900054
+     1 string schinese = "专属故事"
+     1 string schinese_censored = ""
+     1 string english = "Story"
+     1 string japanese = "ストーリー"
+     1 string mchinese = "專屬故事"
+   [22303]
+    0 TableSoItemLang data
+     0 int id = 9900055
+     1 string schinese = "就是它"
+     1 string schinese_censored = ""
+     1 string english = "Choose 'em!"
+     1 string japanese = "君に決めた！"
+     1 string mchinese = "就是它"
+   [22304]
+    0 TableSoItemLang data
+     0 int id = 9900056
+     1 string schinese = "似乎没有再增加好感"
+     1 string schinese_censored = ""
+     1 string english = "It didn't seem to do anything at all."
+     1 string japanese = "好感度は上がらなかった"
+     1 string mchinese = "似乎沒有再增加好感"
+   [22305]
+    0 TableSoItemLang data
+     0 int id = 9900057
+     1 string schinese = "提示"
+     1 string schinese_censored = ""
+     1 string english = "Tip"
+     1 string japanese = "ヒント"
+     1 string mchinese = "提示"
+   [22306]
+    0 TableSoItemLang data
+     0 int id = 9900058
+     1 string schinese = "如果现在无情离开，就会失去收养宠物的机会！再想想吧？"
+     1 string schinese_censored = ""
+     1 string english = "If you turn and leave now, you'll be bidding the poor stray farewell! Reconsider?"
+     1 string japanese = "今離れるとペットを飼うチャンスを失ってしまう！もう少し考えてみよう！"
+     1 string mchinese = "如果現在無情離開，就會失去收養寵物的機會！再想想吧？"
+   [22307]
+    0 TableSoItemLang data
+     0 int id = 9900059
+     1 string schinese = "确定离开"
+     1 string schinese_censored = ""
+     1 string english = "Leave anyway"
+     1 string japanese = "それでも離れる"
+     1 string mchinese = "確定離開"
+   [22308]
+    0 TableSoItemLang data
+     0 int id = 9900060
+     1 string schinese = "不忍心！"

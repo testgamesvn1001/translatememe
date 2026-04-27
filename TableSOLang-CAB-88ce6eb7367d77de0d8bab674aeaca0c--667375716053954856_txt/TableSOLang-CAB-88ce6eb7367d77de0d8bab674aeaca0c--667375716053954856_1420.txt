@@ -1,0 +1,184 @@
+     1 string schinese_censored = "最近在班里你跟{0}很亲近的样子……"
+     1 string english = "You seem to be on intimate terms with {0} recently..."
+     1 string japanese = "最近クラスの{0}と仲がよさそうだね…"
+     1 string mchinese = "最近在班裏你跟{0}很親近的樣子……"
+   [32636]
+    0 TableSoItemLang data
+     0 int id = 99993341
+     1 string schinese = "那天放学你跟{0}一起回家，你们是……"
+     1 string schinese_censored = "那天放学你跟{0}一起回家，你们是……"
+     1 string english = "You left school with {0} that day. Are you..."
+     1 string japanese = "放課後に{0}と一緒に帰ってるのを見たんだけど、あれはどういう…"
+     1 string mchinese = "那天放學你跟{0}一起回家，你們是……"
+   [32637]
+    0 TableSoItemLang data
+     0 int id = 99993342
+     1 string schinese = "今天情人节，这个巧克力送你~你不要误会，朋友之间送的巧克力罢了……"
+     1 string schinese_censored = "今天情人节，这个巧克力送你~你不要误会，朋友之间送的巧克力罢了……"
+     1 string english = "Today is Valentine's Day. This chocolate is for you. Don't get me wrong. It's just a gift for a friend..."
+     1 string japanese = "今日はバレンタインだ。チョコをあげるよ！誤解はしないでね。ただの義理チョコだから…"
+     1 string mchinese = "今天情人節，這個巧克力送你~你不要誤會，朋友之間送的巧克力罷了……"
+   [32638]
+    0 TableSoItemLang data
+     0 int id = 99993343
+     1 string schinese = "今年校庆据说很热闹，因为是10周年~有约了么？没有的话跟我一起去看校庆晚会吧~"
+     1 string schinese_censored = "今年校庆据说很热闹，因为是10周年~有约了么？没有的话跟我一起去看校庆晚会吧~"
+     1 string english = "This year's school anniversary celebrations are said to be grand because it's the 10th anniversary. Have you been invited to the celebrations? If not, go to the celebration party with me!"
+     1 string japanese = "今年の創立記念日のイベントは面白そう。１０周年だからね！予定がないなら一緒に行こう！"
+     1 string mchinese = "今年校慶據說很熱鬧，因為是10周年~有約了麼？沒有的話跟我一起去看校慶晚會吧~"
+   [32639]
+    0 TableSoItemLang data
+     0 int id = 99993344
+     1 string schinese = "七夕节一起去看电影吧,听说车站前的电影院会放《大话东游》~"
+     1 string schinese_censored = "七夕节一起去看电影吧,听说车站前的电影院会放《大话东游》~"
+     1 string english = "Let's go to the movies on Chinese Valentine's Day. I heard the cinema in front of the station will play that new movie."
+     1 string japanese = "駅前の映画館で『チャイニーズ・オデッセイ』を上映するみたいなんだ！"
+     1 string mchinese = "七夕節一起去看電影吧,聽說車站前的電影院會放《大話東遊》~"
+   [32640]
+    0 TableSoItemLang data
+     0 int id = 99993345
+     1 string schinese = "圣诞节晚上一起去车站前的圣诞晚会逛一下吧"
+     1 string schinese_censored = "圣诞节晚上一起去车站前的圣诞晚会逛一下吧"
+     1 string english = "Let's go to the Christmas party in front of the station on Christmas Eve."
+     1 string japanese = "クリスマスイブは駅前のクリスマスパーティーに行こう！"
+     1 string mchinese = "耶誕節晚上一起去車站前的聖誕晚會逛一下吧"
+   [32641]
+    0 TableSoItemLang data
+     0 int id = 99993346
+     1 string schinese = "周末一起去体育馆吧，适时运动也对身体好啊~"
+     1 string schinese_censored = "周末一起去体育馆吧，适时运动也对身体好啊~"
+     1 string english = "Let's go to the gym this weekend. Appropriate exercise is good for your health."
+     1 string japanese = "週末は一緒にジムへ行こうよ。運動は体にいいよ！"
+     1 string mchinese = "週末一起去體育館吧，適時運動也對身體好啊~"
+   [32642]
+    0 TableSoItemLang data
+     0 int id = 99993347
+     1 string schinese = "下周有个独立游戏展，你想要一起去么？"
+     1 string schinese_censored = "下周有个独立游戏展，你想要一起去么？"
+     1 string english = "There's an indie game show next week. Would you like to go with me?"
+     1 string japanese = "来週、ゲームのイベントがあるんだけど、一緒にどう？"
+     1 string mchinese = "下周有個獨立遊戲展，你想要一起去麼？"
+   [32643]
+    0 TableSoItemLang data
+     0 int id = 99993348
+     1 string schinese = "周末一块出去玩吧，最近在家实在有些闷"
+     1 string schinese_censored = "周末一块出去玩吧，最近在家实在有些闷"
+     1 string english = "Let's go out this weekend. I've been a bit bored at home lately."
+     1 string japanese = "週末は遊びに行こうよ。家でゴロゴロしててもつまらないよ。"
+     1 string mchinese = "週末一塊出去玩吧，最近在家實在有些悶"
+   [32644]
+    0 TableSoItemLang data
+     0 int id = 99993349
+     1 string schinese = "最近学习有点紧，听说有个画展，一起去放松下身心吧"
+     1 string schinese_censored = "最近学习有点紧，听说有个画展，一起去放松下身心吧"
+     1 string english = "I've been a little busy with my study recently. I heard that there is an art exhibition. Let's go to relax."
+     1 string japanese = "最近、勉強でイライラしてない？今度絵画展が開かれるって。一緒に行って楽しもう！"
+     1 string mchinese = "最近學習有點緊，聽說有個畫展，一起去放鬆下身心吧"
+   [32645]
+    0 TableSoItemLang data
+     0 int id = 99993350
+     1 string schinese = "前几天拿到的代金券，你喜欢送你的了~下次我们一起去~"
+     1 string schinese_censored = "前几天拿到的代金券，你喜欢送你的了~下次我们一起去~"
+     1 string english = "I got this coupon the other day. Since you like it, I'll give it to you. Let's go together next time!"
+     1 string japanese = "この前、商品券をもらったんだ。今度一緒に買い物に行こう！"
+     1 string mchinese = "前幾天拿到的代金券，你喜歡送你的了~下次我們一起去~"
+   [32646]
+    0 TableSoItemLang data
+     0 int id = 99993351
+     1 string schinese = "领养一只可爱的宠物[临时99993351]"
+     1 string schinese_censored = "领养一只可爱的宠物[临时99993351]"
+     1 string english = "廢棄"
+     1 string japanese = "廢棄"
+     1 string mchinese = "領養一只可愛的寵物[臨時99993351]"
+   [32647]
+    0 TableSoItemLang data
+     0 int id = 99993352
+     1 string schinese = ""
+     1 string schinese_censored = ""
+     1 string english = "廢棄"
+     1 string japanese = "廢棄"
+     1 string mchinese = ""
+   [32648]
+    0 TableSoItemLang data
+     0 int id = 99993353
+     1 string schinese = ""
+     1 string schinese_censored = ""
+     1 string english = "廢棄"
+     1 string japanese = "廢棄"
+     1 string mchinese = ""
+   [32649]
+    0 TableSoItemLang data
+     0 int id = 99993354
+     1 string schinese = "一条典型的野狗[临时99993354]"
+     1 string schinese_censored = "一条典型的野狗[临时99993354]"
+     1 string english = "廢棄"
+     1 string japanese = "廢棄"
+     1 string mchinese = "一條典型的野狗[臨時99993354]"
+   [32650]
+    0 TableSoItemLang data
+     0 int id = 99993355
+     1 string schinese = "宠物"
+     1 string schinese_censored = "宠物"
+     1 string english = "Pets"
+     1 string japanese = "ペット"
+     1 string mchinese = "寵物"
+   [32651]
+    0 TableSoItemLang data
+     0 int id = 99993356
+     1 string schinese = "点击挖取<color=#FF910F>悟性脑洞</color>"
+     1 string schinese_censored = "点击挖取<color=#FF910F>悟性脑洞</color>"
+     1 string english = "Absorb a <color=#FF910F>Knowledge Fragment</color>."
+     1 string japanese = "<color=#FF910F>理解力のカケラ</color>を選択しよう"
+     1 string mchinese = "點擊挖取<color=#FF910F>悟性腦洞</color>"
+   [32652]
+    0 TableSoItemLang data
+     0 int id = 99993357
+     1 string schinese = "再挖一个"
+     1 string schinese_censored = "再挖一个"
+     1 string english = "And another."
+     1 string japanese = "もう１個"
+     1 string mchinese = "再挖一個"
+   [32653]
+    0 TableSoItemLang data
+     0 int id = 99993358
+     1 string schinese = "在好友空间晒照片"
+     1 string schinese_censored = "在好友空间晒照片"
+     1 string english = "Post pics online for friends to see"
+     1 string japanese = "ブログに写真を投稿する"
+     1 string mchinese = "在好友空間曬照片"
+   [32654]
+    0 TableSoItemLang data
+     0 int id = 99993359
+     1 string schinese = "在网络社交平台晒照片"
+     1 string schinese_censored = "在网络社交平台晒照片"
+     1 string english = "Post pics online for everyone to see"
+     1 string japanese = "SNSに写真を投稿する"
+     1 string mchinese = "在網路社交平臺曬照片"
+   [32655]
+    0 TableSoItemLang data
+     0 int id = 99993360
+     1 string schinese = "叫好朋友来玩"
+     1 string schinese_censored = "叫好朋友来玩"
+     1 string english = "Call some friends over to play"
+     1 string japanese = "友達を家に呼ぶ"
+     1 string mchinese = "叫好朋友來玩"
+   [32656]
+    0 TableSoItemLang data
+     0 int id = 99993361
+     1 string schinese = "把房门开着睡"
+     1 string schinese_censored = "把房门开着睡"
+     1 string english = "Keep the door open as you sleep"
+     1 string japanese = "ドアを開けて寝る"
+     1 string mchinese = "把房門開著睡"
+   [32657]
+    0 TableSoItemLang data
+     0 int id = 99993362
+     1 string schinese = "和父母抗议"
+     1 string schinese_censored = "和父母抗议"
+     1 string english = "Voice your resistance to your parents"
+     1 string japanese = "両親に抗議する"
+     1 string mchinese = "和父母抗議"
+   [32658]
+    0 TableSoItemLang data
+     0 int id = 99993363
+     1 string schinese = "把猫窝拖进房间"

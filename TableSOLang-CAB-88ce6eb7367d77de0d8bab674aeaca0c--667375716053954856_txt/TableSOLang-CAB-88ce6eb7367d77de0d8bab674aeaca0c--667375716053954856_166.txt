@@ -1,0 +1,184 @@
+     1 string schinese_censored = "英语技能掌握的越多，在考试和最终高考中，该科目就会有更好的表现。"
+     1 string english = "Studying this increases your English performance in exams and on Gaokao."
+     1 string japanese = "英語スキルを多く学ぶほど、試験や大学入試で良い結果が出る。"
+     1 string mchinese = "英語技能掌握的越多，在考試和最終高考中，該科目就會有更好的表現。"
+   [3794]
+    0 TableSoItemLang data
+     0 int id = 1013795
+     1 string schinese = "文科技能掌握的越多，在考试和最终高考中就会有更好的表现。"
+     1 string schinese_censored = "文科技能掌握的越多，在考试和最终高考中就会有更好的表现。"
+     1 string english = "Studying this increases your Liberal Arts performance in exams and on Gaokao."
+     1 string japanese = "文系スキルを多く学ぶほど、試験や大学入試で良い結果が出る。"
+     1 string mchinese = "文科技能掌握的越多，在考試和最終高考中就會有更好的表現。"
+   [3795]
+    0 TableSoItemLang data
+     0 int id = 1013796
+     1 string schinese = "理科技能掌握的越多，在考试和最终高考中就会有更好的表现。"
+     1 string schinese_censored = "理科技能掌握的越多，在考试和最终高考中就会有更好的表现。"
+     1 string english = "Studying this increases your Science performance in exams and on Gaokao."
+     1 string japanese = "理系スキルを多く学ぶほど、試験や大学入試で良い結果が出る。"
+     1 string mchinese = "理科技能掌握的越多，在考試和最終高考中就會有更好的表現。"
+   [3796]
+    0 TableSoItemLang data
+     0 int id = 1013797
+     1 string schinese = "体育生必备技能，最终可通向运动员之路。"
+     1 string schinese_censored = "体育生必备技能，最终可通向运动员之路。"
+     1 string english = "Sports are essential skills and they lead you toward becoming an athlete."
+     1 string japanese = "体育系学生に必須スキル。最終的にスポーツ選手への道が開ける。"
+     1 string mchinese = "體育生必備技能，最終可通向運動員之路。"
+   [3797]
+    0 TableSoItemLang data
+     0 int id = 1013798
+     1 string schinese = "艺术生必备，最终可通向艺术大师之路。"
+     1 string schinese_censored = "艺术生必备，最终可通向艺术大师之路。"
+     1 string english = "Art is an essential skill and it leads you toward becoming an artist."
+     1 string japanese = "芸術系学生に必須スキル。最終的にアーティストへの道が開ける。"
+     1 string mchinese = "藝術生必備，最終可通向藝術大師之路。"
+   [3798]
+    0 TableSoItemLang data
+     0 int id = 1013799
+     1 string schinese = "敬请期待"
+     1 string schinese_censored = "敬请期待"
+     1 string english = "Coming soon."
+     1 string japanese = "期待してね！"
+     1 string mchinese = "敬請期待"
+   [3799]
+    0 TableSoItemLang data
+     0 int id = 1013800
+     1 string schinese = "通过基础数学解锁，逐步学各类技能，可做程序员或产品经理或游戏制作人。"
+     1 string schinese_censored = "通过基础数学解锁，逐步学各类技能，可做程序员或产品经理或游戏制作人。"
+     1 string english = "Unlocks by learning basic math. Study these courses to become a programmer or game producer."
+     1 string japanese = "基礎数学を学ぶことでアンロックされる。学ぶスキルにより、プログラマ、プロデューサー、ゲームクリエイターへの道が開ける。"
+     1 string mchinese = "通過基礎數學解鎖，逐步學各類技能，可做程式員或產品經理或遊戲製作人。"
+   [3800]
+    0 TableSoItemLang data
+     0 int id = 1013801
+     1 string schinese = "通过无线艺人报名可逐步掌握演艺技能，可走传统艺人或网红艺人路线。"
+     1 string schinese_censored = "通过无线艺人报名可逐步掌握演艺技能，可走传统艺人或网红艺人路线。"
+     1 string english = "Apply via a form, after which you can learn various performance arts and become a cewebrity."
+     1 string japanese = "通信芸能応募書によって演芸スキルが習得できる。芸能人やネット有名人への道が開ける。"
+     1 string mchinese = "通過無線藝人報名可逐步掌握演藝技能，可走傳統藝人或網紅藝人路線。"
+   [3801]
+    0 TableSoItemLang data
+     0 int id = 1013802
+     1 string schinese = "通过存钱罐解锁此类技能，最终通向商人路线"
+     1 string schinese_censored = "通过存钱罐解锁此类技能，最终通向商人路线"
+     1 string english = "Unlocks from the Piggy Bank. Takes you on the road to becoming a business person."
+     1 string japanese = "貯金箱を買うとアンロックされる。最終的に商売人への道が開ける。"
+     1 string mchinese = "通過存錢罐解鎖此類技能，最終通向商人路線"
+   [3802]
+    0 TableSoItemLang data
+     0 int id = 1013803
+     1 string schinese = "通过成功学打开沟通桥梁，可以通向销售路线"
+     1 string schinese_censored = "通过成功学打开沟通桥梁，可以通向销售路线"
+     1 string english = "Learn how to bridge the gap of communication and you're on your way to become a salesperson!"
+     1 string japanese = "成功哲学を通じてコミュニケーションスキルが身に付く。販売に関わる職業への道が開ける。"
+     1 string mchinese = "通過成功學打開溝通橋樑，可以通向銷售路線"
+   [3803]
+    0 TableSoItemLang data
+     0 int id = 1013804
+     1 string schinese = "数学的真理永无止境，真正的数学和应试数学完全不同，想成为数学家吗？"
+     1 string schinese_censored = "数学的真理永无止境，真正的数学和应试数学完全不同，想成为数学家吗？"
+     1 string english = "The truth behind magic is endless. Do you want to become a mathematician?"
+     1 string japanese = "数学の真理は果てしなく続く。真の数学と受験数学は全く異なる。それでも数学者になりたいのか？"
+     1 string mchinese = "數學的真理永無止境，真正的數學和應試數學完全不同，想成為數學家嗎？"
+   [3804]
+    0 TableSoItemLang data
+     0 int id = 1013805
+     1 string schinese = "物理学在学术领域至关重要，真正的物理和高中理科完全不同，需要付出百倍努力"
+     1 string schinese_censored = "物理学在学术领域至关重要，真正的物理和高中理科完全不同，需要付出百倍努力"
+     1 string english = "Physics is important in the academic realm, and it differs greatly from high school."
+     1 string japanese = "物理は学術領域では極めて重要だ。真の物理と高校物理は全く異なる。数百倍の努力が必要になる。"
+     1 string mchinese = "物理學在學術領域至關重要，真正的物理和高中理科完全不同，需要付出百倍努力"
+   [3805]
+    0 TableSoItemLang data
+     0 int id = 1013806
+     1 string schinese = "通过作为忍术爱好者入门，走上成为上忍之路吧！"
+     1 string schinese_censored = "通过作为忍术爱好者入门，走上成为上忍之路吧！"
+     1 string english = "Start as a ninja enthusiast and step onto your road of becoming a true ninja!"
+     1 string japanese = "忍者愛好家として入門し、忍への道を極めよう！"
+     1 string mchinese = "通過作為忍術愛好者入門，走上成為上忍之路吧！"
+   [3806]
+    0 TableSoItemLang data
+     0 int id = 1013807
+     1 string schinese = "培养自己的品味，把自信和美带给更多的女孩子！可做美妆或服装或珠宝相关的工作。"
+     1 string schinese_censored = "培养自己的品味，把自信和美带给更多的女孩子！可做美妆或服装或珠宝相关的工作。"
+     1 string english = "Foster your taste and learn about beauty! Lets you work with cosmetics, clothing and jewelry."
+     1 string japanese = "センスを磨き、美と自信を多くの女の子と分かち合おう！美容、アパレル、宝石に関わる職業への道が開ける。"
+     1 string mchinese = "培養自己的品味，把自信和美帶給更多的女孩子！可做美妝或服裝或珠寶相關的工作。"
+   [3807]
+    0 TableSoItemLang data
+     0 int id = 1013808
+     1 string schinese = "通过乐谱解锁后逐步学习相关音乐知识，最后可走上音乐相关的职业。"
+     1 string schinese_censored = "通过乐谱解锁后逐步学习相关音乐知识，最后可走上音乐相关的职业。"
+     1 string english = "Study the knowledge of music in order to make a name for yourself in the industry."
+     1 string japanese = "楽譜を読めるようになると、音楽に関するスキルも学べる、最終的に音楽に関わる職業への道が開ける。"
+     1 string mchinese = "通過樂譜解鎖後逐步學習相關音樂知識，最後可走上音樂相關的職業。"
+   [3808]
+    0 TableSoItemLang data
+     0 int id = 1013809
+     1 string schinese = "健康成长"
+     1 string schinese_censored = "健康成长"
+     1 string english = "Healthy Growth"
+     1 string japanese = "健やかな成長"
+     1 string mchinese = "健康成長"
+   [3809]
+    0 TableSoItemLang data
+     0 int id = 1013810
+     1 string schinese = "聪明伶俐"
+     1 string schinese_censored = "聪明伶俐"
+     1 string english = "Clever Child"
+     1 string japanese = "聡明"
+     1 string mchinese = "聰明伶俐"
+   [3810]
+    0 TableSoItemLang data
+     0 int id = 1013811
+     1 string schinese = "重点小学达标"
+     1 string schinese_censored = "重点小学达标"
+     1 string english = "Key Elementary School"
+     1 string japanese = "名門小学校合格"
+     1 string mchinese = "重點小學達標"
+   [3811]
+    0 TableSoItemLang data
+     0 int id = 1013812
+     1 string schinese = "重点中学达标"
+     1 string schinese_censored = "重点中学达标"
+     1 string english = "Key High School"
+     1 string japanese = "名門中学校合格"
+     1 string mchinese = "重點中學達標"
+   [3812]
+    0 TableSoItemLang data
+     0 int id = 1013813
+     1 string schinese = "重点高中达标"
+     1 string schinese_censored = "重点高中达标"
+     1 string english = "Key Senior High School"
+     1 string japanese = "名門高校合格"
+     1 string mchinese = "重點高中達標"
+   [3813]
+    0 TableSoItemLang data
+     0 int id = 1013814
+     1 string schinese = "高考"
+     1 string schinese_censored = "高考"
+     1 string english = "Gaokao"
+     1 string japanese = "大学入試"
+     1 string mchinese = "高考"
+   [3814]
+    0 TableSoItemLang data
+     0 int id = 1013815
+     1 string schinese = "老实孩子"
+     1 string schinese_censored = "老实孩子"
+     1 string english = "Behaving Child"
+     1 string japanese = "よい子"
+     1 string mchinese = "老實孩子"
+   [3815]
+    0 TableSoItemLang data
+     0 int id = 1013816
+     1 string schinese = "竞选小队长"
+     1 string schinese_censored = "竞选小队长"
+     1 string english = "Young Class Monitor"
+     1 string japanese = "学級委員長に立候補"
+     1 string mchinese = "競選小隊長"
+   [3816]
+    0 TableSoItemLang data
+     0 int id = 1013817
+     1 string schinese = "小艺术家"

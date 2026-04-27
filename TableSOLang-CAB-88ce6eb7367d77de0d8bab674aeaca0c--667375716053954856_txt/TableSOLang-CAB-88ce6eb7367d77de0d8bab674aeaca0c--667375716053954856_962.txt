@@ -1,0 +1,184 @@
+     1 string schinese_censored = "竞选"
+     1 string english = "Election"
+     1 string japanese = "選挙戦"
+     1 string mchinese = "競選"
+   [22102]
+    0 TableSoItemLang data
+     0 int id = 6661012
+     1 string schinese = "您的家族等级已经达到最高！"
+     1 string schinese_censored = ""
+     1 string english = "You've reached the max Family Lv.!"
+     1 string japanese = "家族レベルが最高になりました！"
+     1 string mchinese = "您的家族等級已經達到最高！"
+   [22103]
+    0 TableSoItemLang data
+     0 int id = 6661013
+     1 string schinese = "课程进阶"
+     1 string schinese_censored = ""
+     1 string english = "後續功能，暫不翻譯"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "課程進階"
+   [22104]
+    0 TableSoItemLang data
+     0 int id = 6661014
+     1 string schinese = "正在进阶"
+     1 string schinese_censored = ""
+     1 string english = "後續功能，暫不翻譯"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "正在進階"
+   [22105]
+    0 TableSoItemLang data
+     0 int id = 6661015
+     1 string schinese = "可以进阶"
+     1 string schinese_censored = ""
+     1 string english = "後續功能，暫不翻譯"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "可以進階"
+   [22106]
+    0 TableSoItemLang data
+     0 int id = 6661016
+     1 string schinese = "一、{0}（{1}：+{2}）"
+     1 string schinese_censored = "一、{0}（{1}：+{2}）"
+     1 string english = "1. {0} ({1}: +{2})"
+     1 string japanese = "１、{0}（{1}：+{2}）"
+     1 string mchinese = "一、{0}（{1}：+{2}）"
+   [22107]
+    0 TableSoItemLang data
+     0 int id = 6661017
+     1 string schinese = "二、{0}（{1}：+{2}）"
+     1 string schinese_censored = "二、{0}（{1}：+{2}）"
+     1 string english = "2. {0} ({1}: +{2})"
+     1 string japanese = "２、{0}（{1}：+{2}）"
+     1 string mchinese = "二、{0}（{1}：+{2}）"
+   [22108]
+    0 TableSoItemLang data
+     0 int id = 6661018
+     1 string schinese = "三、{0}（{1}：+{2}）"
+     1 string schinese_censored = "三、{0}（{1}：+{2}）"
+     1 string english = "3. {0} ({1}: +{2})"
+     1 string japanese = "３、{0}（{1}：+{2}）"
+     1 string mchinese = "三、{0}（{1}：+{2}）"
+   [22109]
+    0 TableSoItemLang data
+     0 int id = 6661019
+     1 string schinese = "进阶完成"
+     1 string schinese_censored = ""
+     1 string english = "後續功能，暫不翻譯6661019"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "進階完成"
+   [22110]
+    0 TableSoItemLang data
+     0 int id = 6661020
+     1 string schinese = "提升为->"
+     1 string schinese_censored = ""
+     1 string english = "後續功能，暫不翻譯6661020"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "提升為->"
+   [22111]
+    0 TableSoItemLang data
+     0 int id = 6661021
+     1 string schinese = "未达成"
+     1 string schinese_censored = "未达成"
+     1 string english = "Not Achieved"
+     1 string japanese = "未達成"
+     1 string mchinese = "未達成"
+   [22112]
+    0 TableSoItemLang data
+     0 int id = 6661022
+     1 string schinese = "不用着急，离高考还早着呢！"
+     1 string schinese_censored = "不用着急，离高考还早着呢！"
+     1 string english = "Don't worry! There's still some time before the Gaokao."
+     1 string japanese = "慌てるな、まだ大学入試まで時間がある！"
+     1 string mchinese = "不用著急，離高考還早著呢！"
+   [22113]
+    0 TableSoItemLang data
+     0 int id = 6661023
+     1 string schinese = "·上学永久免费"
+     1 string schinese_censored = "·上学永久免费"
+     1 string english = "·Free Education in Game"
+     1 string japanese = "・入学永久無料"
+     1 string mchinese = "·上學永久免費"
+   [22114]
+    0 TableSoItemLang data
+     0 int id = 6661024
+     1 string schinese = "·家族可以无限代体验"
+     1 string schinese_censored = "·家族可以无限代体验"
+     1 string english = "·Unlimited Family Generations"
+     1 string japanese = "・家族世代制限撤廃"
+     1 string mchinese = "·家族可以無限代體驗"
+   [22115]
+    0 TableSoItemLang data
+     0 int id = 6661025
+     1 string schinese = "·免费获得“电竞达人资料片”"
+     1 string schinese_censored = "·免费获得“电竞达人资料片”"
+     1 string english = "·Free E-Sports World DLC"
+     1 string japanese = "・ＤＬＣ「ｅスポーツの達人」を無料で獲得"
+     1 string mchinese = "·免費獲得“電競達人資料片”"
+   [22116]
+    0 TableSoItemLang data
+     0 int id = 6661026
+     1 string schinese = "·返还所有免费体验时付的学费"
+     1 string schinese_censored = "·返还所有免费体验付的学费"
+     1 string english = "·Refund All Tuition From the Free Trial"
+     1 string japanese = "・無料体験で消費した授業料をすべて返却"
+     1 string mchinese = "·返還所有免費體驗時付的學費"
+   [22117]
+    0 TableSoItemLang data
+     0 int id = 6661027
+     1 string schinese = "恭喜你成功解锁付费内容！额外返还的学费值明细如下：\n已消耗用于解锁体验内容——{0}\n额外成就奖励——{1}"
+     1 string schinese_censored = "恭喜你成功解锁付费内容！额外返还的学费值明细如下：\n已消耗用于解锁体验内容——{0}\n额外成就奖励——{1}"
+     1 string english = "Congratulations! You've unlocked a paid content. Here are the refunded Tuition details:\nPaid for unlocking trial content {0}.\nExtra Challenge rewards {1}."
+     1 string japanese = "有料コンテンツをアンロックしました！さらに、以下の授業料が返却されます：\nお試しコンテンツのアンロックに消費した授業料——{0}\n追加の成績報酬——{1}"
+     1 string mchinese = "恭喜你成功解鎖付費內容！額外返還的學費值明細如下：\n已消耗用於解鎖體驗內容——{0}\n額外成就獎勵——{1}"
+   [22118]
+    0 TableSoItemLang data
+     0 int id = 6661028
+     1 string schinese = "培训"
+     1 string schinese_censored = ""
+     1 string english = "後續功能，暫不翻譯"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "培訓"
+   [22119]
+    0 TableSoItemLang data
+     0 int id = 6661029
+     1 string schinese = "*特长生培训基地"
+     1 string schinese_censored = ""
+     1 string english = "後續功能，暫不翻譯"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "*特長生培訓基地"
+   [22120]
+    0 TableSoItemLang data
+     0 int id = 6661030
+     1 string schinese = "点击空白处继续"
+     1 string schinese_censored = ""
+     1 string english = "Click to continue."
+     1 string japanese = "空白部分を選択して続ける"
+     1 string mchinese = "點擊空白處繼續"
+   [22121]
+    0 TableSoItemLang data
+     0 int id = 6661031
+     1 string schinese = "培训点不足，先去挖挖脑洞提升自己吧~"
+     1 string schinese_censored = ""
+     1 string english = "Insufficient Talent Points. Absorb Fragments to improve yourself."
+     1 string japanese = "天賦能力値が不足しています。「カケラ」を吸収して能力を上昇させましょう。"
+     1 string mchinese = "天賦點不足，先去挖挖腦洞提升自己吧~"
+   [22122]
+    0 TableSoItemLang data
+     0 int id = 6661032
+     1 string schinese = "报考院校"
+     1 string schinese_censored = ""
+     1 string english = "後續功能，暫不翻譯"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "報考院校"
+   [22123]
+    0 TableSoItemLang data
+     0 int id = 6661033
+     1 string schinese = "已经报考{0}/{1}所"
+     1 string schinese_censored = ""
+     1 string english = "後續功能，暫不翻譯"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "已經報考{0}/{1}所"
+   [22124]
+    0 TableSoItemLang data
+     0 int id = 6661034
+     1 string schinese = "前往考试"

@@ -1,0 +1,184 @@
+     1 string schinese_censored = "效果说明"
+     1 string english = "Details"
+     1 string japanese = "効果説明"
+     1 string mchinese = "效果說明"
+   [22079]
+    0 TableSoItemLang data
+     0 int id = 6660271
+     1 string schinese = "第{0}世代解锁该槽位"
+     1 string schinese_censored = "第{0}世代解锁该槽位"
+     1 string english = "Unlocks at Gen {0}"
+     1 string japanese = "第{0}世代でアンロック"
+     1 string mchinese = "第{0}世代解鎖該槽位"
+   [22080]
+    0 TableSoItemLang data
+     0 int id = 6660272
+     1 string schinese = "佩戴完毕"
+     1 string schinese_censored = "佩戴完毕"
+     1 string english = "Finish"
+     1 string japanese = "装着完了"
+     1 string mchinese = "佩戴完畢"
+   [22081]
+    0 TableSoItemLang data
+     0 int id = 6660273
+     1 string schinese = "卸下"
+     1 string schinese_censored = "卸下"
+     1 string english = "Remove"
+     1 string japanese = "外す"
+     1 string mchinese = "卸下"
+   [22082]
+    0 TableSoItemLang data
+     0 int id = 6660274
+     1 string schinese = "未装备传家宝"
+     1 string schinese_censored = "未装备传家宝"
+     1 string english = "Family Heirloom not equipped."
+     1 string japanese = "家宝未装着"
+     1 string mchinese = "未裝備傳家寶"
+   [22083]
+    0 TableSoItemLang data
+     0 int id = 6660275
+     1 string schinese = "本世代没有佩戴任何传家宝"
+     1 string schinese_censored = "本世代没有佩戴任何传家宝"
+     1 string english = "You've not equipped any Family Heirlooms."
+     1 string japanese = "この世代は家宝を装着していません"
+     1 string mchinese = "本世代沒有佩戴任何傳家寶"
+   [22084]
+    0 TableSoItemLang data
+     0 int id = 6660276
+     1 string schinese = "不要在答题线外作答，请在“解题区”内操作。"
+     1 string schinese_censored = "不要在答题线外作答，请在“解题区”内操作。"
+     1 string english = "Please write down your answers in the designated area and don't write outside the lines."
+     1 string japanese = "問題の欄外で解答しないでください。「解答欄」内で操作してください。"
+     1 string mchinese = "不要在答題線外作答，請在“解題區”內操作。"
+   [22085]
+    0 TableSoItemLang data
+     0 int id = 6660277
+     1 string schinese = "<size=40>玩法说明：</size>\n1.率先推倒对方<color=#fdb301>主基地</color>（红色）获胜；\n2.地图分<color=#fdb301>3条线</color>，可通过拖动我的<color=#fdb301>特长</color>加入战斗，同一条线<color=#fdb301>可拖入多个特长</color>；\n3.每回合每条线的<color=#fdb301>战斗力</color>，更高的一方可以推掉对方的一座塔；\n4.任意1条线3座塔推掉后才可攻击主基地；\n5.第三回合可以打野外BOSS，战胜+30%战力；\n6.当敌我同时攻击对方主基地时，伤害总和高的一方获胜；\n7.多回合模式中，采用赛点机制，比如三局两胜；"
+     1 string schinese_censored = ""
+     1 string english = "<size=40>Instructions:</size>\n1. The first to destroy the opponent's <color=#fdb301>Nexus</color> wins.\n2. There are <color=#fdb301>three lanes</color> on the map. Assign your <color=#fdb301>traits</color> into the match. You can assign <color=#fdb301>multiple traits</color> on the same lane.\n3. Both teams' <color=#fdb301>Force Points</color> of every lane are compared each turn. The team with higher Force Point destroys the opponent's turret.\n4. The team is allowed to attack the opponent Nexus only after destroying all 3 turrets of 1 lane. \n5. You can challenge Boss Monsters on the third turn and get a 30% Force Point bonus if you win.\n6. If both sides' Nexuses are destroyed in the same turn, the team with higher total damage will be the winner.\n7. Match Points will be activated if there are many matches in a row, for example, best of 3."
+     1 string japanese = "<size=40>ルール説明：</size>\n１．相手の<color=#fdb301>ネクサス</color>（赤色）を破壊すると勝利\n２．マップは<color=#fdb301>３本のレーン</color>に分かれている。<color=#fdb301>特技</color>をレーンに置くと、戦闘で使用できる。１つのレーンに<color=#fdb301>複数の特技を置くことも可能</color>\n３．毎ターン、各レーンにおいて<color=#fdb301>戦闘力</color>がより高い側が相手のタワーを破壊する\n４．任意のレーンでタワーを３基破壊すると、ネクサスを攻撃できる\n５．３ターン目は中立ボスと戦うことができる。ボスを倒すと、戦闘力が30%アップ\n６．両者が同時に相手のネクサスを破壊した場合は、ダメージの合計がより高い側が勝利\n７．複数ターンモードでは、セットマッチ制が採用される（２戦先取で勝利など）"
+     1 string mchinese = "<size=40>玩法說明：</size>\n1.率先推倒對方<color=#fdb301>主基地</color>（紅色）獲勝；\n2.地圖分<color=#fdb301>3條線</color>，可通過拖動我的<color=#fdb301>特長</color>加入戰鬥，同一條線<color=#fdb301>可拖入多個特長</color>；\n3.每回合每條線的<color=#fdb301>戰鬥力</color>，更高的一方可以推掉對方的一座塔；\n4.任意1條線3座塔推掉後才可攻擊主基地；\n5.第三回合可以打野外BOSS，戰勝+30%戰力；\n6.當敵我同時攻擊對方主基地時，傷害總和高的一方獲勝；\n7.多回合模式中，採用賽點機制，比如三局兩勝；"
+   [22086]
+    0 TableSoItemLang data
+     0 int id = 6660278
+     1 string schinese = "请寻找宝箱的钥匙"
+     1 string schinese_censored = ""
+     1 string english = "後續功能，暫不翻譯"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "請尋找寶箱的鑰匙"
+   [22087]
+    0 TableSoItemLang data
+     0 int id = 6660279
+     1 string schinese = "请先找到宝箱"
+     1 string schinese_censored = ""
+     1 string english = "後續功能，暫不翻譯"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "請先解鎖寶箱"
+   [22088]
+    0 TableSoItemLang data
+     0 int id = 6660280
+     1 string schinese = "炸弹快爆炸啦，快挖取周围的脑洞吧"
+     1 string schinese_censored = ""
+     1 string english = "後續功能，暫不翻譯"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "炸彈快爆炸啦，快挖取周圍的寶藏吧"
+   [22089]
+    0 TableSoItemLang data
+     0 int id = 6660281
+     1 string schinese = "考试成绩似乎不理想，并没有受到任何考试合格报告~"
+     1 string schinese_censored = ""
+     1 string english = "後續功能，暫不翻譯"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "考試成績似乎不理想，並沒有受到任何考試合格報告~"
+   [22090]
+    0 TableSoItemLang data
+     0 int id = 6661000
+     1 string schinese = "买不买？"
+     1 string schinese_censored = "买不买？"
+     1 string english = "You buyin'?"
+     1 string japanese = "買うの？買わないの？"
+     1 string mchinese = "買不買？"
+   [22091]
+    0 TableSoItemLang data
+     0 int id = 6661001
+     1 string schinese = "不买别乱摸！"
+     1 string schinese_censored = "不买别乱摸！"
+     1 string english = "You touch, you buy!"
+     1 string japanese = "ベタベタ触らないでくれるかな！"
+     1 string mchinese = "不買別亂摸！"
+   [22092]
+    0 TableSoItemLang data
+     0 int id = 6661002
+     1 string schinese = "看够了没？"
+     1 string schinese_censored = "看够了没？"
+     1 string english = "You done ogling?"
+     1 string japanese = "いつまで見てるつもりだい？"
+     1 string mchinese = "看夠了沒？"
+   [22093]
+    0 TableSoItemLang data
+     0 int id = 6661003
+     1 string schinese = "你买太多了，不能再买了！"
+     1 string schinese_censored = "你买太多了，不能再买了！"
+     1 string english = "You've already bought enough of these!"
+     1 string japanese = "買いすぎだよ！"
+     1 string mchinese = "你買太多了，不能再買了！"
+   [22094]
+    0 TableSoItemLang data
+     0 int id = 6661004
+     1 string schinese = "#还可购买{0}次#"
+     1 string schinese_censored = "#还可购买{0}次#"
+     1 string english = "#{0} in stock#"
+     1 string japanese = "＃あと{0}回購入可能"
+     1 string mchinese = "#還可購買{0}次#"
+   [22095]
+    0 TableSoItemLang data
+     0 int id = 6661005
+     1 string schinese = "新到玩具，不买别摸"
+     1 string schinese_censored = "新到玩具，不买别摸"
+     1 string english = "New toys! You touch 'em, you buy 'em."
+     1 string japanese = "冷やかしお断り"
+     1 string mchinese = "新到玩具，不買別摸"
+   [22096]
+    0 TableSoItemLang data
+     0 int id = 6661006
+     1 string schinese = "收起"
+     1 string schinese_censored = "收起"
+     1 string english = "Close"
+     1 string japanese = "閉じる"
+     1 string mchinese = "收起"
+   [22097]
+    0 TableSoItemLang data
+     0 int id = 6661007
+     1 string schinese = "旁白君"
+     1 string schinese_censored = ""
+     1 string english = "Narration"
+     1 string japanese = "ナレーター"
+     1 string mchinese = "旁白君"
+   [22098]
+    0 TableSoItemLang data
+     0 int id = 6661008
+     1 string schinese = "备用解锁文案1"
+     1 string schinese_censored = ""
+     1 string english = "廢棄"
+     1 string japanese = "廢棄"
+     1 string mchinese = "備用解鎖文案1"
+   [22099]
+    0 TableSoItemLang data
+     0 int id = 6661009
+     1 string schinese = "备用解锁文案2"
+     1 string schinese_censored = ""
+     1 string english = "廢棄"
+     1 string japanese = "廢棄"
+     1 string mchinese = "備用解鎖文案2"
+   [22100]
+    0 TableSoItemLang data
+     0 int id = 6661010
+     1 string schinese = "请在 Steam 中购买相应 DLC"
+     1 string schinese_censored = ""
+     1 string english = "You can purchase the DLC on Steam."
+     1 string japanese = "Steamで対応するDLCを購入してください"
+     1 string mchinese = "請在 Steam 中購買相應 DLC"
+   [22101]
+    0 TableSoItemLang data
+     0 int id = 6661011
+     1 string schinese = "竞选"

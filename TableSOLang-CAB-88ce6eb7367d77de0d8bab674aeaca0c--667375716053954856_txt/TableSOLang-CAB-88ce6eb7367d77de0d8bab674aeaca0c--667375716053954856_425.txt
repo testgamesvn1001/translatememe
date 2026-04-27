@@ -1,0 +1,184 @@
+     1 string schinese_censored = "我知道，就是有点不舒服"
+     1 string english = "I know. It's just uncomfortable."
+     1 string japanese = "知ってるよ。でも、何か嫌なんだ。"
+     1 string mchinese = "我知道，就是有點不舒服"
+   [9751]
+    0 TableSoItemLang data
+     0 int id = 1019752
+     1 string schinese = "你就是疑神疑鬼的…"
+     1 string schinese_censored = "你就是疑神疑鬼的…"
+     1 string english = "You're always so weird..."
+     1 string japanese = "今日はあなたいつも以上にヘンね…"
+     1 string mchinese = "你就是疑神疑鬼的…"
+   [9752]
+    0 TableSoItemLang data
+     0 int id = 1019753
+     1 string schinese = "好吧，我疑神疑鬼。但你无情，你残酷，你无理取闹！"
+     1 string schinese_censored = "好吧，我疑神疑鬼。但你无情，你残酷，你无理取闹！"
+     1 string english = "Okay, I'm weird, but you're cold and ruthless!"
+     1 string japanese = "そうだよ！ヘンだよ！でもキミは非情で残酷で無茶苦茶だ！"
+     1 string mchinese = "好吧，我疑神疑鬼。但你無情，你殘酷，你無理取鬧！"
+   [9753]
+    0 TableSoItemLang data
+     0 int id = 1019754
+     1 string schinese = "那你就不无情，不残酷，不无理取闹！？"
+     1 string schinese_censored = "那你就不无情，不残酷，不无理取闹！？"
+     1 string english = "And you're not?"
+     1 string japanese = "じゃあ、あなたは非情で残酷で無茶苦茶じゃないの？"
+     1 string mchinese = "那你就不無情，不殘酷，不無理取鬧！？"
+   [9754]
+    0 TableSoItemLang data
+     0 int id = 1019755
+     1 string schinese = "我哪里无情！？哪里残酷！？哪里无理取闹！？"
+     1 string schinese_censored = "我哪里无情！？哪里残酷！？哪里无理取闹！？"
+     1 string english = "How am I cold and ruthless? How?"
+     1 string japanese = "俺のどこが非情で残酷で無茶苦茶なんだ？"
+     1 string mchinese = "我哪里無情！？哪里殘酷！？哪里無理取鬧！？"
+   [9755]
+    0 TableSoItemLang data
+     0 int id = 1019756
+     1 string schinese = "你哪里不无情！？哪里不残酷！？哪里不无理取闹！？"
+     1 string schinese_censored = "你哪里不无情！？哪里不残酷！？哪里不无理取闹！？"
+     1 string english = "How are you not cold and ruthless? How?"
+     1 string japanese = "あなたのどこが非情で残酷で無茶苦茶じゃないのよ！"
+     1 string mchinese = "你哪里不無情！？哪里不殘酷！？哪里不無理取鬧！？"
+   [9756]
+    0 TableSoItemLang data
+     0 int id = 1019757
+     1 string schinese = "感觉通过自己努力，获得成果的感觉真好"
+     1 string schinese_censored = "感觉通过自己努力，获得成果的感觉真好"
+     1 string english = "I got better results through my hard work."
+     1 string japanese = "自分の努力で結果が出るのは気持ちいいね。"
+     1 string mchinese = "感覺通過自己努力，獲得成果的感覺真好"
+   [9757]
+    0 TableSoItemLang data
+     0 int id = 1019758
+     1 string schinese = "是啊，总靠人脉是解决不了根本问题的，也不会快乐"
+     1 string schinese_censored = "是啊，总靠人脉是解决不了根本问题的，也不会快乐"
+     1 string english = "Yeah, you can't rely on your friends for everything. That won't make you happy."
+     1 string japanese = "そうだよ。人脈だけじゃ根本的に解決できないんだ。幸せじゃないし。"
+     1 string mchinese = "是啊，總靠人脈是解決不了根本問題的，也不會快樂"
+   [9758]
+    0 TableSoItemLang data
+     0 int id = 1019759
+     1 string schinese = "人和人之间，还是简单点好"
+     1 string schinese_censored = "人和人之间，还是简单点好"
+     1 string english = "It's better to have simple social interactions."
+     1 string japanese = "人と人の関係はシンプルが一番ね。"
+     1 string mchinese = "人和人之間，還是簡單點好"
+   [9759]
+    0 TableSoItemLang data
+     0 int id = 1019760
+     1 string schinese = "就像你我一样"
+     1 string schinese_censored = "就像你我一样"
+     1 string english = "Just like us."
+     1 string japanese = "俺たちみたいにね！"
+     1 string mchinese = "就像你我一樣"
+   [9760]
+    0 TableSoItemLang data
+     0 int id = 1019761
+     1 string schinese = "不，咱们并不简单"
+     1 string schinese_censored = "不，咱们并不简单"
+     1 string english = "No, we are not simple at all."
+     1 string japanese = "いいえ、シンプルなワケないでしょ！"
+     1 string mchinese = "不，咱們並不簡單"
+   [9761]
+    0 TableSoItemLang data
+     0 int id = 1019762
+     1 string schinese = "哈哈，就喜欢你这么会说话！"
+     1 string schinese_censored = "哈哈，就喜欢你这么会说话！"
+     1 string english = "Haha, I like it when you talk like that!"
+     1 string japanese = "ハハハ、出た！そういうところ好きだよ！"
+     1 string mchinese = "哈哈，就喜歡你這麼會說話！"
+   [9762]
+    0 TableSoItemLang data
+     0 int id = 1019763
+     1 string schinese = "真是无聊的茶话会啊……"
+     1 string schinese_censored = "真是无聊的茶话会啊……"
+     1 string english = "What a boring tea party..."
+     1 string japanese = "退屈な茶話会だね…"
+     1 string mchinese = "真是無聊的茶話會啊……"
+   [9763]
+    0 TableSoItemLang data
+     0 int id = 1019764
+     1 string schinese = "是啊，完全没有想象力，总是茶话会一样的感觉"
+     1 string schinese_censored = "是啊，完全没有想象力，总是茶话会一样的感觉"
+     1 string english = "Yeah, there's no imagination. All tea parties are the same."
+     1 string japanese = "そうね、センスの欠片も感じられないし。普通すぎる。"
+     1 string mchinese = "是啊，完全沒有想像力，總是茶話會一樣的感覺"
+   [9764]
+    0 TableSoItemLang data
+     0 int id = 1019765
+     1 string schinese = "同感啊！难得大艺术家和我想的一样"
+     1 string schinese_censored = "同感啊！难得大艺术家和我想的一样"
+     1 string english = "I feel the same! It's rare you feel the same as me."
+     1 string japanese = "同感だね！意見が一緒で嬉しいよ！"
+     1 string mchinese = "同感啊！難得大藝術家和我想的一樣"
+   [9765]
+    0 TableSoItemLang data
+     0 int id = 1019766
+     1 string schinese = "这说明你还有一定的品位"
+     1 string schinese_censored = "这说明你还有一定的品位"
+     1 string english = "That proves there's hope for you yet."
+     1 string japanese = "あなたも多少はセンスがあるのかも。"
+     1 string mchinese = "這說明你還有一定的品位"
+   [9766]
+    0 TableSoItemLang data
+     0 int id = 1019767
+     1 string schinese = "好吧，多谢夸奖"
+     1 string schinese_censored = "好吧，多谢夸奖"
+     1 string english = "Thanks for the compliment!"
+     1 string japanese = "いいね。お世辞でも嬉しいよ！"
+     1 string mchinese = "好吧，多謝誇獎"
+   [9767]
+    0 TableSoItemLang data
+     0 int id = 1019768
+     1 string schinese = "这些无聊的形式，真是太没意思了……羡慕大城市Coser的聚会"
+     1 string schinese_censored = "这些无聊的形式，真是太没意思了……羡慕大城市角色扮演者的聚会"
+     1 string english = "These gatherings are really boring. I'm envious of the cosplay conventions in big cities."
+     1 string japanese = "こんなのサイアクよ…大都市のコスプレパーティーが羨ましい。"
+     1 string mchinese = "這些無聊的形式，真是太沒意思了……羡慕大城市Coser的聚會"
+   [9768]
+    0 TableSoItemLang data
+     0 int id = 1019769
+     1 string schinese = "确实很酷，不过也要活在现实中嘛，生活很难像动漫一样"
+     1 string schinese_censored = "确实很酷，不过也要活在现实中嘛，生活很难像动漫一样"
+     1 string english = "They are pretty cool. But it's better to live in reality. It's hard to imagine life in an anime."
+     1 string japanese = "確かにクールだね。けど、現実を見ないと。生活はアニメじゃないよ。"
+     1 string mchinese = "確實很酷，不過也要活在現實中嘛，生活很難像動漫一樣"
+   [9769]
+    0 TableSoItemLang data
+     0 int id = 1019770
+     1 string schinese = "也许吧…"
+     1 string schinese_censored = "也许吧…"
+     1 string english = "Maybe..."
+     1 string japanese = "かもね…"
+     1 string mchinese = "也許吧…"
+   [9770]
+    0 TableSoItemLang data
+     0 int id = 1019771
+     1 string schinese = "这是什么书啊"
+     1 string schinese_censored = "这是什么书啊"
+     1 string english = "What is this book?"
+     1 string japanese = "何読んでるの？"
+     1 string mchinese = "這是什麼書啊"
+   [9771]
+    0 TableSoItemLang data
+     0 int id = 1019772
+     1 string schinese = "这是《生命中不能承受之轻》，只是随便看看"
+     1 string schinese_censored = "这是《生命中不能承受之轻》，只是随便看看"
+     1 string english = "This is "The Unbearable Lightness of Being.""
+     1 string japanese = "『存在の耐えられない軽さ』、適当に読んでるだけ。"
+     1 string mchinese = "這是《生命中不能承受之輕》，只是隨便看看"
+   [9772]
+    0 TableSoItemLang data
+     0 int id = 1019773
+     1 string schinese = "感觉很难懂的书"
+     1 string schinese_censored = "感觉很难懂的书"
+     1 string english = "It seems like a difficult book."
+     1 string japanese = "難しそうだね。"
+     1 string mchinese = "感覺很難懂的書"
+   [9773]
+    0 TableSoItemLang data
+     0 int id = 1019774
+     1 string schinese = "好懂的东西，都是浅显无趣的，不值得花时间"

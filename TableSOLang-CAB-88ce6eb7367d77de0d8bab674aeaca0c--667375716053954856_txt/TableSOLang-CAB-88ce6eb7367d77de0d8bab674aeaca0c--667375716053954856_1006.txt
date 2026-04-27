@@ -1,0 +1,184 @@
+     1 string schinese_censored = "进行1次取名"
+     1 string english = "Name your first child."
+     1 string japanese = "名前を１回付ける"
+     1 string mchinese = "進行1次取名"
+   [23114]
+    0 TableSoItemLang data
+     0 int id = 881002
+     1 string schinese = "进行2次取名"
+     1 string schinese_censored = "进行2次取名"
+     1 string english = "Name 2 children."
+     1 string japanese = "名前を２回付ける"
+     1 string mchinese = "進行2次取名"
+   [23115]
+    0 TableSoItemLang data
+     0 int id = 881003
+     1 string schinese = "进行5次取名"
+     1 string schinese_censored = "进行5次取名"
+     1 string english = "Name 5 children."
+     1 string japanese = "名前を５回付ける"
+     1 string mchinese = "進行5次取名"
+   [23116]
+    0 TableSoItemLang data
+     0 int id = 881004
+     1 string schinese = "小卖部购买1次"
+     1 string schinese_censored = "小卖部购买1次"
+     1 string english = "Make 1 purchase in the Shop."
+     1 string japanese = "売店で１回購入する"
+     1 string mchinese = "小賣部購買1次"
+   [23117]
+    0 TableSoItemLang data
+     0 int id = 881005
+     1 string schinese = "小卖部购买10次"
+     1 string schinese_censored = "小卖部购买10次"
+     1 string english = "Make 10 purchases in the Shop."
+     1 string japanese = "売店で１０回購入する"
+     1 string mchinese = "小賣部購買10次"
+   [23118]
+    0 TableSoItemLang data
+     0 int id = 881006
+     1 string schinese = "小卖部购买100次"
+     1 string schinese_censored = "小卖部购买100次"
+     1 string english = "Make 100 purchases in the Shop."
+     1 string japanese = "売店で１００回購入する"
+     1 string mchinese = "小賣部購買100次"
+   [23119]
+    0 TableSoItemLang data
+     0 int id = 881007
+     1 string schinese = "考试分数达到300"
+     1 string schinese_censored = "考试分数达到300"
+     1 string english = "Earn an exam score of 300."
+     1 string japanese = "試験の点数が300に達する"
+     1 string mchinese = "考試分數達到300"
+   [23120]
+    0 TableSoItemLang data
+     0 int id = 881008
+     1 string schinese = "考试分数达到500"
+     1 string schinese_censored = "考试分数达到500"
+     1 string english = "Earn an exam score of 500."
+     1 string japanese = "試験の点数が500に達する"
+     1 string mchinese = "考試分數達到500"
+   [23121]
+    0 TableSoItemLang data
+     0 int id = 881009
+     1 string schinese = "考试分数达到750"
+     1 string schinese_censored = "考试分数达到750"
+     1 string english = "Earn an exam score of 750."
+     1 string japanese = "試験の点数が750に達する"
+     1 string mchinese = "考試分數達到750"
+   [23122]
+    0 TableSoItemLang data
+     0 int id = 881010
+     1 string schinese = "赢得1次闲话家常"
+     1 string schinese_censored = "赢得1次闲话家常"
+     1 string english = "Win 1 Face Duel."
+     1 string japanese = "メンツバトルで１回勝利する"
+     1 string mchinese = "贏得1次閒話家常"
+   [23123]
+    0 TableSoItemLang data
+     0 int id = 881011
+     1 string schinese = "赢得5次闲话家常"
+     1 string schinese_censored = "赢得2次闲话家常"
+     1 string english = "Win 5 Face Duels."
+     1 string japanese = "メンツバトルで５回勝利する"
+     1 string mchinese = "贏得5次閒話家常"
+   [23124]
+    0 TableSoItemLang data
+     0 int id = 881012
+     1 string schinese = "赢得10次闲话家常"
+     1 string schinese_censored = "赢得3次闲话家常"
+     1 string english = "Win 10 Face Duels."
+     1 string japanese = "メンツバトルで１０回勝利する"
+     1 string mchinese = "贏得10次閒話家常"
+   [23125]
+    0 TableSoItemLang data
+     0 int id = 881013
+     1 string schinese = "获得1个史诗特长"
+     1 string schinese_censored = "获得1个史诗特长"
+     1 string english = "Acquire 1 epic trait."
+     1 string japanese = "ＳＲ特技を１個習得する"
+     1 string mchinese = "獲得1個史詩特長"
+   [23126]
+    0 TableSoItemLang data
+     0 int id = 881014
+     1 string schinese = "获得5个史诗特长"
+     1 string schinese_censored = "获得5个史诗特长"
+     1 string english = "Acquire 5 epic traits."
+     1 string japanese = "ＳＲ特技を５個習得する"
+     1 string mchinese = "獲得5個史詩特長"
+   [23127]
+    0 TableSoItemLang data
+     0 int id = 881015
+     1 string schinese = "获得10个史诗特长"
+     1 string schinese_censored = "获得10个史诗特长"
+     1 string english = "Acquire 10 epic traits."
+     1 string japanese = "ＳＲ特技を１０個習得する"
+     1 string mchinese = "獲得10個史詩特長"
+   [23128]
+    0 TableSoItemLang data
+     0 int id = 881016
+     1 string schinese = "参加作文比赛1次"
+     1 string schinese_censored = "参加作文比赛1次"
+     1 string english = "Take part in your first writing competition."
+     1 string japanese = "作文コンテストに１回参加する"
+     1 string mchinese = "參加作文比賽1次"
+   [23129]
+    0 TableSoItemLang data
+     0 int id = 881017
+     1 string schinese = "作文获得安慰奖"
+     1 string schinese_censored = "作文获得安慰奖"
+     1 string english = "Win the writing competition's consolation prize."
+     1 string japanese = "作文コンテストで努力賞を受賞する"
+     1 string mchinese = "作文獲得安慰獎"
+   [23130]
+    0 TableSoItemLang data
+     0 int id = 881018
+     1 string schinese = "作文获得冠军1次"
+     1 string schinese_censored = "作文获得冠军1次"
+     1 string english = "Become the writing competition's champion 1 time."
+     1 string japanese = "作文コンテストで金賞を１回受賞する"
+     1 string mchinese = "作文獲得冠軍1次"
+   [23131]
+    0 TableSoItemLang data
+     0 int id = 881019
+     1 string schinese = "作文获得冠军5次"
+     1 string schinese_censored = "作文获得冠军5次"
+     1 string english = "Become the writing competition's champion 5 times."
+     1 string japanese = "作文コンテストで金賞を５回受賞する"
+     1 string mchinese = "作文獲得冠軍5次"
+   [23132]
+    0 TableSoItemLang data
+     0 int id = 881020
+     1 string schinese = "作文获得冠军10次"
+     1 string schinese_censored = "作文获得冠军10次"
+     1 string english = "Become the writing competition's champion 10 times."
+     1 string japanese = "作文コンテストで金賞を１０回受賞する"
+     1 string mchinese = "作文獲得冠軍10次"
+   [23133]
+    0 TableSoItemLang data
+     0 int id = 881021
+     1 string schinese = "参加班级竞选1次"
+     1 string schinese_censored = "参加班级竞选1次"
+     1 string english = "Take part in the class election 1 time."
+     1 string japanese = "学級委員長選挙に１回参加する"
+     1 string mchinese = "參加班級競選1次"
+   [23134]
+    0 TableSoItemLang data
+     0 int id = 881022
+     1 string schinese = "当选班干部1次"
+     1 string schinese_censored = "当选班干部1次"
+     1 string english = "Became the class president 1 time."
+     1 string japanese = "学級委員長に１回選ばれる"
+     1 string mchinese = "當選班幹部1次"
+   [23135]
+    0 TableSoItemLang data
+     0 int id = 881023
+     1 string schinese = "当选班干部5次"
+     1 string schinese_censored = "当选班干部5次"
+     1 string english = "Became the class president 5 times."
+     1 string japanese = "学級委員長に５回選ばれる"
+     1 string mchinese = "當選班幹部5次"
+   [23136]
+    0 TableSoItemLang data
+     0 int id = 881024
+     1 string schinese = "当选班干部10次"

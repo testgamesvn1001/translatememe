@@ -1,0 +1,184 @@
+     1 string schinese_censored = "通过练习:美妆秘籍获得\n\n互联网造就了许多奇迹，也造就了美妆博主"
+     1 string english = "Get by studying: Cosmetology Secrets\n\nThe Internet has created a multitude of miracles, including cosmetic bloggers."
+     1 string japanese = "特技獲得条件：メイク奥義\n\nインターネットはたくさんの奇跡を生み出した。そしてメイクブロガーも生み出した。"
+     1 string mchinese = "通過練習:美妝秘笈獲得\n\n互聯網造就了許多奇跡，也造就了美妝博主"
+   [2092]
+    0 TableSoItemLang data
+     0 int id = 1012093
+     1 string schinese = "通过练习:基础乐理获得\n\n我捂住嘴不让自己大笑并来了一段口技"
+     1 string schinese_censored = "通过练习:基础乐理获得\n\n我捂住嘴不让自己大笑并来了一段口技"
+     1 string english = "Get by studying: Music Theory 101\n\nI cover my mouth to avoid laughing while I do a mean beat box."
+     1 string japanese = "特技獲得条件：音楽理論入門\n\n笑いをこらえるため、手で口を押えてＨＢＢをやった。"
+     1 string mchinese = "通過練習:基礎樂理獲得\n\n我捂住嘴不讓自己大笑並來了一段口技"
+   [2093]
+    0 TableSoItemLang data
+     0 int id = 1012094
+     1 string schinese = "通过练习:视唱练耳获得\n\n不卖惨也可以登上音乐的舞台"
+     1 string schinese_censored = "通过练习:视唱练耳获得\n\n不卖惨也可以登上音乐的舞台"
+     1 string english = "Get by studying: Solfeggio\n\nYou can make it in the music world without going for an image of misery."
+     1 string japanese = "特技獲得条件：楽譜・音感\n\nコネがなくても舞台には上がれる。"
+     1 string mchinese = "通過練習:視唱練耳獲得\n\n不賣慘也可以登上音樂的舞臺"
+   [2094]
+    0 TableSoItemLang data
+     0 int id = 1012095
+     1 string schinese = "通过练习:节奏布鲁斯获得\n\n五色音阶已掌握，剩下的就靠转音了"
+     1 string schinese_censored = "通过练习:节奏布鲁斯获得\n\n五色音阶已掌握，剩下的就靠转音了"
+     1 string english = "Get by studying: Rhythm & Blues\n\nI've mastered the pentatonic scale, now all I need to do is mime to the music."
+     1 string japanese = "特技獲得条件：リズム＆ブルース\n\n五音音階はマスターした。あとはトランスポーズだ。"
+     1 string mchinese = "通過練習:節奏布魯斯獲得\n\n五色音階已掌握，剩下的就靠轉音了"
+   [2095]
+    0 TableSoItemLang data
+     0 int id = 1012096
+     1 string schinese = "通过练习:硬核朋克获得\n\n朋克青年每年九月结束冬眠"
+     1 string schinese_censored = "通过练习:硬核朋克获得\n\n朋克青年每年九月结束冬眠"
+     1 string english = "Get by studying: Hardcore Punk\n\nPunk youths end their hibernation in September."
+     1 string japanese = "特技獲得条件：ハードコアパンク\n\nパンク青年は毎年９月に冬眠から目覚める。"
+     1 string mchinese = "通過練習:硬核朋克獲得\n\n朋克青年每年九月結束冬眠"
+   [2096]
+    0 TableSoItemLang data
+     0 int id = 1012097
+     1 string schinese = "通过练习:音乐创作获得\n\n对于天才而言，写歌就跟说话一样简单"
+     1 string schinese_censored = "通过练习:音乐创作获得\n\n对于天才而言，写歌就跟说话一样简单"
+     1 string english = "Get by studying: Musical Composition\n\nTo geniuses, composing songs is just as simple as talking."
+     1 string japanese = "特技獲得条件：音楽制作\n\n天才にかかれば、音楽制作なんて、おしゃべりと一緒だ。"
+     1 string mchinese = "通過練習:音樂創作獲得\n\n對於天才而言，寫歌就跟說話一樣簡單"
+   [2097]
+    0 TableSoItemLang data
+     0 int id = 1012098
+     1 string schinese = "通过练习:即兴说唱获得\n\n说唱界教父就连咳嗽也是押韵的"
+     1 string schinese_censored = "通过练习:即兴说唱获得\n\n说唱界教父就连咳嗽也是押韵的"
+     1 string english = "Get by studying: Freestyle Rap\n\nThe Rap God even coughs in time to the beat."
+     1 string japanese = "特技獲得条件：フリースタイル\n\nラップ界の大御所は咳ですら韻を踏んでる。"
+     1 string mchinese = "通過練習:即興說唱獲得\n\n說唱界教父就連咳嗽也是押韻的"
+   [2098]
+    0 TableSoItemLang data
+     0 int id = 1012099
+     1 string schinese = "通过练习:现场表演获得\n\n以真唱的态度在雪地里撒野"
+     1 string schinese_censored = "通过练习:现场表演获得\n\n以真唱的态度在雪地里撒野"
+     1 string english = "Get by studying: Live Performance\n\nGiving a live performance among the fluttering snowflakes gives rise to heavenly music."
+     1 string japanese = "特技獲得条件：ライブ表現\n\n風に吹かれたり雪に降られたりする。"
+     1 string mchinese = "通過練習:現場表演獲得\n\n以真唱的態度在雪地裏撒野"
+   [2099]
+    0 TableSoItemLang data
+     0 int id = 1012100
+     1 string schinese = "通过练习:电音生活获得\n\n真正的耳机发烧友不听水电，只听磁电"
+     1 string schinese_censored = "通过练习:电音生活获得\n\n真正的耳机发烧友不听水电，只听磁电"
+     1 string english = "Get by studying: Electronic Music\n\nI just can't get myself to listen to normal music; I am simply an electro beast."
+     1 string japanese = "特技獲得条件：電子音楽生活\n\n水力発電の電気なんか無理。本物のイヤホンマニアはMHD発電の電気でしか聴かないのさ。"
+     1 string mchinese = "通過練習:電音生活獲得\n\n真正的耳機發燒友不聽水電，只聽磁電"
+   [2100]
+    0 TableSoItemLang data
+     0 int id = 1012101
+     1 string schinese = "通过练习:实验音乐获得\n\n你不懂的音乐，在我听来是天籁"
+     1 string schinese_censored = "通过练习:实验音乐获得\n\n你不懂的音乐，在我听来是天籁"
+     1 string english = "Get by studying: Experimental Music\n\nThe music you don't understand is like heavenly music to me."
+     1 string japanese = "特技獲得条件：実験的音楽\n\nあなたが理解できなくても、私にとっては最高の音楽だ。"
+     1 string mchinese = "通過練習:實驗音樂獲得\n\n你不懂的音樂，在我聽來是天籟"
+   [2101]
+    0 TableSoItemLang data
+     0 int id = 1012102
+     1 string schinese = "通过练习:跟音乐拍手获得\n\n一段歌词十分钟搞定，全国没几个学得会！"
+     1 string schinese_censored = "通过娱乐:跟音乐拍手获得\n\n一段歌词十分钟搞定，全国没几个学得会！"
+     1 string english = "Get this trait from entertainment: Clap to the Music\n\nIt won't take me ten minutes to write a song that few can ever learn!"
+     1 string japanese = "特技獲得条件：音楽に手拍子\n\n中国トップクラスの作詞スピード！"
+     1 string mchinese = "通過練習:跟音樂拍手獲得\n\n一段歌詞十分鐘搞定，全國沒幾個學得會！"
+   [2102]
+    0 TableSoItemLang data
+     0 int id = 1012103
+     1 string schinese = "通过练习:街道闲逛获得\n\n我的家就在，五环路的里边"
+     1 string schinese_censored = "通过娱乐:街道闲逛获得\n\n我的家就在，五环路的里边"
+     1 string english = "Get from entertainment: Leisurely Stroll\n\nMy house is in the center of the city center."
+     1 string japanese = "特技獲得条件：道をぶらぶら\n\nお家と町を、行ったり来たり。"
+     1 string mchinese = "通過練習:街道閒逛獲得\n\n我的家就在，五環路的裏邊"
+   [2103]
+    0 TableSoItemLang data
+     0 int id = 1012104
+     1 string schinese = "通过练习:小区游玩获得\n\n这里的人啊，有着那么多的时间"
+     1 string schinese_censored = "通过娱乐:社区游玩获得\n\n这里的人啊，有着那么多的时间"
+     1 string english = "Get from entertainment: Residential Community\n\nEveryone here seems to have so much time on their hands."
+     1 string japanese = "特技獲得条件：公園遊び\n\nここの人は暇人ばかりだね。"
+     1 string mchinese = "通過練習:社區遊玩獲得\n\n這裏的人啊，有著那麼多的時間"
+   [2104]
+    0 TableSoItemLang data
+     0 int id = 1012105
+     1 string schinese = "通过练习:幼儿园滑梯获得\n\n已经被大佬收购了！"
+     1 string schinese_censored = "通过娱乐:幼儿园滑梯获得\n\n已经被大佬收购了！"
+     1 string english = "Get from entertainment: Kindergarten Slide\n\nThis one has been occupied by the boss!"
+     1 string japanese = "特技獲得条件：幼稚園のすべり台\n\nガキ大将に占拠された！"
+     1 string mchinese = "通過練習:幼稚園滑梯獲得\n\n已經被大佬收購了！"
+   [2105]
+    0 TableSoItemLang data
+     0 int id = 1012106
+     1 string schinese = "通过练习:动画片获得\n\n你决心拯救动画事业"
+     1 string schinese_censored = "通过娱乐:动画片获得\n\n你决心拯救动画事业"
+     1 string english = "Get from entertainment: Cartoons\n\nYou're determined to save the animation industry."
+     1 string japanese = "特技獲得条件：アニメ\n\nアニメ業界を救うと心から誓った。"
+     1 string mchinese = "通過練習:動畫片獲得\n\n你決心拯救動畫事業"
+   [2106]
+    0 TableSoItemLang data
+     0 int id = 1012107
+     1 string schinese = "通过练习:看电视获得\n\n电视节目你全懂"
+     1 string schinese_censored = "通过娱乐:看电视获得\n\n电视节目你全懂"
+     1 string english = "Get from entertainment: Watch TV\n\nYou know all there is to know about TV programs."
+     1 string japanese = "特技獲得条件：テレビを観る\n\nテレビ番組表をすべて暗記している。"
+     1 string mchinese = "通過練習:看電視獲得\n\n電視節目你全懂"
+   [2107]
+    0 TableSoItemLang data
+     0 int id = 1012108
+     1 string schinese = "通过练习:小画书获得\n\n现在这属于一种情怀"
+     1 string schinese_censored = "通过娱乐:小画书获得\n\n现在这属于一种情怀"
+     1 string english = "Get from entertainment: Picture Book\n\nTHIS is how a real book should be."
+     1 string japanese = "特技獲得条件：絵本\n\nなんだかノスタルジーな気分。"
+     1 string mchinese = "通過練習:小畫書獲得\n\n現在這屬於一種情懷"
+   [2108]
+    0 TableSoItemLang data
+     0 int id = 1012109
+     1 string schinese = "通过练习:儿童读物获得\n\n儿童读物最靠谱"
+     1 string schinese_censored = "通过娱乐:儿童读物获得\n\n儿童读物最靠谱"
+     1 string english = "Get from entertainment: Children's Reading\n\nChildren books are the most reliable sources of information."
+     1 string japanese = "特技獲得条件：児童書\n\n絵本にしたら、ヒット間違いなし。"
+     1 string mchinese = "通過練習:兒童讀物獲得\n\n兒童讀物最靠譜"
+   [2109]
+    0 TableSoItemLang data
+     0 int id = 1012110
+     1 string schinese = "通过练习:托管班获得\n\n家长没时间接送孩子，就会送到托管班"
+     1 string schinese_censored = "通过娱乐:托管班获得\n\n家长没时间接送孩子，就会送到托管班"
+     1 string english = "Get from entertainment: Child-Care Center\n\nChild-care centers are wonderful for when parents are too busy."
+     1 string japanese = "特技獲得条件：保育園\n\n親は送り迎えをする時間すらない。保育園に預けるだけだ。"
+     1 string mchinese = "通過練習:託管班獲得\n\n家長沒時間接送孩子，就會送到託管班"
+   [2110]
+    0 TableSoItemLang data
+     0 int id = 1012111
+     1 string schinese = "通过练习:少年宫获得\n\n少年宫大家可以看平时看不到的东西"
+     1 string schinese_censored = "通过娱乐:少年宫获得\n\n少年宫大家可以看平时看不到的东西"
+     1 string english = "Get from entertainment: Children's Palace\n\nYou get to see all manner of surreal things at Children's Palace."
+     1 string japanese = "特技獲得条件：こどもセンター\n\nこどもセンターでは普段見られないものが見られる。"
+     1 string mchinese = "通過練習:少年宮獲得\n\n少年宮大家可以看平時看不到的東西"
+   [2111]
+    0 TableSoItemLang data
+     0 int id = 1012112
+     1 string schinese = "通过练习:走街串巷获得\n\n城市里的风景你全都看透"
+     1 string schinese_censored = "通过娱乐:走街串巷获得\n\n城市里的风景你全都看透"
+     1 string english = "Get from entertainment: Wander the Streets\n\nYou've mapped the entire city in your mind."
+     1 string japanese = "特技獲得条件：町をぶらつく\n\n大都市の風景をただひたすら眺めた。"
+     1 string mchinese = "通過練習:走街串巷獲得\n\n城市裏的風景你全都看透"
+   [2112]
+    0 TableSoItemLang data
+     0 int id = 1012113
+     1 string schinese = "通过练习:流行文化获得\n\n流行文化的传播者，意见领袖"
+     1 string schinese_censored = "通过娱乐:流行文化获得\n\n流行文化的传播者，意见领袖"
+     1 string english = "Get from entertainment: Pop Culture\n\nThe spreader of pop culture and a leader of opinion."
+     1 string japanese = "特技獲得条件：ポップカルチャー\n\nポップカルチャーの発信者。オピニオンリーダーだ。"
+     1 string mchinese = "通過練習:流行文化獲得\n\n流行文化的傳播者，意見領袖"
+   [2113]
+    0 TableSoItemLang data
+     0 int id = 1012114
+     1 string schinese = "通过练习:娱乐八卦获得\n\n八卦小组组长，最强的八卦传播者"
+     1 string schinese_censored = "通过娱乐:娱乐八卦获得\n\n八卦小组组长，最强的八卦传播者"
+     1 string english = "Get from entertainment: Entertainment Galore\n\nCelebrity gossip is the new cool."
+     1 string japanese = "特技獲得条件：ゴシップ\n\nゴシップの発信源。トップクラスのゴシップを嗅ぎつける。"
+     1 string mchinese = "通過練習:娛樂八卦獲得\n\n八卦小組組長，最強的八卦傳播者"
+   [2114]
+    0 TableSoItemLang data
+     0 int id = 1012115
+     1 string schinese = "通过练习:追星获得\n\n每个人都有追过的星"

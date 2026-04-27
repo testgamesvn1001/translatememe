@@ -1,0 +1,184 @@
+     1 string schinese_censored = "好了，各位参赛选手已经准备就绪了！"
+     1 string english = "Alright, all contestants are ready!"
+     1 string japanese = "さあ、挑戦者は準備万端だ！"
+     1 string mchinese = "好了，各位參賽選手已經準備就緒了！"
+   [10464]
+    0 TableSoItemLang data
+     0 int id = 1020465
+     1 string schinese = "好了，下面有请"+readxml.readproperty("/starshow.xml",action_manager.InstanceactionManager.current_starshow_id.ToString(), "player1")"
+     1 string schinese_censored = "好了，下面有请"+readxml.readproperty("/starshow.xml",action_manager.InstanceactionManager.current_starshow_昵称.ToString(), "player1")"
+     1 string english = "OK, let's welcome "+readxml.readproperty("/starshow.xml",action_manager.InstanceActionManager.current_starshow_id.ToString(), "player1")"
+     1 string japanese = "まずは"+readxml.readproperty("/starshow.xml",action_manager.InstanceActionManager.current_starshow_id.ToString(), "player1")"
+     1 string mchinese = "好了，下麵有請"+readxml.readproperty("/starshow.xml",action_manager.InstanceactionManager.current_starshow_id.ToString(), "player1")"
+   [10465]
+    0 TableSoItemLang data
+     0 int id = 1020466
+     1 string schinese = "接下来的是" + readxml.readproperty("/starshow.xml", action_manager.InstanceactionManager.current_starshow_id.ToString(), "player2"))"
+     1 string schinese_censored = "接下来的是" + readxml.readproperty("/starshow.xml"， action_manager.InstanceactionManager.current_starshow_昵称.ToString()， "player2"))"
+     1 string english = "Next up is " + readxml.readproperty("/starshow.xml", action_manager.InstanceActionManager.current_starshow_id.ToString(), "player2"))"
+     1 string japanese = "続いては" + readxml.readproperty("/starshow.xml", action_manager.InstanceActionManager.current_starshow_id.ToString(), "player2"))"
+     1 string mchinese = "接下來的是" + readxml.readproperty("/starshow.xml", action_manager.InstanceactionManager.current_starshow_id.ToString(), "player2"))"
+   [10466]
+    0 TableSoItemLang data
+     0 int id = 1020467
+     1 string schinese = "最终，还有我们的+player_data.Player_data_instance.self_name+"带来的"+readxml.readproperty_fromdoc(global_data.InstanceGlobalData.Trick_data,id.ToString(),"name")"
+     1 string schinese_censored = "最终，还有我们的+player_data.Player_data_instance.self_name+"带来的"+readxml.readproperty_fromdoc(global_data.InstanceGlobalData.Trick_data,昵称.ToString(),"name")"
+     1 string english = "And last but not least +player_data.Player_data_instance.self_name+“presenting"+readxml.readproperty_fromdoc(global_data.InstanceGlobalData.Trick_data,id.ToString(),"name")"
+     1 string japanese = "最後は+player_data.Player_data_instance.self_name+"からの"+readxml.readproperty_fromdoc(global_data.InstanceGlobalData.Trick_data,id.ToString(),"name")"
+     1 string mchinese = "最終，還有我們的+player_data.Player_data_instance.self_name+"帶來的"+readxml.readproperty_fromdoc(global_data.InstanceGlobalData.Trick_data,id.ToString(),"name")"
+   [10467]
+    0 TableSoItemLang data
+     0 int id = 1020468
+     1 string schinese = "经过了几十位选手的精彩表演！终于来到来我们的大奖环节了！"
+     1 string schinese_censored = "经过了几十位选手的精彩表演！终于来到来我们的大奖环节了！"
+     1 string english = "And now after all these wonderful performances, let's finally move on to the grand prize ceremony!"
+     1 string japanese = "見事なパフォーマンスを見せてくれた出演者たちに称賛を！続いて各賞の発表だ！"
+     1 string mchinese = "經過了幾十位選手的精彩表演！終於來到來我們的大獎環節了！"
+   [10468]
+    0 TableSoItemLang data
+     0 int id = 1020469
+     1 string schinese = "今年，获得我们最佳潜力奖的是……"
+     1 string schinese_censored = "今年，获得我们最佳潜力奖的是……"
+     1 string english = "This year, the Greatest Potentiality prize goes to..."
+     1 string japanese = "今年のポテンシャル賞は…"
+     1 string mchinese = "今年，獲得我們最佳潛力獎的是……"
+   [10469]
+    0 TableSoItemLang data
+     0 int id = 1020470
+     1 string schinese = "今年，获得我们年度特长大奖的是……"
+     1 string schinese_censored = "今年，获得我们年度特长大奖的是……"
+     1 string english = "This year, the Annual Trait award winner is..."
+     1 string japanese = "今年の最優秀賞は…"
+     1 string mchinese = "今年，獲得我們年度特長大獎的是……"
+   [10470]
+    0 TableSoItemLang data
+     0 int id = 1020471
+     1 string schinese = "正宗好特长，特长好正宗，由功能饮料领导品牌【减多宝】赞助播出的，中国有特长即将揭晓最终大奖！"
+     1 string schinese_censored = "正宗好特长，特长好正宗，由功能饮料领导品牌【多多宝】赞助播出的，中国有特长即将揭晓最终大奖！"
+     1 string english = "This show is brought to you by the leading sports drink brand [Bull Monster]. Authentic traits or good old traits? The Grand Prize winner for China's Got Trait will be revealed soon!"
+     1 string japanese = "『スキル・オブ・チャイナ』はスポーツドリンク『ジェン・トウ・バオ』の提供でお送りしております！真の特技はいつも一つ！それでは最優秀賞の発表だ！"
+     1 string mchinese = "正宗好特長，特長好正宗，由功能飲料領導品牌【減多寶】贊助播出的，中國有特長即將揭曉最終大獎！"
+   [10471]
+    0 TableSoItemLang data
+     0 int id = 1020472
+     1 string schinese = "今天晚上重头戏来啦！中国有特长的最终大奖即将揭晓！"
+     1 string schinese_censored = "今天晚上重头戏来啦！中国有特长的最终大奖即将揭晓！"
+     1 string english = "Tonight's finale is here! We will now reveal the winner of China's Got Trait's Grand Prize!"
+     1 string japanese = "さあ、今夜のメインイベントだ！『スキル・オブ・チャイナ』の最優秀賞は誰だ！"
+     1 string mchinese = "今天晚上重頭戲來啦！中國有特長的最終大獎即將揭曉！"
+   [10472]
+    0 TableSoItemLang data
+     0 int id = 1020473
+     1 string schinese = "下面有请中国有特长发展委员会王主任来揭晓最终大奖！"
+     1 string schinese_censored = "下面有请中国有特长发展委员会王主任来揭晓最终大奖！"
+     1 string english = "Next, we welcome Director Wang from China's Got Talent's development committee to announce the winner of the Grand Prize!"
+     1 string japanese = "それでは、『スキル・オブ・チャイナ』審査員ワンさんによる最優秀賞の発表だ！"
+     1 string mchinese = "下麵有請中國有特長發展委員會王主任來揭曉最終大獎！"
+   [10473]
+    0 TableSoItemLang data
+     0 int id = 1020474
+     1 string schinese = "去年的大奖还历历在目，没想到时间这么快，话不多说，揭晓最终大奖！"
+     1 string schinese_censored = "去年的大奖还历历在目，没想到时间这么快，话不多说，揭晓最终大奖！"
+     1 string english = "Time sure flies. I remember the past winners like it all happened yesterday. With no further ado, let's announce the winner!"
+     1 string japanese = "去年の光景が昨日のことのように思い出される。さあ、今年の最優秀賞発表だ！"
+     1 string mchinese = "去年的大獎還歷歷在目，沒想到時間這麼快，話不多說，揭曉最終大獎！"
+   [10474]
+    0 TableSoItemLang data
+     0 int id = 1020475
+     1 string schinese = "好了，今年的中国有特长就到这里，我们下期再见！"
+     1 string schinese_censored = "好了，今年的中国有特长就到这里，我们下期再见！"
+     1 string english = "Thank you everyone! That will be all for this year's China's Got Trait. We'll see you next year!"
+     1 string japanese = "今年の『スキル・オブ・チャイナ』はここまで。また、お会いしましょう！"
+     1 string mchinese = "好了，今年的中國有特長就到這裏，我們下期再見！"
+   [10475]
+    0 TableSoItemLang data
+     0 int id = 1020476
+     1 string schinese = "整天就知道出去玩！是不是出去约会了！？"
+     1 string schinese_censored = "整天就知道出去玩！是不是出去约会了！？"
+     1 string english = "You were out all day! Did you go on a date!?"
+     1 string japanese = "遊んでばっかり！まさかデートか！？"
+     1 string mchinese = "整天就知道出去玩！是不是出去約會了！？"
+   [10476]
+    0 TableSoItemLang data
+     0 int id = 1020477
+     1 string schinese = "看来只能过阵子再出去了"
+     1 string schinese_censored = "看来只能过阵子再出去了"
+     1 string english = "I can't really go out for a few days."
+     1 string japanese = "しばらくは出かけられないかも。"
+     1 string mchinese = "看來只能過陣子再出去了"
+   [10477]
+    0 TableSoItemLang data
+     0 int id = 1020478
+     1 string schinese = "你妈跟我说你最近天天出去！去哪儿了？以后门禁提前到6点半！"
+     1 string schinese_censored = "你妈跟我说你最近天天出去！去哪儿了？以后门禁提前到6点半！"
+     1 string english = "Your mom told me you have been going out every day! Where are you going? From now on your curfew will start at 6.30PM!"
+     1 string japanese = "お母さんから聞いたぞ！毎日出かけてるのか！どこに行ってるんだ？門限は１８時半だぞ！"
+     1 string mchinese = "你媽跟我說你最近天天出去！去哪兒了？以後門禁提前到6點半！"
+   [10478]
+    0 TableSoItemLang data
+     0 int id = 1020479
+     1 string schinese = "爸爸已经很警觉了，要注意了"
+     1 string schinese_censored = "爸爸已经很警觉了，要注意了"
+     1 string english = "Dad is starting to get suspicious. I need to be careful."
+     1 string japanese = "お父さんに気づかれた。注意しないと。"
+     1 string mchinese = "爸爸已經很警覺了，要注意了"
+   [10479]
+    0 TableSoItemLang data
+     0 int id = 1020480
+     1 string schinese = "轻手轻脚的行动没有引起爸爸的注意"
+     1 string schinese_censored = "轻手轻脚的行动没有引起爸爸的注意"
+     1 string english = "Your dad didn't take notice of your swift movements."
+     1 string japanese = "忍び足でお父さんは気づかなかった。"
+     1 string mchinese = "輕手輕腳的行動沒有引起爸爸的注意"
+   [10480]
+    0 TableSoItemLang data
+     0 int id = 1020481
+     1 string schinese = "妈妈似乎没有发现我出门"
+     1 string schinese_censored = "妈妈似乎没有发现我出门"
+     1 string english = "Mom didn't notice I left."
+     1 string japanese = "お母さんは出かけたことに気づいてないみたい。"
+     1 string mchinese = "媽媽似乎沒有發現我出門"
+   [10481]
+    0 TableSoItemLang data
+     0 int id = 1020482
+     1 string schinese = "看下有没有朋友要找我玩呢？"
+     1 string schinese_censored = "看下有没有朋友要找我玩呢？"
+     1 string english = "Are any friends free to hang out?"
+     1 string japanese = "誰か、連絡来てないかな？"
+     1 string mchinese = "看下有沒有朋友要找我玩呢？"
+   [10482]
+    0 TableSoItemLang data
+     0 int id = 1020483
+     1 string schinese = "女孩不能这么没自尊的！考成这样以后怎么见人？"
+     1 string schinese_censored = "女孩不能这么没自尊的！考成这样以后怎么见人？"
+     1 string english = "Girls need dignity as well! What kind of future can you look forward to with grades like these?"
+     1 string japanese = "女の子なら恥を知りなさい！こんな点数、恥ずかしくないの？"
+     1 string mchinese = "女孩不能這麼沒自尊的！考成這樣以後怎麼見人？"
+   [10483]
+    0 TableSoItemLang data
+     0 int id = 1020484
+     1 string schinese = "什么也不说了，你自己看着办！一个女孩子考这么差让人笑话！"
+     1 string schinese_censored = "什么也不说了，你自己看着办！一个女孩子考这么差让人笑话！"
+     1 string english = "Enough! Just do as you please! Your grades are an embarrassment!"
+     1 string japanese = "もういい、勝手にしなさい！女の子なのに、こんな点数を取って冗談のつもり！？"
+     1 string mchinese = "什麼也不說了，你自己看著辦！一個女孩子考這麼差讓人笑話！"
+   [10484]
+    0 TableSoItemLang data
+     0 int id = 1020485
+     1 string schinese = "我是不是应该夸你从倒数第二，提高到倒数第三了？能不让我在家长会上丢人吗？"
+     1 string schinese_censored = "我是不是应该夸你从倒数第二，提高到倒数第三了？能不让我在家长会上丢人吗？"
+     1 string english = "Am I supposed to congratulate you for going from second to last to third to last? Can you at least try not to embarrass me at the next parent-teacher conference?"
+     1 string japanese = "下から２番目で褒めてもらおうってつもり？本当に恥知らずね。ママ友に会ったら恥ずかしすぎて死んじゃうわ。"
+     1 string mchinese = "我是不是應該誇你從倒數第二，提高到倒數第三了？能不讓我在家長會上丟人嗎？"
+   [10485]
+    0 TableSoItemLang data
+     0 int id = 1020486
+     1 string schinese = "老实了？老实了？你看你那点分，你还好意思看电视，看动画片吗？"
+     1 string schinese_censored = "老实了？老实了？你看你那点分，你还好意思看电视，看动画片吗？"
+     1 string english = "Behaving? Behaving!? Look at your grades! How can you still sit here watching your shows and cartoons while you have such shameful grades?"
+     1 string japanese = "こんな点数でも、アニメを観てられるの？反省しなさい！"
+     1 string mchinese = "老實了？老實了？你看你那點分，你還好意思看電視，看動畫片嗎？"
+   [10486]
+    0 TableSoItemLang data
+     0 int id = 1020487
+     1 string schinese = "不愿意天天说你，自己得长点心！"

@@ -1,0 +1,184 @@
+     1 string schinese_censored = "行啊。你们加油！"
+     1 string english = "OK. Have fun!"
+     1 string japanese = "いいんじゃない？がんばって！"
+     1 string mchinese = "行啊。你們加油！"
+   [25230]
+    0 TableSoItemLang data
+     0 int id = 1596171517
+     1 string schinese = "不！！我才不要跟人平分家产！"
+     1 string schinese_censored = "不！！我才不要跟人平分家产！"
+     1 string english = "No!!! I'm not sharing with anyone!"
+     1 string japanese = "ダメ！！遺産の取り分が減っちゃう！"
+     1 string mchinese = "不！！我才不要跟人平分家產！"
+   [25231]
+    0 TableSoItemLang data
+     0 int id = 1596171518
+     1 string schinese = "绝食抗议"
+     1 string schinese_censored = "绝食抗议"
+     1 string english = "Go on a hunger strike."
+     1 string japanese = "ハンガーストライキ"
+     1 string mchinese = "絕食抗議"
+   [25232]
+    0 TableSoItemLang data
+     0 int id = 1596171519
+     1 string schinese = "放回街上"
+     1 string schinese_censored = "放回街上"
+     1 string english = "Return it to the outside."
+     1 string japanese = "街に戻す"
+     1 string mchinese = "放回街上"
+   [25233]
+    0 TableSoItemLang data
+     0 int id = 1596171520
+     1 string schinese = "和父母讲条件"
+     1 string schinese_censored = "和父母讲条件"
+     1 string english = "Negotiate with your parents."
+     1 string japanese = "両親と交渉する"
+     1 string mchinese = "和父母講條件"
+   [25234]
+    0 TableSoItemLang data
+     0 int id = 1596171521
+     1 string schinese = "绝食抗议"
+     1 string schinese_censored = "绝食抗议"
+     1 string english = "Go on a hunger strike."
+     1 string japanese = "ハンガーストライキ"
+     1 string mchinese = "絕食抗議"
+   [25235]
+    0 TableSoItemLang data
+     0 int id = 1596171522
+     1 string schinese = "放回街上"
+     1 string schinese_censored = "放回街上"
+     1 string english = "Return it to the outside."
+     1 string japanese = "街に戻す"
+     1 string mchinese = "放回街上"
+   [25236]
+    0 TableSoItemLang data
+     0 int id = 1596171523
+     1 string schinese = "和父母讲条件"
+     1 string schinese_censored = "和父母讲条件"
+     1 string english = "Negotiate with your parents."
+     1 string japanese = "両親と交渉する"
+     1 string mchinese = "和父母講條件"
+   [25237]
+    0 TableSoItemLang data
+     0 int id = 1596171524
+     1 string schinese = "怎么啦，最近缺零花钱了吗？\n（情商+400零花钱+500）"
+     1 string schinese_censored = "怎么啦，最近缺零花钱了吗？\n（情商+400零花钱+500）"
+     1 string english = "Eh? Low on cash as of late?\n(EQ +400, Money +500)"
+     1 string japanese = "どうしたんだ。お小遣いが足りないのか？\nＥＱが400増加、お小遣いが500増加"
+     1 string mchinese = "怎麼啦，最近缺零花錢了嗎？\n（情商+400零花錢+500）"
+   [25238]
+    0 TableSoItemLang data
+     0 int id = 1596171525
+     1 string schinese = "这个问题，我也一直很想问你爷爷奶奶.....\n（想象力+400）"
+     1 string schinese_censored = "这个问题，我也一直很想问你爷爷奶奶.....\n（想象力+400）"
+     1 string english = "I'd really like to ask your grandparents this question...\n(Imagination +400)"
+     1 string japanese = "その問題はな、お前のおじいちゃんやおばあちゃんに聞きたいと思っていたんだ…\n想像力が400増加"
+     1 string mchinese = "這個問題，我也一直很想問你爺爺奶奶.....\n（想像力+400）"
+   [25239]
+    0 TableSoItemLang data
+     0 int id = 1596171526
+     1 string schinese = "做人呐，最重要是知足。他们钱比我多，但他们孩子没我的优秀呀！！\n（压力+20）"
+     1 string schinese_censored = "做人呐，最重要是知足。他们钱比我多，但他们孩子没我的优秀呀！！\n（压力+20）"
+     1 string english = "The most important is to be content. You are richer than me but my children trump yours!!\n(Stress +20)"
+     1 string japanese = "人間に大事なのはな、足るを知るということだ。確かによそはうちよりお金持ちかもしれないが、子どもはうちの方が優秀じゃないか！！\nストレスが20増加"
+     1 string mchinese = "做人呐，最重要是知足。他們錢比我多，但他們孩子沒我的優秀呀！！\n（壓力+20）"
+   [25240]
+    0 TableSoItemLang data
+     0 int id = 1596171527
+     1 string schinese = "小崽子，还管你爸头上来了！管好你自己就行！\n（压力+30父母满意度-10零花钱+500）"
+     1 string schinese_censored = "小崽子，还管你爸头上来了！管好你自己就行！\n（压力+30父母满意度-10零花钱+500）"
+     1 string english = "Brat, don't mind my business, mind your own!\n(Stress +30, Satisfaction -10, Money +500)"
+     1 string japanese = "お父さんになんてことを！自分のことだけ考えなさい！\nストレスが30増加、両親の満足度が10減少、お小遣いが500増加"
+     1 string mchinese = "小崽子，還管你爸頭上來了！管好你自己就行！\n（壓力+30父母滿意度-10零花錢+500）"
+   [25241]
+    0 TableSoItemLang data
+     0 int id = 1596171528
+     1 string schinese = "所以叫你现在好好读书，以后你的孩子就可以是富二代了！\n（想象力+400）"
+     1 string schinese_censored = "所以叫你现在好好读书，以后你的孩子就可以是富二代了！\n（想象力+400）"
+     1 string english = "We want you to study hard now so your kids can have rich parents!\n(Imagination +400)"
+     1 string japanese = "お前がしっかり勉強すれば、うちはお金持ちになるよ！\n想像力が400増加"
+     1 string mchinese = "所以叫你現在好好讀書，以後你的孩子就可以是富二代了！\n（想像力+400）"
+   [25242]
+    0 TableSoItemLang data
+     0 int id = 1596171529
+     1 string schinese = "家里是少你吃还是少你穿了？没良心的东西！天天就知道攀比，怎么不多比比成绩！\n（压力+30父母满意度-20）"
+     1 string schinese_censored = "家里是少你吃还是少你穿了？没良心的东西！天天就知道攀比，怎么不多比比成绩！\n（压力+30父母满意度-20）"
+     1 string english = "And here I go about buying you clothes and food! Why do you compare your brand products with others instead of your grades?!\n(Stress +30, Satisfaction -20)"
+     1 string japanese = "服も食事も困ってないだろ？まったく！そんなことより、成績を比べなさい！\nストレスが30増加、両親の満足度が20減少"
+     1 string mchinese = "家裏是少你吃還是少你穿了？沒良心的東西！天天就知道攀比，怎麼不多比比成績！\n（壓力+30父母滿意度-20）"
+   [25243]
+    0 TableSoItemLang data
+     0 int id = 1596171530
+     1 string schinese = "这个..只能说现在学校出题水平是真的差！都是些什么烂题！\n（情商+200）"
+     1 string schinese_censored = "这个..只能说现在学校出题水平是真的差！都是些什么烂题！\n（情商+200）"
+     1 string english = "Bah, what's with school these days?! What is it with these trash questions?!\n(EQ +200)"
+     1 string japanese = "えっと…最近の学校はダメね！問題が悪いのよ！\nＥＱが200増加"
+     1 string mchinese = "這個..只能說現在學校出題水準是真的差！都是些什麼爛題！\n（情商+200）"
+   [25244]
+    0 TableSoItemLang data
+     0 int id = 1596171531
+     1 string schinese = "呃, 那还不是因为你老妈我的基因优秀！\n（父母满意度+10智商+200）"
+     1 string schinese_censored = "呃, 那还不是因为你老妈我的基因优秀！\n（父母满意度+10智商+200）"
+     1 string english = "Your genes are great because of your parents!\n(Satisfaction +10, IQ +200)"
+     1 string japanese = "ああ、あなたが優秀なのは、お母さんの遺伝子が優秀だからね！\n両親の満足度が10増加、ＩＱが200増加"
+     1 string mchinese = "呃, 那還不是因為你老媽我的基因優秀！\n（父母滿意度+10智商+200）"
+   [25245]
+    0 TableSoItemLang data
+     0 int id = 1596171532
+     1 string schinese = "哎没事没事，你明天再拿回B，老师不就会夸你进步了吗！提升空间变大了！\n（父母满意度+10）"
+     1 string schinese_censored = "哎没事没事，你明天再拿回B，老师不就会夸你进步了吗！提升空间变大了！\n（父母满意度+10）"
+     1 string english = "Haha, that's fine! Get your B back tomorrow and your teacher'll praise you! Lots of room for progress!\n(Satisfaction +10)"
+     1 string japanese = "ああ、大丈夫よ。明日またＢ評価を取ったら、先生が褒めてくれるでしょ！伸びしろが大きくなったじゃない！\n両親の満足度が10増加"
+     1 string mchinese = "哎沒事沒事，你明天再拿回B，老師不就會誇你進步了嗎！提升空間變大了！\n（父母滿意度+10）"
+   [25246]
+    0 TableSoItemLang data
+     0 int id = 1596171533
+     1 string schinese = "爸妈看到你扭来扭去，以为你很喜欢，决定把穿着小裙子的你带出去遛一遛！\n（体魄+20）"
+     1 string schinese_censored = "爸妈看到你扭来扭去，以为你很喜欢，决定把穿着小裙子的你带出去遛一遛！\n（体魄+20）"
+     1 string english = "Your parents see you move about and think you like it. So they take you out for a walk.\n(Constitution +20)"
+     1 string japanese = "両親はあなたがもじもじしている様子を見て、喜んでいるのだと思い、スカートをはかせて連れ出すことにした！\n体力が20増加"
+     1 string mchinese = "爸媽看到你扭來扭去，以為你很喜歡，決定把穿著小裙子的你帶出去遛一遛！\n（體魄+20）"
+   [25247]
+    0 TableSoItemLang data
+     0 int id = 1596171534
+     1 string schinese = "爸妈玩真人奇迹缓缓的愿望落空，两人开始暗搓搓商量二胎女儿计划..\n（想象力+20记忆力+20）"
+     1 string schinese_censored = "爸妈玩真人奇迹缓缓的愿望落空，两人开始暗搓搓商量二胎女儿计划..\n（想象力+20记忆力+20）"
+     1 string english = "My parents failed in creating a human miracle and so they begin planning to have a second daughter... \n(Imagination +20, Memory +20)"
+     1 string japanese = "リアルミラクルネキを楽しもうと思っていた両親はガッカリし、こっそり２人目の女の子を計画し始めた…\n想像力が20増加、記憶力が20増加"
+     1 string mchinese = "爸媽玩真人奇跡緩緩的願望落空，兩人開始暗搓搓商量二胎女兒計畫..\n（想像力+20記憶力+20）"
+   [25248]
+    0 TableSoItemLang data
+     0 int id = 1596171535
+     1 string schinese = "爸妈给穿上公主裙后一脸冷漠的你拍了好多照片，还发到了朋友圈，收获许多点赞..\n（情商+10魅力+10）"
+     1 string schinese_censored = "爸妈给穿上公主裙后一脸冷漠的你拍了好多照片，还发到了朋友圈，收获许多点赞..\n（情商+10魅力+10）"
+     1 string english = "Your parents take a lot of pictures of you in the princess dress and share with their friends.\n(EQ +10, Charm +10)"
+     1 string japanese = "両親はスカートをはかせてからずっと無表情のあなたを写真に撮り、ＳＮＳに投稿した。すると、いいねがたくさん付いた…\nＥＱが10増加、魅力が10増加"
+     1 string mchinese = "爸媽給穿上公主裙後一臉冷漠的你拍了好多照片，還發到了朋友圈，收穫許多點贊..\n（情商+10魅力+10）"
+   [25249]
+    0 TableSoItemLang data
+     0 int id = 1596171536
+     1 string schinese = "爸妈告诉你如果披着长头发，大脑的营养会被吸走，你就变笨了！你有点被吓到...\n（想象力+50）"
+     1 string schinese_censored = "爸妈告诉你如果披着长头发，大脑的营养会被吸走，你就变笨了！你有点被吓到...\n（想象力+50）"
+     1 string english = "Your parents say that boasting long hair will steal nourishment from your brain!\n(Imagination +50)"
+     1 string japanese = "「お姫様みたいな髪型にすると、頭の栄養が奪われてバカになるよ！」あなたはひるんだ…\n想像力が50増加"
+     1 string mchinese = "爸媽告訴你如果披著長頭髮，大腦的營養會被吸走，你就變笨了！你有點被嚇到...\n（想像力+50）"
+   [25250]
+    0 TableSoItemLang data
+     0 int id = 1596171537
+     1 string schinese = "爸妈告诉你发型不重要，是不是公主主要看脸。你过早明白了这个世界的残酷...\n（情商+50魅力+50）"
+     1 string schinese_censored = "爸妈告诉你发型不重要，是不是公主主要看脸。你过早明白了这个世界的残酷...\n（情商+50魅力+50）"
+     1 string english = "Your parents tell you hairstyle doesn't make a princess, looks do. You'll learn that the world's cruel...\n(EQ +50, Charm +50)"
+     1 string japanese = "「お姫様に大事なのは髪型じゃなくて顔じゃないかな」あなたがこの世界の残酷さを知るには早すぎた…\nＥＱが50増加、魅力が50増加"
+     1 string mchinese = "爸媽告訴你髮型不重要，是不是公主主要看臉。你過早明白了這個世界的殘酷...\n（情商+50魅力+50）"
+   [25251]
+    0 TableSoItemLang data
+     0 int id = 1596171538
+     1 string schinese = "妈妈满意地帮你扎好马尾辫，头皮绷紧把眼角都吊起来的那种....\n（情商+150魅力-50）"
+     1 string schinese_censored = "妈妈满意地帮你扎好马尾辫，头皮绷紧把眼角都吊起来的那种....\n（情商+150魅力-50）"
+     1 string english = "Mom helps you make a ponytail, one where your eye corners are tightened up...\n(EQ +150, Charm -50)"
+     1 string japanese = "お母さんは満足げに髪を結った。頭皮が引っ張られ、目がつり上がって見えた…\nＥＱが150増加、魅力が50減少"
+     1 string mchinese = "媽媽滿意地幫你紮好馬尾辮，頭皮繃緊把眼角都吊起來的那種....\n（情商+150魅力-50）"
+   [25252]
+    0 TableSoItemLang data
+     0 int id = 1596171539
+     1 string schinese = "你默念“学习靠自己，命运抓在自己手里”....但客厅的电视声越来越大了..\n（智商+100情商+100）"

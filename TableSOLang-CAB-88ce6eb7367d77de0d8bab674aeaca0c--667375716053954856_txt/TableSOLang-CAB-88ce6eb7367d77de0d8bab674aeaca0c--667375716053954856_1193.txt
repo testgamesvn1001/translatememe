@@ -1,0 +1,184 @@
+     1 string schinese_censored = "点击可获取行动力。\n\n注意不要超过行动力上限！"
+     1 string english = "Recover some Action.\n\nRemember, you cannot exceed your Action cap!"
+     1 string japanese = "行動力のカケラを選択すると、行動力が手に入る。\n\n行動力の上限は超えないように注意してね！"
+     1 string mchinese = "點擊可獲取行動力。\n\n注意不要超過行動力上限！"
+   [27415]
+    0 TableSoItemLang data
+     0 int id = 1596173702
+     1 string schinese = "点击可获得天赋属性。\n\n天赋属性越高，则每回合自动获取的属性越多。"
+     1 string schinese_censored = "点击可获得天赋属性。\n\n天赋属性越高，则每回合自动获取的属性越多。"
+     1 string english = "Increase talent stats.\n\nYou get one stat point for every talent you have per turn."
+     1 string japanese = "天賦のカケラを選択すると、天賦能力値を獲得できる。\n\n天賦能力値が高いほど、毎ターンに獲得する能力値が増加する。"
+     1 string mchinese = "點擊可獲得天賦屬性。\n\n天賦屬性越高，則每回合自動獲取的屬性越多。"
+   [27416]
+    0 TableSoItemLang data
+     0 int id = 1596173703
+     1 string schinese = "点击可随机获得属性或行动力。\n\n谁知道呢？试试吧！"
+     1 string schinese_censored = "点击可随机获得属性或行动力。\n\n谁知道呢？试试吧！"
+     1 string english = "Get a random bonus.\n\nIt might be stats, or it might be Action, who knows? Try your luck!"
+     1 string japanese = "ランダムのカケラを選択すると、ランダムで何かを獲得できる。\n\n能力値か行動力かわからないけど試してみよう！"
+     1 string mchinese = "點擊可隨機獲得屬性或行動力。\n\n誰知道呢？試試吧！"
+   [27417]
+    0 TableSoItemLang data
+     0 int id = 1596173704
+     1 string schinese = "点击可获得悟性。\n\n消耗悟性学习课程。课程依赖的属性越高，学习课程消耗的悟性越少。"
+     1 string schinese_censored = "点击可获得悟性。\n\n消耗悟性学习课程。课程依赖的属性越高，学习课程消耗的悟性越少。"
+     1 string english = "Acquire Knowledge.\n\nIt costs Knowledge to take classes. The higher relating stats you have, the less Knowledge it will cost."
+     1 string japanese = "理解力が上がる。\n\n理解力は学習に使う。関係する能力値が高いほど消耗する理解力が減少するから、まずは能力値を上げるのがオススメだよ。"
+     1 string mchinese = "點擊可獲得悟性。\n\n消耗悟性學習課程。課程依賴的屬性越高，學習課程消耗的悟性越少。"
+   [27418]
+    0 TableSoItemLang data
+     0 int id = 1596173705
+     1 string schinese = "排位组队者"
+     1 string schinese_censored = "排位组队者"
+     1 string english = "Ranked Matcher"
+     1 string japanese = "ランク戦仲間"
+     1 string mchinese = "排位組隊者"
+   [27419]
+    0 TableSoItemLang data
+     0 int id = 1596173706
+     1 string schinese = "外卖拼单者"
+     1 string schinese_censored = "外卖拼单者"
+     1 string english = "Takeout Orderer"
+     1 string japanese = "デリバリー注文仲間"
+     1 string mchinese = "外賣拼單者"
+   [27420]
+    0 TableSoItemLang data
+     0 int id = 1596173707
+     1 string schinese = "娱乐陪伴者"
+     1 string schinese_censored = "娱乐陪伴者"
+     1 string english = "Entertainment Helper"
+     1 string japanese = "遊び友達"
+     1 string mchinese = "娛樂陪伴者"
+   [27421]
+    0 TableSoItemLang data
+     0 int id = 1596173708
+     1 string schinese = "终于成为职业选手勒！\n ID不如就叫…"
+     1 string schinese_censored = "终于成为职业选手勒！\nID不如就叫…"
+     1 string english = "Finally, you become an E-sporter!\nWhy not call yourself..."
+     1 string japanese = "やっとプロ選手になった\nＩＤは…"
+     1 string mchinese = "終於成為職業選手勒！\n ID不如就叫…"
+   [27422]
+    0 TableSoItemLang data
+     0 int id = 1596173709
+     1 string schinese = "限时奖励"
+     1 string schinese_censored = "限时奖励"
+     1 string english = "Time-Limited Rewards"
+     1 string japanese = "期間限定報酬"
+     1 string mchinese = "限時獎勵"
+   [27423]
+    0 TableSoItemLang data
+     0 int id = 1596173710
+     1 string schinese = "活动"
+     1 string schinese_censored = "活动"
+     1 string english = "Events"
+     1 string japanese = "イベント"
+     1 string mchinese = "活動"
+   [27424]
+    0 TableSoItemLang data
+     0 int id = 1596173711
+     1 string schinese = "图鉴"
+     1 string schinese_censored = "图鉴"
+     1 string english = "Gallery"
+     1 string japanese = "図鑑"
+     1 string mchinese = "圖鑒"
+   [27425]
+    0 TableSoItemLang data
+     0 int id = 1596173712
+     1 string schinese = "请为您的小孩佩戴传家宝"
+     1 string schinese_censored = "请为您的小孩佩戴传家宝"
+     1 string english = "Please give your child Family Heirlooms to equip."
+     1 string japanese = "子どものために家宝を装着してください"
+     1 string mchinese = "請為您的小孩佩戴傳家寶"
+   [27426]
+    0 TableSoItemLang data
+     0 int id = 1596173713
+     1 string schinese = "佩戴"
+     1 string schinese_censored = "佩戴"
+     1 string english = "Equip"
+     1 string japanese = "装着"
+     1 string mchinese = "佩戴"
+   [27427]
+    0 TableSoItemLang data
+     0 int id = 1596173714
+     1 string schinese = "获得了新的特长[{0}]，图鉴经验值增加了~"
+     1 string schinese_censored = "获得了新的特长[{0}]，图鉴经验值增加了~"
+     1 string english = "New trait [{0}] acquired. Gallery Experience increases."
+     1 string japanese = "新しい特技[{0}]を獲得し、図鑑経験値が増加しました。"
+     1 string mchinese = "獲得了新的特長[{0}]，圖鑒經驗值增加了~"
+   [27428]
+    0 TableSoItemLang data
+     0 int id = 1596173715
+     1 string schinese = "解锁"
+     1 string schinese_censored = "解锁"
+     1 string english = "Unlock"
+     1 string japanese = "アンロック"
+     1 string mchinese = "解鎖"
+   [27429]
+    0 TableSoItemLang data
+     0 int id = 1596173716
+     1 string schinese = "已拥有"
+     1 string schinese_censored = "已拥有"
+     1 string english = "Owned"
+     1 string japanese = "所有済み"
+     1 string mchinese = "已擁有"
+   [27430]
+    0 TableSoItemLang data
+     0 int id = 1596173717
+     1 string schinese = "家族等级到达{0}解锁"
+     1 string schinese_censored = "家族等级到达{0}解锁"
+     1 string english = "Reach Family Lv. {0} to unlock."
+     1 string japanese = "家族レベルが{0}になるとアンロック"
+     1 string mchinese = "家族等級到達{0}解鎖"
+   [27431]
+    0 TableSoItemLang data
+     0 int id = 1596173718
+     1 string schinese = "因为家庭原因[{0}]，{1}"
+     1 string schinese_censored = "因为家庭原因[{0}]，{1}"
+     1 string english = "Because of family reason [{0}], {1}."
+     1 string japanese = "家庭の原因で[{0}]、{1}"
+     1 string mchinese = "因為家庭原因[{0}]，{1}"
+   [27432]
+    0 TableSoItemLang data
+     0 int id = 1596173719
+     1 string schinese = "神秘力量[{0}]发动了，{1}"
+     1 string schinese_censored = "神秘力量[{0}]发动了，{1}"
+     1 string english = "Mysterious Power [{0}] works, {1}."
+     1 string japanese = "不思議な力[{0}]が発動しました。{1}"
+     1 string mchinese = "神秘力量[{0}]發動了，{1}"
+   [27433]
+    0 TableSoItemLang data
+     0 int id = 1596173720
+     1 string schinese = "是否消耗{0}学费值解锁？"
+     1 string schinese_censored = "是否消耗{0}学费值解锁？"
+     1 string english = "Spend {0} Tuition to unlock?"
+     1 string japanese = "授業料を{0}消費してアンロックしますか？"
+     1 string mchinese = "是否消耗{0}學費值解鎖？"
+   [27434]
+    0 TableSoItemLang data
+     0 int id = 1596173721
+     1 string schinese = "学费值不足~"
+     1 string schinese_censored = "学费值不足~"
+     1 string english = "Not enough Tuition."
+     1 string japanese = "授業料が足りません。"
+     1 string mchinese = "學費值不足~"
+   [27435]
+    0 TableSoItemLang data
+     0 int id = 1596173722
+     1 string schinese = "可学习新的课程：{0}"
+     1 string schinese_censored = "可学习新的课程：{0}"
+     1 string english = "New class(es) available: {0}"
+     1 string japanese = "新しい授業{0}を学習可能"
+     1 string mchinese = "可學習新的課程：{0}"
+   [27436]
+    0 TableSoItemLang data
+     0 int id = 1596173723
+     1 string schinese = "解锁了新的特长：{0}"
+     1 string schinese_censored = "解锁了新的特长：{0}"
+     1 string english = "New trait(s) unlocked: {0}"
+     1 string japanese = "新しい特技{0}をアンロック"
+     1 string mchinese = "解鎖了新的特長：{0}"
+   [27437]
+    0 TableSoItemLang data
+     0 int id = 1596173724
+     1 string schinese = "你获得了一个了不起的特长~"

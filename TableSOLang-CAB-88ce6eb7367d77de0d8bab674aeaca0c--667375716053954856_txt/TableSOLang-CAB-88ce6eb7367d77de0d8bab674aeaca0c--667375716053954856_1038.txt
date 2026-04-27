@@ -1,0 +1,184 @@
+     1 string schinese_censored = "因为膨胀差点输掉比赛，粉丝们对我的表现很不满：/n赢一把就这么膨胀，这种队伍走不远的。"
+     1 string english = "Fans got disappointed at us nearly losing the game due to overconfidence:\nGetting proud after just one win... They're no champion materials."
+     1 string japanese = "油断して負けるところだった。ファンはご立腹だ。\n「たった１勝で油断するなんて。そんなチームの成績なんてたかが知れてるよ」"
+     1 string mchinese = "因為膨脹差點輸掉比賽，粉絲們對我的表現很不滿：\n贏一把就這麼膨脹，這種隊伍走不遠的。"
+   [23850]
+    0 TableSoItemLang data
+     0 int id = 1109326
+     1 string schinese = "因为膨胀差点输掉比赛，粉丝们对我的表现很不满：\n一点配合都没有，网吧队都比你们强！"
+     1 string schinese_censored = "因为膨胀差点输掉比赛，粉丝们对我的表现很不满：/n一点配合都没有，网吧队都比你们强！"
+     1 string english = "Fans got disappointed at us nearly losing the game due to overconfidence:\nThey've no teamwork at all. Any amateur team can do better."
+     1 string japanese = "油断して負けるところだった。ファンはご立腹だ。\n「全然連携が取れてない。ネカフェ軍の方が強いんじゃないか！」"
+     1 string mchinese = "因為膨脹差點輸掉比賽，粉絲們對我的表現很不滿：\n一點配合都沒有，網吧隊都比你們強！"
+   [23851]
+    0 TableSoItemLang data
+     0 int id = 1109327
+     1 string schinese = "因为膨胀差点输掉比赛，粉丝们对我的表现很不满：\n_useNick全场梦游，JNG四打六还能赢不容易啊，十哥老院长了！"
+     1 string schinese_censored = "因为膨胀差点输掉比赛，粉丝们对我的表现很不满：/n{0}全场梦游，{队名}四打六还能赢不容易啊，{前辈}老院长了！"
+     1 string english = "Fans got disappointed at us nearly losing the game due to overconfidence:\nJNG just won a 4v6 game with _useNick sleepwalking all the way. OpaqueLove hard carried as always."
+     1 string japanese = "油断して負けるところだった。ファンはご立腹だ。\n「_useNickは精彩を欠いていた。ＪＮＧは４人対６人の戦いで勝ったってことだ。さすがシーさん！」"
+     1 string mchinese = "因為膨脹差點輸掉比賽，粉絲們對我的表現很不滿：\n_useNick全場夢遊，JNG四打六還能贏不容易啊，十哥老院長了！"
+   [23852]
+    0 TableSoItemLang data
+     0 int id = 1109328
+     1 string schinese = "因为膨胀差点输掉比赛，粉丝们对我的表现很不满：\n虽然JNG艰难取舍但是有一说一，主要还是对手给机会了，太依赖对面的失误了。"
+     1 string schinese_censored = "因为膨胀差点输掉比赛，粉丝们对我的表现很不满：/n虽然{队名}艰难取舍但是有一说一，主要还是对手给机会了，太依赖对面的失误了。"
+     1 string english = "Fans got disappointed at us nearly losing the game due to overconfidence:\nIt were the opponent team's misplays that gave JNG the chance of winning in the first place."
+     1 string japanese = "油断して負けるところだった。ファンはご立腹だ。\n「ＪＮＧはなんとか勝利したが、相手の失敗に助けられた」"
+     1 string mchinese = "因為膨脹差點輸掉比賽，粉絲們對我的表現很不滿：\n雖然JNG艱難取捨但是有一說一，主要還是對手給機會了，太依賴對面的失誤了。"
+   [23853]
+    0 TableSoItemLang data
+     0 int id = 1109329
+     1 string schinese = "因为膨胀差点输掉比赛，粉丝们对我的表现很不满：\n赢了我carry，输了怪队友，合着您_useNick就不粘锅呗"
+     1 string schinese_censored = "因为膨胀差点输掉比赛，粉丝们对我的表现很不满：/n赢了我carry，输了怪队友，合著您就不粘锅呗"
+     1 string english = "Fans got disappointed at us nearly losing the game due to overconfidence:\n_useNick always blames his teammates when they lose. Who does he think he is?"
+     1 string japanese = "油断して負けるところだった。ファンはご立腹だ。\n「勝てば自分の手柄にして、負ければ仲間を責める。_useNickは無責任なやつなんだ」"
+     1 string mchinese = "因為膨脹差點輸掉比賽，粉絲們對我的表現很不滿：\n贏了我carry，輸了怪隊友，合著您_useNick就不粘鍋唄"
+   [23854]
+    0 TableSoItemLang data
+     0 int id = 1109330
+     1 string schinese = "因为膨胀差点输掉比赛，粉丝们对我的表现很不满：\n你永远可以在某些情况下暂时相信_useNick，但不是今天。"
+     1 string schinese_censored = "因为膨胀差点输掉比赛，粉丝们对我的表现很不满：/n你永远可以在某些情况下暂时相信{0}，但不是今天。"
+     1 string english = "Fans got disappointed at us nearly losing the game due to overconfidence:\nSometimes you can trust _useNick, but not today."
+     1 string japanese = "油断して負けるところだった。ファンはご立腹だ。\n「ある条件下では_useNickを信じて良いが、今日はその時じゃない」"
+     1 string mchinese = "因為膨脹差點輸掉比賽，粉絲們對我的表現很不滿：\n你永遠可以在某些情況下暫時相信_useNick，但不是今天。"
+   [23855]
+    0 TableSoItemLang data
+     0 int id = 1109331
+     1 string schinese = "碉堡之日太好玩了，沉迷锄大地盖房子无法自拔。吃鸭？吃鸭是什么？啥都不能打扰我盖房子！"
+     1 string schinese_censored = "碉堡之日太好玩了，沉迷锄大地盖房子无法自拔。吃鸭？吃鸭是什么？啥都不能打扰我盖房子！"
+     1 string english = "I become addicted to collecting and building in Fortday. PKBG? What's that? Nothing can keep me away from playing Fortday!"
+     1 string japanese = "『フォートデイ』は面白い。建物を建てるのって楽しい。バトルロイヤル？なんだそれ。建物を建てる邪魔はさせん！"
+     1 string mchinese = "碉堡之日太好玩了，沉迷鋤大地蓋房子無法自拔。吃鴨？吃鴨是什麼？啥都不能打擾我蓋房子！"
+   [23856]
+    0 TableSoItemLang data
+     0 int id = 1109332
+     1 string schinese = "2018年某日，大学宿舍楼传出铺天盖地的呼喊声。\n周围的居民们纷纷表示疑惑：为什么要喊“埃及牛逼”？莫非法老复活了？"
+     1 string schinese_censored = "虽然比赛不许投降，但是可以战略性地让对手快点赢嘛。"
+     1 string english = "Students of a university nearby cheered aloud in their domitories on someday in 2018.\nResidents in the neighborhood got confused about why they did so."
+     1 string japanese = "２０１８年のある日、大学の宿舎に大きな声が響き渡った。\n住民たちは困惑した。「『アイジーすごいぞ』ってどういう意味なんだ？とにかく迷惑だな」"
+     1 string mchinese = "2018年某日，大學宿舍樓傳出鋪天蓋地的呼喊聲。\n周圍的居民們紛紛表示疑惑：為什麼要喊“埃及牛逼”？莫非法老復活了？"
+   [23857]
+    0 TableSoItemLang data
+     0 int id = 1109333
+     1 string schinese = "贪便宜从网上买了个便宜耳机排位时用，结果没一个礼拜耳朵就疼了。"
+     1 string schinese_censored = "贪便宜从网上买了个便宜耳机排位时用，结果没一个礼拜耳朵就疼了。"
+     1 string english = "I bought a cheap pair of earphones for playing the game. But it made my ears uncomfortable right in the following week."
+     1 string japanese = "ネットで買った安いヘッドホンを使ってランク戦をプレイしていたら、１週間耳が痛かった。"
+     1 string mchinese = "貪便宜從網上買了個便宜耳機排位時用，結果沒一個禮拜耳朵就疼了。"
+   [23858]
+    0 TableSoItemLang data
+     0 int id = 1109334
+     1 string schinese = "单排排到了坑爹的演员队友，前期崩盘二十分钟投降后愤怒地点开举报写起了小作文，写完之后气消了，并没有发表。"
+     1 string schinese_censored = "单排排到了坑爹的演员队友，前期崩盘二十分钟投降后愤怒地点开举报写起了小作文，写完之后气消了，并没有发表。"
+     1 string english = "I met a teammate with a bad performance when I solo queued. My team collapsed in early game and surrendered at the 20th minute. I decided to report him, but calmed down halfway filing the report."
+     1 string japanese = "ソロランク戦でひどい味方とマッチした。前半２０分でゲームが崩壊してリタイアしたので、腹が立って、通報しようと小作文を書いたらすっきりしたので送信はしなかった。"
+     1 string mchinese = "單排排到了坑爹的演員隊友，前期崩盤二十分鐘投降後憤怒地點開舉報寫起了小作文，寫完之後氣消了，並沒有發表。"
+   [23859]
+    0 TableSoItemLang data
+     0 int id = 1109335
+     1 string schinese = "和朋友一起三排，三个人一起蹲在草丛里暗算路过的人拿一血，surprise！"
+     1 string schinese_censored = "和朋友一起三排，三个人一起蹲在草丛里暗算路过的人拿一血，surprise！"
+     1 string english = "I queued with my group of three. We ambushed together in the brush for the first blood. Surprise!"
+     1 string japanese = "友達と３人でランク戦。３人でブッシュに潜んで、通りかかった相手をタコ殴りにしてやろう！"
+     1 string mchinese = "和朋友一起三排，三個人一起蹲在草叢裏暗算路過的人拿一血，surprise！"
+   [23860]
+    0 TableSoItemLang data
+     0 int id = 1109336
+     1 string schinese = "排位被虐惨了打几把人机找找自信，结果被电脑控制的植物女光辉男郎活歌追着打。"
+     1 string schinese_censored = "排位被虐惨了打几把人机找找自信，结果被人机植物女光辉男郎活歌追着打。"
+     1 string english = "I played several games in Co-op vs. AI to build my confidence after keeping losing in Ranked. But I got kicked at my ass by the AI controlled Zira, Lax and Kurthas."
+     1 string japanese = "ランク戦で惨敗したら、ＣＰＵと対戦して自信を取り戻そう。その結果、ＣＰＵの操作するサイラ・ワックス・カーサヌに追い打ちをかけられてしまった。"
+     1 string mchinese = "排位被虐慘了打幾把人機找找自信，結果被電腦控制的植物女光輝男郎活歌追著打。"
+   [23861]
+    0 TableSoItemLang data
+     0 int id = 1109337
+     1 string schinese = "新年时忙里偷闲玩守望后锋，游戏氛围一派祥和，大家互相问好，大家都在相互问好，气氛一派祥和……"
+     1 string schinese_censored = "新年时玩守望后锋，游戏氛围一派祥和，大家互相问好：\n[友方榔头]：各位守望后锋玩家新年好，铁拳玩家除外\n[友方危娜]：各位守望后锋玩家过年好，铁拳玩家除外\n[友方铁拳]：各位铁拳玩家过年好，白影玩家除外"
+     1 string english = "I played Oversight in my breaks during the Spring Festival. Everybody was greeting each other in the game, and the atmosphere was very harmonious..."
+     1 string japanese = "新年、スキマ時間で『オーバークロック』をプレイしてみると、ゲーム内の雰囲気が和やかだった。みんなあいさつをしていて。あいさつをしていて、雰囲気が和やかだった…。"
+     1 string mchinese = "新年時忙裏偷閒玩守望後鋒，遊戲氛圍一派祥和，大家互相問好，大家都在相互問好，氣氛一派祥和……"
+   [23862]
+    0 TableSoItemLang data
+     0 int id = 1109338
+     1 string schinese = "选手在直播时的金句名言有助于提升人气。例如号称“南丑骚话王”的Singlelift小师弟，除了实力外，也因“踊跃发言”收获了许多粉丝，甚至带动了IOI的话题热度。"
+     1 string schinese_censored = "选手在直播时的金句名言有主句提升人气。例如号称“南丑骚话王”的Singlelift小师弟，除了实力外，他也因“踊跃发言”在世界范围内收获了许多粉丝，甚至带动了IOI的话题热度。"
+     1 string english = "Humorous words can help streamers become more popular. For example, Singlelift aka King of Funny Talk is well-liked by many fans for his gaming skills and his humor. And he helps iOi get known by more people."
+     1 string japanese = "選手がライブ配信時に残した名言により人気が上がることがある。例えば、「トーク王」ことＳｉｎｇｌｅｌｉｆｔは、実力に加え、積極的な発言で世界中のファンを獲得し、ＩＯＩの人気を高めている。"
+     1 string mchinese = "選手在直播時的金句名言有助於提升人氣。例如號稱“南醜騷話王”的Singlelift小師弟，除了實力外，也因“踴躍發言”收穫了許多粉絲，甚至帶動了IOI的話題熱度。"
+   [23863]
+    0 TableSoItemLang data
+     0 int id = 1109339
+     1 string schinese = "家里网络不好，打游戏会获得非常神奇的体验。队友再也不担心我技术太菜打不中人啦，因为根本就A不出去……"
+     1 string schinese_censored = "网络不好的时候打游戏会获得非常神奇的体验：/n 漂移不是梦，技能放不出，妈妈再也不担心我大招放不好凉凉了，因为复活一看大招根本没放出去。"
+     1 string english = "I had so "amazing" an experience when I played FPS games in my home where the network latency was so high. My teammates needn't worry about my poor aiming since I couldn't even make a shot..."
+     1 string japanese = "家の回線の調子が悪いと、ゲーム中に不思議な体験ができる。味方は私が下手なせいで相手を倒せないことを心配しなくていい。そもそも攻撃できないからだ…。"
+     1 string mchinese = "家裏網路不好，打遊戲會獲得非常神奇的體驗。隊友再也不擔心我技術太菜打不中人啦，因為根本就A不出去……"
+   [23864]
+    0 TableSoItemLang data
+     0 int id = 1109340
+     1 string schinese = "只有外挂能够打败外挂，用锁血对抗加速，开自瞄制裁透视。然而神仙打架凡人遭殃，我等凡人玩家只能瑟瑟发抖。"
+     1 string schinese_censored = "只有外挂能够打败外挂，用锁血对抗加速，开自瞄制裁透视。然而神仙打架凡人遭殃，我等凡人玩家只能瑟瑟发抖。"
+     1 string english = "Only cheaters can beat cheaters. They counter move hacks with aim bots, wall hacks with health hacks. They've broken the experience of others, including me."
+     1 string japanese = "チートにはチートでしか勝てない。ＨＰ固定で加速に対抗、オート照準で透視を抑える。神と神の戦いに我々凡人が出くわしたら、ただ震えて見ていることしかできない。"
+     1 string mchinese = "只有外掛能夠打敗外掛，用鎖血對抗加速，開自瞄制裁透視。然而神仙打架凡人遭殃，我等凡人玩家只能瑟瑟發抖。"
+   [23865]
+    0 TableSoItemLang data
+     0 int id = 1109341
+     1 string schinese = "截止至调查时间，在射击类游戏中使用外挂的人数高达 很多很多 ，其中以 男性和女性 为主。外挂横行究竟是人性的缺失还是道德的沦丧？"
+     1 string schinese_censored = "截止至调查时间，在射击类游戏中使用外挂的人数高达 很多很多 ，其中以 男性和女性 为主。外挂横行究竟是人性的缺失还是道德的沦丧？"
+     1 string english = "We've find out that there are countless cheaters in shooters. Why do they cheat? Is it because of a loss of conscience or a lack of morality?"
+     1 string japanese = "調査期間中にＦＰＳでチートツールを使ったプレイヤーはかなりの人数に上った。そのうち、男性と女性が過半数を占めた。チートの横行の原因は人間性の欠如だろうか、それとも道徳が失われたことだろうか。"
+     1 string mchinese = "截止至調查時間，在射擊類遊戲中使用外掛的人數高達 很多很多 ，其中以 男性和女性 為主。外掛橫行究竟是人性的缺失還是道德的淪喪？"
+   [23866]
+    0 TableSoItemLang data
+     0 int id = 1109342
+     1 string schinese = "“对手领先我们5000经济，然而我们的阵容值10000，所以我们现在领先对手5000！这是优势局啊兄弟们！”"
+     1 string schinese_censored = "对手领先我们5000经济，然而我们的阵容值10000，所以我们现在领先对手5000！这是优势局啊兄弟们！"
+     1 string english = "The opponents' gold has surpassed ours by 5,000. But our great lineup is worth 10,000 gold. So acctually we have the 5,000 gold advantage!"
+     1 string japanese = "「リソースは相手が５０００ポイントリード、しかしこちらの時価総額は１万元。だから我々が５０００ポイントリード！我々の方が有利なのだよ！」"
+     1 string mchinese = "“對手領先我們5000經濟，然而我們的陣容值10000，所以我們現在領先對手5000！這是優勢局啊兄弟們！”"
+   [23867]
+    0 TableSoItemLang data
+     0 int id = 1109343
+     1 string schinese = "追杀对位英雄时，通过不断来回走位抽搐跳舞假装自己卡了，成功骗得对手回头，收获人头！"
+     1 string schinese_censored = "追杀对位英雄时，通过不断来回走位抽搐跳舞假装自己卡了，成功骗得对手回头，收获人头！"
+     1 string english = "I pretended to be caught in latency by moving my hero back and forth when I was chasing the low hp enemy laner. The enemy fell for it and came back, then got slain by me."
+     1 string japanese = "相手のキャラを追うときは、同じ場所を行ったり来たりして身動きが取れなくなったふりをする。相手がだまされて引き返してきたらとどめだ！"
+     1 string mchinese = "追殺對位英雄時，通過不斷來回走位抽搐跳舞假裝自己卡了，成功騙得對手回頭，收穫人頭！"
+   [23868]
+    0 TableSoItemLang data
+     0 int id = 1109344
+     1 string schinese = "ad秀翻全场时，不仅ad自己志得意满，含辛茹苦亲手把他拉扯大的辅助也留下了欣慰的泪水。"
+     1 string schinese_censored = "ad carry全场时，不仅ad自己志得意满，含辛茹苦亲手把他拉扯大的辅助也留下了欣慰的泪水。"
+     1 string english = "The AD tends to feel so proud of himself when he carries the team. And the support who has raised the AD up with a lot of efforts will also get very satisfied."
+     1 string japanese = "物理アタッカーがキャリー。アタッカー自身が得意げで、彼を育ててきたサポーターもうれし涙を流している。"
+     1 string mchinese = "ad秀翻全場時，不僅ad自己志得意滿，含辛茹苦親手把他拉扯大的輔助也留下了欣慰的淚水。"
+   [23869]
+    0 TableSoItemLang data
+     0 int id = 1109345
+     1 string schinese = "邻家大哥也玩IOI，据说他之前还玩Dato，水平超厉害！但他操作时总是会有奇怪的停顿，据说是想要反补自己的小兵。"
+     1 string schinese_censored = "从Dato转战IOI的玩家在对线时总是会有奇怪的停顿，原因是他们想要反补自己的小兵。"
+     1 string english = "A neighbor of mine also plays iOi. He said that he used to play DatO well. But he always plays weirdly in iOi since he tries to deny the creeps."
+     1 string japanese = "近所のお兄さんもＩＯＩをプレイしている。以前はＤａｔｏをプレイしていたそうで、とても上手い！ただ、操作中に変な間が生まれる。自分のミニオンを攻撃しそうになるらしい。"
+     1 string mchinese = "鄰家大哥也玩IOI，據說他之前還玩Dato，水準超厲害！但他操作時總是會有奇怪的停頓，據說是想要反補自己的小兵。"
+   [23870]
+    0 TableSoItemLang data
+     0 int id = 1109346
+     1 string schinese = "某次玩dato时，游戏前期和队友琢磨着极限偷肉山，结果肉山大魔王喜提双杀。"
+     1 string schinese_censored = "某次玩dato时，游戏前期和队友琢磨着极限偷肉山，结果肉山大魔王喜提双杀。"
+     1 string english = "I once tried to rush Roushan in the early game with a teammate in DatO. But we were both slain."
+     1 string japanese = "Ｄａｔｏをプレイしているとき、ゲーム前半でシャーナを倒そうと仲間と競い合ってしまった。その結果、どちらもシャーナの犠牲になった。"
+     1 string mchinese = "某次玩dato時，遊戲前期和隊友琢磨著極限偷肉山，結果肉山大魔王喜提雙殺。"
+   [23871]
+    0 TableSoItemLang data
+     0 int id = 1109347
+     1 string schinese = "一顿操作猛如虎，一看输出二百五，诀窍在于哪里亮了点哪里！"
+     1 string schinese_censored = "一顿操作猛如虎，一看输出二百五，诀窍在于哪里亮了点哪里！"
+     1 string english = "I move like a jagger but turn to be the loser. How does that happen? Because I press my keyboard in random."
+     1 string japanese = "猛烈な操作で２５０のダメージ。コツは光った場所をクリックすること！"
+     1 string mchinese = "一頓操作猛如虎，一看輸出二百五，訣竅在於哪里亮了點哪里！"
+   [23872]
+    0 TableSoItemLang data
+     0 int id = 1109348
+     1 string schinese = "IOI拷贝模式最欢乐的就是玩瞎僧，十个瞎僧九个溜，还有一个是皮球。"

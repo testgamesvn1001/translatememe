@@ -1,0 +1,184 @@
+     1 string schinese_censored = "呃……可能没那么夸张吧？真到了那个地步她应该会告诉我的？"
+     1 string english = "Oh... It can't be! If it's already gotten to this point, why hasn't she mentioned it to me?"
+     1 string japanese = "うーん…まだ決まってないのかも？決まったら教えてくれるはずよね？"
+     1 string mchinese = "呃……可能沒那麼誇張吧？真到了那個地步她應該會告訴我的？"
+   [12120]
+    0 TableSoItemLang data
+     0 int id = 1022121
+     1 string schinese = "谁知道呢，大家可都这么说呢。"
+     1 string schinese_censored = "谁知道呢，大家可都这么说呢。"
+     1 string english = "Who knows? That's what everyone is saying."
+     1 string japanese = "さあ？でも、みんなそう言ってるよ。"
+     1 string mchinese = "誰知道呢，大家可都這麼說呢。"
+   [12121]
+    0 TableSoItemLang data
+     0 int id = 1022122
+     1 string schinese = "具体怎么回事，你还是直接去问她本人吧！"
+     1 string schinese_censored = "具体怎么回事，你还是直接去问她本人吧！"
+     1 string english = "Maybe you should just ask her in person about what's going on."
+     1 string japanese = "どうだろ、直接本人に聞くのが早いと思う！"
+     1 string mchinese = "具體怎麼回事，你還是直接去問她本人吧！"
+   [12122]
+    0 TableSoItemLang data
+     0 int id = 1022123
+     1 string schinese = "（怎么回事？难道萌萌是怕转学以后我会伤心，所以特地瞒着我吗？）"
+     1 string schinese_censored = "（怎么回事？难道萌萌是怕转学以后我会伤心，所以特地瞒着我吗？）"
+     1 string english = "(What's going on? Is she afraid I'll be hurt if she tells me she's transferring?)"
+     1 string japanese = "（どういうこと？私を傷つけたくないから、隠してたのかな？）"
+     1 string mchinese = "（怎麼回事？難道萌萌是怕轉學以後我會傷心，所以特地瞞著我嗎？）"
+   [12123]
+    0 TableSoItemLang data
+     0 int id = 1022124
+     1 string schinese = "萌萌，终于等到你了。"
+     1 string schinese_censored = "萌萌，终于等到你了。"
+     1 string english = "Daisy, I've finally found you."
+     1 string japanese = "メンメン！待ってたよ！"
+     1 string mchinese = "萌萌，終於等到你了。"
+   [12124]
+    0 TableSoItemLang data
+     0 int id = 1022125
+     1 string schinese = "你怎么还在？都这么晚了！"
+     1 string schinese_censored = "你怎么还在？都这么晚了！"
+     1 string english = "Why are you still here? It's already this late!"
+     1 string japanese = "なんでいるの？もうこんな時間よ！"
+     1 string mchinese = "你怎麼還在？都這麼晚了！"
+   [12125]
+    0 TableSoItemLang data
+     0 int id = 1022126
+     1 string schinese = "好久没见到你了，想你嘛~这么晚也怕你回家路上危险~"
+     1 string schinese_censored = "好久没见到你了，想你嘛~这么晚也怕你回家路上危险~"
+     1 string english = "I haven't seen you for a long time. I've missed you. It's late and it's not safe for you to be walking home alone."
+     1 string japanese = "最近会ってないから、会いたくなったの！こんなに遅いと、一人で帰るのは危ないしね！"
+     1 string mchinese = "好久沒見到你了，想你嘛~這麼晚也怕你回家路上危險~"
+   [12126]
+    0 TableSoItemLang data
+     0 int id = 1022127
+     1 string schinese = "……谢谢，嘻嘻~"
+     1 string schinese_censored = "……谢谢，嘻嘻~"
+     1 string english = "Hehe, thanks!"
+     1 string japanese = "…ありがとう、フフ。"
+     1 string mchinese = "……謝謝，嘻嘻~"
+   [12127]
+    0 TableSoItemLang data
+     0 int id = 1022128
+     1 string schinese = "说起来听说你要转学？怎么都不告诉我！"
+     1 string schinese_censored = "说起来听说你要转学？怎么都不告诉我！"
+     1 string english = "I heard you're transferring schools? Why haven't you told me?"
+     1 string japanese = "そういえば、転校するんだよね？なんで教えてくれないの！"
+     1 string mchinese = "說起來聽說你要轉學？怎麼都不告訴我！"
+   [12128]
+    0 TableSoItemLang data
+     0 int id = 1022129
+     1 string schinese = "转学？谁说的，我不转学啊。"
+     1 string schinese_censored = "转学？谁说的，我不转学啊。"
+     1 string english = "Transferring? Who said that? I'm not transferring."
+     1 string japanese = "転校？誰に聞いたの？別に転校しないよ。"
+     1 string mchinese = "轉學？誰說的，我不轉學啊。"
+   [12129]
+    0 TableSoItemLang data
+     0 int id = 1022130
+     1 string schinese = "我听一个同学说的……原来是谣传吗？那太好了，你不会转学了！"
+     1 string schinese_censored = "我听一个同学说的……原来是谣传吗？那太好了，你不会转学了！"
+     1 string english = "I heard some students talking about it, but it's just a rumor? Oh that's great. You don't have to transfer!"
+     1 string japanese = "クラスの子から聞いたの…やっぱりただの噂！良かった、転校しないんだ！"
+     1 string mchinese = "我聽一個同學說的……原來是謠傳嗎？那太好了，你不會轉學了！"
+   [12130]
+    0 TableSoItemLang data
+     0 int id = 1022131
+     1 string schinese = "我本来还担心你是不是跟小说一样，怕告诉我转学会让我难过，就瞒着不告诉我呢！"
+     1 string schinese_censored = "我本来还担心你是不是跟小说一样，怕告诉我转学会让我难过，就瞒着不告诉我呢！"
+     1 string english = "I thought you weren't telling me because you were afraid I would get sad."
+     1 string japanese = "小説みたいに、悲しませないために黙ってると思ってたの！"
+     1 string mchinese = "我本來還擔心你是不是跟小說一樣，怕告訴我轉學會讓我難過，就瞞著不告訴我呢！"
+   [12131]
+    0 TableSoItemLang data
+     0 int id = 1022132
+     1 string schinese = "我才不转学呢……转学了就不能见到你了……"
+     1 string schinese_censored = "我才不转学呢……转学了就不能见到你了……"
+     1 string english = "I'm not transferring... I won't get to see you anymore if I transfer..."
+     1 string japanese = "転校なんて…転校したら会えなくなるし…"
+     1 string mchinese = "我才不轉學呢……轉學了就不能見到你了……"
+   [12132]
+    0 TableSoItemLang data
+     0 int id = 1022133
+     1 string schinese = "不过如果，我是说如果，我们之后真的分开到了很远的地方怎么办？"
+     1 string schinese_censored = "不过如果，我是说如果，我们之后真的分开到了很远的地方怎么办？"
+     1 string english = "But what if, and I say if, I move far away?"
+     1 string japanese = "でも、もしだけど、ホントに私が遠くに行ったらどうする？"
+     1 string mchinese = "不過如果，我是說如果，我們之後真的分開到了很遠的地方怎麼辦？"
+   [12133]
+    0 TableSoItemLang data
+     0 int id = 1022134
+     1 string schinese = "怎么了，不是说你不会转学的吗？"
+     1 string schinese_censored = "怎么了，不是说你不会转学的吗？"
+     1 string english = "What's wrong? I thought you said you weren't transferring?"
+     1 string japanese = "どうしたの？転校しないんでしょ？"
+     1 string mchinese = "怎麼了，不是說你不會轉學的嗎？"
+   [12134]
+    0 TableSoItemLang data
+     0 int id = 1022135
+     1 string schinese = "没什么，我就问问，测试一下你，嘿嘿~"
+     1 string schinese_censored = "没什么，我就问问，测试一下你，嘿嘿~"
+     1 string english = "No, I'm just asking. I'm just testing you!"
+     1 string japanese = "気にしないで。反応が気になっただけ。フフ。"
+     1 string mchinese = "沒什麼，我就問問，測試一下你，嘿嘿~"
+   [12135]
+    0 TableSoItemLang data
+     0 int id = 1022136
+     1 string schinese = "（自言自语）唉，萌萌居然今天病了……希望老师别拖堂了，不然我都没时间看她……"
+     1 string schinese_censored = "（自言自语）唉，萌萌居然今天病了……希望老师别拖堂了，不然我都没时间看她……"
+     1 string english = "(Talking to myself) Sigh, Daisy was sick today... I hope the teacher will let us off early so I can go see her..."
+     1 string japanese = "ええっ、今日メンメン病気で休んでるんだ…授業早く終わらないかな。お見舞いに行く時間がなくなっちゃう…"
+     1 string mchinese = "（自言自語）唉，萌萌居然今天病了……希望老師別拖堂了，不然我都沒時間看她……"
+   [12136]
+    0 TableSoItemLang data
+     0 int id = 1022137
+     1 string schinese = "你要去看她吗？那能不能顺便把她这些作业和笔记带过去？"
+     1 string schinese_censored = "你要去看她吗？那能不能顺便把她这些作业和笔记带过去？"
+     1 string english = "Are you going to see Daisy? Can you bring her today's homework and notes?"
+     1 string japanese = "お見舞いに行くの？じゃあ、ついでに宿題とノートを持っていってくれる？"
+     1 string mchinese = "你要去看她嗎？那能不能順便把她這些作業和筆記帶過去？"
+   [12137]
+    0 TableSoItemLang data
+     0 int id = 1022138
+     1 string schinese = "是偏偏呀！没问题，交给我吧~"
+     1 string schinese_censored = "是偏偏呀！没问题，交给我吧~"
+     1 string english = "Phoebe? Sure, leave it to me."
+     1 string japanese = "ペンペン！了解！任せて！"
+     1 string mchinese = "是偏偏呀！沒問題，交給我吧~"
+   [12138]
+    0 TableSoItemLang data
+     0 int id = 1022139
+     1 string schinese = "不过萌萌是隔壁班的，为什么是你来送作业？"
+     1 string schinese_censored = "不过萌萌是隔壁班的，为什么是你来送作业？"
+     1 string english = "But aren't you from the class next door? Why are you giving me homework?"
+     1 string japanese = "でも、メンメンは隣のクラスだよ？なんでペンペンが宿題を持ってるの？"
+     1 string mchinese = "不過萌萌是隔壁班的，為什麼是你來送作業？"
+   [12139]
+    0 TableSoItemLang data
+     0 int id = 1022140
+     1 string schinese = "正好办公室里听见老师说到这事，而且我记得你们经常一起走，应该关系好又住得近，就拿来了。"
+     1 string schinese_censored = "正好办公室里听见老师说到这事，而且我记得你们经常一起走，应该关系好又住得近，就拿来了。"
+     1 string english = "Oh I heard about Daisy being sick and I know you are best friends. Here."
+     1 string japanese = "職員室で先生が話してるのを聞いたの。あなたは近所だし、仲も良いでしょ？だから引き受けてきたの。"
+     1 string mchinese = "正好辦公室裏聽見老師說到這事，而且我記得你們經常一起走，應該關係好又住得近，就拿來了。"
+   [12140]
+    0 TableSoItemLang data
+     0 int id = 1022141
+     1 string schinese = "那真是太巧了！谢谢~"
+     1 string schinese_censored = "那真是太巧了！谢谢~"
+     1 string english = "What a coincidence! Thanks!"
+     1 string japanese = "ちょうどよかった！ありがとう！"
+     1 string mchinese = "那真是太巧了！謝謝~"
+   [12141]
+    0 TableSoItemLang data
+     0 int id = 1022142
+     1 string schinese = "（噢，这不是之前小测的卷子吗？萌萌都不告诉我她几分来着，正好看看……）"
+     1 string schinese_censored = "（噢，这不是之前小测的卷子吗？萌萌都不告诉我她几分来着，正好看看……）"
+     1 string english = "(Oh, isn't this the test from before? Daisy wouldn't tell me her score... Let me take a sneak peek)"
+     1 string japanese = "（あれ、これ前のテストかな？メンメンいつも点数教えてくれないし、見ちゃお…）"
+     1 string mchinese = "（噢，這不是之前小測的卷子嗎？萌萌都不告訴我她幾分來著，正好看看……）"
+   [12142]
+    0 TableSoItemLang data
+     0 int id = 1022143
+     1 string schinese = "（天哪，考得也太差了！这，还是不要让她知道我看到这成绩了。）"

@@ -1,0 +1,184 @@
+     1 string schinese_censored = "男"
+     1 string english = "Male"
+     1 string japanese = "男性"
+     1 string mchinese = "男"
+   [26012]
+    0 TableSoItemLang data
+     0 int id = 1596172299
+     1 string schinese = "女"
+     1 string schinese_censored = "女"
+     1 string english = "Female"
+     1 string japanese = "女性"
+     1 string mchinese = "女"
+   [26013]
+    0 TableSoItemLang data
+     0 int id = 1596172300
+     1 string schinese = "日程"
+     1 string schinese_censored = "日程"
+     1 string english = "Schedule"
+     1 string japanese = "日程"
+     1 string mchinese = "日程"
+   [26014]
+    0 TableSoItemLang data
+     0 int id = 1596172301
+     1 string schinese = "事件"
+     1 string schinese_censored = "事件"
+     1 string english = "Event"
+     1 string japanese = "イベント"
+     1 string mchinese = "事件"
+   [26015]
+    0 TableSoItemLang data
+     0 int id = 1596172302
+     1 string schinese = "邀约"
+     1 string schinese_censored = "邀约"
+     1 string english = "Invitation"
+     1 string japanese = "お誘い"
+     1 string mchinese = "邀約"
+   [26016]
+    0 TableSoItemLang data
+     0 int id = 1596172303
+     1 string schinese = "红包"
+     1 string schinese_censored = "红包"
+     1 string english = "Red Envelope"
+     1 string japanese = "お年玉"
+     1 string mchinese = "紅包"
+   [26017]
+    0 TableSoItemLang data
+     0 int id = 1596172304
+     1 string schinese = "选举"
+     1 string schinese_censored = "选举"
+     1 string english = "Election"
+     1 string japanese = "選挙"
+     1 string mchinese = "選舉"
+   [26018]
+    0 TableSoItemLang data
+     0 int id = 1596172305
+     1 string schinese = "比赛"
+     1 string schinese_censored = "比赛"
+     1 string english = "Match"
+     1 string japanese = "試合"
+     1 string mchinese = "比賽"
+   [26019]
+    0 TableSoItemLang data
+     0 int id = 1596172306
+     1 string schinese = "抉择"
+     1 string schinese_censored = "抉择"
+     1 string english = "Choice"
+     1 string japanese = "選択"
+     1 string mchinese = "抉擇"
+   [26020]
+    0 TableSoItemLang data
+     0 int id = 1596172307
+     1 string schinese = "选秀"
+     1 string schinese_censored = "选秀"
+     1 string english = "Show"
+     1 string japanese = "オーディション\n"
+     1 string mchinese = "選秀"
+   [26021]
+    0 TableSoItemLang data
+     0 int id = 1596172308
+     1 string schinese = "联赛成绩"
+     1 string schinese_censored = "联赛成绩"
+     1 string english = "League Achievement"
+     1 string japanese = "リーグ戦成績"
+     1 string mchinese = "聯賽成績"
+   [26022]
+    0 TableSoItemLang data
+     0 int id = 1596172309
+     1 string schinese = "闲话家常"
+     1 string schinese_censored = "闲话家常"
+     1 string english = "Face Duel"
+     1 string japanese = "メンツバトル"
+     1 string mchinese = "閒話家常"
+   [26023]
+    0 TableSoItemLang data
+     0 int id = 1596172310
+     1 string schinese = "期望"
+     1 string schinese_censored = "期望"
+     1 string english = "Expectations"
+     1 string japanese = "期待"
+     1 string mchinese = "期望"
+   [26024]
+    0 TableSoItemLang data
+     0 int id = 1596172311
+     1 string schinese = "社交"
+     1 string schinese_censored = "社交"
+     1 string english = "Date"
+     1 string japanese = "社交"
+     1 string mchinese = "社交"
+   [26025]
+    0 TableSoItemLang data
+     0 int id = 1596172312
+     1 string schinese = "朋友"
+     1 string schinese_censored = "朋友"
+     1 string english = "Friends"
+     1 string japanese = "友達"
+     1 string mchinese = "朋友"
+   [26026]
+    0 TableSoItemLang data
+     0 int id = 1596172313
+     1 string schinese = "满意度压力"
+     1 string schinese_censored = "满意度压力"
+     1 string english = "Stress change"
+     1 string japanese = "強制圧力"
+     1 string mchinese = "滿意度壓力"
+   [26027]
+    0 TableSoItemLang data
+     0 int id = 1596172314
+     1 string schinese = "索取"
+     1 string schinese_censored = "索取"
+     1 string english = "Request"
+     1 string japanese = "要求"
+     1 string mchinese = "索取"
+   [26028]
+    0 TableSoItemLang data
+     0 int id = 1596172315
+     1 string schinese = "相亲"
+     1 string schinese_censored = "相亲"
+     1 string english = "Blind Date"
+     1 string japanese = "お見合い"
+     1 string mchinese = "相親"
+   [26029]
+    0 TableSoItemLang data
+     0 int id = 1596172316
+     1 string schinese = "结果"
+     1 string schinese_censored = "结果"
+     1 string english = "Result"
+     1 string japanese = "結果"
+     1 string mchinese = "結果"
+   [26030]
+    0 TableSoItemLang data
+     0 int id = 1596172317
+     1 string schinese = "说话"
+     1 string schinese_censored = "说话"
+     1 string english = "Chat"
+     1 string japanese = "話す"
+     1 string mchinese = "說話"
+   [26031]
+    0 TableSoItemLang data
+     0 int id = 1596172318
+     1 string schinese = "对手风格"
+     1 string schinese_censored = "对手风格"
+     1 string english = "Opponent's Style"
+     1 string japanese = "相手のスタイル"
+     1 string mchinese = "對手風格"
+   [26032]
+    0 TableSoItemLang data
+     0 int id = 1596172319
+     1 string schinese = "选择"
+     1 string schinese_censored = "选择"
+     1 string english = "Choice"
+     1 string japanese = "候補"
+     1 string mchinese = "選擇"
+   [26033]
+    0 TableSoItemLang data
+     0 int id = 1596172320
+     1 string schinese = "灵感"
+     1 string schinese_censored = "灵感"
+     1 string english = "Inspiration"
+     1 string japanese = "ヒラメキ"
+     1 string mchinese = "靈感"
+   [26034]
+    0 TableSoItemLang data
+     0 int id = 1596172321
+     1 string schinese = "才艺"

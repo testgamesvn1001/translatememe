@@ -1,0 +1,184 @@
+     1 string schinese_censored = "在很久很久很久以前，深深的嗨辣撸裂谷里..."
+     1 string english = "A long long time ago, in the deep Hyralu Rift..."
+     1 string japanese = "むかしむかし、ハイフルの深い谷の底に…"
+     1 string mchinese = "在很久很久很久以前，深深的嗨辣擼裂谷裏..."
+   [27507]
+    0 TableSoItemLang data
+     0 int id = 1596173794
+     1 string schinese = "测试尚未开启，请您关注官方公告和网站以获得最新消息。"
+     1 string schinese_censored = "测试尚未开启，请您关注官方公告和网站以获得最新消息。"
+     1 string english = "不翻譯1596173794"
+     1 string japanese = "不翻譯"
+     1 string mchinese = "測試尚未開啟，請您關注官方公告和網站以獲得最新消息。"
+   [27508]
+    0 TableSoItemLang data
+     0 int id = 1596173795
+     1 string schinese = "错误提示"
+     1 string schinese_censored = "错误提示"
+     1 string english = "Error Notice"
+     1 string japanese = "エラー表示"
+     1 string mchinese = "錯誤提示"
+   [27509]
+    0 TableSoItemLang data
+     0 int id = 1596173796
+     1 string schinese = "OK，开始游戏！"
+     1 string schinese_censored = "OK，开始游戏！"
+     1 string english = "OK. Game Start!"
+     1 string japanese = "ＯＫ、ゲーム開始！"
+     1 string mchinese = "OK，開始遊戲！"
+   [27510]
+    0 TableSoItemLang data
+     0 int id = 1596173797
+     1 string schinese = "很抱歉，服务器正在维护中，请您关注官方公告和网站以获得最新消息。"
+     1 string schinese_censored = "很抱歉，服务器正在维护中，请您关注官方公告和网站以获得最新消息。"
+     1 string english = "Sorry, the server is undergoing maintenance. Check our notices and website to get the latest news."
+     1 string japanese = "大変恐れ入りますが、現在サーバーメンテナンス中です。公式のお知らせやウェブサイトの最新情報をご確認ください。"
+     1 string mchinese = "很抱歉，伺服器正在維護中，請您關注官方公告和網站以獲得最新消息。"
+   [27511]
+    0 TableSoItemLang data
+     0 int id = 1596173798
+     1 string schinese = "这里是人物图鉴。\n 收录遇见过的同学与朋友，多多进行探索，认识更多的人吧！"
+     1 string schinese_censored = "这里是人物图鉴。\n\n 收录遇见过的同学与朋友，多多进行探索，认识更多的人吧！"
+     1 string english = "This is the Character Gallery.\nHere you can view Classmates and other characters you've met. Explore and get to know more people!"
+     1 string japanese = "ここがキャラクター図鑑\n出会ったクラスメートや友達が紹介される。いろいろ試して、たくさんの人と知り合おう！"
+     1 string mchinese = "這裏是人物圖鑒。\n 收錄遇見過的同學與朋友，多多進行探索，認識更多的人吧！"
+   [27512]
+    0 TableSoItemLang data
+     0 int id = 1596173799
+     1 string schinese = "游戏内容正在加急制作中~"
+     1 string schinese_censored = "游戏内容正在加急制作中~"
+     1 string english = "New content. We're working hard to get it ready."
+     1 string japanese = "ゲームコンテンツ鋭意制作中"
+     1 string mchinese = "遊戲內容正在加急製作中~"
+   [27513]
+    0 TableSoItemLang data
+     0 int id = 1596173800
+     1 string schinese = "准生证"
+     1 string schinese_censored = "准生证"
+     1 string english = "Fertility Service Card"
+     1 string japanese = "出産許可証"
+     1 string mchinese = "准生證"
+   [27514]
+    0 TableSoItemLang data
+     0 int id = 1596173801
+     1 string schinese = "恢复购买"
+     1 string schinese_censored = "恢复购买"
+     1 string english = "Restore Purchases"
+     1 string japanese = "再ダウンロード"
+     1 string mchinese = "恢復購買"
+   [27515]
+    0 TableSoItemLang data
+     0 int id = 1596173802
+     1 string schinese = "订单查询成功，已处理完成，请确认"
+     1 string schinese_censored = "订单查询成功，已处理完成，请确认"
+     1 string english = "Order inquiry completed. Please Confirm."
+     1 string japanese = "注文を検索しました。処理はすでに完了しています。ご確認ください。"
+     1 string mchinese = "訂單查詢成功，已處理完成，請確認"
+   [27516]
+    0 TableSoItemLang data
+     0 int id = 1596173803
+     1 string schinese = "没有未处理的订单，如任有疑问请咨询客服"
+     1 string schinese_censored = "没有未处理的订单，如任有疑问请咨询客服"
+     1 string english = "No unfinished orders. Feel free to contact support if you have any questions."
+     1 string japanese = "未処理の注文はありません。不明点はカスタマーサポートまでお問い合わせください。"
+     1 string mchinese = "沒有未處理的訂單，如任有疑問請諮詢客服"
+   [27517]
+    0 TableSoItemLang data
+     0 int id = 1596173804
+     1 string schinese = "你更了解你的父母了"
+     1 string schinese_censored = "你更了解你的父母了"
+     1 string english = "You now know your parents better."
+     1 string japanese = "両親のことがもっとわかった"
+     1 string mchinese = "你更瞭解你的父母了"
+   [27518]
+    0 TableSoItemLang data
+     0 int id = 1596173805
+     1 string schinese = "玩家 {0} 有和你相似的经历"
+     1 string schinese_censored = "玩家 {0} 有和你相似的经历"
+     1 string english = "Player {0} has experiences similar to yours."
+     1 string japanese = "プレイヤー {0} もあなたと似たような経験をしています"
+     1 string mchinese = "玩家 {0} 有和你相似的經歷"
+   [27519]
+    0 TableSoItemLang data
+     0 int id = 1596173806
+     1 string schinese = "拥有{0}个"
+     1 string schinese_censored = "拥有{0}个"
+     1 string english = "{0} Owned"
+     1 string japanese = "{0}個所有"
+     1 string mchinese = "擁有{0}個"
+   [27520]
+    0 TableSoItemLang data
+     0 int id = 1596173807
+     1 string schinese = "未起名"
+     1 string schinese_censored = "未起名"
+     1 string english = "Unnamed"
+     1 string japanese = "命名前"
+     1 string mchinese = "未起名"
+   [27521]
+    0 TableSoItemLang data
+     0 int id = 1596173808
+     1 string schinese = "返回标题"
+     1 string schinese_censored = ""
+     1 string english = "Title"
+     1 string japanese = "メインメニュー"
+     1 string mchinese = "返回標題"
+   [27522]
+    0 TableSoItemLang data
+     0 int id = 1596173809
+     1 string schinese = "重新开始"
+     1 string schinese_censored = "重新开始"
+     1 string english = "Restart"
+     1 string japanese = "もう一度始めから"
+     1 string mchinese = "重新開始"
+   [27523]
+    0 TableSoItemLang data
+     0 int id = 1596173810
+     1 string schinese = "返回标题将丢失本回合未保存的进度，确认返回吗？"
+     1 string schinese_censored = ""
+     1 string english = "If you return to title now, progress made on this turn will be lost. Are you sure you want to change mode?"
+     1 string japanese = "メインメニューに戻ると、このターンで保存されていない操作が無効になります。[メインメニュー]に戻りますか？"
+     1 string mchinese = "返回標題將丟失本回合未保存的進度，確認返回至[模式選擇]介面嗎？"
+   [27524]
+    0 TableSoItemLang data
+     0 int id = 1596173811
+     1 string schinese = "*删除存档不会改变 [学费] [成就] [图鉴] 等账号公共属性*"
+     1 string schinese_censored = "*删除存档不会改变 [学费] [成就] [图鉴] 等账号公共属性*"
+     1 string english = "*Note: deleting saves won't change account stats like [Tuition], [Challenges], [Gallery] and so on.*"
+     1 string japanese = "※データを削除しても、 [授業料] [成績] [図鑑] など、アカウント共通の記録には影響しません"
+     1 string mchinese = "*刪除存檔不會改變 [學費] [成就] [圖鑒] 等帳號公共屬性*"
+   [27525]
+    0 TableSoItemLang data
+     0 int id = 1596173812
+     1 string schinese = "删除成功"
+     1 string schinese_censored = "删除成功"
+     1 string english = "Deleted."
+     1 string japanese = "削除しました"
+     1 string mchinese = "刪除成功"
+   [27526]
+    0 TableSoItemLang data
+     0 int id = 1596173813
+     1 string schinese = "隐私权限修改成功"
+     1 string schinese_censored = "隐私权限修改成功"
+     1 string english = "Privacy permissions changed."
+     1 string japanese = "プライバシー設定を変更しました"
+     1 string mchinese = "隱私許可權修改成功"
+   [27527]
+    0 TableSoItemLang data
+     0 int id = 1596173814
+     1 string schinese = "传家宝代代相传，每个代际都可以进行选择和佩戴，并发挥其独一无二的效果"
+     1 string schinese_censored = "传家宝代代相传，每个代际都可以进行选择和佩戴，并发挥其独一无二的效果"
+     1 string english = "You can pass down Family Heirlooms from one generation to the next. Choose and equip them in every generation to activate their unique effects."
+     1 string japanese = "家宝は子々孫々に伝わり、代ごとに選んで装着できる。家宝はそれぞれ独自の効果を発揮する。"
+     1 string mchinese = "傳家寶代代相傳，每個代際都可以進行選擇和佩戴，併發揮其獨一無二的效果"
+   [27528]
+    0 TableSoItemLang data
+     0 int id = 1596173815
+     1 string schinese = "准备好成为职业选手了吗？\n（难度较高，适合熟悉游戏的玩家）"
+     1 string schinese_censored = "是否跳过所有引导部分？\n（适用于非新手玩家）"
+     1 string english = "Are you ready for becoming an E-sports pro?\n(Recommended for players familiar with the game since it's a hard mode.)"
+     1 string japanese = "プロ選手になる準備はできましたか？\n（難易度が高いため、ゲームに慣れたプレイヤー向きです）"
+     1 string mchinese = "準備好成為職業選手了嗎？\n（難度較高，適合熟悉遊戲的玩家）"
+   [27529]
+    0 TableSoItemLang data
+     0 int id = 1596173816
+     1 string schinese = "长期生效"

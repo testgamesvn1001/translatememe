@@ -1,0 +1,184 @@
+     1 string schinese_censored = "最好{0}跟咱们解释下到底谁告密了！"
+     1 string english = "How about {0} explain to us who blabbed?"
+     1 string japanese = "{0}は、密告された情報について説明する義務がある！"
+     1 string mchinese = "最好{0}跟咱們解釋下到底誰告密了！"
+   [18123]
+    0 TableSoItemLang data
+     0 int id = 1028124
+     1 string schinese = "{0},大家对咱们都很期待啊！"
+     1 string schinese_censored = "{0}，大家对咱们都很期待啊！"
+     1 string english = "{0}, everyone has high expectations of us!"
+     1 string japanese = "{0}、皆が期待してるよ！"
+     1 string mchinese = "{0},大家對咱們都很期待啊！"
+   [18124]
+    0 TableSoItemLang data
+     0 int id = 1028125
+     1 string schinese = "{0}和我是好朋友！我们共同进步！"
+     1 string schinese_censored = "{0}和我是好朋友！我们共同进步！"
+     1 string english = "{0} and I are good friends! We work together!"
+     1 string japanese = "{0}は親友です！さあ、共に前へ進もう！"
+     1 string mchinese = "{0}和我是好朋友！我們共同進步！"
+   [18125]
+    0 TableSoItemLang data
+     0 int id = 1028126
+     1 string schinese = "{0}和我一直是战略合作关系"
+     1 string schinese_censored = "{0}和我一直是战略合作关系"
+     1 string english = "{0} and I are strategic partners!"
+     1 string japanese = "{0}とは支え合い続ける同士です！"
+     1 string mchinese = "{0}和我一直是戰略合作關係"
+   [18126]
+    0 TableSoItemLang data
+     0 int id = 1028127
+     1 string schinese = "{0}的事，就是我的事！"
+     1 string schinese_censored = "{0}的事，就是我的事！"
+     1 string english = "{0}'s business is my business!"
+     1 string japanese = "{0}の問題は、もはや私の問題でもあります！"
+     1 string mchinese = "{0}的事，就是我的事！"
+   [18127]
+    0 TableSoItemLang data
+     0 int id = 1028128
+     1 string schinese = "{0}和我一样，都为大家服务！"
+     1 string schinese_censored = "{0}和我一样，都为大家服务！"
+     1 string english = "{0} and I, we both serve the masses!"
+     1 string japanese = "{0}も私と同じように、皆さんのために何かしたいはず！"
+     1 string mchinese = "{0}和我一樣，都為大家服務！"
+   [18128]
+    0 TableSoItemLang data
+     0 int id = 1028129
+     1 string schinese = "{0}和我特别投缘"
+     1 string schinese_censored = "{0}和我特别投缘"
+     1 string english = "{0} and I are connected by destiny!"
+     1 string japanese = "{0}とは特別な関係です！"
+     1 string mchinese = "{0}和我特別投緣"
+   [18129]
+    0 TableSoItemLang data
+     0 int id = 1028130
+     1 string schinese = "{0}就是我的代言人！"
+     1 string schinese_censored = "{0}就是我的代言人！"
+     1 string english = "{0} is my spokesperson!"
+     1 string japanese = "{0}は私の代弁者です！"
+     1 string mchinese = "{0}就是我的代言人！"
+   [18130]
+    0 TableSoItemLang data
+     0 int id = 1028131
+     1 string schinese = "{0}的意见就是我的意见！！"
+     1 string schinese_censored = "{0}的意见就是我的意见！！"
+     1 string english = "I agree with all of {0}'s ideas!"
+     1 string japanese = "{0}とは、まったく同意見です！"
+     1 string mchinese = "{0}的意見就是我的意見！！"
+   [18131]
+    0 TableSoItemLang data
+     0 int id = 1028132
+     1 string schinese = "没人能分裂我和{0}"
+     1 string schinese_censored = "没人能分裂我和{0}"
+     1 string english = "No one can split up me and {0}."
+     1 string japanese = "{0}と私の仲を裂ける人はいません！"
+     1 string mchinese = "沒人能分裂我和{0}"
+   [18132]
+    0 TableSoItemLang data
+     0 int id = 1028133
+     1 string schinese = "我和{0}是不可分割的一部分！"
+     1 string schinese_censored = "我和{0}是不可分割的一部分！"
+     1 string english = "Me and {0} are part of the same whole!"
+     1 string japanese = "{0}との絆は最強です！"
+     1 string mchinese = "我和{0}是不可分割的一部分！"
+   [18133]
+    0 TableSoItemLang data
+     0 int id = 1028134
+     1 string schinese = "确认参选的特长是{0}？"
+     1 string schinese_censored = "确认参选的特长是{0}？"
+     1 string english = "Are you sure you want to participate with {0}?"
+     1 string japanese = "{0}をオーディションで発表しますか？"
+     1 string mchinese = "確認參選的特長是{0}？"
+   [18134]
+    0 TableSoItemLang data
+     0 int id = 1028135
+     1 string schinese = "最具潜力奖"
+     1 string schinese_censored = "最具潜力奖"
+     1 string english = "Prize of Most Potential"
+     1 string japanese = "ポテンシャル賞"
+     1 string mchinese = "最具潛力獎"
+   [18135]
+    0 TableSoItemLang data
+     0 int id = 1028136
+     1 string schinese = "恭喜恭喜！"
+     1 string schinese_censored = "恭喜恭喜！"
+     1 string english = "Congratulations!"
+     1 string japanese = "おめでとうございます！"
+     1 string mchinese = "恭喜恭喜！"
+   [18136]
+    0 TableSoItemLang data
+     0 int id = 1028137
+     1 string schinese = "最终，还有我们的{0}带来的{1}"
+     1 string schinese_censored = "最终，还有我们的{0}带来的{1}"
+     1 string english = "Finally, {0} will show {1}."
+     1 string japanese = "最後に、『{0}』による『{1}』だ！"
+     1 string mchinese = "最終，還有我們的{0}帶來的{1}"
+   [18137]
+    0 TableSoItemLang data
+     0 int id = 1028138
+     1 string schinese = "接下来的是{0}"
+     1 string schinese_censored = "接下来的是{0}"
+     1 string english = "Next up, {0}"
+     1 string japanese = "続きまして{0}"
+     1 string mchinese = "接下來的是{0}"
+   [18138]
+    0 TableSoItemLang data
+     0 int id = 1028139
+     1 string schinese = "好了，下面有请{0}"
+     1 string schinese_censored = "好了，下面有请{0}"
+     1 string english = "Okay, next up is {0}"
+     1 string japanese = "さて、次に{0}"
+     1 string mchinese = "好了，下麵有請{0}"
+   [18139]
+    0 TableSoItemLang data
+     0 int id = 1028140
+     1 string schinese = "年度最终大奖"
+     1 string schinese_censored = "年度最终大奖"
+     1 string english = "Final Award of the Year"
+     1 string japanese = "本年度最優秀賞"
+     1 string mchinese = "年度最終大獎"
+   [18140]
+    0 TableSoItemLang data
+     0 int id = 1028141
+     1 string schinese = "是否确认放弃参赛？"
+     1 string schinese_censored = "是否确认放弃参赛？"
+     1 string english = "Abandon competition?"
+     1 string japanese = "応募をやめますか？"
+     1 string mchinese = "是否確認放棄參賽？"
+   [18141]
+    0 TableSoItemLang data
+     0 int id = 1028142
+     1 string schinese = "请选择考试所需的题材。。。"
+     1 string schinese_censored = "请选择考试所需的题材……"
+     1 string english = "Select a topic for the exam..."
+     1 string japanese = "コンテストのテーマは…"
+     1 string mchinese = "請選擇考試所需的題材。。。"
+   [18142]
+    0 TableSoItemLang data
+     0 int id = 1028143
+     1 string schinese = "现在能想到的，大概就是这些题材了。。。"
+     1 string schinese_censored = "现在能想到的，大概就是这些题材了……"
+     1 string english = "I guess this is the only topic I can think of..."
+     1 string japanese = "今のところ考えられるのは、これくらいかな…"
+     1 string mchinese = "現在能想到的，大概就是這些題材了。。。"
+   [18143]
+    0 TableSoItemLang data
+     0 int id = 1028144
+     1 string schinese = "让我看看，这次老概念作文大赛的题目是。。。"
+     1 string schinese_censored = "让我看看，这次老概念作文大赛的题目是……"
+     1 string english = "Let me see, the topic for the Old Concept Writing Contest is..."
+     1 string japanese = "さあ、今回の作文コンテストの題名は…"
+     1 string mchinese = "讓我看看，這次老概念作文大賽的題目是。。。"
+   [18144]
+    0 TableSoItemLang data
+     0 int id = 1028145
+     1 string schinese = "这次的题材就定为"
+     1 string schinese_censored = "这次的题材就定为"
+     1 string english = "The topic for this composition is "
+     1 string japanese = "今回のテーマは…"
+     1 string mchinese = "這次的題材就定為"
+   [18145]
+    0 TableSoItemLang data
+     0 int id = 1028146
+     1 string schinese = "接下来，我这次要用什么风格写作呢？"

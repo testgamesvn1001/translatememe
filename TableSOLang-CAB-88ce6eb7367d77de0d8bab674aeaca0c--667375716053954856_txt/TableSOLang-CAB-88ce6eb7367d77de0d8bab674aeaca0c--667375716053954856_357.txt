@@ -1,0 +1,184 @@
+     1 string schinese_censored = "当然记得！当然记得~如果拿到红包的话一定要感谢各位亲戚！"
+     1 string english = "Yes, I do! When they give me red envelopes, I should try to be polite. I should neither reject nor accept them directly."
+     1 string japanese = "もちろん！お年玉をもらう時は少しのお世辞、断るのはダメ、すぐにもらってもダメ！合ってる？"
+     1 string mchinese = "當然記得！當然記得~給紅包的時候還是稍微客氣客氣~既不能直接拒絕，也不能直接就拿！"
+   [8187]
+    0 TableSoItemLang data
+     0 int id = 1018188
+     1 string schinese = "（亲戚会把压岁钱推给你，你需要通过点击屏幕控制<color=#EB7350>游标</color>，在时间结束时，将游标保持在<color=#EB7350>橙色区间</color>内，则可成功拿到红包。若游标不小心碰触两侧顶端，则被判失败！）"
+     1 string schinese_censored = "（亲戚会把压岁钱推给你，你需要通过点击荧幕控制<color=#EB7350>游标</color>，在时间结束时，将游标保持在<color=#EB7350>橙色区间</color>内，则可成功拿到红包。若游标不小心碰触两侧顶端，则被判失败！）"
+     1 string english = "(When your relative pushes the red envelope toward you, click to control <color=#EB7350>the marker. </color>If the marker is within the <color=#EB7350>orange area</color> when the time is over, you get the red envelope. Touching either side ends the mini-game!)"
+     1 string japanese = "親戚はあなたにお年玉を無理やり渡してくる。<color=#EB7350>カーソル</color>をコントロールして、制限時間の間<color=#EB7350>オレンジゾーン</color>でキープだ。成功すればお年玉が手に入るぞ。だが、カーソルが両端に触れたら失敗だ！"
+     1 string mchinese = "（親戚會把壓歲錢推給你，你需要通過點擊螢幕控制<color=#EB7350>游標</color>，在時間結束時，將游標保持在<color=#EB7350>橙色區間</color>內，則可成功拿到紅包。若游標不小心碰觸兩側頂端，則被判失敗！）"
+   [8188]
+    0 TableSoItemLang data
+     0 int id = 1018189
+     1 string schinese = "这孩子，真是的。大人给就拿着呗，都是自己人，瞎客气！我先帮你收着！等以后给你当学费！"
+     1 string schinese_censored = "这孩子，真是的。红包还要给老人们买东西，行，妈先拿着，一会儿就去买。"
+     1 string english = "This child, really. Just accept it, it's a gift from an adult after all, we're all family! There's no need to be polite! I'll just accept it for you, and save it for your tuition."
+     1 string japanese = "もう、この子ったら。大人からすぐ受け取ろうとする。みんな家族なんだから、今はお母さんが預かってあげる！大きくなったら学費に使うわ！"
+     1 string mchinese = "這孩子，真是的。大人給就拿著唄，都是自己人，瞎客氣！我先幫你收著！等以後給你當學費！"
+   [8189]
+    0 TableSoItemLang data
+     0 int id = 1018190
+     1 string schinese = "这孩子真不懂事儿！人家给就拿？把钱给我！"
+     1 string schinese_censored = "这孩子真懂事儿！知道用红包当学费了，来，妈先收着，等开学了就付学费。"
+     1 string english = "Ah?! You silly little thing! You just accept it like that!? Give me the money!"
+     1 string japanese = "もう、行儀が悪いわね。人がくれてもすぐ受け取っちゃダメ！とりあえず私が預かるわ！"
+     1 string mchinese = "這孩子真不懂事兒！人家給就拿？把錢給我！"
+   [8190]
+    0 TableSoItemLang data
+     0 int id = 1018191
+     1 string schinese = "一个号都没中，真是服了！就当这是给别人的福利了~"
+     1 string schinese_censored = "一个号都没中，真是服了！就当这是给别人的福利了~"
+     1 string english = "Dammit, not even a single number right! Oh well, my misfortune someone else's luck!"
+     1 string japanese = "全部ハズレ。参ったな！まあ、人助けと思うか。"
+     1 string mchinese = "一個號都沒中，真是服了！就當這是給別人的福利了~"
+   [8191]
+    0 TableSoItemLang data
+     0 int id = 1018192
+     1 string schinese = "上帝，终于给了我这次机会了吗！全中！"
+     1 string schinese_censored = "噢，终于给了我这次机会了吗！全中！"
+     1 string english = "Did God give me this chance? Not a single number wrong!"
+     1 string japanese = "神様、やっとチャンスをくれたんですね！全部当たり！"
+     1 string mchinese = "上帝，終於給了我這次機會了嗎！全中！"
+   [8192]
+    0 TableSoItemLang data
+     0 int id = 1018193
+     1 string schinese = "我的天，这是财运到啊，好运来啊~中了三个号！"
+     1 string schinese_censored = "我的天，这是财运到啊，好运来啊~中了三个号！"
+     1 string english = "Dear lord! My fortune has turned! Three correct numbers!"
+     1 string japanese = "信じられない。ついてるぞ。３つも当たりだ！"
+     1 string mchinese = "我的天，這是財運到啊，好運來啊~中了三個號！"
+   [8193]
+    0 TableSoItemLang data
+     0 int id = 1018194
+     1 string schinese = "可以啊，发财致富一条路~不管怎么说中了两个号也算不错~"
+     1 string schinese_censored = "可以啊，发财致富一条路~不管怎么说中了两个号也算不错~"
+     1 string english = "Great! One can make a fortune from this! Anyway, two correct numbers isn't all that bad!"
+     1 string japanese = "いいじゃん！２つも当たるなんてすごい！"
+     1 string mchinese = "可以啊，發財致富一條路~不管怎麼說中了兩個號也算不錯~"
+   [8194]
+    0 TableSoItemLang data
+     0 int id = 1018195
+     1 string schinese = "能中一个号也是福~"
+     1 string schinese_censored = "能中一个号也是福~"
+     1 string english = "One correct number isn't all that bad!"
+     1 string japanese = "一つだけ当たり。ま、ラッキーな方かな。"
+     1 string mchinese = "能中一個號也是福~"
+   [8195]
+    0 TableSoItemLang data
+     0 int id = 1018196
+     1 string schinese = "感觉零用钱真是不够用呢，好多玩具都想买呢~"
+     1 string schinese_censored = "感觉零用钱真是不够用呢，好多玩具都想买呢~"
+     1 string english = "I don't have enough pocket money to buy all the toys I want."
+     1 string japanese = "お小遣いが全然足りない。欲しいオモチャはたくさんあるのに。"
+     1 string mchinese = "感覺零用錢真是不夠用呢，好多玩具都想買呢~"
+   [8196]
+    0 TableSoItemLang data
+     0 int id = 1018197
+     1 string schinese = "小朋友是不是很想要零用钱啊？"
+     1 string schinese_censored = "小朋友是不是很想要零用钱啊？"
+     1 string english = "Hey lil' one, do you want some pocket money?"
+     1 string japanese = "お小遣いが必要だろ？"
+     1 string mchinese = "小朋友是不是很想要零用錢啊？"
+   [8197]
+    0 TableSoItemLang data
+     0 int id = 1018198
+     1 string schinese = "你是谁？为什么这么奇怪~"
+     1 string schinese_censored = "你是谁？为什么这么奇怪~"
+     1 string english = "Who are you? Why are you so strange?"
+     1 string japanese = "誰だ？怪しすぎる……。"
+     1 string mchinese = "你是誰？為什麼這麼奇怪~"
+   [8198]
+    0 TableSoItemLang data
+     0 int id = 1018199
+     1 string schinese = "不要奇怪，我这随便穿了一个马甲出来，感谢您的预购来送零用钱来啦~~"
+     1 string schinese_censored = "不要奇怪，我这随便穿了一个马甲出来，感谢您的预购来送零用钱来啦~~"
+     1 string english = "I'm not strange. It's just a waistcoat. Here's a bit of pocket money to thank you for your preorder!"
+     1 string japanese = "そう言うな。早期購入のお礼を配りに来ただけだ！"
+     1 string mchinese = "不要奇怪，我這隨便穿了一個馬甲出來，感謝您的預購來送零用錢來啦~~"
+   [8199]
+    0 TableSoItemLang data
+     0 int id = 1018200
+     1 string schinese = "这么好！该不会还要让我充值吧？"
+     1 string schinese_censored = "这么好！该不会还要让我充值吧？"
+     1 string english = "Wow! You'll not ask me to spend money, will you?"
+     1 string japanese = "そんないいことが！？まさか課金が必要とか？"
+     1 string mchinese = "這麼好！該不會還要讓我充值吧？"
+   [8200]
+    0 TableSoItemLang data
+     0 int id = 1018201
+     1 string schinese = "放心，我们不是氪金手游~来来来，拿着！我回去撸代码了！"
+     1 string schinese_censored = "放心，我们是好玩的手游~来来来，拿着！我回去撸代码了！"
+     1 string english = "Don't worry, you don't need to spend any money. Here you are! I'll just go back to writing code then!"
+     1 string japanese = "安心しろ。これは課金ゲーじゃない。ほら、受け取れ！じゃ、私はこれで！帰ってプログラムの続きだ！"
+     1 string mchinese = "放心，我們不是氪金手遊~來來來，拿著！我回去擼代碼了！"
+   [8201]
+    0 TableSoItemLang data
+     0 int id = 1018202
+     1 string schinese = "（虽然不知道发生了什么，可多了好多零用钱，还是挺开心的~~）"
+     1 string schinese_censored = "（虽然不知道发生了什么，可多了好多零用钱，还是挺开心的~~）"
+     1 string english = "(I don't quite understand what happened, but I'm very happy for all of this pocket money!)"
+     1 string japanese = "（一体何だったんだ。サッパリわからないけど、お小遣いは嬉しい）"
+     1 string mchinese = "（雖然不知道發生了什麼，可多了好多零用錢，還是挺開心的~~）"
+   [8202]
+    0 TableSoItemLang data
+     0 int id = 1018203
+     1 string schinese = "啊！又是你啊！快来快来，给我再来点零用钱！"
+     1 string schinese_censored = "啊！又是你啊！快来快来，给我再来点零用钱！"
+     1 string english = "Ah! It's you again! Give me some more pocket money please!"
+     1 string japanese = "あっ！また、アンタか！またお小遣いくれるのかい！？"
+     1 string mchinese = "啊！又是你啊！快來快來，給我再來點零用錢！"
+   [8203]
+    0 TableSoItemLang data
+     0 int id = 1018204
+     1 string schinese = "说归说，不要动手动脚~~没错，这次依然是回馈预购用户！"
+     1 string schinese_censored = "说归说，不要动手动脚~~没错，这次依然是反馈预购用户！"
+     1 string english = "Don't be impatient! You're right! I've come back again to thank you for your preorder!"
+     1 string japanese = "おいおい、あっちこっち触るな。今回も早期購入の感謝を込めて、お礼を配りに来たんだ！"
+     1 string mchinese = "說歸說，不要動手動腳~~沒錯，這次依然是回饋預購用戶！"
+   [8204]
+    0 TableSoItemLang data
+     0 int id = 1018205
+     1 string schinese = "来来来！最近正好想买新道具呢~~"
+     1 string schinese_censored = "来来来！最近正好想买新道具呢~~"
+     1 string english = "Come on! There are so many items I want to buy!"
+     1 string japanese = "早く！ちょうど新しいアイテムが欲しかったんだ。"
+     1 string mchinese = "來來來！最近正好想買新道具呢~~"
+   [8205]
+    0 TableSoItemLang data
+     0 int id = 1018206
+     1 string schinese = "不不不，上次给你零用钱被你爸妈骂了一顿，这次要传授你一点心法，增加一些悟性。"
+     1 string schinese_censored = "不不不，上次给你零用钱被你爸妈骂了一顿，这次要传授你一点心法，增加一些悟性。"
+     1 string english = "No. Your parents scolded me for giving you pocket money last time. This time I'll give you a few tips and tricks to increase your Knowledge.."
+     1 string japanese = "いやいや、前回はお小遣いをあげて、あなたの親に叱られたんでね。今回はそういうのをなしだ。代わりに役に立つことを少しだけ伝授してあげよう。"
+     1 string mchinese = "不不不，上次給你零用錢被你爸媽罵了一頓，這次要傳授你一點心法，增加一些悟性。"
+   [8206]
+    0 TableSoItemLang data
+     0 int id = 1018207
+     1 string schinese = "学东西好无聊啊。"
+     1 string schinese_censored = "学东西好无聊啊。"
+     1 string english = "Studying is so boring."
+     1 string japanese = "勉強はいやだよ。"
+     1 string mchinese = "學東西好無聊啊。"
+   [8207]
+    0 TableSoItemLang data
+     0 int id = 1018208
+     1 string schinese = "学习要加油哟~一会儿别忘了看看右上角的悟性值~放心好啦~感谢屏幕前各位的支持~"
+     1 string schinese_censored = "学习要加油哟~一会儿别忘了看看右上角的悟性值~放心好啦~感谢荧幕前各位的支持~"
+     1 string english = "Keep up that studying! Remember to keep an eye on your Knowledge on the top-right. Don't worry! You there in front of the screen, thank you for your support!"
+     1 string japanese = "勉強は大事だぞ～。後で右上の理解力をチェックしといてくれ。画面の向こう側の皆さん、ありがとうございました。"
+     1 string mchinese = "學習要加油喲~一會兒別忘了看看右上角的悟性值~放心好啦~感謝螢幕前各位的支持~"
+   [8208]
+    0 TableSoItemLang data
+     0 int id = 1018209
+     1 string schinese = "最近是不是学习很辛苦啊~快最终考试了呢！"
+     1 string schinese_censored = "最近是不是学习很辛苦啊~快最终考试了呢！"
+     1 string english = "Gaokao is nearing! You must have been working hard lately."
+     1 string japanese = "最近勉強はどうだ？もうすぐ大学入試だぞ！"
+     1 string mchinese = "最近是不是學習很辛苦啊~快最終考試了呢！"
+   [8209]
+    0 TableSoItemLang data
+     0 int id = 1018210
+     1 string schinese = "你怎么又出现了，别烦我了！现在就算你给我钱，我都没时间花了。"

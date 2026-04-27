@@ -1,0 +1,184 @@
+     1 string schinese_censored = "爸妈可交不了赞助费哦，一切只能靠你自己了。"
+     1 string english = "We can't always give you money. You'll have to fend for yourself."
+     1 string japanese = "お父さんたちは賛助金とか出せないからな。自分の力で頑張るんだぞ。"
+     1 string mchinese = "爸媽可交不了贊助費哦，一切只能靠你自己了。"
+   [25368]
+    0 TableSoItemLang data
+     0 int id = 1596171655
+     1 string schinese = "你们可别给我乖孙女太多压力！"
+     1 string schinese_censored = "你们可别给我乖孙女太多压力！"
+     1 string english = "Don't pressure my dear granddaughter too much!"
+     1 string japanese = "孫を困らせるんじゃないよ！"
+     1 string mchinese = "你們可別給我乖孫女太多壓力！"
+   [25369]
+    0 TableSoItemLang data
+     0 int id = 1596171656
+     1 string schinese = "快要高考了！努力十多年，终于可以拉出来遛遛了！怎么办啊，我好紧张.."
+     1 string schinese_censored = "快要高考了！努力十多年，终于可以拉出来遛遛了！怎么办啊，我好紧张.."
+     1 string english = "The Gaokao looms! This is the culmination of your studies! Oh, I'm so nervous!"
+     1 string japanese = "もうすぐ大学入試よ！十何年間の努力がついに試されるんだわ！どうしよう、緊張する…。"
+     1 string mchinese = "快要高考了！努力十多年，終於可以拉出來遛遛了！怎麼辦啊，我好緊張.."
+   [25370]
+    0 TableSoItemLang data
+     0 int id = 1596171657
+     1 string schinese = "没事啊女儿，正常发挥就好，人生不是由高考决定的。"
+     1 string schinese_censored = "没事啊女儿，正常发挥就好，人生不是由高考决定的。"
+     1 string english = "It's all right, daughter. Just do your best and we'll take it from there."
+     1 string japanese = "大丈夫だよ、いつもどおりやれば。それに、人生は入試で決まるわけじゃない。"
+     1 string mchinese = "沒事啊女兒，正常發揮就好，人生不是由高考決定的。"
+   [25371]
+    0 TableSoItemLang data
+     0 int id = 1596171658
+     1 string schinese = "不管考怎么样，奶奶都会做好吃的犒劳我乖孙女！"
+     1 string schinese_censored = "不管考怎么样，奶奶都会做好吃的犒劳我乖孙女！"
+     1 string english = "No matter how you fare, I'll make your favorite food to cheer you up!"
+     1 string japanese = "これが終わったら、おいしいもの作ってあげるからね！"
+     1 string mchinese = "不管考怎麼樣，奶奶都會做好吃的犒勞我乖孫女！"
+   [25372]
+    0 TableSoItemLang data
+     0 int id = 1596171659
+     1 string schinese = "我看你对小卖部的东西很感兴趣啊~是时候让你感受下金钱的乐趣了.<color=#EB7350>零用钱</color>，爸爸赚得不多，也只能给你这些了，省着点用~"
+     1 string schinese_censored = "我看你对小卖部的东西很感兴趣啊~是时候让你感受下金钱的乐趣了.<color=#EB7350>零用钱</color>，爸爸赚得不多，也只能给你这些了，省着点用~"
+     1 string english = "You seem to be very interested in that little shop. Time for you to learn the fun <color=#EB7350>money</color> can buy. But you know I can't give you too much, so please don't go crazy."
+     1 string japanese = "売店に興味があるみたいだな。お前もそろそろお金の使い方を覚えていい頃だ。<color=#EB7350>お小遣い</color>をあげよう。だけど、お父さんの稼ぎじゃこれだけしかあげられない。大事に使うんだぞ。"
+     1 string mchinese = "我看你對小賣部的東西很感興趣啊~是時候讓你感受下金錢的樂趣了.<color=#EB7350>零用錢</color>，爸爸賺得不多，也只能給你這些了，省著點用~"
+   [25373]
+    0 TableSoItemLang data
+     0 int id = 1596171660
+     1 string schinese = "这是给你买的复习题，你看着刷刷题吧。期末考得好假期才能过得爽啊！"
+     1 string schinese_censored = "这是给你买的复习题，你看着刷刷题吧。期末考得好假期才能过得爽啊！"
+     1 string english = "I bought you this exercise book. Be sure to do it well so you can rest during the holidays!"
+     1 string japanese = "この問題集でしっかり復習しなさい。期末試験で良い成績が取れないと、お休みを楽しめないわよ！"
+     1 string mchinese = "這是給你買的復習題，你看著刷刷題吧。期末考得好假期才能過得爽啊！"
+   [25374]
+    0 TableSoItemLang data
+     0 int id = 1596171661
+     1 string schinese = "做事三分钟热度一点都不酷，刷题也是为了锻炼你的恒心，做完了再干别的！"
+     1 string schinese_censored = "做事三分钟热度一点都不酷，刷题也是为了锻炼你的恒心，做完了再干别的！"
+     1 string english = "Don't just give up so quickly. Doing this is for your own good. Finish them before you do anything else!"
+     1 string japanese = "集中力が３分しか続かないんじゃ困るわ。問題集を解くのは忍耐力を鍛える意味もあるのよ。終わってから別のことをしなさい！"
+     1 string mchinese = "做事三分鐘熱度一點都不酷，刷題也是為了鍛煉你的恒心，做完了再幹別的！"
+   [25375]
+    0 TableSoItemLang data
+     0 int id = 1596171662
+     1 string schinese = "妈！你是不是偷看我日记了！"
+     1 string schinese_censored = "妈！你是不是偷看我日记了！"
+     1 string english = "Mom! Did you read my diary without permission?"
+     1 string japanese = "お母さん！私の日記見たでしょ！"
+     1 string mchinese = "媽！你是不是偷看我日記了！"
+   [25376]
+    0 TableSoItemLang data
+     0 int id = 1596171663
+     1 string schinese = "哎呀失误失误，日记本自己摊开在桌上我不小心瞄到了~~"
+     1 string schinese_censored = "哎呀失误失误，日记本自己摊开在桌上我不小心瞄到了~~"
+     1 string english = "Oh, sorry! Your diary was open at the table so I couldn't help myself!"
+     1 string japanese = "ごめんなさいね。日記が開いたままだったから見えちゃったの。"
+     1 string mchinese = "哎呀失誤失誤，日記本自己攤開在桌上我不小心瞄到了~~"
+   [25377]
+    0 TableSoItemLang data
+     0 int id = 1596171664
+     1 string schinese = "以后我的东西你不许碰！"
+     1 string schinese_censored = "以后我的东西你不许碰！"
+     1 string english = "Don't touch my things again!"
+     1 string japanese = "今度から私のものを勝手に触らないで！"
+     1 string mchinese = "以後我的東西你不許碰！"
+   [25378]
+    0 TableSoItemLang data
+     0 int id = 1596171665
+     1 string schinese = "好嘛，不碰就不碰，这么凶干嘛哼~"
+     1 string schinese_censored = "好嘛，不碰就不碰，这么凶干嘛哼~"
+     1 string english = "OK, fine, sure. No need to be so angry about it."
+     1 string japanese = "わかったわよ。もう、怖いわね。"
+     1 string mchinese = "好嘛，不碰就不碰，這麼凶幹嘛哼~"
+   [25379]
+    0 TableSoItemLang data
+     0 int id = 1596171666
+     1 string schinese = "闺女~最近学校有没有发生什么事..."
+     1 string schinese_censored = "闺女~最近学校有没有发生什么事..."
+     1 string english = "Dear, what's going on at school these days?"
+     1 string japanese = "ねえ、最近学校で何かあった？"
+     1 string mchinese = "閨女~最近學校有沒有發生什麼事..."
+   [25380]
+    0 TableSoItemLang data
+     0 int id = 1596171667
+     1 string schinese = "没有啊，怎么突然这么问？"
+     1 string schinese_censored = "没有啊，怎么突然这么问？"
+     1 string english = "Nothing special. Why do you ask?"
+     1 string japanese = "ないよ。どうして？"
+     1 string mchinese = "沒有啊，怎麼突然這麼問？"
+   [25381]
+    0 TableSoItemLang data
+     0 int id = 1596171668
+     1 string schinese = "那你的那个男同桌...（八卦脸凑近.."
+     1 string schinese_censored = "那你的那个男同桌...（八卦脸凑近.."
+     1 string english = "Well, that desk mate of yours, that boy... (She draws closer with an inquisitive look..."
+     1 string japanese = "それじゃあ、隣の席のあの男の子は…（興味深そうな目で近づく…"
+     1 string mchinese = "那你的那個男同桌...（八卦臉湊近.."
+   [25382]
+    0 TableSoItemLang data
+     0 int id = 1596171669
+     1 string schinese = "妈~你好八卦啊！还有你是不是有看我日记了！你答应我不看的！！"
+     1 string schinese_censored = "妈~你好八卦啊！还有你是不是有看我日记了！你答应我不看的！！"
+     1 string english = "Mom! Have you been reading my diary? You promised not to!!"
+     1 string japanese = "もう、噂好きなんだから！それに、また私の日記見たでしょ！見ないって言ったのに！！"
+     1 string mchinese = "媽~你好八卦啊！還有你是不是有看我日記了！你答應我不看的！！"
+   [25383]
+    0 TableSoItemLang data
+     0 int id = 1596171670
+     1 string schinese = "好好好，妈妈不看，但是你有心事也要和妈妈多聊聊啊！"
+     1 string schinese_censored = "好好好，妈妈不看，但是你有心事也要和妈妈多聊聊啊！"
+     1 string english = "OK, OK, I won't, I promise. But you've gotta talk to me about things of the heart!"
+     1 string japanese = "はいはい。でも、悩みがあったらお母さんに言うのよ！"
+     1 string mchinese = "好好好，媽媽不看，但是你有心事也要和媽媽多聊聊啊！"
+   [25384]
+    0 TableSoItemLang data
+     0 int id = 1596171671
+     1 string schinese = "哈哈哈，你说的对~（电话）"
+     1 string schinese_censored = "哈哈哈，你说的对~（电话）"
+     1 string english = "Hahaha, you're right! (talking over the phone)"
+     1 string japanese = "アハハ、そうだね～。（電話）"
+     1 string mchinese = "哈哈哈，你說的對~（電話）"
+   [25385]
+    0 TableSoItemLang data
+     0 int id = 1596171672
+     1 string schinese = "哎，我妈也是这样，天天偷偷到我房间来监视我……（电话）"
+     1 string schinese_censored = "哎，我妈也是这样，天天偷偷到我房间来监视我……（电话）"
+     1 string english = "My mom did that too. She sneaks into my room every day to spy on me... (talks on the phone)"
+     1 string japanese = "うん、うちのお母さんもそう。いっつも私の部屋をのぞいてる…。（電話）"
+     1 string mchinese = "哎，我媽也是這樣，天天偷偷到我房間來監視我……（電話）"
+   [25386]
+    0 TableSoItemLang data
+     0 int id = 1596171673
+     1 string schinese = "有时间煲电话粥讲我坏话，就是没时间学习呗..."
+     1 string schinese_censored = "有时间煲电话粥讲我坏话，就是没时间学习呗..."
+     1 string english = "You've got time to complain about me on the phone, but not to study, eh..."
+     1 string japanese = "長電話でお母さんの悪口を言う時間はあるのに、勉強する時間はないのね…。"
+     1 string mchinese = "有時間煲電話粥講我壞話，就是沒時間學習唄..."
+   [25387]
+    0 TableSoItemLang data
+     0 int id = 1596171674
+     1 string schinese = "哎……我妈又来了，你听到了么？（电话）"
+     1 string schinese_censored = "哎……我妈又来了，你听到了么？（电话）"
+     1 string english = "Gah... Mom is nagging me again. Did you hear? (talking over the phone)"
+     1 string japanese = "あーあ…また来た。聞こえた？（電話）"
+     1 string mchinese = "哎……我媽又來了，你聽到了麼？（電話）"
+   [25388]
+    0 TableSoItemLang data
+     0 int id = 1596171675
+     1 string schinese = "那我先不说，不然一会就要骂我了，下次再聊~（电话）"
+     1 string schinese_censored = "那我先不说，不然一会就要骂我了，下次再聊~（电话）"
+     1 string english = "Let's hang up, otherwise she'll come back and nag at me even more. Catch you later! (talking over the phone)"
+     1 string japanese = "それじゃあここまでね。また怒られちゃう。またね～。（電話）"
+     1 string mchinese = "那我先不說，不然一會就要罵我了，下次再聊~（電話）"
+   [25389]
+    0 TableSoItemLang data
+     0 int id = 1596171676
+     1 string schinese = "哈哈哈哈，闺女，你新的微信头像好搞笑啊.."
+     1 string schinese_censored = "哈哈哈哈，闺女，你新的微信头像好搞笑啊.."
+     1 string english = "Hahaha, dear, your new avatar is hilarious!"
+     1 string japanese = "アハハ、あんたの新しいアイコン、面白いわね…。"
+     1 string mchinese = "哈哈哈哈，閨女，你新的微信頭像好搞笑啊.."
+   [25390]
+    0 TableSoItemLang data
+     0 int id = 1596171677
+     1 string schinese = "..是吗，还以为你会说我呢.."

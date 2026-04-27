@@ -1,0 +1,184 @@
+     1 string schinese_censored = "什么是面子呢？"
+     1 string english = "What's face?"
+     1 string japanese = "「メンツ」ってなに？"
+     1 string mchinese = ""什麼叫好好表現呢？""
+   [10257]
+    0 TableSoItemLang data
+     0 int id = 1020258
+     1 string schinese = ""就是要在聊天中见缝插针地展示自己的特长！让别人佩服你，爸妈就会长面子！""
+     1 string schinese_censored = "面子就是炫耀自己的特长，比得过别人就挣得面子，比别人差就丢了面子！父亲语重心长说道。"
+     1 string english = "Show off your traits and superiority in conversation! Have others admire you and we will be proud!"
+     1 string japanese = "「メンツ」は特技を自慢することだ。勝つと「メンツ」が保たれる。でも負けると「メンツ」が潰れる。"
+     1 string mchinese = ""就是要在聊天中見縫插針地展示自己的特長！讓別人佩服你，爸媽就會長面子！""
+   [10258]
+    0 TableSoItemLang data
+     0 int id = 1020259
+     1 string schinese = "女孩子从小就得好好培养，多学技能！以后才能嫁得好！可别像我，嫁了你爸爸，天天受气……"
+     1 string schinese_censored = "女孩子从小就得好好培养，多学技能！以后才能嫁得好！可别像我，嫁了你爸爸，天天受气……"
+     1 string english = "Young girls should study well and learn as many skills as they can so they can marry a good husband! You don't want to marry a man like your father, just look at how my life has turned out..."
+     1 string japanese = "女の子は小さい頃から、たくさんスキルを学ばないと！良いところにお嫁に行きたいでしょ！お父さんみたいなのはダメよ。ろくでもないし…"
+     1 string mchinese = "女孩子從小就得好好培養，多學技能！以後才能嫁得好！可別像我，嫁了你爸爸，天天受氣……"
+   [10259]
+    0 TableSoItemLang data
+     0 int id = 1020260
+     1 string schinese = "不要忘记经常学习技能哟，挖脑洞积累到的悟性，终于可以派上用场了！！"
+     1 string schinese_censored = "不要忘记经常学习技能哟，挖脑洞积累到的悟性，终于可以派上用场了！！"
+     1 string english = "Remember to learn skills regularly. Gain Knowledge by absorbing fragments so that you can make something of yourself!"
+     1 string japanese = "「スキル」をしっかり学習しよう！「カケラ」を吸収して手に入る「理解力」が役に立つぞ！"
+     1 string mchinese = "不要忘記經常學習技能喲，挖腦洞積累到的悟性，終於可以派上用場了！！"
+   [10260]
+    0 TableSoItemLang data
+     0 int id = 1020261
+     1 string schinese = "注意技能所需悟性值，是会变动的哟~如果所需属性越高，则消耗的悟性值越低！！合理安排，不要揠苗助长！"
+     1 string schinese_censored = "注意技能所需悟性值，是会变动的哟~如果所需属性越高，则消耗的悟性值越低！！合理安排，不要拔苗助长！"
+     1 string english = "Remember, the Knowledge required to learn a skill changes with your stats. Higher stats reduce the Knowledge cost! Be sure to schedule your days properly for the best growth!"
+     1 string japanese = "「スキル」に必要な「理解力」は一定じゃない。「能力値」が高いほど、消費する「理解力」は少なくなるぞ！ご利用は計画的に。焦りは禁物だ！"
+     1 string mchinese = "注意技能所需悟性值，是會變動的喲~如果所需屬性越高，則消耗的悟性值越低！！合理安排，不要揠苗助長！"
+   [10261]
+    0 TableSoItemLang data
+     0 int id = 1020262
+     1 string schinese = "已经掌握脑洞的操作了吗？要注意，脑洞层数越高，属性加成越多！某些特殊脑洞可直接进入下一层，一定不要错过哟~"
+     1 string schinese_censored = "已经掌握脑洞的操作了吗？要注意，脑洞层数越高，属性加成越多！某些特殊脑洞可直接进入下一层，一定不要错过哟~"
+     1 string english = "So now you understand fragments, right? Remember, you gain more stats at higher mind map levels. Certain fragments allow you to advance to the next level, they are very potent."
+     1 string japanese = "「カケラ」の吸収方法は覚えた？特別な「カケラ」を吸収すると次の階層へ進める。階層が深くなるほど「能力値」にボーナスが付くぞ！絶対見逃すな！"
+     1 string mchinese = "已經掌握腦洞的操作了嗎？要注意，腦洞層數越高，屬性加成越多！某些特殊腦洞可直接進入下一層，一定不要錯過喲~"
+   [10262]
+    0 TableSoItemLang data
+     0 int id = 1020263
+     1 string schinese = ""只要你表现的好，你想要啥就都给你买~""
+     1 string schinese_censored = "只要你表现的好，你想要啥就都给你买~"
+     1 string english = ""I'll get you anything you want as long as you behave.""
+     1 string japanese = "何がほしいの？いい子にしてれば、なんでも買ってあげるわ。"
+     1 string mchinese = ""只要你表現的好，你想要啥就都給你買~""
+   [10263]
+    0 TableSoItemLang data
+     0 int id = 1020264
+     1 string schinese = "父母满意度较高的时候，会给你满足愿望的机会，有想买的东西可以通过【事务】中的<color=#EB7350>【索取】</color>来获得！"
+     1 string schinese_censored = "最近表现不错，父母会给你准备礼物，想要领取可点击右下角的【事务】，再点击<color=#EB7350>【礼物】</color>来获得！"
+     1 string english = "When your parents are satisfied with you, they will give you a chance to fulfill your wishes. If there's anything you want, head to <color=#EB7350>[Request]</color> under [Events]!"
+     1 string japanese = "両親の満足度が高い時は願いを叶えるチャンスだ！ほしいものを、【取引】メニューの<color=#EB7350>【要求】</color>でもらおう！"
+     1 string mchinese = "父母滿意度較高的時候，會給你滿足願望的機會，有想買的東西可以通過【事務】中的<color=#EB7350>【索取】</color>來獲得！"
+   [10264]
+    0 TableSoItemLang data
+     0 int id = 1020265
+     1 string schinese = ""我看你对小卖部的东西很感兴趣啊~女孩大了也想有点想买的东西~看来以后我得按时给你<color=#EB7350>零用钱</color>，我这个职业，也只能给你这些了，省着点用~""
+     1 string schinese_censored = "我看你对小卖部的东西很感兴趣啊~女孩大了也想有点想买的东西~看来以后我得按时给你<color=#EB7350>零用钱</color>，我这个职业，也只能给你这些了，省着点用~"
+     1 string english = ""You seem to be very interested in that little shop. I'll try my best to give you your <color=#EB7350>pocket money</color> on time from now on. But you know I can't give you too much, so please don't go crazy with the shopping.""
+     1 string japanese = "売店にすごく興味があるみたい。女の子だし、欲しいものは多いはず。これからはちゃんと、<color=#EB7350>お小遣い</color>をあげないと。だけど、今の仕事だとこれが精一杯。"
+     1 string mchinese = ""我看你對小賣部的東西很感興趣啊~女孩大了也想有點想買的東西~看來以後我得按時給你<color=#EB7350>零用錢</color>，我這個職業，也只能給你這些了，省著點用~""
+   [10265]
+    0 TableSoItemLang data
+     0 int id = 1020266
+     1 string schinese = "以后每回合都可以获取零用钱啦！零用钱的多少与爸爸/妈妈的职业有关。你也可以在【事务】中，通过<color=#EB7350>【社会实践】</color>来获取额外零用钱。"
+     1 string schinese_censored = "以后每回合都可以获取零用钱啦！零用钱的多少与爸爸/妈妈的职业有关。你也可以点击右下角的【事务】中，选择<color=#EB7350>【打工】</color>来获取额外零用钱。"
+     1 string english = "You'll get pocket money each turn from now on. The amount of pocket money you get is related to your father/mother's job. You can also get extra pocket money via [Work] under [Events]."
+     1 string japanese = "毎ターンお小遣いがもらえるようになった！金額は両親の職業次第。【取引】メニューの<color=#EB7350>【仕事】</color>で、お小遣いをさらに増やせるぞ。"
+     1 string mchinese = "以後每回合都可以獲取零用錢啦！零用錢的多少與爸爸/媽媽的職業有關。你也可以在【事務】中，通過<color=#EB7350>【社會實踐】</color>來獲取額外零用錢。"
+   [10266]
+    0 TableSoItemLang data
+     0 int id = 1020267
+     1 string schinese = "进入青春期，开始在意周围的看法，有些同学会主动来约你出去玩，可<color=#EB7350>【消耗行动力】</color>赴约以增进一些<color=#EB7350>“友谊”</color>！"
+     1 string schinese_censored = "进入青春期，开始在意周围的看法，有些同学会主动来约你出去玩，可<color=#EB7350>【消耗行动力】</color>赴约以增进一些<color=#EB7350>“友谊”</color>！"
+     1 string english = "As you enter puberty, you'll start caring more about what others think of you. Some schoolmates may even ask you out. You can <color=#EB7350>[spend Action]</color> to accept invitations, which also increases your <color=#EB7350>Intimacy</color> with them!"
+     1 string japanese = "思春期になり、みんな周りを意識しだした。同級生から誘われるようになった。<color=#EB7350>行動力を消費</color>して<color=#EB7350>「友情」</color>を深められるぞ！"
+     1 string mchinese = "進入青春期，開始在意周圍的看法，有些同學會主動來約你出去玩，可<color=#EB7350>【消耗行動力】</color>赴約以增進一些<color=#EB7350>“友誼”</color>！"
+   [10267]
+    0 TableSoItemLang data
+     0 int id = 1020268
+     1 string schinese = "好好考，考不上回来爸爸养你！不要有压力，放轻松~"
+     1 string schinese_censored = "好好考，考不上回来爸爸养你！不要有压力，放轻松~"
+     1 string english = "Give it your all. It's all right if you fail, dad can take care of you. Don't feel stressed out about it, just relax."
+     1 string japanese = "頑張ってこい。落ちてもお父さんがいる！安心しろ！リラックスだ、リラ～ックス。"
+     1 string mchinese = "好好考，考不上回來爸爸養你！不要有壓力，放輕鬆~"
+   [10268]
+    0 TableSoItemLang data
+     0 int id = 1020269
+     1 string schinese = "放松心态，正常发挥，妈妈给你做好吃的！"
+     1 string schinese_censored = "放松心态，正常发挥，妈妈给你做好吃的！"
+     1 string english = "Don't you worry child, just take it easy and relax. I will make you delicious food!"
+     1 string japanese = "リラックスして。いつも通りやるのよ！おいしいものをつくっておくわ！"
+     1 string mchinese = "放鬆心態，正常發揮，媽媽給你做好吃的！"
+   [10269]
+    0 TableSoItemLang data
+     0 int id = 1020270
+     1 string schinese = "你是咱们家唯一的希望了，争取给咱家考个大学生出来！"
+     1 string schinese_censored = "你是咱们家唯一的希望了，争取给咱家考个大学生出来！"
+     1 string english = "You're our family's only hope. You better come home with a good score!"
+     1 string japanese = "あなたはうちの唯一の希望。絶対大学生になりなさい！"
+     1 string mchinese = "你是咱們家唯一的希望了，爭取給咱家考個大學生出來！"
+   [10270]
+    0 TableSoItemLang data
+     0 int id = 1020271
+     1 string schinese = "这是小卖部，可以买到好玩的东西。有些东西可以解锁新的学习、娱乐~~花掉零用钱，培养自己的兴趣吧！"
+     1 string schinese_censored = "这是小卖部，可以买到好玩的东西。有些东西可以解锁新的学习、娱乐~~花掉零用钱，培养自己的兴趣吧！"
+     1 string english = "You can buy all manners of interesting items in this little shop. Some items unlock new study and entertainment activates. Spend your pocket money to spur on your interests!"
+     1 string japanese = "売店では面白いものが買える。新しい学習や娯楽がアンロックできるものもあるぞ！お小遣いを使って、趣味を増やそう！"
+     1 string mchinese = "這是小賣部，可以買到好玩的東西。有些東西可以解鎖新的學習、娛樂~~花掉零用錢，培養自己的興趣吧！"
+   [10271]
+    0 TableSoItemLang data
+     0 int id = 1020272
+     1 string schinese = "这是从已获得的【特长】中挑选的，每个特长都有<color=#EB7350>伤害值</color>可以给对方的聊天体力带来伤害，几轮过后剩余体力多的人胜。如果随机出的特长不满意，可以再随机一次~特长用时方恨少，多多加油！"
+     1 string schinese_censored = "这是从已获得的【特长】中挑选的，每个特长都有<color=#EB7350>伤害值</color>可以给对方面子带来伤害，几轮过后剩余面子多的人胜。如果随机出的特长不满意，可以再随机一次~特长用时方恨少，多多加油！"
+     1 string english = "These ones are selected from the [Traits] you possess. Each trait's <color=#EB7350>damage value</color> is the amount of harm it will deal to another person's Face. The person with the most Face remaining, wins. You can reroll your Traits one time."
+     1 string japanese = "獲得済みの【特技】から選択可能だ。「特技」にはそれぞれ<color=#EB7350>ダメージ</color>が決まっていて、相手のメンツを潰せるぞ。終了後にメンツを多く残している方が勝ち。ランダム選択の特技が不満なら、一度だけシャッフル可能だ！上手く活用して頑張れ！"
+     1 string mchinese = "這是從已獲得的【特長】中挑選的，每個特長都有<color=#EB7350>傷害值</color>可以給對方的聊天體力帶來傷害，幾輪過後剩餘體力多的人勝。如果隨機出的特長不滿意，可以再隨機一次~特長用時方恨少，多多加油！"
+   [10272]
+    0 TableSoItemLang data
+     0 int id = 1020273
+     1 string schinese = "才艺大赛感觉如何？其实特长比赛，除了选择特长之外，还要看大众最近的喜好。当然，没人知道下一次什么东西会火~下次也许就是你！"
+     1 string schinese_censored = "选秀感觉如何？其实特长选秀，除了选择特长之外，还要看大众最近的喜好。当然，没人知道下一次什么东西会火~"
+     1 string english = "How do you like the talent show? It's not all about which Trait you choose but the public's taste is also taken into consideration. Who knows what will be popular next time?"
+     1 string japanese = "オーディションの結果はどうだったかな？オーディションでは特技の選択以外に、最近のトレンドも重要だ！もちろん、次に何が流行るか誰もわからない。次はキミにもチャンスがきっとあるよ！"
+     1 string mchinese = "才藝大賽感覺如何？其實特長比賽，除了選擇特長之外，還要看大眾最近的喜好。當然，沒人知道下一次什麼東西會火~下次也許就是你！"
+   [10273]
+    0 TableSoItemLang data
+     0 int id = 1020274
+     1 string schinese = "好吧，终于迎来了第一次课堂测验！！测验主要用来考察当前你的学习情况。对于每个科目的分数，由已掌握的该科目技能来决定，会的越多，考高分的几率越高！"
+     1 string schinese_censored = "好吧，终于迎来了第一次课堂测验！！测验主要用来考察当前你的学习情况。对于每个科目的分数，由已掌握的该科目技能来决定，会的越多，考高分的几率越高！"
+     1 string english = "Your first exam is here! This is mostly an evaluation of your current knowledge. Each subject's score is determined by the skills you've mastered in it. So learn as many skills as you can for a higher score!"
+     1 string japanese = "ついに初めての中間テストだ！テストでは現在の学習状況を確認する。点数は科目別のスキルで決まる。スキルが多いと高得点を取れる確率が上がるぞ！"
+     1 string mchinese = "好吧，終於迎來了第一次課堂測驗！！測驗主要用來考察當前你的學習情況。對於每個科目的分數，由已掌握的該科目技能來決定，會的越多，考高分的幾率越高！"
+   [10274]
+    0 TableSoItemLang data
+     0 int id = 1020275
+     1 string schinese = "都期末了，关键时候怎么不瞪起眼来？给你买了复习题，好好做哈！"
+     1 string schinese_censored = "都期末了，关键时候怎么不瞪起眼来？给你买了复习题，好好做哈！"
+     1 string english = "The end-of-term exam is upon us! What are you doing slouching around at such a time?! Here, I bought you an exercise book. Keep up the studying!"
+     1 string japanese = "もうすぐ期末テストなのに、なんでちゃんと復習しないの？問題集を買ってあげたんだから、ちゃんと勉強しなさい！"
+     1 string mchinese = "都期末了，關鍵時候怎麼不瞪起眼來？給你買了復習題，好好做哈！"
+   [10275]
+    0 TableSoItemLang data
+     0 int id = 1020276
+     1 string schinese = "女孩子家家的，怎么这么好动，坐不住呢？先做完了题再干别的，别浮躁！"
+     1 string schinese_censored = "女孩子家家的，怎么这么好动，坐不住呢？先做完了题再干别的，别浮躁！"
+     1 string english = "Why are you always fidgeting? Finish the exercises before doing anything else! Don't be restless!"
+     1 string japanese = "女の子なのに、なんでじっとできないの？まずは問題集よ。ほかのことは後にしなさい！"
+     1 string mchinese = "女孩子家家的，怎麼這麼好動，坐不住呢？先做完了題再幹別的，別浮躁！"
+   [10276]
+    0 TableSoItemLang data
+     0 int id = 1020277
+     1 string schinese = "似乎必须将行动力都花在做题上，才能干别的哟！"
+     1 string schinese_censored = "似乎必须将行动力都花在做题上，才能干别的哟！"
+     1 string english = "You have to spend all Action on studying before doing anything else!"
+     1 string japanese = "宿題を終わらせないと、「行動力」がほかのことに使えないぞ！"
+     1 string mchinese = "似乎必須將行動力都花在做題上，才能幹別的喲！"
+   [10277]
+    0 TableSoItemLang data
+     0 int id = 1020278
+     1 string schinese = "心理阴影面积如果超过100！则会失去控制，游戏失败，希望大家平时多多关注心理健康！（可在个人信息中查看这类内容）"
+     1 string schinese_censored = "心理阴影面积如果超过100！则会失去控制，游戏失败，希望大家平时多多关注心理健康！（可在个人信息中查看这类内容）"
+     1 string english = "If your mind shadow exceeds 100, your mind will snap and the game is over. Be sure to pay attention to your mental health both inside and outside the game! (View relevant content under Personal Info)."
+     1 string japanese = "精神のトラウマ領域が１００を超えるとゲームオーバーだ！気をつけよう！ステータスメニューで詳細が確認可能だ。"
+     1 string mchinese = "心理陰影面積如果超過100！則會失去控制，遊戲失敗，希望大家平時多多關注心理健康！（可在個人資訊中查看這類內容）"
+   [10278]
+    0 TableSoItemLang data
+     0 int id = 1020279
+     1 string schinese = "本次班干部选举，我希望大家都能老老实实，不要乱讲话扰乱秩序！"
+     1 string schinese_censored = "本次班干部选举，我希望大家都能老老实实，不要乱讲话扰乱秩序！"
+     1 string english = "Let's all just stay in our places without making noise during the class president selection!"
+     1 string japanese = "委員長選挙は静かにしなさい！"
+     1 string mchinese = "本次班幹部選舉，我希望大家都能老老實實，不要亂講話擾亂秩序！"
+   [10279]
+    0 TableSoItemLang data
+     0 int id = 1020280
+     1 string schinese = "本次班干部选举，就这样结束了"

@@ -1,0 +1,184 @@
+     1 string schinese_censored = "成绩有了提升后和父母商量着周末打打游戏，父母看了看我的分数，答应了。\n（ 压力增加了20 满意度增加了20 智商增加了50 情商增加了50）"
+     1 string english = "I discuss with parents about playing games on weekends after getting better grades. They say OK.\n(Stress +20, Satisfaction +20, IQ +50, EQ +50)"
+     1 string japanese = "成績が上がったので、週末だけでもゲームをしたいと交渉した。両親はテストの点数を見て認めてくれた。\nストレスが20増加、満足度が20増加、ＩＱが50増加、ＥＱが50増加"
+     1 string mchinese = "成績有了提升後和父母商量著週末打打遊戲，父母看了看我的分數，答應了。\n（ 壓力+20 滿意度+20 智商+50 情商+50）"
+   [24333]
+    0 TableSoItemLang data
+     0 int id = 1596170620
+     1 string schinese = "因为成绩下降，父母没收了我所有的电子产品，连电脑都上了锁。\n（ 压力-20 满意度-50 智商-50 情商-50）"
+     1 string schinese_censored = "因为成绩下降，父母没收了我所有的电子产品，连计算机都上了锁。\n（ 压力-20 满意度-50 智商-50 情商-50）"
+     1 string english = "My parents take all my digital devices away from me and lock up my PC due to my grades getting worse.\n(Stress -20, Satisfaction -50, IQ -50, EQ -50)"
+     1 string japanese = "成績が下がったので、電子機器をすべて没収され、パソコンまでロックされてしまった。\nストレスが20減少、満足度が50減少、ＩＱが50減少、ＥＱが50減少"
+     1 string mchinese = "因為成績下降，父母沒收了我所有的電子產品，連電腦都上了鎖。\n（ 壓力-20 滿意度-50 智商-50 情商-50）"
+   [24334]
+    0 TableSoItemLang data
+     0 int id = 1596170621
+     1 string schinese = "游戏没打爽，成绩也没提升。急得父母给我报了个补习班，休息时间更少了！\n（ 压力+20 智商-50 情商-50）"
+     1 string schinese_censored = "游戏没打爽，成绩也没提升，急得父母给我报了个补习班，休息时间减少了！\n（ 压力增加了20 智商-50 情商-50）"
+     1 string english = "I fail to play games happily and don't improve my grades. I get less rest since my parents get worried and send me to extra classes.\n(Stress +20, IQ -50, EQ -50)"
+     1 string japanese = "ゲームを楽しめず、成績も上がらない。焦った両親はあなたを塾に通わせたので、休み時間が少なくなった！\nストレスが20増加、ＩＱが50減少、ＥＱが50減少"
+     1 string mchinese = "遊戲沒打爽，成績也沒提升。急得父母給我報了個補習班，休息時間更少了！\n（ 壓力+20 智商-50 情商-50）"
+   [24335]
+    0 TableSoItemLang data
+     0 int id = 1596170622
+     1 string schinese = "没过几天就有些吃不消了，被妈妈强制休息……\n（ 满意度-20 情商-20 记忆力-50 体魄-50）"
+     1 string schinese_censored = "没过几天就有些吃不消了，被妈妈强制休息……\n（ 满意度-20 情商-20 记忆力-50 体魄-50）"
+     1 string english = "Mom forces me to take a rest since it's exhausting to train so hard...\n(Satisfaction -20, EQ -20, Memory -50, Constitution -50)"
+     1 string japanese = "数日と経たず限界が来て、母親に強制的に休まされてしまった…。\n満足度が20減少、ＥＱが20減少、記憶力が50減少、体力が50減少"
+     1 string mchinese = "沒過幾天就有些吃不消了，被媽媽強制休息……\n（ 滿意度-20 情商-20 記憶力-50 體魄-50）"
+   [24336]
+    0 TableSoItemLang data
+     0 int id = 1596170623
+     1 string schinese = "玩了几天排位不升反降，并没有什么实质性的水平提升。\n（ 压力+20 记忆力-20）"
+     1 string schinese_censored = "玩了几天排位不升反降，并没有什么实质性的水平提升。\n（ 压力增加了20 记忆力-20）"
+     1 string english = "My skills don't improve and my rank falls lower.\n(Stress +20, Memory -20)"
+     1 string japanese = "数日経ってもランクが上がるどころか下がってしまった。レベルは実質的に上がっていない。\nストレスが20増加、記憶力が20減少"
+     1 string mchinese = "玩了幾天排位不升反降，並沒有什麼實質性的水準提升。\n（ 壓力+20 記憶力-20）"
+   [24337]
+    0 TableSoItemLang data
+     0 int id = 1596170624
+     1 string schinese = "将一天24小时，吃饭学习训练锻炼都写尽了作战计划，执行了几天，效果看起来不错！\n（ 悟性+50 压力-50 记忆力+50 体魄+50）"
+     1 string schinese_censored = "将一天24小时，吃饭学习训练锻炼都写尽了作战计划，执行了几天，效果看起来不错！\n（ 悟性增加了50 压力-50 记忆力增加了50 体魄增加了50）"
+     1 string english = "I plan my life, study and training in detail and the plan seems to work very well over the following days!\n(Knowledge +50, Stress -50, Memory +50, Constitution+50)"
+     1 string japanese = "一日の食事・学習・練習予定を作り、数日間実行してみた。効果は上々だ！\n理解力が50増加、ストレスが50減少、記憶力が50増加、体力が50増加"
+     1 string mchinese = "將一天24小時，吃飯學習訓練鍛煉都寫盡了作戰計畫，執行了幾天，效果看起來不錯！\n（ 悟性+50 壓力-50 記憶力+50 體魄+50）"
+   [24338]
+    0 TableSoItemLang data
+     0 int id = 1596170625
+     1 string schinese = "队友也不是省油的灯：“第一盘强势英雄线上被压制你好意思说我！？！”\n（ 情商-50 魅力-100）"
+     1 string schinese_censored = "队友也不是省油的灯：“第一盘强势英雄在线被压制你好意思说我！？！”\n（ 情商-50 魅力-100）"
+     1 string english = "The team criticizes you back: "Shame you lost the advantage to a weaker hero in lane phase!"\n(EQ -50, Charm -100)"
+     1 string japanese = "仲間だって黙ってはいない。「自分だって１戦目で有利なキャラを使っていて抑え込まれたくせに！」\nＥＱが50減少、魅力が100減少"
+     1 string mchinese = "隊友也不是省油的燈：“第一盤強勢英雄線上被壓制你好意思說我！？！”\n（ 情商-50 魅力-100）"
+   [24339]
+    0 TableSoItemLang data
+     0 int id = 1596170626
+     1 string schinese = "到了下一次训练赛时，大家依然还记得这次的失败，水平也并没有什么长进。\n（ 压力+20 智商-10）"
+     1 string schinese_censored = "到了下一次训练赛时，大家依然还记得这次的失败，水平也并没有什么长进。\n（ 压力增加了20 智商-10）"
+     1 string english = "The team's performance doesn't improve in the next training, and everybody remembers that loss.\n(Stress +20, IQ -10)"
+     1 string japanese = "次のトレーニングマッチにて、みんなまだこの失敗を覚えていたが、上達はまったくしていなかった。\nストレスが20増加、ＩＱが10減少"
+     1 string mchinese = "到了下一次訓練賽時，大家依然還記得這次的失敗，水準也並沒有什麼長進。\n（ 壓力+20 智商-10）"
+   [24340]
+    0 TableSoItemLang data
+     0 int id = 1596170627
+     1 string schinese = "本来很强硬的队友也不好意思了：“我的我的，今天真不好意思哈。”大家顺势进行了一波分析，队伍磨合得到了提升。\n（ 智商+20 情商+50 魅力+100）"
+     1 string schinese_censored = "本来很强硬的队友也不好意思了：“我的我的，今天真不好意思哈。”大家顺势进行了一波分析，队伍磨合得到了提升。\n（ 智商增加了20 情商增加了50 魅力增加了100）"
+     1 string english = "The teammate admits his mistakes, saying "I'm to blame for this loss. Sorry." The team review the game together and everybody grows closer.\n(IQ +20, EQ +50, Charm +100)"
+     1 string japanese = "普段は強情な仲間も謝ってきた。みんなで分析を行い、チームの結束力が高まった。\nＩＱが20増加、ＥＱが50増加、魅力が100増加"
+     1 string mchinese = "本來很強硬的隊友也不好意思了：“我的我的，今天真不好意思哈。”大家順勢進行了一波分析，隊伍磨合得到了提升。\n（ 智商+20 情商+50 魅力+100）"
+   [24341]
+    0 TableSoItemLang data
+     0 int id = 1596170628
+     1 string schinese = "结果op英雄被禁选，特训都白费了\n（ 想象力+100）"
+     1 string schinese_censored = "结果op英雄被禁选，特训都白费了\n（ 想象力增加了100）"
+     1 string english = "My efforts were wasted because the champs I practiced are banned.\n(Imagination +100)"
+     1 string japanese = "強力なキャラが使用禁止にされてしまった。特訓が水の泡になってしまった。\n想像力が100増加"
+     1 string mchinese = "結果op英雄被禁選，特訓都白費了\n（ 想像力+100）"
+   [24342]
+    0 TableSoItemLang data
+     0 int id = 1596170629
+     1 string schinese = "发挥不错，但是因为英雄弱势，并没有打出压制表现\n（ 记忆力+100）"
+     1 string schinese_censored = "发挥不错，但是因为英雄弱势，并没有打出压制表现\n（ 记忆力增加了100）"
+     1 string english = "I play well but don't dominate the game since I pick a nerfed hero.\n(Memory +100)"
+     1 string japanese = "上手く操作できたが、不利なキャラなので大活躍とまでは行かなかった\n記憶力が100増加"
+     1 string mchinese = "發揮不錯，但是因為英雄弱勢，並沒有打出壓制表現\n（ 記憶力+100）"
+   [24343]
+    0 TableSoItemLang data
+     0 int id = 1596170630
+     1 string schinese = "帮助团队获得了胜利，获得了mvp的队友和不少观众都对我的表现赞不绝口！\n（ 情商+100 魅力+100）"
+     1 string schinese_censored = "帮助团队获得了胜利，获得了mvp的队友和不少观众都对我的表现赞不绝口！\n（ 情商增加了100 魅力增加了100）"
+     1 string english = "I help the team win. Both the audience and my teammate who gets MVP give applause to my great performance!\n(EQ +100, Charm +100)"
+     1 string japanese = "チームの勝利に貢献した。ＭＶＰを獲得した仲間と多くのファンがプレイを絶賛してくれた！\nＥＱが100増加、魅力が100増加"
+     1 string mchinese = "幫助團隊獲得了勝利，獲得了mvp的隊友和不少觀眾都對我的表現讚不絕口！\n（ 情商+100 魅力+100）"
+   [24344]
+    0 TableSoItemLang data
+     0 int id = 1596170631
+     1 string schinese = "巅峰退役还能凭借荣誉恰饭赚钱，如果状态下滑再退，就名利两空了。\n（ 想象力+100 记忆力+100）"
+     1 string schinese_censored = "巅峰退役还能凭借荣誉恰饭赚钱，如果状态下滑再退，就名利两空了。\n（ 想象力增加了100 记忆力增加了100）"
+     1 string english = "I can still make money from gained glory if I retire at the peak. But I may lose both fortune and fame if I retire when I'm not as good as before.\n(Imagination +100, Memory+100)"
+     1 string japanese = "全盛期で引退すれば、実績で稼ぎ続けられる。晩節を汚して引退すると、富も名声も失ってしまう。\n想像力が100増加、記憶力が100増加"
+     1 string mchinese = "巔峰退役還能憑藉榮譽恰飯賺錢，如果狀態下滑再退，就名利兩空了。\n（ 想像力+100 記憶力+100）"
+   [24345]
+    0 TableSoItemLang data
+     0 int id = 1596170632
+     1 string schinese = "再坚持一下，说不定明年就成功了呢，还是不甘心放弃。\n（ 想象力+100 记忆力+100）"
+     1 string schinese_censored = "再坚持一下，说不定明年就成功了呢，还是不甘心放弃。\n（ 想象力增加了100 记忆力增加了100）"
+     1 string english = "I'm not willing to give up. Just persist and I may success next year.\n(Imagination +100, Memory +100)"
+     1 string japanese = "続けていれば、次の年には活躍できるかもしれない。やはり簡単に諦めるべきではない。\n想像力が100増加、記憶力が100増加"
+     1 string mchinese = "再堅持一下，說不定明年就成功了呢，還是不甘心放棄。\n（ 想像力+100 記憶力+100）"
+   [24346]
+    0 TableSoItemLang data
+     0 int id = 1596170633
+     1 string schinese = "不管是成为解说还是教练，亦或是其他的职业，也不想离开热爱的行业。\n（ 想象力+100 记忆力+100）"
+     1 string schinese_censored = "不管是成为解说还是教练，亦或是其他的职业，也不想离开热爱的行业。\n（ 想象力增加了100 记忆力增加了100）"
+     1 string english = "I can be a commentator or a coach after my retirement. I want my E-sports career going on no matter what job I will do.\n(Imagination +100, Memory +100)"
+     1 string japanese = "解説者でもコーチでも、別の職業でもいい。大好きな業界を離れたくはない。\n想像力が100増加、記憶力が100増加"
+     1 string mchinese = "不管是成為解說還是教練，亦或是其他的職業，也不想離開熱愛的行業。\n（ 想像力+100 記憶力+100）"
+   [24347]
+    0 TableSoItemLang data
+     0 int id = 1596170634
+     1 string schinese = "掌握了一些奇奇怪怪的套路和英雄，如果在接下来的比赛中掏出来，一定会获得全场惊呼！\n（ 智商+100 想象力+100）"
+     1 string schinese_censored = "掌握了一些奇奇怪怪的套路和英雄，如果在接下来的比赛中掏出来，一定会获得全场惊呼！\n（ 智商增加了100 想象力增加了100）"
+     1 string english = "I'm bound to get applause if I can show the audience strategies and heroes that are hardly seen before!\n(IQ +100, Imagination +100)"
+     1 string japanese = "トリッキーな戦略とキャラをマスターした。次の試合で使ったら、みんな驚くに違いない！\nＩＱが100増加、想像力が100増加"
+     1 string mchinese = "掌握了一些奇奇怪怪的套路和英雄，如果在接下來的比賽中掏出來，一定會獲得全場驚呼！\n（ 智商+100 想像力+100）"
+   [24348]
+    0 TableSoItemLang data
+     0 int id = 1596170635
+     1 string schinese = "对线基本功和打团操作有了一些提升，感觉充实又安心。\n（ 记忆力+100 体魄+100）"
+     1 string schinese_censored = "对线基本功和打团操作有了一些提升，感觉充实又安心。\n（ 记忆力增加了100 体魄增加了100）"
+     1 string english = "I feel satisfied with my improved basic lane phase controls and teamfight skills.\n(Memory +100, Constitution +100)"
+     1 string japanese = "レーンの基本操作と集団戦の操作が上手くなった。充実感と安心感を覚えた。\n記憶力が100増加、体力が100増加"
+     1 string mchinese = "對線基本功和打團操作有了一些提升，感覺充實又安心。\n（ 記憶力+100 體魄+100）"
+   [24349]
+    0 TableSoItemLang data
+     0 int id = 1596170636
+     1 string schinese = "比赛中不再犹犹豫豫，变得更果断了，获得了队友的称赞。\n（ 智商+100 情商+100）"
+     1 string schinese_censored = "比赛中不再犹犹豫豫，变得更果断了，获得了队友的称赞。\n（ 智商增加了100 情商增加了100）"
+     1 string english = "I become able to make decisions without hesitation and get praise from teammates. \n(IQ +100, EQ +100)"
+     1 string japanese = "試合で躊躇することなく、思い切って判断できるようになった。仲間から褒められた。\nＩＱが100増加、ＥＱが100増加"
+     1 string mchinese = "比賽中不再猶猶豫豫，變得更果斷了，獲得了隊友的稱讚。\n（ 智商+100 情商+100）"
+   [24350]
+    0 TableSoItemLang data
+     0 int id = 1596170637
+     1 string schinese = "观众席发出了欢呼，不少观众在网络上留言表示JNG的这个新人未来可期。 "
+     1 string schinese_censored = "观众席发出了欢呼，但也有不少观众在网络上留言表示JNG的这个新人太膨胀了。\n（ 自信增加了100）"
+     1 string english = "I get applause from the audience and many of them comment on the internet that this new JNG player has a promising future. "
+     1 string japanese = "観客席から歓声が上がった。多くのファンがネット上で、ルーキーの未来を期待するコメントを投稿した。"
+     1 string mchinese = "觀眾席發出了歡呼，不少觀眾在網路上留言表示JNG的這個新人未來可期。 "
+   [24351]
+    0 TableSoItemLang data
+     0 int id = 1596170638
+     1 string schinese = "观众席发出了欢呼，但也有不少观众在网络上留言表示JNG的这个新人有点装。 "
+     1 string schinese_censored = "观众席发出了欢呼，但也有不少观众在网络上留言表示JNG的这个新人太膨胀了。\n（ 自信增加了100）"
+     1 string english = "I get applause from the audience and many of them comment on the internet that this new JNG player is a bit pretentious. "
+     1 string japanese = "観客席から歓声が上がった。しかし、多くのファンがネット上で、ルーキーはカッコつけ過ぎだと投稿した。"
+     1 string mchinese = "觀眾席發出了歡呼，但也有不少觀眾在網路上留言表示JNG的這個新人有點裝。 "
+   [24352]
+    0 TableSoItemLang data
+     0 int id = 1596170639
+     1 string schinese = "观众席发出了欢呼，但也有不少观众在网络上留言表示JNG的这个新人太膨胀了。 "
+     1 string schinese_censored = "观众席发出了欢呼，但也有不少观众在网络上留言表示JNG的这个新人太膨胀了。\n（ 自信增加了100）"
+     1 string english = "I get applause from the audience and many of them comment on the internet that this new JNG player is too proud. "
+     1 string japanese = "観客席から歓声が上がった。しかし、多くのファンがネット上で、ルーキーは調子に乗っていると投稿した。"
+     1 string mchinese = "觀眾席發出了歡呼，但也有不少觀眾在網路上留言表示JNG的這個新人太膨脹了。 "
+   [24353]
+    0 TableSoItemLang data
+     0 int id = 1596170640
+     1 string schinese = "人生总有遗憾，能实现梦想的人万中无一，适时选择放弃。\n（ 想象力+100 记忆力+100）"
+     1 string schinese_censored = "人生总有遗憾，能实现梦想的人万中无一，适时选择放弃。\n（ 想象力增加了100 记忆力增加了100）"
+     1 string english = "There are few people realizing dreams since the regret is a part of life. Just give up when it's necessary.\n(Imagination +100, Memory +100)"
+     1 string japanese = "人生に無念は付き物だ。夢を実現できる人間は極めて少ない。良いタイミングで諦めよう。\n想像力が100増加、記憶力が100増加"
+     1 string mchinese = "人生總有遺憾，能實現夢想的人萬中無一，適時選擇放棄。\n（ 想像力+100 記憶力+100）"
+   [24354]
+    0 TableSoItemLang data
+     0 int id = 1596170641
+     1 string schinese = "再坚持一下，说不定明年就成功了呢，还是不甘心放弃。\n（ 想象力+100 记忆力+100）"
+     1 string schinese_censored = "再坚持一下，说不定明年就成功了呢，还是不甘心放弃。\n（ 想象力增加了100 记忆力增加了100）"
+     1 string english = "I'm not willing to give up. Just persist and I may success next year.\n(Imagination +100, Memory +100)"
+     1 string japanese = "続けていれば、次の年には活躍できるかもしれない。やはり簡単に諦めるべきではない。\n想像力が100増加、記憶力が100増加"
+     1 string mchinese = "再堅持一下，說不定明年就成功了呢，還是不甘心放棄。\n（ 想像力+100 記憶力+100）"
+   [24355]
+    0 TableSoItemLang data
+     0 int id = 1596170642
+     1 string schinese = "打职业毕竟也只是一种职业，赚钱更重要，如果退役更赚钱那就退役。\n（ 想象力+100 记忆力+100）"

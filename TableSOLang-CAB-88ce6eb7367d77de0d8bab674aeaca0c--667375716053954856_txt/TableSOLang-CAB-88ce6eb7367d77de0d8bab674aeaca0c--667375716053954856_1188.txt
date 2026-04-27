@@ -1,0 +1,184 @@
+     1 string schinese_censored = "获得学费"
+     1 string english = "Get Tuition"
+     1 string japanese = "授業料獲得"
+     1 string mchinese = "獲得學費"
+   [27300]
+    0 TableSoItemLang data
+     0 int id = 1596173587
+     1 string schinese = "亲爱的同学，你已满足我校入学条件，填写入学信息以便正式入学。"
+     1 string schinese_censored = "亲爱的同学，你已满足我校入学条件，填写入学信息以便正式入学。"
+     1 string english = "Dear student, you meet our requirements. Please fill in the registration form to get enrolled."
+     1 string japanese = "貴殿は当校の入学条件を満たしているため、入学手続として、入学届にご記入ください。"
+     1 string mchinese = "親愛的同學，你已滿足我校入學條件，填寫入學資訊以便正式入學。"
+   [27301]
+    0 TableSoItemLang data
+     0 int id = 1596173588
+     1 string schinese = "观看视频解读游戏内容"
+     1 string schinese_censored = "观看视频解读游戏内容"
+     1 string english = "View Videos to Learn about Game Content"
+     1 string japanese = "動画でゲームを解説"
+     1 string mchinese = "觀看視頻解讀遊戲內容"
+   [27302]
+    0 TableSoItemLang data
+     0 int id = 1596173589
+     1 string schinese = "解锁内容包括："
+     1 string schinese_censored = "解锁内容包括："
+     1 string english = "Unlocked Content:"
+     1 string japanese = "以下のコンテンツアンロック："
+     1 string mchinese = "解鎖內容包括："
+   [27303]
+    0 TableSoItemLang data
+     0 int id = 1596173590
+     1 string schinese = "·上学永久免费\n·家族可以无限代体验\n·免费获得“电竞达人资料片”\n·返还所有免费体验付的学费"
+     1 string schinese_censored = "·上学永久免费\n·家族可以无限代体验\n·免费获得“电竞达人资料片”\n·返还所有免费体验付的学费"
+     1 string english = "·Free Education in Game\nUnlimited Family Generations\nFree E-Sports World DLC\nRefund All Tuition From the Free Trial"
+     1 string japanese = "・入学永久無料\n・家族世代制限撤廃\n・ＤＬＣ「ｅスポーツの世界」を無料で獲得\n・無料体験で消費した授業料をすべて返却"
+     1 string mchinese = "·上學永久免費\n·家族可以無限代體驗\n·免費獲得“電競達人資料片”\n·返還所有免費體驗付的學費"
+   [27304]
+    0 TableSoItemLang data
+     0 int id = 1596173591
+     1 string schinese = "购买 ￥{0}"
+     1 string schinese_censored = "购买 ￥{0}"
+     1 string english = "Buy for ${0}."
+     1 string japanese = "購入 ￥{0}"
+     1 string mchinese = "購買 ￥{0}"
+   [27305]
+    0 TableSoItemLang data
+     0 int id = 1596173592
+     1 string schinese = "（原价￥{0}）"
+     1 string schinese_censored = "（原价￥{0}）"
+     1 string english = "(Initial Price ${0})"
+     1 string japanese = "（通常価格￥{0}）"
+     1 string mchinese = "（原價￥{0}）"
+   [27306]
+    0 TableSoItemLang data
+     0 int id = 1596173593
+     1 string schinese = "暂存学费{0}，购买学区房后将全额返还。"
+     1 string schinese_censored = "暂存学费{0}，购买学区房后将全额返还。"
+     1 string english = "Save {0} Tuition and get it all returned after buying a School District Housing."
+     1 string japanese = "納入済みの授業料：{0}。学区内住宅を購入すると全額返却される。"
+     1 string mchinese = "暫存學費{0}，購買學區房後將全額返還。"
+   [27307]
+    0 TableSoItemLang data
+     0 int id = 1596173594
+     1 string schinese = "今日还可购买{0}次，次日零点更新"
+     1 string schinese_censored = "今日还可购买{0}次，次日零点更新"
+     1 string english = "You can buy another {0} times. Resets at 00:00 every day."
+     1 string japanese = "本日あと{0}回購入可能。翌日0時更新"
+     1 string mchinese = "今日還可購買{0}次，次日零點更新"
+   [27308]
+    0 TableSoItemLang data
+     0 int id = 1596173595
+     1 string schinese = "通过缴纳学费值，可继续体验一个学籍。"
+     1 string schinese_censored = "通过缴纳学费值，可继续体验一个学籍。"
+     1 string english = "You can purchase another Student ID for Tuition."
+     1 string japanese = "授業料を納めると、続けて次の学校を体験できる。"
+     1 string mchinese = "通過繳納學費值，可繼續體驗一個學籍。"
+   [27309]
+    0 TableSoItemLang data
+     0 int id = 1596173596
+     1 string schinese = "去获得"
+     1 string schinese_censored = "去获得"
+     1 string english = "Go Get"
+     1 string japanese = "獲得"
+     1 string mchinese = "去獲得"
+   [27310]
+    0 TableSoItemLang data
+     0 int id = 1596173597
+     1 string schinese = "<color=#FF6F4F>领取</color><color=#FFF799>学费福利</color><color=#67ACD4>\n获得</color><color=#97C994>史诗传家宝</color>"
+     1 string schinese_censored = "<color=#FF6F4F>领取</color><color=#FFF799>学费福利</color><color=#67ACD4>\n获得</color><color=#97C994>史诗传家宝</color>"
+     1 string english = "<color=#FF6F4F>Claim</color> <color=#FFF799>Tuition Gifts</color><color=#67ACD4>\nAcquire</color> <color=#97C994>Epic Family Heirlooms</color>"
+     1 string japanese = "<color=#FFF799>授業料特典</color><color=#FF6F4F>受領</color><color=#97C994>\nエピック級家宝</color><color=#67ACD4>獲得</color>"
+     1 string mchinese = "<color=#FF6F4F>領取</color><color=#FFF799>學費福利</color><color=#67ACD4>\n獲得</color><color=#97C994>史詩傳家寶</color>"
+   [27311]
+    0 TableSoItemLang data
+     0 int id = 1596173598
+     1 string schinese = "已成功邀请{0}位好友"
+     1 string schinese_censored = "已成功邀请{0}位好友"
+     1 string english = "{0} friend(s) successfully invited."
+     1 string japanese = "フレンドを{0}人招待しました"
+     1 string mchinese = "已成功邀請{0}位好友"
+   [27312]
+    0 TableSoItemLang data
+     0 int id = 1596173599
+     1 string schinese = "查看受邀人"
+     1 string schinese_censored = "查看受邀人"
+     1 string english = "View invited friend(s)."
+     1 string japanese = "招待したフレンドを見る"
+     1 string mchinese = "查看受邀人"
+   [27313]
+    0 TableSoItemLang data
+     0 int id = 1596173600
+     1 string schinese = "邀请{0}人"
+     1 string schinese_censored = "邀请{0}人"
+     1 string english = "Invite {0} friend(s)."
+     1 string japanese = "{0}人招待"
+     1 string mchinese = "邀請{0}人"
+   [27314]
+    0 TableSoItemLang data
+     0 int id = 1596173601
+     1 string schinese = "每邀请1人便可获得1个奖励！"
+     1 string schinese_censored = "快去邀请他们吧！"
+     1 string english = "Get 1 reward for every 1 friend you invite!"
+     1 string japanese = "１人招待するごとに報酬を１個獲得！"
+     1 string mchinese = "每邀請1人便可獲得1個獎勵！"
+   [27315]
+    0 TableSoItemLang data
+     0 int id = 1596173602
+     1 string schinese = "立即邀请"
+     1 string schinese_censored = "立即邀请"
+     1 string english = "Invite Now"
+     1 string japanese = "今すぐ招待"
+     1 string mchinese = "立即邀請"
+   [27316]
+    0 TableSoItemLang data
+     0 int id = 1596173603
+     1 string schinese = "换一批"
+     1 string schinese_censored = "换一批"
+     1 string english = "Refresh"
+     1 string japanese = "更新"
+     1 string mchinese = "換一批"
+   [27317]
+    0 TableSoItemLang data
+     0 int id = 1596173604
+     1 string schinese = "邀请TA"
+     1 string schinese_censored = "邀请TA"
+     1 string english = "Invite Them"
+     1 string japanese = "この子を招待"
+     1 string mchinese = "邀請TA"
+   [27318]
+    0 TableSoItemLang data
+     0 int id = 1596173605
+     1 string schinese = "是否花费{0}元解锁全部游戏内容？"
+     1 string schinese_censored = "是否花费{0}元解锁全部游戏内容？"
+     1 string english = "Unlock all game content for ${0}?"
+     1 string japanese = "￥{0}消費してゲームの全コンテンツをアンロックしますか？"
+     1 string mchinese = "是否花費{0}元解鎖全部遊戲內容？"
+   [27319]
+    0 TableSoItemLang data
+     0 int id = 1596173606
+     1 string schinese = "学区榜"
+     1 string schinese_censored = "学区榜"
+     1 string english = "不翻譯1596173606"
+     1 string japanese = "不翻譯"
+     1 string mchinese = "學區榜"
+   [27320]
+    0 TableSoItemLang data
+     0 int id = 1596173607
+     1 string schinese = "好友榜"
+     1 string schinese_censored = "好友榜"
+     1 string english = "不翻譯1596173607"
+     1 string japanese = "不翻譯"
+     1 string mchinese = "好友榜"
+   [27321]
+    0 TableSoItemLang data
+     0 int id = 1596173608
+     1 string schinese = "排行榜"
+     1 string schinese_censored = "排行榜"
+     1 string english = "不翻譯1596173608"
+     1 string japanese = "不翻譯"
+     1 string mchinese = "排行榜"
+   [27322]
+    0 TableSoItemLang data
+     0 int id = 1596173609
+     1 string schinese = "欢迎加入{0}学区"

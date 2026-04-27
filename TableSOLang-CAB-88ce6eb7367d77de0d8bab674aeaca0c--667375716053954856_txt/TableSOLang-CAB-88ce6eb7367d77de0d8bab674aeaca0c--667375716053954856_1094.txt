@@ -1,0 +1,184 @@
+     1 string schinese_censored = "半小时过去了，你切回网页瞄了一眼。有一个人赞了你，是个没见过的陌生头像。"
+     1 string english = "You go back to the forum half a hour later and find a person with an unfamiliar avatar who have liked your post."
+     1 string japanese = "３０分後、もう一度見てみると、誰かがいいね！している。見たことのないアイコンだ。"
+     1 string mchinese = "半小時過去了，你切回網頁瞄了一眼。有一個人贊了你，是個沒見過的陌生頭像。"
+   [25138]
+    0 TableSoItemLang data
+     0 int id = 1596171425
+     1 string schinese = "（记得以前不管发什么非主流说说，小荗看到都会顺手点个赞，唉）"
+     1 string schinese_censored = "（记得以前不管发什么非主流说说，小荗看到都会顺手点个赞，唉）"
+     1 string english = "(I wish it was Mike. He used to like my posts no matter what I said.)"
+     1 string japanese = "（そういえば、どんなコメントでもレンマオは適当にいいね！してくれたっけ。はあ…）"
+     1 string mchinese = "（記得以前不管發什麼非主流說說，小荗看到都會順手點個贊，唉）"
+   [25139]
+    0 TableSoItemLang data
+     0 int id = 1596171426
+     1 string schinese = "_useNick，你妈妈现在还反对你打职业吗？"
+     1 string schinese_censored = "_useNick，你妈妈现在还反对你打职业吗？"
+     1 string english = "Does your mom still not approve of you being a pro player, _useNick?"
+     1 string japanese = "_useNick、キミのお母さんはまだプロに反対してるのか？"
+     1 string mchinese = "_useNick，你媽媽現在還反對你打職業嗎？"
+   [25140]
+    0 TableSoItemLang data
+     0 int id = 1596171427
+     1 string schinese = "害，他们基本只剩嘴硬了，我妈还偷偷上网看电竞新闻，看我比赛直播呢。"
+     1 string schinese_censored = "害，他们基本只剩嘴硬了，我妈还偷偷上网看电竞新闻，看我比赛直播呢。"
+     1 string english = "They've almost stopped with that. My mom has even begun reading e-sports news and watch my games live, but she hasn't told me directly."
+     1 string japanese = "口ではまだ文句を言うけど、こっそりネットでｅスポーツのニュースを読んだり、俺の試合の配信を観たりしてるよ。"
+     1 string mchinese = "害，他們基本只剩嘴硬了，我媽還偷偷上網看電競新聞，看我比賽直播呢。"
+   [25141]
+    0 TableSoItemLang data
+     0 int id = 1596171428
+     1 string schinese = "真好，我爸妈还是觉得我走的是歪路，是逃避学习不务正业。有时候我觉得…他们可能是对的…"
+     1 string schinese_censored = "真好，我爸妈还是觉得我走的是歪路，是逃避学习不务正业。有时候我觉得…他们可能是对的…"
+     1 string english = "That's great. Bah, my parents still insist that I made the wrong choice. They think I'm running away from my studying duties. Sometimes I agree with them..."
+     1 string japanese = "うらやましいな。僕の親はまだ認めてくれない。勉強から逃げてるだけだって。時々、僕もそのとおりだと思うんだ…。"
+     1 string mchinese = "真好，我爸媽還是覺得我走的是歪路，是逃避學習不務正業。有時候我覺得…他們可能是對的…"
+   [25142]
+    0 TableSoItemLang data
+     0 int id = 1596171429
+     1 string schinese = "怎么回事啦这么丧，不是说好不容易决定了打职业，一定要证明自己吗？"
+     1 string schinese_censored = "怎么回事啦这么丧，不是说好不容易决定了打职业，一定要证明自己吗？"
+     1 string english = "What's with the low spirits. You gave your word that you would prove yourself since when you decided to go pro."
+     1 string japanese = "どうしたんだ。プロでやってくって覚悟を決めて、自分の力を証明するんじゃなかったのか？"
+     1 string mchinese = "怎麼回事啦這麼喪，不是說好不容易決定了打職業，一定要證明自己嗎？"
+   [25143]
+    0 TableSoItemLang data
+     0 int id = 1596171430
+     1 string schinese = "你有没有想过如果我们不打游戏不打职业，还能干什么？"
+     1 string schinese_censored = "你有没有想过如果我们不打游戏不打职业，还能干什么？"
+     1 string english = "Have you ever thought what we can do to make a living after we quit our e-sports careers?"
+     1 string japanese = "もしゲームをやらなくなったら何ができるって考えたことはあるか？"
+     1 string mchinese = "你有沒有想過如果我們不打遊戲不打職業，還能幹什麼？"
+   [25144]
+    0 TableSoItemLang data
+     0 int id = 1596171431
+     1 string schinese = "就算是打职业，我们这些只会打游戏的人万一碰到些意外，伤了手或者哪里坏了……"
+     1 string schinese_censored = "就算是打职业，我们这些只会打游戏的人万一碰到些意外，伤了手或者哪里坏了……"
+     1 string english = "All we pros are good at is gaming. What if we injure our hands or body by accident...?"
+     1 string japanese = "たとえプロになっても、僕たちみたいにゲームしかできない人間に何かあったら、手を怪我したら、どこか悪くなったら…。"
+     1 string mchinese = "就算是打職業，我們這些只會打遊戲的人萬一碰到些意外，傷了手或者哪里壞了……"
+   [25145]
+    0 TableSoItemLang data
+     0 int id = 1596171432
+     1 string schinese = "可能就连挣扎一下的机会都没有，直接就被宣布报废了。"
+     1 string schinese_censored = "可能就连挣扎一下的机会都没有，直接就被宣布报废了。"
+     1 string english = "If so, we will be judged as useless people before we can make any change."
+     1 string japanese = "きっと悪あがきする機会もなく捨てられちゃうさ。"
+     1 string mchinese = "可能就連掙扎一下的機會都沒有，直接就被宣佈報廢了。"
+   [25146]
+    0 TableSoItemLang data
+     0 int id = 1596171433
+     1 string schinese = "不趁年轻全力以赴才是真的废吧！动不动就想退路，你刚打职业时，说要打败我的劲头呢！"
+     1 string schinese_censored = "不趁年轻全力以赴才是真的废吧！动不动就想退路，你刚打职业时，说要打败我的劲头呢！"
+     1 string english = "You know what's utterly useless? The worries! They'll hinder your performance! Just live in the moment, OK? Where's the Mike that always says he will beat me?"
+     1 string japanese = "若いうちに全力でやらない方がダメだろ！すぐに逃げ道を考えるな！プロになったばっかりのとき、俺を倒すって言ってただろ！"
+     1 string mchinese = "不趁年輕全力以赴才是真的廢吧！動不動就想退路，你剛打職業時，說要打敗我的勁頭呢！"
+   [25147]
+    0 TableSoItemLang data
+     0 int id = 1596171434
+     1 string schinese = "（怔了几秒）好吧，可能是我想太多了。"
+     1 string schinese_censored = "（怔了几秒）好吧，可能是我想太多了。"
+     1 string english = "Fine.... Maybe I'm just overthinking."
+     1 string japanese = "（数秒考えて）わかった。僕の考えすぎだったかもしれない。"
+     1 string mchinese = "（怔了幾秒）好吧，可能是我想太多了。"
+   [25148]
+    0 TableSoItemLang data
+     0 int id = 1596171435
+     1 string schinese = "吃完了就走吧，我也要回基地训练了，明天赛场上见。"
+     1 string schinese_censored = "吃完了就走吧，我也要回基地训练了，明天赛场上见。"
+     1 string english = "Let's finish the meal and head back. I'm gonna continue training in my base. See you tomorrow on the stage."
+     1 string japanese = "食べたら行こう。僕はクラブに戻って練習するよ。また明日会場で会おう。"
+     1 string mchinese = "吃完了就走吧，我也要回基地訓練了，明天賽場上見。"
+   [25149]
+    0 TableSoItemLang data
+     0 int id = 1596171436
+     1 string schinese = "人型玩偶"
+     1 string schinese_censored = "人型玩偶"
+     1 string english = "Human Doll"
+     1 string japanese = "人型人形"
+     1 string mchinese = "人型玩偶"
+   [25150]
+    0 TableSoItemLang data
+     0 int id = 1596171437
+     1 string schinese = "顺其自然"
+     1 string schinese_censored = "顺其自然"
+     1 string english = "Whatever"
+     1 string japanese = "時と場合に応じて"
+     1 string mchinese = "順其自然"
+   [25151]
+    0 TableSoItemLang data
+     0 int id = 1596171438
+     1 string schinese = "复读机"
+     1 string schinese_censored = "复读机"
+     1 string english = "Repeater"
+     1 string japanese = "再生機"
+     1 string mchinese = "複讀機"
+   [25152]
+    0 TableSoItemLang data
+     0 int id = 1596171439
+     1 string schinese = "展览瓷娃娃"
+     1 string schinese_censored = "展览瓷娃娃"
+     1 string english = "Porcelain Doll"
+     1 string japanese = "陶製人形展"
+     1 string mchinese = "展覽瓷娃娃"
+   [25153]
+    0 TableSoItemLang data
+     0 int id = 1596171440
+     1 string schinese = "耗完电量再回家"
+     1 string schinese_censored = "耗完电量再回家"
+     1 string english = "Battery Out"
+     1 string japanese = "充電が切れたら帰る"
+     1 string mchinese = "耗完電量再回家"
+   [25154]
+    0 TableSoItemLang data
+     0 int id = 1596171441
+     1 string schinese = "好奇小精灵"
+     1 string schinese_censored = "好奇小精灵"
+     1 string english = "Curious Much"
+     1 string japanese = "好奇心旺盛"
+     1 string mchinese = "好奇小精靈"
+   [25155]
+    0 TableSoItemLang data
+     0 int id = 1596171442
+     1 string schinese = "秒睡天使"
+     1 string schinese_censored = "秒睡天使"
+     1 string english = "Sleeping Angel"
+     1 string japanese = "お眠り天使"
+     1 string mchinese = "秒睡天使"
+   [25156]
+    0 TableSoItemLang data
+     0 int id = 1596171443
+     1 string schinese = "熟背父母电话"
+     1 string schinese_censored = "熟背父母电话"
+     1 string english = "Memorize Phone Numbers"
+     1 string japanese = "ナンバーメモリー"
+     1 string mchinese = "熟背父母電話"
+   [25157]
+    0 TableSoItemLang data
+     0 int id = 1596171444
+     1 string schinese = "心算AI"
+     1 string schinese_censored = "心算AI"
+     1 string english = "Walking Calculator"
+     1 string japanese = "暗算マシン"
+     1 string mchinese = "心算AI"
+   [25158]
+    0 TableSoItemLang data
+     0 int id = 1596171445
+     1 string schinese = "字母歌演唱家"
+     1 string schinese_censored = "字母歌演唱家"
+     1 string english = "Alphabet Singer"
+     1 string japanese = "ＡＢＣ歌手"
+     1 string mchinese = "字母歌演唱家"
+   [25159]
+    0 TableSoItemLang data
+     0 int id = 1596171446
+     1 string schinese = "寻找牙仙子"
+     1 string schinese_censored = "寻找牙仙子"
+     1 string english = "The Tooth Fairy"
+     1 string japanese = "歯の妖精はどこ？"
+     1 string mchinese = "尋找牙仙子"
+   [25160]
+    0 TableSoItemLang data
+     0 int id = 1596171447
+     1 string schinese = "不被叫家长"

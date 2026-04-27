@@ -1,0 +1,184 @@
+     1 string schinese_censored = "学习经济"基础理财"课程"
+     1 string english = "Study the [Financing 101] economy class."
+     1 string japanese = "経済の学習で「ファイナンス入門」を学ぶ"
+     1 string mchinese = "學習經濟"基礎理財"課程"
+   [29002]
+    0 TableSoItemLang data
+     0 int id = 1034040
+     1 string schinese = "学习演艺"演技培训"课程"
+     1 string schinese_censored = "学习演艺"演技培训"课程"
+     1 string english = "Study the [Acting Training] performing arts class."
+     1 string japanese = "演芸の学習で「演技訓練」を学ぶ"
+     1 string mchinese = "學習演藝"演技培訓"課程"
+   [29003]
+    0 TableSoItemLang data
+     0 int id = 1034041
+     1 string schinese = "学习主持"普通话语音基础"课程"
+     1 string schinese_censored = "学习主持"普通话语音基础"课程"
+     1 string english = "Study the [Basic Mandarin Speaking] host class."
+     1 string japanese = "司会の学習で「標準語発声基礎」を学ぶ"
+     1 string mchinese = "學習主持"普通話語音基礎"課程"
+   [29004]
+    0 TableSoItemLang data
+     0 int id = 1034042
+     1 string schinese = "学习中餐"刀工课"课程"
+     1 string schinese_censored = "学习中餐"刀工课"课程"
+     1 string english = "Study the [Knife Technique] Chinese cuisine class."
+     1 string japanese = "中華料理の学習で「包丁使い」を学ぶ"
+     1 string mchinese = "學習中餐"刀工課"課程"
+   [29005]
+    0 TableSoItemLang data
+     0 int id = 1034043
+     1 string schinese = "学习动漫"基础素描"课程"
+     1 string schinese_censored = "学习动漫"基础素描"课程"
+     1 string english = "Study the [Basic Sketching] anime class."
+     1 string japanese = "漫画・アニメの学習で「基礎デッサン」を学ぶ"
+     1 string mchinese = "學習動漫"基礎素描"課程"
+   [29006]
+    0 TableSoItemLang data
+     0 int id = 1034044
+     1 string schinese = "学习动漫"动画基础教程"课程"
+     1 string schinese_censored = "学习动漫"动画基础教程"课程"
+     1 string english = "Study the [Anime Basics] anime class."
+     1 string japanese = "漫画・アニメの学習で「アニメ基礎課程」を学ぶ"
+     1 string mchinese = "學習動漫"動畫基礎教程"課程"
+   [29007]
+    0 TableSoItemLang data
+     0 int id = 1034045
+     1 string schinese = "学习沟通"说服"课程"
+     1 string schinese_censored = "学习沟通"说服"课程"
+     1 string english = "Study the [Persuade] communication class."
+     1 string japanese = "意思疎通の学習で「説得」を学ぶ"
+     1 string mchinese = "學習溝通"說服"課程"
+   [29008]
+    0 TableSoItemLang data
+     0 int id = 1034046
+     1 string schinese = "学习忍术"忍者文化"课程"
+     1 string schinese_censored = "学习忍术"忍者文化"课程"
+     1 string english = "Study the [Ninja Culture] ninja class."
+     1 string japanese = "忍術の学習で「忍者文化」を学ぶ"
+     1 string mchinese = "學習忍術"忍者文化"課程"
+   [29009]
+    0 TableSoItemLang data
+     0 int id = 1034047
+     1 string schinese = "学习艺术"涂鸦"课程"
+     1 string schinese_censored = "学习艺术"涂鸦"课程"
+     1 string english = "Study the [Doodling] fine arts class."
+     1 string japanese = "芸術の学習で「グラフィティ」を学ぶ"
+     1 string mchinese = "學習藝術"塗鴉"課程"
+   [29010]
+    0 TableSoItemLang data
+     0 int id = 1034048
+     1 string schinese = "学习电竞"电竞入门"课程"
+     1 string schinese_censored = "学习电竞"电竞入门"课程"
+     1 string english = "Study the [E-Sports 101] class."
+     1 string japanese = "ｅスポーツの学習で「ｅスポーツ入門」を学ぶ"
+     1 string mchinese = "學習電競"電競入門"課程"
+   [29011]
+    0 TableSoItemLang data
+     0 int id = 1034049
+     1 string schinese = "学习程序"游戏引擎架构"课程"
+     1 string schinese_censored = "学习程序"游戏引擎架构"课程"
+     1 string english = "Study the [Game Engine Architecture] programming class."
+     1 string japanese = "プログラミングの学習で「ゲームエンジン」を学ぶ"
+     1 string mchinese = "學習程式"遊戲引擎架構"課程"
+   [29012]
+    0 TableSoItemLang data
+     0 int id = 1034050
+     1 string schinese = "学习程序"超文本预处理"课程"
+     1 string schinese_censored = "学习程序"超文本预处理"课程"
+     1 string english = "Study the [PHP Language] programming class."
+     1 string japanese = "プログラミングの学習で「ＰＨＰ言語」を学ぶ"
+     1 string mchinese = "學習程式"超文本預處理"課程"
+   [29013]
+    0 TableSoItemLang data
+     0 int id = 1034051
+     1 string schinese = "学习演艺制作人"明星运营"课程"
+     1 string schinese_censored = "学习演艺制作人"明星运营"课程"
+     1 string english = "Study the [Show Producer] performing arts class."
+     1 string japanese = "演芸製作者の学習で「スタープロデュース」を学ぶ"
+     1 string mchinese = "學習演藝製作人"明星運營"課程"
+   [29014]
+    0 TableSoItemLang data
+     0 int id = 1034052
+     1 string schinese = "学习数学·学术"高等数学"课程"
+     1 string schinese_censored = "学习数学·学术"高等数学"课程"
+     1 string english = "Study the [Advanced Mathematics] academic math class."
+     1 string japanese = "学術的数学の学習で「高等数学」を学ぶ"
+     1 string mchinese = "學習數學·學術"高等數學"課程"
+   [29015]
+    0 TableSoItemLang data
+     0 int id = 1034053
+     1 string schinese = "没啥好说的，你爸爸就是你爸爸。"
+     1 string schinese_censored = "没啥好说的，你爸爸就是你爸爸。"
+     1 string english = "Well, your dad's your dad... That's about it."
+     1 string japanese = "何ということはない、父親は父親だ。"
+     1 string mchinese = "沒啥好說的，你爸爸就是你爸爸。"
+   [29016]
+    0 TableSoItemLang data
+     0 int id = 1034054
+     1 string schinese = "没啥好说的，你妈妈就是你妈妈。"
+     1 string schinese_censored = "没啥好说的，你妈妈就是你妈妈。"
+     1 string english = "Well, your mom's your mom... That's about it."
+     1 string japanese = "何ということはない、母親は母親だ。"
+     1 string mchinese = "沒啥好說的，你媽媽就是你媽媽。"
+   [29017]
+    0 TableSoItemLang data
+     0 int id = 1034055
+     1 string schinese = "没啥好说的，你奶奶就是你爸爸的妈妈。"
+     1 string schinese_censored = "没啥好说的，你奶奶就是你爸爸的妈妈。"
+     1 string english = "Well, your grandma's your dad's mom... That's about it."
+     1 string japanese = "何ということはない、祖母は父親の母親だ。"
+     1 string mchinese = "沒啥好說的，你奶奶就是你爸爸的媽媽。"
+   [29018]
+    0 TableSoItemLang data
+     0 int id = 1034056
+     1 string schinese = "才艺有华邵，华邵有才艺！我说华邵你说哟！让我听到你们的尖叫声！~"
+     1 string schinese_censored = "才艺有华邵，华邵有才艺！我说华邵你说哟！让我听到你们的尖叫声！~"
+     1 string english = "Yo, hey, Sony Hua is in the show! I say Sony, you say hey! Let me hear you scream!"
+     1 string japanese = "オーディションといえばこの人！さあ、キミたちの声を聞かせてくれ！"
+     1 string mchinese = "才藝有華邵，華邵有才藝！我說華邵你說喲！讓我聽到你們的尖叫聲！~"
+   [29019]
+    0 TableSoItemLang data
+     0 int id = 1034057
+     1 string schinese = "同一个世界，同一个梦想，同一款班主任。"
+     1 string schinese_censored = "同一个世界，同一个梦想，同一款班主任。"
+     1 string english = "One world, one dream, one teacher."
+     1 string japanese = "同じ世界、同じ夢、同じクラスの担任。"
+     1 string mchinese = "同一個世界，同一個夢想，同一款班主任。"
+   [29020]
+    0 TableSoItemLang data
+     0 int id = 1034058
+     1 string schinese = "一学期也见不到几次的体育老师。被抢走的体育课，什么时候才能还回来呢……"
+     1 string schinese_censored = "一学期也见不到几次的体育老师。被抢走的体育课，什么时候才能还回来呢……"
+     1 string english = "Where's our PE teacher gone? What about our PE classes?!"
+     1 string japanese = "１学期の間、ほとんど姿を見せない体育教師。授業は埋め合わせされるのだろうか…。"
+     1 string mchinese = "一學期也見不到幾次的體育老師。被搶走的體育課，什麼時候才能還回來呢……"
+   [29021]
+    0 TableSoItemLang data
+     0 int id = 1034059
+     1 string schinese = "苏豪，见过他那嘎达凌晨四点的太阳，学生时代的体育传说！教练！他想打篮球！"
+     1 string schinese_censored = "苏豪，见过他那嘎达凌晨四点的太阳，学生时代的体育传说！教练！他想打篮球！"
+     1 string english = "Often on the court at dawn break! Coach! He wants to ball!"
+     1 string japanese = "朝４時から練習を始め、学生時代に伝説となった。コーチ、バスケがしたいです！"
+     1 string mchinese = "蘇豪，見過他那嘎達淩晨四點的太陽，學生時代的體育傳說！教練！他想打籃球！"
+   [29022]
+    0 TableSoItemLang data
+     0 int id = 1034060
+     1 string schinese = "北腿，当红炸子鸡，全球知名唱作人，最爱是奶茶。"
+     1 string schinese_censored = "北腿，当红炸子鸡，全球知名唱作人，最爱是奶茶。"
+     1 string english = "A world-renown singer who loves milk tea."
+     1 string japanese = "世界的に活躍するシンガーソングライターでインフルエンサー。ミルクティーが大好き。"
+     1 string mchinese = "北腿，當紅炸子雞，全球知名唱作人，最愛是奶茶。"
+   [29023]
+    0 TableSoItemLang data
+     0 int id = 1034061
+     1 string schinese = "聪聪，除了完成父亲给他的小目标，还在电竞圈娱乐圈两开花！"
+     1 string schinese_censored = "聪聪，除了完成父亲给他的小目标，还在电竞圈娱乐圈两开花！"
+     1 string english = "Earned a fortune. Active in E-sports and entertainment!"
+     1 string japanese = "小さな目標を達成したうえ、ｅスポーツ界と芸能界の二足のわらじで活躍中！"
+     1 string mchinese = "聰聰，除了完成父親給他的小目標，還在電競圈娛樂圈兩開花！"
+   [29024]
+    0 TableSoItemLang data
+     0 int id = 1034062
+     1 string schinese = "老吴，坚守演员品格的实力派演员，值得尊敬！"

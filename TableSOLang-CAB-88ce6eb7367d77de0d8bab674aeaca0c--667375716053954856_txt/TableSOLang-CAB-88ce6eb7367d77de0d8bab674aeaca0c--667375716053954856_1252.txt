@@ -1,0 +1,184 @@
+     1 string schinese_censored = "我买个装备去去就回，你们就在此地，不要送。\n\n【想象力】【体魄】【魅力】属性越高，学习消耗的悟性越少。\n\n最低只需消耗120点悟性。"
+     1 string english = "I'll just head back to get some new items, see ya!\n\nKnowledge cost decreases with [Imagination], [Constitution], and [Charm].\n\nMinimum Knowledge Cost: 120"
+     1 string japanese = "装備を買ってくる。キミたちはここにいてくれ。見送りはいらない。\n\n【想像力】【体力】【魅力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:120"
+     1 string mchinese = "我買個裝備去去就回，你們就在此地，不要送。\n\n【想像力】【體魄】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗120點悟性。"
+   [28772]
+    0 TableSoItemLang data
+     0 int id = 8210401
+     1 string schinese = "十分钟稳定压八百刀\n\n【智商】【情商】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗40点悟性。"
+     1 string schinese_censored = "十分钟稳定压八百刀\n\n【智商】【情商】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗40点悟性。"
+     1 string english = "A solid 800 last hits by the ten-minute mark!\n\nKnowledge cost decreases with [EQ], [IQ], and [Constitution].\n\nMinimum Knowledge Cost: 40"
+     1 string japanese = "１０分で安定して８００ＣＳリード。\n\n【ＩＱ】【ＥＱ】【体力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:40"
+     1 string mchinese = "十分鐘穩定壓八百刀\n\n【智商】【情商】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗40點悟性。"
+   [28773]
+    0 TableSoItemLang data
+     0 int id = 8210402
+     1 string schinese = "十分钟稳定压八百刀\n\n【智商】【情商】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗50点悟性。"
+     1 string schinese_censored = "十分钟稳定压八百刀\n\n【智商】【情商】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗50点悟性。"
+     1 string english = "A solid 800 last hits by the ten-minute mark!\n\nKnowledge cost decreases with [EQ], [IQ], and [Constitution].\n\nMinimum Knowledge Cost: 50"
+     1 string japanese = "１０分で安定して８００ＣＳリード。\n\n【ＩＱ】【ＥＱ】【体力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:50"
+     1 string mchinese = "十分鐘穩定壓八百刀\n\n【智商】【情商】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗50點悟性。"
+   [28774]
+    0 TableSoItemLang data
+     0 int id = 8210403
+     1 string schinese = "十分钟稳定压八百刀\n\n【智商】【情商】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗60点悟性。"
+     1 string schinese_censored = "十分钟稳定压八百刀\n\n【智商】【情商】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗60点悟性。"
+     1 string english = "A solid 800 last hits by the ten-minute mark!\n\nKnowledge cost decreases with [EQ], [IQ], and [Constitution].\n\nMinimum Knowledge Cost: 60"
+     1 string japanese = "１０分で安定して８００ＣＳリード。\n\n【ＩＱ】【ＥＱ】【体力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:60"
+     1 string mchinese = "十分鐘穩定壓八百刀\n\n【智商】【情商】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗60點悟性。"
+   [28775]
+    0 TableSoItemLang data
+     0 int id = 8210404
+     1 string schinese = "浪是不可能浪的，这辈子都不可能浪的。只有稳健才能维持的了生活这样子。\n\n【智商】【情商】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗60点悟性。"
+     1 string schinese_censored = "浪是不可能浪的，这辈子都不可能浪的。只有稳健才能维持的了生活这样子。\n\n【智商】【情商】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗60点悟性。"
+     1 string english = "There's no fooling around. You gotta make every single match count!\n\nKnowledge cost decreases with [IQ], [EQ], and [Constitution].\n\nMinimum Knowledge Cost: 60"
+     1 string japanese = "試合は壊さない。流石だよな、俺達。\n\n【ＩＱ】【ＥＱ】【体力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:60"
+     1 string mchinese = "浪是不可能浪的，這輩子都不可能浪的。只有穩健才能維持的了生活這樣子。\n\n【智商】【情商】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗60點悟性。"
+   [28776]
+    0 TableSoItemLang data
+     0 int id = 8210405
+     1 string schinese = "浪是不可能浪的，这辈子都不可能浪的。只有稳健才能维持的了生活这样子。\n\n【智商】【情商】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗70点悟性。"
+     1 string schinese_censored = "浪是不可能浪的，这辈子都不可能浪的。只有稳健才能维持的了生活这样子。\n\n【智商】【情商】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗70点悟性。"
+     1 string english = "There's no fooling around. You gotta make every single match count!\n\nKnowledge cost decreases with [IQ], [EQ], and [Constitution].\n\nMinimum Knowledge Cost: 70"
+     1 string japanese = "試合は壊さない。流石だよな、俺達。\n\n【ＩＱ】【ＥＱ】【体力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:70"
+     1 string mchinese = "浪是不可能浪的，這輩子都不可能浪的。只有穩健才能維持的了生活這樣子。\n\n【智商】【情商】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗70點悟性。"
+   [28777]
+    0 TableSoItemLang data
+     0 int id = 8210406
+     1 string schinese = "浪是不可能浪的，这辈子都不可能浪的。只有稳健才能维持的了生活这样子。\n\n【智商】【情商】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗70点悟性。"
+     1 string schinese_censored = "浪是不可能浪的，这辈子都不可能浪的。只有稳健才能维持的了生活这样子。\n\n【智商】【情商】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗70点悟性。"
+     1 string english = "There's no fooling around. You gotta make every single match count!\n\nKnowledge cost decreases with [IQ], [EQ], and [Constitution].\n\nMinimum Knowledge Cost: 70"
+     1 string japanese = "試合は壊さない。流石だよな、俺達。\n\n【ＩＱ】【ＥＱ】【体力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:70"
+     1 string mchinese = "浪是不可能浪的，這輩子都不可能浪的。只有穩健才能維持的了生活這樣子。\n\n【智商】【情商】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗70點悟性。"
+   [28778]
+    0 TableSoItemLang data
+     0 int id = 8210407
+     1 string schinese = "你问我为什么大比分落后还在笑？因为我想起高兴的事情！\n\n【智商】【情商】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗80点悟性。"
+     1 string schinese_censored = "你问我为什么大比分落后还在笑？因为我想起高兴的事情！\n\n【智商】【情商】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗80点悟性。"
+     1 string english = "Why I'm still laughing? Because I thought of something funny!\n\nKnowledge cost decreases with [EQ], [IQ], and [Constitution].\n\nMinimum Knowledge Cost: 80"
+     1 string japanese = "なぜ大量リードされているのに笑っているのかって？うれしいことを思い出したからだよ！\n\n【ＩＱ】【ＥＱ】【体力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:80"
+     1 string mchinese = "你問我為什麼大比分落後還在笑？因為我想起高興的事情！\n\n【智商】【情商】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗80點悟性。"
+   [28779]
+    0 TableSoItemLang data
+     0 int id = 8210408
+     1 string schinese = "你问我为什么大比分落后还在笑？因为我想起高兴的事情！\n\n【智商】【情商】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗90点悟性。"
+     1 string schinese_censored = "你问我为什么大比分落后还在笑？因为我想起高兴的事情！\n\n【智商】【情商】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗90点悟性。"
+     1 string english = "Why I'm still laughing? Because I thought of something funny!\n\nKnowledge cost decreases with [EQ], [IQ], and [Constitution].\n\nMinimum Knowledge Cost: 90"
+     1 string japanese = "なぜ大量リードされているのに笑っているのかって？うれしいことを思い出したからだよ！\n\n【ＩＱ】【ＥＱ】【体力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:90"
+     1 string mchinese = "你問我為什麼大比分落後還在笑？因為我想起高興的事情！\n\n【智商】【情商】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗90點悟性。"
+   [28780]
+    0 TableSoItemLang data
+     0 int id = 8210409
+     1 string schinese = "你问我为什么大比分落后还在笑？因为我想起高兴的事情！\n\n【智商】【情商】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗100点悟性。"
+     1 string schinese_censored = "你问我为什么大比分落后还在笑？因为我想起高兴的事情！\n\n【智商】【情商】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗100点悟性。"
+     1 string english = "Why I'm still laughing? Because I thought of something funny!\n\nKnowledge cost decreases with [EQ], [IQ], and [Constitution].\n\nMinimum Knowledge Cost: 100"
+     1 string japanese = "なぜ大量リードされているのに笑っているのかって？うれしいことを思い出したからだよ！\n\n【ＩＱ】【ＥＱ】【体力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:100"
+     1 string mchinese = "你問我為什麼大比分落後還在笑？因為我想起高興的事情！\n\n【智商】【情商】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗100點悟性。"
+   [28781]
+    0 TableSoItemLang data
+     0 int id = 8210410
+     1 string schinese = "也许有一天我会被打倒，但不是今天。\n\n【智商】【情商】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗120点悟性。"
+     1 string schinese_censored = "也许有一天我会被打倒，但不是今天。\n\n【智商】【情商】【体魄】属性越高，学习消耗的悟性越少。\n\n最低只需消耗120点悟性。"
+     1 string english = "Perhaps I'll be defeated one day. Just not today.\n\nKnowledge cost decreases with [IQ], [EQ], and [Constitution].\n\nMinimum Knowledge Cost: 120"
+     1 string japanese = "いつか、誰かに敗れるかもしれない。しかし、今日ではない。\n\n【ＩＱ】【ＥＱ】【体力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:120"
+     1 string mchinese = "也許有一天我會被打倒，但不是今天。\n\n【智商】【情商】【體魄】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗120點悟性。"
+   [28782]
+    0 TableSoItemLang data
+     0 int id = 8210501
+     1 string schinese = "什么梗都能接什么梗都能玩儿！新时代的语言大师！\n\n【想象力】【体魄】【魅力】属性越高，学习消耗的悟性越少。\n\n最低只需消耗40点悟性。"
+     1 string schinese_censored = "什么梗都能接什么梗都能玩儿！新时代的语言大师！\n\n【想象力】【体魄】【魅力】属性越高，学习消耗的悟性越少。\n\n最低只需消耗40点悟性。"
+     1 string english = "I can throw puns better than any dad!\n\nKnowledge cost decreases with [Imagination], [Constitution], and [Charm].\n\nMinimum Knowledge Cost: 40"
+     1 string japanese = "どんなスラングも使いこなせる！新世代の言語マスター！\n\n【想像力】【体力】【魅力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:40"
+     1 string mchinese = "什麼梗都能接什麼梗都能玩兒！新時代的語言大師！\n\n【想像力】【體魄】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗40點悟性。"
+   [28783]
+    0 TableSoItemLang data
+     0 int id = 8210502
+     1 string schinese = "“公屏们！把666刷在兄弟上！”\n\n【想象力】【体魄】【魅力】属性越高，学习消耗的悟性越少。\n\n最低只需消耗50点悟性。"
+     1 string schinese_censored = "“公屏们！把666刷在兄弟上！”\n\n【想象力】【体魄】【魅力】属性越高，学习消耗的悟性越少。\n\n最低只需消耗50点悟性。"
+     1 string english = "Brooos, let's get 'em!!!!\n\nKnowledge cost decreases with [Imagination], [Constitution], and [Charm].\n\nMinimum Knowledge Cost: 50"
+     1 string japanese = "「みんな！もっと誉めて！」\n\n【想像力】【体力】【魅力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:50"
+     1 string mchinese = "“公屏們！把666刷在兄弟上！”\n\n【想像力】【體魄】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗50點悟性。"
+   [28784]
+    0 TableSoItemLang data
+     0 int id = 8210503
+     1 string schinese = "“既然大家强烈要求，那我就献丑了，来一首《忐忑》！”\n\n【想象力】【体魄】【魅力】属性越高，学习消耗的悟性越少。\n\n最低只需消耗60点悟性。"
+     1 string schinese_censored = "“既然大家强烈要求，那我就献丑了，来一首《忐忑》！”\n\n【想象力】【体魄】【魅力】属性越高，学习消耗的悟性越少。\n\n最低只需消耗60点悟性。"
+     1 string english = "Seeing as everyone wants me to. Time for a song!\n\nKnowledge cost decreases with [Imagination], [Constitution], and [Charm].\n\nMinimum Knowledge Cost: 60"
+     1 string japanese = "「そこまで言うなら、聴いてください。『不安』！」\n\n【想像力】【体力】【魅力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:60"
+     1 string mchinese = "“既然大家強烈要求，那我就獻醜了，來一首《忐忑》！”\n\n【想像力】【體魄】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗60點悟性。"
+   [28785]
+    0 TableSoItemLang data
+     0 int id = 8210504
+     1 string schinese = "我的直播风格就是没有风格！\n\n【想象力】【体魄】【魅力】属性越高，学习消耗的悟性越少。\n\n最低只需消耗70点悟性。"
+     1 string schinese_censored = "我的直播风格就是没有风格！\n\n【想象力】【体魄】【魅力】属性越高，学习消耗的悟性越少。\n\n最低只需消耗70点悟性。"
+     1 string english = "My streamer style is that I have no style!\n\nKnowledge cost decreases with [Imagination], [Constitution], and [Charm].\n\nMinimum Knowledge Cost: 70"
+     1 string japanese = "特徴がないのが俺の配信スタイル！\n\n【想像力】【体力】【魅力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:70"
+     1 string mchinese = "我的直播風格就是沒有風格！\n\n【想像力】【體魄】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗70點悟性。"
+   [28786]
+    0 TableSoItemLang data
+     0 int id = 8210505
+     1 string schinese = "只要有路人缘，说什么都对！\n\n【想象力】【体魄】【魅力】属性越高，学习消耗的悟性越少。\n\n最低只需消耗80点悟性。"
+     1 string schinese_censored = "只要有路人缘，说什么都对！\n\n【想象力】【体魄】【魅力】属性越高，学习消耗的悟性越少。\n\n最低只需消耗80点悟性。"
+     1 string english = "Anything's fine, as long as I remain popular!\n\nKnowledge cost decreases with [Imagination], [Constitution], and [Charm].\n\nMinimum Knowledge Cost: 80"
+     1 string japanese = "万人受けするなら、何を言ってもいい！\n\n【想像力】【体力】【魅力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:80"
+     1 string mchinese = "只要有路人緣，說什麼都對！\n\n【想像力】【體魄】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗80點悟性。"
+   [28787]
+    0 TableSoItemLang data
+     0 int id = 8210601
+     1 string schinese = "口条顺是吐槽的必要条件！\n\n【情商】【想象力】【魅力】属性越高，学习消耗的悟性越少。\n\n最低只需消耗40点悟性。"
+     1 string schinese_censored = "口条顺是吐槽的必要条件！\n\n【情商】【想象力】【魅力】属性越高，学习消耗的悟性越少。\n\n最低只需消耗40点悟性。"
+     1 string english = "Gotta learn how to flame like a pro!\n\nKnowledge cost decreases with [EQ], [Imagination], and [Charm].\n\nMinimum Knowledge Cost: 40"
+     1 string japanese = "口がよく回ることはツッコミの必要条件！\n\n【ＥＱ】【想像力】【魅力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:40"
+     1 string mchinese = "口條順是吐槽的必要條件！\n\n【情商】【想像力】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗40點悟性。"
+   [28788]
+    0 TableSoItemLang data
+     0 int id = 8210602
+     1 string schinese = "口播宝才就是我，金主爸爸捡到鬼了！\n\n【情商】【想象力】【魅力】属性越高，学习消耗的悟性越少。\n\n最低只需消耗50点悟性。"
+     1 string schinese_censored = "口播宝才就是我，金主爸爸捡到鬼了！\n\n【情商】【想象力】【魅力】属性越高，学习消耗的悟性越少。\n\n最低只需消耗50点悟性。"
+     1 string english = "Gotta learn how to flame like a PRO!\n\nKnowledge cost decreases with [EQ], [Imagination], and [Charm].\n\nMinimum Knowledge Cost: 50"
+     1 string japanese = "しゃべりの天才とは俺のこと。スポンサーは得したね！\n\n【ＥＱ】【想像力】【魅力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:50"
+     1 string mchinese = "口播寶才就是我，金主爸爸撿到鬼了！\n\n【情商】【想像力】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗50點悟性。"
+   [28789]
+    0 TableSoItemLang data
+     0 int id = 8210603
+     1 string schinese = "口吐骚话，脑随嘴动！\n\n【情商】【想象力】【魅力】属性越高，学习消耗的悟性越少。\n\n最低只需消耗60点悟性。"
+     1 string schinese_censored = "口吐骚话，脑随嘴动！\n\n【情商】【想象力】【魅力】属性越高，学习消耗的悟性越少。\n\n最低只需消耗60点悟性。"
+     1 string english = "I just go with the flow and say what I think!\n\nKnowledge cost decreases with [EQ], [Imagination], and [Charm].\n\nMinimum Knowledge Cost: 60"
+     1 string japanese = "思いついた口説き文句がすぐに口から出てしまう！\n\n【ＥＱ】【想像力】【魅力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:60"
+     1 string mchinese = "口吐騷話，腦隨嘴動！\n\n【情商】【想像力】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗60點悟性。"
+   [28790]
+    0 TableSoItemLang data
+     0 int id = 8210604
+     1 string schinese = "救下冷场，就能收获搭档感激的眼神。\n\n【情商】【想象力】【魅力】属性越高，学习消耗的悟性越少。\n\n最低只需消耗70点悟性。"
+     1 string schinese_censored = "救下冷场，就能收获搭档感激的眼神。\n\n【情商】【想象力】【魅力】属性越高，学习消耗的悟性越少。\n\n最低只需消耗70点悟性。"
+     1 string english = "Save the situation and they'll all thank you!\n\nKnowledge cost decreases with [EQ], [Imagination], and [Charm].\n\nMinimum Knowledge Cost: 70"
+     1 string japanese = "場を盛り上げると、パートナーから感謝される。\n\n【ＥＱ】【想像力】【魅力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:70"
+     1 string mchinese = "救下冷場，就能收穫搭檔感激的眼神。\n\n【情商】【想像力】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗70點悟性。"
+   [28791]
+    0 TableSoItemLang data
+     0 int id = 8210605
+     1 string schinese = "早期的电子竞技全都是泪。\n\n【情商】【想象力】【魅力】属性越高，学习消耗的悟性越少。\n\n最低只需消耗80点悟性。"
+     1 string schinese_censored = "早期的电子竞技全都是泪。\n\n【情商】【想象力】【魅力】属性越高，学习消耗的悟性越少。\n\n最低只需消耗80点悟性。"
+     1 string english = "E-sports was all about tears in the beginning!\n\nKnowledge cost decreases with [EQ], [Imagination], and [Charm].\n\nMinimum Knowledge Cost: 80"
+     1 string japanese = "ｅスポーツの歴史は涙なしでは語れない。\n\n【ＥＱ】【想像力】【魅力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:80"
+     1 string mchinese = "早期的電子競技全都是淚。\n\n【情商】【想像力】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗80點悟性。"
+   [28792]
+    0 TableSoItemLang data
+     0 int id = 8210606
+     1 string schinese = "团战解说需要具备超快的嘴速，skr！\n\n【情商】【想象力】【魅力】属性越高，学习消耗的悟性越少。\n\n最低只需消耗80点悟性。"
+     1 string schinese_censored = "团战解说需要具备超快的嘴速，skr！\n\n【情商】【想象力】【魅力】属性越高，学习消耗的悟性越少。\n\n最低只需消耗80点悟性。"
+     1 string english = "You need to be a fast speaker for team fight commentary!\n\nKnowledge cost decreases with [EQ], [Imagination], and [Charm].\n\nMinimum Knowledge Cost: 80"
+     1 string japanese = "集団戦の解説にはよく回る口が要求される。大変！\n\n【ＥＱ】【想像力】【魅力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:80"
+     1 string mchinese = "團戰解說需要具備超快的嘴速，skr！\n\n【情商】【想像力】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗80點悟性。"
+   [28793]
+    0 TableSoItemLang data
+     0 int id = 8210607
+     1 string schinese = "看我根据比赛场面即兴吟诗一首！\n\n【情商】【想象力】【魅力】属性越高，学习消耗的悟性越少。\n\n最低只需消耗90点悟性。"
+     1 string schinese_censored = "看我根据比赛场面即兴吟诗一首！\n\n【情商】【想象力】【魅力】属性越高，学习消耗的悟性越少。\n\n最低只需消耗90点悟性。"
+     1 string english = "Hey, I'll make an impromptu poem about the match!\n\nKnowledge cost decreases with [EQ], [Imagination], and [Charm].\n\nMinimum Knowledge Cost: 90"
+     1 string japanese = "試合中に即興で一句読ませてもらおう！\n\n【ＥＱ】【想像力】【魅力】が高いほど消費理解力は少なくなる。\n\n最低消費理解力:90"
+     1 string mchinese = "看我根據比賽場面即興吟詩一首！\n\n【情商】【想像力】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低只需消耗90點悟性。"
+   [28794]
+    0 TableSoItemLang data
+     0 int id = 8210701
+     1 string schinese = "3个打1个被反杀，会不会玩！？\n\n【智商】【体魄】【魅力】属性越高，学习消耗的悟性越少。\n\n最低只需消耗50点悟性。"

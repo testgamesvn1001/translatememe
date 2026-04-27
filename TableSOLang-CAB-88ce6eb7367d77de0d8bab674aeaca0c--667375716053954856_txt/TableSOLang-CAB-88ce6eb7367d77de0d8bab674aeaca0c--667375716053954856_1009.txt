@@ -1,0 +1,184 @@
+     1 string schinese_censored = "考上清华大学3次"
+     1 string english = "Get accepted into Tsinghua University 3 times."
+     1 string japanese = "清華大学に３回合格する"
+     1 string mchinese = "考上清華大學3次"
+   [23183]
+    0 TableSoItemLang data
+     0 int id = 881071
+     1 string schinese = "考上北京大学1次"
+     1 string schinese_censored = "考上北京大学1次"
+     1 string english = "Get accepted into Peking University 1 time."
+     1 string japanese = "北京大学に１回合格する"
+     1 string mchinese = "考上北京大學1次"
+   [23184]
+    0 TableSoItemLang data
+     0 int id = 881072
+     1 string schinese = "考上北京大学2次"
+     1 string schinese_censored = "考上北京大学2次"
+     1 string english = "Get accepted into Peking University 2 times."
+     1 string japanese = "北京大学に２回合格する"
+     1 string mchinese = "考上北京大學2次"
+   [23185]
+    0 TableSoItemLang data
+     0 int id = 881073
+     1 string schinese = "考上北京大学3次"
+     1 string schinese_censored = "考上北京大学3次"
+     1 string english = "Get accepted into Peking University 3 times."
+     1 string japanese = "北京大学に３回合格する"
+     1 string mchinese = "考上北京大學3次"
+   [23186]
+    0 TableSoItemLang data
+     0 int id = 881074
+     1 string schinese = "后代零花钱50以上"
+     1 string schinese_censored = "后代零花钱50以上"
+     1 string english = "Have >50 Money for following generations."
+     1 string japanese = "子どものお小遣いが50以上になる"
+     1 string mchinese = "後代零花錢50以上"
+   [23187]
+    0 TableSoItemLang data
+     0 int id = 881075
+     1 string schinese = "后代零花钱75以上"
+     1 string schinese_censored = "后代零花钱75以上"
+     1 string english = "Have >75 Money for following generations."
+     1 string japanese = "子どものお小遣いが75以上になる"
+     1 string mchinese = "後代零花錢75以上"
+   [23188]
+    0 TableSoItemLang data
+     0 int id = 881076
+     1 string schinese = "后代零花钱100以上"
+     1 string schinese_censored = "后代零花钱100以上"
+     1 string english = "Have >100 Money for following generations."
+     1 string japanese = "子どものお小遣いが100以上になる"
+     1 string mchinese = "後代零花錢100以上"
+   [23189]
+    0 TableSoItemLang data
+     0 int id = 881077
+     1 string schinese = "特长收集度超过25%"
+     1 string schinese_censored = "特长收集度超过25%"
+     1 string english = "Collect >25% traits."
+     1 string japanese = "特技収集進度が25%を超える"
+     1 string mchinese = "特長收集度超過25%"
+   [23190]
+    0 TableSoItemLang data
+     0 int id = 881078
+     1 string schinese = "特长收集度超过50%"
+     1 string schinese_censored = "特长收集度超过50%"
+     1 string english = "Collect >50% traits."
+     1 string japanese = "特技収集進度が50%を超える"
+     1 string mchinese = "特長收集度超過50%"
+   [23191]
+    0 TableSoItemLang data
+     0 int id = 881079
+     1 string schinese = "特长收集度超过75%"
+     1 string schinese_censored = "特长收集度超过75%"
+     1 string english = "Collect >75% traits."
+     1 string japanese = "特技収集進度が75%を超える"
+     1 string mchinese = "特長收集度超過75%"
+   [23192]
+    0 TableSoItemLang data
+     0 int id = 881080
+     1 string schinese = "特长收集度达到100%"
+     1 string schinese_censored = "特长收集度达到100%"
+     1 string english = "Collect all traits."
+     1 string japanese = "特技収集進度が100%になる"
+     1 string mchinese = "特長收集度達到100%"
+   [23193]
+    0 TableSoItemLang data
+     0 int id = 890000
+     1 string schinese = "只要分数考得高，什么都好说！爸爸妈妈这辈子就指望培养个大学生，光宗耀祖啊！"
+     1 string schinese_censored = "只要分数考得高，什么都好说！爸爸妈妈这辈子就指望培养个大学生，光宗耀祖啊！"
+     1 string english = "As long as you get high score on exams! You're our chance to have a university student in the family!"
+     1 string japanese = "テストの点が良ければ何でもいい！子どもには大学に行ってほしい。一族に名を残してくれ！"
+     1 string mchinese = "只要分數考得高，什麼都好說！爸爸媽媽這輩子就指望培養個大學生，光宗耀祖啊！"
+   [23194]
+    0 TableSoItemLang data
+     0 int id = 891000
+     1 string schinese = "龙生龙凤生凤，爸爸妈妈这辈子努力工作，给你把路都铺好了，你别想那些有的没的，按照我们的安排一步一步走就行了！"
+     1 string schinese_censored = "龙生龙凤生凤，爸爸妈妈这辈子努力工作，给你把路都铺好了，你别想那些有的没的，按照我们的安排一步一步走就行了！"
+     1 string english = "The apple never falls far from the tree. We've worked hard all our lives to give you a head start! Anyway, just follow the plan we've laid out for you!"
+     1 string japanese = "子は親の背中を追うもの。両親は頑張って働いて、子どもの歩むべき道を敷いてきた。余計なことは考えないで、その道を一歩一歩進んでほしい！"
+     1 string mchinese = "龍生龍鳳生鳳，爸爸媽媽這輩子努力工作，給你把路都鋪好了，你別想那些有的沒的，按照我們的安排一步一步走就行了！"
+   [23195]
+    0 TableSoItemLang data
+     0 int id = 892000
+     1 string schinese = "爸爸妈妈知道自己不是什么人杰，所以对你也没什么大期望，平平安安地长大就好。"
+     1 string schinese_censored = "爸爸妈妈知道自己不是什么人杰，所以对你也没什么大期望，平平安安地长大就好。"
+     1 string english = "We know that we're no geniuses. So just lead a happy normal life and we're happy."
+     1 string japanese = "両親は身の程をわきまえている。そのため、あなたに対しても大きな期待は抱いていない。無事に育ってくれればそれでいい。"
+     1 string mchinese = "爸爸媽媽知道自己不是什麼人傑，所以對你也沒什麼大期望，平平安安地長大就好。"
+   [23196]
+    0 TableSoItemLang data
+     0 int id = 893000
+     1 string schinese = "以前爷爷奶奶没怎么管教，我们这不也成长得好好的吗？爸爸妈妈相信自由、自然的成长！"
+     1 string schinese_censored = "以前爷爷奶奶没怎么管教，我们这不也成长得好好的吗？爸爸妈妈相信自由、自然的成长！"
+     1 string english = "Our parents didn't educate us much, and we grew up all right. We believe in freedom. You'll grow up all right!"
+     1 string japanese = "親が見てくれなくても、自分たちはすくすく育ってきたではないか。好きにさせれば自然に育つ！"
+     1 string mchinese = "以前爺爺奶奶沒怎麼管教，我們這不也成長得好好的嗎？爸爸媽媽相信自由、自然的成長！"
+   [23197]
+    0 TableSoItemLang data
+     0 int id = 894000
+     1 string schinese = "爸爸妈妈迫切期盼着你长大，去走走他们精心准备的“套路”。不要怀疑，你是亲生的没错！"
+     1 string schinese_censored = "爸爸妈妈迫切期盼着你长大，去走走他们精心准备的“套路”。不要怀疑，你是亲生的没错！"
+     1 string english = "We're eager for you to grow up and walk the path we've created for you. Don't hesitate, you're our child for sure!"
+     1 string japanese = "両親はあなたの成長を切に願い、「レール」をしっかりと用意している。大丈夫、彼らは間違いなくあなたの親だ！"
+     1 string mchinese = "爸爸媽媽迫切期盼著你長大，去走走他們精心準備的“套路”。不要懷疑，你是親生的沒錯！"
+   [23198]
+    0 TableSoItemLang data
+     0 int id = 890001
+     1 string schinese = "索要和学习相关的物品成功率提高20%（成功率最高不超过90%）"
+     1 string schinese_censored = ""
+     1 string english = "+20% success rate when requesting study items (cannot exceed 90%)."
+     1 string japanese = "学習に関連するアイテムの要求成功率が20%増加（成功率は最高90%）"
+     1 string mchinese = "索要和學習相關的物品成功率提高20%（成功率最高不超過90%）"
+   [23199]
+    0 TableSoItemLang data
+     0 int id = 890002
+     1 string schinese = "安排五大学科相关项目，父母满意度增加翻倍"
+     1 string schinese_censored = ""
+     1 string english = "Scheduling lessons regarding exam subjects grants double Satisfaction."
+     1 string japanese = "主要五教科に関連する予定で、両親の満足度の増加数が２倍になる"
+     1 string mchinese = "安排五大學科相關專案，父母滿意度增加翻倍"
+   [23200]
+    0 TableSoItemLang data
+     0 int id = 890003
+     1 string schinese = "和同学联系时更容易被父母抓包"
+     1 string schinese_censored = ""
+     1 string english = "Your parents easily notice that you are talking to friends."
+     1 string japanese = "同級生と連絡を取ると、両親にバレやすい"
+     1 string mchinese = "和同學聯繫時更容易被父母抓包"
+   [23201]
+    0 TableSoItemLang data
+     0 int id = 890004
+     1 string schinese = "父母不允许你进行和游戏相关的“玩物丧志”的娱乐。"
+     1 string schinese_censored = ""
+     1 string english = "Your parents don't allow you to indulge in gaming entertainment."
+     1 string japanese = "両親はゲームのような「人をダメにする」娯楽を許してくれない"
+     1 string mchinese = "父母不允許你進行和遊戲相關的“玩物喪志”的娛樂。"
+   [23202]
+    0 TableSoItemLang data
+     0 int id = 890005
+     1 string schinese = "更容易压力山大：压力额外增加50%"
+     1 string schinese_censored = ""
+     1 string english = "More easily succumbs to stress: +50% Stress."
+     1 string japanese = "ストレスが増えやすい。ストレスが追加で50%増加"
+     1 string mchinese = "更容易壓力山大：壓力額外增加50%"
+   [23203]
+    0 TableSoItemLang data
+     0 int id = 891001
+     1 string schinese = "学习和父母职业相关的课程时，仅消耗70%悟性"
+     1 string schinese_censored = ""
+     1 string english = "70% Knowledge cost when studying classes of your parents' professions."
+     1 string japanese = "両親の職業に関連する授業を学習するとき、理解力の消費が70%になる"
+     1 string mchinese = "學習和父母職業相關的課程時，僅消耗70%悟性"
+   [23204]
+    0 TableSoItemLang data
+     0 int id = 891002
+     1 string schinese = "父母会经常出差，但给你带礼物。"
+     1 string schinese_censored = ""
+     1 string english = "Your parents often go on business trips and bring you presents."
+     1 string japanese = "両親がよく出張に行き、お土産を持ってきてくれる"
+     1 string mchinese = "父母會經常出差，但給你帶禮物。"
+   [23205]
+    0 TableSoItemLang data
+     0 int id = 891003
+     1 string schinese = "父母满意度达到100%后当需要增加“索取”次数时，有50%额外增加1次索取次数"

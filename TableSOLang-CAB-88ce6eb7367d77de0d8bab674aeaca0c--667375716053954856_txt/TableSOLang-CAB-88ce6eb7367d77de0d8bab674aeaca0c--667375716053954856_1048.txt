@@ -1,0 +1,184 @@
+     1 string schinese_censored = "忽视放养"
+     1 string english = "Negligent Raising"
+     1 string japanese = "放任タイプ"
+     1 string mchinese = "忽視放養"
+   [24080]
+    0 TableSoItemLang data
+     0 int id = 900005
+     1 string schinese = "逗比戏精"
+     1 string schinese_censored = "逗比戏精"
+     1 string english = "Playfully Funny"
+     1 string japanese = "おちゃらけ系"
+     1 string mchinese = "逗比戲精"
+   [24081]
+    0 TableSoItemLang data
+     0 int id = 900011
+     1 string schinese = "对日常生活的管理"
+     1 string schinese_censored = "对日常生活的管理"
+     1 string english = "Daily Life Management"
+     1 string japanese = "日常生活の管理"
+     1 string mchinese = "對日常生活的管理"
+   [24082]
+    0 TableSoItemLang data
+     0 int id = 900012
+     1 string schinese = "对未来成就的期许"
+     1 string schinese_censored = "对未来成就的期许"
+     1 string english = "Expectations For The Future"
+     1 string japanese = "将来の成果に対する期待"
+     1 string mchinese = "對未來成就的期許"
+   [24083]
+    0 TableSoItemLang data
+     0 int id = 900013
+     1 string schinese = "对考学成绩的要求"
+     1 string schinese_censored = "对考学成绩的要求"
+     1 string english = "Exam Grade Requirements"
+     1 string japanese = "試験や学校の成績に対する要求"
+     1 string mchinese = "對考學成績的要求"
+   [24084]
+    0 TableSoItemLang data
+     0 int id = 900014
+     1 string schinese = "对孩子关爱的程度"
+     1 string schinese_censored = "对孩子关爱的程度"
+     1 string english = "Degree of Doting"
+     1 string japanese = "子どもを思う度合い"
+     1 string mchinese = "對孩子關愛的程度"
+   [24085]
+    0 TableSoItemLang data
+     0 int id = 900015
+     1 string schinese = "对性格发展的引导"
+     1 string schinese_censored = "对性格发展的引导"
+     1 string english = "Personality Guidance"
+     1 string japanese = "人格形成の誘導"
+     1 string mchinese = "對性格發展的引導"
+   [24086]
+    0 TableSoItemLang data
+     0 int id = 900021
+     1 string schinese = "严厉专制"
+     1 string schinese_censored = "严厉专制"
+     1 string english = "Strict Upbringing"
+     1 string japanese = "スパルタ教育"
+     1 string mchinese = "嚴厲專制"
+   [24087]
+    0 TableSoItemLang data
+     0 int id = 900022
+     1 string schinese = "顺其自然"
+     1 string schinese_censored = "顺其自然"
+     1 string english = "Whatever"
+     1 string japanese = "時と場合に応じて"
+     1 string mchinese = "順其自然"
+   [24088]
+    0 TableSoItemLang data
+     0 int id = 900023
+     1 string schinese = "百依百顺"
+     1 string schinese_censored = "百依百顺"
+     1 string english = "Full Obedience"
+     1 string japanese = "激甘"
+     1 string mchinese = "百依百順"
+   [24089]
+    0 TableSoItemLang data
+     0 int id = 900024
+     1 string schinese = "光宗耀祖"
+     1 string schinese_censored = "光宗耀祖"
+     1 string english = "Family Glory"
+     1 string japanese = "一族の自慢に"
+     1 string mchinese = "光宗耀祖"
+   [24090]
+    0 TableSoItemLang data
+     0 int id = 900025
+     1 string schinese = "中规中矩"
+     1 string schinese_censored = "中规中矩"
+     1 string english = "Average Joe"
+     1 string japanese = "どちらもほどほど"
+     1 string mchinese = "中規中矩"
+   [24091]
+    0 TableSoItemLang data
+     0 int id = 900026
+     1 string schinese = "开心就好"
+     1 string schinese_censored = "开心就好"
+     1 string english = "Happy Life"
+     1 string japanese = "楽しけりゃＯＫ"
+     1 string mchinese = "開心就好"
+   [24092]
+    0 TableSoItemLang data
+     0 int id = 900027
+     1 string schinese = "专注考学"
+     1 string schinese_censored = "专注考学"
+     1 string english = "Exam Focus"
+     1 string japanese = "勉強一筋"
+     1 string mchinese = "專注考學"
+   [24093]
+    0 TableSoItemLang data
+     0 int id = 900028
+     1 string schinese = "玩学兼顾"
+     1 string schinese_censored = "玩学兼顾"
+     1 string english = "Balance"
+     1 string japanese = "遊びも勉強も"
+     1 string mchinese = "玩學兼顧"
+   [24094]
+    0 TableSoItemLang data
+     0 int id = 900029
+     1 string schinese = "兴趣为先"
+     1 string schinese_censored = "兴趣为先"
+     1 string english = "Interests First"
+     1 string japanese = "趣味優先"
+     1 string mchinese = "興趣為先"
+   [24095]
+    0 TableSoItemLang data
+     0 int id = 900030
+     1 string schinese = "精心呵护"
+     1 string schinese_censored = "精心呵护"
+     1 string english = "Considerate Care"
+     1 string japanese = "過保護"
+     1 string mchinese = "精心呵護"
+   [24096]
+    0 TableSoItemLang data
+     0 int id = 900031
+     1 string schinese = "适度关照"
+     1 string schinese_censored = "适度关照"
+     1 string english = "Moderate Care"
+     1 string japanese = "適度にケア"
+     1 string mchinese = "適度關照"
+   [24097]
+    0 TableSoItemLang data
+     0 int id = 900032
+     1 string schinese = "强调独立"
+     1 string schinese_censored = "强调独立"
+     1 string english = "Independence"
+     1 string japanese = "自立を促進"
+     1 string mchinese = "強調獨立"
+   [24098]
+    0 TableSoItemLang data
+     0 int id = 900033
+     1 string schinese = "规矩本分"
+     1 string schinese_censored = "规矩本分"
+     1 string english = "Your Part"
+     1 string japanese = "きっちりかっちり"
+     1 string mchinese = "規矩本分"
+   [24099]
+    0 TableSoItemLang data
+     0 int id = 900034
+     1 string schinese = "平和中庸"
+     1 string schinese_censored = "平和中庸"
+     1 string english = "Moderation"
+     1 string japanese = "中庸が大事"
+     1 string mchinese = "平和中庸"
+   [24100]
+    0 TableSoItemLang data
+     0 int id = 900035
+     1 string schinese = "特立独行"
+     1 string schinese_censored = "特立独行"
+     1 string english = "Maverick"
+     1 string japanese = "我が道を行け"
+     1 string mchinese = "特立獨行"
+   [24101]
+    0 TableSoItemLang data
+     0 int id = 1109552
+     1 string schinese = "妈妈喜欢吃甜品，但是又怕发胖，于是让你想个吃而不胖的办法。你告诉她……"
+     1 string schinese_censored = "妈妈喜欢吃甜品，但是又怕发胖，于是让你想个吃而不胖的办法。你告诉她……"
+     1 string english = "Mom likes sweets but is afraid to put on weight. You think of a way to let her eat without getting heavier. You tell her..."
+     1 string japanese = "お母さんは甘いものが好きだけど、太りたくはない。そこで、「食べても太らない方法を考えて」と言った。あなたはこう言った…"
+     1 string mchinese = "媽媽喜歡吃甜品，但是又怕發胖，於是讓你想個吃而不胖的辦法。你告訴她……"
+   [24102]
+    0 TableSoItemLang data
+     0 int id = 1109553
+     1 string schinese = "辣条吃多了，嘴巴肿成了香肠。爸爸看到我的样子笑抽了，于是我……"

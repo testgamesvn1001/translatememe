@@ -1,0 +1,184 @@
+     1 string schinese_censored = "（交作文时，你瞄到小荗的作文纸上赫然写着“明天的我将是一名电竞职业选手”。）"
+     1 string english = "(When handing in your composition, you glance over at Mike's paper and sees the headline: In the Future, I'll Be a Professional E-sporter.)"
+     1 string japanese = "（作文を提出するとき、レンマオの原稿用紙にはしっかりと「将来の私はｅスポーツ選手になっています」と書かれていた）"
+     1 string mchinese = "（交作文時，你瞄到小荗的作文紙上赫然寫著“明天的我將是一名電競職業選手”。）"
+   [29577]
+    0 TableSoItemLang data
+     0 int id = 1034545
+     1 string schinese = "下课时，你偷偷在小荗的桌肚里塞了一张小纸条，上面写着你查到的一句游戏英雄台词。"
+     1 string schinese_censored = "下课时，你偷偷在小荗的桌肚里塞了一张小纸条，上面写着你查到的一句游戏英雄台词。"
+     1 string english = "As the class is ending, you slip a note into Mike's desk. The note is a quote from one of the game's heroes."
+     1 string japanese = "授業後、あなたはこっそりとレンマオの机にメモを忍ばせておいた。メモにはあなたが調べたゲームのキャラクターのセリフを書いておいた。"
+     1 string mchinese = "下課時，你偷偷在小荗的桌肚裏塞了一張小紙條，上面寫著你查到的一句遊戲英雄臺詞。"
+   [29578]
+    0 TableSoItemLang data
+     0 int id = 1034546
+     1 string schinese = "“终有一天，我的天才会得到理解。”"
+     1 string schinese_censored = "“终有一天，我的天才会得到理解。”"
+     1 string english = ""My talent will be appreciated—one day.""
+     1 string japanese = "「いつの日か、私の才能が理解される時が来るだろう」"
+     1 string mchinese = "“終有一天，我的天才會得到理解。”"
+   [29579]
+    0 TableSoItemLang data
+     0 int id = 1034547
+     1 string schinese = "这是谁写的？"
+     1 string schinese_censored = "这是谁写的？"
+     1 string english = "Who wrote this?"
+     1 string japanese = "誰が書いたんだ？"
+     1 string mchinese = "這是誰寫的？"
+   [29580]
+    0 TableSoItemLang data
+     0 int id = 1034548
+     1 string schinese = "小荗看向你，难得笑了一下，然后把纸条叠好收了起来。"
+     1 string schinese_censored = "小荗看向你，难得笑了一下，然后把纸条叠好收了起来。"
+     1 string english = "Mike looks at you and gives you a rare smile, before folding up the note."
+     1 string japanese = "レンマオはあなたの方を向き、珍しく笑顔を見せてからメモをたたんだ。"
+     1 string mchinese = "小荗看向你，難得笑了一下，然後把紙條疊好收了起來。"
+   [29581]
+    0 TableSoItemLang data
+     0 int id = 1034549
+     1 string schinese = "晚自习结束，你和小荗收拾完东西准备离开教室。"
+     1 string schinese_censored = "晚自习结束，你和小荗收拾完东西准备离开教室。"
+     1 string english = "After your late night study session, you and Mike get ready to leave."
+     1 string japanese = "夕方の自習が終わり、あなたとレンマオは帰る準備をして教室を出ようとしている。"
+     1 string mchinese = "晚自習結束，你和小荗收拾完東西準備離開教室。"
+   [29582]
+    0 TableSoItemLang data
+     0 int id = 1034550
+     1 string schinese = "晚上的天空是接近透明的深蓝色。"
+     1 string schinese_censored = "晚上的天空是接近透明的深蓝色。"
+     1 string english = "The night sky is almost sea blue."
+     1 string japanese = "夜空の色は透明に近いブルーだ。"
+     1 string mchinese = "晚上的天空是接近透明的深藍色。"
+   [29583]
+    0 TableSoItemLang data
+     0 int id = 1034551
+     1 string schinese = "你觉得，天上这些星星连在一起像什么？（突然提问）"
+     1 string schinese_censored = "你觉得，天上这些星星连在一起像什么？（突然提问）"
+     1 string english = "Hey, what do you see when you look at the stars in the sky? (Asks all of a sudden)"
+     1 string japanese = "ねえ、星をつなげたら何に見える？（突然の質問）"
+     1 string mchinese = "你覺得，天上這些星星連在一起像什麼？（突然提問）"
+   [29584]
+    0 TableSoItemLang data
+     0 int id = 1034552
+     1 string schinese = "（愣了一下）像...兵线吧。"
+     1 string schinese_censored = "（愣了一下）像...兵线吧。"
+     1 string english = "(Freezes) Hmm... like lines of units, I think."
+     1 string japanese = "（しばらく考えて）うーん…ミニオンのラインかな。"
+     1 string mchinese = "（愣了一下）像...兵線吧。"
+   [29585]
+    0 TableSoItemLang data
+     0 int id = 1034553
+     1 string schinese = ".........这..我懂了，星星是兵线，然后天空就是大地图。"
+     1 string schinese_censored = ".........这..我懂了，星星是兵线，然后天空就是大地图。"
+     1 string english = "... Ah, I see. The stars are lines of units, and the sky itself is the map."
+     1 string japanese = "…ふーん。星をつないだのがラインで、空がフィールドってわけね。"
+     1 string mchinese = ".........這..我懂了，星星是兵線，然後天空就是大地圖。"
+   [29586]
+    0 TableSoItemLang data
+     0 int id = 1034554
+     1 string schinese = "噗。"
+     1 string schinese_censored = "噗。"
+     1 string english = "*Guffaws*"
+     1 string japanese = "フッ。"
+     1 string mchinese = "噗。"
+   [29587]
+    0 TableSoItemLang data
+     0 int id = 1034555
+     1 string schinese = "没想到，我竟然能把荗大师逗笑啊。"
+     1 string schinese_censored = "没想到，我竟然能把荗大师逗笑啊。"
+     1 string english = "Heh, didn't know I could make you laugh."
+     1 string japanese = "レンマオ先生が笑ってくれるなんてねー。"
+     1 string mchinese = "沒想到，我竟然能把荗大師逗笑啊。"
+   [29588]
+    0 TableSoItemLang data
+     0 int id = 1034556
+     1 string schinese = "明天我和乔旭就要去参加电竞俱乐部试训选拔了。"
+     1 string schinese_censored = "明天我和乔旭就要去参加电竞俱乐部试训选拔了。"
+     1 string english = "Martin and I are going to the E-sports club tomorrow for the selection."
+     1 string japanese = "明日、僕とチャオ・シューでｅスポーツクラブのトライアウトに参加してくるよ。"
+     1 string mchinese = "明天我和喬旭就要去參加電競俱樂部試訓選拔了。"
+   [29589]
+    0 TableSoItemLang data
+     0 int id = 1034557
+     1 string schinese = "你们努力了那么久，一定没问题的！"
+     1 string schinese_censored = "你们努力了那么久，一定没问题的！"
+     1 string english = "You've really been working hard; I'm sure you'll be fine!"
+     1 string japanese = "これだけ頑張ってきたんだから、きっと大丈夫だよ！"
+     1 string mchinese = "你們努力了那麼久，一定沒問題的！"
+   [29590]
+    0 TableSoItemLang data
+     0 int id = 1034558
+     1 string schinese = "乔旭肯定能进，我不一定..."
+     1 string schinese_censored = "乔旭肯定能进，我不一定..."
+     1 string english = "Martin surely will; I'm not so sure about myself..."
+     1 string japanese = "チャオ・シューは合格だと思うけど、僕は…。"
+     1 string mchinese = "喬旭肯定能進，我不一定..."
+   [29591]
+    0 TableSoItemLang data
+     0 int id = 1034559
+     1 string schinese = "怎么可能, 你可是个不用背单词就能保持成绩的学神, 我才不信你这都搞不定！"
+     1 string schinese_censored = "怎么可能, 你可是个不用背单词就能保持成绩的学神, 我才不信你这都搞不定！"
+     1 string english = "Not so sure? You're a genius! You get top English grades without even memorizing vocabulary!"
+     1 string japanese = "大丈夫だよ。英単語を覚えなくても成績を維持できる天才なんだから。不合格になる方が不思議よ！"
+     1 string mchinese = "怎麼可能, 你可是個不用背單詞就能保持成績的學神, 我才不信你這都搞不定！"
+   [29592]
+    0 TableSoItemLang data
+     0 int id = 1034560
+     1 string schinese = "乔旭比我张扬比我耀眼，更能被看到。"
+     1 string schinese_censored = "乔旭比我张扬比我耀眼，更能被看到。"
+     1 string english = "Martin is more of a crowd-pleaser than I am, he easily takes the spotlight."
+     1 string japanese = "チャオ・シューは僕より華やかだし、目立つ。"
+     1 string mchinese = "喬旭比我張揚比我耀眼，更能被看到。"
+   [29593]
+    0 TableSoItemLang data
+     0 int id = 1034561
+     1 string schinese = "不要老和别人比嘛。要做，就要做最好，这可是你说的。超越自己就是胜利！"
+     1 string schinese_censored = "不要老和别人比嘛。要做，就要做最好，这可是你说的。超越自己就是胜利！"
+     1 string english = "No need to compare yourself to others! If you do something, you go all in! Those are your words, not mine!"
+     1 string japanese = "いつまでも人と比べないでよ。やりたいことは徹底的にやるって自分で言ったでしょ。自分を超えたら勝ちだよ！"
+     1 string mchinese = "不要老和別人比嘛。要做，就要做最好，這可是你說的。超越自己就是勝利！"
+   [29594]
+    0 TableSoItemLang data
+     0 int id = 1034562
+     1 string schinese = "嗯...我会尽力。不留遗憾。"
+     1 string schinese_censored = "嗯...我会尽力。不留遗憾。"
+     1 string english = "Mm... I'll do my best; either way, I'll have no regrets."
+     1 string japanese = "あぁ…頑張る。悔いが残らないように。"
+     1 string mchinese = "嗯...我會盡力。不留遺憾。"
+   [29595]
+    0 TableSoItemLang data
+     0 int id = 1034563
+     1 string schinese = "小荗！！恭喜啊！！终于成为职业选手上台比赛了！首战就胜利了！我就说你是最厉害的！！!"
+     1 string schinese_censored = "小荗！！恭喜啊！！终于成为职业选手上台比赛了！首战就胜利了！我就说你是最厉害的！！!"
+     1 string english = "Mike!! You did it!! You're a professional E-sporter! You won your first game! I told you, you're awesome!!"
+     1 string japanese = "レンマオ！！おめでとう！！プロ選手になって初めての試合で勝っちゃった！やっぱりすごいよ！！！"
+     1 string mchinese = "小荗！！恭喜啊！！終於成為職業選手上臺比賽了！首戰就勝利了！我就說你是最厲害的！！!"
+   [29596]
+    0 TableSoItemLang data
+     0 int id = 1034564
+     1 string schinese = "侥幸而已。不过你怎么来现场没有跟我说？"
+     1 string schinese_censored = "侥幸而已。不过你怎么来现场没有跟我说？"
+     1 string english = "Just dumb luck. Why didn't you tell me you were there?"
+     1 string japanese = "運が良かっただけだよ。会場に来るなら言ってくれればよかったのに。"
+     1 string mchinese = "僥倖而已。不過你怎麼來現場沒有跟我說？"
+   [29597]
+    0 TableSoItemLang data
+     0 int id = 1034565
+     1 string schinese = "嘿嘿，这不是偷偷遛出来看的么……哇，你手上这个是啥？战队周边？"
+     1 string schinese_censored = "嘿嘿，这不是偷偷遛出来看的么……哇，你手上这个是啥？战队周边？"
+     1 string english = "Heh, I was watching in secret, of course! WOW! What's that on your hand? Team merch?"
+     1 string japanese = "フフ、こっそり見に来たから…。あっ、それなに？チームのグッズ？"
+     1 string mchinese = "嘿嘿，這不是偷偷遛出來看的麼……哇，你手上這個是啥？戰隊周邊？"
+   [29598]
+    0 TableSoItemLang data
+     0 int id = 1034566
+     1 string schinese = "嗯，观众互动环节剩下的战队礼物，我一个新人选手，礼物没人要，就送你吧。"
+     1 string schinese_censored = "嗯，观众互动环节剩下的战队礼物，我一个新人选手，礼物没人要，就送你吧。"
+     1 string english = "Yeah, the rest of the team gave theirs to the audience. But I'm new so no one wanted mine. You take it."
+     1 string japanese = "ああ。ファンサービスで配ったグッズだよ。僕は新人だから、誰ももらってくれなかった。キミにあげるよ。"
+     1 string mchinese = "嗯，觀眾互動環節剩下的戰隊禮物，我一個新人選手，禮物沒人要，就送你吧。"
+   [29599]
+    0 TableSoItemLang data
+     0 int id = 1034567
+     1 string schinese = "切…不过你才刚出道，还没什么粉丝是正常的，别灰心！以后肯定满场都是给你加油的声音！"

@@ -1,0 +1,184 @@
+     1 string schinese_censored = "试着消除她们的误会"
+     1 string english = "Try to dispel her misunderstanding"
+     1 string japanese = "誤解を解く"
+     1 string mchinese = "試著消除她們的誤會"
+   [6025]
+    0 TableSoItemLang data
+     0 int id = 1016026
+     1 string schinese = "对这种行为不屑一顾"
+     1 string schinese_censored = "对这种行为不屑一顾"
+     1 string english = "Frown upon such actions"
+     1 string japanese = "気にも留めない"
+     1 string mchinese = "對這種行為不屑一顧"
+   [6026]
+    0 TableSoItemLang data
+     0 int id = 1016027
+     1 string schinese = "在自己的团体中说她们的坏话"
+     1 string schinese_censored = "在自己的团体中说她们的坏话"
+     1 string english = "Speak ill of the others"
+     1 string japanese = "自分のグループで悪口を言う"
+     1 string mchinese = "在自己的團體中說她們的壞話"
+   [6027]
+    0 TableSoItemLang data
+     0 int id = 1016028
+     1 string schinese = "偷偷告诉姐姐"
+     1 string schinese_censored = "偷偷告诉姐姐"
+     1 string english = "Tell the girl"
+     1 string japanese = "こっそりお姉さんに教える"
+     1 string mchinese = "偷偷告訴姐姐"
+   [6028]
+    0 TableSoItemLang data
+     0 int id = 1016029
+     1 string schinese = "大声呵斥那个偷拍者"
+     1 string schinese_censored = "大声呵斥那个偷拍者"
+     1 string english = "Berate the sneak photographer"
+     1 string japanese = "大声で怒鳴る"
+     1 string mchinese = "大聲呵斥那個偷拍者"
+   [6029]
+    0 TableSoItemLang data
+     0 int id = 1016030
+     1 string schinese = "多一事不如少一事"
+     1 string schinese_censored = "多一事不如少一事"
+     1 string english = "Avoid trouble"
+     1 string japanese = "余計なことはしない"
+     1 string mchinese = "多一事不如少一事"
+   [6030]
+    0 TableSoItemLang data
+     0 int id = 1016031
+     1 string schinese = "父亲笑抽了，拿手机录下了视频发到朋友圈\n（魅力+25）"
+     1 string schinese_censored = "父亲笑抽了，拿手机录下了视频发到朋友圈\n（ 魅力增加了25）"
+     1 string english = "Your dad rolls on the ground laughing, then takes up his phone, records a video and shares it with his friends.\n(Charm +25)"
+     1 string japanese = "お父さんは笑い崩れ、スマホで撮った動画をＳＮＳで公開した\n魅力が25増加"
+     1 string mchinese = "父親笑抽了，拿手機錄下了視頻發到朋友圈\n（魅力+25）"
+   [6031]
+    0 TableSoItemLang data
+     0 int id = 1016032
+     1 string schinese = "感觉到世界的友善\n（情商+25）"
+     1 string schinese_censored = "感觉到世界的友善\n（ 情绪力增加了25）"
+     1 string english = "You sense kindness in the world.\n(EQ +25)"
+     1 string japanese = "世界の優しさを感じた\nＥＱが25増加"
+     1 string mchinese = "感覺到世界的友善\n（情商+25）"
+   [6032]
+    0 TableSoItemLang data
+     0 int id = 1016033
+     1 string schinese = "镜子中的自己并没有理会你，你十分无奈\n（情商-20）"
+     1 string schinese_censored = "镜子中的自己并没有理会你，你十分无奈\n（ 情绪力-20）"
+     1 string english = "Your mirror image doesn't respond and you feel helpless.\n(EQ -20)"
+     1 string japanese = "鏡の中の自分に無視され、とてもやるせなく感じた\nＥＱが20減少"
+     1 string mchinese = "鏡子中的自己並沒有理會你，你十分無奈\n（情商-20）"
+   [6033]
+    0 TableSoItemLang data
+     0 int id = 1016034
+     1 string schinese = "父母开始哄你，直到你停止抽泣\n（情商+25）"
+     1 string schinese_censored = "父母开始哄你，直到你停止抽泣\n（ 情绪力增加了25）"
+     1 string english = "Your dad comforts you until you stop crying.\n(EQ +25)"
+     1 string japanese = "泣き止むまで両親があやしてくれた\nＥＱが25増加"
+     1 string mchinese = "父母開始哄你，直到你停止抽泣\n（情商+25）"
+   [6034]
+    0 TableSoItemLang data
+     0 int id = 1016035
+     1 string schinese = "爸爸嫌弃你，胆子太小\n（情商-25）"
+     1 string schinese_censored = "爸爸嫌弃你，胆子太小\n（ 情绪力-25）"
+     1 string english = "Dad scolds you for being a coward.\n(EQ -25)"
+     1 string japanese = "「臆病者だ」とお父さんに言われた\nＥＱが25減少"
+     1 string mchinese = "爸爸嫌棄你，膽子太小\n（情商-25）"
+   [6035]
+    0 TableSoItemLang data
+     0 int id = 1016036
+     1 string schinese = "妈妈抱着你，拍打你的背部，让你有安全感\n（记忆力+20）"
+     1 string schinese_censored = "妈妈抱着你，拍打你的背部，让你有安全感\n（ 记忆力增加了20）"
+     1 string english = "Mom hugs you and comforts you by patting you on the back.\n(Memory +20)"
+     1 string japanese = "お母さんが抱きしめながら背中をさすってくれたので、とても安心した\n記憶力が20増加"
+     1 string mchinese = "媽媽抱著你，拍打你的背部，讓你有安全感\n（記憶力+20）"
+   [6036]
+    0 TableSoItemLang data
+     0 int id = 1016037
+     1 string schinese = "对方离开的时候忘记把玩具还给你，你很伤心，妈妈看到后替你要了回来。\n（悟性+30）"
+     1 string schinese_censored = "对方离开的时候把你的玩具偷走了，你很伤心\n（ 悟性-30）"
+     1 string english = "You are sad because the other kid took your toy with them.\n(Knowledge -30)"
+     1 string japanese = "オモチャを持って帰られて、とても悲しくなった\n理解力が30減少"
+     1 string mchinese = "對方離開的時候忘記把玩具還給你，你很傷心，媽媽看到後替你要了回來。\n（悟性+30）"
+   [6037]
+    0 TableSoItemLang data
+     0 int id = 1016038
+     1 string schinese = "父母觉得你很不礼貌，训斥了你\n（想象力-20）"
+     1 string schinese_censored = "父母觉得你很不礼貌，训斥了你\n（ 想象力-20）"
+     1 string english = "Your parents scold you for being impolite.\n(Imagination -20)"
+     1 string japanese = "両親に失礼だと叱られた\n想像力が20減少"
+     1 string mchinese = "父母覺得你很不禮貌，訓斥了你\n（想像力-20）"
+   [6038]
+    0 TableSoItemLang data
+     0 int id = 1016039
+     1 string schinese = "父母觉得你太内向，十分担忧 "
+     1 string schinese_censored = "父母觉得你太内向，十分担忧"
+     1 string english = "Your parents are worried because they think you are too introverted."
+     1 string japanese = "両親に内向的だと心配された"
+     1 string mchinese = "父母覺得你太內向，十分擔憂 "
+   [6039]
+    0 TableSoItemLang data
+     0 int id = 1016040
+     1 string schinese = "还没吃完，爸妈就到家了，并给你带了最爱吃的菜\n（行动力+30）"
+     1 string schinese_censored = "还没吃完，爸妈就到家了，并给你带了最爱吃的菜\n（ 行动力增加了30）"
+     1 string english = "Before you finish your meal, your parents come home bringing your favorite dishes.\n(Action +30)"
+     1 string japanese = "両親は食べ終わらないうちに帰ってきて、大好物の料理まで買ってきてくれた\n行動力が30増加"
+     1 string mchinese = "還沒吃完，爸媽就到家了，並給你帶了最愛吃的菜\n（行動力+30）"
+   [6040]
+    0 TableSoItemLang data
+     0 int id = 1016041
+     1 string schinese = "叫外卖之后，发现外卖更难吃\n（悟性+20）"
+     1 string schinese_censored = "叫外卖之后，发现外卖更难吃\n（ 悟性增加了20）"
+     1 string english = "You order takeout, but it tastes even worse than what you already had at home.\n(Knowledge +20)"
+     1 string japanese = "頼んだ出前は、さらに不味かった\n理解力が20増加"
+     1 string mchinese = "叫外賣之後，發現外賣更難吃\n（悟性+20）"
+   [6041]
+    0 TableSoItemLang data
+     0 int id = 1016042
+     1 string schinese = "小伙伴带来若干好吃的，你觉得赚到了\n（情商+50魅力+50）"
+     1 string schinese_censored = "小伙伴带来若干好吃的，你觉得赚到了\n（ 情绪力增加了50 魅力增加了50）"
+     1 string english = "Your friend brought some tasty dishes, and you feel like you made the right choice.\n(EQ +50 and Charm +50)"
+     1 string japanese = "友達が美味しいものを持ってきてくれて、得をしたと思った\nＥＱが50増加、魅力が50増加"
+     1 string mchinese = "小夥伴帶來若干好吃的，你覺得賺到了\n（情商+50魅力+50）"
+   [6042]
+    0 TableSoItemLang data
+     0 int id = 1016043
+     1 string schinese = "最终还是泄了气，并被教育了一顿\n（记忆力+40）"
+     1 string schinese_censored = "最终还是泄了气，并被教育了一顿\n（ 记忆力增加了40）"
+     1 string english = "You let out too much air and are caught, after which you get taught a lesson.\n(Memory +40)"
+     1 string japanese = "親にバレて叱られた\n記憶力が40増加"
+     1 string mchinese = "最終還是泄了氣，並被教育了一頓\n（記憶力+40）"
+   [6043]
+    0 TableSoItemLang data
+     0 int id = 1016044
+     1 string schinese = "父母吓了一跳，并退出了房间\n（智商+50）"
+     1 string schinese_censored = "父母吓了一跳，并退出了房间\n（ 智慧增加了50）"
+     1 string english = "You manage to scare your parents and they back out of your room.\n(IQ +50)"
+     1 string japanese = "両親はびっくりして部屋を出た\nＩＱが50増加"
+     1 string mchinese = "父母嚇了一跳，並退出了房間\n（智商+50）"
+   [6044]
+    0 TableSoItemLang data
+     0 int id = 1016045
+     1 string schinese = "原来是一阵秋风扫过，虚惊一场\n（悟性+50）"
+     1 string schinese_censored = "原来是一阵秋风扫过，虚惊一场\n（ 悟性增加了50）"
+     1 string english = "It turned out to be the autumn wind blowing past—a false alarm.\n(Knowledge +50)"
+     1 string japanese = "扉が風で開いただけだった\n理解力が50増加"
+     1 string mchinese = "原來是一陣秋風掃過，虛驚一場\n（悟性+50）"
+   [6045]
+    0 TableSoItemLang data
+     0 int id = 1016046
+     1 string schinese = "到约定时间，发现小伙伴都没有来 "
+     1 string schinese_censored = "到约定时间，发现小伙伴都没有来"
+     1 string english = "The appointed time is nigh but your protector is nowhere to be seen."
+     1 string japanese = "約束の時間が過ぎても誰も来なかった…"
+     1 string mchinese = "到約定時間，發現小夥伴都沒有來 "
+   [6046]
+    0 TableSoItemLang data
+     0 int id = 1016047
+     1 string schinese = "父亲觉得是你的问题，为什么别人不打别人，偏打你？\n（情商-30）"
+     1 string schinese_censored = "父亲觉得是你的问题，为什么别人不打别人，偏打你？\n（ 情绪力-30）"
+     1 string english = "Your father thinks it's your fault. Why are they hitting you, but not someone else?\n(EQ -30)"
+     1 string japanese = "「殴られる方が悪い」とお父さんに怒られた…\nＥＱが30減少"
+     1 string mchinese = "父親覺得是你的問題，為什麼別人不打別人，偏打你？\n（情商-30）"
+   [6047]
+    0 TableSoItemLang data
+     0 int id = 1016048
+     1 string schinese = "最后被打的更惨了\n（体魄-100）"

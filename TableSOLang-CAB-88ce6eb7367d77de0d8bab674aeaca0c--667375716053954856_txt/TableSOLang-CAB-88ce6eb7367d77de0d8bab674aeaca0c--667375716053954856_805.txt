@@ -1,0 +1,184 @@
+     1 string schinese_censored = "我的压力"
+     1 string english = "My Stress"
+     1 string japanese = "ストレス"
+     1 string mchinese = "我的壓力"
+   [18491]
+    0 TableSoItemLang data
+     0 int id = 1028492
+     1 string schinese = "父母满意度"
+     1 string schinese_censored = "父母满意度"
+     1 string english = "Satisfaction"
+     1 string japanese = "両親の満足度"
+     1 string mchinese = "父母滿意度"
+   [18492]
+    0 TableSoItemLang data
+     0 int id = 1028493
+     1 string schinese = "可进行新的社会实践："
+     1 string schinese_censored = "可进行新的打工："
+     1 string english = "New work available: "
+     1 string japanese = "選択可能な仕事："
+     1 string mchinese = "可進行新的社會實踐："
+   [18493]
+    0 TableSoItemLang data
+     0 int id = 1028494
+     1 string schinese = "零用钱"
+     1 string schinese_censored = "零用钱"
+     1 string english = "Money"
+     1 string japanese = "お小遣い"
+     1 string mchinese = "零用錢"
+   [18494]
+    0 TableSoItemLang data
+     0 int id = 1028495
+     1 string schinese = "零用钱:"
+     1 string schinese_censored = "零用钱:"
+     1 string english = "Money: "
+     1 string japanese = "お小遣い："
+     1 string mchinese = "零用錢:"
+   [18495]
+    0 TableSoItemLang data
+     0 int id = 1028496
+     1 string schinese = "技能学习需要消耗悟性点数，可在挖脑洞中获得！"
+     1 string schinese_censored = "技能学习需要消耗悟性点数，可在挖脑洞中获得！"
+     1 string english = "Learning skills costs Knowledge. Acquire more by absorbing fragments!"
+     1 string japanese = "スキル習得に必要な理解力はカケラ吸収で獲得！"
+     1 string mchinese = "技能學習需要消耗悟性點數，可在挖腦洞中獲得！"
+   [18496]
+    0 TableSoItemLang data
+     0 int id = 1028497
+     1 string schinese = "满意度"
+     1 string schinese_censored = "满意度"
+     1 string english = "Satisfaction"
+     1 string japanese = "満足度"
+     1 string mchinese = "滿意度"
+   [18497]
+    0 TableSoItemLang data
+     0 int id = 1028498
+     1 string schinese = "压力较大，有几率出现心理问题，适当的压力才有额外的收获！"
+     1 string schinese_censored = "压力较大，有几率出现心理问题，适当压力才有额外的收获！"
+     1 string english = "You are feeling stressed out and there's a chance your mind will suffer for it. Have an appropriate amount of stress for extra bonuses!"
+     1 string japanese = "ストレスがたまりすぎると、メンタル不調になる可能性がある。ほどほどのストレスだとボーナスが得られる！"
+     1 string mchinese = "壓力較大，有幾率出現心理問題，適當的壓力才有額外的收穫！"
+   [18498]
+    0 TableSoItemLang data
+     0 int id = 1028499
+     1 string schinese = "挖脑洞需消耗行动力点，每次进入新一层脑洞时会增加一定的行动力！"
+     1 string schinese_censored = "挖脑洞需消耗行动力点，每次进入新一层脑洞时会增加一定的行动力！"
+     1 string english = "Absorbing fragments costs Action. Entering a new mind map grants a certain amount of Action!"
+     1 string japanese = "カケラの吸収には行動力を消費する。新しい階層に進むと、行動力が増加！"
+     1 string mchinese = "挖腦洞需消耗行動力點，每次進入新一層腦洞時會增加一定的行動力！"
+   [18499]
+    0 TableSoItemLang data
+     0 int id = 1028500
+     1 string schinese = "父母的期望较高时，有几率获得奖励，较低时有几率遭到惩罚，请协调好娱乐和练习！"
+     1 string schinese_censored = "父母的期望较高时，有几率获得奖励，较低时有几率遭到惩罚，请协调好娱乐和练习！"
+     1 string english = "There is a chance to gain rewards when your parents' expectations are high; or to be punished when it's low. Be sure to strike a balance between entertainment and study!"
+     1 string japanese = "両親の期待が高ければボーナスをもらえ、低すぎると罰を受ける時がある。勉強と娯楽のバランスには注意！"
+     1 string mchinese = "父母的期望較高時，有幾率獲得獎勵，較低時有幾率遭到懲罰，請協調好娛樂和練習！"
+   [18500]
+    0 TableSoItemLang data
+     0 int id = 1028501
+     1 string schinese = "根据父亲职业，每回合可得{0}元，也可通过社会实践赚取更多零用钱~"
+     1 string schinese_censored = "根据父亲职业，每回合可得{0}元，也可通过打工赚取更多零用钱~"
+     1 string english = "You will get ¥{0} per turn according to dad's profession. You can earn more pocket money by taking on Work."
+     1 string japanese = "父親の職業のおかげで、毎ターン{0}元がもらえる。仕事でもお小遣いを稼げるよ！"
+     1 string mchinese = "根據父親職業，每回合可得{0}元，也可通過社會實踐賺取更多零用錢~"
+   [18501]
+    0 TableSoItemLang data
+     0 int id = 1028502
+     1 string schinese = "根据母亲职业，每回合可得{0}元，也可通过社会实践赚取更多零用钱~"
+     1 string schinese_censored = "根据母亲职业，每回合可得{0}元，也可通过打工赚取更多零用钱~"
+     1 string english = "You will get ¥{0} per turn according to mom's profession. You can earn more pocket money by taking on Work."
+     1 string japanese = "母親の職業のおかげで、毎ターン{0}元がもらえる。仕事でもお小遣いを稼げるよ！"
+     1 string mchinese = "根據母親職業，每回合可得{0}元，也可通過社會實踐賺取更多零用錢~"
+   [18502]
+    0 TableSoItemLang data
+     0 int id = 1028503
+     1 string schinese = "行动力不足，无法进行当前活动！下一回合可恢复行动力！"
+     1 string schinese_censored = "行动力不足，无法进行当前活动！下一回合可恢复行动力！"
+     1 string english = "Not enough Action to perform this action. You recover Action every turn!"
+     1 string japanese = "行動力が不足しているので、何も行動できない！行動力は次のターンに回復するぞ！"
+     1 string mchinese = "行動力不足，無法進行當前活動！下一回合可恢復行動力！"
+   [18503]
+    0 TableSoItemLang data
+     0 int id = 1028504
+     1 string schinese = "物以类聚，人以群分。好友是谁，能反映出你是什么样的人。同时也会影响到最终职业成就！"
+     1 string schinese_censored = "物以类聚，人以群分。好友是谁，能反映出你是什么样的人。同时也会影响到最终职业成就！"
+     1 string english = "Humans are gregarious by nature, and who you associate with reflects what kind of person you are. It also affects your final profession!"
+     1 string japanese = "類は友を呼ぶ。友達はあなたの写し鏡でもあり、最終的な職業にも影響を与える！"
+     1 string mchinese = "物以類聚，人以群分。好友是誰，能反映出你是什麼樣的人。同時也會影響到最終職業成就！"
+   [18504]
+    0 TableSoItemLang data
+     0 int id = 1028505
+     1 string schinese = "心理阴影面积反映的是角色的心理状况，心理阴影面积超过100平方米，角色就会崩溃，后果不堪设想！\n父母情绪和玩家自身压力会产生一些心理特质，这些心理特质会影响到最终职业走向和未来的成就！"
+     1 string schinese_censored = "心理阴影面积反映的是角色的心理状况，心理阴影面积超过100平方米，角色就会崩溃，后果不堪设想！\n父母情绪和玩家自身压力会产生一些心理特质，这些心理特质会影响到最终职业走向和未来的成就！"
+     1 string english = "The mind shadow's size reflects your character's mental health. When the mind shadow exceeds 100 square meters, your character's mind snaps: it isn't pretty!\nYour parents' mood and your own stress lead to mental traits. Mental traits affect your final profession and future achievements!"
+     1 string japanese = "トラウマはキャラクターの精神を反映している。トラウマ領域が100平方メートルを超えると、キャラクターの精神は崩壊し悲惨な結果に！\n両親の機嫌とキャラクターのストレスによって、いろいろな心理特性が現れる。すべては最終的な職業にも影響を与える！"
+     1 string mchinese = "心理陰影面積反映的是角色的心理狀況，心理陰影面積超過100平方米，角色就會崩潰，後果不堪設想！\n父母情緒和玩家自身壓力會產生一些心理特質，這些心理特質會影響到最終職業走向和未來的成就！"
+   [18505]
+    0 TableSoItemLang data
+     0 int id = 1028506
+     1 string schinese = "好好休息吧！已经学了太久了~"
+     1 string schinese_censored = "好好休息吧！已经学了太久了~"
+     1 string english = "Take a rest! You've been at it for a long time."
+     1 string japanese = "ちゃんと休もう！もうこんなに頑張ったんだから！"
+     1 string mchinese = "好好休息吧！已經學了太久了~"
+   [18506]
+    0 TableSoItemLang data
+     0 int id = 1028507
+     1 string schinese = "零{0}个月"
+     1 string schinese_censored = "零{0}个月"
+     1 string english = "{0} months"
+     1 string japanese = "{0}カ月"
+     1 string mchinese = "零{0}個月"
+   [18507]
+    0 TableSoItemLang data
+     0 int id = 1028508
+     1 string schinese = "你现在的年龄是{0}岁 当前回合：{1}"
+     1 string schinese_censored = "你现在的年龄是{0}岁 当前回合：{1}"
+     1 string english = "You are {0} years old. The current turn is: {1}"
+     1 string japanese = "現在の年齢は{0}歳 ターン：{1}"
+     1 string mchinese = "你現在的年齡是{0}歲 當前回合：{1}"
+   [18508]
+    0 TableSoItemLang data
+     0 int id = 1028509
+     1 string schinese = "\n\n我时常在想，高考前和高考后的生活似乎很不一样。现在想起来，大概就是自己再也不是一个孩子了，至少在父母眼里不再是了。\n\n现在很怀念和父母经常在一起的日子，觉得不管怎样都很美好。"
+     1 string schinese_censored = "\n\n我时常在想，高考前和高考后的生活似乎很不一样。现在想起来，大概就是自己再也不是一个孩子了，至少在父母眼里不再是了。\n\n现在很怀念和父母经常在一起的日子，觉得不管怎样都很美好。"
+     1 string english = "\n\nI often ponder whether life before and after Gaokao is different. I think the biggest change is that you stop being a child, at least in the eyes of your parents.\n\nI miss the days I spent with them, no matter what, my past memories are beautiful ones."
+     1 string japanese = "\n\nふと思う。大学入試前後で私という存在は大きく変わったのではないかと。少なくとも両親にとって、私はもう「子ども」ではなくなったからだろうか。\n\nそれでも、親と一緒に暮らした日々はすべてが懐かしく、美しく思える。"
+     1 string mchinese = "\n\n我時常在想，高考前和高考後的生活似乎很不一樣。現在想起來，大概就是自己再也不是一個孩子了，至少在父母眼裏不再是了。\n\n現在很懷念和父母經常在一起的日子，覺得不管怎樣都很美好。"
+   [18509]
+    0 TableSoItemLang data
+     0 int id = 1028510
+     1 string schinese = "和我关系最好的{0},最终也随着毕业，慢慢散落在天涯。"
+     1 string schinese_censored = "和我关系最好的{0}，最终也随着毕业，慢慢散落在天涯。"
+     1 string english = "My best friend {0} graduated at the same time I did, and we slowly lost contact."
+     1 string japanese = "一番仲のよかった{0}とも、卒業後に会うことはなかった。"
+     1 string mchinese = "和我關係最好的{0},最終也隨著畢業，慢慢散落在天涯。"
+   [18510]
+    0 TableSoItemLang data
+     0 int id = 1028511
+     1 string schinese = "\n\n而我的那些好朋友们，"
+     1 string schinese_censored = "\n\n而我的那些好朋友们，"
+     1 string english = "\n\nAnd those friends of mine."
+     1 string japanese = "\n\nそして私の友達、"
+     1 string mchinese = "\n\n而我的那些好朋友們，"
+   [18511]
+    0 TableSoItemLang data
+     0 int id = 1028512
+     1 string schinese = "\n\n而仔细想想，因为早年父母的教育，自己也有一些特质啊，比如，"
+     1 string schinese_censored = "\n\n而仔细想想，因为早年父母的教育，自己也有一些特质啊，比如，"
+     1 string english = "\n\nNow that I think of it, because of how my parents educated me, I also have a few idiosyncrasies, for example,"
+     1 string japanese = "\n\n両親の教育のおかげで、それなりの能力を得た。たとえば、"
+     1 string mchinese = "\n\n而仔細想想，因為早年父母的教育，自己也有一些特質啊，比如，"
+   [18512]
+    0 TableSoItemLang data
+     0 int id = 1028513
+     1 string schinese = "随着大学生活的结束，我和大多数人一样，要走上工作岗位...我最终成为了{0}。{1}"
+     1 string schinese_censored = "随着大学生活的结束，我和大多数人一样，要走上工作岗位...我最终成为了{0}。{1}"
+     1 string english = "Now that university life is coming to an end, I, as well as most others, have set out to find work. In the end I became a(n) {0}. {1}"
+     1 string japanese = "大学生活が終わって、就職し…{0}になった。{1}"
+     1 string mchinese = "隨著大學生活的結束，我和大多數人一樣，要走上工作崗位...我最終成為了{0}。{1}"
+   [18513]
+    0 TableSoItemLang data
+     0 int id = 1028514
+     1 string schinese = "\n智商天赋+{0} 情商天赋+{1} 想象力天赋+{2} 记忆力天赋+{3} 体魄天赋+{4}"

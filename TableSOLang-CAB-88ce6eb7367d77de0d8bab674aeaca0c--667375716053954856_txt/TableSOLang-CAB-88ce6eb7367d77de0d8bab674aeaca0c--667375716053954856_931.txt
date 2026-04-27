@@ -1,0 +1,184 @@
+     1 string schinese_censored = "QQ"
+     1 string english = "QQ"
+     1 string japanese = "QQ"
+     1 string mchinese = "QQ"
+   [21389]
+    0 TableSoItemLang data
+     0 int id = 6600003
+     1 string schinese = "微信"
+     1 string schinese_censored = "微信"
+     1 string english = "WeChat"
+     1 string japanese = "微信"
+     1 string mchinese = "微信"
+   [21390]
+    0 TableSoItemLang data
+     0 int id = 6600004
+     1 string schinese = "买不起"
+     1 string schinese_censored = "买不起"
+     1 string english = "Sorry"
+     1 string japanese = "購入不可"
+     1 string mchinese = "買不起"
+   [21391]
+    0 TableSoItemLang data
+     0 int id = 6600005
+     1 string schinese = "下一页"
+     1 string schinese_censored = "下一页"
+     1 string english = "Next Page"
+     1 string japanese = "次のページ"
+     1 string mchinese = "下一頁"
+   [21392]
+    0 TableSoItemLang data
+     0 int id = 6600006
+     1 string schinese = "目前仅支持游客登录"
+     1 string schinese_censored = "目前仅支持游客登录"
+     1 string english = "Only guest login is supported at the moment."
+     1 string japanese = "PC/NS不用翻譯"
+     1 string mchinese = "目前僅支持遊客登錄"
+   [21393]
+    0 TableSoItemLang data
+     0 int id = 6600007
+     1 string schinese = "（ 点击屏幕上的金句，提高作文分数 ）"
+     1 string schinese_censored = "（ 点击荧幕上的金句，提高作文分数 ）"
+     1 string english = "(Click inspiration bubbles and increase your writing score)"
+     1 string japanese = "（ヒラメキを選び、作文の点数を上げる）"
+     1 string mchinese = "（ 點擊螢幕上的金句，提高作文分數 ）"
+   [21394]
+    0 TableSoItemLang data
+     0 int id = 6600008
+     1 string schinese = "请选择登录方式"
+     1 string schinese_censored = "请选择登录方式"
+     1 string english = "Select a login method."
+     1 string japanese = "PC/NS不用翻譯"
+     1 string mchinese = "請選擇登錄方式"
+   [21395]
+    0 TableSoItemLang data
+     0 int id = 6600009
+     1 string schinese = "手机登录"
+     1 string schinese_censored = "手机登录"
+     1 string english = "Mobile"
+     1 string japanese = "PC/NS不用翻譯"
+     1 string mchinese = "手機登錄"
+   [21396]
+    0 TableSoItemLang data
+     0 int id = 6600010
+     1 string schinese = "QQ登录"
+     1 string schinese_censored = "QQ登录"
+     1 string english = "QQ"
+     1 string japanese = "PC/NS不用翻譯"
+     1 string mchinese = "QQ登錄"
+   [21397]
+    0 TableSoItemLang data
+     0 int id = 6600011
+     1 string schinese = "微信登录"
+     1 string schinese_censored = "微信登录"
+     1 string english = "WeChat"
+     1 string japanese = "PC/NS不用翻譯"
+     1 string mchinese = "微信登錄"
+   [21398]
+    0 TableSoItemLang data
+     0 int id = 6600012
+     1 string schinese = "游客登录"
+     1 string schinese_censored = "游客登录"
+     1 string english = "Guest"
+     1 string japanese = "ゲスト登録"
+     1 string mchinese = "遊客登錄"
+   [21399]
+    0 TableSoItemLang data
+     0 int id = 6600013
+     1 string schinese = "健康游戏公告"
+     1 string schinese_censored = "健康游戏公告"
+     1 string english = "Game Announcement"
+     1 string japanese = "PC/NS不用翻譯"
+     1 string mchinese = "健康遊戲公告"
+   [21400]
+    0 TableSoItemLang data
+     0 int id = 6600014
+     1 string schinese = "（本世代已经结束了，点击【继续】按钮，进行下一代培养！继承了这么多属性，下一代会做的更好吧！）"
+     1 string schinese_censored = "（本世代已经结束了，点击【继续】按钮，进行下一代培养！继承了这么多属性，下一代会做的更好吧！）"
+     1 string english = "(This generation has already ended. Click [Continue] to start the next generation! You've inherited plenty of stats, so the next generation should fare better!)"
+     1 string japanese = "（現世代はこれで終了。【継続】を選んで次世代を開始しよう！これだけ能力を受け継いだんだから、次世代はもっと頑張ろう！）"
+     1 string mchinese = "（本世代已經結束了，點擊【繼續】按鈕，進行下一代培養！繼承了這麼多屬性，下一代會做的更好吧！）"
+   [21401]
+    0 TableSoItemLang data
+     0 int id = 6600015
+     1 string schinese = "Facebook"
+     1 string schinese_censored = "Facebook"
+     1 string english = "Facebook"
+     1 string japanese = "Facebook"
+     1 string mchinese = "Facebook"
+   [21402]
+    0 TableSoItemLang data
+     0 int id = 6600016
+     1 string schinese = "退出游戏"
+     1 string schinese_censored = "退出游戏"
+     1 string english = "Exit Game"
+     1 string japanese = "ゲーム終了"
+     1 string mchinese = "退出遊戲"
+   [21403]
+    0 TableSoItemLang data
+     0 int id = 6600017
+     1 string schinese = "现在退出游戏，当前回合的数据将不会上传至存档，确定退出吗？"
+     1 string schinese_censored = "现在退出游戏，当前回合的数据将不会上传至存档，确定退出吗？"
+     1 string english = "If you exit the game now, actions taken on the current turn will not be saved. Do you wish to exit anyway?"
+     1 string japanese = "（現世代はこれで終了。【継続】を選んで次世代を開始しよう！これだけ能力を受け継いだら、次世代はうまくいくはず！）"
+     1 string mchinese = "現在退出遊戲，當前回合的數據將不會上傳至存檔，確定退出嗎？"
+   [21404]
+    0 TableSoItemLang data
+     0 int id = 6600018
+     1 string schinese = "获取验证码"
+     1 string schinese_censored = "获取验证码"
+     1 string english = "Get Verification Code"
+     1 string japanese = "PC/NS不用翻譯"
+     1 string mchinese = "獲取驗證碼"
+   [21405]
+    0 TableSoItemLang data
+     0 int id = 6600019
+     1 string schinese = "登录"
+     1 string schinese_censored = "登录"
+     1 string english = "Log In"
+     1 string japanese = "PC/NS不用翻譯"
+     1 string mchinese = "登錄"
+   [21406]
+    0 TableSoItemLang data
+     0 int id = 6600020
+     1 string schinese = "请输入手机号"
+     1 string schinese_censored = "请输入手机号"
+     1 string english = "Enter a phone number."
+     1 string japanese = "PC/NS不用翻譯"
+     1 string mchinese = "請輸入手機號"
+   [21407]
+    0 TableSoItemLang data
+     0 int id = 6600021
+     1 string schinese = "请输入验证码"
+     1 string schinese_censored = "请输入验证码"
+     1 string english = "Enter your verification code."
+     1 string japanese = "PC/NS不用翻譯"
+     1 string mchinese = "請輸入驗證碼"
+   [21408]
+    0 TableSoItemLang data
+     0 int id = 6600022
+     1 string schinese = "提 示"
+     1 string schinese_censored = "提 示"
+     1 string english = "Tip"
+     1 string japanese = "ヒント"
+     1 string mchinese = "提 示"
+   [21409]
+    0 TableSoItemLang data
+     0 int id = 6600023
+     1 string schinese = "抉择"
+     1 string schinese_censored = "抉择"
+     1 string english = "Choice"
+     1 string japanese = "選択"
+     1 string mchinese = "抉擇"
+   [21410]
+    0 TableSoItemLang data
+     0 int id = 6600024
+     1 string schinese = "换一换"
+     1 string schinese_censored = "换一换"
+     1 string english = "Refresh"
+     1 string japanese = "入れ替え"
+     1 string mchinese = "換一換"
+   [21411]
+    0 TableSoItemLang data
+     0 int id = 6600025
+     1 string schinese = "成功率 75%"

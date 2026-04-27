@@ -1,0 +1,184 @@
+     1 string schinese_censored = "英语3级"
+     1 string english = "English Level 3"
+     1 string japanese = "英語III"
+     1 string mchinese = "英語3級"
+   [3104]
+    0 TableSoItemLang data
+     0 int id = 1013105
+     1 string schinese = "英语4级"
+     1 string schinese_censored = "英语4级"
+     1 string english = "English Level 4"
+     1 string japanese = "英語IV"
+     1 string mchinese = "英語4級"
+   [3105]
+    0 TableSoItemLang data
+     0 int id = 1013106
+     1 string schinese = "英语5级"
+     1 string schinese_censored = "英语5级"
+     1 string english = "English Level 5"
+     1 string japanese = "英語V"
+     1 string mchinese = "英語5級"
+   [3106]
+    0 TableSoItemLang data
+     0 int id = 1013107
+     1 string schinese = "英语6级"
+     1 string schinese_censored = "英语6级"
+     1 string english = "English Level 6"
+     1 string japanese = "英語VI"
+     1 string mchinese = "英語6級"
+   [3107]
+    0 TableSoItemLang data
+     0 int id = 1013108
+     1 string schinese = "英语7级"
+     1 string schinese_censored = "英语7级"
+     1 string english = "English Level 7"
+     1 string japanese = "英語VII"
+     1 string mchinese = "英語7級"
+   [3108]
+    0 TableSoItemLang data
+     0 int id = 1013109
+     1 string schinese = "英语8级"
+     1 string schinese_censored = "英语8级"
+     1 string english = "English Level 8"
+     1 string japanese = "英語VIII"
+     1 string mchinese = "英語8級"
+   [3109]
+    0 TableSoItemLang data
+     0 int id = 1013110
+     1 string schinese = "英语9级"
+     1 string schinese_censored = "英语9级"
+     1 string english = "English Level 9"
+     1 string japanese = "英語IX"
+     1 string mchinese = "英語9級"
+   [3110]
+    0 TableSoItemLang data
+     0 int id = 1013111
+     1 string schinese = "英语10级"
+     1 string schinese_censored = "英语10级"
+     1 string english = "English Level 10"
+     1 string japanese = "英語X"
+     1 string mchinese = "英語10級"
+   [3111]
+    0 TableSoItemLang data
+     0 int id = 1013112
+     1 string schinese = "理科综合1级"
+     1 string schinese_censored = "理科综合1级"
+     1 string english = "Int. Science Level 1"
+     1 string japanese = "総合理系I"
+     1 string mchinese = "理科綜合1級"
+   [3112]
+    0 TableSoItemLang data
+     0 int id = 1013113
+     1 string schinese = "理科综合2级"
+     1 string schinese_censored = "理科综合2级"
+     1 string english = "Int. Science Level 2"
+     1 string japanese = "総合理系II"
+     1 string mchinese = "理科綜合2級"
+   [3113]
+    0 TableSoItemLang data
+     0 int id = 1013114
+     1 string schinese = "理科综合3级"
+     1 string schinese_censored = "理科综合3级"
+     1 string english = "Int. Science Level 3"
+     1 string japanese = "総合理系III"
+     1 string mchinese = "理科綜合3級"
+   [3114]
+    0 TableSoItemLang data
+     0 int id = 1013115
+     1 string schinese = "理科综合4级"
+     1 string schinese_censored = "理科综合4级"
+     1 string english = "Int. Science Level 4"
+     1 string japanese = "総合理系IV"
+     1 string mchinese = "理科綜合4級"
+   [3115]
+    0 TableSoItemLang data
+     0 int id = 1013116
+     1 string schinese = "理科综合5级"
+     1 string schinese_censored = "理科综合5级"
+     1 string english = "Int. Science Level 5"
+     1 string japanese = "総合理系V"
+     1 string mchinese = "理科綜合5級"
+   [3116]
+    0 TableSoItemLang data
+     0 int id = 1013117
+     1 string schinese = "理科综合6级"
+     1 string schinese_censored = "理科综合6级"
+     1 string english = "Int. Science Level 6"
+     1 string japanese = "総合理系VI"
+     1 string mchinese = "理科綜合6級"
+   [3117]
+    0 TableSoItemLang data
+     0 int id = 1013118
+     1 string schinese = "理科综合7级"
+     1 string schinese_censored = "理科综合7级"
+     1 string english = "Int. Science Level 7"
+     1 string japanese = "総合理系VII"
+     1 string mchinese = "理科綜合7級"
+   [3118]
+    0 TableSoItemLang data
+     0 int id = 1013119
+     1 string schinese = "理科综合8级"
+     1 string schinese_censored = "理科综合8级"
+     1 string english = "Int. Science Level 8"
+     1 string japanese = "総合理系VIII"
+     1 string mchinese = "理科綜合8級"
+   [3119]
+    0 TableSoItemLang data
+     0 int id = 1013120
+     1 string schinese = "理科综合9级"
+     1 string schinese_censored = "理科综合9级"
+     1 string english = "Int. Science Level 9"
+     1 string japanese = "総合理系IX"
+     1 string mchinese = "理科綜合9級"
+   [3120]
+    0 TableSoItemLang data
+     0 int id = 1013121
+     1 string schinese = "理科综合10级"
+     1 string schinese_censored = "理科综合10级"
+     1 string english = "Int. Science Level 10"
+     1 string japanese = "総合理系X"
+     1 string mchinese = "理科綜合10級"
+   [3121]
+    0 TableSoItemLang data
+     0 int id = 1013122
+     1 string schinese = "理科综合11级"
+     1 string schinese_censored = "理科综合11级"
+     1 string english = "Int. Science Level 11"
+     1 string japanese = "総合理系XI"
+     1 string mchinese = "理科綜合11級"
+   [3122]
+    0 TableSoItemLang data
+     0 int id = 1013123
+     1 string schinese = "理科综合12级"
+     1 string schinese_censored = "理科综合12级"
+     1 string english = "Int. Science Level 12"
+     1 string japanese = "総合理系XII"
+     1 string mchinese = "理科綜合12級"
+   [3123]
+    0 TableSoItemLang data
+     0 int id = 1013124
+     1 string schinese = "理科综合13级"
+     1 string schinese_censored = "理科综合13级"
+     1 string english = "Int. Science Level 13"
+     1 string japanese = "総合理系XIII"
+     1 string mchinese = "理科綜合13級"
+   [3124]
+    0 TableSoItemLang data
+     0 int id = 1013125
+     1 string schinese = "理科综合14级"
+     1 string schinese_censored = "理科综合14级"
+     1 string english = "Int. Science Level 14"
+     1 string japanese = "総合理系XIV"
+     1 string mchinese = "理科綜合14級"
+   [3125]
+    0 TableSoItemLang data
+     0 int id = 1013126
+     1 string schinese = "理科综合15级"
+     1 string schinese_censored = "理科综合15级"
+     1 string english = "Int. Science Level 15"
+     1 string japanese = "総合理系XV"
+     1 string mchinese = "理科綜合15級"
+   [3126]
+    0 TableSoItemLang data
+     0 int id = 1013127
+     1 string schinese = "理科综合16级"

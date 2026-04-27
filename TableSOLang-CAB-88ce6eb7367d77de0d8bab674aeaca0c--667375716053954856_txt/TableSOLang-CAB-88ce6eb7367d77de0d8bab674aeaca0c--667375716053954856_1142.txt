@@ -1,0 +1,184 @@
+     1 string schinese_censored = "*家族等级通过收集特长、职业提升，并且世代传承"
+     1 string english = "*Family Level increases as you unlock more traits, professions and collectibles."
+     1 string japanese = "※図鑑レベルは特技や職業を集めることで上がり、世代を越えて継承されます。"
+     1 string mchinese = "*家族等級通過收集特長、職業提升，並且世代傳承"
+   [26242]
+    0 TableSoItemLang data
+     0 int id = 1596172529
+     1 string schinese = "家族等级达到{0}级"
+     1 string schinese_censored = "家族等级达到{0}级"
+     1 string english = "Family Level {0} reached."
+     1 string japanese = "図鑑レベルが{0}になった！"
+     1 string mchinese = "家族等級達到{0}級"
+   [26243]
+    0 TableSoItemLang data
+     0 int id = 1596172530
+     1 string schinese = "解锁新内容"
+     1 string schinese_censored = "解锁新内容"
+     1 string english = "Unlock New Content"
+     1 string japanese = "特典解放"
+     1 string mchinese = "解鎖新內容"
+   [26244]
+    0 TableSoItemLang data
+     0 int id = 1596172531
+     1 string schinese = "家族等级提升！"
+     1 string schinese_censored = "家族等级提升！"
+     1 string english = "Family Level increased!"
+     1 string japanese = "図鑑レベルアップ！"
+     1 string mchinese = "家族等級提升！"
+   [26245]
+    0 TableSoItemLang data
+     0 int id = 1596172532
+     1 string schinese = "下一世代属性加成"
+     1 string schinese_censored = "下一世代属性加成"
+     1 string english = "Stat Bonus on Next Gen"
+     1 string japanese = "次世代能力ボーナス"
+     1 string mchinese = "下一世代屬性加成"
+   [26246]
+    0 TableSoItemLang data
+     0 int id = 1596172533
+     1 string schinese = "职业加成"
+     1 string schinese_censored = "职业加成"
+     1 string english = "Profession Bonus"
+     1 string japanese = "職業ボーナス"
+     1 string mchinese = "職業加成"
+   [26247]
+    0 TableSoItemLang data
+     0 int id = 1596172534
+     1 string schinese = "配偶加成"
+     1 string schinese_censored = "配偶加成"
+     1 string english = "Partner Bonus"
+     1 string japanese = "配偶者ボーナス"
+     1 string mchinese = "配偶加成"
+   [26248]
+    0 TableSoItemLang data
+     0 int id = 1596172535
+     1 string schinese = "传家宝加成"
+     1 string schinese_censored = "传家宝加成"
+     1 string english = "Family Heirloom Bonus"
+     1 string japanese = "家宝ボーナス"
+     1 string mchinese = "傳家寶加成"
+   [26249]
+    0 TableSoItemLang data
+     0 int id = 1596172536
+     1 string schinese = "总计"
+     1 string schinese_censored = "总计"
+     1 string english = "Total"
+     1 string japanese = "合計"
+     1 string mchinese = "總計"
+   [26250]
+    0 TableSoItemLang data
+     0 int id = 1596172537
+     1 string schinese = "新职业路线"
+     1 string schinese_censored = "新职业路线"
+     1 string english = "New Professions"
+     1 string japanese = "新職業ルート"
+     1 string mchinese = "新職業路線"
+   [26251]
+    0 TableSoItemLang data
+     0 int id = 1596172538
+     1 string schinese = "解锁后可从事"
+     1 string schinese_censored = "解锁后可从事"
+     1 string english = "Becomes available after unlocking."
+     1 string japanese = "アンロック後に選択可能"
+     1 string mchinese = "解鎖後可從事"
+   [26252]
+    0 TableSoItemLang data
+     0 int id = 1596172539
+     1 string schinese = "新商品"
+     1 string schinese_censored = "新商品"
+     1 string english = "New Goods"
+     1 string japanese = "新商品"
+     1 string mchinese = "新商品"
+   [26253]
+    0 TableSoItemLang data
+     0 int id = 1596172540
+     1 string schinese = "解锁后可购买"
+     1 string schinese_censored = "解锁后可购买"
+     1 string english = "Becomes purchasable after unlocking."
+     1 string japanese = "アンロック後に購入可能"
+     1 string mchinese = "解鎖後可購買"
+   [26254]
+    0 TableSoItemLang data
+     0 int id = 1596172541
+     1 string schinese = "请先安装微信"
+     1 string schinese_censored = "请先安装微信"
+     1 string english = "You must install WeChat first."
+     1 string japanese = "WeChatを先にインストールしてください。"
+     1 string mchinese = "請先安裝微信"
+   [26255]
+    0 TableSoItemLang data
+     0 int id = 1596172542
+     1 string schinese = "请先安装QQ"
+     1 string schinese_censored = "请先安装QQ"
+     1 string english = "You must install QQ first."
+     1 string japanese = "QQを先にインストールしてください"
+     1 string mchinese = "請先安裝QQ"
+   [26256]
+    0 TableSoItemLang data
+     0 int id = 1596172543
+     1 string schinese = "未授权，登录失败"
+     1 string schinese_censored = "未授权，登录失败"
+     1 string english = "Permission not granted; login failed."
+     1 string japanese = "権限がありません。ログイン失敗"
+     1 string mchinese = "未授權，登錄失敗"
+   [26257]
+    0 TableSoItemLang data
+     0 int id = 1596172544
+     1 string schinese = "获取存档失败，请重新登录"
+     1 string schinese_censored = "获取存档失败，请重新登录"
+     1 string english = "Failed to fetch save data, please login again."
+     1 string japanese = "データ保存失敗。改めてログインしてください"
+     1 string mchinese = "獲取存檔失敗，請重新登錄"
+   [26258]
+    0 TableSoItemLang data
+     0 int id = 1596172545
+     1 string schinese = "扫码下载，创造成长回忆"
+     1 string schinese_censored = "扫码下载，创造成长回忆"
+     1 string english = "Scan to download and embark on your journey."
+     1 string japanese = "ダウンロードして、成長の記憶を作ろう"
+     1 string mchinese = "掃碼下載，創造成長回憶"
+   [26259]
+    0 TableSoItemLang data
+     0 int id = 1596172546
+     1 string schinese = "悟性不足，去挖脑洞吧~"
+     1 string schinese_censored = "悟性不足，去挖脑洞吧~"
+     1 string english = "Not enough Knowledge. You better go absorb some fragments!"
+     1 string japanese = "理解力が足りないぞ。カケラを集めよう！"
+     1 string mchinese = "悟性不足，去挖腦洞吧~"
+   [26260]
+    0 TableSoItemLang data
+     0 int id = 1596172547
+     1 string schinese = "分享成绩单"
+     1 string schinese_censored = "分享成绩单"
+     1 string english = "Share Exam Results"
+     1 string japanese = "成績表シェア"
+     1 string mchinese = "分享成績單"
+   [26261]
+    0 TableSoItemLang data
+     0 int id = 1596172548
+     1 string schinese = "确定要给TA看看这孩子的成绩单吗？"
+     1 string schinese_censored = "确定要给TA看看这孩子的成绩单吗？"
+     1 string english = "Are you sure you wish to share these exam result?"
+     1 string japanese = "この子の成績表をシェアしますか？"
+     1 string mchinese = "確定要給TA看看這孩子的成績單嗎？"
+   [26262]
+    0 TableSoItemLang data
+     0 int id = 1596172549
+     1 string schinese = "下次吧"
+     1 string schinese_censored = "下次吧"
+     1 string english = "No"
+     1 string japanese = "また今度"
+     1 string mchinese = "下次吧"
+   [26263]
+    0 TableSoItemLang data
+     0 int id = 1596172550
+     1 string schinese = "告诉TA"
+     1 string schinese_censored = "告诉TA"
+     1 string english = "Share"
+     1 string japanese = "シェアする"
+     1 string mchinese = "告訴TA"
+   [26264]
+    0 TableSoItemLang data
+     0 int id = 1596172551
+     1 string schinese = "{0}:\n请凭通知书到我校报到"

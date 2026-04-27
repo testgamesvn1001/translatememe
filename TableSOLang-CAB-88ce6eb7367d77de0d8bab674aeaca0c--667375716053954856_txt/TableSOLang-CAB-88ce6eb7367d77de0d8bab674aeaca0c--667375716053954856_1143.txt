@@ -1,0 +1,184 @@
+     1 string schinese_censored = "{0}:\n请凭通知书到我校报到"
+     1 string english = "{0}:\nBring your Letter of Admission and register at school."
+     1 string japanese = "{0}:\n通知書を持って我が校にお越しください"
+     1 string mchinese = "{0}:\n請憑通知書到我校報到"
+   [26265]
+    0 TableSoItemLang data
+     0 int id = 1596172552
+     1 string schinese = "*若未购买学区房，每一次升学均需缴纳择校费*"
+     1 string schinese_censored = "*若未购买学区房，每一次升学均需缴纳择校费*"
+     1 string english = "*If you do not have a housing near a school, each new school you enter requires a Tuition.*"
+     1 string japanese = "*学区内住宅を購入していない場合、進学するたびに学校選択費を支払う必要があります*"
+     1 string mchinese = "*若未購買學區房，每一次升學均需繳納擇校費*"
+   [26266]
+    0 TableSoItemLang data
+     0 int id = 1596172553
+     1 string schinese = "入住学区房\n小学、初中、高中\n免费就近入学\n无需再次缴纳学费"
+     1 string schinese_censored = "入住学区房\n小学、初中、高中\n免费就近入学\n无需再次缴纳学费"
+     1 string english = "If you have a house near a school\nthere will be no tuition fee\nfor entering\nprimary, junior and high school."
+     1 string japanese = "学区内住宅に居住\n小学校・中学校・高校\n無料で近くの学校に入学\n授業料不要"
+     1 string mchinese = "入住學區房\n小學、初中、高中\n免費就近入學\n無需再次繳納學費"
+   [26267]
+    0 TableSoItemLang data
+     0 int id = 1596172554
+     1 string schinese = "【入学通知书模式】"
+     1 string schinese_censored = "【入学通知书模式】"
+     1 string english = "[Letter of Admission]"
+     1 string japanese = "【入学通知書モード】"
+     1 string mchinese = "【入學通知書模式】"
+   [26268]
+    0 TableSoItemLang data
+     0 int id = 1596172555
+     1 string schinese = "每一次升学，即进入小学、初中和高中时，均会收到一张入学通知书，你需要支付相应的学费后方可继续游戏。"
+     1 string schinese_censored = "每一次升学，即进入小学、初中和高中时，均会收到一张入学通知书，你需要支付相应的学费后方可继续游戏。"
+     1 string english = "You will receive a Letter of Admission upon entering primary, junior and high school. You can continue the game upon having paid the tuition."
+     1 string japanese = "小学校・中学校・高校に進学するたびに、入学通知書が送られてきます。授業料を支払うと、ゲームを続けることができます。"
+     1 string mchinese = "每一次升學，即進入小學、初中和高中時，均會收到一張入學通知書，你需要支付相應的學費後方可繼續遊戲。"
+   [26269]
+    0 TableSoItemLang data
+     0 int id = 1596172556
+     1 string schinese = "【学区房免费入学模式】"
+     1 string schinese_censored = "【学区房免费入学模式】"
+     1 string english = "[Tuition Exempted for School District Housing]"
+     1 string japanese = "【学区内住宅で無料入学モード】"
+     1 string mchinese = "【學區房免費入學模式】"
+   [26270]
+    0 TableSoItemLang data
+     0 int id = 1596172557
+     1 string schinese = "购买学区房后，无需为小学、初中和高中支付学费，即可畅玩游戏。\n<color=#EB7350>该模式为一次性付费，每个世代均可享受</color>"
+     1 string schinese_censored = "购买学区房后，无需为小学、初中和高中支付学费，即可畅玩游戏。\n<color=#EB7350>该模式为一次性付费，每个世代均可享受</color>"
+     1 string english = "After having bought a house near a school, there will be no tuition for primary, junior and high school.\n<color=#EB7350>This is a one-time cost that is valid for all future generations.</color>"
+     1 string japanese = "学区内住宅を購入すると、小学校・中学校・高校で授業料を支払う必要はありません。ゲームを遊び放題です。\n<color=#EB7350>このモードでは、一度支払うと、世代に関係なく有効となります</color>"
+     1 string mchinese = "購買學區房後，無需為小學、初中和高中支付學費，即可暢玩遊戲。\n<color=#EB7350>該模式為一次性付費，每個世代均可享受</color>"
+   [26271]
+    0 TableSoItemLang data
+     0 int id = 1596172558
+     1 string schinese = "检测到您的账号授权已过期，此次购买操作无效，请重新授权"
+     1 string schinese_censored = "检测到您的账号授权已过期，此次购买操作无效，请重新授权"
+     1 string english = "Your account's permission has expired and your purchase operation failed. Reactivate permissions."
+     1 string japanese = "アカウント権限の期限が切れています。今回の購入操作は無効です。改めて権限を付与してください"
+     1 string mchinese = "檢測到您的帳號授權已過期，此次購買操作無效，請重新授權"
+   [26272]
+    0 TableSoItemLang data
+     0 int id = 1596172559
+     1 string schinese = "授权失败，请重新登录"
+     1 string schinese_censored = "授权失败，请重新登录"
+     1 string english = "Permissions failed. Please login again."
+     1 string japanese = "ライセンス付与失敗。再度ログインしてください"
+     1 string mchinese = "授權失敗，請重新登錄"
+   [26273]
+    0 TableSoItemLang data
+     0 int id = 1596172560
+     1 string schinese = "注：游客模式无法进行充值和内购"
+     1 string schinese_censored = "注：游客模式无法进行充值和内购"
+     1 string english = "Note: Top up and in-game purchases are not available for guest accounts."
+     1 string japanese = "注：ゲストアカウントではチャージやアプリ内購入ができません"
+     1 string mchinese = "注：遊客模式無法進行充值和內購"
+   [26274]
+    0 TableSoItemLang data
+     0 int id = 1596172561
+     1 string schinese = "游客模式无法进行充值和内购"
+     1 string schinese_censored = "游客模式无法进行充值和内购"
+     1 string english = "Top up and in-game purchases are not available for guest accounts."
+     1 string japanese = "ゲストアカウントではチャージやアプリ内購入ができません"
+     1 string mchinese = "遊客模式無法進行充值和內購"
+   [26275]
+    0 TableSoItemLang data
+     0 int id = 1596172562
+     1 string schinese = "收集度点数："
+     1 string schinese_censored = "收集度点数："
+     1 string english = "Collection Points:"
+     1 string japanese = "獲得ポイント数："
+     1 string mchinese = "收集度點數："
+   [26276]
+    0 TableSoItemLang data
+     0 int id = 1596172563
+     1 string schinese = "家族等级世代相传。\n解锁职业和特长，均会为家族等级累积经验。\n每提升一个家族等级，会获得奖励内容，玩家从下一世代起可以体验对应玩法。"
+     1 string schinese_censored = "家族等级世代相传。\n解锁职业和特长，均会为家族等级累积经验。\n每提升一个家族等级，会获得奖励内容，玩家从下一世代起可以体验对应玩法。"
+     1 string english = "Family Level persists through generations.\nUnlocking new professions and traits grants you Gallery XP.\nRewards unlocked by leveling up your Gallery become available in the next generation."
+     1 string japanese = "図鑑レベルは世代間で引き継げます。\n職業と特技のロックを解除することで、経験値を得てレベルが上昇します。\nレベルアップごとにボーナス特典を得られます。\nボーナス特典は次世代より使用可能です。"
+     1 string mchinese = "家族等級世代相傳。\n解鎖職業和特長，均會為家族等級累積經驗。\n每提升一個家族等級，會獲得獎勵內容，玩家從下一世代起可以體驗對應玩法。"
+   [26277]
+    0 TableSoItemLang data
+     0 int id = 1596172564
+     1 string schinese = "注意：部分奖励内容有性别限制。需等到对应性别的世代方可体验。"
+     1 string schinese_censored = "注意：部分奖励内容有性别限制。需等到对应性别的世代方可体验。"
+     1 string english = "Note: Some rewards are restricted and can only be used by a certain gender."
+     1 string japanese = "注意：一部のボーナスは性別が制限されています。対応した性別で開始されないと有効になりません。"
+     1 string mchinese = "注意：部分獎勵內容有性別限制。需等到對應性別的世代方可體驗。"
+   [26278]
+    0 TableSoItemLang data
+     0 int id = 1596172565
+     1 string schinese = "奖励内容出现♂标记，需要主角是儿子，方可体验"
+     1 string schinese_censored = "奖励内容出现♂标记，需要主角是儿子，方可体验"
+     1 string english = "Rewards that contain a ♂ symbol can only be used by males."
+     1 string japanese = "♂マークのボーナスは男性のみ有効となります"
+     1 string mchinese = "獎勵內容出現♂標記，需要主角是兒子，方可體驗"
+   [26279]
+    0 TableSoItemLang data
+     0 int id = 1596172566
+     1 string schinese = "奖励内容出现♀标记，需要主角是女儿，方可体验"
+     1 string schinese_censored = "奖励内容出现♀标记，需要主角是女儿，方可体验"
+     1 string english = "Rewards that contain a ♀ symbol can only be used by females."
+     1 string japanese = "♀マークのボーナスは女性のみ有効となります"
+     1 string mchinese = "獎勵內容出現♀標記，需要主角是女兒，方可體驗"
+   [26280]
+    0 TableSoItemLang data
+     0 int id = 1596172567
+     1 string schinese = "脑洞说明"
+     1 string schinese_censored = "脑洞说明"
+     1 string english = "Fragment Info"
+     1 string japanese = "カケラの説明"
+     1 string mchinese = "腦洞說明"
+   [26281]
+    0 TableSoItemLang data
+     0 int id = 1596172568
+     1 string schinese = "*请选择想要了解的内容*"
+     1 string schinese_censored = "*请选择想要了解的内容*"
+     1 string english = "*Select the content you wish to learn more about*"
+     1 string japanese = "※知りたい内容を選択してください"
+     1 string mchinese = "*請選擇想要瞭解的內容*"
+   [26282]
+    0 TableSoItemLang data
+     0 int id = 1596172569
+     1 string schinese = "上一页"
+     1 string schinese_censored = "上一页"
+     1 string english = "Previous Page"
+     1 string japanese = "前のページ"
+     1 string mchinese = "上一頁"
+   [26283]
+    0 TableSoItemLang data
+     0 int id = 1596172570
+     1 string schinese = "下一页"
+     1 string schinese_censored = "下一页"
+     1 string english = "Next Page"
+     1 string japanese = "次のページ"
+     1 string mchinese = "下一頁"
+   [26284]
+    0 TableSoItemLang data
+     0 int id = 1596172571
+     1 string schinese = "返回首页"
+     1 string schinese_censored = "返回首页"
+     1 string english = "Return"
+     1 string japanese = "最初に戻る"
+     1 string mchinese = "返回首頁"
+   [26285]
+    0 TableSoItemLang data
+     0 int id = 1596172572
+     1 string schinese = "普通脑洞"
+     1 string schinese_censored = "普通脑洞"
+     1 string english = "Common Fragment"
+     1 string japanese = "通常カケラ"
+     1 string mchinese = "普通腦洞"
+   [26286]
+    0 TableSoItemLang data
+     0 int id = 1596172573
+     1 string schinese = "特殊脑洞"
+     1 string schinese_censored = "特殊脑洞"
+     1 string english = "Special Fragment"
+     1 string japanese = "特殊カケラ"
+     1 string mchinese = "特殊腦洞"
+   [26287]
+    0 TableSoItemLang data
+     0 int id = 1596172574
+     1 string schinese = "脑洞层数"

@@ -1,0 +1,184 @@
+     1 string schinese_censored = "通过练习:简单会话（英）获得\n\n英语角里的常客"
+     1 string english = "Get by practicing: Conversation 101\n\nA frequenter of English corners."
+     1 string japanese = "特技獲得条件：英会話\n\n英会話カフェの常連客。"
+     1 string mchinese = "通過練習:簡單會話（英）獲得\n\n英語角裏的常客"
+   [1977]
+    0 TableSoItemLang data
+     0 int id = 1011978
+     1 string schinese = "通过练习:英语语法（英）获得\n\n一般现在式和现在完成时的主要区别是什么？"
+     1 string schinese_censored = "通过练习:英语语法（英）获得\n\n一般现在式和现在完成时的主要区别是什么？"
+     1 string english = "Get by practicing: English Grammar\n\nWhat is the main difference between the present tense and the present perfect tense?"
+     1 string japanese = "特技獲得条件：英文法\n\n現在形と現在完了形の違いは？"
+     1 string mchinese = "通過練習:英語語法（英）獲得\n\n一般現在式和現在完成時的主要區別是什麼？"
+   [1978]
+    0 TableSoItemLang data
+     0 int id = 1011979
+     1 string schinese = "通过练习:英语听力（英）获得\n\n水电偏冷，核电偏硬！"
+     1 string schinese_censored = "通过练习:英语听力（英）获得\n\n水电偏冷，核电偏硬！"
+     1 string english = "Get by practicing: Listening Comprehension\n\nWait a minute, should I take right here, or was left right?"
+     1 string japanese = "特技獲得条件：リスニング\n\n水力発電の電気は音が寂しくなる。原子力発電だと良い音が出る！"
+     1 string mchinese = "通過練習:英語聽力（英）獲得\n\n水電偏冷，核電偏硬！"
+   [1979]
+    0 TableSoItemLang data
+     0 int id = 1011980
+     1 string schinese = "通过练习:阅读理解（英）获得\n\n每次看英语文章，都要揣摩文章深意"
+     1 string schinese_censored = "通过练习:阅读理解（英）获得\n\n每次看英语文章，都要揣摩文章深意"
+     1 string english = "Get by practicing: Reading Comprehension\n\nI always try to fathom the depth of the text whenever I read an English article."
+     1 string japanese = "特技獲得条件：英文読解\n\n英語の文章を読む度に真意を深読みする。"
+     1 string mchinese = "通過練習:閱讀理解（英）獲得\n\n每次看英語文章，都要揣摩文章深意"
+   [1980]
+    0 TableSoItemLang data
+     0 int id = 1011981
+     1 string schinese = "通过练习:英语作文（英）获得\n\n偶尔做做英文诗歌外包"
+     1 string schinese_censored = "通过练习:英语作文（英）获得\n\n偶尔做做英文诗歌外包"
+     1 string english = "Get by practicing: English Writing\n\nI sometimes work freelance as a writer of English poems."
+     1 string japanese = "特技獲得条件：英作文\n\nときどき英文詩のゴーストライターも引き受けている。"
+     1 string mchinese = "通過練習:英語作文（英）獲得\n\n偶爾做做英文詩歌外包"
+   [1981]
+    0 TableSoItemLang data
+     0 int id = 1011982
+     1 string schinese = "通过练习:英语做题速度（英）获得\n\n掌握了最重要的语感！做题飞快！"
+     1 string schinese_censored = "通过练习:英语做题速度（英）获得\n\n掌握了最重要的语感！做题飞快！"
+     1 string english = "Get by practicing: Exam Speed\n\nMastering the sense of a langue is the most important!"
+     1 string japanese = "特技獲得条件：英語解答速度\n\n最も重要な言語感覚を取得！解答スピードが尋常じゃない！"
+     1 string mchinese = "通過練習:英語做題速度（英）獲得\n\n掌握了最重要的語感！做題飛快！"
+   [1982]
+    0 TableSoItemLang data
+     0 int id = 1011983
+     1 string schinese = "通过练习:高级英语（英）获得\n\n为了学英语，给自己染了发！"
+     1 string schinese_censored = "通过练习:高级英语（英）获得\n\n为了学英语，给自己染了发！"
+     1 string english = "Get by practicing: Advanced Exam-Oriented English\n\nI dyed my hair just to study English better!"
+     1 string japanese = "特技獲得条件：上級受験英語\n\n英語勉強のために、髪まで染めた！"
+     1 string mchinese = "通過練習:高級英語（英）獲得\n\n為了學英語，給自己染了發！"
+   [1983]
+    0 TableSoItemLang data
+     0 int id = 1011984
+     1 string schinese = "通过练习:英语非常规技巧（英）获得\n\n可以经常揣摩出题人的思想了"
+     1 string schinese_censored = "通过练习:英语非常规技巧（英）获得\n\n可以经常揣摩出题人的思想了"
+     1 string english = "Get by practicing: Special English Skills\n\nI often know what questions there are going to be on the exam."
+     1 string japanese = "特技獲得条件：特殊英語技術\n\n出題者の本意は余裕で理解できる。"
+     1 string mchinese = "通過練習:英語非常規技巧（英）獲得\n\n可以經常揣摩出題人的思想了"
+   [1984]
+    0 TableSoItemLang data
+     0 int id = 1011985
+     1 string schinese = "通过练习:地理常识（文）获得\n\n地理的时区阻挡不了你的思绪"
+     1 string schinese_censored = "通过练习:地理常识（文）获得\n\n地理的时区阻挡不了你的思绪"
+     1 string english = "Get by practicing: Geography Knowledge\n\nNo manner of geographical time zones can stop your thoughts."
+     1 string japanese = "特技獲得条件：地理入門\n\nただの時差では思想を止められない！"
+     1 string mchinese = "通過練習:地理常識（文）獲得\n\n地理的時區阻擋不了你的思緒"
+   [1985]
+    0 TableSoItemLang data
+     0 int id = 1011986
+     1 string schinese = "通过练习:德育思想（文）获得\n\n自己似乎是社会主义接班人了！"
+     1 string schinese_censored = "通过练习:德育思想（文）获得\n\n自己似乎是未来班人了！"
+     1 string english = "Get by practicing: Moral Education\n\nI am probably the successor of socialism!"
+     1 string japanese = "特技獲得条件：道徳\n\nまさしく社会主義の後継者だ！"
+     1 string mchinese = "通過練習:德育思想（文）獲得\n\n自己似乎是社會主義接班人了！"
+   [1986]
+    0 TableSoItemLang data
+     0 int id = 1011987
+     1 string schinese = "通过练习:历史常识（文）获得\n\n正确看待了历史常识"
+     1 string schinese_censored = "通过练习:历史常识（文）获得\n\n正确看待了历史常识"
+     1 string english = "Get by practicing: History Knowledge\n\nHistory as you know it, is of course, the correct history."
+     1 string japanese = "特技獲得条件：歴史入門\n\n正しい歴史的知識を学ぶことができる。"
+     1 string mchinese = "通過練習:歷史常識（文）獲得\n\n正確看待了歷史常識"
+   [1987]
+    0 TableSoItemLang data
+     0 int id = 1011988
+     1 string schinese = "通过练习:中国地理（文）获得\n\n各地都考取了旅游证，门票免费"
+     1 string schinese_censored = "通过练习:中国地理（文）获得\n\n各地都考取了旅游证，门票免费"
+     1 string english = "Get by practicing: Geography of China\n\nI've passed tourist pass exams for all places in China, so the tickets are free!"
+     1 string japanese = "特技獲得条件：中国地理\n\n様々な観光地のガイド資格を持っている。入場料はどこでも無料だ。"
+     1 string mchinese = "通過練習:中國地理（文）獲得\n\n各地都考取了旅遊證，門票免費"
+   [1988]
+    0 TableSoItemLang data
+     0 int id = 1011989
+     1 string schinese = "通过练习:思想政治（文）获得\n\n冉冉升起的社会主义小红星"
+     1 string schinese_censored = "通过练习:思想政治（文）获得\n\n冉冉升起的未来小红星"
+     1 string english = "Get by practicing: Ideological & Political Thoughts\n\nRise rise, the red star of China."
+     1 string japanese = "特技獲得条件：政治思想\n\n社会主義の旗を揚げる。"
+     1 string mchinese = "通過練習:思想政治（文）獲得\n\n冉冉升起的社會主義小紅星"
+   [1989]
+    0 TableSoItemLang data
+     0 int id = 1011990
+     1 string schinese = "通过练习:古代史（文）获得\n\n以史明鉴！"
+     1 string schinese_censored = "通过练习:古代史（文）获得\n\n以史明鉴！"
+     1 string english = "Get by practicing: Ancient History\n\nFrom antiquity we go!"
+     1 string japanese = "特技獲得条件：古代史\n\n史を以て鑑と為す。"
+     1 string mchinese = "通過練習:古代史（文）獲得\n\n以史明鑒！"
+   [1990]
+    0 TableSoItemLang data
+     0 int id = 1011991
+     1 string schinese = "通过练习:世界地理（文）获得\n\n国际地理杂志订阅后自动获得"
+     1 string schinese_censored = "通过练习:世界地理（文）获得\n\n国际地理杂志订阅后自动获得"
+     1 string english = "Get by practicing: World Geography\n\nObtained automatically upon reading International Geography Journal."
+     1 string japanese = "特技獲得条件：世界地理\n\n国際地理雑誌の定期購読で自動獲得。"
+     1 string mchinese = "通過練習:世界地理（文）獲得\n\n國際地理雜誌訂閱後自動獲得"
+   [1991]
+    0 TableSoItemLang data
+     0 int id = 1011992
+     1 string schinese = "通过练习:基础哲学（文）获得\n\n社会的主要矛盾和矛盾的主要方面"
+     1 string schinese_censored = "通过练习:基础哲学（文）获得\n\n社会的主要矛盾和矛盾的主要方面"
+     1 string english = "Get by practicing: Philosophy 101\n\nContains the major contradictions of society, and how these major contradictions evolve."
+     1 string japanese = "特技獲得条件：基礎哲学\n\n社会構造の問題及びその原因。"
+     1 string mchinese = "通過練習:基礎哲學（文）獲得\n\n社會的主要矛盾和矛盾的主要方面"
+   [1992]
+    0 TableSoItemLang data
+     0 int id = 1011993
+     1 string schinese = "通过练习:近代史（文）获得\n\n近代史，也要考虑历史的进程啊"
+     1 string schinese_censored = "通过练习:近代史（文）获得\n\n近代史，也要考虑历史的进程啊"
+     1 string english = "Get by practicing: Modern History\n\nWhen reading modern history, you also have to consider the evolution of history."
+     1 string japanese = "特技獲得条件：近代史\n\n近代史は歴史の流れも考慮しないと。"
+     1 string mchinese = "通過練習:近代史（文）獲得\n\n近代史，也要考慮歷史的進程啊"
+   [1993]
+    0 TableSoItemLang data
+     0 int id = 1011994
+     1 string schinese = "通过练习:经济常识（文）获得\n\n价格围绕价值上下波动！"
+     1 string schinese_censored = "通过练习:经济常识（文）获得\n\n价格围绕价值上下波动！"
+     1 string english = "Get by practicing: Economic Knowledge\n\nPrices simply fluctuate depending on value!"
+     1 string japanese = "特技獲得条件：経済学入門\n\n価格は価値を中心に変動する。"
+     1 string mchinese = "通過練習:經濟常識（文）獲得\n\n價格圍繞價值上下波動！"
+   [1994]
+    0 TableSoItemLang data
+     0 int id = 1011995
+     1 string schinese = "通过练习:文科综合1级（文）获得\n\n"
+     1 string schinese_censored = "通过练习:文科综合1级（文）获得\n\n"
+     1 string english = "Get by practicing: Integrated Liberal Arts 1\n\n"
+     1 string japanese = "特技獲得条件：総合文系I\n\n"
+     1 string mchinese = "通過練習:文科綜合1級（文）獲得\n\n"
+   [1995]
+    0 TableSoItemLang data
+     0 int id = 1011996
+     1 string schinese = "通过练习:文科综合2级（文）获得\n\n"
+     1 string schinese_censored = "通过练习:文科综合2级（文）获得\n\n"
+     1 string english = "Get by practicing: Integrated Liberal Arts 2\n\n"
+     1 string japanese = "特技獲得条件：総合文系II\n\n"
+     1 string mchinese = "通過練習:文科綜合2級（文）獲得\n\n"
+   [1996]
+    0 TableSoItemLang data
+     0 int id = 1011997
+     1 string schinese = "通过练习:文科综合3级（文）获得\n\n"
+     1 string schinese_censored = "通过练习:文科综合3级（文）获得\n\n"
+     1 string english = "Get by practicing: Integrated Liberal Arts 3\n\n"
+     1 string japanese = "特技獲得条件：総合文系III\n\n"
+     1 string mchinese = "通過練習:文科綜合3級（文）獲得\n\n"
+   [1997]
+    0 TableSoItemLang data
+     0 int id = 1011998
+     1 string schinese = "通过练习:文科综合4级（文）获得\n\n"
+     1 string schinese_censored = "通过练习:文科综合4级（文）获得\n\n"
+     1 string english = "Get by practicing: Integrated Liberal Arts 4\n\n"
+     1 string japanese = "特技獲得条件：総合文系IV\n\n"
+     1 string mchinese = "通過練習:文科綜合4級（文）獲得\n\n"
+   [1998]
+    0 TableSoItemLang data
+     0 int id = 1011999
+     1 string schinese = "通过练习:文科综合5级（文）获得\n\n"
+     1 string schinese_censored = "通过练习:文科综合5级（文）获得\n\n"
+     1 string english = "Get by practicing: Integrated Liberal Arts 5\n\n"
+     1 string japanese = "特技獲得条件：総合文系V\n\n"
+     1 string mchinese = "通過練習:文科綜合5級（文）獲得\n\n"
+   [1999]
+    0 TableSoItemLang data
+     0 int id = 1012000
+     1 string schinese = "通过练习:文科综合6级（文）获得\n\n"

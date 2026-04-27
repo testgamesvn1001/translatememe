@@ -1,0 +1,184 @@
+     1 string schinese_censored = ""
+     1 string english = "Think it over"
+     1 string japanese = "見捨てられない！"
+     1 string mchinese = "不忍心！"
+   [22309]
+    0 TableSoItemLang data
+     0 int id = 9900061
+     1 string schinese = "带它回家"
+     1 string schinese_censored = ""
+     1 string english = "Adopt"
+     1 string japanese = "引き取る"
+     1 string mchinese = "帶它回家"
+   [22310]
+    0 TableSoItemLang data
+     0 int id = 9900062
+     1 string schinese = "宠物道具"
+     1 string schinese_censored = ""
+     1 string english = "Pet Item"
+     1 string japanese = "ペット道具"
+     1 string mchinese = "寵物道具"
+   [22311]
+    0 TableSoItemLang data
+     0 int id = 9900063
+     1 string schinese = "还有报考名额，多一个名额多一次机会！\n要放弃继续填报吗？"
+     1 string schinese_censored = ""
+     1 string english = "後續功能，暫不翻譯9900063"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "還有報考名額，多一個名額多一次機會！\n要放棄繼續填報嗎？"
+   [22312]
+    0 TableSoItemLang data
+     0 int id = 9900064
+     1 string schinese = "确定放弃"
+     1 string schinese_censored = ""
+     1 string english = "後續功能，暫不翻譯9900064"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "確定放棄"
+   [22313]
+    0 TableSoItemLang data
+     0 int id = 9900065
+     1 string schinese = "继续填报"
+     1 string schinese_censored = ""
+     1 string english = "後續功能，暫不翻譯9900065"
+     1 string japanese = "後續功能，暫不翻譯"
+     1 string mchinese = "繼續填報"
+   [22314]
+    0 TableSoItemLang data
+     0 int id = 9900066
+     1 string schinese = ""
+     1 string schinese_censored = ""
+     1 string english = "/9900066"
+     1 string japanese = "/"
+     1 string mchinese = "0"
+   [22315]
+    0 TableSoItemLang data
+     0 int id = 9900067
+     1 string schinese = ""
+     1 string schinese_censored = ""
+     1 string english = "/9900067"
+     1 string japanese = "/"
+     1 string mchinese = "0"
+   [22316]
+    0 TableSoItemLang data
+     0 int id = 9900068
+     1 string schinese = ""
+     1 string schinese_censored = ""
+     1 string english = "/9900068"
+     1 string japanese = "/"
+     1 string mchinese = "0"
+   [22317]
+    0 TableSoItemLang data
+     0 int id = 1116178
+     1 string schinese = "乖乖上补习班"
+     1 string schinese_censored = "乖乖上补习班"
+     1 string english = "Go take the extra class."
+     1 string japanese = "おとなしく補習に行く"
+     1 string mchinese = "乖乖上補習班"
+   [22318]
+    0 TableSoItemLang data
+     0 int id = 1116179
+     1 string schinese = "尝试说服父母不报班"
+     1 string schinese_censored = "尝试说服父母不报班"
+     1 string english = "Try persuade your parents not to."
+     1 string japanese = "補習を増やさないよう両親を説得してみる"
+     1 string mchinese = "嘗試說服父母不報班"
+   [22319]
+    0 TableSoItemLang data
+     0 int id = 1116180
+     1 string schinese = "自己挑选补习老师"
+     1 string schinese_censored = "自己挑选补习老师"
+     1 string english = "Choose your own extra teacher."
+     1 string japanese = "自分で先生を選ぶ"
+     1 string mchinese = "自己挑選補習老師"
+   [22320]
+    0 TableSoItemLang data
+     0 int id = 1116181
+     1 string schinese = "乖乖叫学长"
+     1 string schinese_censored = "乖乖叫学长"
+     1 string english = "Call them 'Big bros'."
+     1 string japanese = "素直に先輩と呼ぶ"
+     1 string mchinese = "乖乖叫學長"
+   [22321]
+    0 TableSoItemLang data
+     0 int id = 1116182
+     1 string schinese = "绕远路"
+     1 string schinese_censored = "绕远路"
+     1 string english = "Walk around them."
+     1 string japanese = "遠回りをする"
+     1 string mchinese = "繞遠路"
+   [22322]
+    0 TableSoItemLang data
+     0 int id = 1116183
+     1 string schinese = "告诉老师"
+     1 string schinese_censored = "告诉老师"
+     1 string english = "Tell your teacher."
+     1 string japanese = "先生に言う"
+     1 string mchinese = "告訴老師"
+   [22323]
+    0 TableSoItemLang data
+     0 int id = 1116184
+     1 string schinese = "跟同学看演唱会好好放松一下"
+     1 string schinese_censored = "跟同学看演唱会好好放松一下"
+     1 string english = "Go to the concert and relax."
+     1 string japanese = "友達とライブに行って楽しむ"
+     1 string mchinese = "跟同學看演唱會好好放鬆一下"
+   [22324]
+    0 TableSoItemLang data
+     0 int id = 1116185
+     1 string schinese = "做个好孩子帮父母打扫卫生"
+     1 string schinese_censored = "做个好孩子帮父母打扫卫生"
+     1 string english = "Be a good child and help them clean."
+     1 string japanese = "良い子にして掃除を手伝う"
+     1 string mchinese = "做個好孩子幫父母打掃衛生"
+   [22325]
+    0 TableSoItemLang data
+     0 int id = 1116186
+     1 string schinese = "都不答应，你打算玩计算机"
+     1 string schinese_censored = "都不答应，你打算玩计算机"
+     1 string english = "Ignore both and play games instead."
+     1 string japanese = "どちらも選ばず、パソコンで遊ぶ"
+     1 string mchinese = "都不答應，你打算玩電腦"
+   [22326]
+    0 TableSoItemLang data
+     0 int id = 1116187
+     1 string schinese = "跑回家拿作业"
+     1 string schinese_censored = "跑回家拿作业"
+     1 string english = "Run home to get it."
+     1 string japanese = "家に宿題を取りに帰る"
+     1 string mchinese = "跑回家拿作業"
+   [22327]
+    0 TableSoItemLang data
+     0 int id = 1116188
+     1 string schinese = "重新写一份作业"
+     1 string schinese_censored = "重新写一份作业"
+     1 string english = "Write it anew."
+     1 string japanese = "宿題をやり直す"
+     1 string mchinese = "重新寫一份作業"
+   [22328]
+    0 TableSoItemLang data
+     0 int id = 1116189
+     1 string schinese = "放声大哭"
+     1 string schinese_censored = "放声大哭"
+     1 string english = "Start crying out loud."
+     1 string japanese = "大声で泣く"
+     1 string mchinese = "放聲大哭"
+   [22329]
+    0 TableSoItemLang data
+     0 int id = 1116190
+     1 string schinese = "包子+豆浆"
+     1 string schinese_censored = "包子+豆浆"
+     1 string english = "Filled buns + soymilk."
+     1 string japanese = "中華まん+豆乳"
+     1 string mchinese = "包子+豆漿"
+   [22330]
+    0 TableSoItemLang data
+     0 int id = 1116191
+     1 string schinese = "火腿+面包"
+     1 string schinese_censored = "火腿+面包"
+     1 string english = "Bread + ham."
+     1 string japanese = "チキン+パン"
+     1 string mchinese = "火腿+麵包"
+   [22331]
+    0 TableSoItemLang data
+     0 int id = 1116192
+     1 string schinese = "咖啡+香蕉"

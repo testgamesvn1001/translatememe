@@ -1,0 +1,184 @@
+     1 string schinese_censored = "_useNick, 你听说没？最近JNG的小荗直播间怼粉丝，围脖被冲了！"
+     1 string english = "_useNick, have you heard? JNG's Mike got mad at fans during a livestream recently, and now his social media is overrun with haters!"
+     1 string japanese = "_useNick、聞いたか？最近、ＪＮＧのレンマオが配信中にファンとケンカして、ＳＮＳに突撃されたらしいぞ！"
+     1 string mchinese = "_useNick, 你聽說沒？最近JNG的小荗直播間懟粉絲，圍脖被沖了！"
+   [28335]
+    0 TableSoItemLang data
+     0 int id = 1605150077
+     1 string schinese = "好像还是因为你！"
+     1 string schinese_censored = "好像还是因为你！"
+     1 string english = "And it looks like it's all because of you!"
+     1 string japanese = "原因はお前だって！"
+     1 string mchinese = "好像還是因為你！"
+   [28336]
+    0 TableSoItemLang data
+     0 int id = 1605150078
+     1 string schinese = "啥？因为我？怎么回事？"
+     1 string schinese_censored = "啥？因为我？怎么回事？"
+     1 string english = "What? Me? What happened?"
+     1 string japanese = "えっ？俺のせい？どうして？"
+     1 string mchinese = "啥？因為我？怎麼回事？"
+   [28337]
+    0 TableSoItemLang data
+     0 int id = 1605150079
+     1 string schinese = "听说是前几天小荗的直播里，有个网友不知道哪里听来的传言。"
+     1 string schinese_censored = "听说是前几天小荗的直播里，有个网友不知道哪里听来的传言。"
+     1 string english = "The way I heard it, someone spread rumors during Mike's livestream the other day."
+     1 string japanese = "レンマオのライブ配信で、あるユーザーが出所不明のうわさ話をしたらしい。"
+     1 string mchinese = "聽說是前幾天小荗的直播裏，有個網友不知道哪里聽來的傳言。"
+   [28338]
+    0 TableSoItemLang data
+     0 int id = 1605150080
+     1 string schinese = "说试训时_useNick是抢了小荗的名额才进MCG的，弹幕带节奏骂你卖兄弟。"
+     1 string schinese_censored = "说试训时_useNick是抢了小荗的名额才进MCG的，弹幕带节奏骂你卖兄弟。"
+     1 string english = "They said that _useNick stole Mike's position in MCG. The bullet-comments were calling you a sellout that betrayed your own bro."
+     1 string japanese = "トライアウトのときに_useNickがレンマオの枠を奪ってＭＣＧに入団したって。コメントでお前のことを裏切り者だと言っていたらしいぞ。"
+     1 string mchinese = "說試訓時_useNick是搶了小荗的名額才進MCG的，彈幕帶節奏罵你賣兄弟。"
+   [28339]
+    0 TableSoItemLang data
+     0 int id = 1605150081
+     1 string schinese = "然后小荗看到，二话没数就让管理禁言。钓鱼的跟风黑的全都禁了。"
+     1 string schinese_censored = "然后小荗看到，二话没数就让管理禁言。钓鱼的跟风黑的全都禁了。"
+     1 string english = "But Mike just told the admins to ban all of these users, whether they were serious or not."
+     1 string japanese = "レンマオはそれを見て、そいつをすぐに発言禁止にした。乗っかったやつや同調したやつも。"
+     1 string mchinese = "然後小荗看到，二話沒數就讓管理禁言。釣魚的跟風黑的全都禁了。"
+   [28340]
+    0 TableSoItemLang data
+     0 int id = 1605150082
+     1 string schinese = "……然后呢？"
+     1 string schinese_censored = "……然后呢？"
+     1 string english = "...then what?"
+     1 string japanese = "…それで？"
+     1 string mchinese = "……然後呢？"
+   [28341]
+    0 TableSoItemLang data
+     0 int id = 1605150083
+     1 string schinese = "然后被禁言的人就上网骂小荗不知好歹，表示粉转黑。很多不知情的网友都跟着一起骂他。"
+     1 string schinese_censored = "然后被禁言的人就上网骂小荗不知好歹，表示粉转黑。很多不知情的网友都跟着一起骂他。"
+     1 string english = "Those who were banned got mad at Mike for refusing their "help", saying they'll hate on him from now on. Many others mindlessly followed suit and began flaming him."
+     1 string japanese = "発言を禁止されたユーザーがレンマオのために言ってやったのにと罵って、アンチ転向を表明した。事情を知らないユーザーも一緒になってレンマオのことを中傷してるよ。"
+     1 string mchinese = "然後被禁言的人就上網罵小荗不知好歹，表示粉轉黑。很多不知情的網友都跟著一起罵他。"
+   [28342]
+    0 TableSoItemLang data
+     0 int id = 1605150084
+     1 string schinese = "（小荗这家伙，在意这些干嘛，可别影响比赛状态了……）"
+     1 string schinese_censored = "（小荗这家伙，在意这些干嘛，可别影响比赛状态了……）"
+     1 string english = "(Why do you have to care about these, Mike? I just hope it doesn't affect your performance...)"
+     1 string japanese = "（レンマオのやつ、そんなの気にしなくていいのに。試合に影響しないといいけど…）"
+     1 string mchinese = "（小荗這傢伙，在意這些幹嘛，可別影響比賽狀態了……）"
+   [28343]
+    0 TableSoItemLang data
+     0 int id = 1605150085
+     1 string schinese = "你的发挥，该你赢。"
+     1 string schinese_censored = "你的发挥，该你赢。"
+     1 string english = "With that kind of performance, you're supposed to win."
+     1 string japanese = "良い戦いぶりだった。負けたよ。"
+     1 string mchinese = "你的發揮，該你贏。"
+   [28344]
+    0 TableSoItemLang data
+     0 int id = 1605150086
+     1 string schinese = "我强不强，难道你今天才知道吗？~"
+     1 string schinese_censored = "我强不强，难道你今天才知道吗？~"
+     1 string english = "Are you just finding out today how good I am?"
+     1 string japanese = "俺は最強だろ？"
+     1 string mchinese = "我強不強，難道你今天才知道嗎？~"
+   [28345]
+    0 TableSoItemLang data
+     0 int id = 1605150087
+     1 string schinese = "你这臭屁的毛病看来是好不了了。但无论怎样，你拿冠军我也高兴。"
+     1 string schinese_censored = "你这臭屁的毛病看来是好不了了。但无论怎样，你拿冠军我也高兴。"
+     1 string english = "I guess your ego isn't getting smaller anytime soon. But either way, I'm happy for you."
+     1 string japanese = "すぐ調子に乗るクセは治らないようだな。とにかく、キミが優勝してくれて、僕もうれしいよ。"
+     1 string mchinese = "你這臭屁的毛病看來是好不了了。但無論怎樣，你拿冠軍我也高興。"
+   [28346]
+    0 TableSoItemLang data
+     0 int id = 1605150088
+     1 string schinese = "一起高兴！想不到我们俩的再次对决竟然在顶级联赛的决赛！这舞台，太爽了！"
+     1 string schinese_censored = "一起高兴！想不到我们俩的再次对决竟然在顶级联赛的决赛！这舞台，太爽了！"
+     1 string english = "The feeling is mutual! I can't believe we meet again in the championship finals! It's freaking awesome!"
+     1 string japanese = "ありがとう！まさかトップクラスのリーグ戦決勝で再会とはな！最高の舞台だよ！"
+     1 string mchinese = "一起高興！想不到我們倆的再次對決竟然在頂級聯賽的決賽！這舞臺，太爽了！"
+   [28347]
+    0 TableSoItemLang data
+     0 int id = 1605150089
+     1 string schinese = "怎么说？比赛打完了，老规矩？"
+     1 string schinese_censored = "怎么说？比赛打完了，老规矩？"
+     1 string english = "So? Same as old times?"
+     1 string japanese = "さあ、どうする？いつものアレ、いくか？"
+     1 string mchinese = "怎麼說？比賽打完了，老規矩？"
+   [28348]
+    0 TableSoItemLang data
+     0 int id = 1605150090
+     1 string schinese = "快点，该捧杯了。"
+     1 string schinese_censored = "快点，该捧杯了。"
+     1 string english = "Come on, it's trophy time!"
+     1 string japanese = "ほら、トロフィーを持て。"
+     1 string mchinese = "快點，該捧杯了。"
+   [28349]
+    0 TableSoItemLang data
+     0 int id = 1605150091
+     1 string schinese = "小荗和_useNick，今天在赛场上发挥出色、针锋相对的两位天才少年，据说打职业前就是好朋友。"
+     1 string schinese_censored = "小荗和_useNick，今天在赛场上发挥出色、针锋相对的两位天才少年，据说打职业前就是好朋友。"
+     1 string english = "Mike and _useNick, two talented youngsters played well and went toe-to-toe on the field today, are said to have been good friends before becoming professional players."
+     1 string japanese = "レンマオと_useNick、今日活躍した二人の天才少年は、プロになる前は親友だったそうです。"
+     1 string mchinese = "小荗和_useNick，今天在賽場上發揮出色、針鋒相對的兩位天才少年，據說打職業前就是好朋友。"
+   [28350]
+    0 TableSoItemLang data
+     0 int id = 1605150092
+     1 string schinese = "他们击掌了！赛场上是好对手，赛场下是好兄弟！"
+     1 string schinese_censored = "他们击掌了！赛场上是好对手，赛场下是好兄弟！"
+     1 string english = "They high-fived! Good rivals on the field, good friends off the field!"
+     1 string japanese = "ハイタッチです！戦場では好敵手、試合が終われば兄弟だ！"
+     1 string mchinese = "他們擊掌了！賽場上是好對手，賽場下是好兄弟！"
+   [28351]
+    0 TableSoItemLang data
+     0 int id = 1605150093
+     1 string schinese = "（你和小荗久违地来了一套中二的HANDSHAKE！）"
+     1 string schinese_censored = "（你和小荗久违地来了一套中二的HANDSHAKE！）"
+     1 string english = "(You and Mike perform a long overdue chuunibyou-style HANDSHAKE!)"
+     1 string japanese = "（あなたとレンマオはしばらくマンガで見るような握手をしていた！）"
+     1 string mchinese = "（你和小荗久違地來了一套中二的HANDSHAKE！）"
+   [28352]
+    0 TableSoItemLang data
+     0 int id = 1605150094
+     1 string schinese = "怎么样，这次是我赢了！……气哭了？还是像以前一样输不起啊。"
+     1 string schinese_censored = "怎么样，这次是我赢了！……气哭了？还是像以前一样输不起啊。"
+     1 string english = "How about that, I won! Wanna run home to mama and cry? I see you still can't handle failure."
+     1 string japanese = "どうだ、僕の勝ちだ！…泣きたいか？それとも昔と同じで、負けを認めないか？"
+     1 string mchinese = "怎麼樣，這次是我贏了！……氣哭了？還是像以前一樣輸不起啊。"
+   [28353]
+    0 TableSoItemLang data
+     0 int id = 1605150095
+     1 string schinese = "这时候还来数落我，当个人吧好不？"
+     1 string schinese_censored = "这时候还来数落我，当个人吧好不？"
+     1 string english = "You're still mocking me!? Have you no heart?"
+     1 string japanese = "そんなことをわざわざ言いに来るなんて…人としてどうなんだ？"
+     1 string mchinese = "這時候還來數落我，當個人吧好不？"
+   [28354]
+    0 TableSoItemLang data
+     0 int id = 1605150096
+     1 string schinese = "行，我知道我菜，还是回家好好读书..."
+     1 string schinese_censored = "行，我知道我菜，还是回家好好读书..."
+     1 string english = "OK, OK, I know I'm no good. I guess I should just quit and go back to studying..."
+     1 string japanese = "言われなくても未熟なのはわかってる。家に帰って真面目に勉強するよ…。"
+     1 string mchinese = "行，我知道我菜，還是回家好好讀書..."
+   [28355]
+    0 TableSoItemLang data
+     0 int id = 1605150097
+     1 string schinese = "所以，当时找我说要一起打电竞、一定要打职业的人呢？"
+     1 string schinese_censored = "所以，当时找我说要一起打电竞、一定要打职业的人呢？"
+     1 string english = "Eh, who was it that said we should go deep into e-sports and become pros? Where did that person go?"
+     1 string japanese = "一緒にｅスポーツをやろう、一緒にプロになろうって言ってくれたのは誰だ？"
+     1 string mchinese = "所以，當時找我說要一起打電競、一定要打職業的人呢？"
+   [28356]
+    0 TableSoItemLang data
+     0 int id = 1605150098
+     1 string schinese = "刚丢了一血就要挂机放弃游戏？这就放弃你的梦想了？"
+     1 string schinese_censored = "刚丢了一血就要挂机放弃游戏？这就放弃你的梦想了？"
+     1 string english = "You lost first blood and you want to quit? You'll just forsake your dream?"
+     1 string japanese = "ダメージを一発受けただけでゲームを諦めるか？夢も諦めていいのか？"
+     1 string mchinese = "剛丟了一血就要掛機放棄遊戲？這就放棄你的夢想了？"
+   [28357]
+    0 TableSoItemLang data
+     0 int id = 1605150099
+     1 string schinese = "你别看不起我！等我修炼归来，我们再比一次！"

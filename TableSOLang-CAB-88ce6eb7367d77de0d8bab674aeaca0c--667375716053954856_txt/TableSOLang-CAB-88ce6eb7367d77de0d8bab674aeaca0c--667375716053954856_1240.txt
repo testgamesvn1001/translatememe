@@ -1,0 +1,184 @@
+     1 string schinese_censored = "装备艺术家"
+     1 string english = "Item Artist"
+     1 string japanese = "装備アーティスト"
+     1 string mchinese = "裝備藝術家"
+   [28496]
+    0 TableSoItemLang data
+     0 int id = 1699999993
+     1 string schinese = "职业女"
+     1 string schinese_censored = "职业女"
+     1 string english = "Staff Member"
+     1 string japanese = "キャリアウーマン"
+     1 string mchinese = "職業女"
+   [28497]
+    0 TableSoItemLang data
+     0 int id = 1699999994
+     1 string schinese = "我&十哥"
+     1 string schinese_censored = "我&十哥"
+     1 string english = "Me & OpaqueLove"
+     1 string japanese = "私＆シー"
+     1 string mchinese = "我&十哥"
+   [28498]
+    0 TableSoItemLang data
+     0 int id = 1699999995
+     1 string schinese = "邀请奖励详情"
+     1 string schinese_censored = "邀请奖励详情"
+     1 string english = "Invitation Reward Details"
+     1 string japanese = "招待報酬詳細"
+     1 string mchinese = "邀請獎勵詳情"
+   [28499]
+    0 TableSoItemLang data
+     0 int id = 1699999996
+     1 string schinese = "点击查看父母性格"
+     1 string schinese_censored = "点击查看父母性格"
+     1 string english = "View parents' characteristics."
+     1 string japanese = "ここを選択して両親の性格を確認"
+     1 string mchinese = "點擊查看父母性格"
+   [28500]
+    0 TableSoItemLang data
+     0 int id = 1699999997
+     1 string schinese = "我的贡献"
+     1 string schinese_censored = "我的贡献"
+     1 string english = "My Contribution"
+     1 string japanese = "貢献"
+     1 string mchinese = "我的貢獻"
+   [28501]
+    0 TableSoItemLang data
+     0 int id = 1699999998
+     1 string schinese = "<size=100>{0}</size>次"
+     1 string schinese_censored = "<size=100>{0}</size>次"
+     1 string english = "<size=100>{0}</size> time(s)"
+     1 string japanese = "<size=100>{0}</size>回"
+     1 string mchinese = "<size=100>{0}</size>次"
+   [28502]
+    0 TableSoItemLang data
+     0 int id = 1699999999
+     1 string schinese = "超越{0}%玩家"
+     1 string schinese_censored = "超越{0}%玩家"
+     1 string english = "Surpasses {0}% of Players"
+     1 string japanese = "プレイヤーの{0}%より上位"
+     1 string mchinese = "超越{0}%玩家"
+   [28503]
+    0 TableSoItemLang data
+     0 int id = 1700000000
+     1 string schinese = "规则说明"
+     1 string schinese_censored = "规则说明"
+     1 string english = "Information"
+     1 string japanese = "ルール説明"
+     1 string mchinese = "規則說明"
+   [28504]
+    0 TableSoItemLang data
+     0 int id = 1700000001
+     1 string schinese = "进度未达成，当前奖励不可领取"
+     1 string schinese_censored = "进度未达成，当前奖励不可领取"
+     1 string english = "Progress not achieved. Current rewards unavailable."
+     1 string japanese = "この進度に到達していません。報酬を受け取ることはできません。"
+     1 string mchinese = "進度未達成，當前獎勵不可領取"
+   [28505]
+    0 TableSoItemLang data
+     0 int id = 1700000002
+     1 string schinese = "活动奖励详情"
+     1 string schinese_censored = "活动奖励详情"
+     1 string english = "Event Reward Details"
+     1 string japanese = "イベント報酬詳細"
+     1 string mchinese = "活動獎勵詳情"
+   [28506]
+    0 TableSoItemLang data
+     0 int id = 1700000003
+     1 string schinese = "分享立即获得50学费"
+     1 string schinese_censored = "分享立即获得50学费"
+     1 string english = "Share to get 50 Tuition right away!"
+     1 string japanese = "シェアするとその場で50授業料獲得"
+     1 string mchinese = "分享立即獲得50學費"
+   [28507]
+    0 TableSoItemLang data
+     0 int id = 1700000004
+     1 string schinese = "今日分享{0}/{1}"
+     1 string schinese_censored = "今日分享{0}/{1}"
+     1 string english = "Today's Shares {0}/{1}"
+     1 string japanese = "本日のシェア{0}/{1}"
+     1 string mchinese = "今日分享{0}/{1}"
+   [28508]
+    0 TableSoItemLang data
+     0 int id = 1700000005
+     1 string schinese = "分享已达最大奖励次数限制，无法获取奖励"
+     1 string schinese_censored = "分享已达最大奖励次数限制，无法获取奖励"
+     1 string english = "You've already reached the share limit. Can't claim more rewards."
+     1 string japanese = "報酬が獲得可能なシェア回数の上限に到達しました。報酬は獲得できません。"
+     1 string mchinese = "分享已達最大獎勵次數限制，無法獲取獎勵"
+   [28509]
+    0 TableSoItemLang data
+     0 int id = 1700000006
+     1 string schinese = "当前进度{0}次"
+     1 string schinese_censored = "当前进度{0}次"
+     1 string english = "Current progress: {0}"
+     1 string japanese = "現在の進度：{0}回"
+     1 string mchinese = "當前進度{0}次"
+   [28510]
+    0 TableSoItemLang data
+     0 int id = 1700000007
+     1 string schinese = "活动不在限定时间内，奖励不可领取"
+     1 string schinese_censored = "活动不在限定时间内，奖励不可领取"
+     1 string english = "The event is not running right now. Rewards unavailable."
+     1 string japanese = "期限が到来しています。報酬は受領できません。"
+     1 string mchinese = "活動不在限定時間內，獎勵不可領取"
+   [28511]
+    0 TableSoItemLang data
+     0 int id = 1700000008
+     1 string schinese = "新增tip专用区"
+     1 string schinese_censored = "新增tip专用区"
+     1 string english = "/"
+     1 string japanese = "/"
+     1 string mchinese = "新增tip專用區"
+   [28512]
+    0 TableSoItemLang data
+     0 int id = 1700000009
+     1 string schinese = "新增tip专用区"
+     1 string schinese_censored = "新增tip专用区"
+     1 string english = "/"
+     1 string japanese = "/"
+     1 string mchinese = "新增tip專用區"
+   [28513]
+    0 TableSoItemLang data
+     0 int id = 1700000010
+     1 string schinese = "新增tip专用区"
+     1 string schinese_censored = "新增tip专用区"
+     1 string english = "/"
+     1 string japanese = "/"
+     1 string mchinese = "新增tip專用區"
+   [28514]
+    0 TableSoItemLang data
+     0 int id = 1700000011
+     1 string schinese = "新增tip专用区"
+     1 string schinese_censored = "新增tip专用区"
+     1 string english = "/"
+     1 string japanese = "/"
+     1 string mchinese = "新增tip專用區"
+   [28515]
+    0 TableSoItemLang data
+     0 int id = 1700000012
+     1 string schinese = "新增tip专用区"
+     1 string schinese_censored = "新增tip专用区"
+     1 string english = "/"
+     1 string japanese = "/"
+     1 string mchinese = "新增tip專用區"
+   [28516]
+    0 TableSoItemLang data
+     0 int id = 1700000013
+     1 string schinese = "新增tip专用区"
+     1 string schinese_censored = "新增tip专用区"
+     1 string english = "/"
+     1 string japanese = "/"
+     1 string mchinese = "新增tip專用區"
+   [28517]
+    0 TableSoItemLang data
+     0 int id = 1700000014
+     1 string schinese = "新增tip专用区"
+     1 string schinese_censored = "新增tip专用区"
+     1 string english = "/"
+     1 string japanese = "/"
+     1 string mchinese = "新增tip專用區"
+   [28518]
+    0 TableSoItemLang data
+     0 int id = 1700000015
+     1 string schinese = "新增tip专用区"

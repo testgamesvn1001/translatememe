@@ -1,0 +1,184 @@
+     1 string schinese_censored = "成功率 75%"
+     1 string english = "0.75"
+     1 string japanese = "成功率 75%"
+     1 string mchinese = "成功率 75%"
+   [21412]
+    0 TableSoItemLang data
+     0 int id = 6600026
+     1 string schinese = "成功率 50%"
+     1 string schinese_censored = "成功率 50%"
+     1 string english = "0.5"
+     1 string japanese = "成功率 50%"
+     1 string mchinese = "成功率 50%"
+   [21413]
+    0 TableSoItemLang data
+     0 int id = 6600027
+     1 string schinese = "成功率{0}%"
+     1 string schinese_censored = "成功率 {0}%"
+     1 string english = "{0}%"
+     1 string japanese = "成功率 {0}%"
+     1 string mchinese = "成功率{0}%"
+   [21414]
+    0 TableSoItemLang data
+     0 int id = 6600028
+     1 string schinese = "已售罄"
+     1 string schinese_censored = "已售罄"
+     1 string english = "Sold Out"
+     1 string japanese = "売り切れ"
+     1 string mchinese = "已售罄"
+   [21415]
+    0 TableSoItemLang data
+     0 int id = 6600029
+     1 string schinese = "筹措学费"
+     1 string schinese_censored = "筹措学费"
+     1 string english = "Raise Tuition"
+     1 string japanese = "PC/NS不用翻譯"
+     1 string mchinese = "籌措學費"
+   [21416]
+    0 TableSoItemLang data
+     0 int id = 6600030
+     1 string schinese = "学区房"
+     1 string schinese_censored = "学区房"
+     1 string english = "School District Housing"
+     1 string japanese = "学区内住宅"
+     1 string mchinese = "學區房"
+   [21417]
+    0 TableSoItemLang data
+     0 int id = 6600031
+     1 string schinese = "（"
+     1 string schinese_censored = "（"
+     1 string english = "("
+     1 string japanese = "（"
+     1 string mchinese = "（"
+   [21418]
+    0 TableSoItemLang data
+     0 int id = 6600032
+     1 string schinese = "请选择"
+     1 string schinese_censored = "请选择"
+     1 string english = "Select a"
+     1 string japanese = "対象に"
+     1 string mchinese = "請選擇"
+   [21419]
+    0 TableSoItemLang data
+     0 int id = 6600033
+     1 string schinese = "目标）"
+     1 string schinese_censored = "目标）"
+     1 string english = "target)"
+     1 string japanese = "が必要）"
+     1 string mchinese = "目標）"
+   [21420]
+    0 TableSoItemLang data
+     0 int id = 6600034
+     1 string schinese = "当前人气："
+     1 string schinese_censored = "当前人气："
+     1 string english = "Popularity:"
+     1 string japanese = "現在の人気："
+     1 string mchinese = "當前人氣："
+   [21421]
+    0 TableSoItemLang data
+     0 int id = 6600035
+     1 string schinese = "已选中"
+     1 string schinese_censored = "已选中"
+     1 string english = "Selected"
+     1 string japanese = "選択済み"
+     1 string mchinese = "已選中"
+   [21422]
+    0 TableSoItemLang data
+     0 int id = 6600036
+     1 string schinese = "兑换说明"
+     1 string schinese_censored = "兑换说明"
+     1 string english = "Redeem Info"
+     1 string japanese = "両替説明"
+     1 string mchinese = "兌換說明"
+   [21423]
+    0 TableSoItemLang data
+     0 int id = 6600037
+     1 string schinese = "请在下方输入兑换码兑换礼物\n（一个兑换码只能使用一次）"
+     1 string schinese_censored = "请在下方输入兑换码兑换礼物\n（一个兑换码只能使用一次）"
+     1 string english = "Enter a gift code to redeem your gift.\n(A gift code can only be used once.)"
+     1 string japanese = "引換コードを入力して報酬をお受け取りください\n（引換コードは1つにつき一回しか使用できません）"
+     1 string mchinese = "請在下方輸入兌換碼兌換禮物\n（一個兌換碼只能使用一次）"
+   [21424]
+    0 TableSoItemLang data
+     0 int id = 6600038
+     1 string schinese = "请输入兑换码"
+     1 string schinese_censored = "请输入兑换码"
+     1 string english = "Enter a gift code."
+     1 string japanese = "引換コードをご入力ください"
+     1 string mchinese = "請輸入兌換碼"
+   [21425]
+    0 TableSoItemLang data
+     0 int id = 6600039
+     1 string schinese = "获得该职业后显示职业加成"
+     1 string schinese_censored = "获得该职业后显示职业加成"
+     1 string english = "Acquire a profession to view what bonuses it grants."
+     1 string japanese = "職業に就くと職業ボーナスが獲得できます"
+     1 string mchinese = "獲得該職業後顯示職業加成"
+   [21426]
+    0 TableSoItemLang data
+     0 int id = 6600040
+     1 string schinese = "梦想职业"
+     1 string schinese_censored = "梦想职业"
+     1 string english = "Dream Job"
+     1 string japanese = "夢の職業"
+     1 string mchinese = "夢想職業"
+   [21427]
+    0 TableSoItemLang data
+     0 int id = 6600041
+     1 string schinese = "管道号："
+     1 string schinese_censored = "管道号："
+     1 string english = "Channel:"
+     1 string japanese = "ストアＩＤ："
+     1 string mchinese = "管道號："
+   [21428]
+    0 TableSoItemLang data
+     0 int id = 6600042
+     1 string schinese = "学校"
+     1 string schinese_censored = "学校"
+     1 string english = "School"
+     1 string japanese = "学校"
+     1 string mchinese = "學校"
+   [21429]
+    0 TableSoItemLang data
+     0 int id = 6600043
+     1 string schinese = "职业"
+     1 string schinese_censored = "职业"
+     1 string english = "Profession"
+     1 string japanese = "職業"
+     1 string mchinese = "職業"
+   [21430]
+    0 TableSoItemLang data
+     0 int id = 6600044
+     1 string schinese = "\n<color=#915A23>{0}</color>是我最好的朋友"
+     1 string schinese_censored = "\n<color=#915A23>{0}</color>是我最好的朋友"
+     1 string english = "\n<color=#915A23>{0}</color> is my best friend."
+     1 string japanese = "\n恋人：<color=#915A23>{0}</color>"
+     1 string mchinese = "\n<color=#915A23>{0}</color>是我最好的朋友"
+   [21431]
+    0 TableSoItemLang data
+     0 int id = 6600045
+     1 string schinese = "查无此家族信息"
+     1 string schinese_censored = "查无此家族信息"
+     1 string english = "No family info found."
+     1 string japanese = "家族の情報はありません"
+     1 string mchinese = "查無此家族資訊"
+   [21432]
+    0 TableSoItemLang data
+     0 int id = 6600046
+     1 string schinese = "没有朋友"
+     1 string schinese_censored = "没有朋友"
+     1 string english = "No Friends"
+     1 string japanese = "親友はいません"
+     1 string mchinese = "沒有朋友"
+   [21433]
+    0 TableSoItemLang data
+     0 int id = 6600047
+     1 string schinese = "离家出走\n暂无记录"
+     1 string schinese_censored = "离家出走\n暂无记录"
+     1 string english = "Leave Home\nNo Data"
+     1 string japanese = "家出したので\n記録はありません"
+     1 string mchinese = "離家出走\n暫無記錄"
+   [21434]
+    0 TableSoItemLang data
+     0 int id = 6600048
+     1 string schinese = "学费值不足！老板对你超不屑！"

@@ -1,0 +1,184 @@
+     1 string schinese_censored = "“我们是好朋友呢！！”"
+     1 string english = "Let's go out"
+     1 string japanese = "付き合ってます！"
+     1 string mchinese = "“我們處對象呢！！”"
+   [5979]
+    0 TableSoItemLang data
+     0 int id = 1015980
+     1 string schinese = "跟父母说是路边炸串导致的"
+     1 string schinese_censored = "跟父母说是路边炸串导致的"
+     1 string english = "Tell your parents it was from the street vendor's skewers"
+     1 string japanese = "屋台のせいにする"
+     1 string mchinese = "跟父母說是路邊炸串導致的"
+   [5980]
+    0 TableSoItemLang data
+     0 int id = 1015981
+     1 string schinese = "跟父母说是学校食堂导致"
+     1 string schinese_censored = "跟父母说是学校食堂导致"
+     1 string english = "Tell your parents it was from the school canteen"
+     1 string japanese = "学校給食のせいにする"
+     1 string mchinese = "跟父母說是學校食堂導致"
+   [5981]
+    0 TableSoItemLang data
+     0 int id = 1015982
+     1 string schinese = "埋怨父母不讲卫生"
+     1 string schinese_censored = "埋怨父母不讲卫生"
+     1 string english = "Complain that your parents are unsanitary"
+     1 string japanese = "両親に衛生管理の甘さを指摘する"
+     1 string mchinese = "埋怨父母不講衛生"
+   [5982]
+    0 TableSoItemLang data
+     0 int id = 1015983
+     1 string schinese = "听从父母意见"
+     1 string schinese_censored = "听从父母意见"
+     1 string english = "Listen to your parents"
+     1 string japanese = "両親に従う"
+     1 string mchinese = "聽從父母意見"
+   [5983]
+    0 TableSoItemLang data
+     0 int id = 1015984
+     1 string schinese = "坚持自己意见"
+     1 string schinese_censored = "坚持自己意见"
+     1 string english = "Persist in your own ideas"
+     1 string japanese = "意志を貫き通す"
+     1 string mchinese = "堅持自己意見"
+   [5984]
+    0 TableSoItemLang data
+     0 int id = 1015985
+     1 string schinese = "走出门之后再坚持自己的穿法"
+     1 string schinese_censored = "走出门之后再坚持自己的穿法"
+     1 string english = "Walk out and continue wearing it as before"
+     1 string japanese = "外出してからロールアップ"
+     1 string mchinese = "走出門之後再堅持自己的穿法"
+   [5985]
+    0 TableSoItemLang data
+     0 int id = 1015986
+     1 string schinese = "身体"
+     1 string schinese_censored = "身体"
+     1 string english = "Body"
+     1 string japanese = "身体"
+     1 string mchinese = "身體"
+   [5986]
+    0 TableSoItemLang data
+     0 int id = 1015987
+     1 string schinese = "心情"
+     1 string schinese_censored = "心情"
+     1 string english = "Mood"
+     1 string japanese = "精神"
+     1 string mchinese = "心情"
+   [5987]
+    0 TableSoItemLang data
+     0 int id = 1015988
+     1 string schinese = "压力过大"
+     1 string schinese_censored = "压力过大"
+     1 string english = "Stressed Out"
+     1 string japanese = "過度のストレス"
+     1 string mchinese = "壓力過大"
+   [5988]
+    0 TableSoItemLang data
+     0 int id = 1015989
+     1 string schinese = "你和他聊学习经验"
+     1 string schinese_censored = "你和他聊学习经验"
+     1 string english = "Talk about your study experience"
+     1 string japanese = "勉強の経験を語る"
+     1 string mchinese = "你和他聊學習經驗"
+   [5989]
+    0 TableSoItemLang data
+     0 int id = 1015990
+     1 string schinese = "你和他聊最近的电视剧"
+     1 string schinese_censored = "你和他聊最近的电视剧"
+     1 string english = "Talk about recent TV series"
+     1 string japanese = "最近のドラマを語る"
+     1 string mchinese = "你和他聊最近的電視劇"
+   [5990]
+    0 TableSoItemLang data
+     0 int id = 1015991
+     1 string schinese = "你和他聊异性同学的关系"
+     1 string schinese_censored = "你和他聊异性同学的关系"
+     1 string english = "Talk about classmates of the other sex"
+     1 string japanese = "異性について語る"
+     1 string mchinese = "你和他聊異性同學的關係"
+   [5991]
+    0 TableSoItemLang data
+     0 int id = 1015992
+     1 string schinese = "同桌换了，一个坏学生"
+     1 string schinese_censored = "同桌换了，一个坏学生"
+     1 string english = "New desk mate - bad student"
+     1 string japanese = "悪い子が隣になった"
+     1 string mchinese = "同桌換了，一個壞學生"
+   [5992]
+    0 TableSoItemLang data
+     0 int id = 1015993
+     1 string schinese = "同桌换了，挺热心的一个学生"
+     1 string schinese_censored = "同桌换了，挺热心的一个学生"
+     1 string english = "New desk mate - warmhearted student"
+     1 string japanese = "熱心な子が隣になった"
+     1 string mchinese = "同桌換了，挺熱心的一個學生"
+   [5993]
+    0 TableSoItemLang data
+     0 int id = 1015994
+     1 string schinese = "同桌没换，一切放心"
+     1 string schinese_censored = "同桌没换，一切放心"
+     1 string english = "Same desk mate - all is well"
+     1 string japanese = "一緒になれて安心した"
+     1 string mchinese = "同桌沒換，一切放心"
+   [5994]
+    0 TableSoItemLang data
+     0 int id = 1015995
+     1 string schinese = "路见不平，一声吼"
+     1 string schinese_censored = "路见不平，一声吼"
+     1 string english = "A rough road and a roar"
+     1 string japanese = "見過ごさず怒鳴る"
+     1 string mchinese = "路見不平，一聲吼"
+   [5995]
+    0 TableSoItemLang data
+     0 int id = 1015996
+     1 string schinese = "假装没看见"
+     1 string schinese_censored = "假装没看见"
+     1 string english = "Pretend to see nothing"
+     1 string japanese = "見なかったふり"
+     1 string mchinese = "假裝沒看見"
+   [5996]
+    0 TableSoItemLang data
+     0 int id = 1015997
+     1 string schinese = "直接动手抓住小偷"
+     1 string schinese_censored = "直接动手抓住小偷"
+     1 string english = "Confront the thieves"
+     1 string japanese = "自分で捕まえる"
+     1 string mchinese = "直接動手抓住小偷"
+   [5997]
+    0 TableSoItemLang data
+     0 int id = 1015998
+     1 string schinese = "不跟他说话"
+     1 string schinese_censored = "不跟他说话"
+     1 string english = "Don't talk to him"
+     1 string japanese = "無視する"
+     1 string mchinese = "不跟他說話"
+   [5998]
+    0 TableSoItemLang data
+     0 int id = 1015999
+     1 string schinese = "同样敌视他"
+     1 string schinese_censored = "同样敌视他"
+     1 string english = "Look down on him, too"
+     1 string japanese = "同じように敵視する"
+     1 string mchinese = "同樣敵視他"
+   [5999]
+    0 TableSoItemLang data
+     0 int id = 1016000
+     1 string schinese = "主动示弱"
+     1 string schinese_censored = "主动示弱"
+     1 string english = "Toss in the towel"
+     1 string japanese = "負けを認める"
+     1 string mchinese = "主動示弱"
+   [6000]
+    0 TableSoItemLang data
+     0 int id = 1016001
+     1 string schinese = "蓝瓶的口服液"
+     1 string schinese_censored = "蓝瓶的口服液"
+     1 string english = "Oral Blue"
+     1 string japanese = "青い瓶の経口薬"
+     1 string mchinese = "藍瓶的口服液"
+   [6001]
+    0 TableSoItemLang data
+     0 int id = 1016002
+     1 string schinese = "西洋参片"

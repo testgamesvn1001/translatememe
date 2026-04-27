@@ -1,0 +1,184 @@
+     1 string schinese_censored = "我想！这段时间在您身边非常有收获！还希望能在您身边工作！"
+     1 string english = "I do! I've learned so much from you! I want to keep on working with you!"
+     1 string japanese = "はい！インターンシップは最高でした！このまま続けられたら良かったのに！"
+     1 string mchinese = "我想！這段時間在您身邊非常有收穫！還希望能在您身邊工作！"
+   [20561]
+    0 TableSoItemLang data
+     0 int id = 1030567
+     1 string schinese = "嗯！但是现在不行，你现在最重要的工作是学业，等你在学校“历练”完成，享受一下你的大学时光，再来也不迟~"
+     1 string schinese_censored = "嗯！但是现在不行，你现在最重要的工作是学业，等你在学校“历练”完成，享受一下你的大学时光，再来也不迟~"
+     1 string english = "Great! But now's not the time. You need to focus on your studies. But once you've graduated and made the best of your time at university, come find me!"
+     1 string japanese = "そうね！でもすぐには無理なの。今のあなたに大切なのは学校で経験を積むこと。大学生活を楽しんでからでも遅くないわ！"
+     1 string mchinese = "嗯！但是現在不行，你現在最重要的工作是學業，等你在學校“曆練”完成，享受一下你的大學時光，再來也不遲~"
+   [20562]
+    0 TableSoItemLang data
+     0 int id = 1030568
+     1 string schinese = "好的，我记住了，多谢杨姐的教导！"
+     1 string schinese_censored = "好的，我记住了，多谢杨姐的教导！"
+     1 string english = "Okay! I'll always cherish this time with you, thank you!"
+     1 string japanese = "はい、理解しました！指導ありがとうございました！"
+     1 string mchinese = "好的，我記住了，多謝楊姐的教導！"
+   [20563]
+    0 TableSoItemLang data
+     0 int id = 1030569
+     1 string schinese = "走吧走吧，等你毕业有机会再一起工作！"
+     1 string schinese_censored = "走吧走吧，等你毕业有机会再一起工作！"
+     1 string english = "Go on then, come back once you've graduated!"
+     1 string japanese = "ええ、卒業したらまた遊びに来なさい！"
+     1 string mchinese = "走吧走吧，等你畢業有機會再一起工作！"
+   [20564]
+    0 TableSoItemLang data
+     0 int id = 1030570
+     1 string schinese = "包装定位"
+     1 string schinese_censored = "包装定位"
+     1 string english = "Product Positioning"
+     1 string japanese = "ビジュアル設定"
+     1 string mchinese = "包裝定位"
+   [20565]
+    0 TableSoItemLang data
+     0 int id = 1030571
+     1 string schinese = "人设形象"
+     1 string schinese_censored = "人设形象"
+     1 string english = "Personal Image"
+     1 string japanese = "キャラクター設定"
+     1 string mchinese = "人設形象"
+   [20566]
+    0 TableSoItemLang data
+     0 int id = 1030572
+     1 string schinese = "明星运营"
+     1 string schinese_censored = "明星运营"
+     1 string english = "Celebrity Management"
+     1 string japanese = "スタープロデュース"
+     1 string mchinese = "明星運營"
+   [20567]
+    0 TableSoItemLang data
+     0 int id = 1030573
+     1 string schinese = "商业推广"
+     1 string schinese_censored = "商业推广"
+     1 string english = "Business Promotion"
+     1 string japanese = "商業プロモーション"
+     1 string mchinese = "商業推廣"
+   [20568]
+    0 TableSoItemLang data
+     0 int id = 1030574
+     1 string schinese = "演出策划"
+     1 string schinese_censored = "演出策划"
+     1 string english = "Performance Planning"
+     1 string japanese = "公演企画"
+     1 string mchinese = "演出策劃"
+   [20569]
+    0 TableSoItemLang data
+     0 int id = 1030575
+     1 string schinese = "后勤管理"
+     1 string schinese_censored = "后勤管理"
+     1 string english = "Logistics Administration"
+     1 string japanese = "裏方管理"
+     1 string mchinese = "後勤管理"
+   [20570]
+    0 TableSoItemLang data
+     0 int id = 1030576
+     1 string schinese = "偶像管理"
+     1 string schinese_censored = "偶像管理"
+     1 string english = "Idol Management"
+     1 string japanese = "アイドル管理"
+     1 string mchinese = "偶像管理"
+   [20571]
+    0 TableSoItemLang data
+     0 int id = 1030577
+     1 string schinese = "公关技巧"
+     1 string schinese_censored = "公关技巧"
+     1 string english = "PR Techniques"
+     1 string japanese = "広報技術"
+     1 string mchinese = "公關技巧"
+   [20572]
+    0 TableSoItemLang data
+     0 int id = 1030578
+     1 string schinese = "粉丝经济入门"
+     1 string schinese_censored = "粉丝经济入门"
+     1 string english = "Fan Economics 101"
+     1 string japanese = "ファン経済入門"
+     1 string mchinese = "粉絲經濟入門"
+   [20573]
+    0 TableSoItemLang data
+     0 int id = 1030579
+     1 string schinese = "生活给了我普通人的眼睛，我却用它来发现闪光点\n\n【情商】属性越高，学习消耗的悟性越少。\n\n最低消耗80点悟性。"
+     1 string schinese_censored = "生活给了我普通人的眼睛，我却用它来发现闪光点\n\n学会包装定位，【情绪力】越高，会适当减少所需消耗的悟性\n\n属性标准值：2700\n至少消耗悟性:80"
+     1 string english = "These eyes of mine pierce the veil!\n\nLearning Product Positioning costs less Knowledge the more [EQ] you have.\n\nStat norm: 2,700\nMinimum Knowledge cost: 80"
+     1 string japanese = "一般人という原石を磨き上げよう。\n\nビジュアル設定を学ぶ。【ＥＱ】が高いほど消費理解力は少なくなる。\n\n能力標準値：2700\n最低消費理解力:80"
+     1 string mchinese = "生活給了我普通人的眼睛，我卻用它來發現閃光點\n\n【情商】屬性越高，學習消耗的悟性越少。\n\n最低消耗80點悟性。"
+   [20574]
+    0 TableSoItemLang data
+     0 int id = 1030580
+     1 string schinese = "人们最喜欢什么就要包装成什么样子！\n\n【情商】属性越高，学习消耗的悟性越少。\n\n最低消耗100点悟性。"
+     1 string schinese_censored = "人们最喜欢什么就要包装成什么样子！\n\n学会人设形象，【情绪力】越高，会适当减少所需消耗的悟性\n\n属性标准值：3780\n至少消耗悟性:100"
+     1 string english = "Creating is believing!\n\nLearning Personal Image costs less Knowledge the more [EQ] you have.\n\nStat norm: 3,780\nMinimum Knowledge cost: 100"
+     1 string japanese = "大衆が好む設定が必要だ！\n\nキャラ設定を学ぶ。【ＥＱ】が高いほど消費理解力は少なくなる。\n\n能力標準値：3780\n最低消費理解力:100"
+     1 string mchinese = "人們最喜歡什麼就要包裝成什麼樣子！\n\n【情商】屬性越高，學習消耗的悟性越少。\n\n最低消耗100點悟性。"
+   [20575]
+    0 TableSoItemLang data
+     0 int id = 1030581
+     1 string schinese = "满足大众需求就是明星运营的基础\n\n【情商】属性越高，学习消耗的悟性越少。\n\n最低消耗120点悟性。"
+     1 string schinese_censored = "满足大众需求就是明星运营的基础\n\n学会明星运营，【情绪力】越高，会适当减少所需消耗的悟性\n\n属性标准值：9072\n至少消耗悟性:120"
+     1 string english = "I am the bringer of wishes and dreams!\n\nLearning Celebrity Management costs less Knowledge the more [EQ] you have.\n\nStat norm: 9,072\nMinimum Knowledge cost: 120"
+     1 string japanese = "大衆のニーズに答えることがプロデュースの基本だ！\n\nスタープロデュースを学ぶ。【ＥＱ】が高いほど消費理解力は少なくなる。\n\n能力標準値：9072\n最低消費理解力:120"
+     1 string mchinese = "滿足大眾需求就是明星運營的基礎\n\n【情商】屬性越高，學習消耗的悟性越少。\n\n最低消耗120點悟性。"
+   [20576]
+    0 TableSoItemLang data
+     0 int id = 1030582
+     1 string schinese = "最终目的！\n\n【情商】【想象力】属性越高，学习消耗的悟性越少。\n\n最低消耗150点悟性。"
+     1 string schinese_censored = "最终目的！\n\n学会商业推广，【情绪力】【想象力】越高，会适当减少所需消耗的悟性\n\n属性标准值：15420\n至少消耗悟性:150"
+     1 string english = "Let there be riches!\n\nLearning Business Promotion costs less Knowledge the more [EQ] and [Imagination] you have.\n\nStat norm: 15,420\nMinimum Knowledge cost: 150"
+     1 string japanese = "最終目的！\n\n商業プロモーションを学ぶ。【ＥＱ】【想像力】が高いほど消費理解力は少なくなる。\n\n能力標準値：15420\n最低消費理解力:150"
+     1 string mchinese = "最終目的！\n\n【情商】【想像力】屬性越高，學習消耗的悟性越少。\n\n最低消耗150點悟性。"
+   [20577]
+    0 TableSoItemLang data
+     0 int id = 1030583
+     1 string schinese = "如何让廉价票的观众也有满意的享受是一门学问\n\n【情商】【想象力】属性越高，学习消耗的悟性越少。\n\n最低消耗170点悟性。"
+     1 string schinese_censored = "如何让廉价票的观众也有满意的享受是一门学问\n\n学会演出策划，【情绪力】【想象力】越高，会适当减少所需消耗的悟性\n\n属性标准值：27756\n至少消耗悟性:170"
+     1 string english = "How to avoid tossing pearls to swine?\n\nLearning Performance Planning costs less Knowledge the more [EQ] and [Imagination] you have.\n\nStat norm: 27,756\nMinimum Knowledge cost: 170"
+     1 string japanese = "いかに安い席のお客を満足させるかが学問だ。\n\n公演企画を学ぶ。【ＥＱ】【想像力】が高いほど消費理解力は少なくなる。\n\n能力標準値：27756\n最低消費理解力:170"
+     1 string mchinese = "如何讓廉價票的觀眾也有滿意的享受是一門學問\n\n【情商】【想像力】屬性越高，學習消耗的悟性越少。\n\n最低消耗170點悟性。"
+   [20578]
+    0 TableSoItemLang data
+     0 int id = 1030584
+     1 string schinese = "包括做饭在内，必须十八般武艺样样精通\n\n【情商】【想象力】属性越高，学习消耗的悟性越少。\n\n最低消耗190点悟性。"
+     1 string schinese_censored = "包括做饭在内，必须十八般武艺样样精通\n\n学会后勤管理，【情绪力】【想象力】越高，会适当减少所需消耗的悟性\n\n属性标准值：44406\n至少消耗悟性:190"
+     1 string english = "This includes cooking, and more...\n\nLearning Logistics Administration costs less Knowledge the more [EQ] and [Imagination] you have.\n\nStat norm: 44,406\nMinimum Knowledge cost: 190"
+     1 string japanese = "調理も含め、あらゆる武術に精通している必要がある。\n\n裏方管理を学ぶ。【ＥＱ】【想像力】が高いほど消費理解力は少なくなる。\n\n能力標準値：44406\n最低消費理解力:190"
+     1 string mchinese = "包括做飯在內，必須十八般武藝樣樣精通\n\n【情商】【想像力】屬性越高，學習消耗的悟性越少。\n\n最低消耗190點悟性。"
+   [20579]
+    0 TableSoItemLang data
+     0 int id = 1030585
+     1 string schinese = "A是A，人设是乖乖女，B是B，人设是小鲜肉\n\n【情商】【想象力】【魅力】属性越高，学习消耗的悟性越少。\n\n最低消耗200点悟性。"
+     1 string schinese_censored = "她是她，人设是乖乖女，他是他，人设是小鲜肉\n\n学会偶像管理，【情绪力】【想象力】【魅力】越高，会适当减少所需消耗的悟性\n\n属性标准值：71046\n至少消耗悟性:200"
+     1 string english = "Now, where is that hottie going?\n\nLearning Idol Management costs less Knowledge the more [EQ], [Imagination] and [Charm] you have.\n\nStat norm: 71,046\nMinimum Knowledge cost: 200"
+     1 string japanese = "Ａさん：設定は清楚な子。Ｂさん：設定は若くてフレッシュな子。\n\nアイドル管理を学ぶ。【ＥＱ】【想像力】【魅力】が高いほど消費理解力は少なくなる。\n\n能力標準値：71046\n最低消費理解力:200"
+     1 string mchinese = "A是A，人設是乖乖女，B是B，人設是小鮮肉\n\n【情商】【想像力】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低消耗200點悟性。"
+   [20580]
+    0 TableSoItemLang data
+     0 int id = 1030586
+     1 string schinese = "让他们淹没在人民群众的汪洋大海里\n\n【情商】【想象力】【魅力】属性越高，学习消耗的悟性越少。\n\n最低消耗210点悟性。"
+     1 string schinese_censored = "让他们淹没在人民群众的汪洋大海里\n\n学会公关技巧，【情绪力】【想象力】【魅力】越高，会适当减少所需消耗的悟性\n\n属性标准值：113670\n至少消耗悟性:210"
+     1 string english = "Let the fans storm the stage!\n\nLearning PR Techniques costs less Knowledge the more [EQ], [Imagination] and [Charm] you have.\n\nStat norm: 113,670\nMinimum Knowledge cost: 210"
+     1 string japanese = "大衆という果てしない大海で溺れる。\n\n広報技術を学ぶ。【ＥＱ】【想像力】【魅力】が高いほど消費理解力は少なくなる。\n\n能力標準値：113670\n最低消費理解力:210"
+     1 string mchinese = "讓他們淹沒在人民群眾的汪洋大海裏\n\n【情商】【想像力】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低消耗210點悟性。"
+   [20581]
+    0 TableSoItemLang data
+     0 int id = 1030587
+     1 string schinese = "LGJ的粉丝昵称是小郡肝\n\n【情商】【想象力】【魅力】属性越高，学习消耗的悟性越少。\n\n最低消耗250点悟性。"
+     1 string schinese_censored = "那谁的粉丝昵称是小郡肝\n\n学会粉丝经济入门，【情绪力】【想象力】【魅力】越高，会适当减少所需消耗的悟性\n\n属性标准值：181872\n至少消耗悟性:250"
+     1 string english = "Snow is a real cold one.\n\nLearning Fan Economics 101 costs less Knowledge the more [EQ], [Imagination] and [Charm] you have.\n\nStat norm: 181,872\nMinimum Knowledge cost: 250"
+     1 string japanese = "リン・ガンジャンファンの愛称は砂肝ちゃんだ。\n\nファン経済入門を学ぶ。【ＥＱ】【想像力】【魅力】が高いほど消費理解力は少なくなる。\n\n能力標準値：181872\n最低消費理解力:250"
+     1 string mchinese = "LGJ的粉絲昵稱是小郡肝\n\n【情商】【想像力】【魅力】屬性越高，學習消耗的悟性越少。\n\n最低消耗250點悟性。"
+   [20582]
+    0 TableSoItemLang data
+     0 int id = 1030588
+     1 string schinese = "包装定位可以训练你发现普通人上的闪光点"
+     1 string schinese_censored = "包装定位可以训练你发现普通人上的闪光点"
+     1 string english = "Product Positioning is vital for agents."
+     1 string japanese = "外面設定を設計し、一般人をスターに仕立てる"
+     1 string mchinese = "包裝定位可以訓練你發現普通人上的閃光點"
+   [20583]
+    0 TableSoItemLang data
+     0 int id = 1030589
+     1 string schinese = "人设形象可以将明星包装成平凡人的梦想"

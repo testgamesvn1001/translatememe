@@ -1,0 +1,184 @@
+     1 string schinese_censored = "那么贵，都是付了广告费"
+     1 string english = "Too costly. It's all to make up for their advertisement costs."
+     1 string japanese = "広告費が含まれてるから高すぎなんだよ。"
+     1 string mchinese = "那麼貴，都是付了廣告費"
+   [1609]
+    0 TableSoItemLang data
+     0 int id = 1011610
+     1 string schinese = "好好吃饭都一样"
+     1 string schinese_censored = "好好吃饭都一样"
+     1 string english = "Just eat your food properly."
+     1 string japanese = "ご飯をちゃんと食べるだけで十分。"
+     1 string mchinese = "好好吃飯都一樣"
+   [1610]
+    0 TableSoItemLang data
+     0 int id = 1011611
+     1 string schinese = "自己不好好学，请谁都没用"
+     1 string schinese_censored = "自己不好好学，请谁都没用"
+     1 string english = "There's no use in asking a teacher to come if you don't study properly yourself!"
+     1 string japanese = "自習しろ。雇うなんて無駄だ。"
+     1 string mchinese = "自己不好好學，請誰都沒用"
+   [1611]
+    0 TableSoItemLang data
+     0 int id = 1011612
+     1 string schinese = "那么矫情，学习是靠平时努力！"
+     1 string schinese_censored = "那么矫情，学习是靠平时努力！"
+     1 string english = "Now that's unreasonable! Study is done by hard work!"
+     1 string japanese = "必要ない！勉強は普段からの努力だ！"
+     1 string mchinese = "那麼矯情，學習是靠平時努力！"
+   [1612]
+    0 TableSoItemLang data
+     0 int id = 1011613
+     1 string schinese = "老师应该发复印材料"
+     1 string schinese_censored = "老师应该发复印材料"
+     1 string english = "Your teacher will distribute copied materials."
+     1 string japanese = "先生が資料を準備するべきだな。"
+     1 string mchinese = "老師應該發複印材料"
+   [1613]
+    0 TableSoItemLang data
+     0 int id = 1011614
+     1 string schinese = "跟着老师走，不用多想"
+     1 string schinese_censored = "跟着老师走，不用多想"
+     1 string english = "Just follow your teacher's pace and don't think about anything else."
+     1 string japanese = "深く考えるな。先生の言う通りにやれ。"
+     1 string mchinese = "跟著老師走，不用多想"
+   [1614]
+    0 TableSoItemLang data
+     0 int id = 1011615
+     1 string schinese = "那些都是媒体宣传忽悠人的"
+     1 string schinese_censored = "那些都是媒体宣传忽悠人的"
+     1 string english = "That's just the media trying to fool everyone."
+     1 string japanese = "全部メディアのワナだ。"
+     1 string mchinese = "那些都是媒體宣傳忽悠人的"
+   [1615]
+    0 TableSoItemLang data
+     0 int id = 1011616
+     1 string schinese = "那些都是媒体宣传忽悠人的"
+     1 string schinese_censored = "那些都是媒体宣传忽悠人的"
+     1 string english = "That's just the media trying to fool everyone."
+     1 string japanese = "全部メディアのワナだ。"
+     1 string mchinese = "那些都是媒體宣傳忽悠人的"
+   [1616]
+    0 TableSoItemLang data
+     0 int id = 1011617
+     1 string schinese = "回老家看看吧"
+     1 string schinese_censored = "回老家看看吧"
+     1 string english = "Let's go back to your grandparents."
+     1 string japanese = "田舎で十分だ！"
+     1 string mchinese = "回老家看看吧"
+   [1617]
+    0 TableSoItemLang data
+     0 int id = 1011618
+     1 string schinese = "网上都有资源"
+     1 string schinese_censored = "网上都有资源"
+     1 string english = "There are other resources on the net."
+     1 string japanese = "ネットでダウンロードできるだろ？"
+     1 string mchinese = "網上都有資源"
+   [1618]
+    0 TableSoItemLang data
+     0 int id = 1011619
+     1 string schinese = "以后都不联系了，买啥啊"
+     1 string schinese_censored = "以后都不联系了，买啥啊"
+     1 string english = "You won't keep in contact with them anyway, it's just a waste of cash."
+     1 string japanese = "どうせ連絡しなくなるぞ。買う意味はあるか？"
+     1 string mchinese = "以後都不聯繫了，買啥啊"
+   [1619]
+    0 TableSoItemLang data
+     0 int id = 1011620
+     1 string schinese = "啥时候能把父母放心上？"
+     1 string schinese_censored = "啥时候能把父母放心上？"
+     1 string english = "So, when will you begin caring about your parents?"
+     1 string japanese = "アイドルより親のことを考えてくれよ？"
+     1 string mchinese = "啥時候能把父母放心上？"
+   [1620]
+    0 TableSoItemLang data
+     0 int id = 1011621
+     1 string schinese = "别想三想四的，容易早恋"
+     1 string schinese_censored = "别想三想四的，还是学习第一"
+     1 string english = "Forget it, who knows if someone will start to like you. You're too young for all that."
+     1 string japanese = "いろいろ考えすぎだ。恋愛なんて早すぎる。"
+     1 string mchinese = "別想三想四的，容易早戀"
+   [1621]
+    0 TableSoItemLang data
+     0 int id = 1011622
+     1 string schinese = "看啥啊，还是多做题吧"
+     1 string schinese_censored = "看啥啊，还是多做题吧"
+     1 string english = "Reading novels?! Pfft, you better do exam questions!"
+     1 string japanese = "何を見てるんだ。早く宿題しろ。"
+     1 string mchinese = "看啥啊，還是多做題吧"
+   [1622]
+    0 TableSoItemLang data
+     0 int id = 1011623
+     1 string schinese = "不行，只能报复习班"
+     1 string schinese_censored = "不行，只能报复习班"
+     1 string english = "Nope. But we can always sign you up for an extra class."
+     1 string japanese = "ダメだ。学校の復習で十分だ。"
+     1 string mchinese = "不行，只能報復習班"
+   [1623]
+    0 TableSoItemLang data
+     0 int id = 1011624
+     1 string schinese = "不行，你看人家都不要这些东西，要听话"
+     1 string schinese_censored = "不行，你看人家都不要这些东西，要听话"
+     1 string english = "Nope. Just look at your friends, they never want anything. You should behave instead."
+     1 string japanese = "他の子はわがままを言わないぞ！見習え！"
+     1 string mchinese = "不行，你看人家都不要這些東西，要聽話"
+   [1624]
+    0 TableSoItemLang data
+     0 int id = 1011625
+     1 string schinese = "有啥好，还不如我给你做一个"
+     1 string schinese_censored = "有啥好，还不如我给你做一个"
+     1 string english = "What's so good with this one? I'll just make one for you instead."
+     1 string japanese = "どこがいいんだ？手作りで十分だろ。"
+     1 string mchinese = "有啥好，還不如我給你做一個"
+   [1625]
+    0 TableSoItemLang data
+     0 int id = 1011626
+     1 string schinese = "墙都给你弄脏了，不买"
+     1 string schinese_censored = "墙都给你弄脏了，不买"
+     1 string english = "You've already dirtied our walls. Not a chance."
+     1 string japanese = "壁を汚すだろ。買わないぞ。"
+     1 string mchinese = "牆都給你弄髒了，不買"
+   [1626]
+    0 TableSoItemLang data
+     0 int id = 1011627
+     1 string schinese = "这些东西有啥意思，我去夜市买更便宜"
+     1 string schinese_censored = "这些东西有啥意思，我去夜市买更便宜"
+     1 string english = "What's so interesting with these things? I'll go buy you something cheap at the night market."
+     1 string japanese = "どこがいいんだ。夜市の安いので十分だろ。"
+     1 string mchinese = "這些東西有啥意思，我去夜市買更便宜"
+   [1627]
+    0 TableSoItemLang data
+     0 int id = 1011628
+     1 string schinese = "小心别打人家玻璃上！"
+     1 string schinese_censored = "小心别打人家玻璃上！"
+     1 string english = "Don't hit the ball at anyone else's windows!"
+     1 string japanese = "窓を割るだろ！"
+     1 string mchinese = "小心別打人家玻璃上！"
+   [1628]
+    0 TableSoItemLang data
+     0 int id = 1011629
+     1 string schinese = "买那些没用的干嘛，过了年纪没意思了"
+     1 string schinese_censored = "买那些没用的干嘛，过了年纪没意思了"
+     1 string english = "That's just a bunch of crap. You'll grow out of it when you get older."
+     1 string japanese = "買っても意味がない。もうそんな歳じゃない。"
+     1 string mchinese = "買那些沒用的幹嘛，過了年紀沒意思了"
+   [1629]
+    0 TableSoItemLang data
+     0 int id = 1011630
+     1 string schinese = "别想三想四的，容易早恋"
+     1 string schinese_censored = "别想三想四的，还是学习第一"
+     1 string english = "Forget it, who knows if someone will start to like you. You're too young for all that."
+     1 string japanese = "いろいろ考えすぎだ。恋愛なんて早すぎる。"
+     1 string mchinese = "別想三想四的，容易早戀"
+   [1630]
+    0 TableSoItemLang data
+     0 int id = 1011631
+     1 string schinese = "你看人家都不要这些东西，要听话"
+     1 string schinese_censored = "你看人家都不要这些东西，要听话"
+     1 string english = "Just look at your friends, they never want anything. You should behave instead."
+     1 string japanese = "他の子はわがままを言わない！見習え！"
+     1 string mchinese = "你看人家都不要這些東西，要聽話"
+   [1631]
+    0 TableSoItemLang data
+     0 int id = 1011632
+     1 string schinese = "买哪些个干啥呀，又没用"

@@ -1,0 +1,184 @@
+     1 string schinese_censored = ""
+     1 string english = "/1109026"
+     1 string japanese = "/"
+     1 string mchinese = "'=VLOOKUP(A23446,IF({1,0},!:,!:),2,0)[.xlsx][.xlsx]"
+   [23551]
+    0 TableSoItemLang data
+     0 int id = 1109027
+     1 string schinese = "'=VLOOKUP(A23447,IF({1,0},!:,!:),2,0)[.xlsx][.xlsx]"
+     1 string schinese_censored = ""
+     1 string english = "/1109027"
+     1 string japanese = "/"
+     1 string mchinese = "'=VLOOKUP(A23447,IF({1,0},!:,!:),2,0)[.xlsx][.xlsx]"
+   [23552]
+    0 TableSoItemLang data
+     0 int id = 1109028
+     1 string schinese = "'=VLOOKUP(A23448,IF({1,0},!:,!:),2,0)[.xlsx][.xlsx]"
+     1 string schinese_censored = ""
+     1 string english = "/1109028"
+     1 string japanese = "/"
+     1 string mchinese = "'=VLOOKUP(A23448,IF({1,0},!:,!:),2,0)[.xlsx][.xlsx]"
+   [23553]
+    0 TableSoItemLang data
+     0 int id = 1109029
+     1 string schinese = "'=VLOOKUP(A23449,IF({1,0},!:,!:),2,0)[.xlsx][.xlsx]"
+     1 string schinese_censored = ""
+     1 string english = "/1109029"
+     1 string japanese = "/"
+     1 string mchinese = "'=VLOOKUP(A23449,IF({1,0},!:,!:),2,0)[.xlsx][.xlsx]"
+   [23554]
+    0 TableSoItemLang data
+     0 int id = 1109030
+     1 string schinese = "'=VLOOKUP(A23450,IF({1,0},!:,!:),2,0)[.xlsx][.xlsx]"
+     1 string schinese_censored = ""
+     1 string english = "/1109030"
+     1 string japanese = "/"
+     1 string mchinese = "'=VLOOKUP(A23450,IF({1,0},!:,!:),2,0)[.xlsx][.xlsx]"
+   [23555]
+    0 TableSoItemLang data
+     0 int id = 1109031
+     1 string schinese = "'=VLOOKUP(A23451,IF({1,0},!:,!:),2,0)[.xlsx][.xlsx]"
+     1 string schinese_censored = ""
+     1 string english = "/1109031"
+     1 string japanese = "/"
+     1 string mchinese = "'=VLOOKUP(A23451,IF({1,0},!:,!:),2,0)[.xlsx][.xlsx]"
+   [23556]
+    0 TableSoItemLang data
+     0 int id = 1109032
+     1 string schinese = "'=VLOOKUP(A23452,IF({1,0},!:,!:),2,0)[.xlsx][.xlsx]"
+     1 string schinese_censored = ""
+     1 string english = "/1109032"
+     1 string japanese = "/"
+     1 string mchinese = "'=VLOOKUP(A23452,IF({1,0},!:,!:),2,0)[.xlsx][.xlsx]"
+   [23557]
+    0 TableSoItemLang data
+     0 int id = 1109033
+     1 string schinese = "'=VLOOKUP(A23453,IF({1,0},!:,!:),2,0)[.xlsx][.xlsx]"
+     1 string schinese_censored = ""
+     1 string english = "/1109033"
+     1 string japanese = "/"
+     1 string mchinese = "'=VLOOKUP(A23453,IF({1,0},!:,!:),2,0)[.xlsx][.xlsx]"
+   [23558]
+    0 TableSoItemLang data
+     0 int id = 1109034
+     1 string schinese = "'=VLOOKUP(A23454,IF({1,0},!:,!:),2,0)[.xlsx][.xlsx]"
+     1 string schinese_censored = ""
+     1 string english = "/1109034"
+     1 string japanese = "/"
+     1 string mchinese = "'=VLOOKUP(A23454,IF({1,0},!:,!:),2,0)[.xlsx][.xlsx]"
+   [23559]
+    0 TableSoItemLang data
+     0 int id = 1109035
+     1 string schinese = "'=VLOOKUP(A23455,IF({1,0},!:,!:),2,0)[.xlsx][.xlsx]"
+     1 string schinese_censored = ""
+     1 string english = "/1109035"
+     1 string japanese = "/"
+     1 string mchinese = "'=VLOOKUP(A23455,IF({1,0},!:,!:),2,0)[.xlsx][.xlsx]"
+   [23560]
+    0 TableSoItemLang data
+     0 int id = 1109036
+     1 string schinese = "天赋"
+     1 string schinese_censored = "天赋"
+     1 string english = "Talent"
+     1 string japanese = "天賦"
+     1 string mchinese = "天賦"
+   [23561]
+    0 TableSoItemLang data
+     0 int id = 1109037
+     1 string schinese = "读书"
+     1 string schinese_censored = "读书"
+     1 string english = "Studying"
+     1 string japanese = "座学"
+     1 string mchinese = "讀書"
+   [23562]
+    0 TableSoItemLang data
+     0 int id = 1109038
+     1 string schinese = "创新"
+     1 string schinese_censored = "创新"
+     1 string english = "Creative"
+     1 string japanese = "創造"
+     1 string mchinese = "創新"
+   [23563]
+    0 TableSoItemLang data
+     0 int id = 1109039
+     1 string schinese = "意识"
+     1 string schinese_censored = "意识"
+     1 string english = "Awareness"
+     1 string japanese = "意識"
+     1 string mchinese = "意識"
+   [23564]
+    0 TableSoItemLang data
+     0 int id = 1109040
+     1 string schinese = "指挥"
+     1 string schinese_censored = "指挥"
+     1 string english = "Command"
+     1 string japanese = "指揮"
+     1 string mchinese = "指揮"
+   [23565]
+    0 TableSoItemLang data
+     0 int id = 1109041
+     1 string schinese = "发挥"
+     1 string schinese_censored = "发挥"
+     1 string english = "Performance"
+     1 string japanese = "発揮"
+     1 string mchinese = "發揮"
+   [23566]
+    0 TableSoItemLang data
+     0 int id = 1109042
+     1 string schinese = "操作"
+     1 string schinese_censored = "操作"
+     1 string english = "Controls"
+     1 string japanese = "操作"
+     1 string mchinese = "操作"
+   [23567]
+    0 TableSoItemLang data
+     0 int id = 1109043
+     1 string schinese = "主播"
+     1 string schinese_censored = "主播"
+     1 string english = "Streamer"
+     1 string japanese = "実況"
+     1 string mchinese = "主播"
+   [23568]
+    0 TableSoItemLang data
+     0 int id = 1109044
+     1 string schinese = "解说"
+     1 string schinese_censored = "解说"
+     1 string english = "Commentator"
+     1 string japanese = "解説"
+     1 string mchinese = "解說"
+   [23569]
+    0 TableSoItemLang data
+     0 int id = 1109045
+     1 string schinese = "教练"
+     1 string schinese_censored = "教练"
+     1 string english = "Coach"
+     1 string japanese = "コーチング"
+     1 string mchinese = "教練"
+   [23570]
+    0 TableSoItemLang data
+     0 int id = 1109046
+     1 string schinese = "经理"
+     1 string schinese_censored = "经理"
+     1 string english = "Manager"
+     1 string japanese = "マネジメント"
+     1 string mchinese = "經理"
+   [23571]
+    0 TableSoItemLang data
+     0 int id = 1109047
+     1 string schinese = "玩家自带就会有的技能。"
+     1 string schinese_censored = "玩家自带就会有的技能。"
+     1 string english = "You start with these skills."
+     1 string japanese = "持っているだけで効果を発揮するスキル。"
+     1 string mchinese = "玩家自帶就會有的技能。"
+   [23572]
+    0 TableSoItemLang data
+     0 int id = 1109048
+     1 string schinese = "本本分分读书的技能，学习这类技能，会使爸爸妈妈开心。"
+     1 string schinese_censored = "本本分分读书的技能，学习这类技能，会使爸爸妈妈开心。"
+     1 string english = "Study-related skill. Learning this type of skill makes your parents happy."
+     1 string japanese = "真面目に勉強するスキル。このタイプのスキルを学習すると、両親が喜ぶ。"
+     1 string mchinese = "本本分分讀書的技能，學習這類技能，會使爸爸媽媽開心。"
+   [23573]
+    0 TableSoItemLang data
+     0 int id = 1109049
+     1 string schinese = "研究新的战术套路。这方面能力提升的越多，在比赛中，该方面就会有更好的表现、能够更好地压制对手。"

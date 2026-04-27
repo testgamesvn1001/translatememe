@@ -1,0 +1,184 @@
+     1 string schinese_censored = "自然常识（理）"
+     1 string english = "Natural Knowledge"
+     1 string japanese = "理科入門"
+     1 string mchinese = "自然常識（理）"
+   [6439]
+    0 TableSoItemLang data
+     0 int id = 1016440
+     1 string schinese = "天文常识（理）"
+     1 string schinese_censored = "天文常识（理）"
+     1 string english = "Astronomy Knowledge"
+     1 string japanese = "天文学入門"
+     1 string mchinese = "天文常識（理）"
+   [6440]
+    0 TableSoItemLang data
+     0 int id = 1016441
+     1 string schinese = "物理常识（理）"
+     1 string schinese_censored = "物理常识（理）"
+     1 string english = "Physics Knowledge"
+     1 string japanese = "物理入門"
+     1 string mchinese = "物理常識（理）"
+   [6441]
+    0 TableSoItemLang data
+     0 int id = 1016442
+     1 string schinese = "手工常识（理）"
+     1 string schinese_censored = "手工常识（理）"
+     1 string english = "Handcraft Knowledge"
+     1 string japanese = "手芸入門"
+     1 string mchinese = "手工常識（理）"
+   [6442]
+    0 TableSoItemLang data
+     0 int id = 1016443
+     1 string schinese = "模型常识（理）"
+     1 string schinese_censored = "模型常识（理）"
+     1 string english = "Modeling Knowledge"
+     1 string japanese = "模型入門"
+     1 string mchinese = "模型常識（理）"
+   [6443]
+    0 TableSoItemLang data
+     0 int id = 1016444
+     1 string schinese = "化学常识（理）"
+     1 string schinese_censored = "化学常识（理）"
+     1 string english = "Chemistry Knowledge"
+     1 string japanese = "化学入門"
+     1 string mchinese = "化學常識（理）"
+   [6444]
+    0 TableSoItemLang data
+     0 int id = 1016445
+     1 string schinese = "生物常识（理）"
+     1 string schinese_censored = "生物常识（理）"
+     1 string english = "Biology Knowledge"
+     1 string japanese = "生物入門"
+     1 string mchinese = "生物常識（理）"
+   [6445]
+    0 TableSoItemLang data
+     0 int id = 1016446
+     1 string schinese = "初中生物（理）"
+     1 string schinese_censored = "初中生物（理）"
+     1 string english = "Junior Biology"
+     1 string japanese = "中学生物"
+     1 string mchinese = "初中生物（理）"
+   [6446]
+    0 TableSoItemLang data
+     0 int id = 1016447
+     1 string schinese = "初中物理（理）"
+     1 string schinese_censored = "初中物理（理）"
+     1 string english = "Junior Physics"
+     1 string japanese = "中学物理"
+     1 string mchinese = "初中物理（理）"
+   [6447]
+    0 TableSoItemLang data
+     0 int id = 1016448
+     1 string schinese = "初中化学（理）"
+     1 string schinese_censored = "初中化学（理）"
+     1 string english = "Junior Chemistry"
+     1 string japanese = "中学化学"
+     1 string mchinese = "初中化學（理）"
+   [6448]
+    0 TableSoItemLang data
+     0 int id = 1016449
+     1 string schinese = "理科综合1级（理）"
+     1 string schinese_censored = "理科综合1级（理）"
+     1 string english = "Integrated Science 1"
+     1 string japanese = "総合理系I"
+     1 string mchinese = "理科綜合1級（理）"
+   [6449]
+    0 TableSoItemLang data
+     0 int id = 1016450
+     1 string schinese = "理科综合2级（理）"
+     1 string schinese_censored = "理科综合2级（理）"
+     1 string english = "Integrated Science 2"
+     1 string japanese = "総合理系II"
+     1 string mchinese = "理科綜合2級（理）"
+   [6450]
+    0 TableSoItemLang data
+     0 int id = 1016451
+     1 string schinese = "理科综合3级（理）"
+     1 string schinese_censored = "理科综合3级（理）"
+     1 string english = "Integrated Science 3"
+     1 string japanese = "総合理系III"
+     1 string mchinese = "理科綜合3級（理）"
+   [6451]
+    0 TableSoItemLang data
+     0 int id = 1016452
+     1 string schinese = "理科综合4级（理）"
+     1 string schinese_censored = "理科综合4级（理）"
+     1 string english = "Integrated Science 4"
+     1 string japanese = "総合理系IV"
+     1 string mchinese = "理科綜合4級（理）"
+   [6452]
+    0 TableSoItemLang data
+     0 int id = 1016453
+     1 string schinese = "理科综合5级（理）"
+     1 string schinese_censored = "理科综合5级（理）"
+     1 string english = "Integrated Science 5"
+     1 string japanese = "総合理系V"
+     1 string mchinese = "理科綜合5級（理）"
+   [6453]
+    0 TableSoItemLang data
+     0 int id = 1016454
+     1 string schinese = "理科综合6级（理）"
+     1 string schinese_censored = "理科综合6级（理）"
+     1 string english = "Integrated Science 6"
+     1 string japanese = "総合理系VI"
+     1 string mchinese = "理科綜合6級（理）"
+   [6454]
+    0 TableSoItemLang data
+     0 int id = 1016455
+     1 string schinese = "理科综合7级（理）"
+     1 string schinese_censored = "理科综合7级（理）"
+     1 string english = "Integrated Science 7"
+     1 string japanese = "総合理系VII"
+     1 string mchinese = "理科綜合7級（理）"
+   [6455]
+    0 TableSoItemLang data
+     0 int id = 1016456
+     1 string schinese = "理科综合8级（理）"
+     1 string schinese_censored = "理科综合8级（理）"
+     1 string english = "Integrated Science 8"
+     1 string japanese = "総合理系VIII"
+     1 string mchinese = "理科綜合8級（理）"
+   [6456]
+    0 TableSoItemLang data
+     0 int id = 1016457
+     1 string schinese = "理科综合9级（理）"
+     1 string schinese_censored = "理科综合9级（理）"
+     1 string english = "Integrated Science 9"
+     1 string japanese = "総合理系IX"
+     1 string mchinese = "理科綜合9級（理）"
+   [6457]
+    0 TableSoItemLang data
+     0 int id = 1016458
+     1 string schinese = "理科综合10级（理）"
+     1 string schinese_censored = "理科综合10级（理）"
+     1 string english = "Integrated Science 10"
+     1 string japanese = "総合理系X"
+     1 string mchinese = "理科綜合10級（理）"
+   [6458]
+    0 TableSoItemLang data
+     0 int id = 1016459
+     1 string schinese = "体育课"
+     1 string schinese_censored = "体育课"
+     1 string english = "Physical Education Class"
+     1 string japanese = "体育"
+     1 string mchinese = "體育課"
+   [6459]
+    0 TableSoItemLang data
+     0 int id = 1016460
+     1 string schinese = "50米跑"
+     1 string schinese_censored = "50米跑"
+     1 string english = "50 Meter Dash"
+     1 string japanese = "５０ｍ走"
+     1 string mchinese = "50米跑"
+   [6460]
+    0 TableSoItemLang data
+     0 int id = 1016461
+     1 string schinese = "仰卧起坐"
+     1 string schinese_censored = "仰卧起坐"
+     1 string english = "Sit-ups"
+     1 string japanese = "上体起こし"
+     1 string mchinese = "仰臥起坐"
+   [6461]
+    0 TableSoItemLang data
+     0 int id = 1016462
+     1 string schinese = "投篮"

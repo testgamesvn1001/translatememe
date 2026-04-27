@@ -1,0 +1,184 @@
+     1 string schinese_censored = "工科数学"
+     1 string english = "Engineering Mathematics"
+     1 string japanese = "工業数学"
+     1 string mchinese = "工科數學"
+   [689]
+    0 TableSoItemLang data
+     0 int id = 1010690
+     1 string schinese = "应用数学"
+     1 string schinese_censored = "应用数学"
+     1 string english = "Applied Mathematics"
+     1 string japanese = "応用数学"
+     1 string mchinese = "應用數學"
+   [690]
+    0 TableSoItemLang data
+     0 int id = 1010691
+     1 string schinese = "理论数学"
+     1 string schinese_censored = "理论数学"
+     1 string english = "Theoretical Mathematics"
+     1 string japanese = "理論数学"
+     1 string mchinese = "理論數學"
+   [691]
+    0 TableSoItemLang data
+     0 int id = 1010692
+     1 string schinese = "应用物理学"
+     1 string schinese_censored = "应用物理学"
+     1 string english = "Applied Physics"
+     1 string japanese = "応用物理学"
+     1 string mchinese = "應用物理學"
+   [692]
+    0 TableSoItemLang data
+     0 int id = 1010693
+     1 string schinese = "理论物理学"
+     1 string schinese_censored = "理论物理学"
+     1 string english = "Theoretical Physics"
+     1 string japanese = "理論物理学"
+     1 string mchinese = "理論物理學"
+   [693]
+    0 TableSoItemLang data
+     0 int id = 1010694
+     1 string schinese = "物理问题研究"
+     1 string schinese_censored = "物理问题研究"
+     1 string english = "Physics Problem Research"
+     1 string japanese = "物理問題研究"
+     1 string mchinese = "物理問題研究"
+   [694]
+    0 TableSoItemLang data
+     0 int id = 1010695
+     1 string schinese = "忍者文化"
+     1 string schinese_censored = "忍者文化"
+     1 string english = "Ninja Culture"
+     1 string japanese = "忍者文化"
+     1 string mchinese = "忍者文化"
+   [695]
+    0 TableSoItemLang data
+     0 int id = 1010696
+     1 string schinese = "基础忍术"
+     1 string schinese_censored = "基础忍术"
+     1 string english = "Ninjutsu 101"
+     1 string japanese = "基礎忍術"
+     1 string mchinese = "基礎忍術"
+   [696]
+    0 TableSoItemLang data
+     0 int id = 1010697
+     1 string schinese = "下忍资格认证"
+     1 string schinese_censored = "下忍资格认证"
+     1 string english = "Genin Certificate"
+     1 string japanese = "下忍資格認定"
+     1 string mchinese = "下忍資格認證"
+   [697]
+    0 TableSoItemLang data
+     0 int id = 1010698
+     1 string schinese = "中忍资格认证"
+     1 string schinese_censored = "中忍资格认证"
+     1 string english = "Chunin Certificate"
+     1 string japanese = "中忍資格認定"
+     1 string mchinese = "中忍資格認證"
+   [698]
+    0 TableSoItemLang data
+     0 int id = 1010699
+     1 string schinese = "上忍资格认证"
+     1 string schinese_censored = "上忍资格认证"
+     1 string english = "Ninja Certificate"
+     1 string japanese = "上忍資格認定"
+     1 string mchinese = "上忍資格認證"
+   [699]
+    0 TableSoItemLang data
+     0 int id = 1010700
+     1 string schinese = "视频素材剪辑"
+     1 string schinese_censored = "视频素材剪辑"
+     1 string english = "Video Editing"
+     1 string japanese = "動画編集"
+     1 string mchinese = "視頻素材剪輯"
+   [700]
+    0 TableSoItemLang data
+     0 int id = 1010701
+     1 string schinese = "直播刷榜"
+     1 string schinese_censored = "直播刷榜"
+     1 string english = "Streamer Ranking"
+     1 string japanese = "配信・投げ銭"
+     1 string mchinese = "直播刷榜"
+   [701]
+    0 TableSoItemLang data
+     0 int id = 1010702
+     1 string schinese = "服饰审美"
+     1 string schinese_censored = "服饰审美"
+     1 string english = "Costume Aesthetics"
+     1 string japanese = "服飾センス"
+     1 string mchinese = "服飾審美"
+   [702]
+    0 TableSoItemLang data
+     0 int id = 1010703
+     1 string schinese = "美容化妆"
+     1 string schinese_censored = "美容化妆"
+     1 string english = "Beauty Makeup"
+     1 string japanese = "美容メイク"
+     1 string mchinese = "美容化妝"
+   [703]
+    0 TableSoItemLang data
+     0 int id = 1010704
+     1 string schinese = "仪态训练"
+     1 string schinese_censored = "仪态训练"
+     1 string english = "Posture Training"
+     1 string japanese = "立ち振る舞い"
+     1 string mchinese = "儀態訓練"
+   [704]
+    0 TableSoItemLang data
+     0 int id = 1010705
+     1 string schinese = "珠宝品鉴"
+     1 string schinese_censored = "珠宝品鉴"
+     1 string english = "Jewelry Appraisal"
+     1 string japanese = "宝石鑑定"
+     1 string mchinese = "珠寶品鑒"
+   [705]
+    0 TableSoItemLang data
+     0 int id = 1010706
+     1 string schinese = "美妆秘笈"
+     1 string schinese_censored = "美妆秘籍"
+     1 string english = "Cosmetology Secrets"
+     1 string japanese = "メイク奥義"
+     1 string mchinese = "美妝秘笈"
+   [706]
+    0 TableSoItemLang data
+     0 int id = 1010707
+     1 string schinese = "基础乐理"
+     1 string schinese_censored = "基础乐理"
+     1 string english = "Music Theory 101"
+     1 string japanese = "音楽理論入門"
+     1 string mchinese = "基礎樂理"
+   [707]
+    0 TableSoItemLang data
+     0 int id = 1010708
+     1 string schinese = "视唱练耳"
+     1 string schinese_censored = "视唱练耳"
+     1 string english = "Solfeggio"
+     1 string japanese = "楽譜・音感"
+     1 string mchinese = "視唱練耳"
+   [708]
+    0 TableSoItemLang data
+     0 int id = 1010709
+     1 string schinese = "节奏布鲁斯"
+     1 string schinese_censored = "节奏布鲁斯"
+     1 string english = "Rhythm & Blues"
+     1 string japanese = "リズム＆ブルース"
+     1 string mchinese = "節奏布魯斯"
+   [709]
+    0 TableSoItemLang data
+     0 int id = 1010710
+     1 string schinese = "硬核朋克"
+     1 string schinese_censored = "硬核朋克"
+     1 string english = "Hardcore Punk"
+     1 string japanese = "ハードコアパンク"
+     1 string mchinese = "硬核朋克"
+   [710]
+    0 TableSoItemLang data
+     0 int id = 1010711
+     1 string schinese = "音乐创作"
+     1 string schinese_censored = "音乐创作"
+     1 string english = "Musical Composition"
+     1 string japanese = "音楽制作"
+     1 string mchinese = "音樂創作"
+   [711]
+    0 TableSoItemLang data
+     0 int id = 1010712
+     1 string schinese = "即兴说唱"

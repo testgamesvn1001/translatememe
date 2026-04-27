@@ -1,0 +1,184 @@
+     1 string schinese_censored = "不一样，有很多真正的朋友"
+     1 string english = "It's different now that I can celebrate it with a real friend."
+     1 string japanese = "違うの。本当の友達がいっぱいいるから。"
+     1 string mchinese = "不一樣，有很多真正的朋友"
+   [10188]
+    0 TableSoItemLang data
+     0 int id = 1020189
+     1 string schinese = "虽然之前派对花了很多钱，但是每次结束，都有落寞的感觉"
+     1 string schinese_censored = "虽然之前派对花了很多心思，但是每次结束，都有落寞的感觉"
+     1 string english = "I've spent a lot of money on parties before, but they all ended in me feeling empty."
+     1 string japanese = "これまでのパーティーはいつもすごい豪勢だった。でもそれだけ。終わる度に寂しかった。"
+     1 string mchinese = "雖然之前派對花了很多錢，但是每次結束，都有落寞的感覺"
+   [10189]
+    0 TableSoItemLang data
+     0 int id = 1020190
+     1 string schinese = "这次不一样……"
+     1 string schinese_censored = "这次不一样……"
+     1 string english = "It's different this time..."
+     1 string japanese = "今日のパーティーは違う…"
+     1 string mchinese = "這次不一樣……"
+   [10190]
+    0 TableSoItemLang data
+     0 int id = 1020191
+     1 string schinese = "因为有真正的朋友吧，充实的感觉"
+     1 string schinese_censored = "因为有真正的朋友吧，充实的感觉"
+     1 string english = "It's much more fulfilling when you celebrate it with a real friend."
+     1 string japanese = "友達と一緒に過ごす誕生日が最高ってことだよね！"
+     1 string mchinese = "因為有真正的朋友吧，充實的感覺"
+   [10191]
+    0 TableSoItemLang data
+     0 int id = 1020192
+     1 string schinese = "是啊，应该是吧"
+     1 string schinese_censored = "是啊，应该是吧"
+     1 string english = "Yeah, I guess so."
+     1 string japanese = "うん、そうだね！"
+     1 string mchinese = "是啊，應該是吧"
+   [10192]
+    0 TableSoItemLang data
+     0 int id = 1020193
+     1 string schinese = "又大了一岁，要更坚强了！"
+     1 string schinese_censored = "又大了一岁，要更坚强了！"
+     1 string english = "Now that I'm one year older I'll have to work even harder!"
+     1 string japanese = "これでまた大人に近づいたわ。もっと頑張らなきゃ！"
+     1 string mchinese = "又大了一歲，要更堅強了！"
+   [10193]
+    0 TableSoItemLang data
+     0 int id = 1020194
+     1 string schinese = "一会儿我带你去趟邻居家串个门儿。"
+     1 string schinese_censored = "一会儿我带你去趟邻居家串个门儿。"
+     1 string english = "We'll go visit our neighbor in a bit."
+     1 string japanese = "お隣さんにご挨拶しに行きましょうか。"
+     1 string mchinese = "一會兒我帶你去趟鄰居家串個門兒。"
+   [10194]
+    0 TableSoItemLang data
+     0 int id = 1020195
+     1 string schinese = "这还是第一次带我去邻居家呢。"
+     1 string schinese_censored = "这还是第一次带我去邻居家呢。"
+     1 string english = "This is the first time you've taken me to our neighbor."
+     1 string japanese = "隣の家に行くの、初めてだな。"
+     1 string mchinese = "這還是第一次帶我去鄰居家呢。"
+   [10195]
+    0 TableSoItemLang data
+     0 int id = 1020196
+     1 string schinese = "你可要上点心，他家孩子也可能在家，一会儿的<color=#EB7350>【闲话家常】</color>可别败下阵来。"
+     1 string schinese_censored = "你可要上点心，他家孩子也可能在家，一会儿的<color=#EB7350>【闲话家常】</color>可别败下阵来。"
+     1 string english = "You better be on your best behavior. Their child might be home, and we can't lose the <color=#EB7350>[Face Challenge]</color>."
+     1 string japanese = "お菓子がほしいでしょ？お隣もお子さんがいるかもしれないの。<color=#EB7350>【メンツバトル】</color>で負けないでね。"
+     1 string mchinese = "你可要上點心，他家孩子也可能在家，一會兒的<color=#EB7350>【閒話家常】</color>可別敗下陣來。"
+   [10196]
+    0 TableSoItemLang data
+     0 int id = 1020197
+     1 string schinese = "啊？点心？什么点心？"
+     1 string schinese_censored = "啊？点心？什么点心？"
+     1 string english = "Ah? My best behavior? Why?"
+     1 string japanese = "え？お菓子？どんなお菓子？"
+     1 string mchinese = "啊？點心？什麼點心？"
+   [10197]
+    0 TableSoItemLang data
+     0 int id = 1020198
+     1 string schinese = "妈妈将带你去邻居家串门，你要知道前面有一场没有硝烟的激烈战斗在等着你。你可千万不要掉以轻心，你们社区卧虎藏龙，高手间过招，一个失误就将葬身在这血雨腥风的“武林”之中。"
+     1 string schinese_censored = "妈妈将带你去邻居家串门，你要知道前面有一场没有硝烟的激烈战斗在等着你。你可千万不要掉以轻心，你们社区卧虎藏龙，高手间过招，一个失误就将葬身在这血雨腥风的“武林”之中。"
+     1 string english = "You're going to visit the neighbors. But you should know, a fierce battle awaits you there. You mustn't let your guard down, whatever you do! The community where you live is fierce, and a single misstep @@might lead to dire consequences and everyone in the vicinity will look down on you!"
+     1 string japanese = "お母さんがあなたを隣の家に連れて行くぞ。つまり、これから激しい戦闘が発生することに他ならない。油断はするな。能ある鷹は爪を隠す。相手はプロだ。ひとつのミスで血が降り注ぐことを理解しろ。"
+     1 string mchinese = "媽媽將帶你去鄰居家串門，你要知道前面有一場沒有硝煙的激烈戰鬥在等著你。你可千萬不要掉以輕心，你們社區臥虎藏龍，高手間過招，一個失誤就將葬身在這血雨腥風的“武林”之中。"
+   [10198]
+    0 TableSoItemLang data
+     0 int id = 1020199
+     1 string schinese = "你可以通过<color=#EB7350>【事务】</color>中的<color=#EB7350>【挑战】</color>进行<color=#EB7350>【闲话家常】</color>，你将碰到与你之前见过的完全不是一个等级的强大的对手。小心应对，千万不要掉以轻心。"
+     1 string schinese_censored = "你可以通过<color=#EB7350>【事务】</color>中的<color=#EB7350>【挑战】</color>进行<color=#EB7350>【闲话家常】</color>，你将碰到与你之前见过的完全不是一个等级的强大的对手。小心应对，千万不要掉以轻心。"
+     1 string english = "Via <color=#EB7350>[Events]</color> -> <color=#EB7350>[Challenge]</color>, you can take part in <color=#EB7350>[Face Challenges]</color>. Here you will face opponents of a whole new level! You better deal @@with them carefully, and whatever you do, don't let your guard down."
+     1 string japanese = "<color=#EB7350>【取引】</color>の<color=#EB7350>【挑戦】</color>から<color=#EB7350>【メンツバトル】</color>に挑戦できる。今までの相手とは格が違うぞ。注意しろ。油断は禁物だ。"
+     1 string mchinese = "你可以通過<color=#EB7350>【事務】</color>中的<color=#EB7350>【挑戰】</color>進行<color=#EB7350>【閒話家常】</color>，你將碰到與你之前見過的完全不是一個等級的強大的對手。小心應對，千萬不要掉以輕心。"
+   [10199]
+    0 TableSoItemLang data
+     0 int id = 1020200
+     1 string schinese = "听说老艾家的孩子又考了第一名，看看人家的孩子……"
+     1 string schinese_censored = "听说老艾家的孩子又考了第一名，看看人家的孩子……"
+     1 string english = "I've heard that Einstein got first place on the exam again. What place did you get...?"
+     1 string japanese = "また彼がテストで１位ですって。ウチの子も見習ってほしいわ…"
+     1 string mchinese = "聽說老艾家的孩子又考了第一名，看看人家的孩子……"
+   [10200]
+    0 TableSoItemLang data
+     0 int id = 1020201
+     1 string schinese = "前几天我在市图书馆那边碰见他们一家了，说是解决了什么加速器能量损耗的物理难题接受国家的颁奖。"
+     1 string schinese_censored = "前几天我在市图书馆那边碰见他们一家了，说是解决了什么加速器能量损耗的物理难题接受国家的颁奖。"
+     1 string english = "I ran into them at the library a few days ago. They told me their son had just received a national award for resolving a tricky energy-loss problem with game accelerators."
+     1 string japanese = "そういえば、市の図書館で会った時、加速器とかいうのでエネルギーロス問題を解決したとか言っとった。国からも表彰されたみたいだな。"
+     1 string mchinese = "前幾天我在市圖書館那邊碰見他們一家了，說是解決了什麼加速器能量損耗的物理難題接受國家的頒獎。"
+   [10201]
+    0 TableSoItemLang data
+     0 int id = 1020202
+     1 string schinese = "那是啥？听起来咋这么拗口"
+     1 string schinese_censored = "那是啥？听起来咋这么拗口"
+     1 string english = "What's that? That sounds like something weird."
+     1 string japanese = "加速器？何なのかもわからないわ…。"
+     1 string mchinese = "那是啥？聽起來咋這麼拗口"
+   [10202]
+    0 TableSoItemLang data
+     0 int id = 1020203
+     1 string schinese = "我咋知道啊，听名字就知道是高科技。"
+     1 string schinese_censored = "我咋知道啊，听名字就知道是高科技。"
+     1 string english = "How would I know? Considering its name, it's probably something high-tech."
+     1 string japanese = "まあ、ハイテクの何かだろ。"
+     1 string mchinese = "我咋知道啊，聽名字就知道是高科技。"
+   [10203]
+    0 TableSoItemLang data
+     0 int id = 1020204
+     1 string schinese = "脸上真有光啊……"
+     1 string schinese_censored = "脸上真有光啊……"
+     1 string english = "Aren't you a proud one..."
+     1 string japanese = "もはや、後光が射して見えるわ…"
+     1 string mchinese = "臉上真有光啊……"
+   [10204]
+    0 TableSoItemLang data
+     0 int id = 1020205
+     1 string schinese = "可不是嘛，现在看见他们一家都得绕着走，根本没法跟人家比……"
+     1 string schinese_censored = "可不是嘛，现在看见他们一家都得绕着走，根本没法跟人家比……"
+     1 string english = "I hear you. We better stay clear if we see them walking ahead on the street. We cannot compare to them in the least..."
+     1 string japanese = "ああ。あの家族を見るたび、自分たちのみじめさを思い知る…"
+     1 string mchinese = "可不是嘛，現在看見他們一家都得繞著走，根本沒法跟人家比……"
+   [10205]
+    0 TableSoItemLang data
+     0 int id = 1020206
+     1 string schinese = "艾殷散同学，全市的传奇人物，被誉为中华上下五千年一遇的天天天天才，由于他的智商之高被国家列为国宝级保护对象，地位比大熊猫还要高，如果他想吃竹子，大熊猫都会没饭吃！"
+     1 string schinese_censored = "艾殷散同学，全市的传奇人物，被誉为中华上下五千年一遇的天天天天才，由于他的智商之高被国家列为国宝级保护对象，地位比大熊猫还要高，如果他想吃竹子，大熊猫都会没饭吃！"
+     1 string english = "That Einstein is a legend here. He's considered a one-in-a-million genius! He's even considered a national treasure due to his intellect; even more precious than a panda I hear! If he says he wishes to munch on bamboo, then the pandas'll need to get used to eating something else!"
+     1 string japanese = "国宝級の高ＩＱ！彼が笹を食べたくなったら、パンダの笹が取り上げられる！つまり、その価値、パンダ越え！中国史上最高の天才、アインシュタだ！"
+     1 string mchinese = "艾殷散同學，全市的傳奇人物，被譽為中華上下五千年一遇的天天天天才，由於他的智商之高被國家列為國寶級保護對象，地位比大熊貓還要高，如果他想吃竹子，大熊貓都會沒飯吃！"
+   [10206]
+    0 TableSoItemLang data
+     0 int id = 1020207
+     1 string schinese = "东邦已经输了，你挑的嘛，阿翼。"
+     1 string schinese_censored = "东邦已经输了，你挑的嘛，阿翼。"
+     1 string english = "The top team lost... I guess it must've been HIS doing."
+     1 string japanese = "東邦さえ負けたんだ。どうなるんだ…？"
+     1 string mchinese = "東邦已經輸了，你挑的嘛，阿翼。"
+   [10207]
+    0 TableSoItemLang data
+     0 int id = 1020208
+     1 string schinese = "南葛我吃定了……"
+     1 string schinese_censored = "南葛我吃定了……"
+     1 string english = "I'll win, no matter what..."
+     1 string japanese = "南葛にするか…"
+     1 string mchinese = "南葛我吃定了……"
+   [10208]
+    0 TableSoItemLang data
+     0 int id = 1020209
+     1 string schinese = "留不住他们！"
+     1 string schinese_censored = "留不住他们！"
+     1 string english = "Not even HE can stop me!"
+     1 string japanese = "神様ですら止められないかも…。"
+     1 string mchinese = "留不住他們！"
+   [10209]
+    0 TableSoItemLang data
+     0 int id = 1020210
+     1 string schinese = "李二同学是学校的足球队队长，擅长护球，像极了巅峰时代的亨利！年纪轻轻是国家主力球员，那高超华丽的球技让人叹为观止，后被尊称为：大帝！"
+     1 string schinese_censored = "李二同学是学校的足球队队长，擅长护球，像极了巅峰时代的亨利！年纪轻轻是国家主力球员，那高超华丽的球技让人叹为观止，后被尊称为：大帝！"
+     1 string english = "Leon is the captain of our school team. He's great at defense and is bound to go as far as he can! He's also a core member of the national U17 team, and his technique is really amazing! He's even called "The Wall" by others!"
+     1 string japanese = "実力は全盛期のティエリ・アンディに匹敵する。Ｕ１７の主力選手。華麗なプレイで人を魅了する！二つ名は『ＡＡＡ大帝』！サッカークラブのキャプテン、リアルだ！"
+     1 string mchinese = "李二同學是學校的足球隊隊長，擅長護球，像極了巔峰時代的亨利！年紀輕輕是國家主力球員，那高超華麗的球技讓人歎為觀止，後被尊稱為：大帝！"
+   [10210]
+    0 TableSoItemLang data
+     0 int id = 1020211
+     1 string schinese = "我……败了，输的心服口服。"

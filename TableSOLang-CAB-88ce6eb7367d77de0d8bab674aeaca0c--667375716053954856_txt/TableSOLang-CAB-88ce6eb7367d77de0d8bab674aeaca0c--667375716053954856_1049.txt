@@ -1,0 +1,184 @@
+     1 string schinese_censored = "辣条吃多了，嘴巴肿成了香肠。爸爸看到我的样子笑抽了，于是我……"
+     1 string english = "I had too much spicy food and my mouth swells up like a sausage. Dad sees me and starts laughing manically. So, I..."
+     1 string japanese = "辛いスナックを食べ過ぎて、口がソーセージみたいに腫れてしまった。お父さんはあなたの様子を見て大爆笑した。あなたは…"
+     1 string mchinese = "辣條吃多了，嘴巴腫成了香腸。爸爸看到我的樣子笑抽了，於是我……"
+   [24103]
+    0 TableSoItemLang data
+     0 int id = 1109554
+     1 string schinese = "考试考了一百分，妈妈问你要什么奖励，你说……"
+     1 string schinese_censored = "考试考了一百分，妈妈问你要什么奖励，你说……"
+     1 string english = "You aced the exam and your mom asks what you want as a gift. You tell her..."
+     1 string japanese = "試験で１００点を取ったので、お母さんはどんなご褒美が欲しいかと聞いてきた。あなたの答えは…"
+     1 string mchinese = "考試考了一百分，媽媽問你要什麼獎勵，你說……"
+   [24104]
+    0 TableSoItemLang data
+     0 int id = 1109555
+     1 string schinese = "晚自习下课收到妈妈的短信，问你吃了没，你回复……"
+     1 string schinese_censored = "晚自习下课收到妈妈的短信，问你吃了没，你回复……"
+     1 string english = "While you're doing late night studying, mom texts you asking whether you've eaten. You reply..."
+     1 string japanese = "夕方の自習が終わると、お母さんから、夕飯は食べたかとメッセージが来た。あなたの返事は…"
+     1 string mchinese = "晚自習下課收到媽媽的短信，問你吃了沒，你回復……"
+   [24105]
+    0 TableSoItemLang data
+     0 int id = 1109556
+     1 string schinese = "班主任让大家每个人从家里带本书，丰富班级图书角。放学回家，我……"
+     1 string schinese_censored = "班主任让大家每个人从家里带本书，丰富班级图书角。放学回家，我……"
+     1 string english = "The teacher asks everyone to bring a book to enrich the class' book corner. After school I..."
+     1 string japanese = "担任の先生が、みんなで家から本を持ち寄って学級文庫を充実させようと言った。家に帰ったら、あなたは…"
+     1 string mchinese = "班主任讓大家每個人從家裏帶本書，豐富班級圖書角。放學回家，我……"
+   [24106]
+    0 TableSoItemLang data
+     0 int id = 1109557
+     1 string schinese = "吃！胖就胖怕什么！"
+     1 string schinese_censored = "吃！胖就胖怕什么！"
+     1 string english = "Eat! No one cares about weight!"
+     1 string japanese = "食べよう食べよう！太るのを恐れずに！"
+     1 string mchinese = "吃！胖就胖怕什麼！"
+   [24107]
+    0 TableSoItemLang data
+     0 int id = 1109558
+     1 string schinese = "怕胖就不要吃了呗"
+     1 string schinese_censored = "怕胖就不要吃了呗"
+     1 string english = "Then don't eat it..."
+     1 string japanese = "太りたくないなら食べなきゃいいのに"
+     1 string mchinese = "怕胖就不要吃了唄"
+   [24108]
+    0 TableSoItemLang data
+     0 int id = 1109559
+     1 string schinese = "冰冻一下，降低热量！"
+     1 string schinese_censored = "冰冻一下，降低热量！"
+     1 string english = "Freeze it to lower the calories!"
+     1 string japanese = "冷やせばカロリーが下がるよ！"
+     1 string mchinese = "冰凍一下，降低熱量！"
+   [24109]
+    0 TableSoItemLang data
+     0 int id = 1109560
+     1 string schinese = "找妈妈告状"
+     1 string schinese_censored = "找妈妈告状"
+     1 string english = "Complain to mom."
+     1 string japanese = "お母さんに言う"
+     1 string mchinese = "找媽媽告狀"
+   [24110]
+    0 TableSoItemLang data
+     0 int id = 1109561
+     1 string schinese = "生气地让他不要笑"
+     1 string schinese_censored = "生气地让他不要笑"
+     1 string english = "Shout at him to stop laughing."
+     1 string japanese = "笑うなと怒って言う"
+     1 string mchinese = "生氣地讓他不要笑"
+   [24111]
+    0 TableSoItemLang data
+     0 int id = 1109562
+     1 string schinese = "笑对无良父亲"
+     1 string schinese_censored = "笑对无良父亲"
+     1 string english = "Just laugh with him."
+     1 string japanese = "クズ親を前に苦笑する"
+     1 string mchinese = "笑對無良父親"
+   [24112]
+    0 TableSoItemLang data
+     0 int id = 1109563
+     1 string schinese = "要零花钱！"
+     1 string schinese_censored = "要零花钱！"
+     1 string english = "Pocket money!"
+     1 string japanese = "お小遣いが欲しい！"
+     1 string mchinese = "要零花錢！"
+   [24113]
+    0 TableSoItemLang data
+     0 int id = 1109564
+     1 string schinese = "想要礼物！"
+     1 string schinese_censored = "想要礼物！"
+     1 string english = "A present!"
+     1 string japanese = "欲しい物を考える！"
+     1 string mchinese = "想要禮物！"
+   [24114]
+    0 TableSoItemLang data
+     0 int id = 1109565
+     1 string schinese = "提一个要求！"
+     1 string schinese_censored = "提一个要求！"
+     1 string english = "A request!"
+     1 string japanese = "１つお願いしたい！"
+     1 string mchinese = "提一個要求！"
+   [24115]
+    0 TableSoItemLang data
+     0 int id = 1109566
+     1 string schinese = "吃了，怎么了？"
+     1 string schinese_censored = "吃了，怎么了？"
+     1 string english = "I've eaten, why?"
+     1 string japanese = "食べたけど、どうして？"
+     1 string mchinese = "吃了，怎麼了？"
+   [24116]
+    0 TableSoItemLang data
+     0 int id = 1109567
+     1 string schinese = "没吃，怎么了？"
+     1 string schinese_censored = "没吃，怎么了？"
+     1 string english = "I haven't, why?"
+     1 string japanese = "食べてないけど、どうして？"
+     1 string mchinese = "沒吃，怎麼了？"
+   [24117]
+    0 TableSoItemLang data
+     0 int id = 1109568
+     1 string schinese = "被坑多了，谨慎回复“怎么了？”"
+     1 string schinese_censored = "被坑多了，谨慎回复“怎么了？”"
+     1 string english = "You've been fooled before and respond: "What's up?""
+     1 string japanese = "罠が多いので、「どうして？」とは返さない"
+     1 string mchinese = "被坑多了，謹慎回復“怎麼了？”"
+   [24118]
+    0 TableSoItemLang data
+     0 int id = 1109569
+     1 string schinese = "跟妈妈要本书"
+     1 string schinese_censored = "跟妈妈要本书"
+     1 string english = "Ask mom for a book."
+     1 string japanese = "お母さんに本をもらう"
+     1 string mchinese = "跟媽媽要本書"
+   [24119]
+    0 TableSoItemLang data
+     0 int id = 1109570
+     1 string schinese = "跟爸爸要本书"
+     1 string schinese_censored = "跟爸爸要本书"
+     1 string english = "Ask dad for a book."
+     1 string japanese = "お父さんに本をもらう"
+     1 string mchinese = "跟爸爸要本書"
+   [24120]
+    0 TableSoItemLang data
+     0 int id = 1109571
+     1 string schinese = "要钱自己买本书"
+     1 string schinese_censored = "要钱自己买本书"
+     1 string english = "As for money to buy a book."
+     1 string japanese = "自分で本を買う"
+     1 string mchinese = "要錢自己買本書"
+   [24121]
+    0 TableSoItemLang data
+     0 int id = 1109572
+     1 string schinese = "妈妈觉得你是在暗示她原来就胖，罚你高强度输出赞美之词半个小时不重样。\n（想象力+100）"
+     1 string schinese_censored = "妈妈觉得你是在暗示她原来就胖，罚你高强度输出赞美之词半个小时不重样。\n（ 想象力增加了100）"
+     1 string english = "Your mom thinks you're hinting that she's putting on weight and tells you to praise her using different words for half an hour!\n(Imagination +100)"
+     1 string japanese = "それはもともと太っているということか。お母さんはあなたに３０分間褒め言葉を考え続ける刑を課した\n想像力が100増加"
+     1 string mchinese = "媽媽覺得你是在暗示她原來就胖，罰你高強度輸出讚美之詞半個小時不重樣。\n（想像力+100）"
+   [24122]
+    0 TableSoItemLang data
+     0 int id = 1109573
+     1 string schinese = "妈妈觉得有道理，于是决定把甜品给你让肉长在你身上。\n（体魄-50）"
+     1 string schinese_censored = "妈妈觉得有道理，于是决定把甜品给你让肉长在你身上。\n（ 体魄-50）"
+     1 string english = "Mom thinks it makes sense and decides to feed you a bunch of desserts.\n(Constitution -50)"
+     1 string japanese = "確かにそのとおりだ。お母さんはあなたにスイーツを押し付けた\n体力が50減少"
+     1 string mchinese = "媽媽覺得有道理，於是決定把甜品給你讓肉長在你身上。\n（體魄-50）"
+   [24123]
+    0 TableSoItemLang data
+     0 int id = 1109574
+     1 string schinese = "妈妈欣然接受了你的办法，然后让你多做几套试卷补补物理。\n（智商+100）"
+     1 string schinese_censored = "妈妈欣然接受了你的办法，然后让你多做几套试卷补补物理。\n（ 智商增加了100）"
+     1 string english = "Mom agrees with you and lets you do a few more physics mock exams.\n(IQ +100)"
+     1 string japanese = "お母さんは喜んでその方法を受け入れ、あなたに物理も勉強させた\nＩＱが100増加"
+     1 string mchinese = "媽媽欣然接受了你的辦法，然後讓你多做幾套試卷補補物理。\n（智商+100）"
+   [24124]
+    0 TableSoItemLang data
+     0 int id = 1109575
+     1 string schinese = "妈妈一边笑一边教训了爸爸，你更郁闷了。\n（压力+5）"
+     1 string schinese_censored = "妈妈一边笑一边教训了爸爸，你更郁闷了。\n（ 压力增加了5）"
+     1 string english = "Mom laughs as she berates dad and you feel stressed.\n(Stress +5)"
+     1 string japanese = "お母さんは笑いながらお父さんをいさめた。あなたは余計に不機嫌になった\nストレスが5増加"
+     1 string mchinese = "媽媽一邊笑一邊教訓了爸爸，你更鬱悶了。\n（壓力+5）"
+   [24125]
+    0 TableSoItemLang data
+     0 int id = 1109576
+     1 string schinese = "爸爸赶紧忍住笑向你道歉，但其实在偷偷拍照。\n（压力-5）"

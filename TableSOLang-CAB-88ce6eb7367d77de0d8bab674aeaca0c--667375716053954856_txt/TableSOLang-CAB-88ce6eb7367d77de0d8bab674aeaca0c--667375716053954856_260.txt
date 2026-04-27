@@ -1,0 +1,184 @@
+     1 string schinese_censored = "需要50元"
+     1 string english = "It costs ¥50"
+     1 string japanese = "５０元必要だと言う"
+     1 string mchinese = "需要50元"
+   [5956]
+    0 TableSoItemLang data
+     0 int id = 1015957
+     1 string schinese = "需要55元"
+     1 string schinese_censored = "需要55元"
+     1 string english = "It costs ¥55"
+     1 string japanese = "５５元必要だと言う"
+     1 string mchinese = "需要55元"
+   [5957]
+    0 TableSoItemLang data
+     0 int id = 1015958
+     1 string schinese = "需要200元"
+     1 string schinese_censored = "需要200元"
+     1 string english = "It costs ¥200"
+     1 string japanese = "２００元必要だと言う"
+     1 string mchinese = "需要200元"
+   [5958]
+    0 TableSoItemLang data
+     0 int id = 1015959
+     1 string schinese = "跟父母实话实说"
+     1 string schinese_censored = "跟父母实话实话"
+     1 string english = "Tell your parents the truth"
+     1 string japanese = "両親に真実を話す"
+     1 string mchinese = "跟父母實話實說"
+   [5959]
+    0 TableSoItemLang data
+     0 int id = 1015960
+     1 string schinese = "找同学代签"
+     1 string schinese_censored = "找同学代签"
+     1 string english = "Get a classmate to sign it"
+     1 string japanese = "同級生に頼む"
+     1 string mchinese = "找同學代簽"
+   [5960]
+    0 TableSoItemLang data
+     0 int id = 1015961
+     1 string schinese = "自己模仿签字"
+     1 string schinese_censored = "自己模仿签字"
+     1 string english = "Fake the signature"
+     1 string japanese = "自分でサインをする"
+     1 string mchinese = "自己模仿簽字"
+   [5961]
+    0 TableSoItemLang data
+     0 int id = 1015962
+     1 string schinese = "以父亲打我为题"
+     1 string schinese_censored = "以父亲打我为题"
+     1 string english = "Write about how your dad beats you"
+     1 string japanese = "お父さんに殴られた"
+     1 string mchinese = "以父親打我為題"
+   [5962]
+    0 TableSoItemLang data
+     0 int id = 1015963
+     1 string schinese = "以母亲的鼓励为题"
+     1 string schinese_censored = "以母亲的鼓励为题"
+     1 string english = "Write about how your mom encourages you"
+     1 string japanese = "お母さんが励ましてくれた"
+     1 string mchinese = "以母親的鼓勵為題"
+   [5963]
+    0 TableSoItemLang data
+     0 int id = 1015964
+     1 string schinese = "以父母吵架为题"
+     1 string schinese_censored = "以父母吵架为题"
+     1 string english = "Write about your parents' arguments"
+     1 string japanese = "両親が喧嘩した"
+     1 string mchinese = "以父母吵架為題"
+   [5964]
+    0 TableSoItemLang data
+     0 int id = 1015965
+     1 string schinese = "跟老爸说明天要带一条鱼观察"
+     1 string schinese_censored = "跟老爸说明天要带一条鱼观察"
+     1 string english = "Tell your dad you need a fish to observe"
+     1 string japanese = "お父さんに話す"
+     1 string mchinese = "跟老爸說明天要帶一條魚觀察"
+   [5965]
+    0 TableSoItemLang data
+     0 int id = 1015966
+     1 string schinese = "等妈妈回来再说"
+     1 string schinese_censored = "等妈妈回来再说"
+     1 string english = "Wait for mom"
+     1 string japanese = "お母さんが帰ってきてから話す"
+     1 string mchinese = "等媽媽回來再說"
+   [5966]
+    0 TableSoItemLang data
+     0 int id = 1015967
+     1 string schinese = "自己问爸爸要钱来买鱼"
+     1 string schinese_censored = "自己问爸爸要钱来买鱼"
+     1 string english = "Ask your dad for money to buy a fish"
+     1 string japanese = "お父さんからお金をもらう"
+     1 string mchinese = "自己問爸爸要錢來買魚"
+   [5967]
+    0 TableSoItemLang data
+     0 int id = 1015968
+     1 string schinese = "捐出钱款"
+     1 string schinese_censored = "捐出钱款"
+     1 string english = "Donate money"
+     1 string japanese = "寄付する"
+     1 string mchinese = "捐出錢款"
+   [5968]
+    0 TableSoItemLang data
+     0 int id = 1015969
+     1 string schinese = "质疑老师动机"
+     1 string schinese_censored = "质疑老师动机"
+     1 string english = "Question your teacher's motivation"
+     1 string japanese = "先生の動機を疑う"
+     1 string mchinese = "質疑老師動機"
+   [5969]
+    0 TableSoItemLang data
+     0 int id = 1015970
+     1 string schinese = "捐给灾区小朋友"
+     1 string schinese_censored = "捐给灾区小朋友"
+     1 string english = "Donate to children in a disaster area"
+     1 string japanese = "被災地の子に寄付する"
+     1 string mchinese = "捐給災區小朋友"
+   [5970]
+    0 TableSoItemLang data
+     0 int id = 1015971
+     1 string schinese = "乖乖交钱"
+     1 string schinese_censored = "乖乖交钱"
+     1 string english = "Just pay up"
+     1 string japanese = "おとなしく払う"
+     1 string mchinese = "乖乖交錢"
+   [5971]
+    0 TableSoItemLang data
+     0 int id = 1015972
+     1 string schinese = "勇敢拒绝"
+     1 string schinese_censored = "勇敢拒绝"
+     1 string english = "Bravely refuse"
+     1 string japanese = "勇敢に拒否する"
+     1 string mchinese = "勇敢拒絕"
+   [5972]
+    0 TableSoItemLang data
+     0 int id = 1015973
+     1 string schinese = "反击"
+     1 string schinese_censored = "反击"
+     1 string english = "Strike back"
+     1 string japanese = "反撃する"
+     1 string mchinese = "反擊"
+   [5973]
+    0 TableSoItemLang data
+     0 int id = 1015974
+     1 string schinese = "说家长给的"
+     1 string schinese_censored = "说家长给的"
+     1 string english = "Say your parents gave it to you"
+     1 string japanese = "親からもらったと言う"
+     1 string mchinese = "說家長給的"
+   [5974]
+    0 TableSoItemLang data
+     0 int id = 1015975
+     1 string schinese = "说打工赚的"
+     1 string schinese_censored = "说打工赚的"
+     1 string english = "Say you worked for it"
+     1 string japanese = "バイトで稼いだと言う"
+     1 string mchinese = "說打工賺的"
+   [5975]
+    0 TableSoItemLang data
+     0 int id = 1015976
+     1 string schinese = "拒绝回答这类问题"
+     1 string schinese_censored = "拒绝回答这类问题"
+     1 string english = "Refuse to answer"
+     1 string japanese = "拒否権を発動する"
+     1 string mchinese = "拒絕回答這類問題"
+   [5976]
+    0 TableSoItemLang data
+     0 int id = 1015977
+     1 string schinese = "“这是我的自由，与你何干？”"
+     1 string schinese_censored = "“这是我的自由，与你何干？”"
+     1 string english = "What does my freedom have to do with you?"
+     1 string japanese = "自由だし、関係ありません！"
+     1 string mchinese = "“這是我的自由，與你何干？”"
+   [5977]
+    0 TableSoItemLang data
+     0 int id = 1015978
+     1 string schinese = "“普通朋友！”"
+     1 string schinese_censored = "“普通朋友！”"
+     1 string english = "Ordinary friend?!"
+     1 string japanese = "普通の友達です！"
+     1 string mchinese = "“普通朋友！”"
+   [5978]
+    0 TableSoItemLang data
+     0 int id = 1015979
+     1 string schinese = "“我们处对象呢！！”"

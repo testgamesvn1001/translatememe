@@ -1,0 +1,184 @@
+     1 string schinese_censored = "吃自家buff"
+     1 string english = "Take Our Buff"
+     1 string japanese = "自陣バフ獲得"
+     1 string mchinese = "吃自家buff"
+   [24034]
+    0 TableSoItemLang data
+     0 int id = 1109510
+     1 string schinese = "吃敌方buff"
+     1 string schinese_censored = "吃敌方buff"
+     1 string english = "Take Enemy Buff"
+     1 string japanese = "敵陣バフ獲得"
+     1 string mchinese = "吃敵方buff"
+   [24035]
+    0 TableSoItemLang data
+     0 int id = 1109511
+     1 string schinese = "抱团中推"
+     1 string schinese_censored = "抱团中推"
+     1 string english = "Mid Push"
+     1 string japanese = "ミッド集団進攻"
+     1 string mchinese = "抱團中推"
+   [24036]
+    0 TableSoItemLang data
+     0 int id = 1109512
+     1 string schinese = "单杀！"
+     1 string schinese_censored = "单杀！"
+     1 string english = "Solo Kill!"
+     1 string japanese = "ソロキル！"
+     1 string mchinese = "單殺！"
+   [24037]
+    0 TableSoItemLang data
+     0 int id = 1109513
+     1 string schinese = "推塔"
+     1 string schinese_censored = "推塔"
+     1 string english = "Destroy the Turret"
+     1 string japanese = "タワー破壊"
+     1 string mchinese = "推塔"
+   [24038]
+    0 TableSoItemLang data
+     0 int id = 1109514
+     1 string schinese = "吃河道虾"
+     1 string schinese_censored = "吃河道虾"
+     1 string english = "The Scuttle Lobster"
+     1 string japanese = "エビ食い"
+     1 string mchinese = "吃河道蝦"
+   [24039]
+    0 TableSoItemLang data
+     0 int id = 1109515
+     1 string schinese = "四包二"
+     1 string schinese_censored = "四包二"
+     1 string english = "4v2 Gank"
+     1 string japanese = "４ｖ２ガンク"
+     1 string mchinese = "四包二"
+   [24040]
+    0 TableSoItemLang data
+     0 int id = 1109516
+     1 string schinese = "永不团灭"
+     1 string schinese_censored = "永不团灭"
+     1 string english = "Never Team Wipe"
+     1 string japanese = "全滅回避"
+     1 string mchinese = "永不團滅"
+   [24041]
+    0 TableSoItemLang data
+     0 int id = 1109517
+     1 string schinese = "极限一换一"
+     1 string schinese_censored = "极限一换一"
+     1 string english = "An Extreme Trade"
+     1 string japanese = "土壇場の反撃"
+     1 string mchinese = "極限一換一"
+   [24042]
+    0 TableSoItemLang data
+     0 int id = 1109518
+     1 string schinese = "先杀ad"
+     1 string schinese_censored = "先杀ad"
+     1 string english = "Kill AD First"
+     1 string japanese = "ＡＤから撃破"
+     1 string mchinese = "先殺ad"
+   [24043]
+    0 TableSoItemLang data
+     0 int id = 1109519
+     1 string schinese = "中单solo"
+     1 string schinese_censored = "中单solo"
+     1 string english = "Mid Solo"
+     1 string japanese = "ミッドソロ"
+     1 string mchinese = "中單solo"
+   [24044]
+    0 TableSoItemLang data
+     0 int id = 1109520
+     1 string schinese = "带线推进"
+     1 string schinese_censored = "带线推进"
+     1 string english = "Push with Minions"
+     1 string japanese = "プッシュ"
+     1 string mchinese = "帶線推進"
+   [24045]
+    0 TableSoItemLang data
+     0 int id = 1109521
+     1 string schinese = "上路solo"
+     1 string schinese_censored = "上路solo"
+     1 string english = "Top Solo"
+     1 string japanese = "トップソロ"
+     1 string mchinese = "上路solo"
+   [24046]
+    0 TableSoItemLang data
+     0 int id = 1109522
+     1 string schinese = "野区入侵"
+     1 string schinese_censored = "野区入侵"
+     1 string english = "Counter Jungle"
+     1 string japanese = "カウンタジャングル"
+     1 string mchinese = "野區入侵"
+   [24047]
+    0 TableSoItemLang data
+     0 int id = 1109523
+     1 string schinese = "转角遇到爱"
+     1 string schinese_censored = "转角遇到爱"
+     1 string english = "Fake Vision Ambush"
+     1 string japanese = "出会い頭の交戦"
+     1 string mchinese = "轉角遇到愛"
+   [24048]
+    0 TableSoItemLang data
+     0 int id = 1109524
+     1 string schinese = "草丛里钻出三个大汉"
+     1 string schinese_censored = "草丛里钻出三个大汉"
+     1 string english = "Bush Ambush"
+     1 string japanese = "ブッシュから奇襲"
+     1 string mchinese = "草叢裏鑽出三個大漢"
+   [24049]
+    0 TableSoItemLang data
+     0 int id = 1109525
+     1 string schinese = "正方形刷野"
+     1 string schinese_censored = "正方形刷野"
+     1 string english = "Great Jungling Route"
+     1 string japanese = "正方形ジャングラー"
+     1 string mchinese = "正方形刷野"
+   [24050]
+    0 TableSoItemLang data
+     0 int id = 1109526
+     1 string schinese = "偷发育"
+     1 string schinese_censored = "偷发育"
+     1 string english = "Disadvantage Farming"
+     1 string japanese = "ファーム阻止"
+     1 string mchinese = "偷發育"
+   [24051]
+    0 TableSoItemLang data
+     0 int id = 1109527
+     1 string schinese = "制造人数差"
+     1 string schinese_censored = "制造人数差"
+     1 string english = "Headcount Difference"
+     1 string japanese = "人数差を作る"
+     1 string mchinese = "製造人數差"
+   [24052]
+    0 TableSoItemLang data
+     0 int id = 1109528
+     1 string schinese = "以多打少"
+     1 string schinese_censored = "以多打少"
+     1 string english = "Fight Less with More"
+     1 string japanese = "多人数で攻める"
+     1 string mchinese = "以多打少"
+   [24053]
+    0 TableSoItemLang data
+     0 int id = 1109529
+     1 string schinese = "视野优势"
+     1 string schinese_censored = "视野优势"
+     1 string english = "Vision Advantage"
+     1 string japanese = "有利な視界"
+     1 string mchinese = "視野優勢"
+   [24054]
+    0 TableSoItemLang data
+     0 int id = 1109530
+     1 string schinese = "天神下凡"
+     1 string schinese_censored = "天神下凡"
+     1 string english = "Dominating！"
+     1 string japanese = "神降臨"
+     1 string mchinese = "天神下凡"
+   [24055]
+    0 TableSoItemLang data
+     0 int id = 1109531
+     1 string schinese = "手不抖了"
+     1 string schinese_censored = "手不抖了"
+     1 string english = "Steady Hands"
+     1 string japanese = "手が震えなくなった"
+     1 string mchinese = "手不抖了"
+   [24056]
+    0 TableSoItemLang data
+     0 int id = 1109532
+     1 string schinese = "我全都要"

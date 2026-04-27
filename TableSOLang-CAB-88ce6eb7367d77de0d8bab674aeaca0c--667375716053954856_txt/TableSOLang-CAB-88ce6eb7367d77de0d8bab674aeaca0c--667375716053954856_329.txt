@@ -1,0 +1,184 @@
+     1 string schinese_censored = "和同学闹矛盾，老师吧双方家长叫了过来，分析一番后，对于确实犯了错的你批评了一番"
+     1 string english = "You fight with a classmate and the teacher calls both of your parents to school."
+     1 string japanese = "喧嘩をしたので、あなたと相手の親が呼ばれた。相手の親が企業家だと気づいた途端、先生はあなたを責め始めた。"
+     1 string mchinese = "因為打架老師把你和對方的家長都叫來了，發現對方家長是企業家。便開始數落你的不是了"
+   [7543]
+    0 TableSoItemLang data
+     0 int id = 1017544
+     1 string schinese = "这一天幼儿园的所有小朋友和老师一起合影，妈妈告诉你以后不用再去幼儿园了，你非常开心"
+     1 string schinese_censored = "这一天幼儿园的所有小朋友和老师一起合影，妈妈告诉你以后不用再去幼儿园了，你非常开心"
+     1 string english = "The children and teachers are taking a group photo together. Mom says it's your last day."
+     1 string japanese = "幼稚園でみんなと一緒に写真を撮った。お母さんは「もう幼稚園に行かなくていいよ」と言った。あなたは嬉しかった。"
+     1 string mchinese = "這一天幼稚園的所有小朋友和老師一起合影，媽媽告訴你以後不用再去幼稚園了，你非常開心"
+   [7544]
+    0 TableSoItemLang data
+     0 int id = 1017545
+     1 string schinese = "你从大班毕业后一度以为再也不用上学了，其实这只是个开始"
+     1 string schinese_censored = "你从大班毕业后一度以为再也不用上学了，其实这只是个开始"
+     1 string english = "You thought you wouldn't have to go to school again after you graduated kindergarten, ha-ha-ha."
+     1 string japanese = "幼稚園を卒園したら二度と通うことはないと思っていたが、就学前教育が始まった。"
+     1 string mchinese = "你從大班畢業後一度以為再也不用上學了，其實這只是個開始"
+   [7545]
+    0 TableSoItemLang data
+     0 int id = 1017546
+     1 string schinese = "你和妈妈在逛街时走散了，将一位阿姨当成了妈妈，还抱住了阿姨的大腿，妈妈在一旁看得满脸黑线"
+     1 string schinese_censored = "你和妈妈在逛街时走散了，将一位阿姨当成了妈妈，还抱住了阿姨的大腿，妈妈在一旁看得满脸黑线"
+     1 string english = "You and mom get separated while shopping. You mistake another woman for her and hug her leg."
+     1 string japanese = "買い物で迷子になり、お母さんと間違えて違う女の人の足にしがみついた。隣にいたお母さんはとても気まずかった。"
+     1 string mchinese = "你和媽媽在逛街時走散了，將一位阿姨當成了媽媽，還抱住了阿姨的大腿，媽媽在一旁看得滿臉黑線"
+   [7546]
+    0 TableSoItemLang data
+     0 int id = 1017547
+     1 string schinese = "你告诉妈妈你梦到了钟爱的玩具，妈妈觉得你很可怜，尽管很贵最后还是给你买了"
+     1 string schinese_censored = "你告诉妈妈你梦到了钟爱的玩具，妈妈觉得你很可怜，尽管很贵最后还是给你买了"
+     1 string english = "You tell your mom about an expensive toy you've dreamt of and she actually gets it for you."
+     1 string japanese = "あなたはお母さんに「欲しいオモチャの夢を見た」と言った。お母さんはあなたを可哀想に思い、高かったがオモチャを買ってくれた。"
+     1 string mchinese = "你告訴媽媽你夢到了鍾愛的玩具，媽媽覺得你很可憐，儘管很貴最後還是給你買了"
+   [7547]
+    0 TableSoItemLang data
+     0 int id = 1017548
+     1 string schinese = "趁妈妈不在的时候拿起了梳妆台的口红抹到嘴上，发现并不好看"
+     1 string schinese_censored = "趁妈妈不在的时候拿起了梳妆台的口红抹到嘴上，发现并不好看"
+     1 string english = "You try your mom's lipstick when she's not nearby, but you don't like how it looks on you."
+     1 string japanese = "お母さんがいない間に口紅を使ったが似合わなかった。"
+     1 string mchinese = "趁媽媽不在的時候拿起了梳粧檯的口紅抹到嘴上，發現並不好看"
+   [7548]
+    0 TableSoItemLang data
+     0 int id = 1017549
+     1 string schinese = "你发现有的同学已经拒绝接送，自己去学校了，也许是因为他们家离学校近吧"
+     1 string schinese_censored = "你发现有的同学已经拒绝接送，自己去学校了，也许是因为他们家离学校近吧"
+     1 string english = "Some of your classmates refuse having their parents drive them and walk to school."
+     1 string japanese = "一部の同級生が両親の送迎を断った。彼らは一人で学校に通っている。多分家と学校がそんなに遠くないからだ。"
+     1 string mchinese = "你發現有的同學已經拒絕接送，自己去學校了，也許是因為他們家離學校近吧"
+   [7549]
+    0 TableSoItemLang data
+     0 int id = 1017550
+     1 string schinese = "院子里有的孩子开始学习骑自行车了，你发现他的朋友一下子多了起来，因为他总会把自行车借给朋友骑"
+     1 string schinese_censored = "院子里有的孩子开始学习骑自行车了，你发现他的朋友一下子多了起来，因为他总会把自行车借给朋友骑"
+     1 string english = "A kid who has just learnt to cycle gets very popular all of a sudden as he lends his bike to everyone."
+     1 string japanese = "みんな自転車練習を始めた。自転車を貸すことが多くなり、一躍人気者になった。"
+     1 string mchinese = "院子裏有的孩子開始學習騎自行車了，你發現他的朋友一下子多了起來，因為他總會把自行車借給朋友騎"
+   [7550]
+    0 TableSoItemLang data
+     0 int id = 1017551
+     1 string schinese = "爸爸为了让你好好吃饭，定下了每吃一碗饭奖励5角钱的规矩，你觉得赚钱好难"
+     1 string schinese_censored = "爸爸为了让你好好吃饭，定下了每吃一碗饭奖励5角钱的规矩，你觉得赚钱好难"
+     1 string english = "In order to get you to eat, your dad decides to give you 5 cents for every meal you eat."
+     1 string japanese = "ご飯を残さず食べさせようと、お父さんが「お茶碗一杯のご飯を食べたら０.５元やる！」と言った。お金を稼ぐのは大変だ。"
+     1 string mchinese = "爸爸為了讓你好好吃飯，定下了每吃一碗飯獎勵5角錢的規矩，你覺得賺錢好難"
+   [7551]
+    0 TableSoItemLang data
+     0 int id = 1017552
+     1 string schinese = "你和小明去找阿飞玩时，看到他妈妈一边拿勺子喂他一边吼道“快点吃！”，你觉得自己还算幸运"
+     1 string schinese_censored = "你和小明去找阿飞玩时，看到他妈妈一边拿勺子喂他一边吼道“快点吃！”，你觉得自己还算幸运"
+     1 string english = "Your friend Alfy's mom feeds him with a spoon and keeps on howling "Eat it up!". You feel lucky."
+     1 string japanese = "ミンと一緒にフェイの家へ遊びに行った。お母さんに無理矢理ご飯を食べさせられているのを見て、自分はマシだと思った。"
+     1 string mchinese = "你和小明去找阿飛玩時，看到他媽媽一邊拿勺子喂他一邊吼道“快點吃！”，你覺得自己還算幸運"
+   [7552]
+    0 TableSoItemLang data
+     0 int id = 1017553
+     1 string schinese = "霓虹国科幻片迅速在孩子们中间流行起来，你非常羡慕家里有DVD机的小伙伴，妈妈告诉你不要攀比"
+     1 string schinese_censored = "科幻动画迅速在孩子们中间流行起来，你非常羡慕家里有录像机的小伙伴，妈妈告诉你不要攀比"
+     1 string english = "A Japanese Sci-Fi film gets popular among the kids, and you envy those with a DVD player."
+     1 string japanese = "日本の特撮映画が流行した。DVDプレーヤーを持っている人が羨ましくてたまらない。お母さんに「ヨソと比べちゃダメ」と言われた。"
+     1 string mchinese = "霓虹國科幻片迅速在孩子們中間流行起來，你非常羡慕家裏有DVD機的小夥伴，媽媽告訴你不要攀比"
+   [7553]
+    0 TableSoItemLang data
+     0 int id = 1017554
+     1 string schinese = "今天小学开学第一天，背着新书包，买了新铅笔盒，感觉很开心"
+     1 string schinese_censored = "今天小学开学第一天，背着新书包，买了新铅笔盒，感觉很开心"
+     1 string english = "It's the first day at elementary school and you carry your new schoolbag with pride."
+     1 string japanese = "初めての小学校。新しいランドセルに新品のペンケース。わくわく。"
+     1 string mchinese = "今天小學開學第一天，背著新書包，買了新鉛筆盒，感覺很開心"
+   [7554]
+    0 TableSoItemLang data
+     0 int id = 1017555
+     1 string schinese = "你不理解为什么班级非要站队走进教室，爸爸说你听老师的话，照着做就可以了"
+     1 string schinese_censored = "你不理解为什么班级非要站队走进教室，爸爸说你听老师的话，照着做就可以了"
+     1 string english = "You don't understand why the class has to walk into the classroom in an orderly line."
+     1 string japanese = "なぜ並んで教室に入るか理解できなかった。お父さんが「先生の言うことを聞け！」と言った。"
+     1 string mchinese = "你不理解為什麼班級非要站隊走進教室，爸爸說你聽老師的話，照著做就可以了"
+   [7555]
+    0 TableSoItemLang data
+     0 int id = 1017556
+     1 string schinese = "你因为拉链拉不开而尿了裤子，家长被叫来了，羞答答把你领走了"
+     1 string schinese_censored = "你因为拉链拉不开而尿了裤子，家长被叫来了，羞答答把你领走了"
+     1 string english = "You pee in your pants as you can't get the zipper open and the teacher calls your parents."
+     1 string japanese = "ファスナーが開かないせいで、おしっこを漏らしてしまった。呼び出された親は恥ずかしそうに、あなたを連れて帰った。"
+     1 string mchinese = "你因為拉鏈拉不開而尿了褲子，家長被叫來了，羞答答把你領走了"
+   [7556]
+    0 TableSoItemLang data
+     0 int id = 1017557
+     1 string schinese = "你因为上课偷偷说话而被老师罚站，妈妈对老师说，只要孩子不听话就打"
+     1 string schinese_censored = "你因为上课偷偷说话而被老师罚站，妈妈对老师说，只要孩子不听话就告诉自己"
+     1 string english = "You get punished by the teacher for talking during class and have to stand in the corner."
+     1 string japanese = "授業中のおしゃべりで廊下に立たされた。それを知ったお母さんは、「言うことを聞かないときは殴ってください」と先生に言ったらしい。"
+     1 string mchinese = "你因為上課偷偷說話而被老師罰站，媽媽對老師說，只要孩子不聽話就打"
+   [7557]
+    0 TableSoItemLang data
+     0 int id = 1017558
+     1 string schinese = "你有道题不会做，爸爸帮你做，两个小时过去了，爸爸也没做出来"
+     1 string schinese_censored = "你有道题不会做，爸爸帮你做，两个小时过去了，爸爸也没做出来"
+     1 string english = "You need help with a question so you ask dad. He tries for two hours but still can't crack it."
+     1 string japanese = "わからない問題をお父さんに手伝ってもらった。だがお父さんは２時間かけても解けなかった。"
+     1 string mchinese = "你有道題不會做，爸爸幫你做，兩個小時過去了，爸爸也沒做出來"
+   [7558]
+    0 TableSoItemLang data
+     0 int id = 1017559
+     1 string schinese = "爸爸讲的普通话总带有地方口音，你纠正爸爸的口音，爸爸说不准学他说话"
+     1 string schinese_censored = "爸爸讲的普通话总带有地方口音，你纠正爸爸的口音，爸爸说不准学他说话"
+     1 string english = "Dad speaks mandarin but with an accent from his home. You try to correct him but he ignores you."
+     1 string japanese = "お父さんはいつも訛っている。それを注意したら叱られた。"
+     1 string mchinese = "爸爸講的普通話總帶有地方口音，你糾正爸爸的口音，爸爸說不准學他說話"
+   [7559]
+    0 TableSoItemLang data
+     0 int id = 1017560
+     1 string schinese = "老师让带水果来临摹，结果爸爸买了半块西瓜让你带去了"
+     1 string schinese_censored = "老师让带水果来临摹，结果爸爸买了半块西瓜让你带去了"
+     1 string english = "Your teacher asks you to bring fruits to class so you can draw, and dad buys you a watermelon."
+     1 string japanese = "「デッサンのために果物を持ってきなさい」と先生が言った。それを聞いたお父さんがスイカを１個買ってきた。"
+     1 string mchinese = "老師讓帶水果來臨摹，結果爸爸買了半塊西瓜讓你帶去了"
+   [7560]
+    0 TableSoItemLang data
+     0 int id = 1017561
+     1 string schinese = "你想竞选大队长，爸爸说你当班干部会浪费时间，影响学习"
+     1 string schinese_censored = "你想竞选大队长，爸爸说你当班干部会浪费时间，影响学习"
+     1 string english = "You want to campaign for class monitor but dad says it is a waste of time."
+     1 string japanese = "学級委員長になりたいと言ったら、お父さんに「そんなことは時間の無駄だ」と言われた。"
+     1 string mchinese = "你想競選大隊長，爸爸說你當班幹部會浪費時間，影響學習"
+   [7561]
+    0 TableSoItemLang data
+     0 int id = 1017562
+     1 string schinese = "同桌的家长跟你家长说不要打扰他们家孩子学习，你父亲觉得你肯定做了坏事"
+     1 string schinese_censored = "同桌的家长跟你家长说不要打扰他们家孩子学习，你父亲觉得你肯定做了坏事"
+     1 string english = "Your deskmate's parents tell your parents to not let you interrupt their child's studying."
+     1 string japanese = "席が隣の子の親から「ウチの子の勉強の邪魔をするな」と苦情を言われた。お父さんはあなたが悪いと決めつけた。"
+     1 string mchinese = "同桌的家長跟你家長說不要打擾他們家孩子學習，你父親覺得你肯定做了壞事"
+   [7562]
+    0 TableSoItemLang data
+     0 int id = 1017563
+     1 string schinese = "第一次开完家长会，感觉所有做的错事都会被拿来说一样。忐忑不安，但是父亲竟然忘了去"
+     1 string schinese_censored = "第一次开完家长会，感觉所有做的错事都会被拿来说一样。忐忑不安，但是父亲竟然忘了去"
+     1 string english = "Teachers talk about all of your mistakes on the first parents' evening, but your parents soon forget."
+     1 string japanese = "学校でのいたずらがバレないかとヒヤヒヤしたが、お父さんは授業参観を忘れていた。"
+     1 string mchinese = "第一次開完家長會，感覺所有做的錯事都會被拿來說一樣。忐忑不安，但是父親竟然忘了去"
+   [7563]
+    0 TableSoItemLang data
+     0 int id = 1017564
+     1 string schinese = "你第一次尝试独自步行回家，尽管有些害怕，但还是感觉这样的冒险很好玩"
+     1 string schinese_censored = "你第一次尝试独自步行回家，尽管有些害怕，但还是感觉这样的冒险很好玩"
+     1 string english = "It's the first time you try going home alone and you feel a bit frightened. What an adventure!"
+     1 string japanese = "初めて１人で帰った。ドキドキしたが冒険は楽しかった。"
+     1 string mchinese = "你第一次嘗試獨自步行回家，儘管有些害怕，但還是感覺這樣的冒險很好玩"
+   [7564]
+    0 TableSoItemLang data
+     0 int id = 1017565
+     1 string schinese = "晚上，你经常在床上幻想宇宙，幻想外星人，时而憧憬，时而害怕，很想知道答案"
+     1 string schinese_censored = "晚上，你经常在床上幻想宇宙，幻想外星人，时而憧憬，时而害怕，很想知道答案"
+     1 string english = "You often fantasize about the universe, aliens and other things. You want all the answers."
+     1 string japanese = "夜には、よくベッドで銀河や宇宙人のことを考えていた。憧れや恐怖心が高まった末に、「なんでこんなことを考えてるんだろう」ということを考えていた。"
+     1 string mchinese = "晚上，你經常在床上幻想宇宙，幻想外星人，時而憧憬，時而害怕，很想知道答案"
+   [7565]
+    0 TableSoItemLang data
+     0 int id = 1017566
+     1 string schinese = "你在学校破坏公物被老师抓到了，并生平第一次到校长室等待处罚，不知为什么你有种英勇就义的感觉"
