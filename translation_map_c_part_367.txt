@@ -1,85 +1,85 @@
-﻿16387|<O>| "Ngọc Thanh HiaĐào Hoa Nguyên" : "\"/item/final/88/1060\"",
-16388|<O>| #define SKILL_TEMP	0				// Làphủ NhấtlầntínhSử dụngcủaKỹ năng
-16389|<O>| + sprintf(ESC"Bắt đầulĩnh thủ trảo thỏphần thưởng\nparty 144\n")
-16390|<O>| string get_name() { return "thái Sơn Sơn Động２"; }
-16391|<O>| case 3: name = "ngư nghiệp";  p /= 5;  break;
-16392|<O>| me->set_perform_file(0);    // Thanh trừ phi Pháp đặc kỹ
-16393|<O>| "Tử Vân Đấu bồngĐường Môn" : "\"/item/final/60/4110\"",
-16394|<O>| "LongNgâmHạng LiênMao Sơn" : "\"/item/final/86/5110\"",
-16395|<O>| "triệt Vân QuanVân Mộng Trạch" : "\"/item/final/65/7060\"",
-16396|<O>| "VàngHạng LiênVân Mộng Trạch" : "\"/item/final/86/7020\"",
-16397|<O>| SAY_CMD->say(me, "tôitốthận a…………tôitốthận a…………");
-16398|<O>| "lưu Vân Hành trangĐường Môn" : "\"/item/final/60/4105\"",
-16399|<O>| "hỗnngàyHiaCôn Lôn Sơn" : "\"/item/final/88/6070\"",
-16400|<O>| "hồn Sương QuanVân Mộng Trạch" : "\"/item/final/65/7040\"",
-16401|<O>| "HuyềnVàngHạng LiênThục Sơn" : "\"/item/final/86/2065\"",
-16402|<O>| "VàngHạng LiênCấm Vệ Quân" : "\"/item/final/86/3020\"",
-16403|<O>| "thương khung Pháp BàoMao Sơn" : "\"/item/final/60/5115\"",
-16404|<O>| string get_name() { return "Vũ Công Tu Luyện trường"; }
-16405|<O>| string get_name() { return "caocấpNgự Mệnh Thuật"; }
-16406|<O>| "VàngTi đầu CânĐường Môn" : "\"/item/final/65/4060\"",
-16407|<O>| "DaHiaĐào Hoa Nguyên" : "\"/item/final/88/1020\"",
+﻿16387|<O>| "Giày Ngọc Thanh Đào Hoa Nguyên" : "\"/item/final/88/1060\"",
+16388|<O>| #define SKILL_TEMP	0				// Kỹ năng không dùng một lần
+16389|<O>| + sprintf(ESC"Bắt đầu nhận thưởng bắt thỏ\nparty 144\n")
+16390|<O>| string get_name() { return "Hang Động Thái Sơn 2"; }
+16391|<O>| case 3: name = "Ngư nghiệp";  p /= 5;  break;
+16392|<O>| me->set_perform_file(0);    // Xóa tuyệt kỹ không hợp lệ
+16393|<O>| "Đấu Bồng Tử Vân Đường Môn" : "\"/item/final/60/4110\"",
+16394|<O>| "Vòng Cổ Long Ngâm Mao Sơn" : "\"/item/final/86/5110\"",
+16395|<O>| "Quan Triệt Vân Vân Mộng Trạch" : "\"/item/final/65/7060\"",
+16396|<O>| "Vòng Cổ Vàng Vân Mộng Trạch" : "\"/item/final/86/7020\"",
+16397|<O>| SAY_CMD->say(me, "Ta hận quá…………Ta hận quá…………");
+16398|<O>| "Hành Trang Lưu Vân Đường Môn" : "\"/item/final/60/4105\"",
+16399|<O>| "Giày Hỗn Thiên Côn Lôn Sơn" : "\"/item/final/88/6070\"",
+16400|<O>| "Quan Hồn Sương Vân Mộng Trạch" : "\"/item/final/65/7040\"",
+16401|<O>| "Vòng Cổ Huyền Kim Thục Sơn" : "\"/item/final/86/2065\"",
+16402|<O>| "Vòng Cổ Vàng Cấm Vệ Quân" : "\"/item/final/86/3020\"",
+16403|<O>| "Pháp Bào Thương Khung Mao Sơn" : "\"/item/final/60/5115\"",
+16404|<O>| string get_name() { return "Võ Công Tu Luyện Trường"; }
+16405|<O>| string get_name() { return "Ngự Mệnh Thuật Cao Cấp"; }
+16406|<O>| "Khăn Đầu Kim Ti Đường Môn" : "\"/item/final/65/4060\"",
+16407|<O>| "Giày Da Đào Hoa Nguyên" : "\"/item/final/88/1020\"",
 16408|<O>| case 2: case 20: file = "Thục Sơn";  break;
-16409|<O>| item = new ("/item/sell/0012");//hữu Tình hô hoán
-16410|<O>| "QuangChi HiaCôn Lôn Sơn" : "\"/item/final/88/6045\"",
-16411|<O>| "Ti trù khôiĐào Hoa Nguyên" : "\"/item/final/65/1030\"",
-16412|<O>| "Ngọc TônHạng LiênThục Sơn" : "\"/item/final/86/2115\"",
-16413|<O>| "hạc khiếu đầu CânThục Sơn" : "\"/item/final/65/2050\"",
-16414|<O>| "Huyết Sắc Hành trangĐường Môn" : "\"/item/final/60/4095\"",
-16415|<O>| case 6: name = "Thương Nghiệp";  p /= 5;  break;
-16416|<O>| "Chân VũHạng LiênMao Sơn" : "\"/item/final/86/5080\"",
-16417|<O>| "NgựPhongHiaCôn Lôn Sơn" : "\"/item/final/88/6095\"",
-16418|<O>| "ngỗng Nhung đầu CânThục Sơn" : "\"/item/final/65/2045\"",
-16419|<O>| "xíchHổkhôiCấm Vệ Quân" : "\"/item/final/65/3075\"",
-16420|<O>| "huỳnhQuangQuanCôn Lôn Sơn" : "\"/item/final/65/6080\"",
-16421|<O>| item = new ("/item/sell/0043");//mở Môn chi ma
-16422|<O>| "Hổ pháchHạng LiênMao Sơn" : "\"/item/final/86/5055\"",
-16423|<O>| "Hoàng hônHạng LiênThục Sơn" : "\"/item/final/86/2035\"",
-16424|<O>| #define VIP_TIME	3600*24*31	//vipbảng địnhgiờgian
-16425|<O>| "TinhSắtCơ Quancấukiện" : "\"/item/final/16/1612\"",
-16426|<O>| "thí HồnHạng LiênĐường Môn" : "\"/item/final/86/4119\"",
-16427|<O>| if (present("Ngân phiếu", who, 1, MAX_CARRY))
-16428|<O>| "hồn Sương HiaVân Mộng Trạch" : "\"/item/final/88/7040\"",
-16429|<O>| "Ti trù đầu CânĐường Môn" : "\"/item/final/65/4065\"",
-16430|<O>| return "phảikíchSử dụngsaucó thể biến vì phiêu lượngcủaThánhđản thụ，Đại Thoại Chiến QuốcChúc BạnThánhđản tiếtnhanhlạc！";
-16431|<O>| "lê Tử tương trấp Ngưu Nhục" : "\"/item/final/33/1714\"",
-16432|<O>| "PhượngVũ Hành trangĐường Môn" : "\"/item/final/60/4090\"",
-16433|<O>| "càn Vân Chiến BàoMao Sơn" : "\"/item/final/60/5110\"",
-16434|<O>| "TruyềnPhongQuanVân Mộng Trạch" : "\"/item/final/65/7030\"",
-16435|<O>| "PhongThầnHia vôMôn phái" : "\"/item/final/88/8067\"",
-16436|<O>| case 5: name = "công nghiệp";  p /= 5;  break;
-16437|<O>| send_user(who, "%c%s", '!', "làm Nhâncầnhậu Đạo");
-16438|<O>| who->add_contribute(1);    // Quốc Gia cống hiến +1
-16439|<O>| "hồn Sương BàoVân Mộng Trạch" : "\"/item/final/60/7040\"",
-16440|<O>| "Địa LinhdàiHiaĐường Môn" : "\"/item/final/88/4075\"",
-16441|<O>| "Kỳ Lân khôiĐào Hoa Nguyên" : "\"/item/final/65/1090\"",
-16442|<O>| "TửThủytinh HiaMao Sơn" : "\"/item/final/88/5085\"",
-16443|<O>| "Thanh Vân QuanCôn Lôn Sơn" : "\"/item/final/65/6065\"",
-16444|<O>| if (time() > bigbossStart)	//đệ NhấtlầnXuất hiệncủagiờgian
-16445|<O>| "TửThủytinh HiaThục Sơn" : "\"/item/final/88/2085\"",
-16446|<O>| "dược thỏ HiaĐào Hoa Nguyên" : "\"/item/final/88/1095\"",
-16447|<O>| "Tử Hà QuanVân Mộng Trạch" : "\"/item/final/65/7075\"",
-16448|<O>| return "từTrang bịPhân giảiXuất đếncủaNgọc Thạch，Thạch Khắc、Thiết Tượng、Cơ Quan、Tài Phùngsở nhucủatài liệu";
-16449|<O>| "húcQuangQuanCôn Lôn Sơn" : "\"/item/final/65/6055\"",
-16450|<O>| "Thất Bảo HiaCấm Vệ Quân" : "\"/item/final/88/3105\"",
-16451|<O>| "hỗnngàyQuanCôn Lôn Sơn" : "\"/item/final/65/6070\"",
-16452|<O>| "Phá Vân đầu CânThục Sơn" : "\"/item/final/65/2100\"",
-16453|<O>| "triều tịch Pháp BàoMao Sơn" : "\"/item/final/60/5105\"",
-16454|<O>| "lưu sa Hành trangĐường Môn" : "\"/item/final/60/4075\"",
-16455|<O>| "thùy Vân HiaCôn Lôn Sơn" : "\"/item/final/88/6060\"",
-16456|<O>| "càn khôn Chiến YThục Sơn" : "\"/item/final/60/2115\"",
-16457|<O>| "thángQuangHạng LiênThục Sơn" : "\"/item/final/86/2040\"",
-16458|<O>| who->get_name() + ":\n    đãbổ phátchobạn！\n"
-16459|<O>| "Hiệp khách đầu CânThục Sơn" : "\"/item/final/65/2055\"",
-16460|<O>| "PhượngngàyChiến YThục Sơn" : "\"/item/final/60/2120\"",
-16461|<O>| "Ngọc TônHạng LiênMao Sơn" : "\"/item/final/86/5115\"",
-16462|<O>| "Phi Vũ BàoVân Mộng Trạch" : "\"/item/final/60/7080\"",
-16463|<O>| "Văn khúc QuanCôn Lôn Sơn" : "\"/item/final/65/6085\"",
-16464|<O>| return "Vật phẩm nhiệm vụ。Một loạilưỡng Nhânphútbiệt bội đới，tiệncó thểtùygiờtìmđếnđối vớiPhươngcủaBảo Vật。";
-16465|<O>| string get_name() { return "Tướng Quân Cổ Mộ１"; }
-16466|<O>| "HuyềnthángHạng LiênMao Sơn" : "\"/item/final/86/5085\"",
-16467|<O>| "lưu Vân đầu CânĐường Môn" : "\"/item/final/65/4105\"",
-16468|<O>| "MinhQuangHiaVân Mộng Trạch" : "\"/item/final/88/7090\"",
-16469|<O>| send_user(me, "%c%s", '!', "dữ liệukhôngTương Phù！");
+16409|<O>| item = new ("/item/sell/0012");//Hữu Tình Hô Hoán
+16410|<O>| "Giày Quang Chi Côn Lôn Sơn" : "\"/item/final/88/6045\"",
+16411|<O>| "Mũ Tơ Lụa Đào Hoa Nguyên" : "\"/item/final/65/1030\"",
+16412|<O>| "Vòng Cổ Ngọc Tôn Thục Sơn" : "\"/item/final/86/2115\"",
+16413|<O>| "Khăn Đầu Hạc Khiếu Thục Sơn" : "\"/item/final/65/2050\"",
+16414|<O>| "Hành Trang Huyết Sắc Đường Môn" : "\"/item/final/60/4095\"",
+16415|<O>| case 6: name = "Thương nghiệp";  p /= 5;  break;
+16416|<O>| "Vòng Cổ Chân Vũ Mao Sơn" : "\"/item/final/86/5080\"",
+16417|<O>| "Giày Ngự Phong Côn Lôn Sơn" : "\"/item/final/88/6095\"",
+16418|<O>| "Khăn Đầu Vũ Nhung Thục Sơn" : "\"/item/final/65/2045\"",
+16419|<O>| "Mũ Xích Hổ Cấm Vệ Quân" : "\"/item/final/65/3075\"",
+16420|<O>| "Quan Huỳnh Quang Côn Lôn Sơn" : "\"/item/final/65/6080\"",
+16421|<O>| item = new ("/item/sell/0043");//Mở Cửa Vừng Ơi
+16422|<O>| "Vòng Cổ Hổ Phách Mao Sơn" : "\"/item/final/86/5055\"",
+16423|<O>| "Vòng Cổ Hoàng Hôn Thục Sơn" : "\"/item/final/86/2035\"",
+16424|<O>| #define VIP_TIME	3600*24*31	//Thời gian liên kết VIP
+16425|<O>| "Cấu Kiện Cơ Quan Tinh Thiết" : "\"/item/final/16/1612\"",
+16426|<O>| "Vòng Cổ Thí Hồn Đường Môn" : "\"/item/final/86/4119\"",
+16427|<O>| if (present("Ngân Phiếu", who, 1, MAX_CARRY))
+16428|<O>| "Giày Hồn Sương Vân Mộng Trạch" : "\"/item/final/88/7040\"",
+16429|<O>| "Khăn Đầu Tơ Lụa Đường Môn" : "\"/item/final/65/4065\"",
+16430|<O>| return "Nhấn chuột phải để biến thành cây thông Giáng Sinh xinh đẹp, Đại Thoại Chiến Quốc chúc bạn Giáng Sinh vui vẻ!";
+16431|<O>| "Thịt Bò Sốt Lê" : "\"/item/final/33/1714\"",
+16432|<O>| "Hành Trang Phụng Vũ Đường Môn" : "\"/item/final/60/4090\"",
+16433|<O>| "Chiến Bào Kiền Vân Mao Sơn" : "\"/item/final/60/5110\"",
+16434|<O>| "Quan Truyền Phong Vân Mộng Trạch" : "\"/item/final/65/7030\"",
+16435|<O>| "Giày Phong Thần Vô Môn Phái" : "\"/item/final/88/8067\"",
+16436|<O>| case 5: name = "Công nghiệp";  p /= 5;  break;
+16437|<O>| send_user(who, "%c%s", '!', "Làm người phải trung hậu");
+16438|<O>| who->add_contribute(1);    // Cống hiến quốc gia +1
+16439|<O>| "Bào Hồn Sương Vân Mộng Trạch" : "\"/item/final/60/7040\"",
+16440|<O>| "Trường Hài Địa Linh Đường Môn" : "\"/item/final/88/4075\"",
+16441|<O>| "Mũ Kỳ Lân Đào Hoa Nguyên" : "\"/item/final/65/1090\"",
+16442|<O>| "Giày Tử Thủy Tinh Mao Sơn" : "\"/item/final/88/5085\"",
+16443|<O>| "Quan Thanh Vân Côn Lôn Sơn" : "\"/item/final/65/6065\"",
+16444|<O>| if (time() > bigbossStart)	//Thời gian xuất hiện lần đầu
+16445|<O>| "Giày Tử Thủy Tinh Thục Sơn" : "\"/item/final/88/2085\"",
+16446|<O>| "Giày Dược Thỏ Đào Hoa Nguyên" : "\"/item/final/88/1095\"",
+16447|<O>| "Quan Tử Hà Vân Mộng Trạch" : "\"/item/final/65/7075\"",
+16448|<O>| return "Ngọc thạch tách ra từ trang bị, là nguyên liệu cần thiết cho kỹ năng sinh hoạt Khắc Thạch, Thợ Rèn, Cơ Quan, Thợ May";
+16449|<O>| "Quan Húc Quang Côn Lôn Sơn" : "\"/item/final/65/6055\"",
+16450|<O>| "Giày Thất Bảo Cấm Vệ Quân" : "\"/item/final/88/3105\"",
+16451|<O>| "Quan Hỗn Thiên Côn Lôn Sơn" : "\"/item/final/65/6070\"",
+16452|<O>| "Khăn Đầu Phá Vân Thục Sơn" : "\"/item/final/65/2100\"",
+16453|<O>| "Pháp Bào Triều Tịch Mao Sơn" : "\"/item/final/60/5105\"",
+16454|<O>| "Hành Trang Lưu Sa Đường Môn" : "\"/item/final/60/4075\"",
+16455|<O>| "Giày Thùy Vân Côn Lôn Sơn" : "\"/item/final/88/6060\"",
+16456|<O>| "Chiến Y Kiền Khôn Thục Sơn" : "\"/item/final/60/2115\"",
+16457|<O>| "Vòng Cổ Nguyệt Quang Thục Sơn" : "\"/item/final/86/2040\"",
+16458|<O>| who->get_name() + ":\n    Đã bù phát cho bạn rồi!\n"
+16459|<O>| "Khăn Đầu Hiệp Khách Thục Sơn" : "\"/item/final/65/2055\"",
+16460|<O>| "Chiến Y Phụng Thiên Thục Sơn" : "\"/item/final/60/2120\"",
+16461|<O>| "Vòng Cổ Ngọc Tôn Mao Sơn" : "\"/item/final/86/5115\"",
+16462|<O>| "Bào Phi Vũ Vân Mộng Trạch" : "\"/item/final/60/7080\"",
+16463|<O>| "Quan Văn Khúc Côn Lôn Sơn" : "\"/item/final/65/6085\"",
+16464|<O>| return "Vật phẩm nhiệm vụ. Loại bảo vật hai người đeo, có thể tìm thấy nhau bất cứ lúc nào.";
+16465|<O>| string get_name() { return "Cổ Mộ Tướng Quân 1"; }
+16466|<O>| "Vòng Cổ Huyền Nguyệt Mao Sơn" : "\"/item/final/86/5085\"",
+16467|<O>| "Khăn Đầu Lưu Vân Đường Môn" : "\"/item/final/65/4105\"",
+16468|<O>| "Giày Minh Quang Vân Mộng Trạch" : "\"/item/final/88/7090\"",
+16469|<O>| send_user(me, "%c%s", '!', "Dữ liệu không khớp!");
 16470|<O>| player->add_potential(potential);//Tiềm năng
-16471|<O>| "Bạch hạc khôiĐào Hoa Nguyên" : "\"/item/final/65/1065\"",
+16471|<O>| "Mũ Bạch Hạc Đào Hoa Nguyên" : "\"/item/final/65/1065\"",

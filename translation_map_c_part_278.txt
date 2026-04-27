@@ -1,63 +1,63 @@
-﻿9931|<O>| send_user(who, "%c%s", '!', sprintf(HIY"khổ dịch %d/30", i));
-9932|<O>| send_user(who, "%c%s", '!', sprintf(HIY"khô lâuYêu %d/5", i));
-9933|<O>| ESC "tôichỉLàtùy tiện xem xem\nCLOSE\n", who->get_name(), getoid(who)));
-9934|<O>| private int BZ_ACTIVE_BEFORE1	= 5;			//	hoạt độngBắt đầutrướccủađệ Nhấtgiờgianđiểm（phút）
-9935|<O>| send_user(me, "%c%s", '!', "bạnsở bội đớicủaMôn pháiTín VậtkhôngPhù HợpSử dụngcầncầu，vô PhápNângCấp độ。");
-9936|<O>| write_user(me, ECHO "xướng ca không hiệu Quả，%sđãtẩu mở。", who->get_name());
-9937|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Cổ Thạch hôi %d/5", i));
-9938|<O>| if (TASK_LEGEND_D->check_task_item(who, "thú giác", 20) != 1)
-9939|<O>| ESC "Từ bỏsinh hoạtKỹ năng。\n" + sprintf("talk %x# abandon.?\n", id) +
-9940|<O>| send_user( who, "%c%c%c%w%s", 0x51, 1, 1,0001,"du hí phụ Trợ" );
-9941|<O>| USER_ENERGY_D->count_pp(me);    // cp/pp Ảnh hưởng ap/dp, Vì vậyPhóngtrước
-9942|<O>| if (TASK_LEGEND_D->check_task_item(who, "Vàngchìa thì", 1) != 1)
-9943|<O>| private mapping mpTask = ([]);                 // Nhiệm vụdữ liệutập
-9944|<O>| result += ESC "Sử dụngVIPMiễn phíPhục sinhlầnsốTạinguyên ĐịaPhục sinh。\ndesc vip_revive19\n";
-9945|<O>| return "tốttốtLưuthử Vật，đến Nhật tấtCótrọng dùng！\nkhôngchỉ có thể hoán thủ Phong phú thực Vậtlớnthưởng，\ncònCócơsẽnhận đượcdu hígiữacủaCực PhẩmTrang bị！";
-9946|<O>| tell_user(me, "%stất cảtần ĐạobịPhong bế %d phút。", who->get_name(), min);
+﻿9931|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Khổ Dịch %d/30", i));
+9932|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Cốt Lâu Yêu %d/5", i));
+9933|<O>| ESC "Tôi chỉ xem chơi thôi\nCLOSE\n", who->get_name(), getoid(who)));
+9934|<O>| private int BZ_ACTIVE_BEFORE1	= 5;			//	Mốc thời gian thứ nhất trước khi hoạt động bắt đầu（phút）
+9935|<O>| send_user(me, "%c%s", '!', "Tín vật môn phái bạn đang đeo không đáp ứng yêu cầu sử dụng, không thể thăng cấp.");
+9936|<O>| write_user(me, ECHO "Hát không có hiệu quả, %s đã bỏ đi.", who->get_name());
+9937|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Vôi Đá Cổ %d/5", i));
+9938|<O>| if (TASK_LEGEND_D->check_task_item(who, "Sừng Thú", 20) != 1)
+9939|<O>| ESC "Từ bỏ kỹ năng sống.\n" + sprintf("talk %x# abandon.?\n", id) +
+9940|<O>| send_user( who, "%c%c%c%w%s", 0x51, 1, 1,0001,"Hỗ Trợ Game" );
+9941|<O>| USER_ENERGY_D->count_pp(me);    // cp/pp ảnh hưởng ap/dp, nên đặt trước
+9942|<O>| if (TASK_LEGEND_D->check_task_item(who, "Chìa Khóa Vàng", 1) != 1)
+9943|<O>| private mapping mpTask = ([]);                 // Tập dữ liệu nhiệm vụ
+9944|<O>| result += ESC "Sử dụng lượt phục sinh miễn phí VIP để phục sinh tại chỗ.\ndesc vip_revive19\n";
+9945|<O>| return "Hãy bảo quản cẩn thận vật này, sau này sẽ có lúc cần đến!\nKhông chỉ có thể đổi lấy giải thưởng hiện vật phong phú,\nmà còn có cơ hội nhận được trang bị cực phẩm trong game!";
+9946|<O>| tell_user(me, "%s tất cả kênh bị phong tỏa %d phút.", who->get_name(), min);
 9947|<O>| if (TASK_LEGEND_D->check_task_item(who, "Lợi Kiếm", 10) != 1)
-9948|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Đao dũng %d/30", i));
-9949|<O>| return sprintf("nhỏPháp Lực Thạch:\n    Sau khi sử dụng mỗi2giây có thể phục hồi%dđiểm Pháp Lực", iStoneMp);
-9950|<O>| log_file("wushuang.txt",sprintf("%s %s(%d) %s chiếm lĩnh vô song Thành\n",
-9951|<O>| SAY_CMD->say(me, enemy->get_name() + "，bạncủaoán hậntôiđãToàn bộ tiếp Thu。");
-9952|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Lộc giác %d/20", i));
-9953|<O>| return "Truyền nóiLàThầnHành Lão Quân sở dùngcủaPháp Bảo。Trang bịtrênnên Vật Phẩmsau，có thể tiêu trừ Nhất thiếtNhiệm vụgian cáchgiờgian，từmà ĐềcaoNgười chơicủaNhiệm vụhiệu suất。";
-9954|<O>| cWord = "quan phủ cáo thị:\n　　"HIR"Thái Hành Sơn Động"NOR"đãbịPhong Tỏa，nhàn tạp Nhân Đẳngkhôngđược Nhậptrong，Nếu khôngsauQuả Tự phụ。";
-9955|<O>| set_save_2(sprintf("player.%d.name",id),name);//LưuNgười chơicủatính Danh
-9956|<O>| send_user(who, "%c%s", '!', sprintf(HIY"TrưYêu %d/20", i));
-9957|<O>| send_user(who, "%c%s", '!', sprintf(HIY"hạt vĩ hạt %d/7", i));
+9948|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Đao Dũng %d/30", i));
+9949|<O>| return sprintf("Tiểu Pháp Lực Thạch:\n    Sau khi sử dụng, mỗi 2 giây có thể hồi phục %d điểm pháp lực", iStoneMp);
+9950|<O>| log_file("wushuang.txt",sprintf("%s %s(%d) %s chiếm lĩnh Vô Song Thành\n",
+9951|<O>| SAY_CMD->say(me, enemy->get_name() + ", oán hận của ngươi ta đã tiếp nhận hết rồi.");
+9952|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Lộc Giác %d/20", i));
+9953|<O>| return "Truyền thuyết là pháp bảo của Thần Hành Lão Quân. Sau khi trang bị vật phẩm này, có thể xóa bỏ tất cả thời gian chờ nhiệm vụ, từ đó nâng cao hiệu suất nhiệm vụ của người chơi.";
+9954|<O>| cWord = "Thông cáo quan phủ:\n　　"HIR"Thái Hành Sơn Động"NOR" đã bị phong tỏa, người không phận sự không được vào trong, hậu quả tự chịu.";
+9955|<O>| set_save_2(sprintf("player.%d.name",id),name);//Lưu tên người chơi
+9956|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Trư Yêu %d/20", i));
+9957|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Hạt Đuôi Nâu %d/7", i));
 9958|<O>| if (TASK_LEGEND_D->check_task_item(who, "Danh Tửu", 10) != 1)
-9959|<O>| SAY_CMD->say(me, enemy->get_name() + "，xem Bản Vương như Hà Tướngbạnchặt thành Nhục tương！！");
-9960|<O>| tell_user(who, "%c%s", '>', sprintf("đãXóađệ%dđiều công cáo!", i));
-9961|<O>| send_user(who, "%c%s", '!', sprintf(HIY"khô lâuYêu %d/8", i));
+9959|<O>| SAY_CMD->say(me, enemy->get_name() + ", xem bản vương băm ngươi thành nhuyễn!!");
+9960|<O>| tell_user(who, "%c%s", '>', sprintf("Đã xóa thông báo thứ %d!", i));
+9961|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Cốt Lâu Yêu %d/8", i));
 9962|<O>| if (gone_time(me->get("birthday")) >= 1200)    // 20 phút
-9963|<O>| if (TASK_LEGEND_D->check_task_item(who, "mở Sơn sừ", 1) != 1)
-9964|<O>| result = sprintf("Bạn hi vọngSử dụng%sthế hoánnàobối bao？\n", item->get_name());
-9965|<O>| && file->perform_done(me, who) == 2)    // đặc kỹTấn công(tuần hoàn)(Hoàn thành)
-9966|<O>| send_user(who, "%c%s", '!', sprintf(HIY"lệ chi %d/10", i));
-9967|<O>| private int Str;                 // Lực lượng         Strength
-9968|<O>| tell_user(me, "Xin hãy xem /log/make/ tệp tinvà /log/list.txt tọa tiêuđiểm。");
-9969|<O>| send_user(who, "%c%s", '!', sprintf(HIY"đậu Binh %d/20", i));
-9970|<O>| send_user(who, "%c%s", '!', sprintf(HIY"HỏaTinh %d/30", i));
-9971|<O>| tell_user(me, "%s\nCấp độ:%4d	     cấpbiệt:%4d cấp\nThăng cấpsở nhu:%d	điểmKinh nghiệm\n"
+9963|<O>| if (TASK_LEGEND_D->check_task_item(who, "Cuốc Khai Sơn", 1) != 1)
+9964|<O>| result = sprintf("Bạn muốn dùng %s thay thế ba lô nào?\n", item->get_name());
+9965|<O>| && file->perform_done(me, who) == 2)    // Tấn công đặc kỹ(tuần hoàn)(hoàn thành)
+9966|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Vải Thiều %d/10", i));
+9967|<O>| private int Str;                 // Sức mạnh         Strength
+9968|<O>| tell_user(me, "Vui lòng kiểm tra file /log/make/ và tọa độ điểm /log/list.txt.");
+9969|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Đậu Binh %d/20", i));
+9970|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Hỏa Tinh %d/30", i));
+9971|<O>| tell_user(me, "%s\nCấp độ:%4d	     Cấp bậc:%4d cấp\nKinh nghiệm cần để thăng cấp:%d	điểm kinh nghiệm\n"
 9972|<O>| if (TASK_LEGEND_D->check_task_item(who, "Ngọc Minh Châu", 1) != 1)
-9973|<O>| damage = damage * (100 - skill_0431*2)/100;		// bang pháicủađể khángCường hóa
-9974|<O>| if (TASK_LEGEND_D->check_task_item(who, "Đồng Tâm Tỏa", 1) != 1)
-9975|<O>| private static string* fileFighter = ({ });     // quái vậttệp tin
-9976|<O>| "%s:\nCácdướingộsẽ，tôilưỡng Quốc Thế đại hữutốt，tịnh vônóÝ。\n", name3, me->get_name()));
-9977|<O>| if (master->get_hp() <= master->get_max_hp() / 20)	//Thắng Lợi
-9978|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Thổphỉ %d/15", i));
-9979|<O>| if (TASK_LEGEND_D->check_task_item(who, "VàngBạcHoa", 8) != 1)
-9980|<O>| if (TASK_LEGEND_D->check_task_item(who, "cương thi Phấn", 1) != 1)
-9981|<O>| if (TASK_LEGEND_D->check_task_item(who, "Linh chi Thảo", 1) != 1)
-9982|<O>| if (TASK_LEGEND_D->check_task_item(who, "ThầnHành lộ", 1) != 1)
-9983|<O>| if (TASK_LEGEND_D->check_task_item(who, "phát thằng", 20) != 1)
+9973|<O>| damage = damage * (100 - skill_0431*2)/100;		// Cường hóa kháng cự bang phái
+9974|<O>| if (TASK_LEGEND_D->check_task_item(who, "Đồng Tâm Khóa", 1) != 1)
+9975|<O>| private static string* fileFighter = ({ });     // File quái vật
+9976|<O>| "%s:\nCác hạ hiểu lầm rồi, hai nước chúng ta bao đời hữu hảo, không có ý gì khác.\n", name3, me->get_name()));
+9977|<O>| if (master->get_hp() <= master->get_max_hp() / 20)	//Thắng lợi
+9978|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Thổ Phỉ %d/15", i));
+9979|<O>| if (TASK_LEGEND_D->check_task_item(who, "Kim Ngân Hoa", 8) != 1)
+9980|<O>| if (TASK_LEGEND_D->check_task_item(who, "Bột Cương Thi", 1) != 1)
+9981|<O>| if (TASK_LEGEND_D->check_task_item(who, "Linh Chi Thảo", 1) != 1)
+9982|<O>| if (TASK_LEGEND_D->check_task_item(who, "Thần Hành Lộ", 1) != 1)
+9983|<O>| if (TASK_LEGEND_D->check_task_item(who, "Dây Buộc Tóc", 20) != 1)
 9984|<O>| send_user( who, "%c%s", '>', sprintf("Bạn nhận được %s", name) );
-9985|<O>| if (distance_between(me, who) > 5) return 1;    // cự ly qua Viễn
-9986|<O>| if (TASK_LEGEND_D->check_task_item(who, "HỏaDiệm Thạch", 5) != 1)
-9987|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Kiếm dũng %d/12", i));
-9988|<O>| send_user(who, "%c%s", ';', "bạnĐả mở cẩm nang，hoạch được" + result + "。");
-9989|<O>| if (distance_between(me, who) > 6) return 0;    // cự ly qua Viễn
-9990|<O>| private static mapping mpCP = ([]);            // Tập dữ liệu tạm
-9991|<O>| return sprintf("lớnPháp Lực Thạch:\n    Sau khi sử dụng mỗi2giây có thể phục hồi%dđiểm Pháp Lực", iStoneMp);
-9992|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Hắc kỳ Tử %d/3", i));
-9993|<O>| private int Die;                                // Tử vongtiêu Chí
+9985|<O>| if (distance_between(me, who) > 5) return 1;    // Khoảng cách quá xa
+9986|<O>| if (TASK_LEGEND_D->check_task_item(who, "Hỏa Diệm Thạch", 5) != 1)
+9987|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Kiếm Dũng %d/12", i));
+9988|<O>| send_user(who, "%c%s", ';', "Bạn mở cẩm nang, nhận được " + result + ".");
+9989|<O>| if (distance_between(me, who) > 6) return 0;    // Khoảng cách quá xa
+9990|<O>| private static mapping mpCP = ([]);            // Tập dữ liệu tạm thời
+9991|<O>| return sprintf("Đại Pháp Lực Thạch:\n    Sau khi sử dụng, mỗi 2 giây có thể hồi phục %d điểm pháp lực", iStoneMp);
+9992|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Quân Cờ Đen %d/3", i));
+9993|<O>| private int Die;                                // Cờ tử vong

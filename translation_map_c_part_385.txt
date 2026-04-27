@@ -1,95 +1,95 @@
-﻿18000|<O>| tell_user(me, "tảo miêu Mục lục: %s", path);
-18001|<O>| notify("Bạn MụctrướcchỉNăngSử dụng %d đương phố。", size);
-18002|<O>| who->log_legend("BạnTạiCông Đức Lão Nhân xử Tẩy thuộc tínhđiểm。");
-18003|<O>| #define PF_NAME        "caocấpmaBố GiápChế tạo"
-18004|<O>| ESC"Ngũ Tây quacủaBáo thù\ntalk %x# bonus.4\n"
-18005|<O>| ESC"lĩnh thủ Hợp phụclớnthưởng\ntalk %x# bonus.20\n"
-18006|<O>| "Ngọc BạchBảo Thạch" : "\"/item/stuff/0083\"",
-18007|<O>| call_out("reset", 1);    // bản đồphục vị
-18008|<O>| notify("Chiến trườnggiữacủaNgười chơikhôngdoãn hứa dữ Chiến trườngngoàicủaNgười chơiKết thành đội ngũ！");
-18009|<O>| me->set_clean_pk_time(0);	//trọngmớilũy Kế
-18010|<O>| "Hổ pháchBảo Thạch" : "\"/item/stuff/0095\"",
-18011|<O>| SAY_CMD->say(me, "cầnbạnxem xemtôiTu Hànhcủathành Quả！");
+﻿18000|<O>| tell_user(me, "Quét thư mục: %s", path);
+18001|<O>| notify("Hiện tại bạn chỉ có thể dùng %d tiệm cầm đồ.", size);
+18002|<O>| who->log_legend("Bạn đã rửa điểm thuộc tính tại lão nhân Công Đức.");
+18003|<O>| #define PF_NAME        "Chế Tạo Giáp Vải Gai Cao Cấp"
+18004|<O>| ESC"Phần thưởng 5 quả dưa hấu\ntalk %x# bonus.4\n"
+18005|<O>| ESC"Nhận phần thưởng hợp server lớn\ntalk %x# bonus.20\n"
+18006|<O>| "Bảo Thạch Ngọc Trắng" : "\"/item/stuff/0083\"",
+18007|<O>| call_out("reset", 1);    // Reset bản đồ
+18008|<O>| notify("Người chơi trong chiến trường không được kết đội với người chơi ngoài chiến trường!");
+18009|<O>| me->set_clean_pk_time(0);	//Tích lũy lại từ đầu
+18010|<O>| "Bảo Thạch Hổ Phách" : "\"/item/stuff/0095\"",
+18011|<O>| SAY_CMD->say(me, "Để ngươi thấy thành quả tu hành của ta!");
 18012|<O>| case 40 : place2 = "Ngụy Quốc";  break;
-18013|<O>| return "［Cường hóaĐạo PhápThầnthông］Nâng Lực phòng thủ phép thuật，Mỗi cấp tăng3điểm";
-18014|<O>| me->set_cwf(file);    // thiết trí công táctệp tinDanh
-18015|<O>| return "Truyền tốngđội ngũgiữađội hữu、Đồngbang pháicủathành viên、bạn lữ đếnbản thânThân Biên";
-18016|<O>| tell_user(me, "%s vô Khởi thủy tiêu ký", file);
-18017|<O>| return "Kinh qua khoáng dãKỹ năngdung LuyệncủaHànSắtkhoáng，Thiết Tượng、Nguyên liệu cần cho Cơ Quan";
-18018|<O>| "Truyền Động cơ cấu" : "\"/item/stuff/0202\"",
-18019|<O>| else if (arg == "open")    // bày thán
-18020|<O>| printf(ECHO "Bạn nhặt Khởi %d Vàng。", total);
-18021|<O>| item = new("item/08/0003");	//Huyết Thạch
-18022|<O>| // break;    //	ĐồngdướiDiện cộng dùng，không thểCó break;
-18023|<O>| me->log_money("thư sinh", level + 10);
-18024|<O>| "Đào dũng Chi tý" : "TạiTướng Quân Cổ MộTamtầngSátCung TiễnThạch dũngcó thểnhận đượcĐào dũng Chi tý",
-18025|<O>| return "Gia 20000 điểm Tiềm năng，Sử dụnggiờgian gian cách:1 giây";
+18013|<O>| return "［Cường Hóa Đạo Pháp Thần Thông］Tăng phòng thủ pháp thuật, mỗi cấp tăng 3 điểm";
+18014|<O>| me->set_cwf(file);    // Thiết lập tên file làm việc
+18015|<O>| return "Truyền tống đồng đội, thành viên cùng bang phái, bạn đời đến bên mình";
+18016|<O>| tell_user(me, "%s không có đánh dấu bắt đầu", file);
+18017|<O>| return "Quặng hàn thiết đã luyện bằng kỹ năng khoáng luyện, nguyên liệu cần cho Thợ Rèn, Cơ Quan";
+18018|<O>| "Bộ Truyền Động" : "\"/item/stuff/0202\"",
+18019|<O>| else if (arg == "open")    // Bày hàng
+18020|<O>| printf(ECHO "Bạn nhặt được %d vàng.", total);
+18021|<O>| item = new("item/08/0003");	//Đá Huyết
+18022|<O>| // break;    //	Dùng chung phía dưới, không được có break;
+18023|<O>| me->log_money("Thư sinh", level + 10);
+18024|<O>| "Cánh Tay Đào Dũng" : "Giết cung tiễn thạch dũng tầng 3 Cổ Mộ Tướng Quân có thể được Cánh Tay Đào Dũng",
+18025|<O>| return "Thêm 20000 điểm tiềm năng, khoảng cách sử dụng: 1 giây";
 18026|<O>| case 10 : place2 = "Tề Quốc";  break;
-18027|<O>| return "Vật phẩm nhiệm vụ。báloạilớnhồ lôloạiTửcầncủaMột loạichuyên dùng nêThổ。";
-18028|<O>| if (time % 300 == 0)    // mỗi５phútxử lý
-18029|<O>| ESC "40 Công Đức hoán 60000 Vàng。\n" + cmd2 +
-18030|<O>| "yên Bạch Ngọc Thạch" : "\"/item/stuff/0056\"",
+18027|<O>| return "Vật phẩm nhiệm vụ. Loại đất chuyên dụng cần thiết để gieo hạt bầu lớn.";
+18028|<O>| if (time % 300 == 0)    // Xử lý mỗi 5 phút
+18029|<O>| ESC "40 công đức đổi 60000 vàng.\n" + cmd2 +
+18030|<O>| "Ngọc Khói Trắng" : "\"/item/stuff/0056\"",
 18031|<O>| private string Final;			// Kết quả chế tạo
-18032|<O>| printf(ECHO "bạnvô Phápđối vớiđối vớiPhươngSử dụng" PF_NAME);
-18033|<O>| else	result += HIG "100％ chuẩn bịtốt\n";
-18034|<O>| else if (me->get_name() == "liêm phả")
-18035|<O>| return "do công tượng sở chế thànhcủaBì Đái。Chế tạochức bố cơcầncủatài liệu Chi Nhất";
-18036|<O>| item->set("forge", "111");//Tam TinhVàngtrang
-18037|<O>| return "［Cường hóatiềm Ẩn Tâm Pháp］NângPháp thuật lựctrênhạn，Mỗi cấp tăng3điểm";
-18038|<O>| ESC"giao nạpThất Quốc Lệnh\ntalk %x# welcome.1\n"
-18039|<O>| name2 = item->get_name() + "tiến giai";
-18040|<O>| "Cơ Quancấukiện" : "\"/item/stuff/0205\"",
-18041|<O>| return "［Cường hóaVàngTiênPhù chú］NângLực tấn công phép thuật，Mỗi cấp tăng2điểm";
-18042|<O>| "điện ThanhBảo Thạch" : "\"/item/stuff/0093\"",
-18043|<O>| npc->start_fight(me);    // chủ ĐộngTấn công
-18044|<O>| "Sơcấpsủng vậtKỹ năngthư" : "\"/item/44/4488\"",
-18045|<O>| return "［Cường hóacàn khôn na Di］NângLực phòng thủ vật lý，Mỗi cấp tăng2điểm";
-18046|<O>| desc = "lục đậu chửcủathang，14giây phục hồi cho người chơi385điểm Pháp Lực。";
-18047|<O>| "PhácũcủaĐầu Khôi" : "TạiYêndàiThành SátYên QuốcKiếm thuẫn Binhcó thểnhận đượcPhácũcủaĐầu Khôi",
-18048|<O>| "Vĩnh Động hạch Tâm" : "\"/item/stuff/0204\"",
-18049|<O>| log_file(LIST_LOG, "# Lão bản、nhỏphán\n");
-18050|<O>| if (!clonep(me)) return "mớiThủThổtinh Thạch";
-18051|<O>| tell_user(me, "Thanh lý tư liệu: %s", path);
-18052|<O>| ESC "NhậnNhiệm vụ\ntalk %x# welcome.2\n"
-18053|<O>| #define PF_NAME        "Cửu hoànVàngLiên Côn đoạn tạo"
-18054|<O>| #define PF_NAME        "PhongMatụtrongTiễn đoạn tạo"
-18055|<O>| if ( GET_TIME < iFinish )	//Công Thành kỳ gian
-18056|<O>| x1 = x; y1 = y;		// Hủy bỏNgẫu nhiên，Miễn đượcĐi vàoAn Toàn khu
-18057|<O>| private static int iWood;		// Mộcđầu
-18058|<O>| "mặc Ngọc Ngọc Thạch" : "\"/item/stuff/0062\"",
+18032|<O>| printf(ECHO "Bạn không thể dùng " PF_NAME " cho đối phương");
+18033|<O>| else	result += HIG "100％ Sẵn sàng\n";
+18034|<O>| else if (me->get_name() == "Liêm Pha")
+18035|<O>| return "Dây da do thợ thủ công chế tạo. Nguyên liệu cần thiết để làm khung dệt";
+18036|<O>| item->set("forge", "111");//Trang bị vàng 3 sao
+18037|<O>| return "［Cường Hóa Tiềm Ẩn Tâm Pháp］Tăng giới hạn pháp lực, mỗi cấp tăng 3 điểm";
+18038|<O>| ESC"Nộp Thất Quốc Lệnh\ntalk %x# welcome.1\n"
+18039|<O>| name2 = item->get_name() + "Tiến Giai";
+18040|<O>| "Cấu Kiện Cơ Quan" : "\"/item/stuff/0205\"",
+18041|<O>| return "［Cường Hóa Kim Tiên Phù Chú］Tăng sức tấn công pháp thuật, mỗi cấp tăng 2 điểm";
+18042|<O>| "Bảo Thạch Chàm" : "\"/item/stuff/0093\"",
+18043|<O>| npc->start_fight(me);    // Chủ động tấn công
+18044|<O>| "Sách Kỹ Năng Thú Cưng Sơ Cấp" : "\"/item/44/4488\"",
+18045|<O>| return "［Cường Hóa Kiền Khôn Na Di］Tăng phòng thủ vật lý, mỗi cấp tăng 2 điểm";
+18046|<O>| desc = "Canh đậu xanh, trong 14 giây hồi phục 385 điểm pháp lực cho người chơi.";
+18047|<O>| "Cánh Tay Đào Dũng" : "Giết cung tiễn thạch dũng ở tầng 3 Yên Trường Thành có thể được mũ giáp rách",
+18048|<O>| "Lõi Vĩnh Động" : "\"/item/stuff/0204\"",
+18049|<O>| log_file(LIST_LOG, "# Ông chủ, tiểu phán\n");
+18050|<O>| if (!clonep(me)) return "Tinh Thạch Thổ Tân Thủ";
+18051|<O>| tell_user(me, "Dọn dẹp dữ liệu: %s", path);
+18052|<O>| ESC "Nhận nhiệm vụ\ntalk %x# welcome.2\n"
+18053|<O>| #define PF_NAME        "Rèn Côn Cửu Hoàn Kim Liên"
+18054|<O>| #define PF_NAME        "Rèn Tiểu Tiễn Phong Ma"
+18055|<O>| if ( GET_TIME < iFinish )	//Trong thời gian công thành
+18056|<O>| x1 = x; y1 = y;		// Hủy ngẫu nhiên, tránh vào khu an toàn
+18057|<O>| private static int iWood;		// Gỗ
+18058|<O>| "Ngọc Mặc Ngọc" : "\"/item/stuff/0062\"",
 18059|<O>| case 80 : place2 = "Chu Quốc";  break;
-18060|<O>| ESC"Rời khỏi", id, id, id, id, id, id)
-18061|<O>| return "［ĐộcKinh］đối vớimục tiêudướiĐộc，Chế tạođồTạiVũ khítrêncủaĐộcPhấn\n";
-18062|<O>| ESC "20 Công Đức hoán 30000 Vàng。\n" + cmd1 +
-18063|<O>| if (random(100) < 50)    // nhận đượcTiền vàng
-18064|<O>| "Tử HồngBảo Thạch" : "\"/item/stuff/0094\"",
-18065|<O>| return "kéo dài1giờtrongbiến Thân vìnhỏdã thỏ，Có thể nâng1%Pháp thuật lực。";
-18066|<O>| return "Phu Thê Pháp Bảo，nhanhtốcđếnđạt bạn lữ Thân Biên，tịnh NăngTăngNhân Vật thuộc tính";
-18067|<O>| return sprintf("Thương Nhânchuyên dùngTiền Phiếu，dùng vuThương Nhânchức nghiệp");
-18068|<O>| name2 = item->get_name() + "Bí tịch";
-18069|<O>| private int con_grow;			//Thể phách thànhdàihệ số
-18070|<O>| notify("đối vớiPhươngbang pháisở thuộc Quốc Gia dữbạncủaQuốc GiakhôngĐồng，không thểGia Nhập。");
-18071|<O>| if (!clonep(me)) return "5cấpThủytinh Thạch";
-18072|<O>| #define PF_NAME        "Tỏa Liên Hộ Tâm GiápChế tạo"
-18073|<O>| desc = "khảo thụccủaĐịa qua，14giây phục hồi cho người chơi385điểm Khí Huyết。";
-18074|<O>| private string Master;			// cầnSư Phó
-18075|<O>| "Thanh DiệpBảo Thạch" : "\"/item/stuff/0096\"",
-18076|<O>| case "vip_revive19":	//Chiến trườngvipnguyên ĐịaPhục sinh
-18077|<O>| "bích lụcBảo Thạch" : "\"/item/stuff/0084\"",
-18078|<O>| return "［Cường hóaNgựPhongTâm Pháp］NângLực tấn công phép thuật，Mỗi cấp tăng2điểm";
-18079|<O>| private int str_grow;			//Lực lượng thànhdàihệ số
-18080|<O>| if (time() > dzStart)	//đệ NhấtlầnXuất hiệncủagiờgian
-18081|<O>| result += ESC"nguyên ĐịaPhục sinh\nsetdie 0\n";
-18082|<O>| "Hoàng SắcnhỏThạch đầu" : "TạiLinh Cốc Động NhịtầngSát vọng lượngQuỷcó thểnhận đượcHoàng SắcnhỏThạch đầu",
-18083|<O>| if (!clonep(me)) return "5cấpMộctinh Thạch";
-18084|<O>| log_file(LIST_LOG, "# chức nghiệp bình định Sư\n");
+18060|<O>| ESC"Rời đi", id, id, id, id, id, id)
+18061|<O>| return "［Độc Kinh］Hạ độc mục tiêu, chế tạo bột độc bôi lên vũ khí\n";
+18062|<O>| ESC "20 công đức đổi 30000 vàng.\n" + cmd1 +
+18063|<O>| if (random(100) < 50)    // Nhận vàng
+18064|<O>| "Bảo Thạch Tím Đỏ" : "\"/item/stuff/0094\"",
+18065|<O>| return "Trong 1 giờ biến thành thỏ rừng nhỏ, tăng 1% pháp lực.";
+18066|<O>| return "Pháp bảo vợ chồng, nhanh chóng đến bên bạn đời, đồng thời tăng thuộc tính nhân vật";
+18067|<O>| return sprintf("Phiếu tiền chuyên dùng cho thương nhân, dùng cho nghề thương nhân");
+18068|<O>| name2 = item->get_name() + "Bí Kíp";
+18069|<O>| private int con_grow;			//Hệ số tăng trưởng thể phách
+18070|<O>| notify("Quốc gia của bang phái đối phương khác với quốc gia của bạn, không thể gia nhập.");
+18071|<O>| if (!clonep(me)) return "Tinh Thạch Thủy Cấp 5";
+18072|<O>| #define PF_NAME        "Chế Tạo Hộ Tâm Giáp Xích"
+18073|<O>| desc = "Khoai lang nướng chín, trong 14 giây hồi phục 385 điểm khí huyết cho người chơi.";
+18074|<O>| private string Master;			// Cần sư phụ
+18075|<O>| "Bảo Thạch Lá Xanh" : "\"/item/stuff/0096\"",
+18076|<O>| case "vip_revive19":	//VIP hồi sinh tại chỗ trong chiến trường
+18077|<O>| "Bảo Thạch Xanh Biếc" : "\"/item/stuff/0084\"",
+18078|<O>| return "［Cường Hóa Ngự Phong Tâm Pháp］Tăng sức tấn công pháp thuật, mỗi cấp tăng 2 điểm";
+18079|<O>| private int str_grow;			//Hệ số tăng trưởng sức mạnh
+18080|<O>| if (time() > dzStart)	//Thời điểm xuất hiện lần đầu
+18081|<O>| result += ESC"Hồi sinh tại chỗ\nsetdie 0\n";
+18082|<O>| "Viên Đá Nhỏ Vàng" : "Giết quỷ Võng Lượng ở tầng 2 Linh Cốc Động có thể được Viên Đá Nhỏ Vàng",
+18083|<O>| if (!clonep(me)) return "Tinh Thạch Mộc Cấp 5";
+18084|<O>| log_file(LIST_LOG, "# Thẩm định viên nghề nghiệp\n");
 18085|<O>| if (time % 100 == 0)    // 10 phút
 18086|<O>| DEBUG(sprintf("Kiểm tra-->do_look "));
-18087|<O>| #define MAX_SIZE 20	//đơn PhươngcủatốilớnNhân số 20
-18088|<O>| tell_user(me, "đối tượng:%O kế thừa:", obj);
-18089|<O>| return "Vật phẩm nhiệm vụ。Một loạitrà Diệp，dùng mạt Lợi Hoa dữ trà Diệp hỗn Hợp chế thành。";
-18090|<O>| return "TăngChế tạoVật PhẩmTỷ lệ thành côngcủaĐạo cụ，Tăng10%củaTỷ lệ thành công";
-18091|<O>| tell_user(me, "Bạn Hoa %d hướng%smuadưới %s。",
-18092|<O>| "yên BạchBảo Thạch" : "\"/item/stuff/0079\"",
-18093|<O>| yuetu_bonus(player,npc);//choNgọc thỏphần thưởng。
-18094|<O>| "ngàyThanh Ngọc Thạch" : "\"/item/stuff/0065\"",
+18087|<O>| #define MAX_SIZE 20	//Số người tối đa mỗi bên 20
+18088|<O>| tell_user(me, "Đối tượng:%O Kế thừa:", obj);
+18089|<O>| return "Vật phẩm nhiệm vụ. Loại trà pha từ hoa nhài và lá trà hỗn hợp.";
+18090|<O>| return "Đạo cụ tăng tỷ lệ chế tạo vật phẩm thành công, tăng 10% tỷ lệ thành công";
+18091|<O>| tell_user(me, "Bạn chi %d để mua %s từ %s.",
+18092|<O>| "Bảo Thạch Khói Trắng" : "\"/item/stuff/0079\"",
+18093|<O>| yuetu_bonus(player,npc);//Trao thưởng ngọc thỏ.
+18094|<O>| "Ngọc Thiên Thanh" : "\"/item/stuff/0065\"",

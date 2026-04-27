@@ -1,64 +1,64 @@
-﻿11005|<O>| #define SKILL_FINAL	"/item/final/65/6120"				// 制作的结果
-11006|<O>| who->add_strength(-1);    // 体力 -1, 书生经验 +20, 智谋 + 20
-11007|<O>| #define SKILL_FINAL	"/item/final/65/3085"				// 制作的结果
-11008|<O>| #define SKILL_FINAL	"/item/final/71/1120"				// 制作的结果
-11009|<O>| #define SKILL_FINAL	"/item/final/88/2085"				// 制作的结果
-11010|<O>| if (me->get_login_flag() < 3)    // 与 inh/char/cmd 同步
-11011|<O>| #define SKILL_FINAL	"/item/final/65/4095"				// 制作的结果
-11012|<O>| npc->set_name( sprintf( "僵尸(%s)", me->get_name() ) );
-11013|<O>| #define SKILL_FINAL	"/item/final/76/1095"				// 制作的结果
-11014|<O>| #define SKILL_FINAL	"/item/final/65/1065"				// 制作的结果
-11015|<O>| #define SKILL_FINAL	"/item/final/72/1085"				// 制作的结果
-11016|<O>| private static object* dbComrade = ({ });       // 怪物
-11017|<O>| #define SKILL_FINAL	"/item/final/65/6085"				// 制作的结果
-11018|<O>| #define SKILL_FINAL	"/item/final/86/2085"				// 制作的结果
-11019|<O>| #define SKILL_FINAL	"/item/final/88/4105"				// 制作的结果
-11020|<O>| #define SKILL_FINAL	"/item/final/86/4055"				// 制作的结果
-11021|<O>| _DEBUG(sprintf("DEBUG_f -- 回调测试函数3 剩余次数 %d", times));
-11022|<O>| #define SKILL_FINAL	"/item/final/88/1055"				// 制作的结果
-11023|<O>| #define SKILL_FINAL	"/item/final/86/6045"				// 制作的结果
-11024|<O>| #define SKILL_FINAL	"/item/final/86/5105"				// 制作的结果
-11025|<O>| #define YUEBING	"item/04/mooncake"//这个到时候要改回去的，先注 一下。
-11026|<O>| case "唐门" : if( type != THROWING ) flag = -1;  break;
-11027|<O>| send_user(who, "%c%s", '!', "你接受了"HIY"破损的铁锹"NOR"任务");
-11028|<O>| #define SKILL_FINAL	"/item/final/88/7085"				// 制作的结果
-11029|<O>| #define SKILL_FINAL	"/item/final/86/3085"				// 制作的结果
-11030|<O>| npc->set_name( sprintf( "豆兵(%s)", me->get_name() ) );
-11031|<O>| tell_user(me, HIY "您强行中止了涉及%s的战斗。", who->get_name());
-11032|<O>| #define SKILL_FINAL	"/item/final/76/1065"				// 制作的结果
-11033|<O>| #define SKILL_FINAL	"/item/final/86/3035"				// 制作的结果
-11034|<O>| send_user(me, "%c%s", ':', "您的宠物:忠厚的双子,使用时间增加了14天。");
-11035|<O>| #define SKILL_FINAL	"/item/final/60/7105"				// 制作的结果
-11036|<O>| #define SKILL_FINAL	"/item/final/86/2045"				// 制作的结果
-11037|<O>| #define SKILL_FINAL	"/item/final/88/3045"				// 制作的结果
-11038|<O>| #define SKILL_FINAL	"/item/final/60/4075"				// 制作的结果
-11039|<O>| #define SKILL_FINAL	"/item/final/65/7115"				// 制作的结果
-11040|<O>| #define SKILL_FINAL	"/item/final/88/3110"				// 制作的结果
-11041|<O>| #define SKILL_FINAL	"/item/final/60/7075"				// 制作的结果
-11042|<O>| #define SKILL_FINAL	"/item/final/70/1105"				// 制作的结果
-11043|<O>| case 9: item->set_heart_sec(point);  break;    // 招魂幡
-11044|<O>| return "居家旅行时所用的小背包，\n可增加使用者24格的背包空间。\n包裹10天后会自动损坏。";
-11045|<O>| #define SKILL_FINAL	"/item/final/60/5105"				// 制作的结果
-11046|<O>| #define SKILL_FINAL	"/item/final/60/7035"				// 制作的结果
-11047|<O>| #define SKILL_FINAL	"/item/final/72/1035"				// 制作的结果
-11048|<O>| #define SKILL_FINAL	"/item/final/88/1095"				// 制作的结果
-11049|<O>| #define SKILL_FINAL	"/item/final/86/4045"				// 制作的结果
-11050|<O>| #define SKILL_FINAL	"/item/final/88/5065"				// 制作的结果
-11051|<O>| #define SKILL_FINAL	"/item/final/88/2115"				// 制作的结果
-11052|<O>| #define SKILL_FINAL	"/item/final/88/4085"				// 制作的结果
-11053|<O>| #define SKILL_FINAL	"/item/final/60/6035"				// 制作的结果
-11054|<O>| // add_attack_speed(get_attack_speed()*100/100)  //速度
-11055|<O>| #define SKILL_FINAL	"/item/final/86/3045"				// 制作的结果
-11056|<O>| #define SKILL_FINAL	"/item/final/86/2055"				// 制作的结果
-11057|<O>| #define SKILL_FINAL	"/item/final/86/7115"				// 制作的结果
-11058|<O>| #define SKILL_FINAL	"/item/final/60/2055"				// 制作的结果
-11059|<O>| #define SKILL_FINAL	"/item/final/88/6085"				// 制作的结果
-11060|<O>| #define SKILL_FINAL	"/item/final/86/4035"				// 制作的结果
-11061|<O>| #define SKILL_FINAL	"/item/final/86/3055"				// 制作的结果
-11062|<O>| private int Cps;                 // 耐力，定力   Composure
-11063|<O>| result += ESC"使用复生丹在"HIY"原地复活"NOR"。\ndesc revive1\n";
-11064|<O>| [1970-5000][01-12][01-31][00-23][00-59][00-59]-（最小单位）
-11065|<O>| #define SKILL_FINAL	"/item/final/60/4115"				// 制作的结果
-11066|<O>| send_user(who, "%c%s", '!', sprintf(HIY"钱 %d/1", 1));
-11067|<O>| #define SKILL_FINAL	"/item/final/65/4065"				// 制作的结果
-11068|<O>| #define SKILL_FINAL	"/item/final/65/7055"				// 制作的结果
+﻿11005|<O>| #define SKILL_FINAL	"/item/final/65/6120"				// Kết quả chế tạo
+11006|<O>| who->add_strength(-1);    // Thể lực -1, kinh nghiệm thư sinh +20, trí mưu + 20
+11007|<O>| #define SKILL_FINAL	"/item/final/65/3085"				// Kết quả chế tạo
+11008|<O>| #define SKILL_FINAL	"/item/final/71/1120"				// Kết quả chế tạo
+11009|<O>| #define SKILL_FINAL	"/item/final/88/2085"				// Kết quả chế tạo
+11010|<O>| if (me->get_login_flag() < 3)    // Đồng bộ với inh/char/cmd
+11011|<O>| #define SKILL_FINAL	"/item/final/65/4095"				// Kết quả chế tạo
+11012|<O>| npc->set_name( sprintf( "Cương Thi(%s)", me->get_name() ) );
+11013|<O>| #define SKILL_FINAL	"/item/final/76/1095"				// Kết quả chế tạo
+11014|<O>| #define SKILL_FINAL	"/item/final/65/1065"				// Kết quả chế tạo
+11015|<O>| #define SKILL_FINAL	"/item/final/72/1085"				// Kết quả chế tạo
+11016|<O>| private static object* dbComrade = ({ });       // Quái vật
+11017|<O>| #define SKILL_FINAL	"/item/final/65/6085"				// Kết quả chế tạo
+11018|<O>| #define SKILL_FINAL	"/item/final/86/2085"				// Kết quả chế tạo
+11019|<O>| #define SKILL_FINAL	"/item/final/88/4105"				// Kết quả chế tạo
+11020|<O>| #define SKILL_FINAL	"/item/final/86/4055"				// Kết quả chế tạo
+11021|<O>| _DEBUG(sprintf("DEBUG_f -- Hàm thử nghiệm gọi lại 3 số lần còn lại %d", times));
+11022|<O>| #define SKILL_FINAL	"/item/final/88/1055"				// Kết quả chế tạo
+11023|<O>| #define SKILL_FINAL	"/item/final/86/6045"				// Kết quả chế tạo
+11024|<O>| #define SKILL_FINAL	"/item/final/86/5105"				// Kết quả chế tạo
+11025|<O>| #define YUEBING	"item/04/mooncake"//Cái này sau sẽ phải đổi lại, ghi chú tạm.
+11026|<O>| case "Đường Môn" : if( type != THROWING ) flag = -1;  break;
+11027|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận nhiệm vụ "HIY"Xẻng Sắt Hỏng"NOR"");
+11028|<O>| #define SKILL_FINAL	"/item/final/88/7085"				// Kết quả chế tạo
+11029|<O>| #define SKILL_FINAL	"/item/final/86/3085"				// Kết quả chế tạo
+11030|<O>| npc->set_name( sprintf( "Đậu Binh(%s)", me->get_name() ) );
+11031|<O>| tell_user(me, HIY "Bạn đã cưỡng chế dừng trận chiến liên quan đến %s.", who->get_name());
+11032|<O>| #define SKILL_FINAL	"/item/final/76/1065"				// Kết quả chế tạo
+11033|<O>| #define SKILL_FINAL	"/item/final/86/3035"				// Kết quả chế tạo
+11034|<O>| send_user(me, "%c%s", ':', "Thú cưng của bạn: Song Tử Trung Hậu, thời gian sử dụng tăng thêm 14 ngày.");
+11035|<O>| #define SKILL_FINAL	"/item/final/60/7105"				// Kết quả chế tạo
+11036|<O>| #define SKILL_FINAL	"/item/final/86/2045"				// Kết quả chế tạo
+11037|<O>| #define SKILL_FINAL	"/item/final/88/3045"				// Kết quả chế tạo
+11038|<O>| #define SKILL_FINAL	"/item/final/60/4075"				// Kết quả chế tạo
+11039|<O>| #define SKILL_FINAL	"/item/final/65/7115"				// Kết quả chế tạo
+11040|<O>| #define SKILL_FINAL	"/item/final/88/3110"				// Kết quả chế tạo
+11041|<O>| #define SKILL_FINAL	"/item/final/60/7075"				// Kết quả chế tạo
+11042|<O>| #define SKILL_FINAL	"/item/final/70/1105"				// Kết quả chế tạo
+11043|<O>| case 9: item->set_heart_sec(point);  break;    // Chiêu Hồn Phướn
+11044|<O>| return "Ba lô nhỏ dùng khi đi du lịch,\ncó thể tăng thêm 24 ô ba lô cho người sử dụng.\nBa lô sẽ tự động hỏng sau 10 ngày.";
+11045|<O>| #define SKILL_FINAL	"/item/final/60/5105"				// Kết quả chế tạo
+11046|<O>| #define SKILL_FINAL	"/item/final/60/7035"				// Kết quả chế tạo
+11047|<O>| #define SKILL_FINAL	"/item/final/72/1035"				// Kết quả chế tạo
+11048|<O>| #define SKILL_FINAL	"/item/final/88/1095"				// Kết quả chế tạo
+11049|<O>| #define SKILL_FINAL	"/item/final/86/4045"				// Kết quả chế tạo
+11050|<O>| #define SKILL_FINAL	"/item/final/88/5065"				// Kết quả chế tạo
+11051|<O>| #define SKILL_FINAL	"/item/final/88/2115"				// Kết quả chế tạo
+11052|<O>| #define SKILL_FINAL	"/item/final/88/4085"				// Kết quả chế tạo
+11053|<O>| #define SKILL_FINAL	"/item/final/60/6035"				// Kết quả chế tạo
+11054|<O>| // add_attack_speed(get_attack_speed()*100/100)  //Tốc độ
+11055|<O>| #define SKILL_FINAL	"/item/final/86/3045"				// Kết quả chế tạo
+11056|<O>| #define SKILL_FINAL	"/item/final/86/2055"				// Kết quả chế tạo
+11057|<O>| #define SKILL_FINAL	"/item/final/86/7115"				// Kết quả chế tạo
+11058|<O>| #define SKILL_FINAL	"/item/final/60/2055"				// Kết quả chế tạo
+11059|<O>| #define SKILL_FINAL	"/item/final/88/6085"				// Kết quả chế tạo
+11060|<O>| #define SKILL_FINAL	"/item/final/86/4035"				// Kết quả chế tạo
+11061|<O>| #define SKILL_FINAL	"/item/final/86/3055"				// Kết quả chế tạo
+11062|<O>| private int Cps;                 // Nội lực, định lực   Composure
+11063|<O>| result += ESC"Sử dụng Phục Sinh Đan để "HIY"phục sinh tại chỗ"NOR".\ndesc revive1\n";
+11064|<O>| [1970-5000][01-12][01-31][00-23][00-59][00-59]-（Đơn vị nhỏ nhất）
+11065|<O>| #define SKILL_FINAL	"/item/final/60/4115"				// Kết quả chế tạo
+11066|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Tiền %d/1", 1));
+11067|<O>| #define SKILL_FINAL	"/item/final/65/4065"				// Kết quả chế tạo
+11068|<O>| #define SKILL_FINAL	"/item/final/65/7055"				// Kết quả chế tạo

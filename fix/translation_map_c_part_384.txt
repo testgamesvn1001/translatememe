@@ -1,95 +1,95 @@
-﻿17905|<O>| result += sprintf("，%d金", cash);
-17906|<O>| return "百合仙子的介绍信，请把它交给新手村的神仙爷爷";
-17907|<O>| return "经过矿冶技能熔炼的玄铁矿，铁匠、机关所需材料";
-17908|<O>| "赤红玉石" : "\"/item/stuff/0068\"",
-17909|<O>| if (time() > hwStart)	//第一次出现的时间
-17910|<O>| return "任务物品。祖父留给丁鹤年的遗书，可右击查看。";
-17911|<O>| #define PF_NAME        "玄铁袖里箭锻造"
-17912|<O>| private int Total_bonus;		//总功德点
-17913|<O>| // 暗器技能  TIPS:[PF_THROWING_AREA]
-17914|<O>| desc = "地瓜煮的粥，14秒内恢复玩家315点气血值。";
-17915|<O>| "墨玉宝石" : "\"/item/stuff/0085\"",
-17916|<O>| me->set_login_flag(2);	  // 跳转保护
-17917|<O>| case 50 : place2 = "秦国";  break;
-17918|<O>| ESC "暂时借用一下\ntalk %x# visit.2\n"
-17919|<O>| for (i = 0;i < 5;i++)	//随机1级晶石5个
-17920|<O>| if (!clonep(me)) return "初级锻造石";
-17921|<O>| return "活动专属骑宠紫毛。\n该道具使用后绑定。\n";
-17922|<O>| && result != "")    // 收到扣点返回结果？
-17923|<O>| return "［强化逆天法咒］提升物理防御力，每级提升3点";
-17924|<O>| ESC"我来购买点卡\ntalk %x# bonus.20\n"
-17925|<O>| mpInfo["last_exp"] = -1;	//上次经验值
-17926|<O>| +sprintf(ESC"镖王争霸战\nparty 43\n")
-17927|<O>| "瞄准构件" : "\"/item/stuff/0203\"",
-17928|<O>| return "持续1小时内变身为小山鸡，可提升1%躲闪值。";
-17929|<O>| desc = "清蒸玉米棒，14秒内恢复玩家980点气血值。";
-17930|<O>| ESC"一个西瓜的报酬\ntalk %x# bonus.3\n"
-17931|<O>| return "任务物品。用来制服妖魔鬼怪所需要的法术用品。";
-17932|<O>| "朱红宝石" : "\"/item/stuff/0081\"",
-17933|<O>| return "能捕抓怪物的仙绳，在捕抓宠物时候的必须用品。";
-17934|<O>| if (!clonep(me)) return "5级金晶石";
-17935|<O>| ESC"七国令规则\ntalk %x# welcome.9\n"
-17936|<O>| ESC "免费试乘\ntalk %x# welcome.2\n"
-17937|<O>| "天青宝石" : "\"/item/stuff/0088\"",
-17938|<O>| ESC"给予七国令\ntalk %x# welcome.1\n"
-17939|<O>| ESC"谢谢，我知道了。", me->get_name()));
-17940|<O>| if (arg == "4131.@")    // 控制召唤兽
-17941|<O>| result += ESC "领取双倍时间\n" + cmd5;
-17942|<O>| "碧绿玉石" : "\"/item/stuff/0061\"",
-17943|<O>| SAY_CMD->say(me, "来者何人，胆敢闯入皇陵");
-17944|<O>| ESC"我来寄售点卡\ntalk %x# bonus.10\n"
-17945|<O>| if (inv[i]->get_name() != "七国令")
-17946|<O>| if (size = sizeof(nTarget))	//催眠
-17947|<O>| notify("对方所属国家与你的帮派不同，不能接受邀请。");
-17948|<O>| if (!clonep(me)) return "5级火晶石";
-17949|<O>| ESC "前往%s\ntalk %x# welcome.1\n"
-17950|<O>| return "任务物品。相传是由蓝色精灵流下的怨泪结晶体。";
-17951|<O>| return "持续1小时内变身为独角仙，可提升2%躲闪值。";
-17952|<O>| #define PF_NAME        "铁板实战铠制作"
-17953|<O>| if (!map) notify( "您所处的地图有问题" );
-17954|<O>| if (time % 200 == 0)    // 20 分钟
-17955|<O>| int WalkStatus;		//1 持续走路 2 只走一次
-17956|<O>| me->log_money("工作", CASH_BONUS);
-17957|<O>| ESC"七国令线上打宝\ntalk %x# visit.1\n"
-17958|<O>| if (!clonep(me)) return "5级日晶石";
-17959|<O>| tell_user(who, "活动开启:%s！", arg);
-17960|<O>| return "任务物品。公输班修理小木桶需要用到的原材料。";
-17961|<O>| else if (p < thresh3)    // 特殊药物
-17962|<O>| "铁制轴承" : "\"/item/stuff/0208\"",
-17963|<O>| return "一种木制刀类武器，能帮助使用者更快的消灭怪物";
-17964|<O>| case 30 : place2 = "赵国";  break;
-17965|<O>| "琥珀玉石" : "\"/item/stuff/0073\"",
-17966|<O>| static int init_time;		//赛程表更新时间
-17967|<O>| else if (rand < 8900)//50000游戏币.
-17968|<O>| default: name3 = "亲善外交";  break;
-17969|<O>| ESC"花球兑换奖励\ntalk %x# bonus.17\n"
-17970|<O>| ESC "领取任务\ntalk %x# welcome.4\n"
-17971|<O>| #define PF_NAME        "高级麻布袍制作"
-17972|<O>| "木制轴承" : "\"/item/stuff/0207\"",
-17973|<O>| // 调试日志辅助函数 Debug Logging Helper
-17974|<O>| if (!clonep(me)) return "5级暗晶石";
-17975|<O>| ESC"红球兑换奖励\ntalk %x# bonus.12\n"
-17976|<O>| return "任务物品。酒店老板家传的用白玉雕琢成的手镯。";
-17977|<O>| private int cps_grow;			//耐力成长系数
-17978|<O>| return "任务物品。属于药店老板的刻有家族图腾的玉佩。";
-17979|<O>| private mapping Product;		// 原材料
-17980|<O>| if(other_stat[7]) {				//	7 增加法防
-17981|<O>| "朱红玉石" : "\"/item/stuff/0058\"",
-17982|<O>| sprintf("%s:\n    请选择推广员奖励等级。\n"
-17983|<O>| #define PF_NAME        "钢铁护心甲制作"
-17984|<O>| case 20 : place2 = "韩国";  break;
-17985|<O>| return "［强化降魔法咒］提升法术攻击力，每级提升4点";
-17986|<O>| tell_user(me, "发生错误！\n%s", err);
-17987|<O>| if (me->get_city_name() == "秦国")
-17988|<O>| #define PF_NAME        "幻影狼皮衣制作"
-17989|<O>| write_user(me, ECHO "技能使用失败……");
-17990|<O>| ESC"缘分对对碰活动\ntalk %x# visit.2\n"
-17991|<O>| "紫红玉石" : "\"/item/stuff/0071\"",
-17992|<O>| ESC "我要租借\ntalk %x# welcome.1\n"
-17993|<O>| return "持续1小时内变身为蒙面人，可提升2%躲闪值。";
-17994|<O>| USER_D->gm_channel(HIY"测试活动关闭");
-17995|<O>| ESC "20 功德换 1100 潜能。\n" + cmd2 +
-17996|<O>| tell_user(me, "当铺的这个位置已经有道具了。");
-17997|<O>| log_file(LIST_LOG, "# 修理店老板\n");
-17998|<O>| "周国的京都镖局尉迟老镖头武艺高强，生性豪爽，真是一条好汉！",
-17999|<O>| if (sec % 360 == 0)    // 每六分钟处理
+﻿17905|<O>| result += sprintf("，%d vàng", cash);
+17906|<O>| return "Thư giới thiệu của Bách Hợp Tiên Tử, hãy giao cho ông tiên ở Tân Thủ Thôn";
+17907|<O>| return "Quặng huyền thiết đã luyện bằng kỹ năng khoáng luyện, nguyên liệu cần cho Thợ Rèn, Cơ Quan";
+17908|<O>| "Ngọc Đỏ Thắm" : "\"/item/stuff/0068\"",
+17909|<O>| if (time() > hwStart)	//Thời điểm xuất hiện lần đầu
+17910|<O>| return "Vật phẩm nhiệm vụ. Di thư ông nội để lại cho Đinh Hạc Niên, click phải để xem.";
+17911|<O>| #define PF_NAME        "Rèn Tiểu Tiễn Huyền Thiết"
+17912|<O>| private int Total_bonus;		//Tổng điểm công đức
+17913|<O>| // Kỹ năng ám khí  TIPS:[PF_THROWING_AREA]
+17914|<O>| desc = "Cháo khoai lang, trong 14 giây hồi phục 315 điểm khí huyết cho người chơi.";
+17915|<O>| "Bảo Thạch Mặc Ngọc" : "\"/item/stuff/0085\"",
+17916|<O>| me->set_login_flag(2);	  // Bảo vệ chuyển tiếp
+17917|<O>| case 50 : place2 = "Tần Quốc";  break;
+17918|<O>| ESC "Tạm thời mượn dùng một chút\ntalk %x# visit.2\n"
+17919|<O>| for (i = 0;i < 5;i++)	//5 tinh thạch cấp 1 ngẫu nhiên
+17920|<O>| if (!clonep(me)) return "Đá Rèn Sơ Cấp";
+17921|<O>| return "Thú cưỡi chuyên dụng hoạt động Lông Tím.\nVật phẩm ràng buộc sau khi sử dụng.\n";
+17922|<O>| && result != "")    // Nhận được kết quả trả về trừ điểm?
+17923|<O>| return "［Cường Hóa Nghịch Thiên Pháp Chú］Tăng phòng thủ vật lý, mỗi cấp tăng 3 điểm";
+17924|<O>| ESC"Tôi muốn mua thẻ nạp\ntalk %x# bonus.20\n"
+17925|<O>| mpInfo["last_exp"] = -1;	//Kinh nghiệm lần trước
+17926|<O>| +sprintf(ESC"Tiêu Vương Tranh Bá Chiến\nparty 43\n")
+17927|<O>| "Cấu Kiện Ngắm" : "\"/item/stuff/0203\"",
+17928|<O>| return "Trong 1 giờ biến thành gà rừng nhỏ, tăng 1% né tránh.";
+17929|<O>| desc = "Ngô bắp hấp, trong 14 giây hồi phục 980 điểm khí huyết cho người chơi.";
+17930|<O>| ESC"Phần thưởng 1 quả dưa hấu\ntalk %x# bonus.3\n"
+17931|<O>| return "Vật phẩm nhiệm vụ. Dụng cụ pháp thuật cần thiết để hàng phục yêu ma quỷ quái.";
+17932|<O>| "Bảo Thạch Đỏ Thắm" : "\"/item/stuff/0081\"",
+17933|<O>| return "Dây tiên có thể bắt quái vật, vật dụng bắt buộc khi bắt thú cưng.";
+17934|<O>| if (!clonep(me)) return "Tinh Thạch Vàng Cấp 5";
+17935|<O>| ESC"Quy tắc Thất Quốc Lệnh\ntalk %x# welcome.9\n"
+17936|<O>| ESC "Dùng thử miễn phí\ntalk %x# welcome.2\n"
+17937|<O>| "Bảo Thạch Thiên Thanh" : "\"/item/stuff/0088\"",
+17938|<O>| ESC"Giao Thất Quốc Lệnh\ntalk %x# welcome.1\n"
+17939|<O>| ESC"Cảm ơn, tôi biết rồi.", me->get_name()));
+17940|<O>| if (arg == "4131.@")    // Điều khiển triệu hồi thú
+17941|<O>| result += ESC "Nhận thời gian nhân đôi\n" + cmd5;
+17942|<O>| "Ngọc Xanh Biếc" : "\"/item/stuff/0061\"",
+17943|<O>| SAY_CMD->say(me, "Kẻ nào đây, dám xông vào hoàng lăng");
+17944|<O>| ESC"Tôi muốn ký gửi thẻ nạp\ntalk %x# bonus.10\n"
+17945|<O>| if (inv[i]->get_name() != "Thất Quốc Lệnh")
+17946|<O>| if (size = sizeof(nTarget))	//Thôi miên
+17947|<O>| notify("Quốc gia của đối phương khác với bang phái của bạn, không thể chấp nhận lời mời.");
+17948|<O>| if (!clonep(me)) return "Tinh Thạch Hỏa Cấp 5";
+17949|<O>| ESC "Đi đến %s\ntalk %x# welcome.1\n"
+17950|<O>| return "Vật phẩm nhiệm vụ. Tương truyền là thể kết tinh từ giọt nước mắt oán hận của tinh linh xanh.";
+17951|<O>| return "Trong 1 giờ biến thành bọ sừng, tăng 2% né tránh.";
+17952|<O>| #define PF_NAME        "Chế Tạo Giáp Sắt Thực Chiến"
+17953|<O>| if (!map) notify( "Bản đồ bạn đang ở có vấn đề" );
+17954|<O>| if (time % 200 == 0)    // 20 phút
+17955|<O>| int WalkStatus;		//1 Đi bộ liên tục 2 Chỉ đi một lần
+17956|<O>| me->log_money("Công việc", CASH_BONUS);
+17957|<O>| ESC"Thất Quốc Lệnh online đánh bảo\ntalk %x# visit.1\n"
+17958|<O>| if (!clonep(me)) return "Tinh Thạch Nhật Cấp 5";
+17959|<O>| tell_user(who, "Hoạt động mở:%s!", arg);
+17960|<O>| return "Vật phẩm nhiệm vụ. Nguyên liệu mà Công Thâu Ban cần để sửa thùng gỗ nhỏ.";
+17961|<O>| else if (p < thresh3)    // Thuốc đặc biệt
+17962|<O>| "Trục Sắt" : "\"/item/stuff/0208\"",
+17963|<O>| return "Loại vũ khí đao bằng gỗ, giúp người dùng tiêu diệt quái vật nhanh hơn";
+17964|<O>| case 30 : place2 = "Triệu Quốc";  break;
+17965|<O>| "Ngọc Hổ Phách" : "\"/item/stuff/0073\"",
+17966|<O>| static int init_time;		//Thời gian cập nhật lịch thi đấu
+17967|<O>| else if (rand < 8900)//50000 vàng game.
+17968|<O>| default: name3 = "Ngoại Giao Thân Thiện";  break;
+17969|<O>| ESC"Đổi hoa cầu lấy phần thưởng\ntalk %x# bonus.17\n"
+17970|<O>| ESC "Nhận nhiệm vụ\ntalk %x# welcome.4\n"
+17971|<O>| #define PF_NAME        "Chế Tạo Áo Bào Vải Gai Cao Cấp"
+17972|<O>| "Trục Gỗ" : "\"/item/stuff/0207\"",
+17973|<O>| // Hàm hỗ trợ ghi log gỡ lỗi Debug Logging Helper
+17974|<O>| if (!clonep(me)) return "Tinh Thạch Ám Cấp 5";
+17975|<O>| ESC"Đổi bóng đỏ lấy phần thưởng\ntalk %x# bonus.12\n"
+17976|<O>| return "Vật phẩm nhiệm vụ. Chiếc vòng tay ngọc trắng gia truyền của ông chủ quán rượu.";
+17977|<O>| private int cps_grow;			//Hệ số tăng trưởng sức bền
+17978|<O>| return "Vật phẩm nhiệm vụ. Ngọc bội khắc hình gia huy thuộc về ông chủ tiệm thuốc.";
+17979|<O>| private mapping Product;		// Nguyên liệu
+17980|<O>| if(other_stat[7]) {				//	7 Tăng phòng pháp
+17981|<O>| "Ngọc Đỏ Thắm" : "\"/item/stuff/0058\"",
+17982|<O>| sprintf("%s:\n    Xin chọn cấp phần thưởng người giới thiệu.\n"
+17983|<O>| #define PF_NAME        "Chế Tạo Hộ Tâm Giáp Thép"
+17984|<O>| case 20 : place2 = "Hàn Quốc";  break;
+17985|<O>| return "［Cường Hóa Hàng Ma Pháp Chú］Tăng sức tấn công pháp thuật, mỗi cấp tăng 4 điểm";
+17986|<O>| tell_user(me, "Xảy ra lỗi!\n%s", err);
+17987|<O>| if (me->get_city_name() == "Tần Quốc")
+17988|<O>| #define PF_NAME        "Chế Tạo Áo Da Sói Ảo Ảnh"
+17989|<O>| write_user(me, ECHO "Sử dụng kỹ năng thất bại……");
+17990|<O>| ESC"Hoạt động Duyên Phận Đối Đầu\ntalk %x# visit.2\n"
+17991|<O>| "Ngọc Tím Đỏ" : "\"/item/stuff/0071\"",
+17992|<O>| ESC "Tôi muốn thuê\ntalk %x# welcome.1\n"
+17993|<O>| return "Trong 1 giờ biến thành người bịt mặt, tăng 2% né tránh.";
+17994|<O>| USER_D->gm_channel(HIY"Đóng hoạt động kiểm tra");
+17995|<O>| ESC "20 công đức đổi 1100 tiềm năng.\n" + cmd2 +
+17996|<O>| tell_user(me, "Vị trí này trong tiệm cầm đồ đã có đạo cụ rồi.");
+17997|<O>| log_file(LIST_LOG, "# Ông chủ, tiểu phán\n");
+17998|<O>| "Lão Tiêu Đầu Uất Trì của Kinh Đô Tiêu Cục Chu Quốc võ nghệ cao cường, tính tình hào sảng, thật là một hảo hán!",
+17999|<O>| if (sec % 360 == 0)    // Xử lý mỗi 6 phút

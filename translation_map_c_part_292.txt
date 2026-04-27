@@ -1,9 +1,9 @@
-﻿10813|<O>| ({"Đả quái Thu tậpcủarơi lạc Vật Phẩmcó thểbánchonàoNPC？","tạp hóa điếm Lão bản","đương phố Lão bản","Ngưu Nhị","dịch trạm Lão bản"}),
+﻿10813|<O>| ({"Vật phẩm rơi ra khi đánh quái có thể bán cho NPC nào?","Chủ tiệm tạp hóa","Chủ tiệm cầm đồ","Ngưu Nhị","Chủ trạm dịch"}),
 10814|<O>| #define SKILL_FINAL	"/item/final/88/4095"				// Kết quả chế tạo
-10815|<O>| send_user(me, "%c%c%w%s", ':', 3, 0, "Bạn vô Pháp mở Tịchmớicủabối bao Không gian。");
-10816|<O>| ret = CHAR_FIGHT_D->cast_done(me, who);    // cẩn thận chuẩn bị me
-10817|<O>| set_save_2(sprintf("%s.size",type),pos);   //thiết trí đươngtrướcliệt biểulớnnhỏ
-10818|<O>| if( who->get_quest("escort.leader") == 1 )    // độidàiHủy bỏ
+10815|<O>| send_user(me, "%c%c%w%s", ':', 3, 0, "Bạn không thể mở rộng thêm không gian ba lô.");
+10816|<O>| ret = CHAR_FIGHT_D->cast_done(me, who);    // Cẩn thận chuẩn bị me
+10817|<O>| set_save_2(sprintf("%s.size",type),pos);   //Thiết lập kích thước danh sách hiện tại
+10818|<O>| if( who->get_quest("escort.leader") == 1 )    // Đội trưởng hủy bỏ
 10819|<O>| #define SKILL_FINAL	"/item/final/86/1045"				// Kết quả chế tạo
 10820|<O>| #define SKILL_FINAL	"/item/final/86/6115"				// Kết quả chế tạo
 10821|<O>| #define SKILL_FINAL	"/item/final/86/1055"				// Kết quả chế tạo
@@ -11,20 +11,20 @@
 10823|<O>| #define SKILL_FINAL	"/item/final/60/3095"				// Kết quả chế tạo
 10824|<O>| #define SKILL_FINAL	"/item/final/70/1085"				// Kết quả chế tạo
 10825|<O>| #define SKILL_FINAL	"/item/final/86/2119"				// Kết quả chế tạo
-10826|<O>| printf( ECHO "Bạn mấtdưới%s，%stiêu thất。", sItemName, sItemName );
-10827|<O>| send_user(who, "%c%s", ';', "chứng bệnh đau đầu（1） Kinh nghiệm 150 Tiềm năng 20");
+10826|<O>| printf( ECHO "Bạn đã vứt %s, %s đã biến mất.", sItemName, sItemName );
+10827|<O>| send_user(who, "%c%s", ';', "Bệnh đau đầu(1) Kinh nghiệm 150 Tiềm năng 20");
 10828|<O>| #define SKILL_FINAL	"/item/final/88/7065"				// Kết quả chế tạo
 10829|<O>| #define SKILL_FINAL	"/item/final/60/1120"				// Kết quả chế tạo
-10830|<O>| //                     case 7 : name3 = "đầu giáng";  break;
+10830|<O>| //                     case 7 : name3 = "Đầu hàng";  break;
 10831|<O>| #define SKILL_FINAL	"/item/final/88/4120"				// Kết quả chế tạo
-10832|<O>| return "chỉNăng đoạn tạo1Tinh hoặc DĩdướicủaTrang bị，có thể Gia Cường nênTrang bịcủathuộc tính。\nlưỡng Sơcấpđoạn tạo Thạch có thểHợp thànhNhấtgiữacấpđoạn tạo Thạch。";
-10833|<O>| int get_use_effect_callout(object me)    // Đồngbướccàng Cải“khuThầnLệnh”
+10832|<O>| return "Chỉ có thể rèn luyện trang bị 1 sao hoặc thấp hơn, có thể tăng cường thuộc tính trang bị đó.\nHai viên đá rèn sơ cấp có thể hợp thành một viên đá rèn trung cấp.";
+10833|<O>| int get_use_effect_callout(object me)    // Đồng bộ thay đổi "Khu Thần Lệnh"
 10834|<O>| #define SKILL_FINAL	"/item/final/60/2045"				// Kết quả chế tạo
 10835|<O>| #define SKILL_FINAL	"/item/final/86/1095"				// Kết quả chế tạo
-10836|<O>| private static object Enemy;            // Tấn côngđối tượng(Vật lý Tỏa định)
+10836|<O>| private static object Enemy;            // Đối tượng tấn công(khóa vật lý)
 10837|<O>| #define SKILL_FINAL	"/item/final/60/4055"				// Kết quả chế tạo
-10838|<O>| &&     !get_effect(who, EFFECT_CHAR_9140) )    // TịchĐộctán
-10839|<O>| send_user(me, "%c%s", ':', "Bạncủasủng vật:Dũng dámcủasong Tử,Sử dụnggiờgianTăng14ngày。");
+10838|<O>| &&     !get_effect(who, EFFECT_CHAR_9140) )    // Tịch Độc Tán
+10839|<O>| send_user(me, "%c%s", ':', "Thú cưng của bạn: Song Tử Dũng Cảm, thời gian sử dụng tăng thêm 14 ngày.");
 10840|<O>| #define SKILL_FINAL	"/item/final/60/6065"				// Kết quả chế tạo
 10841|<O>| #define SKILL_FINAL	"/item/final/75/1065"				// Kết quả chế tạo
 10842|<O>| #define SKILL_FINAL	"/item/final/60/3120"				// Kết quả chế tạo
@@ -33,32 +33,32 @@
 10845|<O>| #define SKILL_FINAL	"/item/final/60/4035"				// Kết quả chế tạo
 10846|<O>| #define SKILL_FINAL	"/item/final/88/5105"				// Kết quả chế tạo
 10847|<O>| #define SKILL_FINAL	"/item/final/60/7120"				// Kết quả chế tạo
-10848|<O>| // thử cú đi rơi，đi rơi biến Lamcủacó thể Năng tính ITEM_EQUIP_D->init_equip_prop(item);
+10848|<O>| // Bỏ câu này, loại bỏ khả năng biến xanh ITEM_EQUIP_D->init_equip_prop(item);
 10849|<O>| #define SKILL_FINAL	"/item/final/65/6115"				// Kết quả chế tạo
 10850|<O>| #define SKILL_FINAL	"/item/final/86/5095"				// Kết quả chế tạo
-10851|<O>| send_user(who, "%c%s", ':', "BạnXác nhậncầnthoát ly" + name1 + "？\n"
-10852|<O>| send_user(me, "%c%s", '!', "nên Đạo cụđãqua kỳ，khôngcó thểlạiSử dụng，Xin làm mất khí xử lý！");
-10853|<O>| && (p = QUEST_ESCORT->get_xy_point(name)))    // xácCóthử Nhân
-10854|<O>| return "DuyênphútThủ tráccủaNhấtchỉ，Tương Truyềnchỉcầndữ Nhất vị bội ĐáiPhượngtráccủaNgười chơitổ đội，\nsong PhươngcủaKhí HuyếtMaPhápPhục hồiTướngsẽTăng10%";
+10851|<O>| send_user(who, "%c%s", ':', "Bạn xác nhận muốn thoát khỏi " + name1 + " không?\n"
+10852|<O>| send_user(me, "%c%s", '!', "Đạo cụ này đã hết hạn, không thể sử dụng nữa, hãy vứt bỏ đi!");
+10853|<O>| && (p = QUEST_ESCORT->get_xy_point(name)))    // Xác thực có người này
+10854|<O>| return "Một chiếc trong đôi vòng tay duyên phận, tương truyền chỉ cần tổ đội với người chơi đeo Phượng Trác,\nkhả năng hồi phục khí huyết và pháp lực của cả hai sẽ tăng 10%";
 10855|<O>| #define SKILL_FINAL	"/item/final/75/1105"				// Kết quả chế tạo
 10856|<O>| #define SKILL_FINAL	"/item/final/60/6075"				// Kết quả chế tạo
 10857|<O>| #define SKILL_FINAL	"/item/final/88/1120"				// Kết quả chế tạo
 10858|<O>| #define SKILL_FINAL	"/item/final/86/3075"				// Kết quả chế tạo
 10859|<O>| #define SKILL_FINAL	"/item/final/88/2120"				// Kết quả chế tạo
-10860|<O>| // Chú ý:printf( CYN "bạnnói Đạo:" + arg ); đương arg == "%s" giờsẽXuất sai。
+10860|<O>| // Chú ý: printf( CYN "bạn nói:" + arg ); khi arg == "%s" sẽ bị lỗi.
 10861|<O>| #define SKILL_FINAL	"/item/final/65/3075"				// Kết quả chế tạo
-10862|<O>| if (TASK_LEGEND_D->check_task_item(who, "tiền", 1) != 1)
-10863|<O>| if (number = me->get_2("exchange.name"))    // Đónggiao dịchquan liên
+10862|<O>| if (TASK_LEGEND_D->check_task_item(who, "Tiền", 1) != 1)
+10863|<O>| if (number = me->get_2("exchange.name"))    // Đóng liên kết giao dịch
 10864|<O>| if (gone_time(me->get_time("repair")) < 1)    // Giới hạn thời gian
 10865|<O>| #define SKILL_FINAL	"/item/final/60/5110"				// Kết quả chế tạo
-10866|<O>| for (i = 0, size = sizeof(inv);i < size;i++)	//nã tẩu tế Thế Bảo Ngọc
+10866|<O>| for (i = 0, size = sizeof(inv);i < size;i++)	//Lấy lại Tế Thế Bảo Ngọc
 10867|<O>| #define SKILL_FINAL	"/item/final/65/3045"				// Kết quả chế tạo
 10868|<O>| #define SKILL_FINAL	"/item/final/65/4075"				// Kết quả chế tạo
-10869|<O>| tell_user(me, "dùng Hộ: %d  Tạituyến:%d / %d ＝ ＧＭ(%d) ＋ Người chơi(%d)",
+10869|<O>| tell_user(me, "Người dùng: %d  Trực tuyến: %d / %d ＝ GM(%d) ＋ Người chơi(%d)",
 10870|<O>| #define SKILL_FINAL	"/item/final/65/7075"				// Kết quả chế tạo
 10871|<O>| #define SKILL_FINAL	"/item/final/88/5120"				// Kết quả chế tạo
 10872|<O>| #define SKILL_FINAL	"/item/final/65/5115"				// Kết quả chế tạo
-10873|<O>| //        me->log_money("choNgười chơi "+who->get_id(), -gold);
+10873|<O>| //        me->log_money("cho người chơi "+who->get_id(), -gold);
 10874|<O>| #define SKILL_FINAL	"/item/final/65/5085"				// Kết quả chế tạo
-10875|<O>| tell_user(me, "Bạn dùngngàyNhãn xemđến:%s。", result);    // write_user
+10875|<O>| tell_user(me, "Bạn dùng Thiên Nhãn nhìn thấy: %s.", result);    // write_user
 10876|<O>| #define SKILL_FINAL	"/item/final/60/4105"				// Kết quả chế tạo

@@ -1,60 +1,60 @@
-﻿9137|<O>| send_user(who, "%c%s", ';', "兄弟情深 经验 4400 潜能 140 金钱 3800");
-9138|<O>| send_user(who, "%c%s", ';', "单刀 经验 62000 潜能 900 金钱 53000");
-9139|<O>| result = sprintf(HIR"%s的箭塔顺利提升了一级，目前等级为%d级。", name, level);
-9140|<O>| send_user(me, "%c%s", '!', who->get_name() + "不能携带更多的宠物。");
-9141|<O>| send_user(me, "%c%s", ':', sprintf("您确定要拜%s为师，投入“%s”门下吗？\n"
-9142|<O>| case BATTLE_MAP: send_user(me, "%c%s", '!', "对方在战场，不能传送。");
-9143|<O>| __FILE__->sort_board(who,"gongde_player","gongde"); //功德表更新
-9144|<O>| #define MANAGER_LOG     "gm/manager.txt"        // 任命管理员日志
-9145|<O>| if (effect1 = get_effect_flag(what, 1))    // 简单征状标志１(３２位)
-9146|<O>| /*              else if( p < 9900 * rate / 100 )    // 杂物２
-9147|<O>| } else if(rate < 3500 ) {	//	v.	500的几率掉落一个宝箱（紫金、青铜、红木随机一个）
-9148|<O>| if (who->is_farmer() && !present("种子", who, 1, MAX_CARRY))
-9149|<O>| send_user(who, "%c%s", '!', sprintf(HIY"叛军小队长 %d/10", i));
-9150|<O>| send_user(who, "%c%s", ';', "锻造之路 经验 1000 潜能 70 金钱 1200");
-9151|<O>| if (gone_time(hptime) >= 20 + random(21))//hptime已经超过20~40
-9152|<O>| private static int WalkSpeed = WALK_SPEED_4;    // 走路速度(秒)
-9153|<O>| //		                        ESC "我同意\nrepair !! %x# all\n"
-9154|<O>| tell_user(me, "当前时间调整为:%s", short_time(get_party_time()));
-9155|<O>| send_user(who, "%c%s", ';', "山谷解迷 经验 2300 潜能 80 金钱 1600");
-9156|<O>| case 0..10799: return 100;     // 3 x 60 x 60 = 10800  三小时
-9157|<O>| tell_user(me, "您的生日:%s。", short_time(me->get_birthday()));
-9158|<O>| private int time_add( int time_int, int mins);		//	时间轴整数相加
-9159|<O>| case BATTLE_MAP: send_user(me, "%c%s", '!', "您在战场，不能传送。");
-9160|<O>| if (!objectp(item = present("钱老九的货物", who, 1, MAX_CARRY)))
-9161|<O>| send_user(who, "%c%s", '!', sprintf(HIY"漂亮的黄晶石 %d/8", i));
-9162|<O>| send_user(who, "%c%s", '!', sprintf(HIY"消灭四脚蛇 %d/18", i));
-9163|<O>| write_user( this_object(), GAME_NAME "游戏正在启动，请过一会儿再来吧。" );
-9164|<O>| /*              else if( p < 8500 * rate / 100 )    // 杂物１
-9165|<O>| if (!objectp(money = present("钱票", me, 1, MAX_CARRY * 4)))
-9166|<O>| if (effect3 = get_effect_flag(what, 3))    // 简单征状标志３(３２位)
-9167|<O>| send_user(me, "%c%s", '!', who->get_name() + "的东西全都卖光了。");
-9168|<O>| send_user(who, "%c%s", '!', me->get_name() + "身上的东西太多了。");
-9169|<O>| send_user(who, "%c%s", ';', "家庭聚会 经验 1400 潜能 70 金钱 1400");
-9170|<O>| if (TASK_LEGEND_D->check_task_item(who, "给赵姬的礼物", 1) != 1)
-9171|<O>| tell_user(who, sprintf("你开启宝箱后发现了%s。", item->get_name()));
-9172|<O>| if (effect2 = get_effect_flag(what, 2))    // 简单征状标志２(３２位)
-9173|<O>| TASK_LEGEND_D->check_task_item_amount(who, "鲁班宝石") < 30 ||
-9174|<O>| if (!objectp(obj = present("王之号角", me, 1, MAX_CARRY * 4)))
-9175|<O>| result = sprintf("你消灭了%s，得到了%d点帮派贡献。", me->get_name(), 2);
-9176|<O>| result = ESC"牛二的苦恼。\n" + sprintf("talk %x# task.3\n", id);
-9177|<O>| result = sprintf("你消灭了%s，得到了%d点帮派贡献。", me->get_name(), 3);
-9178|<O>| ESC "门派向导在什么地方？\n" + sprintf("talk %x# welcome.4\n", id) +
-9179|<O>| send_user(me, "%c%s", '!', sprintf("扔出尸体需要 %d 点法力。", mp));
-9180|<O>| if (TASK_LEGEND_D->check_task_item(who, "失踪人员名单", 1) != 1)
-9181|<O>| send_user(who, "%c%s", '!', sprintf(HIY"地煞门众守 %d/30", i));
-9182|<O>| /*              else if( p < 9101 * rate / 100 )    // 杂物１
-9183|<O>| void win_bonus_callout(object me, object who)    // 玩家死亡调用
-9184|<O>| /*              else if( p < 9350 * rate / 100 )    // 杂物１
-9185|<O>| private static int AttackSpeed = ATTACK_SPEED_4;// 攻击速度(秒)
-9186|<O>| set_save_2(sprintf("record.%d",pos),id);//保存排行榜玩家当前排行上的id。
-9187|<O>| send_user(who, "%c%s", '!', sprintf(HIY"太极门众守 %d/30", i));
-9188|<O>| send_user(who, "%c%s", '!', sprintf(HIY"赵国刀盾兵 %d/10", i));
-9189|<O>| send_user(who, "%c%s", '!', sprintf(HIY"赵国剑盾兵 %d/20", i));
-9190|<O>| //        if (item->get_name()=="麦子"&&who->get_level()>=1)
-9191|<O>| write_user(me, ECHO "%s看了您的舞蹈，只觉得心旷神怡。", who->get_name());
-9192|<O>| return HIR + PF_NAME + "\n技能需求:6级\n    仙家的疗伤法，可恢复目标的气血值。";
-9193|<O>| send_user(me, "%c%s", '!', "你的银票金额已经达到了任务上限，无法再用于商品的购买。");
-9194|<O>| cTmp = sprintf("" HIY "%s" NOR "掉在地上！", item->get_name());
-9195|<O>| if (TASK_LEGEND_D->check_task_item(who, "机关密图上部", 1) != 1)
-9196|<O>| /*              else if( p < 9397 * rate / 100 )    // 杂物１
+﻿9137|<O>| send_user(who, "%c%s", ';', "Huynh Đệ Tình Thâm Kinh nghiệm 4400 Tiềm năng 140 Tiền vàng 3800");
+9138|<O>| send_user(who, "%c%s", ';', "Đơn Đao Kinh nghiệm 62000 Tiềm năng 900 Tiền vàng 53000");
+9139|<O>| result = sprintf(HIR"%s tiễn tháp đã thuận lợi thăng lên một cấp, hiện tại là cấp %d.", name, level);
+9140|<O>| send_user(me, "%c%s", '!', who->get_name() + " không thể mang thêm thú cưng.");
+9141|<O>| send_user(me, "%c%s", ':', sprintf("Bạn có chắc chắn muốn bái %s làm sư phụ, gia nhập môn phái \"%s\" không?\n"
+9142|<O>| case BATTLE_MAP: send_user(me, "%c%s", '!', "Đối phương đang ở chiến trường, không thể truyền tống.");
+9143|<O>| __FILE__->sort_board(who,"gongde_player","gongde"); //Cập nhật bảng công đức
+9144|<O>| #define MANAGER_LOG     "gm/manager.txt"        // Nhật ký bổ nhiệm quản lý viên
+9145|<O>| if (effect1 = get_effect_flag(what, 1))    // Cờ triệu chứng đơn giản 1(32 bit)
+9146|<O>| /*              else if( p < 9900 * rate / 100 )    // Tạp vật 2
+9147|<O>| } else if(rate < 3500 ) {	//	v.	500 tỷ lệ rơi một rương kho báu（Tử Kim, Thanh Đồng, Hồng Mộc ngẫu nhiên một cái）
+9148|<O>| if (who->is_farmer() && !present("Hạt giống", who, 1, MAX_CARRY))
+9149|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Đội trưởng phản quân %d/10", i));
+9150|<O>| send_user(who, "%c%s", ';', "Con Đường Rèn Đúc Kinh nghiệm 1000 Tiềm năng 70 Tiền vàng 1200");
+9151|<O>| if (gone_time(hptime) >= 20 + random(21))//hptime đã vượt quá 20~40
+9152|<O>| private static int WalkSpeed = WALK_SPEED_4;    // Tốc độ đi bộ(giây)
+9153|<O>| //		                        ESC "Tôi đồng ý\nrepair !! %x# all\n"
+9154|<O>| tell_user(me, "Thời gian hiện tại được điều chỉnh thành: %s", short_time(get_party_time()));
+9155|<O>| send_user(who, "%c%s", ';', "Giải Mê Sơn Cốc Kinh nghiệm 2300 Tiềm năng 80 Tiền vàng 1600");
+9156|<O>| case 0..10799: return 100;     // 3 x 60 x 60 = 10800  Ba giờ
+9157|<O>| tell_user(me, "Sinh nhật của bạn: %s.", short_time(me->get_birthday()));
+9158|<O>| private int time_add( int time_int, int mins);		//	Trục thời gian số nguyên cộng nhau
+9159|<O>| case BATTLE_MAP: send_user(me, "%c%s", '!', "Bạn đang ở chiến trường, không thể truyền tống.");
+9160|<O>| if (!objectp(item = present("Hàng Hóa Của Tiền Lão Cửu", who, 1, MAX_CARRY)))
+9161|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Hoàng Tinh Thạch Đẹp %d/8", i));
+9162|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Tiêu diệt Tứ Cước Xà %d/18", i));
+9163|<O>| write_user( this_object(), GAME_NAME "Trò chơi đang khởi động, vui lòng quay lại sau." );
+9164|<O>| /*              else if( p < 8500 * rate / 100 )    // Tạp vật 1
+9165|<O>| if (!objectp(money = present("Tiền Phiếu", me, 1, MAX_CARRY * 4)))
+9166|<O>| if (effect3 = get_effect_flag(what, 3))    // Cờ triệu chứng đơn giản 3(32 bit)
+9167|<O>| send_user(me, "%c%s", '!', who->get_name() + " đã bán hết đồ rồi.");
+9168|<O>| send_user(who, "%c%s", '!', me->get_name() + " mang quá nhiều đồ trên người.");
+9169|<O>| send_user(who, "%c%s", ';', "Họp Mặt Gia Đình Kinh nghiệm 1400 Tiềm năng 70 Tiền vàng 1400");
+9170|<O>| if (TASK_LEGEND_D->check_task_item(who, "Quà Tặng Cho Triệu Cơ", 1) != 1)
+9171|<O>| tell_user(who, sprintf("Bạn mở rương kho báu và phát hiện %s.", item->get_name()));
+9172|<O>| if (effect2 = get_effect_flag(what, 2))    // Cờ triệu chứng đơn giản 2(32 bit)
+9173|<O>| TASK_LEGEND_D->check_task_item_amount(who, "Lỗ Ban Bảo Thạch") < 30 ||
+9174|<O>| if (!objectp(obj = present("Vương Chi Hiệu Giác", me, 1, MAX_CARRY * 4)))
+9175|<O>| result = sprintf("Bạn tiêu diệt %s, nhận được %d điểm cống hiến bang phái.", me->get_name(), 2);
+9176|<O>| result = ESC"Nỗi Khổ Của Ngưu Nhị.\n" + sprintf("talk %x# task.3\n", id);
+9177|<O>| result = sprintf("Bạn tiêu diệt %s, nhận được %d điểm cống hiến bang phái.", me->get_name(), 3);
+9178|<O>| ESC "Hướng dẫn viên môn phái ở đâu?\n" + sprintf("talk %x# welcome.4\n", id) +
+9179|<O>| send_user(me, "%c%s", '!', sprintf("Ném thi thể cần %d điểm pháp lực.", mp));
+9180|<O>| if (TASK_LEGEND_D->check_task_item(who, "Danh Sách Nhân Viên Mất Tích", 1) != 1)
+9181|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Địa Sát Môn Chúng Thủ %d/30", i));
+9182|<O>| /*              else if( p < 9101 * rate / 100 )    // Tạp vật 1
+9183|<O>| void win_bonus_callout(object me, object who)    // Gọi khi người chơi chết
+9184|<O>| /*              else if( p < 9350 * rate / 100 )    // Tạp vật 1
+9185|<O>| private static int AttackSpeed = ATTACK_SPEED_4;// Tốc độ tấn công(giây)
+9186|<O>| set_save_2(sprintf("record.%d",pos),id);//Lưu id người chơi hiện tại trên bảng xếp hạng.
+9187|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Thái Cực Môn Chúng Thủ %d/30", i));
+9188|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Triệu Quốc Đao Thuẫn Binh %d/10", i));
+9189|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Triệu Quốc Kiếm Thuẫn Binh %d/20", i));
+9190|<O>| //        if (item->get_name()=="Lúa mì"&&who->get_level()>=1)
+9191|<O>| write_user(me, ECHO "%s xem vũ đạo của bạn, chỉ cảm thấy tâm hồn thư thái.", who->get_name());
+9192|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 6\n    Thuật chữa thương của tiên gia, có thể hồi phục giá trị khí huyết của mục tiêu.";
+9193|<O>| send_user(me, "%c%s", '!', "Kim ngạch ngân phiếu của bạn đã đạt giới hạn nhiệm vụ, không thể dùng để mua hàng nữa.");
+9194|<O>| cTmp = sprintf("" HIY "%s" NOR " rơi xuống đất!", item->get_name());
+9195|<O>| if (TASK_LEGEND_D->check_task_item(who, "Cơ Quan Mật Đồ Phần Trên", 1) != 1)
+9196|<O>| /*              else if( p < 9397 * rate / 100 )    // Tạp vật 1

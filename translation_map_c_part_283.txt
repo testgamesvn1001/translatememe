@@ -1,63 +1,63 @@
-﻿10242|<O>| total = allocate(size);  k = 0;  begin = 1;  // từ 1 cấpBắt đầu
-10243|<O>| if (TASK_LEGEND_D->check_task_item(who, "Hàm lân Châu", 1) != 1)
-10244|<O>| CHAR_CHAR_D->send_loop_perform_2(me, who);    // hiển thịkéo dàiĐồ tiêu
-10245|<O>| private static int AddAmount;                   // mớităng tổng số
-10246|<O>| result = sprintf( "%snói Đạo:bạnNăngtừtôinàytrongHọcđến\n", who->get_name() );
-10247|<O>| return "［lớnThừa Đạo Pháp］NângPháp Lựctrênhạn，Mỗi cấp tăng 4 điểm。NângPháp ThuậtTấn côngcủaBạo kích suất，Mỗi cấp tăng0.05％。\n";
-10248|<O>| USER_ENERGY_D->count_cp(me);    // cp/pp Ảnh hưởng ap/dp, Vì vậyPhóngtrước
-10249|<O>| private static mapping Database = ([]);        // phổ thôngdữ liệutập
-10250|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Mộcđầu %d/20", i));
-10251|<O>| if (TASK_LEGEND_D->check_task_item(who, "dạ Minh Châu", 1) != 1)
-10252|<O>| send_user(who, "%c%s", ';', "cô độc Kinh nghiệm 200 Tiềm năng 30 Tiền vàng 1000");
-10253|<O>| /*      if( me->is_store_open() )    // nguyên nhân:bày thánLàdùng pf2 tiến Hànhcủa
-10254|<O>| send_user(who, "%c%s", '!', sprintf(HIY"can lương %d/20", i));
-10255|<O>| return "Truyền nói trang mãn vô số Trân Bảocủakhẩu đại，\nCó thể tăng cho người sử dụng12ô trống trong ba lô。\nBách Bảo Nang30ngày sau sẽ tự động hư hỏng。";
-10256|<O>| if (TASK_LEGEND_D->check_task_item(who, "Xin Mệnh hàm", 1) != 1)
+﻿10242|<O>| total = allocate(size);  k = 0;  begin = 1;  // Bắt đầu từ cấp 1
+10243|<O>| if (TASK_LEGEND_D->check_task_item(who, "Hàm Lân Châu", 1) != 1)
+10244|<O>| CHAR_CHAR_D->send_loop_perform_2(me, who);    // Hiển thị biểu tượng liên tục
+10245|<O>| private static int AddAmount;                   // Tổng số mới thêm
+10246|<O>| result = sprintf( "%s nói: Bạn có thể học được từ ta\n", who->get_name() );
+10247|<O>| return "［Đại Thừa Đạo Pháp］Tăng giới hạn pháp lực, mỗi cấp tăng 4 điểm. Tăng tỷ lệ bạo kích tấn công pháp thuật, mỗi cấp tăng 0.05%.\n";
+10248|<O>| USER_ENERGY_D->count_cp(me);    // cp/pp ảnh hưởng ap/dp, nên đặt trước
+10249|<O>| private static mapping Database = ([]);        // Tập dữ liệu thông thường
+10250|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Gỗ %d/20", i));
+10251|<O>| if (TASK_LEGEND_D->check_task_item(who, "Dạ Minh Châu", 1) != 1)
+10252|<O>| send_user(who, "%c%s", ';', "Cô Độc Kinh nghiệm 200 Tiềm năng 30 Tiền vàng 1000");
+10253|<O>| /*      if( me->is_store_open() )    // Lý do: bày bán dùng pf2
+10254|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Lương Khô %d/20", i));
+10255|<O>| return "Truyền thuyết là chiếc túi chứa đầy vô số châu báu,\ncó thể tăng thêm 12 ô ba lô cho người sử dụng.\nBách Bảo Nang sẽ tự động hỏng sau 30 ngày.";
+10256|<O>| if (TASK_LEGEND_D->check_task_item(who, "Thư Thỉnh Mệnh", 1) != 1)
 10257|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Danh Tửu %d/10", i));
 10258|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Hắc Hùng %d/10", i));
-10259|<O>| if (TASK_LEGEND_D->check_task_item(who, "nhận Tội thư", 1) != 1)
+10259|<O>| if (TASK_LEGEND_D->check_task_item(who, "Thư Nhận Tội", 1) != 1)
 10260|<O>| if (TASK_LEGEND_D->check_task_item(who, "Ngọc Điêu", 20) != 1)
 10261|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Thảo Khấu %d/20", i));
-10262|<O>| private static mapping mpSP = ([]);            // Tập dữ liệu tạm
+10262|<O>| private static mapping mpSP = ([]);            // Tập dữ liệu tạm thời
 10263|<O>| &&      random(100) < item->get_active_rate()    // Tỷ lệ thành công
-10264|<O>| if (TASK_LEGEND_D->check_task_item(who, "NgưLongThảo", 1) != 1)
-10265|<O>| tell_user(me, "%scông Chúng tần ĐạobịPhong bế %d phút。", who->get_name(), min);
-10266|<O>| send_user(who, "%c%s", '!', sprintf(HIY"hiện Hành Phấn %d/1", i));
-10267|<O>| send_user(who,"%c%s",'!',sprintf("Xin chúc mừng！Bạnnhận được%dđiểmKinh nghiệm",exp));
-10268|<O>| send_user(who, "%c%s", '!', sprintf(HIY"quángiữaTiên %d/8", i));
-10269|<O>| who->get_name() + ":\n    bạnLàHợp tịnhmáy chủSau đókiến Lậpcủanhân vậta？không thểlĩnh thủ Hợp phụclớnthưởng！\n"
-10270|<O>| send_user(who, "%c%s", '!', sprintf(HIY"thú giác %d/20", i));
-10271|<O>| send_user(who, "%c%s", '!', sprintf(HIY"hài Cốt Tinh %d/8", i));
-10272|<O>| ESC "Nhận。\n" + sprintf("talk %x# accept\n",getoid(me)) +
+10264|<O>| if (TASK_LEGEND_D->check_task_item(who, "Ngư Long Thảo", 1) != 1)
+10265|<O>| tell_user(me, "%s kênh công cộng bị phong tỏa %d phút.", who->get_name(), min);
+10266|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Bột Hiện Hình %d/1", i));
+10267|<O>| send_user(who,"%c%s",'!',sprintf("Chúc mừng! Bạn nhận được %d điểm kinh nghiệm",exp));
+10268|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Quán Trung Tiên %d/8", i));
+10269|<O>| who->get_name() + ":\n    Bạn là nhân vật được tạo sau khi hợp nhất máy chủ à? Không thể nhận giải thưởng hợp nhất máy chủ nữa rồi!\n"
+10270|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Sừng Thú %d/20", i));
+10271|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Hài Cốt Tinh %d/8", i));
+10272|<O>| ESC "Tiếp nhận.\n" + sprintf("talk %x# accept\n",getoid(me)) +
 10273|<O>| if (TASK_LEGEND_D->check_task_item(who, "Hàn Ti", 1) != 1)
-10274|<O>| send_user(who, "%c%s", '!', "Bạn nhận đượcmớicủaxưng vị" + HIR + cName);
-10275|<O>| send_user(who, "%c%s", '!', sprintf(HIY"viên hoàn %d/3", i));
-10276|<O>| if (TASK_LEGEND_D->check_task_item(who, "phiên thử", 8) != 1)
-10277|<O>| send_user(who, "%c%s", '!', sprintf(HIY"HoàngVàng %d/1", 1));
-10278|<O>| if (is_lazy || is_slow) speed *= 2;    // chiến đấutốc độ giảm Bán(mạnngàytân phân)
+10274|<O>| send_user(who, "%c%s", '!', "Bạn nhận được danh hiệu mới " + HIR + cName);
+10275|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Vòng Tròn %d/3", i));
+10276|<O>| if (TASK_LEGEND_D->check_task_item(who, "Khoai Lang", 8) != 1)
+10277|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Hoàng Kim %d/1", 1));
+10278|<O>| if (is_lazy || is_slow) speed *= 2;    // Tốc độ chiến đấu giảm nửa(Mạn Thiên Tân Phân)
 10279|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Đao Hồn %d/4", i));
-10280|<O>| if (TASK_LEGEND_D->check_task_item(who, "HoàngVàng", 1) != 1)
-10281|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Linh chi %d/3", i));
-10282|<O>| if (who->add_save_2("build.count", 1) > 20)    // đápđối vớiđề số
-10283|<O>| if (TASK_LEGEND_D->check_task_item(who, "chỉ tiền", 5) != 1)
-10284|<O>| if (TASK_LEGEND_D->check_task_item(who, "Ngọc mễ", 2) != 1)
-10285|<O>| result += ESC"Sử dụngphục sinh ĐơnTại"HIY"nguyên ĐịaPhục sinh"NOR"。\ndesc revive19\n";
-10286|<O>| private static object Manager;          // Bản Bang tổng quản:dùng vubang pháiChiến tranh
-10287|<O>| CHAR_CHAR_D->stop_loop_perform_8(me);    // giữađoạnkéo dàihiệu Quả(kỳnó)
+10280|<O>| if (TASK_LEGEND_D->check_task_item(who, "Hoàng Kim", 1) != 1)
+10281|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Linh Chi %d/3", i));
+10282|<O>| if (who->add_save_2("build.count", 1) > 20)    // Số câu trả lời đúng
+10283|<O>| if (TASK_LEGEND_D->check_task_item(who, "Tiền Giấy", 5) != 1)
+10284|<O>| if (TASK_LEGEND_D->check_task_item(who, "Ngô", 2) != 1)
+10285|<O>| result += ESC"Sử dụng Phục Sinh Đan để "HIY"phục sinh tại chỗ"NOR".\ndesc revive19\n";
+10286|<O>| private static object Manager;          // Tổng quản bang phái: dùng cho chiến tranh bang phái
+10287|<O>| CHAR_CHAR_D->stop_loop_perform_8(me);    // Gián đoạn hiệu ứng liên tục(khác)
 10288|<O>| send_user(me, "%c%w%w%c", 0x07, x0, y0, 6);    // Hiệu chỉnh tọa độ
-10289|<O>| return sprintf("Đại Huyết Thạch:\n    Sau khi sử dụng mỗi2giây có thể phục hồi%dđiểm Khí Huyết", iStoneHp);
-10290|<O>| //                      sprintf("%s:\n    bạnhiệnTạicònkhông thểTự Sát。\n"
-10291|<O>| if (TASK_LEGEND_D->check_task_item(who, "Hạ lễ", 1) != 1)
-10292|<O>| if (TASK_LEGEND_D->check_task_item(who, "Trúc giản", 1) != 1)
-10293|<O>| if (TASK_LEGEND_D->check_task_item(who, "Mộchạp", 1) != 1)
-10294|<O>| if ( gone_time(me->get("occupy_time")) < 5 )	//hạn chế thân Xincủagian cách
-10295|<O>| if (TASK_LEGEND_D->check_task_item(who, "nếp mễ", 8) != 1)
-10296|<O>| if (TASK_LEGEND_D->check_task_item(who, "Thái phổ", 1) != 1)
+10289|<O>| return sprintf("Đại Huyết Thạch:\n    Sau khi sử dụng, mỗi 2 giây có thể hồi phục %d điểm khí huyết", iStoneHp);
+10290|<O>| //                      sprintf("%s:\n    Bạn hiện tại chưa thể tự sát.\n"
+10291|<O>| if (TASK_LEGEND_D->check_task_item(who, "Lễ Vật", 1) != 1)
+10292|<O>| if (TASK_LEGEND_D->check_task_item(who, "Trúc Giản", 1) != 1)
+10293|<O>| if (TASK_LEGEND_D->check_task_item(who, "Hộp Gỗ", 1) != 1)
+10294|<O>| if ( gone_time(me->get("occupy_time")) < 5 )	//Giới hạn khoảng cách đăng ký
+10295|<O>| if (TASK_LEGEND_D->check_task_item(who, "Gạo Nếp", 8) != 1)
+10296|<O>| if (TASK_LEGEND_D->check_task_item(who, "Sách Nấu Ăn", 1) != 1)
 10297|<O>| case "Yên Quốc": z = 70;  p = get_jumpin(z, me->get("out"));
-10298|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Thương dũng %d/9", i));
+10298|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Thương Dũng %d/9", i));
 10299|<O>| if (TASK_LEGEND_D->check_task_item(who, "Hùng Hoàng", 1) != 1)
 10300|<O>| send_user(me, "%c%w%w%c", 0x07, x0, y0, 4);    // Hiệu chỉnh tọa độ
-10301|<O>| return ("Ngụ ý:tiêu sáikhôngki\nSử dụngsauPháp ThuậtPhòng thủTăng30%，kéo dài60phút\n"HIR"Người sử dụng cần là nam");
-10302|<O>| return HIC+get_name()+"\nSủng vật sở hữu kỹ năng này，sẽSử dụngLôikích Pháp ThuậtTấn công3×3Phạm vitrongmục tiêu。";
-10303|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Vũ mao %d/3", i));
-10304|<O>| send_user(who, "%c%s", '!', sprintf(HIY"nhỏmạch %d/3", i));
+10301|<O>| return ("Ngụ ý: Phóng khoáng không gò bó\nSử dụng sau phòng thủ pháp thuật tăng 30%, kéo dài 60 phút\n"HIR"Người sử dụng phải là nam");
+10302|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này, sẽ sử dụng pháp thuật sấm sét tấn công mục tiêu trong phạm vi 3×3.";
+10303|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Lông Vũ %d/3", i));
+10304|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Tiểu Mạch %d/3", i));

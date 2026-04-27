@@ -1,68 +1,68 @@
-﻿11799|<O>| private mapping* Mails = ({ });         // 邮件数据资料
-11800|<O>| return "结合天地之精华而配置成的一种神奇的疗伤药,马上恢复800点气血，冷却时间15秒";
-11801|<O>| tmp += ESC + sprintf("追捕%s。\n", criminal) + cmd2;
-11802|<O>| if (gone_time(me->get_time("pf")) < 1)    // 时间限制
-11803|<O>| send_user(who, "%c%s", ';', "买椟还珠 经验 600 潜能 20");
-11804|<O>| 赵钱孙李 周吴郑王 冯陈诸卫 蒋沈韩杨 朱秦尤许 何吕施张 孔曹严华 金魏陶姜 戚谢邹喻 柏水窦章
-11805|<O>| 荀羊於惠 甄魏家封 芮羿储靳 汲邴糜松 井段富巫 乌焦巴弓 牧隗山谷 车侯宓蓬 全郗班仰 秋仲伊宫
-11806|<O>| send_user(who, "%c%s", '!', "疲劳游戏时间禁止解除双倍经验冻结。");
-11807|<O>| result = me->get_name() + ":\n    你今天已经免费试乘了。\n";
-11808|<O>| return "由七彩灵芝制作出来的药丸,马上恢复1200点法力,1150点气血冷却时间15秒";
-11809|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 2, "采集草药中……");
-11810|<O>| npc->set_name(sprintf("僵尸(%s)", me->get_name()));
-11811|<O>| write_user(who, HIY "%s使您完全恢复。", me->get_name());
-11812|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 6, "召唤鬼卒中……");
-11813|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"纱纤小姐的发绳");
-11814|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"究根问底（2）");
-11815|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"完美宝石（3）");
-11816|<O>| void drop_items(object me, object who);	//	掉宝奖励函数
-11817|<O>| private static int DistanceX;           // 同中线Ｘ距离
-11818|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 10, "传送中……");
-11819|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"买椟还珠(3)");
-11820|<O>| for(i=0,size=sizeof(skills);i<size;i++) {	//	设置技能
-11821|<O>| if (me->add_heart_sec(1) % 10 == 0)    // 每十秒处理以下
-11822|<O>| if (rate < 200 * rate1 / 100)	//level级的随机门派金色装备%2
-11823|<O>| send_user(who, "%c%s", '!', "抱歉，贵帮的人气不需要使用该道具。");
-11824|<O>| send_user(me, "%c%w%w", 0x07, x0, y0);    // 坐标修正
-11825|<O>| return range_value(PK, 0, 65535);    // 警告:防止溢出情况
-11826|<O>| send_user(who, "%c%s", '!', "请清理一下你的包包再来领取奖励吧！");
-11827|<O>| printf(ECHO "使用“" PF_NAME "”需要 %d 点法力。", SUB_MP);
-11828|<O>| return "“女人们的愤怒”\n增加对坏男人们所造成的相爱效果\n和撒娇效果，最多300点";
-11829|<O>| result += sprintf("资金:%10d\n", city->get_cash());
-11830|<O>| if ( player->get("mastertask.finish") )		//抓宠任务完成
-11831|<O>| DEBUG(sprintf("测试-->Dizi_players name=%s",name));
-11832|<O>| who->set_attack_time( time() );    // 同一个人:更新持续时间
-11833|<O>| TASK_LEGEND_D->check_task_item1(who, "欧冶宝石", 20);
-11834|<O>| send_user( who, "%c%s", '!', "蒙面人出现，您的行动受到影响。" );
-11835|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"唇亡齿寒（1）");
-11836|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"亡羊补牢(2)");
-11837|<O>| write_user(me, ECHO "恭喜您成功地锻造出一把%d星级装备！", level);
-11838|<O>| "    到"HIR" 韩国 "NOR"就可以找到"HIR" 唐门 "NOR"的装备专门店；\n"
-11839|<O>| "    到"HIR" 韩国 "NOR"就可以找到"HIR" 唐门 "NOR"的武器专门店；\n"
-11840|<O>| set_name("噬情魔" + NPC_NAME_D->get_banditi_name());
-11841|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 6, "召唤天兵中……");
-11842|<O>| TASK_LEGEND_D->check_task_item1(who, "干将宝石", 20);
-11843|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"情锁秦宫（4）");
-11844|<O>| + sprintf(ESC"直接关闭(测试用,不要在正式活动时使用!)\nparty 35\n")
-11845|<O>| private static int AttackTime;          // 持续攻击时间
-11846|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"四面楚歌（5）");
-11847|<O>| else if (p < 9940 * rate / 100)    // 生活材料的低级中间产品
-11848|<O>| who->get_name() + ":\n    你的宠物太多了，请清理一下再来找我吧～！\n"
-11849|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"大展神威（1）");
-11850|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"人情冷暖（3）");
-11851|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"大展神威（4）");
-11852|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"王之号角的雕琢");
-11853|<O>| private mapping mpPerform = ([]);       // 特殊技数据集
-11854|<O>| return "［强化医术］提升云梦泽的最大法术力，每级提升4点；提升法术防御力，每级提升2点";
-11855|<O>| private static object* dbHire2 = ({ });	// 防守方的佣兵
-11856|<O>| TASK_LEGEND_D->check_task_item1(who, "鲁班宝石", 30);
-11857|<O>| CHAR_FIGHT_D->attack_done(me, who);    // 小心准备 me
-11858|<O>| //						default	: result += "适用门派: －－\n";	 break;
-11859|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"漂亮的床（3）");
-11860|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"疑难杂症（2）");
-11861|<O>| __DIR__ "00011"->can_perform(me);    	// 跟随，务必放首位
-11862|<O>| who->set_save_2("vip_package.trial", 1);	//试用VIP包
-11863|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"罐中妖与罐中仙");
-11864|<O>| if (to_int(nId[i]) == who->get_number())	//本人的不可见
-11865|<O>| npc->set_name(sprintf("鬼卒(%s)", me->get_name()));
-11866|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"完美宝石（4）");
+﻿11799|<O>| private mapping* Mails = ({ });         // Dữ liệu thư
+11800|<O>| return "Thuốc trị thương thần kỳ được pha chế từ tinh hoa trời đất, phục hồi ngay 800 điểm khí huyết, thời gian hồi chiêu 15 giây";
+11801|<O>| tmp += ESC + sprintf("Truy bắt %s.\n", criminal) + cmd2;
+11802|<O>| if (gone_time(me->get_time("pf")) < 1)    // Giới hạn thời gian
+11803|<O>| send_user(who, "%c%s", ';', "Mua Hộp Trả Ngọc Kinh nghiệm 600 Tiềm năng 20");
+11804|<O>| Triệu Tiền Tôn Lý Chu Ngô Trịnh Vương Phùng Trần Chư Vệ Tưởng Thẩm Hàn Dương Chu Tần Vưu Hứa Hà Lữ Thi Trương Khổng Tào Nghiêm Hoa Kim Ngụy Đào Khương Thích Tạ Trâu Dụ Bá Thủy Đậu Chương
+11805|<O>| Tuân Dương Ư Huệ Chân Ngụy Gia Phong Nhuế Nghệ Trữ Tĩnh Cấp Bỉnh My Tùng Tỉnh Đoạn Phú Vu Ô Tiêu Ba Cung Mục Toái Cốc Xa Hầu Mật Bồng Toàn Hi Ban Ngưỡng Thu Trọng Y Cung
+11806|<O>| send_user(who, "%c%s", '!', "Thời gian chơi game mệt mỏi, cấm giải phong kinh nghiệm gấp đôi.");
+11807|<O>| result = me->get_name() + ":\n    Hôm nay bạn đã dùng thử miễn phí rồi.\n";
+11808|<O>| return "Viên thuốc được chế từ linh chi bảy màu, phục hồi ngay 1200 điểm pháp lực, 1150 điểm khí huyết, thời gian hồi chiêu 15 giây";
+11809|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 2, "Đang thu hái dược liệu……");
+11810|<O>| npc->set_name(sprintf("Cương Thi(%s)", me->get_name()));
+11811|<O>| write_user(who, HIY "%s đã giúp bạn hồi phục hoàn toàn.", me->get_name());
+11812|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 6, "Đang triệu hoán Quỷ Tốt……");
+11813|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Dây Buộc Tóc Của Tiểu Thư Sa Tiêm");
+11814|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Truy Tìm Đến Cùng（2）");
+11815|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Bảo Thạch Hoàn Mỹ（3）");
+11816|<O>| void drop_items(object me, object who);	//	Hàm phần thưởng rơi đồ
+11817|<O>| private static int DistanceX;           // Khoảng cách X so với trục giữa
+11818|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 10, "Đang truyền tống……");
+11819|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Mua Hộp Trả Ngọc(3)");
+11820|<O>| for(i=0,size=sizeof(skills);i<size;i++) {	//	Thiết lập kỹ năng
+11821|<O>| if (me->add_heart_sec(1) % 10 == 0)    // Xử lý mỗi 10 giây
+11822|<O>| if (rate < 200 * rate1 / 100)	//Trang bị vàng ngẫu nhiên môn phái cấp level %2
+11823|<O>| send_user(who, "%c%s", '!', "Xin lỗi, nhân khí bang phái của bạn không cần sử dụng đạo cụ này.");
+11824|<O>| send_user(me, "%c%w%w", 0x07, x0, y0);    // Chỉnh tọa độ
+11825|<O>| return range_value(PK, 0, 65535);    // Cảnh báo: ngăn tràn số
+11826|<O>| send_user(who, "%c%s", '!', "Hãy dọn dẹp ba lô rồi quay lại nhận phần thưởng nhé!");
+11827|<O>| printf(ECHO "Sử dụng \"" PF_NAME "\" cần %d điểm pháp lực.", SUB_MP);
+11828|<O>| return ""Sự phẫn nộ của phụ nữ"\nTăng hiệu ứng tương ái đối với những gã trai xấu\nvà hiệu ứng nhõng nhẽo, tối đa 300 điểm";
+11829|<O>| result += sprintf("Quỹ:%10d\n", city->get_cash());
+11830|<O>| if ( player->get("mastertask.finish") )		//Nhiệm vụ bắt thú hoàn thành
+11831|<O>| DEBUG(sprintf("Kiểm tra-->Dizi_players name=%s",name));
+11832|<O>| who->set_attack_time( time() );    // Cùng một người: cập nhật thời gian liên tục
+11833|<O>| TASK_LEGEND_D->check_task_item1(who, "Âu Dã Bảo Thạch", 20);
+11834|<O>| send_user( who, "%c%s", '!', "Người bịt mặt xuất hiện, hành động của bạn bị ảnh hưởng." );
+11835|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Môi Hở Răng Lạnh（1）");
+11836|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Mất Dê Sửa Chuồng(2)");
+11837|<O>| write_user(me, ECHO "Chúc mừng bạn đã rèn thành công một trang bị %d sao!", level);
+11838|<O>| "    Đến"HIR" Hàn Quốc "NOR"là có thể tìm thấy cửa hàng trang bị chuyên dụng của"HIR" Đường Môn "NOR";\n"
+11839|<O>| "    Đến"HIR" Hàn Quốc "NOR"là có thể tìm thấy cửa hàng vũ khí chuyên dụng của"HIR" Đường Môn "NOR";\n"
+11840|<O>| set_name("Phệ Tình Ma" + NPC_NAME_D->get_banditi_name());
+11841|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 6, "Đang triệu hoán Thiên Binh……");
+11842|<O>| TASK_LEGEND_D->check_task_item1(who, "Can Tương Bảo Thạch", 20);
+11843|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tình Khóa Tần Cung（4）");
+11844|<O>| + sprintf(ESC"Đóng trực tiếp(dùng để test, không dùng khi hoạt động chính thức!)\nparty 35\n")
+11845|<O>| private static int AttackTime;          // Thời gian tấn công liên tục
+11846|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tứ Diện Sở Ca（5）");
+11847|<O>| else if (p < 9940 * rate / 100)    // Sản phẩm trung gian cấp thấp nguyên liệu sinh hoạt
+11848|<O>| who->get_name() + ":\n    Thú cưng của bạn quá nhiều, hãy dọn dẹp rồi quay lại tìm tôi nhé～!\n"
+11849|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Đại Triển Thần Uy（1）");
+11850|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Nhân Tình Lạnh Nhạt（3）");
+11851|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Đại Triển Thần Uy（4）");
+11852|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Điêu Khắc Vương Chi Hiệu Giác");
+11853|<O>| private mapping mpPerform = ([]);       // Tập dữ liệu đặc kỹ
+11854|<O>| return "［Cường Hóa Y Thuật］Tăng pháp lực tối đa của Vân Mộng Trạch, mỗi cấp tăng 4 điểm; Tăng phòng thủ pháp thuật, mỗi cấp tăng 2 điểm";
+11855|<O>| private static object* dbHire2 = ({ });	// Lính đánh thuê bên phòng thủ
+11856|<O>| TASK_LEGEND_D->check_task_item1(who, "Lỗ Ban Bảo Thạch", 30);
+11857|<O>| CHAR_FIGHT_D->attack_done(me, who);    // Cẩn thận chuẩn bị me
+11858|<O>| //						default	: result += "Môn phái phù hợp: ——\n";	 break;
+11859|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Chiếc Giường Đẹp（3）");
+11860|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Nghi Nan Tạp Chứng（2）");
+11861|<O>| __DIR__ "00011"->can_perform(me);    	// Đi theo, nhất định phải đặt đầu tiên
+11862|<O>| who->set_save_2("vip_package.trial", 1);	//Gói VIP dùng thử
+11863|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Quái Trong Hũ Và Tiên Trong Hũ");
+11864|<O>| if (to_int(nId[i]) == who->get_number())	//Của bản thân thì ẩn
+11865|<O>| npc->set_name(sprintf("Quỷ Tốt(%s)", me->get_name()));
+11866|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Bảo Thạch Hoàn Mỹ（4）");

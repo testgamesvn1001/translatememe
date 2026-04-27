@@ -1,72 +1,72 @@
-﻿12778|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Thám phỏng Kỳ sự");
-12779|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Sắtquan âm trà");
-12780|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Bí Mật Hành Động");
-12781|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"trừng Giới Lươngít");
-12782|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"tuần sát Khởi nhân");
-12783|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Chúng nói phân vân");
-12784|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Đả Thámdướilạc");
+﻿12778|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Thăm Viếng Kỳ Sự");
+12779|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Trà Thiết Quan Âm");
+12780|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Hành Động Bí Mật");
+12781|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Trừng Phạt Lương Thiếu");
+12782|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tra Xét Nguyên Nhân");
+12783|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Ý Kiến Khác Nhau");
+12784|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Dò La Tung Tích");
 12785|<O>| set_name("Ác Bá" + NPC_NAME_D->get_thief_name());
-12786|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"phỉ báng Chân hung");
-12787|<O>| //		who->set_save_2("qixi.receive",1);	//đãlĩnh thủ
-12788|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Trần thuật thực Tình");
-12789|<O>| send_user(me, "%c%s", '!', "tra tuần dư ngạchThất bại" + result);
-12790|<O>| result = me->get_name() + ":\n    bạnđãCóKỵ sủng。\n";
-12791|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Tướng quân Tín hàm");
-12792|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Giải trừ nghi Hoặc");
+12786|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Thủ Phạm Phỉ Báng");
+12787|<O>| //		who->set_save_2("qixi.receive",1);	//Đã nhận rồi
+12788|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Trình Bày Sự Thật");
+12789|<O>| send_user(me, "%c%s", '!', "Truy vấn số dư thất bại" + result);
+12790|<O>| result = me->get_name() + ":\n    Bạn đã có kỵ sủng rồi.\n";
+12791|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Thư Của Tướng Quân");
+12792|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Giải Tỏa Nghi Hoặc");
 12793|<O>| ESC "Đóng\nCLOSE\n", me->get_name(), y / 3600));
-12794|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"sản trừ Ác Bá");
-12795|<O>| me->set_pay_money_buy_item(1);    // thông quađiểmsốMuaĐạo cụgiữa
-12796|<O>| printf(ECHO "Bạn yêu Xin%scủađội ngũ Kết thành đoàn đội。", who->get_name());
-12797|<O>| send_user(who,"%c%s",'!',"Xin Thanh lýmột chútbạncủabao bao lại đến lĩnh thủphần thưởng！");
-12798|<O>| if (!who->get_save_2("51tiandao.accept"))	//không tiếp
-12799|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"dàiThành Ác Bá");
-12800|<O>| else if (rand < 8000)//item/final/15/1504 SơcấpPháp Công
-12801|<O>| log_file(LIST_LOG, "\nbiên hiệu Tên Địa biểu Đồ Đạo cụ Đồ lượng từ Cấp độ\n");
-12802|<O>| all_clocks_size = 0;				//	ký lục Nhất cộngCónhiềuítgiờChung--bao quátkhôngcó thể dùnggiờChung
-12803|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Mộngcủakhốn nhiễu");
-12804|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Giải trừ Kỳ sự");
-12805|<O>| result = result + ESC + HIY + "nhỏthử Thân Thủ\n" + cmd3;
-12806|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"phòng chỉ tiết Mật");
-12807|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"độc sấm Cổ Mộ");
-12808|<O>| private int SellTax;                    // bán Xuất thuế
-12809|<O>| CHAR_DIE_D->is_enemy_die(me, who, damage);//giảm Huyết
-12810|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"đoạn tạo Chi Lộ");
-12811|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"ngàyHàn Địa đông");
-12812|<O>| return HIC+get_name()+"\nSủng vật sở hữu kỹ năng này，khôngsẽhãm NhậpbịPhongMatrạng thái。";
-12813|<O>| send_user(who, "%c%s", '!', "du nói đượccần 20 cấpThương NhânCấp độ。");
-12814|<O>| send_user(who, "%c%s", '!', "bạnlĩnh thủbang pháiTín VậtvàVương Chi hiệu giác。");
-12815|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"tìm tìm Thái phổ");
-12816|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"cô Hồn oán thán");
-12817|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"tốisauNhất Chiến");
-12818|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Đả tạoVũ khí");
-12819|<O>| add_max_mp(get_max_mp() * 2400 / 100);  	//Pháp thuật lực
-12820|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"thi Hành Nhân chính");
-12821|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"bẩm Báo Triệu Vương");
-12822|<O>| send_user(who, "%c%s", '!', "bì lao du hígiờgian Cấm chỉSử dụngChiến Quốc Lệnh。");
-12823|<O>| write_user(me, ECHO "Bạncủa“" PF_NAME "”đãchuẩn bịtốt。");
-12824|<O>| + sprintf(ESC"điều chỉnh đươngtrướcgiờgian Chí trọng Dương tiếthoạt độngcủaKhởi thủygiờgian\nparty 159\n")
-12825|<O>| set_name("nhỏthâu" + NPC_NAME_D->get_thief_name());
-12826|<O>| write_user(who, ECHO "BạnSử dụngtàiThầnPhù，sung Trị%dNguyên Bảo", price);
-12827|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"sưu tìm quan Ấn");
-12828|<O>| //		send_user(player,"%c%s",';',"bạnChiến Thắng thủ tịchlớnđệ Tử！");
-12829|<O>| private mapping Skills = ([]);         // Kỹ năngCấp độ
-12830|<O>| on_active_near(callout_delay_time);		//	hoạt độngtrướcmấyphút
-12831|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"YêuNgôn Hoặc Chúng");
-12832|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Hàn Ti Truyền nói");
-12833|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"nghiệp dư Áitốt");
-12834|<O>| sprintf("%s:\n    khôngsai！Tương đương phiêu lượng！nàyLàtác vìbạnthành tích ưu túcủaphần thưởng，nã đi ！\n"
-12835|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"thử Luyện Thân Thủ");
-12836|<O>| else if (rate < 5500 * rate1 / 100)	//Ngẫu nhiênKỹ năngtiến giai Tam Bản
-12837|<O>| private int Lasting;                    // nại cửu độ
-12838|<O>| send_user(who, "%c%s", '!', "Bạn Sâm Gia cạnh tuyển，không thểTừ bỏHộ tịch。");
-12839|<O>| result = result + ESC + HIY + "tống Tín sử Mệnh\n" + cmd1;
-12840|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Giải trừ Uy hiếp");
-12841|<O>| if ( !mapp(mpTmp) || !mapp(mpTmp[id]) )	//Làphủ tồnTại
-12842|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"tìm căn hỏi đáy");
-12843|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"phản Quốc Chi đồ");
-12844|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"An Toàn Ẩn hoạn");
-12845|<O>| send_user(who, "%c%s", ';', "Bạn dùng NhấtchỉLam cầu đổi hoán1TrươngTàng Bảo Đồ");
-12846|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"trừ rơiThích Khách");
-12847|<O>| name = "phệ TìnhMa" + NPC_NAME_D->get_banditi_name();
-12848|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Giải cứu công tượng");
-12849|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"nhỏthử Thân Thủ");
+12794|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tiêu Diệt Ác Bá");
+12795|<O>| me->set_pay_money_buy_item(1);    // Đang mua đạo cụ bằng điểm
+12796|<O>| printf(ECHO "Bạn mời đội của %s liên kết thành đoàn.", who->get_name());
+12797|<O>| send_user(who,"%c%s",'!',"Hãy dọn dẹp ba lô rồi quay lại nhận thưởng nhé!");
+12798|<O>| if (!who->get_save_2("51tiandao.accept"))	//Chưa nhận
+12799|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Ác Bá Trường Thành");
+12800|<O>| else if (rand < 8000)//item/final/15/1504 Sơ cấp pháp công
+12801|<O>| log_file(LIST_LOG, "\nMã số Tên Ảnh bản đồ Ảnh đạo cụ Lượng từ Cấp độ\n");
+12802|<O>| all_clocks_size = 0;				//	Ghi lại tổng số đồng hồ--bao gồm đồng hồ không khả dụng
+12803|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Sự Quấy Rầy Của Giấc Mơ");
+12804|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Giải Trừ Kỳ Sự");
+12805|<O>| result = result + ESC + HIY + "Thử Sức\n" + cmd3;
+12806|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Ngăn Chặn Rò Rỉ Bí Mật");
+12807|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Một Mình Xông Cổ Mộ");
+12808|<O>| private int SellTax;                    // Thuế bán ra
+12809|<O>| CHAR_DIE_D->is_enemy_die(me, who, damage);//Trừ máu
+12810|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Con Đường Rèn Đúc");
+12811|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Trời Rét Đất Đóng Băng");
+12812|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này sẽ không rơi vào trạng thái bị phong ma.";
+12813|<O>| send_user(who, "%c%s", '!', "Du thuyết cần cấp thương nhân 20.");
+12814|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận tín vật bang phái và Vương Chi Hiệu Giác.");
+12815|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tìm Kiếm Công Thức Nấu Ăn");
+12816|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Cô Hồn Oán Than");
+12817|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Trận Chiến Cuối Cùng");
+12818|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Rèn Vũ Khí");
+12819|<O>| add_max_mp(get_max_mp() * 2400 / 100);  	//Pháp lực
+12820|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Thi Hành Nhân Chính");
+12821|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Bẩm Báo Triệu Vương");
+12822|<O>| send_user(who, "%c%s", '!', "Thời gian chơi game mệt mỏi, cấm sử dụng Chiến Quốc Lệnh.");
+12823|<O>| write_user(me, ECHO "\"" PF_NAME "\" của bạn đã sẵn sàng.");
+12824|<O>| + sprintf(ESC"Điều chỉnh thời gian hiện tại về thời gian bắt đầu hoạt động Trùng Dương Tiết\nparty 159\n")
+12825|<O>| set_name("Tên Trộm" + NPC_NAME_D->get_thief_name());
+12826|<O>| write_user(who, ECHO "Bạn sử dụng Tài Thần Phù, nạp %d nguyên bảo", price);
+12827|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tìm Kiếm Quan Ấn");
+12828|<O>| //		send_user(player,"%c%s",';',"Bạn đã đánh bại Thủ Tịch Đại Đệ Tử!");
+12829|<O>| private mapping Skills = ([]);         // Cấp độ kỹ năng
+12830|<O>| on_active_near(callout_delay_time);		//	Vài phút trước hoạt động
+12831|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Yêu Ngôn Hoặc Chúng");
+12832|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Truyền Thuyết Hàn Ti");
+12833|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Sở Thích Nghiệp Dư");
+12834|<O>| sprintf("%s:\n    Không tệ! Khá đẹp đấy! Đây là phần thưởng cho thành tích xuất sắc của bạn, cầm lấy nhé!\n"
+12835|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Thử Luyện Thân Thủ");
+12836|<O>| else if (rate < 5500 * rate1 / 100)	//3 sách kỹ năng tiến giai ngẫu nhiên
+12837|<O>| private int Lasting;                    // Độ bền
+12838|<O>| send_user(who, "%c%s", '!', "Bạn đã tham gia tranh cử, không thể từ bỏ hộ tịch.");
+12839|<O>| result = result + ESC + HIY + "Sứ Mệnh Đưa Thư\n" + cmd1;
+12840|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Giải Trừ Mối Đe Dọa");
+12841|<O>| if ( !mapp(mpTmp) || !mapp(mpTmp[id]) )	//Có tồn tại không
+12842|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Truy Tìm Đến Cùng");
+12843|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Kẻ Phản Quốc");
+12844|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Nguy Hiểm Tiềm Ẩn");
+12845|<O>| send_user(who, "%c%s", ';', "Bạn dùng một quả cầu xanh đổi được 1 bản đồ tàng bảo");
+12846|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tiêu Diệt Thích Khách");
+12847|<O>| name = "Phệ Tình Ma" + NPC_NAME_D->get_banditi_name();
+12848|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Giải Cứu Thợ Thủ Công");
+12849|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Thử Sức");

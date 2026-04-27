@@ -1,79 +1,79 @@
-﻿14495|<O>| map->set_war(WAR_TIMEOUT);    // Bắt đầu３０giâyĐảo Kếgiờ
-14496|<O>| SAY_CMD->say(me, "ThântrênCóđóyêunhiềungoàiđến Chi Lực，Bangbạngiảmítđiểm。ha ha");
-14497|<O>| send_user(who, "%c%s", '!', "khôngtồnTạinàydạngcủahồ lô！");
+﻿14495|<O>| map->set_war(WAR_TIMEOUT);    // Bắt đầu đếm ngược 30 giây
+14496|<O>| SAY_CMD->say(me, "Trên người có nhiều ngoại lực vậy, để ta giúp giảm bớt nhé. Haha");
+14497|<O>| send_user(who, "%c%s", '!', "Không tồn tại hồ lô như vậy!");
 14498|<O>| send_user(who, "%c%s", '!', HIY"Bảo Kiếm 1/1");
-14499|<O>| printf(ECHO "Bạn nhặt Khởi %s。", item->get_name());
-14500|<O>| ESC"NhấtgiờtrongTăngLực tấn công vật lý100điểm\ntalk %x# bonus.18\n"
-14501|<O>| send_user(me, "%c%s", '!', "điểmthẻ tra tuầnQuay vềTrị sai ngộ！");
-14502|<O>| send_user(who, "%c%s", '!', "BạnKhông tìm thấynàyvịNgười chơi。");
-14503|<O>| set_save_2("record.size",pos);//Lưubài Hành bảngcủalớnnhỏ。
-14504|<O>| private  int WeaponColor = 0;     // Vũ khíloại biệt
-14505|<O>| notify("Khi từ bỏ「" + file + "」trước tiên phải từ bỏ「càn khôn na Di」。");
-14506|<O>| case "nha hoàn": type = "SERVANT_GIRL";  break;
-14507|<O>| send_user(me, "%c%s", '!', "Bạnkhông cóthân Xin lĩnh thủ Vật Phẩm。");
-14508|<O>| npc->set_max_hp( INIT_HP );    // cẩn thận chuẩn bị me
-14509|<O>| map->set_war(WAR_READY_2);    // Bắt đầu３０giâyĐảo Kếgiờ
-14510|<O>| if (time >= 2) info = "lại qua Nhấtsẽ，tôiTướng trọngmớitrêngiá Nhất phê hóa Vật。";
-14511|<O>| printf(ECHO "Sử dụng“" PF_NAME "”cầnTạiẨn Thâncủatrạng tháidưới。");
-14512|<O>| write_user(me, ECHO "Bạnkhông cóchiếu liệutốtnông tác Vật，kết quảnóTử rơi。");
-14513|<O>| me->set_pay_money_buy_item(1);    // tra tuần dư ngạch
-14514|<O>| void turn_off_alarm_clock();				//	ĐóngNáo Chung Công Năng
-14515|<O>| else if (rate < 7500 * rate1 / 100)	//nhỏHuyết Thạch
-14516|<O>| send_user(who, "%c%s", '!', "Mã tặc PhùnglớnLong 1/1");
-14517|<O>| case "phú Gia công Tử": type = "RICH_YOUNG";  break;
-14518|<O>| send_user(me, "%c%s", '!', "ThànhtrongKhông thể sử dụngthử Pháp Bảo。");
-14519|<O>| send_user(who, "%c%s", '!', "quý Quốc chính Đồng biệt Quốc giao Chiến！");
-14520|<O>| else if (p < 9996 * rate / 100)    // Tạp vật２
-14521|<O>| printf(ECHO "Bạn nhận được %s。", item->get_name());
-14522|<O>| set_save_2("record.size",pos);//càngmớibài Hành bảngcủalớnnhỏ。
-14523|<O>| private  int HeadColor;           // Mạonhan Sắc
-14524|<O>| printf( ECHO "Sử dụng“" PF_NAME "”nhu Chỉ địnhChế tạosố lượng。" );
-14525|<O>| init_time = stat(GAMELIST)[1];	//tái trìnhtệp tincàngmớigiờgian
-14526|<O>| send_user(who,"%c%s",'!',"cạnh tuyển từ Tháidài,Xin giảmíttự số");
-14527|<O>| else if (p < 9101 * rate / 100)    // Tạp vật１
-14528|<O>| send_user(me, "%c%s", '!', "hiệnTạiCấm chỉhoạt độnghiệu đăng lục!");
-14529|<O>| ESC "lĩnh thủ NhấtgiờVIPsong bộigiờgian\ntalk %x# welcome.86\n"
-14530|<O>| write_user(me, ECHO "Bạnchonông tác Vật sừ Thảo，kết quảnódàiđược càngtốt。");
-14531|<O>| send_user(who, "%c%s", '!', "trọng phạm hứa hoành Đao 1/1");
-14532|<O>| send_user(who, "%c%s", '!', "Bạn muốngiao dịchgìđồ vật？");
-14533|<O>| result = sprintf("BạnXác nhậnhướng%scử tiến%s(%d)làm phó Thành chủ？\n",
-14534|<O>| case "TửVàngQuan": type = "F_ZIJINGUAN";  break;
-14535|<O>| else if (p < 9800 * rate / 100)    // Tạp vật３
-14536|<O>| write_user(me, ECHO "Bạn qua tảo Thu cát nông tác Vật，kết quảNhất vô sở hoạch。");
-14537|<O>| return "mỗilầnThành côngHoàn thànhSư gia Sát tùNhiệm vụhoạch được1.3bộicủaTiềm năngphần thưởng。có thểSử dụng10lần。";
-14538|<O>| printf(ECHO "Bạn đượcCóChungàyTâm Pháp Tài NăngSử dụng“" PF_NAME "”。");
+14499|<O>| printf(ECHO "Bạn nhặt được %s.", item->get_name());
+14500|<O>| ESC"Trong 1 giờ tăng 100 điểm sức tấn công vật lý\ntalk %x# bonus.18\n"
+14501|<O>| send_user(me, "%c%s", '!', "Giá trị trả về truy vấn thẻ điểm bị lỗi!");
+14502|<O>| send_user(who, "%c%s", '!', "Bạn không tìm thấy người chơi này.");
+14503|<O>| set_save_2("record.size",pos);//Lưu kích thước bảng xếp hạng.
+14504|<O>| private  int WeaponColor = 0;     // Loại vũ khí
+14505|<O>| notify("Trước khi bỏ「" + file + "」phải bỏ「Càn Khôn Nã Di」trước.");
+14506|<O>| case "Nha hoàn": type = "SERVANT_GIRL";  break;
+14507|<O>| send_user(me, "%c%s", '!', "Bạn chưa đăng ký nhận vật phẩm.");
+14508|<O>| npc->set_max_hp( INIT_HP );    // Cẩn thận chuẩn bị me
+14509|<O>| map->set_war(WAR_READY_2);    // Bắt đầu đếm ngược 30 giây
+14510|<O>| if (time >= 2) info = "Chờ thêm một lát, tôi sẽ lên kệ lô hàng mới.";
+14511|<O>| printf(ECHO "Sử dụng \"" PF_NAME "\" cần ở trạng thái ẩn thân.");
+14512|<O>| write_user(me, ECHO "Bạn không chăm sóc tốt cây trồng, kết quả nó chết mất.");
+14513|<O>| me->set_pay_money_buy_item(1);    // Truy vấn số dư
+14514|<O>| void turn_off_alarm_clock();				//	Tắt chức năng đồng hồ báo thức
+14515|<O>| else if (rate < 7500 * rate1 / 100)	//Tiểu Huyết Thạch
+14516|<O>| send_user(who, "%c%s", '!', "Mã Tặc Phùng Đại Long 1/1");
+14517|<O>| case "Phú Gia Công Tử": type = "RICH_YOUNG";  break;
+14518|<O>| send_user(me, "%c%s", '!', "Trong thành không thể dùng pháp bảo này.");
+14519|<O>| send_user(who, "%c%s", '!', "Nước bạn đang giao chiến với nước khác!");
+14520|<O>| else if (p < 9996 * rate / 100)    // Tạp vật 2
+14521|<O>| printf(ECHO "Bạn nhận được %s.", item->get_name());
+14522|<O>| set_save_2("record.size",pos);//Cập nhật kích thước bảng xếp hạng.
+14523|<O>| private  int HeadColor;           // Màu mũ
+14524|<O>| printf( ECHO "Sử dụng \"" PF_NAME "\" cần chỉ định số lượng chế tạo." );
+14525|<O>| init_time = stat(GAMELIST)[1];	//Thời gian cập nhật file lịch thi đấu
+14526|<O>| send_user(who,"%c%s",'!',"Lời tranh cử quá dài, vui lòng rút ngắn");
+14527|<O>| else if (p < 9101 * rate / 100)    // Tạp vật 1
+14528|<O>| send_user(me, "%c%s", '!', "Hiện tại cấm tài khoản hoạt động đăng nhập!");
+14529|<O>| ESC "Nhận 1 giờ thời gian VIP nhân đôi\ntalk %x# welcome.86\n"
+14530|<O>| write_user(me, ECHO "Bạn nhổ cỏ cho cây trồng, kết quả nó mọc tốt hơn.");
+14531|<O>| send_user(who, "%c%s", '!', "Trọng Phạm Hứa Hoành Đao 1/1");
+14532|<O>| send_user(who, "%c%s", '!', "Bạn muốn giao dịch thứ gì?");
+14533|<O>| result = sprintf("Bạn xác nhận tiến cử %s(%d) làm phó thành chủ cho %s?\n",
+14534|<O>| case "Tử Kim Quan": type = "F_ZIJINGUAN";  break;
+14535|<O>| else if (p < 9800 * rate / 100)    // Tạp vật 3
+14536|<O>| write_user(me, ECHO "Bạn thu hoạch cây trồng quá sớm, kết quả không thu được gì.");
+14537|<O>| return "Mỗi lần hoàn thành nhiệm vụ tiễu tù của Sư Gia nhận 1.3 lần tiềm năng thưởng. Có thể dùng 10 lần.";
+14538|<O>| printf(ECHO "Bạn cần có Chu Thiên Tâm Pháp mới dùng được \"" PF_NAME "\".");
 14539|<O>| ESC "Đóng\nCLOSE\n", me->get_name(), cmd1);
-14540|<O>| send_user(who, "%c%s", '!', "Ác Bá Trương ThấtLong 1/1");
-14541|<O>| send_user(who, "%c%s", ';', "tôicầncủatrọng Dương Tứ Bảo ？");
-14542|<O>| int get_item_number() { return 97; }	//tự hiệu
-14543|<O>| else if (p < 9196 * rate / 100)    // Tạp vật１
-14544|<O>| send_user(who, "%c%s", '!', "Đái Tiền Phiếukhông thểlữ Hành。");
-14545|<O>| send_user(who, "%c%s", '!', "bạnQuycòntế Thế hồ lô！");
-14546|<O>| if (objectp(what)) who = what;    // tìm tìm Mụccủa
-14547|<O>| give_item(who, "/item/44/4404", 2);	//Ngọc Linh dịch
-14548|<O>| if (!me->get_rumor_open())    // Sử dụngcó thểĐả mở tần Đạo
-14549|<O>| else if (p < 9496 * rate / 100)    // Tạp vật２
-14550|<O>| else if (rate < 8500 * rate1 / 100)	//nhỏPháp Thạch
-14551|<O>| send_user(who, "%c%s", '!', "tuyếntrênĐả Bảohoạt độngMở！");
-14552|<O>| tell_user(me, "%s(%s)tọa tiêu: %d (%d, %d) %d",
-14553|<O>| return "Một loạiso vớigiảo thường kiếncủaĐộcDược，mỗi2giâysửNgười chơiGiá trị Khí Huyếtdướigiáng10điểm，kéo dài20giây。";
-14554|<O>| tell_user(me, who->get_name() + "đãTrang bị:");
-14555|<O>| printf( ECHO "Sử dụng“" PF_NAME "”Kỹ năngthục Luyện độkhôngtúc。" );
-14556|<O>| notify("Khi từ bỏ「" + file + "」trước tiên phải từ bỏ「xuyên ViệtgiờKhông」。");
-14557|<O>| send_user(me, "%c%s", '!', "bày thángiờKhông thể sử dụngĐạo cụ。");
+14540|<O>| send_user(who, "%c%s", '!', "Ác Bá Trương Thất Long 1/1");
+14541|<O>| send_user(who, "%c%s", ';', "Tứ Bảo Trùng Dương của tôi đâu?");
+14542|<O>| int get_item_number() { return 97; }	//Số thứ tự
+14543|<O>| else if (p < 9196 * rate / 100)    // Tạp vật 1
+14544|<O>| send_user(who, "%c%s", '!', "Mang theo phiếu tiền không thể du lịch.");
+14545|<O>| send_user(who, "%c%s", '!', "Bạn đã trả lại Tế Thế Hồ Lô!");
+14546|<O>| if (objectp(what)) who = what;    // Tìm mục đích
+14547|<O>| give_item(who, "/item/44/4404", 2);	//Ngọc Linh Dịch
+14548|<O>| if (!me->get_rumor_open())    // Dùng để mở kênh
+14549|<O>| else if (p < 9496 * rate / 100)    // Tạp vật 2
+14550|<O>| else if (rate < 8500 * rate1 / 100)	//Tiểu Pháp Thạch
+14551|<O>| send_user(who, "%c%s", '!', "Hoạt động đánh bảo online đã mở!");
+14552|<O>| tell_user(me, "%s(%s) tọa độ: %d (%d, %d) %d",
+14553|<O>| return "Một loại độc dược tương đối phổ biến, mỗi 2 giây giảm 10 điểm khí huyết, kéo dài 20 giây.";
+14554|<O>| tell_user(me, who->get_name() + " đã trang bị:");
+14555|<O>| printf( ECHO "Độ thành thục kỹ năng \"" PF_NAME "\" chưa đủ." );
+14556|<O>| notify("Trước khi bỏ「" + file + "」phải bỏ「Xuyên Việt Thời Không」trước.");
+14557|<O>| send_user(me, "%c%s", '!', "Đang bày bán không thể dùng đạo cụ.");
 14558|<O>| if (min) result += sprintf(" %d phút", min);
-14559|<O>| + sprintf(ESC"ký thụChú ýsự Hạng\ntalk %x# bonus.1\n"
-14560|<O>| //	Hồi điều:phục vịHàm -- chính thườngcủaSiêugiờxử lý định nghĩaTạiHàmngoàibộnàytrongphòng chỉmáy chủtrọng Khởi phát sinh sai ngộ
-14561|<O>| send_user(me, "%c%%s", ':', "PKhệ thốngThượng vị mở Phóng！");
-14562|<O>| else if (p < 9390 * rate / 100)    // Tạp vật１
-14563|<O>| send_user(who, "%c%s", '!', "Quốc khánh tặng lễhoạt độngMở！");
-14564|<O>| send_user(who, "%c%s", '!', "bạncủaCấp độkhôngđủ40cấp");
-14565|<O>| send_user(who, "%c%s", '!', "Bạncủathư sinhCấp độkhôngđủ。");
-14566|<O>| ESC"tôimuốn xemmột chútlớnlễ baotrongCógìĐông Đông ồ\ntalk %x# bonus.40\n"
-14567|<O>| send_user(me, "%c%s", '!', "đối vớiPhương thiết trí Cấm Phi mở quan。");
-14568|<O>| // PHASE 9: Kỹ năngCấp độhoãn tồn (1sgiờgian song khẩu - tỵ Miễn đơnlầnTâm nhảytrongtrọng phục Kế toán)
-14569|<O>| private static int StartTime;		// Bắt đầuChiến tranhcủagiờgian
-14570|<O>| send_user(me, "%c%s", '!', "Bạn chính mang Thu thậpThảo Dược ！");
-14571|<O>| send_user(who, "%c%s", '!', "Bạn Thântrênkhông cótống TínNhiệm vụ");
-14572|<O>| string get_skill_name() { return "mê Hồn Quyết"; }
-14573|<O>| send_user(who, "%c%s", '!', "Thanh lýmột chútbạncủabao bao！");
+14559|<O>| + sprintf(ESC"Lưu ý ký gửi\ntalk %x# bonus.1\n"
+14560|<O>| //	Callback: Hàm reset -- Xử lý timeout bình thường định nghĩa bên ngoài hàm, đây là phòng lỗi khi server khởi động lại
+14561|<O>| send_user(me, "%c%%s", ':', "Hệ thống PK chưa mở!");
+14562|<O>| else if (p < 9390 * rate / 100)    // Tạp vật 1
+14563|<O>| send_user(who, "%c%s", '!', "Hoạt động Quốc Khánh Tặng Quà đã mở!");
+14564|<O>| send_user(who, "%c%s", '!', "Cấp độ của bạn chưa đủ 40");
+14565|<O>| send_user(who, "%c%s", '!', "Cấp thư sinh của bạn không đủ.");
+14566|<O>| ESC"Tôi muốn xem gói quà lớn có gì nhé\ntalk %x# bonus.40\n"
+14567|<O>| send_user(me, "%c%s", '!', "Đối phương đã bật cấm bay.");
+14568|<O>| // PHASE 9: Cache cấp kỹ năng (cửa sổ 1 giây - tránh tính toán lại trong cùng nhịp tim)
+14569|<O>| private static int StartTime;		// Thời gian bắt đầu chiến tranh
+14570|<O>| send_user(me, "%c%s", '!', "Bạn đang bận thu thập thảo dược!");
+14571|<O>| send_user(who, "%c%s", '!', "Bạn không có nhiệm vụ gửi thư");
+14572|<O>| string get_skill_name() { return "Mê Hồn Quyết"; }
+14573|<O>| send_user(who, "%c%s", '!', "Dọn dẹp túi đồ của bạn đi!");

@@ -1,65 +1,65 @@
-﻿11069|<O>| private int Dex;                 // mẫn tiệp，cơ mẫn   Dexterity
+﻿11069|<O>| private int Dex;                 // Nhanh nhẹn, cơ mẫn   Dexterity
 11070|<O>| #define SKILL_FINAL	"/item/final/65/5075"				// Kết quả chế tạo
-11071|<O>| sprintf("%s:\n    Truyền tốngPháp Thuật Mãtrênliềncầnphát Động，khôngcầnkhẩn Trương，thâm hô hấp，bếtrênsong Nhãn～Bắt đầuLa～～～\n"
+11071|<O>| sprintf("%s:\n    Pháp thuật truyền tống sắp phát động, đừng căng thẳng, hít thở sâu, nhắm mắt lại～bắt đầu rồi～～～\n"
 11072|<O>| #define SKILL_FINAL	"/item/final/60/1075"				// Kết quả chế tạo
-11073|<O>| result = sprintf("%s Bạn Khởi Tự Sátcủaniệm đầu！", short_time(time()));
-11074|<O>| return "DuyênphútThủ tráccủaNhấtchỉ，Tương Truyềnchỉcầndữ Nhất vị bội ĐáiLongtráccủaNgười chơitổ đội，\nsong PhươngcủaKhí HuyếtMaPhápPhục hồiTướngsẽTăng10%";
-11075|<O>| + sprintf(ESC"điều chỉnh đươngtrướcgiờgian Chí Quốc khánh tiếthoạt độngChi——Tây qua bá bácủaKhởi thủygiờgian\nparty 147\n")
+11073|<O>| result = sprintf("%s Bạn nảy ra ý định tự sát!", short_time(time()));
+11074|<O>| return "Một chiếc trong đôi vòng tay duyên phận, tương truyền chỉ cần tổ đội với người chơi đeo Long Trác,\nkhả năng hồi phục khí huyết và pháp lực của cả hai sẽ tăng 10%";
+11075|<O>| + sprintf(ESC"Điều chỉnh thời gian hiện tại đến thời gian bắt đầu hoạt động Quốc Khánh——Dưa Hấu Bá Bá\nparty 147\n")
 11076|<O>| #define SKILL_FINAL	"/item/final/86/4085"				// Kết quả chế tạo
 11077|<O>| #define SKILL_FINAL	"/item/final/65/2065"				// Kết quả chế tạo
-11078|<O>| //        	send_user(me, "%c%s", '!', "không thểSửa đổiđối vớiứng Hạng MụccủaTrị");
-11079|<O>| return "［Đạo Gia Học nói］uẩn Hàm Phong phú Triết lýcủaHọc nói，Có thể nângTu Hành giảcủaPháp thuật lựctrênhạn。mỗicấpTăng5điểm Pháp Lựctrênhạn。\n";
-11080|<O>| if (price < 1 || price1 != price / total)	// tỵ Miễn dật Xuất Xuấtvấn đề
-11081|<O>| "", "", "<Tử Mục lục>", dfile[i][0]) });    // time1[2..<4]
-11082|<O>| who->add_contribute(gold2 / 1000);    // 1000 Vàng = cống hiến
-11083|<O>| sprintf("%s(%d)yêu Xin Bạn Gia Nhập kỳ đội ngũ。", name, me->get_number()));
-11084|<O>| if (!is_player(me)) tell_user(me, "Rkhốn Địch %d％", rate);
-11085|<O>| sprintf(ESC"64điểmđổi hoánKỹ năngtiến giai thư\ntalk %x# exchange.2\n",id) +
-11086|<O>| result = sprintf(HIR"cung hỷ%sĐả mở Hồng bao，hoạch được", who->get_name());
-11087|<O>| log_file("distribute.txt",short_time() + " PhóngTiền vàng\n" );
-11088|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận"HIY"Thám vọng bệnh Nhân"NOR"Nhiệm vụ");
-11089|<O>| return HIC+get_name()+"\nSủng vật sở hữu kỹ năng này，Tướng Đềcaokỳ đươngtrướcLực tấn công vật lýcủa10%。";
+11078|<O>| //        	send_user(me, "%c%s", '!', "Không thể sửa đổi giá trị của mục tương ứng");
+11079|<O>| return "［Đạo Gia Học Thuyết］Học thuyết chứa đựng triết lý phong phú, có thể nâng cao giới hạn pháp lực của người tu hành. Mỗi cấp tăng 5 điểm pháp lực tối đa.\n";
+11080|<O>| if (price < 1 || price1 != price / total)	// Tránh tràn số gây lỗi
+11081|<O>| "", "", "<Thư mục con>", dfile[i][0]) });    // time1[2..<4]
+11082|<O>| who->add_contribute(gold2 / 1000);    // 1000 vàng = cống hiến
+11083|<O>| sprintf("%s(%d) mời bạn gia nhập đội của họ.", name, me->get_number()));
+11084|<O>| if (!is_player(me)) tell_user(me, "R khốn địch %d%%", rate);
+11085|<O>| sprintf(ESC"64 điểm đổi sách tiến giai kỹ năng\ntalk %x# exchange.2\n",id) +
+11086|<O>| result = sprintf(HIR"Chúc mừng %s mở lì xì, nhận được", who->get_name());
+11087|<O>| log_file("distribute.txt",short_time() + " Phát tiền vàng\n" );
+11088|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận nhiệm vụ "HIY"Thăm Bệnh Nhân"NOR"");
+11089|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này, sẽ tăng 10% tấn công vật lý hiện tại.";
 11090|<O>| case "Đào Hoa Nguyên": z = 289;  p = get_jumpin(z, 20);  break;
-11091|<O>| int set_grade(int i) { return grade = i; }// Hàm:Tâm nhảy xử lý
-11092|<O>| return "cư Gia lữ Hànhgiờsở dùngcủanhỏbối bao，\nCó thể tăng cho người sử dụng8ô trống trong ba lô。\nBao gói10ngày sau sẽ tự động hư hỏng。";
-11093|<O>| who->get_name() + ":\n    bạncủabao phúc đã mãn，Xin Thanh lýmột chútbạncủabao bao lại đến tìmtôi～！\n"
-11094|<O>| if (MAP_D->is_inside_safe_zone(z, x, y))    // An Toàn khu phán đoạn
-11095|<O>| say_word = "Thách đấuHổVươngcần10000Chiến QuốctệcủaMôn phiếu，bạntiếnhoạt độngtrường cảnhsaucũngcó thểđểbạncủabạn bèđến Bang Trợbạn！";
-11096|<O>| "NgũLôi" : ({0900,0901,0702,0901,0900,0900,0953,0402 }),
-11097|<O>| result = me->get_name() + ":\n    Bạn ThântrêncủaTiền vàngkhôngđủ chi phó BảnlầnthuêVàng\n";
-11098|<O>| sprintf("%s(%d)thân Xin Gia Nhập Bạncủađội ngũ。", name, me->get_number()));
+11091|<O>| int set_grade(int i) { return grade = i; }// Hàm: xử lý nhịp tim
+11092|<O>| return "Ba lô nhỏ dùng khi đi du lịch,\ncó thể tăng thêm 8 ô ba lô cho người sử dụng.\nBa lô sẽ tự động hỏng sau 10 ngày.";
+11093|<O>| who->get_name() + ":\n    Ba lô của bạn đã đầy, hãy dọn dẹp ba lô rồi quay lại tìm tôi nhé～!\n"
+11094|<O>| if (MAP_D->is_inside_safe_zone(z, x, y))    // Phán đoán khu vực an toàn
+11095|<O>| say_word = "Thách đấu Hổ Vương cần 10000 Chiến Quốc Tệ làm vé vào, sau khi vào cảnh hoạt động bạn cũng có thể gọi bạn bè đến giúp!";
+11096|<O>| "Ngũ Lôi" : ({0900,0901,0702,0901,0900,0900,0953,0402 }),
+11097|<O>| result = me->get_name() + ":\n    Số vàng trên người bạn không đủ để trả tiền thuê lần này\n";
+11098|<O>| sprintf("%s(%d) xin gia nhập đội của bạn.", name, me->get_number()));
 11099|<O>| if( point ) result += sprintf( "Tiềm năng: %+d\n", point );
-11100|<O>| write_user(me, ECHO "%sTinh luyệnThất bại！", item[0]->get_name());
-11101|<O>| tell_user(owner, "bạncủa" + me->get_name() + "thọ MệnhTăng50điểm");
-11102|<O>| private static object* dbPower2 = ({ });	// phòng thủ Phươngcủachiến đấukhôi lỗi
+11100|<O>| write_user(me, ECHO "%s tinh luyện thất bại!", item[0]->get_name());
+11101|<O>| tell_user(owner, "Thú cưng " + me->get_name() + " của bạn được tăng 50 điểm thọ mệnh");
+11102|<O>| private static object* dbPower2 = ({ });	// Bù nhìn chiến đấu bên phòng thủ
 11103|<O>| ESC "Tôi chỉ đến xem thôi\nCLOSE\n", me->get_name(), getoid(me)));
-11104|<O>| send_user( who, "%c%s", '!', "bạnlĩnh thủ Tình Nhân tiếtNhiệm vụ————quỷ dịcủaPhi tặc！");
-11105|<O>| case 'X': send_user(me, "%c%s", '!', "Bạn thâu Nhậpkhôngchính xáccủadữ liệu！");
-11106|<O>| say_word = "bạnTháilợi hại，cư nhiên qua6quan，có thểlĩnh thủ100vạnChiến Quốctệ dữTăngVật phòng dữPháp phòngxưng hiệucủaphần thưởng！";
-11107|<O>| return HIR + PF_NAME + "\nKỹ năng yêu cầu:1cấp\n    Hồi Thubản thânThao tungcủaTriệu hồithú。";
-11108|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận"HIY"Phi cáp Truyền thư"NOR"Nhiệm vụ");
-11109|<O>| send_user(team[i],"%c%s",'!',HIY"XinChú ý:thủ Mộ Thạch Tướng，đãTô tỉnh！！！");
-11110|<O>| private static string Perform2;         // đặc thù kỹtệp tin(tuần hoàn)
+11104|<O>| send_user( who, "%c%s", '!', "Bạn đã nhận nhiệm vụ Valentine————Phi Tặc Quỷ Dị!");
+11105|<O>| case 'X': send_user(me, "%c%s", '!', "Bạn đã nhập dữ liệu không chính xác!");
+11106|<O>| say_word = "Bạn quá giỏi, vượt được 6 ải, có thể nhận phần thưởng 1 triệu Chiến Quốc Tệ và danh hiệu tăng phòng thủ vật lý & pháp thuật!";
+11107|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 1\n    Thu hồi triệu hoán thú do mình điều khiển.";
+11108|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận nhiệm vụ "HIY"Bồ Câu Đưa Thư"NOR"");
+11109|<O>| send_user(team[i],"%c%s",'!',HIY"Hãy chú ý: Thạch Tướng Canh Mộ, đã tỉnh giấc!!!");
+11110|<O>| private static string Perform2;         // File đặc kỹ(lặp)
 11111|<O>| //  case "Mao Sơn" : if( !objectp( me->get("soldier") ) )
-11112|<O>| return "［Cường hóahỗn Nguyên Chân khí］NângPháp Lựctrênhạn，Mỗi cấp tăng2.5điểm；Nâng Lực phòng thủ phép thuậttrênhạn，Mỗi cấp tăng1.5điểm";
-11113|<O>| send_user(who, "%c%s", '!', sprintf("xích hạt Nghĩ %d/1", i));
-11114|<O>| /*	delete_save_2("record");//trảo thỏ Anh Hùng bảngcủaký lụcTạiđệ Nhịngàyhoạt độngBắt đầutrướcđềuLàCóhiệucủa。
-11115|<O>| private int NoFight;                    // Cấm Chiến tiêu Chí(An Toàn khu)
+11112|<O>| return "［Cường Hóa Hỗn Nguyên Chân Khí］Tăng giới hạn pháp lực, mỗi cấp tăng 2.5 điểm; Tăng giới hạn phòng thủ pháp thuật, mỗi cấp tăng 1.5 điểm";
+11113|<O>| send_user(who, "%c%s", '!', sprintf("Kiến Xích Nâu %d/1", i));
+11114|<O>| /*	delete_save_2("record");//Bảng xếp hạng anh hùng bắt thỏ vẫn có hiệu lực đến trước khi hoạt động ngày hôm sau bắt đầu.
+11115|<O>| private int NoFight;                    // Cờ cấm chiến(khu vực an toàn)
 11116|<O>| if (random(100) < item->get_active_rate())    // Tỷ lệ thành công
-11117|<O>| if (sscanf(arg, "! %s", arg)) flag = 1;    // Cường Hành mất rơi rác rác
-11118|<O>| //        team->set_task("robber#", -1);    // Nhiệm vụHoàn thànhsố
-11119|<O>| say_word = "bạntrênlầnsấm quancủaphần thưởngchưa cólĩnh thủ，Xác nhậncầnlạilầntiến điThách đấu？nàydạngsẽđểbạnthất đitrênlầncủaphần thưởng！";
-11120|<O>| result = sprintf(HIC "Bạncủa“%s”Thăng Chí %d cấp！", name, level);
-11121|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận"HIY"tìm Bảo lịch hiểm"NOR"Nhiệm vụ");
-11122|<O>| set_effect(who, EFFECT_CHAR_FAINT, 2);    // cẩn thận chuẩn bị me
-11123|<O>| tell_user(who, "%c%s", '>', "liệt Xuấttất cảcông cáo: gonggao list");
-11124|<O>| exp = NPC_ENERGY_D->get_exp_bonus(level);    // tra biểu thủ Trị
-11125|<O>| else if (arrayp(user = me->get_team()))    // càngmớiđội viên tọa tiêu
-11126|<O>| result = sprintf("Bạn muốnđemnàytrongthiết thànhnàogiờKhông đạo tiêu？(tốinhiều %d )\n", size);
-11127|<O>| send_user(who, "%c%s", '!', sprintf("hoạch đượcKinh nghiệm%d", exp));
-11128|<O>| who->set_quit_ip(get_ip_name(who));    // Chú ý quit Mệnh Lệnh
-11129|<O>| send_user( player, "%c%s", '!', "Nhiệm vụđã hoàn thành，XinhướngSư Phó Báo cáo。" );
-11130|<O>| send_user(who, "%c%s", ';', "bệnh nan y（1） Kinh nghiệm 150 Tiềm năng 20");
-11131|<O>| send_user( who, "%c%s", '!', "bạnlĩnh thủ Tình Nhân tiếtNhiệm vụ————ngàysử Ái Mỹ Lệ！");
-11132|<O>| if (me->get_login_flag() < 3) return 1;    // không cóchuẩn bịliềntự
-11133|<O>| if (who = me->get_main_enemy())    // sưu sách Hà NhânTấn công(tốiQuan trọngcủakẻ thù)
+11117|<O>| if (sscanf(arg, "! %s", arg)) flag = 1;    // Cưỡng chế vứt rác
+11118|<O>| //        team->set_task("robber#", -1);    // Số nhiệm vụ hoàn thành
+11119|<O>| say_word = "Phần thưởng lần vượt ải trước bạn chưa nhận, xác nhận muốn vào thử thách lại không? Như vậy sẽ mất phần thưởng lần trước!";
+11120|<O>| result = sprintf(HIC "Kỹ năng \"%s\" của bạn đã lên cấp %d!", name, level);
+11121|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận nhiệm vụ "HIY"Tìm Bảo Phiêu Lưu"NOR"");
+11122|<O>| set_effect(who, EFFECT_CHAR_FAINT, 2);    // Cẩn thận chuẩn bị me
+11123|<O>| tell_user(who, "%c%s", '>', "Liệt kê tất cả công cáo: gonggao list");
+11124|<O>| exp = NPC_ENERGY_D->get_exp_bonus(level);    // Tra bảng lấy giá trị
+11125|<O>| else if (arrayp(user = me->get_team()))    // Cập nhật tọa độ đội viên
+11126|<O>| result = sprintf("Bạn muốn đặt đây làm điểm dẫn đường thời không nào? (Tối đa %d cái)\n", size);
+11127|<O>| send_user(who, "%c%s", '!', sprintf("Nhận được kinh nghiệm %d", exp));
+11128|<O>| who->set_quit_ip(get_ip_name(who));    // Chú ý lệnh quit
+11129|<O>| send_user( player, "%c%s", '!', "Nhiệm vụ đã hoàn thành, hãy báo cáo với sư phụ." );
+11130|<O>| send_user(who, "%c%s", ';', "Bệnh nan y(1) Kinh nghiệm 150 Tiềm năng 20");
+11131|<O>| send_user( who, "%c%s", '!', "Bạn đã nhận nhiệm vụ Valentine————Thiên Sứ Yêu Sắc Đẹp!");
+11132|<O>| if (me->get_login_flag() < 3) return 1;    // Chưa sẵn sàng
+11133|<O>| if (who = me->get_main_enemy())    // Tìm ai đang tấn công(kẻ thù quan trọng nhất)

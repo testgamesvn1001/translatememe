@@ -1,82 +1,82 @@
-﻿15134|<O>| string get_city_name() { return "魏国"; }
-15135|<O>| if (MAIN_D->get_host_type()==2)		//台湾除外
-15136|<O>| send_user(who, "%c%s", '!', "僵尸王 1/1");
-15137|<O>| return "记载着周天诵文的心法书籍。蜀山可利用此书籍施放法术大周天。";
-15138|<O>| send_user(who, "%c%s", '!', "骷髅魔 1/1");
-15139|<O>| "钢铁护心甲禁卫军" : "\"/item/final/60/3055\"",
-15140|<O>| send_user(who, "%c%s", '!', "赵术士 1/1");
-15141|<O>| send_user(who, "%c%s", '!', "魏小三 1/1");
-15142|<O>| send_user(who, "%c%s", '!', "钱三疤 1/1");
-15143|<O>| send_user(who, "%c%s", '!', "千层怪 1/1");
-15144|<O>| notify("聊天频道将于 %d 分钟后开启。", t / 60 + 1);
-15145|<O>| send_user(who, "%c%s", '!', "赵小三 1/1");
-15146|<O>| send_user(who, "%c%s", '!', "迷失鬼 1/1");
-15147|<O>| string get_city_name() { return "楚国"; }
-15148|<O>| printf(ECHO "不能对摆摊的人使用“" PF_NAME "”。");
-15149|<O>| send_user(who, "%c%s", '!', "许子高 1/1");
-15150|<O>| write_user(me, ECHO "您现在的攻击模式是:自由攻击。");
-15151|<O>| private int AcountNo;				// 帐号对应的Number
-15152|<O>| && npc->is_escort_robber_2()    // 被动乞丐
-15153|<O>| desc = "有点豪华的加蛋的烤猪肉，14秒内恢复玩家2170点气血值。";
-15154|<O>| "铁板实战铠禁卫军" : "\"/item/final/60/3075\"",
-15155|<O>| set_heart_loop(me, 600);    // 循环心跳:１分钟
-15156|<O>| string get_fam_name() { return "云梦泽"; }
-15157|<O>| send_user(who, "%c%s", '!', "逆世鬼 1/1");
-15158|<O>| notify("%s现在不在队伍当中。", who->get_name());
-15159|<O>| "/cmd/base/say"->say(me, "法力...法力...");
-15160|<O>| 07-06-28  18:00 完成时间轮寻控制框架（修复之前一个严重BUG）
-15161|<O>| ESC "兔子变身卡\n" + "findgm setbonus 5\n" +
-15162|<O>| case "村妇": type = "FARM_WOMAN";  break;
-15163|<O>| send_user(team[1],"%c%s",'!',"你的仙丹呢?");
-15164|<O>| send_user(me, "%c%s", '!', "结束四色球测试！");
-15165|<O>| ESC+HIY"修复锻造异常的装备\ntalk %x# bonus.30\n"
-15166|<O>| notify( "没办法修理%s！", item->get_name() );
-15167|<O>| tell_user(who, HIR "游戏管理员ＧＭ突然出现在你面前。\n"
-15168|<O>| gift = new("item/final/91/1810");	//紫箐丹
-15169|<O>| && inside_screen_2(me, npc))    // 卫兵距离
-15170|<O>| interval = TIME_INTERVAL;    // 小心准备 me
-15171|<O>| ESC "艺术。\ntalk " + id + " stir_up.14\n"
-15172|<O>| notify("您能封闭的频道有:chat, rumor,vipchat");
-15173|<O>| if ( rate=who->get("anti_water") )	//抗水
-15174|<O>| case "周国": city2 = "CITY_ZHOU";  break;
-15175|<O>| "/sys/sys/count"->add_use("鉴定", level);
-15176|<O>| write_user(me, ECHO "您现在的攻击模式是:完全保护。");
-15177|<O>| "铁板实战铠桃花源" : "\"/item/final/60/1075\"",
-15178|<O>| send_user(me, "%c%s", '!', "无法生成这种道具");
-15179|<O>| HIR "人物属性界面" NOR "，就是下方有一个小人的按钮，或者直接按'"
-15180|<O>| send_user(who, "%c%s", '!', "错误的时间！！");
-15181|<O>| private int ExtraExpTime;		// 战国号角加经验时间
-15182|<O>| result = sprintf("现在的玩家有%d个:\n", size);
-15183|<O>| me->set_heart_sec(0);    // 初始化时间(准备状态)
-15184|<O>| return "木星精灵死后的魂魄精华，石刻、裁缝、铁匠生活技能需要的材料";
-15185|<O>| private string* Manager5 = ({ });	// 香主
-15186|<O>| send_user(who, "%c%s", '!', "张大升 1/1");
-15187|<O>| if (me->get("gold") == gold)    // 数量正确
-15188|<O>| send_user(who, "%c%s", '!', "现在无法充值。");
-15189|<O>| else if (p < 50 * rate / 100)    // 藏宝图
-15190|<O>| tell_user(me, "请查看 /log/list.txt 文件。");
-15191|<O>| return "有延长寿命之功效,马上恢复2200点气血，2800点法力值";
-15192|<O>| if( damage < 1 ) damage = 1;    // 修正伤害
-15193|<O>| //                ESC "洗红名。\n" + cmd5 +
-15194|<O>| if (me->get_action()==0) return;	// 不攻击
-15195|<O>| "锁链护心甲禁卫军" : "\"/item/final/60/3045\"",
-15196|<O>| ESC "离开", me->get_name(), getoid(me)));
-15197|<O>| send_user(who, "%c%s", '!', "马小三 1/1");
-15198|<O>| notify("对方的现金将超出上限。");    // 您想给予的金额太大。
-15199|<O>| SAY_CMD->say(me, "天恩令，岂是你这种弱小的人能拿到的！");
-15200|<O>| write_user( who, ECHO "您设置本城为回城点。\n" );
-15201|<O>| send_user(me, "%c%s", '!', "扣费服务器失效！");
-15202|<O>| ESC "确定", me->get_name(), getoid(me)));
-15203|<O>| who->get_name() + ":\n    您已领取合服奖励了。\n"
-15204|<O>| private static int Enmity;			//是否开发仇恨设置
-15205|<O>| if (rate < 20 * rate1 / 100)		//随机门派进阶书
-15206|<O>| set("anti_05311", 1);    //设置不能被05311迷惑
-15207|<O>| notify("%s没有打开组队开关。", who->get_name());
-15208|<O>| string get_city_name() { return "赵国"; }
-15209|<O>| private string* Manager6 = ({ });	// 精英
-15210|<O>| return "水星精灵死后的魂魄精华，石刻、裁缝、铁匠生活技能需要的材料";
-15211|<O>| send_user(me, "%c%s", '!', "在战场不能使用。");
-15212|<O>| return "［金仙符咒］昆仑山独创的神法，可操纵天雷与寒冰的力量。\n";
-15213|<O>| private static int iLevel3;		// 战场箭塔的等级
-15214|<O>| tell_user(who, "%c%s", '>', "公告增加成功!");
-15215|<O>| send_user(who, "%c%s", '!', "骨魔精 1/1");
+﻿15134|<O>| string get_city_name() { return "Ngụy Quốc"; }
+15135|<O>| if (MAIN_D->get_host_type()==2)		//Ngoại trừ Đài Loan
+15136|<O>| send_user(who, "%c%s", '!', "Cương Thi Vương 1/1");
+15137|<O>| return "Sách tâm pháp ghi chép chu thiên tụng văn. Thục Sơn có thể dùng sách này thi triển pháp thuật Đại Chu Thiên.";
+15138|<O>| send_user(who, "%c%s", '!', "Cốt Lâu Ma 1/1");
+15139|<O>| "Giáp Hộ Tâm Thép Cấm Vệ Quân" : "\"/item/final/60/3055\"",
+15140|<O>| send_user(who, "%c%s", '!', "Triệu Thuật Sĩ 1/1");
+15141|<O>| send_user(who, "%c%s", '!', "Ngụy Tiểu Tam 1/1");
+15142|<O>| send_user(who, "%c%s", '!', "Tiền Tam Sẹo 1/1");
+15143|<O>| send_user(who, "%c%s", '!', "Thiên Tầng Quái 1/1");
+15144|<O>| notify("Kênh trò chuyện sẽ mở sau %d phút.", t / 60 + 1);
+15145|<O>| send_user(who, "%c%s", '!', "Triệu Tiểu Tam 1/1");
+15146|<O>| send_user(who, "%c%s", '!', "Mê Thất Quỷ 1/1");
+15147|<O>| string get_city_name() { return "Sở Quốc"; }
+15148|<O>| printf(ECHO "Không thể dùng \"" PF_NAME "\" cho người đang bày bán.");
+15149|<O>| send_user(who, "%c%s", '!', "Hứa Tử Cao 1/1");
+15150|<O>| write_user(me, ECHO "Chế độ tấn công hiện tại: Tự do tấn công.");
+15151|<O>| private int AcountNo;				// Số Number tương ứng tài khoản
+15152|<O>| && npc->is_escort_robber_2()    // Ăn mày bị động
+15153|<O>| desc = "Thịt heo nướng có trứng hơi sang trọng, trong 14 giây hồi phục 2170 điểm khí huyết cho người chơi.";
+15154|<O>| "Giáp Thực Chiến Sắt Cấm Vệ Quân" : "\"/item/final/60/3075\"",
+15155|<O>| set_heart_loop(me, 600);    // Nhịp tim tuần hoàn: 1 phút
+15156|<O>| string get_fam_name() { return "Vân Mộng Trạch"; }
+15157|<O>| send_user(who, "%c%s", '!', "Nghịch Thế Quỷ 1/1");
+15158|<O>| notify("%s hiện không ở trong đội.", who->get_name());
+15159|<O>| "/cmd/base/say"->say(me, "Pháp lực...pháp lực...");
+15160|<O>| 07-06-28  18:00 Hoàn thành khung điều khiển tuần hoàn thời gian (sửa một BUG nghiêm trọng trước đó)
+15161|<O>| ESC "Thẻ biến hình thỏ\n" + "findgm setbonus 5\n" +
+15162|<O>| case "Thôn Phụ": type = "FARM_WOMAN";  break;
+15163|<O>| send_user(team[1],"%c%s",'!',"Tiên đan của bạn đâu?");
+15164|<O>| send_user(me, "%c%s", '!', "Kết thúc kiểm tra Tứ Sắc Cầu!");
+15165|<O>| ESC+HIY"Sửa chữa trang bị rèn lỗi\ntalk %x# bonus.30\n"
+15166|<O>| notify( "Không thể sửa %s!", item->get_name() );
+15167|<O>| tell_user(who, HIR "Quản trị viên GM đột nhiên xuất hiện trước mặt bạn.\n"
+15168|<O>| gift = new("item/final/91/1810");	//Tử Thanh Đan
+15169|<O>| && inside_screen_2(me, npc))    // Khoảng cách vệ binh
+15170|<O>| interval = TIME_INTERVAL;    // Cẩn thận chuẩn bị me
+15171|<O>| ESC "Nghệ thuật.\ntalk " + id + " stir_up.14\n"
+15172|<O>| notify("Các kênh bạn có thể đóng: chat, rumor, vipchat");
+15173|<O>| if ( rate=who->get("anti_water") )	//Kháng thủy
+15174|<O>| case "Chu Quốc": city2 = "CITY_ZHOU";  break;
+15175|<O>| "/sys/sys/count"->add_use("Giám định", level);
+15176|<O>| write_user(me, ECHO "Chế độ tấn công hiện tại: Bảo vệ hoàn toàn.");
+15177|<O>| "Giáp Thực Chiến Sắt Đào Hoa Nguyên" : "\"/item/final/60/1075\"",
+15178|<O>| send_user(me, "%c%s", '!', "Không thể tạo đạo cụ này");
+15179|<O>| HIR "Giao diện thuộc tính nhân vật" NOR ", là nút có hình người nhỏ ở phía dưới, hoặc nhấn trực tiếp '"
+15180|<O>| send_user(who, "%c%s", '!', "Thời gian sai!!");
+15181|<O>| private int ExtraExpTime;		// Thời gian thêm kinh nghiệm Chiến Quốc Hiệu Giác
+15182|<O>| result = sprintf("Hiện tại có %d người chơi:\n", size);
+15183|<O>| me->set_heart_sec(0);    // Khởi tạo thời gian (trạng thái chuẩn bị)
+15184|<O>| return "Tinh hoa hồn phách chết của Mộc Tinh Tinh Linh, là nguyên liệu cần thiết cho kỹ năng sinh hoạt Khắc Thạch, Thợ May, Thợ Rèn";
+15185|<O>| private string* Manager5 = ({ });	// Hương Chủ
+15186|<O>| send_user(who, "%c%s", '!', "Trương Đại Thăng 1/1");
+15187|<O>| if (me->get("gold") == gold)    // Số lượng đúng
+15188|<O>| send_user(who, "%c%s", '!', "Hiện tại không thể nạp tiền.");
+15189|<O>| else if (p < 50 * rate / 100)    // Bản đồ tàng bảo
+15190|<O>| tell_user(me, "Vui lòng xem file /log/list.txt.");
+15191|<O>| return "Có công dụng kéo dài tuổi thọ, lập tức hồi phục 2200 điểm khí huyết, 2800 điểm pháp lực";
+15192|<O>| if( damage < 1 ) damage = 1;    // Sửa sát thương
+15193|<O>| //                ESC "Rửa tên đỏ.\n" + cmd5 +
+15194|<O>| if (me->get_action()==0) return;	// Không tấn công
+15195|<O>| "Giáp Hộ Tâm Xích Cấm Vệ Quân" : "\"/item/final/60/3045\"",
+15196|<O>| ESC "Rời đi", me->get_name(), getoid(me)));
+15197|<O>| send_user(who, "%c%s", '!', "Mã Tiểu Tam 1/1");
+15198|<O>| notify("Tiền mặt đối phương sẽ vượt giới hạn.");    // Số tiền bạn muốn cho quá lớn.
+15199|<O>| SAY_CMD->say(me, "Thiên Ân Lệnh, sao kẻ yếu ớt như ngươi có thể lấy được!");
+15200|<O>| write_user( who, ECHO "Bạn đã đặt thành phố này làm điểm hồi thành.\n" );
+15201|<O>| send_user(me, "%c%s", '!', "Server trừ phí đã hết hạn!");
+15202|<O>| ESC "Xác nhận", me->get_name(), getoid(me)));
+15203|<O>| who->get_name() + ":\n    Bạn đã nhận phần thưởng hợp server rồi.\n"
+15204|<O>| private static int Enmity;			//Có mở thiết lập thù hận không
+15205|<O>| if (rate < 20 * rate1 / 100)		//Sách tiến giai môn phái ngẫu nhiên
+15206|<O>| set("anti_05311", 1);    //Thiết lập không bị 05311 mê hoặc
+15207|<O>| notify("%s chưa bật chế độ tổ đội.", who->get_name());
+15208|<O>| string get_city_name() { return "Triệu Quốc"; }
+15209|<O>| private string* Manager6 = ({ });	// Tinh Anh
+15210|<O>| return "Tinh hoa hồn phách chết của Thủy Tinh Tinh Linh, là nguyên liệu cần thiết cho kỹ năng sinh hoạt Khắc Thạch, Thợ May, Thợ Rèn";
+15211|<O>| send_user(me, "%c%s", '!', "Trên chiến trường không thể sử dụng.");
+15212|<O>| return "［Kim Tiên Phù Chú］Thần pháp độc sáng của Côn Lôn Sơn, có thể thao túng sức mạnh thiên lôi và hàn băng.\n";
+15213|<O>| private static int iLevel3;		// Cấp độ tiễn đài chiến trường
+15214|<O>| tell_user(who, "%c%s", '>', "Thêm công cáo thành công!");
+15215|<O>| send_user(who, "%c%s", '!', "Cốt Ma Tinh 1/1");

@@ -1,59 +1,59 @@
-﻿8901|<O>| cmd2 = sprintf(ESC "除于系数\nenergy 1 %d %d\n", type2, index);
-8902|<O>| if (!arrayp(team = me->get_team()) && me == who)    // 自己组队
-8903|<O>| if (get_effect(who, EFFECT_CHAR_CHAN)) continue;    // 执行成功
-8904|<O>| who->set_save_2("pf.armorfall", -sub_effect);    // 小心准备 me
-8905|<O>| private static int Front;               // 战争方面(1: 攻, 2: 守)
-8906|<O>| if (team[i] != oJoiner && get_z(team[i]) == z)    // 更新队员坐标
-8907|<O>| send_user(who, "%c%s", ';', "疑难杂症（1） 经验 350 潜能 20 金钱 500");
-8908|<O>| send_user(who, "%c%s", ';', "报仇雪恨 经验 5800 潜能 230 金钱 4700");
-8909|<O>| send_user(who, "%c%s", ';', "寻找菜谱 经验 4200 潜能 115 金钱 3000");
-8910|<O>| if (p = get_valid_xy(z, x, y, IS_ITEM_BLOCK))  //随机门派蓝色装备1件
-8911|<O>| /*              else if( p < 80006 * rate / 100 )    // 杂物５
-8912|<O>| #define LOGIN_LOG       "loginfo.txt"             // 连线记录日志
-8913|<O>| send_user(who, "%c%s", ';', "哭泣的冤魂 经验 1400 潜能 60 金钱 1200");
-8914|<O>| if( objectp( item = present("神秘的种子", who, 1, MAX_CARRY) ) )
-8915|<O>| /*              else if( p < 30002 * rate / 100 )    // 杂物５
-8916|<O>| return "御赐的咸鱼，10次有效。\n装备后做师爷杀囚任务获得1.3倍潜能。\n（每成功完成一次耐久度减一）";
-8917|<O>| if( who ) log_file( CRASH_LOG, sprintf( "用户:%O\n", who ) );
-8918|<O>| void on_active_near(int callout_delay_time);		//	活动临近时执行的函数
-8919|<O>| private int time_clip(int time_int, int mins); 		//	时间轴整数相减
-8920|<O>| return "赵国专属骑宠鸵鸵\n使用条件:使用者为赵国子民或与赵国达到一定的友好度。\n该道具使用后绑定。\n";
-8921|<O>| write_user(me, ECHO "您打开书本，一本正经地给%s讲课……", who->get_name());
-8922|<O>| send_user(who, "%c%s", ';', "头疼的毛病（2） 经验 550 潜能 30 灵芝草 1");
-8923|<O>| send_user(who, "%c%s", '!', obj2[i]->get_name() + "不能交易。");
-8924|<O>| send_user(me, "%c%c%w%w%s", 0x60, 4, get_number(), 3, "鞋");
-8925|<O>| return "齐国专属骑宠小乖\n使用条件:使用者为齐国子民或与齐国达到一定的友好度。\n该道具使用后绑定。\n";
-8926|<O>| send_user(who, "%c%s", '!', sprintf("您的角色获得%d元宝。", price));
-8927|<O>| ESC "关闭\ntalk %x# welcome.3", me->get_name(), getoid(me)));
-8928|<O>| && stringp(name = who->get_quest("escort.name"))    // 镖主姓名
-8929|<O>| if (get_block(z, x, y) & IS_MAP_BLOCK) return 1;    // 无法落脚
-8930|<O>| private int *week_day_can  	   = ({1,2,3,4});			//	允许开放的星期天
-8931|<O>| if (!objectp(item2 = present("僵尸符", me, 1, MAX_CARRY * 4)))
-8932|<O>| result = sprintf(HIR"%s的总管顺利提升了一级，目前等级为%d级。", name, level);
-8933|<O>| send_user(who, "%c%c%c%w%s", 0x51, 2, 1, TID_WEIGUO, "韩国");
-8934|<O>| send_user(who, "%c%s", ';', "心愿 经验 52000 潜能 620 金钱 48000");
-8935|<O>| send_user(who, "%c%s", ';', "石狮 经验 52000 潜能 720 金钱 48000");
-8936|<O>| send_user(who, "%c%s", ';', "奇异之光 经验 6800 潜能 240 金钱 6500");
-8937|<O>| #define ADD_03486       03486           // 补满玩家元气(“兵法”被动技能)
-8938|<O>| send_user(who, "%c%s", ';', "心事重重 经验 5400 潜能 190 金钱 4900");
-8939|<O>| send_user(who, "%c%s", ';', "交好 经验 50000 潜能 620 金钱 48000");
-8940|<O>| if (get_effect(who, EFFECT_SLEEP)) return 1;    // 对手昏迷不能使用
-8941|<O>| send_user(me, "%c%s", ';', "您累计在线时间已满3小时，请您下线休息，做适当身体活动。");
-8942|<O>| ESC "是的。\nteam x " + sprintf("%d", me->get_number()) + "\n"
-8943|<O>| send_user(who, "%c%s", ';', "挑战 经验 42000 潜能 600 金钱 40000");
-8944|<O>| send_user(me, "%c%c%w%w%s", 0x60, 4, get_number(), 5, "棍");
-8945|<O>| result = sprintf("国家:%-8s  等级:%8d  城主:%s %s，%s %s，%s %s\n",
-8946|<O>| send_user(me, "%c%s", '!', who->get_name() + "的队伍与你结成团队！");
-8947|<O>| cmd1 = sprintf(ESC "加乘系数\nenergy 0 %d %d\n", type2, index);
-8948|<O>| int get_zombie_type() { return ZOMBIE_TYPE_2; }     // 判断种类
-8949|<O>| //int new_scene(int d, string mapname,string name) //新增副本场景
-8950|<O>| /*              else if( p < 40000 * rate / 100 )    // 杂物５
-8951|<O>| result += sprintf("艺人:%3d 级 %10d 经验    农夫:%3d 级 %10d 经验\n",
-8952|<O>| send_user(who, "%c%s", ';', "神奇的彩衣 经验 1500 潜能 80 金钱 1300");
-8953|<O>| ESC + sprintf("接受任务。\ntalk %x# valentine8\n", getoid(me)) +
-8954|<O>| send_user(who, "%c%s", '!', "你已经在济世葫芦管理员处寄存了一个葫芦，不能再寄存了！");
-8955|<O>| result += sprintf("外地人买入税:%2d%%\n", city->get_buy_tax_2());
-8956|<O>| send_user(team[i], "%c%s", '!', sprintf(HIY"梁兴 %d/1", kk));
-8957|<O>| #define ADD_03485       03485           // 增加物理防御(“兵法”被动技能)
-8958|<O>| send_user(who, "%c%s", ';', "论语 经验 58000 潜能 850 金钱 50000");
-8959|<O>| int get_skill_exp() { return skill_exp; }				// 函数:获取采集经验奖励
+﻿8901|<O>| cmd2 = sprintf(ESC "Chia cho hệ số\nenergy 1 %d %d\n", type2, index);
+8902|<O>| if (!arrayp(team = me->get_team()) && me == who)    // Tự tổ đội
+8903|<O>| if (get_effect(who, EFFECT_CHAR_CHAN)) continue;    // Thực hiện thành công
+8904|<O>| who->set_save_2("pf.armorfall", -sub_effect);    // Cẩn thận chuẩn bị me
+8905|<O>| private static int Front;               // Phương diện chiến tranh(1: Công, 2: Thủ)
+8906|<O>| if (team[i] != oJoiner && get_z(team[i]) == z)    // Cập nhật tọa độ đội viên
+8907|<O>| send_user(who, "%c%s", ';', "Nghi Nan Tạp Chứng（1） Kinh nghiệm 350 Tiềm năng 20 Tiền vàng 500");
+8908|<O>| send_user(who, "%c%s", ';', "Báo Thù Tuyết Hận Kinh nghiệm 5800 Tiềm năng 230 Tiền vàng 4700");
+8909|<O>| send_user(who, "%c%s", ';', "Tìm Kiếm Thực Đơn Kinh nghiệm 4200 Tiềm năng 115 Tiền vàng 3000");
+8910|<O>| if (p = get_valid_xy(z, x, y, IS_ITEM_BLOCK))  //Ngẫu nhiên 1 trang bị xanh môn phái
+8911|<O>| /*              else if( p < 80006 * rate / 100 )    // Tạp vật 5
+8912|<O>| #define LOGIN_LOG       "loginfo.txt"             // Nhật ký kết nối
+8913|<O>| send_user(who, "%c%s", ';', "Oan Hồn Khóc Lóc Kinh nghiệm 1400 Tiềm năng 60 Tiền vàng 1200");
+8914|<O>| if( objectp( item = present("Hạt Giống Thần Bí", who, 1, MAX_CARRY) ) )
+8915|<O>| /*              else if( p < 30002 * rate / 100 )    // Tạp vật 5
+8916|<O>| return "Cá muối do vua ban, 10 lần hiệu lực.\nSau khi trang bị, làm nhiệm vụ Sư Gia giết tù nhận được 1.3 lần tiềm năng.\n（Mỗi lần hoàn thành giảm một độ bền）";
+8917|<O>| if( who ) log_file( CRASH_LOG, sprintf( "Người dùng:%O\n", who ) );
+8918|<O>| void on_active_near(int callout_delay_time);		//	Hàm thực thi khi hoạt động sắp đến
+8919|<O>| private int time_clip(int time_int, int mins); 		//	Trục thời gian số nguyên trừ nhau
+8920|<O>| return "Kỵ sủng chuyên thuộc Triệu Quốc - Đà Đà\nĐiều kiện sử dụng: Người dùng là thần dân Triệu Quốc hoặc đạt mức độ hữu hảo nhất định với Triệu Quốc.\nĐạo cụ này sau khi sử dụng sẽ bị khóa.\n";
+8921|<O>| write_user(me, ECHO "Bạn mở sách ra, nghiêm túc giảng bài cho %s……", who->get_name());
+8922|<O>| send_user(who, "%c%s", ';', "Bệnh Đau Đầu（2） Kinh nghiệm 550 Tiềm năng 30 Linh Chi Thảo 1");
+8923|<O>| send_user(who, "%c%s", '!', obj2[i]->get_name() + " không thể giao dịch.");
+8924|<O>| send_user(me, "%c%c%w%w%s", 0x60, 4, get_number(), 3, "Giày");
+8925|<O>| return "Kỵ sủng chuyên thuộc Tề Quốc - Tiểu Quai\nĐiều kiện sử dụng: Người dùng là thần dân Tề Quốc hoặc đạt mức độ hữu hảo nhất định với Tề Quốc.\nĐạo cụ này sau khi sử dụng sẽ bị khóa.\n";
+8926|<O>| send_user(who, "%c%s", '!', sprintf("Nhân vật của bạn nhận được %d nguyên bảo.", price));
+8927|<O>| ESC "Đóng\ntalk %x# welcome.3", me->get_name(), getoid(me)));
+8928|<O>| && stringp(name = who->get_quest("escort.name"))    // Tên chủ tiêu
+8929|<O>| if (get_block(z, x, y) & IS_MAP_BLOCK) return 1;    // Không thể đặt chân
+8930|<O>| private int *week_day_can  	   = ({1,2,3,4});			//	Ngày trong tuần cho phép mở
+8931|<O>| if (!objectp(item2 = present("Cương Thi Phù", me, 1, MAX_CARRY * 4)))
+8932|<O>| result = sprintf(HIR"%s tổng quản đã thuận lợi thăng lên một cấp, hiện tại là cấp %d.", name, level);
+8933|<O>| send_user(who, "%c%c%c%w%s", 0x51, 2, 1, TID_WEIGUO, "Hàn Quốc");
+8934|<O>| send_user(who, "%c%s", ';', "Tâm Nguyện Kinh nghiệm 52000 Tiềm năng 620 Tiền vàng 48000");
+8935|<O>| send_user(who, "%c%s", ';', "Thạch Sư Kinh nghiệm 52000 Tiềm năng 720 Tiền vàng 48000");
+8936|<O>| send_user(who, "%c%s", ';', "Kỳ Dị Chi Quang Kinh nghiệm 6800 Tiềm năng 240 Tiền vàng 6500");
+8937|<O>| #define ADD_03486       03486           // Bổ đầy nguyên khí người chơi("Binh Pháp" kỹ năng bị động)
+8938|<O>| send_user(who, "%c%s", ';', "Tâm Sự Trĩu Nặng Kinh nghiệm 5400 Tiềm năng 190 Tiền vàng 4900");
+8939|<O>| send_user(who, "%c%s", ';', "Giao Hảo Kinh nghiệm 50000 Tiềm năng 620 Tiền vàng 48000");
+8940|<O>| if (get_effect(who, EFFECT_SLEEP)) return 1;    // Đối thủ hôn mê không thể sử dụng
+8941|<O>| send_user(me, "%c%s", ';', "Thời gian trực tuyến tích lũy của bạn đã đủ 3 giờ, xin hãy thoát game nghỉ ngơi, vận động cơ thể phù hợp.");
+8942|<O>| ESC "Đúng vậy.\nteam x " + sprintf("%d", me->get_number()) + "\n"
+8943|<O>| send_user(who, "%c%s", ';', "Thách Đấu Kinh nghiệm 42000 Tiềm năng 600 Tiền vàng 40000");
+8944|<O>| send_user(me, "%c%c%w%w%s", 0x60, 4, get_number(), 5, "Côn");
+8945|<O>| result = sprintf("Quốc gia:%-8s  Cấp độ:%8d  Thành chủ:%s %s, %s %s, %s %s\n",
+8946|<O>| send_user(me, "%c%s", '!', who->get_name() + " đã kết đội đoàn với bạn!");
+8947|<O>| cmd1 = sprintf(ESC "Nhân hệ số\nenergy 0 %d %d\n", type2, index);
+8948|<O>| int get_zombie_type() { return ZOMBIE_TYPE_2; }     // Phán đoán chủng loại
+8949|<O>| //int new_scene(int d, string mapname,string name) //Tăng thêm cảnh phụ bản
+8950|<O>| /*              else if( p < 40000 * rate / 100 )    // Tạp vật 5
+8951|<O>| result += sprintf("Nghệ nhân:%3d cấp %10d kinh nghiệm    Nông phu:%3d cấp %10d kinh nghiệm\n",
+8952|<O>| send_user(who, "%c%s", ';', "Thải Y Thần Kỳ Kinh nghiệm 1500 Tiềm năng 80 Tiền vàng 1300");
+8953|<O>| ESC + sprintf("Tiếp nhận nhiệm vụ.\ntalk %x# valentine8\n", getoid(me)) +
+8954|<O>| send_user(who, "%c%s", '!', "Bạn đã gửi một Tế Thế Hồ Lô ở quản lý viên, không thể gửi thêm nữa!");
+8955|<O>| result += sprintf("Thuế mua vào của người ngoài:%2d%%\n", city->get_buy_tax_2());
+8956|<O>| send_user(team[i], "%c%s", '!', sprintf(HIY"Lương Hưng %d/1", kk));
+8957|<O>| #define ADD_03485       03485           // Tăng phòng thủ vật lý("Binh Pháp" kỹ năng bị động)
+8958|<O>| send_user(who, "%c%s", ';', "Luận Ngữ Kinh nghiệm 58000 Tiềm năng 850 Tiền vàng 50000");
+8959|<O>| int get_skill_exp() { return skill_exp; }				// Hàm: Lấy thưởng kinh nghiệm thu thập

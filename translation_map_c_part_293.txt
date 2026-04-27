@@ -1,17 +1,17 @@
-﻿10877|<O>| send_user(who, "%c%s", ';', "rất bão khiểm，bạntrảocủaxấulớnHùng số lượngkhôngtúc ồ，Tiếp tụcnỗ Lực ");
+﻿10877|<O>| send_user(who, "%c%s", ';', "Rất tiếc, số lượng gấu lớn hư bạn bắt chưa đủ, hãy cố gắng tiếp nhé");
 10878|<O>| #define SKILL_FINAL	"/item/final/60/1045"				// Kết quả chế tạo
 10879|<O>| #define SKILL_FINAL	"/item/final/88/1045"				// Kết quả chế tạo
 10880|<O>| #define SKILL_FINAL	"/item/final/60/7065"				// Kết quả chế tạo
-10881|<O>| send_user(who, "%c%c", 0x26, 3);    // Hủy bỏđối vớiPhương xác nhận（càng Cảibản thânVật Phẩm）
-10882|<O>| CHAR_CHAR_D->send_loop_perform(me, who);    // hiển thịkéo dàihiệu Quả
+10881|<O>| send_user(who, "%c%c", 0x26, 3);    // Hủy xác nhận đối phương（thay đổi vật phẩm bên mình）
+10882|<O>| CHAR_CHAR_D->send_loop_perform(me, who);    // Hiển thị hiệu ứng liên tục
 10883|<O>| #define SKILL_FINAL	"/item/final/60/6055"				// Kết quả chế tạo
-10884|<O>| CHAT_D->rumor_channel(0, CHAT + "thính nóiThầnDũngcủaSơnlớnVương lạilầnXuất hiệnTạiTân Thủ Thôn！");
-10885|<O>| set_heart_timer_2(me, heart);    // càngmớiTâm nhảygiờChung(phụ), biểu thị kỳ đã xử lý
-10886|<O>| item->set(SEAL_INTERVAL, ADD_INTERVAL);    // cẩn thận chuẩn bị me
+10884|<O>| CHAT_D->rumor_channel(0, CHAT + "Nghe nói Sơn Đại Vương thần dũng lại xuất hiện ở Làng Tân Thủ!");
+10885|<O>| set_heart_timer_2(me, heart);    // Cập nhật đồng hồ nhịp tim(phụ), biểu thị đã xử lý
+10886|<O>| item->set(SEAL_INTERVAL, ADD_INTERVAL);    // Cẩn thận chuẩn bị me
 10887|<O>| #define SKILL_FINAL	"/item/final/86/7035"				// Kết quả chế tạo
 10888|<O>| #define SKILL_FINAL	"/item/final/60/3075"				// Kết quả chế tạo
 10889|<O>| #define SKILL_FINAL	"/item/final/60/1085"				// Kết quả chế tạo
-10890|<O>| result2 = sprintf("Thăng cấpKinh nghiệm %d", who->get_upgrade_exp());
+10890|<O>| result2 = sprintf("Kinh nghiệm nâng cấp %d", who->get_upgrade_exp());
 10891|<O>| #define SKILL_FINAL	"/item/final/74/1085"				// Kết quả chế tạo
 10892|<O>| #define SKILL_FINAL	"/item/final/60/7095"				// Kết quả chế tạo
 10893|<O>| #define SKILL_FINAL	"/item/final/60/5035"				// Kết quả chế tạo
@@ -28,32 +28,32 @@
 10904|<O>| #define SKILL_FINAL	"/item/final/88/2105"				// Kết quả chế tạo
 10905|<O>| #define SKILL_FINAL	"/item/final/88/6120"				// Kết quả chế tạo
 10906|<O>| #define SKILL_FINAL	"/item/final/60/4045"				// Kết quả chế tạo
-10907|<O>| tell_user(me, "Bạn sẽ" + who->get_name() + "Tạihoạt độngtrường sởcủachiến đấuCấm cố");
-10908|<O>| send_user(who, "%c%s", ';', "tìm úy trì Lão tiêu đầu đàm đàm Kinh nghiệm 250 Tiềm năng 30");
+10907|<O>| tell_user(me, "Bạn đã giam giữ chiến đấu của " + who->get_name() + " tại địa điểm hoạt động");
+10908|<O>| send_user(who, "%c%s", ';', "Tìm Úy Trì Lão Tiêu Đầu Nói Chuyện Kinh nghiệm 250 Tiềm năng 30");
 10909|<O>| #define SKILL_FINAL	"/item/final/88/4045"				// Kết quả chế tạo
 10910|<O>| #define SKILL_FINAL	"/item/final/88/3065"				// Kết quả chế tạo
-10911|<O>| npc->set_city_name( me->get_city_name() );    // dùng vu Chiến trường
+10911|<O>| npc->set_city_name( me->get_city_name() );    // Dùng cho chiến trường
 10912|<O>| #define SKILL_FINAL	"/item/final/65/2110"				// Kết quả chế tạo
 10913|<O>| #define SKILL_FINAL	"/item/final/86/2105"				// Kết quả chế tạo
 10914|<O>| #define SKILL_FINAL	"/item/final/88/5045"				// Kết quả chế tạo
 10915|<O>| #define SKILL_FINAL	"/item/final/71/1105"				// Kết quả chế tạo
 10916|<O>| #define SKILL_FINAL	"/item/final/72/1055"				// Kết quả chế tạo
-10917|<O>| return HIC+get_name()+"\nSủng vật sở hữu kỹ năng này，sẽSử dụngThủyPháp ThuậtTấn công3×3Phạm vitrongmục tiêu。";
-10918|<O>| send_user(who, "%c%s", '!', sprintf("Bạn nhận được%dVàng", cash));
+10917|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này, sẽ sử dụng pháp thuật nước tấn công mục tiêu trong phạm vi 3×3.";
+10918|<O>| send_user(who, "%c%s", '!', sprintf("Bạn nhận được %d vàng", cash));
 10919|<O>| #define SKILL_FINAL	"/item/final/60/5065"				// Kết quả chế tạo
 10920|<O>| #define SKILL_FINAL	"/item/final/86/1115"				// Kết quả chế tạo
 10921|<O>| #define SKILL_FINAL	"/item/final/70/1075"				// Kết quả chế tạo
 10922|<O>| #define SKILL_FINAL	"/item/final/86/3120"				// Kết quả chế tạo
-10923|<O>| send_user(who, "%c%s", '!', "tânThủyđượcTại 10000～100000 Chi gian。");
+10923|<O>| send_user(who, "%c%s", '!', "Lương phải trong khoảng 10000～100000.");
 10924|<O>| #define SKILL_FINAL	"/item/final/86/5119"				// Kết quả chế tạo
 10925|<O>| #define SKILL_FINAL	"/item/final/71/1085"				// Kết quả chế tạo
 10926|<O>| #define SKILL_FINAL	"/item/final/86/1119"				// Kết quả chế tạo
-10927|<O>| ESC "Tướng" + me->get_city_name() + "tác vìtôicủaHồi Thànhđiểm。\n" + cmd2 +
-10928|<O>| send_user(who, "%c%s", '!', sprintf("trì phiến Thảo Nhân %d/1", i));
+10927|<O>| ESC "Đặt " + me->get_city_name() + " làm điểm hồi thành của tôi.\n" + cmd2 +
+10928|<O>| send_user(who, "%c%s", '!', sprintf("Người Rơm Cầm Quạt %d/1", i));
 10929|<O>| #define SKILL_FINAL	"/item/final/65/1115"				// Kết quả chế tạo
-10930|<O>| return HIC+get_name()+"\nSủng vật sở hữu kỹ năng này，sẽSử dụngHỏaPháp ThuậtTấn công3×3Phạm vitrongmục tiêu。";
+10930|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này, sẽ sử dụng pháp thuật lửa tấn công mục tiêu trong phạm vi 3×3.";
 10931|<O>| #define SKILL_FINAL	"/item/final/86/3095"				// Kết quả chế tạo
-10932|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận"HIY"thảo yếmcủaSơn Kê"NOR"Nhiệm vụ");
+10932|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận nhiệm vụ "HIY"Gà Rừng Đáng Ghét"NOR"");
 10933|<O>| #define SKILL_FINAL	"/item/final/88/1115"				// Kết quả chế tạo
 10934|<O>| #define SKILL_FINAL	"/item/final/88/7095"				// Kết quả chế tạo
 10935|<O>| #define SKILL_FINAL	"/item/final/88/6065"				// Kết quả chế tạo

@@ -1,77 +1,77 @@
-﻿14260|<O>| return sprintf("%d级影晶石", me->get_level());
-14261|<O>| case "周国": z = 80;  p = get_jumpin(z, 10);
-14262|<O>| who->set_quest("valentine.name", "诡异的飞贼");
-14263|<O>| gift = new("item/final/16/1607");	//铁制机关构件
-14264|<O>| send_user(who, "%c%s", '!', "您需要九个物品空间。");
-14265|<O>| void level2_callout(object me)    // 每１分处理
-14266|<O>| send_user(me, "%c%s", '!', "帮派齐心合力奖励开启！");
-14267|<O>| string get_family_name() { return " 茅山"; }
-14268|<O>| send_user(who, "%c%s", '!', "您需要五个物品空间。");
-14269|<O>| void level1_callout(object me)    // 每１分处理
-14270|<O>| send_user(who, "%c%s", '!', "你取消了自杀的决定。");
-14271|<O>| string get_family_name() { return " 唐门"; }
-14272|<O>| string get_skill_name() { return "腾挪躲闪"; }
-14273|<O>| send_user(who, "%c%s", ';', "您身上没有足够空位！");
-14274|<O>| if (!me->get_family_open())    // 使用可以打开频道
-14275|<O>| return "［漫天花雨］提升使用暗器的攻击力，每级提升 1.4 点攻击力\n";
-14276|<O>| city->delete_save_2("build");    // 删除任务标志
-14277|<O>| me->set_hp(me->get_max_hp());    // 升级加满气血
-14278|<O>| send_user(who, "%c%s", '!', HIY"雄黄散 1/1");
-14279|<O>| send_user(who, "%c%s", '!', "您得先去接战备任务。");
-14280|<O>| send_user(who, "%c%s", '!', "得到任务 消灭噬情魔");
-14281|<O>| string get_skill_name() { return "飞仙剑法"; }
-14282|<O>| return sprintf("%d级暗晶石", me->get_level());
-14283|<O>| return sprintf("%d级火灵石", me->get_level());
-14284|<O>| tell_user(me, "玩家[%2d]:%s", size, result);
-14285|<O>| return "［唐门毒经］提升玩家装备暗器时的防御力，每级提升0.8点。 \n";
-14286|<O>| return "精铁矿石，通过生活技能的矿冶熔炼成精铁锭可以供铁匠、机关制造装备";
-14287|<O>| send_user( who, "%c%s", '!', "您护送的人呢？！" );
-14288|<O>| send_user(who, "%c%s", '!', "你身上没有济世宝玉！");
-14289|<O>| return "［爆击强化］ 帮派特殊技，可增加玩家的爆击率，每级增加1％。\n";
-14290|<O>| return sprintf("%d级火晶石", me->get_level());
-14291|<O>| + sprintf(ESC"把时间还原为标准的系统时间\nparty 149\n")
-14292|<O>| printf( ECHO "使用“" PF_NAME "”的工具的等级过低。" );
-14293|<O>| send_user(who,"%c%s",'!',"您不能领取这个级别的称谓！");
-14294|<O>| return "记载着蜀山专用法术周天强化的书籍。蜀山使用后可学会法术周天强化。";
-14295|<O>| return "一种能使人神定心仪的药丸,马上恢复450点法术力，冷却时间15秒";
-14296|<O>| if (present("贵重物品", me, 1, MAX_CARRY * 4))
-14297|<O>| interval = TIME_INTERVAL;    // 小心准备 level
-14298|<O>| send_user(me, "%c%s", '!', "你不能携带更多的宠物。");
-14299|<O>| who->log_legend(sprintf("您脱离%s。", name1));
-14300|<O>| send_user(me, "%c%s", '!', "请装备需要涂毒的武器。");
-14301|<O>| string get_skill_name() { return "御风心法"; }
-14302|<O>| result2 = sprintf("气血 %d", who->get_hp());
-14303|<O>| string get_skill_name() { return "漫天花雨"; }
-14304|<O>| send_user(me, "%c%s", '!', "在战场不能使用飞行符。");
-14305|<O>| //	send_user(who,"%c%s",';',"你报名加入长平之战！");
-14306|<O>| else if (p < 9880 * rate / 100)    // 一级晶石
-14307|<O>| who->log_legend(sprintf("您入籍%s。", name2));
-14308|<O>| return "能对耐力临时提高，临时提高10%最大气血，持续10分钟，冷却2秒";
-14309|<O>| return sprintf("%d级日灵石", me->get_level());
-14310|<O>| return sprintf("%d级风灵石", me->get_level());
-14311|<O>| return "相传其能摄住万物之魂魄的宝石，石刻、铁匠、机关、裁缝所需的材料。";
-14312|<O>| case "武生帽": type = "M_WUSHENGMAO";  break;
-14313|<O>| return "玄铁矿石，通过生活技能的矿冶熔炼成玄铁锭可以供铁匠、机关制造装备";
-14314|<O>| tell_user(me, "你成功邀请了" + who->get_name());
-14315|<O>| string get_skill_name() { return "周天运转"; }
-14316|<O>| return "施法所常用的一种小型药丸,马上恢复150点法术力，冷却时间15秒";
-14317|<O>| send_user(me, "%c%s", '!', "带着贵重物品不能使用。");
-14318|<O>| return sprintf("%d级月灵石", me->get_level());
-14319|<O>| void into_effect(object me)    // 踏雪无痕(自用)
-14320|<O>| string get_skill_name() { return "混元真气"; }
-14321|<O>| case "云梦泽" : hp = me->get_con() * 45 / 10;
-14322|<O>| MAP_D->reset_npc(get_id());    // 复位NPC 对象
-14323|<O>| static int RecordMessage;			// 是否记录来源及走向信息
-14324|<O>| return "十二星座之一的双鱼座。将其放出，主人法术攻击、物理攻击各增加5%";
-14325|<O>| send_user(me, "%c%s", '!', "您已经新建了游戏角色！");
-14326|<O>| return sprintf("%d级水晶石", me->get_level());
-14327|<O>| case "武生帽": type = "F_WUSHENGMAO";  break;
-14328|<O>| if (who->get_city_name() != city[z] + "国")
-14329|<O>| send_user(who, "%c%s", '!', "你" + result);
-14330|<O>| return "用来收集妖怪灵魂的茶壶。当收满妖怪灵魂后，净化该壶可以获得奖励。";
-14331|<O>| send_user(who, "%c%s", '!', "您需要三个物品空间。");
-14332|<O>| send_user(who, "%c%s", '!', "您获得了一张藏宝图！");
-14333|<O>| return sprintf("%d级土晶石", me->get_level());
-14334|<O>| tell_user(me, sprintf("找不到%s", stuff[j]));
-14335|<O>| if (city < 0) city = random(8);    // 随机城市
-14336|<O>| send_user(who, "%c%s", '!', "对方携带的物品太多了");
+﻿14260|<O>| return sprintf("Ảnh Tinh Thạch cấp %d", me->get_level());
+14261|<O>| case "Chu Quốc": z = 80;  p = get_jumpin(z, 10);
+14262|<O>| who->set_quest("valentine.name", "Phi Tặc Quỷ Dị");
+14263|<O>| gift = new("item/final/16/1607");	//Linh kiện cơ quan sắt
+14264|<O>| send_user(who, "%c%s", '!', "Bạn cần 9 ô đạo cụ trống.");
+14265|<O>| void level2_callout(object me)    // Xử lý mỗi 1 phút
+14266|<O>| send_user(me, "%c%s", '!', "Phần thưởng đồng tâm hiệp lực bang phái đã mở!");
+14267|<O>| string get_family_name() { return " Mao Sơn"; }
+14268|<O>| send_user(who, "%c%s", '!', "Bạn cần 5 ô đạo cụ trống.");
+14269|<O>| void level1_callout(object me)    // Xử lý mỗi 1 phút
+14270|<O>| send_user(who, "%c%s", '!', "Bạn đã hủy quyết định tự sát.");
+14271|<O>| string get_family_name() { return " Đường Môn"; }
+14272|<O>| string get_skill_name() { return "Đằng Nã Né Tránh"; }
+14273|<O>| send_user(who, "%c%s", ';', "Bạn không còn đủ ô trống!");
+14274|<O>| if (!me->get_family_open())    // Dùng để mở kênh
+14275|<O>| return "［Mạn Thiên Hoa Vũ］Tăng sức tấn công khi dùng ám khí, mỗi cấp tăng 1.4 điểm tấn công\n";
+14276|<O>| city->delete_save_2("build");    // Xóa cờ nhiệm vụ
+14277|<O>| me->set_hp(me->get_max_hp());    // Lên cấp hồi đầy khí huyết
+14278|<O>| send_user(who, "%c%s", '!', HIY"Hùng Hoàng Tán 1/1");
+14279|<O>| send_user(who, "%c%s", '!', "Bạn phải nhận nhiệm vụ chiến bị trước.");
+14280|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ Tiêu Diệt Thực Tình Ma");
+14281|<O>| string get_skill_name() { return "Phi Tiên Kiếm Pháp"; }
+14282|<O>| return sprintf("Ám Tinh Thạch cấp %d", me->get_level());
+14283|<O>| return sprintf("Hỏa Linh Thạch cấp %d", me->get_level());
+14284|<O>| tell_user(me, "Người chơi[%2d]:%s", size, result);
+14285|<O>| return "［Đường Môn Độc Kinh］Tăng phòng thủ khi trang bị ám khí, mỗi cấp tăng 0.8 điểm. \n";
+14286|<O>| return "Quặng tinh thiết, thông qua kỹ năng sinh hoạt luyện kim thành Tinh Thiết Đĩnh có thể cung cấp cho Thợ Rèn, Cơ Quan chế tạo trang bị";
+14287|<O>| send_user( who, "%c%s", '!', "Người mà bạn hộ tống đâu rồi?!" );
+14288|<O>| send_user(who, "%c%s", '!', "Bạn không có Tế Thế Bảo Ngọc!");
+14289|<O>| return "［Cường Hóa Bạo Kích］ Kỹ năng đặc biệt bang phái, tăng tỷ lệ bạo kích, mỗi cấp tăng 1%.\n";
+14290|<O>| return sprintf("Hỏa Tinh Thạch cấp %d", me->get_level());
+14291|<O>| + sprintf(ESC"Khôi phục thời gian về giờ hệ thống chuẩn\nparty 149\n")
+14292|<O>| printf( ECHO "Cấp công cụ sử dụng \"" PF_NAME "\" quá thấp." );
+14293|<O>| send_user(who,"%c%s",'!',"Bạn không thể nhận danh hiệu cấp này！");
+14294|<O>| return "Sách ghi chép pháp thuật chuyên dụng của Thục Sơn - Chu Thiên Cường Hóa. Thục Sơn sử dụng có thể học Pháp Thuật Chu Thiên Cường Hóa.";
+14295|<O>| return "Một loại thuốc viên giúp an thần định tâm, lập tức hồi phục 450 điểm pháp lực, thời gian hồi chiêu 15 giây";
+14296|<O>| if (present("Vật Phẩm Quý Giá", me, 1, MAX_CARRY * 4))
+14297|<O>| interval = TIME_INTERVAL;    // Cẩn thận chuẩn bị level
+14298|<O>| send_user(me, "%c%s", '!', "Bạn không thể mang thêm thú cưng.");
+14299|<O>| who->log_legend(sprintf("Bạn rời khỏi %s.", name1));
+14300|<O>| send_user(me, "%c%s", '!', "Hãy trang bị vũ khí cần tẩm độc.");
+14301|<O>| string get_skill_name() { return "Ngự Phong Tâm Pháp"; }
+14302|<O>| result2 = sprintf("Khí huyết %d", who->get_hp());
+14303|<O>| string get_skill_name() { return "Mạn Thiên Hoa Vũ"; }
+14304|<O>| send_user(me, "%c%s", '!', "Trên chiến trường không thể dùng Phi Hành Phù.");
+14305|<O>| //	send_user(who,"%c%s",';',"Bạn đăng ký tham gia Trường Bình Chi Chiến!");
+14306|<O>| else if (p < 9880 * rate / 100)    // Tinh thạch cấp 1
+14307|<O>| who->log_legend(sprintf("Bạn nhập tịch %s.", name2));
+14308|<O>| return "Tạm thời tăng sức bền, tăng 10% khí huyết tối đa, kéo dài 10 phút, hồi chiêu 2 giây";
+14309|<O>| return sprintf("Nhật Linh Thạch cấp %d", me->get_level());
+14310|<O>| return sprintf("Phong Linh Thạch cấp %d", me->get_level());
+14311|<O>| return "Bảo thạch huyền thoại có thể nhiếp hồn vạn vật, là nguyên liệu cần thiết cho Khắc Thạch, Thợ Rèn, Cơ Quan, Thợ May.";
+14312|<O>| case "Mũ Vũ Sinh": type = "M_WUSHENGMAO";  break;
+14313|<O>| return "Quặng huyền thiết, thông qua kỹ năng sinh hoạt luyện kim thành Huyền Thiết Đĩnh có thể cung cấp cho Thợ Rèn, Cơ Quan chế tạo trang bị";
+14314|<O>| tell_user(me, "Bạn đã mời thành công " + who->get_name());
+14315|<O>| string get_skill_name() { return "Chu Thiên Vận Chuyển"; }
+14316|<O>| return "Loại thuốc viên nhỏ thường dùng khi thi pháp, lập tức hồi phục 150 điểm pháp lực, thời gian hồi chiêu 15 giây";
+14317|<O>| send_user(me, "%c%s", '!', "Mang theo vật phẩm quý giá không thể sử dụng.");
+14318|<O>| return sprintf("Nguyệt Linh Thạch cấp %d", me->get_level());
+14319|<O>| void into_effect(object me)    // Đạp Tuyết Vô Ngần (tự dùng)
+14320|<O>| string get_skill_name() { return "Hỗn Nguyên Chân Khí"; }
+14321|<O>| case "Vân Mộng Trạch" : hp = me->get_con() * 45 / 10;
+14322|<O>| MAP_D->reset_npc(get_id());    // Reset đối tượng NPC
+14323|<O>| static int RecordMessage;			// Có ghi lại nguồn và hướng đi không
+14324|<O>| return "Một trong mười hai cung hoàng đạo - Song Ngư. Thả ra, pháp công và vật công của chủ nhân tăng 5% mỗi loại";
+14325|<O>| send_user(me, "%c%s", '!', "Bạn đã tạo nhân vật game rồi!");
+14326|<O>| return sprintf("Thủy Tinh Thạch cấp %d", me->get_level());
+14327|<O>| case "Mũ Vũ Sinh": type = "F_WUSHENGMAO";  break;
+14328|<O>| if (who->get_city_name() != city[z] + " Quốc")
+14329|<O>| send_user(who, "%c%s", '!', "Bạn " + result);
+14330|<O>| return "Ấm trà dùng để thu thập hồn quái vật. Khi thu đầy, tịnh hóa ấm có thể nhận thưởng.";
+14331|<O>| send_user(who, "%c%s", '!', "Bạn cần 3 ô đạo cụ trống.");
+14332|<O>| send_user(who, "%c%s", '!', "Bạn nhận được một tấm bản đồ tàng bảo!");
+14333|<O>| return sprintf("Thổ Tinh Thạch cấp %d", me->get_level());
+14334|<O>| tell_user(me, sprintf("Không tìm thấy %s", stuff[j]));
+14335|<O>| if (city < 0) city = random(8);    // Thành phố ngẫu nhiên
+14336|<O>| send_user(who, "%c%s", '!', "Đối phương mang theo quá nhiều vật phẩm");

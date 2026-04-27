@@ -1,59 +1,59 @@
-﻿8842|<O>| if (abs(x - x0) > 6 || abs(y - y0) > 6) return 0;    // 距离过远
-8843|<O>| if (get_effect(who, EFFECT_MAGIC_4243)) return 2;    // 执行成功
-8844|<O>| /*              else if( p < 760000 * rate / 100 )    // 杂物５
-8845|<O>| //        if( flag == 3 || flag== 5 ) value *= 8;    // 特殊修理
-8846|<O>| cmd = sprintf(ESC HIY "给楚管家的口信\ntalk %x# welcome.21\n", id);
-8847|<O>| /*              else if( p < 240016 * rate / 100 )    // 杂物５
-8848|<O>| send_user(who, "%c%s", ';', "大肆破坏 经验 9800 潜能 400 金钱 19600");
-8849|<O>| /*              else if( p < 140000 * rate / 100 )    // 杂物５
-8850|<O>| // 用于: Quest NPCs, guards, etc. that should always be active
-8851|<O>| send_user(me, "%c%c%w%w%s", 0x60, 4, get_number(), 7, "原料");
-8852|<O>| result = sprintf("%s向%s进贡 100000 金，以增进两国友谊。", name3, name2);
-8853|<O>| send_user(who, "%c%s", ';', "得到奖励 百宝囊 1 乾坤袋 1 法力石 1 血力石 1");
-8854|<O>| int get_zombie_type() { return SOLDIER_TYPE_3; }     // 判断种类
-8855|<O>| /*              else if( p < 220015 * rate / 100 )    // 杂物５
-8856|<O>| if( objectp( item = present("给牛郎的仙丹", who, 1, MAX_CARRY) ) )
-8857|<O>| result += sprintf("日税收分红率:%2d%%\n", city->get_tax_2_cash());
-8858|<O>| send_user(who, "%c%s", ';', "邪恶的厨师 经验 6800 潜能 400 金钱 9600");
-8859|<O>| /*              else if( p < 830000 * rate / 100 )    // 杂物５
-8860|<O>| /*              else if( p < 390000 * rate / 100 )    // 杂物５
-8861|<O>| send_user(who, "%c%s", ';', "远征 经验 84000 潜能 1040 金钱 73000");
-8862|<O>| /*              else if( p < 440000 * rate / 100 )    // 杂物５
-8863|<O>| CHAT_D->sys_channel(0,HIY"重阳四宝散落在了新手村和七国郊外，大家赶快去帮重阳老人收集啊！");
-8864|<O>| result = get_name() + sprintf(":\n    您补偿了经验%d，潜能%d，金钱%d。\n"
-8865|<O>| /*              else if( p < 130011 * rate / 100 )    // 杂物５
-8866|<O>| if (obj && obj->get_name() == "镰刀") work = work * 120 / 100;
-8867|<O>| _DEBUG(sprintf("DEBUG_f -- 第 %d 次 %s 成功！", 3 - times, str));
-8868|<O>| send_user(me, "%c%c%w%w%s", 0x60, 4, get_number(), 2, "帽子");
-8869|<O>| tell_user(who, "您击毙%s，经验 %+d, 潜能 %+d。", get_name(), exp, 1);
-8870|<O>| /*              else if( p < 130000 * rate / 100 )    // 杂物５
-8871|<O>| /*              else if( p < 420000 * rate / 100 )    // 杂物５
-8872|<O>| private static int DodgeRate;                   // 闪避率("?%")
-8873|<O>| send_user(me, "%c%c%w%w%s", 0x60, 4, get_number(), 1, "拳套");
-8874|<O>| sprintf(ESC "走路: %d.%d秒\n", speed / 10, speed % 10) + cmd8 +
-8875|<O>| send_user(who, "%c%s", ';', "赵国的美酒 经验 7000 潜能 280 金钱 7000");
-8876|<O>| /*              else if( p < 540000 * rate / 100 )    // 杂物５
-8877|<O>| /*              else if( p < 580000 * rate / 100 )    // 杂物５
-8878|<O>| send_user(who, "%c%s", '!', "这个济世葫芦的累积经验已满，不能为你提供额外的经验奖励。");
-8879|<O>| /*              else if( p < 410000 * rate / 100 )    // 杂物５
-8880|<O>| else if (!objectp(item = present("七国令", who, 1, MAX_CARRY)))
-8881|<O>| /*              else if( p < 730000 * rate / 100 )    // 杂物５
-8882|<O>| /*              else if( p < 650000 * rate / 100 )    // 杂物５
-8883|<O>| private static object *nRobber     = ({});				//	存储已经生成的飞贼数组
-8884|<O>| send_user(who, "%c%s", ';', "得到奖励 包裹 1 战国号角 3 法力石 1 血力石 1");
-8885|<O>| send_user(who, "%c%c%c%w%s", 0x51, 2, 1, TID_ZHOUGUO, "周国");
-8886|<O>| send_user(who, "%c%s", ';', "逃跑的壮丁 经验 4700 潜能 150 金钱 3800");
-8887|<O>| int get_zombie_type() { return ZOMBIE_TYPE_1; }     // 判断种类
-8888|<O>| if (me->get_attack_mode()==1) notify( "您开启的是完全保护模式，无法攻击" );
-8889|<O>| return "［铁匠］可以让玩家使用矿物材料锻造出各种门派的武器。锻造出来的武器，都印上锻造者的游戏角色名。\n";
-8890|<O>| send_user(who, "%c%s", ';', "寒丝传说 经验 5400 潜能 200 金钱 5000");
-8891|<O>| if( item ) item->add_lasting(-1);    // 暗器消耗(可能 DEST, 必须放后)
-8892|<O>| printf( ECHO "您使用“" PF_NAME "”炼出" +item->get_name()+ "。" );
-8893|<O>| send_user(who, "%c%s", ';', "追捕逃犯 经验 7500 潜能 300 金钱 7000");
-8894|<O>| //        set_char_type(FIGHTER_TYPE);    // init_level 要用到
-8895|<O>| tmp += sprintf(ESC HIY "特殊的木块 \ntalk %x# welcome.9\n", id);
-8896|<O>| private mapping mpChBlk = ([]);                // 阻止数据集(频道)
-8897|<O>| ESC "领取特别奖励须知\n" + sprintf("talk %x# welcome.1021\n", id) +
-8898|<O>| send_user( who, "%c%c%c%w%s", 0x51, 2, 1,TID_CHUGUO,"楚国" );
-8899|<O>| send_user(who, "%c%s", ';', "锻炼的机会 经验 250 潜能 30 金钱 5000 ");
-8900|<O>| if (TASK_LEGEND_D->check_task_item(who, "结义兄弟的棋子", 1) != 1)
+﻿8842|<O>| if (abs(x - x0) > 6 || abs(y - y0) > 6) return 0;    // Khoảng cách quá xa
+8843|<O>| if (get_effect(who, EFFECT_MAGIC_4243)) return 2;    // Thực hiện thành công
+8844|<O>| /*              else if( p < 760000 * rate / 100 )    // Tạp vật 5
+8845|<O>| //        if( flag == 3 || flag== 5 ) value *= 8;    // Sửa chữa đặc biệt
+8846|<O>| cmd = sprintf(ESC HIY "Lời Nhắn Cho Sở Quản Gia\ntalk %x# welcome.21\n", id);
+8847|<O>| /*              else if( p < 240016 * rate / 100 )    // Tạp vật 5
+8848|<O>| send_user(who, "%c%s", ';', "Đại Phá Hoại Kinh nghiệm 9800 Tiềm năng 400 Tiền vàng 19600");
+8849|<O>| /*              else if( p < 140000 * rate / 100 )    // Tạp vật 5
+8850|<O>| // Dùng cho: Quest NPCs, guards, etc. that should always be active
+8851|<O>| send_user(me, "%c%c%w%w%s", 0x60, 4, get_number(), 7, "Nguyên Liệu");
+8852|<O>| result = sprintf("%s cống nạp 100000 vàng cho %s, để tăng cường tình hữu nghị hai nước.", name3, name2);
+8853|<O>| send_user(who, "%c%s", ';', "Nhận thưởng Bách Bảo Nang 1 Càn Khôn Đại 1 Pháp Lực Thạch 1 Huyết Lực Thạch 1");
+8854|<O>| int get_zombie_type() { return SOLDIER_TYPE_3; }     // Phán đoán chủng loại
+8855|<O>| /*              else if( p < 220015 * rate / 100 )    // Tạp vật 5
+8856|<O>| if( objectp( item = present("Tiên Đan Cho Ngưu Lang", who, 1, MAX_CARRY) ) )
+8857|<O>| result += sprintf("Tỷ lệ chia thuế hàng ngày:%2d%%\n", city->get_tax_2_cash());
+8858|<O>| send_user(who, "%c%s", ';', "Đầu Bếp Tà Ác Kinh nghiệm 6800 Tiềm năng 400 Tiền vàng 9600");
+8859|<O>| /*              else if( p < 830000 * rate / 100 )    // Tạp vật 5
+8860|<O>| /*              else if( p < 390000 * rate / 100 )    // Tạp vật 5
+8861|<O>| send_user(who, "%c%s", ';', "Viễn Chinh Kinh nghiệm 84000 Tiềm năng 1040 Tiền vàng 73000");
+8862|<O>| /*              else if( p < 440000 * rate / 100 )    // Tạp vật 5
+8863|<O>| CHAT_D->sys_channel(0,HIY"Trùng Dương Tứ Bảo đã rơi rải rác ở Tân Thủ Thôn và ngoại ô Thất Quốc, mọi người mau đi giúp Trùng Dương Lão Nhân thu thập nào!");
+8864|<O>| result = get_name() + sprintf(":\n    Bạn được bù kinh nghiệm %d, tiềm năng %d, tiền vàng %d.\n"
+8865|<O>| /*              else if( p < 130011 * rate / 100 )    // Tạp vật 5
+8866|<O>| if (obj && obj->get_name() == "Liềm") work = work * 120 / 100;
+8867|<O>| _DEBUG(sprintf("DEBUG_f -- Lần thứ %d %s thành công!", 3 - times, str));
+8868|<O>| send_user(me, "%c%c%w%w%s", 0x60, 4, get_number(), 2, "Mũ");
+8869|<O>| tell_user(who, "Bạn tiêu diệt %s, kinh nghiệm %+d, tiềm năng %+d.", get_name(), exp, 1);
+8870|<O>| /*              else if( p < 130000 * rate / 100 )    // Tạp vật 5
+8871|<O>| /*              else if( p < 420000 * rate / 100 )    // Tạp vật 5
+8872|<O>| private static int DodgeRate;                   // Tỷ lệ né tránh("?%")
+8873|<O>| send_user(me, "%c%c%w%w%s", 0x60, 4, get_number(), 1, "Quyền Sáo");
+8874|<O>| sprintf(ESC "Đi bộ: %d.%d giây\n", speed / 10, speed % 10) + cmd8 +
+8875|<O>| send_user(who, "%c%s", ';', "Mỹ Tửu Triệu Quốc Kinh nghiệm 7000 Tiềm năng 280 Tiền vàng 7000");
+8876|<O>| /*              else if( p < 540000 * rate / 100 )    // Tạp vật 5
+8877|<O>| /*              else if( p < 580000 * rate / 100 )    // Tạp vật 5
+8878|<O>| send_user(who, "%c%s", '!', "Tế Thế Hồ Lô này đã tích lũy kinh nghiệm đầy, không thể cung cấp thêm kinh nghiệm thưởng cho bạn.");
+8879|<O>| /*              else if( p < 410000 * rate / 100 )    // Tạp vật 5
+8880|<O>| else if (!objectp(item = present("Thất Quốc Lệnh", who, 1, MAX_CARRY)))
+8881|<O>| /*              else if( p < 730000 * rate / 100 )    // Tạp vật 5
+8882|<O>| /*              else if( p < 650000 * rate / 100 )    // Tạp vật 5
+8883|<O>| private static object *nRobber     = ({});				//	Mảng lưu trữ phi tặc đã sinh ra
+8884|<O>| send_user(who, "%c%s", ';', "Nhận thưởng Bao Gói 1 Chiến Quốc Hiệu Giác 3 Pháp Lực Thạch 1 Huyết Lực Thạch 1");
+8885|<O>| send_user(who, "%c%c%c%w%s", 0x51, 2, 1, TID_ZHOUGUO, "Chu Quốc");
+8886|<O>| send_user(who, "%c%s", ';', "Tráng Đinh Bỏ Trốn Kinh nghiệm 4700 Tiềm năng 150 Tiền vàng 3800");
+8887|<O>| int get_zombie_type() { return ZOMBIE_TYPE_1; }     // Phán đoán chủng loại
+8888|<O>| if (me->get_attack_mode()==1) notify( "Bạn đang bật chế độ bảo vệ hoàn toàn, không thể tấn công" );
+8889|<O>| return "［Thợ Rèn］cho phép người chơi sử dụng nguyên liệu khoáng vật rèn ra vũ khí của các môn phái. Vũ khí rèn ra đều được in tên nhân vật trong game của người rèn.\n";
+8890|<O>| send_user(who, "%c%s", ';', "Truyền Thuyết Hàn Ti Kinh nghiệm 5400 Tiềm năng 200 Tiền vàng 5000");
+8891|<O>| if( item ) item->add_lasting(-1);    // Tiêu hao ám khí(có thể DEST, phải đặt sau)
+8892|<O>| printf( ECHO "Bạn sử dụng "" PF_NAME "" luyện ra " +item->get_name()+ "." );
+8893|<O>| send_user(who, "%c%s", ';', "Truy Bắt Tội Phạm Kinh nghiệm 7500 Tiềm năng 300 Tiền vàng 7000");
+8894|<O>| //        set_char_type(FIGHTER_TYPE);    // init_level cần dùng
+8895|<O>| tmp += sprintf(ESC HIY "Khối Gỗ Đặc Biệt \ntalk %x# welcome.9\n", id);
+8896|<O>| private mapping mpChBlk = ([]);                // Tập dữ liệu chặn(kênh)
+8897|<O>| ESC "Lưu ý nhận thưởng đặc biệt\n" + sprintf("talk %x# welcome.1021\n", id) +
+8898|<O>| send_user( who, "%c%c%c%w%s", 0x51, 2, 1,TID_CHUGUO,"Sở Quốc" );
+8899|<O>| send_user(who, "%c%s", ';', "Cơ Hội Rèn Luyện Kinh nghiệm 250 Tiềm năng 30 Tiền vàng 5000 ");
+8900|<O>| if (TASK_LEGEND_D->check_task_item(who, "Quân Cờ Của Kết Nghĩa Huynh Đệ", 1) != 1)

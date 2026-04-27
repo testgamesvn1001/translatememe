@@ -1,59 +1,59 @@
-﻿8783|<O>| send_user(who, "%c%s", ';', "đương phố Lão bảncủagiao dịch Kinh nghiệm 280 Tiềm năng 30 Hành quân tán 10 ");
+﻿8783|<O>| send_user(who, "%c%s", ';', "Giao Dịch Của Ông Chủ Tiệm Cầm Đồ Kinh nghiệm 280 Tiềm năng 30 Hành Quân Tán 10 ");
 8784|<O>| p_str += ({ FINAL_D->file_final_fam_type_lv("Đào Hoa Nguyên",70,85) });
-8785|<O>| send_user(who, "%c%s", ';', "tốngchoĐinh huynhcủaTửu Kinh nghiệm 1500 Tiềm năng 30 Tiền vàng 1200");
-8786|<O>| cmd101 = sprintf(ESC HIY "bệnh nan y（2）\ntalk %x# buy.101\n", id);
-8787|<O>| /*              else if( p < 330000 * rate / 100 )    // Tạp vật５
-8788|<O>| send_user(me, "%c%c%w%w%s", 0x60, 4, get_number(), 6, "nguyên liệu");
-8789|<O>| /*              else if( p < 640000 * rate / 100 )    // Tạp vật５
-8790|<O>| /*              else if( p < 460000 * rate / 100 )    // Tạp vật５
-8791|<O>| return sprintf("Cuồng Bạo:\n　　Nâng%dđiểmLực tấn công vật lý，NhưngLực phòng thủ vật lýsẽdướigiáng50％。\n", iFlag);
-8792|<O>| write_user(me, ECHO "Bạnđem %d Vàngtồn Nhập%sxử。", gold, who->get_name());
-8793|<O>| if( get_effect(me, EFFECT_CHAR_IGNORE)) return 2;    // thực hiện thành công
-8794|<O>| send_user(me, "%c%s", ':', "Bạn đã nhận được" + item->get_name() + "。");
-8795|<O>| /*              else if( p < 550000 * rate / 100 )    // Tạp vật５
-8796|<O>| send_user(who, "%c%s", ';', "oánQuỷChi Linh Kinh nghiệm 9800 Tiềm năng 500 Tiền vàng 11600");
-8797|<O>| case 105: result = "mạc Bắc Mã tặc";  pic = 8013;  level2 = 5;  break;
-8798|<O>| /*              else if( p < 170000 * rate / 100 )    // Tạp vật５
-8799|<O>| /*              else if( p < 260000 * rate / 100 )    // Tạp vật５
-8800|<O>| /*              else if( p < 680000 * rate / 100 )    // Tạp vật５
-8801|<O>| /*              else if( p < 220000 * rate / 100 )    // Tạp vật５
-8802|<O>| item->set(SEAL_CP, ADD_CP + me->get_cp());    // cẩn thận chuẩn bị me, cp
-8803|<O>| _DEBUG(sprintf("DEBUG -- vô PhápXóabiên hiệu vì %d củagiờChung，biên hiệukhôngtồnTại", clock_num));
-8804|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 1, 2, 0001, 3, "bảo hiểmgiờgian");
-8805|<O>| /*              else if( p < 310000 * rate / 100 )    // Tạp vật５
-8806|<O>| /*              else if( p < 870000 * rate / 100 )    // Tạp vật５
+8785|<O>| send_user(who, "%c%s", ';', "Rượu Tặng Đinh Huynh Kinh nghiệm 1500 Tiềm năng 30 Tiền vàng 1200");
+8786|<O>| cmd101 = sprintf(ESC HIY "Nghi Nan Tạp Chứng（2）\ntalk %x# buy.101\n", id);
+8787|<O>| /*              else if( p < 330000 * rate / 100 )    // Tạp vật 5
+8788|<O>| send_user(me, "%c%c%w%w%s", 0x60, 4, get_number(), 6, "Nguyên Liệu");
+8789|<O>| /*              else if( p < 640000 * rate / 100 )    // Tạp vật 5
+8790|<O>| /*              else if( p < 460000 * rate / 100 )    // Tạp vật 5
+8791|<O>| return sprintf("Cuồng Bạo:\n　　Tăng %d điểm lực tấn công vật lý, nhưng phòng thủ vật lý sẽ giảm 50%%.\n", iFlag);
+8792|<O>| write_user(me, ECHO "Bạn gửi %d vàng vào %s.", gold, who->get_name());
+8793|<O>| if( get_effect(me, EFFECT_CHAR_IGNORE)) return 2;    // Thực hiện thành công
+8794|<O>| send_user(me, "%c%s", ':', "Bạn nhận được " + item->get_name() + ".");
+8795|<O>| /*              else if( p < 550000 * rate / 100 )    // Tạp vật 5
+8796|<O>| send_user(who, "%c%s", ';', "Oán Quỷ Chi Linh Kinh nghiệm 9800 Tiềm năng 500 Tiền vàng 11600");
+8797|<O>| case 105: result = "Mạc Bắc Mã Tặc";  pic = 8013;  level2 = 5;  break;
+8798|<O>| /*              else if( p < 170000 * rate / 100 )    // Tạp vật 5
+8799|<O>| /*              else if( p < 260000 * rate / 100 )    // Tạp vật 5
+8800|<O>| /*              else if( p < 680000 * rate / 100 )    // Tạp vật 5
+8801|<O>| /*              else if( p < 220000 * rate / 100 )    // Tạp vật 5
+8802|<O>| item->set(SEAL_CP, ADD_CP + me->get_cp());    // Cẩn thận chuẩn bị me, cp
+8803|<O>| _DEBUG(sprintf("DEBUG -- Không thể xóa đồng hồ số %d, số hiệu không tồn tại", clock_num));
+8804|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 1, 2, 0001, 3, "Thời Gian Bảo Hiểm");
+8805|<O>| /*              else if( p < 310000 * rate / 100 )    // Tạp vật 5
+8806|<O>| /*              else if( p < 870000 * rate / 100 )    // Tạp vật 5
 8807|<O>| if (me->get_fam_name() == "Thục Sơn" && me->get_perform("02221#"))
-8808|<O>| /*              else if( p < 380000 * rate / 100 )    // Tạp vật５
-8809|<O>| /*              else if( p < 270000 * rate / 100 )    // Tạp vật５
-8810|<O>| send_user(who, "%c%s", ';', "Thám thính hư thực Kinh nghiệm 11000 Tiềm năng 320 Tiền vàng 9000");
-8811|<O>| return "HọcCường hóaMôn pháiKỹ năngcủaTín Vật。\nTương TruyềnChiến Quốctập Vũ Chi Nhân Dĩ NăngHọcđếnMôn pháiCường hóaKỹ năngvìtrênngàycủaÂn tứ，cố màCóngàyÂn Lệnh Nhất nói。";
-8812|<O>| /*              else if( p < 670000 * rate / 100 )    // Tạp vật５
-8813|<O>| send_user(who, "%c%s", ';', "Hợp hỏa làm sinh Ý Kinh nghiệm 5500 Tiềm năng 230 Tiền vàng 5000");
-8814|<O>| USER_ENERGY_D->count_max_hp(me);    // càngmới，không códùng count_all_prop
-8815|<O>| tmp += sprintf(ESC HIY "tìm cầu Giải cứu Chi Đạo\ntalk %x# welcome.10\n", id);
-8816|<O>| /*              else if( p < 120000 * rate / 100 )    // Tạp vật５
-8817|<O>| /*              else if( p < 110000 * rate / 100 )    // Tạp vật５
-8818|<O>| if (lockutil && gone_time(locktime) > lockutil)    // Kế toánLàphủ Tỏa định
-8819|<O>| /*              else if( p < 900000 * rate / 100 )    // Tạp vật５
+8808|<O>| /*              else if( p < 380000 * rate / 100 )    // Tạp vật 5
+8809|<O>| /*              else if( p < 270000 * rate / 100 )    // Tạp vật 5
+8810|<O>| send_user(who, "%c%s", ';', "Thăm Dò Hư Thực Kinh nghiệm 11000 Tiềm năng 320 Tiền vàng 9000");
+8811|<O>| return "Tín vật học tập cường hóa kỹ năng môn phái.\nTương truyền người luyện võ thời Chiến Quốc coi việc học được kỹ năng cường hóa môn phái là ân huệ của trời, vì thế mới có cách nói Thiên Ân Lệnh.";
+8812|<O>| /*              else if( p < 670000 * rate / 100 )    // Tạp vật 5
+8813|<O>| send_user(who, "%c%s", ';', "Hợp Tác Kinh Doanh Kinh nghiệm 5500 Tiềm năng 230 Tiền vàng 5000");
+8814|<O>| USER_ENERGY_D->count_max_hp(me);    // Cập nhật, không dùng count_all_prop
+8815|<O>| tmp += sprintf(ESC HIY "Tìm Cách Giải Cứu\ntalk %x# welcome.10\n", id);
+8816|<O>| /*              else if( p < 120000 * rate / 100 )    // Tạp vật 5
+8817|<O>| /*              else if( p < 110000 * rate / 100 )    // Tạp vật 5
+8818|<O>| if (lockutil && gone_time(locktime) > lockutil)    // Tính toán có bị khóa không
+8819|<O>| /*              else if( p < 900000 * rate / 100 )    // Tạp vật 5
 8820|<O>| if (me->get_fam_name() == "Đào Hoa Nguyên" && me->get_perform("03192"))
 8821|<O>| int get_zombie_type() { return SOLDIER_TYPE_1; }     // Phán đoán chủng loại
 8822|<O>| int get_zombie_type() { return SOLDIER_TYPE_2; }     // Phán đoán chủng loại
-8823|<O>| if (time % 10 == 0 && MAIN_D->get_host_type() != 6012) //1phút
-8824|<O>| cmd101 = sprintf(ESC HIY "bệnh nan y（1）\ntalk %x# buy.101\n", id);
-8825|<O>| &&      objectp( item = who->get_equip(HAND_TYPE) )    // Pháp Bảo
-8826|<O>| /*              else if( p < 110009 * rate / 100 )    // Tạp vật５
-8827|<O>| cmd101 = sprintf(ESC HIY "bệnh nan y（3）\ntalk %x# buy.101\n", id);
-8828|<O>| return HIR + PF_NAME + "\nKỹ năng yêu cầu:12cấp\n    Lợi dùngÁmkình tỏa Thươngđối vớiThủ，sử kỳ hãm Nhập phụ Thương trạng thái。";
-8829|<O>| case CAVE_MAP: send_user(me, "%c%s", '!', "đối vớiPhươngTạiĐịadưới，Không thể sử dụngthử Pháp Bảo。");
-8830|<O>| /*              else if( p < 190014 * rate / 100 )    // Tạp vật５
-8831|<O>| /*              else if( p < 260016 * rate / 100 )    // Tạp vật５
-8832|<O>| send_user(who, "%c%s", ';', "Hợp thíchcủalễ Vật Kinh nghiệm 4000 Tiềm năng 188 Tiền vàng 3700");
-8833|<O>| item->set(SEAL_CP, ADD_AP + me->get_cp());    // cẩn thận chuẩn bị me, ap
-8834|<O>| /*              else if( p < 910000 * rate / 100 )    // Tạp vật５
-8835|<O>| /*              else if( p < 690000 * rate / 100 )    // Tạp vật５
-8836|<O>| if ("sys/party/treasure"->is_open() == 0)//hiệnTạihoạt độngchưa cóBắt đầu,không thểlĩnh thủ sừ đầu。
-8837|<O>| ESC + sprintf("Hoàn thành nhiệm vụ。\ntalk %x# valentine.5\n", getoid(me)) +
-8838|<O>| tell_user(me, "Mục lục:" DIR_COLOR + me->get_cwd());    // liệt thị đươngtrướcMục lục
-8839|<O>| /*              else if( p < 570000 * rate / 100 )    // Tạp vật５
-8840|<O>| /*              else if( p < 820000 * rate / 100 )    // Tạp vật５
-8841|<O>| send_user(who, "%c%s", ';', "thâu tiềncủabổn Hùng Kinh nghiệm 6000 Tiềm năng 245 Tiền vàng 4900");
+8823|<O>| if (time % 10 == 0 && MAIN_D->get_host_type() != 6012) //1 phút
+8824|<O>| cmd101 = sprintf(ESC HIY "Nghi Nan Tạp Chứng（1）\ntalk %x# buy.101\n", id);
+8825|<O>| &&      objectp( item = who->get_equip(HAND_TYPE) )    // Pháp bảo
+8826|<O>| /*              else if( p < 110009 * rate / 100 )    // Tạp vật 5
+8827|<O>| cmd101 = sprintf(ESC HIY "Nghi Nan Tạp Chứng（3）\ntalk %x# buy.101\n", id);
+8828|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 12\n    Dùng ám kình làm tổn thương đối thủ, khiến đối phương rơi vào trạng thái bị thương.";
+8829|<O>| case CAVE_MAP: send_user(me, "%c%s", '!', "Đối phương ở dưới lòng đất, không thể sử dụng pháp bảo này.");
+8830|<O>| /*              else if( p < 190014 * rate / 100 )    // Tạp vật 5
+8831|<O>| /*              else if( p < 260016 * rate / 100 )    // Tạp vật 5
+8832|<O>| send_user(who, "%c%s", ';', "Món Quà Phù Hợp Kinh nghiệm 4000 Tiềm năng 188 Tiền vàng 3700");
+8833|<O>| item->set(SEAL_CP, ADD_AP + me->get_cp());    // Cẩn thận chuẩn bị me, ap
+8834|<O>| /*              else if( p < 910000 * rate / 100 )    // Tạp vật 5
+8835|<O>| /*              else if( p < 690000 * rate / 100 )    // Tạp vật 5
+8836|<O>| if ("sys/party/treasure"->is_open() == 0)//Hoạt động hiện tại chưa bắt đầu, không thể nhận cuốc.
+8837|<O>| ESC + sprintf("Hoàn thành nhiệm vụ.\ntalk %x# valentine.5\n", getoid(me)) +
+8838|<O>| tell_user(me, "Thư mục:" DIR_COLOR + me->get_cwd());    // Liệt kê thư mục hiện tại
+8839|<O>| /*              else if( p < 570000 * rate / 100 )    // Tạp vật 5
+8840|<O>| /*              else if( p < 820000 * rate / 100 )    // Tạp vật 5
+8841|<O>| send_user(who, "%c%s", ';', "Gấu Ngốc Trộm Tiền Kinh nghiệm 6000 Tiềm năng 245 Tiền vàng 4900");

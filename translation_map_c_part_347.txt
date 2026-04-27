@@ -1,80 +1,80 @@
 ﻿14733|<O>| string get_skill_name() { return "Binh Pháp"; }
-14734|<O>| else if (p < 2553 * rate / 100)    // Tiền vàng
-14735|<O>| ESC "Rời khỏi", me->get_name(),getoid(me) ) );
+14734|<O>| else if (p < 2553 * rate / 100)    // Vàng
+14735|<O>| ESC "Rời đi", me->get_name(),getoid(me) ) );
 14736|<O>| send_user(who, "%c%s", '!', "Ác Bá Trương Cửu 1/1");
-14737|<O>| if (time > 5) info = "lại quakhôngcửu，tôiTướng trọngmớitrêngiá Nhất phê hóa Vật。";
-14738|<O>| send_user(who, "%c%s", '!', "BạnđãTạiTruyền tốnggiữa。");
-14739|<O>| set_heart_loop(me, 300);    // Vòng lặp nhịp tim:３０giây
-14740|<O>| send_user(me, "%c%s", '!', "khấu phímáy chủkhôngtồnTại！");
-14741|<O>| else if (p < 5664 * rate / 100)    // Tiền vàng
-14742|<O>| else if (p < 5290 * rate / 100)    // Tiền vàng
-14743|<O>| printf(ECHO "Bạn nhặt Khởi%s。", item->get_name());
-14744|<O>| USER_ENERGY_D->count_ap(me);    // NângTấn côngLực
-14745|<O>| send_user(me, "%c%s", '!', "Bạn trướng Hộcủađiểmsốkhôngđủ。");
-14746|<O>| send_user(who, "%c%s", '!', "Thích KháchTừ Tứ 1/1");
-14747|<O>| printf(ECHO "Bạn đượcCócương thi Phù Tài NăngSử dụng“" PF_NAME "”。");
-14748|<O>| log_file(LIST_LOG, "<!-- Hóa trang dùng Phẩm -->\n\n");
-14749|<O>| send_user(me, "%c%s", '!', "BạnKhông tìm thấynàyvịNgười chơi。");
-14750|<O>| send_user(me, "%c%s", '!', "Bạnkhông thểđối vớiTử Nhân nhảy Vũ。");
-14751|<O>| else if (p < 3096 * rate / 100)    // Tiền vàng
-14752|<O>| send_user(me, "%c%s", '!', "Bạn NhấtkhôngnhỏTâmgiữaĐộc！");
-14753|<O>| || !objectp(who = user[0]))    // thủ đệ Nhất dùng Hộ
-14754|<O>| send_user(who, "%c%s", '!', "kiếp Đạo Lý Tam 1/1");
-14755|<O>| send_user(me, "%c%s", '!', "nàydùng Hộ tịnhkhôngtồnTại！");
-14756|<O>| else if (p < 6770 * rate / 100)    // Tiền vàng
-14757|<O>| string get_skill_name() { return "Thiền định"; }
-14758|<O>| log_file(LIST_LOG, "<!-- kỳnóVật Phẩm -->\n\n");
-14759|<O>| + sprintf(ESC HIY"kiểm trahoạt độngtrạng thái\nparty 5005\n")
-14760|<O>| send_user(me, "%c%s", '!', "điểmthẻ ký thụ Sâm số sai ngộ！");
-14761|<O>| log_file(LIST_LOG, "<!-- Văn phòng Tứ Bảo -->\n\n");
-14762|<O>| else if (p < 8340 * rate / 100)    // Tiền vàng
-14763|<O>| NPC_SLAVE_D->find_enemy(npc);    // tìm tìmkẻ thù
-14764|<O>| send_user(who, "%c%s", '!', "Ác phỉ Triệu Ngũ 1/1");
-14765|<O>| _DEBUG("DEBUG -- dùng Hộ thâu Nhậpgiờgian sai ngộ:trênhạnLànămđãvô Pháp lại diên trì")
-14766|<O>| else if (p < 2842 * rate / 100)    // Tiền vàng
-14767|<O>| send_user(me, "%c%s", '!', "Bạnkhông thểđối vớiTử Nhân xướng ca。");
-14768|<O>| if (team_id == me->get_team_id())	//đội ngũphútPhối
-14769|<O>| else if (p < 5902 * rate / 100)    // Tiền vàng
-14770|<O>| else if (p < 3186 * rate / 100)    // Tiền vàng
-14771|<O>| else if (p < 5211 * rate / 100)    // Tiền vàng
-14772|<O>| else if (p < 8971 * rate / 100)    // Tiền vàng
-14773|<O>| send_user(me, "%c%s", '!', "đối vớiPhương hiệnTạicònTạiChiến trường。");
-14774|<O>| item = present("càn khôn Tỏa", me, 1, MAX_CARRY);
-14775|<O>| me->set_char_type(PK_TYPE);    // chủ ĐộngＰＫtrạng thái
-14776|<O>| else if (p < 7054 * rate / 100)    // Tiền vàng
-14777|<O>| send_user(who, "%c%s", '!', "bạnký tồn Nhấtchỉsủng vật");
-14778|<O>| && inside_screen_2(who, npc))    // Đồng bình mạctrong
-14779|<O>| gift = new("item/final/91/1809");	//TiênSơn Linh chi
-14780|<O>| else if (p < 6326 * rate / 100)    // Tiền vàng
-14781|<O>| //		who->log_money("bày thán bán", price*99/100);
-14782|<O>| printf( ECHO "Sử dụng“" PF_NAME "”Kỹ năngCấp độkhôngtúc。" );
-14783|<O>| case "kình trang": type = "F_JINZHUANG";  break;
-14784|<O>| else if (p < 7268 * rate / 100)    // Tiền vàng
-14785|<O>| return "ĐồngKhoáng thạch，thông qua sinh hoạtKỹ năngcủakhoáng dã dung Luyện thànhĐồngđĩnhcó thểcungThiết Tượng、Cơ Quan chế tạo trang bị";
-14786|<O>| string get_skill_name() { return "kiện Thân"; }
-14787|<O>| send_user(who, "%c%s", '!', "TạiChiến trườngKhông thể sử dụng。");
-14788|<O>| else if (p < 5909 * rate / 100)    // Tiền vàng
-14789|<O>| desc = "LàCổ đại Danh Tửu，Khởi Nguyên vu hạnh Hoa thôn，20giây phục hồi cho người chơi1600điểm Pháp thuật lực。";
-14790|<O>| else if (p < 7884 * rate / 100)    // Tiền vàng
-14791|<O>| else if (rate < 99499)	//TăngPháp Thuật sở tạo thànhcủaThương hại hiệu Quả33điểm
-14792|<O>| return "［Cường hóaĐường MônĐộcKinh］NângNgười chơiTrang bịÁm KhígiờcủaLực phòng thủ vật lý，Mỗi cấp tăng2điểm";
-14793|<O>| + ESC"400VàngThu cấunhỏMã Nghĩ Nhấtchỉ\ntalk %x# welcome.4\n"
-14794|<O>| send_user(who, "%c%s", '!', "Xin sảosaulạiHủy bỏNhiệm vụ");
-14795|<O>| printf(ECHO "Bạn đượcCómêThầntán Tài NăngSử dụng“" PF_NAME "”。");
-14796|<O>| send_user(who, "%c%s", '!', "bạnđãlĩnh thủphần thưởng");
-14797|<O>| printf(ECHO "Đái Vật phẩm quý giáKhông thể sử dụng“" PF_NAME "”。");
-14798|<O>| else if (p < 2787 * rate / 100)    // Tiền vàng
-14799|<O>| x = 109;  y = 38;    // get_jumpout trongHàm z
-14800|<O>| tell_user(me, "Lộ kínhkhôngHợp Pháp: %s", path4);    */
-14801|<O>| printf(ECHO "đối vớiPhương đãTử vong，Không thể sử dụng“" PF_NAME "”。");
-14802|<O>| else if (p < 7886 * rate / 100)    // Tiền vàng
-14803|<O>| else if (p < 6064 * rate / 100)    // Tiền vàng
-14804|<O>| send_user(who, "%c%s", '!', "Ác Nhân Vũ tàng 1/1");
-14805|<O>| ESC"lĩnh thủ HoàngVàngđổi thưởng thẻThăng cấpbản thưởng Phẩm\ntalk %x# bonus.1014\n"
-14806|<O>| else if (p < 5273 * rate / 100)    // Tiền vàng
-14807|<O>| return "nhỏbìnhcủaPháp LựcDượcThủy，có thểngay lập tức phục hồiTự Thân800điểm Pháp thuật lực。Thời gian hồi2giây。";
-14808|<O>| rm(LOG_DIR + file);    // Thanh trừcũtệp tin(WINDOWS)
-14809|<O>| else if (p < 5338 * rate / 100)    // Tiền vàng
-14810|<O>| else if (p < 9064 * rate / 100)    // Tiền vàng
-14811|<O>| else if (p < 3043 * rate / 100)    // Tiền vàng
-14812|<O>| else if (p < 6009 * rate / 100)    // Tiền vàng
+14737|<O>| if (time > 5) info = "Chẳng bao lâu nữa, tôi sẽ lên kệ lô hàng mới.";
+14738|<O>| send_user(who, "%c%s", '!', "Bạn đang trong quá trình truyền tống.");
+14739|<O>| set_heart_loop(me, 300);    // Nhịp tim tuần hoàn: 30 giây
+14740|<O>| send_user(me, "%c%s", '!', "Server trừ phí không tồn tại!");
+14741|<O>| else if (p < 5664 * rate / 100)    // Vàng
+14742|<O>| else if (p < 5290 * rate / 100)    // Vàng
+14743|<O>| printf(ECHO "Bạn nhặt được %s.", item->get_name());
+14744|<O>| USER_ENERGY_D->count_ap(me);    // Tăng sức tấn công
+14745|<O>| send_user(me, "%c%s", '!', "Điểm tài khoản của bạn không đủ.");
+14746|<O>| send_user(who, "%c%s", '!', "Thích Khách Từ Tứ 1/1");
+14747|<O>| printf(ECHO "Bạn cần có Cương Thi Phù mới dùng được \"" PF_NAME "\".");
+14748|<O>| log_file(LIST_LOG, "<!-- Đồ Trang Điểm -->\n\n");
+14749|<O>| send_user(me, "%c%s", '!', "Bạn không tìm thấy người chơi này.");
+14750|<O>| send_user(me, "%c%s", '!', "Bạn không thể nhảy múa với người chết.");
+14751|<O>| else if (p < 3096 * rate / 100)    // Vàng
+14752|<O>| send_user(me, "%c%s", '!', "Bạn sơ ý bị trúng độc rồi!");
+14753|<O>| || !objectp(who = user[0]))    // Lấy người dùng đầu tiên
+14754|<O>| send_user(who, "%c%s", '!', "Cướp Đường Lý Tam 1/1");
+14755|<O>| send_user(me, "%c%s", '!', "Người dùng này không tồn tại!");
+14756|<O>| else if (p < 6770 * rate / 100)    // Vàng
+14757|<O>| string get_skill_name() { return "Thiền Định"; }
+14758|<O>| log_file(LIST_LOG, "<!-- Vật Phẩm Khác -->\n\n");
+14759|<O>| + sprintf(ESC HIY"Kiểm tra trạng thái hoạt động\nparty 5005\n")
+14760|<O>| send_user(me, "%c%s", '!', "Tham số ký gửi thẻ điểm bị lỗi!");
+14761|<O>| log_file(LIST_LOG, "<!-- Văn Phòng Tứ Bảo -->\n\n");
+14762|<O>| else if (p < 8340 * rate / 100)    // Vàng
+14763|<O>| NPC_SLAVE_D->find_enemy(npc);    // Tìm kẻ thù
+14764|<O>| send_user(who, "%c%s", '!', "Ác Phỉ Triệu Ngũ 1/1");
+14765|<O>| _DEBUG("DEBUG -- Người dùng nhập sai thời gian: giới hạn trên là năm, không thể trì hoãn thêm")
+14766|<O>| else if (p < 2842 * rate / 100)    // Vàng
+14767|<O>| send_user(me, "%c%s", '!', "Bạn không thể hát cho người chết.");
+14768|<O>| if (team_id == me->get_team_id())	//Phân phối đội ngũ
+14769|<O>| else if (p < 5902 * rate / 100)    // Vàng
+14770|<O>| else if (p < 3186 * rate / 100)    // Vàng
+14771|<O>| else if (p < 5211 * rate / 100)    // Vàng
+14772|<O>| else if (p < 8971 * rate / 100)    // Vàng
+14773|<O>| send_user(me, "%c%s", '!', "Đối phương vẫn đang ở chiến trường.");
+14774|<O>| item = present("Càn Khôn Tỏa", me, 1, MAX_CARRY);
+14775|<O>| me->set_char_type(PK_TYPE);    // Trạng thái PK chủ động
+14776|<O>| else if (p < 7054 * rate / 100)    // Vàng
+14777|<O>| send_user(who, "%c%s", '!', "Bạn đã ký gửi một con thú cưng");
+14778|<O>| && inside_screen_2(who, npc))    // Trong cùng màn hình
+14779|<O>| gift = new("item/final/91/1809");	//Tiên Sơn Linh Chi
+14780|<O>| else if (p < 6326 * rate / 100)    // Vàng
+14781|<O>| //		who->log_money("Bày bán bán", price*99/100);
+14782|<O>| printf( ECHO "Cấp kỹ năng \"" PF_NAME "\" chưa đủ." );
+14783|<O>| case "Kình Trang": type = "F_JINZHUANG";  break;
+14784|<O>| else if (p < 7268 * rate / 100)    // Vàng
+14785|<O>| return "Quặng đồng, thông qua kỹ năng sinh hoạt khoáng luyện thành Đồng Đĩnh có thể cung cấp cho Thợ Rèn, Cơ Quan chế tạo trang bị";
+14786|<O>| string get_skill_name() { return "Kiện Thân"; }
+14787|<O>| send_user(who, "%c%s", '!', "Trên chiến trường không thể sử dụng.");
+14788|<O>| else if (p < 5909 * rate / 100)    // Vàng
+14789|<O>| desc = "Rượu cổ nổi tiếng, bắt nguồn từ Hạnh Hoa Thôn, trong 20 giây hồi phục 1600 điểm pháp lực cho người chơi.";
+14790|<O>| else if (p < 7884 * rate / 100)    // Vàng
+14791|<O>| else if (rate < 99499)	//Tăng hiệu quả sát thương pháp thuật 33 điểm
+14792|<O>| return "［Cường Hóa Đường Môn Độc Kinh］Tăng phòng thủ vật lý khi trang bị ám khí, mỗi cấp tăng 2 điểm";
+14793|<O>| + ESC"400 vàng thu mua một con Kiến Nhỏ\ntalk %x# welcome.4\n"
+14794|<O>| send_user(who, "%c%s", '!', "Vui lòng hủy nhiệm vụ sau");
+14795|<O>| printf(ECHO "Bạn cần có Mê Thần Tán mới dùng được \"" PF_NAME "\".");
+14796|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận thưởng rồi");
+14797|<O>| printf(ECHO "Mang theo vật phẩm quý giá không thể dùng \"" PF_NAME "\".");
+14798|<O>| else if (p < 2787 * rate / 100)    // Vàng
+14799|<O>| x = 109;  y = 38;    // get_jumpout chứa z bên trong
+14800|<O>| tell_user(me, "Đường dẫn không hợp lệ: %s", path4);    */
+14801|<O>| printf(ECHO "Đối phương đã chết, không thể dùng \"" PF_NAME "\".");
+14802|<O>| else if (p < 7886 * rate / 100)    // Vàng
+14803|<O>| else if (p < 6064 * rate / 100)    // Vàng
+14804|<O>| send_user(who, "%c%s", '!', "Ác Nhân Vũ Tàng 1/1");
+14805|<O>| ESC"Nhận phần thưởng nâng cấp Thẻ Vàng Đổi Thưởng\ntalk %x# bonus.1014\n"
+14806|<O>| else if (p < 5273 * rate / 100)    // Vàng
+14807|<O>| return "Bình thuốc pháp lực nhỏ, lập tức hồi phục 800 điểm pháp lực. Thời gian hồi chiêu 2 giây.";
+14808|<O>| rm(LOG_DIR + file);    // Xóa file cũ (WINDOWS)
+14809|<O>| else if (p < 5338 * rate / 100)    // Vàng
+14810|<O>| else if (p < 9064 * rate / 100)    // Vàng
+14811|<O>| else if (p < 3043 * rate / 100)    // Vàng
+14812|<O>| else if (p < 6009 * rate / 100)    // Vàng

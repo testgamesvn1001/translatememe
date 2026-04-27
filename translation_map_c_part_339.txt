@@ -1,77 +1,77 @@
-﻿14106|<O>| if (gold) result = sprintf(" %d Vàng", gold);
-14107|<O>| tell_user(me, who->get_name() + "HọcsẽcủaKỹ năng:");
-14108|<O>| string get_skill_name() { return "đạp Tuyết vô ngấn"; }
-14109|<O>| return "［" PF_NAME "］\nLợi dùng Pháp KiếmTấn côngViễn xử Nhất Địchđối vớimục tiêu。\n";
-14110|<O>| send_user(who, "%c%s", '!', "nàyNhânkhông cóSâm Gia cạnh tuyển。");
-14111|<O>| me->set_pay_money_buy_item(1);    // nghiệm chứng tự liệt hiệu
-14112|<O>| return "Một loạiNăng sử NhânPhục hồichính thường trạng tháicủaDược hoàn，Giải trừ Thântrêncủadị thường trạng thái，Thời gian hồi30giây";
-14113|<O>| who->set_pay_money_buy_item(1);    // tra tuần dư ngạch
-14114|<O>| sprintf("%s:\n    giám địnhnàykiệnTrang bịcần%dVàng，Làphủ Châncủacầngiám định？\n"
-14115|<O>| //	ThêmNhất Náo Chung Đề tỉnh，Thành côngQuay về >-1 số tự biểu thị đươngtrướchoạch đượccủagiờChung biên hiệu Thất bạiQuay về -1
-14116|<O>| int defencecount;			// sinh thànhcủaKế số，Miễn được lâmgiờtrọng mởmớibản đồgiờcủaphán đoạn
-14117|<O>| move_to_user(player, 1, YUEBING,npc);//thángbính。
-14118|<O>| string* gift_name = ({ "Vàng","Tử","Lam","lục" });
-14119|<O>| else if (iTaskTime == 2)    // 2. Nhiệm vụ vận tiêu(Nhân Vật)
-14120|<O>| notify(item->get_name() + "LàkhôngTrịphútVăn！không tấtcầnTu lý。");
-14121|<O>| string get_skill_name() { return "giữaY Dược lý"; }
-14122|<O>| send_user(me, "%c%s", '!', "Không tìm thấynàytrướng hiệucủatư liệu。");
-14123|<O>| tell_user(me, "Trận Pháp[%2d]:%s", size, result);
-14124|<O>| return "chính thường trangcủaPháp LựcDượcThủy，có thểngay lập tức phục hồiTự Thân2000điểm Pháp thuật lực。Thời gian hồi2giây。";
-14125|<O>| who->get_name() + ":\n    BạncủaTinhcấpTrang bịđãTu phục hoàn tất。\n"
-14126|<O>| return sprintf("%dcấpMộcLinh Thạch", me->get_level());
-14127|<O>| send_user(me, "%c%s", '!', "đối vớiPhươngchưa cóchuẩn bịliềntự 。");
-14128|<O>| cFight == "bịĐộng" ? "  " : "//",    // Làphủ chủ ĐộngTấn công
+﻿14106|<O>| if (gold) result = sprintf(" %d vàng", gold);
+14107|<O>| tell_user(me, who->get_name() + " kỹ năng đã học:");
+14108|<O>| string get_skill_name() { return "Đạp Tuyết Vô Ngần"; }
+14109|<O>| return "［" PF_NAME "］\nDùng pháp kiếm tấn công một mục tiêu từ xa.\n";
+14110|<O>| send_user(who, "%c%s", '!', "Người này không tham gia tranh cử.");
+14111|<O>| me->set_pay_money_buy_item(1);    // Xác thực mã số
+14112|<O>| return "Một loại thuốc giúp phục hồi trạng thái bình thường, giải trừ trạng thái bất thường, thời gian hồi chiêu 30 giây";
+14113|<O>| who->set_pay_money_buy_item(1);    // Truy vấn số dư
+14114|<O>| sprintf("%s:\n    Giám định trang bị này cần %d vàng, bạn có chắc muốn giám định không?\n"
+14115|<O>| //	Thêm một nhắc nhở đồng hồ báo thức, thành công trả về số >-1 là mã đồng hồ, thất bại trả về -1
+14116|<O>| int defencecount;			// Bộ đếm khởi tạo, tránh phán đoán khi mở bản đồ mới tạm thời
+14117|<O>| move_to_user(player, 1, YUEBING,npc);//Bánh trung thu.
+14118|<O>| string* gift_name = ({ "Vàng","Tím","Xanh","Lục" });
+14119|<O>| else if (iTaskTime == 2)    // 2. Nhiệm vụ vận tiêu (nhân vật)
+14120|<O>| notify(item->get_name() + " không đáng một xu! Không cần sửa chữa.");
+14121|<O>| string get_skill_name() { return "Trung Y Dược Lý"; }
+14122|<O>| send_user(me, "%c%s", '!', "Không tìm thấy tài liệu tài khoản này.");
+14123|<O>| tell_user(me, "Trận pháp[%2d]:%s", size, result);
+14124|<O>| return "Bình thuốc pháp lực thường, lập tức hồi phục 2000 điểm pháp lực. Thời gian hồi chiêu 2 giây.";
+14125|<O>| who->get_name() + ":\n    Trang bị sao của bạn đã sửa xong.\n"
+14126|<O>| return sprintf("Mộc Linh Thạch cấp %d", me->get_level());
+14127|<O>| send_user(me, "%c%s", '!', "Đối phương chưa sẵn sàng.");
+14128|<O>| cFight == "Bị Động" ? "  " : "//",    // Có chủ động tấn công không
 14129|<O>| else if (rate < 9500 * rate1 / 100)	//Chiến Quốc Hiệu Giác
-14130|<O>| return "［Cường hóamê Hồn quyết］Vân Mộng Trạchcủađặc thù kỹ Pháp，mỗicấptruy Gia0.09％củaPháp Thuật Bạo kích hiệu Quả";
-14131|<O>| send_user(who, "%c%s", '!', "bạnhuề Đáicủađồ vậtTháinhiều!");
-14132|<O>| string get_skill_name() { return "Đạo Gia Học nói"; }
-14133|<O>| notify( item->get_name() + "đãTỏa định，không thểĐiển đương。" );
-14134|<O>| string get_skill_name() { return "Đạo PhápThầnthông"; }
-14135|<O>| string get_skill_name() { return "Kỳ Môn độn Giáp"; }
-14136|<O>| ESC"Tamchỉcầu(Hắc+Lam+Hồng)đổi hoánNgẫu nhiênthưởng Phẩm\ntalk %x# bonus.30\n"
-14137|<O>| int  get_clock_running();				//	thủ đượcgiờChungLàphủTạivận Hànhgiữa
-14138|<O>| printf(ECHO "Bạn nhận đượcNhất khối%s。", item->get_name());
-14139|<O>| return "chính thường trangcủađặc hiệu DượcThủy，có thểngay lập tức phục hồiTự Thân2000điểm Khí Huyết。Thời gian hồi2giây。";
-14140|<O>| string get_skill_name() { return "Longdu Tứ Hải"; }
-14141|<O>| send_user(who, "%c%s", '!', "phó Thành chủ chức thiếu tốinhiềulưỡng vị。");
-14142|<O>| send_user(who, "%c%s", '!', "bạnđãThành côngcủaTướng Ác Bá kích Sát");
-14143|<O>| result += ESC "100Nguyên Bảo\nconsign list 100\n";
-14144|<O>| return owner->can_fight(who);    // chủ Nhân Năng phủTấn công
-14145|<O>| SAY_CMD->say(me, "Sĩ Binh！đemYêu can đĩnh Trực！！tùygiờchuẩn bị Toàn quân đột kích！！");
-14146|<O>| send_user(who, "%c%s", '!', "BạncầnBát Vật Phẩm Không gian。");
-14147|<O>| private string* BeastInfo;			//tồn trữsủng vậttồn Bàntệp tincủasố tổ
-14148|<O>| return desc = "đối vớisủng vậtSử dụngcủaMột loạiThầnThủy，Năng Tướngsủng vậtchuyển hoán thành０cấpSơ thủy trạng thái。";
-14149|<O>| send_user(who, "%c%s", ';', "Bạn đã nhận đượcDi thấtcủaBảo Vật！");
-14150|<O>| return sprintf("%dcấpÁmLinh Thạch", me->get_level());
-14151|<O>| if (me->get_2("changping"))	//Trường BìnhChi Chiến Báo Danhcủa，Hủy bỏBáo Danh
-14152|<O>| //	ESC"hiệnTạitôicủaThanh quái suấtLànhiềuít？\ntalk %x# welcome.2\n"
-14153|<O>| SAY_CMD->say(me, "xem xemtôinàyHỏa，dùngnàyHỏathiêu Xuất đếncủaThái Nhất định rất Mỹ vị！！");
-14154|<O>| if (!size && !gold) return 1;    // gìđềukhông cócho
+14130|<O>| return "［Cường Hóa Mê Hồn Quyết］Đặc kỹ Vân Mộng Trạch, mỗi cấp tăng 0.09% bạo kích pháp thuật";
+14131|<O>| send_user(who, "%c%s", '!', "Bạn mang theo quá nhiều đồ vật!");
+14132|<O>| string get_skill_name() { return "Đạo Gia Học Thuyết"; }
+14133|<O>| notify( item->get_name() + " đã bị khóa, không thể cầm đồ." );
+14134|<O>| string get_skill_name() { return "Đạo Pháp Thần Thông"; }
+14135|<O>| string get_skill_name() { return "Kỳ Môn Độn Giáp"; }
+14136|<O>| ESC"3 quả cầu (đen+xanh+đỏ) đổi phần thưởng ngẫu nhiên\ntalk %x# bonus.30\n"
+14137|<O>| int  get_clock_running();				//	Kiểm tra đồng hồ có đang chạy không
+14138|<O>| printf(ECHO "Bạn nhận được một viên %s.", item->get_name());
+14139|<O>| return "Bình thuốc đặc hiệu thường, lập tức hồi phục 2000 điểm khí huyết. Thời gian hồi chiêu 2 giây.";
+14140|<O>| string get_skill_name() { return "Long Du Tứ Hải"; }
+14141|<O>| send_user(who, "%c%s", '!', "Vị trí phó thành chủ tối đa hai người.");
+14142|<O>| send_user(who, "%c%s", '!', "Bạn đã tiêu diệt thành công tên ác bá");
+14143|<O>| result += ESC "100 nguyên bảo\nconsign list 100\n";
+14144|<O>| return owner->can_fight(who);    // Chủ nhân có thể tấn công không
+14145|<O>| SAY_CMD->say(me, "Binh sĩ! Đứng thẳng lưng lên!! Sẵn sàng toàn quân đột kích!!");
+14146|<O>| send_user(who, "%c%s", '!', "Bạn cần 8 ô đạo cụ trống.");
+14147|<O>| private string* BeastInfo;			//Mảng lưu trữ file lưu thú cưng
+14148|<O>| return desc = "Một loại thần thủy dùng cho thú cưng, có thể chuyển thú cưng về trạng thái sơ cấp cấp 0.";
+14149|<O>| send_user(who, "%c%s", ';', "Bạn đã nhận được bảo vật bị thất lạc!");
+14150|<O>| return sprintf("Ám Linh Thạch cấp %d", me->get_level());
+14151|<O>| if (me->get_2("changping"))	//Đã đăng ký Trường Bình Chi Chiến, hủy đăng ký
+14152|<O>| //	ESC"Hiện tại tỷ lệ tiêu diệt quái của chúng ta là bao nhiêu?\ntalk %x# welcome.2\n"
+14153|<O>| SAY_CMD->say(me, "Nhìn ngọn lửa này đi, món ăn nấu bằng lửa này chắc chắn rất ngon!!");
+14154|<O>| if (!size && !gold) return 1;    // Không cho gì cả
 14155|<O>| string get_skill_name() { return "Bá Vương Thương Pháp"; }
-14156|<O>| string get_skill_name() { return "Cơ bảnThương Pháp"; }
-14157|<O>| if( present("Vật phẩm quý giá", who, 1, MAX_CARRY*4) )
-14158|<O>| send_user(who, "%c%s", ';', "Bạn nhận được10vạnVàngcủaphần thưởng");
-14159|<O>| string get_skill_name() { return "càn khôn na Di"; }
-14160|<O>| if (check_item_amount(who, "Tây qua bá bácủaTây qua") < 5)
-14161|<O>| default: if (me->is_caster())    // Viễn trìnhTấn côngcủaquái
-14162|<O>| //        set("no_sk04237",1);	//HuyềnLongquyếtđối vớikỳkhông cóhiệu Quả
-14163|<O>| string get_skill_name() { return "Vàngcương Pháp chú"; }
-14164|<O>| string get_skill_name() { return "Cơ bảnĐao Pháp"; }
-14165|<O>| send_user(me, "%c%s", '!', "TạiChiến trườngKhông thể sử dụngHồi Bang Phù。");
-14166|<O>| return sprintf("%dcấpẢnh Linh Thạch", me->get_level());
-14167|<O>| send_user(me, "%c%s", '!', "chỉNăngTạiChiến trườngSử dụngchuyển Di Phù。");
-14168|<O>| Bản loại Giải tíchgiờgian cách thứccủaquy Tắc toán Pháp，Lực cầu kiêm dung càngnhiềucách thứccủagiờgian cách thức thâu Nhập Phương Pháp，Lực cầu giảnngắnCóhiệu Quay về0
-14169|<O>| send_user(me, "%c%s", '!', "bang pháiTề Tâm Hợp Lựcphần thưởngĐóng！");
-14170|<O>| //        call_out("reset", 1);    // bản đồphục vị
-14171|<O>| gift = new("item/final/16/1612");	//TinhSắtCơ Quancấukiện
-14172|<O>| string get_skill_name() { return "Cơ bảnKiếm Pháp"; }
-14173|<O>| else if (p < 9840 * rate / 100)    // đặc thù Dược Vật
-14174|<O>| npc = who;  who = me;  me = npc;    // Chú ý！
-14175|<O>| else if (p < 10000 * rate / 100)    // Tạp vật２
-14176|<O>| send_user(who, "%c%s", '!', "bạnchưa cólĩnh thủ qua tự liệt hiệu");
-14177|<O>| string get_skill_name() { return "Kinh lạc Học nói"; }
-14178|<O>| string get_skill_name() { return "giángMaPháp chú"; }
-14179|<O>| return sprintf("%dcấpThổLinh Thạch", me->get_level());
-14180|<O>| result2 = sprintf("Pháp Lực %d", who->get_mp());
-14181|<O>| send_user(player,"%c%s",'!',"Xin lỗi，nênNgười chơikhôngtồnTại");
-14182|<O>| desc = "tốtnhiềutốtCậtcủaThủyQuả phânTạicùng nhau，14giây phục hồi cho người chơi665điểm Khí HuyếtvàPháp LựcTrị。";
+14156|<O>| string get_skill_name() { return "Cơ Bản Thương Pháp"; }
+14157|<O>| if( present("Vật Phẩm Quý Giá", who, 1, MAX_CARRY*4) )
+14158|<O>| send_user(who, "%c%s", ';', "Bạn nhận được 10 vạn vàng thưởng");
+14159|<O>| string get_skill_name() { return "Càn Khôn Nã Di"; }
+14160|<O>| if (check_item_amount(who, "Dưa hấu của Bác Dưa Hấu") < 5)
+14161|<O>| default: if (me->is_caster())    // Quái tấn công tầm xa
+14162|<O>| //        set("no_sk04237",1);	//Huyền Long Quyết không có hiệu quả với nó
+14163|<O>| string get_skill_name() { return "Kim Cương Pháp Chú"; }
+14164|<O>| string get_skill_name() { return "Cơ Bản Đao Pháp"; }
+14165|<O>| send_user(me, "%c%s", '!', "Trên chiến trường không thể dùng Hồi Bang Phù.");
+14166|<O>| return sprintf("Ảnh Linh Thạch cấp %d", me->get_level());
+14167|<O>| send_user(me, "%c%s", '!', "Chỉ có thể dùng Chuyển Di Phù trên chiến trường.");
+14168|<O>| Thuật toán giải mã định dạng thời gian của lớp này, tương thích nhiều định dạng nhập thời gian, ngắn gọn hiệu quả. Trả về 0
+14169|<O>| send_user(me, "%c%s", '!', "Phần thưởng đồng tâm hiệp lực bang phái đã đóng!");
+14170|<O>| //        call_out("reset", 1);    // Reset bản đồ
+14171|<O>| gift = new("item/final/16/1612");	//Linh kiện cơ quan tinh thiết
+14172|<O>| string get_skill_name() { return "Cơ Bản Kiếm Pháp"; }
+14173|<O>| else if (p < 9840 * rate / 100)    // Thuốc đặc biệt
+14174|<O>| npc = who;  who = me;  me = npc;    // Chú ý!
+14175|<O>| else if (p < 10000 * rate / 100)    // Tạp vật 2
+14176|<O>| send_user(who, "%c%s", '!', "Bạn chưa nhận mã số bao giờ");
+14177|<O>| string get_skill_name() { return "Kinh Lạc Học Thuyết"; }
+14178|<O>| string get_skill_name() { return "Hàng Ma Pháp Chú"; }
+14179|<O>| return sprintf("Thổ Linh Thạch cấp %d", me->get_level());
+14180|<O>| result2 = sprintf("Pháp lực %d", who->get_mp());
+14181|<O>| send_user(player,"%c%s",'!',"Xin lỗi, người chơi này không tồn tại");
+14182|<O>| desc = "Nhiều loại trái cây ngon ghép lại, trong 14 giây hồi phục 665 điểm khí huyết và pháp lực cho người chơi.";

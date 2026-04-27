@@ -1,63 +1,63 @@
-﻿10368|<O>| if (TASK_LEGEND_D->check_task_item(who, "mật đường", 3) != 1)
-10369|<O>| max_exp = mpInfo["limit"] - mpInfo["exp"];	//tốinhiềucó thểsungcủaGiá trị kinh nghiệm
+﻿10368|<O>| if (TASK_LEGEND_D->check_task_item(who, "Mật Ong", 3) != 1)
+10369|<O>| max_exp = mpInfo["limit"] - mpInfo["exp"];	//Lượng kinh nghiệm tối đa có thể nạp
 10370|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Đơn Đao %d/8", i));
-10371|<O>| send_user(who, "%c%s", ';', "nhận được thưởng càn khôn đại 2 Pháp Lực Thạch 1 Huyết Lực Thạch 1");
+10371|<O>| send_user(who, "%c%s", ';', "Nhận phần thưởng Càn Khôn Đại 2 Pháp Lực Thạch 1 Huyết Lực Thạch 1");
 10372|<O>| result += sprintf(ESC"Hoàn thành nhiệm vụ\nlook %x#\n", getoid(who));
 10373|<O>| if (TASK_LEGEND_D->check_task_item(who, "Đơn Đao", 8) != 1)
-10374|<O>| private int MaxLevel;                   // tốicaoCấp độ(dùng vu thuộc tínhđiểm)
-10375|<O>| if (who->get_2("suit_effect.no_drop")) return 0;  //bộ trang
-10376|<O>| ESC HIY"lĩnh thủ quan Phương tặng tốngmớiThủ lễ bao\ntalk %x# bonus.34\n", id, id, id);
-10377|<O>| //                        me->log_money("chonpc", gold);
+10374|<O>| private int MaxLevel;                   // Cấp độ tối đa(dùng cho điểm thuộc tính)
+10375|<O>| if (who->get_2("suit_effect.no_drop")) return 0;  //Bộ trang bị
+10376|<O>| ESC HIY"Nhận hộp quà tân thủ tặng từ quan phương\ntalk %x# bonus.34\n", id, id, id);
+10377|<O>| //                        me->log_money("cho npc", gold);
 10378|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Sơn Dược %d/5", i));
-10379|<O>| send_user(who, "%c%s", '!', sprintf(HIY"MộcTinh %d/7", i));
-10380|<O>| if (who->get_2("suit_effect.no_drop")) return 2;  //bộ trang
-10381|<O>| if (TASK_LEGEND_D->check_task_item(who, "Mậtkiện", 1) != 1)
-10382|<O>| return ("Hoa ngữ:lãng mạn Chân Tình\nSử dụngsauPháp ThuậtTấn côngTăng30%，kéo dài60phút\n"HIR"Sử dụnggiả nhu vìNữtính");
-10383|<O>| send_user(who, "%c%s", '!', sprintf(HIY"tạo giác %d/7", i));
-10384|<O>| if (TASK_LEGEND_D->check_task_item(who, "Sắtcô", 1) != 1)
-10385|<O>| if (TASK_LEGEND_D->check_task_item(who, "Tín hàm", 1) != 1)
+10379|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Mộc Tinh %d/7", i));
+10380|<O>| if (who->get_2("suit_effect.no_drop")) return 2;  //Bộ trang bị
+10381|<O>| if (TASK_LEGEND_D->check_task_item(who, "Mật Kiện", 1) != 1)
+10382|<O>| return ("Hoa ngữ: Lãng mạn chân tình\nSử dụng sau tấn công pháp thuật tăng 30%, kéo dài 60 phút\n"HIR"Người sử dụng phải là nữ");
+10383|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Bồ Kết %d/7", i));
+10384|<O>| if (TASK_LEGEND_D->check_task_item(who, "Vòng Sắt", 1) != 1)
+10385|<O>| if (TASK_LEGEND_D->check_task_item(who, "Thư Tín", 1) != 1)
 10386|<O>| case "Triệu Quốc": z = 30;  p = get_jumpin(z, me->get("out"));
-10387|<O>| if (TASK_LEGEND_D->check_task_item(who, "La Bốc", 4) != 1)
+10387|<O>| if (TASK_LEGEND_D->check_task_item(who, "Cà Rốt", 4) != 1)
 10388|<O>| ESC "Xác nhận\n" + sprintf("talk %x# buy.5\n", getoid(me)) +
-10389|<O>| result += sprintf(ESC"nhỏQuai\ntalk %x# welcome.21\n", id);
-10390|<O>| if (who->is_npc()) who->start_fight(me);    // Người chơinhu chủ Độngcònkích
-10391|<O>| send_user(who, "%c%s", '!', sprintf("hoạch đượcTiền vàng %d", cash));
-10392|<O>| if (TASK_LEGEND_D->check_task_item(who, "Vũ mao", 1) != 1)
-10393|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Ngọc mễ %d/2", i));
-10394|<O>| sprintf("%s\nmua Nhập giá cách %d Vàng。\ndư %d 。\n", name->get_desc(),
-10395|<O>| result += sprintf(ESC"bổn bổn\ntalk %x# welcome.27\n", id);
-10396|<O>| //        if( !who->is_user() ) return 1;    // chỉđối vớiNgười chơiCóhiệu
-10397|<O>| result += sprintf(ESC"đà đà\ntalk %x# welcome.23\n", id);
-10398|<O>| if (TASK_LEGEND_D->check_task_item(who, "anh đào", 1) != 1)
-10399|<O>| desc = "Đỗ Khang Tửu thuộc nùng hương hình Tửu，Dĩ ưu chấtnhỏmạch、Tinh tuyển nếp mễ、caoLương nhưỡng chế mà thành，20giây phục hồi cho người chơi1800điểm Pháp thuật lực。";
-10400|<O>| send_user(who, "%c%s", '!', sprintf(HIY"miên tuyến %d/5", i));
+10389|<O>| result += sprintf(ESC"Tiểu Quái\ntalk %x# welcome.21\n", id);
+10390|<O>| if (who->is_npc()) who->start_fight(me);    // Người chơi cần chủ động phản kích
+10391|<O>| send_user(who, "%c%s", '!', sprintf("Nhận được tiền vàng %d", cash));
+10392|<O>| if (TASK_LEGEND_D->check_task_item(who, "Lông Vũ", 1) != 1)
+10393|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Ngô %d/2", i));
+10394|<O>| sprintf("%s\nGiá mua %d vàng.\nCòn %d cái.\n", name->get_desc(),
+10395|<O>| result += sprintf(ESC"Bản Bản\ntalk %x# welcome.27\n", id);
+10396|<O>| //        if( !who->is_user() ) return 1;    // Chỉ có hiệu lực với người chơi
+10397|<O>| result += sprintf(ESC"Đà Đà\ntalk %x# welcome.23\n", id);
+10398|<O>| if (TASK_LEGEND_D->check_task_item(who, "Anh Đào", 1) != 1)
+10399|<O>| desc = "Đỗ Khang tửu thuộc loại rượu nồng hương, được ủ từ tiểu mạch thượng hạng, gạo nếp tuyển chọn, cao lương, trong 20 giây hồi phục 1800 điểm pháp lực cho người chơi.";
+10400|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Sợi Bông %d/5", i));
 10401|<O>| send_user(me, "%c%w%w%c", 0x07, x0, y0, 9);    // Hiệu chỉnh tọa độ
-10402|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận"HIY"đạo Thảo Nhâncủaủy thác"NOR"Nhiệm vụ");
-10403|<O>| if (!objectp(item = present("mêThầntán", me, 1, MAX_CARRY)))
+10402|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận nhiệm vụ "HIY"Ủy Thác Của Người Rơm"NOR"");
+10403|<O>| if (!objectp(item = present("Mê Thần Tán", me, 1, MAX_CARRY)))
 10404|<O>| if (TASK_LEGEND_D->check_task_item(who, "Kiếm", 20) != 1)
 10405|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Kiếm Hồn %d/8", i));
-10406|<O>| if (TASK_LEGEND_D->check_task_item(who, "luận ngữ", 1) != 1)
-10407|<O>| send_user(who, "%c%s", ':', "Bạn Đả toánđối vớinàoPhương Diện tạo dao？mỗilầntiêu haoThể lực 10 điểm。\n"
-10408|<O>| if (TASK_LEGEND_D->check_task_item(who, "cưa Tử", 1) != 1)
-10409|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Mộcbản %d/8", i));
-10410|<O>| SAY_CMD->say(me, who->get_name() + "，bạnnàycó thể bicủaGia hỏa，muốn Tử Nhấtlần？");
-10411|<O>| if (TASK_LEGEND_D->check_task_item(who, "Linh chi", 3) != 1)
-10412|<O>| write_user(who, HIY "%sCường Hànhgiữachỉ thiệpvàBạncủachiến đấu。", me->get_name());
-10413|<O>| if (TASK_LEGEND_D->check_task_item(who, "quan Ấn", 1) != 1)
-10414|<O>| if (TASK_LEGEND_D->check_task_item(who, "mao bút", 1) != 1)
-10415|<O>| if (objectp(item = who->get_equip(HAND_TYPE))    // Pháp Bảo
-10416|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Đao dũng %d/8", i));
+10406|<O>| if (TASK_LEGEND_D->check_task_item(who, "Luận Ngữ", 1) != 1)
+10407|<O>| send_user(who, "%c%s", ':', "Bạn muốn tung tin đồn về phương diện nào? Mỗi lần tiêu hao 10 điểm thể lực.\n"
+10408|<O>| if (TASK_LEGEND_D->check_task_item(who, "Cưa", 1) != 1)
+10409|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Ván Gỗ %d/8", i));
+10410|<O>| SAY_CMD->say(me, who->get_name() + ", ngươi tên đáng thương, muốn chết một lần sao?");
+10411|<O>| if (TASK_LEGEND_D->check_task_item(who, "Linh Chi", 3) != 1)
+10412|<O>| write_user(who, HIY "%s đã cưỡng chế dừng trận chiến liên quan đến bạn.", me->get_name());
+10413|<O>| if (TASK_LEGEND_D->check_task_item(who, "Quan Ấn", 1) != 1)
+10414|<O>| if (TASK_LEGEND_D->check_task_item(who, "Bút Lông", 1) != 1)
+10415|<O>| if (objectp(item = who->get_equip(HAND_TYPE))    // Pháp bảo
+10416|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Đao Dũng %d/8", i));
 10417|<O>| if (TASK_LEGEND_D->check_task_item(who, "Sơn Dược", 5) != 1)
 10418|<O>| "Mao Sơn" : ([	60: ({1256,"Yêu","Cường tráng","Ngũ lôi",}),
-10419|<O>| && who->get_quest("thief.flag") == 4    // 3. thất thiếtNhiệm vụ(Nhân Vật)
-10420|<O>| result += ESC "Sử dụngVIPMiễn phíPhục sinhlầnsốTạinguyên ĐịaPhục sinh。\ndesc vip_revive1\n";
+10419|<O>| && who->get_quest("thief.flag") == 4    // 3. Nhiệm vụ mất trộm(nhân vật)
+10420|<O>| result += ESC "Sử dụng lượt phục sinh miễn phí VIP để phục sinh tại chỗ.\ndesc vip_revive1\n";
 10421|<O>| if (TASK_LEGEND_D->check_task_item(who, "Hùng Hoàng", 3) != 1)
-10422|<O>| send_user(player, "%c%c%w%s", 0x5a, 0, 12, "đào Bảohoạt độnggiữa……");
-10423|<O>| ESC "tôicònLàkhảo lự khảo lự \nCLOSE\n", me->get_name(), getoid(me)));
-10424|<O>| return ("Ngụ ý:Tình trườngcaoThủ\nSử dụngsauVật lýPhòng thủTăng30%，kéo dài60phút\n"HIR"Người sử dụng cần là nam");
-10425|<O>| private static mapping Store = ([]);           // thương Phẩm tư liệu
-10426|<O>| if (TASK_LEGEND_D->check_task_item(who, "ThầnKiếm", 1) != 1)
-10427|<O>| if (TASK_LEGEND_D->check_task_item(who, "Mộcbản", 8) != 1)
-10428|<O>| result += sprintf(ESC"đà đà\ntalk %x# welcome.13\n", id);
-10429|<O>| log_file(RECOVER_LOG, sprintf("%s %s sử %s(%s)hoàn ToànPhục hồi。\n",
+10422|<O>| send_user(player, "%c%c%w%s", 0x5a, 0, 12, "Hoạt động đào bảo đang diễn ra……");
+10423|<O>| ESC "Để tôi suy nghĩ thêm đã\nCLOSE\n", me->get_name(), getoid(me)));
+10424|<O>| return ("Ngụ ý: Cao thủ tình trường\nSử dụng sau phòng thủ vật lý tăng 30%, kéo dài 60 phút\n"HIR"Người sử dụng phải là nam");
+10425|<O>| private static mapping Store = ([]);           // Thông tin hàng hóa
+10426|<O>| if (TASK_LEGEND_D->check_task_item(who, "Thần Kiếm", 1) != 1)
+10427|<O>| if (TASK_LEGEND_D->check_task_item(who, "Ván Gỗ", 8) != 1)
+10428|<O>| result += sprintf(ESC"Đà Đà\ntalk %x# welcome.13\n", id);
+10429|<O>| log_file(RECOVER_LOG, sprintf("%s %s khiến %s(%s) hồi phục hoàn toàn.\n",
 10430|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Mỹ Tửu %d/5", i));

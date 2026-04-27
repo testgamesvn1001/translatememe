@@ -1,100 +1,100 @@
-﻿18881|<O>| #define PF_NAME        "dược thỏ HiaChế tạo"
-18882|<O>| "từ Thạch" : "\"/item/stuff/0140\"",
-18883|<O>| "sa tuyến" : "\"/item/stuff/0036\"",
-18884|<O>| "Đồngđĩnh" : "\"/item/stuff/0009\"",
-18885|<O>| ESC "tôiquyết định Đồnghắnđoạn giao。\nfriend x %d\n"
-18886|<O>| ESC"Rời khỏi", me->get_name(), id));
-18887|<O>| "ma thằng" : "\"/item/stuff/0033\"",
-18888|<O>| return "phổ thôngcủabáchMộcbổng，doThạch KhắcKỹ năngPhân giảiXuất đến tịnhSử dụng。";
+﻿18881|<O>| #define PF_NAME        "Chế Tạo Giày Thỏ Nhảy"
+18882|<O>| "Từ Thạch" : "\"/item/stuff/0140\"",
+18883|<O>| "Chỉ Lụa" : "\"/item/stuff/0036\"",
+18884|<O>| "Thỏi Đồng" : "\"/item/stuff/0009\"",
+18885|<O>| ESC "Tôi quyết định tuyệt giao với hắn.\nfriend x %d\n"
+18886|<O>| ESC"Rời đi", me->get_name(), id));
+18887|<O>| "Dây Gai" : "\"/item/stuff/0033\"",
+18888|<O>| return "Gậy bách thông thường, được phân giải bằng kỹ năng thạch khắc và sử dụng.";
 18889|<O>| result += ESC"Mở\nparty 51\n";
-18890|<O>| if (arg1 == "?")			// Sử dụnghữu Tình hô hoáncủaNhân
-18891|<O>| #define PF_NAME        "Côn ngô Đao đoạn tạo"
-18892|<O>| default: file = "vôMôn phái";  break;
-18893|<O>| #define PF_NAME        "ngàyquyền Côn đoạn tạo"
+18890|<O>| if (arg1 == "?")			// Người dùng gọi bạn bè
+18891|<O>| #define PF_NAME        "Rèn Đao Côn Ngô"
+18892|<O>| default: file = "Không môn phái";  break;
+18893|<O>| #define PF_NAME        "Rèn Côn Thiên Quyền"
 18894|<O>| log_file(LIST_LOG, "# Côn\n\n");
-18895|<O>| #define PF_NAME        "tra sử Mệnh Vật Phẩm"
-18896|<O>| ESC "Rời khỏi。\nCLOSE\n", money ) );
-18897|<O>| "Ngưu Bì" : "\"/item/stuff/0191\"",
-18898|<O>| "lăng bốBao gói" : "\"/item/std/6004\"",
-18899|<O>| notify("giữacấpđoạn tạo ThạchchỉNăng đoạn tạoTại4Tinh DĩdướicủaTrang bịtrên。");
-18900|<O>| int allcontrib;				// bang pháicống hiến độcủatổng số
-18901|<O>| "Kê đản" : "\"/item/stuff/0171\"",
-18902|<O>| "Trư Nhục" : "\"/item/stuff/0179\"",
-18903|<O>| "Lộc nhung" : "\"/item/stuff/0132\"",
-18904|<O>| "PhácũcủaĐầu Khôi" : "\"/item/40/4030\"",
-18905|<O>| if (!clonep(me)) return "Mộctinh Thạch";
-18906|<O>| result = result + HIR"5000Kinh nghiệm";
-18907|<O>| "Báo Bì" : "\"/item/stuff/0193\"",
-18908|<O>| #define MIN_SIZE 5	//mở ChiếncủatốiítNhân số 5
-18909|<O>| return "Vật phẩm nhiệm vụ。Tề Quốcthủ VệdướichoTần Quốcthủ VệcủaThách đấuthư。";
-18910|<O>| return "Vật phẩm nhiệm vụ。Một loạiNăng sử Nhân diênnămích thọcủađặc thùBảo Thạch。";
-18911|<O>| me->send_mtask_xy(z);	//càngmớiNhiệm vụtọa tiêu
-18912|<O>| "Phá tổncủaKhôi Giáp" : "\"/item/40/4014\"",
-18913|<O>| #define PF_NAME        "MaVương CânChế tạo"
-18914|<O>| #define PF_NAME        "Thích Thanh Thương đoạn tạo"
-18915|<O>| // Tự dùngkéo dàiKỹ năng  TIPS:[PF_SELF_LOOP]
-18916|<O>| return sprintf("giữaĐộc\nđịnhgiờgiảmítKhí Huyết。");
-18917|<O>| private int iHouse;			// sương phòngcủasố lượng
-18918|<O>| for (i = 2;i < 3;i++)	//1Quỷtốt thủ Vệ
-18919|<O>| "ngàyNữtán Hoa Đồ" : "\"/item/97/9732\"",
-18920|<O>| "Sơn Dược" : "\"/item/stuff/0154\"",
-18921|<O>| #define PF_NAME        "ngàyxu Thương đoạn tạo"
-18922|<O>| "tàn thiếuBảo Thạchkhoáng" : "\"/item/89/8991\"",
-18923|<O>| "sa thủy ngân" : "\"/item/stuff/0138\"",
-18924|<O>| "tàn thiếuHoàng Tinh Thạch" : "\"/item/89/8921\"",
-18925|<O>| #define PF_NAME        "khốnMaCôn đoạn tạo"
-18926|<O>| "vô hạBảo Thạchkhoáng" : "\"/item/89/8994\"",
-18927|<O>| return "Vật phẩm nhiệm vụ。Yên QuốcNgự Sử dùng đếnChế tạohồn Nghicủatất nhu Phẩm。";
-18928|<O>| #define PF_NAME        "Thái uyên Đao đoạn tạo"
-18929|<O>| case 2: result = "giao Ác";  break;
-18930|<O>| return "Vật phẩm nhiệm vụ。Một loạithường dùng vuTrị liệuÔn bệnh phát nhiệtcủaDược liệu。";
-18931|<O>| "cưa phiến" : "\"/item/stuff/0210\"",
-18932|<O>| return "trangCó120Tử SắcThầnKhícủalễ bao，phảikích tức có thể Đả mở。";
-18933|<O>| if (p % 60 == 0)    // mỗi１phútxử lý Dĩdưới
-18934|<O>| "tằm Ti" : "\"/item/stuff/0047\"",
-18935|<O>| #define PF_NAME        "cấp Hành HiaChế tạo"
-18936|<O>| "Đào dũng Chi thủ" : "TạiTướng Quân Cổ MộNhịtầngSát Đao dũngcó thểnhận đượcĐào dũng Chi thủ",
-18937|<O>| "Trúc duẩn" : "\"/item/stuff/0157\"",
-18938|<O>| SAY_CMD->say(me, "bạnChânLàvịlớnThiện Nhân a！");
-18939|<O>| else if (p < 75)    //nhận đượcphổ thôngTrang bịĐạo cụ
-18940|<O>| "già Tử" : "\"/item/stuff/0156\"",
-18941|<O>| set_char_picid(200);    // Mông Diện Nhân
+18895|<O>| #define PF_NAME        "Kiểm Tra Vật Phẩm Sứ Mệnh"
+18896|<O>| ESC "Rời đi.\nCLOSE\n", money ) );
+18897|<O>| "Da Bò" : "\"/item/stuff/0191\"",
+18898|<O>| "Gói Vải Lụa" : "\"/item/std/6004\"",
+18899|<O>| notify("Đá rèn trung cấp chỉ có thể rèn trên trang bị 4 sao trở xuống.");
+18900|<O>| int allcontrib;				// Tổng điểm cống hiến bang phái
+18901|<O>| "Trứng Gà" : "\"/item/stuff/0171\"",
+18902|<O>| "Thịt Heo" : "\"/item/stuff/0179\"",
+18903|<O>| "Nhung Hươu" : "\"/item/stuff/0132\"",
+18904|<O>| "Mũ Giáp Cũ Nát" : "\"/item/40/4030\"",
+18905|<O>| if (!clonep(me)) return "Tinh Thạch Mộc";
+18906|<O>| result = result + HIR"5000 kinh nghiệm";
+18907|<O>| "Da Báo" : "\"/item/stuff/0193\"",
+18908|<O>| #define MIN_SIZE 5	//Số người tối thiểu khai chiến 5
+18909|<O>| return "Vật phẩm nhiệm vụ. Thư thách đấu mà lính canh Tề Quốc gửi cho lính canh Tần Quốc.";
+18910|<O>| return "Vật phẩm nhiệm vụ. Loại bảo thạch đặc biệt có thể giúp kéo dài tuổi thọ.";
+18911|<O>| me->send_mtask_xy(z);	//Cập nhật tọa độ nhiệm vụ
+18912|<O>| "Giáp Cũ Nát" : "\"/item/40/4014\"",
+18913|<O>| #define PF_NAME        "Chế Tạo Khăn Ma Vương"
+18914|<O>| #define PF_NAME        "Rèn Thương Thích Thanh"
+18915|<O>| // Kỹ năng tự dùng liên tục  TIPS:[PF_SELF_LOOP]
+18916|<O>| return sprintf("Trúng Độc\nĐịnh kỳ giảm khí huyết.");
+18917|<O>| private int iHouse;			// Số lượng phòng
+18918|<O>| for (i = 2;i < 3;i++)	//1 quỷ tốt lính gác
+18919|<O>| "Tranh Thiên Nữ Tán Hoa" : "\"/item/97/9732\"",
+18920|<O>| "Củ Mài" : "\"/item/stuff/0154\"",
+18921|<O>| #define PF_NAME        "Rèn Thương Thiên Xu"
+18922|<O>| "Quặng Bảo Thạch Khuyết" : "\"/item/89/8991\"",
+18923|<O>| "Sa Thủy Ngân" : "\"/item/stuff/0138\"",
+18924|<O>| "Tinh Thạch Vàng Khuyết" : "\"/item/89/8921\"",
+18925|<O>| #define PF_NAME        "Rèn Côn Khốn Ma"
+18926|<O>| "Quặng Bảo Thạch Không Tì Vết" : "\"/item/89/8994\"",
+18927|<O>| return "Vật phẩm nhiệm vụ. Vật cần thiết mà ngự sử Yên Quốc dùng chế tạo hỗn nghi.";
+18928|<O>| #define PF_NAME        "Rèn Đao Thái Uyên"
+18929|<O>| case 2: result = "Thù địch";  break;
+18930|<O>| return "Vật phẩm nhiệm vụ. Loại dược liệu thường dùng chữa trị ôn bệnh sốt nóng.";
+18931|<O>| "Lưỡi Cưa" : "\"/item/stuff/0210\"",
+18932|<O>| return "Lễ bao chứa 120 thần khí tím, click phải để mở.";
+18933|<O>| if (p % 60 == 0)    // Xử lý mỗi 1 phút
+18934|<O>| "Tơ Tằm" : "\"/item/stuff/0047\"",
+18935|<O>| #define PF_NAME        "Chế Tạo Giày Cấp Hành"
+18936|<O>| "Đầu Tượng Đất" : "Giết đao dũng ở tầng 2 Cổ Mộ Tướng Quân có thể được đầu tượng đất",
+18937|<O>| "Măng" : "\"/item/stuff/0157\"",
+18938|<O>| SAY_CMD->say(me, "Ngươi thật là người tốt bụng!");
+18939|<O>| else if (p < 75)    //Nhận được đạo cụ trang bị thường
+18940|<O>| "Cà Tím" : "\"/item/stuff/0156\"",
+18941|<O>| set_char_picid(200);    // Người bịt mặt
 18942|<O>| log_file(LIST_LOG, "# Thương\n\n");
 18943|<O>| + sprintf(ESC"Đóng\nparty 18\n")
-18944|<O>| default: name3 = "Tutốt";  break;
-18945|<O>| "Thủyđạo" : "\"/item/stuff/0142\"",
-18946|<O>| return "Giang hồ langgiữadùng đến hồ lộng NhâncủaMột loạiDược Phẩm，tácBánPhẩm dùng";
-18947|<O>| // Tự Động sinh thành:/make/npc/makelishan.c
-18948|<O>| me->set_enemy(0);		// Hủy bỏTự ĐộngTấn côngmục tiêu
-18949|<O>| //		        cityname = "Đường MônMật thất";
-18950|<O>| #define PF_NAME        "húcQuangQuanChế tạo"
-18951|<O>| "Pháp Công:%4d - %4d  Pháp phòng:%4d - %4d\n"
-18952|<O>| #define PF_NAME        "mở Dương Kiếm đoạn tạo"
-18953|<O>| #define PF_NAME        "lưu sa Kiếm đoạn tạo"
-18954|<O>| return "Vật phẩm nhiệm vụ。công thâu ban dùng đến Tu lýMộcthùngcủaMột loạitài liệu。";
-18955|<O>| #define PF_NAME        "TửVàngCôn đoạn tạo"
-18956|<O>| "báchMộc" : "\"/item/stuff/0103\"",
-18957|<O>| // tìm tìm lạc Địa vị trí — tốinhiềuthường thử5lầnNgẫu nhiêntán lạc，Thất bạiTắc lạcTạicướcdưới
-18958|<O>| "Quy Nhục" : "\"/item/stuff/0176\"",
+18944|<O>| default: name3 = "Hòa hảo";  break;
+18945|<O>| "Lúa Nước" : "\"/item/stuff/0142\"",
+18946|<O>| return "Loại thuốc mà lang vườn dùng để lừa người, dùng làm vật phẩm bán";
+18947|<O>| // Tự động tạo: /make/npc/makelishan.c
+18948|<O>| me->set_enemy(0);		// Hủy mục tiêu tự động tấn công
+18949|<O>| //		        cityname = "Mật Thất Đường Môn";
+18950|<O>| #define PF_NAME        "Chế Tạo Mũ Húc Quang"
+18951|<O>| "Pháp công:%4d - %4d  Pháp phòng:%4d - %4d\n"
+18952|<O>| #define PF_NAME        "Rèn Kiếm Khai Dương"
+18953|<O>| #define PF_NAME        "Rèn Kiếm Lưu Sa"
+18954|<O>| return "Vật phẩm nhiệm vụ. Nguyên liệu Công Thâu Ban dùng để sửa thùng gỗ.";
+18955|<O>| #define PF_NAME        "Rèn Côn Tử Kim"
+18956|<O>| "Gỗ Bách" : "\"/item/stuff/0103\"",
+18957|<O>| // Tìm vị trí rơi — thử tối đa 5 lần rơi ngẫu nhiên, thất bại thì rơi dưới chân
+18958|<O>| "Thịt Rùa" : "\"/item/stuff/0176\"",
 18959|<O>| ESC "Tiếp tục\ntalk %x# welcome.4\n"
-18960|<O>| "tàn thiếu Thanh tinh Thạch" : "\"/item/89/8909\"",
-18961|<O>| #define PF_NAME        "Văn khúc QuanChế tạo"
-18962|<O>| set_attack_speed(10);  //Tấn côngtốc độ
-18963|<O>| "“phát tài”" : "\"/item/37/3736\"",
-18964|<O>| if( time < 1 )    // nại cửu vì 0 tiêu thất
-18965|<O>| "Đào dũng Chi tý" : "\"/item/40/4070\"",
-18966|<O>| "hạc đỉnh Hồng Phấn" : "\"/item/91/9131\"",
-18967|<O>| "“NamPhong”" : "\"/item/37/3732\"",
-18968|<O>| #define PF_NAME        "xích tiêu đoạn tạo"
-18969|<O>| #define PF_NAME        "Lực phách Hoa Sơn"
-18970|<O>| who->log_money("quân quanNhiệm vụ", gold);
-18971|<O>| "“Thất đồng”" : "\"/item/37/3707\"",
-18972|<O>| "càn khôn nang" : "\"/item/std/6007\"",
-18973|<O>| "“Ngũ vạn”" : "\"/item/37/3725\"",
-18974|<O>| "“Tam điều”" : "\"/item/37/3713\"",
-18975|<O>| "ngàycương Môn Chúng thủ" : "TạiThiên Môn TrậnNhấttầngcó thểSátđếnngàycương Môn Chúng thủ ",
-18976|<O>| if ( i < iStart_qixi )	//khôngđếngiờgian
-18977|<O>| return "tế Thế phổ độcủahồ lô，TạinócủaKinh nghiệmlũy tíchđếntốilớnTrịtrước，
+18960|<O>| "Tinh Thạch Xanh Khuyết" : "\"/item/89/8909\"",
+18961|<O>| #define PF_NAME        "Chế Tạo Mũ Văn Khúc"
+18962|<O>| set_attack_speed(10);  //Tốc độ tấn công
+18963|<O>| ""Phát Tài"" : "\"/item/37/3736\"",
+18964|<O>| if( time < 1 )    // Độ bền 0, biến mất
+18965|<O>| "Cánh Tay Tượng Đất" : "\"/item/40/4070\"",
+18966|<O>| "Bột Hạc Đỉnh Hồng" : "\"/item/91/9131\"",
+18967|<O>| ""Gió Nam"" : "\"/item/37/3732\"",
+18968|<O>| #define PF_NAME        "Rèn Xích Tiêu"
+18969|<O>| #define PF_NAME        "Lực Phách Hoa Sơn"
+18970|<O>| who->log_money("Nhiệm vụ quân quan", gold);
+18971|<O>| ""Bảy Sọc"" : "\"/item/37/3707\"",
+18972|<O>| "Kiền Khôn Nang" : "\"/item/std/6007\"",
+18973|<O>| ""Năm Vạn"" : "\"/item/37/3725\"",
+18974|<O>| ""Ba Sọc"" : "\"/item/37/3713\"",
+18975|<O>| "Chúng Thủ Thiên Cương Môn" : "Tại tầng 1 Thiên Môn Trận có thể giết được Chúng Thủ Thiên Cương Môn ",
+18976|<O>| if ( i < iStart_qixi )	//Chưa đến giờ
+18977|<O>| return "Hồ lô cứu thế phổ độ, trước khi kinh nghiệm tích lũy tối đa,
 18978|<O>| case "Côn Lôn Sơn": flag = 6;  break;
-18979|<O>| result = "hiệnCósử Mệnh Nhân Vật liệt biểu，Xin tổ độiHoàn thành:\n";
-18980|<O>| #define PF_NAME        "cô chú Nhất trịch"
+18979|<O>| result = "Danh sách nhân vật sứ mệnh hiện có, xin tổ đội hoàn thành:\n";
+18980|<O>| #define PF_NAME        "Cô Chú Nhất Trịch"

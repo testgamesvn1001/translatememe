@@ -1,60 +1,60 @@
-﻿9257|<O>| private int day_can_from   	   = 9;					//	当天的起始时间 	单位（小时）
-9258|<O>| string show_time_stamp(int time_stamp);			//	把一个时间戳整数还原为字串
-9259|<O>| printf( ECHO "使用“" PF_NAME "”需要在" + MASTER_NEED + "旁边。" );
-9260|<O>| return "skill/11/11012"->perform_action_npc(me, who);//冰霜咒
-9261|<O>| if (TASK_LEGEND_D->check_task_item(who, "修好的小木桶", 1) != 1)
-9262|<O>| ESC "我再想想……\nCLOSE\n", me->get_name(), name, getoid(me)));
-9263|<O>| "我的心在键盘上，等你来轻轻的敲击。天上的月，等有情人来寄望，中秋的夜晚我将明月和星星排成最美的祝福:中秋快乐。",
-9264|<O>| /*              else if( p < 9100 * rate / 100 )    // 杂物１
-9265|<O>| if (TASK_LEGEND_D->check_task_item(who, "种庄稼的锄头", 1) != 1)
-9266|<O>| if (TASK_LEGEND_D->check_task_item(who, "完美朱红晶石", 3) != 1)
-9267|<O>| send_user(who, "%c%s", '!', sprintf("讨厌的山鸡 完成 %d/10", i));
-9268|<O>| tell_user(me, sprintf("stuff[%d]找不到%s", j + 1, stuff[j]));
-9269|<O>| tmp += sprintf(ESC HIY "亲力而为\ntalk %x# welcome.13\n", id);
-9270|<O>| tmp += sprintf(ESC HIY "告知内政官\ntalk %x# welcome.1\n", id);
-9271|<O>| if (me == who) tell_user(me, "您给自己增加了%d小时的双倍时间。", iHours);
-9272|<O>| return "［唐门心法］提升暗器攻击的命中率，每级提升0.2％。提升暗器攻击的爆击率，每级提升0.1％。\n";
-9273|<O>| //                        ESC "我需要完美的特殊修理\nrepair %x# 1\n"
-9274|<O>| send_user(who, "%c%s", ':', get_name() + ":“咕咕！咕咕！咕～”\n");
-9275|<O>| /*              else if( p < 9048 * rate / 100 )    // 杂物１
-9276|<O>| /*              else if( p < 9478 * rate / 100 )    // 杂物１
-9277|<O>| send_user(who, "%c%s", '!', sprintf(HIY"燕国剑盾兵 %d/10", i));
-9278|<O>| send_user(who, "%c%s", ';', "雄黄酒 经验 7800 潜能 280 金钱 8000");
-9279|<O>| FAMILY_D->org_channel(name, 0, HIR "第一波的怪物将在60秒后开始发动进攻！");
-9280|<O>| tmp += sprintf(ESC HIY "皇城保卫战\ntalk %x# defence.1\n", id);
-9281|<O>| send_user(who, "%c%s", ';', "魔晴石 经验 5800 潜能 186 金钱 4000");
-9282|<O>| send_user(team[1],"%c%s",';',"你的东西太多了，请清理一下你的包包，再来找我们吧！");
-9283|<O>| tmp += sprintf(ESC HIY "临危不惧\ntalk %x# welcome.13\n", id);
-9284|<O>| case 0: iBagTime = me->get_bag1_time(); cmd1 = "二"; break;
-9285|<O>| cTmp = sprintf("您还有%d金和%d点经验的赔偿未领取。", iRemMoney, iRemExp);
-9286|<O>| HIR "武功" NOR "。\n    所有的武功技能在每个门派的师傅处都能学到，不过相应的代价就是要消耗定量的"
-9287|<O>| send_user(who, "%c%s", ';', "临终委托 经验 2500 潜能 60 金钱 3000");
-9288|<O>| send_user(who, "%c%c%c%w%s", 0x51, 2, 1, TID_YEWAI, "清溪");
-9289|<O>| send_user(who, "%c%s", '!', sprintf(HIY"完美朱红晶石 %d/3", i));
-9290|<O>| case 1: iBagTime = me->get_bag2_time(); cmd1 = "三"; break;
-9291|<O>| tmp += sprintf(ESC HIY "商人诉苦\ntalk %x# welcome.12\n", id);
-9292|<O>| int add_npc(object who,int z,int x,int y,int level) //加入小怪
-9293|<O>| if (flag && objectp(map = get_map_object(z)))    // 跟随指定路线
-9294|<O>| ESC "新手村的工头在哪里？\n" + sprintf("talk %x# welcome.3\n", id) +
-9295|<O>| send_user(who, "%c%s", ';', "您身上没有足够空位！建议您空出三格来放置情人节礼物。");
-9296|<O>| if (TASK_LEGEND_D->check_task_item(who, "给寻儿的家书", 1) != 1)
-9297|<O>| send_user(me, "%c%c%c%w%s", 0x51, 2, 1, TID_CHUGUO, "楚国");
-9298|<O>| if (TASK_LEGEND_D->check_task_item(who, "机关密图下部", 1) != 1)
-9299|<O>| send_user(who, "%c%s", ';', "三片羽毛 经验 1800 潜能 30 金钱 1500");
-9300|<O>| npc->set_name(sprintf("(%s)", me->get_name()));    // 耕作农夫
-9301|<O>| } else if(rate < 8300 ) {	//	vii.	4300的几率掉落同等级段随机生活技能配方一个。
-9302|<O>| result += sprintf(ESC "投票给其它人。\ntalk %x# vote.?.?\n", id);
-9303|<O>| if (!objectp(item2 = present("黄豆", me, 1, MAX_CARRY * 4)))
-9304|<O>| send_user(me, "%c%w%c", 0x35, skill, 0);    // 清空技能、特殊技描述！
-9305|<O>| send_user(team[0],"%c%s",';',"你的东西太多了，请清理一下你的包包，再来找我们吧！");
-9306|<O>| set_save_2(sprintf("record.%d",pos),id);//保存排行榜pos位置对应的id。
-9307|<O>| if (file->get_name() == "同心锁" && !me->get_save_2("marry"))
-9308|<O>| int get_reset_time() { return reset_time; }			// 函数:获取刷新时间
-9309|<O>| send_user(who, "%c%s", '!', sprintf(HIY"太极门众守 %d/11", i));
-9310|<O>| send_user(me, "%c%s", '!', sprintf("推开尸体需要 %d 点法力。", mp));
-9311|<O>| tmp += sprintf(ESC HIY "孝顺的守卫\ntalk %x# welcome.1\n", id);
-9312|<O>| tmp += sprintf(ESC HIY "归还锄头\ntalk %x# welcome.20\n", id);
-9313|<O>| /*              else if( p < 9196 * rate / 100 )    // 杂物１
-9314|<O>| if (!clonep(me)) return "［精炼］ 法攻\n［适用装备］ 武器、项链，限20级以下装备。";
-9315|<O>| /*              else if( p < 9400 * rate / 100 )    // 杂物１
-9316|<O>| case "云梦泽" : if( flag != 7 && flag!=9 ) flag = -1;  break;
+﻿9257|<O>| private int day_can_from   	   = 9;					//	Thời gian bắt đầu trong ngày 	Đơn vị（giờ）
+9258|<O>| string show_time_stamp(int time_stamp);			//	Chuyển đổi số nguyên thời gian thành chuỗi ký tự
+9259|<O>| printf( ECHO "Sử dụng \"" PF_NAME "\" cần ở bên cạnh " + MASTER_NEED + "." );
+9260|<O>| return "skill/11/11012"->perform_action_npc(me, who);//Băng Sương Chú
+9261|<O>| if (TASK_LEGEND_D->check_task_item(who, "Thùng Gỗ Nhỏ Đã Sửa", 1) != 1)
+9262|<O>| ESC "Để tôi suy nghĩ lại……\nCLOSE\n", me->get_name(), name, getoid(me)));
+9263|<O>| "Tim tôi ở trên bàn phím, đợi bạn đến nhẹ nhàng gõ. Trăng trên trời, đợi người hữu tình đến gửi gắm ước nguyện, đêm Trung Thu tôi sẽ xếp trăng sao thành lời chúc đẹp nhất: Trung Thu Vui Vẻ.",
+9264|<O>| /*              else if( p < 9100 * rate / 100 )    // Tạp vật 1
+9265|<O>| if (TASK_LEGEND_D->check_task_item(who, "Cuốc Trồng Hoa Màu", 1) != 1)
+9266|<O>| if (TASK_LEGEND_D->check_task_item(who, "Hoàn Mỹ Châu Hồng Tinh Thạch", 3) != 1)
+9267|<O>| send_user(who, "%c%s", '!', sprintf("Gà Rừng Đáng Ghét Hoàn thành %d/10", i));
+9268|<O>| tell_user(me, sprintf("stuff[%d] không tìm thấy %s", j + 1, stuff[j]));
+9269|<O>| tmp += sprintf(ESC HIY "Tự Mình Làm Lấy\ntalk %x# welcome.13\n", id);
+9270|<O>| tmp += sprintf(ESC HIY "Thông Báo Nội Chính Quan\ntalk %x# welcome.1\n", id);
+9271|<O>| if (me == who) tell_user(me, "Bạn đã thêm cho mình %d giờ thời gian gấp đôi.", iHours);
+9272|<O>| return "［Đường Môn Tâm Pháp］Tăng tỷ lệ trúng đích của tấn công ám khí, mỗi cấp tăng 0.2%. Tăng tỷ lệ bạo kích của tấn công ám khí, mỗi cấp tăng 0.1%.\n";
+9273|<O>| //                        ESC "Tôi cần sửa chữa đặc biệt hoàn mỹ\nrepair %x# 1\n"
+9274|<O>| send_user(who, "%c%s", ':', get_name() + ":"Cô cô! Cô cô! Cô~"\n");
+9275|<O>| /*              else if( p < 9048 * rate / 100 )    // Tạp vật 1
+9276|<O>| /*              else if( p < 9478 * rate / 100 )    // Tạp vật 1
+9277|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Yên Quốc Kiếm Thuẫn Binh %d/10", i));
+9278|<O>| send_user(who, "%c%s", ';', "Hùng Hoàng Tửu Kinh nghiệm 7800 Tiềm năng 280 Tiền vàng 8000");
+9279|<O>| FAMILY_D->org_channel(name, 0, HIR "Đợt quái vật thứ nhất sẽ bắt đầu tấn công sau 60 giây!");
+9280|<O>| tmp += sprintf(ESC HIY "Hoàng Thành Bảo Vệ Chiến\ntalk %x# defence.1\n", id);
+9281|<O>| send_user(who, "%c%s", ';', "Ma Tình Thạch Kinh nghiệm 5800 Tiềm năng 186 Tiền vàng 4000");
+9282|<O>| send_user(team[1],"%c%s",';',"Đồ đạc của bạn quá nhiều, hãy dọn dẹp túi đồ rồi đến tìm chúng tôi nhé!");
+9283|<O>| tmp += sprintf(ESC HIY "Lâm Nguy Bất Cụ\ntalk %x# welcome.13\n", id);
+9284|<O>| case 0: iBagTime = me->get_bag1_time(); cmd1 = "Hai"; break;
+9285|<O>| cTmp = sprintf("Bạn còn %d vàng và %d điểm kinh nghiệm bồi thường chưa nhận.", iRemMoney, iRemExp);
+9286|<O>| HIR "Võ Công" NOR ".\n    Tất cả kỹ năng võ công đều có thể học ở chỗ sư phụ của mỗi môn phái, tuy nhiên cái giá tương ứng phải trả là tiêu hao một lượng nhất định "
+9287|<O>| send_user(who, "%c%s", ';', "Lâm Chung Ủy Thác Kinh nghiệm 2500 Tiềm năng 60 Tiền vàng 3000");
+9288|<O>| send_user(who, "%c%c%c%w%s", 0x51, 2, 1, TID_YEWAI, "Thanh Khê");
+9289|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Hoàn Mỹ Châu Hồng Tinh Thạch %d/3", i));
+9290|<O>| case 1: iBagTime = me->get_bag2_time(); cmd1 = "Ba"; break;
+9291|<O>| tmp += sprintf(ESC HIY "Thương Nhân Kêu Khổ\ntalk %x# welcome.12\n", id);
+9292|<O>| int add_npc(object who,int z,int x,int y,int level) //Thêm quái nhỏ
+9293|<O>| if (flag && objectp(map = get_map_object(z)))    // Đi theo tuyến đường chỉ định
+9294|<O>| ESC "Công Đầu Làng Tân Thủ ở đâu?\n" + sprintf("talk %x# welcome.3\n", id) +
+9295|<O>| send_user(who, "%c%s", ';', "Trên người bạn không đủ chỗ trống! Đề nghị bạn dọn ra ba ô để đặt quà ngày Tình Nhân.");
+9296|<O>| if (TASK_LEGEND_D->check_task_item(who, "Gia Thư Cho Tầm Nhi", 1) != 1)
+9297|<O>| send_user(me, "%c%c%c%w%s", 0x51, 2, 1, TID_CHUGUO, "Sở Quốc");
+9298|<O>| if (TASK_LEGEND_D->check_task_item(who, "Cơ Quan Mật Đồ Phần Dưới", 1) != 1)
+9299|<O>| send_user(who, "%c%s", ';', "Ba Chiếc Lông Vũ Kinh nghiệm 1800 Tiềm năng 30 Tiền vàng 1500");
+9300|<O>| npc->set_name(sprintf("(%s)", me->get_name()));    // Nông phu cày ruộng
+9301|<O>| } else if(rate < 8300 ) {	//	vii.	4300 tỷ lệ rơi một công thức kỹ năng sống ngẫu nhiên cùng cấp.
+9302|<O>| result += sprintf(ESC "Bỏ phiếu cho người khác.\ntalk %x# vote.?.?\n", id);
+9303|<O>| if (!objectp(item2 = present("Đậu Nành", me, 1, MAX_CARRY * 4)))
+9304|<O>| send_user(me, "%c%w%c", 0x35, skill, 0);    // Xóa mô tả kỹ năng, đặc kỹ!
+9305|<O>| send_user(team[0],"%c%s",';',"Đồ đạc của bạn quá nhiều, hãy dọn dẹp túi đồ rồi đến tìm chúng tôi nhé!");
+9306|<O>| set_save_2(sprintf("record.%d",pos),id);//Lưu id tương ứng vị trí pos trên bảng xếp hạng.
+9307|<O>| if (file->get_name() == "Đồng Tâm Khóa" && !me->get_save_2("marry"))
+9308|<O>| int get_reset_time() { return reset_time; }			// Hàm: Lấy thời gian làm mới
+9309|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Thái Cực Môn Chúng Thủ %d/11", i));
+9310|<O>| send_user(me, "%c%s", '!', sprintf("Đẩy thi thể cần %d điểm pháp lực.", mp));
+9311|<O>| tmp += sprintf(ESC HIY "Thủ Vệ Hiếu Thảo\ntalk %x# welcome.1\n", id);
+9312|<O>| tmp += sprintf(ESC HIY "Trả Lại Cuốc\ntalk %x# welcome.20\n", id);
+9313|<O>| /*              else if( p < 9196 * rate / 100 )    // Tạp vật 1
+9314|<O>| if (!clonep(me)) return "［Tinh luyện］ Pháp công\n［Trang bị phù hợp］ Vũ khí, vòng cổ, giới hạn trang bị dưới cấp 20.";
+9315|<O>| /*              else if( p < 9400 * rate / 100 )    // Tạp vật 1
+9316|<O>| case "Vân Mộng Trạch" : if( flag != 7 && flag!=9 ) flag = -1;  break;

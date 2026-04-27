@@ -1,21 +1,21 @@
 ﻿10941|<O>| #define SKILL_FINAL	"/item/final/60/5055"				// Kết quả chế tạo
-10942|<O>| rawurlencode(me->get_id()), type, arg2));    // kiểm tra tự liệt hiệu
-10943|<O>| private class Group City = new(class Group);  // Thành thị thuộc tính
+10942|<O>| rawurlencode(me->get_id()), type, arg2));    // Kiểm tra mã số
+10943|<O>| private class Group City = new(class Group);  // Thuộc tính thành phố
 10944|<O>| #define SKILL_FINAL	"/item/final/60/6120"				// Kết quả chế tạo
 10945|<O>| #define SKILL_FINAL	"/item/final/86/3119"				// Kết quả chế tạo
-10946|<O>| notify("Bạn ThủtrêntốinhiềuNăngCó %d vạnVàng。", me->get_max_cash() / 10000);
+10946|<O>| notify("Bạn tối đa có thể cầm %d vạn vàng.", me->get_max_cash() / 10000);
 10947|<O>| #define SKILL_FINAL	"/item/final/60/2035"				// Kết quả chế tạo
-10948|<O>| tell_user(me, "Bạn sẽ" + who->get_name() + "Tạihoạt độngtrường sởcủachiến đấuGiải Cấm");
+10948|<O>| tell_user(me, "Bạn đã giải phong chiến đấu của " + who->get_name() + " tại địa điểm hoạt động");
 10949|<O>| #define SKILL_FINAL	"/item/final/86/1065"				// Kết quả chế tạo
 10950|<O>| case "Đào Hoa Nguyên": if (get_level() >= 36 && random(100) < 5)
 10951|<O>| #define SKILL_FINAL	"/item/final/88/3120"				// Kết quả chế tạo
-10952|<O>| log_file("distribute.txt",short_time() + " Phónglớnlễ bao\n" );
+10952|<O>| log_file("distribute.txt",short_time() + " Phát hộp quà lớn\n" );
 10953|<O>| #define SKILL_FINAL	"/item/final/60/3105"				// Kết quả chế tạo
 10954|<O>| #define SKILL_FINAL	"/item/final/65/6055"				// Kết quả chế tạo
 10955|<O>| #define SKILL_FINAL	"/item/final/60/5075"				// Kết quả chế tạo
 10956|<O>| #define SKILL_FINAL	"/item/final/70/1065"				// Kết quả chế tạo
-10957|<O>| return "［chiêu giá Chi Thuật］Phòng thủgiá thếcủaCơ bảnTu Luyện，NăngTăngTu Hành giảcủaLực phòng thủ vật lý。Mỗi cấp tăng1điểmLực phòng thủ vật lý。\n";
-10958|<O>| write_user(me, ECHO "Bạncủatrướng Hộ dư ngạch vì%dNguyên Bảo。", to_int(key[2]));
+10957|<O>| return "［Thuật Chiêu Giá］Tu luyện cơ bản của tư thế phòng thủ, có thể tăng phòng thủ vật lý cho người tu hành. Mỗi cấp tăng 1 điểm phòng thủ vật lý.\n";
+10958|<O>| write_user(me, ECHO "Số dư tài khoản của bạn là %d nguyên bảo.", to_int(key[2]));
 10959|<O>| #define SKILL_FINAL	"/item/final/74/1035"				// Kết quả chế tạo
 10960|<O>| #define SKILL_FINAL	"/item/final/88/3095"				// Kết quả chế tạo
 10961|<O>| #define SKILL_FINAL	"/item/final/65/1120"				// Kết quả chế tạo
@@ -25,19 +25,19 @@
 10965|<O>| #define SKILL_FINAL	"/item/final/65/4120"				// Kết quả chế tạo
 10966|<O>| #define SKILL_FINAL	"/item/final/88/1075"				// Kết quả chế tạo
 10967|<O>| #define SKILL_FINAL	"/item/final/65/4055"				// Kết quả chế tạo
-10968|<O>| return HIC+get_name()+"\nSủng vật sở hữu kỹ năng này，Sử dụngthửKỹ năngsẽdùngHỏaPháp ThuậtTấn côngđơn Nhấtmục tiêu。";
+10968|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này, sử dụng kỹ năng sẽ dùng pháp thuật lửa tấn công đơn mục tiêu.";
 10969|<O>| #define SKILL_FINAL	"/item/final/86/7105"				// Kết quả chế tạo
-10970|<O>| send_user(who, "%c%s", ';', "đương phố Lão bảncủagiao dịch Kinh nghiệm 100 Hành quân tán 10");
-10971|<O>| if (TASK_LEGEND_D->check_task_item(who, "trục", 1) != 1)
+10970|<O>| send_user(who, "%c%s", ';', "Giao Dịch Của Ông Chủ Tiệm Cầm Đồ Kinh nghiệm 100 Hành Quân Tán 10");
+10971|<O>| if (TASK_LEGEND_D->check_task_item(who, "Trục", 1) != 1)
 10972|<O>| #define SKILL_FINAL	"/item/final/65/2075"				// Kết quả chế tạo
-10973|<O>| log_file("christmas.txt",short_time() + " PhóngThánhđản Ác Nhân\n" );
+10973|<O>| log_file("christmas.txt",short_time() + " Phát ác nhân Giáng Sinh\n" );
 10974|<O>| #define SKILL_FINAL	"/item/final/86/6085"				// Kết quả chế tạo
 10975|<O>| #define SKILL_FINAL	"/item/final/86/1035"				// Kết quả chế tạo
 10976|<O>| #define SKILL_FINAL	"/item/final/71/1055"				// Kết quả chế tạo
 10977|<O>| #define SKILL_FINAL	"/item/final/60/6045"				// Kết quả chế tạo
 10978|<O>| #define SKILL_FINAL	"/item/final/60/2085"				// Kết quả chế tạo
-10979|<O>| case 2: write_user(me, ECHO "bạnchiếm được thái quẻ，nhỏvãnglớnđến，Cát Hanh。đối vớiPhươngPháp LựcTăng。");
-10980|<O>| me->to_front_xy(get_x(who), get_y(who)); //thiết trímecủaDiệnhướngtọa tiêu.
+10979|<O>| case 2: write_user(me, ECHO "Bạn bói được quẻ Thái, tiểu vãng đại lai, cát hanh. Pháp lực đối phương tăng.");
+10980|<O>| me->to_front_xy(get_x(who), get_y(who)); //Thiết lập tọa độ hướng mặt của me.
 10981|<O>| #define SKILL_FINAL	"/item/final/86/6055"				// Kết quả chế tạo
 10982|<O>| #define SKILL_FINAL	"/item/final/88/2110"				// Kết quả chế tạo
 10983|<O>| #define SKILL_FINAL	"/item/final/60/1115"				// Kết quả chế tạo
@@ -51,14 +51,14 @@
 10991|<O>| #define SKILL_FINAL	"/item/final/65/6095"				// Kết quả chế tạo
 10992|<O>| #define SKILL_FINAL	"/item/final/60/3085"				// Kết quả chế tạo
 10993|<O>| #define SKILL_FINAL	"/item/final/88/5075"				// Kết quả chế tạo
-10994|<O>| me->set_save("pf.hurt_rate", ADD_RATE);    // cẩn thận chuẩn bị me
+10994|<O>| me->set_save("pf.hurt_rate", ADD_RATE);    // Cẩn thận chuẩn bị me
 10995|<O>| #define SKILL_FINAL	"/item/final/86/7120"				// Kết quả chế tạo
 10996|<O>| #define SKILL_FINAL	"/item/final/72/1075"				// Kết quả chế tạo
 10997|<O>| #define SKILL_FINAL	"/item/final/75/1055"				// Kết quả chế tạo
 10998|<O>| #define SKILL_FINAL	"/item/final/65/3055"				// Kết quả chế tạo
 10999|<O>| #define SKILL_FINAL	"/item/final/60/6105"				// Kết quả chế tạo
-11000|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Khương %d/1", i));
+11000|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Gừng %d/1", i));
 11001|<O>| #define SKILL_FINAL	"/item/final/65/7045"				// Kết quả chế tạo
 11002|<O>| #define SKILL_FINAL	"/item/final/60/7115"				// Kết quả chế tạo
 11003|<O>| #define SKILL_FINAL	"/item/final/71/1115"				// Kết quả chế tạo
-11004|<O>| send_user(who, "%c%s", '!', "BạnđãLà" + name1 + "Hộ tịch。");
+11004|<O>| send_user(who, "%c%s", '!', "Bạn đã là hộ tịch của " + name1 + " rồi.");

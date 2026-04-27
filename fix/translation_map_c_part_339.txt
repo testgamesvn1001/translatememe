@@ -1,77 +1,77 @@
-﻿14106|<O>| if (gold) result = sprintf(" %d 金", gold);
-14107|<O>| tell_user(me, who->get_name() + "学会的技能:");
-14108|<O>| string get_skill_name() { return "踏雪无痕"; }
-14109|<O>| return "［" PF_NAME "］\n利用法剑攻击远处一个敌对目标。\n";
-14110|<O>| send_user(who, "%c%s", '!', "这个人没有参加竞选。");
-14111|<O>| me->set_pay_money_buy_item(1);    // 验证序列号
-14112|<O>| return "一种能使人恢复正常状态的药丸，解除身上的异常状态，冷却时间30秒";
-14113|<O>| who->set_pay_money_buy_item(1);    // 查询余额
-14114|<O>| sprintf("%s:\n    鉴定这件装备需要%d金，是否真的需要鉴定？\n"
-14115|<O>| //	添加一个闹钟提醒，成功返回 >-1 数字表示当前获得的时钟编号 失败返回 -1
-14116|<O>| int defencecount;			// 生成的计数，免得临时重开新地图时的判断
-14117|<O>| move_to_user(player, 1, YUEBING,npc);//月饼。
-14118|<O>| string* gift_name = ({ "金","紫","蓝","绿" });
-14119|<O>| else if (iTaskTime == 2)    // 2. 运镖任务(人物)
-14120|<O>| notify(item->get_name() + "是不值分文！没必要修理。");
-14121|<O>| string get_skill_name() { return "中医药理"; }
-14122|<O>| send_user(me, "%c%s", '!', "找不到这个帐号的资料。");
-14123|<O>| tell_user(me, "阵法[%2d]:%s", size, result);
-14124|<O>| return "正常装的法力药水，可马上恢复自身2000点法术力。冷却时间2秒。";
-14125|<O>| who->get_name() + ":\n    您的星级装备已经修复完毕。\n"
-14126|<O>| return sprintf("%d级木灵石", me->get_level());
-14127|<O>| send_user(me, "%c%s", '!', "对方还没有准备就绪呢。");
-14128|<O>| cFight == "被动" ? "  " : "//",    // 是否主动攻击
-14129|<O>| else if (rate < 9500 * rate1 / 100)	//战国号角
-14130|<O>| return "［强化迷魂决］云梦泽的特殊技法，每级追加0.09％的法术爆击效果";
-14131|<O>| send_user(who, "%c%s", '!', "你携带的东西太多了!");
-14132|<O>| string get_skill_name() { return "道家学说"; }
-14133|<O>| notify( item->get_name() + "已经锁定，不能典当。" );
-14134|<O>| string get_skill_name() { return "道法神通"; }
-14135|<O>| string get_skill_name() { return "奇门遁甲"; }
-14136|<O>| ESC"三只球(黑+蓝+红)兑换随机奖品\ntalk %x# bonus.30\n"
-14137|<O>| int  get_clock_running();				//	取得时钟是否在运行中
-14138|<O>| printf(ECHO "您获得一块%s。", item->get_name());
-14139|<O>| return "正常装的特效药水，可马上恢复自身2000点气血值。冷却时间2秒。";
-14140|<O>| string get_skill_name() { return "龙游四海"; }
-14141|<O>| send_user(who, "%c%s", '!', "副城主职缺最多两位。");
-14142|<O>| send_user(who, "%c%s", '!', "你已成功的将恶霸击杀");
-14143|<O>| result += ESC "100元宝\nconsign list 100\n";
-14144|<O>| return owner->can_fight(who);    // 主人能否攻击
-14145|<O>| SAY_CMD->say(me, "士兵们！把腰杆挺直！！随时准备全军突击！！");
-14146|<O>| send_user(who, "%c%s", '!', "您需要八个物品空间。");
-14147|<O>| private string* BeastInfo;			//存储宠物存盘文件的数组
-14148|<O>| return desc = "对宠物使用的一种神水，能将宠物转换成０级初始状态。";
-14149|<O>| send_user(who, "%c%s", ';', "您获得了遗失的宝物！");
-14150|<O>| return sprintf("%d级暗灵石", me->get_level());
-14151|<O>| if (me->get_2("changping"))	//长平之战报名的，取消报名
-14152|<O>| //	ESC"现在我们的清怪率是多少？\ntalk %x# welcome.2\n"
-14153|<O>| SAY_CMD->say(me, "看看我这火，用这火烧出来的菜一定很美味！！");
-14154|<O>| if (!size && !gold) return 1;    // 什么都没有给
-14155|<O>| string get_skill_name() { return "霸王枪法"; }
-14156|<O>| string get_skill_name() { return "基本枪法"; }
-14157|<O>| if( present("贵重物品", who, 1, MAX_CARRY*4) )
-14158|<O>| send_user(who, "%c%s", ';', "你得到10万金的奖励");
-14159|<O>| string get_skill_name() { return "乾坤挪移"; }
-14160|<O>| if (check_item_amount(who, "西瓜伯伯的西瓜") < 5)
-14161|<O>| default: if (me->is_caster())    // 远程攻击的怪
-14162|<O>| //        set("no_sk04237",1);	//玄龙决对其没有效果
-14163|<O>| string get_skill_name() { return "金罡法咒"; }
-14164|<O>| string get_skill_name() { return "基本刀法"; }
-14165|<O>| send_user(me, "%c%s", '!', "在战场不能使用回帮符。");
-14166|<O>| return sprintf("%d级影灵石", me->get_level());
-14167|<O>| send_user(me, "%c%s", '!', "只能在战场使用转移符。");
-14168|<O>| 本类解析时间格式的规则算法，力求兼容更多格式的时间格式输入方法，力求简短有效 返回0
-14169|<O>| send_user(me, "%c%s", '!', "帮派齐心合力奖励关闭！");
-14170|<O>| //        call_out("reset", 1);    // 地图复位
-14171|<O>| gift = new("item/final/16/1612");	//精铁机关构件
-14172|<O>| string get_skill_name() { return "基本剑法"; }
-14173|<O>| else if (p < 9840 * rate / 100)    // 特殊药物
-14174|<O>| npc = who;  who = me;  me = npc;    // 注意！
-14175|<O>| else if (p < 10000 * rate / 100)    // 杂物２
-14176|<O>| send_user(who, "%c%s", '!', "你还没有领取过序列号");
-14177|<O>| string get_skill_name() { return "经络学说"; }
-14178|<O>| string get_skill_name() { return "降魔法咒"; }
-14179|<O>| return sprintf("%d级土灵石", me->get_level());
-14180|<O>| result2 = sprintf("法力 %d", who->get_mp());
-14181|<O>| send_user(player,"%c%s",'!',"对不起，该玩家不存在");
-14182|<O>| desc = "好多好吃的水果拼在一起，14秒内恢复玩家665点气血值和法力值。";
+﻿14106|<O>| if (gold) result = sprintf(" %d vàng", gold);
+14107|<O>| tell_user(me, who->get_name() + " kỹ năng đã học:");
+14108|<O>| string get_skill_name() { return "Đạp Tuyết Vô Ngần"; }
+14109|<O>| return "［" PF_NAME "］\nDùng pháp kiếm tấn công một mục tiêu từ xa.\n";
+14110|<O>| send_user(who, "%c%s", '!', "Người này không tham gia tranh cử.");
+14111|<O>| me->set_pay_money_buy_item(1);    // Xác thực mã số
+14112|<O>| return "Một loại thuốc giúp phục hồi trạng thái bình thường, giải trừ trạng thái bất thường, thời gian hồi chiêu 30 giây";
+14113|<O>| who->set_pay_money_buy_item(1);    // Truy vấn số dư
+14114|<O>| sprintf("%s:\n    Giám định trang bị này cần %d vàng, bạn có chắc muốn giám định không?\n"
+14115|<O>| //	Thêm một nhắc nhở đồng hồ báo thức, thành công trả về số >-1 là mã đồng hồ, thất bại trả về -1
+14116|<O>| int defencecount;			// Bộ đếm khởi tạo, tránh phán đoán khi mở bản đồ mới tạm thời
+14117|<O>| move_to_user(player, 1, YUEBING,npc);//Bánh trung thu.
+14118|<O>| string* gift_name = ({ "Vàng","Tím","Xanh","Lục" });
+14119|<O>| else if (iTaskTime == 2)    // 2. Nhiệm vụ vận tiêu (nhân vật)
+14120|<O>| notify(item->get_name() + " không đáng một xu! Không cần sửa chữa.");
+14121|<O>| string get_skill_name() { return "Trung Y Dược Lý"; }
+14122|<O>| send_user(me, "%c%s", '!', "Không tìm thấy tài liệu tài khoản này.");
+14123|<O>| tell_user(me, "Trận pháp[%2d]:%s", size, result);
+14124|<O>| return "Bình thuốc pháp lực thường, lập tức hồi phục 2000 điểm pháp lực. Thời gian hồi chiêu 2 giây.";
+14125|<O>| who->get_name() + ":\n    Trang bị sao của bạn đã sửa xong.\n"
+14126|<O>| return sprintf("Mộc Linh Thạch cấp %d", me->get_level());
+14127|<O>| send_user(me, "%c%s", '!', "Đối phương chưa sẵn sàng.");
+14128|<O>| cFight == "Bị Động" ? "  " : "//",    // Có chủ động tấn công không
+14129|<O>| else if (rate < 9500 * rate1 / 100)	//Chiến Quốc Hiệu Giác
+14130|<O>| return "［Cường Hóa Mê Hồn Quyết］Đặc kỹ Vân Mộng Trạch, mỗi cấp tăng 0.09% bạo kích pháp thuật";
+14131|<O>| send_user(who, "%c%s", '!', "Bạn mang theo quá nhiều đồ vật!");
+14132|<O>| string get_skill_name() { return "Đạo Gia Học Thuyết"; }
+14133|<O>| notify( item->get_name() + " đã bị khóa, không thể cầm đồ." );
+14134|<O>| string get_skill_name() { return "Đạo Pháp Thần Thông"; }
+14135|<O>| string get_skill_name() { return "Kỳ Môn Độn Giáp"; }
+14136|<O>| ESC"3 quả cầu (đen+xanh+đỏ) đổi phần thưởng ngẫu nhiên\ntalk %x# bonus.30\n"
+14137|<O>| int  get_clock_running();				//	Kiểm tra đồng hồ có đang chạy không
+14138|<O>| printf(ECHO "Bạn nhận được một viên %s.", item->get_name());
+14139|<O>| return "Bình thuốc đặc hiệu thường, lập tức hồi phục 2000 điểm khí huyết. Thời gian hồi chiêu 2 giây.";
+14140|<O>| string get_skill_name() { return "Long Du Tứ Hải"; }
+14141|<O>| send_user(who, "%c%s", '!', "Vị trí phó thành chủ tối đa hai người.");
+14142|<O>| send_user(who, "%c%s", '!', "Bạn đã tiêu diệt thành công tên ác bá");
+14143|<O>| result += ESC "100 nguyên bảo\nconsign list 100\n";
+14144|<O>| return owner->can_fight(who);    // Chủ nhân có thể tấn công không
+14145|<O>| SAY_CMD->say(me, "Binh sĩ! Đứng thẳng lưng lên!! Sẵn sàng toàn quân đột kích!!");
+14146|<O>| send_user(who, "%c%s", '!', "Bạn cần 8 ô đạo cụ trống.");
+14147|<O>| private string* BeastInfo;			//Mảng lưu trữ file lưu thú cưng
+14148|<O>| return desc = "Một loại thần thủy dùng cho thú cưng, có thể chuyển thú cưng về trạng thái sơ cấp cấp 0.";
+14149|<O>| send_user(who, "%c%s", ';', "Bạn đã nhận được bảo vật bị thất lạc!");
+14150|<O>| return sprintf("Ám Linh Thạch cấp %d", me->get_level());
+14151|<O>| if (me->get_2("changping"))	//Đã đăng ký Trường Bình Chi Chiến, hủy đăng ký
+14152|<O>| //	ESC"Hiện tại tỷ lệ tiêu diệt quái của chúng ta là bao nhiêu?\ntalk %x# welcome.2\n"
+14153|<O>| SAY_CMD->say(me, "Nhìn ngọn lửa này đi, món ăn nấu bằng lửa này chắc chắn rất ngon!!");
+14154|<O>| if (!size && !gold) return 1;    // Không cho gì cả
+14155|<O>| string get_skill_name() { return "Bá Vương Thương Pháp"; }
+14156|<O>| string get_skill_name() { return "Cơ Bản Thương Pháp"; }
+14157|<O>| if( present("Vật Phẩm Quý Giá", who, 1, MAX_CARRY*4) )
+14158|<O>| send_user(who, "%c%s", ';', "Bạn nhận được 10 vạn vàng thưởng");
+14159|<O>| string get_skill_name() { return "Càn Khôn Nã Di"; }
+14160|<O>| if (check_item_amount(who, "Dưa hấu của Bác Dưa Hấu") < 5)
+14161|<O>| default: if (me->is_caster())    // Quái tấn công tầm xa
+14162|<O>| //        set("no_sk04237",1);	//Huyền Long Quyết không có hiệu quả với nó
+14163|<O>| string get_skill_name() { return "Kim Cương Pháp Chú"; }
+14164|<O>| string get_skill_name() { return "Cơ Bản Đao Pháp"; }
+14165|<O>| send_user(me, "%c%s", '!', "Trên chiến trường không thể dùng Hồi Bang Phù.");
+14166|<O>| return sprintf("Ảnh Linh Thạch cấp %d", me->get_level());
+14167|<O>| send_user(me, "%c%s", '!', "Chỉ có thể dùng Chuyển Di Phù trên chiến trường.");
+14168|<O>| Thuật toán giải mã định dạng thời gian của lớp này, tương thích nhiều định dạng nhập thời gian, ngắn gọn hiệu quả. Trả về 0
+14169|<O>| send_user(me, "%c%s", '!', "Phần thưởng đồng tâm hiệp lực bang phái đã đóng!");
+14170|<O>| //        call_out("reset", 1);    // Reset bản đồ
+14171|<O>| gift = new("item/final/16/1612");	//Linh kiện cơ quan tinh thiết
+14172|<O>| string get_skill_name() { return "Cơ Bản Kiếm Pháp"; }
+14173|<O>| else if (p < 9840 * rate / 100)    // Thuốc đặc biệt
+14174|<O>| npc = who;  who = me;  me = npc;    // Chú ý!
+14175|<O>| else if (p < 10000 * rate / 100)    // Tạp vật 2
+14176|<O>| send_user(who, "%c%s", '!', "Bạn chưa nhận mã số bao giờ");
+14177|<O>| string get_skill_name() { return "Kinh Lạc Học Thuyết"; }
+14178|<O>| string get_skill_name() { return "Hàng Ma Pháp Chú"; }
+14179|<O>| return sprintf("Thổ Linh Thạch cấp %d", me->get_level());
+14180|<O>| result2 = sprintf("Pháp lực %d", who->get_mp());
+14181|<O>| send_user(player,"%c%s",'!',"Xin lỗi, người chơi này không tồn tại");
+14182|<O>| desc = "Nhiều loại trái cây ngon ghép lại, trong 14 giây hồi phục 665 điểm khí huyết và pháp lực cho người chơi.";

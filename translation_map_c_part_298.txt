@@ -1,65 +1,65 @@
-﻿11199|<O>| send_user(who, "%c%s", '!', "bạnBản Chu có thểSử dụngChiến Quốc Hiệu GiácđãđạtđếnSử dụngtrênhạn。");
-11200|<O>| who->set("pf.powerfall", -sub_effect);    // cẩn thận chuẩn bị me
+﻿11199|<O>| send_user(who, "%c%s", '!', "Số lần sử dụng Chiến Quốc Hiệu Giác tuần này đã đạt giới hạn.");
+11200|<O>| who->set("pf.powerfall", -sub_effect);    // Cẩn thận chuẩn bị me
 11201|<O>| case "Cấm Vệ Quân":	z = 080;  p = get_jumpin(z, 20);  break;
-11202|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận"HIY"Nhất Thám hư thực"NOR"Nhiệm vụ");
-11203|<O>| private int BillionExp;                 // tổngKinh nghiệm(Thập ức tiêu Chí)
-11204|<O>| string tmp = HIR"Kết Hôn hỷ đường。\nSử dụngsauKhí HuyếtvàMaPhápPhục hồiToàn mãn，tịnhCóNhất định mấy suất hoạch được ngạchngoàiphần thưởng。";
+11202|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận nhiệm vụ "HIY"Thăm Dò Hư Thực"NOR"");
+11203|<O>| private int BillionExp;                 // Tổng kinh nghiệm(cờ tỉ)
+11204|<O>| string tmp = HIR"Kẹo cưới.\nSử dụng sẽ hồi đầy khí huyết và pháp lực, đồng thời có một tỷ lệ nhận thêm phần thưởng.";
 11205|<O>| if (p = get_valid_xy(z, x, y, IS_ITEM_BLOCK))	//Chiến Quốc Hiệu Giác
-11206|<O>| if (item->get_name() != "tế Thế hồ lô" || !item->is_agent())
-11207|<O>| return HIC+get_name()+"\nSủng vật sở hữu kỹ năng này，Tướng Đềcaokỳ đươngtrướcLực tấn công phép thuậtcủa20%。";
-11208|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận"HIY"nhỏKê cô cô"NOR"Nhiệm vụ");
-11209|<O>| write_user(me, "Bạn sẽ 8000 Tiềm năngsung Nhập%s。", item->get_name());
-11210|<O>| void into_effect_2(object me, int flag)    // NPC Sử dụng
-11211|<O>| return HIC+get_name()+"\nSủng vật sở hữu kỹ năng này，Tướng Đềcaokỳ đươngtrướcLực tấn công phép thuậtcủa10%。";
-11212|<O>| send_user(who, "%c%s", '!', "bạnkhông cóGia Nhập nhiệm Hàcủabang phái，vô PhápSử dụngđịnh BangThầnchâm。");
-11213|<O>| return "“La LợicủaÔn Nhu sở sản sinhcủaVũ khí”\nđươngaibịÔn NhuTấn côngSau đóCóNhất định\ncủamấy suấtchodưhắnNhân Nhất ÁicủaHộ thuẫn";
-11214|<O>| set_effect(who, EFFECT_CHAR_BLIND, 6);    // cẩn thận chuẩn bị me
-11215|<O>| private int* alarm_clock_now = ({});		//	Náo Chung chấp HànhcủaTiênsauthuận tự sách Dẫn
-11216|<O>| send_user(who, "%c%s", ';', "Hành Lộ nan Kinh nghiệm250 Tiềm năng40 Tiền vàng600");
-11217|<O>| //        who->log_money("ThuNgười chơi "+me->get_id(), gold);
-11218|<O>| tell_user(owner, "bạncủa" + me->get_name() + "Trung thànhTăng20điểm");
-11219|<O>| send_user(me, "%c%s", '!', "Không giankhôngđủ，Xin xác nhậnCóChíít3cách Không gian đến Phóng trí thưởng Phẩm。");
-11220|<O>| HIR "mẫn tiệp" NOR "liềnLàtốc độ，Năng phủ tấn tốc Địa Hồi tỵkẻ thùcủaTấn công、Năng phủ chuẩn xác Địa Mệnhgiữakẻ thùđềudo mẫn tiệp đến quyết định。\n"
-11221|<O>| result = sprintf("Bạn hi vọng như HàSử dụng%s？\n", item->get_name());
-11222|<O>| if (objectp( me->get_enemy() ) ) return ;	// Cóđối vớiThủliềnkhôngtìm tìm
-11223|<O>| who->set("pf.armorfall", -sub_effect);    // cẩn thận chuẩn bị me
-11224|<O>| //		send_user(player,"%c%s",';',"bạncủakhiêuXChiếnThất bại，hi vọngbạnlại tiếp lại lệ！");
-11225|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận"HIY"Ngưu NhịBáo Ân"NOR"Nhiệm vụ");
-11226|<O>| private static string Cast;             // đặc thù kỹtệp tin(Viễn trình)
-11227|<O>| string* warname = ({ "Huyền Vũ Môn", "Chu tước Môn", "ThanhLongMôn", "BạchHổMôn", });
-11228|<O>| return "［Y Thuật］NângVân Mộng TrạchcủatốilớnPháp thuật lực，Mỗi cấp tăng3điểm。Nâng Lực phòng thủ phép thuật，Mỗi cấp tăng0.9điểm。\n";
-11229|<O>| return HIC+get_name()+"\nSủng vật sở hữu kỹ năng này，Tướng Đềcaokỳ đươngtrướcLực tấn công vật lýcủa20%。";
-11230|<O>| if (gone_time(me->get("birthday")) > 3600)	//60phútsautiêu thất
-11231|<O>| USER_D->user_channel("Kimngàycủađào Bảo tổng Động viênhoạt độnghiệnTạiđãKết thúc，đãlĩnh thủ đào Bảonhỏsừ đầucủa"
-11232|<O>| else if (sscanf(arg, "? %s %x", id, i))    // tra tuần Vật Phẩm miêu thuật
-11233|<O>| send_user(me, "%c%s", '!', "bạnđươngtrướccủaCấp độquathấp，vô PhápNângSư Môn Tín VậtcủaCấp độ。");
-11234|<O>| if (p = get_valid_xy(z, x, y, IS_ITEM_BLOCK))	//Nhất TrươngHổBì
-11235|<O>| result += sprintf("tích lũy tưVàng:%10d\n", city->get_money());
+11206|<O>| if (item->get_name() != "Tế Thế Hồ Lô" || !item->is_agent())
+11207|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này, sẽ tăng 20% tấn công pháp thuật hiện tại.";
+11208|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận nhiệm vụ "HIY"Gà Con Cục Cục"NOR"");
+11209|<O>| write_user(me, "Bạn đã nạp 8000 tiềm năng vào %s.", item->get_name());
+11210|<O>| void into_effect_2(object me, int flag)    // NPC sử dụng
+11211|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này, sẽ tăng 10% tấn công pháp thuật hiện tại.";
+11212|<O>| send_user(who, "%c%s", '!', "Bạn chưa gia nhập bang phái nào, không thể sử dụng Định Bang Thần Châm.");
+11213|<O>| return ""Vũ khí tạo ra từ sự dịu dàng của loli"\nKhi ai bị tấn công bởi sự dịu dàng\ncó tỷ lệ nhất định tạo cho người khác một lá chắn tình yêu";
+11214|<O>| set_effect(who, EFFECT_CHAR_BLIND, 6);    // Cẩn thận chuẩn bị me
+11215|<O>| private int* alarm_clock_now = ({});		//	Chỉ số thứ tự thực thi đồng hồ báo thức
+11216|<O>| send_user(who, "%c%s", ';', "Hành Lộ Nan Kinh nghiệm 250 Tiềm năng 40 Vàng 600");
+11217|<O>| //        who->log_money("thu tiền người chơi "+me->get_id(), gold);
+11218|<O>| tell_user(owner, "Trung thành của " + me->get_name() + " tăng 20 điểm");
+11219|<O>| send_user(me, "%c%s", '!', "Không đủ chỗ, hãy đảm bảo có ít nhất 3 ô trống để nhận giải thưởng.");
+11220|<O>| HIR "Nhanh nhẹn" NOR " chính là tốc độ, khả năng né tránh nhanh chóng đòn tấn công của kẻ thù, khả năng đánh trúng chính xác kẻ thù đều do nhanh nhẹn quyết định.\n"
+11221|<O>| result = sprintf("Bạn muốn sử dụng %s như thế nào?\n", item->get_name());
+11222|<O>| if (objectp( me->get_enemy() ) ) return ;	// Có đối thủ thì không tìm
+11223|<O>| who->set("pf.armorfall", -sub_effect);    // Cẩn thận chuẩn bị me
+11224|<O>| //		send_user(player,"%c%s",';',"Thử thách của bạn thất bại, hy vọng bạn tiếp tục cố gắng!");
+11225|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận nhiệm vụ "HIY"Ngưu Nhị Báo Ơn"NOR"");
+11226|<O>| private static string Cast;             // File đặc kỹ(tầm xa)
+11227|<O>| string* warname = ({ "Huyền Vũ Môn", "Chu Tước Môn", "Thanh Long Môn", "Bạch Hổ Môn", });
+11228|<O>| return "［Y Thuật］Tăng pháp lực tối đa của Vân Mộng Trạch, mỗi cấp tăng 3 điểm. Tăng phòng thủ pháp thuật, mỗi cấp tăng 0.9 điểm.\n";
+11229|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này, sẽ tăng 20% tấn công vật lý hiện tại.";
+11230|<O>| if (gone_time(me->get("birthday")) > 3600)	//60 phút sau biến mất
+11231|<O>| USER_D->user_channel("Hoạt động Đào Bảo Tổng Động Viên hôm nay đã kết thúc, những ai đã nhận được cuốc đào bảo nhỏ "
+11232|<O>| else if (sscanf(arg, "? %s %x", id, i))    // Truy vấn mô tả vật phẩm
+11233|<O>| send_user(me, "%c%s", '!', "Cấp độ hiện tại của bạn quá thấp, không thể nâng cấp tín vật sư môn.");
+11234|<O>| if (p = get_valid_xy(z, x, y, IS_ITEM_BLOCK))	//Một tấm da hổ
+11235|<O>| result += sprintf("Vốn tích lũy:%10d\n", city->get_money());
 11236|<O>| case "Côn Lôn Sơn": z = 054;  p = get_jumpin(z, 20);  break;
-11237|<O>| return "cư Gia lữ Hànhgiờsở dùngcủanhỏbối bao，\nCó thể tăng cho người sử dụng6ô trống trong ba lô。\nBao gói30ngày sau sẽ tự động hư hỏng。";
-11238|<O>| tell_user(owner, "bạncủa" + me->get_name() + "thọ MệnhTăng10điểm");
-11239|<O>| who->add_occupation_exp(40);    // thư sinhKinh nghiệm +40, Trí mưu + 40
-11240|<O>| sprintf("%s:\n    bạnmuốn làmgì？bạncó thểdùngshowdatChỉ Lệnh đến tra xemtất cảNgười chơicủaBáo Danh。\n"
+11237|<O>| return "Ba lô nhỏ dùng khi đi du lịch,\ncó thể tăng thêm 6 ô ba lô cho người sử dụng.\nBa lô sẽ tự động hỏng sau 30 ngày.";
+11238|<O>| tell_user(owner, "Thọ mệnh của " + me->get_name() + " tăng 10 điểm");
+11239|<O>| who->add_occupation_exp(40);    // Kinh nghiệm thư sinh +40, trí mưu + 40
+11240|<O>| sprintf("%s:\n    Bạn muốn làm gì? Bạn có thể dùng lệnh showdat để xem tất cả đăng ký của người chơi.\n"
 11241|<O>| if (gone_time(me->get_time("learn")) < 1)    // Giới hạn thời gian
 11242|<O>| case "Đường Môn": 	z = 324;  p = get_jumpin(z, 20);  break;
-11243|<O>| send_user(me, "%c%s", '!', "MuaĐạo cụ Xuất sai" + result + "。");
-11244|<O>| send_user(me, "%c%s", '!', "bạncủaTiềm năngđãtiếp cậntrênhạn，tạmgiờKhông thể sử dụngTử Sâm Đơn。");
-11245|<O>| tell_user(owner, "bạncủa" + me->get_name() + "Trung thànhTăng10điểm");
-11246|<O>| write_user(who, ECHO "Bạn sẽ" + me->get_name() + "Suy mở。");
-11247|<O>| int Dex;                        // mẫn tiệp，cơ mẫn   Dexterity
-11248|<O>| return "“TháitrênNgọc Thần Đạo Quân sở dùngcủaPháp ThuậtBảo Kiếm”\nTăngPháp Thuật sở tạo thànhcủaThương hại hiệu Quả\nvàTrị liệuhiệu Quả，tốinhiều50điểm";
-11249|<O>| send_user(who, "%c%c%c", 0x3d, 241, 2);    // càng Cải tẩu Lộbướcsố
-11250|<O>| send_user(who, "%c%s", '!', "bạnđã lĩnh thủ20Kịch TìnhNhiệm vụ，không thểlại lĩnh thủ！");
+11243|<O>| send_user(me, "%c%s", '!', "Mua đạo cụ lỗi " + result + ".");
+11244|<O>| send_user(me, "%c%s", '!', "Tiềm năng của bạn đã gần đạt giới hạn, tạm thời không thể sử dụng Tử Sâm Đan.");
+11245|<O>| tell_user(owner, "Trung thành của " + me->get_name() + " tăng 10 điểm");
+11246|<O>| write_user(who, ECHO "Bạn đã đẩy " + me->get_name() + " ra.");
+11247|<O>| int Dex;                        // Nhanh nhẹn, cơ mẫn   Dexterity
+11248|<O>| return ""Thanh kiếm pháp thuật của Thái Thượng Ngọc Thần Đạo Quân"\nTăng hiệu quả sát thương pháp thuật\nvà hiệu quả trị liệu, tối đa 50 điểm";
+11249|<O>| send_user(who, "%c%c%c", 0x3d, 241, 2);    // Thay đổi số bước đi
+11250|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận 20 nhiệm vụ kịch bản, không thể nhận thêm nữa!");
 11251|<O>| case "Vân Mộng Trạch": z = 165;  p = get_jumpin(z, 20);  break;
-11252|<O>| return "Thập Nhị Tinh tọa Chi Nhấtcủasong Tử tọa。Tướng kỳ Phóng Xuất，chủ Nhân hoạch được5%Vật phòng、5%Pháp phòng、5%Khí Huyết、5%Bạo kích Gia thành。";
-11253|<O>| if (gone_time(get_drop_time()) >= 1800)    // 30phútloátmới
-11254|<O>| tell_user(me, "BạnTriệu hồiXuất Nhất Hắc Động，Tướng%sthôn không。", item->get_name());
-11255|<O>| write_user(me, ECHO "Bạncủatrướng Hộ khấu trừ%dNguyên Bảo。", to_int(key[2]));
-11256|<O>| write_user(me, "Bạn sẽ 2000 Tiềm năngsung Nhập%s。", item->get_name());
-11257|<O>| return "ThiênnămTu Luyệncủadư Tĩnh，có thểđểbạnthuấn gian biến phú，hơn nữacó thểTăngSử dụnggiả24ô trống trong ba lô。\nVĩnh cửu có thể dùng。";
-11258|<O>| send_user(who, "%c%s", '!', sprintf("đạo Thảo Nhân %d/3", i));
-11259|<O>| //add_attack_speed(get_attack_speed()*300/100)  //tốc độ
-11260|<O>| else if (p < 13000 * rate / 100)    // Tạp vật４//Sư Môn Vật Phẩm %50
-11261|<O>| send_user(me, "%c%s", '!', "bạnsở bội đớicủaMôn pháiTín VậtCấp độquacao，vô PhápNângCấp độ。");
-11262|<O>| send_user(who, "%c%s", '!', "bạncủabang pháiđãlĩnh thủ qua bồi thường，vô Pháp lạilầnlĩnh thủ。");
-11263|<O>| send_user(me, "%c%s", ';', sprintf(HIR"bổ phát Tìnhso vớiVàngkiên GiớiThành công"));
+11252|<O>| return "Một trong mười hai chòm sao - Song Tử. Thả ra, chủ nhân nhận được 5% phòng vật lý, 5% phòng pháp thuật, 5% khí huyết, 5% bạo kích.";
+11253|<O>| if (gone_time(get_drop_time()) >= 1800)    // 30 phút làm mới
+11254|<O>| tell_user(me, "Bạn đã triệu hoán một hố đen, nuốt chửng %s.", item->get_name());
+11255|<O>| write_user(me, ECHO "Tài khoản của bạn bị trừ %d nguyên bảo.", to_int(key[2]));
+11256|<O>| write_user(me, "Bạn đã nạp 2000 tiềm năng vào %s.", item->get_name());
+11257|<O>| return "Sự tĩnh lặng từ ngàn năm tu luyện, có thể khiến bạn giàu lên tức khắc, đồng thời tăng thêm 24 ô ba lô cho người sử dụng.\nSử dụng vĩnh viễn.";
+11258|<O>| send_user(who, "%c%s", '!', sprintf("Người Rơm %d/3", i));
+11259|<O>| //add_attack_speed(get_attack_speed()*300/100)  //Tốc độ
+11260|<O>| else if (p < 13000 * rate / 100)    // Tạp vật 4//Vật phẩm sư môn %50
+11261|<O>| send_user(me, "%c%s", '!', "Tín vật sư môn bạn đeo cấp quá cao, không thể nâng cấp thêm.");
+11262|<O>| send_user(who, "%c%s", '!', "Bang phái của bạn đã nhận bồi thường rồi, không thể nhận lại.");
+11263|<O>| send_user(me, "%c%s", ';', sprintf(HIR"Bù phát nhẫn Tình Bỉ Kim Kiên thành công"));

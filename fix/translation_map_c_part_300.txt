@@ -1,66 +1,66 @@
-﻿11330|<O>| if ( item = present("极限穿越证明书", who, 1, MAX_CARRY) )
-11331|<O>| return HIC+get_name()+"\n拥有此技能的宠物，抵御雷系攻击法术60%的伤害。";
-11332|<O>| send_user(who, "%c%s", ';', "您用一只黑球与一只蓝球兑换了2张藏宝图");
-11333|<O>| return "“女王所用的恐怖凶器，全身热如炽焰”\n攻击男人时有一定几率\n给目标产生燃烧效果";
-11334|<O>| send_user(who, "%c%s", '!', "你本周可使用战国令已经达到了使用上限。");
-11335|<O>| send_user(who,"%c%s",'!',"该玩家不在线并且不在好友列表，不能发送祝福！");
-11336|<O>| send_user(who, "%c%s", '!', "恭喜您！您打开大礼包得到了10000金");
-11337|<O>| tell_user(me, "%-30s %-20s %4s", "物体", "函数", "延迟");
-11338|<O>| if (!me->get_pay_money_buy_item())    // 可以通过点数购买道具
-11339|<O>| private static object* dbPower = ({ });	// 攻击方的战斗傀儡
-11340|<O>| send_user(me, "%c%s", '!', "您修得了新技能" + book + "。");
-11341|<O>| case "蜀山":	z = 273;  p = get_jumpin(z, 20);  break;
-11342|<O>| p_str += ({ FINAL_D->file_final("桃花源",69,30,90) });
-11343|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"魏管家的劫难（1）");
-11344|<O>| send_user(me, "%c%s", '!', "你并无分配点数到耐力中，不能使用洗点丸。");
-11345|<O>| if (objectp(map = get_map_object(z0)))    // 获取战场对象
-11346|<O>| log_file("boss.txt", short_time() + " 威武大将军被消灭\n");
-11347|<O>| tell_user(me, "输入时间:%s。", short_time(to_int(arg)));
-11348|<O>| tell_user(who, "你得到了新手信物: "HIY + item->get_name());
-11349|<O>| if (gone_time(me->get_time("sell")) < 1)    // 时间限制
-11350|<O>| return "使命任务物品。\n新手村卫队长一直寻觅的收藏物品。\n拣到了请交给卫队长换取奖励。";
-11351|<O>| who->get_name() + ":\n    你的等级不足30级，还不可以领取合服的奖励。\n"
-11352|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"魏管家的劫难（2）");
-11353|<O>| "%s: \n    被该死的虎王抓来做打杂的传送，还不准我说出谁才是真正的虎王，真是糟糕透了！\n"
-11354|<O>| return HIC+get_name()+"\n拥有此技能的宠物，抵御水系攻击法术30%的伤害。";
-11355|<O>| return sprintf(PF_NAME ":\n　　受到的所有伤害均不会使气血低于1。\n");
-11356|<O>| private string Master3;                 // 城主３(副城主)
-11357|<O>| send_user(me, "%c%s", '!', "开始四色球测试，注意测试完后一定要结束！");
-11358|<O>| send_user(me, "%c%s", '!', "你并无分配点数到敏捷中，不能使用洗点丸。");
-11359|<O>| send_user(who, "%c%s", ';', "你的道具栏空间不足够哦，请整理一下吧。");
-11360|<O>| send_user(member, "%c%s", ';', "缘分对对碰 龙镯 1 七国令 1");
-11361|<O>| // int get_cast_seal() { return 42100; }    // 符纸顺旋
-11362|<O>| who->set_save_2("double_time.freeze", 0);	//冻结的双倍时间
-11363|<O>| send_user(who, "%c%s", '!', "你没有加入任何的帮派，无法使用人气王。");
-11364|<O>| if (gone_time(me->get_time("pawn")) < 1)    // 时间限制
-11365|<O>| p_str += ({ FINAL_D->file_final("桃花源",-1,24,-1) });
-11366|<O>| else if (sscanf(arg, "name %s", what))    // 设置商铺名称
-11367|<O>| "    最后"HIR" 云梦泽 "NOR"的装备你只要到"HIR" 魏国 "NOR"便可以找到了。"
-11368|<O>| if (arrayp(user = me->get_team()))    // 更新队员坐标(新增)
-11369|<O>| else    send_user(me, "%c%s", ':', "队长您确定要离开队伍吗？\n"
-11370|<O>| send_user(me, "%c%s", '!', "你并无分配点数到体魄中，不能使用洗点丸。");
-11371|<O>| write_user(me, ECHO "%s笑道:“好技艺！这 %s，就当是我送给你的礼物吧。”",
-11372|<O>| send_user(who, "%c%s", '!', "得到"HIR"神秘的种子"NOR"一袋");
-11373|<O>| case 'X': send_user(me, "%c%s", '!', "您输入了空的KEY！");
-11374|<O>| private static string Progress;          // 带进度条的文件
-11375|<O>| 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, });    // 传奇记录表(故事任务)
-11376|<O>| sprintf("%s:\n    你身上现在连红包都放不下了，想领红包的话快去腾个空位出来吧！\n"
-11377|<O>| send_mingren_data(who,Exp_players,"power"); //发送实力表
-11378|<O>| &&     !get_effect(who, EFFECT_CHAR_9140)    // 辟毒散
-11379|<O>| 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, });    // 传奇记录表(其它事件)
-11380|<O>| next_st = 0;				//	下一次需要执行的时间戳编号 -- 记录时钟结构在全部结构中的序号
-11381|<O>| //	活动结束 -- 设置老人渣的消失状态 -- NPC 内部也会进行相应的清楚操作，因此这里有双保险
-11382|<O>| return sprintf(PF_NAME ":\n　　增加自身的物理攻击力和物理防御力。\n");
-11383|<O>| if (gone_time(me->get_time("list")) < 1)    // 时间限制
-11384|<O>| return HIC+get_name()+"\n拥有此技能的宠物，抵御水系攻击法术60%的伤害。";
-11385|<O>| if (gone_time(get("birthday")) >= 2400)    // 40 分钟
-11386|<O>| void effect_suppress_done(object me)    // 顺势推舟(自用)
-11387|<O>| if (random(100) < item->get_active_rate()    // 成功率
-11388|<O>| log_file(LIST_LOG, "--- 以下用于 /map/map/xy.c ---\n");
-11389|<O>| sprintf("%s:\n     你领取了 %d 分钟的VIP双倍经验奖励时间，好好把握吧。\n"
-11390|<O>| private static int iGradeWarTime;	// 规模提升的怪物攻需的开始时间
-11391|<O>| //        if( present("贵重物品", me, 1, MAX_CARRY*4) )
-11392|<O>| send_user(who, "%c%c%c", 0x3d, 240, 1);    // 系统端走路
-11393|<O>| if (sizeof(member) == 0 && objectp(who))	// 没有玩家，删除
-11394|<O>| set_living_name(me->get_char_id());    // 涉及太广，禁止改动
-11395|<O>| return HIC+get_name()+"\n拥有此技能的宠物，不会受到任何诅咒性法术的影响。";
+﻿11330|<O>| if ( item = present("Chứng Nhận Vượt Giới Hạn", who, 1, MAX_CARRY) )
+11331|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này, chống lại 60% sát thương pháp thuật tấn công hệ Lôi.";
+11332|<O>| send_user(who, "%c%s", ';', "Bạn dùng một quả cầu đen và một quả cầu xanh đổi được 2 tấm bản đồ tàng bảo");
+11333|<O>| return ""Hung khí đáng sợ mà Nữ Vương sử dụng, toàn thân nóng như lửa cháy"\nKhi tấn công nam giới có tỷ lệ\ngây hiệu ứng bốc cháy cho mục tiêu";
+11334|<O>| send_user(who, "%c%s", '!', "Số lần sử dụng Chiến Quốc Lệnh tuần này đã đạt giới hạn.");
+11335|<O>| send_user(who,"%c%s",'!',"Người chơi không trực tuyến và không có trong danh sách bạn bè, không thể gửi lời chúc!");
+11336|<O>| send_user(who, "%c%s", '!', "Chúc mừng! Bạn mở hộp quà lớn nhận được 10000 vàng");
+11337|<O>| tell_user(me, "%-30s %-20s %4s", "Đối tượng", "Hàm", "Độ trễ");
+11338|<O>| if (!me->get_pay_money_buy_item())    // Có thể mua đạo cụ bằng điểm
+11339|<O>| private static object* dbPower = ({ });	// Bù nhìn chiến đấu bên tấn công
+11340|<O>| send_user(me, "%c%s", '!', "Bạn đã học được kỹ năng mới " + book + ".");
+11341|<O>| case "Thục Sơn":	z = 273;  p = get_jumpin(z, 20);  break;
+11342|<O>| p_str += ({ FINAL_D->file_final("Đào Hoa Nguyên",69,30,90) });
+11343|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Kiếp Nạn Của Quản Gia Ngụy（1）");
+11344|<O>| send_user(me, "%c%s", '!', "Bạn không phân bổ điểm nào vào nội lực, không thể dùng Tẩy Điểm Hoàn.");
+11345|<O>| if (objectp(map = get_map_object(z0)))    // Lấy đối tượng chiến trường
+11346|<O>| log_file("boss.txt", short_time() + " Uy Vũ Đại Tướng Quân bị tiêu diệt\n");
+11347|<O>| tell_user(me, "Thời gian nhập:%s.", short_time(to_int(arg)));
+11348|<O>| tell_user(who, "Bạn nhận được tín vật tân thủ: "HIY + item->get_name());
+11349|<O>| if (gone_time(me->get_time("sell")) < 1)    // Giới hạn thời gian
+11350|<O>| return "Vật phẩm nhiệm vụ sứ mệnh.\nBộ sưu tập mà đội trưởng vệ binh Làng Tân Thủ luôn tìm kiếm.\nNhặt được hãy giao cho đội trưởng vệ binh để đổi thưởng.";
+11351|<O>| who->get_name() + ":\n    Cấp độ của bạn chưa đạt 30, chưa thể nhận phần thưởng hợp server.\n"
+11352|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Kiếp Nạn Của Quản Gia Ngụy（2）");
+11353|<O>| "%s: \n    Bị tên Hổ Vương chết tiệt bắt đến làm tạp vụ truyền tống, còn không cho nói ra ai mới là Hổ Vương thật, thật là tệ hết chỗ nói!\n"
+11354|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này, chống lại 30% sát thương pháp thuật tấn công hệ Thủy.";
+11355|<O>| return sprintf(PF_NAME ":\n　　Tất cả sát thương nhận vào đều không thể làm khí huyết giảm dưới 1.\n");
+11356|<O>| private string Master3;                 // Thành chủ 3(phó thành chủ)
+11357|<O>| send_user(me, "%c%s", '!', "Bắt đầu kiểm tra cầu bốn màu, chú ý sau khi kiểm tra nhất định phải kết thúc!");
+11358|<O>| send_user(me, "%c%s", '!', "Bạn không phân bổ điểm nào vào nhanh nhẹn, không thể dùng Tẩy Điểm Hoàn.");
+11359|<O>| send_user(who, "%c%s", ';', "Không gian đạo cụ của bạn không đủ, hãy sắp xếp lại nhé.");
+11360|<O>| send_user(member, "%c%s", ';', "Duyên Phận Đối Đối Bổng Long Trác 1 Thất Quốc Lệnh 1");
+11361|<O>| // int get_cast_seal() { return 42100; }    // Phù Chỉ Thuận Toàn
+11362|<O>| who->set_save_2("double_time.freeze", 0);	//Thời gian gấp đôi bị đóng băng
+11363|<O>| send_user(who, "%c%s", '!', "Bạn chưa gia nhập bang phái nào, không thể sử dụng Nhân Khí Vương.");
+11364|<O>| if (gone_time(me->get_time("pawn")) < 1)    // Giới hạn thời gian
+11365|<O>| p_str += ({ FINAL_D->file_final("Đào Hoa Nguyên",-1,24,-1) });
+11366|<O>| else if (sscanf(arg, "name %s", what))    // Đặt tên cửa hàng
+11367|<O>| "    Cuối cùng"HIR" Vân Mộng Trạch "NOR"trang bị bạn chỉ cần đến"HIR" Ngụy Quốc "NOR"là có thể tìm thấy."
+11368|<O>| if (arrayp(user = me->get_team()))    // Cập nhật tọa độ đội viên(mới thêm)
+11369|<O>| else    send_user(me, "%c%s", ':', "Đội trưởng, bạn xác nhận muốn rời khỏi đội không?\n"
+11370|<O>| send_user(me, "%c%s", '!', "Bạn không phân bổ điểm nào vào thể phách, không thể dùng Tẩy Điểm Hoàn.");
+11371|<O>| write_user(me, ECHO "%s cười nói: \"Tay nghề tốt lắm! Cái %s này, coi như quà tôi tặng bạn.\"",
+11372|<O>| send_user(who, "%c%s", '!', "Nhận được "HIR"Hạt Giống Bí Ẩn"NOR" một túi");
+11373|<O>| case 'X': send_user(me, "%c%s", '!', "Bạn đã nhập KEY rỗng!");
+11374|<O>| private static string Progress;          // File có thanh tiến độ
+11375|<O>| 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, });    // Bảng truyền kỳ(nhiệm vụ câu chuyện)
+11376|<O>| sprintf("%s:\n    Trên người bạn giờ không còn chỗ để lì xì, muốn nhận lì xì thì mau đi dọn chỗ trống ra!\n"
+11377|<O>| send_mingren_data(who,Exp_players,"power"); //Gửi bảng thực lực
+11378|<O>| &&     !get_effect(who, EFFECT_CHAR_9140)    // Tịch Độc Tán
+11379|<O>| 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, });    // Bảng truyền kỳ(sự kiện khác)
+11380|<O>| next_st = 0;				//	Mã thời gian cần thực thi tiếp theo -- ghi số thứ tự cấu trúc đồng hồ trong toàn bộ cấu trúc
+11381|<O>| //	Hoạt động kết thúc -- đặt trạng thái biến mất của lão nhân xấu -- NPC nội bộ cũng sẽ thực hiện thao tác dọn dẹp tương ứng, vì vậy ở đây có bảo hiểm kép
+11382|<O>| return sprintf(PF_NAME ":\n　　Tăng tấn công vật lý và phòng thủ vật lý của bản thân.\n");
+11383|<O>| if (gone_time(me->get_time("list")) < 1)    // Giới hạn thời gian
+11384|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này, chống lại 60% sát thương pháp thuật tấn công hệ Thủy.";
+11385|<O>| if (gone_time(get("birthday")) >= 2400)    // 40 phút
+11386|<O>| void effect_suppress_done(object me)    // Thuận Thế Đẩy Thuyền(tự dùng)
+11387|<O>| if (random(100) < item->get_active_rate()    // Tỷ lệ thành công
+11388|<O>| log_file(LIST_LOG, "--- Dùng cho /map/map/xy.c dưới đây ---\n");
+11389|<O>| sprintf("%s:\n     Bạn đã nhận %d phút phần thưởng thời gian kinh nghiệm gấp đôi VIP, hãy tận dụng tốt nhé.\n"
+11390|<O>| private static int iGradeWarTime;	// Thời gian bắt đầu tấn công quái vật nâng quy mô
+11391|<O>| //        if( present("Vật Phẩm Quý Giá", me, 1, MAX_CARRY*4) )
+11392|<O>| send_user(who, "%c%c%c", 0x3d, 240, 1);    // Hệ thống điều khiển đi bộ
+11393|<O>| if (sizeof(member) == 0 && objectp(who))	// Không có người chơi, xóa
+11394|<O>| set_living_name(me->get_char_id());    // Liên quan quá rộng, cấm sửa đổi
+11395|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này, sẽ không chịu ảnh hưởng của bất kỳ pháp thuật nguyền rủa nào.";

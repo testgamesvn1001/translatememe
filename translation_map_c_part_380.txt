@@ -1,91 +1,91 @@
-﻿17536|<O>| "hồnngàyNghi" : "\"/item/final/16/1629\"",
-17537|<O>| item = new("item/91/9161");		//ChungàyĐơn
+﻿17536|<O>| "Hỗn Thiên Nghi" : "\"/item/final/16/1629\"",
+17537|<O>| item = new("item/91/9161");		//Chu Thiên Đan
 17538|<O>| string get_name() { return "Tương Lăng"; }
-17539|<O>| return "kéo dài1giờtrongbiến Thân vì Tứ cướcXà，Có thể nâng1%Pháp ThuậtPhòng thủLực。";
-17540|<O>| "Thám Hải xoa" : "\"/item/final/74/1040\"",
+17539|<O>| return "Trong 1 giờ biến thành thằn lằn bốn chân, tăng 1% phòng thủ pháp thuật.";
+17540|<O>| "Thám Hải Xoa" : "\"/item/final/74/1040\"",
 17541|<O>| "Phá Không Đao" : "\"/item/final/72/1090\"",
-17542|<O>| else if (rate < 14000)	//Pháp ThuậtTấn côngNâng40điểm
-17543|<O>| log_file(LIST_LOG, "# Cơ bảnY phục(Nữ)\n");
+17542|<O>| else if (rate < 14000)	//Tăng tấn công pháp thuật 40 điểm
+17543|<O>| log_file(LIST_LOG, "# Áo cơ bản (nữ)\n");
 17544|<O>| string get_name() { return "Trường Bình"; }
-17545|<O>| return "［giángMaPháp chú］NângPháp ThuậtcủaTấn côngLực，Mỗi cấp tăng2điểm。\n";
-17546|<O>| /*      else    // Có logout hiệu Quả，cố chú thích
-17547|<O>| SAY_CMD->say(me, "bạnđềuđến bồitôiqua lao ngục sinh hoạt ！");
-17548|<O>| tell_user(me, "tảo miêu Mục lục: %s\n", path);
-17549|<O>| return "có thểTướngđãbịbảng địnhcủaTrang bịcònnguyên vì“Trang bịsaubảng định”trạng thái。";
-17550|<O>| "NhậtthángKiếm" : "\"/item/final/76/1060\"",
-17551|<O>| "caolương Tửu" : "\"/item/final/33/1756\"",
-17552|<O>| return 1;					//	chính thườngtình huốngdướiLàkhôngsẽXuất saicủaToàn bộQuay về 1
-17553|<O>| if(other_stat[9]) {				//	9 thiết địnhquái vậtloại hình
-17554|<O>| "ngàytoàn Đao" : "\"/item/final/72/1120\"",
+17545|<O>| return "［Hàng Ma Pháp Chú］Tăng sức tấn công pháp thuật, mỗi cấp tăng 2 điểm.\n";
+17546|<O>| /*      else    // Có hiệu ứng logout, nên ghi chú lại
+17547|<O>| SAY_CMD->say(me, "Các ngươi cùng vào đây sống trong tù với ta!");
+17548|<O>| tell_user(me, "Quét thư mục: %s\n", path);
+17549|<O>| return "Có thể khôi phục trang bị đã bị ràng buộc về trạng thái \"ràng buộc sau khi trang bị\".";
+17550|<O>| "Nhật Nguyệt Kiếm" : "\"/item/final/76/1060\"",
+17551|<O>| "Rượu Cao Lương" : "\"/item/final/33/1756\"",
+17552|<O>| return 1;					//	Bình thường không có lỗi, trả về 1
+17553|<O>| if(other_stat[9]) {				//	9 Thiết lập loại quái vật
+17554|<O>| "Thiên Tuyền Đao" : "\"/item/final/72/1120\"",
 17555|<O>| case 70 : me->set_fam_name("Vân Mộng Trạch");
-17556|<O>| return "kéo dài1giờtrongbiến Thân vì tinh tinh，Có thể nâng1%Lực tấn công vật lýTrị。";
-17557|<O>| string get_name() { return "DịchThủy"; }
-17558|<O>| item = new("item/91/9145");		//Thanh Tâm Đơn
-17559|<O>| desc = "lớnlạidung Dịch CậtcủaNhục，14giây phục hồi cho người chơi175điểm Khí Huyết。";
-17560|<O>| string get_name() { return "Nhiên thiêu"; }
-17561|<O>| result += ESC"MởHoàng Thành thủ Vệ Chiến\nparty 8\n";
-17562|<O>| who->set_enemy_5(me);    // thiết trí phản kíchđối tượng
-17563|<O>| "khốc tang bổng" : "\"/item/final/75/1045\"",
+17556|<O>| return "Trong 1 giờ biến thành đười ươi, tăng 1% tấn công vật lý.";
+17557|<O>| string get_name() { return "Dịch Thủy"; }
+17558|<O>| item = new("item/91/9145");		//Thanh Tâm Đan
+17559|<O>| desc = "Thịt to dễ ăn, trong 14 giây hồi phục 175 điểm khí huyết cho người chơi.";
+17560|<O>| string get_name() { return "Thiêu Đốt"; }
+17561|<O>| result += ESC"Mở Hoàng Thành Thủ Vệ Chiến\nparty 8\n";
+17562|<O>| who->set_enemy_5(me);    // Thiết lập đối tượng phản击
+17563|<O>| "Khốc Tang Bổng" : "\"/item/final/75/1045\"",
 17564|<O>| add_pp(get_pp() * 180 / 100);	//Pháp phòng
 17565|<O>| "Bá Vương Thương" : "\"/item/final/74/1090\"",
-17566|<O>| ESC"tra xemtôicủaNhiệm vụtíchphút\ntalk %x# bonus.33\n"
-17567|<O>| pet->set_owner(who);	//khôngthiết vô Pháprestore
-17568|<O>| return "Hầu Tửcủatối Ái，20giây phục hồi cho người chơi1000điểm Khí Huyết。";
-17569|<O>| "thấu Hồn đinh" : "\"/item/final/71/1090\"",
-17570|<O>| private int iEngage;			// cố dungNPCcủasố lượng
-17571|<O>| DEBUG("Kiểm tra-->phát bốtrướctốisauNhấtlầnđối vớitất cảTạituyếnNgười chơicàngmớibài Hành bảng");
+17566|<O>| ESC"Xem điểm tích nhiệm vụ của tôi\ntalk %x# bonus.33\n"
+17567|<O>| pet->set_owner(who);	//Không set thì không thể restore
+17568|<O>| return "Món yêu thích của lũ khỉ, trong 20 giây hồi phục 1000 điểm khí huyết cho người chơi.";
+17569|<O>| "Thấu Hồn Đinh" : "\"/item/final/71/1090\"",
+17570|<O>| private int iEngage;			// Số lượng NPC thuê
+17571|<O>| DEBUG("Kiểm tra-->Lần cuối cập nhật bảng xếp hạng cho tất cả người chơi online trước khi phát hành");
 17572|<O>| case "Yên Quốc": note->City = 7;  break;
-17573|<O>| string get_name() { return "HỏaCông"; }
-17574|<O>| return "huyễn Ngự bộ trang kỳgiữaChi Nhất,Tương truyền khi mặc đủ bộ sẽ sở hữu sức mạnh thần bí";
-17575|<O>| desc = "nhânLàNam quacủabính，14giây phục hồi cho người chơi1540điểm Khí Huyết。";
-17576|<O>| string get_name() { return "phục sinh"; }
-17577|<O>| "Ngọc bồ Đề" : "\"/item/final/91/1805\"",
-17578|<O>| write_user(me, ECHO "Bạn tế Khởi Nhất Trương Hồi Môn Phù……");
+17573|<O>| string get_name() { return "Hỏa Công"; }
+17574|<O>| return "Một trong bộ Huyễn Ngự, tương truyền mặc đủ bộ sẽ sở hữu sức mạnh thần bí";
+17575|<O>| desc = "Bánh nhân bí ngô, trong 14 giây hồi phục 1540 điểm khí huyết cho người chơi.";
+17576|<O>| string get_name() { return "Phục Sinh"; }
+17577|<O>| "Ngọc Bồ Đề" : "\"/item/final/91/1805\"",
+17578|<O>| write_user(me, ECHO "Bạn kích hoạt một tờ bùa hồi môn……");
 17579|<O>| string get_name() { return "Tần Quốc"; }
-17580|<O>| "ThanhĐồngCơ Quancấukiện" : "\"/item/stuff/0199\"",
-17581|<O>| log_file(LIST_LOG, "# mẫn tiệpMạo(Nam)\n");
+17580|<O>| "Cấu Kiện Cơ Quan Đồng Thanh" : "\"/item/stuff/0199\"",
+17581|<O>| log_file(LIST_LOG, "# Mũ nhanh nhẹn (nam)\n");
 17582|<O>| "Bách Luyện Đao" : "\"/item/final/72/1035\"",
-17583|<O>| "Bạchạnh Tử" : "\"/item/final/91/1808\"",
+17583|<O>| "Ngân Hạnh Tử" : "\"/item/final/91/1808\"",
 17584|<O>| case "Ngụy Quốc": note->City = 4;  break;
-17585|<O>| tell_user(me, "bạnPhục hồitất cảhoạt độngbản đồcủaNgười chơicủatrạng thái。");
+17585|<O>| tell_user(me, "Bạn đã khôi phục trạng thái của tất cả người chơi trên bản đồ hoạt động.");
 17586|<O>| case "Tần Quốc": note->City = 5;  break;
-17587|<O>| tell_user(me, "tệp tinCóvấn đề: %s", path4);
-17588|<O>| ESC"tôiTiên khảo lựmột chút", me->get_name(), id));
-17589|<O>| "chấnngàyKích" : "\"/item/final/74/1055\"",
-17590|<O>| "Ngọc dung lộ" : "\"/item/final/91/1830\"",
-17591|<O>| log_file(LIST_LOG, "# mẫn tiệpY phục(Nam)\n");
-17592|<O>| string get_name() { return "Thầntri"; }
-17593|<O>| item = new("item/91/9125");		//lại tạo hoàn
-17594|<O>| string get_name() { return "xuyên Thích"; }
-17595|<O>| *   2. sys/user/attack.c - Bắt đầuchiến đấugiờkích hoạt
-17596|<O>| ESC"lĩnh thủThủybìnhsủng vật\ntalk %x# bonus.1019\n"
-17597|<O>| string get_name() { return "tức mặc"; }
-17598|<O>| "TửVàngCôn" : "\"/item/final/75/1035\"",
-17599|<O>| result += ESC "Khí HuyếtPháp LựcToàn mãn\nrecover\n";
-17600|<O>| ESC "Báo Danh Sâm Gia cạnh tuyển。(nhu 1000 Vàng)\n" + cmd1 +
-17601|<O>| _DEBUG("DEBUG -- dùng Hộ Truyền Nhập đơn vịkhôngtồnTại，trình tựQuay về");
-17602|<O>| "lớnchặt Đao" : "\"/item/final/72/1030\"",
-17603|<O>| printf(ECHO "BạnHủy bỏ“" PF_NAME "”。");
-17604|<O>| "HuyềnSắtCơ Quancấukiện" : "\"/item/stuff/0200\"",
-17605|<O>| result += ESC"MởBảo rươnghệ thống\nparty 22\n";
-17606|<O>| item = new ("item/std/6002");//càn khôn đại
-17607|<O>| return "Đại Thoại Chiến Quốcvô Địch Bảo Bảo bao，Nhấtlầntính mãn túcbạnTứkhôngĐồngcủanguyện vọng。";
-17608|<O>| "PhươngngàyKích" : "\"/item/final/74/1115\"",
-17609|<O>| if (who->get_org_name() != "lại tụctrướcduyên")
-17610|<O>| // nhiềuThể Viễn trìnhKỹ năng  TIPS:[PF_CAST_AREA]  biến dị
-17611|<O>| if( iKind == 1 )    // 1. Nhiệm vụ vận tiêu(Vật Phẩm)
-17612|<O>| printf(ECHO "Bạn thân Xin Gia Nhập%scủađội ngũ。", name2);
-17613|<O>| ESC "MuaTài PhùngKỹ năngCấp độ69-79cấp Công thức\nlist %s\n"
-17614|<O>| if(other_stat[1]) {				//	1 thiết tríTấn côngtốc độ
-17615|<O>| else if (rate < 28000)	//Pháp ThuậtPhòng thủĐềcao50điểm
-17616|<O>| return "Vật phẩm nhiệm vụ。Trâu diễn giaochobạndùng đến Thu tập oánQuỷChi Linhcủasưu Hồn Pháp Khí。";
+17587|<O>| tell_user(me, "File có vấn đề: %s", path4);
+17588|<O>| ESC"Để tôi suy nghĩ đã", me->get_name(), id));
+17589|<O>| "Chấn Thiên Kích" : "\"/item/final/74/1055\"",
+17590|<O>| "Ngọc Dung Lộ" : "\"/item/final/91/1830\"",
+17591|<O>| log_file(LIST_LOG, "# Áo nhanh nhẹn (nam)\n");
+17592|<O>| string get_name() { return "Thần Tri"; }
+17593|<O>| item = new("item/91/9125");		//Tái Tạo Hoàn
+17594|<O>| string get_name() { return "Xuyên Thích"; }
+17595|<O>| *   2. sys/user/attack.c - Kích hoạt khi bắt đầu chiến đấu
+17596|<O>| ESC"Nhận thú cưng Bình Nước\ntalk %x# bonus.1019\n"
+17597|<O>| string get_name() { return "Tức Mặc"; }
+17598|<O>| "Tử Kim Côn" : "\"/item/final/75/1035\"",
+17599|<O>| result += ESC "Khí huyết pháp lực đầy đủ\nrecover\n";
+17600|<O>| ESC "Đăng ký tham gia tranh cử. (Cần 1000 vàng)\n" + cmd1 +
+17601|<O>| _DEBUG("DEBUG -- Đơn vị người dùng truyền vào không tồn tại, chương trình trả về");
+17602|<O>| "Đại Phạt Đao" : "\"/item/final/72/1030\"",
+17603|<O>| printf(ECHO "Bạn đã hủy \"" PF_NAME "\".");
+17604|<O>| "Cấu Kiện Cơ Quan Huyền Thiết" : "\"/item/stuff/0200\"",
+17605|<O>| result += ESC"Mở hệ thống rương bảo\nparty 22\n";
+17606|<O>| item = new ("item/std/6002");//Túi Càn Khôn
+17607|<O>| return "Gói bảo bối vô địch Đại Thoại Chiến Quốc, một lần thỏa mãn bốn nguyện vọng khác nhau.";
+17608|<O>| "Phương Thiên Kích" : "\"/item/final/74/1115\"",
+17609|<O>| if (who->get_org_name() != "再續前緣")
+17610|<O>| // Kỹ năng tầm xa đa mục tiêu  TIPS:[PF_CAST_AREA]  Biến dị
+17611|<O>| if( iKind == 1 )    // 1. Nhiệm vụ vận tiêu (vật phẩm)
+17612|<O>| printf(ECHO "Bạn xin gia nhập đội của %s.", name2);
+17613|<O>| ESC "Mua công thức Thợ May cấp 69-79\nlist %s\n"
+17614|<O>| if(other_stat[1]) {				//	1 Thiết lập tốc độ tấn công
+17615|<O>| else if (rate < 28000)	//Tăng phòng thủ pháp thuật 50 điểm
+17616|<O>| return "Vật phẩm nhiệm vụ. Pháp khí thu hồn mà Trâu Diễn giao cho bạn dùng để thu thập oán linh.";
 17617|<O>| "Hoa Điêu Côn" : "\"/item/final/75/1080\"",
 17618|<O>| string get_name() { return "Âm Sơn"; }
-17619|<O>| *   3. sys/user/energy.c - thụ Thươnggiờbảo trì kích hoạt
-17620|<O>| "hà bao đản" : "\"/item/final/33/1704\"",
-17621|<O>| return "có thể lũy tíchsauhoán thủphần thưởngdữ xưng hiệucủaVật Phẩm，XinLưutốtkhôngcầnmất thất。";
-17622|<O>| else if(rand < 9990)//Ngẫu nhiênMôn pháicủaVàngSắcTrang bị1kiện。
-17623|<O>| who->set_contribute(0);    // Thanh Không cống hiến
-17624|<O>| string get_name() { return "ĐộcNha"; }
-17625|<O>| "Nhất khẩu Nhục" : "\"/item/final/33/1700\"",
-17626|<O>| "Nam qua bính" : "\"/item/final/33/1767\"",
+17619|<O>| *   3. sys/user/energy.c - Duy trì kích hoạt khi bị thương
+17620|<O>| "Trứng Ốp La" : "\"/item/final/33/1704\"",
+17621|<O>| return "Vật phẩm có thể tích lũy đổi phần thưởng và danh hiệu, xin giữ gìn cẩn thận.";
+17622|<O>| else if(rand < 9990)//1 trang bị vàng ngẫu nhiên của môn phái.
+17623|<O>| who->set_contribute(0);    // Xóa điểm cống hiến
+17624|<O>| string get_name() { return "Độc Nha"; }
+17625|<O>| "Miếng Thịt" : "\"/item/final/33/1700\"",
+17626|<O>| "Bánh Bí Ngô" : "\"/item/final/33/1767\"",

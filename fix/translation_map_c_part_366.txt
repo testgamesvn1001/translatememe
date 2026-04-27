@@ -1,85 +1,85 @@
-﻿16302|<O>| "古甲冠云梦泽" : "\"/item/final/65/7020\"",
-16303|<O>| name2 != "桃花源" ? HIR	: NOR );  break;
-16304|<O>| case 4: name = "矿业";  p /= 5;  break;
-16305|<O>| DEBUG(sprintf("测试向左转-->pos=%d",pos));
-16306|<O>| case 4: case 40: file = "唐门";  break;
-16307|<O>| send_user(me, "%c%s", '!', "您正在摆摊。");
-16308|<O>| "踏云盔桃花源" : "\"/item/final/65/1050\"",
-16309|<O>| "人隔千里、路悠悠，却待要问、终无凭，请明月代传讯，寄我片纸儿慰离情。",
-16310|<O>| #define BZ_WEEK 		  "week"		//	星期轮寻标志
-16311|<O>| send_user(me, "%c%s", '!', "数据库出错！");
-16312|<O>| desc = "比你的头还大的荷包蛋，14秒内恢复玩家595点气血值。";
-16313|<O>| "龙头鞋昆仑山" : "\"/item/final/88/6050\"",
-16314|<O>| private int AttackMove;			// 攻击时的移动模式
-16315|<O>| "龙骨冠昆仑山" : "\"/item/final/65/6119\"",
-16316|<O>| "麻战甲禁卫军" : "\"/item/final/60/3035\"",
-16317|<O>| "龙骨鞋云梦泽" : "\"/item/final/88/7119\"",
-16318|<O>| "天狼行装蜀山" : "\"/item/final/60/2065\"",
-16319|<O>| "戮魂项链茅山" : "\"/item/final/86/5100\"",
-16320|<O>| "青龙冠昆仑山" : "\"/item/final/65/6030\"",
-16321|<O>| if (gone_time(silent3) >= 300)// 死亡炸弹
-16322|<O>| "神狱项链唐门" : "\"/item/final/86/4075\"",
-16323|<O>| "宣明袍昆仑山" : "\"/item/final/60/6040\"",
-16324|<O>| notify("你无法拾取%s！", item->get_name());
-16325|<O>| write_user(who, ECHO "您觉得背包被碰了一下……");
-16326|<O>| notify("没办法修理%s！", item->get_name());
-16327|<O>| "龙骨战袍茅山" : "\"/item/final/60/5119\"",
-16328|<O>| "轩辕战衣蜀山" : "\"/item/final/60/2110\"",
-16329|<O>| "天水行装唐门" : "\"/item/final/60/4030\"",
-16330|<O>| "嗜天披袍茅山" : "\"/item/final/60/5070\"",
-16331|<O>| "麒麟冠无门派" : "\"/item/final/65/8106\"",
-16332|<O>| "彻云鞋云梦泽" : "\"/item/final/88/7060\"",
-16333|<O>| "麻布袍昆仑山" : "\"/item/final/60/6035\"",
-16334|<O>| private int Bag1Time;			// 第一个背包的结束时间
-16335|<O>| notify("寻找gm的活动成功地在" + arg2 + "开始了");
-16336|<O>| "斩侯披袍茅山" : "\"/item/final/60/5080\"",
-16337|<O>| "赤虎盔桃花源" : "\"/item/final/65/1075\"",
-16338|<O>| "银丝长靴唐门" : "\"/item/final/88/4045\"",
-16339|<O>| "踏云靴桃花源" : "\"/item/final/88/1050\"",
-16340|<O>| if ( rate < 50 * rate1 / 100 )	//师门物品
-16341|<O>| "天水头巾唐门" : "\"/item/final/65/4030\"",
-16342|<O>| private int Bag2Time;			// 第二个背包的结束时间
-16343|<O>| send_user(who,"%c%s",'!',"端午节活动开启！");
-16344|<O>| notify("我这里不收%s。", item->get_name());
-16345|<O>| //	ESC"进入无双城\ntalk %x# welcome.101\n"
-16346|<O>| ESC "打开居民的城市频道。(消耗 10 体力)\n" + cmd2 +
-16347|<O>| "神行鞋无门派" : "\"/item/final/88/8056\"",
-16348|<O>| item = new ("/item/bind/08/0001");//令
-16349|<O>| ESC"一只黑球兑换10张飞行符\ntalk %x# bonus.5\n"
-16350|<O>| "随风头巾唐门" : "\"/item/final/65/4020\"",
-16351|<O>| "古甲鞋云梦泽" : "\"/item/final/88/7020\"",
-16352|<O>| string get_name() { return "将军古墓４"; }
-16353|<O>| "流云行装蜀山" : "\"/item/final/60/2105\"",
-16354|<O>| if (present("种子", who, 1, MAX_CARRY))
-16355|<O>| "迅豹盔禁卫军" : "\"/item/final/65/3085\"",
-16356|<O>| "龙骨盔禁卫军" : "\"/item/final/65/3119\"",
-16357|<O>| "映日鞋昆仑山" : "\"/item/final/88/6115\"",
-16358|<O>| send_user(who,"%c%s",'!',"您的竞选费不够！");
-16359|<O>| "炎阳项链茅山" : "\"/item/final/86/5050\"",
-16360|<O>| ESC "显示剩余ＧＭ的位置\n" + "findgm list\n" +
-16361|<O>| "金丝甲禁卫军" : "\"/item/final/60/3065\"",
-16362|<O>| "沙场靴禁卫军" : "\"/item/final/88/3020\"",
-16363|<O>| "神武靴桃花源" : "\"/item/final/88/1085\"",
-16364|<O>| switch (me->get_level())    // 设置玩家种类
-16365|<O>| "紫云斗笠唐门" : "\"/item/final/65/4110\"",
-16366|<O>| "恒金项链唐门" : "\"/item/final/86/4095\"",
-16367|<O>| return "一种隐含着巨大威力的石类,铁匠、机关生活技能需要的材料";
-16368|<O>| string get_name() { return "清溪（1）"; }
-16369|<O>| static mapping GameList = ([]);	//赛程表
-16370|<O>| "星辰战靴唐门" : "\"/item/final/88/4120\"",
-16371|<O>| "龙骨冠云梦泽" : "\"/item/final/65/7119\"",
-16372|<O>| "定魂项链蜀山" : "\"/item/final/86/2030\"",
-16373|<O>| result += ESC HIY"冻结双倍经验时间\n" + cmd8;
-16374|<O>| send_user(me, "%c%s", '!', "错误的参数！");
-16375|<O>| ESC "初始化活动场景\n" + "gmfight reset\n" +
-16376|<O>| "神狱项链蜀山" : "\"/item/final/86/2075\"",
-16377|<O>| "衾天鞋昆仑山" : "\"/item/final/88/6120\"",
-16378|<O>| name2 != "云梦泽" ? HIR	: NOR );  break;
-16379|<O>| send_user(who, "%c%s", '!', "活动开启！");
-16380|<O>| "祁龙头巾蜀山" : "\"/item/final/65/2090\"",
-16381|<O>| case 8: name = "教育";  p /= 5;  break;
-16382|<O>| "寒星行装唐门" : "\"/item/final/60/4080\"",
-16383|<O>| "青柳行装蜀山" : "\"/item/final/60/2020\"",
-16384|<O>| "破敌甲禁卫军" : "\"/item/final/60/3040\"",
-16385|<O>| string get_name() { return "清溪（3）"; }
-16386|<O>| log_file(LIST_LOG, "<!-- 茶 -->\n\n");
+﻿16302|<O>| "Quan Cổ Giáp Vân Mộng Trạch" : "\"/item/final/65/7020\"",
+16303|<O>| name2 != "Đào Hoa Nguyên" ? HIR	: NOR );  break;
+16304|<O>| case 4: name = "Khoáng nghiệp";  p /= 5;  break;
+16305|<O>| DEBUG(sprintf("Test rẽ trái-->pos=%d",pos));
+16306|<O>| case 4: case 40: file = "Đường Môn";  break;
+16307|<O>| send_user(me, "%c%s", '!', "Bạn đang bày bán.");
+16308|<O>| "Mũ Đạp Vân Đào Hoa Nguyên" : "\"/item/final/65/1050\"",
+16309|<O>| "Người cách ngàn dặm, đường xa xôi, muốn hỏi thăm mà không có tin, nhờ trăng sáng truyền tin, gửi lá thư an ủi nỗi ly tình.",
+16310|<O>| #define BZ_WEEK 		  "week"		//	Cờ tuần hoàn tuần
+16311|<O>| send_user(me, "%c%s", '!', "Lỗi cơ sở dữ liệu!");
+16312|<O>| desc = "Trứng ốp la to hơn cả đầu bạn, trong 14 giây hồi phục 595 điểm khí huyết cho người chơi.";
+16313|<O>| "Giày Long Đầu Côn Lôn Sơn" : "\"/item/final/88/6050\"",
+16314|<O>| private int AttackMove;			// Chế độ di chuyển khi tấn công
+16315|<O>| "Quan Long Cốt Côn Lôn Sơn" : "\"/item/final/65/6119\"",
+16316|<O>| "Ma Chiến Giáp Cấm Vệ Quân" : "\"/item/final/60/3035\"",
+16317|<O>| "Giày Long Cốt Vân Mộng Trạch" : "\"/item/final/88/7119\"",
+16318|<O>| "Hành Trang Thiên Lang Thục Sơn" : "\"/item/final/60/2065\"",
+16319|<O>| "Vòng Cổ Lục Hồn Mao Sơn" : "\"/item/final/86/5100\"",
+16320|<O>| "Quan Thanh Long Côn Lôn Sơn" : "\"/item/final/65/6030\"",
+16321|<O>| if (gone_time(silent3) >= 300)// Bom chết chóc
+16322|<O>| "Vòng Cổ Thần Ngục Đường Môn" : "\"/item/final/86/4075\"",
+16323|<O>| "Bào Tuyên Minh Côn Lôn Sơn" : "\"/item/final/60/6040\"",
+16324|<O>| notify("Bạn không thể nhặt %s!", item->get_name());
+16325|<O>| write_user(who, ECHO "Bạn cảm thấy ba lô bị chạm nhẹ……");
+16326|<O>| notify("Không thể sửa chữa %s!", item->get_name());
+16327|<O>| "Chiến Bào Long Cốt Mao Sơn" : "\"/item/final/60/5119\"",
+16328|<O>| "Chiến Y Hiên Viên Thục Sơn" : "\"/item/final/60/2110\"",
+16329|<O>| "Hành Trang Thiên Thủy Đường Môn" : "\"/item/final/60/4030\"",
+16330|<O>| "Thí Thiên Phi Bào Mao Sơn" : "\"/item/final/60/5070\"",
+16331|<O>| "Quan Kỳ Lân Vô Môn Phái" : "\"/item/final/65/8106\"",
+16332|<O>| "Giày Triệt Vân Vân Mộng Trạch" : "\"/item/final/88/7060\"",
+16333|<O>| "Ma Bố Bào Côn Lôn Sơn" : "\"/item/final/60/6035\"",
+16334|<O>| private int Bag1Time;			// Thời gian kết thúc túi thứ nhất
+16335|<O>| notify("Hoạt động tìm GM đã bắt đầu thành công tại " + arg2);
+16336|<O>| "Trảm Hầu Phi Bào Mao Sơn" : "\"/item/final/60/5080\"",
+16337|<O>| "Mũ Xích Hổ Đào Hoa Nguyên" : "\"/item/final/65/1075\"",
+16338|<O>| "Trường Hài Ngân Ti Đường Môn" : "\"/item/final/88/4045\"",
+16339|<O>| "Giày Đạp Vân Đào Hoa Nguyên" : "\"/item/final/88/1050\"",
+16340|<O>| if ( rate < 50 * rate1 / 100 )	//Vật phẩm sư môn
+16341|<O>| "Khăn Đầu Thiên Thủy Đường Môn" : "\"/item/final/65/4030\"",
+16342|<O>| private int Bag2Time;			// Thời gian kết thúc túi thứ hai
+16343|<O>| send_user(who,"%c%s",'!',"Hoạt động Tết Đoan Ngọ đã mở!");
+16344|<O>| notify("Tôi không thu %s.", item->get_name());
+16345|<O>| //	ESC"Vào Vô Song Thành\ntalk %x# welcome.101\n"
+16346|<O>| ESC "Mở kênh thành phố cho cư dân. (Tiêu hao 10 thể lực)\n" + cmd2 +
+16347|<O>| "Giày Thần Hành Vô Môn Phái" : "\"/item/final/88/8056\"",
+16348|<O>| item = new ("/item/bind/08/0001");//Lệnh
+16349|<O>| ESC"1 quả cầu đen đổi 10 Bùa Phi Hành\ntalk %x# bonus.5\n"
+16350|<O>| "Khăn Đầu Tùy Phong Đường Môn" : "\"/item/final/65/4020\"",
+16351|<O>| "Giày Cổ Giáp Vân Mộng Trạch" : "\"/item/final/88/7020\"",
+16352|<O>| string get_name() { return "Cổ Mộ Tướng Quân 4"; }
+16353|<O>| "Hành Trang Lưu Vân Thục Sơn" : "\"/item/final/60/2105\"",
+16354|<O>| if (present("Hạt Giống", who, 1, MAX_CARRY))
+16355|<O>| "Mũ Tấn Báo Cấm Vệ Quân" : "\"/item/final/65/3085\"",
+16356|<O>| "Mũ Long Cốt Cấm Vệ Quân" : "\"/item/final/65/3119\"",
+16357|<O>| "Giày Ánh Nhật Côn Lôn Sơn" : "\"/item/final/88/6115\"",
+16358|<O>| send_user(who,"%c%s",'!',"Phí tranh cử của bạn không đủ!");
+16359|<O>| "Vòng Cổ Viêm Dương Mao Sơn" : "\"/item/final/86/5050\"",
+16360|<O>| ESC "Hiển thị vị trí GM còn lại\n" + "findgm list\n" +
+16361|<O>| "Kim Ti Giáp Cấm Vệ Quân" : "\"/item/final/60/3065\"",
+16362|<O>| "Giày Sa Trường Cấm Vệ Quân" : "\"/item/final/88/3020\"",
+16363|<O>| "Thần Vũ Hài Đào Hoa Nguyên" : "\"/item/final/88/1085\"",
+16364|<O>| switch (me->get_level())    // Thiết lập loại người chơi
+16365|<O>| "Nón Tử Vân Đường Môn" : "\"/item/final/65/4110\"",
+16366|<O>| "Vòng Cổ Hằng Kim Đường Môn" : "\"/item/final/86/4095\"",
+16367|<O>| return "Loại đá ẩn chứa sức mạnh to lớn, là nguyên liệu cần thiết cho kỹ năng sinh hoạt Thợ Rèn, Cơ Quan";
+16368|<O>| string get_name() { return "Thanh Khê（1）"; }
+16369|<O>| static mapping GameList = ([]);	//Bảng lịch thi đấu
+16370|<O>| "Chiến Hài Tinh Thần Đường Môn" : "\"/item/final/88/4120\"",
+16371|<O>| "Quan Long Cốt Vân Mộng Trạch" : "\"/item/final/65/7119\"",
+16372|<O>| "Vòng Cổ Định Hồn Thục Sơn" : "\"/item/final/86/2030\"",
+16373|<O>| result += ESC HIY"Đóng băng thời gian kinh nghiệm nhân đôi\n" + cmd8;
+16374|<O>| send_user(me, "%c%s", '!', "Tham số sai!");
+16375|<O>| ESC "Khởi tạo bản đồ hoạt động\n" + "gmfight reset\n" +
+16376|<O>| "Vòng Cổ Thần Ngục Thục Sơn" : "\"/item/final/86/2075\"",
+16377|<O>| "Giày Khâm Thiên Côn Lôn Sơn" : "\"/item/final/88/6120\"",
+16378|<O>| name2 != "Vân Mộng Trạch" ? HIR	: NOR );  break;
+16379|<O>| send_user(who, "%c%s", '!', "Hoạt động đã mở!");
+16380|<O>| "Khăn Đầu Kỳ Long Thục Sơn" : "\"/item/final/65/2090\"",
+16381|<O>| case 8: name = "Giáo dục";  p /= 5;  break;
+16382|<O>| "Hành Trang Hàn Tinh Đường Môn" : "\"/item/final/60/4080\"",
+16383|<O>| "Hành Trang Thanh Liễu Thục Sơn" : "\"/item/final/60/2020\"",
+16384|<O>| "Phá Địch Giáp Cấm Vệ Quân" : "\"/item/final/60/3040\"",
+16385|<O>| string get_name() { return "Thanh Khê（3）"; }
+16386|<O>| log_file(LIST_LOG, "<!-- Trà -->\n\n");

@@ -1,84 +1,84 @@
-﻿15878|<O>| desc = "khẩu cảm hương hoạtcủaMột loạinhiệt ĐáiThủyQuả，20giây phục hồi cho người chơi800điểm Khí Huyết。";
-15879|<O>| "thí HồnHạng LiênCôn Lôn Sơn" : "\"/item/final/86/6119\"",
-15880|<O>| send_user(me, "%c%s", '!', "điểmthẻ thủ HồiThất bại！");
-15881|<O>| "LongHồnHạng LiênCấm Vệ Quân" : "\"/item/final/86/3105\"",
-15882|<O>| "định HồnHạng LiênĐào Hoa Nguyên" : "\"/item/final/86/1030\"",
-15883|<O>| send_user(me, "%c%s", '!', "tọa tiêu thâu Nhập sai ngộ！");
-15884|<O>| "ThủyvănHạng LiênĐào Hoa Nguyên" : "\"/item/final/86/1045\"",
-15885|<O>| add_pp(-1 * get_pp() * 20 / 100);	//Pháp phòng
-15886|<O>| "dương giácĐầu KhôiĐào Hoa Nguyên" : "\"/item/final/65/1055\"",
-15887|<O>| log_file(LIST_LOG, "<!-- nhỏCật -->\n\n");
-15888|<O>| + sprintf(ESC HIY"Bắt đầuKiểm tra\nparty 5001\n")
-15889|<O>| "LongCốt Chiến HiaĐào Hoa Nguyên" : "\"/item/final/88/1119\"",
-15890|<O>| "Hộ MệnhHạng LiênCôn Lôn Sơn" : "\"/item/final/86/6025\"",
-15891|<O>| ESC "thiết trí thưởng Phẩmloạiloại\n" + "findgm setbonus\n" +
-15892|<O>| case 10: return BattleXY[0];    // thực tuyến１
-15893|<O>| for (i = 1;i < 4;i++)		//tinh Thạch9khỏa 1,2,3cấpcác3
-15894|<O>| send_user(me, "%c%s", '!', "trướng hiệu dư ngạchkhôngtúc！");
-15895|<O>| string get_name() { return "Địa Ngục Ma Quật4tầng"; }
-15896|<O>| send_user(who, "%c%s", '!', "Thủymị 1/1");
-15897|<O>| send_user(who, "%c%s", '!', "bạnkhông cóbang phái！");
-15898|<O>| "Kỳ LânThánhY vôMôn phái" : "\"/item/final/60/8106\"",
-15899|<O>| send_user(me, "%c%s", '!', "điểmthẻđãgiao dịch！");
-15900|<O>| "định HồnHạng LiênCôn Lôn Sơn" : "\"/item/final/86/6030\"",
-15901|<O>| "Chân VũHạng LiênĐào Hoa Nguyên" : "\"/item/final/86/1080\"",
-15902|<O>| case "nhuyễn Giáp": type = "F_RUANJIA";  break;
-15903|<O>| private string cTitleCode;			//thiết trícủaxưng vị đại mã
-15904|<O>| default: return BattleXY[3];    // thực tuyến２
-15905|<O>| send_user(who, "%c%s", '!', "Ngô tư 1/1");
-15906|<O>| #define THIS_SKILL      670				// Kỹ năngDanh tự
-15907|<O>| ESC"NhấtchỉLam cầu đổi hoán10khỏa hoạt lạc hoàn\ntalk %x# bonus.10\n"
-15908|<O>| "triều tịch Pháp BàoCôn Lôn Sơn" : "\"/item/final/60/6105\"",
-15909|<O>| printf( ECHO "bạncònkhông Họcsẽ“" PF_NAME "”。" );
-15910|<O>| return "［" PF_NAME "］\nSuy mởkhácNgười chơicủathi Thể。\n";
-15911|<O>| "Tỏa Liên Hành trangThục Sơn" : "\"/item/final/60/2055\"",
+﻿15878|<O>| desc = "Loại trái cây nhiệt đới thơm ngon, trong 20 giây hồi phục 800 điểm khí huyết cho người chơi.";
+15879|<O>| "Vòng Cổ Thí Hồn Côn Lôn Sơn" : "\"/item/final/86/6119\"",
+15880|<O>| send_user(me, "%c%s", '!', "Lấy lại thẻ điểm thất bại!");
+15881|<O>| "Vòng Cổ Long Hồn Cấm Vệ Quân" : "\"/item/final/86/3105\"",
+15882|<O>| "Vòng Cổ Định Hồn Đào Hoa Nguyên" : "\"/item/final/86/1030\"",
+15883|<O>| send_user(me, "%c%s", '!', "Tọa độ nhập sai!");
+15884|<O>| "Vòng Cổ Thủy Văn Đào Hoa Nguyên" : "\"/item/final/86/1045\"",
+15885|<O>| add_pp(-1 * get_pp() * 20 / 100);	//Phòng pháp thuật
+15886|<O>| "Mũ Sừng Dê Đào Hoa Nguyên" : "\"/item/final/65/1055\"",
+15887|<O>| log_file(LIST_LOG, "<!-- Ăn Vặt -->\n\n");
+15888|<O>| + sprintf(ESC HIY"Bắt đầu kiểm tra\nparty 5001\n")
+15889|<O>| "Chiến Hài Long Cốt Đào Hoa Nguyên" : "\"/item/final/88/1119\"",
+15890|<O>| "Vòng Cổ Hộ Mệnh Côn Lôn Sơn" : "\"/item/final/86/6025\"",
+15891|<O>| ESC "Thiết lập loại giải thưởng\n" + "findgm setbonus\n" +
+15892|<O>| case 10: return BattleXY[0];    // Đường kẻ liền 1
+15893|<O>| for (i = 1;i < 4;i++)		//Tinh thạch 9 viên, cấp 1,2,3 mỗi cấp 3 viên
+15894|<O>| send_user(me, "%c%s", '!', "Số dư tài khoản không đủ!");
+15895|<O>| string get_name() { return "Địa Ngục Ma Quật Tầng 4"; }
+15896|<O>| send_user(who, "%c%s", '!', "Thủy Mị 1/1");
+15897|<O>| send_user(who, "%c%s", '!', "Bạn không có bang phái!");
+15898|<O>| "Thánh Y Kỳ Lân Vô Môn Phái" : "\"/item/final/60/8106\"",
+15899|<O>| send_user(me, "%c%s", '!', "Thẻ điểm đã giao dịch!");
+15900|<O>| "Vòng Cổ Định Hồn Côn Lôn Sơn" : "\"/item/final/86/6030\"",
+15901|<O>| "Vòng Cổ Chân Vũ Đào Hoa Nguyên" : "\"/item/final/86/1080\"",
+15902|<O>| case "Nhuyễn Giáp": type = "F_RUANJIA";  break;
+15903|<O>| private string cTitleCode;			//Mã danh hiệu đã thiết lập
+15904|<O>| default: return BattleXY[3];    // Đường kẻ liền 2
+15905|<O>| send_user(who, "%c%s", '!', "Ngô Tư 1/1");
+15906|<O>| #define THIS_SKILL      670				// Tên kỹ năng
+15907|<O>| ESC"1 quả cầu xanh đổi 10 viên Hoạt Lạc Hoàn\ntalk %x# bonus.10\n"
+15908|<O>| "Pháp Bào Triều Tịch Côn Lôn Sơn" : "\"/item/final/60/6105\"",
+15909|<O>| printf( ECHO "Bạn chưa học \"" PF_NAME "\"." );
+15910|<O>| return "［" PF_NAME "］\nĐẩy thi thể của người chơi khác.\n";
+15911|<O>| "Hành Trang Xích Liên Thục Sơn" : "\"/item/final/60/2055\"",
 15912|<O>| name2 != "Cấm Vệ Quân" ? HIR	: NOR );  break;
 15913|<O>| log_file(LIST_LOG, "<!-- Hoa -->\n\n");
-15914|<O>| desc = "lạt vị Thập túc，Hồi vị vô cùng,14giây phục hồi cho người chơi2170điểm Khí Huyết。";
-15915|<O>| "hiên viên đầu CânThục Sơn" : "\"/item/final/65/2110\"",
-15916|<O>| desc = "dùng Du tiên chế mà thànhcủaDiện bính，20giây phục hồi cho người chơi1700điểm Khí Huyết。";
-15917|<O>| "vô CựcdàiBàoMao Sơn" : "\"/item/final/60/5075\"",
-15918|<O>| "khâmngàyHiaVân Mộng Trạch" : "\"/item/final/88/7120\"",
-15919|<O>| "truyPhonglý vôMôn phái" : "\"/item/final/88/8046\"",
-15920|<O>| "bíchLongHành trangThục Sơn" : "\"/item/final/60/2030\"",
-15921|<O>| "Huyền Vân khôiĐào Hoa Nguyên" : "\"/item/final/65/1080\"",
-15922|<O>| "Hàn Tinh đầu CânĐường Môn" : "\"/item/final/65/4080\"",
-15923|<O>| "nhiếp Hồn Hành trangĐường Môn" : "\"/item/final/60/4100\"",
-15924|<O>| else if (rate < 98000)	//sử Mệnhgiữamục tiêucủamấy suất Đềcao2%
-15925|<O>| notify("Bạnkhông thểmất khí%s。", item->get_name());
-15926|<O>| "ma bố BàoVân Mộng Trạch" : "\"/item/final/60/7035\"",
-15927|<O>| ESC"lĩnh thủLongquyểnPhongtrừu thưởng thưởng Phẩm\ntalk %x# bonus.1020\n"
-15928|<O>| "Chân Vũ Đấu bồngĐường Môn" : "\"/item/final/60/4115\"",
+15914|<O>| desc = "Vị cay đậm đà, dư vị vô tận, trong 14 giây hồi phục 2170 điểm khí huyết cho người chơi.";
+15915|<O>| "Khăn Đầu Hiên Viên Thục Sơn" : "\"/item/final/65/2110\"",
+15916|<O>| desc = "Bánh mì chiên bằng dầu, trong 20 giây hồi phục 1700 điểm khí huyết cho người chơi.";
+15917|<O>| "Trường Bào Vô Cực Mao Sơn" : "\"/item/final/60/5075\"",
+15918|<O>| "Giày Khâm Thiên Vân Mộng Trạch" : "\"/item/final/88/7120\"",
+15919|<O>| "Truy Phong Lý Vô Môn Phái" : "\"/item/final/88/8046\"",
+15920|<O>| "Hành Trang Bích Long Thục Sơn" : "\"/item/final/60/2030\"",
+15921|<O>| "Huyền Vân Khôi Đào Hoa Nguyên" : "\"/item/final/65/1080\"",
+15922|<O>| "Khăn Đầu Hàn Tinh Đường Môn" : "\"/item/final/65/4080\"",
+15923|<O>| "Hành Trang Nhiếp Hồn Đường Môn" : "\"/item/final/60/4100\"",
+15924|<O>| else if (rate < 98000)	//Tăng xác suất trúng mục tiêu 2%
+15925|<O>| notify("Bạn không thể vứt bỏ %s.", item->get_name());
+15926|<O>| "Ma Bố Bào Vân Mộng Trạch" : "\"/item/final/60/7035\"",
+15927|<O>| ESC"Nhận giải thưởng quay Lốc Xoáy\ntalk %x# bonus.1020\n"
+15928|<O>| "Đấu Bồng Chân Vũ Đường Môn" : "\"/item/final/60/4115\"",
 15929|<O>| case "Khải Giáp": type = "M_KAIJIA";  break;
-15930|<O>| "Cuồng Chiến GiápCấm Vệ Quân" : "\"/item/final/60/3030\"",
-15931|<O>| "Hộ MệnhHạng LiênMao Sơn" : "\"/item/final/86/5025\"",
-15932|<O>| "LongThầnlý vôMôn phái" : "\"/item/final/88/8117\"",
-15933|<O>| "ThủyvănHạng LiênThục Sơn" : "\"/item/final/86/2045\"",
-15934|<O>| notify(who->get_name() + "không cónàyyêunhiềuđồ vật。");
-15935|<O>| "ThủyvănHạng LiênĐường Môn" : "\"/item/final/86/4045\"",
-15936|<O>| "tế ma BàoCôn Lôn Sơn" : "\"/item/final/60/6020\"",
-15937|<O>| "thángQuangHạng LiênMao Sơn" : "\"/item/final/86/5040\"",
-15938|<O>| "YêuTinh đầu CânĐường Môn" : "\"/item/final/65/4085\"",
-15939|<O>| return "vị Đạo toan điềm，HàmThủylượng Phong phú，20giây phục hồi cho người chơi100điểm Khí Huyết。";
-15940|<O>| "ngàyThầnĐấu lạpĐường Môn" : "\"/item/final/65/4120\"",
-15941|<O>| "LongCốt Chiến HiaĐường Môn" : "\"/item/final/88/4119\"",
-15942|<O>| "phiên Vân đầu CânThục Sơn" : "\"/item/final/65/2080\"",
-15943|<O>| "ThanhLongHiaCôn Lôn Sơn" : "\"/item/final/88/6030\"",
-15944|<O>| "PhượngngàyChiến CânThục Sơn" : "\"/item/final/65/2120\"",
-15945|<O>| case "lớnThần": type = "MINISTER";  break;
-15946|<O>| return "［" PF_NAME "］\nsửđối vớiPhươngKhí Huyết、Pháp LựcTăng\n";
-15947|<O>| "ngàyToàn Đấu lạpĐường Môn" : "\"/item/final/65/4115\"",
-15948|<O>| alarm_clock_now = ({});			//	Thanh Khôngtất cảđươngtrướcbiến lượng
-15949|<O>| ESC "khí Mạch Đơn\n" + "findgm setbonus 6\n" +
-15950|<O>| //			+ sprintf(ESC"Bảo rươnghệ thống\nparty 20\n")
-15951|<O>| "thủ Hộ Hành trangĐường Môn" : "\"/item/final/60/4055\"",
-15952|<O>| notify("Bạn cự ly%sThái Viễn。", who->get_name());
-15953|<O>| map->set_war(WAR_READY);    // ký lục Chiến tranh chuẩn bị
-15954|<O>| "đạp Thanh Hành trangThục Sơn" : "\"/item/final/60/2060\"",
-15955|<O>| "HànSắtCơ Quancấukiện" : "\"/item/final/16/1639\"",
-15956|<O>| "Ti trù HiaĐào Hoa Nguyên" : "\"/item/final/88/1030\"",
-15957|<O>| "CuồngLongHành trangThục Sơn" : "\"/item/final/60/2070\"",
-15958|<O>| "hư MinhHạng LiênThục Sơn" : "\"/item/final/86/2120\"",
-15959|<O>| "PhiLongQuanCôn Lôn Sơn" : "\"/item/final/65/6090\"",
-15960|<O>| "lục Thanh HiaĐào Hoa Nguyên" : "\"/item/final/88/1040\"",
+15930|<O>| "Cuồng Chiến Giáp Cấm Vệ Quân" : "\"/item/final/60/3030\"",
+15931|<O>| "Vòng Cổ Hộ Mệnh Mao Sơn" : "\"/item/final/86/5025\"",
+15932|<O>| "Long Thần Lý Vô Môn Phái" : "\"/item/final/88/8117\"",
+15933|<O>| "Vòng Cổ Thủy Văn Thục Sơn" : "\"/item/final/86/2045\"",
+15934|<O>| notify(who->get_name() + " không có nhiều đồ vậy.");
+15935|<O>| "Vòng Cổ Thủy Văn Đường Môn" : "\"/item/final/86/4045\"",
+15936|<O>| "Tế Ma Bào Côn Lôn Sơn" : "\"/item/final/60/6020\"",
+15937|<O>| "Vòng Cổ Nguyệt Quang Mao Sơn" : "\"/item/final/86/5040\"",
+15938|<O>| "Khăn Đầu Yêu Tinh Đường Môn" : "\"/item/final/65/4085\"",
+15939|<O>| return "Vị chua ngọt, giàu nước, trong 20 giây hồi phục 100 điểm khí huyết cho người chơi.";
+15940|<O>| "Nón Trời Thần Đường Môn" : "\"/item/final/65/4120\"",
+15941|<O>| "Chiến Hài Long Cốt Đường Môn" : "\"/item/final/88/4119\"",
+15942|<O>| "Khăn Đầu Phiên Vân Thục Sơn" : "\"/item/final/65/2080\"",
+15943|<O>| "Giày Thanh Long Côn Lôn Sơn" : "\"/item/final/88/6030\"",
+15944|<O>| "Chiến Khăn Phụng Thiên Thục Sơn" : "\"/item/final/65/2120\"",
+15945|<O>| case "Đại Thần": type = "MINISTER";  break;
+15946|<O>| return "［" PF_NAME "］\nLàm cho khí huyết, pháp lực đối phương tăng\n";
+15947|<O>| "Nón Thiên Toàn Đường Môn" : "\"/item/final/65/4115\"",
+15948|<O>| alarm_clock_now = ({});			//	Xóa tất cả biến hiện tại
+15949|<O>| ESC "Khí Mạch Đan\n" + "findgm setbonus 6\n" +
+15950|<O>| //			+ sprintf(ESC"Hệ thống rương bảo\nparty 20\n")
+15951|<O>| "Hành Trang Thủ Hộ Đường Môn" : "\"/item/final/60/4055\"",
+15952|<O>| notify("Bạn cách %s quá xa.", who->get_name());
+15953|<O>| map->set_war(WAR_READY);    // Ghi nhận chuẩn bị chiến tranh
+15954|<O>| "Hành Trang Đạp Thanh Thục Sơn" : "\"/item/final/60/2060\"",
+15955|<O>| "Cấu Kiện Cơ Quan Hàn Thiết" : "\"/item/final/16/1639\"",
+15956|<O>| "Giày Tơ Lụa Đào Hoa Nguyên" : "\"/item/final/88/1030\"",
+15957|<O>| "Hành Trang Cuồng Long Thục Sơn" : "\"/item/final/60/2070\"",
+15958|<O>| "Vòng Cổ Hư Minh Thục Sơn" : "\"/item/final/86/2120\"",
+15959|<O>| "Quan Phi Long Côn Lôn Sơn" : "\"/item/final/65/6090\"",
+15960|<O>| "Giày Lục Thanh Đào Hoa Nguyên" : "\"/item/final/88/1040\"",
 15961|<O>| name2 != "Côn Lôn Sơn" ? HIR	: NOR );  break;

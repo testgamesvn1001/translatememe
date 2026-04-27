@@ -1,76 +1,76 @@
-﻿13877|<O>| who->set_save_2("chain.status", 99);	//Nhiệm vụHoàn thành
-13878|<O>| return "［" PF_NAME "］đơn Thể Viễn trìnhTấn công，lạilầnSử dụngnhu gian cách 1 giây\n";
-13879|<O>| USER_D->user_channel("đào Bảo tổng Động viênhoạt độnghiệnTạichính thứcBắt đầu，Xin các vịNgười chơiđi"
-13880|<O>| send_user(me, "%c%s", '!', "BạnkhôngLànông Phu，khônghiểu được bổ Ngư。");
-13881|<O>| who->set("pf.double", level);    // cẩn thận chuẩn bị me
-13882|<O>| ESC "tôihi vọng Giải Giới Diện Thao táccủaTương quan tri Thức。\ntalk %x# welcome.1\n"
-13883|<O>| send_user(who, "%c%s", '!', "Bạn nhận được"HIY"Chú Kiếm Thạch");
-13884|<O>| send_user(who, "%c%s", '!', "Bạnkhông cólĩnhThương NhândùngcủaTiền Phiếu。");
-13885|<O>| printf(ECHO "Sử dụng“" PF_NAME "”Vũ khínại cửu độ đượccaovu 10。");
-13886|<O>| private static int iWiner;		// 0 phòng thủ Phương Thắng 1 Công Phương Thắng
-13887|<O>| send_user(who, "%c%s", '!', "tế Thế hồ lôkhông thểtrọng phục lĩnh thủ！");
-13888|<O>| //		send_user(me,"%c%s",'!',"đối vớiPhươngkhôngLàbạncủađội ngũ thành viên！");
-13889|<O>| else if (rand < 9580)//Ngẫu nhiênLam Sắc Tinh Nguyên Đơn item/44/4488
+﻿13877|<O>| who->set_save_2("chain.status", 99);	//Nhiệm vụ hoàn thành
+13878|<O>| return "［" PF_NAME "］Tấn công đơn thể tầm xa, sử dụng lại cần cách 1 giây\n";
+13879|<O>| USER_D->user_channel("Hoạt động Đào Bảo Tổng Động Viên chính thức bắt đầu, mời các người chơi đến"
+13880|<O>| send_user(me, "%c%s", '!', "Bạn không phải nông dân, không biết bắt cá.");
+13881|<O>| who->set("pf.double", level);    // Cẩn thận chuẩn bị me
+13882|<O>| ESC "Tôi muốn tìm hiểu kiến thức về thao tác giao diện.\ntalk %x# welcome.1\n"
+13883|<O>| send_user(who, "%c%s", '!', "Bạn nhận được "HIY"Đá Đúc Kiếm");
+13884|<O>| send_user(who, "%c%s", '!', "Bạn chưa nhận phiếu tiền dành cho thương nhân.");
+13885|<O>| printf(ECHO "Sử dụng \"" PF_NAME "\" độ bền vũ khí phải trên 10.");
+13886|<O>| private static int iWiner;		// 0 Bên thủ thắng, 1 Bên công thắng
+13887|<O>| send_user(who, "%c%s", '!', "Tế Thế Hồ Lô không thể nhận lại！");
+13888|<O>| //		send_user(me,"%c%s",'!',"Đối phương không phải thành viên đội của bạn！");
+13889|<O>| else if (rand < 9580)//Tinh Nguyên Đan xanh ngẫu nhiên item/44/4488
 13890|<O>| case "Cấm Vệ Quân": if (get_weapon_code() == SPEAR)
-13891|<O>| send_user(player, "%c%s", '!', "Bạn Thântrênkhông cóKhông vị！");
-13892|<O>| + sprintf(ESC"MởQuốc khánh tiếthoạt độngChi——Tây qua bá bá\nparty 146\n")
-13893|<O>| SAY_CMD->say(me, "thính nói Đảtôicó thểhoạch đượcKinh nghiệm？Giảcủa！tôithế nàoyêukhông biết？");
-13894|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận được"HIY"chứng cứ");
-13895|<O>| "đểtối viêncủaMinhthángbồi bạnbạnvàtôi，đểMinhthángTruyền đạttôicủaTâm nguyệnvàChúc Phúc。Chúc，giữathunhanhlạc，thángviên Nhân viên sự sự viên。",
-13896|<O>| npc->set_ap(npc->get_ap() * 7 / 10);//Gia Nhập trường cảnh。
-13897|<O>| send_user(me, "%c%s", '!', "đối vớiPhươngkhôngLàBạncủađội hữu hoặc Bang hữu。");
-13898|<O>| *   1. sys/user/move.c - Người chơiDi Độnggiờ scan phụ cận NPCs
-13899|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận được"HIY"mặc khối");
-13900|<O>| send_user(who, "%c%s", '!', "bạnkhông thểhuề Đái càngnhiềucủasủng vật。");
-13901|<O>| send_user(me, "%c%s", '!', "Bạn được TướngloạiTửloạithựcđếnđiền Địatrong。");
-13902|<O>| DEBUG(sprintf("Kiểm tra-->ĐồngIDkhôngĐồngTiền vàngvị trípos=%d",pos));
-13903|<O>| send_user(who, "%c%s", '!', "bạnhuề ĐáicủaVật phẩm nhiệm vụTháinhiều");
-13904|<O>| return "lạihươnglạiđiềmcủalớnTây qua，\nTuy nhiêncó thểkhôngchuẩn Cật ồ，\nnàyLàTây qua bá bá tân khổloạithựccủa。";
-13905|<O>| "Phù Chỉ" : "\"/item/std/0401\"",    // DĩdướibộphútThủ công thâu Nhập
-13906|<O>| //object* nObjs= ({});//LưuNgười chơicủaTín tức Dĩ tiện phỏng hỏiXóathỏ Tửcủasố lượng。
-13907|<O>| send_user(who, "%c%s", '!', "Thành Môn khẩutốtTượng TháinhiềuNhân……");
-13908|<O>| send_user(me, "%c%s", '!', "BạnkhôngLànghệ Nhân，khônghiểu được xướng ca。");
-13909|<O>| send_user(who, "%c%s", '!', HIY"oánQuỷChi Linh 1/1");
-13910|<O>| else    write_user(me, ECHO "Bạn vô Pháp thâu thiếtnàydạngđồ vật……");
-13911|<O>| //	Chỉ địnhgiờgian chỉnh sốcủaGia Thao tác -- bịGia sốNếuSiêu Xuất Bản Tinh kỳcủaPhạm vi Tắc Luân tìmđếndướiNhất Tinh kỳcủagiờgian Trị
-13912|<O>| send_user(who, "%c%s", '!', "hiệnTạiđãCótúc đủ Nhân tuyển。");
-13913|<O>| private static int iStrongCount;	// Cường hóaKỹ năngcủasố lượng
-13914|<O>| send_user(who, "%c%s", '!', "ThànhtrongcủaTrang bịđãtúc đủ。");
-13915|<O>| send_user(who, "%c%s", '!', "Bạn vô Pháp đạn hạchnàyvị phó Thành chủ。");
-13916|<O>| && item->get_talisman_type() == 4    // Linh tê hoàn
-13917|<O>| ap += add_ap;  ap0 += add_ap;    // đặc thù kỹ phụ GiaTấn công
+13891|<O>| send_user(player, "%c%s", '!', "Bạn không còn ô trống！");
+13892|<O>| + sprintf(ESC"Mở hoạt động Quốc Khánh——Bác Dưa Hấu\nparty 146\n")
+13893|<O>| SAY_CMD->say(me, "Nghe nói đánh ta có thể nhận kinh nghiệm? Giả chứ! Sao ta không biết?");
+13894|<O>| send_user(who, "%c%s", '!', "Bạn nhận được "HIY"Chứng Cứ");
+13895|<O>| "Hãy để vầng trăng tròn nhất đồng hành cùng bạn và tôi, để ánh trăng truyền đạt tâm nguyện và lời chúc của tôi. Chúc Tết Trung Thu vui vẻ, trăng tròn người tròn mọi việc tròn.",
+13896|<O>| npc->set_ap(npc->get_ap() * 7 / 10);//Gia nhập cảnh.
+13897|<O>| send_user(me, "%c%s", '!', "Đối phương không phải đồng đội hoặc đồng bang của bạn.");
+13898|<O>| *   1. sys/user/move.c - Khi người chơi di chuyển, scan NPCs xung quanh
+13899|<O>| send_user(who, "%c%s", '!', "Bạn nhận được "HIY"Thanh Mực");
+13900|<O>| send_user(who, "%c%s", '!', "Bạn không thể mang thêm thú cưng nữa.");
+13901|<O>| send_user(me, "%c%s", '!', "Bạn phải gieo hạt giống xuống ruộng.");
+13902|<O>| DEBUG(sprintf("Test-->Cùng ID khác vị trí tiền pos=%d",pos));
+13903|<O>| send_user(who, "%c%s", '!', "Bạn mang theo quá nhiều vật phẩm nhiệm vụ");
+13904|<O>| return "Quả dưa hấu to ngọt lịm，\nnhưng không được ăn nhé，\nđây là công sức trồng trọt vất vả của Bác Dưa Hấu.";
+13905|<O>| "Bùa Giấy" : "\"/item/std/0401\"",    // Phần dưới nhập thủ công
+13906|<O>| //object* nObjs= ({});//Lưu thông tin người chơi để truy cập xóa số lượng thỏ.
+13907|<O>| send_user(who, "%c%s", '!', "Cổng thành hình như quá đông người rồi……");
+13908|<O>| send_user(me, "%c%s", '!', "Bạn không phải nghệ nhân, không biết hát.");
+13909|<O>| send_user(who, "%c%s", '!', HIY"Oán Hồn Chi Linh 1/1");
+13910|<O>| else    write_user(me, ECHO "Bạn không thể ăn trộm thứ này……");
+13911|<O>| //	Phép cộng số nguyên thời gian chỉ định -- Nếu kết quả vượt phạm vi tuần thì chuyển sang tuần tiếp theo
+13912|<O>| send_user(who, "%c%s", '!', "Hiện tại đã có đủ người rồi.");
+13913|<O>| private static int iStrongCount;	// Số lượng kỹ năng cường hóa
+13914|<O>| send_user(who, "%c%s", '!', "Trang bị trong thành đã đầy đủ rồi.");
+13915|<O>| send_user(who, "%c%s", '!', "Bạn không thể đàn hặc vị phó thành chủ này.");
+13916|<O>| && item->get_talisman_type() == 4    // Linh Tê Hoàn
+13917|<O>| ap += add_ap;  ap0 += add_ap;    // Đặc kỹ cộng thêm tấn công
 13918|<O>| &&    ( npc = find_char(id) ) )    // 30 phút
-13919|<O>| send_user(player,"%c%s",'!',"bạnkhông thểvớibản thânphát tống Chúc Phúc！");
-13920|<O>| private int rand_say_time = 0;			//	Ngẫu nhiênnói thoạicủagiờgian
-13921|<O>| item = present("Gia thư", me, 1, MAX_CARRY * 4);
-13922|<O>| cmd = "ha ha ha ha～～Nhân～Có～bi～hoan～ly～Hợp，tháng～Có～Âm～tình～tàn～thiếu。ha ha～。";
-13923|<O>| ESC"5lầnNhiệm vụđổi hoán“ThanhĐồngThánhĐấu Sĩ”xưng hiệu\ntalk %x# bonus.1005\n"
-13924|<O>| case 2 :	result += sprintf( "Môn phái thích hợp: %sThục Sơn\n",
-13925|<O>| return "Tăngchủ Nhân5%Vật phòng、5%Pháp phòng、5%Khí Huyết、5%Bạo kích、5%Vật Công、5%Pháp Công";
-13926|<O>| cTmp = sprintf("BạncònCó%dVàngcủabồi thường vị lĩnh thủ。", iRemMoney);
-13927|<O>| send_user(who, "%c%s", '!', "Đái Vật phẩm quý giákhông thểlữ Hành。");
-13928|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận được"HIY"thải Y");
+13919|<O>| send_user(player,"%c%s",'!',"Bạn không thể gửi lời chúc cho chính mình!");
+13920|<O>| private int rand_say_time = 0;			//	Thời gian nói ngẫu nhiên
+13921|<O>| item = present("Gia Thư", me, 1, MAX_CARRY * 4);
+13922|<O>| cmd = "Hahaha～～con～người～có～vui～buồn～ly～hợp，trăng～có～âm～tình～tròn～khuyết. Haha～.";
+13923|<O>| ESC"Đổi danh hiệu 'Thanh Đồng Thánh Đấu Sĩ' sau 5 nhiệm vụ\ntalk %x# bonus.1005\n"
+13924|<O>| case 2 :	result += sprintf( "Môn phái áp dụng: %sThục Sơn\n",
+13925|<O>| return "Tăng cho chủ nhân 5% phòng thủ vật lý, 5% phòng thủ pháp thuật, 5% khí huyết, 5% bạo kích, 5% vật công, 5% pháp công";
+13926|<O>| cTmp = sprintf("Bạn còn %d vàng bồi thường chưa nhận.", iRemMoney);
+13927|<O>| send_user(who, "%c%s", '!', "Mang theo vật phẩm quý giá không thể du lịch.");
+13928|<O>| send_user(who, "%c%s", '!', "Bạn nhận được "HIY"Áo Sặc Sỡ");
 13929|<O>| z = COPY_CTROL->new_scene(d,FILE_MAP,"Cổ Mộ");
-13930|<O>| notify("hoạt độngbản đồ" + sprintf("%d", z) + "khôngtồnTại！");
-13931|<O>| cp += add_cp;  cp0 += add_cp;    // đặc thù kỹ phụ GiaTấn công
-13932|<O>| result = sprintf("%sđãGia qua Tỏa，bạncầnlạilầndiêndàiGia Tỏagiờgian ？\n"
-13933|<O>| send_user(me, "%c%s", '!', "Đái Tiền PhiếuKhông thể sử dụngThổHành Châu。");
-13934|<O>| send_user(me, "%c%s", '!', "tuyếntrênĐả Bảohoạt độngchínhTạichuẩn bịgiữa！");
-13935|<O>| send_user(me, "%c%s", '!', "Xuân tiếthoạt độngán dự địnhgiờgianMở!");
-13936|<O>| private static int NewAttackSpeed;	//mớicủaTấn côngtốc độ
-13937|<O>| case 2: result = "nóchi Diệp khô Hoàng，tự hồCóđiểmdoanh dưỡngkhônglương。";  break;
-13938|<O>| give_item(who, "/item/sell/0021", 1);	//tàiThầnPhù
-13939|<O>| send_user(who, "%c%s", '!', "BạncòncầnNhất Vật Phẩm Không gian。");
-13940|<O>| return "［" PF_NAME "］\ntruy tra Sư gia tiễu phỉNhiệm vụcủamục tiêuhãn phỉ Phương vị。\n";
-13941|<O>| *   4. sys/npc/heart.c - hiệnCó heart beat bảo trìkhôngbiến
-13942|<O>| send_user(who, "%c%s", '!', "cònCókhôngHoàn thànhcủangoàigiaoNhiệm vụ。");
-13943|<O>| //	if ( sum != total )	//nàyhiệu nghiệmkhôngtúc đủ，cầnthủ nguyên Tiêncủahiệu mãđối vớiso với。
-13944|<O>| //        set_name( sprintf("%dVàng", gold) );
-13945|<O>| send_user(me, "%c%s", '!', "BạnkhôngLàthư sinh，khônghiểu được chiếm Bốc。");
-13946|<O>| if (!(owner = item->get_owner())    // Cóphủ chủ Nhân
-13947|<O>| if (sizeof(monster) >= 100)    // Đồng trường cảnhkhông thểSiêu qua Báchchỉ
-13948|<O>| send_user(who, "%c%s", ':', "BạnXác nhậnSâm Gia Thành chủ cạnh tuyển ？\n"
-13949|<O>| send_user(me, "%c%s", ';', "phi kiện Khanggiờgiankhông thểtiến Hành dao thưởng！");
+13930|<O>| notify("Bản đồ hoạt động " + sprintf("%d", z) + " không tồn tại!");
+13931|<O>| cp += add_cp;  cp0 += add_cp;    // Đặc kỹ cộng thêm tấn công
+13932|<O>| result = sprintf("%s đã được khóa rồi, bạn có muốn gia hạn thời gian khóa không?\n"
+13933|<O>| send_user(me, "%c%s", '!', "Mang theo phiếu tiền không thể sử dụng Thổ Hành Châu.");
+13934|<O>| send_user(me, "%c%s", '!', "Hoạt động đánh bảo online đang chuẩn bị!");
+13935|<O>| send_user(me, "%c%s", '!', "Hoạt động Tết sẽ mở theo thời gian định sẵn!");
+13936|<O>| private static int NewAttackSpeed;	//Tốc độ tấn công mới
+13937|<O>| case 2: result = "Cành lá vàng úa, dường như hơi thiếu dinh dưỡng.";  break;
+13938|<O>| give_item(who, "/item/sell/0021", 1);	//Tài Thần Phù
+13939|<O>| send_user(who, "%c%s", '!', "Bạn cần thêm một ô đạo cụ trống.");
+13940|<O>| return "［" PF_NAME "］\nTruy tìm vị trí mục tiêu giặc cướp trong nhiệm vụ tiễu phỉ của Sư Gia.\n";
+13941|<O>| *   4. sys/npc/heart.c - Heart beat hiện tại giữ nguyên
+13942|<O>| send_user(who, "%c%s", '!', "Còn nhiệm vụ ngoại giao chưa hoàn thành.");
+13943|<O>| //	if ( sum != total )	//Kiểm tra này chưa đủ, cần so sánh với mã cũ.
+13944|<O>| //        set_name( sprintf("%d vàng", gold) );
+13945|<O>| send_user(me, "%c%s", '!', "Bạn không phải thư sinh, không biết bói toán.");
+13946|<O>| if (!(owner = item->get_owner())    // Có chủ nhân không
+13947|<O>| if (sizeof(monster) >= 100)    // Cùng cảnh không quá 100 con
+13948|<O>| send_user(who, "%c%s", ':', "Bạn xác nhận tham gia tranh cử thành chủ không?\n"
+13949|<O>| send_user(me, "%c%s", ';', "Thời gian không lành mạnh không thể quay số!");
 13950|<O>| string get_family_name() { return " Cấm Vệ Quân"; }
-13951|<O>| send_user(who, "%c%s", '!', "BạnkhôngLànông PhucầnloạiTử can ？");
+13951|<O>| send_user(who, "%c%s", '!', "Bạn không phải nông dân, lấy hạt giống làm gì?");
 13952|<O>| result += sprintf("Tên:%s(%d)%x# - %s %s\n",

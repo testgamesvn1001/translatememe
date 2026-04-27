@@ -1,82 +1,82 @@
-﻿15216|<O>| if(!iStart || !iFinish)//thiết tríhoạt độngBắt đầuvàKết thúcgiờgian vô hiệu。
-15217|<O>| if (present("Vật phẩm quý giá", who, 1, MAX_CARRY))
-15218|<O>| send_user(who, "%c%s", '!', "bạncủaBáchbướcTiên?");
-15219|<O>| send_user(me, "%c%s", '!', "Hoàng Thành thủ Vệ ChiếnMở!");
-15220|<O>| if ( give_yuebing(player,"thángbính",1) == 0 )
-15221|<O>| if (!name || name == "") name = "vô Danhbang phái";
-15222|<O>| send_user(who, "%c%s", '!', "dạ túcQuỷ 1/1");
-15223|<O>| reduce_item_amount(who, "Tây qua bá bácủaTây qua", 10);
+﻿15216|<O>| if(!iStart || !iFinish)//Thiết lập thời gian bắt đầu và kết thúc hoạt động không hợp lệ.
+15217|<O>| if (present("Vật Phẩm Quý Giá", who, 1, MAX_CARRY))
+15218|<O>| send_user(who, "%c%s", '!', "Bách Bộ Tiên của bạn đâu?");
+15219|<O>| send_user(me, "%c%s", '!', "Hoàng Thành Thủ Vệ Chiến đã mở!");
+15220|<O>| if ( give_yuebing(player,"Bánh Trung Thu",1) == 0 )
+15221|<O>| if (!name || name == "") name = "Bang Phái Vô Danh";
+15222|<O>| send_user(who, "%c%s", '!', "Dạ Túc Quỷ 1/1");
+15223|<O>| reduce_item_amount(who, "Dưa Hấu Của Bác Dưa Hấu", 10);
 15224|<O>| send_user(who, "%c%s", '!', "Chu Lão Tứ 1/1");
-15225|<O>| item = new ("/item/01/6100");    // Nữbố Y
-15226|<O>| desc = "xemđềulưu khẩuThủycủaHào Hoa Thực Phẩm，14giây phục hồi cho người chơi1330điểm Khí Huyết。";
-15227|<O>| + sprintf(ESC"thiết trí Tứ Sắc cầuhoạt độngKết thúcgiờgian\nparty 55\n")
-15228|<O>| return "VIPbao，Muasautức dữMuaNgười chơinhân vậtIDbảng định，kéo dàigiờgian31ngày。";
-15229|<O>| case 14: return BattleXY[15];    // hư tuyến２
-15230|<O>| send_user(who, "%c%s", '!', "nhận đượcNhất trữ bị rương");
-15231|<O>| send_user(who, "%c%s", '!', "LýlớnSơn 1/1");
-15232|<O>| return sprintf(PF_NAME ":\n　　vô Pháp Di Động。\n");
-15233|<O>| send_user(me, "%c%s", '!', "Hoàng Thành thủ Vệ ChiếnĐóng!");
-15234|<O>| printf(ECHO "Bạn đượcCóPhù ChỉTài NăngSử dụng“" PF_NAME "”。");
-15235|<O>| notify("Khi từ bỏ「" + file + "」trước tiên phải từ bỏ「ĐộcKinh」。");
-15236|<O>| "tôilăng lăngcủaxem giữathucủathánglượng，phỏngPhậtnóLàNhất Diện Minh Kính，bạntôiTạihỗ Tương chú thị miên miên Tư ÝvàChúc Phúc。",
-15237|<O>| file = path + dfile[i][0];    // thủ Tuyệtđối vớiLộ kính Danh
-15238|<O>| result += ESC "3điểmCông Đức hoán thủ1giờsong bộiKinh nghiệm\n" + cmd1;
-15239|<O>| //			item = new ("item/08/0831");//song Ngưsủng vật
-15240|<O>| send_user(me, "%c%s", '!', "không thểTruyền tốngđếnThànhtrong。");
-15241|<O>| send_user(who, "%c%s", '!', "bạncủaHỏaDiệm Thạch ?");
-15242|<O>| send_user(me, "%c%s", '!', "khấu phímáy chủphồn mang！");
-15243|<O>| notify("Khi từ bỏ「" + file + "」trước tiên phải từ bỏ「ThầnĐả」。");
-15244|<O>| printf( ECHO "Sử dụng“" PF_NAME "”củacông cụkhôngđối với。" );
-15245|<O>| npc->set_max_hp(INIT_HP);    // cẩn thận chuẩn bị me
-15246|<O>| &&     !who->get_enemy_5()    // cònkhông phản kíchđối tượng
+15225|<O>| item = new ("/item/01/6100");    // Bố y nữ
+15226|<O>| desc = "Món ăn sang trọng nhìn phát thèm, trong 14 giây hồi phục 1330 điểm khí huyết cho người chơi.";
+15227|<O>| + sprintf(ESC"Thiết lập thời gian kết thúc hoạt động Tứ Sắc Cầu\nparty 55\n")
+15228|<O>| return "Gói VIP, sau khi mua sẽ ràng buộc với ID nhân vật, thời hạn 31 ngày.";
+15229|<O>| case 14: return BattleXY[15];    // Đường kẻ đứt 2
+15230|<O>| send_user(who, "%c%s", '!', "Nhận được một rương dự trữ");
+15231|<O>| send_user(who, "%c%s", '!', "Lý Đại Sơn 1/1");
+15232|<O>| return sprintf(PF_NAME ":\n　　Không thể di chuyển.\n");
+15233|<O>| send_user(me, "%c%s", '!', "Hoàng Thành Thủ Vệ Chiến đã đóng!");
+15234|<O>| printf(ECHO "Bạn cần có Bùa Giấy mới dùng được \"" PF_NAME "\".");
+15235|<O>| notify("Trước khi bỏ「" + file + "」phải bỏ「Độc Kinh」trước.");
+15236|<O>| "Tôi ngẩn ngơ nhìn trăng Trung Thu, như thể nó là tấm gương, ta ngắm nhau trong tình thương nhớ và lời chúc phúc.",
+15237|<O>| file = path + dfile[i][0];    // Lấy đường dẫn tuyệt đối
+15238|<O>| result += ESC "3 điểm công đức đổi 1 giờ nhân đôi kinh nghiệm\n" + cmd1;
+15239|<O>| //			item = new ("item/08/0831");//Thú cưng Song Ngư
+15240|<O>| send_user(me, "%c%s", '!', "Không thể truyền tống vào thành.");
+15241|<O>| send_user(who, "%c%s", '!', "Hỏa Diệm Thạch của bạn đâu?");
+15242|<O>| send_user(me, "%c%s", '!', "Server trừ phí đang bận!");
+15243|<O>| notify("Trước khi bỏ「" + file + "」phải bỏ「Thần Đả」trước.");
+15244|<O>| printf( ECHO "Công cụ sử dụng \"" PF_NAME "\" không đúng." );
+15245|<O>| npc->set_max_hp(INIT_HP);    // Cẩn thận chuẩn bị me
+15246|<O>| &&     !who->get_enemy_5()    // Chưa có đối tượng phản kích
 15247|<O>| string get_city_name() { return "Tần Quốc"; }
-15248|<O>| dfile = get_dir(path, -1);    // hoạch thủtệp tinliệt biểu
-15249|<O>| desc = "dùng Sơn tra xuyến chế mà thànhcủaMột loạiThực Phẩm，20giây phục hồi cho người chơi250điểm Khí Huyết。";
-15250|<O>| send_user(me, "%c%s", '!', "Bạn cương ngộđếnMông Diện Nhân。");
-15251|<O>| "Tỏa Liên Hộ Tâm GiápĐào Hoa Nguyên" : "\"/item/final/60/1045\"",
-15252|<O>| add_dp(get_dp() * 300 / 100);    //Vật lýPhòng thủ
-15253|<O>| private static int iLevel1;		// Chiến trường tổng quảncủaCấp độ
-15254|<O>| set_heart_loop(me, 300);    // Vòng lặp nhịp tim:30giây
-15255|<O>| notify(obj[i]->get_name() + "không thểchodư biệt Nhân。");
-15256|<O>| item = new("item/final/91/1811");	//xả Lợi Tử
+15248|<O>| dfile = get_dir(path, -1);    // Lấy danh sách file
+15249|<O>| desc = "Kẹo hồ lô làm từ sơn tra, trong 20 giây hồi phục 250 điểm khí huyết cho người chơi.";
+15250|<O>| send_user(me, "%c%s", '!', "Bạn vừa gặp kẻ bịt mặt.");
+15251|<O>| "Giáp Hộ Tâm Xích Đào Hoa Nguyên" : "\"/item/final/60/1045\"",
+15252|<O>| add_dp(get_dp() * 300 / 100);    //Phòng thủ vật lý
+15253|<O>| private static int iLevel1;		// Cấp độ tổng quản chiến trường
+15254|<O>| set_heart_loop(me, 300);    // Nhịp tim tuần hoàn: 30 giây
+15255|<O>| notify(obj[i]->get_name() + " không thể tặng cho người khác.");
+15256|<O>| item = new("item/final/91/1811");	//Xá Lợi Tử
 15257|<O>| string get_fam_name() { return "Đào Hoa Nguyên"; }
-15258|<O>| "mớiThủ đặc pháiTruyền tốngviên", "đương phố Lão bản", "Môn pháihướngđạo", "Lão thôndài", "thủ Vệ",
+15258|<O>| "Nhân Viên Truyền Tống Tân Thủ", "Ông Chủ Tiệm Cầm Đồ", "Hướng Dẫn Môn Phái", "Trưởng Thôn", "Vệ Binh",
 15259|<O>| string get_city_name() { return "Hàn Quốc"; }
-15260|<O>| private int iHide = 1;			// 1 vị giám định 0 đã giám định
-15261|<O>| send_user(who,"%c%s",'!',"bạnkhông cóCơ QuanThạch Môn chìa thì！");
-15262|<O>| ESC "thiết tríGMXuất hiệncủabản đồ\n" + "findgm setmap\n" +
-15263|<O>| return "ThổTinh Tinh Linh TửsaucủaHồn phách Tinh Hoa，Thạch Khắc、Tài Phùng、Thiết Tượngsinh hoạtKỹ năngcầncủatài liệu";
-15264|<O>| add_pp(-1 * get_pp() * 200 / 100);	//Pháp phòng
-15265|<O>| is_clock_running = 0;				//	giờChungLàphủ chínhTạivận Hànhcủatiêu Chí
-15266|<O>| send_user(me, "%c%s", '!', "Xin tìm Đinh hạcnămgiaoNhiệm vụ");
-15267|<O>| who->get_name() + ":\n    hiệnTạikhông cóHợp phụccủaphần thưởng。\n"
-15268|<O>| me->set_name(who->get_name() + "củađạo Thảo Nhân");
-15269|<O>| desc = "Lợi dùngtrênĐẳng lục đậu chế thànhcủacaođiểm,20giây phục hồi cho người chơi1300điểm Khí Huyết。";
-15270|<O>| SAY_CMD->say(me, "bạnxem kiếntôicủanão đại ？mọi ngườiđềunóitôikhông não đại");
-15271|<O>| SAY_CMD->say(me, "nhỏQuỷ，nhanhnhanhPhóngdướiThủgiữacủaVũ khíđầu giáng ！！");
-15272|<O>| send_user(who, "%c%s", '!', "HồnhỏTứ 1/1");
-15273|<O>| notify("Khi từ bỏ「" + file + "」trước tiên phải từ bỏ「Thầndu」。");
-15274|<O>| item = new("item/final/91/1810");	//Tử thanh Đơn
-15275|<O>| return "Vật phẩm nhiệm vụ，Truyền nóigiữaDi thấtcủaBí Bảo。Xin tốc Tướng thử Vật tống Hồi Bảnbang pháicủatổng quản xử。";
-15276|<O>| case 13: return BattleXY[12];    // hư tuyến１
-15277|<O>| printf(ECHO "Bạn đượcCóHoàng đậu Tài NăngSử dụng“" PF_NAME "”。");
-15278|<O>| "cươngSắtHộ Tâm GiápĐào Hoa Nguyên" : "\"/item/final/60/1055\"",
-15279|<O>| return "Đại Thoại Chiến QuốcQuốc khánhlớnlễ bao，trongHàmnhiềuloạiChiến QuốcTrân hi Vật Phẩm，thụ giá390Nguyên Bảo。";
-15280|<O>| send_user(who, "%c%s", '!', "bạncủaThất Quốc Lệnh?");
-15281|<O>| mpInfo["account"] = who->get_id();	//trướng hiệu
-15282|<O>| "lộtừKim dạ Bạch，thángLàcố hương Minh。Kim dạthángchính viên，chínhLàTư hươnggiờ。Đồng vọng đương Khôngtháng，thángviên Mộng vị viên。",
+15260|<O>| private int iHide = 1;			// 1 Chưa giám định 0 Đã giám định
+15261|<O>| send_user(who,"%c%s",'!',"Bạn không có chìa khóa cửa đá cơ quan!");
+15262|<O>| ESC "Thiết lập bản đồ GM xuất hiện\n" + "findgm setmap\n" +
+15263|<O>| return "Tinh hoa hồn phách chết của Thổ Tinh Tinh Linh, là nguyên liệu cần thiết cho kỹ năng sinh hoạt Khắc Thạch, Thợ May, Thợ Rèn";
+15264|<O>| add_pp(-1 * get_pp() * 200 / 100);	//Phòng pháp thuật
+15265|<O>| is_clock_running = 0;				//	Cờ đánh dấu đồng hồ có đang chạy không
+15266|<O>| send_user(me, "%c%s", '!', "Hãy tìm Đinh Hạc Niên giao nhiệm vụ");
+15267|<O>| who->get_name() + ":\n    Hiện tại không có phần thưởng hợp server.\n"
+15268|<O>| me->set_name(who->get_name() + " Hình Nhân Rơm");
+15269|<O>| desc = "Bánh đậu xanh thượng hạng, trong 20 giây hồi phục 1300 điểm khí huyết cho người chơi.";
+15270|<O>| SAY_CMD->say(me, "Bạn có thấy đầu của ta không? Ai cũng bảo ta không có đầu");
+15271|<O>| SAY_CMD->say(me, "Bọn tiểu quỷ, mau bỏ vũ khí xuống đầu hàng đi!!");
+15272|<O>| send_user(who, "%c%s", '!', "Hồ Tiểu Tứ 1/1");
+15273|<O>| notify("Trước khi bỏ「" + file + "」phải bỏ「Thần Du」trước.");
+15274|<O>| item = new("item/final/91/1810");	//Tử Thanh Đan
+15275|<O>| return "Vật phẩm nhiệm vụ, bí bảo thất lạc trong truyền thuyết. Hãy nhanh chóng mang đến Tổng Quản bang phái.";
+15276|<O>| case 13: return BattleXY[12];    // Đường kẻ đứt 1
+15277|<O>| printf(ECHO "Bạn cần có Hoàng Đậu mới dùng được \"" PF_NAME "\".");
+15278|<O>| "Giáp Hộ Tâm Thép Đào Hoa Nguyên" : "\"/item/final/60/1055\"",
+15279|<O>| return "Gói quà Quốc Khánh Đại Thoại Chiến Quốc, chứa nhiều vật phẩm quý hiếm, giá 390 nguyên bảo.";
+15280|<O>| send_user(who, "%c%s", '!', "Thất Quốc Lệnh của bạn đâu?");
+15281|<O>| mpInfo["account"] = who->get_id();	//Tài khoản
+15282|<O>| "Sương từ đêm nay trắng, trăng là quê hương sáng. Đêm nay trăng tròn đầy, chính là lúc nhớ quê. Cùng ngắm trăng trên cao, trăng tròn mộng chưa tròn.",
 15283|<O>| send_user(who, "%c%s", '!', "Chu Lão Ngũ 1/1");
-15284|<O>| return "Vật phẩm nhiệm vụ。Âm gian chuyên dùng tiền tệ，doMộc tàitrá tương lượng can mà thành，có thể làm Tịch Tà Chi dùng。";
-15285|<O>| send_user(me, "%c%s", '!', "Đề cungcủahiệu mãkhôngchính xác");
-15286|<O>| notify("Khi từ bỏ「" + file + "」trước tiên phải từ bỏ「Y Thuật」。");
-15287|<O>| gift = new("item/final/91/1808");	//Bạchạnh Tử
-15288|<O>| send_user(me, "%c%s", '!', "dữ liệukhố Thao tác sai ngộ！");
-15289|<O>| "/sys/sys/count"->add_task("Vương bổ đầu kiếm tiền", 1);
+15284|<O>| return "Vật phẩm nhiệm vụ. Tiền tệ chuyên dùng ở âm phủ, làm từ gỗ ép phơi khô, có thể dùng trừ tà.";
+15285|<O>| send_user(me, "%c%s", '!', "Mã số cung cấp không đúng");
+15286|<O>| notify("Trước khi bỏ「" + file + "」phải bỏ「Y Thuật」trước.");
+15287|<O>| gift = new("item/final/91/1808");	//Ngân Hạnh Tử
+15288|<O>| send_user(me, "%c%s", '!', "Lỗi thao tác cơ sở dữ liệu!");
+15289|<O>| "/sys/sys/count"->add_task("Vương Bộ Đầu Kiếm Tiền", 1);
 15290|<O>| case "Triệu Quốc": city2 = "CITY_ZHAO";  break;
-15291|<O>| SAY_CMD->say(me, "có thể Ác……Bản Đạodàicó thểkhôngsẽliềnnàydạngbịĐả bạicủa！");
-15292|<O>| send_user(me, "%c%s", '!', "Bạn Hộ tốngcủaNhân ？！");
-15293|<O>| return "cơ giớinhỏsủng vật，rất có thể Ái，Năngchochủ Nhân Đềcao2%củatrốn Thiểm，Số lần sử dụng30。";
-15294|<O>| if ( give_yuebing(player,"thángbính",5) == 0 )
+15291|<O>| SAY_CMD->say(me, "Đáng ghét……Bần đạo không dễ dàng bị đánh bại!");
+15292|<O>| send_user(me, "%c%s", '!', "Người bạn hộ tống đâu rồi?!");
+15293|<O>| return "Thú cưng cơ khí nhỏ, rất dễ thương, giúp chủ nhân tăng 2% né tránh, số lần sử dụng 30.";
+15294|<O>| if ( give_yuebing(player,"Bánh Trung Thu",5) == 0 )
 15295|<O>| send_user(who, "%c%s", '!', "Mã Tam Đao 1/1");
-15296|<O>| notify("đươngtrướctần Đạo Tướng vu %d phút sau mở。", t / 60 + 1);
-15297|<O>| ESC "Giáo dục。\ntalk " + id + " stir_up.15\n"
+15296|<O>| notify("Kênh hiện tại sẽ mở sau %d phút.", t / 60 + 1);
+15297|<O>| ESC "Giáo dục.\ntalk " + id + " stir_up.15\n"

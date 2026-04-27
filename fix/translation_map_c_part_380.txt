@@ -1,91 +1,91 @@
-﻿17536|<O>| "浑天仪" : "\"/item/final/16/1629\"",
-17537|<O>| item = new("item/91/9161");		//周天丹
-17538|<O>| string get_name() { return "襄陵"; }
-17539|<O>| return "持续1小时内变身为四脚蛇，可提升1%法术防御力。";
-17540|<O>| "探海叉" : "\"/item/final/74/1040\"",
-17541|<O>| "破空刀" : "\"/item/final/72/1090\"",
-17542|<O>| else if (rate < 14000)	//法术攻击提升40点
-17543|<O>| log_file(LIST_LOG, "# 基本衣服(女)\n");
-17544|<O>| string get_name() { return "长平"; }
-17545|<O>| return "［降魔法咒］提升法术的攻击力，每级提升2点。\n";
-17546|<O>| /*      else    // 有 logout 效果，故注释
-17547|<O>| SAY_CMD->say(me, "你们都来陪我过牢狱生活吧！");
-17548|<O>| tell_user(me, "扫描目录: %s\n", path);
-17549|<O>| return "可以将已经被绑定的装备还原为“装备后绑定”状态。";
-17550|<O>| "日月剑" : "\"/item/final/76/1060\"",
-17551|<O>| "高粱酒" : "\"/item/final/33/1756\"",
-17552|<O>| return 1;					//	正常情况下是不会出错的全部返回 1
-17553|<O>| if(other_stat[9]) {				//	9 设定怪物类型
-17554|<O>| "天璇刀" : "\"/item/final/72/1120\"",
-17555|<O>| case 70 : me->set_fam_name("云梦泽");
-17556|<O>| return "持续1小时内变身为猩猩，可提升1%物理攻击力值。";
-17557|<O>| string get_name() { return "易水"; }
-17558|<O>| item = new("item/91/9145");		//清心丹
-17559|<O>| desc = "大又容易吃的肉，14秒内恢复玩家175点气血值。";
-17560|<O>| string get_name() { return "燃烧"; }
-17561|<O>| result += ESC"开启皇城守卫战\nparty 8\n";
-17562|<O>| who->set_enemy_5(me);    // 设置反击对象
-17563|<O>| "哭丧棒" : "\"/item/final/75/1045\"",
-17564|<O>| add_pp(get_pp() * 180 / 100);	//法防
-17565|<O>| "霸王枪" : "\"/item/final/74/1090\"",
-17566|<O>| ESC"查看我的任务积分\ntalk %x# bonus.33\n"
-17567|<O>| pet->set_owner(who);	//不设无法restore
-17568|<O>| return "猴子们的最爱，20秒内恢复玩家1000点气血值。";
-17569|<O>| "透魂钉" : "\"/item/final/71/1090\"",
-17570|<O>| private int iEngage;			// 雇佣NPC的数量
-17571|<O>| DEBUG("测试-->发布前最后一次对所有在线玩家更新排行榜");
-17572|<O>| case "燕国": note->City = 7;  break;
-17573|<O>| string get_name() { return "火攻"; }
-17574|<O>| return "炫御套装其中之一,相传穿上全套就会拥有神秘的力量";
-17575|<O>| desc = "馅是南瓜的饼，14秒内恢复玩家1540点气血值。";
-17576|<O>| string get_name() { return "复生"; }
-17577|<O>| "玉菩提" : "\"/item/final/91/1805\"",
-17578|<O>| write_user(me, ECHO "您祭起一张回门符……");
-17579|<O>| string get_name() { return "秦国"; }
-17580|<O>| "青铜机关构件" : "\"/item/stuff/0199\"",
-17581|<O>| log_file(LIST_LOG, "# 敏捷帽子(男)\n");
-17582|<O>| "百炼刀" : "\"/item/final/72/1035\"",
-17583|<O>| "银杏子" : "\"/item/final/91/1808\"",
-17584|<O>| case "魏国": note->City = 4;  break;
-17585|<O>| tell_user(me, "你恢复所有活动地图的玩家的状态。");
-17586|<O>| case "秦国": note->City = 5;  break;
-17587|<O>| tell_user(me, "文件有问题: %s", path4);
-17588|<O>| ESC"我先考虑一下", me->get_name(), id));
-17589|<O>| "震天戟" : "\"/item/final/74/1055\"",
-17590|<O>| "玉容露" : "\"/item/final/91/1830\"",
-17591|<O>| log_file(LIST_LOG, "# 敏捷衣服(男)\n");
-17592|<O>| string get_name() { return "神知"; }
-17593|<O>| item = new("item/91/9125");		//再造丸
-17594|<O>| string get_name() { return "穿刺"; }
-17595|<O>| *   2. sys/user/attack.c - 开始战斗时激活
-17596|<O>| ESC"领取水瓶宠物\ntalk %x# bonus.1019\n"
-17597|<O>| string get_name() { return "即墨"; }
-17598|<O>| "紫金棍" : "\"/item/final/75/1035\"",
-17599|<O>| result += ESC "气血法力全满\nrecover\n";
-17600|<O>| ESC "报名参加竞选。(需 1000 金)\n" + cmd1 +
-17601|<O>| _DEBUG("DEBUG -- 用户传入单位不存在，程序返回");
-17602|<O>| "大砍刀" : "\"/item/final/72/1030\"",
-17603|<O>| printf(ECHO "您取消了“" PF_NAME "”。");
-17604|<O>| "玄铁机关构件" : "\"/item/stuff/0200\"",
-17605|<O>| result += ESC"开启宝箱系统\nparty 22\n";
-17606|<O>| item = new ("item/std/6002");//乾坤袋
-17607|<O>| return "大话战国无敌宝宝包，一次性满足你四个不同的愿望。";
-17608|<O>| "方天戟" : "\"/item/final/74/1115\"",
+﻿17536|<O>| "Hỗn Thiên Nghi" : "\"/item/final/16/1629\"",
+17537|<O>| item = new("item/91/9161");		//Chu Thiên Đan
+17538|<O>| string get_name() { return "Tương Lăng"; }
+17539|<O>| return "Trong 1 giờ biến thành thằn lằn bốn chân, tăng 1% phòng thủ pháp thuật.";
+17540|<O>| "Thám Hải Xoa" : "\"/item/final/74/1040\"",
+17541|<O>| "Phá Không Đao" : "\"/item/final/72/1090\"",
+17542|<O>| else if (rate < 14000)	//Tăng tấn công pháp thuật 40 điểm
+17543|<O>| log_file(LIST_LOG, "# Áo cơ bản (nữ)\n");
+17544|<O>| string get_name() { return "Trường Bình"; }
+17545|<O>| return "［Hàng Ma Pháp Chú］Tăng sức tấn công pháp thuật, mỗi cấp tăng 2 điểm.\n";
+17546|<O>| /*      else    // Có hiệu ứng logout, nên ghi chú lại
+17547|<O>| SAY_CMD->say(me, "Các ngươi cùng vào đây sống trong tù với ta!");
+17548|<O>| tell_user(me, "Quét thư mục: %s\n", path);
+17549|<O>| return "Có thể khôi phục trang bị đã bị ràng buộc về trạng thái \"ràng buộc sau khi trang bị\".";
+17550|<O>| "Nhật Nguyệt Kiếm" : "\"/item/final/76/1060\"",
+17551|<O>| "Rượu Cao Lương" : "\"/item/final/33/1756\"",
+17552|<O>| return 1;					//	Bình thường không có lỗi, trả về 1
+17553|<O>| if(other_stat[9]) {				//	9 Thiết lập loại quái vật
+17554|<O>| "Thiên Tuyền Đao" : "\"/item/final/72/1120\"",
+17555|<O>| case 70 : me->set_fam_name("Vân Mộng Trạch");
+17556|<O>| return "Trong 1 giờ biến thành đười ươi, tăng 1% tấn công vật lý.";
+17557|<O>| string get_name() { return "Dịch Thủy"; }
+17558|<O>| item = new("item/91/9145");		//Thanh Tâm Đan
+17559|<O>| desc = "Thịt to dễ ăn, trong 14 giây hồi phục 175 điểm khí huyết cho người chơi.";
+17560|<O>| string get_name() { return "Thiêu Đốt"; }
+17561|<O>| result += ESC"Mở Hoàng Thành Thủ Vệ Chiến\nparty 8\n";
+17562|<O>| who->set_enemy_5(me);    // Thiết lập đối tượng phản击
+17563|<O>| "Khốc Tang Bổng" : "\"/item/final/75/1045\"",
+17564|<O>| add_pp(get_pp() * 180 / 100);	//Pháp phòng
+17565|<O>| "Bá Vương Thương" : "\"/item/final/74/1090\"",
+17566|<O>| ESC"Xem điểm tích nhiệm vụ của tôi\ntalk %x# bonus.33\n"
+17567|<O>| pet->set_owner(who);	//Không set thì không thể restore
+17568|<O>| return "Món yêu thích của lũ khỉ, trong 20 giây hồi phục 1000 điểm khí huyết cho người chơi.";
+17569|<O>| "Thấu Hồn Đinh" : "\"/item/final/71/1090\"",
+17570|<O>| private int iEngage;			// Số lượng NPC thuê
+17571|<O>| DEBUG("Kiểm tra-->Lần cuối cập nhật bảng xếp hạng cho tất cả người chơi online trước khi phát hành");
+17572|<O>| case "Yên Quốc": note->City = 7;  break;
+17573|<O>| string get_name() { return "Hỏa Công"; }
+17574|<O>| return "Một trong bộ Huyễn Ngự, tương truyền mặc đủ bộ sẽ sở hữu sức mạnh thần bí";
+17575|<O>| desc = "Bánh nhân bí ngô, trong 14 giây hồi phục 1540 điểm khí huyết cho người chơi.";
+17576|<O>| string get_name() { return "Phục Sinh"; }
+17577|<O>| "Ngọc Bồ Đề" : "\"/item/final/91/1805\"",
+17578|<O>| write_user(me, ECHO "Bạn kích hoạt một tờ bùa hồi môn……");
+17579|<O>| string get_name() { return "Tần Quốc"; }
+17580|<O>| "Cấu Kiện Cơ Quan Đồng Thanh" : "\"/item/stuff/0199\"",
+17581|<O>| log_file(LIST_LOG, "# Mũ nhanh nhẹn (nam)\n");
+17582|<O>| "Bách Luyện Đao" : "\"/item/final/72/1035\"",
+17583|<O>| "Ngân Hạnh Tử" : "\"/item/final/91/1808\"",
+17584|<O>| case "Ngụy Quốc": note->City = 4;  break;
+17585|<O>| tell_user(me, "Bạn đã khôi phục trạng thái của tất cả người chơi trên bản đồ hoạt động.");
+17586|<O>| case "Tần Quốc": note->City = 5;  break;
+17587|<O>| tell_user(me, "File có vấn đề: %s", path4);
+17588|<O>| ESC"Để tôi suy nghĩ đã", me->get_name(), id));
+17589|<O>| "Chấn Thiên Kích" : "\"/item/final/74/1055\"",
+17590|<O>| "Ngọc Dung Lộ" : "\"/item/final/91/1830\"",
+17591|<O>| log_file(LIST_LOG, "# Áo nhanh nhẹn (nam)\n");
+17592|<O>| string get_name() { return "Thần Tri"; }
+17593|<O>| item = new("item/91/9125");		//Tái Tạo Hoàn
+17594|<O>| string get_name() { return "Xuyên Thích"; }
+17595|<O>| *   2. sys/user/attack.c - Kích hoạt khi bắt đầu chiến đấu
+17596|<O>| ESC"Nhận thú cưng Bình Nước\ntalk %x# bonus.1019\n"
+17597|<O>| string get_name() { return "Tức Mặc"; }
+17598|<O>| "Tử Kim Côn" : "\"/item/final/75/1035\"",
+17599|<O>| result += ESC "Khí huyết pháp lực đầy đủ\nrecover\n";
+17600|<O>| ESC "Đăng ký tham gia tranh cử. (Cần 1000 vàng)\n" + cmd1 +
+17601|<O>| _DEBUG("DEBUG -- Đơn vị người dùng truyền vào không tồn tại, chương trình trả về");
+17602|<O>| "Đại Phạt Đao" : "\"/item/final/72/1030\"",
+17603|<O>| printf(ECHO "Bạn đã hủy \"" PF_NAME "\".");
+17604|<O>| "Cấu Kiện Cơ Quan Huyền Thiết" : "\"/item/stuff/0200\"",
+17605|<O>| result += ESC"Mở hệ thống rương bảo\nparty 22\n";
+17606|<O>| item = new ("item/std/6002");//Túi Càn Khôn
+17607|<O>| return "Gói bảo bối vô địch Đại Thoại Chiến Quốc, một lần thỏa mãn bốn nguyện vọng khác nhau.";
+17608|<O>| "Phương Thiên Kích" : "\"/item/final/74/1115\"",
 17609|<O>| if (who->get_org_name() != "再續前緣")
-17610|<O>| // 多体远程技能  TIPS:[PF_CAST_AREA]  变异
-17611|<O>| if( iKind == 1 )    // 1. 运镖任务(物品)
-17612|<O>| printf(ECHO "您申请加入%s的队伍。", name2);
-17613|<O>| ESC "购买裁缝技能等级69-79级的配方\nlist %s\n"
-17614|<O>| if(other_stat[1]) {				//	1 设置攻击速度
-17615|<O>| else if (rate < 28000)	//法术防御提高50点
-17616|<O>| return "任务物品。邹衍交给你用来收集怨鬼之灵的搜魂法器。";
-17617|<O>| "花雕棍" : "\"/item/final/75/1080\"",
-17618|<O>| string get_name() { return "阴山"; }
-17619|<O>| *   3. sys/user/energy.c - 受伤时保持激活
-17620|<O>| "荷包蛋" : "\"/item/final/33/1704\"",
-17621|<O>| return "可累积后换取奖励与称号的物品，请保存好不要丢失。";
-17622|<O>| else if(rand < 9990)//随机门派的金色装备1件。
-17623|<O>| who->set_contribute(0);    // 清空贡献
-17624|<O>| string get_name() { return "毒牙"; }
-17625|<O>| "一口肉" : "\"/item/final/33/1700\"",
-17626|<O>| "南瓜饼" : "\"/item/final/33/1767\"",
+17610|<O>| // Kỹ năng tầm xa đa mục tiêu  TIPS:[PF_CAST_AREA]  Biến dị
+17611|<O>| if( iKind == 1 )    // 1. Nhiệm vụ vận tiêu (vật phẩm)
+17612|<O>| printf(ECHO "Bạn xin gia nhập đội của %s.", name2);
+17613|<O>| ESC "Mua công thức Thợ May cấp 69-79\nlist %s\n"
+17614|<O>| if(other_stat[1]) {				//	1 Thiết lập tốc độ tấn công
+17615|<O>| else if (rate < 28000)	//Tăng phòng thủ pháp thuật 50 điểm
+17616|<O>| return "Vật phẩm nhiệm vụ. Pháp khí thu hồn mà Trâu Diễn giao cho bạn dùng để thu thập oán linh.";
+17617|<O>| "Hoa Điêu Côn" : "\"/item/final/75/1080\"",
+17618|<O>| string get_name() { return "Âm Sơn"; }
+17619|<O>| *   3. sys/user/energy.c - Duy trì kích hoạt khi bị thương
+17620|<O>| "Trứng Ốp La" : "\"/item/final/33/1704\"",
+17621|<O>| return "Vật phẩm có thể tích lũy đổi phần thưởng và danh hiệu, xin giữ gìn cẩn thận.";
+17622|<O>| else if(rand < 9990)//1 trang bị vàng ngẫu nhiên của môn phái.
+17623|<O>| who->set_contribute(0);    // Xóa điểm cống hiến
+17624|<O>| string get_name() { return "Độc Nha"; }
+17625|<O>| "Miếng Thịt" : "\"/item/final/33/1700\"",
+17626|<O>| "Bánh Bí Ngô" : "\"/item/final/33/1767\"",

@@ -1,92 +1,92 @@
-﻿17627|<O>| if (x0 == x && y0 == y)    // 没有移动
-17628|<O>| "天狼刺" : "\"/item/final/71/1065\"",
-17629|<O>| case "赵国": note->City = 3;  break;
-17630|<O>| case "齐国": note->City = 1;  break;
-17631|<O>| string get_name() { return "御法"; }
-17632|<O>| case "韩国": note->City = 2;  break;
-17633|<O>| "齐眉棍" : "\"/item/final/75/1050\"",
-17634|<O>| else if (p < thresh2)    // 防具(基本)
-17635|<O>| "勾镰枪" : "\"/item/final/74/1060\"",
-17636|<O>| string get_name() { return "太湖"; }
-17637|<O>| "玉米羹" : "\"/item/final/33/1773\"",
-17638|<O>| log_file(LIST_LOG, "# 法术帽子(男)\n");
-17639|<O>| "噬血棍" : "\"/item/final/75/1055\"",
-17640|<O>| item = new ("/item/08/0001");//战国令
-17641|<O>| ESC"晶石是什么？\ntalk %x# welcome.51\n"
-17642|<O>| "杜康酒" : "\"/item/final/33/1761\"",
-17643|<O>| // 目前抄普通小贩 is_seller()，只是取消 tax 而已
-17644|<O>| string get_name() { return "纠缠"; }
-17645|<O>| if(other_stat[5]) {				//	5 增加物理攻击
-17646|<O>| string get_name() { return "武关"; }
-17647|<O>| string get_name() { return "表演"; }
-17648|<O>| "玉米汤" : "\"/item/final/33/1751\"",
-17649|<O>| "玉容膏" : "\"/item/final/91/1800\"",
-17650|<O>| npc->remove_from_scene();//从场景中移出。
-17651|<O>| if (name != "蜀山" && name != "禁卫军")
-17652|<O>| "神秘果" : "\"/item/final/33/1770\"",
-17653|<O>| "天狼剑" : "\"/item/final/76/1095\"",
-17654|<O>| "铜制机关构件" : "\"/item/stuff/0196\"",
-17655|<O>| return "任务物品。韩国使节想用来锻造鱼钩的一种贵重金属。";
-17656|<O>| "烤地瓜" : "\"/item/final/33/1701\"",
-17657|<O>| "紫箐丹" : "\"/item/final/91/1810\"",
-17658|<O>| "困魔棍" : "\"/item/final/75/1115\"",
-17659|<O>| string get_name() { return "孟津"; }
-17660|<O>| "水月剑" : "\"/item/final/76/1085\"",
-17661|<O>| "擎天柱" : "\"/item/final/75/1105\"",
-17662|<O>| string get_name() { return "雷电"; }
-17663|<O>| "天枢枪" : "\"/item/final/74/1120\"",
-17664|<O>| add_sp(get_sp() * 200 / 100);	//躲闪
-17665|<O>| write_user(who, ECHO "您获得500金钱。");
-17666|<O>| set_char_picid(202);    // 人物缺省造型
-17667|<O>| case FIGHT_STAT: // 普通攻击, 特殊技(动作)
-17668|<O>| +sprintf(ESC"古墓探险\nparty 5000\n")
-17669|<O>| me->set_login_flag(2);    // 跳转保护
-17670|<O>| private int HairColor;			// 头发的颜色
-17671|<O>| pf = 62;    // 抄自 /sys/user/fight
-17672|<O>| + sprintf(ESC"开始测试\nparty 126\n")
-17673|<O>| else if (rate < 75000)	//每5秒回5点法力
-17674|<O>| return "［周天运转］提升气血上限，每级提升 4 点\n";
-17675|<O>| notify("您的问题我们已经收到。感谢您提供宝贵的建议。");
-17676|<O>| ESC"离开长平之战\ntalk %x# welcome.3\n"
-17677|<O>| if (time() > djjStart)	//第一次出现的时间
-17678|<O>| on_active_finish(0);				//	活动刚刚结束
-17679|<O>| + sprintf(ESC"结束测试\nparty 137\n")
-17680|<O>| else if (rate < 99000)	//使暴击率提高2%
-17681|<O>| item = new ("item/91/9101");//活络丸
-17682|<O>| // 函数:丢弃装备对象(用于 perform 类, 死亡也用到)
-17683|<O>| if (objectp(Enemy2))    // 取消锁定标记
-17684|<O>| SAY_CMD->say(me, "人类！！统统下地狱吧！！");
-17685|<O>| "03" : "/item/91/9125",    // 再造丸
-17686|<O>| ESC "福如东海\ntalk %x# welcome.62\n"
-17687|<O>| ESC"进入长平之战\ntalk %x# welcome.3\n"
-17688|<O>| ESC"领取推广员奖励\ntalk %x# bonus.37\n"
-17689|<O>| else if (rate < 69000)	//每5秒回5点气血
-17690|<O>| ESC"领取40级奖励\ntalk %x# bonus.39\n"
-17691|<O>| string get_name() { return "赵"; }
-17692|<O>| item = new ("item/91/9164");//紫心丹
-17693|<O>| return "［宝石合成材料］放置到残缺宝石上能合成完美宝石";
-17694|<O>| "震天" : "\"/item/final/75/1110\"",
-17695|<O>| return "持续1小时内变身为狂徒，可提升1%物理攻击力。";
-17696|<O>| result = "请选择寻找dodolook活动的操作:\n";
-17697|<O>| if (gone_time(pTime) > 40)	//幽冥法阵
-17698|<O>| "04" : "/item/91/9140",    // 辟毒散
-17699|<O>| if (who->get_fam_name() == "禁卫军")
-17700|<O>| ESC"领取10级奖励\ntalk %x# bonus.38\n"
-17701|<O>| return color + "可以远程打开药店进行买卖物品。";
-17702|<O>| + sprintf(ESC"新人王奖励\nparty 16\n")
-17703|<O>| else if (rate < 9550)		//对应等级随机蓝装
-17704|<O>| return "持续1小时内变身为土匪，可提升1%物理防御力。";
-17705|<O>| map->add_2("totalscore.赵国", 450);
-17706|<O>| "赤刀" : "\"/item/final/72/1055\"",
-17707|<O>| ESC "80 功德换 120000 金。\n" + cmd3 +
-17708|<O>| return "［保护强化］ 减少玩家受到的远程攻击伤害。\n";
-17709|<O>| who->set_task_xy(0);    // 清除任务坐标
-17710|<O>| for (i = 0;i < 10;i++)	//10堆5000金
-17711|<O>| ESC"看起来礼物很丰富哦", me->get_name()));
-17712|<O>| item = new ("item/91/9167");//紫参丹
-17713|<O>| item = new ("item/08/0001");//战国令
-17714|<O>| item = new ("item/08/0004");//小法石
-17715|<O>| return "持续1小时内变身为木精，可提升2%物理防御力。";
-17716|<O>| return "持续1小时内变身为流氓，可提升1%法术防御力。";
-17717|<O>| return "持续1小时内变身为水精，可提升2%法术防御力。";
-17718|<O>| if(other_stat[3]) {				//	3 增加血上限
+﻿17627|<O>| if (x0 == x && y0 == y)    // Không di chuyển
+17628|<O>| "Thiên Lang Thích" : "\"/item/final/71/1065\"",
+17629|<O>| case "Triệu Quốc": note->City = 3;  break;
+17630|<O>| case "Tề Quốc": note->City = 1;  break;
+17631|<O>| string get_name() { return "Ngự Pháp"; }
+17632|<O>| case "Hàn Quốc": note->City = 2;  break;
+17633|<O>| "Tề Mi Côn" : "\"/item/final/75/1050\"",
+17634|<O>| else if (p < thresh2)    // Phòng cụ (cơ bản)
+17635|<O>| "Câu Liêm Thương" : "\"/item/final/74/1060\"",
+17636|<O>| string get_name() { return "Thái Hồ"; }
+17637|<O>| "Chè Ngô" : "\"/item/final/33/1773\"",
+17638|<O>| log_file(LIST_LOG, "# Mũ pháp thuật (nam)\n");
+17639|<O>| "Phệ Huyết Côn" : "\"/item/final/75/1055\"",
+17640|<O>| item = new ("/item/08/0001");//Chiến Quốc Lệnh
+17641|<O>| ESC"Tinh thạch là gì?\ntalk %x# welcome.51\n"
+17642|<O>| "Rượu Đỗ Khang" : "\"/item/final/33/1761\"",
+17643|<O>| // Hiện tại giống tiểu phán is_seller(), chỉ bỏ thuế mà thôi
+17644|<O>| string get_name() { return "Vướng Víu"; }
+17645|<O>| if(other_stat[5]) {				//	5 Tăng tấn công vật lý
+17646|<O>| string get_name() { return "Vũ Quan"; }
+17647|<O>| string get_name() { return "Biểu Diễn"; }
+17648|<O>| "Canh Ngô" : "\"/item/final/33/1751\"",
+17649|<O>| "Ngọc Dung Cao" : "\"/item/final/91/1800\"",
+17650|<O>| npc->remove_from_scene();//Loại bỏ khỏi bản đồ.
+17651|<O>| if (name != "Thục Sơn" && name != "Cấm Vệ Quân")
+17652|<O>| "Quả Bí Ẩn" : "\"/item/final/33/1770\"",
+17653|<O>| "Thiên Lang Kiếm" : "\"/item/final/76/1095\"",
+17654|<O>| "Cấu Kiện Cơ Quan Đồng" : "\"/item/stuff/0196\"",
+17655|<O>| return "Vật phẩm nhiệm vụ. Kim loại quý mà sứ thần Hàn Quốc muốn dùng để rèn lưỡi câu.";
+17656|<O>| "Khoai Lang Nướng" : "\"/item/final/33/1701\"",
+17657|<O>| "Tử Thanh Đan" : "\"/item/final/91/1810\"",
+17658|<O>| "Khốn Ma Côn" : "\"/item/final/75/1115\"",
+17659|<O>| string get_name() { return "Mạnh Tân"; }
+17660|<O>| "Thủy Nguyệt Kiếm" : "\"/item/final/76/1085\"",
+17661|<O>| "Kình Thiên Trụ" : "\"/item/final/75/1105\"",
+17662|<O>| string get_name() { return "Sấm Sét"; }
+17663|<O>| "Thiên Xu Thương" : "\"/item/final/74/1120\"",
+17664|<O>| add_sp(get_sp() * 200 / 100);	//Né tránh
+17665|<O>| write_user(who, ECHO "Bạn nhận được 500 vàng.");
+17666|<O>| set_char_picid(202);    // Hình dạng mặc định nhân vật
+17667|<O>| case FIGHT_STAT: // Tấn công thường, kỹ năng đặc biệt (hành động)
+17668|<O>| +sprintf(ESC"Cổ Mộ Thám Hiểm\nparty 5000\n")
+17669|<O>| me->set_login_flag(2);    // Bảo vệ chuyển tiếp
+17670|<O>| private int HairColor;			// Màu tóc
+17671|<O>| pf = 62;    // Sao chép từ /sys/user/fight
+17672|<O>| + sprintf(ESC"Bắt đầu kiểm tra\nparty 126\n")
+17673|<O>| else if (rate < 75000)	//Mỗi 5 giây hồi 5 điểm pháp lực
+17674|<O>| return "［Chu Thiên Vận Chuyển］Tăng giới hạn khí huyết, mỗi cấp tăng 4 điểm\n";
+17675|<O>| notify("Vấn đề của bạn chúng tôi đã nhận được. Cảm ơn bạn đã đóng góp ý kiến quý báu.");
+17676|<O>| ESC"Rời khỏi Trường Bình Chi Chiến\ntalk %x# welcome.3\n"
+17677|<O>| if (time() > djjStart)	//Thời điểm xuất hiện lần đầu
+17678|<O>| on_active_finish(0);				//	Hoạt động vừa kết thúc
+17679|<O>| + sprintf(ESC"Kết thúc kiểm tra\nparty 137\n")
+17680|<O>| else if (rate < 99000)	//Tăng tỷ lệ bạo kích 2%
+17681|<O>| item = new ("item/91/9101");//Hoạt Lạc Hoàn
+17682|<O>| // Hàm: Vứt bỏ đối tượng trang bị (dùng cho loại perform, tử vong cũng dùng)
+17683|<O>| if (objectp(Enemy2))    // Hủy đánh dấu khóa mục tiêu
+17684|<O>| SAY_CMD->say(me, "Loài người!! Tất cả xuống địa ngục đi!!");
+17685|<O>| "03" : "/item/91/9125",    // Tái Tạo Hoàn
+17686|<O>| ESC "Phúc Như Đông Hải\ntalk %x# welcome.62\n"
+17687|<O>| ESC"Vào Trường Bình Chi Chiến\ntalk %x# welcome.3\n"
+17688|<O>| ESC"Nhận phần thưởng người giới thiệu\ntalk %x# bonus.37\n"
+17689|<O>| else if (rate < 69000)	//Mỗi 5 giây hồi 5 điểm khí huyết
+17690|<O>| ESC"Nhận phần thưởng cấp 40\ntalk %x# bonus.39\n"
+17691|<O>| string get_name() { return "Triệu"; }
+17692|<O>| item = new ("item/91/9164");//Tử Tâm Đan
+17693|<O>| return "［Nguyên liệu hợp thành bảo thạch］Đặt lên bảo thạch khuyết có thể hợp thành bảo thạch hoàn hảo";
+17694|<O>| "Chấn Thiên" : "\"/item/final/75/1110\"",
+17695|<O>| return "Trong 1 giờ biến thành cuồng đồ, tăng 1% tấn công vật lý.";
+17696|<O>| result = "Xin chọn thao tác hoạt động tìm dodolook:\n";
+17697|<O>| if (gone_time(pTime) > 40)	//U Minh Pháp Trận
+17698|<O>| "04" : "/item/91/9140",    // Tịch Độc Tán
+17699|<O>| if (who->get_fam_name() == "Cấm Vệ Quân")
+17700|<O>| ESC"Nhận phần thưởng cấp 10\ntalk %x# bonus.38\n"
+17701|<O>| return color + "Có thể mở tiệm thuốc từ xa để mua bán vật phẩm.";
+17702|<O>| + sprintf(ESC"Phần thưởng tân nhân vương\nparty 16\n")
+17703|<O>| else if (rate < 9550)		//Trang bị xanh ngẫu nhiên theo cấp
+17704|<O>| return "Trong 1 giờ biến thành thổ phỉ, tăng 1% phòng thủ vật lý.";
+17705|<O>| map->add_2("totalscore.Triệu Quốc", 450);
+17706|<O>| "Xích Đao" : "\"/item/final/72/1055\"",
+17707|<O>| ESC "80 công đức đổi 120000 vàng.\n" + cmd3 +
+17708|<O>| return "［Cường Hóa Bảo Vệ］ Giảm sát thương tầm xa mà người chơi nhận.\n";
+17709|<O>| who->set_task_xy(0);    // Xóa tọa độ nhiệm vụ
+17710|<O>| for (i = 0;i < 10;i++)	//10 đống 5000 vàng
+17711|<O>| ESC"Nhìn quà tặng phong phú ghê", me->get_name()));
+17712|<O>| item = new ("item/91/9167");//Tử Sâm Đan
+17713|<O>| item = new ("item/08/0001");//Chiến Quốc Lệnh
+17714|<O>| item = new ("item/08/0004");//Đá Pháp Lực Nhỏ
+17715|<O>| return "Trong 1 giờ biến thành mộc tinh, tăng 2% phòng thủ vật lý.";
+17716|<O>| return "Trong 1 giờ biến thành lưu manh, tăng 1% phòng thủ pháp thuật.";
+17717|<O>| return "Trong 1 giờ biến thành thủy tinh, tăng 2% phòng thủ pháp thuật.";
+17718|<O>| if(other_stat[3]) {				//	3 Tăng giới hạn máu

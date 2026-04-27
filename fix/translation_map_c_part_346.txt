@@ -1,80 +1,80 @@
-﻿14653|<O>| send_user(who, "%c%s", '!', "孤竹族使节 1/1");
-14654|<O>| send_user(who, "%c%s", '!', "您现在的体力不够。");
-14655|<O>| else if (p < 9997 * rate / 100)    // 杂物２
-14656|<O>| npc=new(FILE_SENDER);  //新建一副本NPC-->场景传送人
-14657|<O>| else if (p < 9900 * rate / 100)    // 杂物１
-14658|<O>| else if (p < 9900 * rate / 100)    // 杂物２
-14659|<O>| TEACHER_D->add_shifu_exp(me, 1);	//奖励师傅经验
-14660|<O>| reduce_item_amount(who, "装着坏小猴的神奇葫芦", 3);
-14661|<O>| else if (p < 9397 * rate / 100)    // 杂物１
-14662|<O>| ESC"两只球(黑+蓝)兑换2张藏宝图\ntalk %x# bonus.22\n"
-14663|<O>| send_user(who, "%c%s", '!', "现在没有选举活动。");
-14664|<O>| if( owner == who ) return 0;    // 禁止攻击主人
-14665|<O>| mapping DefenceMap = ([ ]);	// 所有皇城保卫战的地图
-14666|<O>| notify(sprintf("您的帮派贡献不足%d。", contrib));
-14667|<O>| send_user(me, "%c%s", '!', "您挖宝的位置不对。");
-14668|<O>| else if (p < 2897 * rate / 100)    // 金钱
-14669|<O>| else if (p < 7183 * rate / 100)    // 金钱
-14670|<O>| else if (p < 9255 * rate / 100)    // 金钱
-14671|<O>| send_user(me, "%c%s", '!', "不能传送到副本内。");
-14672|<O>| else if (p < 7225 * rate / 100)    // 金钱
-14673|<O>| who->set_legend(TASK_49, 9);	//取消丢失的手镯任务
-14674|<O>| } else if(rand_int < 90 ) {		//	长血高物防高法防
-14675|<O>| else if (p < 5190 * rate / 100)    // 金钱
-14676|<O>| + ESC"600金收购斑点蛙一只\ntalk %x# welcome.5\n"
-14677|<O>| 如果活动时间还没有到或者活动时间已经结束，这里样的就不出现这个获取挖宝小锄头选项
-14678|<O>| send_user(me, "%c%s", '!', "情人节活动开启了!");
-14679|<O>| send_user(who, "%c%s", '!', "你得到糊葛的馈赠");
-14680|<O>| else if (p < 5144 * rate / 100)    // 金钱
-14681|<O>| log_file(LIST_LOG, "<!-- 残缺宝石 -->\n\n");
-14682|<O>| else if (p < 7591 * rate / 100)    // 金钱
-14683|<O>| send_user(who, "%c%s", '!', "你已经报过名了！");
-14684|<O>| else if (p < 5870 * rate / 100)    // 金钱
-14685|<O>| //			else if ( map->get("win") == "赵国" )
-14686|<O>| else if (p < 4594 * rate / 100)    // 金钱
-14687|<O>| else if (p < 5049 * rate / 100)    // 金钱
-14688|<O>| return "能对敏捷临时提高，临时提高10%敏捷，持续10分钟，冷却2秒";
-14689|<O>| string get_skill_name() { return "神游"; }
-14690|<O>| else if (p < 6300 * rate / 100)    // 金钱
-14691|<O>| send_user(me, "%c%s", '!', "您只能把尸体推开。");
-14692|<O>| else if (p < 6659 * rate / 100)    // 金钱
-14693|<O>| send_user(who, "%c%s", '!', "请不要频繁使用！");
-14694|<O>| else if (p < 5523 * rate / 100)    // 金钱
-14695|<O>| && item->get_lasting() >= 100)    // 耐久度
-14696|<O>| else if (p < 8856 * rate / 100)    // 金钱
-14697|<O>| desc = "用牛肉凉晒成的一种肉制品，20秒内恢复玩家1600点气血值。";
-14698|<O>| else if (p < 9970 * rate / 100)    // 武器
-14699|<O>| else if (rand < 9995)//金色装备/item/01/0202
-14700|<O>| write_user(who, ECHO "任务完成，请找卫队长领取奖励。");
-14701|<O>| send_user(me, "%c%s", '!', "目的地太过拥挤了。");
-14702|<O>| return "［" PF_NAME "］\n在周国的摆摊区摆摊卖东西。\n";
-14703|<O>| "/sys/sys/count"->add_use("试骑宠", 10000);
-14704|<O>| else if (p < 8958 * rate / 100)    // 金钱
-14705|<O>| gift = new("item/final/16/1610");	//传动机构
-14706|<O>| send_user(who, "%c%s", '!', "骷髅妖王 1/1");
-14707|<O>| send_user(who, "%c%s", '!', "迷魂精灵 1/1");
-14708|<O>| send_user(me, "%c%s", '!', "采集功能尚未开放。");
-14709|<O>| get_name() + ":\n谢谢您了，真是为民除害的大英雄啊。\n" );
-14710|<O>| return "中秋节传统食物，20秒内恢复400点气血值和400点法力值。";
-14711|<O>| send_user(who, "%c%s", '!', "地痞石六 1/1");
-14712|<O>| send_user(me, "%c%s", '!', "您距离尸体太远了。");
-14713|<O>| else if (p < 9049 * rate / 100)    // 金钱
-14714|<O>| send_user(who, "%c%s", '!', "恶霸赵六 1/1");
-14715|<O>| else if (p < 4790 * rate / 100)    // 金钱
-14716|<O>| return "“暗杀者至宝，杀人于无形”\n使你用毒的总共伤害提高100点";
-14717|<O>| else if (p < 3376 * rate / 100)    // 金钱
-14718|<O>| else if (rate < 53000)	//增加法术所造成的伤害效果12点
-14719|<O>| else if (p < 6288 * rate / 100)    // 金钱
-14720|<O>| string get_skill_name() { return "机关"; }
-14721|<O>| notify(item->get_name() + "已经上架，不能使用。");
-14722|<O>| if ( give_yuebing(player,"小月兔",1) == 0 )
-14723|<O>| ESC"没什么。", me->get_name(), id, id, id));
-14724|<O>| else if (p < 9242 * rate / 100)    // 金钱
-14725|<O>| else if (p < 3304 * rate / 100)    // 金钱
-14726|<O>| else if (p < 7120 * rate / 100)    // 金钱
-14727|<O>| send_user(who, "%c%s", '!', "你身上的东西太多");
-14728|<O>| else if (p < 3297 * rate / 100)    // 金钱
-14729|<O>| else if (p < 8938 * rate / 100)    // 金钱
-14730|<O>| send_user(me, "%c%s", '!', "您不能传送您自己。");
-14731|<O>| result += ESC "取消无敌\ngmset no_hurt 0\n";
-14732|<O>| send_user(who, "%c%s", '!', "得到了神秘的种子");
+﻿14653|<O>| send_user(who, "%c%s", '!', "Sứ Tiết Cô Trúc Tộc 1/1");
+14654|<O>| send_user(who, "%c%s", '!', "Thể lực hiện tại của bạn không đủ.");
+14655|<O>| else if (p < 9997 * rate / 100)    // Tạp vật 2
+14656|<O>| npc=new(FILE_SENDER);  //Tạo mới NPC phụ bản-->Người truyền tống cảnh
+14657|<O>| else if (p < 9900 * rate / 100)    // Tạp vật 1
+14658|<O>| else if (p < 9900 * rate / 100)    // Tạp vật 2
+14659|<O>| TEACHER_D->add_shifu_exp(me, 1);	//Thưởng kinh nghiệm sư phụ
+14660|<O>| reduce_item_amount(who, "Hồ Lô Thần Kỳ Đựng Khỉ Hư", 3);
+14661|<O>| else if (p < 9397 * rate / 100)    // Tạp vật 1
+14662|<O>| ESC"2 quả cầu (đen+xanh) đổi 2 tấm bản đồ tàng bảo\ntalk %x# bonus.22\n"
+14663|<O>| send_user(who, "%c%s", '!', "Hiện tại không có bầu cử.");
+14664|<O>| if( owner == who ) return 0;    // Cấm tấn công chủ nhân
+14665|<O>| mapping DefenceMap = ([ ]);	// Tất cả bản đồ bảo vệ hoàng thành
+14666|<O>| notify(sprintf("Cống hiến bang phái của bạn không đủ %d.", contrib));
+14667|<O>| send_user(me, "%c%s", '!', "Vị trí đào bảo của bạn không đúng.");
+14668|<O>| else if (p < 2897 * rate / 100)    // Vàng
+14669|<O>| else if (p < 7183 * rate / 100)    // Vàng
+14670|<O>| else if (p < 9255 * rate / 100)    // Vàng
+14671|<O>| send_user(me, "%c%s", '!', "Không thể truyền tống vào phụ bản.");
+14672|<O>| else if (p < 7225 * rate / 100)    // Vàng
+14673|<O>| who->set_legend(TASK_49, 9);	//Hủy nhiệm vụ vòng tay bị mất
+14674|<O>| } else if(rand_int < 90 ) {		//	Khí huyết cao, phòng vật lý cao, phòng pháp thuật cao
+14675|<O>| else if (p < 5190 * rate / 100)    // Vàng
+14676|<O>| + ESC"600 vàng thu mua một con Ếch Đốm\ntalk %x# welcome.5\n"
+14677|<O>| Nếu thời gian hoạt động chưa đến hoặc đã kết thúc thì không hiện tùy chọn nhận cuốc đào bảo nhỏ
+14678|<O>| send_user(me, "%c%s", '!', "Hoạt động Lễ Tình Nhân đã mở!");
+14679|<O>| send_user(who, "%c%s", '!', "Bạn nhận được quà tặng của Hồ Cát");
+14680|<O>| else if (p < 5144 * rate / 100)    // Vàng
+14681|<O>| log_file(LIST_LOG, "<!-- Bảo Thạch Tàn Khuyết -->\n\n");
+14682|<O>| else if (p < 7591 * rate / 100)    // Vàng
+14683|<O>| send_user(who, "%c%s", '!', "Bạn đã đăng ký rồi!");
+14684|<O>| else if (p < 5870 * rate / 100)    // Vàng
+14685|<O>| //			else if ( map->get("win") == "Triệu Quốc" )
+14686|<O>| else if (p < 4594 * rate / 100)    // Vàng
+14687|<O>| else if (p < 5049 * rate / 100)    // Vàng
+14688|<O>| return "Tạm thời tăng nhanh nhẹn, tăng 10% nhanh nhẹn, kéo dài 10 phút, hồi chiêu 2 giây";
+14689|<O>| string get_skill_name() { return "Thần Du"; }
+14690|<O>| else if (p < 6300 * rate / 100)    // Vàng
+14691|<O>| send_user(me, "%c%s", '!', "Bạn chỉ có thể đẩy thi thể đi.");
+14692|<O>| else if (p < 6659 * rate / 100)    // Vàng
+14693|<O>| send_user(who, "%c%s", '!', "Vui lòng không sử dụng quá thường xuyên!");
+14694|<O>| else if (p < 5523 * rate / 100)    // Vàng
+14695|<O>| && item->get_lasting() >= 100)    // Độ bền
+14696|<O>| else if (p < 8856 * rate / 100)    // Vàng
+14697|<O>| desc = "Thịt bò phơi khô, trong 20 giây hồi phục 1600 điểm khí huyết cho người chơi.";
+14698|<O>| else if (p < 9970 * rate / 100)    // Vũ khí
+14699|<O>| else if (rand < 9995)//Trang bị vàng/item/01/0202
+14700|<O>| write_user(who, ECHO "Nhiệm vụ hoàn thành, hãy tìm Đội Trưởng Vệ Binh nhận thưởng.");
+14701|<O>| send_user(me, "%c%s", '!', "Điểm đến quá đông người.");
+14702|<O>| return "［" PF_NAME "］\nBày bán tại khu bày bán của Chu Quốc.\n";
+14703|<O>| "/sys/sys/count"->add_use("Thử Cưỡi Thú", 10000);
+14704|<O>| else if (p < 8958 * rate / 100)    // Vàng
+14705|<O>| gift = new("item/final/16/1610");	//Cơ cấu truyền động
+14706|<O>| send_user(who, "%c%s", '!', "Cốt Lâu Yêu Vương 1/1");
+14707|<O>| send_user(who, "%c%s", '!', "Mê Hồn Tinh Linh 1/1");
+14708|<O>| send_user(me, "%c%s", '!', "Chức năng thu thập chưa mở.");
+14709|<O>| get_name() + ":\nCảm ơn bạn, thật là vị đại anh hùng diệt trừ ác nhân.\n" );
+14710|<O>| return "Thức ăn truyền thống Tết Trung Thu, trong 20 giây hồi phục 400 điểm khí huyết và 400 điểm pháp lực.";
+14711|<O>| send_user(who, "%c%s", '!', "Đầu Gấu Thạch Lục 1/1");
+14712|<O>| send_user(me, "%c%s", '!', "Bạn cách thi thể quá xa.");
+14713|<O>| else if (p < 9049 * rate / 100)    // Vàng
+14714|<O>| send_user(who, "%c%s", '!', "Ác Bá Triệu Lục 1/1");
+14715|<O>| else if (p < 4790 * rate / 100)    // Vàng
+14716|<O>| return ""Chí bảo ám sát giả, giết người vô hình"\nTăng tổng sát thương dùng độc thêm 100 điểm";
+14717|<O>| else if (p < 3376 * rate / 100)    // Vàng
+14718|<O>| else if (rate < 53000)	//Tăng hiệu quả sát thương pháp thuật 12 điểm
+14719|<O>| else if (p < 6288 * rate / 100)    // Vàng
+14720|<O>| string get_skill_name() { return "Cơ Quan"; }
+14721|<O>| notify(item->get_name() + " đã lên kệ, không thể sử dụng.");
+14722|<O>| if ( give_yuebing(player,"Ngọc Thỏ Nhỏ",1) == 0 )
+14723|<O>| ESC"Không có gì.", me->get_name(), id, id, id));
+14724|<O>| else if (p < 9242 * rate / 100)    // Vàng
+14725|<O>| else if (p < 3304 * rate / 100)    // Vàng
+14726|<O>| else if (p < 7120 * rate / 100)    // Vàng
+14727|<O>| send_user(who, "%c%s", '!', "Bạn mang theo quá nhiều đồ vật");
+14728|<O>| else if (p < 3297 * rate / 100)    // Vàng
+14729|<O>| else if (p < 8938 * rate / 100)    // Vàng
+14730|<O>| send_user(me, "%c%s", '!', "Bạn không thể truyền tống chính mình.");
+14731|<O>| result += ESC "Hủy bất tử\ngmset no_hurt 0\n";
+14732|<O>| send_user(who, "%c%s", '!', "Nhận được Hạt Giống Bí Ẩn");

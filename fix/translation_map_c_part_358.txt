@@ -1,83 +1,83 @@
-﻿15629|<O>| "幽魂项链禁卫军" : "\"/item/final/86/3070\"",
-15630|<O>| private string* productfile2;		// 成品路径
-15631|<O>| return "能恢复一定的法力，马上恢复2500点法力，冷却时间15秒";
-15632|<O>| "星宿法衣无门派" : "\"/item/final/60/8097\"",
-15633|<O>| "战斗长靴桃花源" : "\"/item/final/88/1055\"",
-15634|<O>| else if (type == "fuse_yy")	//宠物合成(确认)
-15635|<O>| ESC "开始寻找ＧＭ的活动\n" + "findgm start\n" +
-15636|<O>| log_file(LIST_LOG, "# 商人(080.npc)\n");
-15637|<O>| ESC"离开", me->get_name(), id, id, id));
-15638|<O>| //case "云梦泽" : return 0;    // 普通攻击，带毒
-15639|<O>| "琥珀项链昆仑山" : "\"/item/final/86/6055\"",
-15640|<O>| "麒麟神履无门派" : "\"/item/final/88/8106\"",
-15641|<O>| send_user(me, "%c%s", ';', "成功中止活动！");
-15642|<O>| #define THIS_SKILL      650				// 技能名字
-15643|<O>| "龙神项链无门派" : "\"/item/final/86/8116\"",
-15644|<O>| "风神项链无门派" : "\"/item/final/86/8076\"",
-15645|<O>| case "秦国": city2 = "CITY_QIN";  break;
-15646|<O>| notify("您距离%s太远了。", item->get_name());
-15647|<O>| case 10: return BattleXY[1];    // 实线１
-15648|<O>| "潮汐法袍云梦泽" : "\"/item/final/60/7105\"",
-15649|<O>| send_user(who, "%c%s", '!', "你的铁锤呢?");
-15650|<O>| "耀日长袍昆仑山" : "\"/item/final/60/6085\"",
-15651|<O>| ESC "资金。\ntalk " + id + " stir_up.5\n"
-15652|<O>| ESC "请离玩家\n" + "gmfight kickout ?\n" +
-15653|<O>| } else if(rand_int < 60 ) {		//	高法防低物防
-15654|<O>| "龙魂项链桃花源" : "\"/item/final/86/1105\"",
-15655|<O>| send_user(me, "%c%s", ':', "你想做什么呢？\n"
-15656|<O>| ESC "获赠VIP双倍时间\ntalk %x# welcome.84\n"
-15657|<O>| log_file(LIST_LOG, "<!-- 围棋 -->\n\n");
-15658|<O>| "天尊项链无门派" : "\"/item/final/86/8126\"",
-15659|<O>| send_user(who, "%c%s", '!', "厉鬼 1/1");
-15660|<O>| * 目标: 减少 NPC polling 导致的 25-30% CPU 使用
-15661|<O>| return "［剑法格挡］提升使用剑的防御力，每级提升 1.2 点\n";
-15662|<O>| "神威法冠无门派" : "\"/item/final/65/8086\"",
-15663|<O>| send_user(who, "%c%s", '!', "李四 1/1");
-15664|<O>| "真武项链禁卫军" : "\"/item/final/86/3080\"",
-15665|<O>| case 7: case 70: file = "云梦泽";  break;
-15666|<O>| "天罡战甲桃花源" : "\"/item/final/60/1115\"",
-15667|<O>| send_user(me, "%c%s", '!', "产品代码不对！");
-15668|<O>| "耀日长袍云梦泽" : "\"/item/final/60/7085\"",
-15669|<O>| return desc = "宠物精炼的配方，可以提炼出宠物的一种技能。";
-15670|<O>| #define BZ_MONTH		  "month"		//	月份轮寻标志
-15671|<O>| "龙骨战袍昆仑山" : "\"/item/final/60/6119\"",
-15672|<O>| "赤血神靴桃花源" : "\"/item/final/88/1115\"",
-15673|<O>| send_user(who, "%c%s", '!', "摆摊不能使用");
-15674|<O>| send_user(me, "%c%s", '!', "点卡购买失败！");
-15675|<O>| "天尊圣冠无门派" : "\"/item/final/65/8126\"",
-15676|<O>| "羊角头盔禁卫军" : "\"/item/final/65/3055\"",
-15677|<O>| notify("%s是别人的东西。", item->get_name());
-15678|<O>| if( present("钱票", who, 1, MAX_CARRY) )
-15679|<O>| string get_name() { return "高级阴阳之术"; }
-15680|<O>| printf(ECHO "使用“" PF_NAME "”间隔时间过短。");
-15681|<O>| return "［法防强化］ 帮派特殊技，可减少玩家受到的法术伤害。\n";
-15682|<O>| "星辰战靴桃花源" : "\"/item/final/88/1120\"",
-15683|<O>| write_user(who, ECHO "您设置新手村为回城点。\n");
-15684|<O>| switch (who->get_level())    // 设置玩家种类
-15685|<O>| // void follow_user() { }    // 禁止跟随敌人
-15686|<O>| log_file(LIST_LOG, "<!-- 药材 -->\n\n");
-15687|<O>| "玄金项链桃花源" : "\"/item/final/86/1065\"",
-15688|<O>| //              notify( "您无法找到这个人。" );
-15689|<O>| case "缨盔": type = "F_YINGKUI";  break;
-15690|<O>| "飞天铠甲禁卫军" : "\"/item/final/60/3090\"",
-15691|<O>| ESC "粮草。\ntalk " + id + " stir_up.6\n"
-15692|<O>| if (check_item_amount(who, "菊花酒") < 3)
-15693|<O>| "/sys/sys/count"->add_task("小试身手", 1);
-15694|<O>| "玄金项链云梦泽" : "\"/item/final/86/7065\"",
-15695|<O>| "神行战衣无门派" : "\"/item/final/60/8056\"",
-15696|<O>| "亡魂之铠桃花源" : "\"/item/final/60/1105\"",
-15697|<O>| "金刚护胫禁卫军" : "\"/item/final/88/3065\"",
-15698|<O>| case "战盔": type = "M_ZHANKUI";  break;
-15699|<O>| "虚空法袍云梦泽" : "\"/item/final/60/7095\"",
-15700|<O>| if (p < 9100 * rate / 100)    // 武器、装备
-15701|<O>| send_user(me, "%c%s", '!', "点卡的面值不对");
-15702|<O>| return "［棍法格档］提升使用棍的防御力，每级提升 0.8 点\n";
-15703|<O>| item = new("item/44/4488");		//随机宠物技能丹
-15704|<O>| "神威战靴无门派" : "\"/item/final/88/8087\"",
-15705|<O>| "龙神战盔无门派" : "\"/item/final/65/8116\"",
-15706|<O>| "风神战衣无门派" : "\"/item/final/60/8067\"",
-15707|<O>| + sprintf(ESC"给予\ntalk %x# bonus.11\n"
-15708|<O>| "星辰战甲桃花源" : "\"/item/final/60/1120\"",
-15709|<O>| "龙鳞战甲桃花源" : "\"/item/final/60/1100\"",
-15710|<O>| + sprintf(ESC"寻找dodolook\nparty 12\n")
-15711|<O>| string get_name() { return "天外幻境2层"; }
+﻿15629|<O>| "Vòng Cổ U Hồn Cấm Vệ Quân" : "\"/item/final/86/3070\"",
+15630|<O>| private string* productfile2;		// Đường dẫn thành phẩm
+15631|<O>| return "Có thể hồi phục pháp lực, lập tức hồi phục 2500 điểm pháp lực, thời gian hồi chiêu 15 giây";
+15632|<O>| "Pháp Y Tinh Tú Vô Môn Phái" : "\"/item/final/60/8097\"",
+15633|<O>| "Trường Hài Chiến Đấu Đào Hoa Nguyên" : "\"/item/final/88/1055\"",
+15634|<O>| else if (type == "fuse_yy")	//Hợp thành thú cưng (xác nhận)
+15635|<O>| ESC "Bắt đầu hoạt động tìm GM\n" + "findgm start\n" +
+15636|<O>| log_file(LIST_LOG, "# Thương Nhân(080.npc)\n");
+15637|<O>| ESC"Rời đi", me->get_name(), id, id, id));
+15638|<O>| //case "Vân Mộng Trạch" : return 0;    // Tấn công thường, mang độc
+15639|<O>| "Vòng Cổ Hổ Phách Côn Lôn Sơn" : "\"/item/final/86/6055\"",
+15640|<O>| "Thần Lý Kỳ Lân Vô Môn Phái" : "\"/item/final/88/8106\"",
+15641|<O>| send_user(me, "%c%s", ';', "Dừng hoạt động thành công!");
+15642|<O>| #define THIS_SKILL      650				// Tên kỹ năng
+15643|<O>| "Vòng Cổ Long Thần Vô Môn Phái" : "\"/item/final/86/8116\"",
+15644|<O>| "Vòng Cổ Phong Thần Vô Môn Phái" : "\"/item/final/86/8076\"",
+15645|<O>| case "Tần Quốc": city2 = "CITY_QIN";  break;
+15646|<O>| notify("Bạn cách %s quá xa.", item->get_name());
+15647|<O>| case 10: return BattleXY[1];    // Đường kẻ liền 1
+15648|<O>| "Pháp Bào Triều Tịch Vân Mộng Trạch" : "\"/item/final/60/7105\"",
+15649|<O>| send_user(who, "%c%s", '!', "Búa sắt của bạn đâu?");
+15650|<O>| "Trường Bào Diệu Nhật Côn Lôn Sơn" : "\"/item/final/60/6085\"",
+15651|<O>| ESC "Vốn.\ntalk " + id + " stir_up.5\n"
+15652|<O>| ESC "Mời rời người chơi\n" + "gmfight kickout ?\n" +
+15653|<O>| } else if(rand_int < 60 ) {		//	Phòng pháp cao, phòng vật lý thấp
+15654|<O>| "Vòng Cổ Long Hồn Đào Hoa Nguyên" : "\"/item/final/86/1105\"",
+15655|<O>| send_user(me, "%c%s", ':', "Bạn muốn làm gì?\n"
+15656|<O>| ESC "Nhận thời gian VIP nhân đôi\ntalk %x# welcome.84\n"
+15657|<O>| log_file(LIST_LOG, "<!-- Cờ Vây -->\n\n");
+15658|<O>| "Vòng Cổ Thiên Tôn Vô Môn Phái" : "\"/item/final/86/8126\"",
+15659|<O>| send_user(who, "%c%s", '!', "Lệ Quỷ 1/1");
+15660|<O>| * Mục tiêu: giảm 25-30% CPU do NPC polling gây ra
+15661|<O>| return "［Kiếm Pháp Cách Đỡ］Tăng phòng thủ khi dùng kiếm, mỗi cấp tăng 1.2 điểm\n";
+15662|<O>| "Pháp Quan Thần Uy Vô Môn Phái" : "\"/item/final/65/8086\"",
+15663|<O>| send_user(who, "%c%s", '!', "Lý Tứ 1/1");
+15664|<O>| "Vòng Cổ Chân Vũ Cấm Vệ Quân" : "\"/item/final/86/3080\"",
+15665|<O>| case 7: case 70: file = "Vân Mộng Trạch";  break;
+15666|<O>| "Chiến Giáp Thiên Cương Đào Hoa Nguyên" : "\"/item/final/60/1115\"",
+15667|<O>| send_user(me, "%c%s", '!', "Mã sản phẩm không đúng!");
+15668|<O>| "Trường Bào Diệu Nhật Vân Mộng Trạch" : "\"/item/final/60/7085\"",
+15669|<O>| return desc = "Công thức tinh luyện thú cưng, có thể chiết xuất một kỹ năng của thú cưng.";
+15670|<O>| #define BZ_MONTH		  "month"		//	Cờ tuần hoàn tháng
+15671|<O>| "Chiến Bào Long Cốt Côn Lôn Sơn" : "\"/item/final/60/6119\"",
+15672|<O>| "Thần Hài Xích Huyết Đào Hoa Nguyên" : "\"/item/final/88/1115\"",
+15673|<O>| send_user(who, "%c%s", '!', "Bày bán không thể sử dụng");
+15674|<O>| send_user(me, "%c%s", '!', "Mua thẻ điểm thất bại!");
+15675|<O>| "Thánh Quan Thiên Tôn Vô Môn Phái" : "\"/item/final/65/8126\"",
+15676|<O>| "Mũ Sừng Dê Cấm Vệ Quân" : "\"/item/final/65/3055\"",
+15677|<O>| notify("%s là đồ của người khác.", item->get_name());
+15678|<O>| if( present("Phiếu Tiền", who, 1, MAX_CARRY) )
+15679|<O>| string get_name() { return "Âm Dương Thuật Cao Cấp"; }
+15680|<O>| printf(ECHO "Sử dụng \"" PF_NAME "\" khoảng cách thời gian quá ngắn.");
+15681|<O>| return "［Pháp Phòng Cường Hóa］ Kỹ năng đặc biệt bang phái, giảm sát thương pháp thuật người chơi nhận được.\n";
+15682|<O>| "Chiến Hài Tinh Thần Đào Hoa Nguyên" : "\"/item/final/88/1120\"",
+15683|<O>| write_user(who, ECHO "Bạn đã đặt Làng Tân Thủ làm điểm hồi thành.\n");
+15684|<O>| switch (who->get_level())    // Thiết lập loại người chơi
+15685|<O>| // void follow_user() { }    // Cấm theo dõi kẻ thù
+15686|<O>| log_file(LIST_LOG, "<!-- Dược Liệu -->\n\n");
+15687|<O>| "Vòng Cổ Huyền Kim Đào Hoa Nguyên" : "\"/item/final/86/1065\"",
+15688|<O>| //              notify( "Bạn không tìm thấy người này." );
+15689|<O>| case "Anh Khôi": type = "F_YINGKUI";  break;
+15690|<O>| "Phi Thiên Khải Giáp Cấm Vệ Quân" : "\"/item/final/60/3090\"",
+15691|<O>| ESC "Lương thảo.\ntalk " + id + " stir_up.6\n"
+15692|<O>| if (check_item_amount(who, "Rượu Hoa Cúc") < 3)
+15693|<O>| "/sys/sys/count"->add_task("Thử Sức Nhỏ", 1);
+15694|<O>| "Vòng Cổ Huyền Kim Vân Mộng Trạch" : "\"/item/final/86/7065\"",
+15695|<O>| "Chiến Y Thần Hành Vô Môn Phái" : "\"/item/final/60/8056\"",
+15696|<O>| "Vong Hồn Chi Khải Đào Hoa Nguyên" : "\"/item/final/60/1105\"",
+15697|<O>| "Hộ Kính Kim Cương Cấm Vệ Quân" : "\"/item/final/88/3065\"",
+15698|<O>| case "Chiến Khôi": type = "M_ZHANKUI";  break;
+15699|<O>| "Pháp Bào Hư Không Vân Mộng Trạch" : "\"/item/final/60/7095\"",
+15700|<O>| if (p < 9100 * rate / 100)    // Vũ khí, trang bị
+15701|<O>| send_user(me, "%c%s", '!', "Mệnh giá thẻ điểm không đúng");
+15702|<O>| return "［Côn Pháp Cách Đỡ］Tăng phòng thủ khi dùng côn, mỗi cấp tăng 0.8 điểm\n";
+15703|<O>| item = new("item/44/4488");		//Đan kỹ năng thú cưng ngẫu nhiên
+15704|<O>| "Chiến Hài Thần Uy Vô Môn Phái" : "\"/item/final/88/8087\"",
+15705|<O>| "Chiến Khôi Long Thần Vô Môn Phái" : "\"/item/final/65/8116\"",
+15706|<O>| "Chiến Y Phong Thần Vô Môn Phái" : "\"/item/final/60/8067\"",
+15707|<O>| + sprintf(ESC"Tặng\ntalk %x# bonus.11\n"
+15708|<O>| "Chiến Giáp Tinh Thần Đào Hoa Nguyên" : "\"/item/final/60/1120\"",
+15709|<O>| "Chiến Giáp Long Lân Đào Hoa Nguyên" : "\"/item/final/60/1100\"",
+15710|<O>| + sprintf(ESC"Tìm kiếm dodolook\nparty 12\n")
+15711|<O>| string get_name() { return "Thiên Ngoại Huyễn Cảnh Tầng 2"; }

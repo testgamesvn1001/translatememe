@@ -1,85 +1,85 @@
-﻿16217|<O>| printf(ECHO "không thểđối vớihoạt NhânSử dụng“" PF_NAME "”。");
-16218|<O>| "đạp Vân GiápĐào Hoa Nguyên" : "\"/item/final/60/1050\"",
-16219|<O>| send_user(who,"%c%s",'!',"đoan ngọ tiếthoạt độngĐóng！");
-16220|<O>| desc = "nông Gia Tự nhưỡngcủaMột loạiBạch Tửu，20giây phục hồi cho người chơi1000điểm Pháp thuật lực。";
-16221|<O>| "Thanh Liễu đầu CânThục Sơn" : "\"/item/final/65/2020\"",
-16222|<O>| "thùy Vân QuanCôn Lôn Sơn" : "\"/item/final/65/6060\"",
-16223|<O>| "hư MinhHạng LiênĐường Môn" : "\"/item/final/86/4120\"",
-16224|<O>| "Huyết Sắc đầu CânĐường Môn" : "\"/item/final/65/4095\"",
-16225|<O>| desc = "khẩu cảm điềm thúy，HàmThủylượng Phong phú，20giây phục hồi cho người chơi600điểm Khí Huyết。";
-16226|<O>| "hư Không QuanCôn Lôn Sơn" : "\"/item/final/65/6095\"",
-16227|<O>| string get_name() { return "caocấpPhi Hành Thuật"; }
-16228|<O>| desc = "dùngHỏakhảocủaMột loạiNhục chế Phẩm，20giây phục hồi cho người chơi1500điểm Khí Huyết。";
-16229|<O>| "Bá Vương khôiCấm Vệ Quân" : "\"/item/final/65/3100\"",
-16230|<O>| "cát Tử tương trấp Ngưu Nhục" : "\"/item/final/33/1713\"",
-16231|<O>| "càn Vân Chi QuanMao Sơn" : "\"/item/final/65/5110\"",
-16232|<O>| "sí văn QuanVân Mộng Trạch" : "\"/item/final/65/7100\"",
-16233|<O>| "Cuồng Chiến HiaCấm Vệ Quân" : "\"/item/final/88/3030\"",
-16234|<O>| return "nông Gia Tự nhưỡngcủaMột loạiBạch Tửu，20giây phục hồi cho người chơi1000điểm Pháp thuật lực。";
-16235|<O>| item = new ("/item/std/8005");//tàncũTàng Bảo Đồ
-16236|<O>| "Cuồng Chiến khôiCấm Vệ Quân" : "\"/item/final/65/3030\"",
-16237|<O>| "Ba hình đầu CânThục Sơn" : "\"/item/final/65/2085\"",
-16238|<O>| "định HồnHạng LiênMao Sơn" : "\"/item/final/86/5030\"",
-16239|<O>| notify( "tốinhiềuchỉNăng Điển đương %d Vật Phẩm。", MAX_PAWN );
-16240|<O>| "LôiThầnlý vôMôn phái" : "\"/item/final/88/8077\"",
+﻿16217|<O>| printf(ECHO "Không thể dùng \"" PF_NAME "\" cho người sống.");
+16218|<O>| "Đạp Vân Giáp Đào Hoa Nguyên" : "\"/item/final/60/1050\"",
+16219|<O>| send_user(who,"%c%s",'!',"Hoạt động Tết Đoan Ngọ đã đóng!");
+16220|<O>| desc = "Rượu trắng tự nấu của nhà nông, trong 20 giây hồi phục 1000 điểm pháp lực cho người chơi.";
+16221|<O>| "Khăn Đầu Thanh Liễu Thục Sơn" : "\"/item/final/65/2020\"",
+16222|<O>| "Quan Thùy Vân Côn Lôn Sơn" : "\"/item/final/65/6060\"",
+16223|<O>| "Vòng Cổ Hư Minh Đường Môn" : "\"/item/final/86/4120\"",
+16224|<O>| "Khăn Đầu Huyết Sắc Đường Môn" : "\"/item/final/65/4095\"",
+16225|<O>| desc = "Vị ngọt giòn, giàu nước, trong 20 giây hồi phục 600 điểm khí huyết cho người chơi.";
+16226|<O>| "Quan Hư Không Côn Lôn Sơn" : "\"/item/final/65/6095\"",
+16227|<O>| string get_name() { return "Phi Hành Thuật Cao Cấp"; }
+16228|<O>| desc = "Thịt nướng lửa, trong 20 giây hồi phục 1500 điểm khí huyết cho người chơi.";
+16229|<O>| "Mũ Bá Vương Cấm Vệ Quân" : "\"/item/final/65/3100\"",
+16230|<O>| "Thịt Bò Sốt Quýt" : "\"/item/final/33/1713\"",
+16231|<O>| "Kiền Vân Chi Quan Mao Sơn" : "\"/item/final/65/5110\"",
+16232|<O>| "Quan Sí Văn Vân Mộng Trạch" : "\"/item/final/65/7100\"",
+16233|<O>| "Giày Cuồng Chiến Cấm Vệ Quân" : "\"/item/final/88/3030\"",
+16234|<O>| return "Rượu trắng tự nấu của nhà nông, trong 20 giây hồi phục 1000 điểm pháp lực cho người chơi.";
+16235|<O>| item = new ("/item/std/8005");//Tàng Bảo Đồ Tàn Cũ
+16236|<O>| "Mũ Cuồng Chiến Cấm Vệ Quân" : "\"/item/final/65/3030\"",
+16237|<O>| "Khăn Đầu Ba Hình Thục Sơn" : "\"/item/final/65/2085\"",
+16238|<O>| "Vòng Cổ Định Hồn Mao Sơn" : "\"/item/final/86/5030\"",
+16239|<O>| notify( "Tối đa chỉ có thể cầm cố %d vật phẩm.", MAX_PAWN );
+16240|<O>| "Lôi Thần Lý Vô Môn Phái" : "\"/item/final/88/8077\"",
 16241|<O>| case "Tề Quốc": city2 = "CITY_QI";  break;
-16242|<O>| ESC "đihoạt độngtrường cảnh1\n" + "gmfight goto 1\n" +
-16243|<O>| "ThầnPhongHiaĐào Hoa Nguyên" : "\"/item/final/88/1070\"",
-16244|<O>| "cấp Hành HiaVân Mộng Trạch" : "\"/item/final/88/7065\"",
-16245|<O>| "Vànglũ Hành trangThục Sơn" : "\"/item/final/60/2085\"",
-16246|<O>| "LongCốt Đấu lạpĐường Môn" : "\"/item/final/65/4119\"",
-16247|<O>| //			+ sprintf(ESC"Ngũ Nhấthoạt động\nparty 39\n")
-16248|<O>| "LongHồnHạng LiênĐường Môn" : "\"/item/final/86/4105\"",
-16249|<O>| interval = ADD_TIME;    // cẩn thận chuẩn bị level
-16250|<O>| string get_name() { return "ThầnBí Sơn Động１"; }
-16251|<O>| return "Thánhđản tiếtgiờdùng đến trang lễ Vậtcủavớ Tử。\ncó thể giaochoThánhđản Lão Nhân đổi hoán lễ Vật。";
-16252|<O>| "Viễn ChinhHiaVân Mộng Trạch" : "\"/item/final/88/7075\"",
-16253|<O>| SAY_CMD->say(me, "khôngbịMã thế qua ？tôimãn túcbạncủanguyện vọng！");
-16254|<O>| "tần Quả tương trấp Ngưu Nhục" : "\"/item/final/33/1712\"",
-16255|<O>| "Viêm DươngHạng LiênĐường Môn" : "\"/item/final/86/4050\"",
-16256|<O>| case "sa Mạo": type = "F_SHAMAO";  break;
-16257|<O>| "Linh Hồn đầu CânThục Sơn" : "\"/item/final/65/2075\"",
-16258|<O>| "hư Không QuanVân Mộng Trạch" : "\"/item/final/65/7095\"",
-16259|<O>| "VàngTi Hành trangĐường Môn" : "\"/item/final/60/4060\"",
-16260|<O>| cmd = "ha ha ha ha～～mớinămđến～～cảnnhanhđiThầnTiêngia gianàotronglĩnh thủ lễ Vật ～～";
-16261|<O>| "CuồngLongđầu CânThục Sơn" : "\"/item/final/65/2070\"",
-16262|<O>| + sprintf(ESC"Tứ Sắc cầu(Kiểm tra)Thao tác\nparty 47\n")
-16263|<O>| "khuynh lộ QuanVân Mộng Trạch" : "\"/item/final/65/7070\"",
-16264|<O>| string get_name() { return "ThầnBí Sơn Động２"; }
-16265|<O>| "khâmngàyChiến BàoMao Sơn" : "\"/item/final/60/5120\"",
-16266|<O>| "ThầnUy lý vôMôn phái" : "\"/item/final/88/8086\"",
-16267|<O>| if (check_item_amount(who, "thù du") < 3)
-16268|<O>| "LongCốt HiaCôn Lôn Sơn" : "\"/item/final/88/6119\"",
-16269|<O>| if (present("Tiền Phiếu", who, 1, MAX_CARRY))
-16270|<O>| "HuyềnSắtCơ Quancấukiện" : "\"/item/final/16/1626\"",
-16271|<O>| "Huyền Vân GiápĐào Hoa Nguyên" : "\"/item/final/60/1080\"",
-16272|<O>| "nhuyễn Bì Hành trangThục Sơn" : "\"/item/final/60/2045\"",
-16273|<O>| write_user(who, ECHO "Bạn nhận được100000Tiền vàng。");
-16274|<O>| "Longlân HiaĐào Hoa Nguyên" : "\"/item/final/88/1100\"",
-16275|<O>| "Phi Vũ QuanVân Mộng Trạch" : "\"/item/final/65/7080\"",
-16276|<O>| "HuyềnthángHạng LiênĐường Môn" : "\"/item/final/86/4085\"",
-16277|<O>| "ChiếnngàyHiaCấm Vệ Quân" : "\"/item/final/88/3050\"",
-16278|<O>| "lục HồnHạng LiênĐường Môn" : "\"/item/final/86/4100\"",
-16279|<O>| "KỳLongHành trangThục Sơn" : "\"/item/final/60/2090\"",
-16280|<O>| "Vũ Nhung Hành trangĐường Môn" : "\"/item/final/60/4045\"",
-16281|<O>| "thángQuangHạng LiênĐường Môn" : "\"/item/final/86/4040\"",
-16282|<O>| notify("Bạnđãnã qua đệ" + iTimes + "lầncủaphần thưởng。");
-16283|<O>| "hư MinhHạng LiênMao Sơn" : "\"/item/final/86/5120\"",
-16284|<O>| "HuyềnVàngHạng LiênĐường Môn" : "\"/item/final/86/4065\"",
-16285|<O>| "Viêm DươngHạng LiênThục Sơn" : "\"/item/final/86/2050\"",
-16286|<O>| "lục Thanh GiápĐào Hoa Nguyên" : "\"/item/final/60/1040\"",
-16287|<O>| "ma bố Hành trangThục Sơn" : "\"/item/final/60/2035\"",
-16288|<O>| "Chiến Tướng HiaCấm Vệ Quân" : "\"/item/final/88/3060\"",
-16289|<O>| "U HồnHạng LiênThục Sơn" : "\"/item/final/86/2070\"",
-16290|<O>| "hoàn vụ Hành trangĐường Môn" : "\"/item/final/60/4085\"",
+16242|<O>| ESC "Đi đến bản đồ hoạt động 1\n" + "gmfight goto 1\n" +
+16243|<O>| "Giày Thần Phong Đào Hoa Nguyên" : "\"/item/final/88/1070\"",
+16244|<O>| "Giày Cấp Hành Vân Mộng Trạch" : "\"/item/final/88/7065\"",
+16245|<O>| "Hành Trang Kim Lũ Thục Sơn" : "\"/item/final/60/2085\"",
+16246|<O>| "Nón Long Cốt Đường Môn" : "\"/item/final/65/4119\"",
+16247|<O>| //			+ sprintf(ESC"Hoạt động 1/5\nparty 39\n")
+16248|<O>| "Vòng Cổ Long Hồn Đường Môn" : "\"/item/final/86/4105\"",
+16249|<O>| interval = ADD_TIME;    // Cẩn thận chuẩn bị level
+16250|<O>| string get_name() { return "Hang Động Bí Ẩn 1"; }
+16251|<O>| return "Tất dùng để đựng quà Giáng Sinh.\nCó thể đem đến chỗ Ông Già Noel để đổi quà.";
+16252|<O>| "Giày Viễn Chinh Vân Mộng Trạch" : "\"/item/final/88/7075\"",
+16253|<O>| SAY_CMD->say(me, "Chưa bị ngựa đạp bao giờ hả? Ta thỏa mãn nguyện vọng cho các ngươi!");
+16254|<O>| "Thịt Bò Sốt Táo" : "\"/item/final/33/1712\"",
+16255|<O>| "Vòng Cổ Viêm Dương Đường Môn" : "\"/item/final/86/4050\"",
+16256|<O>| case "Sa Mạo": type = "F_SHAMAO";  break;
+16257|<O>| "Khăn Đầu Linh Hồn Thục Sơn" : "\"/item/final/65/2075\"",
+16258|<O>| "Quan Hư Không Vân Mộng Trạch" : "\"/item/final/65/7095\"",
+16259|<O>| "Hành Trang Kim Ti Đường Môn" : "\"/item/final/60/4060\"",
+16260|<O>| cmd = "Ha ha ha ha～～Năm mới đến rồi～～Mau đến chỗ Ông Tiên để nhận quà nào～～";
+16261|<O>| "Khăn Đầu Cuồng Long Thục Sơn" : "\"/item/final/65/2070\"",
+16262|<O>| + sprintf(ESC"Thao tác Tứ Sắc Cầu (kiểm tra)\nparty 47\n")
+16263|<O>| "Quan Khuynh Lộ Vân Mộng Trạch" : "\"/item/final/65/7070\"",
+16264|<O>| string get_name() { return "Hang Động Bí Ẩn 2"; }
+16265|<O>| "Chiến Bào Khâm Thiên Mao Sơn" : "\"/item/final/60/5120\"",
+16266|<O>| "Thần Uy Lý Vô Môn Phái" : "\"/item/final/88/8086\"",
+16267|<O>| if (check_item_amount(who, "Thù Du") < 3)
+16268|<O>| "Giày Long Cốt Côn Lôn Sơn" : "\"/item/final/88/6119\"",
+16269|<O>| if (present("Phiếu Tiền", who, 1, MAX_CARRY))
+16270|<O>| "Cấu Kiện Cơ Quan Huyền Thiết" : "\"/item/final/16/1626\"",
+16271|<O>| "Huyền Vân Giáp Đào Hoa Nguyên" : "\"/item/final/60/1080\"",
+16272|<O>| "Hành Trang Da Mềm Thục Sơn" : "\"/item/final/60/2045\"",
+16273|<O>| write_user(who, ECHO "Bạn nhận được 100000 vàng.");
+16274|<O>| "Giày Long Lân Đào Hoa Nguyên" : "\"/item/final/88/1100\"",
+16275|<O>| "Quan Phi Vũ Vân Mộng Trạch" : "\"/item/final/65/7080\"",
+16276|<O>| "Vòng Cổ Huyền Nguyệt Đường Môn" : "\"/item/final/86/4085\"",
+16277|<O>| "Giày Chiến Thiên Cấm Vệ Quân" : "\"/item/final/88/3050\"",
+16278|<O>| "Vòng Cổ Lục Hồn Đường Môn" : "\"/item/final/86/4100\"",
+16279|<O>| "Hành Trang Kỳ Long Thục Sơn" : "\"/item/final/60/2090\"",
+16280|<O>| "Hành Trang Vũ Nhung Đường Môn" : "\"/item/final/60/4045\"",
+16281|<O>| "Vòng Cổ Nguyệt Quang Đường Môn" : "\"/item/final/86/4040\"",
+16282|<O>| notify("Bạn đã nhận phần thưởng lần thứ " + iTimes + " rồi.");
+16283|<O>| "Vòng Cổ Hư Minh Mao Sơn" : "\"/item/final/86/5120\"",
+16284|<O>| "Vòng Cổ Huyền Kim Đường Môn" : "\"/item/final/86/4065\"",
+16285|<O>| "Vòng Cổ Viêm Dương Thục Sơn" : "\"/item/final/86/2050\"",
+16286|<O>| "Lục Thanh Giáp Đào Hoa Nguyên" : "\"/item/final/60/1040\"",
+16287|<O>| "Hành Trang Ma Bố Thục Sơn" : "\"/item/final/60/2035\"",
+16288|<O>| "Giày Chiến Tướng Cấm Vệ Quân" : "\"/item/final/88/3060\"",
+16289|<O>| "Vòng Cổ U Hồn Thục Sơn" : "\"/item/final/86/2070\"",
+16290|<O>| "Hành Trang Hoàn Vụ Đường Môn" : "\"/item/final/60/4085\"",
 16291|<O>| case "Khải Giáp": type = "F_KAIJIA";  break;
-16292|<O>| item = new ("item/44/4489");//caocấpsủng vậtKỹ năngĐơn
-16293|<O>| "VânLongHiaCôn Lôn Sơn" : "\"/item/final/88/6100\"",
-16294|<O>| printf(ECHO "không thểđối vớiđối vớiPhươngSử dụng“" PF_NAME "”。");
-16295|<O>| "càn Vân Chi HiaMao Sơn" : "\"/item/final/88/5110\"",
-16296|<O>| send_user(me, "%c%s", '!', "bày thánKhông thể sử dụng");
-16297|<O>| "ngàyUy đầu CânĐường Môn" : "\"/item/final/65/4070\"",
-16298|<O>| case 9: name = "Tông Giáo";  p /= 5;  break;
-16299|<O>| "HỏaHồng đầu CânThục Sơn" : "\"/item/final/65/2065\"",
-16300|<O>| return "［" PF_NAME "］\nphao mởkhácNgười chơicủathi Thể。\n";
-16301|<O>| "ThầnngụcHạng LiênMao Sơn" : "\"/item/final/86/5075\"",
+16292|<O>| item = new ("item/44/4489");//Đan Kỹ Năng Thú Cưng Cao Cấp
+16293|<O>| "Giày Vân Long Côn Lôn Sơn" : "\"/item/final/88/6100\"",
+16294|<O>| printf(ECHO "Không thể dùng \"" PF_NAME "\" cho đối phương.");
+16295|<O>| "Kiền Vân Chi Hài Mao Sơn" : "\"/item/final/88/5110\"",
+16296|<O>| send_user(me, "%c%s", '!', "Bày bán không thể sử dụng");
+16297|<O>| "Khăn Đầu Thiên Uy Đường Môn" : "\"/item/final/65/4070\"",
+16298|<O>| case 9: name = "Tôn giáo";  p /= 5;  break;
+16299|<O>| "Khăn Đầu Hỏa Hồng Thục Sơn" : "\"/item/final/65/2065\"",
+16300|<O>| return "［" PF_NAME "］\nHất bỏ thi thể của người chơi khác.\n";
+16301|<O>| "Vòng Cổ Thần Ngục Mao Sơn" : "\"/item/final/86/5075\"",

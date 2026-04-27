@@ -1,63 +1,63 @@
-﻿10494|<O>| if (TASK_LEGEND_D->check_task_item(who, "簸箕", 1) != 1)
-10495|<O>| DEBUG(sprintf("测试-->Enable_id为空 titlecode=%s",title));
-10496|<O>| private static int team_id;                   	// 队伍ID
-10497|<O>| if (objectp(present("英明的双子", me, 1, MAX_CARRY * 4))) {
-10498|<O>| who->set_save( "salary", get_save("day") );    // 标记今天
-10499|<O>| if (TASK_LEGEND_D->check_task_item(who, "锄头", 1) != 1)
-10500|<O>| send_user(who, "%c%s", ':', "您确定要解散“" + name + "”吗？\n"
-10501|<O>| if (!objectp(item = present("灵石", who, 1, MAX_CARRY)))
-10502|<O>| return ("花语:热情真爱\n使用后物理攻击增加30%，持续60分钟\n"HIR"使用者需为女性");
-10503|<O>| else if (rate < 4400 * rate1 / 100)		//1本对应活动门派进阶书:20%
-10504|<O>| send_user(who,"%c%s",'!',"恭喜您！您得到了"+item->get_name());
-10505|<O>| send_user(who, "%c%s", ';', "找智慧老人谈谈 经验 280 金钱 1500");
-10506|<O>| send_user(who, "%c%s", ';', "您用一只黑球、一只蓝球与一只红球兑换了紫参丹");
-10507|<O>| return sprintf("包含技能:%s\n%s", oSki->get_name(), desc);
-10508|<O>| if (TASK_LEGEND_D->check_task_item(who, "盘缠", 1) != 1)
-10509|<O>| send_user(me, "%c%w%w%c", 0x07, x0, y0, 2);    // 坐标修正
-10510|<O>| result += sprintf(ESC"叮当\ntalk %x# welcome.22\n", id);
-10511|<O>| if( !objectp( present("钱老九的货物", who, 1, MAX_CARRY) ) )
-10512|<O>| send_user(who, "%c%s", '!', sprintf(HIY"剑 %d/20", i));
-10513|<O>| if( me->is_user() ) me->set_enemy(0);    // 当玩家走开，不再攻击
-10514|<O>| if (TASK_LEGEND_D->check_task_item(who, "慈石", 7) != 1)
-10515|<O>| result = sprintf("%s将被强行加锁14天，在这期间，此宠物将不能被交易、买卖、放生。\n"
-10516|<O>| result += sprintf(ESC"叮当\ntalk %x# welcome.12\n", id);
-10517|<O>| USER_D->user_channel(sprintf("挖宝总动员活动在%d分钟后正式开始，请各位玩家"
-10518|<O>| if (TASK_LEGEND_D->check_task_item(who, "莲藕", 3) != 1)
-10519|<O>| if (TASK_LEGEND_D->check_task_item(who, "木箱", 1) != 1)
-10520|<O>| if (TASK_LEGEND_D->check_task_item(who, "美酒", 5) != 1)
-10521|<O>| mpChampion[userid[i]] = mpTmp1[userid[i]][win];	//候选名单
-10522|<O>| tmp = sprintf(ESC HIY "拜访\ntalk %x# welcome.1\n", id);
-10523|<O>| return ("寓意:潇洒帅气\n使用后物理防御增加30%，持续60分钟\n"HIR"使用者需为男性");
-10524|<O>| send_user(who, "%c%s", '!', sprintf(HIY"萝卜 %d/4", i));
-10525|<O>| result += sprintf(ESC"紫毛\ntalk %x# welcome.26\n", id);
-10526|<O>| if (TASK_LEGEND_D->check_task_item(who, "战报", 1) != 1)
-10527|<O>| //		send_user(who,"%c%s",'!',sprintf(HIY"萝卜 %d/4",i));
-10528|<O>| if (TASK_LEGEND_D->check_task_item(who, "衣服", 6) != 1)
-10529|<O>| else if (sscanf(arg, "# %s", id))    // 取消对方确认（更改自己物品）
-10530|<O>| log_file(LIST_LOG_2, "--- 以下放入 /map/map/map.c ---\n");
-10531|<O>| if (TASK_LEGEND_D->check_task_item(who, "菜种", 1) != 1)
-10532|<O>| if (TASK_LEGEND_D->check_task_item(who, "稻子", 9) != 1)
-10533|<O>| if (TASK_LEGEND_D->check_task_item(who, "令旗", 1) != 1)
-10534|<O>| return HIC+get_name()+"\n拥有此技能的宠物，使用此技能会用雷击法术攻击单一目标。";
-10535|<O>| if (TASK_LEGEND_D->check_task_item(who, "老酒", 1) != 1)
-10536|<O>| result += sprintf("城主:%s\n", city->get_master_name());
-10537|<O>| return sprintf("小血石:\n    使用后每2秒可恢复%d点气血值", iStoneHp);
-10538|<O>| if (TASK_LEGEND_D->check_task_item(who, "黄连", 5) != 1)
-10539|<O>| send_user(who, "%c%s", '!', "你接受了"HIY"老村长的委托"NOR"任务");
-10540|<O>| return "［冥思］ 精神修炼之法，能大大提升修行者的法术力上限。每级可提升1％的法术力上限值。\n";
-10541|<O>| //      me->set_time( "pf", time() );    // 由 pf 成功后设置
-10542|<O>| if (TASK_LEGEND_D->check_task_item(who, "糕点", 1) != 1)
-10543|<O>| result += sprintf(ESC "购买物资\nlist %x#\n", getoid(me));
-10544|<O>| winners[userid[i]] = mpTmp1[userid[i]]["name"]; //中奖名单
-10545|<O>| if (TASK_LEGEND_D->check_task_item(who, "棉线", 5) != 1)
-10546|<O>| CHAR_CHAR_D->stop_loop_perform_9(me);    // 中断持续效果(其它)
-10547|<O>| //	取得当前指定模式的时间整数 -- week / month / day / hour 默认为 week
-10548|<O>| if (TASK_LEGEND_D->check_task_item(who, "镰刀", 1) != 1)
-10549|<O>| case "楚国": z = 60;  p = get_jumpin(z, me->get("out"));
-10550|<O>| if (TASK_LEGEND_D->check_task_item(who, "皂角", 7) != 1)
-10551|<O>| send_user( who, "%c%s", '!', get_name() + "不想同你打架。" );
-10552|<O>| send_user(who, "%c%s", '!', sprintf(HIY"官印 %d/1", 1));
-10553|<O>| if (TASK_LEGEND_D->check_task_item(who, "宝剑", 1) != 1)
-10554|<O>| return ("花语:敦厚善良\n使用后物理防御增加30%，持续60分钟\n"HIR"使用者需为女性");
-10555|<O>| result += sprintf(ESC"胖胖\ntalk %x# welcome.15\n", id);
-10556|<O>| if (TASK_LEGEND_D->check_task_item(who, "玉丝", 1) != 1)
+﻿10494|<O>| if (TASK_LEGEND_D->check_task_item(who, "Nia", 1) != 1)
+10495|<O>| DEBUG(sprintf("Thử nghiệm-->Enable_id rỗng titlecode=%s",title));
+10496|<O>| private static int team_id;                   	// ID đội ngũ
+10497|<O>| if (objectp(present("Song Tử Anh Minh", me, 1, MAX_CARRY * 4))) {
+10498|<O>| who->set_save( "salary", get_save("day") );    // Đánh dấu hôm nay
+10499|<O>| if (TASK_LEGEND_D->check_task_item(who, "Cuốc", 1) != 1)
+10500|<O>| send_user(who, "%c%s", ':', "Bạn xác nhận muốn giải tán \"" + name + "\" không?\n"
+10501|<O>| if (!objectp(item = present("Linh Thạch", who, 1, MAX_CARRY)))
+10502|<O>| return ("Hoa ngữ: Nhiệt tình chân ái\nSử dụng sau tấn công vật lý tăng 30%, kéo dài 60 phút\n"HIR"Người sử dụng phải là nữ");
+10503|<O>| else if (rate < 4400 * rate1 / 100)		//1 cuốn sách tiến giai môn phái hoạt động tương ứng: 20%
+10504|<O>| send_user(who,"%c%s",'!',"Chúc mừng! Bạn nhận được "+item->get_name());
+10505|<O>| send_user(who, "%c%s", ';', "Tìm Trí Tuệ Lão Nhân Nói Chuyện Kinh nghiệm 280 Tiền vàng 1500");
+10506|<O>| send_user(who, "%c%s", ';', "Bạn dùng một quả cầu đen, một quả cầu xanh và một quả cầu đỏ đổi được Tử Sâm Đan");
+10507|<O>| return sprintf("Bao gồm kỹ năng: %s\n%s", oSki->get_name(), desc);
+10508|<O>| if (TASK_LEGEND_D->check_task_item(who, "Lộ Phí", 1) != 1)
+10509|<O>| send_user(me, "%c%w%w%c", 0x07, x0, y0, 2);    // Hiệu chỉnh tọa độ
+10510|<O>| result += sprintf(ESC"Đing Đang\ntalk %x# welcome.22\n", id);
+10511|<O>| if( !objectp( present("Hàng Hóa Của Tiền Lão Cửu", who, 1, MAX_CARRY) ) )
+10512|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Kiếm %d/20", i));
+10513|<O>| if( me->is_user() ) me->set_enemy(0);    // Khi người chơi bỏ đi, không tấn công nữa
+10514|<O>| if (TASK_LEGEND_D->check_task_item(who, "Từ Thạch", 7) != 1)
+10515|<O>| result = sprintf("%s sẽ bị cưỡng chế khóa 14 ngày, trong thời gian này thú cưng sẽ không thể giao dịch, mua bán, phóng sinh.\n"
+10516|<O>| result += sprintf(ESC"Đing Đang\ntalk %x# welcome.12\n", id);
+10517|<O>| USER_D->user_channel(sprintf("Hoạt động Đào Bảo Tổng Động Viên sẽ chính thức bắt đầu sau %d phút, mời các người chơi"
+10518|<O>| if (TASK_LEGEND_D->check_task_item(who, "Ngó Sen", 3) != 1)
+10519|<O>| if (TASK_LEGEND_D->check_task_item(who, "Hòm Gỗ", 1) != 1)
+10520|<O>| if (TASK_LEGEND_D->check_task_item(who, "Mỹ Tửu", 5) != 1)
+10521|<O>| mpChampion[userid[i]] = mpTmp1[userid[i]][win];	//Danh sách ứng viên
+10522|<O>| tmp = sprintf(ESC HIY "Bái Phỏng\ntalk %x# welcome.1\n", id);
+10523|<O>| return ("Ngụ ý: Phóng khoáng đẹp trai\nSử dụng sau phòng thủ vật lý tăng 30%, kéo dài 60 phút\n"HIR"Người sử dụng phải là nam");
+10524|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Cà Rốt %d/4", i));
+10525|<O>| result += sprintf(ESC"Tử Mao\ntalk %x# welcome.26\n", id);
+10526|<O>| if (TASK_LEGEND_D->check_task_item(who, "Chiến Báo", 1) != 1)
+10527|<O>| //		send_user(who,"%c%s",'!',sprintf(HIY"Cà Rốt %d/4",i));
+10528|<O>| if (TASK_LEGEND_D->check_task_item(who, "Quần Áo", 6) != 1)
+10529|<O>| else if (sscanf(arg, "# %s", id))    // Hủy xác nhận đối phương（thay đổi vật phẩm bên mình）
+10530|<O>| log_file(LIST_LOG_2, "--- Dưới đây đặt vào /map/map/map.c ---\n");
+10531|<O>| if (TASK_LEGEND_D->check_task_item(who, "Hạt Giống Rau", 1) != 1)
+10532|<O>| if (TASK_LEGEND_D->check_task_item(who, "Lúa", 9) != 1)
+10533|<O>| if (TASK_LEGEND_D->check_task_item(who, "Lệnh Kỳ", 1) != 1)
+10534|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này, sử dụng kỹ năng sẽ dùng pháp thuật sấm sét tấn công đơn mục tiêu.";
+10535|<O>| if (TASK_LEGEND_D->check_task_item(who, "Rượu Cũ", 1) != 1)
+10536|<O>| result += sprintf("Thành chủ: %s\n", city->get_master_name());
+10537|<O>| return sprintf("Tiểu Huyết Thạch:\n    Sau khi sử dụng, mỗi 2 giây có thể hồi phục %d điểm khí huyết", iStoneHp);
+10538|<O>| if (TASK_LEGEND_D->check_task_item(who, "Hoàng Liên", 5) != 1)
+10539|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận nhiệm vụ "HIY"Ủy Thác Của Lão Trưởng Thôn"NOR"");
+10540|<O>| return "［Minh Tưởng］ Phương pháp tu luyện tinh thần, có thể nâng cao đáng kể giới hạn pháp lực của người tu hành. Mỗi cấp tăng 1% giới hạn pháp lực.\n";
+10541|<O>| //      me->set_time( "pf", time() );    // Do pf thiết lập sau khi thành công
+10542|<O>| if (TASK_LEGEND_D->check_task_item(who, "Bánh Ngọt", 1) != 1)
+10543|<O>| result += sprintf(ESC "Mua vật tư\nlist %x#\n", getoid(me));
+10544|<O>| winners[userid[i]] = mpTmp1[userid[i]]["name"]; //Danh sách trúng thưởng
+10545|<O>| if (TASK_LEGEND_D->check_task_item(who, "Sợi Bông", 5) != 1)
+10546|<O>| CHAR_CHAR_D->stop_loop_perform_9(me);    // Gián đoạn hiệu ứng liên tục(khác)
+10547|<O>| //	Lấy số nguyên thời gian của chế độ chỉ định hiện tại -- week / month / day / hour mặc định là week
+10548|<O>| if (TASK_LEGEND_D->check_task_item(who, "Liềm", 1) != 1)
+10549|<O>| case "Sở Quốc": z = 60;  p = get_jumpin(z, me->get("out"));
+10550|<O>| if (TASK_LEGEND_D->check_task_item(who, "Bồ Kết", 7) != 1)
+10551|<O>| send_user( who, "%c%s", '!', get_name() + " không muốn đánh nhau với bạn." );
+10552|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Quan Ấn %d/1", 1));
+10553|<O>| if (TASK_LEGEND_D->check_task_item(who, "Bảo Kiếm", 1) != 1)
+10554|<O>| return ("Hoa ngữ: Đôn hậu thiện lương\nSử dụng sau phòng thủ vật lý tăng 30%, kéo dài 60 phút\n"HIR"Người sử dụng phải là nữ");
+10555|<O>| result += sprintf(ESC"Béo Béo\ntalk %x# welcome.15\n", id);
+10556|<O>| if (TASK_LEGEND_D->check_task_item(who, "Ngọc Ti", 1) != 1)

@@ -1,80 +1,80 @@
-﻿14813|<O>| else if (p < 3196 * rate / 100)    // Tiền vàng
-14814|<O>| string get_skill_name() { return "Luyện Đơn"; }
+﻿14813|<O>| else if (p < 3196 * rate / 100)    // Vàng
+14814|<O>| string get_skill_name() { return "Luyện Đan"; }
 14815|<O>| else if (p < 9950 * rate / 100)    // Trang bị
-14816|<O>| send_user(who, "%c%s", '!', "Ác quan tự Tam 1/1");
-14817|<O>| else if (p < 5690 * rate / 100)    // Tiền vàng
-14818|<O>| else if (p < 9195 * rate / 100)    // Tiền vàng
-14819|<O>| send_user(me, "%c%s", '!', "Bạnkhông thểđối vớibản thânthụ khóa。");
-14820|<O>| USER_ENERGY_D->count_dp(me);    // NângPhòng thủLực
-14821|<O>| notify(item->get_name() + "LàÁm Khí，khôngcáchTu lý！");
-14822|<O>| string get_skill_name() { return "Tài Phùng"; }
-14823|<O>| ESC HIY"lĩnh thủVIPthử dùng bao\ntalk %x# welcome.89\n"
-14824|<O>| else if (p < 3272 * rate / 100)    // Tiền vàng
-14825|<O>| else if (p < 8944 * rate / 100)    // Tiền vàng
-14826|<O>| void turn_on_alarm_clock();				//	MởNáo Chung Công Năng
-14827|<O>| else if (p < 7012 * rate / 100)    // Tiền vàng
-14828|<O>| else if (p < 6151 * rate / 100)    // Tiền vàng
-14829|<O>| if (!arrayp(user = users())    // hoạch thủtất cảNgười chơi
-14830|<O>| send_user(me, "%c%s", '!', "Chiến QuốcVương giả lĩnh thưởngMở!");
-14831|<O>| send_user(me, "%c%s", '!', "Luyện Dược Công Năng Thượng vị mở Phóng。");
-14832|<O>| if (objectp(me->get_owner()))    // Tự Độngchiến đấu
-14833|<O>| else if (who->is_seller() == 2)  // Vân duThương Nhân
-14834|<O>| else if (p < 8047 * rate / 100)    // Tiền vàng
-14835|<O>| gift = new("item/final/16/1609");	//Vĩnh Động hạch Tâm
-14836|<O>| else if (p < 5728 * rate / 100)    // Tiền vàng
-14837|<O>| ESC"tôilại khảo lự khảo lự", me->get_name(), getoid(me))
-14838|<O>| else if (p < 9012 * rate / 100)    // Tiền vàng
-14839|<O>| send_user(me, "%c%s", '!', "Bạn chínhTạicông tác Chigiữa。");
-14840|<O>| string get_skill_name() { return "ĐộcKinh"; }
-14841|<O>| send_user(who, "%c%s", '!', "bạncủasưu Hồn Pháp Khí ?");
-14842|<O>| case 4: result = "nóchi Diệptrênbò một sốnhỏtrùng Tử。";  break;
-14843|<O>| else if (p < 9207 * rate / 100)    // Tiền vàng
-14844|<O>| return "cơ giớinhỏsủng vật，rất có thể Ái，Năngchochủ Nhân Đềcao2%Huyết khítrênhạn，Số lần sử dụng30。";
-14845|<O>| else if (p < 3044 * rate / 100)    // Tiền vàng
-14846|<O>| else if (p < 5978 * rate / 100)    // Tiền vàng
-14847|<O>| send_user(me,"%c%s",';',"Bạn nhận được"HIY"Gia tộc Ngọc bội");
-14848|<O>| else if (p < 6695 * rate / 100)    // Tiền vàng
-14849|<O>| send_user(me, "%c%s", '!', "Bảo rươngvàchìa thìkhôngPhối bộ！");
-14850|<O>| else if (p < 5464 * rate / 100)    // Tiền vàng
-14851|<O>| else if (p < 6179 * rate / 100)    // Tiền vàng
-14852|<O>| else if (p < 9192 * rate / 100)    // Tiền vàng
-14853|<O>| //                notify( "vô Pháp tìmđếnnàytệp tin。" );
-14854|<O>| log_file(LIST_LOG, "<!-- tiến giai thư tịch -->\n\n");
-14855|<O>| case "phú GianhỏTỷ": type = "RICH_LADY";  break;
-14856|<O>| send_user(who, "%c%s", '!', "bạncủaoánQuỷChi Linh ?");
-14857|<O>| send_user(who, "%c%s", '!', "bạnthủ Hồi Nhấtchỉsủng vật");
-14858|<O>| set_heart_loop(me, 100);    // Vòng lặp nhịp tim:１０giây
-14859|<O>| else if (p < 5256 * rate / 100)    // Tiền vàng
-14860|<O>| return "SắtKhoáng thạch，thông qua sinh hoạtKỹ năngcủakhoáng dã dung Luyện thànhThiết đĩnhcó thểcungThiết Tượng、Cơ Quan chế tạo trang bị";
-14861|<O>| me->force_me("store");    // phát Xuất store Mệnh Lệnh
+14816|<O>| send_user(who, "%c%s", '!', "Ác Quan Tự Tam 1/1");
+14817|<O>| else if (p < 5690 * rate / 100)    // Vàng
+14818|<O>| else if (p < 9195 * rate / 100)    // Vàng
+14819|<O>| send_user(me, "%c%s", '!', "Bạn không thể tự giảng dạy mình.");
+14820|<O>| USER_ENERGY_D->count_dp(me);    // Tăng phòng thủ
+14821|<O>| notify(item->get_name() + " là ám khí, không thể sửa chữa!");
+14822|<O>| string get_skill_name() { return "Thợ May"; }
+14823|<O>| ESC HIY"Nhận gói dùng thử VIP\ntalk %x# welcome.89\n"
+14824|<O>| else if (p < 3272 * rate / 100)    // Vàng
+14825|<O>| else if (p < 8944 * rate / 100)    // Vàng
+14826|<O>| void turn_on_alarm_clock();				//	Bật chức năng đồng hồ báo thức
+14827|<O>| else if (p < 7012 * rate / 100)    // Vàng
+14828|<O>| else if (p < 6151 * rate / 100)    // Vàng
+14829|<O>| if (!arrayp(user = users())    // Lấy tất cả người chơi
+14830|<O>| send_user(me, "%c%s", '!', "Nhận thưởng Chiến Quốc Vương Giả đã mở!");
+14831|<O>| send_user(me, "%c%s", '!', "Chức năng luyện thuốc chưa mở.");
+14832|<O>| if (objectp(me->get_owner()))    // Tự động chiến đấu
+14833|<O>| else if (who->is_seller() == 2)  // Thương nhân vân du
+14834|<O>| else if (p < 8047 * rate / 100)    // Vàng
+14835|<O>| gift = new("item/final/16/1609");	//Lõi vĩnh động
+14836|<O>| else if (p < 5728 * rate / 100)    // Vàng
+14837|<O>| ESC"Để tôi suy nghĩ thêm", me->get_name(), getoid(me))
+14838|<O>| else if (p < 9012 * rate / 100)    // Vàng
+14839|<O>| send_user(me, "%c%s", '!', "Bạn đang làm việc.");
+14840|<O>| string get_skill_name() { return "Độc Kinh"; }
+14841|<O>| send_user(who, "%c%s", '!', "Pháp khí sưu hồn của bạn đâu?");
+14842|<O>| case 4: result = "Trên cành lá có vài con sâu nhỏ bò.";  break;
+14843|<O>| else if (p < 9207 * rate / 100)    // Vàng
+14844|<O>| return "Thú cưng cơ khí nhỏ, rất dễ thương, giúp chủ nhân tăng 2% khí huyết tối đa, số lần sử dụng 30.";
+14845|<O>| else if (p < 3044 * rate / 100)    // Vàng
+14846|<O>| else if (p < 5978 * rate / 100)    // Vàng
+14847|<O>| send_user(me,"%c%s",';',"Bạn nhận được "HIY"Ngọc Bội Gia Tộc");
+14848|<O>| else if (p < 6695 * rate / 100)    // Vàng
+14849|<O>| send_user(me, "%c%s", '!', "Rương và chìa khóa không khớp!");
+14850|<O>| else if (p < 5464 * rate / 100)    // Vàng
+14851|<O>| else if (p < 6179 * rate / 100)    // Vàng
+14852|<O>| else if (p < 9192 * rate / 100)    // Vàng
+14853|<O>| //                notify( "Không tìm thấy file này." );
+14854|<O>| log_file(LIST_LOG, "<!-- Sách Tiến Giai -->\n\n");
+14855|<O>| case "Phú Gia Tiểu Thư": type = "RICH_LADY";  break;
+14856|<O>| send_user(who, "%c%s", '!', "Oán Quỷ Chi Linh của bạn đâu?");
+14857|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận lại một con thú cưng");
+14858|<O>| set_heart_loop(me, 100);    // Nhịp tim tuần hoàn: 10 giây
+14859|<O>| else if (p < 5256 * rate / 100)    // Vàng
+14860|<O>| return "Quặng sắt, thông qua kỹ năng sinh hoạt khoáng luyện thành Thiết Đĩnh có thể cung cấp cho Thợ Rèn, Cơ Quan chế tạo trang bị";
+14861|<O>| me->force_me("store");    // Gửi lệnh store
 14862|<O>| string get_skill_name() { return "Dược Sư"; }
-14863|<O>| notify(item->get_name() + "đã đưa lên kệ，không thểDi Động。");
-14864|<O>| else if (p < 3038 * rate / 100)    // Tiền vàng
-14865|<O>| return "Năngđối vớiPhòng thủlâmgiờĐềcao，lâmgiờĐềcao10%Phòng thủ，kéo dài10phút，Hồi chiêu2giây";
-14866|<O>| ESC "trường cảnh Giới nghiêm\n" + "gmfight forbbit all\n" +
-14867|<O>| else if (p < 9326 * rate / 100)    // Tiền vàng
-14868|<O>| YUTU->delete_2("player");//XóaNgười chơithỏ Tử số lượng ký lục。*/
-14869|<O>| return "nhỏbìnhcủađặc hiệu DượcThủy，có thểngay lập tức phục hồiTự Thân800điểm Khí Huyết。Thời gian hồi2giây。";
-14870|<O>| send_user(who, "%c%s", '!', "Nhất rương HoàngVàng 1/1");
-14871|<O>| send_user(who, "%c%s", '!', "bạncủaGia tộc Ngọc bội ?");
-14872|<O>| result += ESC "Ẩn Thân\ngmset invisible 1\n";
-14873|<O>| send_user(me, "%c%s", '!', "đối vớiPhương cương ngộđếnMông Diện Nhân。");
-14874|<O>| else if (p < 5197 * rate / 100)    // Tiền vàng
-14875|<O>| + ESC"300VàngThu cấunhỏSơn Kê Nhấtchỉ\ntalk %x# welcome.1\n"
-14876|<O>| send_user(me, "%c%s", ':', "Bạn muốn Phi đinàobản đồ？\n"
-14877|<O>| else if (rate < 99998)	//TăngPháp Thuật sở tạo thànhcủaTrị liệuhiệu Quả33điểm
-14878|<O>| send_user(me, "%c%s", '!', "Bạn cự ly NgưCóta Viễn。");
-14879|<O>| send_user(who, "%c%s", '!', "Hoàng thửLangTinh 1/1");
-14880|<O>| return "BạcKhoáng thạch，thông qua sinh hoạtKỹ năngcủakhoáng dã dung Luyện thànhNgân đĩnhcó thểcungThiết Tượng、Cơ Quan chế tạo trang bị";
-14881|<O>| send_user(who, "%c%s", '!', "bạnhuề ĐáicủaVật Phẩm Tháinhiều");
-14882|<O>| else if (p < 8060 * rate / 100)    // Tiền vàng
-14883|<O>| SAY_CMD->say(me, "BăngTrấn Trư Nhục Năng bảo trì Nhụccủatiên vị，rấttốt，rấttốt！！");
-14884|<O>| string get_skill_name() { return "ma Luyện"; }
-14885|<O>| else if (p < 4905 * rate / 100)    // Tiền vàng
-14886|<O>| else if (p < 2890 * rate / 100)    // Tiền vàng
-14887|<O>| who->add_occupation_level(0);    // loátmớitư liệu
-14888|<O>| return "ĐồngKhoáng thạch，thông qua sinh hoạtKỹ năngcủakhoáng dã dung Luyện thànhKim đĩnhcó thểcungThiết Tượng、Cơ Quan chế tạo trang bị";
-14889|<O>| return "phó bản" + ::get_name();	//cáo tố khách Hộ đoanLàphó bảnbản đồ
-14890|<O>| return "［Thương CônbướcPháp］NângSử dụngThươngvàCôncủaPhòng thủLực，Mỗi cấp tăng 0.6điểm。\n";
-14891|<O>| else if (p < 5360 * rate / 100)    // Tiền vàng
-14892|<O>| item = new("item/final/91/1809");	//TiênSơn Linh chi
+14863|<O>| notify(item->get_name() + " đã lên kệ, không thể di chuyển.");
+14864|<O>| else if (p < 3038 * rate / 100)    // Vàng
+14865|<O>| return "Tạm thời tăng phòng thủ, tăng 10% phòng thủ, kéo dài 10 phút, hồi chiêu 2 giây";
+14866|<O>| ESC "Giới nghiêm cảnh\n" + "gmfight forbbit all\n" +
+14867|<O>| else if (p < 9326 * rate / 100)    // Vàng
+14868|<O>| YUTU->delete_2("player");//Xóa ghi chép số lượng thỏ của người chơi.*/
+14869|<O>| return "Bình thuốc đặc hiệu nhỏ, lập tức hồi phục 800 điểm khí huyết. Thời gian hồi chiêu 2 giây.";
+14870|<O>| send_user(who, "%c%s", '!', "Một Rương Hoàng Kim 1/1");
+14871|<O>| send_user(who, "%c%s", '!', "Ngọc Bội Gia Tộc của bạn đâu?");
+14872|<O>| result += ESC "Ẩn thân\ngmset invisible 1\n";
+14873|<O>| send_user(me, "%c%s", '!', "Đối phương vừa gặp kẻ bịt mặt.");
+14874|<O>| else if (p < 5197 * rate / 100)    // Vàng
+14875|<O>| + ESC"300 vàng thu mua một con Gà Rừng Nhỏ\ntalk %x# welcome.1\n"
+14876|<O>| send_user(me, "%c%s", ':', "Bạn muốn bay đến bản đồ nào?\n"
+14877|<O>| else if (rate < 99998)	//Tăng hiệu quả chữa trị pháp thuật 33 điểm
+14878|<O>| send_user(me, "%c%s", '!', "Bạn cách cá hơi xa rồi.");
+14879|<O>| send_user(who, "%c%s", '!', "Hoàng Thử Lang Tinh 1/1");
+14880|<O>| return "Quặng bạc, thông qua kỹ năng sinh hoạt khoáng luyện thành Ngân Đĩnh có thể cung cấp cho Thợ Rèn, Cơ Quan chế tạo trang bị";
+14881|<O>| send_user(who, "%c%s", '!', "Bạn mang theo quá nhiều vật phẩm");
+14882|<O>| else if (p < 8060 * rate / 100)    // Vàng
+14883|<O>| SAY_CMD->say(me, "Thịt heo ướp lạnh giữ được độ tươi, tốt lắm, tốt lắm!!");
+14884|<O>| string get_skill_name() { return "Mài Luyện"; }
+14885|<O>| else if (p < 4905 * rate / 100)    // Vàng
+14886|<O>| else if (p < 2890 * rate / 100)    // Vàng
+14887|<O>| who->add_occupation_level(0);    // Làm mới dữ liệu
+14888|<O>| return "Quặng đồng, thông qua kỹ năng sinh hoạt khoáng luyện thành Kim Đĩnh có thể cung cấp cho Thợ Rèn, Cơ Quan chế tạo trang bị";
+14889|<O>| return "Phụ bản" + ::get_name();	//Thông báo client đây là bản đồ phụ bản
+14890|<O>| return "［Thương Côn Bộ Pháp］Tăng phòng thủ khi dùng thương và côn, mỗi cấp tăng 0.6 điểm.\n";
+14891|<O>| else if (p < 5360 * rate / 100)    // Vàng
+14892|<O>| item = new("item/final/91/1809");	//Tiên Sơn Linh Chi

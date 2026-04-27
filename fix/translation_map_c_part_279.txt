@@ -1,62 +1,62 @@
-﻿9994|<O>| who->set_save_2("double_time.time3", 0);	//额外换取的3小时双倍时间
-9995|<O>| if (TASK_LEGEND_D->check_task_item(who, "小米", 10) != 1)
-9996|<O>| return HIR + PF_NAME + "\n技能需求:46级\n    无视对手防御力作出必杀技。";
-9997|<O>| return "十二星座之一的水瓶座。将其放出，主人打怪可获得10%的经验加成。时间限制14天。获取绑定。";
-9998|<O>| send_user(who, "%c%s", '!', "你的济世葫芦的可存经验已经到达上限，不能扩展！");
-9999|<O>| return "神奇的令牌，使用后持续一个小时内消灭的\n怪物可获得双倍的经验奖励。（令牌的效果无法叠加）";
-10000|<O>| send_user(who, "%c%s", '!', sprintf(HIY"虾兵 %d/20", i));
-10001|<O>| if (TASK_LEGEND_D->check_task_item(who, "灵光镜", 1) != 1)
-10002|<O>| if (TASK_LEGEND_D->check_task_item(who, "竹蜻蜓", 1) != 1)
-10003|<O>| send_user(who, "%c%s", '!', sprintf(HIY"剑魂 %d/30", i));
-10004|<O>| result = sprintf(HIY "%s纵声长啸:%s", me->get_name(), arg);
-10005|<O>| if (TASK_LEGEND_D->check_task_item(who, "龙玉珠", 1) != 1)
-10006|<O>| private static object* dbFighter = ({ });       // 怪物数组
-10007|<O>| if (TASK_LEGEND_D->check_task_item(who, "叙旧信", 1) != 1)
-10008|<O>| send_user(who, "%c%s", '!', "您需要5个物品空间，请先整理一下再打开礼包吧！");
-10009|<O>| if (TASK_LEGEND_D->check_task_item(who, "冬虫草", 5) != 1)
-10010|<O>| private static mapping mpPawn = ([]);          // 典当数据集
-10011|<O>| if (TASK_LEGEND_D->check_task_item(who, "月见草", 1) != 1)
-10012|<O>| write_user(me, ECHO "授课太枯燥，%s已经走开了。", who->get_name());
-10013|<O>| send_user(who, "%c%s", '!', sprintf(HIY"冬虫草 %d/5", i));
-10014|<O>| sprintf(ESC "工业(%d)。\n", city->get_industry()) + cmd5 +
-10015|<O>| DEBUG(sprintf("测试-->Enable_id不为空 titlecode=%s",title));
-10016|<O>| if (TASK_LEGEND_D->check_task_item(who, "碧光石", 1) != 1)
-10017|<O>| //	 	send_user( who, "%c%s", '!', "任务已经完成了，请向卫队长报告。" );
-10018|<O>| send_user(who, "%c%s", '!', sprintf(HIY"小野兔 %d/5", i));
-10019|<O>| send_user(who, "%c%s", '!', sprintf(HIY"石狮 %d/20", i));
-10020|<O>| send_user(who,"%c%s",'!',sprintf("恭喜您！您得到了%d点潜能",pot));
-10021|<O>| if (TASK_LEGEND_D->check_task_item(who, "请战书", 1) != 1)
-10022|<O>| send_user(who, "%c%s", '!', sprintf(HIY"恶灵 %d/30", i));
-10023|<O>| if (TASK_LEGEND_D->check_task_item(who, "玲珑玉", 1) != 1)
-10024|<O>| if (TASK_LEGEND_D->check_task_item(who, "保和丹", 1) != 1)
-10025|<O>| send_user(who, "%c%s", '!', sprintf(HIY"快刀 %d/10", i));
-10026|<O>| //                     case 6 : name3 = "抵抗入侵";  break;
-10027|<O>| send_user(me, "%c%w%w%c", 0x07, x0, y0, 13);    // 坐标修正
-10028|<O>| send_user(who, "%c%s", '!', sprintf(HIY"保和丹 %d/1", i));
-10029|<O>| tell_user(me, "当前时间还原到准确的系统时间:%s", short_time(time()));
-10030|<O>| send_user(who, "%c%s", '!', sprintf(HIY"利剑 %d/10", i));
-10031|<O>| send_user(who, "%c%s", '!', sprintf(HIY"泥雕 %d/10", i));
-10032|<O>| if (TASK_LEGEND_D->check_task_item(who, "大木箱", 1) != 1)
-10033|<O>| map->init_user_dbase();    // 省略循环中 map->sub_user(who);
-10034|<O>| ESC "接受\n" + sprintf("talk %x# accept\n", getoid(me)) +
-10035|<O>| result = sprintf( "错误: %s程序: %s %s : 第 %i 行\n对象: %O\n",
-10036|<O>| && who->get_quest("valentine.flag") == 6    // 6. 情人节流氓
-10037|<O>| if (TASK_LEGEND_D->check_task_item(who, "快刀", 10) != 1)
-10038|<O>| send_user(who, "%c%s", '!', sprintf(HIY"小米 %d/10", i));
-10039|<O>| int get_char_picid() { return pic_id; }				// 函数:获取人物造型
-10040|<O>| send_user(who, "%c%s", '!', sprintf(HIY"壮丁 %d/10", i));
-10041|<O>| send_user(who, "%c%s", '!', sprintf(HIY"穿心莲 %d/5", i));
-10042|<O>| result = sprintf("%s分红记录:分红(剩余)/贡献", city->get_name());
-10043|<O>| write_user(who, ECHO "您获得两枚" + item->get_name() + "。");
-10044|<O>| if (TASK_LEGEND_D->check_task_item(who, "挑战书", 1) != 1)
-10045|<O>| private int BZ_TIME_CACHE	= 1;			//	临界时间缓冲 -- 可忽略的时间分钟数
-10046|<O>| write_user(who, ECHO "您的国家贡献 +1, 经验 %+d, 潜能 +5。", exp);
-10047|<O>| if (TASK_LEGEND_D->check_task_item(who, "何首乌", 1) != 1)
-10048|<O>| send_user(who, "%c%s", '!', sprintf(HIY"枪魂 %d/12", i));
-10049|<O>| #define UPDATE_CMD      "/cmd/debug/update"     // 更新命令
-10050|<O>| string *qixi_rose=({"七夕蓝玫瑰","七夕白玫瑰","七夕红玫瑰","七夕紫玫瑰",});
-10051|<O>| send_user(who, "%c%s", '!', sprintf(HIY"百合花 %d/3", i));
-10052|<O>| send_user(me, "%c%s", ';', "您开启宝箱得到了:" + result + "。");
-10053|<O>| if (TASK_LEGEND_D->check_task_item(who, "鹿角", 20) != 1)
-10054|<O>| return "远古时代流传下来的一种名为人气王的人形木偶，\n使用后能使帮派人气增加1000。冷却2秒。";
-10055|<O>| send_user(who, "%c%s", ';', "火焰石已经收集好,请找新手村的门派向导完成任务");
+﻿9994|<O>| who->set_save_2("double_time.time3", 0);	//3 giờ thời gian gấp đôi đổi thêm
+9995|<O>| if (TASK_LEGEND_D->check_task_item(who, "Tiểu Mễ", 10) != 1)
+9996|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 46\n    Bỏ qua phòng thủ đối thủ để thực hiện đòn sát thủ.";
+9997|<O>| return "Một trong mười hai cung hoàng đạo - Bảo Bình. Thả ra, chủ nhân đánh quái có thể nhận thêm 10% kinh nghiệm. Giới hạn 14 ngày. Nhận được thì gắn.";
+9998|<O>| send_user(who, "%c%s", '!', "Tế Thế Hồ Lô của bạn đã đạt giới hạn kinh nghiệm có thể lưu trữ, không thể mở rộng!");
+9999|<O>| return "Lệnh bài thần kỳ, sau khi sử dụng trong vòng một giờ tiêu diệt\nquái vật có thể nhận được gấp đôi kinh nghiệm. (Hiệu quả lệnh bài không thể cộng dồn)";
+10000|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Hà Binh %d/20", i));
+10001|<O>| if (TASK_LEGEND_D->check_task_item(who, "Linh Quang Kính", 1) != 1)
+10002|<O>| if (TASK_LEGEND_D->check_task_item(who, "Chuồn Chuồn Tre", 1) != 1)
+10003|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Kiếm Hồn %d/30", i));
+10004|<O>| result = sprintf(HIY "%s cất tiếng hét dài: %s", me->get_name(), arg);
+10005|<O>| if (TASK_LEGEND_D->check_task_item(who, "Long Ngọc Châu", 1) != 1)
+10006|<O>| private static object* dbFighter = ({ });       // Mảng quái vật
+10007|<O>| if (TASK_LEGEND_D->check_task_item(who, "Thư Tự Cựu", 1) != 1)
+10008|<O>| send_user(who, "%c%s", '!', "Bạn cần 5 ô trống đạo cụ, hãy sắp xếp lại rồi mở hộp quà nhé!");
+10009|<O>| if (TASK_LEGEND_D->check_task_item(who, "Đông Trùng Thảo", 5) != 1)
+10010|<O>| private static mapping mpPawn = ([]);          // Tập dữ liệu cầm đồ
+10011|<O>| if (TASK_LEGEND_D->check_task_item(who, "Nguyệt Kiến Thảo", 1) != 1)
+10012|<O>| write_user(me, ECHO "Bài giảng quá nhàm chán, %s đã bỏ đi.", who->get_name());
+10013|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Đông Trùng Thảo %d/5", i));
+10014|<O>| sprintf(ESC "Công nghiệp(%d).\n", city->get_industry()) + cmd5 +
+10015|<O>| DEBUG(sprintf("Thử nghiệm-->Enable_id không rỗng titlecode=%s",title));
+10016|<O>| if (TASK_LEGEND_D->check_task_item(who, "Bích Quang Thạch", 1) != 1)
+10017|<O>| //	 	send_user( who, "%c%s", '!', "Nhiệm vụ đã hoàn thành, hãy báo cáo với đội trưởng vệ binh." );
+10018|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Thỏ Rừng Nhỏ %d/5", i));
+10019|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Thạch Sư %d/20", i));
+10020|<O>| send_user(who,"%c%s",'!',sprintf("Chúc mừng! Bạn nhận được %d điểm tiềm năng",pot));
+10021|<O>| if (TASK_LEGEND_D->check_task_item(who, "Thư Xin Chiến", 1) != 1)
+10022|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Ác Linh %d/30", i));
+10023|<O>| if (TASK_LEGEND_D->check_task_item(who, "Linh Lung Ngọc", 1) != 1)
+10024|<O>| if (TASK_LEGEND_D->check_task_item(who, "Bảo Hòa Đan", 1) != 1)
+10025|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Khoái Đao %d/10", i));
+10026|<O>| //                     case 6 : name3 = "Chống xâm lược";  break;
+10027|<O>| send_user(me, "%c%w%w%c", 0x07, x0, y0, 13);    // Hiệu chỉnh tọa độ
+10028|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Bảo Hòa Đan %d/1", i));
+10029|<O>| tell_user(me, "Thời gian hiện tại đã được khôi phục về thời gian hệ thống chính xác: %s", short_time(time()));
+10030|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Lợi Kiếm %d/10", i));
+10031|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Nê Điêu %d/10", i));
+10032|<O>| if (TASK_LEGEND_D->check_task_item(who, "Hòm Gỗ Lớn", 1) != 1)
+10033|<O>| map->init_user_dbase();    // Bỏ qua vòng lặp map->sub_user(who);
+10034|<O>| ESC "Tiếp nhận\n" + sprintf("talk %x# accept\n", getoid(me)) +
+10035|<O>| result = sprintf( "Lỗi: %s Chương trình: %s %s : Dòng thứ %i\nĐối tượng: %O\n",
+10036|<O>| && who->get_quest("valentine.flag") == 6    // 6. Côn đồ ngày Tình Nhân
+10037|<O>| if (TASK_LEGEND_D->check_task_item(who, "Khoái Đao", 10) != 1)
+10038|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Tiểu Mễ %d/10", i));
+10039|<O>| int get_char_picid() { return pic_id; }				// Hàm: Lấy hình dạng nhân vật
+10040|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Tráng Đinh %d/10", i));
+10041|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Xuyên Tâm Liên %d/5", i));
+10042|<O>| result = sprintf("%s Ghi nhận phân hồng: Phân hồng(còn lại)/Cống hiến", city->get_name());
+10043|<O>| write_user(who, ECHO "Bạn nhận được hai viên " + item->get_name() + ".");
+10044|<O>| if (TASK_LEGEND_D->check_task_item(who, "Thư Thách Đấu", 1) != 1)
+10045|<O>| private int BZ_TIME_CACHE	= 1;			//	Bộ đệm thời gian tới hạn -- Số phút có thể bỏ qua
+10046|<O>| write_user(who, ECHO "Cống hiến quốc gia của bạn +1, kinh nghiệm %+d, tiềm năng +5.", exp);
+10047|<O>| if (TASK_LEGEND_D->check_task_item(who, "Hà Thủ Ô", 1) != 1)
+10048|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Thương Hồn %d/12", i));
+10049|<O>| #define UPDATE_CMD      "/cmd/debug/update"     // Lệnh cập nhật
+10050|<O>| string *qixi_rose=({"Thất Tịch Hồng Lam","Thất Tịch Bạch Hồng","Thất Tịch Hồng Hồng","Thất Tịch Tử Hồng",});
+10051|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Hoa Bách Hợp %d/3", i));
+10052|<O>| send_user(me, "%c%s", ';', "Bạn mở rương kho báu nhận được: " + result + ".");
+10053|<O>| if (TASK_LEGEND_D->check_task_item(who, "Lộc Giác", 20) != 1)
+10054|<O>| return "Một loại rối gỗ hình người có tên Nhân Khí Vương được lưu truyền từ thời viễn cổ,\nsau khi sử dụng có thể tăng 1000 nhân khí bang phái. Hồi chiêu 2 giây.";
+10055|<O>| send_user(who, "%c%s", ';', "Hỏa Diệm Thạch đã thu thập xong, hãy tìm Hướng Dẫn Viên Môn Phái ở Làng Tân Thủ để hoàn thành nhiệm vụ");

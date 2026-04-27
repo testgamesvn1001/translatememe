@@ -1,79 +1,79 @@
-﻿14337|<O>| ESC "自由攻击，与同等状态的玩家可以互相攻击。\nset attack 0\n"
-14338|<O>| send_user(who, "%c%s", '!', "您携带的东西太多了。");
-14339|<O>| return sprintf("%d级日晶石", me->get_level());
-14340|<O>| send_user(who,"%c%s",'!',"你的身上没有足够的空位。");
-14341|<O>| notify(who->get_name() + "出现，您的行动受到影响。");
-14342|<O>| else if (p < 9500 * rate / 100)    // 杂物３
-14343|<O>| //                ESC "调整石刻技能\n" + cmd5 +
-14344|<O>| send_user(me, "%c%s", '!', "此处不能使用浑天仪。");
-14345|<O>| printf(ECHO "使用“斗移星移”后不能使用“"PF_NAME"”。");
-14346|<O>| send_user(me, "%c%s", '!', "你放弃了师门隐藏任务");
-14347|<O>| return "“人妻的情花毒，杀人于无形”\n使你用情花毒的总共伤害几率提高";
-14348|<O>| notify("在放弃「" + file + "」之前得先放弃「龙游四海」。");
-14349|<O>| sprintf("%s(%d):\n%s", "系统", 110, text));
-14350|<O>| send_user(who, "%c%s", '!', "山戎族奸细 1/1");
-14351|<O>| get_name() + ":\n    我这里可以领取道具和查询帐号余额。\n"
-14352|<O>| add_ap(get_ap() * 360 / 100);      //物理攻击
-14353|<O>| else if (p < 9276 * rate / 100)    // 杂物１
-14354|<O>| send_user(who, "%c%s", '!', HIY"锯子 1/1");
-14355|<O>| HIR "最大法力、法术攻击力和法术防御力" NOR "，这个属性对于擅长法术的"
-14356|<O>| printf( ECHO "您得有阵旗才能使用“" PF_NAME "”。" );
-14357|<O>| else if (p < 8977 * rate / 100)    // 杂物１
-14358|<O>| return "任务物品。唯一一种能加工成王之号角的普通号角，用金色牛角制成。";
-14359|<O>| send_user(who, "%c%s", '!', "现在还没有候选人。");
-14360|<O>| me->set_pay_money_buy_item(0);    // 初始状态
-14361|<O>| else tell_user(me, "国庆节活动之——国庆赠礼处于关闭状态");
-14362|<O>| else if (p < 9200 * rate / 100)    // 杂物１
-14363|<O>| send_user(who, "%c%s", '!', "这位玩家并不存在！");
-14364|<O>| send_user(who, "%c%s", '!', "恶霸秦老四 1/1");
-14365|<O>| who->delete_save_2("build");    // 删除任务标志
-14366|<O>| else if (p < 9950 * rate / 100)    // 杂物３
-14367|<O>| send_user(who, "%c%s", '!', "您的功德点数不够。");
-14368|<O>| send_user(who, "%c%s", '!', "您的帮派数据有误！");
-14369|<O>| ESC + HIY"修复锻造异常的装备\ntalk %x# bonus.30\n"
-14370|<O>| return "机械小宠物，很可爱，能给主人提高2%的法术防御,使用次数30。";
-14371|<O>| return "相传其能摄住万物之魂魄的宝石，石刻、铁匠、机关、裁缝所需的材料";
-14372|<O>| //                ESC "调整裁缝技能\n" + cmd4 +
-14373|<O>| return  color + "观看特定地区20X20的范围，使用次数10。";
-14374|<O>| //                return 1;    // 只召唤，不攻击
-14375|<O>| if (!flag)    // 丢弃警告 — chờ confirm lần 2
-14376|<O>| send_user(who, "%c%s", '!', "特殊的木块 1/1");
-14377|<O>| send_user(who, "%c%s", '!', "你接受了大胖的委托");
-14378|<O>| write_user(me, ECHO "您给农作物施肥，结果它长得更好了。");
-14379|<O>| else if (p < 9350 * rate / 100)    // 杂物１
-14380|<O>| case "紫金冠": type = "M_ZIJINGUAN";  break;
-14381|<O>| else if (p < 9951 * rate / 100)    // 杂物３
-14382|<O>| notify("您没必要向%s学这样技能。", who->get_name());
-14383|<O>| if (bil_exp != 0)    // exp, bil_exp 必须同号
-14384|<O>| send_user(who, "%c%s", '!', "您获得五个金灵石！");
-14385|<O>| send_user(who, "%c%s", '!', "您正在工作之中呢。");
-14386|<O>| if (enemy = who->get_owner())    // 取消原主人
-14387|<O>| send_user(who, "%c%s", '!', HIY"令旗 1/1");
-14388|<O>| else if (p < 9050 * rate / 100)    // 杂物１
-14389|<O>| SAY_CMD->say(me, "本王的武功天下第一！无人能伤害得了我！！");
-14390|<O>| if (who->get_gender() == 1) name = "小哥哥";
-14391|<O>| "随机技能进阶书" : "BOOK_FILE->get_book_file()",
-14392|<O>| else if (p < 9477 * rate / 100)    // 杂物１
-14393|<O>| if ( check_yuebing(player,1,"小月兔") != 1 )
-14394|<O>| if ( rate=who->get("anti_thunder") )	//抗雷
-14395|<O>| send_user(me, "%c%s", '!', "点卡赎回返回值错误！");
-14396|<O>| //                ESC "调整机关技能\n" + cmd6 +
-14397|<O>| else if (p < 9496 * rate / 100)    // 杂物１
-14398|<O>| set_char_type(FIGHTER_TYPE_2);    // 重设类型
-14399|<O>| send_user(who, "%c%s", '!', "奸贼武之真 1/1");
-14400|<O>| else if (p < 9998 * rate / 100)    // 杂物２
-14401|<O>| send_user(me, "%c%s", '!', "你领取了师门隐藏任务");
-14402|<O>| send_user(who, "%c%s", '!', "你携带的物品太多了");
-14403|<O>| // BUG: Player 离 NPC 20 格内，但 NPC 还在 sleep
-14404|<O>| printf(ECHO "“" PF_NAME "”只能对同队伍的玩家使用。");
-14405|<O>| send_user(who, "%c%s", '!', "职业功能尚未开放。");
-14406|<O>| if (!pet->get("reserve_pet"))	//不是寄存的，删除！
-14407|<O>| send_user(who, "%c%s", ';', "你得到1万金的奖励");
-14408|<O>| else if (p < 9497 * rate / 100)    // 杂物２
-14409|<O>| who->set_contribute(0);    // 清除贡献，以防 BUG
-14410|<O>| printf(ECHO "使用“" PF_NAME "”需要气血低于70％。");
-14411|<O>| send_user(who, "%c%s", '!', "您没加入任何国家。");
-14412|<O>| if (me->get_2("suit_effect.summon"))	//套装
-14413|<O>| //                ESC "调整铁匠技能\n" + cmd2 +
-14414|<O>| else tell_user(me, "国庆节活动之——西瓜伯伯处于开启状态");
-14415|<O>| private  int ArmorCode;           // 衣着代码
+﻿14337|<O>| ESC "Tự do tấn công, có thể tấn công lẫn nhau với người chơi cùng trạng thái.\nset attack 0\n"
+14338|<O>| send_user(who, "%c%s", '!', "Bạn mang theo quá nhiều đồ vật.");
+14339|<O>| return sprintf("Nhật Tinh Thạch cấp %d", me->get_level());
+14340|<O>| send_user(who,"%c%s",'!',"Bạn không còn đủ ô trống.");
+14341|<O>| notify(who->get_name() + " xuất hiện, hành động của bạn bị ảnh hưởng.");
+14342|<O>| else if (p < 9500 * rate / 100)    // Tạp vật 3
+14343|<O>| //                ESC "Điều chỉnh kỹ năng khắc thạch\n" + cmd5 +
+14344|<O>| send_user(me, "%c%s", '!', "Nơi này không thể dùng Hỗn Thiên Nghi.");
+14345|<O>| printf(ECHO "Sau khi sử dụng \"Đẩu Di Tinh Di\" không thể dùng \""PF_NAME"\".");
+14346|<O>| send_user(me, "%c%s", '!', "Bạn đã từ bỏ nhiệm vụ ẩn sư môn");
+14347|<O>| return ""Tình Hoa Độc của nhân thê, giết người vô hình"\nTăng tỷ lệ sát thương tổng cộng của Tình Hoa Độc";
+14348|<O>| notify("Trước khi bỏ「" + file + "」phải bỏ「Long Du Tứ Hải」trước.");
+14349|<O>| sprintf("%s(%d):\n%s", "Hệ thống", 110, text));
+14350|<O>| send_user(who, "%c%s", '!', "Gian Tế Sơn Nhung 1/1");
+14351|<O>| get_name() + ":\n    Tại chỗ tôi có thể nhận đạo cụ và truy vấn số dư tài khoản.\n"
+14352|<O>| add_ap(get_ap() * 360 / 100);      //Tấn công vật lý
+14353|<O>| else if (p < 9276 * rate / 100)    // Tạp vật 1
+14354|<O>| send_user(who, "%c%s", '!', HIY"Cưa 1/1");
+14355|<O>| HIR "Pháp lực tối đa, sức tấn công pháp thuật và phòng thủ pháp thuật" NOR ", thuộc tính này rất hữu ích cho người giỏi pháp thuật"
+14356|<O>| printf( ECHO "Bạn cần có trận kỳ mới dùng được \"" PF_NAME "\"." );
+14357|<O>| else if (p < 8977 * rate / 100)    // Tạp vật 1
+14358|<O>| return "Vật phẩm nhiệm vụ. Chiếc tù và duy nhất có thể chế thành Vương Chi Hiệu Giác, làm từ sừng bò vàng.";
+14359|<O>| send_user(who, "%c%s", '!', "Hiện tại chưa có ứng cử viên.");
+14360|<O>| me->set_pay_money_buy_item(0);    // Trạng thái ban đầu
+14361|<O>| else tell_user(me, "Hoạt động Quốc Khánh——Quốc Khánh Tặng Quà đang đóng");
+14362|<O>| else if (p < 9200 * rate / 100)    // Tạp vật 1
+14363|<O>| send_user(who, "%c%s", '!', "Người chơi này không tồn tại!");
+14364|<O>| send_user(who, "%c%s", '!', "Ác Bá Tần Lão Tứ 1/1");
+14365|<O>| who->delete_save_2("build");    // Xóa cờ nhiệm vụ
+14366|<O>| else if (p < 9950 * rate / 100)    // Tạp vật 3
+14367|<O>| send_user(who, "%c%s", '!', "Điểm công đức của bạn không đủ.");
+14368|<O>| send_user(who, "%c%s", '!', "Dữ liệu bang phái của bạn bị lỗi!");
+14369|<O>| ESC + HIY"Sửa chữa trang bị rèn lỗi\ntalk %x# bonus.30\n"
+14370|<O>| return "Thú cưng cơ khí nhỏ, rất dễ thương, giúp chủ nhân tăng 2% phòng thủ pháp thuật, số lần sử dụng 30.";
+14371|<O>| return "Bảo thạch huyền thoại có thể nhiếp hồn vạn vật, là nguyên liệu cần thiết cho Khắc Thạch, Thợ Rèn, Cơ Quan, Thợ May";
+14372|<O>| //                ESC "Điều chỉnh kỹ năng thợ may\n" + cmd4 +
+14373|<O>| return  color + "Xem phạm vi 20x20 của khu vực cụ thể, số lần sử dụng 10.";
+14374|<O>| //                return 1;    // Chỉ triệu hồi, không tấn công
+14375|<O>| if (!flag)    // Cảnh báo vứt bỏ — chờ xác nhận lần 2
+14376|<O>| send_user(who, "%c%s", '!', "Khối Gỗ Đặc Biệt 1/1");
+14377|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận ủy thác của Đại Bệ");
+14378|<O>| write_user(me, ECHO "Bạn bón phân cho cây trồng, kết quả nó mọc tốt hơn.");
+14379|<O>| else if (p < 9350 * rate / 100)    // Tạp vật 1
+14380|<O>| case "Tử Kim Quan": type = "M_ZIJINGUAN";  break;
+14381|<O>| else if (p < 9951 * rate / 100)    // Tạp vật 3
+14382|<O>| notify("Bạn không cần học kỹ năng này từ %s.", who->get_name());
+14383|<O>| if (bil_exp != 0)    // exp, bil_exp phải cùng dấu
+14384|<O>| send_user(who, "%c%s", '!', "Bạn nhận được 5 viên Kim Linh Thạch!");
+14385|<O>| send_user(who, "%c%s", '!', "Bạn đang làm việc.");
+14386|<O>| if (enemy = who->get_owner())    // Hủy chủ nhân cũ
+14387|<O>| send_user(who, "%c%s", '!', HIY"Lệnh Kỳ 1/1");
+14388|<O>| else if (p < 9050 * rate / 100)    // Tạp vật 1
+14389|<O>| SAY_CMD->say(me, "Võ công của bổn vương thiên hạ đệ nhất! Không ai có thể làm hại ta!!");
+14390|<O>| if (who->get_gender() == 1) name = "Anh ơi";
+14391|<O>| "Sách tiến giai kỹ năng ngẫu nhiên" : "BOOK_FILE->get_book_file()",
+14392|<O>| else if (p < 9477 * rate / 100)    // Tạp vật 1
+14393|<O>| if ( check_yuebing(player,1,"Ngọc Thỏ Nhỏ") != 1 )
+14394|<O>| if ( rate=who->get("anti_thunder") )	//Kháng sét
+14395|<O>| send_user(me, "%c%s", '!', "Giá trị trả về khi thu hồi thẻ điểm bị lỗi!");
+14396|<O>| //                ESC "Điều chỉnh kỹ năng cơ quan\n" + cmd6 +
+14397|<O>| else if (p < 9496 * rate / 100)    // Tạp vật 1
+14398|<O>| set_char_type(FIGHTER_TYPE_2);    // Đặt lại loại
+14399|<O>| send_user(who, "%c%s", '!', "Gian Tặc Vũ Chi Chân 1/1");
+14400|<O>| else if (p < 9998 * rate / 100)    // Tạp vật 2
+14401|<O>| send_user(me, "%c%s", '!', "Bạn đã nhận nhiệm vụ ẩn sư môn");
+14402|<O>| send_user(who, "%c%s", '!', "Bạn mang theo quá nhiều vật phẩm");
+14403|<O>| // BUG: Người chơi cách NPC 20 ô, nhưng NPC vẫn đang sleep
+14404|<O>| printf(ECHO "\"" PF_NAME "\" chỉ có thể dùng cho người chơi cùng đội.");
+14405|<O>| send_user(who, "%c%s", '!', "Chức năng nghề nghiệp chưa mở.");
+14406|<O>| if (!pet->get("reserve_pet"))	//Không phải ký gửi, xóa!
+14407|<O>| send_user(who, "%c%s", ';', "Bạn nhận được 1 vạn vàng thưởng");
+14408|<O>| else if (p < 9497 * rate / 100)    // Tạp vật 2
+14409|<O>| who->set_contribute(0);    // Xóa cống hiến, phòng BUG
+14410|<O>| printf(ECHO "Sử dụng \"" PF_NAME "\" cần khí huyết dưới 70%.");
+14411|<O>| send_user(who, "%c%s", '!', "Bạn chưa gia nhập quốc gia nào.");
+14412|<O>| if (me->get_2("suit_effect.summon"))	//Trang bị bộ
+14413|<O>| //                ESC "Điều chỉnh kỹ năng thợ rèn\n" + cmd2 +
+14414|<O>| else tell_user(me, "Hoạt động Quốc Khánh——Bác Dưa Hấu đang mở");
+14415|<O>| private  int ArmorCode;           // Mã trang phục

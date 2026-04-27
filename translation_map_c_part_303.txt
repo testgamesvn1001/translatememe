@@ -1,67 +1,67 @@
 ﻿11529|<O>| p_str += ({ FINAL_D->file_final("Thục Sơn",-1,24,44) });
-11530|<O>| SAY_CMD->say(me, "bạnxem Khởi đếnkhôngtượngLànàytrongcủacông Nhân，ngoàiNhân đảm dám sấm tiến Lăng Mộ！đến Nhân trảo Khởi đến！");
-11531|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"MộcrươngcủaBí Mật（1）");
-11532|<O>| move_to_user(player, 1, "item/91/9101",npc);//hoạt lạc hoàn。
-11533|<O>| sprintf(ESC"12điểmđổi hoánTàng Bảo Đồ\ntalk %x# exchange.1\n",id) +
-11534|<O>| return HIR + PF_NAME + "\n    Cơ bảnThương PhápTấn côngkỹ，Có thể nâng30điểm Lực tấn công。";
-11535|<O>| int perform_done(object me, object who)    // Cómục tiêugiờ
-11536|<O>| private  int ArmorColor2;         // Y  nhan Sắc(Mã màu４，Mã màu３)
-11537|<O>| send_user(who, "%c%s", '!', "nhận được"HIR"Xảo Khắc Lực đậu"NOR"một số");
-11538|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 8, "LôiLongQuyết thi Phónggiữa……");
-11539|<O>| return "［Cơ bảnCôn Pháp］Nhập Môn Côn Pháp，NăngTăngtrì Cônlúccủatác Chiến Năng Lực。Mỗi cấp tăng1điểmCôncủaLực tấn công vật lý。\n";
-11540|<O>| move_to_user(player, 1, "item/91/9112",npc);//bổ Tâm Đơn。
-11541|<O>| MAP_D->add_to_void(who);    // Di Nhập VOID trường cảnh  // Tân Thủ Thôn！
-11542|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"chứng bệnh đau đầu（1）");
-11543|<O>| return "CóPháp LựccủaKính Tử，Tướng Kính Tử Phóng tríđếncầngiám địnhcủaTrang bịxử tức có thể。\ncó thểgiám định40cấpDĩdướicủatất cảTrang bị。";
-11544|<O>| if (mapp(mpTmp) && objectp(mpTmp["item"]))	//Làphủbịlĩnh thủ
-11545|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"MộcrươngcủaBí Mật（3）");
-11546|<O>| string get_suit_name() { return "NữVương bộ trang"; }	//Thuộc bộ trang bị nào đó
-11547|<O>| string get_suit_name() { return "Ngự Muội bộ trang"; }	//Thuộc bộ trang bị nào đó
-11548|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"MộcrươngcủaBí Mật（4）");
-11549|<O>| // private int Poison;                     // ĐộcDượcĐộctính
-11550|<O>| && sizeof(arg) > 1) arg = arg[0..0];    // Ẩn Thân，Di Động biếnchậm
-11551|<O>| return "CóPháp LựccủaKính Tử，Tướng Kính Tử Phóng tríđếncầngiám địnhcủaTrang bịxử tức có thể。\ncó thểgiám định60cấpDĩdướicủatất cảTrang bị。";
+11530|<O>| SAY_CMD->say(me, "Các người trông không giống công nhân ở đây, người ngoài dám xông vào lăng mộ! Đến đây bắt lấy!");
+11531|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Bí Mật Hộp Gỗ（1）");
+11532|<O>| move_to_user(player, 1, "item/91/9101",npc);//Hoạt Lạc Hoàn.
+11533|<O>| sprintf(ESC"12 điểm đổi bản đồ tàng bảo\ntalk %x# exchange.1\n",id) +
+11534|<O>| return HIR + PF_NAME + "\n    Chiêu thức thương pháp cơ bản, có thể tăng 30 điểm tấn công.";
+11535|<O>| int perform_done(object me, object who)    // Khi có mục tiêu
+11536|<O>| private  int ArmorColor2;         // Màu trang phục(mã màu 4, mã màu 3)
+11537|<O>| send_user(who, "%c%s", '!', "Nhận được "HIR"Viên Kẹo Sô Cô La"NOR" một ít");
+11538|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 8, "Lôi Long Quyết đang thi triển……");
+11539|<O>| return "［Côn Pháp Cơ Bản］Côn pháp nhập môn, có thể tăng khả năng chiến đấu khi cầm côn. Mỗi cấp tăng 1 điểm tấn công vật lý côn.\n";
+11540|<O>| move_to_user(player, 1, "item/91/9112",npc);//Bổ Tâm Đan.
+11541|<O>| MAP_D->add_to_void(who);    // Chuyển vào cảnh VOID  // Làng Tân Thủ!
+11542|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Bệnh Đau Đầu（1）");
+11543|<O>| return "Tấm gương có pháp lực, đặt gương lên trang bị cần giám định là được.\nCó thể giám định tất cả trang bị dưới cấp 40.";
+11544|<O>| if (mapp(mpTmp) && objectp(mpTmp["item"]))	//Đã được nhận chưa
+11545|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Bí Mật Hộp Gỗ（3）");
+11546|<O>| string get_suit_name() { return "Bộ Nữ Vương"; }	//Thuộc bộ trang phục nào
+11547|<O>| string get_suit_name() { return "Bộ Ngự Muội"; }	//Thuộc bộ trang phục nào
+11548|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Bí Mật Hộp Gỗ（4）");
+11549|<O>| // private int Poison;                     // Độc tính thuốc độc
+11550|<O>| && sizeof(arg) > 1) arg = arg[0..0];    // Ẩn thân, di chuyển chậm lại
+11551|<O>| return "Tấm gương có pháp lực, đặt gương lên trang bị cần giám định là được.\nCó thể giám định tất cả trang bị dưới cấp 60.";
 11552|<O>| case "Mao Sơn" : if( type != SWORD ) flag = -1;  break;
-11553|<O>| log_file("zhongqiu.txt",short_time() + " Phóngthángbính\n" );
-11554|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"phỏng hỏi sinh hoạtKỹ năngSư Phó");
-11555|<O>| //                        ESC "bảo thích ngụcgiữaNgười chơi。\n" + cmd2 +
-11556|<O>| private mapping Skills_1 = ([]);       // Kỹ năngCấp độ(Nhất chuyển)
-11557|<O>| send_user(who, "%c%s", ';', "mỗiNhânmỗingàychỉCó50lầnSử dụngcẩm nangcủacơsẽ。");
-11558|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"vôtrêncủavinh diệu（1）");
-11559|<O>| && !owner->get_quest("escort.robber#")    // cònCóMông Diện Nhân
-11560|<O>| send_user(who, "%c%c%c", 0x3d, 242, 1);    // thử tiêu thất khống
-11561|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Phu Nhâncủaquái bệnh（2）");
-11562|<O>| #define MAX_TIMES       50               // mỗigiâyMệnh Lệnh hạn chế
-11563|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"vô nạicủacầu Trợ（2）");
-11564|<O>| + ESC"Rời khỏi", me->get_name(), id, id, id, id, id, ));
-11565|<O>| owner->add_quest("escort.random", 1);    // ký lụcNgẫu nhiênsựkiện
-11566|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"tổ PhụcủaDi sản（4）");
-11567|<O>| tell_user(me, "Bạn sẽ" + who->get_name() + "Xin lyhoạt độngbản đồ。");
-11568|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"tổ PhụcủaDi sản（1）");
-11569|<O>| set_save_2(sprintf("player.%d.pos",id),pos);//ký lục Danhlần
-11570|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"vô nạicủacầu Trợ（3）");
+11553|<O>| log_file("zhongqiu.txt",short_time() + " Phát bánh trung thu\n" );
+11554|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Thăm Sư Phụ Kỹ Năng Sinh Hoạt");
+11555|<O>| //                        ESC "Bảo lãnh người chơi trong ngục.\n" + cmd2 +
+11556|<O>| private mapping Skills_1 = ([]);       // Cấp kỹ năng(chuyển sinh 1)
+11557|<O>| send_user(who, "%c%s", ';', "Mỗi người mỗi ngày chỉ có 50 lần sử dụng túi gấm.");
+11558|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Vinh Quang Tối Thượng（1）");
+11559|<O>| && !owner->get_quest("escort.robber#")    // Vẫn còn người bịt mặt
+11560|<O>| send_user(who, "%c%c%c", 0x3d, 242, 1);    // Chuột mất kiểm soát
+11561|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Bệnh Lạ Của Phu Nhân（2）");
+11562|<O>| #define MAX_TIMES       50               // Giới hạn lệnh mỗi giây
+11563|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Lời Cầu Cứu Bất Đắc Dĩ（2）");
+11564|<O>| + ESC"Rời đi", me->get_name(), id, id, id, id, id, ));
+11565|<O>| owner->add_quest("escort.random", 1);    // Ghi nhận sự kiện ngẫu nhiên
+11566|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Di Sản Của Ông Nội（4）");
+11567|<O>| tell_user(me, "Bạn đã mời " + who->get_name() + " rời khỏi bản đồ hoạt động.");
+11568|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Di Sản Của Ông Nội（1）");
+11569|<O>| set_save_2(sprintf("player.%d.pos",id),pos);//Ghi nhận thứ hạng
+11570|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Lời Cầu Cứu Bất Đắc Dĩ（3）");
 11571|<O>| if (gone_time(pet->get_time("pf")) < 1)    // Giới hạn thời gian
-11572|<O>| write_user(me, ECHO "Bạn sung Trị%dNguyên Bảo。", to_int(result));
-11573|<O>| ESC "Rời khỏi\nCLOSE\n", npc->get_name(), getoid(npc)));
-11574|<O>| if (flag == 3 || flag == 5) value *= 8;    // đặc thù Tu lý
+11572|<O>| write_user(me, ECHO "Bạn đã nạp %d nguyên bảo.", to_int(result));
+11573|<O>| ESC "Rời đi\nCLOSE\n", npc->get_name(), getoid(npc)));
+11574|<O>| if (flag == 3 || flag == 5) value *= 8;    // Sửa chữa đặc biệt
 11575|<O>| if (gone_time(me->get_time("use")) < 1)    // Giới hạn thời gian
-11576|<O>| if ( inv[i]->is_combined() )//Nếucó thểđiệp Giacủathoại，đóyêuliềnTăngđiệp Giacủasố lượng。
-11577|<O>| return "［Huyền Học chính Đạo］NângPháp Lựctrênhạn，Mỗi cấp tăng 4 điểm；Nâng Lực phòng thủ phép thuật，Mỗi cấp tăng 2 điểm\n";
-11578|<O>| return "［Cơ bảnKiếm Pháp］Nhập Môn Kiếm Pháp，NăngTăngtrì Kiếmlúccủatác Chiến Năng Lực。Mỗi cấp tăng1điểmKiếmcủaLực tấn công phép thuật。\n";
-11579|<O>| if (!me->is_scholar())    // lạilầnxác nhận，phòng hoán chức nghiệp level của BUG
-11580|<O>| send_user(me, "%c%s", ':', "Bạnđãlĩnh thủ Kỵ sủng，cản khẩn Kỵtrênđi tú Nhất tú ！");
-11581|<O>| #define SEAL_SIZE       1               // (3×3)Trận Pháp
-11582|<O>| DEBUG(sprintf("Kiểm trahướngphảichuyển-->size=%d pos=%d",size,pos));
-11583|<O>| else switch (me->get_weapon_code())    // phổ thôngTấn công(Hoàn thành)
-11584|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"chứng bệnh đau đầu（3）");
-11585|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"nhiệt Tâmcủakiến nghị（3）");
-11586|<O>| damage += me->get("add_damage");		// làm Nhất lâmgiờTăngTấn côngLựccủabiến lượng
-11587|<O>| return "［" PF_NAME "］\ntruy traTân Thủ Thôn、hoang giao、dãngoàiNhất Đái Xuất hiện sử Mệnh Vật PhẩmcủaPhương vị。\n";
-11588|<O>| return sprintf("［" PF_NAME "］phảnTriệu hồiđãTriệu hồisinh Vật。%s%d cấpcó thể dùng\n",
-11589|<O>| result = sprintf("%s:\n    không biếtđinàotrongmua xưng TâmcủaTrang bị？tôicáo tốXin chào。\n"
-11590|<O>| result2 = sprintf("nguyênCấp độ %d", who->get_skill(type));
-11591|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"lớncô Sơn cướctrongcủakhốc Thanh");
-11592|<O>| if ((npc = me->get_quest("escort.npc"))    // vận tiêu Nhân Vật
-11593|<O>| result = me->get_name() + ":\n    Bạnchodưcủatinh ThạchkhôngPhù Hợp điềukiện。\n";
-11594|<O>| item = new (sprintf("/item/mop/800%d", flag));//lễ bao
-11595|<O>| send_user(me, "%c%d%s", 0x39, y, "nênNgười chơiThântrênKhông tìm thấynàyĐạo cụ。");
+11576|<O>| if ( inv[i]->is_combined() )//Nếu có thể chồng được thì tăng số lượng chồng.
+11577|<O>| return "［Huyền Học Chính Đạo］Tăng giới hạn pháp lực, mỗi cấp tăng 4 điểm; Tăng phòng thủ pháp thuật, mỗi cấp tăng 2 điểm\n";
+11578|<O>| return "［Kiếm Pháp Cơ Bản］Kiếm pháp nhập môn, có thể tăng khả năng chiến đấu khi cầm kiếm. Mỗi cấp tăng 1 điểm tấn công pháp thuật kiếm.\n";
+11579|<O>| if (!me->is_scholar())    // Xác nhận lại, ngăn BUG đổi nghề level
+11580|<O>| send_user(me, "%c%s", ':', "Bạn đã nhận kỵ sủng, mau cưỡi lên khoe đi nào!");
+11581|<O>| #define SEAL_SIZE       1               // Trận pháp (3×3)
+11582|<O>| DEBUG(sprintf("Kiểm tra xoay phải-->size=%d pos=%d",size,pos));
+11583|<O>| else switch (me->get_weapon_code())    // Tấn công thường(hoàn thành)
+11584|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Bệnh Đau Đầu（3）");
+11585|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Lời Khuyên Nhiệt Tình（3）");
+11586|<O>| damage += me->get("add_damage");		// Tạo biến tạm tăng tấn công
+11587|<O>| return "［" PF_NAME "］\nTruy tìm phương vị vật phẩm sứ mệnh xuất hiện quanh Làng Tân Thủ, hoang ngoại, dã ngoại.\n";
+11588|<O>| return sprintf("［" PF_NAME "］Phản triệu hoán sinh vật đã triệu hoán. %s cấp %d có thể dùng\n",
+11589|<O>| result = sprintf("%s:\n    Không biết mua trang bị ưng ý ở đâu? Để tôi nói cho bạn biết.\n"
+11590|<O>| result2 = sprintf("Cấp gốc %d", who->get_skill(type));
+11591|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tiếng Khóc Dưới Chân Núi Đại Cô Sơn");
+11592|<O>| if ((npc = me->get_quest("escort.npc"))    // Nhân vật vận tiêu
+11593|<O>| result = me->get_name() + ":\n    Tinh thạch bạn đưa không đủ điều kiện.\n";
+11594|<O>| item = new (sprintf("/item/mop/800%d", flag));//Hộp quà
+11595|<O>| send_user(me, "%c%d%s", 0x39, y, "Không tìm thấy đạo cụ này trên người chơi đó.");

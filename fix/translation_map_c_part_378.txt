@@ -1,91 +1,91 @@
-﻿17354|<O>| string get_name() { return "冰冻"; }
-17355|<O>| "玉衡针" : "\"/item/final/71/1120\"",
-17356|<O>| string get_name() { return "御水"; }
-17357|<O>| turn_off_alarm_clock();				//	关闭时钟
-17358|<O>| if (z && z == get_z(who))	//已经进入战场
-17359|<O>| log_file(LIST_LOG, "# 法术衣服(女)\n");
-17360|<O>| "承影剑" : "\"/item/final/76/1080\"",
-17361|<O>| "铜钥匙" : "\"/item/final/16/1601\"",
-17362|<O>| who->set_level_0(level);    // 迷魂诀
-17363|<O>| ESC "是的，我要鉴定\nrepair << %x# %x#\n"
-17364|<O>| item = new("item/08/0002");	//战国号角
-17365|<O>| "囚龙棒" : "\"/item/final/75/1065\"",
-17366|<O>| "绿豆汤" : "\"/item/final/33/1750\"",
-17367|<O>| else if (rate < 21000)	//物理防御提高50点
-17368|<O>| return "任务物品。一种晒干后可以与茶叶一起冲泡饮用的花。";
-17369|<O>| log_file(LIST_LOG, "# 近攻帽子(女)\n");
-17370|<O>| "寒铁机关构件" : "\"/item/stuff/0201\"",
-17371|<O>| "天权棍" : "\"/item/final/75/1120\"",
-17372|<O>| else if (npc->get_name() == "神笔石")
-17373|<O>| string get_name() { return "齐国"; }
-17374|<O>| log_file(LIST_LOG, "# 近攻衣服(女)\n");
-17375|<O>| else if (type == "ski")	//宠物默认技能设置
-17376|<O>| "鸡蛋汤" : "\"/item/final/33/1774\"",
-17377|<O>| ESC"黄金圣衣称号兑换\ntalk %x# bonus.32\n"
-17378|<O>| void follow_user() {}    // 禁止跟随敌人
-17379|<O>| "开阳剑" : "\"/item/final/76/1120\"",
-17380|<O>| else if (npc->get_name() == "藏图石")
-17381|<O>| string get_name() { return "庄院"; }
-17382|<O>| if (me->get("team_follow"))	//取消跟随
-17383|<O>| "破风刀" : "\"/item/final/72/1095\"",
-17384|<O>| ESC "完全保护，仅攻击ＮＰＣ。\nset attack 1\n"
-17385|<O>| return "［" PF_NAME "］\n使对方能力提升\n";
-17386|<O>| case "穷家男孩": type = "BOY";  break;
-17387|<O>| "铜拳套" : "\"/item/final/70/1020\"",
-17388|<O>| SAY_CMD->say(me, "你惹怒了我。后果很严重！！");
-17389|<O>| item = new("item/91/9160");		//气脉丹
-17390|<O>| effect = ADD_EFFECT;    // 小心准备 me
-17391|<O>| desc = "只有鸡蛋的汤，14秒内恢复玩家1470点法力值。";
-17392|<O>| string get_name() { return "周国"; }
-17393|<O>| "机械蛇" : "\"/item/final/16/1634\"",
-17394|<O>| item = new ("item/08/0004");//小法力石
-17395|<O>| item = new ("item/08/0831");//双鱼宠物
-17396|<O>| case "楚国": note->City = 6;  break;
-17397|<O>| else if (p < 90)	//长血高物防高法防型:远程暗器类
-17398|<O>| return "持续1小时内变身为天罡门众守，可提升2%气血值。";
-17399|<O>| "豪龙胆" : "\"/item/final/74/1095\"",
-17400|<O>| string get_name() { return "高唐"; }
-17401|<O>| return "持续1小时内变身为龟丞相，可提升2%法术攻击力。";
-17402|<O>| return "［强化拳脚招架］提升空手时的防御力，每级提升3点";
-17403|<O>| tell_user(who, "你获得%d点的经验奖励。", i);
-17404|<O>| case "守卫": type = "GUARD";  break;
-17405|<O>| string get_name() { return "茅山"; }
-17406|<O>| string get_name() { return "千乘"; }
-17407|<O>| //			+ sprintf(ESC"春节\nparty 4\n")
-17408|<O>| return "任务物品。丁鹤年祖父的遗产，可用来打开某个宝箱。";
-17409|<O>| //如果玩家身上有足够的count个数目，那么就遍历道具栏进行扣除。
-17410|<O>| + sprintf(ESC"活动状态\nparty 7005\n")
-17411|<O>| string get_name() { return "海滨"; }
-17412|<O>| "玉米棒" : "\"/item/final/33/1765\"",
-17413|<O>| hp = ADD_EFFECT;    // 小心准备 me, cp
-17414|<O>| "斩龙刀" : "\"/item/final/72/1075\"",
-17415|<O>| ESC "购买石刻技能等级47-59级的配方\nlist %s\n"
-17416|<O>| return "灵鹿套装其中之一,相传穿上全套就会拥有神秘的力量";
-17417|<O>| "奇异果" : "\"/item/final/33/1769\"",
-17418|<O>| result2 = "名字 " + who->get_name();
-17419|<O>| log_file(LIST_LOG, "# 近攻帽子(男)\n");
-17420|<O>| "玉蜂针" : "\"/item/final/71/1050\"",
-17421|<O>| write_user(me, ECHO "您祭起一张回帮符……");
-17422|<O>| "毒牙枪" : "\"/item/final/74/1050\"",
-17423|<O>| "丧命散" : "\"/item/final/91/1837\"",
-17424|<O>| "厚刃剑" : "\"/item/final/76/1030\"",
-17425|<O>| log_file(LIST_LOG, "# 基本帽子(男)\n");
-17426|<O>| return "任务道具。武器店老板要求交给神仙爷爷的任务物品。";
-17427|<O>| "流沙剑" : "\"/item/final/76/1075\"",
-17428|<O>| "纹须棍" : "\"/item/final/75/1030\"",
-17429|<O>| map->add_reset(item);    // 加入复位列表
-17430|<O>| "白刃剑" : "\"/item/final/76/1040\"",
-17431|<O>| "赤星剑" : "\"/item/final/76/1070\"",
-17432|<O>| "百味酒" : "\"/item/final/33/1759\"",
-17433|<O>| case 30 : me->set_fam_name("禁卫军");
-17434|<O>| string get_name() { return "蜀山"; }
-17435|<O>| string get_name() { return "潼关"; }
-17436|<O>| "五色刀" : "\"/item/final/72/1040\"",
-17437|<O>| "玄黄剑" : "\"/item/final/76/1035\"",
-17438|<O>| string get_name() { return "晋阳"; }
-17439|<O>| string get_name() { return "东武"; }
-17440|<O>| if (random(100) < rate)    // 随机失败
-17441|<O>| log_file(LIST_LOG, "# 近攻衣服(男)\n");
-17442|<O>| "硝石粉" : "\"/item/final/16/1637\"",
-17443|<O>| string get_name() { return "牧野"; }
-17444|<O>| notify("%s忙碌中。", who->get_name());
+﻿17354|<O>| string get_name() { return "Băng Đóng"; }
+17355|<O>| "Ngọc Hành Châm" : "\"/item/final/71/1120\"",
+17356|<O>| string get_name() { return "Ngự Thủy"; }
+17357|<O>| turn_off_alarm_clock();				//	Tắt đồng hồ
+17358|<O>| if (z && z == get_z(who))	//Đã vào chiến trường
+17359|<O>| log_file(LIST_LOG, "# Áo pháp thuật (nữ)\n");
+17360|<O>| "Thừa Ảnh Kiếm" : "\"/item/final/76/1080\"",
+17361|<O>| "Chìa Khóa Đồng" : "\"/item/final/16/1601\"",
+17362|<O>| who->set_level_0(level);    // Mê Hồn Quyết
+17363|<O>| ESC "Vâng, tôi muốn giám định\nrepair << %x# %x#\n"
+17364|<O>| item = new("item/08/0002");	//Chiến Quốc Hào Giác
+17365|<O>| "Tù Long Bổng" : "\"/item/final/75/1065\"",
+17366|<O>| "Canh Đậu Xanh" : "\"/item/final/33/1750\"",
+17367|<O>| else if (rate < 21000)	//Tăng phòng thủ vật lý 50 điểm
+17368|<O>| return "Vật phẩm nhiệm vụ. Loại hoa phơi khô có thể pha cùng trà để uống.";
+17369|<O>| log_file(LIST_LOG, "# Mũ cận chiến (nữ)\n");
+17370|<O>| "Cấu Kiện Cơ Quan Hàn Thiết" : "\"/item/stuff/0201\"",
+17371|<O>| "Thiên Quyền Côn" : "\"/item/final/75/1120\"",
+17372|<O>| else if (npc->get_name() == "Đá Thần Bút")
+17373|<O>| string get_name() { return "Tề Quốc"; }
+17374|<O>| log_file(LIST_LOG, "# Áo cận chiến (nữ)\n");
+17375|<O>| else if (type == "ski")	//Thiết lập kỹ năng mặc định thú cưng
+17376|<O>| "Canh Trứng Gà" : "\"/item/final/33/1774\"",
+17377|<O>| ESC"Đổi danh hiệu Hoàng Kim Thánh Y\ntalk %x# bonus.32\n"
+17378|<O>| void follow_user() {}    // Cấm theo dõi kẻ địch
+17379|<O>| "Khai Dương Kiếm" : "\"/item/final/76/1120\"",
+17380|<O>| else if (npc->get_name() == "Đá Tàng Đồ")
+17381|<O>| string get_name() { return "Trang Viện"; }
+17382|<O>| if (me->get("team_follow"))	//Hủy theo dõi
+17383|<O>| "Phá Phong Đao" : "\"/item/final/72/1095\"",
+17384|<O>| ESC "Bảo vệ hoàn toàn, chỉ tấn công NPC.\nset attack 1\n"
+17385|<O>| return "［" PF_NAME "］\nLàm năng lực đối phương tăng lên\n";
+17386|<O>| case "Cậu Bé Nhà Nghèo": type = "BOY";  break;
+17387|<O>| "Quyền Sáo Đồng" : "\"/item/final/70/1020\"",
+17388|<O>| SAY_CMD->say(me, "Ngươi đã chọc giận ta. Hậu quả rất nghiêm trọng!!");
+17389|<O>| item = new("item/91/9160");		//Khí Mạch Đan
+17390|<O>| effect = ADD_EFFECT;    // Cẩn thận chuẩn bị me
+17391|<O>| desc = "Canh chỉ có trứng, trong 14 giây hồi phục 1470 điểm pháp lực cho người chơi.";
+17392|<O>| string get_name() { return "Chu Quốc"; }
+17393|<O>| "Rắn Máy" : "\"/item/final/16/1634\"",
+17394|<O>| item = new ("item/08/0004");//Đá Pháp Lực Nhỏ
+17395|<O>| item = new ("item/08/0831");//Thú Cưng Song Ngư
+17396|<O>| case "Sở Quốc": note->City = 6;  break;
+17397|<O>| else if (p < 90)	//Loại tăng máu, phòng vật lý cao, phòng pháp cao: ám khí tầm xa
+17398|<O>| return "Trong 1 giờ biến thành Thiên Cang Môn Chúng Thủ, tăng 2% khí huyết.";
+17399|<O>| "Hào Long Đảm" : "\"/item/final/74/1095\"",
+17400|<O>| string get_name() { return "Cao Đường"; }
+17401|<O>| return "Trong 1 giờ biến thành Quy Thừa Tướng, tăng 2% tấn công pháp thuật.";
+17402|<O>| return "［Cường Hóa Quyền Cước Chiêu Giá］Tăng phòng thủ khi tay không, mỗi cấp tăng 3 điểm";
+17403|<O>| tell_user(who, "Bạn nhận được %d điểm kinh nghiệm thưởng.", i);
+17404|<O>| case "Lính Canh": type = "GUARD";  break;
+17405|<O>| string get_name() { return "Mao Sơn"; }
+17406|<O>| string get_name() { return "Thiên Thặng"; }
+17407|<O>| //			+ sprintf(ESC"Tết Nguyên Đán\nparty 4\n")
+17408|<O>| return "Vật phẩm nhiệm vụ. Di sản của ông nội Đinh Hạc Niên, có thể dùng mở một rương bảo nhất định.";
+17409|<O>| //Nếu người chơi có đủ count vật phẩm trên người, thì duyệt kho đạo cụ để trừ.
+17410|<O>| + sprintf(ESC"Trạng thái hoạt động\nparty 7005\n")
+17411|<O>| string get_name() { return "Hải Tân"; }
+17412|<O>| "Ngô Bắp" : "\"/item/final/33/1765\"",
+17413|<O>| hp = ADD_EFFECT;    // Cẩn thận chuẩn bị me, cp
+17414|<O>| "Trảm Long Đao" : "\"/item/final/72/1075\"",
+17415|<O>| ESC "Mua công thức Khắc Thạch cấp 47-59\nlist %s\n"
+17416|<O>| return "Một trong bộ Linh Lộc, tương truyền mặc đủ bộ sẽ sở hữu sức mạnh thần bí";
+17417|<O>| "Quả Kỳ Lạ" : "\"/item/final/33/1769\"",
+17418|<O>| result2 = "Tên " + who->get_name();
+17419|<O>| log_file(LIST_LOG, "# Mũ cận chiến (nam)\n");
+17420|<O>| "Ngọc Phong Châm" : "\"/item/final/71/1050\"",
+17421|<O>| write_user(me, ECHO "Bạn kích hoạt một tờ bùa hồi bang……");
+17422|<O>| "Độc Nha Thương" : "\"/item/final/74/1050\"",
+17423|<O>| "Táng Mệnh Tán" : "\"/item/final/91/1837\"",
+17424|<O>| "Hậu Nhẫn Kiếm" : "\"/item/final/76/1030\"",
+17425|<O>| log_file(LIST_LOG, "# Mũ cơ bản (nam)\n");
+17426|<O>| return "Vật phẩm nhiệm vụ. Vật phẩm ông chủ tiệm vũ khí yêu cầu giao cho ông tiên.";
+17427|<O>| "Lưu Sa Kiếm" : "\"/item/final/76/1075\"",
+17428|<O>| "Vân Tự Côn" : "\"/item/final/75/1030\"",
+17429|<O>| map->add_reset(item);    // Thêm vào danh sách reset
+17430|<O>| "Bạch Nhẫn Kiếm" : "\"/item/final/76/1040\"",
+17431|<O>| "Xích Tinh Kiếm" : "\"/item/final/76/1070\"",
+17432|<O>| "Rượu Bách Vị" : "\"/item/final/33/1759\"",
+17433|<O>| case 30 : me->set_fam_name("Cấm Vệ Quân");
+17434|<O>| string get_name() { return "Thục Sơn"; }
+17435|<O>| string get_name() { return "Đồng Quan"; }
+17436|<O>| "Ngũ Sắc Đao" : "\"/item/final/72/1040\"",
+17437|<O>| "Huyền Hoàng Kiếm" : "\"/item/final/76/1035\"",
+17438|<O>| string get_name() { return "Tấn Dương"; }
+17439|<O>| string get_name() { return "Đông Vũ"; }
+17440|<O>| if (random(100) < rate)    // Ngẫu nhiên thất bại
+17441|<O>| log_file(LIST_LOG, "# Áo cận chiến (nam)\n");
+17442|<O>| "Bột Diêm Tiêu" : "\"/item/final/16/1637\"",
+17443|<O>| string get_name() { return "Mục Dã"; }
+17444|<O>| notify("%s đang bận.", who->get_name());

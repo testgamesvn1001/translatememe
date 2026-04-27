@@ -1,73 +1,73 @@
-﻿13212|<O>| if (!me->is_moveable()) return 1;    // khôngdoãn hứa Di Động
-13213|<O>| "    Tại"HIR" Tần Quốc "NOR"Năng muađến"HIR" Côn Lôn Sơn "NOR"củaTrang bị；\n"
-13214|<O>| private static int iLevel1time;		// Chiến trường tổng quảncủaThăng cấpgiờgian
-13215|<O>| add_max_mp(get_max_mp() * 200 / 100);  	//Pháp thuật lực
+﻿13212|<O>| if (!me->is_moveable()) return 1;    // Không cho phép di chuyển
+13213|<O>| "    Ở"HIR" Tần Quốc "NOR"có thể mua trang bị của"HIR" Côn Lôn Sơn "NOR"；\n"
+13214|<O>| private static int iLevel1time;		// Thời gian nâng cấp tổng quản chiến trường
+13215|<O>| add_max_mp(get_max_mp() * 200 / 100);  	//Pháp lực
 13216|<O>| private string Marry;                   // Phối ngẫu
-13217|<O>| private string* Apprentices = ({ });		//đồ đệcủatập Hợp
-13218|<O>| send_user(me, "%c%s", '!', "đương phốcủanàyvị tríđãCóĐạo cụ。");
-13219|<O>| send_user(who, "%c%s", '!', "Bạn Thântrênkhông cóLược mà Vong Tình Bà Bà cần");
-13220|<O>| if (rate < 500 * rate1 / 100)		//80cấp Trang bị vàng môn phái ngẫu nhiên
-13221|<O>| //			+ sprintf(ESC"Môn pháithâu tập Chiến Thao tác(Kiểm tra)\nparty 125\n")
-13222|<O>| desc = "Nữnhi Hồng Tửu vìcũgiờphú Gia sinhNữgiáNữtất bị Chi Vật，20giây phục hồi cho người chơi2000điểm Pháp thuật lực。";
+13217|<O>| private string* Apprentices = ({ });		//Tập hợp đồ đệ
+13218|<O>| send_user(me, "%c%s", '!', "Vị trí này trong tiệm cầm đồ đã có đạo cụ rồi.");
+13219|<O>| send_user(who, "%c%s", '!', "Bạn không có lược mà Vong Tình Bà Bà cần");
+13220|<O>| if (rate < 500 * rate1 / 100)		//Trang bị vàng ngẫu nhiên môn phái cấp 80
+13221|<O>| //			+ sprintf(ESC"Thao tác Môn Phái Đột Kích Chiến (test)\nparty 125\n")
+13222|<O>| desc = "Rượu Nữ Nhi Hồng là vật phẩm không thể thiếu khi nhà giàu sinh con gái, gả con gái ngày xưa, trong 20 giây hồi phục 2000 điểm pháp lực cho người chơi.";
 13223|<O>| private int GiftRA;                     // Nhân Ái
-13224|<O>| private int Arts;                       // nghệ Thuật
+13224|<O>| private int Arts;                       // Nghệ thuật
 13225|<O>| private int Stability;                  // An định
-13226|<O>| string Rank;                            // chức vụ
-13227|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Matình Thạch");
-13228|<O>| ({"tồn tiền ứng nênTạinàoNPCxử？","đương phố Lão bản","Tửu điếm Lão bản","công đầu","ThầnTiêngia gia"}),
-13229|<O>| notify("bạnđem" + who->get_name() + "củađội ngũ Xin ly đoàn đội。");
-13230|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"thông tập phạm");
-13231|<O>| private int Soldier;                    // Sĩ Binh
-13232|<O>| if (random(100000) < 80 * rate1 / 100)	//Môn pháiVàngtrang
-13233|<O>| result = result + sprintf(HIR"%dKinh nghiệm", amount);
-13234|<O>| private int GiftZS;                     // Trung thực
-13235|<O>| send_user(me, "%c%s", '!', "Đái Vật phẩm quý giáKhông thể sử dụngThổHành Châu。");
-13236|<O>| int  restore_alarm_clock();				//	Đóngtịnh trọng trítất cảgiờChung trạng thái
-13237|<O>| private int Fishculture;                // ngư nghiệp
-13238|<O>| if (gold) result[0] = sprintf(" %d Vàng", gold);
-13239|<O>| who->set("02616", -sub_effect);    // cẩn thận chuẩn bị me
-13240|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận được"HIY"Hộ tịch Mậtkiện");
-13241|<O>| private int Tax;                        // thuế Thu
-13242|<O>| int Gender;                             // tính biệt
-13243|<O>| return HIC+get_name()+"\nSủng vật sở hữu kỹ năng này，khôngsẽhãm Nhập Mộng du trạng thái。";
+13226|<O>| string Rank;                            // Chức vụ
+13227|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Ma Tinh Thạch");
+13228|<O>| ({"Gửi tiền nên ở NPC nào?","Ông chủ tiệm cầm đồ","Ông chủ khách sạn","Quản công","Thần Tiên Ông Nội"}),
+13229|<O>| notify("Bạn đã mời đội của " + who->get_name() + " rời khỏi đoàn.");
+13230|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tội Phạm Bị Truy Nã");
+13231|<O>| private int Soldier;                    // Binh lính
+13232|<O>| if (random(100000) < 80 * rate1 / 100)	//Trang bị vàng môn phái
+13233|<O>| result = result + sprintf(HIR"%d kinh nghiệm", amount);
+13234|<O>| private int GiftZS;                     // Trung Thực
+13235|<O>| send_user(me, "%c%s", '!', "Mang theo vật phẩm quý giá không thể sử dụng Thổ Hành Châu.");
+13236|<O>| int  restore_alarm_clock();				//	Đóng và khôi phục trạng thái tất cả đồng hồ
+13237|<O>| private int Fishculture;                // Ngư nghiệp
+13238|<O>| if (gold) result[0] = sprintf(" %d vàng", gold);
+13239|<O>| who->set("02616", -sub_effect);    // Cẩn thận chuẩn bị me
+13240|<O>| send_user(who, "%c%s", '!', "Bạn nhận được "HIY"Hồ Sơ Hộ Tịch Mật");
+13241|<O>| private int Tax;                        // Thuế
+13242|<O>| int Gender;                             // Giới tính
+13243|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này sẽ không rơi vào trạng thái mộng du.";
 13244|<O>| private int Strength;                   // Thể lực
-13245|<O>| send_user(who, "%c%s", '!', "thiết trí tânThủycần 50 điểm Thể lực。");
-13246|<O>| send_user(who, "%c%s", ';', "Bạn nhận được50điểmKinh nghiệmvà1điểm Tiềm năng");
+13245|<O>| send_user(who, "%c%s", '!', "Thiết lập lương cần 50 điểm thể lực.");
+13246|<O>| send_user(who, "%c%s", ';', "Bạn nhận được 50 điểm kinh nghiệm và 1 điểm tiềm năng");
 13247|<O>| private string Master;                  // Thành chủ
-13248|<O>| return sprintf("mớiThủ Tín Vật %dcấp", get_item_level());
-13249|<O>| send_user(who, "%c%c", 0x26, 0);    // Đónggiao dịchsong khẩu
-13250|<O>| add_max_mp(get_max_mp() * 400 / 100);  	//Pháp thuật lực
-13251|<O>| private int Agriculture;                // nông nghiệp
+13248|<O>| return sprintf("Tín vật tân thủ cấp %d", get_item_level());
+13249|<O>| send_user(who, "%c%c", 0x26, 0);    // Đóng cửa sổ giao dịch
+13250|<O>| add_max_mp(get_max_mp() * 400 / 100);  	//Pháp lực
+13251|<O>| private int Agriculture;                // Nông nghiệp
 13252|<O>| ESC "Xác nhận\n" + sprintf( "talk %x# go\n", id ) +
 13253|<O>| private int Rate;                     	// Tỷ lệ thành công
-13254|<O>| return "Một loạiKỳ dịcủaHồng Sắc tinh Thạch，Sau khi sử dụng mỗi2giây có thể phục hồi90điểm Khí Huyết。hiệu Quảkéo dài60phút。";
-13255|<O>| private int Religion;                   // Tông Giáo
-13256|<O>| send_user(who, "%c%s", '!', "Bạn cử tiếncủaNhânđãLàphó Thành chủ。");
-13257|<O>| private int lifetime;                   // thọ Mệnh
-13258|<O>| name = sprintf("%s(%dcấp)", name, get_level());
-13259|<O>| return sprintf("Cấm dùng Pháp Bảo:\n　　tất cảĐái đặc thù dị NăngcủaPháp Bảo vô PhápSử dụng。\n");
-13260|<O>| &&      item2->get_lasting() >= 100    // nại cửu độ
-13261|<O>| case 1: write_user(me, ECHO "bạnchiếm được tiết quẻ，khôngXuất Môn đình，hung。");
-13262|<O>| private string Title;                   // đầu hàm
-13263|<O>| result = sprintf("quân đội:%s\n", who->get_name());
+13254|<O>| return "Một loại tinh thạch đỏ kỳ lạ, sử dụng mỗi 2 giây hồi phục 90 điểm khí huyết. Hiệu lực kéo dài 60 phút.";
+13255|<O>| private int Religion;                   // Tôn giáo
+13256|<O>| send_user(who, "%c%s", '!', "Người bạn tiến cử đã là phó thành chủ rồi.");
+13257|<O>| private int lifetime;                   // Tuổi thọ
+13258|<O>| name = sprintf("%s(cấp %d)", name, get_level());
+13259|<O>| return sprintf("Cấm pháp bảo:\n　　Tất cả pháp bảo có dị năng đặc biệt không thể sử dụng.\n");
+13260|<O>| &&      item2->get_lasting() >= 100    // Độ bền
+13261|<O>| case 1: write_user(me, ECHO "Bạn bói được quẻ Tiết, không ra khỏi cửa, xấu.");
+13262|<O>| private string Title;                   // Danh hiệu
+13263|<O>| result = sprintf("Quân đội:%s\n", who->get_name());
 13264|<O>| case "Tần": case "05": city = CITY_QIN;  break;
-13265|<O>| send_user(me, "%c%s", '!', "bạncủakỹ lưỡngđối vớinămthúLàkhôngKhởi tác dùngcủa。");
-13266|<O>| //	Hồi điều:đặc kỹTấn côngHàm -- thửHàmSâm kiến npc/task/8210.c trongDiệncủaĐồng DanhHàm
-13267|<O>| desc = "Nữnhi Hồng Tửu vìcũgiờphú Gia sinhNữgiáNữtất bị Chi Vật，14giây phục hồi cho người chơi2380điểm Pháp Lực。";
-13268|<O>| result2 = sprintf("Cấp độ %d", who->get_level());
-13269|<O>| ESC "điĐào Hoa Nguyên。\n" + sprintf("talk %x# 1\n", id) +
-13270|<O>| return HIC+get_name()+"\nSủng vật sở hữu kỹ năng này，khôngsẽhãm Nhập huyễn vựng trạng thái。";
-13271|<O>| private int Gold;                       // Vàngkhố
-13272|<O>| if (!is_player(me) || random(5))    // ＧＭtạo daokhônglậu
-13273|<O>| int Gold;                               // quyên khoản
-13274|<O>| obj = me->get("zombie");//xử lýkhông thểtrọng điệpSử dụngcơ giớisủng vậtvàThủybìnhcủatình huống。
-13275|<O>| private int Contribute;                 // cống hiến
-13276|<O>| //			+ sprintf(ESC"HoàngVàngVệ độidàiThao tác(Kiểm tra)\nparty 127\n")
-13277|<O>| tell_user(me, "thiết trí Gia Mật Phương Pháp:%d", get_crypt_code());
-13278|<O>| result = sprintf("bạnXác nhậncầnTướng lưỡnggiữacấpđoạn tạo ThạchHợp thànhvì Nhấtcaocấpđoạn tạo Thạch ？\n"
-13279|<O>| return "［Luyện Đơn］có thểđểNgười chơiSử dụngDược Phẩm Đẳng tài liệuChế tạoXuất tiêu hao Phẩm、tạmgiờtăng Cường thuộc tínhcủaĐan Dược。\n";
-13280|<O>| private int Industry;                   // công nghiệp
-13281|<O>| send_user(who, "%c%s", '!', "bạnđãlĩnh thủ qua nêncấpbiệt lĩnh thưởng mã");
+13265|<O>| send_user(me, "%c%s", '!', "Thủ đoạn của bạn không có tác dụng với Niên Thú.");
+13266|<O>| //	Hồi gọi: Hàm tấn công đặc kỹ -- Hàm này tham khảo hàm cùng tên trong npc/task/8210.c
+13267|<O>| desc = "Rượu Nữ Nhi Hồng là vật phẩm không thể thiếu khi nhà giàu sinh con gái, gả con gái ngày xưa, trong 14 giây hồi phục 2380 điểm pháp lực cho người chơi.";
+13268|<O>| result2 = sprintf("Cấp %d", who->get_level());
+13269|<O>| ESC "Đến Đào Hoa Nguyên.\n" + sprintf("talk %x# 1\n", id) +
+13270|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này sẽ không rơi vào trạng thái choáng váng.";
+13271|<O>| private int Gold;                       // Kho vàng
+13272|<O>| if (!is_player(me) || random(5))    // GM tung tin đồn không bị lộ
+13273|<O>| int Gold;                               // Quyên góp
+13274|<O>| obj = me->get("zombie");//Xử lý trường hợp không thể dùng chồng thú cưng cơ giới và Thủy Bình.
+13275|<O>| private int Contribute;                 // Cống hiến
+13276|<O>| //			+ sprintf(ESC"Thao tác Đội Trưởng Vệ Binh Hoàng Kim (test)\nparty 127\n")
+13277|<O>| tell_user(me, "Thiết lập phương pháp mã hóa:%d", get_crypt_code());
+13278|<O>| result = sprintf("Bạn có chắc muốn hợp thành hai viên Đá Rèn trung cấp thành một viên Đá Rèn cao cấp không?\n"
+13279|<O>| return "［Luyện Đan］Cho phép người chơi sử dụng dược liệu và nguyên liệu chế tạo vật phẩm tiêu hao, thuốc tăng cường thuộc tính tạm thời.\n";
+13280|<O>| private int Industry;                   // Công nghiệp
+13281|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận mã thưởng cấp này rồi");
 13282|<O>| int Level;                              // Cấp độ
-13283|<O>| private static int iLevel3time;		// Chiến trường Tiễn thápcủaThăng cấpgiờgian
-13284|<O>| send_user(me, "%c%s", '!', book + "khôngTrị được Bạn Nhất xem。");
+13283|<O>| private static int iLevel3time;		// Thời gian nâng cấp tháp tiễn chiến trường
+13284|<O>| send_user(me, "%c%s", '!', book + " không đáng để bạn xem.");

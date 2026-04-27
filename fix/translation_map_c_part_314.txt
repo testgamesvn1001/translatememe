@@ -1,71 +1,71 @@
-﻿12280|<O>| who->set_save_2("double_time.time2", 0);	//战国号角
-12281|<O>| if (map->get_forbbit() ) notify( "地图关闭了比武功能" );
-12282|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"秘密（3）");
-12283|<O>| ESC "晶石合成\n" + sprintf("talk %x# make\n", id) +
-12284|<O>| if (!me->can_be_fighted(who)) return;//不可以接受战斗。
-12285|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"秘密（1）");
-12286|<O>| private static int NextAction = 1;		// 保存着的旧有模式
-12287|<O>| //		&& (present("天恩令",player,1,MAX_CARRY*4) ) )
-12288|<O>| send_user(who, "%c%s", '!', "蒙面人出现，您的行动受到影响。");
-12289|<O>| result = sprintf("您有 %d 票，您想把选票投给谁？\n", total);
-12290|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"游魂（6）");
-12291|<O>| who->log_legend(sprintf("您决定脱离“%s”门下！", name));
-12292|<O>| send_user(who, "%c%s", '!', "你领取了神仙爷爷的嘱托的任务！");
-12293|<O>| #define FEIZEI 			"npc/party/0005"			//	飞贼的文件位置
-12294|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"罪恶的源泉");
-12295|<O>| private int NoTrans = 0;                // 禁止传送
-12296|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"破除谣言2");
-12297|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"偷钱的笨熊");
-12298|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"御史的烦恼");
-12299|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"炼药之路4");
-12300|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"御史的建议");
-12301|<O>| write_user(me, HIR "您杀死了%s！", who->get_name());
-12302|<O>| private int LockTime;                   // 锁定开始
-12303|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"合伙做生意");
-12304|<O>| return "可替代帮派帐房先生储备所需物品的箱子，得到后给予帐房先生便可完成储备任务。";
-12305|<O>| string Title;                           // 家族头衔
-12306|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"神灵的怨恨");
-12307|<O>| int get_cast_seal() { return 9103; }    // 符纸顺旋
-12308|<O>| private int Reincarnation;              // 转生次数
-12309|<O>| private mapping Skills = ([ ]);         // 技能等级
-12310|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"食物的来源");
-12311|<O>| pet->set("anti_wound",1);	//抗 EFFECT_CHAR_WOUND
-12312|<O>| return "神奇的葫芦，\n里面装着妄图偷抢西瓜的坏小猴，\n将它交给西瓜伯伯教训吧。";
-12313|<O>| private int OwnerTime;                  // 获得时间
-12314|<O>| private static int Level;               // 战场等级
-12315|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"游魂（1）");
-12316|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"大齐的崛起");
-12317|<O>| if (gold2) result[1] = sprintf(" %d 金", gold2);
-12318|<O>| || !(obj3 = present("残图左下角", me, 1, MAX_CARRY))
-12319|<O>| send_user(me, "%c%s", '!', "需要加入门派后才能使用这个道具。");
-12320|<O>| string MasterId;                        // 师父标识
-12321|<O>| if( !( act = pf / 10 ) )    // pf: [动作序号][光影序号]
-12322|<O>| private int SayOpen = 1;                // 说话开关
-12323|<O>| private int Number;                     // 技能序号
-12324|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"建帮的号角");
-12325|<O>| result = sprintf("%-6s%-10s%s", "", "", "万事通");
-12326|<O>| result2 = sprintf("存款 %d", who->get_savings());
-12327|<O>| else if (rate < 6100 * rate1 / 100)		//完美宝石矿 1个
-12328|<O>| private int NoFriend = 0;               // 禁止交友
-12329|<O>| send_user(who, "%c%s", '!', "您获得藏宝图，技能书和一万金！");
-12330|<O>| private int Research;                   // 研究技能
-12331|<O>| give_item(who, "/item/sell/0008", 10);	//速效治愈药水
-12332|<O>| send_user(who, "%c%s", ';', "您用一只黑球兑换了10张飞行符");
-12333|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"害人的水鬼");
-12334|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"消灭四脚蛇");
-12335|<O>| return "十二星座之一的双子座。将其放出，主人获得5%物防、5%法防、5%气血加成。";
-12336|<O>| write_user(me, ECHO "您沿着%s的线索，得到一个七国令。", name);
-12337|<O>| cName = "挑衅人" + NPC_NAME_D->get_banditi_name();
-12338|<O>| private static mapping mpEnmity = ([]); 	//仇恨集合
-12339|<O>| int Time;                               // 入帮时间
-12340|<O>| send_user(who, "%c%s", '!', "您冻结的双倍时间超过了18小时");
-12341|<O>| send_user(who, "%c%s", ';', "您用一只蓝球兑换了10颗活络丸");
-12342|<O>| else if (rate < 7540 * rate1 / 100)		//随机技能进阶两本
-12343|<O>| who->set_save("pf.burn", ADD_AP);    // 小心准备 me
-12344|<O>| send_user(who, "%c%s", '!', "现在没有更高级的称谓可以领取！");
-12345|<O>| private static int HeartSec = 0;        // 心跳计时
-12346|<O>| private int Id;                         // 当铺标识
-12347|<O>| send_user(me, "%c%s", ':', "您的水瓶宠使用时间增加了14天。");
-12348|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"罪恶的土匪");
-12349|<O>| tell_user(me, "正在退出游戏……");    // 被调用，不要用 printf
-12350|<O>| who->set_save_2("double_time.time3", 0);	//战国号角
+﻿12280|<O>| who->set_save_2("double_time.time2", 0);	//Chiến Quốc Hiệu Giác
+12281|<O>| if (map->get_forbbit() ) notify( "Bản đồ đã đóng chức năng tỷ võ" );
+12282|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Bí Mật（3）");
+12283|<O>| ESC "Hợp thành tinh thạch\n" + sprintf("talk %x# make\n", id) +
+12284|<O>| if (!me->can_be_fighted(who)) return;//Không thể chấp nhận chiến đấu.
+12285|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Bí Mật（1）");
+12286|<O>| private static int NextAction = 1;		// Chế độ cũ đã lưu
+12287|<O>| //		&& (present("Thiên Ân Lệnh",player,1,MAX_CARRY*4) ) )
+12288|<O>| send_user(who, "%c%s", '!', "Người bịt mặt xuất hiện, hành động của bạn bị ảnh hưởng.");
+12289|<O>| result = sprintf("Bạn có %d phiếu, bạn muốn bỏ phiếu cho ai?\n", total);
+12290|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Du Hồn（6）");
+12291|<O>| who->log_legend(sprintf("Bạn quyết định rời khỏi môn phái "%s"!", name));
+12292|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận nhiệm vụ Lời Dặn Của Thần Tiên Ông Nội!");
+12293|<O>| #define FEIZEI 			"npc/party/0005"			//	Vị trí file phi tặc
+12294|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Nguồn Gốc Tội Ác");
+12295|<O>| private int NoTrans = 0;                // Cấm truyền tống
+12296|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Phá Bỏ Tin Đồn 2");
+12297|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Con Gấu Ăn Trộm Tiền");
+12298|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Phiền Não Của Ngự Sử");
+12299|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Con Đường Luyện Thuốc 4");
+12300|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Đề Xuất Của Ngự Sử");
+12301|<O>| write_user(me, HIR "Bạn đã giết chết %s!", who->get_name());
+12302|<O>| private int LockTime;                   // Bắt đầu khóa
+12303|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Hợp Tác Làm Ăn");
+12304|<O>| return "Chiếc hòm có thể thay thế quản lý kho bang phái dự trữ vật phẩm cần thiết, nhận được rồi đưa cho quản lý kho là hoàn thành nhiệm vụ dự trữ.";
+12305|<O>| string Title;                           // Danh hiệu gia tộc
+12306|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Oán Hận Của Thần Linh");
+12307|<O>| int get_cast_seal() { return 9103; }    // Phù Chỉ Thuận Toàn
+12308|<O>| private int Reincarnation;              // Số lần chuyển sinh
+12309|<O>| private mapping Skills = ([ ]);         // Cấp độ kỹ năng
+12310|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Nguồn Thực Phẩm");
+12311|<O>| pet->set("anti_wound",1);	//Kháng EFFECT_CHAR_WOUND
+12312|<O>| return "Chiếc hồ lô thần kỳ,\nbên trong nhốt con khỉ hư định ăn trộm dưa hấu,\nhãy đưa nó cho Bác Dưa Hấu để trừng phạt.";
+12313|<O>| private int OwnerTime;                  // Thời gian nhận được
+12314|<O>| private static int Level;               // Cấp chiến trường
+12315|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Du Hồn（1）");
+12316|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Sự Trỗi Dậy Của Đại Tề");
+12317|<O>| if (gold2) result[1] = sprintf(" %d vàng", gold2);
+12318|<O>| || !(obj3 = present("Tàn Đồ Góc Trái Dưới", me, 1, MAX_CARRY))
+12319|<O>| send_user(me, "%c%s", '!', "Cần gia nhập môn phái trước mới có thể sử dụng đạo cụ này.");
+12320|<O>| string MasterId;                        // ID sư phụ
+12321|<O>| if( !( act = pf / 10 ) )    // pf: [mã động tác][mã hiệu ứng ánh sáng]
+12322|<O>| private int SayOpen = 1;                // Bật/tắt nói chuyện
+12323|<O>| private int Number;                     // Số thứ tự kỹ năng
+12324|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Hiệu Giác Lập Bang");
+12325|<O>| result = sprintf("%-6s%-10s%s", "", "", "Vạn Sự Thông");
+12326|<O>| result2 = sprintf("Tiền gửi %d", who->get_savings());
+12327|<O>| else if (rate < 6100 * rate1 / 100)		//1 mỏ bảo thạch hoàn mỹ
+12328|<O>| private int NoFriend = 0;               // Cấm kết bạn
+12329|<O>| send_user(who, "%c%s", '!', "Bạn nhận được bản đồ tàng bảo, sách kỹ năng và một vạn vàng!");
+12330|<O>| private int Research;                   // Kỹ năng nghiên cứu
+12331|<O>| give_item(who, "/item/sell/0008", 10);	//Thuốc trị thương tốc hiệu
+12332|<O>| send_user(who, "%c%s", ';', "Bạn dùng một quả cầu đen đổi được 10 Phi Hành Phù");
+12333|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Thủy Quỷ Hại Người");
+12334|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tiêu Diệt Thằn Lằn Bốn Chân");
+12335|<O>| return "Một trong mười hai cung hoàng đạo - Song Tử. Khi triệu hồi, chủ nhân nhận 5% vật phòng, 5% pháp phòng, 5% khí huyết gia thành.";
+12336|<O>| write_user(me, ECHO "Bạn theo manh mối của %s, nhận được một Thất Quốc Lệnh.", name);
+12337|<O>| cName = "Kẻ Khiêu Khích" + NPC_NAME_D->get_banditi_name();
+12338|<O>| private static mapping mpEnmity = ([]); 	//Tập hợp thù hận
+12339|<O>| int Time;                               // Thời gian vào bang
+12340|<O>| send_user(who, "%c%s", '!', "Thời gian gấp đôi bạn đóng băng đã vượt quá 18 giờ");
+12341|<O>| send_user(who, "%c%s", ';', "Bạn dùng một quả cầu xanh đổi được 10 viên Hoạt Lạc Hoàn");
+12342|<O>| else if (rate < 7540 * rate1 / 100)		//2 sách kỹ năng tiến giai ngẫu nhiên
+12343|<O>| who->set_save("pf.burn", ADD_AP);    // Cẩn thận chuẩn bị me
+12344|<O>| send_user(who, "%c%s", '!', "Hiện tại không có danh hiệu cao hơn để nhận!");
+12345|<O>| private static int HeartSec = 0;        // Đếm thời gian nhịp tim
+12346|<O>| private int Id;                         // ID tiệm cầm đồ
+12347|<O>| send_user(me, "%c%s", ':', "Thời gian sử dụng thú cưng Bảo Bình của bạn tăng thêm 14 ngày.");
+12348|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tên Thổ Phỉ Tội Lỗi");
+12349|<O>| tell_user(me, "Đang thoát game……");    // Được gọi, không dùng printf
+12350|<O>| who->set_save_2("double_time.time3", 0);	//Chiến Quốc Hiệu Giác

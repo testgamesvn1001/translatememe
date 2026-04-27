@@ -1,75 +1,75 @@
-﻿13802|<O>| else if (p < 9100 * rate / 100)    // 防具(门派)
-13803|<O>| ESC "请您收下我这个弟子吧！\nlearn @.? %x#\n", id, id);
-13804|<O>| send_user(me, "%c%c", 0x25, 1);    // 打开炼药界面
-13805|<O>| else if (p < 4151 * rate / 100)    // 武器(门派)
-13806|<O>| else if (p < 8536 * rate / 100)    // 武器(门派)
-13807|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"心愿");
-13808|<O>| ESC "恢复所有玩家状态\n" + "gmfight recover all\n" +
-13809|<O>| else if (p < 6214 * rate / 100)    // 防具(门派)
-13810|<O>| else if (p < 9048 * rate / 100)    // 防具(门派)
-13811|<O>| notify(item->get_name() + "已经破旧不堪，不能再修理了。");
-13812|<O>| else if (p < 5277 * rate / 100)    // 武器(门派)
-13813|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"雕刻");
-13814|<O>| else if (p < 8400 * rate / 100)    // 武器(门派)
-13815|<O>| else if (p < 5237 * rate / 100)    // 防具(门派)
-13816|<O>| SAY_CMD->say(this_object(), "哈哈，这就是冲动的惩罚！");
-13817|<O>| else if (p < 3732 * rate / 100)    // 武器(基本)
-13818|<O>| else if (p < 9294 * rate / 100)    // 武器(门派)
-13819|<O>| else if (p < 5331 * rate / 100)    // 武器(门派)
-13820|<O>| else if (p < 7381 * rate / 100)    // 防具(门派)
-13821|<O>| ESC"离开", me->get_name(), id, id, id, id, ));
-13822|<O>| else if (p < 5802 * rate / 100)    // 武器(门派)
-13823|<O>| if (who->get_manager() == Manager)    // 攻击方
-13824|<O>| send_user(me, "%c%s", '!', "情人节活动按预定时间开启!");
-13825|<O>| else if (directory_exist(file))    // 子目录的列示
-13826|<O>| send_user(who, "%c%s", '!', "您身上没有神仙爷爷的木剑");
-13827|<O>| // 返回: 1 if event-driven, 0 if always-active
-13828|<O>| else if (p < 9400 * rate / 100)    // 防具(门派)
-13829|<O>| else if (p < 5240 * rate / 100)    // 防具(基本)
-13830|<O>| else if (p < 6246 * rate / 100)    // 武器(门派)
-13831|<O>| else if (p < 9262 * rate / 100)    // 武器(门派)
-13832|<O>| else if (p < 4200 * rate / 100)    // 防具(门派)
-13833|<O>| tell_user(me, "您去到: %d (%d, %d)。", z, x, y);
-13834|<O>| else if (p < 7249 * rate / 100)    // 防具(门派)
-13835|<O>| else if (p < 5455 * rate / 100)    // 防具(门派)
-13836|<O>| else if (p < 5462 * rate / 100)    // 防具(门派)
-13837|<O>| send_user(me, "%c%c", 0x26, 5);    // 确认对方物品
-13838|<O>| if (time % get_clean_time() == 0)    // 复位时间
-13839|<O>| else if (p < 9023 * rate / 100)    // 武器(门派)
-13840|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"鹿角");
-13841|<O>| else if (p < 3881 * rate / 100)    // 武器(门派)
-13842|<O>| void into_effect_conjure(object me)    // 召唤
-13843|<O>| else if (p < 9017 * rate / 100)    // 武器(门派)
-13844|<O>| send_user(me, "%c%s", ';', "您累计在线时间已满1小时。");
-13845|<O>| else if (p < 9285 * rate / 100)    // 武器(门派)
-13846|<O>| else if (p < 5400 * rate / 100)    // 防具(门派)
-13847|<O>| else if (p < 3620 * rate / 100)    // 武器(门派)
-13848|<O>| else    write_user(who, ECHO "您觉得背后冷飕飕的……");
-13849|<O>| + sprintf(ESC"修改游戏的系统时间(测试用)\nparty 7001\n")
-13850|<O>| send_user(who, "%c%s", '!', "你离目标过远，任务失败！");
-13851|<O>| else if (p < 9478 * rate / 100)    // 防具(门派)
-13852|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"泥雕");
-13853|<O>| ESC"10次任务兑换“白银圣斗士”称号\ntalk %x# bonus.1010\n"
-13854|<O>| else if (p < 5230 * rate / 100)    // 防具(门派)
-13855|<O>| return "［法伤强化］ 帮派特殊技，可增加玩家用法术攻击对目标造成的伤害。\n";
-13856|<O>| else if (p < 3440 * rate / 100)    // 防具(门派)
-13857|<O>| else if (p < 2927 * rate / 100)    // 武器(门派)
-13858|<O>| else if (p < 3984 * rate / 100)    // 武器(基本)
-13859|<O>| else if (p < 2949 * rate / 100)    // 武器(门派)
-13860|<O>| send_user(who, "%c%s", '!', "建设任务要 1 点体力。");
-13861|<O>| if (!BattleD[0]) BattleD[0] = 1;    // 除数非零
-13862|<O>| else if (p < 9930 * rate / 100)    // 武器、装备
-13863|<O>| forge = item[0]->get("forge");//这里是获得装备的星级。
-13864|<O>| send_user(who, "%c%s", '!', "您获得了"HIY"砚台");
-13865|<O>| tell_user(me, obj->get_name() + "已复制在身边。");
-13866|<O>| send_user(who, "%c%s", '!', HIY"珍珠项链 1/1");
-13867|<O>| printf( ECHO "您丢下了%s。", item->get_name() );
-13868|<O>| else if (id >= 200)    // 场景公用提示，放在 200～255
-13869|<O>| string get_family_name() { return " 桃花源"; }
-13870|<O>| send_user(me, "%c%s", '!', "您不是艺人，不懂得跳舞。");
-13871|<O>| sprintf("%s:\n    玩家%s决定为王母娘娘采集灵药，你是否接受？\n"
-13872|<O>| send_user(who, "%c%s", '!', "您举荐的人非本国人士。");
-13873|<O>| else if (num2 == MAX_CARRY * 3)    // 乾坤袋之内
-13874|<O>| #define VISION_RANGE 20         // NPC 视野范围
-13875|<O>| if (check_item_amount(who, "西瓜伯伯的西瓜") < 10)
-13876|<O>| send_user(who, "%c%s", '!', "同盟要 50 点体力。");
+﻿13802|<O>| else if (p < 9100 * rate / 100)    // Phòng cụ (môn phái)
+13803|<O>| ESC "Xin hãy thu nhận con làm đệ tử！\nlearn @.? %x#\n", id, id);
+13804|<O>| send_user(me, "%c%c", 0x25, 1);    // Mở giao diện luyện thuốc
+13805|<O>| else if (p < 4151 * rate / 100)    // Vũ khí (môn phái)
+13806|<O>| else if (p < 8536 * rate / 100)    // Vũ khí (môn phái)
+13807|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tâm Nguyện");
+13808|<O>| ESC "Hồi phục trạng thái tất cả người chơi\n" + "gmfight recover all\n" +
+13809|<O>| else if (p < 6214 * rate / 100)    // Phòng cụ (môn phái)
+13810|<O>| else if (p < 9048 * rate / 100)    // Phòng cụ (môn phái)
+13811|<O>| notify(item->get_name() + " đã hư hỏng nặng, không thể sửa chữa được nữa.");
+13812|<O>| else if (p < 5277 * rate / 100)    // Vũ khí (môn phái)
+13813|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Điêu Khắc");
+13814|<O>| else if (p < 8400 * rate / 100)    // Vũ khí (môn phái)
+13815|<O>| else if (p < 5237 * rate / 100)    // Phòng cụ (môn phái)
+13816|<O>| SAY_CMD->say(this_object(), "Haha, đây chính là hình phạt cho sự xung động!");
+13817|<O>| else if (p < 3732 * rate / 100)    // Vũ khí (cơ bản)
+13818|<O>| else if (p < 9294 * rate / 100)    // Vũ khí (môn phái)
+13819|<O>| else if (p < 5331 * rate / 100)    // Vũ khí (môn phái)
+13820|<O>| else if (p < 7381 * rate / 100)    // Phòng cụ (môn phái)
+13821|<O>| ESC"Rời đi", me->get_name(), id, id, id, id, ));
+13822|<O>| else if (p < 5802 * rate / 100)    // Vũ khí (môn phái)
+13823|<O>| if (who->get_manager() == Manager)    // Bên tấn công
+13824|<O>| send_user(me, "%c%s", '!', "Hoạt động Valentine sẽ mở theo thời gian định sẵn!");
+13825|<O>| else if (directory_exist(file))    // Liệt kê thư mục con
+13826|<O>| send_user(who, "%c%s", '!', "Bạn không có kiếm gỗ của Thần Tiên Ông Nội");
+13827|<O>| // Trả về: 1 nếu event-driven, 0 nếu always-active
+13828|<O>| else if (p < 9400 * rate / 100)    // Phòng cụ (môn phái)
+13829|<O>| else if (p < 5240 * rate / 100)    // Phòng cụ (cơ bản)
+13830|<O>| else if (p < 6246 * rate / 100)    // Vũ khí (môn phái)
+13831|<O>| else if (p < 9262 * rate / 100)    // Vũ khí (môn phái)
+13832|<O>| else if (p < 4200 * rate / 100)    // Phòng cụ (môn phái)
+13833|<O>| tell_user(me, "Bạn đi đến: %d (%d, %d).", z, x, y);
+13834|<O>| else if (p < 7249 * rate / 100)    // Phòng cụ (môn phái)
+13835|<O>| else if (p < 5455 * rate / 100)    // Phòng cụ (môn phái)
+13836|<O>| else if (p < 5462 * rate / 100)    // Phòng cụ (môn phái)
+13837|<O>| send_user(me, "%c%c", 0x26, 5);    // Xác nhận vật phẩm đối phương
+13838|<O>| if (time % get_clean_time() == 0)    // Thời gian reset
+13839|<O>| else if (p < 9023 * rate / 100)    // Vũ khí (môn phái)
+13840|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Sừng Hươu");
+13841|<O>| else if (p < 3881 * rate / 100)    // Vũ khí (môn phái)
+13842|<O>| void into_effect_conjure(object me)    // Triệu hồi
+13843|<O>| else if (p < 9017 * rate / 100)    // Vũ khí (môn phái)
+13844|<O>| send_user(me, "%c%s", ';', "Thời gian online tích lũy của bạn đã đủ 1 giờ.");
+13845|<O>| else if (p < 9285 * rate / 100)    // Vũ khí (môn phái)
+13846|<O>| else if (p < 5400 * rate / 100)    // Phòng cụ (môn phái)
+13847|<O>| else if (p < 3620 * rate / 100)    // Vũ khí (môn phái)
+13848|<O>| else    write_user(who, ECHO "Bạn cảm thấy sau lưng lạnh sống lưng……");
+13849|<O>| + sprintf(ESC"Sửa đổi thời gian hệ thống game (dùng để test)\nparty 7001\n")
+13850|<O>| send_user(who, "%c%s", '!', "Bạn cách mục tiêu quá xa, nhiệm vụ thất bại!");
+13851|<O>| else if (p < 9478 * rate / 100)    // Phòng cụ (môn phái)
+13852|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tượng Đất");
+13853|<O>| ESC"Đổi danh hiệu 'Bạch Ngân Thánh Đấu Sĩ' sau 10 nhiệm vụ\ntalk %x# bonus.1010\n"
+13854|<O>| else if (p < 5230 * rate / 100)    // Phòng cụ (môn phái)
+13855|<O>| return "［Cường Hóa Pháp Thương］ Kỹ năng đặc biệt bang phái, tăng sát thương pháp thuật gây ra cho mục tiêu.\n";
+13856|<O>| else if (p < 3440 * rate / 100)    // Phòng cụ (môn phái)
+13857|<O>| else if (p < 2927 * rate / 100)    // Vũ khí (môn phái)
+13858|<O>| else if (p < 3984 * rate / 100)    // Vũ khí (cơ bản)
+13859|<O>| else if (p < 2949 * rate / 100)    // Vũ khí (môn phái)
+13860|<O>| send_user(who, "%c%s", '!', "Nhiệm vụ xây dựng cần 1 điểm thể lực.");
+13861|<O>| if (!BattleD[0]) BattleD[0] = 1;    // Số chia khác 0
+13862|<O>| else if (p < 9930 * rate / 100)    // Vũ khí, trang bị
+13863|<O>| forge = item[0]->get("forge");//Đây là lấy sao của trang bị.
+13864|<O>| send_user(who, "%c%s", '!', "Bạn nhận được "HIY"Nghiên Mực");
+13865|<O>| tell_user(me, obj->get_name() + " đã sao chép bên cạnh.");
+13866|<O>| send_user(who, "%c%s", '!', HIY"Vòng Cổ Ngọc Trai 1/1");
+13867|<O>| printf( ECHO "Bạn đã bỏ xuống %s.", item->get_name() );
+13868|<O>| else if (id >= 200)    // Thông báo công cộng cảnh, đặt ở 200～255
+13869|<O>| string get_family_name() { return " Đào Hoa Nguyên"; }
+13870|<O>| send_user(me, "%c%s", '!', "Bạn không phải nghệ nhân, không biết nhảy múa.");
+13871|<O>| sprintf("%s:\n    Người chơi %s quyết định thu thập linh dược cho Vương Mẫu Nương Nương, bạn có chấp nhận không?\n"
+13872|<O>| send_user(who, "%c%s", '!', "Người bạn tiến cử không phải người nước này.");
+13873|<O>| else if (num2 == MAX_CARRY * 3)    // Bên trong Càn Khôn Đại
+13874|<O>| #define VISION_RANGE 20         // Tầm nhìn NPC
+13875|<O>| if (check_item_amount(who, "Dưa hấu của Bác Dưa Hấu") < 10)
+13876|<O>| send_user(who, "%c%s", '!', "Liên minh cần 50 điểm thể lực.");

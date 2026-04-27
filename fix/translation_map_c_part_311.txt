@@ -1,69 +1,69 @@
-﻿12073|<O>| send_user(who, "%c%s", '!', "友好度低于 -300 才能开战！");
-12074|<O>| send_user(who, "%c%s", ';', "你的等级太低，不能使用英雄符纹。");
-12075|<O>| if (!get_effect(me, EFFECT_CHAR_FAINT_0))		//不眩晕
-12076|<O>| if (!get_effect(me, EFFECT_CHAR_WOUND_0))		//不负伤
-12077|<O>| if ((who = me->get_2("orgtask2.npc"))    // 帮派任务
-12078|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"肖独贵（3）");
-12079|<O>| #define SKILL_FINAL	"/item/stuff/0015"		// 制作的结果
-12080|<O>| send_user(who, "%c%s", '!', "对方不在线，不能使用同心锁传送。");
-12081|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"大葫芦（5）");
-12082|<O>| if (!get_effect(me, EFFECT_CHAR_NO_PF_0))		//不沉默
-12083|<O>| // NGUYÊN NHÂN: heart_beat 每 0.1 秒运行，不管 NPC 状态如何
-12084|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"找寻童年乐趣");
-12085|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"换盘缠的芍药");
-12086|<O>| npc->set_name(HIB + me->get_city_name() + "兵士");
-12087|<O>| ESC"木精（技能:高级防盾、高级狂攻、高级暴击、高级飞行）\nuse %x# pet.2\n"
-12088|<O>| tell_user(me, HIY "%s已经完全恢复。", who->get_name());
-12089|<O>| name = "中原劫匪";picid = 0252; citypoint = 8;break;
-12090|<O>| send_user(who, "%c%s", '!', "不健康游戏时间禁止领取济世葫芦。");
-12091|<O>| return "听说可以修补容貌的膏药，对疗伤有点作用，马上恢复600点血气，冷却时间15秒";
-12092|<O>| write_user(who, HIR "您被%s杀死了！", me->get_name());
-12093|<O>| log_file("boss.txt", short_time() + " 犬太郎出现\n");
-12094|<O>| private static string CastArg;          // 特殊技参数
-12095|<O>| send_user(who, "%c%s", '!', "你领取了情人节任务————求索！");
-12096|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"湘妃林的鬼火");
-12097|<O>| return sprintf(PF_NAME ":\n　　使用的所有技能与法术的消耗加倍。");
-12098|<O>| //	if ( iHost == 1 || iHost == 4501 )	//天下,松花江除外
-12099|<O>| send_user(me, "%c%s", '!', "您购买道具失败。" + result);
-12100|<O>| #define MAX_MEMBER      5              // 队员人数上限
-12101|<O>| else if (me->get_2("changping.country") == "赵国")
-12102|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"内政官的烦恼");
-12103|<O>| if (sec % 3 == 0) me->add_yuan(1);    // 每三秒恢复元气
-12104|<O>| send_user(owner, "%c%s", '!', "你的伎俩对年兽是不起作用的。");
-12105|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"打造惊世之剑");
-12106|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"长城上的烟火");
-12107|<O>| string get_suit_name() { return "猎豹"; }	//属于某某套装
-12108|<O>| + sprintf(ESC"结束测试。注意:活动进行当中应处于此状态\nparty 49\n")
-12109|<O>| string get_suit_name() { return "腾龙"; }	//属于某某套装
-12110|<O>| result = sprintf("允许%s(%d)进入游戏。", name, number);
-12111|<O>| tell_user(who, "列示“%s”金库。", me->get_org_name());
-12112|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"湖口村的悬案");
-12113|<O>| sprintf("%s:\n     你领取了 %d 分钟的双倍经验奖励时间，好好把握吧。\n"
-12114|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"同心锁（2）");
-12115|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"送给丁兄的酒");
-12116|<O>| //	指定时间的控制函数 -- 分钟数还原成一个周期内的时间整数戳，如果超过周期则截取至一个周期
-12117|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"夜空中的灵光");
-12118|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"商人的生意经");
-12119|<O>| write_user(me, ECHO "人们对您的工作赞不绝口！您的体力增加 20 点。");
-12120|<O>| send_user(me, "%c%c%c", 0x5a, 1, 1);    // 清除进度条
-12121|<O>| if (sscanf(arg, ">%s %s", who, arg))    // GM 专用
-12122|<O>| damage += me->get_2("suit_effect.damage1");	//套装
-12123|<O>| result = me->get_name() + ":\n    现在给您兑换骑宠了。\n";
-12124|<O>| #define SKILL_FINAL	"/item/stuff/0010"		// 制作的结果
-12125|<O>| me->set_pay_money_buy_item(0);    // 通过点数购买道具成功！
-12126|<O>| set_effect(who, EFFECT_SLEEP, 30);    // 小心准备 me
-12127|<O>| #define SKILL_FINAL	"/item/stuff/0216"		// 制作的结果
-12128|<O>| case 'P': send_user(me, "%c%s", '!', "密码输入错误！");
-12129|<O>| return  color + "威力不小的炸弹，对目标3X3范围内的敌对方造成600点伤害";
-12130|<O>| return "十分名贵的药材，据说有强身健体之用。持续1小时内可提升玩家600点气血上限。";
-12131|<O>| send_user(who, "%c%s", '!', "任务已经完成了，请向王捕头报告。");
-12132|<O>| string get_suit_name() { return "雷霆"; }	//属于某某套装
-12133|<O>| CHAR_CHAR_D->stop_loop_perform(me);    // 中断持续效果
-12134|<O>| tell_user(me, "扫描目录: %s size=%d", path2, size2);
-12135|<O>| // GIẢI THÍCH: Nếu NPC sleep 而 player 走过，NPC 不反应
-12136|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"种庄稼的锄头");
-12137|<O>| send_user(who, "%c%s", '!', "请在2007年1月4日之后使用。");
-12138|<O>| string get_suit_name() { return "白狼"; }	//属于某某套装
-12139|<O>| name = "洞庭劫匪";picid = 8010; citypoint = 6;break;
-12140|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"夫妻间的争吵");
-12141|<O>| private int max_pawn;                   // 最大当铺数
+﻿12073|<O>| send_user(who, "%c%s", '!', "Độ hữu hảo dưới -300 mới có thể khai chiến!");
+12074|<O>| send_user(who, "%c%s", ';', "Cấp độ của bạn quá thấp, không thể sử dụng Anh Hùng Phù Văn.");
+12075|<O>| if (!get_effect(me, EFFECT_CHAR_FAINT_0))		//Không choáng
+12076|<O>| if (!get_effect(me, EFFECT_CHAR_WOUND_0))		//Không bị thương
+12077|<O>| if ((who = me->get_2("orgtask2.npc"))    // Nhiệm vụ bang phái
+12078|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tiêu Độc Quý（3）");
+12079|<O>| #define SKILL_FINAL	"/item/stuff/0015"		// Kết quả chế tạo
+12080|<O>| send_user(who, "%c%s", '!', "Đối phương không trực tuyến, không thể sử dụng Đồng Tâm Khóa truyền tống.");
+12081|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Đại Hồ Lô（5）");
+12082|<O>| if (!get_effect(me, EFFECT_CHAR_NO_PF_0))		//Không câm lặng
+12083|<O>| // NGUYÊN NHÂN: heart_beat chạy mỗi 0.1 giây, không quan tâm trạng thái NPC
+12084|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tìm Lại Niềm Vui Tuổi Thơ");
+12085|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Bông Thược Dược Đổi Lộ Phí");
+12086|<O>| npc->set_name(HIB + me->get_city_name() + "Binh Sĩ");
+12087|<O>| ESC"Mộc Tinh（Kỹ năng: Phòng Thuẫn Cao Cấp, Cuồng Công Cao Cấp, Bạo Kích Cao Cấp, Bay Cao Cấp）\nuse %x# pet.2\n"
+12088|<O>| tell_user(me, HIY "%s đã hồi phục hoàn toàn.", who->get_name());
+12089|<O>| name = "Trung Nguyên Kiếp Phỉ";picid = 0252; citypoint = 8;break;
+12090|<O>| send_user(who, "%c%s", '!', "Thời gian chơi game không lành mạnh, cấm nhận Tế Thế Hồ Lô.");
+12091|<O>| return "Nghe nói là thuốc cao có thể chữa lành vết thương trên khuôn mặt, phục hồi ngay 600 điểm khí huyết, thời gian hồi chiêu 15 giây";
+12092|<O>| write_user(who, HIR "Bạn bị %s giết chết!", me->get_name());
+12093|<O>| log_file("boss.txt", short_time() + " Khuyển Thái Lang xuất hiện\n");
+12094|<O>| private static string CastArg;          // Tham số đặc kỹ
+12095|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận nhiệm vụ Valentine————Tìm Kiếm!");
+12096|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Ma Trơi Trong Rừng Tương Phi");
+12097|<O>| return sprintf(PF_NAME ":\n　　Tiêu hao gấp đôi khi sử dụng tất cả kỹ năng và pháp thuật.");
+12098|<O>| //	if ( iHost == 1 || iHost == 4501 )	//Thiên Hạ, Tùng Hoa Giang ngoại trừ
+12099|<O>| send_user(me, "%c%s", '!', "Mua đạo cụ thất bại." + result);
+12100|<O>| #define MAX_MEMBER      5              // Giới hạn số đội viên
+12101|<O>| else if (me->get_2("changping.country") == "Triệu Quốc")
+12102|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Phiền Não Của Quan Nội Chính");
+12103|<O>| if (sec % 3 == 0) me->add_yuan(1);    // Hồi nguyên khí mỗi 3 giây
+12104|<O>| send_user(owner, "%c%s", '!', "Thủ đoạn của bạn không có tác dụng với Niên Thú.");
+12105|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Rèn Thanh Kiếm Kinh Thế");
+12106|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Pháo Hoa Trên Trường Thành");
+12107|<O>| string get_suit_name() { return "Liệp Báo"; }	//Thuộc bộ trang phục nào
+12108|<O>| + sprintf(ESC"Kết thúc kiểm tra. Chú ý: khi hoạt động đang diễn ra phải ở trạng thái này\nparty 49\n")
+12109|<O>| string get_suit_name() { return "Đằng Long"; }	//Thuộc bộ trang phục nào
+12110|<O>| result = sprintf("Cho phép %s(%d) vào game.", name, number);
+12111|<O>| tell_user(who, "Liệt kê kho bạc bang \"%s\".", me->get_org_name());
+12112|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Vụ Án Ở Hồ Khẩu Thôn");
+12113|<O>| sprintf("%s:\n     Bạn đã nhận %d phút phần thưởng thời gian kinh nghiệm gấp đôi, hãy tận dụng tốt nhé.\n"
+12114|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Đồng Tâm Khóa（2）");
+12115|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Rượu Tặng Anh Đinh");
+12116|<O>| //	Hàm điều khiển thời gian chỉ định -- quy đổi phút thành dấu thời gian số nguyên trong một chu kỳ, nếu vượt quá chu kỳ thì cắt về một chu kỳ
+12117|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Linh Quang Trên Bầu Trời Đêm");
+12118|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Bí Quyết Kinh Doanh Của Thương Nhân");
+12119|<O>| write_user(me, ECHO "Mọi người khen ngợi công việc của bạn! Thể lực của bạn tăng 20 điểm.");
+12120|<O>| send_user(me, "%c%c%c", 0x5a, 1, 1);    // Xóa thanh tiến độ
+12121|<O>| if (sscanf(arg, ">%s %s", who, arg))    // Chuyên dùng cho GM
+12122|<O>| damage += me->get_2("suit_effect.damage1");	//Bộ trang phục
+12123|<O>| result = me->get_name() + ":\n    Bây giờ đổi kỵ sủng cho bạn nhé.\n";
+12124|<O>| #define SKILL_FINAL	"/item/stuff/0010"		// Kết quả chế tạo
+12125|<O>| me->set_pay_money_buy_item(0);    // Mua đạo cụ bằng điểm thành công!
+12126|<O>| set_effect(who, EFFECT_SLEEP, 30);    // Cẩn thận chuẩn bị me
+12127|<O>| #define SKILL_FINAL	"/item/stuff/0216"		// Kết quả chế tạo
+12128|<O>| case 'P': send_user(me, "%c%s", '!', "Nhập sai mật khẩu!");
+12129|<O>| return  color + "Quả bom có uy lực không nhỏ, gây 600 điểm sát thương cho kẻ thù trong phạm vi 3X3 của mục tiêu";
+12130|<O>| return "Dược liệu rất quý, nghe nói có tác dụng cường thân kiện thể. Trong 1 giờ tăng 600 điểm giới hạn khí huyết cho người chơi.";
+12131|<O>| send_user(who, "%c%s", '!', "Nhiệm vụ đã hoàn thành, hãy báo cáo với Vương Bổ Đầu.");
+12132|<O>| string get_suit_name() { return "Lôi Đình"; }	//Thuộc bộ trang phục nào
+12133|<O>| CHAR_CHAR_D->stop_loop_perform(me);    // Ngắt hiệu ứng liên tục
+12134|<O>| tell_user(me, "Quét thư mục: %s size=%d", path2, size2);
+12135|<O>| // GIẢI THÍCH: Nếu NPC ngủ mà player đi qua, NPC không phản ứng
+12136|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Cái Cuốc Trồng Hoa Màu");
+12137|<O>| send_user(who, "%c%s", '!', "Vui lòng sử dụng sau ngày 4 tháng 1 năm 2007.");
+12138|<O>| string get_suit_name() { return "Bạch Lang"; }	//Thuộc bộ trang phục nào
+12139|<O>| name = "Động Đình Kiếp Phỉ";picid = 8010; citypoint = 6;break;
+12140|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tranh Cãi Giữa Vợ Chồng");
+12141|<O>| private int max_pawn;                   // Số lượng cầm đồ tối đa
