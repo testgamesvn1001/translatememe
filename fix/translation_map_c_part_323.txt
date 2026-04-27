@@ -1,72 +1,72 @@
-﻿12922|<O>| result = get_name() + ":\n    请你选择一种物品做为奖励:\n"
-12923|<O>| printf( ECHO "使用“" PF_NAME "”道具栏至少需要有一个空位。" );
-12924|<O>| private string OwnerAccount;          	// 主人帐号
-12925|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"寻回名单");
-12926|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"铲除祸害");
-12927|<O>| "    "HIR" 茅山 "NOR"的法器可以到"HIR" 齐国 "NOR"寻寻看；\n"
-12928|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"失而复得");
-12929|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"明辨是非");
-12930|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"枉法之徒");
-12931|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"沼泽惊魂");
-12932|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"陈述冤情");
-12933|<O>| send_user(who, "%c%s", '!', "得到任务"HIR"拜访魏昭王");
-12934|<O>| HIR "物理攻击力" NOR "便会越强，战斗中对敌人所造成的伤害便会越大。\n    "
-12935|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"上书之难");
-12936|<O>| send_user(who, "%c%s", '!', "设置分红率要 10 点体力。");
-12937|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"探明原因");
-12938|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"打家劫舍");
-12939|<O>| return sprintf(PF_NAME ":\n　　隐身不会减慢移动的速度。\n");
-12940|<O>| return "一种奇异的蓝色晶石，使用后每2秒可恢复100点法术力。效果持续60分钟。";
-12941|<O>| ({"使命人物有什么用？","与他战斗","与他交朋友","找他接任务","找他领奖"}),
-12942|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"指明方向");
-12943|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"搜寻战报");
-12944|<O>| else if (sscanf(arg, "- %s", id))    // 关闭交易窗口
-12945|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"河道霸王");
-12946|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"除掉骗子");
-12947|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"临终寄托");
-12948|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"控制数量");
-12949|<O>| 07-07-10 完成所有，比预计时间晚了 5天，不过后3天是周末又测试了一天，所以实际完成
-12950|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"神衣传说");
-12951|<O>| send_user(me, "%c%s", '!', "不健康游戏时间禁止使用藏宝图。");
-12952|<O>| * 即是:y = (x - x1) * (y1 - y2) / (x1 - x2) + y1
-12953|<O>| "酒越久越醇，朋友相交越久越真；水越流越清，世间沧桑越流越淡。祝朋友中秋佳节过得开心！ ",
-12954|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"出使秦国");
-12955|<O>| send_user(who, "%c%s", '!', "您有职务在身，不能放弃户籍。");
-12956|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"嘱托之事");
-12957|<O>| send_user(who, "%c%s", '!', "定帮神针只能是帮派成员使用。");
-12958|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"出谋献策");
-12959|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"扫清障碍");
-12960|<O>| send_user(who, "%c%s", '!', "您获得了"HIY"丢失的手镯");
-12961|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"破土动工");
-12962|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"回奏秦王");
-12963|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"牵连之罪");
-12964|<O>| send_user(owner,"%c%s",'!',"特殊的宠物无法学习任何新技能。");
-12965|<O>| send_user(me, "%c%s", '!', "您得一次充满 8000 潜能。");
-12966|<O>| send_user(who, "%c%s", '!', "您的申请正在处理中，请稍候。");
-12967|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"询问价格");
-12968|<O>| send_user(me, "%c%s", ';', "你身上的金钱不足以购买此元宝！");
-12969|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"魂兮归来");
-12970|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"准备出使");
-12971|<O>| sprintf(ESC"领取首席称谓\ntalk %x# hornor.9\n",id) +
-12972|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"寻回地图");
-12973|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"铲除祸源");
-12974|<O>| inv[i]->remove_from_user();//这里将玩家道具栏上的对应物品清光。
-12975|<O>| else if (rate < 9040 * rate1 / 100)	//随机技能进阶2本
-12976|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"狩猎计划");
-12977|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"威慑对手");
-12978|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"魏国百姓");
-12979|<O>| else if (rate < 10000 * rate1 / 100)	//1级晶石16个
-12980|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"奏请王命");
-12981|<O>| send_user(who, "%c%s", '!', "得到任务 "HIR"寻回玉玺");
-12982|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"兄弟情深");
-12983|<O>| else if (sscanf(arg, "- %s", what))    // 放下商品
-12984|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"驯服恶霸");
-12985|<O>| if (sec % 5 == 0)    // 注意:80, 95, 110 可被 5 整除
-12986|<O>| send_user(me, "%c%c%s", 0xa1, 3, "这个用户并不存在！");
-12987|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"临终委托");
-12988|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"装饰房屋");
-12989|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"临危不惧");
-12990|<O>| private static int z;                 	// 战争地图
-12991|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"为民除害");
-12992|<O>| else if (who->is_item_seller())    // 用点卡买道具！！
-12993|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"打探消息");
+﻿12922|<O>| result = get_name() + ":\n    Mời bạn chọn một vật phẩm làm phần thưởng:\n"
+12923|<O>| printf( ECHO "Sử dụng \"" PF_NAME "\" cần ít nhất một ô trống trong thanh đạo cụ." );
+12924|<O>| private string OwnerAccount;          	// Tài khoản chủ nhân
+12925|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tìm Lại Danh Sách");
+12926|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Diệt Trừ Mầm Họa");
+12927|<O>| "    "HIR" Mao Sơn "NOR"có thể tìm pháp khí ở"HIR" Tề Quốc "NOR"nhé；\n"
+12928|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Mất Mà Tìm Được");
+12929|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Phân Biệt Đúng Sai");
+12930|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Kẻ Phạm Pháp");
+12931|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Kinh Hồn Đầm Lầy");
+12932|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Trình Bày Oan Tình");
+12933|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ"HIR"Bái Phỏng Ngụy Chiêu Vương");
+12934|<O>| HIR "Sức tấn công vật lý" NOR "càng mạnh, sát thương gây ra cho kẻ thù trong chiến đấu càng lớn.\n    "
+12935|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Khó Khăn Dâng Thư");
+12936|<O>| send_user(who, "%c%s", '!', "Thiết lập tỷ lệ chia cổ tức cần 10 điểm thể lực.");
+12937|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tìm Hiểu Nguyên Nhân");
+12938|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Cướp Nhà");
+12939|<O>| return sprintf(PF_NAME ":\n　　Ẩn thân không làm giảm tốc độ di chuyển.\n");
+12940|<O>| return "Một loại tinh thạch xanh kỳ lạ, sử dụng mỗi 2 giây hồi phục 100 điểm pháp lực. Hiệu lực kéo dài 60 phút.";
+12941|<O>| ({"Nhân vật sứ mệnh có tác dụng gì?","Chiến đấu với hắn","Kết bạn với hắn","Nhận nhiệm vụ từ hắn","Nhận thưởng từ hắn"}),
+12942|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Chỉ Rõ Phương Hướng");
+12943|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tìm Kiếm Chiến Báo");
+12944|<O>| else if (sscanf(arg, "- %s", id))    // Đóng cửa sổ giao dịch
+12945|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Bá Vương Sông");
+12946|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Diệt Trừ Kẻ Lừa Đảo");
+12947|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Di Nguyện Cuối Cùng");
+12948|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Kiểm Soát Số Lượng");
+12949|<O>| 07-07-10 Hoàn thành tất cả, trễ hơn dự kiến 5 ngày, nhưng 3 ngày cuối là cuối tuần và thêm 1 ngày test, nên thực tế hoàn thành
+12950|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Truyền Thuyết Thần Y");
+12951|<O>| send_user(me, "%c%s", '!', "Thời gian chơi game không lành mạnh, cấm sử dụng bản đồ tàng bảo.");
+12952|<O>| * Tức là: y = (x - x1) * (y1 - y2) / (x1 - x2) + y1
+12953|<O>| "Rượu càng lâu càng ngon, bạn bè càng lâu càng thân; nước càng chảy càng trong, trần gian trôi qua càng nhạt. Chúc bạn Tết Trung Thu vui vẻ! ",
+12954|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Đi Sứ Tần Quốc");
+12955|<O>| send_user(who, "%c%s", '!', "Bạn có chức vụ, không thể từ bỏ hộ tịch.");
+12956|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Việc Được Dặn Dò");
+12957|<O>| send_user(who, "%c%s", '!', "Định Bang Thần Châm chỉ thành viên bang phái mới sử dụng được.");
+12958|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Hiến Kế");
+12959|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Dọn Sạch Chướng Ngại");
+12960|<O>| send_user(who, "%c%s", '!', "Bạn nhận được "HIY"Vòng Tay Bị Mất");
+12961|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Khởi Công Xây Dựng");
+12962|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Hồi Tấu Tần Vương");
+12963|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tội Liên Lụy");
+12964|<O>| send_user(owner,"%c%s",'!',"Thú cưng đặc biệt không thể học bất kỳ kỹ năng mới nào.");
+12965|<O>| send_user(me, "%c%s", '!', "Bạn cần nạp đầy 8000 tiềm năng một lần.");
+12966|<O>| send_user(who, "%c%s", '!', "Đơn xin của bạn đang được xử lý, vui lòng đợi.");
+12967|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Hỏi Giá Cả");
+12968|<O>| send_user(me, "%c%s", ';', "Số vàng trên người bạn không đủ để mua nguyên bảo này!");
+12969|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Hồn Hề Quy Lai");
+12970|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Chuẩn Bị Đi Sứ");
+12971|<O>| sprintf(ESC"Nhận danh hiệu thủ tịch\ntalk %x# hornor.9\n",id) +
+12972|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tìm Lại Bản Đồ");
+12973|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Diệt Trừ Nguồn Họa");
+12974|<O>| inv[i]->remove_from_user();//Ở đây xóa sạch vật phẩm tương ứng trên thanh đạo cụ của người chơi.
+12975|<O>| else if (rate < 9040 * rate1 / 100)	//2 sách kỹ năng tiến giai ngẫu nhiên
+12976|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Kế Hoạch Săn Bắn");
+12977|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Uy Hiếp Đối Thủ");
+12978|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Bách Tính Nước Ngụy");
+12979|<O>| else if (rate < 10000 * rate1 / 100)	//16 tinh thạch cấp 1
+12980|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tấu Thỉnh Vương Mệnh");
+12981|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIR"Tìm Lại Ngọc Tỉ");
+12982|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tình Anh Em Sâu Nặng");
+12983|<O>| else if (sscanf(arg, "- %s", what))    // Đặt hàng xuống
+12984|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Thuần Phục Ác Bá");
+12985|<O>| if (sec % 5 == 0)    // Lưu ý: 80, 95, 110 chia hết cho 5
+12986|<O>| send_user(me, "%c%c%s", 0xa1, 3, "Người dùng này không tồn tại!");
+12987|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Di Nguyện Ủy Thác");
+12988|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Trang Trí Nhà Cửa");
+12989|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Lâm Nguy Bất Khuất");
+12990|<O>| private static int z;                 	// Bản đồ chiến tranh
+12991|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Vì Dân Trừ Hại");
+12992|<O>| else if (who->is_item_seller())    // Dùng thẻ điểm mua đạo cụ!!
+12993|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Dò La Tin Tức");

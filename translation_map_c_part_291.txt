@@ -2,19 +2,19 @@
 10750|<O>| #define SKILL_FINAL	"/item/final/86/4120"				// Kết quả chế tạo
 10751|<O>| #define SKILL_FINAL	"/item/final/86/2035"				// Kết quả chế tạo
 10752|<O>| #define SKILL_FINAL	"/item/final/88/3075"				// Kết quả chế tạo
-10753|<O>| damage = damage * (100+skill_0430*2)/100;		// bang pháicủaThương hạiCường hóa
-10754|<O>| ({"Trang bịcủanại cửukhôngđủ，ứng nên tìmaiPhục hồi？","Tu lý điếm Lão bản","Phòng cụđiếm Lão bản","Vũ khíđiếm Lão bản","đương phố Lão bản"}),
+10753|<O>| damage = damage * (100+skill_0430*2)/100;		// Cường hóa sát thương bang phái
+10754|<O>| ({"Độ bền trang bị không đủ, nên tìm ai để khôi phục?","Chủ tiệm sửa chữa","Chủ tiệm phòng cụ","Chủ tiệm vũ khí","Chủ tiệm cầm đồ"}),
 10755|<O>| #define SKILL_FINAL	"/item/final/86/1105"				// Kết quả chế tạo
 10756|<O>| #define SKILL_FINAL	"/item/final/86/2120"				// Kết quả chế tạo
 10757|<O>| #define SKILL_FINAL	"/item/final/88/1110"				// Kết quả chế tạo
 10758|<O>| #define SKILL_FINAL	"/item/final/88/4115"				// Kết quả chế tạo
 10759|<O>| #define SKILL_FINAL	"/item/final/60/4065"				// Kết quả chế tạo
-10760|<O>| npc->set_name( sprintf( "ThầnTướng(%s)", me->get_name() ) );
+10760|<O>| npc->set_name( sprintf( "Thần Tướng(%s)", me->get_name() ) );
 10761|<O>| #define SKILL_FINAL	"/item/final/60/6115"				// Kết quả chế tạo
 10762|<O>| #define SKILL_FINAL	"/item/final/86/1120"				// Kết quả chế tạo
 10763|<O>| #define SKILL_FINAL	"/item/final/60/5095"				// Kết quả chế tạo
 10764|<O>| #define SKILL_FINAL	"/item/final/88/1085"				// Kết quả chế tạo
-10765|<O>| send_user(who, "%c%s", '!', sprintf(HIY"trục %d/1", 1));
+10765|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Trục %d/1", 1));
 10766|<O>| #define SKILL_FINAL	"/item/final/86/3105"				// Kết quả chế tạo
 10767|<O>| #define SKILL_FINAL	"/item/final/86/4119"				// Kết quả chế tạo
 10768|<O>| #define SKILL_FINAL	"/item/final/88/3085"				// Kết quả chế tạo
@@ -24,41 +24,41 @@
 10772|<O>| #define SKILL_FINAL	"/item/final/86/5085"				// Kết quả chế tạo
 10773|<O>| #define SKILL_FINAL	"/item/final/86/7055"				// Kết quả chế tạo
 10774|<O>| #define SKILL_FINAL	"/item/final/70/1120"				// Kết quả chế tạo
-10775|<O>| else    tell_user(me, who->get_name() + "VIPtần Đạo:Đả mở。");
+10775|<O>| else    tell_user(me, who->get_name() + " kênh VIP: Mở.");
 10776|<O>| private static object* dbPlayer = ({ });       	// Người chơi
 10777|<O>| #define SKILL_FINAL	"/item/final/60/3035"				// Kết quả chế tạo
 10778|<O>| #define SKILL_FINAL	"/item/final/60/6110"				// Kết quả chế tạo
-10779|<O>| if (who->get_login_flag() < 3) return 1;    // không cóchuẩn bịliềntự
+10779|<O>| if (who->get_login_flag() < 3) return 1;    // Chưa sẵn sàng
 10780|<O>| #define SKILL_FINAL	"/item/final/88/5115"				// Kết quả chế tạo
 10781|<O>| #define SKILL_FINAL	"/item/final/65/2120"				// Kết quả chế tạo
 10782|<O>| #define SKILL_FINAL	"/item/final/86/2095"				// Kết quả chế tạo
-10783|<O>| sprintf(ESC "Khoáng Nghiệp(%d)。\n", city->get_mining()) + cmd4 +
+10783|<O>| sprintf(ESC "Khoáng nghiệp(%d).\n", city->get_mining()) + cmd4 +
 10784|<O>| #define SKILL_FINAL	"/item/final/72/1120"				// Kết quả chế tạo
 10785|<O>| #define SKILL_FINAL	"/item/final/60/1055"				// Kết quả chế tạo
-10786|<O>| npc->set_name( sprintf( "ngàyBinh(%s)", me->get_name() ) );
+10786|<O>| npc->set_name( sprintf( "Thiên Binh(%s)", me->get_name() ) );
 10787|<O>| #define SKILL_FINAL	"/item/final/65/2085"				// Kết quả chế tạo
-10788|<O>| if (TASK_LEGEND_D->check_task_item(who, "Khương", 1) != 1)
+10788|<O>| if (TASK_LEGEND_D->check_task_item(who, "Gừng", 1) != 1)
 10789|<O>| #define SKILL_FINAL	"/item/final/86/4105"				// Kết quả chế tạo
 10790|<O>| #define SKILL_FINAL	"/item/final/60/3055"				// Kết quả chế tạo
-10791|<O>| case 'X': send_user(me, "%c%s", '!', "Bạn thâu Nhập Khôngcủatrướng hiệu hoặcmật khẩu！");
+10791|<O>| case 'X': send_user(me, "%c%s", '!', "Bạn đã nhập tài khoản hoặc mật khẩu trống!");
 10792|<O>| #define SKILL_FINAL	"/item/final/86/3115"				// Kết quả chế tạo
-10793|<O>| result = sprintf(HIR"%sĐả mởbang pháihư Bảo bao，nhận được", who->get_name());
+10793|<O>| result = sprintf(HIR"%s mở hộp hư bảo bang phái, nhận được", who->get_name());
 10794|<O>| #define SKILL_FINAL	"/item/final/88/5055"				// Kết quả chế tạo
 10795|<O>| #define SKILL_FINAL	"/item/final/88/1105"				// Kết quả chế tạo
 10796|<O>| #define SKILL_FINAL	"/item/final/65/5105"				// Kết quả chế tạo
-10797|<O>| _DEBUG(sprintf("DEBUG_f -- Hồi điềuKiểm traHàm2 thặng dưlầnsố %d", times));
+10797|<O>| _DEBUG(sprintf("DEBUG_f -- Hàm thử nghiệm gọi lại 2 số lần còn lại %d", times));
 10798|<O>| #define SKILL_FINAL	"/item/final/65/1045"				// Kết quả chế tạo
 10799|<O>| #define SKILL_FINAL	"/item/final/65/5065"				// Kết quả chế tạo
-10800|<O>| case BATTLE_MAP: printf(ECHO "Chiến trườngKhông thể sử dụng“" PF_NAME "”。");
-10801|<O>| return "kích bạilớnthoạinămthú hoạch đượccủanămthúcủagiác。\ncó thểnã đichoThầnTiêngia gia，hoán thủ Hồng bao，thiết ký Thiên vạnkhôngcó thể Hồ LoạnSử dụng……";
+10800|<O>| case BATTLE_MAP: printf(ECHO "Chiến trường không thể sử dụng \"" PF_NAME "\".");
+10801|<O>| return "Sừng Niên Thú nhận được khi đánh bại Đại Thoại Niên Thú.\nCó thể mang đến cho Thần Tiên Ông Ông đổi lấy lì xì, nhớ kỹ đừng sử dụng bừa bãi……";
 10802|<O>| #define SKILL_FINAL	"/item/final/86/6065"				// Kết quả chế tạo
-10803|<O>| if( get_effect(who, EFFECT_CHAR_MISS2) )    // Vân MộngcủaLinh khí Giáp
+10803|<O>| if( get_effect(who, EFFECT_CHAR_MISS2) )    // Linh Khí Giáp của Vân Mộng
 10804|<O>| #define SKILL_FINAL	"/item/final/65/3105"				// Kết quả chế tạo
 10805|<O>| #define SKILL_FINAL	"/item/final/88/2065"				// Kết quả chế tạo
 10806|<O>| #define SKILL_FINAL	"/item/final/74/1105"				// Kết quả chế tạo
 10807|<O>| if (time / 60) result += sprintf(" %d phút", time / 60);
 10808|<O>| #define SKILL_FINAL	"/item/final/65/1055"				// Kết quả chế tạo
-10809|<O>| printf( ECHO "Sử dụng“" PF_NAME "”cần %d điểmNguyên khí。", SUB_YUAN );
+10809|<O>| printf( ECHO "Sử dụng \"" PF_NAME "\" cần %d điểm nguyên khí.", SUB_YUAN );
 10810|<O>| #define SKILL_FINAL	"/item/final/74/1120"				// Kết quả chế tạo
 10811|<O>| #define SKILL_FINAL	"/item/final/65/3095"				// Kết quả chế tạo
 10812|<O>| #define SKILL_FINAL	"/item/final/60/2065"				// Kết quả chế tạo

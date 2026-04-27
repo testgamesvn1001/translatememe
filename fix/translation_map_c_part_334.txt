@@ -1,74 +1,74 @@
-﻿13728|<O>| tell_user(me, sprintf("找不到材料%s", stuff[j]));
-13729|<O>| result += sprintf(ESC "门派是什么？\n%s\n", cmd2);
-13730|<O>| else if (p < 6446 * rate / 100)    // 防具(门派)
-13731|<O>| ESC "去茅山。\n" + sprintf("talk %x# 5\n", id) +
-13732|<O>| else if (p < 6943 * rate / 100)    // 武器(门派)
-13733|<O>| else if (p < 4658 * rate / 100)    // 武器(门派)
-13734|<O>| if (x0 == x && y0 == y) return 1;    // 没有移动
-13735|<O>| write_user(me, ECHO "你成功洗掉了%d点的力量。", point);
-13736|<O>| else if (p < 3915 * rate / 100)    // 武器(门派)
-13737|<O>| send_user(who, "%c%s", '!', "得到 " + result);
-13738|<O>| else if (p < 4687 * rate / 100)    // 武器(门派)
-13739|<O>| else if (p < 9307 * rate / 100)    // 武器(门派)
-13740|<O>| if (who->get("anti_sleep")) return 1;		//抗昏迷
-13741|<O>| else if (p < 7280 * rate / 100)    // 武器(门派)
-13742|<O>| else if (p < 7374 * rate / 100)    // 武器(门派)
-13743|<O>| else if (p < 5679 * rate / 100)    // 武器(门派)
-13744|<O>| else if (p < 7292 * rate / 100)    // 防具(门派)
-13745|<O>| else if (p < 6804 * rate / 100)    // 防具(门派)
-13746|<O>| result += sprintf("和 %s", item->get_name());
-13747|<O>| else if (p < 5395 * rate / 100)    // 武器(门派)
-13748|<O>| else if (p < 8642 * rate / 100)    // 武器(门派)
-13749|<O>| else if (p < 5651 * rate / 100)    // 武器(门派)
-13750|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"二胡");
-13751|<O>| return sprintf("%d级初级锻造石", me->get_level());
-13752|<O>| send_user(who, "%c%s", '!', "您还有未完成的建设任务。");
-13753|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"涅磐");
-13754|<O>| else if (p < 5335 * rate / 100)    // 武器(门派)
-13755|<O>| else if (p < 3563 * rate / 100)    // 武器(门派)
-13756|<O>| else if (p < 9036 * rate / 100)    // 武器(门派)
-13757|<O>| string get_equip_string() { return "［法宝］"; }
-13758|<O>| else if (p < 8681 * rate / 100)    // 武器(门派)
-13759|<O>| else if (p < 5409 * rate / 100)    // 武器(门派)
-13760|<O>| else if (p < 3195 * rate / 100)    // 武器(门派)
-13761|<O>| else if (rate < 10000 * rate1 / 100)	//八仙丹2个
-13762|<O>| else if (p < 4376 * rate / 100)    // 武器(基本)
-13763|<O>| else    who->add_strength(-1);    // 已扣体力！！！
-13764|<O>| else if (p < 9009 * rate / 100)    // 武器(门派)
-13765|<O>| else if (p < 3482 * rate / 100)    // 武器(门派)
-13766|<O>| case 3 :	result += sprintf( "适用门派: %s禁卫军\n",
-13767|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"答谢");
-13768|<O>| else if (p < 3800 * rate / 100)    // 武器(门派)
-13769|<O>| send_user(player, "%c%s", ':', "你已经领取过补偿。");
-13770|<O>| else if (p < 9050 * rate / 100)    // 防具(门派)
-13771|<O>| else if (p < 4436 * rate / 100)    // 防具(门派)
-13772|<O>| else if (p < 3582 * rate / 100)    // 武器(门派)
-13773|<O>| else if (p < 4733 * rate / 100)    // 防具(门派)
-13774|<O>| if (pf_name == "采矿") { me->set("time", 1); }
-13775|<O>| else if (p < 8936 * rate / 100)    // 武器(门派)
-13776|<O>| send_user(who, "%c%s", '!', "您的纵横任务还没完成呢！");
-13777|<O>| "远方的朋友你是否无恙？在这个思念的季节里，改变的我的容颜，不变的永远的牵挂你的心！",
-13778|<O>| user_get_item += sprintf(HIR"%d"NOR"金 ", i);
-13779|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"挑战");
-13780|<O>| obj = present("银票", player, 1, MAX_CARRY*4);
-13781|<O>| else if (p < 3247 * rate / 100)    // 武器(门派)
-13782|<O>| else if (p < 4742 * rate / 100)    // 防具(门派)
-13783|<O>| else if (p < 9070 * rate / 100)    // 武器(门派)
-13784|<O>| case "齐": case "01": city = CITY_QI;  break;
-13785|<O>| send_user(who, "%c%s", '!', "你领取了小试身手的任务！");
-13786|<O>| else if (p < 5100 * rate / 100)    // 藏宝图 %5
-13787|<O>| else if (p < 5139 * rate / 100)    // 防具(门派)
-13788|<O>| level <= 5 ? "  " : "//",    // 0, 5 级怪不主动攻击
-13789|<O>| ESC "去庄院。\n" + sprintf("talk %x# 4\n", id) +
-13790|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"远征");
-13791|<O>| else if (p < 6712 * rate / 100)    // 武器(门派)
-13792|<O>| else if (p < 5430 * rate / 100)    // 武器(门派)
-13793|<O>| if (rate < 500 * rate1 / 100)	//70级的随机门派蓝色装备
-13794|<O>| notify("%s频道将于 %d 分钟后开启。", org, t / 60 + 1);
-13795|<O>| else if (p < 5782 * rate / 100)    // 防具(门派)
-13796|<O>| else if (p < 4247 * rate / 100)    // 防具(门派)
-13797|<O>| send_user(who, "%c%s", '!', "请回收葫芦后再提取经验！");
-13798|<O>| else if (p < 5594 * rate / 100)    // 武器(门派)
-13799|<O>| else if (p < 5564 * rate / 100)    // 武器(门派)
-13800|<O>| SAY_CMD->say(me, "不知道是那位高人，竟然可以把我插在石头地板上。");
-13801|<O>| else if (p < 6383 * rate / 100)    // 武器(门派)
+﻿13728|<O>| tell_user(me, sprintf("Không tìm thấy nguyên liệu %s", stuff[j]));
+13729|<O>| result += sprintf(ESC "Môn phái là gì？\n%s\n", cmd2);
+13730|<O>| else if (p < 6446 * rate / 100)    // Phòng cụ (môn phái)
+13731|<O>| ESC "Đến Mao Sơn.\n" + sprintf("talk %x# 5\n", id) +
+13732|<O>| else if (p < 6943 * rate / 100)    // Vũ khí (môn phái)
+13733|<O>| else if (p < 4658 * rate / 100)    // Vũ khí (môn phái)
+13734|<O>| if (x0 == x && y0 == y) return 1;    // Không di chuyển
+13735|<O>| write_user(me, ECHO "Bạn đã tẩy thành công %d điểm sức mạnh.", point);
+13736|<O>| else if (p < 3915 * rate / 100)    // Vũ khí (môn phái)
+13737|<O>| send_user(who, "%c%s", '!', "Nhận được " + result);
+13738|<O>| else if (p < 4687 * rate / 100)    // Vũ khí (môn phái)
+13739|<O>| else if (p < 9307 * rate / 100)    // Vũ khí (môn phái)
+13740|<O>| if (who->get("anti_sleep")) return 1;		//Kháng hôn mê
+13741|<O>| else if (p < 7280 * rate / 100)    // Vũ khí (môn phái)
+13742|<O>| else if (p < 7374 * rate / 100)    // Vũ khí (môn phái)
+13743|<O>| else if (p < 5679 * rate / 100)    // Vũ khí (môn phái)
+13744|<O>| else if (p < 7292 * rate / 100)    // Phòng cụ (môn phái)
+13745|<O>| else if (p < 6804 * rate / 100)    // Phòng cụ (môn phái)
+13746|<O>| result += sprintf("và %s", item->get_name());
+13747|<O>| else if (p < 5395 * rate / 100)    // Vũ khí (môn phái)
+13748|<O>| else if (p < 8642 * rate / 100)    // Vũ khí (môn phái)
+13749|<O>| else if (p < 5651 * rate / 100)    // Vũ khí (môn phái)
+13750|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Nhị Hồ");
+13751|<O>| return sprintf("Đá Rèn sơ cấp cấp %d", me->get_level());
+13752|<O>| send_user(who, "%c%s", '!', "Bạn vẫn còn nhiệm vụ xây dựng chưa hoàn thành.");
+13753|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Niết Bàn");
+13754|<O>| else if (p < 5335 * rate / 100)    // Vũ khí (môn phái)
+13755|<O>| else if (p < 3563 * rate / 100)    // Vũ khí (môn phái)
+13756|<O>| else if (p < 9036 * rate / 100)    // Vũ khí (môn phái)
+13757|<O>| string get_equip_string() { return "［Pháp bảo］"; }
+13758|<O>| else if (p < 8681 * rate / 100)    // Vũ khí (môn phái)
+13759|<O>| else if (p < 5409 * rate / 100)    // Vũ khí (môn phái)
+13760|<O>| else if (p < 3195 * rate / 100)    // Vũ khí (môn phái)
+13761|<O>| else if (rate < 10000 * rate1 / 100)	//2 viên Bát Tiên Đan
+13762|<O>| else if (p < 4376 * rate / 100)    // Vũ khí (cơ bản)
+13763|<O>| else    who->add_strength(-1);    // Đã trừ thể lực！！！
+13764|<O>| else if (p < 9009 * rate / 100)    // Vũ khí (môn phái)
+13765|<O>| else if (p < 3482 * rate / 100)    // Vũ khí (môn phái)
+13766|<O>| case 3 :	result += sprintf( "Môn phái áp dụng: %sCấm Vệ Quân\n",
+13767|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Đáp Tạ");
+13768|<O>| else if (p < 3800 * rate / 100)    // Vũ khí (môn phái)
+13769|<O>| send_user(player, "%c%s", ':', "Bạn đã nhận bồi thường rồi.");
+13770|<O>| else if (p < 9050 * rate / 100)    // Phòng cụ (môn phái)
+13771|<O>| else if (p < 4436 * rate / 100)    // Phòng cụ (môn phái)
+13772|<O>| else if (p < 3582 * rate / 100)    // Vũ khí (môn phái)
+13773|<O>| else if (p < 4733 * rate / 100)    // Phòng cụ (môn phái)
+13774|<O>| if (pf_name == "Khai Khoáng") { me->set("time", 1); }
+13775|<O>| else if (p < 8936 * rate / 100)    // Vũ khí (môn phái)
+13776|<O>| send_user(who, "%c%s", '!', "Nhiệm vụ tung hoành của bạn chưa hoàn thành!");
+13777|<O>| "Bạn ơi phương xa có khỏe không? Trong mùa nhớ nhung này, thay đổi dung nhan của tôi, không thay đổi trái tim mãi mãi nhớ bạn!",
+13778|<O>| user_get_item += sprintf(HIR"%d"NOR"vàng ", i);
+13779|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Thách Thức");
+13780|<O>| obj = present("Ngân Phiếu", player, 1, MAX_CARRY*4);
+13781|<O>| else if (p < 3247 * rate / 100)    // Vũ khí (môn phái)
+13782|<O>| else if (p < 4742 * rate / 100)    // Phòng cụ (môn phái)
+13783|<O>| else if (p < 9070 * rate / 100)    // Vũ khí (môn phái)
+13784|<O>| case "Tề": case "01": city = CITY_QI;  break;
+13785|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận nhiệm vụ thử sức!");
+13786|<O>| else if (p < 5100 * rate / 100)    // Bản đồ tàng bảo %5
+13787|<O>| else if (p < 5139 * rate / 100)    // Phòng cụ (môn phái)
+13788|<O>| level <= 5 ? "  " : "//",    // Quái cấp 0, 5 không chủ động tấn công
+13789|<O>| ESC "Đến Trang Viện.\n" + sprintf("talk %x# 4\n", id) +
+13790|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Viễn Chinh");
+13791|<O>| else if (p < 6712 * rate / 100)    // Vũ khí (môn phái)
+13792|<O>| else if (p < 5430 * rate / 100)    // Vũ khí (môn phái)
+13793|<O>| if (rate < 500 * rate1 / 100)	//Trang bị xanh ngẫu nhiên môn phái cấp 70
+13794|<O>| notify("Kênh %s sẽ mở sau %d phút.", org, t / 60 + 1);
+13795|<O>| else if (p < 5782 * rate / 100)    // Phòng cụ (môn phái)
+13796|<O>| else if (p < 4247 * rate / 100)    // Phòng cụ (môn phái)
+13797|<O>| send_user(who, "%c%s", '!', "Hãy thu hồi hồ lô rồi mới rút kinh nghiệm!");
+13798|<O>| else if (p < 5594 * rate / 100)    // Vũ khí (môn phái)
+13799|<O>| else if (p < 5564 * rate / 100)    // Vũ khí (môn phái)
+13800|<O>| SAY_CMD->say(me, "Không biết là cao nhân nào mà lại cắm được ta xuống nền đá.");
+13801|<O>| else if (p < 6383 * rate / 100)    // Vũ khí (môn phái)

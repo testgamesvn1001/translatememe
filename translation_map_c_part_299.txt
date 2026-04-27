@@ -1,66 +1,66 @@
-﻿11264|<O>| write_user(who, ECHO "bạnhốt nhiên giác được Tâmtrongdũng Xuất Nhất cổ noãn lưu，chỉnh Nhân lãn dương dương Địa，thư phục vôso với。");
-11265|<O>| return "cư Gia lữ Hànhgiờsở dùngcủanhỏbối bao，\nCó thể tăng cho người sử dụng6ô trống trong ba lô。\nBao gói10ngày sau sẽ tự động hư hỏng。";
-11266|<O>| send_user(me, "%c%s", '!', "BạnKinh nghiệmkhôngtúc Dĩ xem hiểu" + book + "。");
-11267|<O>| player->delete_save_2("vip_package.trial");	//thử dùngVIPbao
-11268|<O>| "%s:\nđótôiliềnThudưới，nguyện lưỡng QuốcTiếp tụchữutốtHợp tác。\n", name3, me->get_name()));
-11269|<O>| private string Master2;                 // Thành chủ２(phó Thành chủ)
+﻿11264|<O>| write_user(who, ECHO "Bạn bỗng cảm thấy trong lòng dâng lên một dòng ấm áp, cả người lười biếng, thoải mái vô cùng.");
+11265|<O>| return "Ba lô nhỏ dùng khi đi du lịch,\ncó thể tăng thêm 6 ô ba lô cho người sử dụng.\nBa lô sẽ tự động hỏng sau 10 ngày.";
+11266|<O>| send_user(me, "%c%s", '!', "Kinh nghiệm của bạn không đủ để đọc hiểu " + book + ".");
+11267|<O>| player->delete_save_2("vip_package.trial");	//Gói VIP dùng thử
+11268|<O>| "%s:\nVậy ta nhận rồi, nguyện hai nước tiếp tục hợp tác hữu hảo.\n", name3, me->get_name()));
+11269|<O>| private string Master2;                 // Thành chủ 2(phó thành chủ)
 11270|<O>| cTmp += "|" + map->get_2("win_country") + "|Triệu Quốc|Tần Quốc";
-11271|<O>| if( get_effect(me, EFFECT_NPC_0531_1) )    // bịmị Hoặc trạng thái
-11272|<O>| return HIC+get_name()+"\nSủng vật sở hữu kỹ năng này，để NgựLôihệTấn côngPháp Thuật30%củaThương hại。";
-11273|<O>| write_user(me, ECHO "Bạncủadư ngạch vì%dNguyên Bảo。", to_int(result));
-11274|<O>| return "“ngàyCung Bảo khốcủaThu tàng Phẩm”\nTấn côngmục tiêugiờCóNhất địnhcủamấy suất\nđối vớimục tiêusản sinh200điểmcủangạchngoàiVật lý Thương hại";
-11275|<O>| send_user(me, "%c%s", '!', "bạntịnh vôphútPhốiđiểmsốđếnLực lượnggiữa，Không thể sử dụngTẩyđiểmhoàn。");
-11276|<O>| send_user(who, "%c%s", '!', "bạncủasong bộiKinh nghiệmgiờgianđãký tồnđếnThầnTiêngia gia xử。");
-11277|<O>| send_user(me, "%c%s", '!', "Bạn vô Pháptừphiên duyệt được tàn PhákhôngToàncủathưgiữalĩnh Ngộđếngì。");
-11278|<O>| send_user(who, "%c%s", ';', "bạncủatế Thế hồ lô có thể tồnKinh nghiệmTăng50000！");
-11279|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 300, "Dược điếm Liên tiếpgiữa……");
+11271|<O>| if( get_effect(me, EFFECT_NPC_0531_1) )    // Trạng thái bị mê hoặc
+11272|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này, chống lại 30% sát thương pháp thuật tấn công hệ Lôi.";
+11273|<O>| write_user(me, ECHO "Số dư của bạn là %d nguyên bảo.", to_int(result));
+11274|<O>| return ""Bảo vật của Thiên Cung Bảo Khố"\nKhi tấn công mục tiêu có tỷ lệ nhất định\ngây thêm 200 điểm sát thương vật lý";
+11275|<O>| send_user(me, "%c%s", '!', "Bạn không phân bổ điểm nào vào sức mạnh, không thể dùng Tẩy Điểm Hoàn.");
+11276|<O>| send_user(who, "%c%s", '!', "Thời gian kinh nghiệm gấp đôi của bạn đã được gửi tới Thần Tiên Ông Ông.");
+11277|<O>| send_user(me, "%c%s", '!', "Bạn không thể lĩnh ngộ được gì từ cuốn sách rách nát này.");
+11278|<O>| send_user(who, "%c%s", ';', "Dung lượng kinh nghiệm Tế Thế Hồ Lô của bạn đã tăng 50000!");
+11279|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 300, "Đang kết nối tiệm thuốc……");
 11280|<O>| if (p = get_valid_xy(z, x, y, IS_ITEM_BLOCK))	//Chiến Quốc Lệnh
-11281|<O>| sprintf("%s:\n    chung vu đến cứutôi，tốtDũng dám a！tôicầnCảm ơnbạncủacứu Mệnh Chi Ân，tốttốtcủatrọng Tạbạn！\n"
-11282|<O>| send_user(who, "%c%s", ';', "Bạn sẽán BáchphútChi Ngũ ThậpKinh nghiệmGia thànhcủaPhương thức loát bại loại。");
-11283|<O>| send_user(member, "%c%s", ';', "Duyênphútđối vớiđối vớibằng Phượngtrác 1 Thất Quốc Lệnh 1");
-11284|<O>| result += sprintf("tiễu phỉ(%d):%d *%d  Sư gia(%d):%d *%d\n",
-11285|<O>| sprintf("%s:\n    Xin Đẳng đãikhácđội viên Hồi ứng。\n", me->get_name()) );
-11286|<O>| printf(ECHO "Sử dụng“" PF_NAME "”cần %d điểmNguyên khí。", SUB_YUAN);
-11287|<O>| send_user(who, "%c%s", '!', "bạnđãTừ bỏĐi vàoTrường BìnhChiến trường，Xin trọngmớiBáo Danh！");
-11288|<O>| send_user(me, "%c%s", ';', "Bạn thâu Nhậpcủatự Phù cách thứckhôngPhù Hợpcầncầu！không cóSửa đổiThành công");
-11289|<O>| item = new(STONE_FILE->get_diamond_file());//Ngẫu nhiên1cấp Tinh Thạch
+11281|<O>| sprintf("%s:\n    Cuối cùng cũng đến cứu ta rồi, thật dũng cảm! Ta phải cảm ơn ân cứu mạng của ngươi, sẽ đền đáp hậu hĩnh!\n"
+11282|<O>| send_user(who, "%c%s", ';', "Bạn sẽ đánh quái với mức cộng kinh nghiệm 50%.");
+11283|<O>| send_user(member, "%c%s", ';', "Duyên Phận Đối Đối Bổng Phượng Trác 1 Thất Quốc Lệnh 1");
+11284|<O>| result += sprintf("Tiễu phỉ(%d):%d *%d  Sư gia(%d):%d *%d\n",
+11285|<O>| sprintf("%s:\n    Xin hãy đợi các đội viên khác phản hồi.\n", me->get_name()) );
+11286|<O>| printf(ECHO "Sử dụng \"" PF_NAME "\" cần %d điểm nguyên khí.", SUB_YUAN);
+11287|<O>| send_user(who, "%c%s", '!', "Bạn đã từ bỏ tham gia chiến trường Trường Bình, vui lòng đăng ký lại!");
+11288|<O>| send_user(me, "%c%s", ';', "Định dạng ký tự bạn nhập không đúng yêu cầu! Chưa sửa đổi thành công");
+11289|<O>| item = new(STONE_FILE->get_diamond_file());//Ngẫu nhiên tinh thạch cấp 1
 11290|<O>| case "Đường Môn": z = 324;  p = get_jumpin(z, 20);  break;
-11291|<O>| if (get_effect(me, EFFECT_CHAR_CHAN)    // bịNhân triền trụ(niêm Thủ)
-11292|<O>| return sprintf(desc + "\nSử dụngcầncầu %d cấp", get("level"));
-11293|<O>| result = "Bạnnhận đượcThầnTiêngia giacủaphần thưởng 20 điểmKinh nghiệm、20 điểm Tiềm năng、500 VàngvàBángiờsong bộiKinh nghiệm";
-11294|<O>| case 2: point = item->get_hp();  break;    // CửuLongThầnHỏatrạo
-11295|<O>| who->set_latest_city(00110);    // Hồi Thành Phù:Tân Thủ Thôn(001 #10)
-11296|<O>| if ((npc = who->get_quest("escort.npc"))    // vận tiêu Nhân Vật
-11297|<O>| count = max - mpTmp1["user"][userid][team];	//doãn hứa đầu phiếu số
-11298|<O>| if (price < 1 || value != price / total)	// tỵ Miễn dật Xuất Xuấtvấn đề
-11299|<O>| send_user(me, "%c%c%c", 0x3d, 241, 1);    // càng Cải tẩu Lộbướcsố
-11300|<O>| who->set_save_2("task.story",iLegend);	//đãtiếpcủaKịch TìnhNhiệm vụtổng số
-11301|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 3, "ổn định TâmThầnthi Phónggiữa……");
-11302|<O>| log_file("christmas.txt",short_time() + " PhóngHỏaKê\n" );
-11303|<O>| private static int ThisTime = time();   // Đồng thờidùng vu đoạn tuyến cương thi
-11304|<O>| else if (rate < 2600 * rate1 / 100)		//100cấpNgẫu nhiênMôn pháiVàngSắcTrang bị
-11305|<O>| write_user(me, ECHO "Bạncònkhôngtúc Dĩ mê Hoặc%s。", who->get_name());
+11291|<O>| if (get_effect(me, EFFECT_CHAR_CHAN)    // Bị quấn chặt(dính tay)
+11292|<O>| return sprintf(desc + "\nYêu cầu sử dụng cấp %d", get("level"));
+11293|<O>| result = "Bạn nhận được phần thưởng của Thần Tiên Ông Ông: 20 kinh nghiệm, 20 tiềm năng, 500 vàng và nửa giờ kinh nghiệm gấp đôi";
+11294|<O>| case 2: point = item->get_hp();  break;    // Cửu Long Thần Hỏa Trạo
+11295|<O>| who->set_latest_city(00110);    // Hồi thành phù: Làng Tân Thủ(001 #10)
+11296|<O>| if ((npc = who->get_quest("escort.npc"))    // Nhân vật vận tiêu
+11297|<O>| count = max - mpTmp1["user"][userid][team];	//Số phiếu được phép bầu
+11298|<O>| if (price < 1 || value != price / total)	// Tránh tràn số gây lỗi
+11299|<O>| send_user(me, "%c%c%c", 0x3d, 241, 1);    // Thay đổi số bước đi
+11300|<O>| who->set_save_2("task.story",iLegend);	//Tổng số nhiệm vụ kịch bản đã nhận
+11301|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 3, "Ổn định tâm thần đang thi triển……");
+11302|<O>| log_file("christmas.txt",short_time() + " Phát gà tây\n" );
+11303|<O>| private static int ThisTime = time();   // Đồng thời dùng cho zombie mất kết nối
+11304|<O>| else if (rate < 2600 * rate1 / 100)		//Trang bị vàng ngẫu nhiên môn phái cấp 100
+11305|<O>| write_user(me, ECHO "Bạn chưa đủ sức mê hoặc %s.", who->get_name());
 11306|<O>| if (gone_time(get("birthday")) >= 1800)    // 30 phút
-11307|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Ngụy quản Giacủakiếp nan（3）");
-11308|<O>| } else if(rate < 4000 ) {	//	vi.	500củamấy suất rơi lạc Đạo cụ“Tử Sâm Đơn”Nhất khỏa。
-11309|<O>| log_file(LIST_LOG_2, "// tiến giai thư tịch，Phóngđến /quest/book\n\n");
-11310|<O>| send_user(me, "%c%s", '!', "BạnđãchoHằng Nga tìmđếnNgọc thỏ，tại saocònđến tìm ？");
-11311|<O>| tell_user(me, "Mục lục:" DIR_COLOR + path);    // liệt thị Mục lụctrongdung
-11312|<O>| #define AUTH_TIMEOUT           	1800      // Liên tuyến Siêugiờhạn chế
-11313|<O>| set_save_2(sprintf("%s.size",type),pos);//trọng thiết đươngtrướcbiểu số ký lục số
-11314|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 300, "đương phố Liên tiếpgiữa……");
-11315|<O>| if (!clonep(me)) return "［Tinh luyện］ Mệnhgiữa\n［Trang bị thích hợp］ Vũ khí、Hạng Liên、Yêu Đái";
+11307|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Kiếp Nạn Của Quản Gia Ngụy（3）");
+11308|<O>| } else if(rate < 4000 ) {	//	vi.	500 tỷ lệ rơi đạo cụ "Tử Sâm Đan" một viên.
+11309|<O>| log_file(LIST_LOG_2, "// Sách tiến giai, đặt tại /quest/book\n\n");
+11310|<O>| send_user(me, "%c%s", '!', "Bạn đã tìm được Ngọc Thỏ cho Hằng Nga rồi, sao còn đến tìm nữa?");
+11311|<O>| tell_user(me, "Thư mục:" DIR_COLOR + path);    // Liệt kê nội dung thư mục
+11312|<O>| #define AUTH_TIMEOUT           	1800      // Giới hạn thời gian kết nối
+11313|<O>| set_save_2(sprintf("%s.size",type),pos);//Đặt lại số lượng bản ghi bảng hiện tại
+11314|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 300, "Đang kết nối tiệm cầm đồ……");
+11315|<O>| if (!clonep(me)) return "［Tinh Luyện］ Mệnh trúng\n［Trang bị phù hợp］ Vũ khí, vòng cổ, thắt lưng";
 11316|<O>| if (gone_time(get("birthday")) >= 3600)    // 60 phút
 11317|<O>| if (gone_time(me->get_time("give")) < 1)    // Giới hạn thời gian
 11318|<O>| case "Vân Mộng Trạch" : if( type != SWORD ) flag = -1;  break;
-11319|<O>| "    tốisau"HIR" Vân Mộng Trạch "NOR"củaPháp Khíbạnchỉcầnđến"HIR" Ngụy Quốc "NOR"tiệncó thểtìmđến。"
+11319|<O>| "    Cuối cùng"HIR" Vân Mộng Trạch "NOR"pháp khí bạn chỉ cần đến"HIR" Ngụy Quốc "NOR"là có thể tìm thấy."
 11320|<O>| //                me->set_login_flag(2);    // Bảo vệ chuyển tiếp
-11321|<O>| send_user(me, "%c%s", '!', "Liên tiếp Xuất sai，Xin trọngmớiLiên tiếp。" + result);
-11322|<O>| set_char_type(FIGHTER_TYPE_2);    // init_level cầndùngđến
-11323|<O>| SAY_CMD->say(this_object(), "không cócủasấm Nhập giả，nhanhnhanhPhóngdướiThủgiữaVũ khíđầu giáng ！");
-11324|<O>| case 3: begin = 81; end = 200; name = "BạchHổMôn"; break;
-11325|<O>| send_user(me, "%c%c%c", 0x3d, 241, 2);    // Phục hồitẩu Lộbướcsố
-11326|<O>| if (p = get_valid_xy(z, x, y, IS_ITEM_BLOCK))	//ngàyÂn Lệnh
-11327|<O>| // int get_cast_seal() { return 41100; }    // Phù Chỉnghịch Toàn
-11328|<O>| write_user(me, ECHO "Bạn quật Địa đào Xuất%s！", obj2->get_name());
+11321|<O>| send_user(me, "%c%s", '!', "Kết nối lỗi, vui lòng kết nối lại." + result);
+11322|<O>| set_char_type(FIGHTER_TYPE_2);    // init_level cần dùng
+11323|<O>| SAY_CMD->say(this_object(), "Kẻ xâm nhập không mời, hãy mau buông vũ khí xuống đầu hàng đi!");
+11324|<O>| case 3: begin = 81; end = 200; name = "Bạch Hổ Môn"; break;
+11325|<O>| send_user(me, "%c%c%c", 0x3d, 241, 2);    // Khôi phục số bước đi
+11326|<O>| if (p = get_valid_xy(z, x, y, IS_ITEM_BLOCK))	//Thiên Ân Lệnh
+11327|<O>| // int get_cast_seal() { return 41100; }    // Phù Chỉ Nghịch Toàn
+11328|<O>| write_user(me, ECHO "Bạn đào đất lên được %s!", obj2->get_name());
 11329|<O>| if (gone_time(me->get_time("team")) < 1)    // Giới hạn thời gian

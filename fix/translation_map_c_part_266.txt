@@ -1,60 +1,60 @@
-﻿9197|<O>| //			send_user( who, "%c%s", '!', "你接受了"HIY"正义之战"NOR"任务");
-9198|<O>| //		send_user( who, "%c%s", '!', "你接受了"HIY"牛二的苦恼"NOR"任务");
-9199|<O>| return "skill/02/02115"->perform_action_npc(me, who);	//粘手
-9200|<O>| /*              else if( p < 9398 * rate / 100 )    // 杂物１
-9201|<O>| if( objectp( item = present("巧克力豆", who, 1, MAX_CARRY) ) )
-9202|<O>| if (TASK_LEGEND_D->check_task_item(who, "百姓的诉苦书", 1) != 1)
-9203|<O>| send_user(me, "%c%s", ':', "领取合服大奖成功，您获得" + result + "。");
-9204|<O>| send_user(who, "%c%s", ';', "户籍密件 经验 1100 潜能 60 金钱 1200");
-9205|<O>| sprintf("%s:\n    自从教训了那些山鸡后，这日子比以前舒坦多了，想来想去，还是小鸡咕咕最乖巧。\n"
-9206|<O>| if (TASK_LEGEND_D->check_task_item(who, "漂亮的黄晶石", 8) != 1)
-9207|<O>| return "VIP包，购买后即与购买玩家角色ID绑定，绑定后即可获得奇妙的效果和优厚的待遇，持续时间31天。";
-9208|<O>| send_user(who, "%c%s", '!', sprintf(HIY"燕国刀盾兵 %d/20", i));
-9209|<O>| send_user(who, "%c%s", ';', sprintf("活动次数设置为%d", iTimes));
-9210|<O>| send_user(who, "%c%s", '!', sprintf(HIY"赵国剑盾兵 %d/10", i));
-9211|<O>| TASK_LEGEND_D->check_task_item_amount(who, "干将宝石") < 20 ||
-9212|<O>| result = get_name() + ":\n    年纪轻轻身手就这么好，长大了肯定是个有大作为的人！\n"
-9213|<O>| send_user( who, "%c%c%c%w%s", 0x51, 2, 1,TID_YEWAI,"清溪" );
-9214|<O>| if ((owner = environment(item)) && userp(owner)    // 玩家身上
-9215|<O>| send_user(who, "%c%s", '!', sprintf(HIY"太极门众守 %d/18", i));
-9216|<O>| set_heart_count(me, 1);    // 重设心跳标志(主), 0.? 秒进入心跳(马上启动心跳)
-9217|<O>| result += sprintf("本国人卖出税:%2d%%\n", city->get_sell_tax());
-9218|<O>| tmp += sprintf(ESC HIY "去燕的盘缠\ntalk %x# welcome.1\n", id);
-9219|<O>| tmp += sprintf(ESC HIY "祖父的遗产\ntalk %x# welcome.1\n", id);
-9220|<O>| send_user(who, "%c%s", ';', "沼泽寻宝 经验 2200 潜能 80 金钱 1700");
-9221|<O>| "/cmd/user/talk"->main(me, result + key[1]);    // 获得相关道具！
-9222|<O>| else    write_user(me, ECHO "您使用" HIY "奇门土遁" ECHO "失败了。");
-9223|<O>| if (!objectp(item_dw3 = present("蓼叶", who, 1, MAX_CARRY)))
-9224|<O>| if (TASK_LEGEND_D->check_task_item(who, "机关密图中部", 1) != 1)
-9225|<O>| /*              else if( p < 9050 * rate / 100 )    // 杂物１
-9226|<O>| "你看本总管的耳朵上的老茧多厚了，你都不知道体恤一下老人！\n"ESC"离开", me->get_name()));
-9227|<O>| if ((name = me->get_org_name()) && name != ""    // 更新帮派信息
-9228|<O>| tmp += sprintf(ESC HIY "绑匪的条件\ntalk %x# welcome.5\n", id);
-9229|<O>| write_user(me, ECHO "您拿出龟甲，诚心诚意为%s占卜……", who->get_name());
-9230|<O>| //  case "唐门" : if( get_level() >= 35 && random(100) < 5 )
-9231|<O>| send_user(who, "%c%s", ';', "济世葫芦的累积经验已满，不再为你提供额外的经验奖励。");
-9232|<O>| //	log_file("test", sprintf("%s 删除虚拟场景\n", short_time()));
-9233|<O>| result = sprintf("%s 您创立“%s”！", short_time(time()), name);
-9234|<O>| tmp += sprintf(ESC HIY "机关密图\ntalk %x# welcome.19\n", id);
-9235|<O>| tmp += sprintf(ESC HIY "修理木桶\ntalk %x# welcome.13\n", id);
-9236|<O>| send_user(who, "%c%c%c%w%s", 0x51, 2, 1, TID_QIGUO, "齐国");
-9237|<O>| send_user(who, "%c%s", ';', "梦的困扰 经验 2800 潜能 90 金钱 2000");
-9238|<O>| ESC "manager %s %%s\n", flag == "+" ? "任命" : "撤销", flag));
-9239|<O>| write_user(who, ECHO "您完成%s的使命，经验 %+d。", get_name(), exp);
-9240|<O>| send_user(who, "%c%s", ';', "交换心得 经验 3000 潜能 70 金钱 2500");
-9241|<O>| case BATTLE_MAP: send_user(me, "%c%s", '!', "战场不能使用此法宝。");
-9242|<O>| result = sprintf("你消灭了%s，得到了%d点帮派贡献。", me->get_name(), 5);
-9243|<O>| npc->set_name(sprintf("造谣的混混(%d)", player->get_number()));
-9244|<O>| if (!clonep(me)) return "［精炼］ 物攻\n［适用装备］ 武器、项链，限20级以下装备。";
-9245|<O>| send_user(who, "%c%s", ';', "拦路狗 经验 6500 潜能 260 金钱 5600");
-9246|<O>| send_user(me, "%c%s", '!', who->get_name() + "身上的东西太多了。");
-9247|<O>| if ( sscanf(arg,"%d.%s",flag,id1) != 2 )//这里主要处理输入ID祝福的信息。
-9248|<O>| who->set_save("salary", city->get_save("day"));    // 标记今天
-9249|<O>| && (npc = find_char(id)) && npc->is_banditi())    // 30 分钟
-9250|<O>| if (!objectp(item = present("乾坤绳", me, 1, MAX_CARRY * 4)))
-9251|<O>| send_user(who, "%c%s", '!', sprintf(HIY"做床的木头 %d/30", i));
-9252|<O>| tmp += sprintf(ESC HIY "告知内政官\ntalk %x# welcome.4\n", id);
-9253|<O>| if (objectp(map = get_map_object(get_z(me))))    // 获取战场对象
-9254|<O>| case "昆仑山" : if( flag != 6 && flag!=9 ) flag = -1;  break;
-9255|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    呃……那边的人类。\n"
-9256|<O>| tmp += sprintf(ESC HIY "赔礼道歉\ntalk %x# welcome.10\n", id);
+﻿9197|<O>| //			send_user( who, "%c%s", '!', "Bạn đã tiếp nhận nhiệm vụ "HIY"Chính Nghĩa Chi Chiến"NOR"");
+9198|<O>| //		send_user( who, "%c%s", '!', "Bạn đã tiếp nhận nhiệm vụ "HIY"Nỗi Khổ Của Ngưu Nhị"NOR"");
+9199|<O>| return "skill/02/02115"->perform_action_npc(me, who);	//Niêm Thủ
+9200|<O>| /*              else if( p < 9398 * rate / 100 )    // Tạp vật 1
+9201|<O>| if( objectp( item = present("Đậu Sô-cô-la", who, 1, MAX_CARRY) ) )
+9202|<O>| if (TASK_LEGEND_D->check_task_item(who, "Thư Kêu Khổ Của Bách Tính", 1) != 1)
+9203|<O>| send_user(me, "%c%s", ':', "Nhận thưởng hợp nhất server thành công, bạn nhận được " + result + ".");
+9204|<O>| send_user(who, "%c%s", ';', "Hồ Sơ Hộ Tịch Mật Kinh nghiệm 1100 Tiềm năng 60 Tiền vàng 1200");
+9205|<O>| sprintf("%s:\n    Kể từ khi dạy cho đám gà rừng một bài học, cuộc sống thoải mái hơn trước nhiều, nghĩ đi nghĩ lại, vẫn là gà con Cô Cô ngoan nhất.\n"
+9206|<O>| if (TASK_LEGEND_D->check_task_item(who, "Hoàng Tinh Thạch Đẹp", 8) != 1)
+9207|<O>| return "Gói VIP, sau khi mua sẽ được gắn với ID nhân vật người mua, sau khi gắn sẽ nhận được hiệu quả kỳ diệu và đãi ngộ hậu hĩnh, thời hạn 31 ngày.";
+9208|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Yên Quốc Đao Thuẫn Binh %d/20", i));
+9209|<O>| send_user(who, "%c%s", ';', sprintf("Số lần hoạt động được thiết lập là %d", iTimes));
+9210|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Triệu Quốc Kiếm Thuẫn Binh %d/10", i));
+9211|<O>| TASK_LEGEND_D->check_task_item_amount(who, "Can Tương Bảo Thạch") < 20 ||
+9212|<O>| result = get_name() + ":\n    Tuổi còn trẻ mà thân thủ đã giỏi thế, lớn lên chắc chắn là người có đại tác vi!\n"
+9213|<O>| send_user( who, "%c%c%c%w%s", 0x51, 2, 1,TID_YEWAI,"Thanh Khê" );
+9214|<O>| if ((owner = environment(item)) && userp(owner)    // Trên người chơi
+9215|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Thái Cực Môn Chúng Thủ %d/18", i));
+9216|<O>| set_heart_count(me, 1);    // Đặt lại cờ nhịp tim(chính), 0.? giây vào nhịp tim(khởi động ngay)
+9217|<O>| result += sprintf("Thuế bán ra của người trong nước:%2d%%\n", city->get_sell_tax());
+9218|<O>| tmp += sprintf(ESC HIY "Lộ Phí Đến Yên Quốc\ntalk %x# welcome.1\n", id);
+9219|<O>| tmp += sprintf(ESC HIY "Di Sản Của Ông Nội\ntalk %x# welcome.1\n", id);
+9220|<O>| send_user(who, "%c%s", ';', "Tìm Bảo Đầm Lầy Kinh nghiệm 2200 Tiềm năng 80 Tiền vàng 1700");
+9221|<O>| "/cmd/user/talk"->main(me, result + key[1]);    // Nhận được đạo cụ liên quan!
+9222|<O>| else    write_user(me, ECHO "Bạn sử dụng " HIY "Kỳ Môn Thổ Độn" ECHO " thất bại.");
+9223|<O>| if (!objectp(item_dw3 = present("Lá Liêu", who, 1, MAX_CARRY)))
+9224|<O>| if (TASK_LEGEND_D->check_task_item(who, "Cơ Quan Mật Đồ Phần Giữa", 1) != 1)
+9225|<O>| /*              else if( p < 9050 * rate / 100 )    // Tạp vật 1
+9226|<O>| "Ngươi xem tai của Tổng Quản ta đã chai dày thế nào rồi, ngươi cũng không biết thương xót người già!\n"ESC"Rời đi", me->get_name()));
+9227|<O>| if ((name = me->get_org_name()) && name != ""    // Cập nhật thông tin bang phái
+9228|<O>| tmp += sprintf(ESC HIY "Điều Kiện Của Kẻ Bắt Cóc\ntalk %x# welcome.5\n", id);
+9229|<O>| write_user(me, ECHO "Bạn lấy mai rùa ra, thành tâm thành ý bói cho %s……", who->get_name());
+9230|<O>| //  case "Đường Môn" : if( get_level() >= 35 && random(100) < 5 )
+9231|<O>| send_user(who, "%c%s", ';', "Tế Thế Hồ Lô đã tích lũy kinh nghiệm đầy, không còn cung cấp kinh nghiệm thưởng thêm cho bạn nữa.");
+9232|<O>| //	log_file("test", sprintf("%s Xóa cảnh ảo\n", short_time()));
+9233|<O>| result = sprintf("%s Bạn sáng lập \"%s\"!", short_time(time()), name);
+9234|<O>| tmp += sprintf(ESC HIY "Cơ Quan Mật Đồ\ntalk %x# welcome.19\n", id);
+9235|<O>| tmp += sprintf(ESC HIY "Sửa Thùng Gỗ\ntalk %x# welcome.13\n", id);
+9236|<O>| send_user(who, "%c%c%c%w%s", 0x51, 2, 1, TID_QIGUO, "Tề Quốc");
+9237|<O>| send_user(who, "%c%s", ';', "Phiền Não Trong Mơ Kinh nghiệm 2800 Tiềm năng 90 Tiền vàng 2000");
+9238|<O>| ESC "manager %s %%s\n", flag == "+" ? "Bổ nhiệm" : "Bãi miễn", flag));
+9239|<O>| write_user(who, ECHO "Bạn hoàn thành sứ mệnh của %s, kinh nghiệm %+d.", get_name(), exp);
+9240|<O>| send_user(who, "%c%s", ';', "Trao Đổi Kinh Nghiệm Kinh nghiệm 3000 Tiềm năng 70 Tiền vàng 2500");
+9241|<O>| case BATTLE_MAP: send_user(me, "%c%s", '!', "Chiến trường không thể sử dụng pháp bảo này.");
+9242|<O>| result = sprintf("Bạn tiêu diệt %s, nhận được %d điểm cống hiến bang phái.", me->get_name(), 5);
+9243|<O>| npc->set_name(sprintf("Côn Đồ Tung Tin Đồn(%d)", player->get_number()));
+9244|<O>| if (!clonep(me)) return "［Tinh luyện］ Vật công\n［Trang bị phù hợp］ Vũ khí, vòng cổ, giới hạn trang bị dưới cấp 20.";
+9245|<O>| send_user(who, "%c%s", ';', "Chó Chặn Đường Kinh nghiệm 6500 Tiềm năng 260 Tiền vàng 5600");
+9246|<O>| send_user(me, "%c%s", '!', who->get_name() + " mang quá nhiều đồ trên người.");
+9247|<O>| if ( sscanf(arg,"%d.%s",flag,id1) != 2 )//Ở đây chủ yếu xử lý thông tin chúc phúc bằng ID.
+9248|<O>| who->set_save("salary", city->get_save("day"));    // Đánh dấu hôm nay
+9249|<O>| && (npc = find_char(id)) && npc->is_banditi())    // 30 phút
+9250|<O>| if (!objectp(item = present("Càn Khôn Thằng", me, 1, MAX_CARRY * 4)))
+9251|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Gỗ Làm Giường %d/30", i));
+9252|<O>| tmp += sprintf(ESC HIY "Thông Báo Nội Chính Quan\ntalk %x# welcome.4\n", id);
+9253|<O>| if (objectp(map = get_map_object(get_z(me))))    // Lấy đối tượng chiến trường
+9254|<O>| case "Côn Lôn Sơn" : if( flag != 6 && flag!=9 ) flag = -1;  break;
+9255|<O>| send_user(who, "%c%s", ':', sprintf("%s:\n    Ờ……con người bên kia.\n"
+9256|<O>| tmp += sprintf(ESC HIY "Xin Lỗi Bồi Thường\ntalk %x# welcome.10\n", id);

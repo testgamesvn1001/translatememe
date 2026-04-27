@@ -1,100 +1,100 @@
-﻿18581|<O>| return "任务物品。相传由七彩羽毛缝制而成的外衣。";
-18582|<O>| "高粱" : "\"/item/stuff/0146\"",
-18583|<O>| if (is_paying    // 通过点数购买道具中？
-18584|<O>| #define PF_NAME        "飞蝗石锻造"
-18585|<O>| #define PF_NAME        "青云冠制作"
-18586|<O>| "元魄" : "\"/item/stuff/0310\"",
-18587|<O>| tell_user(me, HIY "您已经完全恢复。");
-18588|<O>| "熊皮" : "\"/item/stuff/0195\"",
-18589|<O>| else if (rate < 9250)			//炼丹成品
-18590|<O>| "花生" : "\"/item/stuff/0162\"",
-18591|<O>| return "任务物品。一种书写时常用到的盛墨的工具。";
-18592|<O>| #define PF_NAME        "麻蜂针锻造"
-18593|<O>| "麻布" : "\"/item/stuff/0045\"",
-18594|<O>| "铁矿" : "\"/item/stuff/0003\"",
-18595|<O>| notify("初级锻造石只能锻造在2星以下的装备上。");
-18596|<O>| "四季图·秋" : "\"/item/97/9722\"",
-18597|<O>| remove_from_scene(3321);//使用技能
-18598|<O>| rand = random(5) + 3;		//	C级物品
-18599|<O>| if (!ret) return 2;    // 执行成功
-18600|<O>| "残缺橙晶石" : "\"/item/89/8901\"",
-18601|<O>| "黄连" : "\"/item/stuff/0116\"",
-18602|<O>| "青花鱼纹盘" : "\"/item/97/9770\"",
-18603|<O>| //		        cityname = "死亡沼泽";
-18604|<O>| interval = 1800;    // 小心准备 me
-18605|<O>| "银锭" : "\"/item/stuff/0016\"",
-18606|<O>| "硝石" : "\"/item/stuff/0212\"",
-18607|<O>| if (!clonep(me)) return "暗晶石";
-18608|<O>| "大蒜" : "\"/item/stuff/0167\"",
-18609|<O>| return "任务物品。搜魂法器收集到的亡魂怨鬼之灵。";
-18610|<O>| ESC "继续\ntalk %x# welcome.3\n"
-18611|<O>| "宝石碎片" : "\"/item/std/8900\"",
-18612|<O>| for (i = 0;i < 3;i++)	//3个僵尸守卫
-18613|<O>| + sprintf(ESC"关闭\nparty 32\n")
-18614|<O>| "麝香" : "\"/item/stuff/0133\"",
-18615|<O>| if (!clonep(me)) return "影晶石";
-18616|<O>| ESC "继续\ntalk %x# welcome.5\n"
-18617|<O>| result = result + HIR"30000金";
-18618|<O>| "槐木" : "\"/item/stuff/0105\"",
-18619|<O>| if (!who) return 1;    // 执行成功
-18620|<O>| private int iScience;			// 研究力
-18621|<O>| "银丝" : "\"/item/stuff/0039\"",
-18622|<O>| else if ( rate < 9800 )	//酒食成品
-18623|<O>| #define PF_NAME        "哭丧棒锻造"
-18624|<O>| "青菜" : "\"/item/stuff/0152\"",
-18625|<O>| "四季图·冬" : "\"/item/97/9723\"",
-18626|<O>| tell_user(me, "复制失败: " + err);
-18627|<O>| log_file(LIST_LOG, "# 户籍官\n");
-18628|<O>| "砒霜" : "\"/item/stuff/0106\"",
-18629|<O>| // 自动生成:/make/npc/make-collect
-18630|<O>| result = sprintf("最新竞选行情:\n");
-18631|<O>| "麦子" : "\"/item/stuff/0143\"",
-18632|<O>| result += ESC"开启\nparty 27\n";
-18633|<O>| "蚕茧" : "\"/item/stuff/0046\"",
-18634|<O>| "绿色小石头" : "\"/item/40/4045\"",
-18635|<O>| if (name == "完美补天石") continue;
-18636|<O>| DEBUG("测试-->发送有已有称谓玩家上线信息成功");
-18637|<O>| set_char_picid(0052);    // 混混
-18638|<O>| "玉心" : "\"/item/stuff/0076\"",
-18639|<O>| "碧水鸳鸯图" : "\"/item/97/9729\"",
-18640|<O>| "扁豆" : "\"/item/stuff/0161\"",
-18641|<O>| hp = ADD_HP;    // 小心准备 me, cp
-18642|<O>| if (!clonep(me)) return "月灵石";
-18643|<O>| return "可右击打开的大礼包，会带给你意外的惊喜。";
-18644|<O>| "铁棒" : "\"/item/stuff/0025\"",
-18645|<O>| #define PF_NAME        "战斗鞋制作"
-18646|<O>| "气血:%4d / %4d  法力:%4d / %4d\n"
-18647|<O>| tmp += ESC "追捕逃犯任务。\n" + cmd1;
-18648|<O>| "麻布包裹" : "\"/item/std/6003\"",
-18649|<O>| #define PF_NAME        "方天戟锻造"
-18650|<O>| #define PF_NAME        "玄冰棍锻造"
-18651|<O>| result += ESC"关闭\nparty 28\n";
-18652|<O>| if (!who) return 2;    // 执行成功
-18653|<O>| log_file(LIST_LOG, "# 内政官\n");
-18654|<O>| "芝麻" : "\"/item/stuff/0163\"",
-18655|<O>| "残缺黑晶石" : "\"/item/89/8913\"",
-18656|<O>| if(rand_int < 20) {			//	低物防高敏
-18657|<O>| #define PF_NAME        "天璇刀锻造"
-18658|<O>| result += ESC"关闭\nparty 14\n";
-18659|<O>| tmp += ESC"领取挖宝小锄头。\n" + cmd4;
-18660|<O>| ESC "是的。\ntalk %x# betrayer\n"
-18661|<O>| interval = 8;    // 小心准备 level
-18662|<O>| result += ESC"关闭\nparty 45\n";
-18663|<O>| log_file(LIST_LOG, "# 大将军\n");
-18664|<O>| "金锭" : "\"/item/stuff/0015\"",
-18665|<O>| #define PF_NAME        "牛头椎锻造"
-18666|<O>| ESC "索取灵石\n" + cmd + ESC"离开");
-18667|<O>| #define PF_NAME        "开山刀锻造"
-18668|<O>| "云山飞瀑图" : "\"/item/97/9730\"",
-18669|<O>| "残缺红晶石" : "\"/item/89/8912\"",
-18670|<O>| if (!clonep(me)) return "水灵石";
-18671|<O>| #define PF_NAME        "光之鞋制作"
-18672|<O>| #define PF_NAME        "白鹤盔制作"
-18673|<O>| return "从蚕茧抽出来的丝，裁缝生活技能需要的材料";
-18674|<O>| // 多体远程技能  TIPS:[PF_CAST_AREA]
-18675|<O>| "金丝" : "\"/item/stuff/0037\"",
-18676|<O>| "桔梗" : "\"/item/stuff/0122\"",
-18677|<O>| log_file(LIST_LOG, "# 刀\n\n");
-18678|<O>| result += ESC"关闭\nparty 41\n";
-18679|<O>| "闪光的石头" : "\"/item/40/4043\"",
-18680|<O>| "铁观音茶叶" : "\"/item/31/3115\"",
+﻿18581|<O>| return "Vật phẩm nhiệm vụ. Tương truyền là chiếc áo may từ lông vũ bảy màu.";
+18582|<O>| "Cao Lương" : "\"/item/stuff/0146\"",
+18583|<O>| if (is_paying    // Đang mua đạo cụ bằng điểm?
+18584|<O>| #define PF_NAME        "Rèn Phi Hoàng Thạch"
+18585|<O>| #define PF_NAME        "Chế Tạo Mũ Thanh Vân"
+18586|<O>| "Nguyên Phách" : "\"/item/stuff/0310\"",
+18587|<O>| tell_user(me, HIY "Bạn đã hồi phục hoàn toàn.");
+18588|<O>| "Da Gấu" : "\"/item/stuff/0195\"",
+18589|<O>| else if (rate < 9250)			//Thành phẩm luyện đan
+18590|<O>| "Đậu Phộng" : "\"/item/stuff/0162\"",
+18591|<O>| return "Vật phẩm nhiệm vụ. Dụng cụ đựng mực thường dùng khi viết.";
+18592|<O>| #define PF_NAME        "Rèn Châm Ong Gai"
+18593|<O>| "Vải Gai" : "\"/item/stuff/0045\"",
+18594|<O>| "Quặng Sắt" : "\"/item/stuff/0003\"",
+18595|<O>| notify("Đá rèn sơ cấp chỉ có thể rèn trên trang bị 2 sao trở xuống.");
+18596|<O>| "Tứ Quý Đồ · Thu" : "\"/item/97/9722\"",
+18597|<O>| remove_from_scene(3321);//Sử dụng kỹ năng
+18598|<O>| rand = random(5) + 3;		//	Vật phẩm hạng C
+18599|<O>| if (!ret) return 2;    // Thực hiện thành công
+18600|<O>| "Tinh Thạch Cam Khuyết" : "\"/item/89/8901\"",
+18601|<O>| "Hoàng Liên" : "\"/item/stuff/0116\"",
+18602|<O>| "Đĩa Hoa Cá Xanh" : "\"/item/97/9770\"",
+18603|<O>| //		        cityname = "Đầm Tử Vong";
+18604|<O>| interval = 1800;    // Cẩn thận chuẩn bị me
+18605|<O>| "Thỏi Bạc" : "\"/item/stuff/0016\"",
+18606|<O>| "Diêm Tiêu" : "\"/item/stuff/0212\"",
+18607|<O>| if (!clonep(me)) return "Tinh Thạch Ám";
+18608|<O>| "Tỏi" : "\"/item/stuff/0167\"",
+18609|<O>| return "Vật phẩm nhiệm vụ. Oán hồn quỷ linh được thu thập bởi pháp khí thu hồn.";
+18610|<O>| ESC "Tiếp tục\ntalk %x# welcome.3\n"
+18611|<O>| "Mảnh Bảo Thạch" : "\"/item/std/8900\"",
+18612|<O>| for (i = 0;i < 3;i++)	//3 cương thi lính gác
+18613|<O>| + sprintf(ESC"Đóng\nparty 32\n")
+18614|<O>| "Xạ Hương" : "\"/item/stuff/0133\"",
+18615|<O>| if (!clonep(me)) return "Tinh Thạch Ảnh";
+18616|<O>| ESC "Tiếp tục\ntalk %x# welcome.5\n"
+18617|<O>| result = result + HIR"30000 vàng";
+18618|<O>| "Gỗ Hòe" : "\"/item/stuff/0105\"",
+18619|<O>| if (!who) return 1;    // Thực hiện thành công
+18620|<O>| private int iScience;			// Lực nghiên cứu
+18621|<O>| "Dây Bạc" : "\"/item/stuff/0039\"",
+18622|<O>| else if ( rate < 9800 )	//Thành phẩm rượu ăn
+18623|<O>| #define PF_NAME        "Rèn Gậy Khốc Tang"
+18624|<O>| "Rau Xanh" : "\"/item/stuff/0152\"",
+18625|<O>| "Tứ Quý Đồ · Đông" : "\"/item/97/9723\"",
+18626|<O>| tell_user(me, "Sao chép thất bại: " + err);
+18627|<O>| log_file(LIST_LOG, "# Quan hộ tịch\n");
+18628|<O>| "Thạch Tín" : "\"/item/stuff/0106\"",
+18629|<O>| // Tự động tạo: /make/npc/make-collect
+18630|<O>| result = sprintf("Tình hình tranh cử mới nhất:\n");
+18631|<O>| "Lúa Mì" : "\"/item/stuff/0143\"",
+18632|<O>| result += ESC"Mở\nparty 27\n";
+18633|<O>| "Kén Tằm" : "\"/item/stuff/0046\"",
+18634|<O>| "Viên Đá Nhỏ Xanh" : "\"/item/40/4045\"",
+18635|<O>| if (name == "Đá Bổ Thiên Hoàn Mỹ") continue;
+18636|<O>| DEBUG("Kiểm tra-->Gửi thông tin người chơi có danh hiệu lên mạng thành công");
+18637|<O>| set_char_picid(0052);    // Côn đồ
+18638|<O>| "Ngọc Tâm" : "\"/item/stuff/0076\"",
+18639|<O>| "Tranh Uyên Ương Bích Thủy" : "\"/item/97/9729\"",
+18640|<O>| "Đậu Ván" : "\"/item/stuff/0161\"",
+18641|<O>| hp = ADD_HP;    // Cẩn thận chuẩn bị me, cp
+18642|<O>| if (!clonep(me)) return "Linh Thạch Nguyệt";
+18643|<O>| return "Có thể click phải mở đại lễ bao, mang đến cho bạn bất ngờ ngoài mong đợi.";
+18644|<O>| "Gậy Sắt" : "\"/item/stuff/0025\"",
+18645|<O>| #define PF_NAME        "Chế Tạo Giày Chiến Đấu"
+18646|<O>| "Khí huyết:%4d / %4d  Pháp lực:%4d / %4d\n"
+18647|<O>| tmp += ESC "Nhiệm vụ truy bắt tù nhân trốn.\n" + cmd1;
+18648|<O>| "Gói Vải Gai" : "\"/item/std/6003\"",
+18649|<O>| #define PF_NAME        "Rèn Kích Phương Thiên"
+18650|<O>| #define PF_NAME        "Rèn Côn Huyền Băng"
+18651|<O>| result += ESC"Đóng\nparty 28\n";
+18652|<O>| if (!who) return 2;    // Thực hiện thành công
+18653|<O>| log_file(LIST_LOG, "# Quan nội chính\n");
+18654|<O>| "Mè" : "\"/item/stuff/0163\"",
+18655|<O>| "Tinh Thạch Đen Khuyết" : "\"/item/89/8913\"",
+18656|<O>| if(rand_int < 20) {			//	Phòng vật lý thấp, nhanh nhẹn cao
+18657|<O>| #define PF_NAME        "Rèn Đao Thiên Tuyền"
+18658|<O>| result += ESC"Đóng\nparty 14\n";
+18659|<O>| tmp += ESC"Nhận cuốc đào bảo nhỏ.\n" + cmd4;
+18660|<O>| ESC "Vâng.\ntalk %x# betrayer\n"
+18661|<O>| interval = 8;    // Cẩn thận chuẩn bị level
+18662|<O>| result += ESC"Đóng\nparty 45\n";
+18663|<O>| log_file(LIST_LOG, "# Đại tướng quân\n");
+18664|<O>| "Thỏi Vàng" : "\"/item/stuff/0015\"",
+18665|<O>| #define PF_NAME        "Rèn Chùy Đầu Bò"
+18666|<O>| ESC "Xin linh thạch\n" + cmd + ESC"Rời đi");
+18667|<O>| #define PF_NAME        "Rèn Đao Khai Sơn"
+18668|<O>| "Tranh Vân Sơn Phi Bộc" : "\"/item/97/9730\"",
+18669|<O>| "Tinh Thạch Đỏ Khuyết" : "\"/item/89/8912\"",
+18670|<O>| if (!clonep(me)) return "Linh Thạch Thủy";
+18671|<O>| #define PF_NAME        "Chế Tạo Giày Ánh Sáng"
+18672|<O>| #define PF_NAME        "Chế Tạo Mũ Bạch Hạc"
+18673|<O>| return "Tơ rút từ kén tằm, nguyên liệu cần cho kỹ năng sống Thợ May";
+18674|<O>| // Kỹ năng tầm xa đa mục tiêu  TIPS:[PF_CAST_AREA]
+18675|<O>| "Dây Vàng" : "\"/item/stuff/0037\"",
+18676|<O>| "Cát Cánh" : "\"/item/stuff/0122\"",
+18677|<O>| log_file(LIST_LOG, "# Đao\n\n");
+18678|<O>| result += ESC"Đóng\nparty 41\n";
+18679|<O>| "Viên Đá Lấp Lánh" : "\"/item/40/4043\"",
+18680|<O>| "Trà Thiết Quan Âm" : "\"/item/31/3115\"",

@@ -1,67 +1,67 @@
-﻿11596|<O>| //                        ESC "tra xem ngụcgiữaNgười chơi。\n" + cmd2 +
-11597|<O>| string get_suit_name() { return "NữBộc bộ trang"; }	//Thuộc bộ trang bị nào đó
-11598|<O>| if (oSki->get_perform_type() == ON_ME_P)	//đối vớikỷSử dụngcủaPháp Thuật
+﻿11596|<O>| //                        ESC "Xem người chơi trong ngục.\n" + cmd2 +
+11597|<O>| string get_suit_name() { return "Bộ Nữ Hầu"; }	//Thuộc bộ trang phục nào
+11598|<O>| if (oSki->get_perform_type() == ON_ME_P)	//Pháp thuật sử dụng cho bản thân
 11599|<O>| if (gone_time(get("birthday")) >= 600)    // 10 phút
-11600|<O>| move_to_user(player, 1, "item/91/9121",npc);//hoạt Tâm Đơn。
-11601|<O>| //write_user(me, ECHO "Khởi thủy tọa tiêu(%d,%d)khôngNhất trí。", x0, y0 );
-11602|<O>| if (me->get_fam_name() == "") return 0;    // không cóMôn phái
-11603|<O>| iStart = mktime(year,mon,day,hour,min,0);	//hoạt độngBắt đầugiờgian
-11604|<O>| log_file("boss.txt", short_time() + " Uy VũlớnTướng quân Xuất hiện\n");
-11605|<O>| tell_user(who, "liệt thị“%s”Kỹ năngTín tức。", me->get_org_name());
-11606|<O>| return HIC+get_name()+"\nSủng vật sở hữu kỹ năng này，Tăngkỳ đươngtrướcVật lýPhòng thủcủa25%。";
-11607|<O>| return "dùng phong Vươngcủamật Luyện chế Xuất đến。đối vớiPhục hồiPháp LựcCóNhất địnhcủaBang Trợ，ngay lập tức phục hồi850điểm Pháp Lực，Thời gian hồi15giây";
-11608|<O>| return sprintf(PF_NAME ":\n　　TăngTự Thân 20％ củaLực phòng thủ vật lý。\n");
+11600|<O>| move_to_user(player, 1, "item/91/9121",npc);//Hoạt Tâm Đan.
+11601|<O>| //write_user(me, ECHO "Tọa độ khởi đầu(%d,%d) không khớp.", x0, y0 );
+11602|<O>| if (me->get_fam_name() == "") return 0;    // Không có môn phái
+11603|<O>| iStart = mktime(year,mon,day,hour,min,0);	//Thời gian bắt đầu hoạt động
+11604|<O>| log_file("boss.txt", short_time() + " Uy Vũ Đại Tướng Quân xuất hiện\n");
+11605|<O>| tell_user(who, "Liệt kê thông tin kỹ năng bang \"%s\".", me->get_org_name());
+11606|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này, tăng 25% phòng thủ vật lý hiện tại.";
+11607|<O>| return "Luyện từ mật ong vua. Có hỗ trợ nhất định cho việc hồi phục pháp lực, phục hồi ngay 850 điểm pháp lực, thời gian hồi chiêu 15 giây";
+11608|<O>| return sprintf(PF_NAME ":\n　　Tăng 20%% phòng thủ vật lý bản thân.\n");
 11609|<O>| /*              who->set_login_flag(2);    // Bảo vệ chuyển tiếp
-11610|<O>| invalidate_skill_cache(skill);  // PHASE 9: Thanh KhôngKỹ nănghoãn tồn
-11611|<O>| //			send_user(who,"%c%s",'!',"cung hỷBạn nhận đượcsủng vậtĐạo cụ"HIR"Thủybình");
-11612|<O>| return "［Cơ bảnThương Pháp］Nhập Môn Thương Pháp，NăngTăngtrì Thươnglúccủatác Chiến Năng Lực。Mỗi cấp tăng1điểmThươngcủaLực tấn công vật lý。\n";
-11613|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"vô nạicủacầu Trợ（4）");
-11614|<O>| sprintf("%s:\n    từđầu lại đếncủathoạibạncầntrọngmớiLuyệncấp，kiếm thủKinh nghiệmvàtiền，bạnnguyện Ýnàydạng Tử ？\n"
-11615|<O>| if (sscanf(arg, "%d %d,%d", pf, x, y) == 3)		//đối vớitọa tiêu
-11616|<O>| //                        ESC "tra xem ngụcgiữaNgười chơi。\n" + cmd1 +
-11617|<O>| set_save_2(sprintf("%s.%d.pos",type,id),pos); //bài Danh
-11618|<O>| result = sprintf("bạnThành côngĐịa Gia Cường%s。", equip->get_name());
-11619|<O>| tell_user(me, "cộng Thanh trừ %d vô dùng biến lượng。", reclaim_objects());
-11620|<O>| who->set_member_quit(number, time());    // thiết trí Bang Chúng ly tuyến
-11621|<O>| ESC"ThủyTinh（Kỹ năng:caocấpPháp thuẫn、Phúc Tinhcaochiếu、caocấpnhượcđiểmTấn công、caocấpPhi Hành）\nuse %x# pet.3\n"
-11622|<O>| return "［" PF_NAME "］\ntruy traTân Thủ Thôn、U Cốc、Thanh khê Nhất Đái Xuất hiện sử Mệnh Nhân VậtcủaPhương vị。\n";
-11623|<O>| return HIC+get_name()+"\nSủng vật sở hữu kỹ năng này，Tăngkỳ đươngtrướcKhí Huyếttrênhạncủa30%。";
-11624|<O>| private int is_clock_running = 0;			//	giờChungLàphủ chínhTạivận Hànhcủatiêu Chí
-11625|<O>| _DEBUG(sprintf("DEBUG -- dướilầnHồi điềugiờChung biên hiệu vì %d", next_st));
-11626|<O>| HIR "Thể phách、TinhThần、Lực lượng、nại Lực、mẫn tiệp" NOR "LàẢnh hưởng Nhân Vật Năng LựccủaNgũ tối căn Bảncủathuộc tính。\n    "
-11627|<O>| result = me->get_name() + ":\n    biến Thân trạng tháidướiKhông thể sử dụngKỵ sủng。\n";
-11628|<O>| printf(ECHO "bạnnã Xuất%scho%s。", result, who->get_name());
-11629|<O>| private  int ArmorColor1;         // Y  nhan Sắc(Mã màu２，Mã màu１)
-11630|<O>| private static object* AllBeast;		//sủng vậtđối tượngcủaChỉ châm số tổ,tạmgiờvị dùng
-11631|<O>| if (gone_time(get_drop_time()) > 3000)    // 100phút
-11632|<O>| send_user(who, "%c%s", ';', "Nỗi Khổ Của Ngưu Nhị Kinh nghiệm 100 Tiềm năng 50");
-11633|<O>| result = sprintf("%s:\n    không biếtđinàotrongmua xưng TâmcủaVũ khí？tôicáo tốXin chào。\n"
-11634|<O>| move_to_user(player, 1, "item/91/9120",npc);//cứu cấp Đơn。
-11635|<O>| #define SEAL_SIZE       2               // (5×5)Trận Pháp
-11636|<O>| && who->get_quest("escort.leader") == 1    // độidàiHoàn thành
-11637|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"vôtrêncủavinh diệu（3）");
-11638|<O>| #define PLUNDER_PROTECT_TIME    120     // Chiến Lợi Phẩm bảo Hộgiờgian
-11639|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Vũ SĩcủaÁi Tình（1）");
-11640|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 3, "Hồi Môn PhùSử dụnggiữa……");
-11641|<O>| SAY_CMD->say(me, "nàytrongchínhtốtthiếuítkhổ Lực，bạnđối vớinàytrongđóyêuCóhưng thúliềnGia Nhập khổ Lựccủađội ngũ ！");
-11642|<O>| send_user(who, "%c%s", '!', "Bạn nhận đượcTửVàngchìa thì、ThanhĐồngchìa thì、HồngMộcchìa thì！");
-11643|<O>| x1 = p / 1000;  y1 = p % 1000;  break;//từgiữathủ được Nhấtx,y.
-11644|<O>| private mapping Skills_2 = ([]);       // Kỹ năngCấp độ(Nhị chuyển)
-11645|<O>| else    tell_user(me, "ERR: %04d tọa tiêu: %s", id, xy);
-11646|<O>| tell_user(who, "liệt thị“%s”thân Xin Tín tức。", me->get_org_name());
-11647|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"chứng bệnh đau đầu（2）");
-11648|<O>| result = me->get_name() + ":\n    bạnđãMiễn phí thử Thừa qua Thấtlần。\n";
-11649|<O>| iFinish1 = mktime(year,mon,day,hour,min,0);	//Kết thúcgiờgian
-11650|<O>| return HIC+get_name()+"\nSủng vật sở hữu kỹ năng này，Tăngkỳ đươngtrướcPháp ThuậtPhòng thủcủa13%。";
-11651|<O>| send_user(who, "%c%s", '!', "bạncủabang pháiquy môkhôngtúc2cấp，vô Pháp lĩnh thủ bồi thường。");
-11652|<O>| send_user(me, "%c%s", '!', "MuaĐạo cụQuay vềTrịkhôngđối với。" + result);
+11610|<O>| invalidate_skill_cache(skill);  // PHASE 9: Xóa cache kỹ năng
+11611|<O>| //			send_user(who,"%c%s",'!',"Chúc mừng bạn nhận được đạo cụ thú cưng"HIR"Bảo Bình");
+11612|<O>| return "［Thương Pháp Cơ Bản］Thương pháp nhập môn, có thể tăng khả năng chiến đấu khi cầm thương. Mỗi cấp tăng 1 điểm tấn công vật lý thương.\n";
+11613|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Lời Cầu Cứu Bất Đắc Dĩ（4）");
+11614|<O>| sprintf("%s:\n    Nếu làm lại từ đầu, bạn cần luyện lại cấp, kiếm kinh nghiệm và tiền, bạn chịu vậy không?\n"
+11615|<O>| if (sscanf(arg, "%d %d,%d", pf, x, y) == 3)		//Đối tọa độ
+11616|<O>| //                        ESC "Xem người chơi trong ngục.\n" + cmd1 +
+11617|<O>| set_save_2(sprintf("%s.%d.pos",type,id),pos); //Xếp hạng
+11618|<O>| result = sprintf("Bạn đã gia cố thành công %s.", equip->get_name());
+11619|<O>| tell_user(me, "Đã dọn dẹp %d biến vô dụng.", reclaim_objects());
+11620|<O>| who->set_member_quit(number, time());    // Đặt thành viên bang offline
+11621|<O>| ESC"Thủy Tinh（Kỹ năng: Pháp Thuẫn Cao Cấp, Phúc Tinh Cao Chiếu, Tấn Công Yếu Điểm Cao Cấp, Bay Cao Cấp）\nuse %x# pet.3\n"
+11622|<O>| return "［" PF_NAME "］\nTruy tìm phương vị nhân vật sứ mệnh xuất hiện quanh Làng Tân Thủ, U Cốc, Thanh Khê.\n";
+11623|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này, tăng 30% giới hạn khí huyết hiện tại.";
+11624|<O>| private int is_clock_running = 0;			//	Cờ đánh dấu đồng hồ có đang chạy không
+11625|<O>| _DEBUG(sprintf("DEBUG -- Mã đồng hồ gọi lại tiếp theo là %d", next_st));
+11626|<O>| HIR "Thể phách, tinh thần, sức mạnh, nội lực, nhanh nhẹn" NOR " là năm thuộc tính cơ bản nhất ảnh hưởng đến năng lực nhân vật.\n    "
+11627|<O>| result = me->get_name() + ":\n    Trong trạng thái biến hình không thể sử dụng kỵ sủng.\n";
+11628|<O>| printf(ECHO "Bạn lấy ra %s đưa cho %s.", result, who->get_name());
+11629|<O>| private  int ArmorColor1;         // Màu trang phục(mã màu 2, mã màu 1)
+11630|<O>| private static object* AllBeast;		//Mảng con trỏ đối tượng thú cưng, tạm chưa dùng
+11631|<O>| if (gone_time(get_drop_time()) > 3000)    // 100 phút
+11632|<O>| send_user(who, "%c%s", ';', "Nỗi Phiền Của Ngưu Nhị Kinh nghiệm 100 Tiềm năng 50");
+11633|<O>| result = sprintf("%s:\n    Không biết mua vũ khí ưng ý ở đâu? Để tôi nói cho bạn biết.\n"
+11634|<O>| move_to_user(player, 1, "item/91/9120",npc);//Cứu Cấp Đan.
+11635|<O>| #define SEAL_SIZE       2               // Trận pháp (5×5)
+11636|<O>| && who->get_quest("escort.leader") == 1    // Đội trưởng hoàn thành
+11637|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Vinh Quang Tối Thượng（3）");
+11638|<O>| #define PLUNDER_PROTECT_TIME    120     // Thời gian bảo vệ chiến lợi phẩm
+11639|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tình Yêu Chiến Sĩ（1）");
+11640|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 3, "Hồi Môn Phù đang sử dụng……");
+11641|<O>| SAY_CMD->say(me, "Ở đây đang thiếu lao công, các người quan tâm đến đây vậy thì gia nhập đội lao công đi!");
+11642|<O>| send_user(who, "%c%s", '!', "Bạn nhận được Chìa Khóa Tử Kim, Chìa Khóa Đồng Thanh, Chìa Khóa Hồng Mộc!");
+11643|<O>| x1 = p / 1000;  y1 = p % 1000;  break;//Lấy một tọa độ x,y từ đó.
+11644|<O>| private mapping Skills_2 = ([]);       // Cấp kỹ năng(chuyển sinh 2)
+11645|<O>| else    tell_user(me, "LỖI: %04d tọa độ: %s", id, xy);
+11646|<O>| tell_user(who, "Liệt kê thông tin đơn xin bang \"%s\".", me->get_org_name());
+11647|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Bệnh Đau Đầu（2）");
+11648|<O>| result = me->get_name() + ":\n    Bạn đã dùng thử miễn phí 7 lần rồi.\n";
+11649|<O>| iFinish1 = mktime(year,mon,day,hour,min,0);	//Thời gian kết thúc
+11650|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này, tăng 13% phòng thủ pháp thuật hiện tại.";
+11651|<O>| send_user(who, "%c%s", '!', "Quy mô bang phái của bạn chưa đạt cấp 2, không thể nhận bồi thường.");
+11652|<O>| send_user(me, "%c%s", '!', "Giá trị trả về khi mua đạo cụ không đúng." + result);
 11653|<O>| if (me->get_fam_name() == "Đường Môn") ap = me->get_ap();
-11654|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 10, "Triệu hồiThầnTướnggiữa……");
-11655|<O>| string get_suit_name() { return "Ngự Tỷ bộ trang"; }	//Thuộc bộ trang bị nào đó
-11656|<O>| // KHAI THÁC: Player có thểMiễn thụ bộphút NPCs Tấn công（timing window）
-11657|<O>| send_user(who, "%c%s", ';', "nhận được thưởng Vàng 20000 Pháp Lực Thạch 1");
-11658|<O>| result = "Bạnnhận đượcVũ khíđiếm Lão bảncủaphần thưởng 100 điểmKinh nghiệm、30 điểm Tiềm năng、800 Vàngvà5cát Tử";
-11659|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 10, "VàngcươngGiải phónggiữa……");
-11660|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"nhiệt Tâmcủakiến nghị（2）");
-11661|<O>| send_user(who, "%c%s", ';', "Xin Thanh lýmột chútbạncủabao bao，lại đến đổi hoán Vật Phẩm ！");
-11662|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"sử tiếtcủasai sự（2）");
+11654|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 10, "Đang triệu hoán Thần Tướng……");
+11655|<O>| string get_suit_name() { return "Bộ Ngự Tỷ"; }	//Thuộc bộ trang phục nào
+11656|<O>| // KHAI THÁC: Player có thể miễn chịu tấn công từ một số NPC (timing window)
+11657|<O>| send_user(who, "%c%s", ';', "Nhận phần thưởng Vàng 20000 Pháp Lực Thạch 1");
+11658|<O>| result = "Bạn nhận được phần thưởng của ông chủ tiệm vũ khí: 100 kinh nghiệm, 30 tiềm năng, 800 vàng và 5 quả quýt";
+11659|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 10, "Kim Cương đang giải phóng……");
+11660|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Lời Khuyên Nhiệt Tình（2）");
+11661|<O>| send_user(who, "%c%s", ';', "Hãy dọn dẹp ba lô, rồi quay lại đổi vật phẩm nhé!");
+11662|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Việc Của Sứ Giả（2）");

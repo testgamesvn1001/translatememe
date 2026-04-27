@@ -1,73 +1,73 @@
-﻿13066|<O>| result = sprintf(HIR"%s悄悄地告诉您:%s", name, arg);
-13067|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"询问战果");
-13068|<O>| send_user(who, "%c%s", '!', "设置卖出税要 10 点体力。");
-13069|<O>| who->set_attack_time( now );    // 不同的人:更新持续敌手
-13070|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"通报情况");
-13071|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"拜访师爷");
-13072|<O>| else if (rate < 9940 * rate1 / 100)	//随机技能进阶三本
-13073|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"长城奇遇");
-13074|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"换份工作");
-13075|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"明正刑典");
-13076|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"清除奸贼");
-13077|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"除掉恶匪");
-13078|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"恶魔来临");
-13079|<O>| private int Experience;                 // 总经验
-13080|<O>| else send_user(me, "%c%s", '!', "您帐户的点数不够。");
-13081|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"饰品店");
-13082|<O>| return "一种常见的毒药，能使目标全身无力，物理攻击力会下降50点，持续40秒。";
-13083|<O>| private static int DflSkill1;		//默认使用技能(对己使用)
-13084|<O>| tell_user(who, "您去到: %d (%d, %d)。", z, x, y);
-13085|<O>| int get_item_value_2() { return 9975; }	//会员价
-13086|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"玫瑰花");
-13087|<O>| string Id;                              // 帐号
-13088|<O>| return sprintf("帮派商人专用银票，在各国商人买卖物品来获得任务金钱。");
-13089|<O>| private int GiftYG;                     // 勇敢
-13090|<O>| who->set_save("dodolook_yuanfen", 2);	//已经领取了
-13091|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"紫葡萄");
-13092|<O>| send_user(me, "%c%s", '!', "带着贵重物品不能使用回城符。");
-13093|<O>| result = "［师门进级任务］\n"BLK"师门挑战，去练功房击败师叔即可。\n";
-13094|<O>| private int Defence;                    // 城防
-13095|<O>| return "一种奇异的蓝色晶石，使用后每2秒可恢复40点法术力。效果持续60分钟。";
-13096|<O>| 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, });    // 领取工资表
-13097|<O>| else if (sscanf(arg, "? %x", i))    // 查询物品描述
-13098|<O>| "    在"HIR" 秦国 "NOR"能买到"HIR" 昆仑山 "NOR"的法器；\n"
-13099|<O>| string Family;                          // 门派
-13100|<O>| add_max_hp(get_max_hp() * 1200 / 100);	//最大气血
-13101|<O>| send_user(me, "%c%s", '!', "您的申请正在处理中，请稍候。");
-13102|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"拦路狗");
-13103|<O>| //	send_user(who,"%c%s",';',"你的队伍报名加入长平之战！");
-13104|<O>| if (flag == 0) tell_user(me, "您用天眼什么都没有看到。");
-13105|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"罐中妖");
-13106|<O>| private int Armor;                      // 装备
-13107|<O>| private int Disease;                    // 疾病
-13108|<O>| private static int iLevel2time;		// 战场部队的升级时间
-13109|<O>| result = get_name() + ":\n    您不是已经领过补偿了吗？\n"
-13110|<O>| send_user(member, "%c%s", '!', "得到任务 消灭噬情魔");
-13111|<O>| send_user(who, "%c%s", '!', "您获得了"HIY"翡翠珠串");
-13112|<O>| private int Savings;                    // 存款
-13113|<O>| if ( !enemy->get_enmity_flag() )	//有仇恨设置才进行处理
-13114|<O>| send_user(who, "%c%s", '!', "这个葫芦已经被别人领取了！");
-13115|<O>| write_user(me, ECHO "那个地方飞不过去！");    // 提示旧坐标
-13116|<O>| send_user( who, "%c%s", '!', "请先完成手上的任务吧。" );
-13117|<O>| return "由数种珍贵药材炼制而成的药丸,马上恢复1500点法术力，冷却时间15秒";
-13118|<O>| add_max_hp(get_max_hp() * 1000 / 100);	//最大气血
-13119|<O>| send_user( team[1],"%c%s",';',"你得到了"HIR"仙丹");
-13120|<O>| SAY_CMD->say(me, "什么？你觉得我砌的不好看？你话真多，给我安静点！");
-13121|<O>| send_user(who, "%c%s", '!', "您身上没有忘情婆婆要的胭脂");
-13122|<O>| set("mpLegend", ([0:({ 32 }), ]));	//不需要其他标记了
-13123|<O>| send_user(who, "%c%s", '!', "人气王只能是帮派成员使用。");
-13124|<O>| &&      inside_screen_2(me, npc) )    // 同屏幕内
-13125|<O>| SAY_CMD->say( npc, npc->get_name()+"，前来讨教！");
-13126|<O>| if (result == "") result = "您的背包已经不能再扩充了。\n";
-13127|<O>| private int Repute;                     // 声望
-13128|<O>| send_user(who, "%c%s", '!', "你不是帮主，无法领取赔偿。");
-13129|<O>| send_user(who, "%c%s", ';', "请保留至少一格道具栏空间。");
-13130|<O>| private string Occupation;              // 职业
-13131|<O>| else if (who = find_player(arg))    // 打开交易窗口
-13132|<O>| send_user(who, "%c%s", '!', "新的战场还没开启，请等待！");
-13133|<O>| && !MAP_D->is_inside_city(z, x, y)    // 不在城内
-13134|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"英雄梦");
-13135|<O>| send_user( team[0],"%c%s",';',"你得到了"HIR"仙丹");
-13136|<O>| ({"想快速回到自己的门派找","门派向导","驿站老板","牛二","门派传送人"}),
-13137|<O>| private int GiftZM;                     // 智谋
-13138|<O>| who->set_latest_city(z * 100 + 10);    // 回城符
+﻿13066|<O>| result = sprintf(HIR"%s thì thầm nói với bạn:%s", name, arg);
+13067|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Hỏi Kết Quả Chiến Đấu");
+13068|<O>| send_user(who, "%c%s", '!', "Thiết lập thuế bán ra cần 10 điểm thể lực.");
+13069|<O>| who->set_attack_time( now );    // Người khác: cập nhật đối thủ liên tục
+13070|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Thông Báo Tình Hình");
+13071|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Bái Phỏng Sư Gia");
+13072|<O>| else if (rate < 9940 * rate1 / 100)	//3 sách kỹ năng tiến giai ngẫu nhiên
+13073|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Kỳ Ngộ Trường Thành");
+13074|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Đổi Việc Làm");
+13075|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Minh Chính Hình Điển");
+13076|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Diệt Trừ Gian Tặc");
+13077|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tiêu Diệt Ác Phỉ");
+13078|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Ác Quỷ Đến");
+13079|<O>| private int Experience;                 // Tổng kinh nghiệm
+13080|<O>| else send_user(me, "%c%s", '!', "Điểm trong tài khoản của bạn không đủ.");
+13081|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tiệm Trang Sức");
+13082|<O>| return "Một loại thuốc độc thường gặp, khiến mục tiêu toàn thân mất sức, sức tấn công vật lý giảm 50 điểm, kéo dài 40 giây.";
+13083|<O>| private static int DflSkill1;		//Kỹ năng sử dụng mặc định (dùng cho bản thân)
+13084|<O>| tell_user(who, "Bạn đi đến: %d (%d, %d).", z, x, y);
+13085|<O>| int get_item_value_2() { return 9975; }	//Giá hội viên
+13086|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Hoa Hồng");
+13087|<O>| string Id;                              // Tài khoản
+13088|<O>| return sprintf("Ngân phiếu chuyên dùng cho thương nhân bang phái, mua bán vật phẩm ở thương nhân các nước để kiếm tiền nhiệm vụ.");
+13089|<O>| private int GiftYG;                     // Dũng Cảm
+13090|<O>| who->set_save("dodolook_yuanfen", 2);	//Đã nhận rồi
+13091|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Nho Tím");
+13092|<O>| send_user(me, "%c%s", '!', "Mang theo vật phẩm quý giá không thể sử dụng Hồi Thành Phù.");
+13093|<O>| result = "［Nhiệm vụ thăng cấp sư môn］\n"BLK"Thử thách sư môn, đến phòng luyện công đánh bại sư thúc là được.\n";
+13094|<O>| private int Defence;                    // Thành phòng
+13095|<O>| return "Một loại tinh thạch xanh kỳ lạ, sử dụng mỗi 2 giây hồi phục 40 điểm pháp lực. Hiệu lực kéo dài 60 phút.";
+13096|<O>| 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, });    // Bảng nhận lương
+13097|<O>| else if (sscanf(arg, "? %x", i))    // Truy vấn mô tả vật phẩm
+13098|<O>| "    Ở"HIR" Tần Quốc "NOR"có thể mua pháp khí của"HIR" Côn Lôn Sơn "NOR"；\n"
+13099|<O>| string Family;                          // Môn phái
+13100|<O>| add_max_hp(get_max_hp() * 1200 / 100);	//Khí huyết tối đa
+13101|<O>| send_user(me, "%c%s", '!', "Đơn xin của bạn đang được xử lý, vui lòng đợi.");
+13102|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Chó Chặn Đường");
+13103|<O>| //	send_user(who,"%c%s",';',"Đội của bạn đăng ký tham gia Trường Bình Chi Chiến!");
+13104|<O>| if (flag == 0) tell_user(me, "Bạn dùng thiên nhãn nhưng không thấy gì.");
+13105|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Yêu Quái Trong Hũ");
+13106|<O>| private int Armor;                      // Trang bị
+13107|<O>| private int Disease;                    // Bệnh tật
+13108|<O>| private static int iLevel2time;		// Thời gian nâng cấp quân đội chiến trường
+13109|<O>| result = get_name() + ":\n    Bạn chẳng phải đã nhận bồi thường rồi sao?\n"
+13110|<O>| send_user(member, "%c%s", '!', "Nhận nhiệm vụ Tiêu Diệt Phệ Tình Ma");
+13111|<O>| send_user(who, "%c%s", '!', "Bạn nhận được "HIY"Chuỗi Ngọc Phỉ Thúy");
+13112|<O>| private int Savings;                    // Tiền gửi
+13113|<O>| if ( !enemy->get_enmity_flag() )	//Có thiết lập thù hận mới xử lý
+13114|<O>| send_user(who, "%c%s", '!', "Chiếc hồ lô này đã bị người khác nhận rồi!");
+13115|<O>| write_user(me, ECHO "Chỗ đó bay không qua được!");    // Thông báo tọa độ cũ
+13116|<O>| send_user( who, "%c%s", '!', "Hãy hoàn thành nhiệm vụ đang có trước đã." );
+13117|<O>| return "Một viên thuốc luyện từ nhiều loại dược liệu quý hiếm, lập tức hồi phục 1500 điểm pháp lực, thời gian hồi chiêu 15 giây";
+13118|<O>| add_max_hp(get_max_hp() * 1000 / 100);	//Khí huyết tối đa
+13119|<O>| send_user( team[1],"%c%s",';',"Bạn nhận được "HIR"Tiên Đan");
+13120|<O>| SAY_CMD->say(me, "Cái gì? Mày chê tao xây không đẹp hả? Mày nhiều chuyện quá, cho tao yên nào!");
+13121|<O>| send_user(who, "%c%s", '!', "Bạn không có son phấn mà Vong Tình Bà Bà cần");
+13122|<O>| set("mpLegend", ([0:({ 32 }), ]));	//Không cần đánh dấu gì thêm
+13123|<O>| send_user(who, "%c%s", '!', "Nhân Khí Vương chỉ thành viên bang phái mới sử dụng được.");
+13124|<O>| &&      inside_screen_2(me, npc) )    // Trong cùng màn hình
+13125|<O>| SAY_CMD->say( npc, npc->get_name()+"，đến thỉnh giáo!");
+13126|<O>| if (result == "") result = "Ba lô của bạn không thể mở rộng thêm nữa.\n";
+13127|<O>| private int Repute;                     // Danh vọng
+13128|<O>| send_user(who, "%c%s", '!', "Bạn không phải bang chủ, không thể nhận bồi thường.");
+13129|<O>| send_user(who, "%c%s", ';', "Vui lòng để trống ít nhất một ô đạo cụ.");
+13130|<O>| private string Occupation;              // Nghề nghiệp
+13131|<O>| else if (who = find_player(arg))    // Mở cửa sổ giao dịch
+13132|<O>| send_user(who, "%c%s", '!', "Chiến trường mới chưa mở, vui lòng đợi!");
+13133|<O>| && !MAP_D->is_inside_city(z, x, y)    // Không ở trong thành
+13134|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Giấc Mơ Anh Hùng");
+13135|<O>| send_user( team[0],"%c%s",';',"Bạn nhận được "HIR"Tiên Đan");
+13136|<O>| ({"Muốn nhanh chóng về môn phái tìm","Hướng dẫn viên môn phái","Ông chủ trạm dịch","Ngưu Nhị","Người truyền tống môn phái"}),
+13137|<O>| private int GiftZM;                     // Trí Mưu
+13138|<O>| who->set_latest_city(z * 100 + 10);    // Hồi Thành Phù

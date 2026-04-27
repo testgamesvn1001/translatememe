@@ -1,64 +1,64 @@
-﻿10941|<O>| #define SKILL_FINAL	"/item/final/60/5055"				// 制作的结果
-10942|<O>| rawurlencode(me->get_id()), type, arg2));    // 检查序列号
-10943|<O>| private class Group City = new(class Group);  // 城市属性
-10944|<O>| #define SKILL_FINAL	"/item/final/60/6120"				// 制作的结果
-10945|<O>| #define SKILL_FINAL	"/item/final/86/3119"				// 制作的结果
-10946|<O>| notify("您手上最多能有 %d 万金。", me->get_max_cash() / 10000);
-10947|<O>| #define SKILL_FINAL	"/item/final/60/2035"				// 制作的结果
-10948|<O>| tell_user(me, "你将" + who->get_name() + "在活动场所的战斗解禁");
-10949|<O>| #define SKILL_FINAL	"/item/final/86/1065"				// 制作的结果
-10950|<O>| case "桃花源": if (get_level() >= 36 && random(100) < 5)
-10951|<O>| #define SKILL_FINAL	"/item/final/88/3120"				// 制作的结果
-10952|<O>| log_file("distribute.txt",short_time() + " 放大礼包\n" );
-10953|<O>| #define SKILL_FINAL	"/item/final/60/3105"				// 制作的结果
-10954|<O>| #define SKILL_FINAL	"/item/final/65/6055"				// 制作的结果
-10955|<O>| #define SKILL_FINAL	"/item/final/60/5075"				// 制作的结果
-10956|<O>| #define SKILL_FINAL	"/item/final/70/1065"				// 制作的结果
-10957|<O>| return "［招架之术］防御架势的基本修炼，能增加修行者的物理防御力。每级提升1点物理防御力。\n";
-10958|<O>| write_user(me, ECHO "您的帐户余额为%d个元宝。", to_int(key[2]));
-10959|<O>| #define SKILL_FINAL	"/item/final/74/1035"				// 制作的结果
-10960|<O>| #define SKILL_FINAL	"/item/final/88/3095"				// 制作的结果
-10961|<O>| #define SKILL_FINAL	"/item/final/65/1120"				// 制作的结果
-10962|<O>| #define SKILL_FINAL	"/item/final/71/1095"				// 制作的结果
-10963|<O>| #define SKILL_FINAL	"/item/final/60/3065"				// 制作的结果
-10964|<O>| #define SKILL_FINAL	"/item/final/60/2120"				// 制作的结果
-10965|<O>| #define SKILL_FINAL	"/item/final/65/4120"				// 制作的结果
-10966|<O>| #define SKILL_FINAL	"/item/final/88/1075"				// 制作的结果
-10967|<O>| #define SKILL_FINAL	"/item/final/65/4055"				// 制作的结果
-10968|<O>| return HIC+get_name()+"\n拥有此技能的宠物，使用此技能会用火法术攻击单一目标。";
-10969|<O>| #define SKILL_FINAL	"/item/final/86/7105"				// 制作的结果
-10970|<O>| send_user(who, "%c%s", ';', "当铺老板的交易 经验 100 行军散 10");
-10971|<O>| if (TASK_LEGEND_D->check_task_item(who, "轴", 1) != 1)
-10972|<O>| #define SKILL_FINAL	"/item/final/65/2075"				// 制作的结果
-10973|<O>| log_file("christmas.txt",short_time() + " 放圣诞恶人\n" );
-10974|<O>| #define SKILL_FINAL	"/item/final/86/6085"				// 制作的结果
-10975|<O>| #define SKILL_FINAL	"/item/final/86/1035"				// 制作的结果
-10976|<O>| #define SKILL_FINAL	"/item/final/71/1055"				// 制作的结果
-10977|<O>| #define SKILL_FINAL	"/item/final/60/6045"				// 制作的结果
-10978|<O>| #define SKILL_FINAL	"/item/final/60/2085"				// 制作的结果
-10979|<O>| case 2: write_user(me, ECHO "你占得泰卦，小往大来，吉亨。对方法力增加。");
-10980|<O>| me->to_front_xy(get_x(who), get_y(who)); //设置me的面向坐标.
-10981|<O>| #define SKILL_FINAL	"/item/final/86/6055"				// 制作的结果
-10982|<O>| #define SKILL_FINAL	"/item/final/88/2110"				// 制作的结果
-10983|<O>| #define SKILL_FINAL	"/item/final/60/1115"				// 制作的结果
-10984|<O>| #define SKILL_FINAL	"/item/final/76/1035"				// 制作的结果
-10985|<O>| #define SKILL_FINAL	"/item/final/60/2095"				// 制作的结果
-10986|<O>| #define SKILL_FINAL	"/item/final/86/4065"				// 制作的结果
-10987|<O>| #define SKILL_FINAL	"/item/final/76/1055"				// 制作的结果
-10988|<O>| #define SKILL_FINAL	"/item/final/65/2045"				// 制作的结果
-10989|<O>| #define SKILL_FINAL	"/item/final/72/1105"				// 制作的结果
-10990|<O>| #define SKILL_FINAL	"/item/final/88/7045"				// 制作的结果
-10991|<O>| #define SKILL_FINAL	"/item/final/65/6095"				// 制作的结果
-10992|<O>| #define SKILL_FINAL	"/item/final/60/3085"				// 制作的结果
-10993|<O>| #define SKILL_FINAL	"/item/final/88/5075"				// 制作的结果
-10994|<O>| me->set_save("pf.hurt_rate", ADD_RATE);    // 小心准备 me
-10995|<O>| #define SKILL_FINAL	"/item/final/86/7120"				// 制作的结果
-10996|<O>| #define SKILL_FINAL	"/item/final/72/1075"				// 制作的结果
-10997|<O>| #define SKILL_FINAL	"/item/final/75/1055"				// 制作的结果
-10998|<O>| #define SKILL_FINAL	"/item/final/65/3055"				// 制作的结果
-10999|<O>| #define SKILL_FINAL	"/item/final/60/6105"				// 制作的结果
-11000|<O>| send_user(who, "%c%s", '!', sprintf(HIY"姜 %d/1", i));
-11001|<O>| #define SKILL_FINAL	"/item/final/65/7045"				// 制作的结果
-11002|<O>| #define SKILL_FINAL	"/item/final/60/7115"				// 制作的结果
-11003|<O>| #define SKILL_FINAL	"/item/final/71/1115"				// 制作的结果
-11004|<O>| send_user(who, "%c%s", '!', "您已经是" + name1 + "户籍了。");
+﻿10941|<O>| #define SKILL_FINAL	"/item/final/60/5055"				// Kết quả chế tạo
+10942|<O>| rawurlencode(me->get_id()), type, arg2));    // Kiểm tra mã số
+10943|<O>| private class Group City = new(class Group);  // Thuộc tính thành phố
+10944|<O>| #define SKILL_FINAL	"/item/final/60/6120"				// Kết quả chế tạo
+10945|<O>| #define SKILL_FINAL	"/item/final/86/3119"				// Kết quả chế tạo
+10946|<O>| notify("Bạn tối đa có thể cầm %d vạn vàng.", me->get_max_cash() / 10000);
+10947|<O>| #define SKILL_FINAL	"/item/final/60/2035"				// Kết quả chế tạo
+10948|<O>| tell_user(me, "Bạn đã giải phong chiến đấu của " + who->get_name() + " tại địa điểm hoạt động");
+10949|<O>| #define SKILL_FINAL	"/item/final/86/1065"				// Kết quả chế tạo
+10950|<O>| case "Đào Hoa Nguyên": if (get_level() >= 36 && random(100) < 5)
+10951|<O>| #define SKILL_FINAL	"/item/final/88/3120"				// Kết quả chế tạo
+10952|<O>| log_file("distribute.txt",short_time() + " Phát hộp quà lớn\n" );
+10953|<O>| #define SKILL_FINAL	"/item/final/60/3105"				// Kết quả chế tạo
+10954|<O>| #define SKILL_FINAL	"/item/final/65/6055"				// Kết quả chế tạo
+10955|<O>| #define SKILL_FINAL	"/item/final/60/5075"				// Kết quả chế tạo
+10956|<O>| #define SKILL_FINAL	"/item/final/70/1065"				// Kết quả chế tạo
+10957|<O>| return "［Thuật Chiêu Giá］Tu luyện cơ bản của tư thế phòng thủ, có thể tăng phòng thủ vật lý cho người tu hành. Mỗi cấp tăng 1 điểm phòng thủ vật lý.\n";
+10958|<O>| write_user(me, ECHO "Số dư tài khoản của bạn là %d nguyên bảo.", to_int(key[2]));
+10959|<O>| #define SKILL_FINAL	"/item/final/74/1035"				// Kết quả chế tạo
+10960|<O>| #define SKILL_FINAL	"/item/final/88/3095"				// Kết quả chế tạo
+10961|<O>| #define SKILL_FINAL	"/item/final/65/1120"				// Kết quả chế tạo
+10962|<O>| #define SKILL_FINAL	"/item/final/71/1095"				// Kết quả chế tạo
+10963|<O>| #define SKILL_FINAL	"/item/final/60/3065"				// Kết quả chế tạo
+10964|<O>| #define SKILL_FINAL	"/item/final/60/2120"				// Kết quả chế tạo
+10965|<O>| #define SKILL_FINAL	"/item/final/65/4120"				// Kết quả chế tạo
+10966|<O>| #define SKILL_FINAL	"/item/final/88/1075"				// Kết quả chế tạo
+10967|<O>| #define SKILL_FINAL	"/item/final/65/4055"				// Kết quả chế tạo
+10968|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này, sử dụng kỹ năng sẽ dùng pháp thuật lửa tấn công đơn mục tiêu.";
+10969|<O>| #define SKILL_FINAL	"/item/final/86/7105"				// Kết quả chế tạo
+10970|<O>| send_user(who, "%c%s", ';', "Giao Dịch Của Ông Chủ Tiệm Cầm Đồ Kinh nghiệm 100 Hành Quân Tán 10");
+10971|<O>| if (TASK_LEGEND_D->check_task_item(who, "Trục", 1) != 1)
+10972|<O>| #define SKILL_FINAL	"/item/final/65/2075"				// Kết quả chế tạo
+10973|<O>| log_file("christmas.txt",short_time() + " Phát ác nhân Giáng Sinh\n" );
+10974|<O>| #define SKILL_FINAL	"/item/final/86/6085"				// Kết quả chế tạo
+10975|<O>| #define SKILL_FINAL	"/item/final/86/1035"				// Kết quả chế tạo
+10976|<O>| #define SKILL_FINAL	"/item/final/71/1055"				// Kết quả chế tạo
+10977|<O>| #define SKILL_FINAL	"/item/final/60/6045"				// Kết quả chế tạo
+10978|<O>| #define SKILL_FINAL	"/item/final/60/2085"				// Kết quả chế tạo
+10979|<O>| case 2: write_user(me, ECHO "Bạn bói được quẻ Thái, tiểu vãng đại lai, cát hanh. Pháp lực đối phương tăng.");
+10980|<O>| me->to_front_xy(get_x(who), get_y(who)); //Thiết lập tọa độ hướng mặt của me.
+10981|<O>| #define SKILL_FINAL	"/item/final/86/6055"				// Kết quả chế tạo
+10982|<O>| #define SKILL_FINAL	"/item/final/88/2110"				// Kết quả chế tạo
+10983|<O>| #define SKILL_FINAL	"/item/final/60/1115"				// Kết quả chế tạo
+10984|<O>| #define SKILL_FINAL	"/item/final/76/1035"				// Kết quả chế tạo
+10985|<O>| #define SKILL_FINAL	"/item/final/60/2095"				// Kết quả chế tạo
+10986|<O>| #define SKILL_FINAL	"/item/final/86/4065"				// Kết quả chế tạo
+10987|<O>| #define SKILL_FINAL	"/item/final/76/1055"				// Kết quả chế tạo
+10988|<O>| #define SKILL_FINAL	"/item/final/65/2045"				// Kết quả chế tạo
+10989|<O>| #define SKILL_FINAL	"/item/final/72/1105"				// Kết quả chế tạo
+10990|<O>| #define SKILL_FINAL	"/item/final/88/7045"				// Kết quả chế tạo
+10991|<O>| #define SKILL_FINAL	"/item/final/65/6095"				// Kết quả chế tạo
+10992|<O>| #define SKILL_FINAL	"/item/final/60/3085"				// Kết quả chế tạo
+10993|<O>| #define SKILL_FINAL	"/item/final/88/5075"				// Kết quả chế tạo
+10994|<O>| me->set_save("pf.hurt_rate", ADD_RATE);    // Cẩn thận chuẩn bị me
+10995|<O>| #define SKILL_FINAL	"/item/final/86/7120"				// Kết quả chế tạo
+10996|<O>| #define SKILL_FINAL	"/item/final/72/1075"				// Kết quả chế tạo
+10997|<O>| #define SKILL_FINAL	"/item/final/75/1055"				// Kết quả chế tạo
+10998|<O>| #define SKILL_FINAL	"/item/final/65/3055"				// Kết quả chế tạo
+10999|<O>| #define SKILL_FINAL	"/item/final/60/6105"				// Kết quả chế tạo
+11000|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Gừng %d/1", i));
+11001|<O>| #define SKILL_FINAL	"/item/final/65/7045"				// Kết quả chế tạo
+11002|<O>| #define SKILL_FINAL	"/item/final/60/7115"				// Kết quả chế tạo
+11003|<O>| #define SKILL_FINAL	"/item/final/71/1115"				// Kết quả chế tạo
+11004|<O>| send_user(who, "%c%s", '!', "Bạn đã là hộ tịch của " + name1 + " rồi.");

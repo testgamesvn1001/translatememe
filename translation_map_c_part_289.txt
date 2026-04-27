@@ -2,63 +2,63 @@
 10622|<O>| #define SKILL_FINAL	"/item/final/65/5045"				// Kết quả chế tạo
 10623|<O>| #define SKILL_FINAL	"/item/final/86/6105"				// Kết quả chế tạo
 10624|<O>| #define SKILL_FINAL	"/item/final/74/1065"				// Kết quả chế tạo
-10625|<O>| private int get_time(string way);			//	hoạch thủ Nhấthệ thốngnhận có thểcủachỉnh sốgiờgian xuyên
+10625|<O>| private int get_time(string way);			//	Lấy một mốc thời gian số nguyên được hệ thống công nhận
 10626|<O>| //		who->log_money("giao dịch "+me->get_id(), gold - gold2);
-10627|<O>| CHAT_D->rumor_channel(0, CHAT + "thính nói hung MãnhcủaHổVương lạilầnXuất hiệnTạidàiBạchngàytrì！");
+10627|<O>| CHAT_D->rumor_channel(0, CHAT + "Nghe nói Hổ Vương hung mãnh lại xuất hiện ở Trường Bạch Thiên Trì!");
 10628|<O>| #define SKILL_FINAL	"/item/final/60/1035"				// Kết quả chế tạo
 10629|<O>| #define SKILL_FINAL	"/item/final/72/1095"				// Kết quả chế tạo
 10630|<O>| #define SKILL_FINAL	"/item/final/86/7095"				// Kết quả chế tạo
-10631|<O>| write_user(me, ECHO "Bạn duyên %scủatuyến sách，nhận được %d Vàng。", name, gold);
-10632|<O>| npc->set_name( sprintf( "Quỷtốt(%s)", me->get_name() ) );
+10631|<O>| write_user(me, ECHO "Bạn theo manh mối của %s, nhận được %d vàng.", name, gold);
+10632|<O>| npc->set_name( sprintf( "Quỷ Tốt(%s)", me->get_name() ) );
 10633|<O>| #define SKILL_FINAL	"/item/final/65/6110"				// Kết quả chế tạo
-10634|<O>| who->get_save("channel_manager") ? HIY "tần Đạo quản lý viên" : "");
+10634|<O>| who->get_save("channel_manager") ? HIY "Quản Lý Kênh" : "");
 10635|<O>| #define SKILL_FINAL	"/item/final/65/4085"				// Kết quả chế tạo
-10636|<O>| file = load_object(file) ? file->get_name() : "vị triKỹ năng";
+10636|<O>| file = load_object(file) ? file->get_name() : "Kỹ năng không xác định";
 10637|<O>| #define SKILL_FINAL	"/item/final/86/6095"				// Kết quả chế tạo
 10638|<O>| #define SKILL_FINAL	"/item/final/88/2055"				// Kết quả chế tạo
 10639|<O>| #define SKILL_FINAL	"/item/final/65/6105"				// Kết quả chế tạo
 10640|<O>| #define SKILL_FINAL	"/item/final/72/1065"				// Kết quả chế tạo
-10641|<O>| return HIR + PF_NAME + "\nKỹ năng yêu cầu:8cấp\n    Giải trừbản thânThântrêncủagiữaĐộchiệu Quả。";
-10642|<O>| max = USER_EXP_D->get_upgrade_exp_limit(me);	//hoạch thủKinh nghiệmtrênhạn
+10641|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 8\n    Giải trừ hiệu ứng trúng độc trên bản thân.";
+10642|<O>| max = USER_EXP_D->get_upgrade_exp_limit(me);	//Lấy giới hạn kinh nghiệm
 10643|<O>| #define SKILL_FINAL	"/item/final/60/4120"				// Kết quả chế tạo
 10644|<O>| #define SKILL_FINAL	"/item/final/65/3120"				// Kết quả chế tạo
 10645|<O>| #define SKILL_FINAL	"/item/final/65/7085"				// Kết quả chế tạo
-10646|<O>| write_user( who, HIR "BạnTrang bịcủa%sdùng hoàn！", obj->get_name() );
+10646|<O>| write_user( who, HIR "Trang bị %s của bạn đã dùng hết!", obj->get_name() );
 10647|<O>| #define SKILL_FINAL	"/item/final/60/7110"				// Kết quả chế tạo
 10648|<O>| #define SKILL_FINAL	"/item/final/88/5095"				// Kết quả chế tạo
 10649|<O>| #define SKILL_FINAL	"/item/final/74/1055"				// Kết quả chế tạo
 10650|<O>| #define SKILL_FINAL	"/item/final/60/1065"				// Kết quả chế tạo
-10651|<O>| return HIC+get_name()+"\nSủng vật sở hữu kỹ năng này，sẽSử dụngThổPháp ThuậtTấn công3×3Phạm vitrongmục tiêu。";
-10652|<O>| send_user(who, "%c%s", ':', "BạnXác nhậncầnGia Nhập" + name1 + "？\n"
+10651|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này, sẽ sử dụng pháp thuật đất tấn công mục tiêu trong phạm vi 3×3.";
+10652|<O>| send_user(who, "%c%s", ':', "Bạn xác nhận muốn gia nhập " + name1 + " không?\n"
 10653|<O>| #define SKILL_FINAL	"/item/final/86/2115"				// Kết quả chế tạo
 10654|<O>| #define SKILL_FINAL	"/item/final/65/6045"				// Kết quả chế tạo
-10655|<O>| return "［Thiền định］TinhThầnTu Luyện Chi Pháp，sử Tu Hành giả càngtốtĐịa để kháng Pháp Thuật sở tạo thànhcủaThương hại。Mỗi cấp tăng1điểmPháp ThuậtPhòng thủLực。\n";
-10656|<O>| write_user(who, ECHO "Bạn nhận được" + item->get_name() + "。");
+10655|<O>| return "［Thiền Định］Phương pháp tu luyện tinh thần, giúp người tu hành chống chịu tốt hơn sát thương từ pháp thuật. Mỗi cấp tăng 1 điểm phòng thủ pháp thuật.\n";
+10656|<O>| write_user(who, ECHO "Bạn nhận được " + item->get_name() + ".");
 10657|<O>| #define SKILL_FINAL	"/item/final/88/5085"				// Kết quả chế tạo
-10658|<O>| send_user(who, "%c%s", ';', "Bạn nhận đượclớnlễ bao Nhất、càn khôn đại Nhấtvà50vạnVàng。");
+10658|<O>| send_user(who, "%c%s", ';', "Bạn nhận được một hộp quà lớn, một Càn Khôn Đại và 50 vạn vàng.");
 10659|<O>| #define SKILL_FINAL	"/item/final/60/3115"				// Kết quả chế tạo
-10660|<O>| if (TASK_LEGEND_D->check_task_item(who, "thông", 3) != 1)
-10661|<O>| result = sprintf(ESC "Bang Thủ toán trướng。\ntalk %x# comput\n", id);
+10660|<O>| if (TASK_LEGEND_D->check_task_item(who, "Hành", 3) != 1)
+10661|<O>| result = sprintf(ESC "Giúp tính toán.\ntalk %x# comput\n", id);
 10662|<O>| #define SKILL_FINAL	"/item/final/86/7075"				// Kết quả chế tạo
-10663|<O>| sprintf("%s:\n     bạnBản Chuđãkhông cóthặng dưcủangạchngoàisong bộiKinh nghiệmgiờgian，cònLàĐẳngdướiChu Nhất lại qua đến 。\n"
+10663|<O>| sprintf("%s:\n     Tuần này bạn không còn thời gian kinh nghiệm gấp đôi thêm, hãy đợi đến thứ hai tuần sau rồi đến lại nhé.\n"
 10664|<O>| #define SKILL_FINAL	"/item/final/65/7120"				// Kết quả chế tạo
 10665|<O>| #define SKILL_FINAL	"/item/final/86/4075"				// Kết quả chế tạo
 10666|<O>| #define SKILL_FINAL	"/item/final/86/5115"				// Kết quả chế tạo
-10667|<O>| return HIC+get_name()+"\nSủng vật sở hữu kỹ năng này，Sử dụngthửKỹ năngsẽdùngThổPháp ThuậtTấn côngđơn Nhấtmục tiêu。";
-10668|<O>| _DEBUG(sprintf("DEBUG_f -- Hồi điềuKiểm traHàm4 thặng dưlầnsố %d", times));
+10667|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này, sử dụng kỹ năng sẽ dùng pháp thuật đất tấn công đơn mục tiêu.";
+10668|<O>| _DEBUG(sprintf("DEBUG_f -- Hàm thử nghiệm gọi lại 4 số lần còn lại %d", times));
 10669|<O>| #define SKILL_FINAL	"/item/final/60/4095"				// Kết quả chế tạo
 10670|<O>| #define SKILL_FINAL	"/item/final/88/2045"				// Kết quả chế tạo
 10671|<O>| #define SKILL_FINAL	"/item/final/65/7105"				// Kết quả chế tạo
 10672|<O>| #define SKILL_FINAL	"/item/final/65/2055"				// Kết quả chế tạo
 10673|<O>| #define SKILL_FINAL	"/item/final/75/1075"				// Kết quả chế tạo
-10674|<O>| if (obj) write_user(me, ECHO "Bạn sẽTứ TrươngTàng Bảo Đồtàn phiến Hợp tịnh thành Nhất Trương tàncũTàng Bảo Đồ。");
+10674|<O>| if (obj) write_user(me, ECHO "Bạn đã ghép bốn mảnh bản đồ tàng bảo thành một tấm bản đồ tàng bảo cũ kỹ.");
 10675|<O>| #define SKILL_FINAL	"/item/final/88/7115"				// Kết quả chế tạo
 10676|<O>| #define SKILL_FINAL	"/item/final/60/2075"				// Kết quả chế tạo
-10677|<O>| tell_user(owner, "bạncủa" + me->get_name() + "thọ MệnhTăng100điểm");
+10677|<O>| tell_user(owner, "Thú cưng " + me->get_name() + " của bạn được tăng 100 điểm thọ mệnh");
 10678|<O>| #define SKILL_FINAL	"/item/final/88/7120"				// Kết quả chế tạo
 10679|<O>| else if (!objectp(present("Thất Quốc Lệnh", who, 1, MAX_CARRY)))
 10680|<O>| #define SKILL_FINAL	"/item/final/74/1095"				// Kết quả chế tạo
 10681|<O>| #define SKILL_FINAL	"/item/final/88/2075"				// Kết quả chế tạo
 10682|<O>| #define SKILL_FINAL	"/item/final/60/7085"				// Kết quả chế tạo
-10683|<O>| // add_attack_speed(get_attack_speed()*300/100)  //tốc độ
+10683|<O>| // add_attack_speed(get_attack_speed()*300/100)  //Tốc độ
 10684|<O>| #define SKILL_FINAL	"/item/final/60/4085"				// Kết quả chế tạo

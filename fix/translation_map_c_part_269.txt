@@ -1,61 +1,61 @@
-﻿9378|<O>| ESC + sprintf("愿意。\ntalk %x# accept_zzy\n", getoid(me)) +
-9379|<O>| "昆仑山" : ([	60: ({1232,"Yêu","Cường tráng","Tay không",}),
-9380|<O>| write_user(who, get_name() + "说道:“在比武场切磋是不会死亡的，放心试试吧！”");
-9381|<O>| write_user(me, ECHO "您使用了" HIY "灵犀闪现" ECHO "，正等待对方的回应。");
-9382|<O>| send_user(team[0],"%c%s",';',"你的东西太多了，请清理一下你的包包，再来找我吧！");
-9383|<O>| #define CHANNEL_LOG     "gm/channel.txt"        // 频道管理日志
-9384|<O>| set_save_2(sprintf("player.%d.name",id),name);//保存id玩家的姓名
-9385|<O>| tmp += sprintf(ESC HIY "除掉恶霸\ntalk %x# welcome.1\n", id);
-9386|<O>| #define DEFAULT_TIME    10080                   // 缺省封闭一周
-9387|<O>| /*              else if( p < 6891 * rate / 100 )    // 金钱
-9388|<O>| /*              else if( p < 4418 * rate / 100 )    // 金钱
-9389|<O>| send_user(who, "%c%s", '!', sprintf(HIY"秦陵苦役 %d/10", i));
-9390|<O>| private int day_can_to	   	   = 23;				//	当天的结束时间 	单位（小时）
-9391|<O>| send_user(who, "%c%s", '!', sprintf(HIY"工匠的刨子 %d/1", 1));
-9392|<O>| /*              else if( p < 2550 * rate / 100 )    // 金钱
-9393|<O>| && (npc = find_char(id)) && npc->is_robber())    // 30 分钟
-9394|<O>| tmp += sprintf(ESC HIY "了解情况\ntalk %x# welcome.4\n", id);
-9395|<O>| tmp += sprintf(ESC HIY "探访将军\ntalk %x# welcome.6\n", id);
-9396|<O>| if (sscanf(arg, "%s,%d", arg, what) == 2);    // what 当铺号
-9397|<O>| /*              else if( p < 4587 * rate / 100 )    // 金钱
-9398|<O>| /*              else if( p < 4323 * rate / 100 )    // 金钱
-9399|<O>| int times;					//	循环次数 -- 当轮寻次数被减到0 则取消。超过最大轮寻次数则按照无限循环处理
-9400|<O>| write_user(me, ECHO "%s听了您的教诲，觉得收益不少。", who->get_name());
-9401|<O>| private static int MaxSeek = 4;                 // 最大搜索范围
-9402|<O>| result += sprintf("资金:%10d  累积:%10d  税收:%10d  粮草:%10d\n",
-9403|<O>| tmp += sprintf(ESC HIY "除掉骗子\ntalk %x# welcome.1\n", id);
-9404|<O>| send_user(who, "%c%s", '!', sprintf(HIY"赵国弓兵 %d/10", i));
-9405|<O>| /*              else if( p < 6475 * rate / 100 )    // 金钱
-9406|<O>| //case "桃花源" : if( get_level() >= 36 && random(100) < 5 )
-9407|<O>| send_user(who, "%c%s", '!', sprintf(HIY"侍卫亡灵 %d/20", i));
-9408|<O>| /*              else if( p < 5030 * rate / 100 )    // 金钱
-9409|<O>| if (!objectp(item_q2 = present("黑球", who, 1, MAX_CARRY)))
-9410|<O>| _DEBUG(sprintf("设置时间 %d <--> %d",active_from,active_to));
-9411|<O>| send_user(who, "%c%s", ';', "亡羊补牢 经验 900 潜能 40 金钱 1000");
-9412|<O>| alarm_clock_size = 0;				//	当前拥有的有效闹钟个数 -- 不定期效对 -- DEBUG
-9413|<O>| #define CRASH_LOG       "sys/crash.txt"         // 系统当机日志
-9414|<O>| /*              else if( p < 2454 * rate / 100 )    // 金钱
-9415|<O>| /*              else if( p < 6929 * rate / 100 )    // 金钱
-9416|<O>| result += sprintf("修理:%d %09d  合成:%d %09d  捐赠:%d %09d\n",
-9417|<O>| private int have_mins(int time_int);			//	取得当前整数时间所拥有的分钟数
-9418|<O>| /*              else if( p < 6968 * rate / 100 )    // 金钱
-9419|<O>| send_user(who, "%c%s", '!', sprintf(HIY"地煞门众守 %d/3", i));
-9420|<O>| if (family == "昆仑山" || family == "茅山" || family == "云梦泽")
-9421|<O>| if (!objectp(item = present("神秘的种子", who, 1, MAX_CARRY)))
-9422|<O>| send_user(team[1],"%c%s",';',"你的东西太多了，请清理一下你的包包，再来找我吧！");
-9423|<O>| tmp += sprintf(ESC HIY "防止泄密\ntalk %x# welcome.1\n", id);
-9424|<O>| /*              else if( p < 5002 * rate / 100 )    // 金钱
-9425|<O>| tmp += sprintf(ESC HIY "了解情况\ntalk %x# welcome.1\n", id);
-9426|<O>| tmp += sprintf(ESC HIY "探访将军\ntalk %x# welcome.9\n", id);
-9427|<O>| if ( name == "昆仑山" || name == "茅山" || name == "云梦泽" )	//酒
-9428|<O>| send_user(who, "%c%s", ';', "二胡 经验 6000 潜能 240 金钱 4800");
-9429|<O>| send_user(who, "%c%s", ';', "挑战 经验 5000 潜能 160 金钱 4000");
-9430|<O>| send_user(who, "%c%s", '!', sprintf(HIY"刀盾骷髅 %d/25", i));
-9431|<O>| send_mingren_data(who,Gongde_players,"gongde");   //发送功德表
-9432|<O>| call_out("check_auth_result", 1, me, order);    // 继续等待结果
-9433|<O>| send_user(who, "%c%s", '!', sprintf(HIY"秦陵工匠 %d/12", i));
-9434|<O>| cmd2 = sprintf("使用期限还剩%d小时", (iBagTime - time()) / 3600);
-9435|<O>| send_user(who, "%c%s", ';', "装饰房屋 经验 550 潜能 30 金钱 1000");
-9436|<O>| send_user(who, "%c%s", '!', sprintf(HIY"天罡门众守 %d/4", i));
-9437|<O>| result += sprintf("学习:%d %09d  系统:%d %09d  其它:%d %09d\n",
-9438|<O>| //	send_user(who,"%c%s",'!',"玩家"+me->get_name()+"进入跟随。");
+﻿9378|<O>| ESC + sprintf("Đồng ý.\ntalk %x# accept_zzy\n", getoid(me)) +
+9379|<O>| "Côn Lôn Sơn" : ([	60: ({1232,"Yêu","Cường tráng","Tay không",}),
+9380|<O>| write_user(who, get_name() + " nói: \"Ở võ đài so tài sẽ không chết đâu, yên tâm thử đi!\"");
+9381|<O>| write_user(me, ECHO "Bạn đã sử dụng " HIY "Linh Tê Thiểm Hiện" ECHO ", đang đợi đối phương phản hồi.");
+9382|<O>| send_user(team[0],"%c%s",';',"Đồ đạc của bạn quá nhiều, hãy dọn dẹp túi đồ rồi đến tìm tôi nhé!");
+9383|<O>| #define CHANNEL_LOG     "gm/channel.txt"        // Nhật ký quản lý kênh
+9384|<O>| set_save_2(sprintf("player.%d.name",id),name);//Lưu tên người chơi theo id
+9385|<O>| tmp += sprintf(ESC HIY "Trừ Khử Ác Bá\ntalk %x# welcome.1\n", id);
+9386|<O>| #define DEFAULT_TIME    10080                   // Mặc định phong tỏa một tuần
+9387|<O>| /*              else if( p < 6891 * rate / 100 )    // Tiền vàng
+9388|<O>| /*              else if( p < 4418 * rate / 100 )    // Tiền vàng
+9389|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Tần Lăng Khổ Dịch %d/10", i));
+9390|<O>| private int day_can_to	   	   = 23;				//	Thời gian kết thúc trong ngày 	Đơn vị（giờ）
+9391|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Bào Của Thợ Thủ Công %d/1", 1));
+9392|<O>| /*              else if( p < 2550 * rate / 100 )    // Tiền vàng
+9393|<O>| && (npc = find_char(id)) && npc->is_robber())    // 30 phút
+9394|<O>| tmp += sprintf(ESC HIY "Tìm Hiểu Tình Hình\ntalk %x# welcome.4\n", id);
+9395|<O>| tmp += sprintf(ESC HIY "Thăm Viếng Tướng Quân\ntalk %x# welcome.6\n", id);
+9396|<O>| if (sscanf(arg, "%s,%d", arg, what) == 2);    // what Số hiệu tiệm cầm đồ
+9397|<O>| /*              else if( p < 4587 * rate / 100 )    // Tiền vàng
+9398|<O>| /*              else if( p < 4323 * rate / 100 )    // Tiền vàng
+9399|<O>| int times;					//	Số lần tuần hoàn -- Khi số lần tuần tra giảm về 0 thì hủy. Vượt quá số lần tuần tra tối đa thì xử lý như vòng lặp vô hạn
+9400|<O>| write_user(me, ECHO "%s nghe lời dạy bảo của bạn, cảm thấy thu hoạch không ít.", who->get_name());
+9401|<O>| private static int MaxSeek = 4;                 // Phạm vi tìm kiếm tối đa
+9402|<O>| result += sprintf("Tài chính:%10d  Tích lũy:%10d  Thu thuế:%10d  Lương thảo:%10d\n",
+9403|<O>| tmp += sprintf(ESC HIY "Trừ Khử Lừa Đảo\ntalk %x# welcome.1\n", id);
+9404|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Triệu Quốc Cung Binh %d/10", i));
+9405|<O>| /*              else if( p < 6475 * rate / 100 )    // Tiền vàng
+9406|<O>| //case "Đào Hoa Nguyên" : if( get_level() >= 36 && random(100) < 5 )
+9407|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Thị Vệ Vong Linh %d/20", i));
+9408|<O>| /*              else if( p < 5030 * rate / 100 )    // Tiền vàng
+9409|<O>| if (!objectp(item_q2 = present("Hắc Cầu", who, 1, MAX_CARRY)))
+9410|<O>| _DEBUG(sprintf("Thiết lập thời gian %d <--> %d",active_from,active_to));
+9411|<O>| send_user(who, "%c%s", ';', "Vong Dương Bổ Lao Kinh nghiệm 900 Tiềm năng 40 Tiền vàng 1000");
+9412|<O>| alarm_clock_size = 0;				//	Số đồng hồ báo thức hiệu lực hiện có -- Đối chiếu bất định kỳ -- DEBUG
+9413|<O>| #define CRASH_LOG       "sys/crash.txt"         // Nhật ký hệ thống gặp sự cố
+9414|<O>| /*              else if( p < 2454 * rate / 100 )    // Tiền vàng
+9415|<O>| /*              else if( p < 6929 * rate / 100 )    // Tiền vàng
+9416|<O>| result += sprintf("Sửa chữa:%d %09d  Hợp thành:%d %09d  Quyên tặng:%d %09d\n",
+9417|<O>| private int have_mins(int time_int);			//	Lấy số phút mà thời gian số nguyên hiện tại sở hữu
+9418|<O>| /*              else if( p < 6968 * rate / 100 )    // Tiền vàng
+9419|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Địa Sát Môn Chúng Thủ %d/3", i));
+9420|<O>| if (family == "Côn Lôn Sơn" || family == "Mao Sơn" || family == "Vân Mộng Trạch")
+9421|<O>| if (!objectp(item = present("Hạt Giống Thần Bí", who, 1, MAX_CARRY)))
+9422|<O>| send_user(team[1],"%c%s",';',"Đồ đạc của bạn quá nhiều, hãy dọn dẹp túi đồ rồi đến tìm tôi nhé!");
+9423|<O>| tmp += sprintf(ESC HIY "Phòng Chống Rò Rỉ Bí Mật\ntalk %x# welcome.1\n", id);
+9424|<O>| /*              else if( p < 5002 * rate / 100 )    // Tiền vàng
+9425|<O>| tmp += sprintf(ESC HIY "Tìm Hiểu Tình Hình\ntalk %x# welcome.1\n", id);
+9426|<O>| tmp += sprintf(ESC HIY "Thăm Viếng Tướng Quân\ntalk %x# welcome.9\n", id);
+9427|<O>| if ( name == "Côn Lôn Sơn" || name == "Mao Sơn" || name == "Vân Mộng Trạch" )	//Rượu
+9428|<O>| send_user(who, "%c%s", ';', "Nhị Hồ Kinh nghiệm 6000 Tiềm năng 240 Tiền vàng 4800");
+9429|<O>| send_user(who, "%c%s", ';', "Thách Đấu Kinh nghiệm 5000 Tiềm năng 160 Tiền vàng 4000");
+9430|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Đao Thuẫn Cốt Lâu %d/25", i));
+9431|<O>| send_mingren_data(who,Gongde_players,"gongde");   //Gửi bảng công đức
+9432|<O>| call_out("check_auth_result", 1, me, order);    // Tiếp tục đợi kết quả
+9433|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Tần Lăng Thợ Thủ Công %d/12", i));
+9434|<O>| cmd2 = sprintf("Thời hạn sử dụng còn %d giờ", (iBagTime - time()) / 3600);
+9435|<O>| send_user(who, "%c%s", ';', "Trang Trí Nhà Cửa Kinh nghiệm 550 Tiềm năng 30 Tiền vàng 1000");
+9436|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Thiên Cương Môn Chúng Thủ %d/4", i));
+9437|<O>| result += sprintf("Học tập:%d %09d  Hệ thống:%d %09d  Khác:%d %09d\n",
+9438|<O>| //	send_user(who,"%c%s",'!',"Người chơi "+me->get_name()+" đã vào chế độ theo dõi.");

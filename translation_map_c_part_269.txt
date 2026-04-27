@@ -1,61 +1,61 @@
-﻿9378|<O>| ESC + sprintf("nguyện Ý。\ntalk %x# accept_zzy\n", getoid(me)) +
+﻿9378|<O>| ESC + sprintf("Đồng ý.\ntalk %x# accept_zzy\n", getoid(me)) +
 9379|<O>| "Côn Lôn Sơn" : ([	60: ({1232,"Yêu","Cường tráng","Tay không",}),
-9380|<O>| write_user(who, get_name() + "nói Đạo:“Tạiso vớiVũ trường thiết thaLàkhôngsẽTử vongcủa，Phóng Tâm thử thử ！”");
-9381|<O>| write_user(me, ECHO "BạnSử dụng" HIY "Linh tê Thiểm hiện" ECHO "，chính Đẳng đãiđối vớiPhươngcủaHồi ứng。");
-9382|<O>| send_user(team[0],"%c%s",';',"bạncủađồ vậtTháinhiều，Xin Thanh lýmột chútbạncủabao bao，lại đến tìmtôi！");
-9383|<O>| #define CHANNEL_LOG     "gm/channel.txt"        // tần Đạo quản lý Nhật Chí
-9384|<O>| set_save_2(sprintf("player.%d.name",id),name);//LưuidNgười chơicủatính Danh
-9385|<O>| tmp += sprintf(ESC HIY "trừ rơi Ác Bá\ntalk %x# welcome.1\n", id);
-9386|<O>| #define DEFAULT_TIME    10080                   // thiếu tỉnh Phong bế Nhất Chu
+9380|<O>| write_user(who, get_name() + " nói: \"Ở võ đài so tài sẽ không chết đâu, yên tâm thử đi!\"");
+9381|<O>| write_user(me, ECHO "Bạn đã sử dụng " HIY "Linh Tê Thiểm Hiện" ECHO ", đang đợi đối phương phản hồi.");
+9382|<O>| send_user(team[0],"%c%s",';',"Đồ đạc của bạn quá nhiều, hãy dọn dẹp túi đồ rồi đến tìm tôi nhé!");
+9383|<O>| #define CHANNEL_LOG     "gm/channel.txt"        // Nhật ký quản lý kênh
+9384|<O>| set_save_2(sprintf("player.%d.name",id),name);//Lưu tên người chơi theo id
+9385|<O>| tmp += sprintf(ESC HIY "Trừ Khử Ác Bá\ntalk %x# welcome.1\n", id);
+9386|<O>| #define DEFAULT_TIME    10080                   // Mặc định phong tỏa một tuần
 9387|<O>| /*              else if( p < 6891 * rate / 100 )    // Tiền vàng
 9388|<O>| /*              else if( p < 4418 * rate / 100 )    // Tiền vàng
-9389|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Tần Lăng khổ dịch %d/10", i));
-9390|<O>| private int day_can_to	   	   = 23;				//	đươngngàycủaKết thúcgiờgian 	đơn vị（giờ）
-9391|<O>| send_user(who, "%c%s", '!', sprintf(HIY"công tượngcủabào Tử %d/1", 1));
+9389|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Tần Lăng Khổ Dịch %d/10", i));
+9390|<O>| private int day_can_to	   	   = 23;				//	Thời gian kết thúc trong ngày 	Đơn vị（giờ）
+9391|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Bào Của Thợ Thủ Công %d/1", 1));
 9392|<O>| /*              else if( p < 2550 * rate / 100 )    // Tiền vàng
 9393|<O>| && (npc = find_char(id)) && npc->is_robber())    // 30 phút
-9394|<O>| tmp += sprintf(ESC HIY "Giảitình huống\ntalk %x# welcome.4\n", id);
-9395|<O>| tmp += sprintf(ESC HIY "Thám phỏng Tướng quân\ntalk %x# welcome.6\n", id);
-9396|<O>| if (sscanf(arg, "%s,%d", arg, what) == 2);    // what đương phố hiệu
+9394|<O>| tmp += sprintf(ESC HIY "Tìm Hiểu Tình Hình\ntalk %x# welcome.4\n", id);
+9395|<O>| tmp += sprintf(ESC HIY "Thăm Viếng Tướng Quân\ntalk %x# welcome.6\n", id);
+9396|<O>| if (sscanf(arg, "%s,%d", arg, what) == 2);    // what Số hiệu tiệm cầm đồ
 9397|<O>| /*              else if( p < 4587 * rate / 100 )    // Tiền vàng
 9398|<O>| /*              else if( p < 4323 * rate / 100 )    // Tiền vàng
-9399|<O>| int times;					//	tuần hoànlầnsố -- đương Luân tìmlầnsốbịgiảmđến0 TắcHủy bỏ。Siêu qua tốilớnLuân tìmlầnsố Tắc án chiếu vô hạn tuần hoàn xử lý
-9400|<O>| write_user(me, ECHO "%sthính BạncủaGiáo hối，giác được Thu íchkhôngít。", who->get_name());
-9401|<O>| private static int MaxSeek = 4;                 // tốilớnsưu sách Phạm vi
-9402|<O>| result += sprintf("tưVàng:%10d  lũy tích:%10d  thuế Thu:%10d  lương Thảo:%10d\n",
-9403|<O>| tmp += sprintf(ESC HIY "trừ rơi phiến Tử\ntalk %x# welcome.1\n", id);
-9404|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Triệu QuốcCung Binh %d/10", i));
+9399|<O>| int times;					//	Số lần tuần hoàn -- Khi số lần tuần tra giảm về 0 thì hủy. Vượt quá số lần tuần tra tối đa thì xử lý như vòng lặp vô hạn
+9400|<O>| write_user(me, ECHO "%s nghe lời dạy bảo của bạn, cảm thấy thu hoạch không ít.", who->get_name());
+9401|<O>| private static int MaxSeek = 4;                 // Phạm vi tìm kiếm tối đa
+9402|<O>| result += sprintf("Tài chính:%10d  Tích lũy:%10d  Thu thuế:%10d  Lương thảo:%10d\n",
+9403|<O>| tmp += sprintf(ESC HIY "Trừ Khử Lừa Đảo\ntalk %x# welcome.1\n", id);
+9404|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Triệu Quốc Cung Binh %d/10", i));
 9405|<O>| /*              else if( p < 6475 * rate / 100 )    // Tiền vàng
 9406|<O>| //case "Đào Hoa Nguyên" : if( get_level() >= 36 && random(100) < 5 )
-9407|<O>| send_user(who, "%c%s", '!', sprintf(HIY"thị VệVong Linh %d/20", i));
+9407|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Thị Vệ Vong Linh %d/20", i));
 9408|<O>| /*              else if( p < 5030 * rate / 100 )    // Tiền vàng
-9409|<O>| if (!objectp(item_q2 = present("Hắc cầu", who, 1, MAX_CARRY)))
-9410|<O>| _DEBUG(sprintf("thiết trígiờgian %d <--> %d",active_from,active_to));
+9409|<O>| if (!objectp(item_q2 = present("Hắc Cầu", who, 1, MAX_CARRY)))
+9410|<O>| _DEBUG(sprintf("Thiết lập thời gian %d <--> %d",active_from,active_to));
 9411|<O>| send_user(who, "%c%s", ';', "Vong Dương Bổ Lao Kinh nghiệm 900 Tiềm năng 40 Tiền vàng 1000");
-9412|<O>| alarm_clock_size = 0;				//	đươngtrướcủngCócủaCóhiệu Náo Chung số -- khôngđịnh kỳ hiệuđối với -- DEBUG
-9413|<O>| #define CRASH_LOG       "sys/crash.txt"         // hệ thốngđương cơ Nhật Chí
+9412|<O>| alarm_clock_size = 0;				//	Số đồng hồ báo thức hiệu lực hiện có -- Đối chiếu bất định kỳ -- DEBUG
+9413|<O>| #define CRASH_LOG       "sys/crash.txt"         // Nhật ký hệ thống gặp sự cố
 9414|<O>| /*              else if( p < 2454 * rate / 100 )    // Tiền vàng
 9415|<O>| /*              else if( p < 6929 * rate / 100 )    // Tiền vàng
-9416|<O>| result += sprintf("Tu lý:%d %09d  Hợp thành:%d %09d  quyên tặng:%d %09d\n",
-9417|<O>| private int have_mins(int time_int);			//	thủ được đươngtrướcchỉnh sốgiờgian sở ủngCócủaphútsố
+9416|<O>| result += sprintf("Sửa chữa:%d %09d  Hợp thành:%d %09d  Quyên tặng:%d %09d\n",
+9417|<O>| private int have_mins(int time_int);			//	Lấy số phút mà thời gian số nguyên hiện tại sở hữu
 9418|<O>| /*              else if( p < 6968 * rate / 100 )    // Tiền vàng
-9419|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Địa sát Môn Chúng thủ %d/3", i));
+9419|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Địa Sát Môn Chúng Thủ %d/3", i));
 9420|<O>| if (family == "Côn Lôn Sơn" || family == "Mao Sơn" || family == "Vân Mộng Trạch")
-9421|<O>| if (!objectp(item = present("ThầnBícủaloạiTử", who, 1, MAX_CARRY)))
-9422|<O>| send_user(team[1],"%c%s",';',"bạncủađồ vậtTháinhiều，Xin Thanh lýmột chútbạncủabao bao，lại đến tìmtôi！");
-9423|<O>| tmp += sprintf(ESC HIY "phòng chỉ tiết Mật\ntalk %x# welcome.1\n", id);
+9421|<O>| if (!objectp(item = present("Hạt Giống Thần Bí", who, 1, MAX_CARRY)))
+9422|<O>| send_user(team[1],"%c%s",';',"Đồ đạc của bạn quá nhiều, hãy dọn dẹp túi đồ rồi đến tìm tôi nhé!");
+9423|<O>| tmp += sprintf(ESC HIY "Phòng Chống Rò Rỉ Bí Mật\ntalk %x# welcome.1\n", id);
 9424|<O>| /*              else if( p < 5002 * rate / 100 )    // Tiền vàng
-9425|<O>| tmp += sprintf(ESC HIY "Giảitình huống\ntalk %x# welcome.1\n", id);
-9426|<O>| tmp += sprintf(ESC HIY "Thám phỏng Tướng quân\ntalk %x# welcome.9\n", id);
-9427|<O>| if ( name == "Côn Lôn Sơn" || name == "Mao Sơn" || name == "Vân Mộng Trạch" )	//Tửu
+9425|<O>| tmp += sprintf(ESC HIY "Tìm Hiểu Tình Hình\ntalk %x# welcome.1\n", id);
+9426|<O>| tmp += sprintf(ESC HIY "Thăm Viếng Tướng Quân\ntalk %x# welcome.9\n", id);
+9427|<O>| if ( name == "Côn Lôn Sơn" || name == "Mao Sơn" || name == "Vân Mộng Trạch" )	//Rượu
 9428|<O>| send_user(who, "%c%s", ';', "Nhị Hồ Kinh nghiệm 6000 Tiềm năng 240 Tiền vàng 4800");
-9429|<O>| send_user(who, "%c%s", ';', "Thách đấu Kinh nghiệm 5000 Tiềm năng 160 Tiền vàng 4000");
-9430|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Đao thuẫn khô lâu %d/25", i));
-9431|<O>| send_mingren_data(who,Gongde_players,"gongde");   //phát tống Công Đức biểu
-9432|<O>| call_out("check_auth_result", 1, me, order);    // Tiếp tụcĐẳng đãikết quả
-9433|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Tần Lăng công tượng %d/12", i));
-9434|<O>| cmd2 = sprintf("Sử dụngkỳ hạncònthặng%dgiờ", (iBagTime - time()) / 3600);
-9435|<O>| send_user(who, "%c%s", ';', "trang Sức phòng ốc Kinh nghiệm 550 Tiềm năng 30 Tiền vàng 1000");
-9436|<O>| send_user(who, "%c%s", '!', sprintf(HIY"ngàycương Môn Chúng thủ %d/4", i));
-9437|<O>| result += sprintf("Học:%d %09d  hệ thống:%d %09d  kỳnó:%d %09d\n",
-9438|<O>| //	send_user(who,"%c%s",'!',"Người chơi"+me->get_name()+"Đi vàovớitùy。");
+9429|<O>| send_user(who, "%c%s", ';', "Thách Đấu Kinh nghiệm 5000 Tiềm năng 160 Tiền vàng 4000");
+9430|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Đao Thuẫn Cốt Lâu %d/25", i));
+9431|<O>| send_mingren_data(who,Gongde_players,"gongde");   //Gửi bảng công đức
+9432|<O>| call_out("check_auth_result", 1, me, order);    // Tiếp tục đợi kết quả
+9433|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Tần Lăng Thợ Thủ Công %d/12", i));
+9434|<O>| cmd2 = sprintf("Thời hạn sử dụng còn %d giờ", (iBagTime - time()) / 3600);
+9435|<O>| send_user(who, "%c%s", ';', "Trang Trí Nhà Cửa Kinh nghiệm 550 Tiềm năng 30 Tiền vàng 1000");
+9436|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Thiên Cương Môn Chúng Thủ %d/4", i));
+9437|<O>| result += sprintf("Học tập:%d %09d  Hệ thống:%d %09d  Khác:%d %09d\n",
+9438|<O>| //	send_user(who,"%c%s",'!',"Người chơi "+me->get_name()+" đã vào chế độ theo dõi.");

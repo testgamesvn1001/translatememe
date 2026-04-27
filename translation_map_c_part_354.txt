@@ -1,82 +1,82 @@
-﻿15298|<O>| notify( "Bạn cự ly%sThái Viễn。", who->get_name() );
-15299|<O>| send_user(who, "%c%s", '!', "MãlớnLong 1/1");
-15300|<O>| set_char_type(FIGHTER_TYPE);    // trọng thiết loại hình
-15301|<O>| return "［Thái CổThầnQuyền］NângKhông ThủgiờcủaTấn côngLực，Mỗi cấp tăng 1 điểm Lực tấn công\n";
-15302|<O>| return "HỏaTinh Tinh Linh TửsaucủaHồn phách Tinh Hoa，Thạch Khắc、Tài Phùng、Thiết Tượngsinh hoạtKỹ năngcầncủatài liệu";
-15303|<O>| "%s:\ntôiQuốc Binh Lực Cường thịnh，Quốc phú dân Cường，không tấtcầnúy cụkhácQuốc Gia，hưu được Nguy Ngôn tủng thính！\n",
-15304|<O>| send_user(who, "%c%s", '!', "Bạn nhận đượcnhỏKê tự liệu");
-15305|<O>| for (i = 0; i < size; i++)    // sinh thành liệt thịtrongdung
-15306|<O>| private string* Manager4 = ({ });	// đường chủ
-15307|<O>| //	"ngàyhương tục Mệnh Đơn" : "\"/item/final/91/1840\"",
-15308|<O>| send_user(me, "%c", 0x01);    // Hủy bỏvớitùyTấn công
-15309|<O>| ESC "Thương Nghiệp。\ntalk " + id + " stir_up.13\n"
-15310|<O>| case "phú GiaNamhài": type = "RICH_BOY";  break;
-15311|<O>| send_user(who, "%c%s", '!', "Tam ĐaoQuỷ 1/1");
-15312|<O>| set_heart_loop(map, 60);    // Vòng lặp nhịp tim:１phút
+﻿15298|<O>| notify( "Bạn cách %s quá xa.", who->get_name() );
+15299|<O>| send_user(who, "%c%s", '!', "Mã Đại Long 1/1");
+15300|<O>| set_char_type(FIGHTER_TYPE);    // Đặt lại loại
+15301|<O>| return "［Thái Cổ Thần Quyền］Tăng sức tấn công khi tay không, mỗi cấp tăng 1 điểm tấn công\n";
+15302|<O>| return "Tinh hoa hồn phách chết của Hỏa Tinh Tinh Linh, là nguyên liệu cần thiết cho kỹ năng sinh hoạt Khắc Thạch, Thợ May, Thợ Rèn";
+15303|<O>| "%s:\nBinh lực nước ta hùng mạnh, quốc phú dân cường, không cần sợ nước khác, chớ có gây hoang mang!\n",
+15304|<O>| send_user(who, "%c%s", '!', "Bạn nhận được thức ăn cho gà");
+15305|<O>| for (i = 0; i < size; i++)    // Tạo nội dung danh sách
+15306|<O>| private string* Manager4 = ({ });	// Đường Chủ
+15307|<O>| //	"Thiên Hương Tục Mệnh Đan" : "\"/item/final/91/1840\"",
+15308|<O>| send_user(me, "%c", 0x01);    // Hủy theo dõi tấn công
+15309|<O>| ESC "Thương nghiệp.\ntalk " + id + " stir_up.13\n"
+15310|<O>| case "Phú Gia Nam Hài": type = "RICH_BOY";  break;
+15311|<O>| send_user(who, "%c%s", '!', "Tam Đao Quỷ 1/1");
+15312|<O>| set_heart_loop(map, 60);    // Nhịp tim tuần hoàn: 1 phút
 15313|<O>| string get_fam_name() { return "Cấm Vệ Quân"; }
-15314|<O>| result += ESC "Khí HuyếtPhục hồichính thường\ngmset normal\n";
-15315|<O>| tell_user(me, "thiết trí tốinhỏ／tốilớnso vớisuất vì %d％。", rate);
-15316|<O>| item = new("item/final/91/1808");	//Bạchạnh Tử
-15317|<O>| item = new ("/item/01/0001");    // giới thiệu Tín
-15318|<O>| send_user(me, "%c%s", '!', "TạinàytrongKhông thể sử dụng。");
-15319|<O>| int Level;                      // chức nghiệpCấp độ
+15314|<O>| result += ESC "Khí huyết phục hồi bình thường\ngmset normal\n";
+15315|<O>| tell_user(me, "Thiết lập tỷ lệ tối thiểu/tối đa là %d%%.", rate);
+15316|<O>| item = new("item/final/91/1808");	//Ngân Hạnh Tử
+15317|<O>| item = new ("/item/01/0001");    // Thư giới thiệu
+15318|<O>| send_user(me, "%c%s", '!', "Không thể sử dụng ở đây.");
+15319|<O>| int Level;                      // Cấp nghề nghiệp
 15320|<O>| default: name = "Thành Phòng";  p /= 10;  break;
-15321|<O>| printf( ECHO "Sử dụng“" PF_NAME "”đượcTrang bịQuyền bộ。" );
-15322|<O>| private int clean_pk_time;		//Thanh SởPKtiêu Chígiờgianđiểm
-15323|<O>| ESC"Thám Bảo thẻ Chi Thám hiểmlớnlễ bao lĩnh thủ\ntalk %x# bonus.1005\n"
-15324|<O>| send_user(me, "%c%s", '!', "Xuân tiếthoạt độngMở!");
-15325|<O>| result += sprintf( "Độctính: %d\n", point );
-15326|<O>| send_user(who,"%c%s",'!',"BạncủaMôn pháicống hiếnđiểmkhôngtúc！");
-15327|<O>| send_user(me, "%c%s", '!', "dùng Hộdữ liệukhôngtồnTại！");
-15328|<O>| case "quý phụ": type = "RICH_WOMAN";  break;
-15329|<O>| //				ESC"Đi vàoTrường BìnhChi Chiến\ntalk %x# welcome.3\n"
-15330|<O>| // Hàm:hoạch thủ Hợp Pháp tọa tiêu(nhỏphánbản đồ) -- Thành thị、dãngoài(Cấm chỉdàiThành、Địa Động、Hoa viên)
-15331|<O>| case 13: return BattleXY[13];    // hư tuyến１
-15332|<O>| ({"sử Mệnh Vật Phẩmnàotrongkhông thểhoạch được？","Chu Quốc","Tân Thủ Thôn","U Cốc","Thanh khê"}),
-15333|<O>| send_user(who, "%c%s", '!', "QuỷChi mị 1/1");
-15334|<O>| return "［Cường hóaHộ ThểVàngcương］NângKhông ThủgiờcủaVật lý tấn côngMệnhgiữa，Mỗi cấp tăng3điểmMệnhgiữa";
-15335|<O>| đương dùng HộTạinhiệm Ýgiờkhắc điều dùngTăng，Sửa đổihoặcXóa，BảngiờChungđiểmThao táccủaHàmgiờ，đềusẽtrọngmớiKế toán tối cận
-15336|<O>| send_user(who, "%c%s", '!', "Đồng Tâm Tỏa 1/1");
+15321|<O>| printf( ECHO "Sử dụng \"" PF_NAME "\" phải trang bị găng tay." );
+15322|<O>| private int clean_pk_time;		//Mốc thời gian xóa cờ PK
+15323|<O>| ESC"Nhận gói quà lớn thám hiểm thẻ Đào Bảo\ntalk %x# bonus.1005\n"
+15324|<O>| send_user(me, "%c%s", '!', "Hoạt động Tết Nguyên Đán đã mở!");
+15325|<O>| result += sprintf( "Độc tính: %d\n", point );
+15326|<O>| send_user(who,"%c%s",'!',"Điểm cống hiến môn phái không đủ!");
+15327|<O>| send_user(me, "%c%s", '!', "Dữ liệu người dùng không tồn tại!");
+15328|<O>| case "Quý Phụ": type = "RICH_WOMAN";  break;
+15329|<O>| //				ESC"Vào Trường Bình Chi Chiến\ntalk %x# welcome.3\n"
+15330|<O>| // Hàm: lấy tọa độ hợp lệ (bản đồ tiểu thương) -- Thành phố, dã ngoại (cấm Trường Thành, địa đạo, hoa viên)
+15331|<O>| case 13: return BattleXY[13];    // Đường kẻ đứt 1
+15332|<O>| ({"Vật phẩm sứ mệnh ở đâu không lấy được?","Chu Quốc","Làng Tân Thủ","U Cốc","Thanh Khê"}),
+15333|<O>| send_user(who, "%c%s", '!', "Quỷ Chi Mị 1/1");
+15334|<O>| return "［Cường Hóa Hộ Thể Kim Cương］Tăng chính xác tấn công vật lý khi tay không, mỗi cấp tăng 3 điểm chính xác";
+15335|<O>| Khi người dùng gọi hàm thêm, sửa hoặc xóa thao tác mốc thời gian bất kỳ lúc nào, hệ thống sẽ tính toán lại gần nhất
+15336|<O>| send_user(who, "%c%s", '!', "Đồng Tâm Khóa 1/1");
 15337|<O>| send_user(who, "%c%s", '!', "Hồ Tử Sơn 1/1");
-15338|<O>| case "dàiBào": type = "M_CHANGPAO";  break;
-15339|<O>| notify("giao dịchtần Đạo Tướng vu %d phút sau mở。", t / 60 + 1);
-15340|<O>| send_user(who, "%c%s", '!', "hứanhỏTứ 1/1");
-15341|<O>| send_user(who, "%c%s", '!', "hỗn ThếMa 1/1");
-15342|<O>| private int iTrainTime;			// huấn Luyện độcủaNângKết thúctiêu Chí
-15343|<O>| send_user(who, "%c%s", '!', "Thủyhồ quái 1/1");
-15344|<O>| send_user(who, "%c%s", '!', "bạncủaHùng Hoàng tán ?");
-15345|<O>| gift = new("item/final/91/1811");	//xả Lợi Tử
-15346|<O>| if (who = me->get_enemy_5())    // thuận thế Suy chu
-15347|<O>| switch (random(11))    // Chú ý:căn cứ case điều chỉnh
-15348|<O>| send_user(who, "%c%s", '!', "dạ phùQuỷ 1/1");
-15349|<O>| send_user(who,"%c%s",'!',"bạnhuề ĐáicủaVật Phẩm Tháinhiều！");
-15350|<O>| tell_user(me, sprintf("Không tìm thấy%s", final));
-15351|<O>| cmd = "oa oa oa oa～～tôiLàmớinămPhúc oa oagiữacủaPhúc oa oa，bi quancủaPhúc oa oa，oa oa～～";
+15338|<O>| case "Trường Bào": type = "M_CHANGPAO";  break;
+15339|<O>| notify("Kênh giao dịch sẽ mở sau %d phút.", t / 60 + 1);
+15340|<O>| send_user(who, "%c%s", '!', "Hứa Tiểu Tứ 1/1");
+15341|<O>| send_user(who, "%c%s", '!', "Hỗn Thế Ma 1/1");
+15342|<O>| private int iTrainTime;			// Cờ kết thúc nâng độ huấn luyện
+15343|<O>| send_user(who, "%c%s", '!', "Thủy Hồ Quái 1/1");
+15344|<O>| send_user(who, "%c%s", '!', "Hùng Hoàng Tán của bạn đâu?");
+15345|<O>| gift = new("item/final/91/1811");	//Xá Lợi Tử
+15346|<O>| if (who = me->get_enemy_5())    // Thuận thế đẩy thuyền
+15347|<O>| switch (random(11))    // Lưu ý: điều chỉnh theo case
+15348|<O>| send_user(who, "%c%s", '!', "Dạ Phù Quỷ 1/1");
+15349|<O>| send_user(who,"%c%s",'!',"Bạn mang theo quá nhiều vật phẩm!");
+15350|<O>| tell_user(me, sprintf("Không tìm thấy %s", final));
+15351|<O>| cmd = "Oa oa oa oa～～Tôi là Phúc Oa Oa trong đội Phúc Oa Oa năm mới, Phúc Oa Oa bi quan, oa oa～～";
 15352|<O>| string get_fam_name() { return "Côn Lôn Sơn"; }
-15353|<O>| send_user(who, "%c%s", '!', "dạ MinhQuỷ 1/1");
-15354|<O>| send_user(me, "%c%s", ':', "XinChọnhoạt độngbản đồ:\n"
-15355|<O>| ESC "ngư nghiệp。\ntalk " + id + " stir_up.10\n"
-15356|<O>| printf(ECHO "Bạn đượcCóTrận kỳ Tài NăngSử dụng“" PF_NAME "”。");
-15357|<O>| return "Nhân Sâm:\n    kéo dài1giờtrongCó thể nângNgười chơi600điểm Khí Huyếttrênhạn。";
-15358|<O>| private static int iLevel2;		// Chiến trường bộ độicủaCấp độ
-15359|<O>| send_user(me, "%c%s", '!', "mớiNhân Vươngphần thưởngĐóng！");
-15360|<O>| //		send_user(me,"%c%s",'!',"không thểvớitùybản thân！");
-15361|<O>| obj->remove_from_user();    // Xóa“Vương Chi hiệu giác”
-15362|<O>| send_user(who, "%c%s", '!', "bạncủaTàng Bảo Đồ?");
-15363|<O>| send_user(me, "%c%s", '!', "Bạn cự lymục tiêuThái Viễn。");
-15364|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận đượcNgọc tỷ！");
-15365|<O>| send_user(who, "%c%s", '!', "51hoạt độngMở！");
-15366|<O>| for (i = 0; i < size; i++)    // biến lịchtất cảtệp tin
-15367|<O>| ESC"Quả nhiên Vật Siêu sở Trị，tôicầnMãtrênMua\ntalk %x# bonus.42\n"
-15368|<O>| return "do công tượng sở chế thànhcủaVàngthuộc bổng Tử。Cơ Quan、Thạch Khắc、Thiết Tượngsinh hoạtKỹ năngcầncủatài liệu";
-15369|<O>| case 14: return BattleXY[14];    // hư tuyến２
-15370|<O>| return  PF_NAME ":\n　　bảo Hộbản thânkhôngsẽhãm Nhập trầm mặc trạng thái。\n";
-15371|<O>| send_user(me, "%c%s", '!', "thục HồiđiểmthẻThành công！");
-15372|<O>| ESC "Trang bị。\ntalk " + id + " stir_up.3\n"
-15373|<O>| return "［Cường hóaphongMaCôn Pháp］ĐềcaoSử dụngCôn PhápTấn côngcủaMệnhgiữa，Mỗi cấp tăng3điểmMệnhgiữa";
-15374|<O>| "LongCốt Chiến BàoVân Mộng Trạch" : "\"/item/final/60/7119\"",
-15375|<O>| "Tinh túc Chiến Y vôMôn phái" : "\"/item/final/60/8096\"",
-15376|<O>| if ( rate=who->get("anti_dirt")	) //khángThổ
-15377|<O>| tell_user(me, "Xin hãy xem /log/make/ tệp tin bên dướivà");
-15378|<O>| "ngàycương Chiến GiápCấm Vệ Quân" : "\"/item/final/60/3115\"",
-15379|<O>| log_file(LIST_LOG, "<!-- kỳ Bàn -->\n\n");
+15353|<O>| send_user(who, "%c%s", '!', "Dạ Minh Quỷ 1/1");
+15354|<O>| send_user(me, "%c%s", ':', "Vui lòng chọn bản đồ hoạt động:\n"
+15355|<O>| ESC "Ngư nghiệp.\ntalk " + id + " stir_up.10\n"
+15356|<O>| printf(ECHO "Bạn cần có Trận Kỳ mới dùng được \"" PF_NAME "\".");
+15357|<O>| return "Nhân sâm:\n    Trong 1 giờ tăng 600 điểm khí huyết tối đa cho người chơi.";
+15358|<O>| private static int iLevel2;		// Cấp độ đội quân chiến trường
+15359|<O>| send_user(me, "%c%s", '!', "Phần thưởng Tân Nhân Vương đã đóng!");
+15360|<O>| //		send_user(me,"%c%s",'!',"Không thể theo dõi chính mình!");
+15361|<O>| obj->remove_from_user();    // Xóa "Hiệu Giác Vương"
+15362|<O>| send_user(who, "%c%s", '!', "Bản đồ tàng bảo của bạn đâu?");
+15363|<O>| send_user(me, "%c%s", '!', "Bạn cách mục tiêu quá xa.");
+15364|<O>| send_user(who, "%c%s", '!', "Bạn nhận được Ngọc Tỷ!");
+15365|<O>| send_user(who, "%c%s", '!', "Hoạt động 1/5 đã mở!");
+15366|<O>| for (i = 0; i < size; i++)    // Duyệt tất cả file
+15367|<O>| ESC"Quả thật vật siêu giá trị, tôi muốn mua ngay\ntalk %x# bonus.42\n"
+15368|<O>| return "Thanh kim loại do thợ thủ công chế tạo. Là nguyên liệu cần thiết cho kỹ năng sinh hoạt Cơ Quan, Khắc Thạch, Thợ Rèn";
+15369|<O>| case 14: return BattleXY[14];    // Đường kẻ đứt 2
+15370|<O>| return  PF_NAME ":\n　　Bảo vệ bản thân không rơi vào trạng thái câm lặng.\n";
+15371|<O>| send_user(me, "%c%s", '!', "Chuộc thẻ điểm thành công!");
+15372|<O>| ESC "Trang bị.\ntalk " + id + " stir_up.3\n"
+15373|<O>| return "［Cường Hóa Phong Ma Côn Pháp］Tăng chính xác tấn công khi dùng côn pháp, mỗi cấp tăng 3 điểm chính xác";
+15374|<O>| "Chiến Bào Long Cốt Vân Mộng Trạch" : "\"/item/final/60/7119\"",
+15375|<O>| "Chiến Y Tinh Tú Vô Môn Phái" : "\"/item/final/60/8096\"",
+15376|<O>| if ( rate=who->get("anti_dirt")	) //Kháng thổ
+15377|<O>| tell_user(me, "Vui lòng xem các file trong /log/make/ và");
+15378|<O>| "Chiến Giáp Thiên Cương Cấm Vệ Quân" : "\"/item/final/60/3115\"",
+15379|<O>| log_file(LIST_LOG, "<!-- Bàn Cờ -->\n\n");

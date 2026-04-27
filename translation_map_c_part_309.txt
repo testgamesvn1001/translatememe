@@ -1,69 +1,69 @@
-﻿11935|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Tứ Diện Sở Ca（2）");
-11936|<O>| case '#': send_user(me, "%c%s", '!', "dữ liệukhố Thao tác sai ngộ！");
-11937|<O>| private int if_active_next	= 1;			//	Làphủ Tự ĐộngMởdướiNhấtlầncủatiêu Chí
-11938|<O>| log_file(LIST_LOG_2, "// Bí tịch，Phóngđến /quest/book\n\n");
-11939|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 10, "Thu thậpgiữa……");
-11940|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Tình Tỏa Tần Cung（3）");
-11941|<O>| write_user(who, HIY "%syêu Xin Bạn đếnnàynhi。", me->get_name());
-11942|<O>| SAY_CMD->say(me, "ai a!ThântrêncủaBảo bối Tháinhiều,đềunãkhôngĐộng!ơ……aicủaVàngtrang rơi?");
-11943|<O>| if( gone_time(locktime) > lockutil )    // Kế toánLàphủ Tỏa định
+﻿11935|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tứ Diện Sở Ca（2）");
+11936|<O>| case '#': send_user(me, "%c%s", '!', "Lỗi thao tác cơ sở dữ liệu!");
+11937|<O>| private int if_active_next	= 1;			//	Cờ đánh dấu có tự động bật lần tiếp theo không
+11938|<O>| log_file(LIST_LOG_2, "// Bí kíp, đặt tại /quest/book\n\n");
+11939|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 10, "Đang thu thập……");
+11940|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tình Khóa Tần Cung（3）");
+11941|<O>| write_user(who, HIY "%s mời bạn đến đây.", me->get_name());
+11942|<O>| SAY_CMD->say(me, "Ối! Bảo vật trên người nhiều quá, cầm không nổi rồi! Ơ……trang bị vàng của ai rơi kìa?");
+11943|<O>| if( gone_time(locktime) > lockutil )    // Tính toán có bị khóa không
 11944|<O>| else if (who->get_quest("escort.flag")    // Nhiệm vụ vận tiêu
-11945|<O>| set_char_type(FIGHTER_TYPE);    // init_level cầndùngđến
+11945|<O>| set_char_type(FIGHTER_TYPE);    // init_level cần dùng
 11946|<O>| else if (who->get_2("changping.country") == "Triệu Quốc")
-11947|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 10, "tìm tìmgiữa……");
-11948|<O>| #define LOGIN_TIMEOUT           60      // Liên tuyến Siêugiờhạn chế
-11949|<O>| hô diên Quy Hải dương thiệt vi sinh Nhạc soái Câu Kháng huốngsauCóCầm Lương KhâutráiKhâu Đông Môn Tây Môn thương Mâu Xa Nại bá thưởng Nam Cung mặc ha Tiều Đát nămÁi Dương Đồng
-11950|<O>| name = "quanngoàikiếp phỉ";picid = 8013; citypoint = 5; break;
-11951|<O>| return "“Nhị lang Chân Quân ChiThầnBinh，Thương Thân nhiệt như sí Diệm”\nTấn côngmục tiêugiờCóNhất định mấy suất\nchomục tiêusản sinh Phá Giáp hiệu Quả";
-11952|<O>| private int DoubleTime;                 // song bộiKinh nghiệmgiờgian
-11953|<O>| log_file("boss.txt", short_time() + " Khuyển Thái langbịtiêu Diệt\n");
-11954|<O>| trì Kiều Âm Úc Tư Năng thương song văn Sằn đảng Trạch Đàm cống lao Bàng Cơ thân phù đổ Nhiễm tể Lịch Ung khước Cừ Tang quế Bộc Ngưu thọ thông Biên hỗ Yên Ký Giáp phố Thượng nông
-11955|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Vong Dương Bổ Lao(3)");
-11956|<O>| send_user(who, "%c%s", '!', "Thanh vọngcaovu 100 Tài Năng tiếpngoàigiaoNhiệm vụ。");
-11957|<O>| _DEBUG(sprintf("DEBUG -- chấp Hànhdo_nothing:%s", str));
-11958|<O>| tell_user(me, "đối tượng: %O\nHàm %s() khôngtồnTại。", obj, func);
-11959|<O>| else if (rate < 6000 * rate1 / 100)	//60Cấp độđoạnNgẫu nhiênLam Sắc Phối Phương
-11960|<O>| send_user(who, "%c%s", '!', "khôngkiện Khang du hígiờgian Cấm chỉ lĩnh thủ song bộiKinh nghiệm。");
-11961|<O>| // ẢNH HƯỞNG: HIGH - Player cầnchủ Động xúc phát NPC activation
-11962|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"quyết định tínhcủaĐả kích");
-11963|<O>| who->delete_quest("escort.random");    // ký lụcNgẫu nhiênsựkiện
-11964|<O>| return  PF_NAME ":\n　　Đi vàonênĐộckhítrongcủatất cảĐịchđối vớimục tiêuđềusẽhãm NhậpgiữaĐộctrạng thái。\n";
-11965|<O>| string get_suit_name() { return "Linh Lộc"; }	//Thuộc bộ trang bị nào đó
-11966|<O>| send_user(who, "%c%s", '!', "khôngkiện Khang du hígiờgian Cấm chỉSử dụngChiến Quốc Hiệu Giác。");
-11967|<O>| private int PK;                         // PK tiêu Chí
-11968|<O>| string get_suit_name() { return "Tuyết Điêu"; }	//Thuộc bộ trang bị nào đó
-11969|<O>| private string UserID;                  // tối Sơ hoạch được giả
-11970|<O>| amount03 = check_item_amount(who, "trang xấulớnHùngcủaThầnKỳ hồ lô");
-11971|<O>| //			send_user(who,"%c%s",';',"Bạn nhận được"HIY"10căn càn khôn thằng");
+11947|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 10, "Đang tìm kiếm……");
+11948|<O>| #define LOGIN_TIMEOUT           60      // Giới hạn thời gian kết nối
+11949|<O>| Hô Diên Quy Hải Dương Thiệt Vi Sinh Nhạc Soái Câu Kháng Huống Hậu Hữu Cầm Lương Khâu Tả Khâu Đông Môn Tây Môn Thương Mâu Xa Bội Bá Thưởng Nam Cung Mặc Cáp Tiều Đạt Niên Ái Dương Đồng
+11950|<O>| name = "Quan Ngoại Kiếp Phỉ";picid = 8013; citypoint = 5; break;
+11951|<O>| return ""Thần binh của Nhị Lang Chân Quân, thương thân nóng như lửa cháy"\nKhi tấn công mục tiêu có tỷ lệ\ngây hiệu ứng phá giáp cho mục tiêu";
+11952|<O>| private int DoubleTime;                 // Thời gian kinh nghiệm gấp đôi
+11953|<O>| log_file("boss.txt", short_time() + " Khuyển Thái Lang bị tiêu diệt\n");
+11954|<O>| Trì Kiều Âm Úc Tư Năng Thương Song Văn Sần Đảng Trạch Đàm Cống Lao Bàng Cơ Thân Phù Đổ Nhiễm Tể Lệ Ung Khước Cừ Tang Quế Bộc Ngưu Thọ Thông Biên Hỗ Yến Ký Giáp Phố Thượng Nông
+11955|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Mất Dê Sửa Chuồng(3)");
+11956|<O>| send_user(who, "%c%s", '!', "Thanh danh trên 100 mới có thể nhận nhiệm vụ ngoại giao.");
+11957|<O>| _DEBUG(sprintf("DEBUG -- Thực hiện do_nothing:%s", str));
+11958|<O>| tell_user(me, "Đối tượng: %O\nHàm %s() không tồn tại.", obj, func);
+11959|<O>| else if (rate < 6000 * rate1 / 100)	//Công thức xanh ngẫu nhiên cấp 60
+11960|<O>| send_user(who, "%c%s", '!', "Thời gian chơi game không lành mạnh, cấm nhận kinh nghiệm gấp đôi.");
+11961|<O>| // ẢNH HƯỞNG: HIGH - Player phải chủ động kích hoạt NPC activation
+11962|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Đòn Tấn Công Quyết Định");
+11963|<O>| who->delete_quest("escort.random");    // Ghi nhận sự kiện ngẫu nhiên
+11964|<O>| return  PF_NAME ":\n　　Tất cả mục tiêu thù địch bước vào vùng khí độc này đều sẽ rơi vào trạng thái trúng độc.\n";
+11965|<O>| string get_suit_name() { return "Linh Lộc"; }	//Thuộc bộ trang phục nào
+11966|<O>| send_user(who, "%c%s", '!', "Thời gian chơi game không lành mạnh, cấm sử dụng Chiến Quốc Hiệu Giác.");
+11967|<O>| private int PK;                         // Cờ PK
+11968|<O>| string get_suit_name() { return "Tuyết Điêu"; }	//Thuộc bộ trang phục nào
+11969|<O>| private string UserID;                  // Người sở hữu đầu tiên
+11970|<O>| amount03 = check_item_amount(who, "Hồ Lô Thần Kỳ Chứa Gấu Hư");
+11971|<O>| //			send_user(who,"%c%s",';',"Bạn nhận được "HIY"10 sợi Càn Khôn Thằng");
 11972|<O>| #define SKILL_FINAL	"/item/stuff/0013"		// Kết quả chế tạo
-11973|<O>| tell_user(who, "liệt thị“%s”công cáo。", me->get_org_name());
-11974|<O>| if (!item) item = new ("item/mop/9002");		//VàngLinh Thạch5
-11975|<O>| else    return sprintf(PF_NAME "\n    kéo dàigiảmítPháp Lực。");
+11973|<O>| tell_user(who, "Liệt kê công cáo bang \"%s\".", me->get_org_name());
+11974|<O>| if (!item) item = new ("item/mop/9002");		//Kim Linh Thạch 5
+11975|<O>| else    return sprintf(PF_NAME "\n    Liên tục giảm pháp lực.");
 11976|<O>| #define SKILL_FINAL	"/item/stuff/0016"		// Kết quả chế tạo
-11977|<O>| private int PicId2;                     // Đạo cụ lanngoàihình
-11978|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"nhưỡng Tửucủanguyên tài liệu");
-11979|<O>| return "thường thường dùng vuÁmSátkẻ thùdùngcủaĐộcDược,mỗi2giâysửNgười chơiGiá trị Khí Huyếtdướigiáng100điểm,nên hiệu Quảsẽkéo dài20giây";
-11980|<O>| name = "quanngoàikiếp phỉ";picid = 8012; citypoint = 3;break;
-11981|<O>| if (gone_time(get_drop_time()) > 7200)    // 2giờ
-11982|<O>| send_user(who, "%c%s", '!', "Nhiệm vụHoàn thành！Xin tìm Vương phủ tổng quản Hồi phụcNhiệm vụ。");
-11983|<O>| else if (rate < 4000 * rate1 / 100)		//70cấpNgẫu nhiênPhối Phương lưỡng
-11984|<O>| CHAR_FIGHT_D->set_enmity2(me, who, 20);  //thiết trí Cừu hận Trị
-11985|<O>| string get_suit_name() { return "Linh Hồ"; }	//Thuộc bộ trang bị nào đó
-11986|<O>| private static string ForceCmd;         // dự chấp Hành Mệnh Lệnh
-11987|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 6, "Truyền tốnggiữa……");
-11988|<O>| send_user(me, "%c%s", '!', "bạncủaCấp độTháithấp，khôngthích Hợp Lộ đồcủađiên bá。");
-11989|<O>| send_user(me, "%c%s", '!', "đối vớiPhương đoàn đội đã đạtđếntổ độitrênhạn，Gia NhậpThất bại！");
-11990|<O>| move_object(me, z0, x, y, USER_TYPE);    // Di ĐộngNgười chơi
-11991|<O>| who->delete_quest("thief.flag");    // Hoàn thành nhiệm vụ，Xóatiêu Chí
-11992|<O>| string get_suit_name() { return "MãnhHổ"; }	//Thuộc bộ trang bị nào đó
-11993|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 6, "mở Tỏagiữa……");
-11994|<O>| send_user(who, "%c%s", '!', "mua Nhập thuế đượcTại 1～20%% Chi gian。");
-11995|<O>| who->set_task("warrior_bonus", level);		//tìm Vệ độidàilĩnh thưởng
-11996|<O>| send_user(who, "%c%s", '!', "bán Xuất thuế đượcTại 1～20%% Chi gian。");
-11997|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"dạ Khônggiữacủahưởng Thanh");
-11998|<O>| string get_suit_name() { return "tốcPhong"; }	//Thuộc bộ trang bị nào đó
-11999|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Thu tậpCơ Quancấukiện");
-12000|<O>| || !(obj4 = present("tàn Đồphảidướigiác", me, 1, MAX_CARRY)))
-12001|<O>| if ( GameList[index[m]]["score1"] == -1 )	//không cótái Quả
-12002|<O>| string get_suit_name() { return "LiệpƯng"; }	//Thuộc bộ trang bị nào đó
-12003|<O>| send_user(me, "%c%s", '!', "nghiệm chứng hiệu nghiệm mã sai ngộ！" + result);
+11977|<O>| private int PicId2;                     // Hình dạng ô đạo cụ
+11978|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Nguyên Liệu Nấu Rượu");
+11979|<O>| return "Thuốc độc thường dùng để ám sát kẻ thù, mỗi 2 giây giảm 100 điểm khí huyết người chơi, hiệu ứng kéo dài 20 giây";
+11980|<O>| name = "Quan Ngoại Kiếp Phỉ";picid = 8012; citypoint = 3;break;
+11981|<O>| if (gone_time(get_drop_time()) > 7200)    // 2 giờ
+11982|<O>| send_user(who, "%c%s", '!', "Nhiệm vụ hoàn thành! Hãy tìm Tổng Quản Vương Phủ để trả nhiệm vụ.");
+11983|<O>| else if (rate < 4000 * rate1 / 100)		//2 công thức ngẫu nhiên cấp 70
+11984|<O>| CHAR_FIGHT_D->set_enmity2(me, who, 20);  //Thiết lập giá trị thù hận
+11985|<O>| string get_suit_name() { return "Linh Hồ"; }	//Thuộc bộ trang phục nào
+11986|<O>| private static string ForceCmd;         // Lệnh thực thi trước
+11987|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 6, "Đang truyền tống……");
+11988|<O>| send_user(me, "%c%s", '!', "Cấp độ của bạn quá thấp, không phù hợp cho cuộc hành trình vất vả.");
+11989|<O>| send_user(me, "%c%s", '!', "Đội ngũ đối phương đã đạt giới hạn tổ đội, gia nhập thất bại!");
+11990|<O>| move_object(me, z0, x, y, USER_TYPE);    // Di chuyển người chơi
+11991|<O>| who->delete_quest("thief.flag");    // Hoàn thành nhiệm vụ, xóa đánh dấu
+11992|<O>| string get_suit_name() { return "Mãnh Hổ"; }	//Thuộc bộ trang phục nào
+11993|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 6, "Đang mở khóa……");
+11994|<O>| send_user(who, "%c%s", '!', "Thuế mua vào phải nằm trong khoảng 1～20%%.");
+11995|<O>| who->set_task("warrior_bonus", level);		//Tìm đội trưởng vệ binh nhận thưởng
+11996|<O>| send_user(who, "%c%s", '!', "Thuế bán ra phải nằm trong khoảng 1～20%%.");
+11997|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tiếng Vang Trên Bầu Trời Đêm");
+11998|<O>| string get_suit_name() { return "Tốc Phong"; }	//Thuộc bộ trang phục nào
+11999|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Thu Thập Bộ Phận Cơ Quan");
+12000|<O>| || !(obj4 = present("Tàn Đồ Góc Phải Dưới", me, 1, MAX_CARRY)))
+12001|<O>| if ( GameList[index[m]]["score1"] == -1 )	//Chưa có kết quả
+12002|<O>| string get_suit_name() { return "Liệp Ưng"; }	//Thuộc bộ trang phục nào
+12003|<O>| send_user(me, "%c%s", '!', "Lỗi xác minh mã kiểm tra!" + result);

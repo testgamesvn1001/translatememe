@@ -1,83 +1,83 @@
-﻿15380|<O>| "衾天之冠昆仑山" : "\"/item/final/65/6120\"",
-15381|<O>| //              notify( "您找不到这位玩家。" );
-15382|<O>| "黄金战铠桃花源" : "\"/item/final/60/1085\"",
-15383|<O>| send_user(who, "%c%s", '!', "错误的格式！");
-15384|<O>| "地灵长靴桃花源" : "\"/item/final/88/1075\"",
-15385|<O>| "神威战盔无门派" : "\"/item/final/65/8087\"",
-15386|<O>| case "软甲": type = "M_RUANJIA";  break;
-15387|<O>| "乾云之冠云梦泽" : "\"/item/final/65/7110\"",
-15388|<O>| return "口感香滑的一种热带水果，20秒内恢复玩家800点气血值。";
-15389|<O>| send_user(me, "%c%s", '!', "用户帐号不存在");
-15390|<O>| 每个时钟的调用次数都应该进行效对如果出现错误应该进行错误报告，并且应该允许调
-15391|<O>| "黄昏项链昆仑山" : "\"/item/final/86/6035\"",
-15392|<O>| "衾天之冠云梦泽" : "\"/item/final/65/7120\"",
-15393|<O>| if ( rate=who->get("anti_dirt")	)	//抗土
-15394|<O>| "龙神战甲无门派" : "\"/item/final/60/8116\"",
-15395|<O>| "风神战盔无门派" : "\"/item/final/65/8067\"",
-15396|<O>| printf( ECHO "使用“" PF_NAME "”得装备剑。" );
-15397|<O>| write_user(who, ECHO "你不由自主地打了几个寒颤。");
-15398|<O>| case 6: case 60: file = "昆仑山";  break;
-15399|<O>| npc->set_name(me->get_name() + "的佣兵");
-15400|<O>| ESC"直充有奖之兑奖牌领取\ntalk %x# bonus.1007\n"
-15401|<O>| send_user(me, "%c%s", ';', "成功开启活动！");
-15402|<O>| "亡魂之铠禁卫军" : "\"/item/final/60/3105\"",
-15403|<O>| "星辰战靴禁卫军" : "\"/item/final/88/3120\"",
-15404|<O>| "乾云战袍昆仑山" : "\"/item/final/60/6110\"",
-15405|<O>| if (get_z(me) != get_z(who))	// 如果地图不对
-15406|<O>| send_user(who, "%c%s", '!', "瘟神 1/1");
-15407|<O>| "风神法袍无门派" : "\"/item/final/60/8066\"",
-15408|<O>| send_user(who, "%c%s", '!', "蔡九 1/1");
-15409|<O>| log_file(LIST_LOG, "<!-- 乐器 -->\n\n");
-15410|<O>| if (gone_time(go_time) >= 5)				//回到原地
-15411|<O>| write_user(me, ECHO "您的攻击模式将在十分钟后转换");
-15412|<O>| "真武项链昆仑山" : "\"/item/final/86/6080\"",
-15413|<O>| "战斗长靴禁卫军" : "\"/item/final/88/3055\"",
-15414|<O>| send_user(who,"%c%s",'!',"现在没有人参加竞选");
-15415|<O>| "玄金项链昆仑山" : "\"/item/final/86/6065\"",
-15416|<O>| "地灵长靴禁卫军" : "\"/item/final/88/3075\"",
-15417|<O>| "天尊圣袍无门派" : "\"/item/final/60/8126\"",
-15418|<O>| "戮魂项链昆仑山" : "\"/item/final/86/6100\"",
-15419|<O>| send_user(who, "%c%s", '!', "你的棋谱呢?");
-15420|<O>| send_user(who, "%c%s", '!', "甑九 1/1");
-15421|<O>| "玄金项链禁卫军" : "\"/item/final/86/3065\"",
-15422|<O>| ESC "返回\n%s\n", me->get_name(), cmd1);
-15423|<O>| "麒麟战靴无门派" : "\"/item/final/88/8107\"",
-15424|<O>| SAY_CMD->say(me, "我砍！！ 我斩！！！我砍砍砍！！！");
-15425|<O>| if (item->is_auto_equip()    // 自动装备类型
-15426|<O>| send_user(who,"%c%s",'!',"您获得了战国宝典。");
-15427|<O>| "残阳之靴禁卫军" : "\"/item/final/88/3110\"",
-15428|<O>| ESC"离开", me->get_name(), getoid(me)));
-15429|<O>| "追风项链无门派" : "\"/item/final/86/8046\"",
-15430|<O>| "龙魂项链云梦泽" : "\"/item/final/86/7105\"",
-15431|<O>| string get_name() { return "天外幻境6层"; }
-15432|<O>| reduce_item_amount(who, "西瓜伯伯的西瓜", 5);
-15433|<O>| who->set("desc", time());    // 不能频繁查看
-15434|<O>| case "毡帽": type = "M_ZHANMAO";  break;
-15435|<O>| return "一种长矛，矛身为竹子所制，十分尖锐，可轻易地刺伤小动物。";
-15436|<O>| "水纹项链云梦泽" : "\"/item/final/86/7045\"",
-15437|<O>| "天机法袍云梦泽" : "\"/item/final/60/7065\"",
-15438|<O>| "苍穹之冠云梦泽" : "\"/item/final/65/7115\"",
-15439|<O>| "天尊战靴无门派" : "\"/item/final/88/8127\"",
-15440|<O>| case "道冠": type = "F_DAOGUAN";  break;
-15441|<O>| "乾云之冠昆仑山" : "\"/item/final/65/6110\"",
-15442|<O>| interval = ADD_INTERVAL;    // 小心准备 me
-15443|<O>| string get_name() { return "天外幻境3层"; }
-15444|<O>| "定魂项链禁卫军" : "\"/item/final/86/3030\"",
-15445|<O>| "天尊神铠无门派" : "\"/item/final/60/8127\"",
-15446|<O>| send_user(me, "%c%s", '!', "游戏代码不对！");
-15447|<O>| "玄月项链昆仑山" : "\"/item/final/86/6085\"",
-15448|<O>| "无极长袍昆仑山" : "\"/item/final/60/6075\"",
-15449|<O>| "帝王之盔桃花源" : "\"/item/final/65/1095\"",
-15450|<O>| "紫水晶鞋云梦泽" : "\"/item/final/88/7085\"",
-15451|<O>| if( me == who ) return 0;    // 禁止攻击自己
-15452|<O>| printf( ECHO "使用“" PF_NAME "”体力不足。" );
-15453|<O>| ESC "训练。\ntalk " + id + " stir_up.4\n"
-15454|<O>| //	send_user(me,"%c%s",'!',"你进入跟随状态");
-15455|<O>| "苍穹之冠昆仑山" : "\"/item/final/65/6115\"",
-15456|<O>| "雷神之冠无门派" : "\"/item/final/65/8077\"",
-15457|<O>| "龙神圣袍无门派" : "\"/item/final/60/8117\"",
-15458|<O>| tell_user(me, "请查看 /log/make/ 下的文件。");
-15459|<O>| send_user(me, "%c%s", '!', "寄售的时间不对");
-15460|<O>| + sprintf(ESC"四色球\ntalk %x# bonus.1\n"
-15461|<O>| //        tell_user(me, "战场位置:%d", z);
-15462|<O>| "神威项链无门派" : "\"/item/final/86/8096\"",
+﻿15380|<O>| "Khâm Thiên Chi Quan Côn Lôn Sơn" : "\"/item/final/65/6120\"",
+15381|<O>| //              notify( "Bạn không tìm thấy người chơi này." );
+15382|<O>| "Chiến Khải Hoàng Kim Đào Hoa Nguyên" : "\"/item/final/60/1085\"",
+15383|<O>| send_user(who, "%c%s", '!', "Định dạng sai!");
+15384|<O>| "Trường Hài Địa Linh Đào Hoa Nguyên" : "\"/item/final/88/1075\"",
+15385|<O>| "Chiến Khôi Thần Uy Vô Môn Phái" : "\"/item/final/65/8087\"",
+15386|<O>| case "Nhuyễn Giáp": type = "M_RUANJIA";  break;
+15387|<O>| "Kiền Vân Chi Quan Vân Mộng Trạch" : "\"/item/final/65/7110\"",
+15388|<O>| return "Loại trái cây nhiệt đới thơm ngon, trong 20 giây hồi phục 800 điểm khí huyết cho người chơi.";
+15389|<O>| send_user(me, "%c%s", '!', "Tài khoản người dùng không tồn tại");
+15390|<O>| Mỗi lần gọi đồng hồ đều phải kiểm tra số lần, nếu có lỗi phải báo cáo, và cho phép gọi
+15391|<O>| "Vòng Cổ Hoàng Hôn Côn Lôn Sơn" : "\"/item/final/86/6035\"",
+15392|<O>| "Khâm Thiên Chi Quan Vân Mộng Trạch" : "\"/item/final/65/7120\"",
+15393|<O>| if ( rate=who->get("anti_dirt")	)	//Kháng thổ
+15394|<O>| "Chiến Giáp Long Thần Vô Môn Phái" : "\"/item/final/60/8116\"",
+15395|<O>| "Chiến Khôi Phong Thần Vô Môn Phái" : "\"/item/final/65/8067\"",
+15396|<O>| printf( ECHO "Sử dụng \"" PF_NAME "\" phải trang bị kiếm." );
+15397|<O>| write_user(who, ECHO "Bạn bất giác run lên mấy cái.");
+15398|<O>| case 6: case 60: file = "Côn Lôn Sơn";  break;
+15399|<O>| npc->set_name(me->get_name() + " Dung Binh");
+15400|<O>| ESC"Nhận giải thưởng nạp tiền trực tiếp\ntalk %x# bonus.1007\n"
+15401|<O>| send_user(me, "%c%s", ';', "Mở hoạt động thành công!");
+15402|<O>| "Vong Hồn Chi Khải Cấm Vệ Quân" : "\"/item/final/60/3105\"",
+15403|<O>| "Chiến Hài Tinh Thần Cấm Vệ Quân" : "\"/item/final/88/3120\"",
+15404|<O>| "Chiến Bào Kiền Vân Côn Lôn Sơn" : "\"/item/final/60/6110\"",
+15405|<O>| if (get_z(me) != get_z(who))	// Nếu bản đồ không đúng
+15406|<O>| send_user(who, "%c%s", '!', "Ôn Thần 1/1");
+15407|<O>| "Pháp Bào Phong Thần Vô Môn Phái" : "\"/item/final/60/8066\"",
+15408|<O>| send_user(who, "%c%s", '!', "Thái Cửu 1/1");
+15409|<O>| log_file(LIST_LOG, "<!-- Nhạc Cụ -->\n\n");
+15410|<O>| if (gone_time(go_time) >= 5)				//Trở về vị trí ban đầu
+15411|<O>| write_user(me, ECHO "Chế độ tấn công sẽ chuyển đổi sau 10 phút");
+15412|<O>| "Vòng Cổ Chân Vũ Côn Lôn Sơn" : "\"/item/final/86/6080\"",
+15413|<O>| "Trường Hài Chiến Đấu Cấm Vệ Quân" : "\"/item/final/88/3055\"",
+15414|<O>| send_user(who,"%c%s",'!',"Hiện tại không có ai tham gia tranh cử");
+15415|<O>| "Vòng Cổ Huyền Kim Côn Lôn Sơn" : "\"/item/final/86/6065\"",
+15416|<O>| "Trường Hài Địa Linh Cấm Vệ Quân" : "\"/item/final/88/3075\"",
+15417|<O>| "Thánh Bào Thiên Tôn Vô Môn Phái" : "\"/item/final/60/8126\"",
+15418|<O>| "Vòng Cổ Lục Hồn Côn Lôn Sơn" : "\"/item/final/86/6100\"",
+15419|<O>| send_user(who, "%c%s", '!', "Kỳ phổ của bạn đâu?");
+15420|<O>| send_user(who, "%c%s", '!', "Chẩn Cửu 1/1");
+15421|<O>| "Vòng Cổ Huyền Kim Cấm Vệ Quân" : "\"/item/final/86/3065\"",
+15422|<O>| ESC "Quay lại\n%s\n", me->get_name(), cmd1);
+15423|<O>| "Chiến Hài Kỳ Lân Vô Môn Phái" : "\"/item/final/88/8107\"",
+15424|<O>| SAY_CMD->say(me, "Ta chém!! Ta chặt!!! Ta chém chém chém!!!");
+15425|<O>| if (item->is_auto_equip()    // Loại tự động trang bị
+15426|<O>| send_user(who,"%c%s",'!',"Bạn nhận được Chiến Quốc Bảo Điển.");
+15427|<O>| "Trường Hài Tàn Dương Cấm Vệ Quân" : "\"/item/final/88/3110\"",
+15428|<O>| ESC"Rời đi", me->get_name(), getoid(me)));
+15429|<O>| "Vòng Cổ Truy Phong Vô Môn Phái" : "\"/item/final/86/8046\"",
+15430|<O>| "Vòng Cổ Long Hồn Vân Mộng Trạch" : "\"/item/final/86/7105\"",
+15431|<O>| string get_name() { return "Thiên Ngoại Huyễn Cảnh Tầng 6"; }
+15432|<O>| reduce_item_amount(who, "Dưa Hấu Của Bác Dưa Hấu", 5);
+15433|<O>| who->set("desc", time());    // Không thể xem quá thường xuyên
+15434|<O>| case "Chiên Mạo": type = "M_ZHANMAO";  break;
+15435|<O>| return "Loại thương dài, thân thương làm bằng tre, rất sắc nhọn, có thể dễ dàng đâm thương động vật nhỏ.";
+15436|<O>| "Vòng Cổ Thủy Văn Vân Mộng Trạch" : "\"/item/final/86/7045\"",
+15437|<O>| "Pháp Bào Thiên Cơ Vân Mộng Trạch" : "\"/item/final/60/7065\"",
+15438|<O>| "Thương Khung Chi Quan Vân Mộng Trạch" : "\"/item/final/65/7115\"",
+15439|<O>| "Chiến Hài Thiên Tôn Vô Môn Phái" : "\"/item/final/88/8127\"",
+15440|<O>| case "Đạo Quan": type = "F_DAOGUAN";  break;
+15441|<O>| "Kiền Vân Chi Quan Côn Lôn Sơn" : "\"/item/final/65/6110\"",
+15442|<O>| interval = ADD_INTERVAL;    // Cẩn thận chuẩn bị me
+15443|<O>| string get_name() { return "Thiên Ngoại Huyễn Cảnh Tầng 3"; }
+15444|<O>| "Vòng Cổ Định Hồn Cấm Vệ Quân" : "\"/item/final/86/3030\"",
+15445|<O>| "Thần Khải Thiên Tôn Vô Môn Phái" : "\"/item/final/60/8127\"",
+15446|<O>| send_user(me, "%c%s", '!', "Mã game không đúng!");
+15447|<O>| "Vòng Cổ Huyền Nguyệt Côn Lôn Sơn" : "\"/item/final/86/6085\"",
+15448|<O>| "Trường Bào Vô Cực Côn Lôn Sơn" : "\"/item/final/60/6075\"",
+15449|<O>| "Chiến Khôi Đế Vương Đào Hoa Nguyên" : "\"/item/final/65/1095\"",
+15450|<O>| "Giày Tử Thủy Tinh Vân Mộng Trạch" : "\"/item/final/88/7085\"",
+15451|<O>| if( me == who ) return 0;    // Cấm tấn công bản thân
+15452|<O>| printf( ECHO "Sử dụng \"" PF_NAME "\" thể lực không đủ." );
+15453|<O>| ESC "Huấn luyện.\ntalk " + id + " stir_up.4\n"
+15454|<O>| //	send_user(me,"%c%s",'!',"Bạn vào trạng thái theo dõi");
+15455|<O>| "Thương Khung Chi Quan Côn Lôn Sơn" : "\"/item/final/65/6115\"",
+15456|<O>| "Lôi Thần Chi Quan Vô Môn Phái" : "\"/item/final/65/8077\"",
+15457|<O>| "Thánh Bào Long Thần Vô Môn Phái" : "\"/item/final/60/8117\"",
+15458|<O>| tell_user(me, "Vui lòng xem các file trong /log/make/.");
+15459|<O>| send_user(me, "%c%s", '!', "Thời gian ký gửi không đúng");
+15460|<O>| + sprintf(ESC"Tứ Sắc Cầu\ntalk %x# bonus.1\n"
+15461|<O>| //        tell_user(me, "Vị trí chiến trường:%d", z);
+15462|<O>| "Vòng Cổ Thần Uy Vô Môn Phái" : "\"/item/final/86/8096\"",

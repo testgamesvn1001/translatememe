@@ -1,71 +1,71 @@
-﻿12422|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Cung đìnhcủahuyên Náo");
-12423|<O>| if (!get_effect(me, EFFECT_CHAR_LAZY_0))		//khôngdiên hoãn
-12424|<O>| private int Birthday;                   // sinh Nhậtgiờgian
-12425|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Bình Dương Chi Loạn2");
-12426|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"công tượngcủanguyện vọng");
-12427|<O>| tell_user(me, "Mục lục:" DIR_COLOR + me->get_cwd());
-12428|<O>| send_user(who, "%c%s", '!', "chế địnhngoàigiao Sách lượccần 50 điểm Thể lực。");
-12429|<O>| private int WeaponType;                 // Vũ khíloại biệt
-12430|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Phá Trừ Dao Ngôn4");
-12431|<O>| result = sprintf("Bạncủatốthữu%sly tuyến。", me->get_name());
-12432|<O>| int    Position;                        // Gia tộc bối phần
-12433|<O>| else if (rate < 10000 * rate1 / 100)	//Ngẫu nhiênKỹ năngtiến giai1Bản
-12434|<O>| tell_user(me, "Nhân Vật: %d － %dloại ＝ Nhân Vật(%d) ＋ dùng Hộ(%d)",
-12435|<O>| item = present("Di thấtcủaBảo Vật", who, 1, MAX_CARRY * 4);
-12436|<O>| send_user(who, "%c%s", '!', "khôngkiện Khang du hígiờgian Cấm chỉSử dụngChiến Quốc Lệnh。");
-12437|<O>| me->set_pay_money_buy_item(0);    // Hủy bỏthông quađiểmsốMuaĐạo cụ
-12438|<O>| else if (sscanf(arg, "?? %s", id))    // tra tuần Vật Phẩm miêu thuật
-12439|<O>| private int IdLocked;                   // dùng Hộ Tỏa định
-12440|<O>| private int Total;                      // Bang Chúng Nhân số
-12441|<O>| if (me->get_mp() < (mp = SUB_MP))    // cẩn thận chuẩn bị me
-12442|<O>| private int NoTell = 0;                 // Cấm chỉ tư liêu
-12443|<O>| return "đại biểu Sơ Học giảcủaTín Vật，\nphảikiệnđiểmkíchSử dụngcó thể Trực tiếpTruyền tốngHồiTân Thủ Thôn。\nThời gian hồi:1phút";
-12444|<O>| tell_user(me, "đoạn tạoTỷ lệ thành công %d hiệnTạimấy suất %d", rate, rate1);
-12445|<O>| int get_cast_seal() { return 9102; }    // Phù Chỉnghịch Toàn
-12446|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"trầm mặccủaKiếm Hồn");
-12447|<O>| private static int BuyRange;            // mua Nhập sai giá
-12448|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"tra phỏng tri Tình Nhân");
-12449|<O>| else if (rate < 7000 * rate1 / 100)		//tàn thiếuBảo Thạchkhoáng 2
-12450|<O>| write_user(who, ECHO "BạncủaKinh nghiệm %+d, Tiềm năng +5。", flag);
-12451|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Thủ Xảocủacông tượng");
-12452|<O>| set_name("hãn phỉ" + NPC_NAME_D->get_robber_name());
-12453|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Di vongcủathệ Ngôn");
-12454|<O>| send_user( who, "%c%s", '!', "Xin TiênHoàn thànhThủtrêncủatrị AnNhiệm vụ。" );
-12455|<O>| give_item(who, "/item/sell/0010", 10);	//tốc hiệuPhục hồiDượcThủy
-12456|<O>| return "Một loạiKỳ dịcủaHồng Sắc tinh Thạch，Sau khi sử dụng mỗi1giây có thể phục hồi100điểm Khí Huyết。hiệu Quảkéo dài600phút。";
-12457|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Du Hồn（3）");
-12458|<O>| private static int PicId;               // Nhân Vật tạo hình
-12459|<O>| else if (rate < 9000 * rate1 / 100)		//Tinh tríBảo Thạchkhoáng 2
-12460|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"quân doanhcủabổcho");
-12461|<O>| if (!item) item = new ("item/01/0008");		//Phượnghoàng Ngọc bội
-12462|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Nhân Duyên Chi Lộ5");
-12463|<O>| //			+ sprintf(ESC"321thế giớivõng du Nhật song bộiKinh nghiệmgiờgian\nparty 23\n")
-12464|<O>| send_user(who, "%c%s", '!', "hữutốtđộcaovu 300 Tài Năng Đồng minh！");
-12465|<O>| write_user(me, ECHO "Bạn đột nhiên gian giác được Thậpphútlao lũy！BạncủaThể lựcgiảmít 20 điểm。");
-12466|<O>| send_user(who, "%c%s", '!', "tìm tìmdodolookhoạt độngMở！");
-12467|<O>| if( point = who->get_change_hurt() )    // càn khôn na Di
-12468|<O>| if( inside_screen_2(me, who) )    // sưu sách(chủ Nhân)tối cậnquái vật
-12469|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Đao Hồn Truyền Thuyết1");
-12470|<O>| send_user(who, "%c%s", '!', "Xin Thanh lýmột chútbạncủabao bao lại đến lĩnh thủ ！");
-12471|<O>| pet->set("anti_blind",1); //kháng EFFECT_CHAR_BLIND
-12472|<O>| private static int AttackMode;          // Tấn côngmô thức
-12473|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Luyện Dược Chi Lộ5");
-12474|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Bình Dương Chi Loạn5");
-12475|<O>| private int Divorced;                   // ly Hônlầnsố
-12476|<O>| int is_zombie() { return Zombie; }      // Y Thuật Sát Thương
-12477|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Đòi Thần Kiếm1");
-12478|<O>| private int BonusValue;                 // Công Đức giá Trị
-12479|<O>| private int NoTrade = 0;                // Cấm chỉgiao dịch
-12480|<O>| private static int PhotoId;             // Nhân Vật đầu tượng
-12481|<O>| notify("Bạntừ%sxử thủ Xuất %d Vàng。", who->get_name(), gold);
-12482|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"quản Giacủakhổ não");
-12483|<O>| private int LockUntil;                  // Tỏa địnhgiờgian
-12484|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Du Hồn（4）");
-12485|<O>| int Point;                              // đươngtrướcsố Trị
-12486|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Dũng sấmThiên Môn Trận");
-12487|<O>| private static int Code;                // Y  đại mã
-12488|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"thủ VệcủaDi hám");
-12489|<O>| send_user(who, "%c%s", ';', "cung hỷbạnhoạch được " + result);
-12490|<O>| set_effect(me, EFFECT_USER_HERB, 2);    // Tiếp tụcThu thập
-12491|<O>| send_user(who, "%c%s", '!', "bì lao du hígiờgian Cấm chỉ lĩnh thủ tế Thế hồ lô。");
-12492|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Luyện Dược Chi Lộ1");
+﻿12422|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Sự Huyên Náo Trong Cung Đình");
+12423|<O>| if (!get_effect(me, EFFECT_CHAR_LAZY_0))		//Không chậm lại
+12424|<O>| private int Birthday;                   // Ngày sinh
+12425|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Bình Dương Chi Loạn 2");
+12426|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Nguyện Vọng Của Thợ Thủ Công");
+12427|<O>| tell_user(me, "Thư mục:" DIR_COLOR + me->get_cwd());
+12428|<O>| send_user(who, "%c%s", '!', "Lập chiến lược ngoại giao cần 50 điểm thể lực.");
+12429|<O>| private int WeaponType;                 // Loại vũ khí
+12430|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Phá Bỏ Tin Đồn 4");
+12431|<O>| result = sprintf("Bạn bè %s của bạn đã offline.", me->get_name());
+12432|<O>| int    Position;                        // Thứ bậc gia tộc
+12433|<O>| else if (rate < 10000 * rate1 / 100)	//1 sách kỹ năng tiến giai ngẫu nhiên
+12434|<O>| tell_user(me, "Nhân vật: %d－%d loại ＝ Nhân vật(%d) ＋ Người dùng(%d)",
+12435|<O>| item = present("Bảo Vật Thất Lạc", who, 1, MAX_CARRY * 4);
+12436|<O>| send_user(who, "%c%s", '!', "Thời gian chơi game không lành mạnh, cấm sử dụng Chiến Quốc Lệnh.");
+12437|<O>| me->set_pay_money_buy_item(0);    // Hủy mua đạo cụ bằng điểm
+12438|<O>| else if (sscanf(arg, "?? %s", id))    // Truy vấn mô tả vật phẩm
+12439|<O>| private int IdLocked;                   // Khóa tài khoản
+12440|<O>| private int Total;                      // Tổng số bang chúng
+12441|<O>| if (me->get_mp() < (mp = SUB_MP))    // Cẩn thận chuẩn bị me
+12442|<O>| private int NoTell = 0;                 // Cấm nhắn riêng
+12443|<O>| return "Tín vật của người mới bắt đầu,\nnhấn chuột phải sử dụng để truyền tống trực tiếp về Làng Tân Thủ.\nThời gian hồi chiêu: 1 phút";
+12444|<O>| tell_user(me, "Tỷ lệ thành công rèn %d xác suất hiện tại %d", rate, rate1);
+12445|<O>| int get_cast_seal() { return 9102; }    // Phù Chỉ Nghịch Toàn
+12446|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Kiếm Hồn Câm Lặng");
+12447|<O>| private static int BuyRange;            // Chênh lệch giá mua
+12448|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Thăm Dò Người Biết Chuyện");
+12449|<O>| else if (rate < 7000 * rate1 / 100)		//2 mỏ bảo thạch tàn khuyết
+12450|<O>| write_user(who, ECHO "Kinh nghiệm của bạn %+d, Tiềm năng +5.", flag);
+12451|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Người Thợ Khéo Tay");
+12452|<O>| set_name("Hãn Phỉ" + NPC_NAME_D->get_robber_name());
+12453|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Lời Thề Bị Lãng Quên");
+12454|<O>| send_user( who, "%c%s", '!', "Hãy hoàn thành nhiệm vụ trị an trước đã." );
+12455|<O>| give_item(who, "/item/sell/0010", 10);	//Thuốc hồi phục tốc hiệu
+12456|<O>| return "Một loại tinh thạch đỏ kỳ lạ, sử dụng mỗi 1 giây hồi phục 100 điểm khí huyết. Hiệu lực kéo dài 600 phút.";
+12457|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Du Hồn（3）");
+12458|<O>| private static int PicId;               // Hình dạng nhân vật
+12459|<O>| else if (rate < 9000 * rate1 / 100)		//2 mỏ bảo thạch tinh xảo
+12460|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tiếp Tế Cho Quân Doanh");
+12461|<O>| if (!item) item = new ("item/01/0008");		//Phượng Hoàng Ngọc Bội
+12462|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Con Đường Nhân Duyên 5");
+12463|<O>| //			+ sprintf(ESC"Thời gian kinh nghiệm gấp đôi ngày 321 Game Online Thế Giới\nparty 23\n")
+12464|<O>| send_user(who, "%c%s", '!', "Độ hữu hảo trên 300 mới có thể liên minh!");
+12465|<O>| write_user(me, ECHO "Bạn bỗng cảm thấy vô cùng mệt mỏi! Thể lực của bạn giảm 20 điểm.");
+12466|<O>| send_user(who, "%c%s", '!', "Hoạt động tìm dodolook đã mở!");
+12467|<O>| if( point = who->get_change_hurt() )    // Càn Khôn Na Di
+12468|<O>| if( inside_screen_2(me, who) )    // Tìm quái gần nhất (của chủ nhân)
+12469|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Đao Hồn Truyền Thuyết 1");
+12470|<O>| send_user(who, "%c%s", '!', "Hãy dọn dẹp ba lô rồi quay lại nhận nhé!");
+12471|<O>| pet->set("anti_blind",1); //Kháng EFFECT_CHAR_BLIND
+12472|<O>| private static int AttackMode;          // Chế độ tấn công
+12473|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Con Đường Luyện Thuốc 5");
+12474|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Bình Dương Chi Loạn 5");
+12475|<O>| private int Divorced;                   // Số lần ly hôn
+12476|<O>| int is_zombie() { return Zombie; }      // Sát thương y thuật
+12477|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tìm Thần Kiếm 1");
+12478|<O>| private int BonusValue;                 // Giá trị công đức
+12479|<O>| private int NoTrade = 0;                // Cấm giao dịch
+12480|<O>| private static int PhotoId;             // Ảnh đại diện nhân vật
+12481|<O>| notify("Bạn rút %d vàng từ %s.", who->get_name(), gold);
+12482|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Nỗi Khổ Của Quản Gia");
+12483|<O>| private int LockUntil;                  // Thời gian khóa
+12484|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Du Hồn（4）");
+12485|<O>| int Point;                              // Giá trị hiện tại
+12486|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Dũng Cảm Xông Pha Thiên Môn Trận");
+12487|<O>| private static int Code;                // Mã trang phục
+12488|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Sự Tiếc Nuối Của Lính Canh");
+12489|<O>| send_user(who, "%c%s", ';', "Chúc mừng bạn nhận được " + result);
+12490|<O>| set_effect(me, EFFECT_USER_HERB, 2);    // Tiếp tục thu hái
+12491|<O>| send_user(who, "%c%s", '!', "Thời gian chơi game mệt mỏi, cấm nhận Tế Thế Hồ Lô.");
+12492|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Con Đường Luyện Thuốc 1");

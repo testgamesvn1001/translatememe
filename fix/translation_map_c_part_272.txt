@@ -1,61 +1,61 @@
-﻿9561|<O>| if (TASK_LEGEND_D->check_task_item(who, "燕总管的信", 1) != 1)
-9562|<O>| send_user(who, "%c%s", '!', sprintf(HIY"特殊泥土 %d/20", i));
-9563|<O>| write_user(who, ECHO "您交纳 %d 金升至 %d 级！(%s经验:%d；升级所需:%d)",
-9564|<O>| /*              else if( p < 4740 * rate / 100 )    // 金钱
-9565|<O>| /*              else if( p < 4322 * rate / 100 )    // 金钱
-9566|<O>| /*              else if( p < 2446 * rate / 100 )    // 金钱
-9567|<O>| return HIR + PF_NAME + "\n技能需求:4级\n    持续15秒内提升17％的回避率。";
-9568|<O>| /*              else if( p < 2578 * rate / 100 )    // 金钱
-9569|<O>| send_user(who, "%c%s", '!', sprintf(HIY"绿壳蜘蛛 %d/10", i));
-9570|<O>| send_user(who, "%c%s", '!', sprintf(HIY"太极门众守 %d/6", i));
-9571|<O>| tmp += sprintf(ESC HIY "失而复得\ntalk %x# welcome.6\n", id);
-9572|<O>| send_user(who, "%c%s", '!', sprintf(HIY"刀盾骷髅 %d/10", i));
-9573|<O>| notify("%s不收你的%s。", who->get_name(), obj[i]->get_name());
-9574|<O>| if (!clonep(me)) return "［精炼］ 法力\n［适用装备］ 衣服、腰带、项链、鞋子、帽子";
-9575|<O>| /*              else if( p < 4564 * rate / 100 )    // 金钱
-9576|<O>| /*              else if( p < 4528 * rate / 100 )    // 金钱
-9577|<O>| #define SUMMON_LOG      "gm/summon.txt"         // 召唤日志文件
-9578|<O>| result = sprintf(ESC "领取经商凭证。\ntalk %x# cheque.?\n", id);
-9579|<O>| cmd = sprintf(ESC HIY "完成拜访\ntalk %x# welcome.15\n", id);
-9580|<O>| case 1: level = 30;  log_file(LIST_LOG, "桃花源\n");  break;
-9581|<O>| private static int Color1;              // 背饰1颜色(色码２，色码１)
-9582|<O>| /*              else if( p < 2534 * rate / 100 )    // 金钱
-9583|<O>| /*              else if( p < 4018 * rate / 100 )    // 金钱
-9584|<O>| tmp += sprintf(ESC HIY "探明原因\ntalk %x# welcome.8\n", id);
-9585|<O>| if (TASK_LEGEND_D->check_task_item(who, "机关构件", 10) != 1)
-9586|<O>| send_user(who, "%c%s", ';', "英雄梦 经验 1500 潜能 60 金钱 1200");
-9587|<O>| tmp += sprintf(ESC HIY "接受考验\ntalk %x# welcome.4\n", id);
-9588|<O>| #define SKILL_LOG       "user/skill.txt"        // 删除技能日志
-9589|<O>| cTmp = sprintf("您得到" HIY "%s" NOR "！", item->get_name());
-9590|<O>| /*              else if( p < 2494 * rate / 100 )    // 金钱
-9591|<O>| ESC +sprintf("接受。\ntalk %x# accept_thief\n",getoid(me)) +
-9592|<O>| &&      random(100) < item->get_active_rate() )    // 成功率
-9593|<O>| /*              else if( p < 9040 * rate / 100 )    // 金钱
-9594|<O>| //              send_user(me, "%c%s", '!', "您得到田地采集草药。");
-9595|<O>| /*              else if( p < 4993 * rate / 100 )    // 金钱
-9596|<O>| /*              else if( p < 4650 * rate / 100 )    // 金钱
-9597|<O>| tmp += sprintf(ESC HIY "魏国百姓\ntalk %x# welcome.8\n", id);
-9598|<O>| /*              else if( p < 4592 * rate / 100 )    // 金钱
-9599|<O>| tmp = sprintf(ESC HIY "欺诈的天罚\ntalk %x# welcome.1\n", id);
-9600|<O>| tmp += sprintf(ESC HIY "官府备案\ntalk %x# welcome.1\n", id);
-9601|<O>| /*              else if( p < 4436 * rate / 100 )    // 金钱
-9602|<O>| /*              else if( p < 4508 * rate / 100 )    // 金钱
-9603|<O>| #define CALL_ITEM_LOG   "gm/callitem.txt"       // 物体调用日志
-9604|<O>| cWord = "府上告示:\n　　此乃"HIR"诛仙阵"NOR"，阵中封印了无数千年妖魔，非能力高强者勿进。";
-9605|<O>| send_user(who, "%c%s", '!', sprintf(HIY"侍卫亡灵 %d/25", i));
-9606|<O>| tmp += sprintf(ESC HIY "家庭聚会\ntalk %x# welcome.8\n", id);
-9607|<O>| pos=get_save_2(sprintf("%s.%d.pos",type,id)); //当前玩家第pos名
-9608|<O>| /*              else if( p < 2368 * rate / 100 )    // 金钱
-9609|<O>| if (!clonep(me)) return "［精炼］ 气血\n［适用装备］ 衣服、腰带、项链、鞋子、帽子";
-9610|<O>| /*              else if( p < 4924 * rate / 100 )    // 金钱
-9611|<O>| tmp += sprintf(ESC HIY "巨鹿传说\ntalk %x# welcome.4\n", id);
-9612|<O>| /*              else if( p < 6416 * rate / 100 )    // 金钱
-9613|<O>| if (TASK_LEGEND_D->check_task_item(who, "完美橙晶石", 1) != 1)
-9614|<O>| /*              else if( p < 2382 * rate / 100 )    // 金钱
-9615|<O>| tmp += sprintf(ESC HIY "民间探访\ntalk %x# welcome.6\n", id);
-9616|<O>| SAY_CMD->say(me, "朋友,省省吧,就你这三脚猫的功夫还想杀我,看来那100件宝贝不属于你……");
-9617|<O>| case "茅山" : if( flag != 5 && flag!=9 ) flag = -1;  break;
-9618|<O>| cWord = sprintf(me->get_name() + ":\n    种子是你想要的，你拿去吧！");
-9619|<O>| && (npc = find_char(id)) && npc->is_rascal())    // 40 分钟
-9620|<O>| tmp += sprintf(ESC HIY "解除疑惑\ntalk %x# welcome.1\n", id);
-9621|<O>| send_user(who, "%c%s", '!', sprintf(HIY"太极门众守 %d/8", i));
+﻿9561|<O>| if (TASK_LEGEND_D->check_task_item(who, "Thư Của Yên Tổng Quản", 1) != 1)
+9562|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Đất Đặc Biệt %d/20", i));
+9563|<O>| write_user(who, ECHO "Bạn nộp %d vàng thăng lên cấp %d! (%s kinh nghiệm:%d; Cần để thăng cấp:%d)",
+9564|<O>| /*              else if( p < 4740 * rate / 100 )    // Tiền vàng
+9565|<O>| /*              else if( p < 4322 * rate / 100 )    // Tiền vàng
+9566|<O>| /*              else if( p < 2446 * rate / 100 )    // Tiền vàng
+9567|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 4\n    Trong 15 giây liên tục tăng 17% tỷ lệ né tránh.";
+9568|<O>| /*              else if( p < 2578 * rate / 100 )    // Tiền vàng
+9569|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Nhện Vỏ Xanh %d/10", i));
+9570|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Thái Cực Môn Chúng Thủ %d/6", i));
+9571|<O>| tmp += sprintf(ESC HIY "Mất Rồi Lại Được\ntalk %x# welcome.6\n", id);
+9572|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Đao Thuẫn Cốt Lâu %d/10", i));
+9573|<O>| notify("%s không nhận %s của bạn.", who->get_name(), obj[i]->get_name());
+9574|<O>| if (!clonep(me)) return "［Tinh luyện］ Pháp lực\n［Trang bị phù hợp］ Áo, đai lưng, vòng cổ, giày, mũ";
+9575|<O>| /*              else if( p < 4564 * rate / 100 )    // Tiền vàng
+9576|<O>| /*              else if( p < 4528 * rate / 100 )    // Tiền vàng
+9577|<O>| #define SUMMON_LOG      "gm/summon.txt"         // Tệp nhật ký triệu hoán
+9578|<O>| result = sprintf(ESC "Nhận bằng kinh doanh.\ntalk %x# cheque.?\n", id);
+9579|<O>| cmd = sprintf(ESC HIY "Hoàn Thành Bái Phỏng\ntalk %x# welcome.15\n", id);
+9580|<O>| case 1: level = 30;  log_file(LIST_LOG, "Đào Hoa Nguyên\n");  break;
+9581|<O>| private static int Color1;              // Màu trang sức lưng 1(mã màu 2, mã màu 1)
+9582|<O>| /*              else if( p < 2534 * rate / 100 )    // Tiền vàng
+9583|<O>| /*              else if( p < 4018 * rate / 100 )    // Tiền vàng
+9584|<O>| tmp += sprintf(ESC HIY "Truy Tìm Nguyên Nhân\ntalk %x# welcome.8\n", id);
+9585|<O>| if (TASK_LEGEND_D->check_task_item(who, "Cơ Quan Cấu Kiện", 10) != 1)
+9586|<O>| send_user(who, "%c%s", ';', "Mộng Anh Hùng Kinh nghiệm 1500 Tiềm năng 60 Tiền vàng 1200");
+9587|<O>| tmp += sprintf(ESC HIY "Tiếp Nhận Thử Thách\ntalk %x# welcome.4\n", id);
+9588|<O>| #define SKILL_LOG       "user/skill.txt"        // Nhật ký xóa kỹ năng
+9589|<O>| cTmp = sprintf("Bạn nhận được " HIY "%s" NOR "!", item->get_name());
+9590|<O>| /*              else if( p < 2494 * rate / 100 )    // Tiền vàng
+9591|<O>| ESC +sprintf("Tiếp nhận.\ntalk %x# accept_thief\n",getoid(me)) +
+9592|<O>| &&      random(100) < item->get_active_rate() )    // Tỷ lệ thành công
+9593|<O>| /*              else if( p < 9040 * rate / 100 )    // Tiền vàng
+9594|<O>| //              send_user(me, "%c%s", '!', "Bạn thu hoạch được thảo dược từ ruộng.");
+9595|<O>| /*              else if( p < 4993 * rate / 100 )    // Tiền vàng
+9596|<O>| /*              else if( p < 4650 * rate / 100 )    // Tiền vàng
+9597|<O>| tmp += sprintf(ESC HIY "Bách Tính Ngụy Quốc\ntalk %x# welcome.8\n", id);
+9598|<O>| /*              else if( p < 4592 * rate / 100 )    // Tiền vàng
+9599|<O>| tmp = sprintf(ESC HIY "Thiên Phạt Lừa Đảo\ntalk %x# welcome.1\n", id);
+9600|<O>| tmp += sprintf(ESC HIY "Quan Phủ Bị Án\ntalk %x# welcome.1\n", id);
+9601|<O>| /*              else if( p < 4436 * rate / 100 )    // Tiền vàng
+9602|<O>| /*              else if( p < 4508 * rate / 100 )    // Tiền vàng
+9603|<O>| #define CALL_ITEM_LOG   "gm/callitem.txt"       // Nhật ký gọi vật thể
+9604|<O>| cWord = "Thông cáo của phủ:\n　　Đây là "HIR"Tru Tiên Trận"NOR", trong trận phong ấn vô số yêu ma ngàn năm, người không đủ năng lực xin chớ vào.";
+9605|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Thị Vệ Vong Linh %d/25", i));
+9606|<O>| tmp += sprintf(ESC HIY "Họp Mặt Gia Đình\ntalk %x# welcome.8\n", id);
+9607|<O>| pos=get_save_2(sprintf("%s.%d.pos",type,id)); //Vị trí thứ pos hiện tại của người chơi
+9608|<O>| /*              else if( p < 2368 * rate / 100 )    // Tiền vàng
+9609|<O>| if (!clonep(me)) return "［Tinh luyện］ Khí huyết\n［Trang bị phù hợp］ Áo, đai lưng, vòng cổ, giày, mũ";
+9610|<O>| /*              else if( p < 4924 * rate / 100 )    // Tiền vàng
+9611|<O>| tmp += sprintf(ESC HIY "Truyền Thuyết Cự Lộc\ntalk %x# welcome.4\n", id);
+9612|<O>| /*              else if( p < 6416 * rate / 100 )    // Tiền vàng
+9613|<O>| if (TASK_LEGEND_D->check_task_item(who, "Hoàn Mỹ Cam Tinh Thạch", 1) != 1)
+9614|<O>| /*              else if( p < 2382 * rate / 100 )    // Tiền vàng
+9615|<O>| tmp += sprintf(ESC HIY "Thăm Dò Dân Gian\ntalk %x# welcome.6\n", id);
+9616|<O>| SAY_CMD->say(me, "Bạn ơi, thôi đi, chỉ với mấy chiêu tam cước miêu của bạn mà còn muốn giết ta, xem ra 100 món bảo bối kia không thuộc về bạn đâu……");
+9617|<O>| case "Mao Sơn" : if( flag != 5 && flag!=9 ) flag = -1;  break;
+9618|<O>| cWord = sprintf(me->get_name() + ":\n    Hạt giống là thứ ngươi muốn, ngươi cầm đi!");
+9619|<O>| && (npc = find_char(id)) && npc->is_rascal())    // 40 phút
+9620|<O>| tmp += sprintf(ESC HIY "Giải Tỏa Nghi Ngờ\ntalk %x# welcome.1\n", id);
+9621|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Thái Cực Môn Chúng Thủ %d/8", i));

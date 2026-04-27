@@ -1,79 +1,79 @@
-﻿14574|<O>| return "Nhân Sâm Vương:\n    kéo dài1giờtrongCó thể nângNgười chơi2000điểm Khí Huyếttrênhạn。";
-14575|<O>| add_ap(get_ap() * 320 / 100);      //Vật lý tấn công
+﻿14574|<O>| return "Nhân Sâm Vương:\n    Trong 1 giờ tăng 2000 điểm khí huyết tối đa cho người chơi.";
+14575|<O>| add_ap(get_ap() * 320 / 100);      //Tấn công vật lý
 14576|<O>| send_user(who, "%c%s", '!', HIY"Bảo Đỉnh 1/1");
-14577|<O>| else if (p < 9398 * rate / 100)    // Tạp vật１
-14578|<O>| ESC "tôiđãquyết định，bạnkhôngdùng lại khuyếntôi\ntalk %x# welcome.3\n"
-14579|<O>| case 0: write_user(me, ECHO "bạnchiếm được Quy Muội quẻ，hung。");
-14580|<O>| send_user(who, "%c%s", '!', "Ác công đầu Hồ Sơn 1/1");
-14581|<O>| send_user(who, "%c%s", '!', "Ác Bá TềnhỏLục 1/1");
-14582|<O>| send_user(me, "%c%s", '!', "đãCóTương Đồngcủanhân vậtDanh。");
-14583|<O>| desc = "Chiến Quốcgiờđại tối Hào Hoacủabộ xan，14giây phục hồi cho người chơi1540điểmHuyết khí dữPháp LựcTrị。";
-14584|<O>| send_user(me, "%c%s", '!', "Bạn ThântrênĐái Vật phẩm quý giá。");
-14585|<O>| printf(ECHO "chỉNăngđối vớibản thâncủaTriệu hồithúSử dụng“" PF_NAME "”。");
-14586|<O>| send_user(me, "%c%s", '!', "Bạn huề Đáicủađồ vậtTháinhiều。");
-14587|<O>| DEBUG(sprintf("Kiểm tra-->else %sbiểu càngmớiThành công",type));
-14588|<O>| printf(ECHO "Bạn đượcCóHồingàyTâm Pháp Tài NăngSử dụng“" PF_NAME "”。");
-14589|<O>| else if (p < 9046 * rate / 100)    // Tạp vật１
-14590|<O>| send_user(who, "%c%s", '!', "bạncủaCấp độkhôngđủ20cấp");
-14591|<O>| who->add_strength(-1);    // Thể lực -1, Thanh vọng +X
-14592|<O>| if (npc->get_name() != "Tu lý điếm Lão bản") return 1;
-14593|<O>| send_user(me, "%c%s", '!', "ký thụ tra tuầnQuay vềTrị sai ngộ！");
-14594|<O>| send_user(who, "%c%s", '!', "Quốc khánh tặng lễhoạt độngĐóng！");
-14595|<O>| send_user(me, "%c%s", '!', "điểmthẻ ký thụQuay vềTrị sai ngộ！");
-14596|<O>| send_user(who, "%c%s", '!', "Bạnkhônghiểu được như Hà du nói。");
-14597|<O>| if (!me->get_trade_open())    // Sử dụngcó thểĐả mở tần Đạo
-14598|<O>| else if (p < 9990 * rate / 100)    // Tạp vật２
-14599|<O>| x = 228;  y = 193;    // get_jumpout trongHàm z
-14600|<O>| notify(item2->get_name() + "đã đưa lên kệ，không thểDi Động。");
-14601|<O>| return sprintf(PF_NAME ":\n　　Vũ khíPhong Ấn trạng thái。\n");
-14602|<O>| x = 103;  y = 145;    // get_jumpout trongHàm z
-14603|<O>| send_user(who, "%c%s", '!', "phó bảnhệ thốngThượng vị mở Phóng！");
-14604|<O>| return sprintf(PF_NAME ":\n　　kéo dàibổ mãn Nguyên khí。\n");
-14605|<O>| desc = "Thanh điềmcủaMột loạiHàmThủylượng Phong phúcủaThủyQuả,20giây phục hồi cho người chơi1100điểm Khí Huyết。";
-14606|<O>| else if (p < 9476 * rate / 100)    // Tạp vật１
-14607|<O>| SAY_CMD->say(me, "ngu xuẩncủaNhân loại！！Bản Vươngcầnbạnthường thường Luyện ngụccủatư vị！");
-14608|<O>| send_user(who, "%c%s", '!', "Bạn ThủtrêncủahiệnVàngkhôngđủ。");
-14609|<O>| ESC"Tamchỉcầu(Hắc+Lam+Hồng)đổi hoánTử Sâm Đơn\ntalk %x# bonus.24\n"
-14610|<O>| send_user(me, "%c%s", '!', "tuyếntrênĐả Bảohoạt độngđãMở！");
-14611|<O>| tell_user(me, "tảo miêu Mục lục: %s i=%d", path2, i);
-14612|<O>| sprintf("%s:\n    Thái――Tuyệt vời，tôi――tôiNhất Trực rất――rất muốncầnnày！"
-14613|<O>| else if (p < 9480 * rate / 100)    // Tạp vật１
-14614|<O>| SAY_CMD->say(me, "sấm tiến Hoàng LăngcủaNhânTạitôinàytrong，mọi ngườinhanhđến trảo trụhắn。");
-14615|<O>| me->init_enemy_damage(0, 0);    // Thanh trừ Thương hại trạng thái
-14616|<O>| else if (p < 9346 * rate / 100)    // Tạp vật１
-14617|<O>| send_user(who, "%c%s", '!', "chỉnhiềuchỉNăng đầu giáng Nhấtlần！");
-14618|<O>| ESC "Giới nghiêmHủy bỏ\n" + "gmfight forbbit none\n" +
-14619|<O>| private  int WeaponCode = UNARMED;// Vũ khíđại mã
-14620|<O>| send_user(me, "%c%s", '!', "tuyếntrênĐả Bảohoạt độngđãĐóng！");
-14621|<O>| send_user(me, "%c%s", '!', "thường thử hiệu mã sai ngộlầnsố quanhiều");
-14622|<O>| return "［PhiTiênKiếm Pháp］NângSử dụngKiếmcủaLực tấn công phép thuật，Mỗi cấp tăng 2.5 điểm。\n";
-14623|<O>| send_user(who, "%c%s", '!', "hiệnTạichưa cóphó Thành chủ。");
-14624|<O>| send_user(who, "%c%s", '!', "Bạn nhu dự bị Lục Không gian。");
-14625|<O>| send_user(who, "%c%s", '!', "bạnbịthủ Hộ Linh thú Đả bại");
-14626|<O>| ({"Vương bổ đầu xử có thể tiếp","thất thiếtNhiệm vụ","tiễu phỉNhiệm vụ","Nhiệm vụ vận tiêu","Sư giaNhiệm vụ"}),
-14627|<O>| send_user(who, "%c%s", '!', "bạnlĩnh thủ tế Thế hồ lô！");
-14628|<O>| send_user(me, "%c%s", '!', "Bạnnhận đượcđiền ĐịaThu thậpThảo Dược。");
-14629|<O>| if (!environment()) return 0;    // MụccủakhôngtồnTại
-14630|<O>| send_user(who, "%c%s", '!', "Bạnkhông cótúc đủcủaPháp Lực。");
-14631|<O>| else if (p < 9500 * rate / 100)    // Tạp vật２
-14632|<O>| send_user(who, "%c%s", '!', "không cóQuốc Gia Nhập xâm quý Quốc！");
-14633|<O>| //                ESC "điều chỉnh Tửu ThựcKỹ năng\n" + cmd1 +
-14634|<O>| send_user(who, "%c%s", '!', "BạnđãLàHậu tuyển Nhân。");
-14635|<O>| private static int DoubleRate;			// Vật lý Bạo kích suất
-14636|<O>| return "mỗilầnThành côngHoàn thànhSư gia Sát tùNhiệm vụhoạch được1.3bộicủaTiềm năngphần thưởng。có thểSử dụng50lần。";
-14637|<O>| int cycle_time;					//	Luân tìmgiờgian -- thửgiờgian do dùng Hộ Tự Hành thiết định
-14638|<O>| return "［ngàyLa Đao Pháp］NângSử dụngĐaocủaTấn côngLực，Mỗi cấp tăng 2.5 điểm Lực tấn công\n";
-14639|<O>| else if (p < 9100 * rate / 100)    // Tạp vật１
-14640|<O>| send_user(who, "%c%s", '!', "BạnđãlĩnhTiền Phiếu。");
-14641|<O>| else if (p < 9498 * rate / 100)    // Tạp vật２
-14642|<O>| write_user(me, ECHO "Bạnchonông tác Vật trừ trùng，kết quảnódàiđược càngtốt。");
+14577|<O>| else if (p < 9398 * rate / 100)    // Tạp vật 1
+14578|<O>| ESC "Tôi đã quyết định, bạn không cần khuyên nữa\ntalk %x# welcome.3\n"
+14579|<O>| case 0: write_user(me, ECHO "Bạn bói được quẻ Quy Muội, hung.");
+14580|<O>| send_user(who, "%c%s", '!', "Ác Công Đầu Hồ Sơn 1/1");
+14581|<O>| send_user(who, "%c%s", '!', "Ác Bá Tề Tiểu Lục 1/1");
+14582|<O>| send_user(me, "%c%s", '!', "Đã có tên nhân vật trùng rồi.");
+14583|<O>| desc = "Bữa tiệc sang trọng nhất thời Chiến Quốc, trong 14 giây hồi phục 1540 điểm khí huyết và pháp lực cho người chơi.";
+14584|<O>| send_user(me, "%c%s", '!', "Bạn đang mang vật phẩm quý giá.");
+14585|<O>| printf(ECHO "Chỉ có thể dùng \"" PF_NAME "\" cho triệu hoán thú của mình.");
+14586|<O>| send_user(me, "%c%s", '!', "Bạn mang theo quá nhiều đồ vật.");
+14587|<O>| DEBUG(sprintf("Test-->else %s cập nhật bảng thành công",type));
+14588|<O>| printf(ECHO "Bạn cần có Hồi Thiên Tâm Pháp mới dùng được \"" PF_NAME "\".");
+14589|<O>| else if (p < 9046 * rate / 100)    // Tạp vật 1
+14590|<O>| send_user(who, "%c%s", '!', "Cấp độ của bạn chưa đủ 20");
+14591|<O>| who->add_strength(-1);    // Thể lực -1, danh vọng +X
+14592|<O>| if (npc->get_name() != "Ông Chủ Tiệm Sửa Chữa") return 1;
+14593|<O>| send_user(me, "%c%s", '!', "Giá trị trả về truy vấn ký gửi bị lỗi!");
+14594|<O>| send_user(who, "%c%s", '!', "Hoạt động Quốc Khánh Tặng Quà đã đóng!");
+14595|<O>| send_user(me, "%c%s", '!', "Giá trị trả về ký gửi thẻ điểm bị lỗi!");
+14596|<O>| send_user(who, "%c%s", '!', "Bạn không biết cách du thuyết.");
+14597|<O>| if (!me->get_trade_open())    // Dùng để mở kênh
+14598|<O>| else if (p < 9990 * rate / 100)    // Tạp vật 2
+14599|<O>| x = 228;  y = 193;    // get_jumpout chứa z bên trong
+14600|<O>| notify(item2->get_name() + " đã lên kệ, không thể di chuyển.");
+14601|<O>| return sprintf(PF_NAME ":\n　　Phong ấn vũ khí.\n");
+14602|<O>| x = 103;  y = 145;    // get_jumpout chứa z bên trong
+14603|<O>| send_user(who, "%c%s", '!', "Hệ thống phụ bản chưa mở!");
+14604|<O>| return sprintf(PF_NAME ":\n　　Liên tục hồi đầy nguyên khí.\n");
+14605|<O>| desc = "Một loại trái cây ngọt mát nhiều nước, trong 20 giây hồi phục 1100 điểm khí huyết cho người chơi.";
+14606|<O>| else if (p < 9476 * rate / 100)    // Tạp vật 1
+14607|<O>| SAY_CMD->say(me, "Loài người ngu ngốc!! Bổn vương sẽ cho các ngươi nếm mùi luyện ngục!");
+14608|<O>| send_user(who, "%c%s", '!', "Bạn không đủ tiền mặt.");
+14609|<O>| ESC"3 quả cầu (đen+xanh+đỏ) đổi Tử Sâm Đan\ntalk %x# bonus.24\n"
+14610|<O>| send_user(me, "%c%s", '!', "Hoạt động đánh bảo online đã mở!");
+14611|<O>| tell_user(me, "Quét thư mục: %s i=%d", path2, i);
+14612|<O>| sprintf("%s:\n    Tuyệt――tuyệt vời quá, tôi――tôi luôn rất――rất muốn có cái này!"
+14613|<O>| else if (p < 9480 * rate / 100)    // Tạp vật 1
+14614|<O>| SAY_CMD->say(me, "Kẻ xâm nhập hoàng lăng ở đây, mọi người mau bắt lấy chúng.");
+14615|<O>| me->init_enemy_damage(0, 0);    // Xóa trạng thái sát thương
+14616|<O>| else if (p < 9346 * rate / 100)    // Tạp vật 1
+14617|<O>| send_user(who, "%c%s", '!', "Chỉ được đầu hàng tối đa một lần!");
+14618|<O>| ESC "Bỏ giới nghiêm\n" + "gmfight forbbit none\n" +
+14619|<O>| private  int WeaponCode = UNARMED;// Mã vũ khí
+14620|<O>| send_user(me, "%c%s", '!', "Hoạt động đánh bảo online đã đóng!");
+14621|<O>| send_user(me, "%c%s", '!', "Nhập sai mã số quá nhiều lần");
+14622|<O>| return "［Phi Tiên Kiếm Pháp］Tăng sức tấn công pháp thuật khi dùng kiếm, mỗi cấp tăng 2.5 điểm.\n";
+14623|<O>| send_user(who, "%c%s", '!', "Hiện tại chưa có phó thành chủ.");
+14624|<O>| send_user(who, "%c%s", '!', "Bạn cần chuẩn bị 6 ô trống.");
+14625|<O>| send_user(who, "%c%s", '!', "Bạn bị thú hộ vệ linh thú đánh bại");
+14626|<O>| ({"Tại chỗ Vương Bộ Đầu có thể nhận","Nhiệm vụ thất đoạt","Nhiệm vụ tiễu phỉ","Nhiệm vụ vận tiêu","Nhiệm vụ Sư Gia"}),
+14627|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận Tế Thế Hồ Lô!");
+14628|<O>| send_user(me, "%c%s", '!', "Bạn phải đến ruộng mới thu thập thảo dược.");
+14629|<O>| if (!environment()) return 0;    // Mục đích không tồn tại
+14630|<O>| send_user(who, "%c%s", '!', "Bạn không đủ pháp lực.");
+14631|<O>| else if (p < 9500 * rate / 100)    // Tạp vật 2
+14632|<O>| send_user(who, "%c%s", '!', "Không có quốc gia nào xâm lược nước bạn!");
+14633|<O>| //                ESC "Điều chỉnh kỹ năng ẩm thực\n" + cmd1 +
+14634|<O>| send_user(who, "%c%s", '!', "Bạn đã là ứng cử viên rồi.");
+14635|<O>| private static int DoubleRate;			// Tỷ lệ bạo kích vật lý
+14636|<O>| return "Mỗi lần hoàn thành nhiệm vụ tiễu tù của Sư Gia nhận 1.3 lần tiềm năng thưởng. Có thể dùng 50 lần.";
+14637|<O>| int cycle_time;					//	Thời gian tuần hoàn -- Do người dùng tự thiết lập
+14638|<O>| return "［Thiên La Đao Pháp］Tăng sức tấn công khi dùng đao, mỗi cấp tăng 2.5 điểm tấn công\n";
+14639|<O>| else if (p < 9100 * rate / 100)    // Tạp vật 1
+14640|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận Phiếu Tiền rồi.");
+14641|<O>| else if (p < 9498 * rate / 100)    // Tạp vật 2
+14642|<O>| write_user(me, ECHO "Bạn diệt sâu cho cây trồng, kết quả nó mọc tốt hơn.");
 14643|<O>| if (day) result += sprintf(" %d ngày", day);
-14644|<O>| ESC "Tông Giáo。\ntalk " + id + " stir_up.16\n");
-14645|<O>| //			+ sprintf(ESC"bang pháiTề Tâm Hợp Lựcphần thưởng\nparty 30\n")
-14646|<O>| sprintf("%s:\n    khôngsai，liềnLànàyloạiLinh Dược，bạnĐẳngsẽlại đến tìmtôi！\n"
-14647|<O>| if (strstr(me->get_name(), "Mông DiệnThích Khách") != -1)
-14648|<O>| else if (p < 10000 * rate / 100)    // Pháp Bảo
-14649|<O>| return "do kỹ nghệ Tinh Trạmcủacông tượng sởChế tạocủaVàngthuộc Ti tuyến，Tài Phùng、Cơ Quansinh hoạtKỹ năngcầncủatài liệu";
-14650|<O>| return sprintf(PF_NAME ":\n　　phòng chỉ Nhất địnhcủaThương hại\n");
-14651|<O>| else if (p < 9400 * rate / 100)    // Tạp vật１
-14652|<O>| send_user(me, "%c%s", '!', "điểmthẻMuaQuay vềTrị sai ngộ！");
+14644|<O>| ESC "Tôn giáo.\ntalk " + id + " stir_up.16\n");
+14645|<O>| //			+ sprintf(ESC"Phần thưởng đồng tâm hiệp lực bang phái\nparty 30\n")
+14646|<O>| sprintf("%s:\n    Tốt lắm, đúng loại linh dược này, các bạn lát nữa quay lại tìm tôi nhé!\n"
+14647|<O>| if (strstr(me->get_name(), "Sát Thủ Bịt Mặt") != -1)
+14648|<O>| else if (p < 10000 * rate / 100)    // Pháp bảo
+14649|<O>| return "Sợi kim loại do thợ thủ công kỹ thuật tinh xảo chế tạo, là nguyên liệu cần thiết cho kỹ năng sinh hoạt Thợ May, Cơ Quan";
+14650|<O>| return sprintf(PF_NAME ":\n　　Ngăn chặn một phần sát thương\n");
+14651|<O>| else if (p < 9400 * rate / 100)    // Tạp vật 1
+14652|<O>| send_user(me, "%c%s", '!', "Giá trị trả về mua thẻ điểm bị lỗi!");

@@ -1,87 +1,87 @@
-﻿16733|<O>| string get_name() { return "福星高照"; }
-16734|<O>| "旋风袍茅山" : "\"/item/final/60/5045\"",
-16735|<O>| string get_name() { return "弱点物理"; }
-16736|<O>| string get_name() { return "赵长城３"; }
-16737|<O>| return "任务物品。送给燕国使节的信，内有赵内政官的帮助需求。";
-16738|<O>| level = who->get_level();    // 队长等级
-16739|<O>| "斩侯冠茅山" : "\"/item/final/65/5080\"",
-16740|<O>| "七彩灵芝丸" : "\"/item/final/91/1834\"",
-16741|<O>| "衾天鞋茅山" : "\"/item/final/88/5120\"",
-16742|<O>| "文曲冠茅山" : "\"/item/final/65/5085\"",
-16743|<O>| string get_name() { return "天门阵３"; }
-16744|<O>| ESC"“五个七国令”兑换\ntalk %x# welcome.5\n"
-16745|<O>| "混雷鞋茅山" : "\"/item/final/88/5100\"",
-16746|<O>| string get_name() { return "无定河２"; }
-16747|<O>| "急行鞋蜀山" : "\"/item/final/88/2065\"",
-16748|<O>| "暴雨梨花针" : "\"/item/final/71/1085\"",
-16749|<O>| private static int Caster;		//远程攻击标志
-16750|<O>| if (x1 * x1 + y1 * y1 < 9)	//交换始点，终点
-16751|<O>| send_user(me, "%c%s", '!', "密码错误。");
-16752|<O>| "玄铁袖里箭" : "\"/item/final/71/1105\"",
-16753|<O>| send_user(me, "%c%s", '!', "非法字符！");
-16754|<O>| "麻布袍茅山" : "\"/item/final/60/5035\"",
-16755|<O>| "特大荷包蛋" : "\"/item/final/33/1706\"",
-16756|<O>| "青柳鞋蜀山" : "\"/item/final/88/2020\"",
-16757|<O>| string get_name() { return "九曲桥３"; }
-16758|<O>| if (dx == 0 && dy == 0)    // 本场景内行走
-16759|<O>| "油炸地瓜片" : "\"/item/final/33/1764\"",
-16760|<O>| "战斗鞋蜀山" : "\"/item/final/88/2055\"",
-16761|<O>| result += ESC "开启新的背包空间。\n" + cmd1 +
-16762|<O>| SAY_CMD->say(me, "唉～～，这年头，什么都要花钱。");
-16763|<O>| return "御姐套装其中之一,相传穿上\n全套就会拥有神秘的力量";
-16764|<O>| write_user(who, ECHO "您获得10000金钱。");
-16765|<O>| case "军官": type = "GENERAL";  break;
-16766|<O>| "玉露冠茅山" : "\"/item/final/65/5030\"",
-16767|<O>| "混雷冠茅山" : "\"/item/final/65/5100\"",
-16768|<O>| return "口感香脆，味道甜美，20秒内恢复玩家400点气血值。";
-16769|<O>| "时间不早了，该回家吃饭了，我家老太婆肯定急着呢，呵呵，早点回去吧！",
-16770|<O>| "无尘鞋茅山" : "\"/item/final/88/5105\"",
-16771|<O>| "金项链唐门" : "\"/item/final/86/4020\"",
-16772|<O>| return "持续1小时内变身为太极门众守，可提升2%法术攻击力。";
-16773|<O>| string get_name() { return "离线精灵"; }
-16774|<O>| "赶日靴唐门" : "\"/item/final/88/4050\"",
-16775|<O>| //	判断给定的时间戳整数是否在特定时间端内 在则返回 1 否则返回 0
-16776|<O>| string get_name() { return "琅琊秘道"; }
-16777|<O>| "生煮温蔬菜" : "\"/item/final/33/1708\"",
-16778|<O>| me->set_perform_file(0);    // 前句没清空
-16779|<O>| string get_name() { return "万人坑４"; }
-16780|<O>| "翼飞鞋茅山" : "\"/item/final/88/5050\"",
-16781|<O>| "祁龙鞋蜀山" : "\"/item/final/88/2090\"",
-16782|<O>| notify("无法拾起%s。", item->get_name());
-16783|<O>| "翼飞袍茅山" : "\"/item/final/60/5050\"",
-16784|<O>| string get_name() { return "翻云覆雨"; }
-16785|<O>| return "熊身上肢体的一部分，酒食、铁匠、裁缝生活技能所需材料";
-16786|<O>| return "［" PF_NAME "］\n使对方持续增加气血\n";
-16787|<O>| write_user(who, ECHO "……可是没有任何效果。");
-16788|<O>| ESC"一只蓝球兑换1张藏宝图\ntalk %x# bonus.8\n"
-16789|<O>| send_user(me, "%c%s", '!', "未知错误。");
-16790|<O>| string get_name() { return "弱点法术"; }
-16791|<O>| string get_name() { return "中原秘道"; }
-16792|<O>| string get_name() { return "高级御火"; }
-16793|<O>| "映日鞋茅山" : "\"/item/final/88/5115\"",
-16794|<O>| string get_name() { return "高级御法"; }
-16795|<O>| return "［拳脚招架］提升空手时的防御力，每级提升 3 点\n";
-16796|<O>| string get_name() { return "飞沙走石"; }
-16797|<O>| "狂龙鞋蜀山" : "\"/item/final/88/2070\"",
-16798|<O>| //			who->log_money("领无双城税金", duty);
-16799|<O>| case "士兵": type = "SOLDIER";  break;
-16800|<O>| string get_name() { return "高级强攻"; }
-16801|<O>| if (present("钱票", me, 1, MAX_CARRY))
-16802|<O>| "舞天鞋蜀山" : "\"/item/final/88/2040\"",
-16803|<O>| case "皮帽": type = "M_PIMAO";  break;
-16804|<O>| string get_name() { return "武陵秘道"; }
-16805|<O>| private int producttime;		// 制作成品的时间
-16806|<O>| "唤云鞋茅山" : "\"/item/final/88/5040\"",
-16807|<O>| "御风鞋茅山" : "\"/item/final/88/5095\"",
-16808|<O>| notify(who->get_name() + "来不了您这里。");
-16809|<O>| + sprintf(ESC"重阳节活动操作\nparty 157\n")
-16810|<O>| if (rate < 10 * rate1 / 100)	//门派技能书
-16811|<O>| "嗜天冠茅山" : "\"/item/final/65/5070\"",
-16812|<O>| "古藤袍茅山" : "\"/item/final/60/5020\"",
-16813|<O>| return "猛虎套装其中之一,相传穿上\n全套就会拥有神秘的力量";
-16814|<O>| string get_name() { return "伤害光环"; }
-16815|<O>| ESC"“两个七国令”兑换\ntalk %x# welcome.4\n"
-16816|<O>| string get_name() { return "孤竹小筑"; }
-16817|<O>| + sprintf(ESC"西瓜伯伯的活动\nparty 145\n")
-16818|<O>| ESC"哪里可以获得七国令\ntalk %x# welcome.8\n"
-16819|<O>| return "［" PF_NAME "］\n跟随其他玩家移动。\n";
+﻿16733|<O>| string get_name() { return "Phúc Tinh Cao Chiếu"; }
+16734|<O>| "Bào Toàn Phong Mao Sơn" : "\"/item/final/60/5045\"",
+16735|<O>| string get_name() { return "Điểm Yếu Vật Lý"; }
+16736|<O>| string get_name() { return "Triệu Trường Thành 3"; }
+16737|<O>| return "Vật phẩm nhiệm vụ. Thư gửi cho sứ thần Yên Quốc, bên trong có yêu cầu trợ giúp từ quan nội chính Triệu Quốc.";
+16738|<O>| level = who->get_level();    // Cấp độ đội trưởng
+16739|<O>| "Quan Trảm Hầu Mao Sơn" : "\"/item/final/65/5080\"",
+16740|<O>| "Thất Thái Linh Chi Hoàn" : "\"/item/final/91/1834\"",
+16741|<O>| "Giày Khâm Thiên Mao Sơn" : "\"/item/final/88/5120\"",
+16742|<O>| "Quan Văn Khúc Mao Sơn" : "\"/item/final/65/5085\"",
+16743|<O>| string get_name() { return "Thiên Môn Trận 3"; }
+16744|<O>| ESC""Năm Thất Quốc Lệnh" đổi\ntalk %x# welcome.5\n"
+16745|<O>| "Giày Hỗn Lôi Mao Sơn" : "\"/item/final/88/5100\"",
+16746|<O>| string get_name() { return "Vô Định Hà 2"; }
+16747|<O>| "Giày Cấp Hành Thục Sơn" : "\"/item/final/88/2065\"",
+16748|<O>| "Bạo Vũ Lê Hoa Châm" : "\"/item/final/71/1085\"",
+16749|<O>| private static int Caster;		//Cờ đánh tầm xa
+16750|<O>| if (x1 * x1 + y1 * y1 < 9)	//Đổi điểm bắt đầu, điểm kết thúc
+16751|<O>| send_user(me, "%c%s", '!', "Sai mật khẩu.");
+16752|<O>| "Tụ Thiết Tay Lý Tiễn" : "\"/item/final/71/1105\"",
+16753|<O>| send_user(me, "%c%s", '!', "Ký tự không hợp lệ!");
+16754|<O>| "Ma Bố Bào Mao Sơn" : "\"/item/final/60/5035\"",
+16755|<O>| "Trứng Ốp La Đặc Biệt Lớn" : "\"/item/final/33/1706\"",
+16756|<O>| "Giày Thanh Liễu Thục Sơn" : "\"/item/final/88/2020\"",
+16757|<O>| string get_name() { return "Cửu Khúc Kiều 3"; }
+16758|<O>| if (dx == 0 && dy == 0)    // Đi bộ trong bản đồ
+16759|<O>| "Khoai Lang Chiên" : "\"/item/final/33/1764\"",
+16760|<O>| "Giày Chiến Đấu Thục Sơn" : "\"/item/final/88/2055\"",
+16761|<O>| result += ESC "Mở không gian ba lô mới.\n" + cmd1 +
+16762|<O>| SAY_CMD->say(me, "Ôi～～, thời buổi này, cái gì cũng tốn tiền.");
+16763|<O>| return "Một trong bộ Ngự Tỷ, tương truyền mặc đủ\nbộ sẽ sở hữu sức mạnh thần bí";
+16764|<O>| write_user(who, ECHO "Bạn nhận được 10000 vàng.");
+16765|<O>| case "Quân Quan": type = "GENERAL";  break;
+16766|<O>| "Quan Ngọc Lộ Mao Sơn" : "\"/item/final/65/5030\"",
+16767|<O>| "Quan Hỗn Lôi Mao Sơn" : "\"/item/final/65/5100\"",
+16768|<O>| return "Giòn thơm, vị ngọt, trong 20 giây hồi phục 400 điểm khí huyết cho người chơi.";
+16769|<O>| "Trời đã muộn rồi, phải về nhà ăn cơm thôi, bà nhà tôi chắc đang sốt ruột lắm đây, hehe, về sớm thôi!",
+16770|<O>| "Giày Vô Trần Mao Sơn" : "\"/item/final/88/5105\"",
+16771|<O>| "Vòng Cổ Vàng Đường Môn" : "\"/item/final/86/4020\"",
+16772|<O>| return "Trong 1 giờ biến thành Thái Cực Môn Chúng Thủ, tăng 2% tấn công pháp thuật.";
+16773|<O>| string get_name() { return "Tinh Linh Ngoại Tuyến"; }
+16774|<O>| "Giày Cản Nhật Đường Môn" : "\"/item/final/88/4050\"",
+16775|<O>| //	Kiểm tra thời gian cho trước có nằm trong khoảng thời gian cụ thể không, có thì trả về 1, không thì trả về 0
+16776|<O>| string get_name() { return "Mật Đạo Lang Nha"; }
+16777|<O>| "Rau Luộc Nóng" : "\"/item/final/33/1708\"",
+16778|<O>| me->set_perform_file(0);    // Câu trước chưa xóa sạch
+16779|<O>| string get_name() { return "Vạn Nhân Khanh 4"; }
+16780|<O>| "Giày Dực Phi Mao Sơn" : "\"/item/final/88/5050\"",
+16781|<O>| "Giày Kỳ Long Thục Sơn" : "\"/item/final/88/2090\"",
+16782|<O>| notify("Không thể nhặt %s.", item->get_name());
+16783|<O>| "Bào Dực Phi Mao Sơn" : "\"/item/final/60/5050\"",
+16784|<O>| string get_name() { return "Phiên Vân Phúc Vũ"; }
+16785|<O>| return "Một bộ phận trên thân gấu, là nguyên liệu cần thiết cho kỹ năng sinh hoạt Nấu Ăn, Thợ Rèn, Thợ May";
+16786|<O>| return "［" PF_NAME "］\nLàm cho khí huyết đối phương liên tục tăng\n";
+16787|<O>| write_user(who, ECHO "……nhưng không có hiệu quả gì.");
+16788|<O>| ESC"1 quả cầu xanh đổi 1 Tàng Bảo Đồ\ntalk %x# bonus.8\n"
+16789|<O>| send_user(me, "%c%s", '!', "Lỗi không xác định.");
+16790|<O>| string get_name() { return "Điểm Yếu Pháp Thuật"; }
+16791|<O>| string get_name() { return "Mật Đạo Trung Nguyên"; }
+16792|<O>| string get_name() { return "Ngự Hỏa Cao Cấp"; }
+16793|<O>| "Giày Ánh Nhật Mao Sơn" : "\"/item/final/88/5115\"",
+16794|<O>| string get_name() { return "Ngự Pháp Cao Cấp"; }
+16795|<O>| return "［Quyền Cước Chiêu Giá］Tăng phòng thủ khi tay không, mỗi cấp tăng 3 điểm\n";
+16796|<O>| string get_name() { return "Phi Sa Tẩu Thạch"; }
+16797|<O>| "Giày Cuồng Long Thục Sơn" : "\"/item/final/88/2070\"",
+16798|<O>| //			who->log_money("Nhận thuế Vô Song Thành", duty);
+16799|<O>| case "Sĩ Binh": type = "SOLDIER";  break;
+16800|<O>| string get_name() { return "Cường Công Cao Cấp"; }
+16801|<O>| if (present("Phiếu Tiền", me, 1, MAX_CARRY))
+16802|<O>| "Giày Vũ Thiên Thục Sơn" : "\"/item/final/88/2040\"",
+16803|<O>| case "Bì Mạo": type = "M_PIMAO";  break;
+16804|<O>| string get_name() { return "Mật Đạo Vũ Lăng"; }
+16805|<O>| private int producttime;		// Thời gian chế tạo thành phẩm
+16806|<O>| "Giày Hoán Vân Mao Sơn" : "\"/item/final/88/5040\"",
+16807|<O>| "Giày Ngự Phong Mao Sơn" : "\"/item/final/88/5095\"",
+16808|<O>| notify(who->get_name() + " không thể đến chỗ bạn.");
+16809|<O>| + sprintf(ESC"Thao tác hoạt động Trùng Dương\nparty 157\n")
+16810|<O>| if (rate < 10 * rate1 / 100)	//Sách kỹ năng môn phái
+16811|<O>| "Quan Thí Thiên Mao Sơn" : "\"/item/final/65/5070\"",
+16812|<O>| "Bào Cổ Đằng Mao Sơn" : "\"/item/final/60/5020\"",
+16813|<O>| return "Một trong bộ Mãnh Hổ, tương truyền mặc đủ\nbộ sẽ sở hữu sức mạnh thần bí";
+16814|<O>| string get_name() { return "Sát Thương Quang Hoàn"; }
+16815|<O>| ESC""Hai Thất Quốc Lệnh" đổi\ntalk %x# welcome.4\n"
+16816|<O>| string get_name() { return "Cô Trúc Tiểu Trúc"; }
+16817|<O>| + sprintf(ESC"Hoạt động ông Dưa Hấu\nparty 145\n")
+16818|<O>| ESC"Ở đâu có thể lấy được Thất Quốc Lệnh\ntalk %x# welcome.8\n"
+16819|<O>| return "［" PF_NAME "］\nĐi theo người chơi khác.\n";

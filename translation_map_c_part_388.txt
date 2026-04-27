@@ -1,97 +1,97 @@
-﻿18288|<O>| owner->log_money("Mông Diện Nhân", -gold);
-18289|<O>| log_file(LIST_LOG, "# Cơ bảnHạng Liên\n");
-18290|<O>| #define PF_NAME        "thương khung Chi QuanChế tạo"
-18291|<O>| if (is_player(me))    // ＧＭtra xemNhiệm vụ
-18292|<O>| #define PF_NAME        "Tinh thần Chiến GiápChế tạo"
-18293|<O>| for (i = 0;i < 121;i++)		//phát tống hiệu Quả
-18294|<O>| return "Vật phẩm nhiệm vụ。giaochoTề QuốclớnTướng quâncủaMột loạinhuệ LợicủaBinh Khí。";
-18295|<O>| "HànSắtquản" : "\"/item/stuff/0276\"",
-18296|<O>| for (i = 0;i < 3;i++)	//3đôi5000Vàng
-18297|<O>| "HỏaPhượngChi Dực" : "TạiThiên Môn TrậnNhấttầngSát thủ TrậnThầnTướngcó thểnhận đượcHỏaPhượngChi Dực",
-18298|<O>| return "kéo dài1giờtrongbiến Thân vì tri thù，Có thể nâng2%Giá trị né tránh。";
-18299|<O>| "HànThiết đĩnh" : "\"/item/stuff/0014\"",
-18300|<O>| desc = "đậu hủcủacan，14giây phục hồi cho người chơi385điểm Khí Huyết。";
-18301|<O>| return "kéo dài1giờtrongbiến Thân vì Cường Đạo，Có thể nâng1%Mệnhgiữasuất。";
-18302|<O>| return SUB_MP;    // cẩn thận chuẩn bị level
-18303|<O>| log_file(LIST_LOG, "# Y phục\n\n");
-18304|<O>| #define PF_NAME        "ngàycương Chiến GiápChế tạo"
-18305|<O>| log_file(LIST_LOG, "# mẫn tiệpHạng Liên\n");
-18306|<O>| #define PF_NAME        "HỏaHồng đầu CânChế tạo"
-18307|<O>| "TinhSắtTi" : "\"/item/stuff/0041\"",
-18308|<O>| else if (flag == 2)    // xác nhận bán Xuất？
-18309|<O>| #define PF_NAME        "HoàngVàngChiến khảiChế tạo"
-18310|<O>| set("anti_05311", 1);    //khôngsẽmê Hồn
-18311|<O>| #define PF_NAME        "Ba hình đầu ĐáiChế tạo"
-18312|<O>| "HắcBảo Thạch" : "\"/item/stuff/0090\"",
-18313|<O>| log_file(LIST_LOG, "# Pháp Kiếm\n\n");
-18314|<O>| notify("không thểPhong bế Dĩ *, +, ? Kết vĩcủaＩＰ。");
-18315|<O>| result = "nàyLàNhấtkiệnrất nan đượccủaNhấtkiệnTrân quýTrang bị，cung hỷbạn。";
-18316|<O>| #define PF_NAME        "diệu NhậtdàiBàoChế tạo"
-18317|<O>| private int PersonPhoto;		// đầu tượng
-18318|<O>| desc = "niêm niêmcủaphạn，14giây phục hồi cho người chơi525điểm Khí Huyết。";
-18319|<O>| ESC"Từ bỏBáo Danh\ntalk %x# welcome.5\n"
-18320|<O>| desc = "doanh dưỡng Phong phú，14giây phục hồi cho người chơi980điểm Pháp Lực。";
-18321|<O>| result = sprintf("MụctrướccủaＧＭchủ quản hiệuCó:");
-18322|<O>| result = result + HIR"15000Vàng、";
-18323|<O>| #define PF_NAME        "Tinh thần Chiến khôiChế tạo"
-18324|<O>| tell_user(me, "Lỗ banBảo Thạch %d", rate);
-18325|<O>| #define PF_NAME        "ThầnngụcHạng LiênChế tạo"
-18326|<O>| private int md_grow;			//Pháp phòngthànhdàihệ số
-18327|<O>| log_file(LIST_LOG, "# cận CôngHạng Liên\n");
-18328|<O>| // nguyên lý: Tại100mssong khẩutrongtrọng phục tra tuần Đồng NhấtKỹ năngTướngQuay vềhoãn tồnkết quả
-18329|<O>| "Lam Ngọc Thạch" : "\"/item/stuff/0069\"",
-18330|<O>| #define PF_NAME        "Huyết Sắc Đấu bồngChế tạo"
-18331|<O>| log_file(LIST_LOG, "# Cơ bảnHia\n");
-18332|<O>| #define PF_NAME        "ngàyToàn Đấu lạpChế tạo"
-18333|<O>| "01":"/item/91/9120",    // cứu cấp Đơn
-18334|<O>| return "kéo dài1giờtrongbiến Thân vì Hoàng phong，Có thể nâng1%Phòng thủLực。";
-18335|<O>| "ThanhBảo Thạch" : "\"/item/stuff/0086\"",
-18336|<O>| "HànSắtphiến" : "\"/item/stuff/0274\"",
-18337|<O>| return "Vật phẩm nhiệm vụ。Một loạidùng đến tiến HànhMộcliệu biểu Diện Gia côngcủacông cụ。";
-18338|<O>| "hôi Ngọc Thạch" : "\"/item/stuff/0057\"",
-18339|<O>| "Bạch Ngọc Thạch" : "\"/item/stuff/0059\"",
-18340|<O>| "Phá tổncủaKhôi Giáp" : "TạiSở Phương Thành Sát Sở quân Kiếm Binhcó thểnhận đượcPhá tổncủaKhôi Giáp",
-18341|<O>| return "［đạp Tuyết vô ngấn］Nângtrốn Thiểm，Mỗi cấp tăng 3 điểm\n";
-18342|<O>| ESC "10 Công Đức hoán 550 Tiềm năng。\n" + cmd1 +
-18343|<O>| return "Kinh qua khoáng dãKỹ năngdung LuyệncủaVàngkhoáng，Thiết Tượng、Nguyên liệu cần cho Cơ Quan";
-18344|<O>| npc->set_name("trọng phạm" + criminal);
-18345|<O>| return "kéo dài1giờtrongbiến Thân vìThổTinh，Có thể nâng2%Giá trị Khí Huyết。";
-18346|<O>| log_file(LIST_LOG, "# sủng vậtPháp Thuật\n");
-18347|<O>| if (who->is_npc())    // chodư NPC
-18348|<O>| return "kéo dài1giờtrongbiến Thân vì đào phạm，Có thể nâng2%Giá trị né tránh。";
-18349|<O>| #define PF_NAME        "Đế Vương Chi khôiChế tạo"
-18350|<O>| "Matình Thạch" : "\"/item/stuff/0032\"",
-18351|<O>| who->win_bonus(me);    // Thanh trừMông Diện Nhân
-18352|<O>| return "Kinh qua khoáng dãKỹ năngdung Luyệncủatích khoáng，Thiết Tượng、Nguyên liệu cần cho Cơ Quan";
-18353|<O>| "tả Ý Hoa Thảo·Cúc" : "\"/item/97/9726\"",
-18354|<O>| return "kéo dài1giờtrongbiến Thân vì ÁcLang，Có thể nâng2%Giá trị né tránh。";
-18355|<O>| return "đào Bảo tổng Động viên đặcCócủađào Bảo chuyên dùngnhỏsừ đầu，phảikíchSử dụng。";
-18356|<O>| #define PF_NAME        "Tinh maiđiểmđiểmđoạn tạo"
-18357|<O>| "HuyềnSắtTi" : "\"/item/stuff/0043\"",
-18358|<O>| return "Vật phẩm nhiệm vụ。Cổ Đổng thươngcầncủaMột loạidùng nê làm thànhcủaĐiêu tố。";
+﻿18288|<O>| owner->log_money("Người bịt mặt", -gold);
+18289|<O>| log_file(LIST_LOG, "# Dây chuyền cơ bản\n");
+18290|<O>| #define PF_NAME        "Chế Tạo Mũ Miện Thương Khung"
+18291|<O>| if (is_player(me))    // GM xem nhiệm vụ
+18292|<O>| #define PF_NAME        "Chế Tạo Chiến Giáp Tinh Thần"
+18293|<O>| for (i = 0;i < 121;i++)		//Gửi hiệu ứng
+18294|<O>| return "Vật phẩm nhiệm vụ. Loại binh khí sắc bén giao cho đại tướng quân Tề Quốc.";
+18295|<O>| "Ống Hàn Thiết" : "\"/item/stuff/0276\"",
+18296|<O>| for (i = 0;i < 3;i++)	//3 đống 5000 vàng
+18297|<O>| "Cánh Phượng Lửa" : "Giết thần tướng thủ trận tầng 1 Thiên Môn Trận có thể được cánh phượng lửa",
+18298|<O>| return "Trong 1 giờ biến thành nhện, tăng 2% né tránh.";
+18299|<O>| "Thỏi Hàn Thiết" : "\"/item/stuff/0014\"",
+18300|<O>| desc = "Đậu phụ khô, trong 14 giây hồi phục 385 điểm khí huyết cho người chơi.";
+18301|<O>| return "Trong 1 giờ biến thành cường đạo, tăng 1% tỷ lệ trúng.";
+18302|<O>| return SUB_MP;    // Cẩn thận chuẩn bị level
+18303|<O>| log_file(LIST_LOG, "# Áo\n\n");
+18304|<O>| #define PF_NAME        "Chế Tạo Chiến Giáp Thiên Cang"
+18305|<O>| log_file(LIST_LOG, "# Dây chuyền nhanh nhẹn\n");
+18306|<O>| #define PF_NAME        "Chế Tạo Khăn Đỏ Rực"
+18307|<O>| "Dây Tinh Thiết" : "\"/item/stuff/0041\"",
+18308|<O>| else if (flag == 2)    // Xác nhận bán?
+18309|<O>| #define PF_NAME        "Chế Tạo Chiến Khải Hoàng Kim"
+18310|<O>| set("anti_05311", 1);    //Không bị mê hồn
+18311|<O>| #define PF_NAME        "Chế Tạo Băng Đô Sóng"
+18312|<O>| "Bảo Thạch Đen" : "\"/item/stuff/0090\"",
+18313|<O>| log_file(LIST_LOG, "# Pháp kiếm\n\n");
+18314|<O>| notify("Không thể đóng IP kết thúc bằng *, +, ?.");
+18315|<O>| result = "Đây là một trang bị quý hiếm rất khó kiếm, chúc mừng bạn.";
+18316|<O>| #define PF_NAME        "Chế Tạo Trường Bào Diệu Nhật"
+18317|<O>| private int PersonPhoto;		// Ảnh đại diện
+18318|<O>| desc = "Cơm dẻo dính, trong 14 giây hồi phục 525 điểm khí huyết cho người chơi.";
+18319|<O>| ESC"Hủy đăng ký\ntalk %x# welcome.5\n"
+18320|<O>| desc = "Giàu dinh dưỡng, trong 14 giây hồi phục 980 điểm pháp lực cho người chơi.";
+18321|<O>| result = sprintf("Hiện tại các tài khoản GM chủ quản có:");
+18322|<O>| result = result + HIR"15000 vàng、";
+18323|<O>| #define PF_NAME        "Chế Tạo Chiến Mũ Tinh Thần"
+18324|<O>| tell_user(me, "Bảo thạch Lỗ Ban %d", rate);
+18325|<O>| #define PF_NAME        "Chế Tạo Dây Chuyền Thần Ngục"
+18326|<O>| private int md_grow;			//Hệ số tăng trưởng phòng pháp
+18327|<O>| log_file(LIST_LOG, "# Dây chuyền cận chiến\n");
+18328|<O>| // Nguyên lý: Trong cửa sổ 100ms, truy vấn cùng một kỹ năng lặp lại sẽ trả về kết quả cache
+18329|<O>| "Ngọc Xanh Lam" : "\"/item/stuff/0069\"",
+18330|<O>| #define PF_NAME        "Chế Tạo Áo Choàng Huyết Sắc"
+18331|<O>| log_file(LIST_LOG, "# Giày cơ bản\n");
+18332|<O>| #define PF_NAME        "Chế Tạo Nón Lá Thiên Tuyền"
+18333|<O>| "01":"/item/91/9120",    // Cứu Cấp Đan
+18334|<O>| return "Trong 1 giờ biến thành ong vàng, tăng 1% phòng thủ.";
+18335|<O>| "Bảo Thạch Xanh Lục" : "\"/item/stuff/0086\"",
+18336|<O>| "Phiến Hàn Thiết" : "\"/item/stuff/0274\"",
+18337|<O>| return "Vật phẩm nhiệm vụ. Dụng cụ dùng để gia công bề mặt gỗ.";
+18338|<O>| "Ngọc Xám" : "\"/item/stuff/0057\"",
+18339|<O>| "Ngọc Trắng" : "\"/item/stuff/0059\"",
+18340|<O>| "Giáp Hư Hỏng" : "Giết kiếm binh Sở quân ở Sở Phương Thành có thể được giáp hư hỏng",
+18341|<O>| return "［Đạp Tuyết Vô Hình］Tăng né tránh, mỗi cấp tăng 3 điểm\n";
+18342|<O>| ESC "10 công đức đổi 550 tiềm năng.\n" + cmd1 +
+18343|<O>| return "Quặng vàng đã luyện bằng kỹ năng khoáng luyện, nguyên liệu cần cho Thợ Rèn, Cơ Quan";
+18344|<O>| npc->set_name("Trọng Phạm" + criminal);
+18345|<O>| return "Trong 1 giờ biến thành thổ tinh, tăng 2% khí huyết.";
+18346|<O>| log_file(LIST_LOG, "# Pháp thuật thú cưng\n");
+18347|<O>| if (who->is_npc())    // Đưa cho NPC
+18348|<O>| return "Trong 1 giờ biến thành tù nhân trốn, tăng 2% né tránh.";
+18349|<O>| #define PF_NAME        "Chế Tạo Mũ Đế Vương"
+18350|<O>| "Đá Ma Tinh" : "\"/item/stuff/0032\"",
+18351|<O>| who->win_bonus(me);    // Xóa người bịt mặt
+18352|<O>| return "Quặng thiếc đã luyện bằng kỹ năng khoáng luyện, nguyên liệu cần cho Thợ Rèn, Cơ Quan";
+18353|<O>| "Tranh Hoa Cỏ · Cúc" : "\"/item/97/9726\"",
+18354|<O>| return "Trong 1 giờ biến thành sói ác, tăng 2% né tránh.";
+18355|<O>| return "Cuốc đào bảo chuyên dụng hoạt động Đào Bảo Tổng Động Viên, click phải để dùng.";
+18356|<O>| #define PF_NAME        "Rèn Tinh Mai Điểm Điểm"
+18357|<O>| "Dây Huyền Thiết" : "\"/item/stuff/0043\"",
+18358|<O>| return "Vật phẩm nhiệm vụ. Bức tượng bằng đất sét mà ông buôn đồ cổ cần.";
 18359|<O>| else    return sprintf("Cuồng Bạo\n");
-18360|<O>| if (p % 120 == 0)    // mỗi２phútxử lý Dĩdưới
-18361|<O>| ESC"Rời khỏi", who->get_name(), id));
-18362|<O>| set_char_picid(8010);    // Mông Diện Nhân
-18363|<O>| "Hồng Ngọc Thạch" : "\"/item/stuff/0066\"",
-18364|<O>| "ThổChi Hồn" : "\"/item/stuff/0030\"",
-18365|<O>| case 2: name3 = "Địchđối vớingoàigiao";  break;
-18366|<O>| return "Động Vật vĩ bộ phún xạ Xuất làmTấn côngdùngcủaKịchĐộcThích，tácBánPhẩm dùng";
-18367|<O>| "Cửu chuyển hỗnngàyĐơn" : "\"/item/std/0088\"",
-18368|<O>| me->win_bonus(who);    // Thanh trừMông Diện Nhân
-18369|<O>| #define PF_NAME        "càn khôn Chiến YChế tạo"
-18370|<O>| if (xy < 1000 / 3) return "Đông Phương";
-18371|<O>| "lừa can phế" : "\"/item/stuff/0186\"",
-18372|<O>| #define PF_NAME        "HoàngVàngQuyền bộ đoạn tạo"
-18373|<O>| else if ( rate < 8100 )	//Thánhđản thụloạiTử
-18374|<O>| log_file(LIST_LOG, "# Cơ bảnYêu Đái\n");
-18375|<O>| "Hắc Ngọc Thạch" : "\"/item/stuff/0067\"",
-18376|<O>| "HồngBảo Thạch" : "\"/item/stuff/0089\"",
-18377|<O>| log_file(LIST_LOG, "# mẫn tiệpYêu Đái\n");
-18378|<O>| return "［Vàngcương Pháp chú］Dĩ quần ThểTấn côngPháp Thuật vì chủcủaKỹ năng。\n";
-18379|<O>| return "kéo dài1giờtrongbiến Thân vìThích Khách，Có thể nâng2%Giá trị né tránh。";
-18380|<O>| //		result += NOR"，đểtôimọi ngườibiểu thị Chúc Hạ！";
-18381|<O>| #define PF_NAME        "HổVương Chi Trảo đoạn tạo"
-18382|<O>| "Thanh Ngọc Thạch" : "\"/item/stuff/0063\"",
-18383|<O>| "MộcChi Hồn" : "\"/item/stuff/0027\"",
+18360|<O>| if (p % 120 == 0)    // Xử lý mỗi 2 phút
+18361|<O>| ESC"Rời đi", who->get_name(), id));
+18362|<O>| set_char_picid(8010);    // Người bịt mặt
+18363|<O>| "Ngọc Đỏ" : "\"/item/stuff/0066\"",
+18364|<O>| "Hồn Đất" : "\"/item/stuff/0030\"",
+18365|<O>| case 2: name3 = "Ngoại Giao Thù Địch";  break;
+18366|<O>| return "Nọc độc kịch liệt phun từ đuôi động vật để tấn công, dùng làm vật phẩm bán";
+18367|<O>| "Cửu Chuyển Hỗn Thiên Đan" : "\"/item/std/0088\"",
+18368|<O>| me->win_bonus(who);    // Xóa người bịt mặt
+18369|<O>| #define PF_NAME        "Chế Tạo Chiến Y Kiền Khôn"
+18370|<O>| if (xy < 1000 / 3) return "Phương Đông";
+18371|<O>| "Gan Phổi Lừa" : "\"/item/stuff/0186\"",
+18372|<O>| #define PF_NAME        "Rèn Quyền Sáo Hoàng Kim"
+18373|<O>| else if ( rate < 8100 )	//Hạt giống cây Giáng Sinh
+18374|<O>| log_file(LIST_LOG, "# Đai cơ bản\n");
+18375|<O>| "Ngọc Đen" : "\"/item/stuff/0067\"",
+18376|<O>| "Bảo Thạch Đỏ" : "\"/item/stuff/0089\"",
+18377|<O>| log_file(LIST_LOG, "# Đai nhanh nhẹn\n");
+18378|<O>| return "［Kim Cang Pháp Chú］Lấy pháp thuật tấn công nhóm làm chủ.\n";
+18379|<O>| return "Trong 1 giờ biến thành thích khách, tăng 2% né tránh.";
+18380|<O>| //		result += NOR"，chúng ta hãy cùng chúc mừng!";
+18381|<O>| #define PF_NAME        "Rèn Vuốt Hổ Vương"
+18382|<O>| "Ngọc Xanh Lục" : "\"/item/stuff/0063\"",
+18383|<O>| "Hồn Gỗ" : "\"/item/stuff/0027\"",
 18384|<O>| result += ESC"Mở\nparty 153\n";

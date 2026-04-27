@@ -1,68 +1,68 @@
-﻿11663|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"武士的爱情（2）");
-11664|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"带话给程风（2）");
-11665|<O>| if ((who = me->get_quest("escort.npc"))    // 运镖人物
-11666|<O>| case 2: begin = 60; end = 80; name = "青龙门"; break;
-11667|<O>| && who->get_quest("escort.leader") == 1    // 队长接镖
-11668|<O>| count -= amount;//这里做个修正。如果玩家给的数量超过实际道具栏上对应物品数量的话。
-11669|<O>| string get_suit_name() { return "萝莉套装"; }	//属于某某套装
-11670|<O>| return HIC+get_name()+"\n拥有此技能的宠物，增加其当前气血上限的15%。";
-11671|<O>| // ---------- 最后一击，爆落装备 ///// 持续攻击，分配经验 ----------
-11672|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 10, "召唤豆兵中……");
-11673|<O>| if (result[0] == "") tell_user(me, name + " 找不到");
-11674|<O>| return sprintf(PF_NAME ":\n　　%s迷魂中。\n\n持续时间:%s\n",
-11675|<O>| if (me->get_mp() < (mp = SUB_MP))    // 小心准备 level
-11676|<O>| return HIC+get_name()+"\n拥有此技能的宠物，增加其当前物理防御的10%。";
-11677|<O>| sprintf(me->get_name() + ":\n    你得到了两个%d级的锻造石。\n"
-11678|<O>| send_user(who, "%c%s", '!', "你在葫芦管理员处寄存了一个济世葫芦！");
-11679|<O>| return "［强化大乘道法］提升法力上限，每级提升6点；并提升自身气血上限，每级提升1.5点";
-11680|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 10, "金刚关闭中……");
-11681|<O>| result = sprintf("%d个" + item->get_name(), total);
-11682|<O>| send_user(who, "%c%s", ';', "食物的来源 经验 350 潜能 20");
-11683|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"夫人的怪病（3）");
-11684|<O>| move_to_user(player, 1, "item/91/9102",npc);//造化丹。
-11685|<O>| if (CHAIN_D->accept_object(me, who, obj[i]))	//任务链
-11686|<O>| tmp += sprintf(ESC"购买道具\nlist %x#\n", getoid(me));
-11687|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 3, "回城符使用中……");
-11688|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 6, "天雷破施放中……");
-11689|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"使节的差事（1）");
-11690|<O>| send_user(who, "%c%s", ';', "得到奖励 金 20000 血力石 1");
-11691|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"祖父的遗产（3）");
-11692|<O>| send_user(who, "%c%s", ':', "您确定要造谣吗？(消耗 20 体力)\n"
-11693|<O>| case 1: begin = 50; end = 70; name = "朱雀门"; break;
-11694|<O>| //                        ESC "释放狱中玩家。\n" + cmd3 +
-11695|<O>| return "听说是用神仙的露水做的，可以恢复很大的法力，马上恢复650点法力，冷却时间15秒";
-11696|<O>| switch (level / 5)    // 每 5 级不同地图  // z * 1000000
-11697|<O>| log_file("boss.txt", short_time() + " 山大王被消灭\n");
-11698|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"买椟还珠(2)");
-11699|<O>| return "灵芝是很有灵气的，对法力的恢复有很大的帮助，马上恢复800点法力冷却时间15秒";
-11700|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"究根问底（1）");
-11701|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"究根问底（3）");
-11702|<O>| return 0;    // 禁止攻击帮众    // get_org_name() 是字串运算
-11703|<O>| send_user(me, "%c%s", '!', "你没有加入任何帮派，无法使用回帮符。");
-11704|<O>| 游竺权逯 盖後桓公 万俟司马 上官欧阳 夏侯诸葛 闻人东方 赫连皇甫 尉迟公羊 澹台公冶 宗政濮阳
-11705|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"买椟还珠(4)");
-11706|<O>| void heart_beat_walk( object me )    // 每 0.1 秒处理
-11707|<O>| CHAR_CHAR_D->stop_poison_effect(me);    // 解除毒药效果
-11708|<O>| tell_user(who, "列示“%s”大事记。", me->get_org_name());
-11709|<O>| set_name("恶少" + NPC_NAME_D->get_rascal_name_2());
-11710|<O>| tell_user(me, sprintf(HIY "你召集了%d个玩家。", number));
-11711|<O>| private int LatestCity;                 // 最近去过城市
-11712|<O>| who->set_attack_time( time() );    // 不同的人:更新持续敌手
-11713|<O>| if (gone_time(get_drop_time()) > 3000)    // 50分钟
-11714|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"情锁秦宫（1）");
-11715|<O>| private string RealName;                    // 实名
-11716|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"完美宝石（1）");
-11717|<O>| return  color + "爆炸力很强的炸弹，对目标3X3范围内的敌对方造成800点伤害";
-11718|<O>| if (objectp(npc = new("/npc/01/0014"))    // 仙岛精灵
-11719|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 10, "开锁中……");
-11720|<O>| "    在新手村和楚国你都能买到通用的武器。新手村都是0级的，而楚国则是贩卖10级的武器。\n"
-11721|<O>| if (objectp(npc = new("/npc/01/0013"))    // 瑶姬仙子
-11722|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"人情冷暖（1）");
-11723|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"崔大官人的请柬");
-11724|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"情锁秦宫（2）");
-11725|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"人情冷暖（2）");
-11726|<O>| if( get_effect(who, EFFECT_CHAR_MISS) )    // 灵气甲
-11727|<O>| name = "山东劫匪";picid = 8012; citypoint = 10;break;
-11728|<O>| else color = sprintf("要求机关等级:%d\n", SKILL_LEVEL);
-11729|<O>| return "活动专属骑宠紫毛。\n有效期至2007年5月24日。\n该道具使用后绑定。\n";
-11730|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"茉莉花茶（1）");
+﻿11663|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tình Yêu Chiến Sĩ（2）");
+11664|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Nhắn Tin Cho Trình Phong（2）");
+11665|<O>| if ((who = me->get_quest("escort.npc"))    // Nhân vật vận tiêu
+11666|<O>| case 2: begin = 60; end = 80; name = "Thanh Long Môn"; break;
+11667|<O>| && who->get_quest("escort.leader") == 1    // Đội trưởng nhận tiêu
+11668|<O>| count -= amount;//Ở đây chỉnh sửa. Nếu số lượng người chơi đưa vượt quá số lượng thực tế trong ô đạo cụ.
+11669|<O>| string get_suit_name() { return "Bộ Loli"; }	//Thuộc bộ trang phục nào
+11670|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này, tăng 15% giới hạn khí huyết hiện tại.";
+11671|<O>| // ---------- Đòn cuối cùng, rơi trang bị ///// Tấn công liên tục, phân bổ kinh nghiệm ----------
+11672|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 10, "Đang triệu hoán Đậu Binh……");
+11673|<O>| if (result[0] == "") tell_user(me, name + " không tìm thấy");
+11674|<O>| return sprintf(PF_NAME ":\n　　%s đang bị mê hồn.\n\nThời gian hiệu lực:%s\n",
+11675|<O>| if (me->get_mp() < (mp = SUB_MP))    // Cẩn thận chuẩn bị level
+11676|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này, tăng 10% phòng thủ vật lý hiện tại.";
+11677|<O>| sprintf(me->get_name() + ":\n    Bạn nhận được hai viên đá rèn cấp %d.\n"
+11678|<O>| send_user(who, "%c%s", '!', "Bạn đã gửi một Tế Thế Hồ Lô tại quản lý hồ lô!");
+11679|<O>| return "［Cường Hóa Đại Thừa Đạo Pháp］Tăng giới hạn pháp lực, mỗi cấp tăng 6 điểm; Tăng giới hạn khí huyết bản thân, mỗi cấp tăng 1.5 điểm";
+11680|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 10, "Kim Cương đang tắt……");
+11681|<O>| result = sprintf("%d cái " + item->get_name(), total);
+11682|<O>| send_user(who, "%c%s", ';', "Nguồn Thực Phẩm Kinh nghiệm 350 Tiềm năng 20");
+11683|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Bệnh Lạ Của Phu Nhân（3）");
+11684|<O>| move_to_user(player, 1, "item/91/9102",npc);//Tạo Hóa Đan.
+11685|<O>| if (CHAIN_D->accept_object(me, who, obj[i]))	//Chuỗi nhiệm vụ
+11686|<O>| tmp += sprintf(ESC"Mua đạo cụ\nlist %x#\n", getoid(me));
+11687|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 3, "Hồi Thành Phù đang sử dụng……");
+11688|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 6, "Thiên Lôi Phá đang thi triển……");
+11689|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Việc Của Sứ Giả（1）");
+11690|<O>| send_user(who, "%c%s", ';', "Nhận phần thưởng Vàng 20000 Huyết Lực Thạch 1");
+11691|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Di Sản Của Ông Nội（3）");
+11692|<O>| send_user(who, "%c%s", ':', "Bạn xác nhận muốn tung tin đồn không? (Tiêu hao 20 thể lực)\n"
+11693|<O>| case 1: begin = 50; end = 70; name = "Chu Tước Môn"; break;
+11694|<O>| //                        ESC "Thả người chơi trong ngục.\n" + cmd3 +
+11695|<O>| return "Nghe nói làm từ sương tiên, có thể hồi phục rất nhiều pháp lực, phục hồi ngay 650 điểm pháp lực, thời gian hồi chiêu 15 giây";
+11696|<O>| switch (level / 5)    // Mỗi 5 cấp bản đồ khác nhau  // z * 1000000
+11697|<O>| log_file("boss.txt", short_time() + " Sơn Đại Vương bị tiêu diệt\n");
+11698|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Mua Hộp Trả Ngọc(2)");
+11699|<O>| return "Linh chi rất giàu linh khí, hỗ trợ rất lớn cho việc hồi phục pháp lực, phục hồi ngay 800 điểm pháp lực, thời gian hồi chiêu 15 giây";
+11700|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Truy Tìm Đến Cùng（1）");
+11701|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Truy Tìm Đến Cùng（3）");
+11702|<O>| return 0;    // Cấm tấn công thành viên bang    // get_org_name() là phép toán chuỗi
+11703|<O>| send_user(me, "%c%s", '!', "Bạn chưa gia nhập bang phái nào, không thể sử dụng Hồi Bang Phù.");
+11704|<O>| Du Trúc Quyền Lộc Cái Hậu Hoàn Công Vạn Sĩ Tư Mã Thượng Quan Âu Dương Hạ Hầu Chư Cát Văn Nhân Đông Phương Hách Liên Hoàng Phủ Uất Trì Công Dương Đạm Đài Công Dã Tông Chính Bộc Dương
+11705|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Mua Hộp Trả Ngọc(4)");
+11706|<O>| void heart_beat_walk( object me )    // Xử lý mỗi 0.1 giây
+11707|<O>| CHAR_CHAR_D->stop_poison_effect(me);    // Giải trừ hiệu ứng thuốc độc
+11708|<O>| tell_user(who, "Liệt kê đại sự ký bang \"%s\".", me->get_org_name());
+11709|<O>| set_name("Ác Thiếu" + NPC_NAME_D->get_rascal_name_2());
+11710|<O>| tell_user(me, sprintf(HIY "Bạn đã tập hợp %d người chơi.", number));
+11711|<O>| private int LatestCity;                 // Thành phố gần nhất đã đến
+11712|<O>| who->set_attack_time( time() );    // Người khác: cập nhật kẻ thù liên tục
+11713|<O>| if (gone_time(get_drop_time()) > 3000)    // 50 phút
+11714|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tình Khóa Tần Cung（1）");
+11715|<O>| private string RealName;                    // Tên thật
+11716|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Bảo Thạch Hoàn Mỹ（1）");
+11717|<O>| return  color + "Quả bom có sức nổ rất mạnh, gây 800 điểm sát thương cho kẻ thù trong phạm vi 3X3 của mục tiêu";
+11718|<O>| if (objectp(npc = new("/npc/01/0014"))    // Tiên Đảo Tinh Linh
+11719|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 10, "Đang mở khóa……");
+11720|<O>| "    Ở Làng Tân Thủ và Sở Quốc đều có bán vũ khí thông dụng. Làng Tân Thủ bán cấp 0, còn Sở Quốc bán vũ khí cấp 10.\n"
+11721|<O>| if (objectp(npc = new("/npc/01/0013"))    // Dao Cơ Tiên Tử
+11722|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Nhân Tình Lạnh Nhạt（1）");
+11723|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Thiệp Mời Của Thôi Đại Quan Nhân");
+11724|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tình Khóa Tần Cung（2）");
+11725|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Nhân Tình Lạnh Nhạt（2）");
+11726|<O>| if( get_effect(who, EFFECT_CHAR_MISS) )    // Linh Khí Giáp
+11727|<O>| name = "Sơn Đông Kiếp Phỉ";picid = 8012; citypoint = 10;break;
+11728|<O>| else color = sprintf("Yêu cầu cấp cơ quan:%d\n", SKILL_LEVEL);
+11729|<O>| return "Kỵ sủng đặc biệt hoạt động Tử Mao.\nHiệu lực đến ngày 24 tháng 5 năm 2007.\nĐạo cụ này sau khi sử dụng sẽ bị khóa.\n";
+11730|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Trà Hoa Nhài（1）");

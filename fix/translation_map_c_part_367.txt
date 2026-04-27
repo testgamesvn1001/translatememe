@@ -1,85 +1,85 @@
-﻿16387|<O>| "玉清靴桃花源" : "\"/item/final/88/1060\"",
-16388|<O>| #define SKILL_TEMP	0				// 是否一次性使用的技能
-16389|<O>| + sprintf(ESC"开始领取抓兔奖励\nparty 144\n")
-16390|<O>| string get_name() { return "泰山山洞２"; }
-16391|<O>| case 3: name = "渔业";  p /= 5;  break;
-16392|<O>| me->set_perform_file(0);    // 清除非法特技
-16393|<O>| "紫云斗篷唐门" : "\"/item/final/60/4110\"",
-16394|<O>| "龙吟项链茅山" : "\"/item/final/86/5110\"",
-16395|<O>| "彻云冠云梦泽" : "\"/item/final/65/7060\"",
-16396|<O>| "金项链云梦泽" : "\"/item/final/86/7020\"",
-16397|<O>| SAY_CMD->say(me, "我好恨啊…………我好恨啊…………");
-16398|<O>| "流云行装唐门" : "\"/item/final/60/4105\"",
-16399|<O>| "混天鞋昆仑山" : "\"/item/final/88/6070\"",
-16400|<O>| "浑霜冠云梦泽" : "\"/item/final/65/7040\"",
-16401|<O>| "玄金项链蜀山" : "\"/item/final/86/2065\"",
-16402|<O>| "金项链禁卫军" : "\"/item/final/86/3020\"",
-16403|<O>| "苍穹法袍茅山" : "\"/item/final/60/5115\"",
-16404|<O>| string get_name() { return "武功修炼场"; }
-16405|<O>| string get_name() { return "高级御命术"; }
-16406|<O>| "金丝头巾唐门" : "\"/item/final/65/4060\"",
-16407|<O>| "皮革靴桃花源" : "\"/item/final/88/1020\"",
-16408|<O>| case 2: case 20: file = "蜀山";  break;
-16409|<O>| item = new ("/item/sell/0012");//友情呼唤
-16410|<O>| "光之鞋昆仑山" : "\"/item/final/88/6045\"",
-16411|<O>| "丝绸盔桃花源" : "\"/item/final/65/1030\"",
-16412|<O>| "玉尊项链蜀山" : "\"/item/final/86/2115\"",
-16413|<O>| "鹤啸头巾蜀山" : "\"/item/final/65/2050\"",
-16414|<O>| "血色行装唐门" : "\"/item/final/60/4095\"",
-16415|<O>| case 6: name = "商业";  p /= 5;  break;
-16416|<O>| "真武项链茅山" : "\"/item/final/86/5080\"",
-16417|<O>| "御风鞋昆仑山" : "\"/item/final/88/6095\"",
-16418|<O>| "鹅绒头巾蜀山" : "\"/item/final/65/2045\"",
-16419|<O>| "赤虎盔禁卫军" : "\"/item/final/65/3075\"",
-16420|<O>| "荧光冠昆仑山" : "\"/item/final/65/6080\"",
-16421|<O>| item = new ("/item/sell/0043");//开门芝麻
-16422|<O>| "琥珀项链茅山" : "\"/item/final/86/5055\"",
-16423|<O>| "黄昏项链蜀山" : "\"/item/final/86/2035\"",
-16424|<O>| #define VIP_TIME	3600*24*31	//vip绑定时间
-16425|<O>| "精铁机关构件" : "\"/item/final/16/1612\"",
-16426|<O>| "弑魂项链唐门" : "\"/item/final/86/4119\"",
-16427|<O>| if (present("银票", who, 1, MAX_CARRY))
-16428|<O>| "浑霜鞋云梦泽" : "\"/item/final/88/7040\"",
-16429|<O>| "丝绸头巾唐门" : "\"/item/final/65/4065\"",
-16430|<O>| return "右击使用后可变为漂亮的圣诞树，大话战国祝您圣诞节快乐！";
-16431|<O>| "梨子酱汁牛肉" : "\"/item/final/33/1714\"",
-16432|<O>| "凤羽行装唐门" : "\"/item/final/60/4090\"",
-16433|<O>| "乾云战袍茅山" : "\"/item/final/60/5110\"",
-16434|<O>| "传风冠云梦泽" : "\"/item/final/65/7030\"",
-16435|<O>| "风神鞋无门派" : "\"/item/final/88/8067\"",
-16436|<O>| case 5: name = "工业";  p /= 5;  break;
-16437|<O>| send_user(who, "%c%s", '!', "做人要厚道");
-16438|<O>| who->add_contribute(1);    // 国家贡献 +1
-16439|<O>| "浑霜袍云梦泽" : "\"/item/final/60/7040\"",
-16440|<O>| "地灵长靴唐门" : "\"/item/final/88/4075\"",
-16441|<O>| "麒麟盔桃花源" : "\"/item/final/65/1090\"",
-16442|<O>| "紫水晶鞋茅山" : "\"/item/final/88/5085\"",
-16443|<O>| "青云冠昆仑山" : "\"/item/final/65/6065\"",
-16444|<O>| if (time() > bigbossStart)	//第一次出现的时间
-16445|<O>| "紫水晶鞋蜀山" : "\"/item/final/88/2085\"",
-16446|<O>| "跃兔靴桃花源" : "\"/item/final/88/1095\"",
-16447|<O>| "紫霞冠云梦泽" : "\"/item/final/65/7075\"",
-16448|<O>| return "从装备分解出来的玉石，石刻、铁匠、机关、裁缝所需的材料";
-16449|<O>| "旭光冠昆仑山" : "\"/item/final/65/6055\"",
-16450|<O>| "七宝靴禁卫军" : "\"/item/final/88/3105\"",
-16451|<O>| "混天冠昆仑山" : "\"/item/final/65/6070\"",
-16452|<O>| "破云头巾蜀山" : "\"/item/final/65/2100\"",
-16453|<O>| "潮汐法袍茅山" : "\"/item/final/60/5105\"",
-16454|<O>| "流沙行装唐门" : "\"/item/final/60/4075\"",
-16455|<O>| "垂云鞋昆仑山" : "\"/item/final/88/6060\"",
-16456|<O>| "乾坤战衣蜀山" : "\"/item/final/60/2115\"",
-16457|<O>| "月光项链蜀山" : "\"/item/final/86/2040\"",
-16458|<O>| who->get_name() + ":\n    已经补发给你了！\n"
-16459|<O>| "侠客头巾蜀山" : "\"/item/final/65/2055\"",
-16460|<O>| "凤天战衣蜀山" : "\"/item/final/60/2120\"",
-16461|<O>| "玉尊项链茅山" : "\"/item/final/86/5115\"",
-16462|<O>| "飞羽袍云梦泽" : "\"/item/final/60/7080\"",
-16463|<O>| "文曲冠昆仑山" : "\"/item/final/65/6085\"",
-16464|<O>| return "任务物品。一种两人分别佩戴，便可以随时找到对方的宝物。";
-16465|<O>| string get_name() { return "将军古墓１"; }
-16466|<O>| "玄月项链茅山" : "\"/item/final/86/5085\"",
-16467|<O>| "流云头巾唐门" : "\"/item/final/65/4105\"",
-16468|<O>| "冥光鞋云梦泽" : "\"/item/final/88/7090\"",
-16469|<O>| send_user(me, "%c%s", '!', "数据不相符！");
-16470|<O>| player->add_potential(potential);//潜能
-16471|<O>| "白鹤盔桃花源" : "\"/item/final/65/1065\"",
+﻿16387|<O>| "Giày Ngọc Thanh Đào Hoa Nguyên" : "\"/item/final/88/1060\"",
+16388|<O>| #define SKILL_TEMP	0				// Kỹ năng không dùng một lần
+16389|<O>| + sprintf(ESC"Bắt đầu nhận thưởng bắt thỏ\nparty 144\n")
+16390|<O>| string get_name() { return "Hang Động Thái Sơn 2"; }
+16391|<O>| case 3: name = "Ngư nghiệp";  p /= 5;  break;
+16392|<O>| me->set_perform_file(0);    // Xóa tuyệt kỹ không hợp lệ
+16393|<O>| "Đấu Bồng Tử Vân Đường Môn" : "\"/item/final/60/4110\"",
+16394|<O>| "Vòng Cổ Long Ngâm Mao Sơn" : "\"/item/final/86/5110\"",
+16395|<O>| "Quan Triệt Vân Vân Mộng Trạch" : "\"/item/final/65/7060\"",
+16396|<O>| "Vòng Cổ Vàng Vân Mộng Trạch" : "\"/item/final/86/7020\"",
+16397|<O>| SAY_CMD->say(me, "Ta hận quá…………Ta hận quá…………");
+16398|<O>| "Hành Trang Lưu Vân Đường Môn" : "\"/item/final/60/4105\"",
+16399|<O>| "Giày Hỗn Thiên Côn Lôn Sơn" : "\"/item/final/88/6070\"",
+16400|<O>| "Quan Hồn Sương Vân Mộng Trạch" : "\"/item/final/65/7040\"",
+16401|<O>| "Vòng Cổ Huyền Kim Thục Sơn" : "\"/item/final/86/2065\"",
+16402|<O>| "Vòng Cổ Vàng Cấm Vệ Quân" : "\"/item/final/86/3020\"",
+16403|<O>| "Pháp Bào Thương Khung Mao Sơn" : "\"/item/final/60/5115\"",
+16404|<O>| string get_name() { return "Võ Công Tu Luyện Trường"; }
+16405|<O>| string get_name() { return "Ngự Mệnh Thuật Cao Cấp"; }
+16406|<O>| "Khăn Đầu Kim Ti Đường Môn" : "\"/item/final/65/4060\"",
+16407|<O>| "Giày Da Đào Hoa Nguyên" : "\"/item/final/88/1020\"",
+16408|<O>| case 2: case 20: file = "Thục Sơn";  break;
+16409|<O>| item = new ("/item/sell/0012");//Hữu Tình Hô Hoán
+16410|<O>| "Giày Quang Chi Côn Lôn Sơn" : "\"/item/final/88/6045\"",
+16411|<O>| "Mũ Tơ Lụa Đào Hoa Nguyên" : "\"/item/final/65/1030\"",
+16412|<O>| "Vòng Cổ Ngọc Tôn Thục Sơn" : "\"/item/final/86/2115\"",
+16413|<O>| "Khăn Đầu Hạc Khiếu Thục Sơn" : "\"/item/final/65/2050\"",
+16414|<O>| "Hành Trang Huyết Sắc Đường Môn" : "\"/item/final/60/4095\"",
+16415|<O>| case 6: name = "Thương nghiệp";  p /= 5;  break;
+16416|<O>| "Vòng Cổ Chân Vũ Mao Sơn" : "\"/item/final/86/5080\"",
+16417|<O>| "Giày Ngự Phong Côn Lôn Sơn" : "\"/item/final/88/6095\"",
+16418|<O>| "Khăn Đầu Vũ Nhung Thục Sơn" : "\"/item/final/65/2045\"",
+16419|<O>| "Mũ Xích Hổ Cấm Vệ Quân" : "\"/item/final/65/3075\"",
+16420|<O>| "Quan Huỳnh Quang Côn Lôn Sơn" : "\"/item/final/65/6080\"",
+16421|<O>| item = new ("/item/sell/0043");//Mở Cửa Vừng Ơi
+16422|<O>| "Vòng Cổ Hổ Phách Mao Sơn" : "\"/item/final/86/5055\"",
+16423|<O>| "Vòng Cổ Hoàng Hôn Thục Sơn" : "\"/item/final/86/2035\"",
+16424|<O>| #define VIP_TIME	3600*24*31	//Thời gian liên kết VIP
+16425|<O>| "Cấu Kiện Cơ Quan Tinh Thiết" : "\"/item/final/16/1612\"",
+16426|<O>| "Vòng Cổ Thí Hồn Đường Môn" : "\"/item/final/86/4119\"",
+16427|<O>| if (present("Ngân Phiếu", who, 1, MAX_CARRY))
+16428|<O>| "Giày Hồn Sương Vân Mộng Trạch" : "\"/item/final/88/7040\"",
+16429|<O>| "Khăn Đầu Tơ Lụa Đường Môn" : "\"/item/final/65/4065\"",
+16430|<O>| return "Nhấn chuột phải để biến thành cây thông Giáng Sinh xinh đẹp, Đại Thoại Chiến Quốc chúc bạn Giáng Sinh vui vẻ!";
+16431|<O>| "Thịt Bò Sốt Lê" : "\"/item/final/33/1714\"",
+16432|<O>| "Hành Trang Phụng Vũ Đường Môn" : "\"/item/final/60/4090\"",
+16433|<O>| "Chiến Bào Kiền Vân Mao Sơn" : "\"/item/final/60/5110\"",
+16434|<O>| "Quan Truyền Phong Vân Mộng Trạch" : "\"/item/final/65/7030\"",
+16435|<O>| "Giày Phong Thần Vô Môn Phái" : "\"/item/final/88/8067\"",
+16436|<O>| case 5: name = "Công nghiệp";  p /= 5;  break;
+16437|<O>| send_user(who, "%c%s", '!', "Làm người phải trung hậu");
+16438|<O>| who->add_contribute(1);    // Cống hiến quốc gia +1
+16439|<O>| "Bào Hồn Sương Vân Mộng Trạch" : "\"/item/final/60/7040\"",
+16440|<O>| "Trường Hài Địa Linh Đường Môn" : "\"/item/final/88/4075\"",
+16441|<O>| "Mũ Kỳ Lân Đào Hoa Nguyên" : "\"/item/final/65/1090\"",
+16442|<O>| "Giày Tử Thủy Tinh Mao Sơn" : "\"/item/final/88/5085\"",
+16443|<O>| "Quan Thanh Vân Côn Lôn Sơn" : "\"/item/final/65/6065\"",
+16444|<O>| if (time() > bigbossStart)	//Thời gian xuất hiện lần đầu
+16445|<O>| "Giày Tử Thủy Tinh Thục Sơn" : "\"/item/final/88/2085\"",
+16446|<O>| "Giày Dược Thỏ Đào Hoa Nguyên" : "\"/item/final/88/1095\"",
+16447|<O>| "Quan Tử Hà Vân Mộng Trạch" : "\"/item/final/65/7075\"",
+16448|<O>| return "Ngọc thạch tách ra từ trang bị, là nguyên liệu cần thiết cho kỹ năng sinh hoạt Khắc Thạch, Thợ Rèn, Cơ Quan, Thợ May";
+16449|<O>| "Quan Húc Quang Côn Lôn Sơn" : "\"/item/final/65/6055\"",
+16450|<O>| "Giày Thất Bảo Cấm Vệ Quân" : "\"/item/final/88/3105\"",
+16451|<O>| "Quan Hỗn Thiên Côn Lôn Sơn" : "\"/item/final/65/6070\"",
+16452|<O>| "Khăn Đầu Phá Vân Thục Sơn" : "\"/item/final/65/2100\"",
+16453|<O>| "Pháp Bào Triều Tịch Mao Sơn" : "\"/item/final/60/5105\"",
+16454|<O>| "Hành Trang Lưu Sa Đường Môn" : "\"/item/final/60/4075\"",
+16455|<O>| "Giày Thùy Vân Côn Lôn Sơn" : "\"/item/final/88/6060\"",
+16456|<O>| "Chiến Y Kiền Khôn Thục Sơn" : "\"/item/final/60/2115\"",
+16457|<O>| "Vòng Cổ Nguyệt Quang Thục Sơn" : "\"/item/final/86/2040\"",
+16458|<O>| who->get_name() + ":\n    Đã bù phát cho bạn rồi!\n"
+16459|<O>| "Khăn Đầu Hiệp Khách Thục Sơn" : "\"/item/final/65/2055\"",
+16460|<O>| "Chiến Y Phụng Thiên Thục Sơn" : "\"/item/final/60/2120\"",
+16461|<O>| "Vòng Cổ Ngọc Tôn Mao Sơn" : "\"/item/final/86/5115\"",
+16462|<O>| "Bào Phi Vũ Vân Mộng Trạch" : "\"/item/final/60/7080\"",
+16463|<O>| "Quan Văn Khúc Côn Lôn Sơn" : "\"/item/final/65/6085\"",
+16464|<O>| return "Vật phẩm nhiệm vụ. Loại bảo vật hai người đeo, có thể tìm thấy nhau bất cứ lúc nào.";
+16465|<O>| string get_name() { return "Cổ Mộ Tướng Quân 1"; }
+16466|<O>| "Vòng Cổ Huyền Nguyệt Mao Sơn" : "\"/item/final/86/5085\"",
+16467|<O>| "Khăn Đầu Lưu Vân Đường Môn" : "\"/item/final/65/4105\"",
+16468|<O>| "Giày Minh Quang Vân Mộng Trạch" : "\"/item/final/88/7090\"",
+16469|<O>| send_user(me, "%c%s", '!', "Dữ liệu không khớp!");
+16470|<O>| player->add_potential(potential);//Tiềm năng
+16471|<O>| "Mũ Bạch Hạc Đào Hoa Nguyên" : "\"/item/final/65/1065\"",

@@ -1,73 +1,73 @@
-﻿13285|<O>| add_max_mp(get_max_mp() * 600 / 100);  	//法术力
-13286|<O>| result = sprintf(HIY "%s接受城主%s弹劾，免去%s副城主职务。",
-13287|<O>| "我将你的ID号码告诉了一个陌生人，他叫月老，他会在中秋月圆夜要帮我告诉你，我思念你。",
-13288|<O>| send_user(who, "%c%s", '!', "废弃同盟要 50 点体力。");
-13289|<O>| send_user(me, "%c%s", '!', "带着贵重物品不能使用回帮符。");
-13290|<O>| return sprintf("门派信物 %d级", get_item_level());
-13291|<O>| item->add_amount(-amount);    // 可能 dest 放到后面
-13292|<O>| private int GiftZY;                     // 正义
-13293|<O>| private string Bulletin;                // 公告
-13294|<O>| if (item->get_real_name() != "锻造石") return 0;
-13295|<O>| if (!city->get_save_2("war.city"))    // 没有战争
-13296|<O>| CHAT_D->rumor_channel(0,HIR"嫦娥撒月饼啦，大家快去抢阿！");
-13297|<O>| if (check_item_amount(who, "装着坏小猴的神奇葫芦") < 3)
-13298|<O>| send_user(me, "%c%s", '!', "由于某些原因，穿越时空失败！");
-13299|<O>| delete_save_2(sprintf("player.%d",id1));	//删除
-13300|<O>| // BUG: NPC polling 即使在 idle 状态也运行 heart_beat
-13301|<O>| SAY_CMD->say(me, "我做的酒菜连大王都赞赏，你们也尝尝这人肉包子！！");
-13302|<O>| tell_user(me, sprintf("找不到%s", final + fam));
-13303|<O>| case "魏": case "04": city = CITY_WEI;  break;
-13304|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"长城泪");
-13305|<O>| case "燕": case "07": city = CITY_YAN;  break;
-13306|<O>| private int weakness;                  	// 虚弱
-13307|<O>| "    "HIR" 周国 "NOR"有"HIR" 禁卫军 "NOR"装备的专门店；\n"
-13308|<O>| send_user(me, "%c%s", ':', "请选择除了两万元以外的奖品:\n"
-13309|<O>| if (get_effect(who, EFFECT_MAGIC_CARD))	//有变身
-13310|<O>| private int Gender;                     // 性别
-13311|<O>| send_user(who, "%c%s", '!', "活动期间创建的角色才能参加");
-13312|<O>| result2 = sprintf("功德 %d", who->get_bonus());
-13313|<O>| send_user(me, "%c%s", '!', "对方在城内，不能使用此法宝。");
-13314|<O>| private int iStrong;			// 强化技能开启标志，每位对应多个强化技能
-13315|<O>| if (host_type == 4 && time() > iMopTime)	//猫扑
-13316|<O>| item->accept_use_effect_2(who, me);    // 成功率
-13317|<O>| private int Mining;                     // 矿业
-13318|<O>| send_user(who, "%c%s", ';', "一探虚实 金钱 60000");
-13319|<O>| string Name;                            // 姓名
-13320|<O>| private int Level;                      // 等级
-13321|<O>| ESC "去云梦泽。\n" + sprintf("talk %x# 7\n", id) +
-13322|<O>| printf(ECHO "使用“" PF_NAME "”需要 %d 点法力。", mp);
-13323|<O>| send_user(who, "%c%s", '!', "发布政令要 50 点体力。");
-13324|<O>| else if (rate < 7000 * rate1 / 100)		//宝石矿 2个
-13325|<O>| "%s:\n阁下太过无礼！送客！\n", name3, me->get_name()));
-13326|<O>| notify("您想给予的 %s 数量不对。", obj[i]->get_name());
-13327|<O>| if (me->get_no_fight())  notify( "您处于安全区域" );
-13328|<O>| desc = "牛肉和鸡蛋的混合炒，14秒内恢复玩家1330点气血值,665点法力值。";
-13329|<O>| result = sprintf("你确定要将两个初级锻造石合成为一个中级锻造石吗？\n"
-13330|<O>| CITY_D->city_policy(city);    // 城市政令(24小时过期)
-13331|<O>| else if (rate < 2700 * rate1 / 100)		//随机二级法宝
-13332|<O>| if (!objectp(item)) return 1;    // 您找不到这样东西。
-13333|<O>| else if (p < 6529 * rate / 100)    // 武器(门派)
-13334|<O>| else if (p < 4456 * rate / 100)    // 防具(门派)
-13335|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"讨好");
-13336|<O>| else if (p < 9271 * rate / 100)    // 武器(门派)
-13337|<O>| else if (p < 3439 * rate / 100)    // 武器(门派)
-13338|<O>| else if (p < 3639 * rate / 100)    // 武器(门派)
-13339|<O>| else if (p < 3794 * rate / 100)    // 武器(门派)
-13340|<O>| else if (p < 5534 * rate / 100)    // 防具(门派)
-13341|<O>| TASK_LEGEND_D->remove_task_item(who, "玉龙睛");
-13342|<O>| else if (p < 6284 * rate / 100)    // 武器(门派)
-13343|<O>| else if (p < 2967 * rate / 100)    // 武器(门派)
-13344|<O>| send_user(member, "%c%s", '!', "消灭噬情魔(完成)");
-13345|<O>| else if (p < 4067 * rate / 100)    // 武器(门派)
-13346|<O>| else if (p < 9057 * rate / 100)    // 武器(门派)
-13347|<O>| else if (p < 5089 * rate / 100)    // 防具(门派)
-13348|<O>| "月饼节到了！嘘！别吱声！对着屏幕乐一下！再乐一下！呵呵！我看到了！好了！愿你快乐！",
-13349|<O>| send_user(player, "%c%s", '!', "您挖宝的位置不对。");
-13350|<O>| else if (p < 5510 * rate / 100)    // 武器(门派)
-13351|<O>| send_user(who, "%c%s", '!', "恭喜你得到如意仙子的礼物");
-13352|<O>| else if (p < 6028 * rate / 100)    // 防具(门派)
-13353|<O>| ESC "关闭\nCLOSE\n", me->get_name(), p * 30));
-13354|<O>| send_user(who, "%c%s", '!', "外交任务要 1 点体力。");
-13355|<O>| else if (p < 4076 * rate / 100)    // 防具(门派)
-13356|<O>| else if (p < 4037 * rate / 100)    // 防具(门派)
-13357|<O>| else if (p < 5807 * rate / 100)    // 防具(门派)
+﻿13285|<O>| add_max_mp(get_max_mp() * 600 / 100);  	//Pháp lực
+13286|<O>| result = sprintf(HIY "%s chấp nhận đàn hặc từ thành chủ %s, miễn chức phó thành chủ của %s.",
+13287|<O>| "Tôi đã nói số ID của bạn cho một người lạ, hắn tên là Nguyệt Lão, hắn sẽ giúp tôi nói với bạn vào đêm trăng tròn Trung Thu, rằng tôi nhớ bạn.",
+13288|<O>| send_user(who, "%c%s", '!', "Hủy bỏ liên minh cần 50 điểm thể lực.");
+13289|<O>| send_user(me, "%c%s", '!', "Mang theo vật phẩm quý giá không thể sử dụng Hồi Bang Phù.");
+13290|<O>| return sprintf("Tín vật môn phái cấp %d", get_item_level());
+13291|<O>| item->add_amount(-amount);    // Có thể dest đặt phía sau
+13292|<O>| private int GiftZY;                     // Chính Nghĩa
+13293|<O>| private string Bulletin;                // Công cáo
+13294|<O>| if (item->get_real_name() != "Đá Rèn") return 0;
+13295|<O>| if (!city->get_save_2("war.city"))    // Không có chiến tranh
+13296|<O>| CHAT_D->rumor_channel(0,HIR"Hằng Nga rải bánh trung thu rồi, mọi người nhanh đi nhặt nào！");
+13297|<O>| if (check_item_amount(who, "Hồ lô thần kỳ nhốt khỉ hư") < 3)
+13298|<O>| send_user(me, "%c%s", '!', "Do một số nguyên nhân, xuyên không thời gian thất bại!");
+13299|<O>| delete_save_2(sprintf("player.%d",id1));	//Xóa
+13300|<O>| // BUG: NPC polling vẫn chạy heart_beat ngay cả trong trạng thái idle
+13301|<O>| SAY_CMD->say(me, "Rượu thịt ta nấu đến đại vương còn khen, các ngươi cũng nếm thử nhân nhục bao tử này！！");
+13302|<O>| tell_user(me, sprintf("Không tìm thấy %s", final + fam));
+13303|<O>| case "Ngụy": case "04": city = CITY_WEI;  break;
+13304|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Nước Mắt Trường Thành");
+13305|<O>| case "Yên": case "07": city = CITY_YAN;  break;
+13306|<O>| private int weakness;                  	// Hư nhược
+13307|<O>| "    "HIR" Chu Quốc "NOR"có cửa hàng chuyên bán trang bị"HIR" Cấm Vệ Quân "NOR"；\n"
+13308|<O>| send_user(me, "%c%s", ':', "Vui lòng chọn giải thưởng ngoài hai mươi nghìn:\n"
+13309|<O>| if (get_effect(who, EFFECT_MAGIC_CARD))	//Có biến thân
+13310|<O>| private int Gender;                     // Giới tính
+13311|<O>| send_user(who, "%c%s", '!', "Nhân vật tạo trong thời gian hoạt động mới được tham gia");
+13312|<O>| result2 = sprintf("Công đức %d", who->get_bonus());
+13313|<O>| send_user(me, "%c%s", '!', "Đối phương ở trong thành, không thể sử dụng pháp bảo này.");
+13314|<O>| private int iStrong;			// Cờ mở kỹ năng cường hóa, mỗi bit tương ứng nhiều kỹ năng cường hóa
+13315|<O>| if (host_type == 4 && time() > iMopTime)	//Maopu
+13316|<O>| item->accept_use_effect_2(who, me);    // Tỷ lệ thành công
+13317|<O>| private int Mining;                     // Khoáng nghiệp
+13318|<O>| send_user(who, "%c%s", ';', "Thăm dò hư thực Tiền 60000");
+13319|<O>| string Name;                            // Họ tên
+13320|<O>| private int Level;                      // Cấp độ
+13321|<O>| ESC "Đến Vân Mộng Trạch.\n" + sprintf("talk %x# 7\n", id) +
+13322|<O>| printf(ECHO "Sử dụng \"" PF_NAME "\" cần %d điểm pháp lực.", mp);
+13323|<O>| send_user(who, "%c%s", '!', "Ban hành chính lệnh cần 50 điểm thể lực.");
+13324|<O>| else if (rate < 7000 * rate1 / 100)		//2 mỏ bảo thạch
+13325|<O>| "%s:\nCác hạ quá vô lễ！Mời về！\n", name3, me->get_name()));
+13326|<O>| notify("Số lượng %s bạn muốn tặng không đúng.", obj[i]->get_name());
+13327|<O>| if (me->get_no_fight())  notify( "Bạn đang ở khu vực an toàn" );
+13328|<O>| desc = "Thịt bò xào trứng gà, trong 14 giây hồi phục 1330 điểm khí huyết, 665 điểm pháp lực cho người chơi.";
+13329|<O>| result = sprintf("Bạn có chắc muốn hợp thành hai viên Đá Rèn sơ cấp thành một viên Đá Rèn trung cấp không?\n"
+13330|<O>| CITY_D->city_policy(city);    // Chính lệnh thành phố (hết hạn sau 24 giờ)
+13331|<O>| else if (rate < 2700 * rate1 / 100)		//Pháp bảo cấp 2 ngẫu nhiên
+13332|<O>| if (!objectp(item)) return 1;    // Bạn không tìm thấy vật này.
+13333|<O>| else if (p < 6529 * rate / 100)    // Vũ khí (môn phái)
+13334|<O>| else if (p < 4456 * rate / 100)    // Phòng cụ (môn phái)
+13335|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Nịnh Hót");
+13336|<O>| else if (p < 9271 * rate / 100)    // Vũ khí (môn phái)
+13337|<O>| else if (p < 3439 * rate / 100)    // Vũ khí (môn phái)
+13338|<O>| else if (p < 3639 * rate / 100)    // Vũ khí (môn phái)
+13339|<O>| else if (p < 3794 * rate / 100)    // Vũ khí (môn phái)
+13340|<O>| else if (p < 5534 * rate / 100)    // Phòng cụ (môn phái)
+13341|<O>| TASK_LEGEND_D->remove_task_item(who, "Ngọc Long Tình");
+13342|<O>| else if (p < 6284 * rate / 100)    // Vũ khí (môn phái)
+13343|<O>| else if (p < 2967 * rate / 100)    // Vũ khí (môn phái)
+13344|<O>| send_user(member, "%c%s", '!', "Tiêu Diệt Phệ Tình Ma (hoàn thành)");
+13345|<O>| else if (p < 4067 * rate / 100)    // Vũ khí (môn phái)
+13346|<O>| else if (p < 9057 * rate / 100)    // Vũ khí (môn phái)
+13347|<O>| else if (p < 5089 * rate / 100)    // Phòng cụ (môn phái)
+13348|<O>| "Tết Bánh Trung Thu đến rồi！Suỵt！Đừng nói！Nhìn màn hình cười một cái！Cười thêm cái nữa！Hehe！Thấy rồi！Chúc bạn vui vẻ！",
+13349|<O>| send_user(player, "%c%s", '!', "Bạn đào bảo không đúng vị trí.");
+13350|<O>| else if (p < 5510 * rate / 100)    // Vũ khí (môn phái)
+13351|<O>| send_user(who, "%c%s", '!', "Chúc mừng bạn nhận được quà từ Như Ý Tiên Tử");
+13352|<O>| else if (p < 6028 * rate / 100)    // Phòng cụ (môn phái)
+13353|<O>| ESC "Đóng\nCLOSE\n", me->get_name(), p * 30));
+13354|<O>| send_user(who, "%c%s", '!', "Nhiệm vụ ngoại giao cần 1 điểm thể lực.");
+13355|<O>| else if (p < 4076 * rate / 100)    // Phòng cụ (môn phái)
+13356|<O>| else if (p < 4037 * rate / 100)    // Phòng cụ (môn phái)
+13357|<O>| else if (p < 5807 * rate / 100)    // Phòng cụ (môn phái)

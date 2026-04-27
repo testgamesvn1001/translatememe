@@ -1,69 +1,69 @@
-﻿12004|<O>| int no_recover() { return 1; }    // 不能使用恢复气血的法术
-12005|<O>| send_user(me, "%c%c%w%s", ':', 3, 0, "古墓探险操作:\n"
-12006|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"爱吃辣的客人");
-12007|<O>| int is_moveable() { return 0; }    // 禁止使用 go 命令
-12008|<O>| return "相传八仙归位后，集合八人神力炼制而成。\n能使体力完全恢复。冷却时间30秒。";
-12009|<O>| private int FirstOwnerId;            	// 最初获得者ID
-12010|<O>| notify("修理所有已配戴的装备需要 %d 金，您手上的现金不够。", allvalue);
-12011|<O>| private static string Attack;           // 战场攻击方
-12012|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"大葫芦（3）");
-12013|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"重阳节（1）");
-12014|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"同心锁（1）");
-12015|<O>| ESC "关闭\nCLOSE\n", me->get_name(), getoid(me)));
-12016|<O>| note->Name = sprintf("%s(徒弟)", who->get_name());
-12017|<O>| return "“御姐的爱好”\n攻击目标时有一定的几率\n对目标产生300点的吃嫩草的伤害";
-12018|<O>| city->set_save_2("war.surrender", 1);    // 投降标志
-12019|<O>| write_user(me, HIR "净化了妖怪的灵魂，你获得%d点经验奖励。", exp);
-12020|<O>| if (objectp(npc = new("/npc/01/0010"))    // 文曲星
-12021|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"丢失的黑棋子");
-12022|<O>| string get_suit_name() { return "巨象"; }	//属于某某套装
-12023|<O>| string get_suit_name() { return "炫御"; }	//属于某某套装
-12024|<O>| #define SKILL_FINAL	"/item/stuff/0014"		// 制作的结果
-12025|<O>| send_user(who, "%c%s", ':', "您:\n您有兴趣当兵去吃军粮吗？");
-12026|<O>| tell_user(me, "扫描目录: %s size=%d", path3, size3);
-12027|<O>| note->Name = sprintf("%s(娘子)", who->get_name());
-12028|<O>| if (StoreOpen && name != StoreName)    // 摆摊时才群发
-12029|<O>| name = "山西劫匪";picid = 0251; citypoint = 2;break;
-12030|<O>| delete_save_2("player");//每次活动开始的时候，都将上次的记录给清除掉。
-12031|<O>| string get_suit_name() { return "战狼"; }	//属于某某套装
-12032|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 10, "传送中……");
-12033|<O>| damage += me->get_2("suit_effect.damage2");	//套装
-12034|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"大葫芦（2）");
-12035|<O>| return "记载着云梦泽专用法术强化金针渡厄的书籍。云梦泽使用后可学会法术强化金针渡厄。";
-12036|<O>| private int Tax2Cash;                   // 税收分红率
-12037|<O>| &&      item->get_talisman_type() == 3    // 摄魂铃
-12038|<O>| ESC "取消\nCLOSE\n", me->get_name(), getoid(me)));
-12039|<O>| if (!get_effect(me, EFFECT_CHAR_DREAM_0))		//不囚禁
-12040|<O>| return "［机关］可以让玩家使用物料制造各种各样的趣味道具，以及一些辅助攻击道具。\n";
-12041|<O>| set_name("土匪" + NPC_NAME_D->get_banditi_name());
-12042|<O>| if (!get_effect(me, EFFECT_CHAR_BLOOD_0))		//不流血
-12043|<O>| string* treasure = ({ "黄菊","茱萸","重阳糕","菊花酒", });
-12044|<O>| log_file("boss.txt", short_time() + "阴间叛徒出现\n");
-12045|<O>| return sprintf(PF_NAME ":\n　　每 2 秒自动恢复一格元气。\n");
-12046|<O>| tell_user(me, "你将" + who->get_name() + "的状态恢复");
-12047|<O>| ESC"金精（技能:高级防盾、高级强攻、高级复生、高级飞行）\nuse %x# pet.1\n"
-12048|<O>| /*	if ( get_char_type() == OFFICER_TYPE )	//普通状态
-12049|<O>| private static mapping mpTaskXY;       // 综合任务坐标
-12050|<O>| set_name("匪徒" + NPC_NAME_D->get_banditi_name());
-12051|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"重阳节（2）");
-12052|<O>| send_user(who,"%c%s",'!',HIY"请注意:守墓石将，已经苏醒！！！");
-12053|<O>| send_user(me, "%c%s", '!', "接受极限穿越任务后不能使用回城符。");
-12054|<O>| who->set("pf.fall", -damage / 15);    // 小心准备 me
-12055|<O>| if (objectp(npc = new("/npc/01/0011"))    // 武曲星
-12056|<O>| remove_block(z0, x0, y0, CHAR_BLOCK);    // 删除阻挡
-12057|<O>| private static object Manager2;         // 防守方总管
-12058|<O>| send_user(who, "%c%s", ';', "缘分对对碰 龙镯 1 七国令 1");
-12059|<O>| me->set_pay_money_buy_item(8);    // 通过点数购买道具成功！
-12060|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"龙骨坡的遗骸");
-12061|<O>| tell_user(me, "你将" + who->get_name() + "踢出游戏。");
-12062|<O>| private int MaxLasting;                 // 最大耐久度
-12063|<O>| result = sprintf(HIC "您的‘商人’等级降至 %d 级！", level);
-12064|<O>| int get_cast_seal() { return 41100; }    // 符纸逆旋
-12065|<O>| amount01 = check_item_amount(who, "装着坏小猴的神奇葫芦");
-12066|<O>| move_to_user(player,1,"item/std/8000",npc);//藏宝图
-12067|<O>| send_user(who, "%c%s", '!', "您获得了"HIY"钱老九的货物！");
-12068|<O>| log_file("boss.txt", short_time() + " 虎王被消灭\n");
-12069|<O>| && objectp(who = item->get_owner())    // 获取装备主人
-12070|<O>| if (sscanf(arg, "@ %s", name) == 1)    // 同意创建帮派
-12071|<O>| SAY_CMD->say(this_object(), "又一个失败品，你们都不懂得艺术。");
-12072|<O>| send_user(me, "%c%s", '!', "接受极限穿越任务后不能使用土行珠。");
+﻿12004|<O>| int no_recover() { return 1; }    // Không thể sử dụng pháp thuật hồi phục khí huyết
+12005|<O>| send_user(me, "%c%c%w%s", ':', 3, 0, "Thao tác khám phá cổ mộ:\n"
+12006|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Vị Khách Thích Ăn Cay");
+12007|<O>| int is_moveable() { return 0; }    // Cấm sử dụng lệnh go
+12008|<O>| return "Tương truyền sau khi Bát Tiên quy vị, tập hợp thần lực tám người luyện chế mà thành.\nCó thể phục hồi hoàn toàn thể lực. Thời gian hồi chiêu 30 giây.";
+12009|<O>| private int FirstOwnerId;            	// ID người sở hữu đầu tiên
+12010|<O>| notify("Sửa chữa tất cả trang bị đang đeo cần %d vàng, tiền mặt của bạn không đủ.", allvalue);
+12011|<O>| private static string Attack;           // Bên tấn công chiến trường
+12012|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Đại Hồ Lô（3）");
+12013|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Trùng Dương Tiết（1）");
+12014|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Đồng Tâm Khóa（1）");
+12015|<O>| ESC "Đóng\nCLOSE\n", me->get_name(), getoid(me)));
+12016|<O>| note->Name = sprintf("%s(Đồ đệ)", who->get_name());
+12017|<O>| return ""Sở thích của ngự tỷ"\nKhi tấn công mục tiêu có tỷ lệ nhất định\ngây 300 điểm sát thương ăn non cho mục tiêu";
+12018|<O>| city->set_save_2("war.surrender", 1);    // Cờ đầu hàng
+12019|<O>| write_user(me, HIR "Tịnh hóa linh hồn yêu quái, bạn nhận được %d điểm kinh nghiệm.", exp);
+12020|<O>| if (objectp(npc = new("/npc/01/0010"))    // Văn Khúc Tinh
+12021|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Quân Cờ Đen Bị Mất");
+12022|<O>| string get_suit_name() { return "Cự Tượng"; }	//Thuộc bộ trang phục nào
+12023|<O>| string get_suit_name() { return "Huyễn Ngự"; }	//Thuộc bộ trang phục nào
+12024|<O>| #define SKILL_FINAL	"/item/stuff/0014"		// Kết quả chế tạo
+12025|<O>| send_user(who, "%c%s", ':', "Bạn:\nBạn có hứng thú đi lính ăn lương quân đội không?");
+12026|<O>| tell_user(me, "Quét thư mục: %s size=%d", path3, size3);
+12027|<O>| note->Name = sprintf("%s(Nương tử)", who->get_name());
+12028|<O>| if (StoreOpen && name != StoreName)    // Khi bày bán mới gửi hàng loạt
+12029|<O>| name = "Sơn Tây Kiếp Phỉ";picid = 0251; citypoint = 2;break;
+12030|<O>| delete_save_2("player");//Mỗi lần hoạt động bắt đầu, xóa bản ghi lần trước.
+12031|<O>| string get_suit_name() { return "Chiến Lang"; }	//Thuộc bộ trang phục nào
+12032|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 10, "Đang truyền tống……");
+12033|<O>| damage += me->get_2("suit_effect.damage2");	//Bộ trang phục
+12034|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Đại Hồ Lô（2）");
+12035|<O>| return "Sách ghi chép pháp thuật chuyên dụng của Vân Mộng Trạch - Kim Châm Độ Ách cường hóa. Vân Mộng Trạch sử dụng sẽ học được pháp thuật Kim Châm Độ Ách cường hóa.";
+12036|<O>| private int Tax2Cash;                   // Tỷ lệ chia lợi nhuận thuế
+12037|<O>| &&      item->get_talisman_type() == 3    // Nhiếp Hồn Linh
+12038|<O>| ESC "Hủy\nCLOSE\n", me->get_name(), getoid(me)));
+12039|<O>| if (!get_effect(me, EFFECT_CHAR_DREAM_0))		//Không giam giữ
+12040|<O>| return "［Cơ Quan］Cho phép người chơi sử dụng vật liệu chế tạo các loại đạo cụ thú vị, cùng một số đạo cụ hỗ trợ tấn công.\n";
+12041|<O>| set_name("Thổ Phỉ" + NPC_NAME_D->get_banditi_name());
+12042|<O>| if (!get_effect(me, EFFECT_CHAR_BLOOD_0))		//Không chảy máu
+12043|<O>| string* treasure = ({ "Hoàng Cúc","Thù Du","Bánh Trùng Dương","Rượu Hoa Cúc", });
+12044|<O>| log_file("boss.txt", short_time() + " Phản Đồ Âm Gian xuất hiện\n");
+12045|<O>| return sprintf(PF_NAME ":\n　　Mỗi 2 giây tự động hồi phục một ô nguyên khí.\n");
+12046|<O>| tell_user(me, "Bạn đã khôi phục trạng thái của " + who->get_name());
+12047|<O>| ESC"Kim Tinh（Kỹ năng: Phòng Thuẫn Cao Cấp, Cường Công Cao Cấp, Phục Sinh Cao Cấp, Bay Cao Cấp）\nuse %x# pet.1\n"
+12048|<O>| /*	if ( get_char_type() == OFFICER_TYPE )	//Trạng thái bình thường
+12049|<O>| private static mapping mpTaskXY;       // Tọa độ nhiệm vụ tổng hợp
+12050|<O>| set_name("Phỉ Đồ" + NPC_NAME_D->get_banditi_name());
+12051|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Trùng Dương Tiết（2）");
+12052|<O>| send_user(who,"%c%s",'!',HIY"Chú ý: Thủ Mộ Thạch Tướng đã tỉnh giấc!!!");
+12053|<O>| send_user(me, "%c%s", '!', "Sau khi nhận nhiệm vụ Vượt Giới Hạn không thể sử dụng Hồi Thành Phù.");
+12054|<O>| who->set("pf.fall", -damage / 15);    // Cẩn thận chuẩn bị me
+12055|<O>| if (objectp(npc = new("/npc/01/0011"))    // Vũ Khúc Tinh
+12056|<O>| remove_block(z0, x0, y0, CHAR_BLOCK);    // Xóa chặn
+12057|<O>| private static object Manager2;         // Tổng quản bên phòng thủ
+12058|<O>| send_user(who, "%c%s", ';', "Duyên Phận Đối Đối Bổng Long Trác 1 Thất Quốc Lệnh 1");
+12059|<O>| me->set_pay_money_buy_item(8);    // Mua đạo cụ bằng điểm thành công!
+12060|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Hài Cốt Ở Long Cốt Pha");
+12061|<O>| tell_user(me, "Bạn đã đuổi " + who->get_name() + " ra khỏi game.");
+12062|<O>| private int MaxLasting;                 // Độ bền tối đa
+12063|<O>| result = sprintf(HIC "Cấp 'Thương Nhân' của bạn giảm xuống %d!", level);
+12064|<O>| int get_cast_seal() { return 41100; }    // Phù Chỉ Nghịch Toàn
+12065|<O>| amount01 = check_item_amount(who, "Hồ Lô Thần Kỳ Chứa Khỉ Hư");
+12066|<O>| move_to_user(player,1,"item/std/8000",npc);//Bản đồ tàng bảo
+12067|<O>| send_user(who, "%c%s", '!', "Bạn nhận được "HIY"Hàng Hóa Của Tiền Lão Cửu!");
+12068|<O>| log_file("boss.txt", short_time() + " Hổ Vương bị tiêu diệt\n");
+12069|<O>| && objectp(who = item->get_owner())    // Lấy chủ nhân trang bị
+12070|<O>| if (sscanf(arg, "@ %s", name) == 1)    // Đồng ý thành lập bang phái
+12071|<O>| SAY_CMD->say(this_object(), "Lại một sản phẩm hỏng nữa, các người đều không hiểu nghệ thuật.");
+12072|<O>| send_user(me, "%c%s", '!', "Sau khi nhận nhiệm vụ Vượt Giới Hạn không thể sử dụng Thổ Hành Châu.");

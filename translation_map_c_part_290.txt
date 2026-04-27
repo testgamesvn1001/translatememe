@@ -1,6 +1,6 @@
-﻿10685|<O>| sprintf(ESC"12điểmđổi hoáncaocấpDược Phẩm Nhất\ntalk %x# exchange.3\n",id) +
-10686|<O>| send_user(me, "%c%s", ':', "Bạncủasủng vật:Anh Minhcủasong Tử,Sử dụnggiờgianTăng14ngày。");
-10687|<O>| if (objectp(item = present("phục sinh Đơn", me, 1, MAX_CARRY)))
+﻿10685|<O>| sprintf(ESC"12 điểm đổi một thuốc cao cấp\ntalk %x# exchange.3\n",id) +
+10686|<O>| send_user(me, "%c%s", ':', "Thú cưng của bạn: Song Tử Anh Minh, thời gian sử dụng tăng thêm 14 ngày.");
+10687|<O>| if (objectp(item = present("Phục Sinh Đan", me, 1, MAX_CARRY)))
 10688|<O>| #define SKILL_FINAL	"/item/final/86/7065"				// Kết quả chế tạo
 10689|<O>| #define SKILL_FINAL	"/item/final/70/1055"				// Kết quả chế tạo
 10690|<O>| #define SKILL_FINAL	"/item/final/86/5035"				// Kết quả chế tạo
@@ -9,13 +9,13 @@
 10693|<O>| #define SKILL_FINAL	"/item/final/65/3065"				// Kết quả chế tạo
 10694|<O>| #define SKILL_FINAL	"/item/final/65/2105"				// Kết quả chế tạo
 10695|<O>| #define SKILL_FINAL	"/item/final/60/6095"				// Kết quả chế tạo
-10696|<O>| send_user(who, "%c%s", '!', "bạncủaBao góiđã mãn，không thểnhận đượcbồi thường，Xin Thanh Khôngsaulại đến。");
+10696|<O>| send_user(who, "%c%s", '!', "Ba lô của bạn đã đầy, không thể nhận bồi thường, hãy dọn dẹp rồi quay lại.");
 10697|<O>| #define SKILL_FINAL	"/item/final/88/7105"				// Kết quả chế tạo
 10698|<O>| #define SKILL_FINAL	"/item/final/88/6045"				// Kết quả chế tạo
 10699|<O>| #define SKILL_FINAL	"/item/final/60/5115"				// Kết quả chế tạo
 10700|<O>| #define SKILL_FINAL	"/item/final/65/4110"				// Kết quả chế tạo
 10701|<O>| #define SKILL_FINAL	"/item/final/86/1085"				// Kết quả chế tạo
-10702|<O>| return "cư Gia lữ Hànhgiờsở dùngcủanhỏbối bao，\nCó thể tăng cho người sử dụng12ô trống trong ba lô。\nBao gói10ngày sau sẽ tự động hư hỏng。";
+10702|<O>| return "Ba lô nhỏ dùng khi đi du lịch,\ncó thể tăng thêm 12 ô ba lô cho người sử dụng.\nBa lô sẽ tự động hỏng sau 10 ngày.";
 10703|<O>| #define SKILL_FINAL	"/item/final/88/4075"				// Kết quả chế tạo
 10704|<O>| #define SKILL_FINAL	"/item/final/75/1035"				// Kết quả chế tạo
 10705|<O>| #define SKILL_FINAL	"/item/final/76/1105"				// Kết quả chế tạo
@@ -26,28 +26,28 @@
 10710|<O>| #define SKILL_FINAL	"/item/final/74/1115"				// Kết quả chế tạo
 10711|<O>| #define SKILL_FINAL	"/item/final/60/5085"				// Kết quả chế tạo
 10712|<O>| #define SKILL_FINAL	"/item/final/60/6085"				// Kết quả chế tạo
-10713|<O>| send_user(me, "%c%s", '!', "Bạn chínhTạinghiên đọc" + result + "Chigiữa。");
+10713|<O>| send_user(me, "%c%s", '!', "Bạn đang nghiên cứu " + result + ".");
 10714|<O>| #define SKILL_FINAL	"/item/final/65/3115"				// Kết quả chế tạo
 10715|<O>| #define SKILL_FINAL	"/item/final/65/7095"				// Kết quả chế tạo
 10716|<O>| #define SKILL_FINAL	"/item/final/75/1120"				// Kết quả chế tạo
-10717|<O>| SAY_CMD->say(me, who->get_name() + "，Tử vongcủaủng bãokhôngNhất địnhLàBăngLãnhcủa。");
+10717|<O>| SAY_CMD->say(me, who->get_name() + ", cái ôm của tử thần không nhất định lạnh lẽo đâu.");
 10718|<O>| #define SKILL_FINAL	"/item/final/70/1115"				// Kết quả chế tạo
-10719|<O>| return HIR + PF_NAME + "\n    Cơ bảnCôn PhápTấn côngkỹ，Tấn côngcủaĐồng thờitruy Gia10điểm Sát thương。";
-10720|<O>| if (MAP_D->is_inside_safe_zone(z0, x, y))    // An Toàn khu phán đoạn
-10721|<O>| send_user(who, "%c%s", ';', "rất bão khiểm，bạntrảocủaxấunhỏHầu số lượngkhôngtúc ồ，Tiếp tụcnỗ Lực ");
+10719|<O>| return HIR + PF_NAME + "\n    Chiêu thức côn pháp cơ bản, khi tấn công đồng thời gây thêm 10 điểm sát thương.";
+10720|<O>| if (MAP_D->is_inside_safe_zone(z0, x, y))    // Phán đoán khu vực an toàn
+10721|<O>| send_user(who, "%c%s", ';', "Rất tiếc, số lượng khỉ con hư bạn bắt chưa đủ, hãy cố gắng tiếp nhé");
 10722|<O>| #define SKILL_FINAL	"/item/final/65/4115"				// Kết quả chế tạo
 10723|<O>| #define SKILL_FINAL	"/item/final/86/4095"				// Kết quả chế tạo
-10724|<O>| if (me->get_action_mode()!=1) return;	// TạiHồi chủ Nhân Thân BiêncủalúckhôngTấn công
+10724|<O>| if (me->get_action_mode()!=1) return;	// Khi đang quay về bên chủ thì không tấn công
 10725|<O>| if (gone_time(me->get_time("remove")) < 1)    // Giới hạn thời gian
 10726|<O>| #define SKILL_FINAL	"/item/final/86/5075"				// Kết quả chế tạo
 10727|<O>| #define SKILL_FINAL	"/item/final/88/3055"				// Kết quả chế tạo
 10728|<O>| #define SKILL_FINAL	"/item/final/88/4065"				// Kết quả chế tạo
 10729|<O>| #define SKILL_FINAL	"/item/final/60/1095"				// Kết quả chế tạo
 10730|<O>| #define SKILL_FINAL	"/item/final/65/7065"				// Kết quả chế tạo
-10731|<O>| send_user(who, "%c%s", '!', sprintf(HIY"thông %d/3", i));
-10732|<O>| send_user( who, "%c%s", '>', sprintf("Bạn nhận được%s",name) );
+10731|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Hành %d/3", i));
+10732|<O>| send_user( who, "%c%s", '>', sprintf("Bạn nhận được %s",name) );
 10733|<O>| #define SKILL_FINAL	"/item/final/88/7075"				// Kết quả chế tạo
-10734|<O>| call_out("message_box", 1, me, 1, sprintf("%dVàng", i));
+10734|<O>| call_out("message_box", 1, me, 1, sprintf("%d vàng", i));
 10735|<O>| #define SKILL_FINAL	"/item/final/88/6105"				// Kết quả chế tạo
 10736|<O>| #define SKILL_FINAL	"/item/final/76/1085"				// Kết quả chế tạo
 10737|<O>| ESC "Đóng\nCLOSE\n", me->get_name(), y / (24 * 3600)));

@@ -1,59 +1,59 @@
-﻿8783|<O>| send_user(who, "%c%s", ';', "当铺老板的交易 经验 280 潜能 30 行军散 10 ");
-8784|<O>| p_str += ({ FINAL_D->file_final_fam_type_lv("桃花源",70,85) });
-8785|<O>| send_user(who, "%c%s", ';', "送给丁兄的酒 经验 1500 潜能 30 金钱 1200");
-8786|<O>| cmd101 = sprintf(ESC HIY "疑难杂症（2）\ntalk %x# buy.101\n", id);
-8787|<O>| /*              else if( p < 330000 * rate / 100 )    // 杂物５
-8788|<O>| send_user(me, "%c%c%w%w%s", 0x60, 4, get_number(), 6, "原料");
-8789|<O>| /*              else if( p < 640000 * rate / 100 )    // 杂物５
-8790|<O>| /*              else if( p < 460000 * rate / 100 )    // 杂物５
-8791|<O>| return sprintf("狂暴:\n　　提升%d点物理攻击力，但是物理防御力会下降50％。\n", iFlag);
-8792|<O>| write_user(me, ECHO "您把 %d 金存入%s处。", gold, who->get_name());
-8793|<O>| if( get_effect(me, EFFECT_CHAR_IGNORE)) return 2;    // 执行成功
-8794|<O>| send_user(me, "%c%s", ':', "您获得了" + item->get_name() + "。");
-8795|<O>| /*              else if( p < 550000 * rate / 100 )    // 杂物５
-8796|<O>| send_user(who, "%c%s", ';', "怨鬼之灵 经验 9800 潜能 500 金钱 11600");
-8797|<O>| case 105: result = "漠北马贼";  pic = 8013;  level2 = 5;  break;
-8798|<O>| /*              else if( p < 170000 * rate / 100 )    // 杂物５
-8799|<O>| /*              else if( p < 260000 * rate / 100 )    // 杂物５
-8800|<O>| /*              else if( p < 680000 * rate / 100 )    // 杂物５
-8801|<O>| /*              else if( p < 220000 * rate / 100 )    // 杂物５
-8802|<O>| item->set(SEAL_CP, ADD_CP + me->get_cp());    // 小心准备 me, cp
-8803|<O>| _DEBUG(sprintf("DEBUG -- 无法删除编号为 %d 的时钟，编号不存在", clock_num));
-8804|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 1, 2, 0001, 3, "保险时间");
-8805|<O>| /*              else if( p < 310000 * rate / 100 )    // 杂物５
-8806|<O>| /*              else if( p < 870000 * rate / 100 )    // 杂物５
-8807|<O>| if (me->get_fam_name() == "蜀山" && me->get_perform("02221#"))
-8808|<O>| /*              else if( p < 380000 * rate / 100 )    // 杂物５
-8809|<O>| /*              else if( p < 270000 * rate / 100 )    // 杂物５
-8810|<O>| send_user(who, "%c%s", ';', "探听虚实 经验 11000 潜能 320 金钱 9000");
-8811|<O>| return "学习强化门派技能的信物。\n相传战国习武之人以能学习到门派强化技能为上天的恩赐，故而有了天恩令一说。";
-8812|<O>| /*              else if( p < 670000 * rate / 100 )    // 杂物５
-8813|<O>| send_user(who, "%c%s", ';', "合伙做生意 经验 5500 潜能 230 金钱 5000");
-8814|<O>| USER_ENERGY_D->count_max_hp(me);    // 更新，没有用 count_all_prop
-8815|<O>| tmp += sprintf(ESC HIY "寻求解救之道\ntalk %x# welcome.10\n", id);
-8816|<O>| /*              else if( p < 120000 * rate / 100 )    // 杂物５
-8817|<O>| /*              else if( p < 110000 * rate / 100 )    // 杂物５
-8818|<O>| if (lockutil && gone_time(locktime) > lockutil)    // 计算是否锁定
-8819|<O>| /*              else if( p < 900000 * rate / 100 )    // 杂物５
-8820|<O>| if (me->get_fam_name() == "桃花源" && me->get_perform("03192"))
-8821|<O>| int get_zombie_type() { return SOLDIER_TYPE_1; }     // 判断种类
-8822|<O>| int get_zombie_type() { return SOLDIER_TYPE_2; }     // 判断种类
-8823|<O>| if (time % 10 == 0 && MAIN_D->get_host_type() != 6012) //1分钟
-8824|<O>| cmd101 = sprintf(ESC HIY "疑难杂症（1）\ntalk %x# buy.101\n", id);
-8825|<O>| &&      objectp( item = who->get_equip(HAND_TYPE) )    // 法宝
-8826|<O>| /*              else if( p < 110009 * rate / 100 )    // 杂物５
-8827|<O>| cmd101 = sprintf(ESC HIY "疑难杂症（3）\ntalk %x# buy.101\n", id);
-8828|<O>| return HIR + PF_NAME + "\n技能需求:12级\n    利用暗劲挫伤对手，使其陷入负伤状态。";
-8829|<O>| case CAVE_MAP: send_user(me, "%c%s", '!', "对方在地下，不能使用此法宝。");
-8830|<O>| /*              else if( p < 190014 * rate / 100 )    // 杂物５
-8831|<O>| /*              else if( p < 260016 * rate / 100 )    // 杂物５
-8832|<O>| send_user(who, "%c%s", ';', "合适的礼物 经验 4000 潜能 188 金钱 3700");
-8833|<O>| item->set(SEAL_CP, ADD_AP + me->get_cp());    // 小心准备 me, ap
-8834|<O>| /*              else if( p < 910000 * rate / 100 )    // 杂物５
-8835|<O>| /*              else if( p < 690000 * rate / 100 )    // 杂物５
-8836|<O>| if ("sys/party/treasure"->is_open() == 0)//现在活动还没有开始,不能领取锄头。
-8837|<O>| ESC + sprintf("完成任务。\ntalk %x# valentine.5\n", getoid(me)) +
-8838|<O>| tell_user(me, "目录:" DIR_COLOR + me->get_cwd());    // 列示当前目录
-8839|<O>| /*              else if( p < 570000 * rate / 100 )    // 杂物５
-8840|<O>| /*              else if( p < 820000 * rate / 100 )    // 杂物５
-8841|<O>| send_user(who, "%c%s", ';', "偷钱的笨熊 经验 6000 潜能 245 金钱 4900");
+﻿8783|<O>| send_user(who, "%c%s", ';', "Giao Dịch Của Ông Chủ Tiệm Cầm Đồ Kinh nghiệm 280 Tiềm năng 30 Hành Quân Tán 10 ");
+8784|<O>| p_str += ({ FINAL_D->file_final_fam_type_lv("Đào Hoa Nguyên",70,85) });
+8785|<O>| send_user(who, "%c%s", ';', "Rượu Tặng Đinh Huynh Kinh nghiệm 1500 Tiềm năng 30 Tiền vàng 1200");
+8786|<O>| cmd101 = sprintf(ESC HIY "Nghi Nan Tạp Chứng（2）\ntalk %x# buy.101\n", id);
+8787|<O>| /*              else if( p < 330000 * rate / 100 )    // Tạp vật 5
+8788|<O>| send_user(me, "%c%c%w%w%s", 0x60, 4, get_number(), 6, "Nguyên Liệu");
+8789|<O>| /*              else if( p < 640000 * rate / 100 )    // Tạp vật 5
+8790|<O>| /*              else if( p < 460000 * rate / 100 )    // Tạp vật 5
+8791|<O>| return sprintf("Cuồng Bạo:\n　　Tăng %d điểm lực tấn công vật lý, nhưng phòng thủ vật lý sẽ giảm 50%%.\n", iFlag);
+8792|<O>| write_user(me, ECHO "Bạn gửi %d vàng vào %s.", gold, who->get_name());
+8793|<O>| if( get_effect(me, EFFECT_CHAR_IGNORE)) return 2;    // Thực hiện thành công
+8794|<O>| send_user(me, "%c%s", ':', "Bạn nhận được " + item->get_name() + ".");
+8795|<O>| /*              else if( p < 550000 * rate / 100 )    // Tạp vật 5
+8796|<O>| send_user(who, "%c%s", ';', "Oán Quỷ Chi Linh Kinh nghiệm 9800 Tiềm năng 500 Tiền vàng 11600");
+8797|<O>| case 105: result = "Mạc Bắc Mã Tặc";  pic = 8013;  level2 = 5;  break;
+8798|<O>| /*              else if( p < 170000 * rate / 100 )    // Tạp vật 5
+8799|<O>| /*              else if( p < 260000 * rate / 100 )    // Tạp vật 5
+8800|<O>| /*              else if( p < 680000 * rate / 100 )    // Tạp vật 5
+8801|<O>| /*              else if( p < 220000 * rate / 100 )    // Tạp vật 5
+8802|<O>| item->set(SEAL_CP, ADD_CP + me->get_cp());    // Cẩn thận chuẩn bị me, cp
+8803|<O>| _DEBUG(sprintf("DEBUG -- Không thể xóa đồng hồ số %d, số hiệu không tồn tại", clock_num));
+8804|<O>| send_user(who, "%c%c%c%w%w%s", 0x51, 1, 2, 0001, 3, "Thời Gian Bảo Hiểm");
+8805|<O>| /*              else if( p < 310000 * rate / 100 )    // Tạp vật 5
+8806|<O>| /*              else if( p < 870000 * rate / 100 )    // Tạp vật 5
+8807|<O>| if (me->get_fam_name() == "Thục Sơn" && me->get_perform("02221#"))
+8808|<O>| /*              else if( p < 380000 * rate / 100 )    // Tạp vật 5
+8809|<O>| /*              else if( p < 270000 * rate / 100 )    // Tạp vật 5
+8810|<O>| send_user(who, "%c%s", ';', "Thăm Dò Hư Thực Kinh nghiệm 11000 Tiềm năng 320 Tiền vàng 9000");
+8811|<O>| return "Tín vật học tập cường hóa kỹ năng môn phái.\nTương truyền người luyện võ thời Chiến Quốc coi việc học được kỹ năng cường hóa môn phái là ân huệ của trời, vì thế mới có cách nói Thiên Ân Lệnh.";
+8812|<O>| /*              else if( p < 670000 * rate / 100 )    // Tạp vật 5
+8813|<O>| send_user(who, "%c%s", ';', "Hợp Tác Kinh Doanh Kinh nghiệm 5500 Tiềm năng 230 Tiền vàng 5000");
+8814|<O>| USER_ENERGY_D->count_max_hp(me);    // Cập nhật, không dùng count_all_prop
+8815|<O>| tmp += sprintf(ESC HIY "Tìm Cách Giải Cứu\ntalk %x# welcome.10\n", id);
+8816|<O>| /*              else if( p < 120000 * rate / 100 )    // Tạp vật 5
+8817|<O>| /*              else if( p < 110000 * rate / 100 )    // Tạp vật 5
+8818|<O>| if (lockutil && gone_time(locktime) > lockutil)    // Tính toán có bị khóa không
+8819|<O>| /*              else if( p < 900000 * rate / 100 )    // Tạp vật 5
+8820|<O>| if (me->get_fam_name() == "Đào Hoa Nguyên" && me->get_perform("03192"))
+8821|<O>| int get_zombie_type() { return SOLDIER_TYPE_1; }     // Phán đoán chủng loại
+8822|<O>| int get_zombie_type() { return SOLDIER_TYPE_2; }     // Phán đoán chủng loại
+8823|<O>| if (time % 10 == 0 && MAIN_D->get_host_type() != 6012) //1 phút
+8824|<O>| cmd101 = sprintf(ESC HIY "Nghi Nan Tạp Chứng（1）\ntalk %x# buy.101\n", id);
+8825|<O>| &&      objectp( item = who->get_equip(HAND_TYPE) )    // Pháp bảo
+8826|<O>| /*              else if( p < 110009 * rate / 100 )    // Tạp vật 5
+8827|<O>| cmd101 = sprintf(ESC HIY "Nghi Nan Tạp Chứng（3）\ntalk %x# buy.101\n", id);
+8828|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 12\n    Dùng ám kình làm tổn thương đối thủ, khiến đối phương rơi vào trạng thái bị thương.";
+8829|<O>| case CAVE_MAP: send_user(me, "%c%s", '!', "Đối phương ở dưới lòng đất, không thể sử dụng pháp bảo này.");
+8830|<O>| /*              else if( p < 190014 * rate / 100 )    // Tạp vật 5
+8831|<O>| /*              else if( p < 260016 * rate / 100 )    // Tạp vật 5
+8832|<O>| send_user(who, "%c%s", ';', "Món Quà Phù Hợp Kinh nghiệm 4000 Tiềm năng 188 Tiền vàng 3700");
+8833|<O>| item->set(SEAL_CP, ADD_AP + me->get_cp());    // Cẩn thận chuẩn bị me, ap
+8834|<O>| /*              else if( p < 910000 * rate / 100 )    // Tạp vật 5
+8835|<O>| /*              else if( p < 690000 * rate / 100 )    // Tạp vật 5
+8836|<O>| if ("sys/party/treasure"->is_open() == 0)//Hoạt động hiện tại chưa bắt đầu, không thể nhận cuốc.
+8837|<O>| ESC + sprintf("Hoàn thành nhiệm vụ.\ntalk %x# valentine.5\n", getoid(me)) +
+8838|<O>| tell_user(me, "Thư mục:" DIR_COLOR + me->get_cwd());    // Liệt kê thư mục hiện tại
+8839|<O>| /*              else if( p < 570000 * rate / 100 )    // Tạp vật 5
+8840|<O>| /*              else if( p < 820000 * rate / 100 )    // Tạp vật 5
+8841|<O>| send_user(who, "%c%s", ';', "Gấu Ngốc Trộm Tiền Kinh nghiệm 6000 Tiềm năng 245 Tiền vàng 4900");

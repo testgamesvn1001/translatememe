@@ -1,74 +1,74 @@
-﻿13654|<O>| else if (p < 4830 * rate / 100)    // Phòng cụ(Môn phái)
-13655|<O>| else if (p < 4162 * rate / 100)    // Vũ khí(Môn phái)
-13656|<O>| else if (p < 4496 * rate / 100)    // Phòng cụ(Môn phái)
-13657|<O>| send_user(me, "%c%s", '!', "Sử dụngMôn pháiTín Vật tất Tu chi phó50Vàng");
-13658|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Ân oán");
-13659|<O>| return sprintf(PF_NAME ":\n　　hoàn Toàn Hồi tỵdướiNhấtlầnTấn công。\n");
-13660|<O>| else if (p < 9196 * rate / 100)    // Phòng cụ(Môn phái)
-13661|<O>| else if (p < 9298 * rate / 100)    // Vũ khí(Môn phái)
-13662|<O>| else if (p < 5393 * rate / 100)    // Vũ khí(Môn phái)
-13663|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Triệu Cơ");
-13664|<O>| else if (p < 6957 * rate / 100)    // Phòng cụ(Môn phái)
-13665|<O>| sprintf("%s:\n    Thì racủabạn bècó thể Năngcũngkhôngnhận đượcbạn，bạncònLànguyện Ýnàydạng làm ？\n"
-13666|<O>| else if (p < 8442 * rate / 100)    // Vũ khí(Môn phái)
-13667|<O>| else if (p < 5590 * rate / 100)    // Vũ khí(Môn phái)
-13668|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"luận ngữ");
-13669|<O>| else if (p < 4236 * rate / 100)    // Phòng cụ(Môn phái)
-13670|<O>| else if (p < 4166 * rate / 100)    // Phòng cụ(Môn phái)
-13671|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận được"HIY"điều Binh Phù");
-13672|<O>| else if (p < 5910 * rate / 100)    // Phòng cụ(Môn phái)
-13673|<O>| else if (p < 4440 * rate / 100)    // Phòng cụ(Cơ bản)
-13674|<O>| //			+ sprintf(ESC"Thất tịchhoạt độngThao tác(Kiểm tra)\nparty 135\n")
-13675|<O>| else if (p < 4758 * rate / 100)    // Phòng cụ(Môn phái)
-13676|<O>| else if (p < 6766 * rate / 100)    // Phòng cụ(Môn phái)
-13677|<O>| send_user(me, "%c%s", '!', "sung TrịThất bại" + result);
-13678|<O>| else if (p < 4677 * rate / 100)    // Vũ khí(Môn phái)
-13679|<O>| else if (p < 6181 * rate / 100)    // Phòng cụ(Môn phái)
-13680|<O>| else if (p < 3916 * rate / 100)    // Vũ khí(Môn phái)
-13681|<O>| send_user(who, "%c%s", '!', HIY"huynhdàicủaNgọc bội 1/1");
-13682|<O>| else if (p < 9075 * rate / 100)    // Vũ khí(Môn phái)
-13683|<O>| return "［Thương hạiCường hóa］ bang pháiđặc thù kỹ，có thểTăngNgười chơidùngVật lý tấn côngđối vớimục tiêutạo thànhcủaThương hại。\n";
-13684|<O>| case 6 :	result += sprintf( "Môn phái thích hợp: %sCôn Lôn Sơn\n",
-13685|<O>| private static int* dbDie = ({ });		// Tử vongcủaquái vật
-13686|<O>| mxTime = localtime(iStart+3600*24);	//dướilầnCông Thànhgiờgian
-13687|<O>| else if (p < 4824 * rate / 100)    // Vũ khí(Môn phái)
-13688|<O>| else if (p < 4120 * rate / 100)    // Phòng cụ(Môn phái)
-13689|<O>| else if (p < 5380 * rate / 100)    // Vũ khí(Môn phái)
-13690|<O>| write_user(me, ECHO "bạnThành côngTẩy rơi%dđiểmcủamẫn tiệp。", point);
-13691|<O>| else if (p < 7200 * rate / 100)    // Vũ khí(Môn phái)
-13692|<O>| else if (p < 4712 * rate / 100)    // Vũ khí(Môn phái)
-13693|<O>| else if (p < 6495 * rate / 100)    // Vũ khí(Môn phái)
-13694|<O>| else if (p < 4677 * rate / 100)    // Phòng cụ(Cơ bản)
-13695|<O>| tell_user(me, "%sThântrênkhông cóđồ vật。", who->get_name());
-13696|<O>| else if (p < 4677 * rate / 100)    // Phòng cụ(Môn phái)
-13697|<O>| else if (p < 9004 * rate / 100)    // Vũ khí(Môn phái)
-13698|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"cô độc");
-13699|<O>| else if (p < 6119 * rate / 100)    // Phòng cụ(Môn phái)
-13700|<O>| else if (p < 6880 * rate / 100)    // Phòng cụ(Môn phái)
-13701|<O>| else if (p < 4158 * rate / 100)    // Vũ khí(Môn phái)
-13702|<O>| else if (p < 9283 * rate / 100)    // Vũ khí(Môn phái)
-13703|<O>| return "［Hồi tỵCường hóa］ bang pháiđặc thù kỹ，có thểTăngNgười chơicủaHồi tỵ suất，mỗicấpTăng1.5％。\n";
-13704|<O>| send_user(member, "%c%s", '!', "bạnhuề ĐáicủaVật Phẩm Tháinhiều");
-13705|<O>| else if (p < 8100 * rate / 100)    // Phòng cụ(Môn phái)
-13706|<O>| send_user(me, "%c%s", ';', "Xin lỗi，BạnKhông thể sử dụngnên Đạo cụ。");
-13707|<O>| send_user(who, "%c%s", '!', "nàyhiệu mãđãlĩnh thủ quaphần thưởng");
-13708|<O>| arg = EMOTE_D->do_emote(me, "mỗ Nhân", arg, who);
-13709|<O>| else if (p < 5563 * rate / 100)    // Phòng cụ(Môn phái)
-13710|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Bảo Kiếm");
-13711|<O>| else if (p < 5997 * rate / 100)    // Phòng cụ(Môn phái)
-13712|<O>| else if (p < 5864 * rate / 100)    // Vũ khí(Môn phái)
-13713|<O>| send_user(me, "%c%s", '!', "không thểTrực tiếp vãngTrang bịlanThêmĐạo cụ。");
-13714|<O>| else if (p < 3637 * rate / 100)    // Vũ khí(Môn phái)
-13715|<O>| send_user(me, "%c%s", ':', "bạnđãThành cônglĩnh thủ vô Địch Bảo Bảo bao。");
-13716|<O>| else if (p < 4844 * rate / 100)    // Phòng cụ(Môn phái)
-13717|<O>| send_user(me, "%c%s", '!', "Nguyên khí phục sinhcủahiệu QuảđãKết thúc。");
-13718|<O>| else if (p < 9400 * rate / 100)    // Phòng cụ(Cơ bản)
-13719|<O>| + sprintf(ESC HIY"Bắt đầuhoạt động(chính thườngMở)\nparty 5003\n")
-13720|<O>| else if (p < 5527 * rate / 100)    // Vũ khí(Môn phái)
-13721|<O>| write_user(me, ECHO "Bạn nã Xuấttất cảTrang bịcho%sTu lý，Hoa phí %d Vàng。",
-13722|<O>| else if (p < 3836 * rate / 100)    // Phòng cụ(Môn phái)
-13723|<O>| else if (p < 9101 * rate / 100)    // Phòng cụ(Môn phái)
-13724|<O>| return "Tạichiến đấugiữaSử dụnghiệu Quả giảo Minh hiểncủaMột loạiDược,ngay lập tức phục hồi400điểm Khí Huyết，Thời gian hồi15giây";
-13725|<O>| send_user(who, "%c%s", '!', "bạnlĩnh thủ tống Tín sử MệnhcủaNhiệm vụ！");
-13726|<O>| else if (p < 4837 * rate / 100)    // Phòng cụ(Môn phái)
-13727|<O>| else if (p < 8500 * rate / 100)    // Vũ khí(Môn phái)
+﻿13654|<O>| else if (p < 4830 * rate / 100)    // Phòng cụ (môn phái)
+13655|<O>| else if (p < 4162 * rate / 100)    // Vũ khí (môn phái)
+13656|<O>| else if (p < 4496 * rate / 100)    // Phòng cụ (môn phái)
+13657|<O>| send_user(me, "%c%s", '!', "Sử dụng tín vật môn phái phải trả 50 vàng");
+13658|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Ân Oán");
+13659|<O>| return sprintf(PF_NAME ":\n　　Né tránh hoàn toàn đòn tấn công tiếp theo.\n");
+13660|<O>| else if (p < 9196 * rate / 100)    // Phòng cụ (môn phái)
+13661|<O>| else if (p < 9298 * rate / 100)    // Vũ khí (môn phái)
+13662|<O>| else if (p < 5393 * rate / 100)    // Vũ khí (môn phái)
+13663|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Triệu Cơ");
+13664|<O>| else if (p < 6957 * rate / 100)    // Phòng cụ (môn phái)
+13665|<O>| sprintf("%s:\n    Bạn bè cũ có thể cũng không nhận ra bạn, bạn vẫn muốn làm vậy sao?\n"
+13666|<O>| else if (p < 8442 * rate / 100)    // Vũ khí (môn phái)
+13667|<O>| else if (p < 5590 * rate / 100)    // Vũ khí (môn phái)
+13668|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Luận Ngữ");
+13669|<O>| else if (p < 4236 * rate / 100)    // Phòng cụ (môn phái)
+13670|<O>| else if (p < 4166 * rate / 100)    // Phòng cụ (môn phái)
+13671|<O>| send_user(who, "%c%s", '!', "Bạn nhận được "HIY"Điều Binh Phù");
+13672|<O>| else if (p < 5910 * rate / 100)    // Phòng cụ (môn phái)
+13673|<O>| else if (p < 4440 * rate / 100)    // Phòng cụ (cơ bản)
+13674|<O>| //			+ sprintf(ESC"Thao tác hoạt động Thất Tịch (test)\nparty 135\n")
+13675|<O>| else if (p < 4758 * rate / 100)    // Phòng cụ (môn phái)
+13676|<O>| else if (p < 6766 * rate / 100)    // Phòng cụ (môn phái)
+13677|<O>| send_user(me, "%c%s", '!', "Nạp tiền thất bại " + result);
+13678|<O>| else if (p < 4677 * rate / 100)    // Vũ khí (môn phái)
+13679|<O>| else if (p < 6181 * rate / 100)    // Phòng cụ (môn phái)
+13680|<O>| else if (p < 3916 * rate / 100)    // Vũ khí (môn phái)
+13681|<O>| send_user(who, "%c%s", '!', HIY"Ngọc Bội Của Huynh Trưởng 1/1");
+13682|<O>| else if (p < 9075 * rate / 100)    // Vũ khí (môn phái)
+13683|<O>| return "［Cường Hóa Sát Thương］ Kỹ năng đặc biệt bang phái, tăng sát thương vật lý gây ra cho mục tiêu.\n";
+13684|<O>| case 6 :	result += sprintf( "Môn phái áp dụng: %sCôn Lôn Sơn\n",
+13685|<O>| private static int* dbDie = ({ });		// Quái vật đã chết
+13686|<O>| mxTime = localtime(iStart+3600*24);	//Thời gian công thành tiếp theo
+13687|<O>| else if (p < 4824 * rate / 100)    // Vũ khí (môn phái)
+13688|<O>| else if (p < 4120 * rate / 100)    // Phòng cụ (môn phái)
+13689|<O>| else if (p < 5380 * rate / 100)    // Vũ khí (môn phái)
+13690|<O>| write_user(me, ECHO "Bạn đã tẩy thành công %d điểm nhanh nhẹn.", point);
+13691|<O>| else if (p < 7200 * rate / 100)    // Vũ khí (môn phái)
+13692|<O>| else if (p < 4712 * rate / 100)    // Vũ khí (môn phái)
+13693|<O>| else if (p < 6495 * rate / 100)    // Vũ khí (môn phái)
+13694|<O>| else if (p < 4677 * rate / 100)    // Phòng cụ (cơ bản)
+13695|<O>| tell_user(me, "%s không có vật phẩm gì.", who->get_name());
+13696|<O>| else if (p < 4677 * rate / 100)    // Phòng cụ (môn phái)
+13697|<O>| else if (p < 9004 * rate / 100)    // Vũ khí (môn phái)
+13698|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Cô Đơn");
+13699|<O>| else if (p < 6119 * rate / 100)    // Phòng cụ (môn phái)
+13700|<O>| else if (p < 6880 * rate / 100)    // Phòng cụ (môn phái)
+13701|<O>| else if (p < 4158 * rate / 100)    // Vũ khí (môn phái)
+13702|<O>| else if (p < 9283 * rate / 100)    // Vũ khí (môn phái)
+13703|<O>| return "［Cường Hóa Né Tránh］ Kỹ năng đặc biệt bang phái, tăng tỷ lệ né tránh của người chơi, mỗi cấp tăng 1.5%.\n";
+13704|<O>| send_user(member, "%c%s", '!', "Bạn mang theo quá nhiều vật phẩm");
+13705|<O>| else if (p < 8100 * rate / 100)    // Phòng cụ (môn phái)
+13706|<O>| send_user(me, "%c%s", ';', "Xin lỗi, bạn không thể sử dụng đạo cụ này.");
+13707|<O>| send_user(who, "%c%s", '!', "Mã số này đã nhận thưởng rồi");
+13708|<O>| arg = EMOTE_D->do_emote(me, "Ai đó", arg, who);
+13709|<O>| else if (p < 5563 * rate / 100)    // Phòng cụ (môn phái)
+13710|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Bảo Kiếm");
+13711|<O>| else if (p < 5997 * rate / 100)    // Phòng cụ (môn phái)
+13712|<O>| else if (p < 5864 * rate / 100)    // Vũ khí (môn phái)
+13713|<O>| send_user(me, "%c%s", '!', "Không thể thêm đạo cụ trực tiếp vào ô trang bị.");
+13714|<O>| else if (p < 3637 * rate / 100)    // Vũ khí (môn phái)
+13715|<O>| send_user(me, "%c%s", ':', "Bạn đã nhận thành công gói Bảo Bảo Vô Địch.");
+13716|<O>| else if (p < 4844 * rate / 100)    // Phòng cụ (môn phái)
+13717|<O>| send_user(me, "%c%s", '!', "Hiệu ứng Nguyên Khí Phục Sinh đã kết thúc.");
+13718|<O>| else if (p < 9400 * rate / 100)    // Phòng cụ (cơ bản)
+13719|<O>| + sprintf(ESC HIY"Bắt đầu hoạt động (mở bình thường)\nparty 5003\n")
+13720|<O>| else if (p < 5527 * rate / 100)    // Vũ khí (môn phái)
+13721|<O>| write_user(me, ECHO "Bạn đưa tất cả trang bị cho %s sửa chữa, tốn %d vàng.",
+13722|<O>| else if (p < 3836 * rate / 100)    // Phòng cụ (môn phái)
+13723|<O>| else if (p < 9101 * rate / 100)    // Phòng cụ (môn phái)
+13724|<O>| return "Một loại thuốc hiệu quả rõ rệt khi dùng trong chiến đấu, lập tức hồi phục 400 điểm khí huyết, thời gian hồi chiêu 15 giây";
+13725|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận nhiệm vụ gửi thư!");
+13726|<O>| else if (p < 4837 * rate / 100)    // Phòng cụ (môn phái)
+13727|<O>| else if (p < 8500 * rate / 100)    // Vũ khí (môn phái)

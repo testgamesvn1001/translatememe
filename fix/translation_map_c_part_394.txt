@@ -1,100 +1,100 @@
-﻿18881|<O>| #define PF_NAME        "跃兔靴制作"
-18882|<O>| "慈石" : "\"/item/stuff/0140\"",
-18883|<O>| "纱线" : "\"/item/stuff/0036\"",
-18884|<O>| "铜锭" : "\"/item/stuff/0009\"",
-18885|<O>| ESC "我决定同他断交了。\nfriend x %d\n"
-18886|<O>| ESC"离开", me->get_name(), id));
-18887|<O>| "麻绳" : "\"/item/stuff/0033\"",
-18888|<O>| return "普通的柏木棒，由石刻技能分解出来并使用。";
-18889|<O>| result += ESC"开启\nparty 51\n";
-18890|<O>| if (arg1 == "?")			// 使用友情呼唤的人
-18891|<O>| #define PF_NAME        "昆吾刀锻造"
-18892|<O>| default: file = "无门派";  break;
-18893|<O>| #define PF_NAME        "天权棍锻造"
-18894|<O>| log_file(LIST_LOG, "# 棍\n\n");
-18895|<O>| #define PF_NAME        "查使命物品"
-18896|<O>| ESC "离开。\nCLOSE\n", money ) );
-18897|<O>| "牛皮" : "\"/item/stuff/0191\"",
-18898|<O>| "绫布包裹" : "\"/item/std/6004\"",
-18899|<O>| notify("中级锻造石只能锻造在4星以下的装备上。");
-18900|<O>| int allcontrib;				// 帮派贡献度的总数
-18901|<O>| "鸡蛋" : "\"/item/stuff/0171\"",
-18902|<O>| "猪肉" : "\"/item/stuff/0179\"",
-18903|<O>| "鹿茸" : "\"/item/stuff/0132\"",
-18904|<O>| "破旧的头盔" : "\"/item/40/4030\"",
-18905|<O>| if (!clonep(me)) return "木晶石";
-18906|<O>| result = result + HIR"5000经验";
-18907|<O>| "豹皮" : "\"/item/stuff/0193\"",
-18908|<O>| #define MIN_SIZE 5	//开战的最少人数 5
-18909|<O>| return "任务物品。齐国守卫下给秦国守卫的挑战书。";
-18910|<O>| return "任务物品。一种能使人延年益寿的特殊宝石。";
-18911|<O>| me->send_mtask_xy(z);	//更新任务坐标
-18912|<O>| "破损的盔甲" : "\"/item/40/4014\"",
-18913|<O>| #define PF_NAME        "魔王巾制作"
-18914|<O>| #define PF_NAME        "刺青枪锻造"
-18915|<O>| // 自用持续技能  TIPS:[PF_SELF_LOOP]
-18916|<O>| return sprintf("中毒\n定时减少气血。");
-18917|<O>| private int iHouse;			// 厢房的数量
-18918|<O>| for (i = 2;i < 3;i++)	//1个鬼卒守卫
-18919|<O>| "天女散花图" : "\"/item/97/9732\"",
-18920|<O>| "山药" : "\"/item/stuff/0154\"",
-18921|<O>| #define PF_NAME        "天枢枪锻造"
-18922|<O>| "残缺宝石矿" : "\"/item/89/8991\"",
-18923|<O>| "砂汞" : "\"/item/stuff/0138\"",
-18924|<O>| "残缺黄晶石" : "\"/item/89/8921\"",
-18925|<O>| #define PF_NAME        "困魔棍锻造"
-18926|<O>| "无暇宝石矿" : "\"/item/89/8994\"",
-18927|<O>| return "任务物品。燕国御史用来制作浑仪的必需品。";
-18928|<O>| #define PF_NAME        "太渊刀锻造"
-18929|<O>| case 2: result = "交恶";  break;
-18930|<O>| return "任务物品。一种常用于治疗温病发热的药材。";
-18931|<O>| "锯片" : "\"/item/stuff/0210\"",
-18932|<O>| return "装有120紫色神器的礼包，右击即可打开。";
-18933|<O>| if (p % 60 == 0)    // 每１分处理以下
-18934|<O>| "蚕丝" : "\"/item/stuff/0047\"",
-18935|<O>| #define PF_NAME        "急行鞋制作"
-18936|<O>| "陶俑之首" : "在将军古墓二层杀刀俑可以得到陶俑之首",
-18937|<O>| "竹笋" : "\"/item/stuff/0157\"",
-18938|<O>| SAY_CMD->say(me, "你真是位大善人啊！");
-18939|<O>| else if (p < 75)    //得到普通装备道具
-18940|<O>| "茄子" : "\"/item/stuff/0156\"",
-18941|<O>| set_char_picid(200);    // 蒙面人
-18942|<O>| log_file(LIST_LOG, "# 枪\n\n");
-18943|<O>| + sprintf(ESC"关闭\nparty 18\n")
-18944|<O>| default: name3 = "修好";  break;
-18945|<O>| "水稻" : "\"/item/stuff/0142\"",
-18946|<O>| return "江湖郎中用来糊弄人的一种药品，作出售品用";
-18947|<O>| // 自动生成:/make/npc/makelishan.c
-18948|<O>| me->set_enemy(0);		// 取消自动攻击目标
-18949|<O>| //		        cityname = "唐门密室";
-18950|<O>| #define PF_NAME        "旭光冠制作"
-18951|<O>| "法攻:%4d - %4d  法防:%4d - %4d\n"
-18952|<O>| #define PF_NAME        "开阳剑锻造"
-18953|<O>| #define PF_NAME        "流沙剑锻造"
-18954|<O>| return "任务物品。公输班用来修理木桶的一种材料。";
-18955|<O>| #define PF_NAME        "紫金棍锻造"
-18956|<O>| "柏木" : "\"/item/stuff/0103\"",
-18957|<O>| // 寻找落地位置 — 最多尝试5次随机散落，失败则落在脚下
-18958|<O>| "龟肉" : "\"/item/stuff/0176\"",
-18959|<O>| ESC "继续\ntalk %x# welcome.4\n"
-18960|<O>| "残缺青晶石" : "\"/item/89/8909\"",
-18961|<O>| #define PF_NAME        "文曲冠制作"
-18962|<O>| set_attack_speed(10);  //攻击速度
-18963|<O>| "“发财”" : "\"/item/37/3736\"",
-18964|<O>| if( time < 1 )    // 耐久为 0 消失
-18965|<O>| "陶俑之臂" : "\"/item/40/4070\"",
-18966|<O>| "鹤顶红粉" : "\"/item/91/9131\"",
-18967|<O>| "“南风”" : "\"/item/37/3732\"",
-18968|<O>| #define PF_NAME        "赤宵锻造"
-18969|<O>| #define PF_NAME        "力劈华山"
-18970|<O>| who->log_money("军官任务", gold);
-18971|<O>| "“七筒”" : "\"/item/37/3707\"",
-18972|<O>| "乾坤囊" : "\"/item/std/6007\"",
-18973|<O>| "“五万”" : "\"/item/37/3725\"",
-18974|<O>| "“三条”" : "\"/item/37/3713\"",
-18975|<O>| "天罡门众守" : "在天门阵一层可以杀到天罡门众守 ",
-18976|<O>| if ( i < iStart_qixi )	//没到时间
-18977|<O>| return "济世普渡的葫芦，在它的经验累积到最大值前，
-18978|<O>| case "昆仑山": flag = 6;  break;
-18979|<O>| result = "现有使命人物列表，请组队完成:\n";
-18980|<O>| #define PF_NAME        "孤注一掷"
+﻿18881|<O>| #define PF_NAME        "Chế Tạo Giày Thỏ Nhảy"
+18882|<O>| "Từ Thạch" : "\"/item/stuff/0140\"",
+18883|<O>| "Chỉ Lụa" : "\"/item/stuff/0036\"",
+18884|<O>| "Thỏi Đồng" : "\"/item/stuff/0009\"",
+18885|<O>| ESC "Tôi quyết định tuyệt giao với hắn.\nfriend x %d\n"
+18886|<O>| ESC"Rời đi", me->get_name(), id));
+18887|<O>| "Dây Gai" : "\"/item/stuff/0033\"",
+18888|<O>| return "Gậy bách thông thường, được phân giải bằng kỹ năng thạch khắc và sử dụng.";
+18889|<O>| result += ESC"Mở\nparty 51\n";
+18890|<O>| if (arg1 == "?")			// Người dùng gọi bạn bè
+18891|<O>| #define PF_NAME        "Rèn Đao Côn Ngô"
+18892|<O>| default: file = "Không môn phái";  break;
+18893|<O>| #define PF_NAME        "Rèn Côn Thiên Quyền"
+18894|<O>| log_file(LIST_LOG, "# Côn\n\n");
+18895|<O>| #define PF_NAME        "Kiểm Tra Vật Phẩm Sứ Mệnh"
+18896|<O>| ESC "Rời đi.\nCLOSE\n", money ) );
+18897|<O>| "Da Bò" : "\"/item/stuff/0191\"",
+18898|<O>| "Gói Vải Lụa" : "\"/item/std/6004\"",
+18899|<O>| notify("Đá rèn trung cấp chỉ có thể rèn trên trang bị 4 sao trở xuống.");
+18900|<O>| int allcontrib;				// Tổng điểm cống hiến bang phái
+18901|<O>| "Trứng Gà" : "\"/item/stuff/0171\"",
+18902|<O>| "Thịt Heo" : "\"/item/stuff/0179\"",
+18903|<O>| "Nhung Hươu" : "\"/item/stuff/0132\"",
+18904|<O>| "Mũ Giáp Cũ Nát" : "\"/item/40/4030\"",
+18905|<O>| if (!clonep(me)) return "Tinh Thạch Mộc";
+18906|<O>| result = result + HIR"5000 kinh nghiệm";
+18907|<O>| "Da Báo" : "\"/item/stuff/0193\"",
+18908|<O>| #define MIN_SIZE 5	//Số người tối thiểu khai chiến 5
+18909|<O>| return "Vật phẩm nhiệm vụ. Thư thách đấu mà lính canh Tề Quốc gửi cho lính canh Tần Quốc.";
+18910|<O>| return "Vật phẩm nhiệm vụ. Loại bảo thạch đặc biệt có thể giúp kéo dài tuổi thọ.";
+18911|<O>| me->send_mtask_xy(z);	//Cập nhật tọa độ nhiệm vụ
+18912|<O>| "Giáp Cũ Nát" : "\"/item/40/4014\"",
+18913|<O>| #define PF_NAME        "Chế Tạo Khăn Ma Vương"
+18914|<O>| #define PF_NAME        "Rèn Thương Thích Thanh"
+18915|<O>| // Kỹ năng tự dùng liên tục  TIPS:[PF_SELF_LOOP]
+18916|<O>| return sprintf("Trúng Độc\nĐịnh kỳ giảm khí huyết.");
+18917|<O>| private int iHouse;			// Số lượng phòng
+18918|<O>| for (i = 2;i < 3;i++)	//1 quỷ tốt lính gác
+18919|<O>| "Tranh Thiên Nữ Tán Hoa" : "\"/item/97/9732\"",
+18920|<O>| "Củ Mài" : "\"/item/stuff/0154\"",
+18921|<O>| #define PF_NAME        "Rèn Thương Thiên Xu"
+18922|<O>| "Quặng Bảo Thạch Khuyết" : "\"/item/89/8991\"",
+18923|<O>| "Sa Thủy Ngân" : "\"/item/stuff/0138\"",
+18924|<O>| "Tinh Thạch Vàng Khuyết" : "\"/item/89/8921\"",
+18925|<O>| #define PF_NAME        "Rèn Côn Khốn Ma"
+18926|<O>| "Quặng Bảo Thạch Không Tì Vết" : "\"/item/89/8994\"",
+18927|<O>| return "Vật phẩm nhiệm vụ. Vật cần thiết mà ngự sử Yên Quốc dùng chế tạo hỗn nghi.";
+18928|<O>| #define PF_NAME        "Rèn Đao Thái Uyên"
+18929|<O>| case 2: result = "Thù địch";  break;
+18930|<O>| return "Vật phẩm nhiệm vụ. Loại dược liệu thường dùng chữa trị ôn bệnh sốt nóng.";
+18931|<O>| "Lưỡi Cưa" : "\"/item/stuff/0210\"",
+18932|<O>| return "Lễ bao chứa 120 thần khí tím, click phải để mở.";
+18933|<O>| if (p % 60 == 0)    // Xử lý mỗi 1 phút
+18934|<O>| "Tơ Tằm" : "\"/item/stuff/0047\"",
+18935|<O>| #define PF_NAME        "Chế Tạo Giày Cấp Hành"
+18936|<O>| "Đầu Tượng Đất" : "Giết đao dũng ở tầng 2 Cổ Mộ Tướng Quân có thể được đầu tượng đất",
+18937|<O>| "Măng" : "\"/item/stuff/0157\"",
+18938|<O>| SAY_CMD->say(me, "Ngươi thật là người tốt bụng!");
+18939|<O>| else if (p < 75)    //Nhận được đạo cụ trang bị thường
+18940|<O>| "Cà Tím" : "\"/item/stuff/0156\"",
+18941|<O>| set_char_picid(200);    // Người bịt mặt
+18942|<O>| log_file(LIST_LOG, "# Thương\n\n");
+18943|<O>| + sprintf(ESC"Đóng\nparty 18\n")
+18944|<O>| default: name3 = "Hòa hảo";  break;
+18945|<O>| "Lúa Nước" : "\"/item/stuff/0142\"",
+18946|<O>| return "Loại thuốc mà lang vườn dùng để lừa người, dùng làm vật phẩm bán";
+18947|<O>| // Tự động tạo: /make/npc/makelishan.c
+18948|<O>| me->set_enemy(0);		// Hủy mục tiêu tự động tấn công
+18949|<O>| //		        cityname = "Mật Thất Đường Môn";
+18950|<O>| #define PF_NAME        "Chế Tạo Mũ Húc Quang"
+18951|<O>| "Pháp công:%4d - %4d  Pháp phòng:%4d - %4d\n"
+18952|<O>| #define PF_NAME        "Rèn Kiếm Khai Dương"
+18953|<O>| #define PF_NAME        "Rèn Kiếm Lưu Sa"
+18954|<O>| return "Vật phẩm nhiệm vụ. Nguyên liệu Công Thâu Ban dùng để sửa thùng gỗ.";
+18955|<O>| #define PF_NAME        "Rèn Côn Tử Kim"
+18956|<O>| "Gỗ Bách" : "\"/item/stuff/0103\"",
+18957|<O>| // Tìm vị trí rơi — thử tối đa 5 lần rơi ngẫu nhiên, thất bại thì rơi dưới chân
+18958|<O>| "Thịt Rùa" : "\"/item/stuff/0176\"",
+18959|<O>| ESC "Tiếp tục\ntalk %x# welcome.4\n"
+18960|<O>| "Tinh Thạch Xanh Khuyết" : "\"/item/89/8909\"",
+18961|<O>| #define PF_NAME        "Chế Tạo Mũ Văn Khúc"
+18962|<O>| set_attack_speed(10);  //Tốc độ tấn công
+18963|<O>| ""Phát Tài"" : "\"/item/37/3736\"",
+18964|<O>| if( time < 1 )    // Độ bền 0, biến mất
+18965|<O>| "Cánh Tay Tượng Đất" : "\"/item/40/4070\"",
+18966|<O>| "Bột Hạc Đỉnh Hồng" : "\"/item/91/9131\"",
+18967|<O>| ""Gió Nam"" : "\"/item/37/3732\"",
+18968|<O>| #define PF_NAME        "Rèn Xích Tiêu"
+18969|<O>| #define PF_NAME        "Lực Phách Hoa Sơn"
+18970|<O>| who->log_money("Nhiệm vụ quân quan", gold);
+18971|<O>| ""Bảy Sọc"" : "\"/item/37/3707\"",
+18972|<O>| "Kiền Khôn Nang" : "\"/item/std/6007\"",
+18973|<O>| ""Năm Vạn"" : "\"/item/37/3725\"",
+18974|<O>| ""Ba Sọc"" : "\"/item/37/3713\"",
+18975|<O>| "Chúng Thủ Thiên Cương Môn" : "Tại tầng 1 Thiên Môn Trận có thể giết được Chúng Thủ Thiên Cương Môn ",
+18976|<O>| if ( i < iStart_qixi )	//Chưa đến giờ
+18977|<O>| return "Hồ lô cứu thế phổ độ, trước khi kinh nghiệm tích lũy tối đa,
+18978|<O>| case "Côn Lôn Sơn": flag = 6;  break;
+18979|<O>| result = "Danh sách nhân vật sứ mệnh hiện có, xin tổ đội hoàn thành:\n";
+18980|<O>| #define PF_NAME        "Cô Chú Nhất Trịch"

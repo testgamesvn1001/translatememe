@@ -1,61 +1,61 @@
-﻿9500|<O>| tmp += sprintf(ESC HIY "thất mà phục được\ntalk %x# welcome.9\n", id);
-9501|<O>| iStart_n = mktime(year, mon, day, hour, min, 0);	//hoạt độngBắt đầugiờgian
-9502|<O>| return desc = "choTriệu hồithú Thực dùngcủaMột loạiQuả Tử，mỗiThực dùng Nhấtlần，sủng vậtthọ MệnhTăng\nđươngtrướcthọ Mệnhcủa100，khôngsẽgiữaĐộc。";
+﻿9500|<O>| tmp += sprintf(ESC HIY "Mất Rồi Lại Được\ntalk %x# welcome.9\n", id);
+9501|<O>| iStart_n = mktime(year, mon, day, hour, min, 0);	//Thời gian bắt đầu hoạt động
+9502|<O>| return desc = "Một loại quả cho triệu hoán thú ăn, mỗi lần ăn tăng tuổi thọ thú cưng\n100 tuổi thọ hiện tại, không bị trúng độc.";
 9503|<O>| case 7: level = 30;  log_file(LIST_LOG, "Vân Mộng Trạch\n");  break;
-9504|<O>| if (TASK_LEGEND_D->check_task_item(who, "Sắtquan âm trà", 20) != 1)
-9505|<O>| tmp += sprintf(ESC HIY "Triệucủacầu Trợ\ntalk %x# welcome.1\n", id);
-9506|<O>| tmp += sprintf(ESC HIY "Cóbị vô hoạn\ntalk %x# welcome.1\n", id);
-9507|<O>| gold = pot * 25 / 2;     // 1 Tiềm năng == 5 thục Luyện == 20 Vàng  (Vũ Giáo đầu Gia bội)
-9508|<O>| me->log_legend(sprintf("Bạn Gia Nhập“%s”！", who->get_org_name()));
+9504|<O>| if (TASK_LEGEND_D->check_task_item(who, "Trà Thiết Quan Âm", 20) != 1)
+9505|<O>| tmp += sprintf(ESC HIY "Triệu Cầu Cứu\ntalk %x# welcome.1\n", id);
+9506|<O>| tmp += sprintf(ESC HIY "Có Bị Không Hoạn\ntalk %x# welcome.1\n", id);
+9507|<O>| gold = pot * 25 / 2;     // 1 tiềm năng == 5 thuần thục == 20 vàng  (Võ giáo đầu gấp đôi)
+9508|<O>| me->log_legend(sprintf("Bạn gia nhập \"%s\"!", who->get_org_name()));
 9509|<O>| /*              else if( p < 7367 * rate / 100 )    // Tiền vàng
-9510|<O>| tmp += sprintf(ESC HIY "Đả thínhtin nhắn\ntalk %x# welcome.4\n", id);
+9510|<O>| tmp += sprintf(ESC HIY "Dò La Tin Tức\ntalk %x# welcome.4\n", id);
 9511|<O>| /*              else if( p < 3580 * rate / 100 )    // Tiền vàng
-9512|<O>| int Quit;                               // ly tuyếngiờgian(Tạituyếngiờ，nên Trị vì０)
-9513|<O>| default: send_user(who, "%c%s", ':', "Bạn:\nthính nói quan phủcầnGia trọng nông nghiệp thuế。");
-9514|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Sắtquan âm trà %d/20", i));
-9515|<O>| if (TASK_LEGEND_D->check_task_item(who, "huynhdàicủaNgọc bội", 1) != 1)
+9512|<O>| int Quit;                               // Thời gian offline(khi online, giá trị này là 0)
+9513|<O>| default: send_user(who, "%c%s", ':', "Bạn:\nNghe nói quan phủ sắp tăng thuế nông nghiệp rồi.");
+9514|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Trà Thiết Quan Âm %d/20", i));
+9515|<O>| if (TASK_LEGEND_D->check_task_item(who, "Ngọc Bội Của Huynh Trưởng", 1) != 1)
 9516|<O>| /*              else if( p < 4918 * rate / 100 )    // Tiền vàng
-9517|<O>| tmp = sprintf(ESC HIY "Cuồng vọngcủaphỉ đồ\ntalk %x# welcome.1\n", id);
-9518|<O>| result = sprintf(HIC"%s\n" NOR "Kỹ năng yêu cầu:%dcấp\n    phảnTriệu hồiđãTriệu hồisinh Vật。",
-9519|<O>| on_active_before(callout_delay_time);			//	hoạt độngChingoài （Sau đó / Trước đó）
+9517|<O>| tmp = sprintf(ESC HIY "Phỉ Tặc Cuồng Vọng\ntalk %x# welcome.1\n", id);
+9518|<O>| result = sprintf(HIC"%s\n" NOR "Yêu cầu kỹ năng: cấp %d\n    Phản triệu hoán sinh vật đã được triệu hoán.",
+9519|<O>| on_active_before(callout_delay_time);			//	Ngoài hoạt động（sau / trước）
 9520|<O>| /*              else if( p < 4616 * rate / 100 )    // Tiền vàng
-9521|<O>| cWord = "cảnh cáo！nàytrongLàthônghướng"HIR"chiểu trạch Biên Duyên"NOR"củaĐạo Lộ，đềuLà"HIR"30"NOR"cấpcủaquái vật！！";
-9522|<O>| tmp += sprintf(ESC HIY "khảo nghiệmbản thân\ntalk %x# welcome.6\n", id);
-9523|<O>| tmp += sprintf(ESC HIY "Đả Thámtin nhắn\ntalk %x# welcome.8\n", id);
-9524|<O>| if (effect7 = get_effect_flag(what, 7))    // phục tạp chinh trạng tiêu Chí(３２vị)
-9525|<O>| //	CHAT_D->rumor_channel( 0, CHAT+"thính nói hung MãnhcủaHổVươngđãbịDũng dámcủaHiệp Sĩ sở tiêu Diệt" );
-9526|<O>| send_user(me, "%c%s", '!', "bạnsở bội đớicủaMôn pháiTín VậtCấp độkhôngPhù HợpThăng cấpđiềukiện，vô PhápNângCấp độ。");
-9527|<O>| tmp += sprintf(ESC HIY "Tướng quân Tín hàm\ntalk %x# welcome.9\n", id);
-9528|<O>| tmp += sprintf(ESC HIY "thông Báotình huống\ntalk %x# welcome.8\n", id);
-9529|<O>| varargs int set_task_xy(int p, int x, int y)    // chi trì lưỡngloạiPhương thức
-9530|<O>| send_user(who, "%c%s", '!', sprintf(HIY"phátQuangcủaThạch đầu %d/5", i));
-9531|<O>| if (!clonep(me)) return "［Tinh luyện］ Vật phòng\n［Trang bị thích hợp］ Y phục、Yêu Đái、Hạng Liên、Hia、Mạo";
-9532|<O>| if (TASK_LEGEND_D->check_task_item(who, "UyHổTướng quân Lệnh", 1) != 1)
-9533|<O>| if (!objectp(item_q4 = present("Hoa cầu", who, 1, MAX_CARRY)))
+9521|<O>| cWord = "Cảnh báo! Đây là con đường dẫn đến "HIR"Bìa Đầm Lầy"NOR", toàn là quái vật cấp "HIR"30"NOR"!!";
+9522|<O>| tmp += sprintf(ESC HIY "Thử Thách Bản Thân\ntalk %x# welcome.6\n", id);
+9523|<O>| tmp += sprintf(ESC HIY "Dò La Tin Tức\ntalk %x# welcome.8\n", id);
+9524|<O>| if (effect7 = get_effect_flag(what, 7))    // Cờ triệu chứng phức tạp(32 bit)
+9525|<O>| //	CHAT_D->rumor_channel( 0, CHAT+"Nghe nói Hổ Vương hung mãnh đã bị các hiệp sĩ dũng cảm tiêu diệt" );
+9526|<O>| send_user(me, "%c%s", '!', "Tín vật môn phái bạn đang đeo không đủ điều kiện nâng cấp, không thể thăng cấp.");
+9527|<O>| tmp += sprintf(ESC HIY "Thư Của Tướng Quân\ntalk %x# welcome.9\n", id);
+9528|<O>| tmp += sprintf(ESC HIY "Thông Báo Tình Hình\ntalk %x# welcome.8\n", id);
+9529|<O>| varargs int set_task_xy(int p, int x, int y)    // Hỗ trợ hai cách
+9530|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Đá Phát Sáng %d/5", i));
+9531|<O>| if (!clonep(me)) return "［Tinh luyện］ Vật phòng\n［Trang bị phù hợp］ Áo, đai lưng, vòng cổ, giày, mũ";
+9532|<O>| if (TASK_LEGEND_D->check_task_item(who, "Uy Hổ Tướng Quân Lệnh", 1) != 1)
+9533|<O>| if (!objectp(item_q4 = present("Hoa Cầu", who, 1, MAX_CARRY)))
 9534|<O>| /*              else if( p < 4412 * rate / 100 )    // Tiền vàng
-9535|<O>| send_user(who, "%c%s", '!', sprintf(HIY"ngàycương Môn Chúng thủ %d/5", i));
+9535|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Thiên Cương Môn Chúng Thủ %d/5", i));
 9536|<O>| /*              else if( p < 2770 * rate / 100 )    // Tiền vàng
-9537|<O>| if (item[1]->get_diamond_type() != "forge")//phán đoạn tinh ThạchvàTrang bịLàphủ thất Phối。
-9538|<O>| #define RECOVER_LOG     "gm/recover.txt"        // Phục hồiNhật Chítệp tin
-9539|<O>| tmp += sprintf(ESC HIY "Sắtquan âm trà\ntalk %x# welcome.7\n", id);
-9540|<O>| if (TASK_LEGEND_D->check_task_item(who, "Vương phủ Lộ tuyến Đồ", 1) != 1)
-9541|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Kiếm thuẫn khô lâu %d/10", i));
-9542|<O>| tmp += sprintf(ESC HIY "Đả tạo chìa thì\ntalk %x# welcome.9\n", id);
-9543|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Tần QuốcCung Binh %d/20", i));
-9544|<O>| tmp += sprintf(ESC HIY "tìm Bảo lịch hiểm\ntalk %x# welcome.1\n", id);
-9545|<O>| #define CALL_USER_LOG   "gm/calluser.txt"       // Người chơiđiều dùng Nhật Chí
-9546|<O>| send_user(me, "%c%s", '!', "bạnbổ tróc" HIY + who->get_name());
-9547|<O>| if (TASK_LEGEND_D->check_task_item(who, "hoàn Mỹ Bạch tinh Thạch", 4) != 1)
-9548|<O>| send_user(me, "%c%s", '!', "Bạn chínhTạiSử dụng" + get_name() + "Chigiữa。");
-9549|<O>| if (!objectp(item_q3 = present("Hồng cầu", who, 1, MAX_CARRY)))
-9550|<O>| tmp = sprintf(ESC HIY "Chu Tửcủakhuyến nói\ntalk %x# welcome.1\n", id);
+9537|<O>| if (item[1]->get_diamond_type() != "forge")//Phán đoán tinh thạch và trang bị có phù hợp không.
+9538|<O>| #define RECOVER_LOG     "gm/recover.txt"        // Tệp nhật ký khôi phục
+9539|<O>| tmp += sprintf(ESC HIY "Trà Thiết Quan Âm\ntalk %x# welcome.7\n", id);
+9540|<O>| if (TASK_LEGEND_D->check_task_item(who, "Bản Đồ Lộ Trình Vương Phủ", 1) != 1)
+9541|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Kiếm Thuẫn Cốt Lâu %d/10", i));
+9542|<O>| tmp += sprintf(ESC HIY "Đả Tạo Chìa Khóa\ntalk %x# welcome.9\n", id);
+9543|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Tần Quốc Cung Binh %d/20", i));
+9544|<O>| tmp += sprintf(ESC HIY "Tìm Bảo Phiêu Lưu\ntalk %x# welcome.1\n", id);
+9545|<O>| #define CALL_USER_LOG   "gm/calluser.txt"       // Nhật ký gọi người chơi
+9546|<O>| send_user(me, "%c%s", '!', "Bạn đã bắt được " HIY + who->get_name());
+9547|<O>| if (TASK_LEGEND_D->check_task_item(who, "Hoàn Mỹ Bạch Tinh Thạch", 4) != 1)
+9548|<O>| send_user(me, "%c%s", '!', "Bạn đang sử dụng " + get_name() + ".");
+9549|<O>| if (!objectp(item_q3 = present("Hồng Cầu", who, 1, MAX_CARRY)))
+9550|<O>| tmp = sprintf(ESC HIY "Lời Khuyên Của Chu Tử\ntalk %x# welcome.1\n", id);
 9551|<O>| /*              else if( p < 6509 * rate / 100 )    // Tiền vàng
-9552|<O>| call_out("destruct_npc_callout", 3, me, who);    // Thanh trừMông Diện Nhân
+9552|<O>| call_out("destruct_npc_callout", 3, me, who);    // Xóa người bịt mặt
 9553|<O>| //case "Côn Lôn Sơn" : if( get_level() >= 38 && random(100) < 3 )
-9554|<O>| tmp += sprintf(ESC HIY "Sơn Cốc Giải mê\ntalk %x# welcome.3\n", id);
-9555|<O>| sprintf(ESC "Thương Nghiệp(%d)。\n", city->get_commercial()) + cmd6 +
-9556|<O>| send_user(who, "%c%s", ']', "Bạnnhận được" HIY "Kinh nghiệm" NOR " 20 điểm！");
-9557|<O>| tmp += sprintf(ESC HIY "nhiềuquản nhàn sự\ntalk %x# welcome.4\n", id);
-9558|<O>| tmp += sprintf(ESC HIY "ôn dịch Chi tai\ntalk %x# welcome.7\n", id);
-9559|<O>| private static int Color2;              // bối Sức2nhan Sắc(Mã màu４，Mã màu３)
-9560|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Địa sát Môn Chúng thủ %d/8", i));
+9554|<O>| tmp += sprintf(ESC HIY "Giải Mê Sơn Cốc\ntalk %x# welcome.3\n", id);
+9555|<O>| sprintf(ESC "Thương nghiệp(%d).\n", city->get_commercial()) + cmd6 +
+9556|<O>| send_user(who, "%c%s", ']', "Bạn nhận được " HIY "Kinh nghiệm" NOR " 20 điểm!");
+9557|<O>| tmp += sprintf(ESC HIY "Xen Vào Chuyện Người\ntalk %x# welcome.4\n", id);
+9558|<O>| tmp += sprintf(ESC HIY "Tai Họa Ôn Dịch\ntalk %x# welcome.7\n", id);
+9559|<O>| private static int Color2;              // Màu trang sức lưng 2(mã màu 4, mã màu 3)
+9560|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Địa Sát Môn Chúng Thủ %d/8", i));

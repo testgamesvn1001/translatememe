@@ -1,63 +1,63 @@
-﻿10431|<O>| result += sprintf(ESC"phán phán\ntalk %x# welcome.25\n", id);
-10432|<O>| CHAR_CHAR_D->stop_loop_perform_5(me);    // giữađoạnkéo dàihiệu Quả(ThầnĐả)
+﻿10431|<O>| result += sprintf(ESC"Béo Béo\ntalk %x# welcome.25\n", id);
+10432|<O>| CHAR_CHAR_D->stop_loop_perform_5(me);    // Gián đoạn hiệu ứng liên tục(Thần Đả)
 10433|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Đao Hồn %d/8", i));
-10434|<O>| if ( enmity > enmity1*11/10 )	//Cừu hận Siêu qua đươngtrướcTấn côngđối tượngcủa10％，Tắc chuyển hoánTấn côngđối tượng
+10434|<O>| if ( enmity > enmity1*11/10 )	//Thù hận vượt quá 10% của đối tượng tấn công hiện tại, thì chuyển đối tượng tấn công
 10435|<O>| if (gone_time(me->get_time("savings")) < 1)    // Giới hạn thời gian
 10436|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Nhị Hồ %d/1", 1));
 10437|<O>| send_user(me, "%c%w%w%c", 0x07, x0, y0, 3);    // Hiệu chỉnh tọa độ
 10438|<O>| if (objectp(item = present("Thất Quốc Lệnh", who, 1, MAX_CARRY)))
-10439|<O>| send_user(me, "%c%s", ':', sprintf("%sLàđặc thù Vật Phẩm，Bạn xác nhậnBán？\n"
-10440|<O>| private static int PayType;			// loại hình 1 thông quađiểmsốMuaĐạo cụ 2 nghiệm chứng tự liệt hiệu
-10441|<O>| if (TASK_LEGEND_D->check_task_item(who, "TuyếtThủy", 1) != 1)
-10442|<O>| cmd1 = sprintf(ESC"giaocònTây qua hoạch được Báo thù\ntalk %x# bonus.2\n", id);
-10443|<O>| if(     me->get_skill(SKILL_0348) >= 80    // cầncầu“Binh Pháp”Cấp độ
-10444|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Y phục %d/6", i));
+10439|<O>| send_user(me, "%c%s", ':', sprintf("%s là vật phẩm đặc biệt, bạn xác nhận muốn bán không?\n"
+10440|<O>| private static int PayType;			// Loại 1 Mua đạo cụ qua điểm 2 Xác nhận mã số
+10441|<O>| if (TASK_LEGEND_D->check_task_item(who, "Nước Tuyết", 1) != 1)
+10442|<O>| cmd1 = sprintf(ESC"Giao dưa hấu nhận tiền công\ntalk %x# bonus.2\n", id);
+10443|<O>| if(     me->get_skill(SKILL_0348) >= 80    // Yêu cầu cấp "Binh Pháp"
+10444|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Quần Áo %d/6", i));
 10445|<O>| if (gone_time(map->get("herbman#")) >= 600    // 10 phút
-10446|<O>| if (TASK_LEGEND_D->check_task_item(who, "Bảo rương", 1) != 1)
+10446|<O>| if (TASK_LEGEND_D->check_task_item(who, "Rương Báu", 1) != 1)
 10447|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Tà Linh %d/5", i));
-10448|<O>| send_user(who, "%c%s", ';', "nhận được thưởng Bách Bảo Nang 2 Pháp Lực Thạch 1 Huyết Lực Thạch 1");
-10449|<O>| "%s:\nquả Nhânkhông cóKết minhcủaÝ Tư，bạncủatốtÝtôiTâm lĩnh。\n", name4, me->get_name()));
-10450|<O>| if (TASK_LEGEND_D->check_task_item(who, "thải Y", 1) != 1)
+10448|<O>| send_user(who, "%c%s", ';', "Nhận phần thưởng Bách Bảo Nang 2 Pháp Lực Thạch 1 Huyết Lực Thạch 1");
+10449|<O>| "%s:\nQuả nhân không có ý muốn kết minh, lòng tốt của ngài ta ghi nhận.\n", name4, me->get_name()));
+10450|<O>| if (TASK_LEGEND_D->check_task_item(who, "Thải Y", 1) != 1)
 10451|<O>| if (TASK_LEGEND_D->check_task_item(who, "Bảo Đỉnh", 1) != 1)
-10452|<O>| else if (who->get_id() == me->get_master())    // càng Cải tânThủy
-10453|<O>| switch (d = me->to_front_xy(x, y))    // hoạch thủ bối Diện tọa tiêu(bối Diện Chi bối Diện)
-10454|<O>| send_user(me, "%c%s", '!', "tra tuầnđiểmsốQuay vềXuất sai" + result + "。");
-10455|<O>| if(     get_effect(who, EFFECT_CHAR_ATTACK)    // thuận thế Suy chu
-10456|<O>| log_file(LIST_LOG, "--- Dĩdướidùng vu /cmd/debug/npc.c ---\n");
-10457|<O>| FAMILY_D->city_channel(name4, 0, result + "(hạn６giờHồi ứng)");
-10458|<O>| CHAR_CHAR_D->send_loop_perform(me, user);    // hiển thịkéo dàihiệu Quả
-10459|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Sắtcô %d/1", 1));
+10452|<O>| else if (who->get_id() == me->get_master())    // Thay đổi lương
+10453|<O>| switch (d = me->to_front_xy(x, y))    // Lấy tọa độ mặt sau(mặt sau của mặt sau)
+10454|<O>| send_user(me, "%c%s", '!', "Truy vấn điểm trả về lỗi " + result + ".");
+10455|<O>| if(     get_effect(who, EFFECT_CHAR_ATTACK)    // Thuận Thế Đẩy Thuyền
+10456|<O>| log_file(LIST_LOG, "--- Dưới đây dùng cho /cmd/debug/npc.c ---\n");
+10457|<O>| FAMILY_D->city_channel(name4, 0, result + "(Giới hạn 6 giờ hồi đáp)");
+10458|<O>| CHAR_CHAR_D->send_loop_perform(me, user);    // Hiển thị hiệu ứng liên tục
+10459|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Vòng Sắt %d/1", 1));
 10460|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Ngọc Thạch %d/3", i));
-10461|<O>| result += sprintf(ESC"độc giác\ntalk %x# welcome.24\n", id);
-10462|<O>| if (TASK_LEGEND_D->check_task_item(who, "Kính Tử", 1) != 1)
-10463|<O>| send_user(who, "%c%s", '!', sprintf(HIY"chỉ tiền %d/5", i));
-10464|<O>| if (!clonep(me)) return "［Tinh luyện］ Pháp Thuật Hồi tỵ suất\n［Trang bị thích hợp］ Yêu Đái、Hạng Liên、Hia";
-10465|<O>| return "［Cường hóaBinh Pháp］Cấm Vệ Quâncủađặc thùKỹ năng，có thểChưởng ác càngnhiềuthực Chiếncủakỹ Xảo，tịnh thả NăngNâng Lực phòng thủ phép thuật，Mỗi cấp tăng4điểm";
-10466|<O>| private int blood;                   	// Huyết thống（dã sinh 0，Bảo Bảo 1）
-10467|<O>| result = sprintf("%sTướngbịCường Hành Gia Tỏa14ngày，Tạinàykỳ gian，thử Vật Phẩm Tướngkhông thểbịgiao dịch、mua bán、mất khí。\n"
+10461|<O>| result += sprintf(ESC"Độc Giác\ntalk %x# welcome.24\n", id);
+10462|<O>| if (TASK_LEGEND_D->check_task_item(who, "Gương", 1) != 1)
+10463|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Tiền Giấy %d/5", i));
+10464|<O>| if (!clonep(me)) return "［Tinh Luyện］ Tỷ lệ né tránh pháp thuật\n［Trang bị áp dụng］ Thắt lưng, vòng cổ, giày";
+10465|<O>| return "［Cường Hóa Binh Pháp］Kỹ năng đặc biệt của Cấm Vệ Quân, có thể nắm bắt thêm kỹ xảo thực chiến, đồng thời tăng phòng thủ pháp thuật, mỗi cấp tăng 4 điểm";
+10466|<O>| private int blood;                   	// Huyết thống（Hoang dã 0, Baby 1）
+10467|<O>| result = sprintf("%s sẽ bị cưỡng chế khóa 14 ngày, trong thời gian này vật phẩm sẽ không thể giao dịch, mua bán, vứt bỏ.\n"
 10468|<O>| if (TASK_LEGEND_D->check_task_item(who, "Minh Kính", 1) != 1)
-10469|<O>| if (TASK_LEGEND_D->check_task_item(who, "hiệu giác", 1) != 1)
-10470|<O>| write_user(who, ECHO "Bạn nhận được" + item2->get_name() + "。");
-10471|<O>| if (!clonep(me)) return "［Tinh luyện］ Vật lý Hồi tỵ suất\n［Trang bị thích hợp］ Yêu Đái、Hạng Liên、Hia";
-10472|<O>| return "［Ám Khíđầu xạ］Ám KhíTu Hành，NăngTăngSử dụngÁm Khílúccủatác Chiến Năng Lực。Mỗi cấp tăng1.5củaÁm KhíLực tấn công vật lý。\n";
-10473|<O>| //		send_user(me, "%c%s", '!', "nàyTàng Bảo ĐồtốttượngCógìBí Mật,đếnTân Thủ Thônhỏi hỏi");
-10474|<O>| case 9 :	result += sprintf( "Môn phái thích hợp: %sVân Mộng Trạch、Thục Sơn、Mao Sơn、Côn Lôn Sơn\n",
-10475|<O>| if( !( item = present("Vật phẩm quý giá", who, 1, MAX_CARRY*4) ) )
-10476|<O>| notify("Bạn tốinhiềuNăng tồn %d vạnVàng。", me->get_max_savings() / 10000);
-10477|<O>| if(     inv[i] && inv[i]->is_thief_item()    // đặc thùVật phẩm nhiệm vụ
-10478|<O>| if(iTime < iStart || iTime > iFinish)//chưa cóđếngiờgianvàđãhoạt độngqua kỳ。
-10479|<O>| return sprintf("Vàngcương:\n　　Nâng35％củaLực phòng thủ vật lý，NhưngLực tấn công vật lýsẽdướigiáng50％。\n");
-10480|<O>| set_effect(who, EFFECT_CHAR_NO_MOVE, 6);    // cẩn thận chuẩn bị me
-10481|<O>| return ("Ngụ ý:Thuần Tình Chân chí\nSử dụngsauPháp ThuậtTấn côngTăng30%，kéo dài60phút\n"HIR"Người sử dụng cần là nam");
-10482|<O>| send_user(who, "%c%s", '!', sprintf(HIY"ThổTinh %d/6", i));
-10483|<O>| if (TASK_LEGEND_D->check_task_item(who, "nghiên đài", 1) != 1)
-10484|<O>| CHAT_D->rumor_channel(0, CHAT + "thính nói hung MãnhcủaHổVươngđãbịDũng dámcủaHiệp Sĩ sở tiêu Diệt");
-10485|<O>| if( me->is_comrade() || who->is_comrade() )    // Chiến trường Chiến hữu
-10486|<O>| if (objectp(present("Dũng dámcủasong Tử", me, 1, MAX_CARRY * 4))) {
-10487|<O>| _DEBUG(sprintf("DEBUG -- dùng HộgiờChung %d Hồi điều hoàn tấtBắt đầuXóa~", st_num));
-10488|<O>| if (TASK_LEGEND_D->check_task_item(who, "lớntoán", 1) != 1)
-10489|<O>| if (TASK_LEGEND_D->check_task_item(who, "Cúc Hoa", 1) != 1)
-10490|<O>| if (objectp(present("Trung hậucủasong Tử", me, 1, MAX_CARRY * 4))) {
-10491|<O>| send_user(who,"%c%s",'!',sprintf("Xin chúc mừng！Bạnnhận được%dVàng",cash));
-10492|<O>| send_user(who, "%c%s", '!', sprintf(HIY"thiMa %d/8", i));
+10469|<O>| if (TASK_LEGEND_D->check_task_item(who, "Hiệu Giác", 1) != 1)
+10470|<O>| write_user(who, ECHO "Bạn nhận được " + item2->get_name() + ".");
+10471|<O>| if (!clonep(me)) return "［Tinh Luyện］ Tỷ lệ né tránh vật lý\n［Trang bị áp dụng］ Thắt lưng, vòng cổ, giày";
+10472|<O>| return "［Ám Khí Đầu Xạ］Tu luyện ám khí, có thể tăng khả năng chiến đấu khi sử dụng ám khí. Mỗi cấp tăng 1.5 điểm tấn công vật lý ám khí.\n";
+10473|<O>| //		send_user(me, "%c%s", '!', "Bản đồ tàng bảo này hình như có bí mật gì đó, đến Làng Tân Thủ hỏi thử");
+10474|<O>| case 9 :	result += sprintf( "Môn phái áp dụng: %s Vân Mộng Trạch, Thục Sơn, Mao Sơn, Côn Lôn Sơn\n",
+10475|<O>| if( !( item = present("Vật Phẩm Quý Giá", who, 1, MAX_CARRY*4) ) )
+10476|<O>| notify("Bạn tối đa có thể gửi %d vạn vàng.", me->get_max_savings() / 10000);
+10477|<O>| if(     inv[i] && inv[i]->is_thief_item()    // Vật phẩm nhiệm vụ đặc biệt
+10478|<O>| if(iTime < iStart || iTime > iFinish)//Chưa đến giờ hoặc hoạt động đã hết hạn.
+10479|<O>| return sprintf("Kim Cương:\n　　Tăng 35%% phòng thủ vật lý, nhưng tấn công vật lý sẽ giảm 50%%.\n");
+10480|<O>| set_effect(who, EFFECT_CHAR_NO_MOVE, 6);    // Cẩn thận chuẩn bị me
+10481|<O>| return ("Ngụ ý: Thuần tình chân thành\nSử dụng sau tấn công pháp thuật tăng 30%, kéo dài 60 phút\n"HIR"Người sử dụng phải là nam");
+10482|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Thổ Tinh %d/6", i));
+10483|<O>| if (TASK_LEGEND_D->check_task_item(who, "Nghiên Mực", 1) != 1)
+10484|<O>| CHAT_D->rumor_channel(0, CHAT + "Nghe nói Hổ Vương hung mãnh đã bị hiệp sĩ dũng cảm tiêu diệt");
+10485|<O>| if( me->is_comrade() || who->is_comrade() )    // Chiến hữu chiến trường
+10486|<O>| if (objectp(present("Song Tử Dũng Cảm", me, 1, MAX_CARRY * 4))) {
+10487|<O>| _DEBUG(sprintf("DEBUG -- Đồng hồ người dùng %d gọi lại hoàn tất bắt đầu xóa~", st_num));
+10488|<O>| if (TASK_LEGEND_D->check_task_item(who, "Tỏi", 1) != 1)
+10489|<O>| if (TASK_LEGEND_D->check_task_item(who, "Hoa Cúc", 1) != 1)
+10490|<O>| if (objectp(present("Song Tử Trung Hậu", me, 1, MAX_CARRY * 4))) {
+10491|<O>| send_user(who,"%c%s",'!',sprintf("Chúc mừng! Bạn nhận được %d vàng",cash));
+10492|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Thi Ma %d/8", i));
 10493|<O>| case "Hàn Quốc": z = 20;  p = get_jumpin(z, me->get("out"));

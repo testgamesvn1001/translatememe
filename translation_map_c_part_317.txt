@@ -1,71 +1,71 @@
-﻿12493|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"cước Phucủaphiền não");
-12494|<O>| int get_cast_seal() { return 9101; }    // Phù Chỉnghịch Toàn
-12495|<O>| private int SellTax2;                   // bán Xuất thuế２
-12496|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Bình Dương Chi Loạn3");
-12497|<O>| result = me->get_name() + ":\n    bạnđãTạithử Kỵ sủng。\n";
-12498|<O>| private int GameTime;                   // du hígiờgian
-12499|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"tiêu Diệt đạo Thảo Nhân");
-12500|<O>| private int ItemLevel;                  // Vật PhẩmCấp độ
-12501|<O>| private string MakeProp;                // Hợp thànhký lục
-12502|<O>| private int FamilyOpen = 1;             // Môn pháimở quan
-12503|<O>| else if (map->get_manager_2() == who)    // phòng thủ Phương
-12504|<O>| private int TradeOpen = 1;              // giao dịchmở quan
-12505|<O>| private string StartPlace;              // Liên tiếp trường cảnh
-12506|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Đòi Thần Kiếm4");
-12507|<O>| log_file(LIST_LOG, "\nbiên hiệu Tên loại hình tính biệt tẩu tốc Công tốc Vũ khí\n");
-12508|<O>| private int OrgOpen = 1;                // bang pháimở quan
-12509|<O>| send_user(who, "%c%s", ';', "DĩbạncủaCấp độ，không thểtiến Hànhcaocấpký tồn！");
-12510|<O>| private int NoGive = 0;                 // Cấm chỉchodư
-12511|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Nhân Duyên Chi Lộ4");
-12512|<O>| private static int SellPrice;           // bán Xuất Cơ giá
-12513|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Hiếu thuậncủathủ Vệ");
-12514|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Tà Áccủatrù Sư");
-12515|<O>| #define MAX_ELECTOR     50              // Hậu tuyển Nhân số
-12516|<O>| + sprintf(ESC"khách Hộ đoan trừu thưởng thưởng Phẩm lĩnh thủ\ntalk %x# bonus.1004\n"
-12517|<O>| send_user(who, "%c%s", '!', "tìm tìmdodolookhoạt độngĐóng！");
-12518|<O>| private int TeamOpen = 1;               // đội ngũ mở quan
-12519|<O>| ESC"ThổTinh（Kỹ năng:caocấpNgự Mệnh Thuật、caocấpNgự Pháp、lạc Thạch、Phi sa tẩu Thạch）\nuse %x# pet.5\n"
-12520|<O>| int Time;                               // thân Xingiờgian
-12521|<O>| //                        ESC "Rời khỏi。\nCLOSE\n" );
-12522|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Dũng sấm hư Lăng Động");
-12523|<O>| int get_cast_seal() { return 9103; }    // Phù Chỉnghịch Toàn
-12524|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"cáo tritrongchính quan");
-12525|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"bảng phỉcủađiềukiện");
+﻿12493|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Phiền Não Của Phu Khuân Vác");
+12494|<O>| int get_cast_seal() { return 9101; }    // Phù Chỉ Nghịch Toàn
+12495|<O>| private int SellTax2;                   // Thuế bán ra 2
+12496|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Bình Dương Chi Loạn 3");
+12497|<O>| result = me->get_name() + ":\n    Bạn đang thử cưỡi kỵ sủng rồi.\n";
+12498|<O>| private int GameTime;                   // Thời gian chơi game
+12499|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tiêu Diệt Bù Nhìn Rơm");
+12500|<O>| private int ItemLevel;                  // Cấp vật phẩm
+12501|<O>| private string MakeProp;                // Bản ghi hợp thành
+12502|<O>| private int FamilyOpen = 1;             // Bật/tắt môn phái
+12503|<O>| else if (map->get_manager_2() == who)    // Bên phòng thủ
+12504|<O>| private int TradeOpen = 1;              // Bật/tắt giao dịch
+12505|<O>| private string StartPlace;              // Bản đồ kết nối
+12506|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tìm Thần Kiếm 4");
+12507|<O>| log_file(LIST_LOG, "\nMã số Tên Loại Giới tính Tốc chạy Tốc công Vũ khí\n");
+12508|<O>| private int OrgOpen = 1;                // Bật/tắt bang phái
+12509|<O>| send_user(who, "%c%s", ';', "Với cấp độ của bạn, không thể gửi cấp cao!");
+12510|<O>| private int NoGive = 0;                 // Cấm tặng
+12511|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Con Đường Nhân Duyên 4");
+12512|<O>| private static int SellPrice;           // Giá bán cơ bản
+12513|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Người Lính Hiếu Thảo");
+12514|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Đầu Bếp Xấu Xa");
+12515|<O>| #define MAX_ELECTOR     50              // Số ứng cử viên
+12516|<O>| + sprintf(ESC"Nhận giải thưởng quay số từ client\ntalk %x# bonus.1004\n"
+12517|<O>| send_user(who, "%c%s", '!', "Hoạt động tìm dodolook đã đóng!");
+12518|<O>| private int TeamOpen = 1;               // Bật/tắt đội nhóm
+12519|<O>| ESC"Thổ Tinh（Kỹ năng: Ngự Mệnh Thuật Cao Cấp, Ngự Pháp Cao Cấp, Lạc Thạch, Phi Sa Tẩu Thạch）\nuse %x# pet.5\n"
+12520|<O>| int Time;                               // Thời gian đăng ký
+12521|<O>| //                        ESC "Rời đi.\nCLOSE\n" );
+12522|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Dũng Cảm Xông Pha Hư Lăng Động");
+12523|<O>| int get_cast_seal() { return 9103; }    // Phù Chỉ Nghịch Toàn
+12524|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Thông Báo Cho Quan Nội Chính");
+12525|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Điều Kiện Của Kẻ Bắt Cóc");
 12526|<O>| thresh2 = 3500 * rate / 100;    // Phòng cụ threshold
-12527|<O>| send_user(who, "%c%s", '!', "hữutốtđộthấpvu 300 Tài Năng Giải minh！");
-12528|<O>| result += ESC"nguyên ĐịaPhục sinh(Phục hồiNhất BánKhí HuyếtvàPháp Lực)\ndesc revive2\n";
-12529|<O>| send_user(who, "%c%s", '!', "DĩbạncủaCấp độkhôngthích nghi lĩnh thủnàyhồ lô！");
-12530|<O>| private static int War;                 // Chiến tranhgiờgian
-12531|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Bách tínhcủatốtTâm");
-12532|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Hợp thíchcủalễ Vật");
-12533|<O>| send_user(me, "%c%c%s", 0xa1, 3, "nên dùng Hộ xử vuTạituyến trạng thái！");
-12534|<O>| string Name;                            // Gia tộcTên
-12535|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"bái phỏngtráiKhâu Minh");
-12536|<O>| else if (rate < 59000)	//hấp thủchodưđối vớiPhương Vật lý Thương hạicủa1%làm vìbản thâncủaHuyết khíPhục hồi
-12537|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Du Hồn（7）");
-12538|<O>| private int Color;                     	// thành Phẩm nhan Sắc
-12539|<O>| else if (rate < 4400 * rate1 / 100)		//vô hạBảo Thạchkhoáng 2
-12540|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Phá Trừ Dao Ngôn5");
-12541|<O>| if (!get_effect(me, EFFECT_USER_BURN_0))		//khôngNhiên thiêu
-12542|<O>| // private int Develop;                 // phát triển hệ số
-12543|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Đòi Thần Kiếm2");
-12544|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Bí Mật（2）");
-12545|<O>| if (who->get_legend(TASK_NEWBIE_00, 20))	//phần thưởngNhấtlần
-12546|<O>| if (sec < 18000)    // 5 x 60 x 60 = 18000  Ngũgiờ
-12547|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Đao Hồn Truyền Thuyết3");
-12548|<O>| private static object Enemy95;          // Địch Phương tổng quản
-12549|<O>| int is_moveable() { return 1; }    // NăngSử dụng go Mệnh Lệnh
-12550|<O>| private int ResearchLevel;              // nghiên cứutầnglần
-12551|<O>| private int Poison;                     // ĐộcPhấnĐộctính
-12552|<O>| private static int SellOut;             // bán Xuất giá cách
-12553|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"thủ VệcủaY phục");
-12554|<O>| private int RumorOpen = 1;              // dao Ngôn mở quan
-12555|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Đòi Thần Kiếm5");
-12556|<O>| private int UpgradeExp;                 // Thăng cấpKinh nghiệm
-12557|<O>| else if (rate < 62000)	//hấp thủchodưđối vớiPhương Pháp Thuật Thương hạicủa1%làm vìbản thâncủaPháp LựcPhục hồi
-12558|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Triệu QuốccủaMỹ Tửu");
-12559|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"khốc khấpcủaoan Hồn");
-12560|<O>| private static int MapId;               // số tự tiêu Thức
-12561|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Cầu Y（1）");
-12562|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Cầu Y（3）");
-12563|<O>| send_user(who, "%c%s", '!', name4 + "chính Đồng biệt Quốc giao Chiến！");
+12527|<O>| send_user(who, "%c%s", '!', "Độ hữu hảo dưới 300 mới có thể giải minh!");
+12528|<O>| result += ESC"Hồi sinh tại chỗ(hồi phục một nửa khí huyết và pháp lực)\ndesc revive2\n";
+12529|<O>| send_user(who, "%c%s", '!', "Với cấp độ của bạn không phù hợp nhận hồ lô này!");
+12530|<O>| private static int War;                 // Thời gian chiến tranh
+12531|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Lòng Tốt Của Bách Tính");
+12532|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Món Quà Phù Hợp");
+12533|<O>| send_user(me, "%c%c%s", 0xa1, 3, "Người dùng này đang trực tuyến!");
+12534|<O>| string Name;                            // Tên gia tộc
+12535|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Bái Phỏng Tả Khâu Minh");
+12536|<O>| else if (rate < 59000)	//Hút 1% sát thương vật lý gây ra cho đối phương để hồi phục khí huyết bản thân
+12537|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Du Hồn（7）");
+12538|<O>| private int Color;                     	// Màu thành phẩm
+12539|<O>| else if (rate < 4400 * rate1 / 100)		//2 mỏ bảo thạch vô hà
+12540|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Phá Bỏ Tin Đồn 5");
+12541|<O>| if (!get_effect(me, EFFECT_USER_BURN_0))		//Không cháy
+12542|<O>| // private int Develop;                 // Hệ số phát triển
+12543|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tìm Thần Kiếm 2");
+12544|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Bí Mật（2）");
+12545|<O>| if (who->get_legend(TASK_NEWBIE_00, 20))	//Thưởng một lần
+12546|<O>| if (sec < 18000)    // 5 x 60 x 60 = 18000  Năm giờ
+12547|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Đao Hồn Truyền Thuyết 3");
+12548|<O>| private static object Enemy95;          // Tổng quản bên địch
+12549|<O>| int is_moveable() { return 1; }    // Có thể sử dụng lệnh go
+12550|<O>| private int ResearchLevel;              // Cấp nghiên cứu
+12551|<O>| private int Poison;                     // Độc tính bột độc
+12552|<O>| private static int SellOut;             // Giá bán ra
+12553|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Quần Áo Của Lính Canh");
+12554|<O>| private int RumorOpen = 1;              // Bật/tắt tin đồn
+12555|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tìm Thần Kiếm 5");
+12556|<O>| private int UpgradeExp;                 // Kinh nghiệm nâng cấp
+12557|<O>| else if (rate < 62000)	//Hút 1% sát thương pháp thuật gây ra cho đối phương để hồi phục pháp lực bản thân
+12558|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Rượu Ngon Triệu Quốc");
+12559|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Oan Hồn Khóc Lóc");
+12560|<O>| private static int MapId;               // Mã số bản đồ
+12561|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Cầu Y（1）");
+12562|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Cầu Y（3）");
+12563|<O>| send_user(who, "%c%s", '!', name4 + " đang giao chiến với nước khác!");

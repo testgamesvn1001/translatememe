@@ -1,71 +1,71 @@
-﻿12635|<O>| send_user(me, "%c%c%s", 0xa1, 3, "不能修改对应项目的值");
-12636|<O>| int    Order;                           // 升级顺序
-12637|<O>| result = sprintf(ESC "您能教我什么技能？\nlearn ? %x#\n"
-12638|<O>| private static int LoginFlag;           // 连线状态
-12639|<O>| sprintf("%s:\n    我可以把你从当前位置瞬间移到其他位置，你是否想试试？\n"
-12640|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"丢失的竹简");
-12641|<O>| private int Type;                       // 技能类别
-12642|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"无耻的叛徒");
-12643|<O>| private string Name;                    // 中文名称
-12644|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"姻缘之路2");
-12645|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"堕落的力量");
-12646|<O>| private int Code;                       // 帽子代码
-12647|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"烹鱼的佐料");
-12648|<O>| return "神奇的葫芦，\n里面装着妄图偷抢西瓜的坏小猪，\n将它交给西瓜伯伯教训吧。";
-12649|<O>| private int Value;                      // 物体价值
-12650|<O>| private string Name;                    // 技能名称
-12651|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"浑仪（1）");
-12652|<O>| private int ChatOpen = 1;               // 闲聊开关
-12653|<O>| case "云梦泽" : if( flag != 7 ) flag = -1;  break;
-12654|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"神秘的荧光");
-12655|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"求医（4）");
-12656|<O>| sprintf(ESC"确定\ntalk %x# fight\n",getoid(me)) +
-12657|<O>| if( bag & BAG_TYPE_2 ) c = MAX_CARRY;    // 百宝囊
-12658|<O>| send_user(player, "%c%s", '!', "你获得了一把挖宝小锄头！");
-12659|<O>| return HIR + PF_NAME + "\n    基本刀法攻击技，可提升攻击力。";
-12660|<O>| private int dead_time;                  // 死亡时间
-12661|<O>| parts += ({ sprintf( "%-25s  %s %s : 第 %i 行\n",
-12662|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"可怕的预言");
-12663|<O>| return  color + "青铜制的炸弹，对目标3X3范围内的敌对方造成400点伤害";
-12664|<O>| private int CreateTime;                 // 创建时间
-12665|<O>| else if (rate < 99999)	//吸取给予对方物理伤害的5%做为自己的血气恢复
-12666|<O>| send_user(who, "%c%s", '!', "疲劳游戏时间禁止领取双倍经验。");
-12667|<O>| && !get_effect(who, EFFECT_CHAR_9140)    // 辟毒散
-12668|<O>| if (!inside_map(z0, x, y)) return 1;    // 坐标错误
-12669|<O>| private string Unit;                    // 物体单位
-12670|<O>| private string* Inventory;              // 道具数组
-12671|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"刀魂传说2");
-12672|<O>| cTmp = "胜利|在诸位的英勇奋战之下，我军赢得了胜利。期待诸位今后摘取更多胜利之果。";
-12673|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"浑仪（3）");
-12674|<O>| private int Number;                     // 技能标识
-12675|<O>| private int Money;                      // 积累资金
-12676|<O>| private object Owner;                   // 主人对象
-12677|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"刀魂传说4");
-12678|<O>| "暗器" : ({0202,0652,0602,0652,1001,0853,0950 }),
-12679|<O>| && !get_effect(who, EFFECT_CHAR_9145)    // 清心丹
-12680|<O>| me->set_enemy(0);  find_enemy(me);    // 搜索攻击对象
-12681|<O>| send_user(who, "%c%s", ';', "您领取了四颗晶石和一个双鱼宠物");
-12682|<O>| private static object Snooper;          // 跟踪对象
-12683|<O>| send_user(who, "%c%s", '!', "你的七国令不足以兑换相应物品！");
-12684|<O>| who->set_save_2("double_time.time3", 0);	//额外领双
-12685|<O>| send_user(who, "%c%s", ';', "你获得藏宝图一张、麻布包裹一个");
-12686|<O>| //                me->log_money("摆摊买", -price);
-12687|<O>| result += sprintf("交易给:%d %09d  交易收:%d %09d\n",
-12688|<O>| int is_zombie() { return 1; }           // 医术杀伤
-12689|<O>| private int CityOpen = 1;               // 城市开关
-12690|<O>| send_user(who, "%c%s", '!', "你得到藏宝图一张和麻布包裹一个");
-12691|<O>| if ( item = present("试炼石", who, 1, MAX_CARRY) )
-12692|<O>| send_user(me, "%c%s", '!', "角色数据异常，请与游戏客服联系!");
-12693|<O>| nMem2 = get_2(sprintf("%d.%d.赵国", level, wId));
-12694|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"程风的烦恼");
-12695|<O>| private string MasterName;              // 帮主姓名
-12696|<O>| notify("%s频道将于 %d 分钟后开启。", family, t / 60 + 1);
-12697|<O>| private static string MapName;          // 地图名称
-12698|<O>| return	mix1(me, ({ item[0],item[1] }));	//锻造石合成
-12699|<O>| who->set_attack_time(time());    // 同一个人:更新持续时间
-12700|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"遥远的梦想");
-12701|<O>| send_user(who, "%c%s", '!', "得到任务 "HIY"神奇的彩衣");
-12702|<O>| if (me->get_hp() < (hp = SUB_HP))    // 小心准备 me
-12703|<O>| private static int Poison;              // 毒性点数
-12704|<O>| private static int War;                 // 战争状态
-12705|<O>| private static int SecurityClass;       // 安全等级
+﻿12635|<O>| send_user(me, "%c%c%s", 0xa1, 3, "Không thể sửa đổi giá trị mục tương ứng");
+12636|<O>| int    Order;                           // Thứ tự nâng cấp
+12637|<O>| result = sprintf(ESC "Thầy có thể dạy tôi kỹ năng gì?\nlearn ? %x#\n"
+12638|<O>| private static int LoginFlag;           // Trạng thái kết nối
+12639|<O>| sprintf("%s:\n    Tôi có thể dịch chuyển bạn tức thời từ vị trí hiện tại đến nơi khác, bạn muốn thử không?\n"
+12640|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Thẻ Tre Bị Mất");
+12641|<O>| private int Type;                       // Loại kỹ năng
+12642|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Kẻ Phản Bội Vô Sỉ");
+12643|<O>| private string Name;                    // Tên tiếng Trung
+12644|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Con Đường Nhân Duyên 2");
+12645|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Sức Mạnh Đọa Lạc");
+12646|<O>| private int Code;                       // Mã mũ
+12647|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Gia Vị Nấu Cá");
+12648|<O>| return "Chiếc hồ lô thần kỳ,\nbên trong nhốt con heo hư định ăn trộm dưa hấu,\nhãy đưa nó cho Bác Dưa Hấu để trừng phạt.";
+12649|<O>| private int Value;                      // Giá trị vật thể
+12650|<O>| private string Name;                    // Tên kỹ năng
+12651|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Hồn Nghi（1）");
+12652|<O>| private int ChatOpen = 1;               // Bật/tắt tán gẫu
+12653|<O>| case "Vân Mộng Trạch" : if( flag != 7 ) flag = -1;  break;
+12654|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Ánh Huỳnh Quang Bí Ẩn");
+12655|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Cầu Y（4）");
+12656|<O>| sprintf(ESC"Xác nhận\ntalk %x# fight\n",getoid(me)) +
+12657|<O>| if( bag & BAG_TYPE_2 ) c = MAX_CARRY;    // Bách Bảo Nang
+12658|<O>| send_user(player, "%c%s", '!', "Bạn nhận được một chiếc cuốc đào bảo!");
+12659|<O>| return HIR + PF_NAME + "\n    Kỹ thuật đao pháp cơ bản, có thể tăng sức tấn công.";
+12660|<O>| private int dead_time;                  // Thời gian chết
+12661|<O>| parts += ({ sprintf( "%-25s  %s %s : Dòng %i\n",
+12662|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Lời Tiên Tri Đáng Sợ");
+12663|<O>| return  color + "Quả bom đồng, gây 400 điểm sát thương cho kẻ thù trong phạm vi 3X3 của mục tiêu";
+12664|<O>| private int CreateTime;                 // Thời gian tạo
+12665|<O>| else if (rate < 99999)	//Hút 5% sát thương vật lý gây ra cho đối phương để hồi phục khí huyết bản thân
+12666|<O>| send_user(who, "%c%s", '!', "Thời gian chơi game mệt mỏi, cấm nhận kinh nghiệm gấp đôi.");
+12667|<O>| && !get_effect(who, EFFECT_CHAR_9140)    // Tịch Độc Tán
+12668|<O>| if (!inside_map(z0, x, y)) return 1;    // Tọa độ sai
+12669|<O>| private string Unit;                    // Đơn vị vật thể
+12670|<O>| private string* Inventory;              // Mảng đạo cụ
+12671|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Đao Hồn Truyền Thuyết 2");
+12672|<O>| cTmp = "Chiến thắng|Nhờ sự chiến đấu anh dũng của các vị, quân ta đã giành được thắng lợi. Mong các vị tiếp tục gặt hái thêm nhiều thắng lợi.";
+12673|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Hồn Nghi（3）");
+12674|<O>| private int Number;                     // ID kỹ năng
+12675|<O>| private int Money;                      // Vốn tích lũy
+12676|<O>| private object Owner;                   // Đối tượng chủ nhân
+12677|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Đao Hồn Truyền Thuyết 4");
+12678|<O>| "Ám Khí" : ({0202,0652,0602,0652,1001,0853,0950 }),
+12679|<O>| && !get_effect(who, EFFECT_CHAR_9145)    // Thanh Tâm Đan
+12680|<O>| me->set_enemy(0);  find_enemy(me);    // Tìm đối tượng tấn công
+12681|<O>| send_user(who, "%c%s", ';', "Bạn nhận được bốn viên tinh thạch và một thú cưng Song Ngư");
+12682|<O>| private static object Snooper;          // Đối tượng theo dõi
+12683|<O>| send_user(who, "%c%s", '!', "Thất Quốc Lệnh của bạn không đủ để đổi vật phẩm tương ứng!");
+12684|<O>| who->set_save_2("double_time.time3", 0);	//Nhận thêm gấp đôi
+12685|<O>| send_user(who, "%c%s", ';', "Bạn nhận được một bản đồ tàng bảo, một ba lô vải thô");
+12686|<O>| //                me->log_money("Bày bán mua", -price);
+12687|<O>| result += sprintf("Giao dịch cho:%d %09d  Giao dịch nhận:%d %09d\n",
+12688|<O>| int is_zombie() { return 1; }           // Sát thương y thuật
+12689|<O>| private int CityOpen = 1;               // Bật/tắt thành phố
+12690|<O>| send_user(who, "%c%s", '!', "Bạn nhận được một bản đồ tàng bảo và một ba lô vải thô");
+12691|<O>| if ( item = present("Thí Luyện Thạch", who, 1, MAX_CARRY) )
+12692|<O>| send_user(me, "%c%s", '!', "Dữ liệu nhân vật bất thường, vui lòng liên hệ CSKH game!");
+12693|<O>| nMem2 = get_2(sprintf("%d.%d.Triệu Quốc", level, wId));
+12694|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Phiền Não Của Trình Phong");
+12695|<O>| private string MasterName;              // Tên bang chủ
+12696|<O>| notify("Kênh %s sẽ mở sau %d phút.", family, t / 60 + 1);
+12697|<O>| private static string MapName;          // Tên bản đồ
+12698|<O>| return	mix1(me, ({ item[0],item[1] }));	//Hợp thành đá rèn
+12699|<O>| who->set_attack_time(time());    // Cùng một người: cập nhật thời gian liên tục
+12700|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Giấc Mơ Xa Vời");
+12701|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Bộ Y Phục Thần Kỳ");
+12702|<O>| if (me->get_hp() < (hp = SUB_HP))    // Cẩn thận chuẩn bị me
+12703|<O>| private static int Poison;              // Điểm độc tính
+12704|<O>| private static int War;                 // Trạng thái chiến tranh
+12705|<O>| private static int SecurityClass;       // Cấp an ninh

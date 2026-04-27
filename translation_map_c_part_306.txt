@@ -1,68 +1,68 @@
-﻿11731|<O>| set_name("khiêu hấn Nhân" + NPC_NAME_D->get_banditi_name());
-11732|<O>| else if (rate < 2500 * rate1 / 100)	//80cấpNgẫu nhiênLam Sắc Phối Phương1
-11733|<O>| case 'S': send_user(me, "%c%s", '!', "thửmáy chủvị đăng ký！");
-11734|<O>| log_file("updatefile.txt", "trọngmớibiên dịch" + file + "\n");
-11735|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 10, "tra xemgiữa……");
-11736|<O>| return  color + "Uy Lực rấtlớncủatrá đạn，đối vớimục tiêu3X3Phạm vitrongcủaĐịchđối vớiPhương tạo thành1000điểm Sát thương";
-11737|<O>| && who->get_equip(HAND_TYPE) == item    // Trang bịTạiPháp Bảo lan
-11738|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"choSở quản Giacủakhẩu Tín");
-11739|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"phiêu lượngcủasàng（2）");
-11740|<O>| npc->set_name(sprintf("ngàyBinh(%s)", me->get_name()));
-11741|<O>| npc->set_name(sprintf("ThầnTướng(%s)", me->get_name()));
-11742|<O>| if (get_effect(pet, EFFECT_MAGIC_CARD))	//Hủy bỏbiến Thâncủahiệu Quả
+﻿11731|<O>| set_name("Kẻ Khiêu Khích" + NPC_NAME_D->get_banditi_name());
+11732|<O>| else if (rate < 2500 * rate1 / 100)	//1 công thức xanh ngẫu nhiên cấp 80
+11733|<O>| case 'S': send_user(me, "%c%s", '!', "Server này chưa đăng ký!");
+11734|<O>| log_file("updatefile.txt", "Biên dịch lại " + file + "\n");
+11735|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 10, "Đang xem……");
+11736|<O>| return  color + "Quả bom có sức mạnh rất lớn, gây 1000 điểm sát thương cho kẻ thù trong phạm vi 3X3 của mục tiêu";
+11737|<O>| && who->get_equip(HAND_TYPE) == item    // Trang bị ở ô pháp bảo
+11738|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Nhắn Tin Cho Quản Gia Sở");
+11739|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Chiếc Giường Đẹp（2）");
+11740|<O>| npc->set_name(sprintf("Thiên Binh(%s)", me->get_name()));
+11741|<O>| npc->set_name(sprintf("Thần Tướng(%s)", me->get_name()));
+11742|<O>| if (get_effect(pet, EFFECT_MAGIC_CARD))	//Hủy hiệu ứng biến hình
 11743|<O>| DEBUG(sprintf("Kiểm tra-->Dizi_players size=%d",size));
-11744|<O>| Ngu vạn chi Kha cữu quản Lô mạc Kinh phòng Cầu Mậu can Giải ứng Tông Đinh tuyên Bôn Đặng Úc đơn Hàng Hồng bao chưtráiThạch Thôi Cát nữu Cung trình Kê Hình hoạt Bùi lục vinh ông
-11745|<O>| send_user(who, "%c%s", '!', "bão khiểm，quý BangcủaAn địnhkhôngcầnSử dụngnên Đạo cụ。");
-11746|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Mã Nghĩ Đái đếncủaphiền não");
-11747|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 10, "thủ Vậtgiữa……");
-11748|<O>| send_user(who, "%c%s", '!', "đối vớiPhươngTạiphó bảntrong，Không thể sử dụngĐồng Tâm TỏaTruyền tống。");
-11749|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Đại Triển Thần Uy（5）");
-11750|<O>| tell_user(me, sprintf(HIY "bạntống tẩu%dNgười chơi。", number));
-11751|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Tứ Diện Sở Ca（1）");
-11752|<O>| private int GiftPoint;                  // có thểphútPhối thuộc tínhđiểm
-11753|<O>| log_file("boss.txt", short_time() + " Phi tặc Vươngbịtiêu Diệt\n");
-11754|<O>| set_name("trọng phạm" + NPC_NAME_D->get_criminal_name());
-11755|<O>| send_user(who, "%c%c%w%s", ':', 3, 0, "bang pháitưVàngkhôngtúc！");
-11756|<O>| return "Một loạiThầnKỳcủatú Hoa châm，Tụ tậpngàyĐịa Linh khí，\Sử dụngsauNăng sửbang pháiAn địnhTăng1000。Hồi chiêu2giây。";
-11757|<O>| Ôn biệt Trang Yến sài Trạch Diêm sung mộ Liên nhự tập hoạn ngải Ngư dung hướngCổ Dịch thận qua Liêu Canh chung kỵ cư hànhbước đềuCảnh mãn Hoằng Khuông Quốc Văn Khấu Quảng lộc Khuyết Đông
-11758|<O>| ninh Cừu Loan Bạo cam Đẩu lệ nhung tổ Vũ Phù Lưu cảnh Chiêm thúcLong Diệp hạnh tư thiều Cáo Lê Kế bạc Ấn túc Bạch hoài Bồ đàitừNgạc sách hàm tịch Lại Trác Lận đồ Mông
-11759|<O>| private static int Level2 = 1;          // Cấp độ(Thăng cấp)
-11760|<O>| return sprintf("［" PF_NAME "］án Phối Phương Luyện chế Dược Vật，%s%d cấpcó thể dùng\n",
-11761|<O>| item = present("choTín sửcủaliệu Thương Dược", who, 1, MAX_CARRY * 4);
-11762|<O>| return "hoạt độngchuyên thuộc Kỵ sủng bổn bổn。\nCóhiệu kỳ Chí2007năm5tháng24Nhật。\nĐạo cụ này sau khi sử dụng sẽ khóa。\n";
-11763|<O>| //	《Chân GiảHổVương》hiệu Quả điều dùnggiờchấp HànhcủaHồi điềuHàm--Sử dụngprogress2tiến độ điềuTạitiến độ điềugiờgian hoàn tấtSau đóchấp Hành
-11764|<O>| "/cmd/user/talk"->main(me, result);    // hoạch được Tương quan Đạo cụ！
-11765|<O>| case 3: write_user(me, ECHO "bạnchiếm được phủ quẻ，khôngLợi Quân Tử trinh，lớnvãngnhỏđến。");
-11766|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 6, "Triệu hồicương thigiữa……");
-11767|<O>| private int FeeStart;                   // khấu phíBắt đầugiờgian
-11768|<O>| private int Level;                     	// Kỹ năngcầncầuCấp độ
-11769|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Tứ Diện Sở Ca（3）");
-11770|<O>| return HIC+get_name()+"\nSủng vật sở hữu kỹ năng này，Tăngkỳ đươngtrướcPháp ThuậtPhòng thủcủa5%。";
-11771|<O>| Hùng kỷ thư Khuất Hạng Chúc Đổng lương Đỗ Nguyễn Lam Mẫn tịch Quý ma Cường Giả Lộ Lâu Nguy Giang đồng nhan Quách mai thịnh Lâm Điêu Chung Từ Khâu Lạc caoHạ Thái điền Phàn Hồ lăng Hoắc
-11772|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 10, "Đàogiữa……");
-11773|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"mạt Lợi Hoa trà（2）");
-11774|<O>| send_user(me, "%c%s", ':', "Bạn nhận được" + result + "。");
-11775|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"phiêu lượngcủasàng（1）");
-11776|<O>| return	mix1(me, ({ item[0],item[1] }));	//đoạn tạo Thạch đoạn tạoTrang bị
-11777|<O>| if (work == 5 && who->get("time") >= 10)    // Thu cát
-11778|<O>| private static object* dbHire = ({ });		// Tấn côngPhươngcủadung Binh
-11779|<O>| else if (rate < 6000 * rate1 / 100)	//80Cấp độđoạnNgẫu nhiênLam Sắc Phối Phương
-11780|<O>| private string Owner;                   // bưu rương chủ Nhân tiêu Thức
-11781|<O>| send_user(who, "%c%s", '!', "phútHồng suất đượcTại 40～80%% Chi gian。");
-11782|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"phongHỏađàitrêncủayên vụ");
-11783|<O>| &&      item2->get_talisman_type() == 3    // nhiếp Hồn linh
-11784|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Hoàn Mỹ Bảo Thạch（2）");
-11785|<O>| // tịnh thả，item cầnĐề cung kỳđiểmsố，vàkỳ duy Nhất tiêu Thức, nàytrongtá dùng:get_value(), 8888
-11786|<O>| case 'P': send_user(me, "%c%s", '!', "Truyền NhậpKEYsai ngộ！");
-11787|<O>| send_user(who, "%c%s", ';', "Vong Dương Bổ Lao Kinh nghiệm 500 Tiềm năng 10");
-11788|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Đại Triển Thần Uy（2）");
-11789|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Đại Triển Thần Uy（3）");
-11790|<O>| tell_user(me, "hiệnTại:%s  ＩＰ:%s  phát ngốc:%d giây account:%d",
-11791|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Mua Độc Hoàn Châu(1)");
-11792|<O>| npc->set_name(sprintf("đậu Binh(%s)", me->get_name()));
+11744|<O>| Ngu Vạn Chi Kha Cữu Quản Lư Mạc Kinh Phòng Cừu Miểu Can Giải Ứng Tông Đinh Tuyên Bôn Đặng Úc Đan Hàng Hồng Bao Chư Tả Thạch Thôi Cát Nữu Cung Trình Kê Hình Hoạt Bùi Lục Vinh Ông
+11745|<O>| send_user(who, "%c%s", '!', "Xin lỗi, độ ổn định bang phái của bạn không cần sử dụng đạo cụ này.");
+11746|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Phiền Toái Do Kiến Mang Lại");
+11747|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 10, "Đang lấy đồ……");
+11748|<O>| send_user(who, "%c%s", '!', "Đối phương đang ở trong phó bản, không thể sử dụng Đồng Tâm Khóa truyền tống.");
+11749|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Đại Triển Thần Uy（5）");
+11750|<O>| tell_user(me, sprintf(HIY "Bạn đã gửi đi %d người chơi.", number));
+11751|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tứ Diện Sở Ca（1）");
+11752|<O>| private int GiftPoint;                  // Điểm thuộc tính có thể phân bổ
+11753|<O>| log_file("boss.txt", short_time() + " Phi Tặc Vương bị tiêu diệt\n");
+11754|<O>| set_name("Trọng Phạm" + NPC_NAME_D->get_criminal_name());
+11755|<O>| send_user(who, "%c%c%w%s", ':', 3, 0, "Quỹ bang phái không đủ!");
+11756|<O>| return "Một loại kim thêu thần kỳ, tích tụ linh khí trời đất,\sử dụng sẽ tăng 1000 điểm ổn định bang phái. Hồi chiêu 2 giây.";
+11757|<O>| Ôn Biệt Trang Yến Sài Trạch Diêm Sung Mộ Liên Như Tập Hoạn Nghệ Ngư Dung Hướng Cổ Dịch Thận Qua Liệu Canh Chung Kế Cư Hành Bộ Đô Cảnh Mãn Hoành Khuông Quốc Văn Khấu Quảng Lộc Khuyết Đông
+11758|<O>| Ninh Cừu Loan Bạo Cam Đẩu Lệ Nhung Tổ Vũ Phù Lưu Cảnh Chiêm Thúc Long Diệp Hạnh Tư Thiều Cáo Lê Kế Bạc Ấn Túc Bạch Hoài Bồ Đài Tùng Ngạc Sách Hàm Tịch Lại Trác Lận Khuất Mông
+11759|<O>| private static int Level2 = 1;          // Cấp độ(nâng cấp)
+11760|<O>| return sprintf("［" PF_NAME "］Theo công thức luyện chế dược phẩm, %s cấp %d có thể dùng\n",
+11761|<O>| item = present("Thuốc Trị Thương Cho Tín Sứ", who, 1, MAX_CARRY * 4);
+11762|<O>| return "Kỵ sủng đặc biệt hoạt động Bần Bần.\nHiệu lực đến ngày 24 tháng 5 năm 2007.\nĐạo cụ này sau khi sử dụng sẽ bị khóa.\n";
+11763|<O>| //	Hàm gọi lại thực thi khi gọi hiệu ứng《Chân Giả Hổ Vương》--sử dụng thanh tiến độ progress2 sau khi hết thời gian tiến độ
+11764|<O>| "/cmd/user/talk"->main(me, result);    // Nhận đạo cụ liên quan!
+11765|<O>| case 3: write_user(me, ECHO "Bạn bói được quẻ Bĩ, bất lợi quân tử trinh, đại vãng tiểu lai.");
+11766|<O>| send_user(me, "%c%c%w%s", 0x5a, 0, 6, "Đang triệu hoán Cương Thi……");
+11767|<O>| private int FeeStart;                   // Thời gian bắt đầu thu phí
+11768|<O>| private int Level;                     	// Cấp yêu cầu kỹ năng
+11769|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tứ Diện Sở Ca（3）");
+11770|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này, tăng 5% phòng thủ pháp thuật hiện tại.";
+11771|<O>| Hùng Kỷ Thư Khuất Hạng Chúc Đổng Lương Đỗ Nguyễn Lam Mẫn Tịch Quý Ma Cường Giả Lộ Lâu Nguy Giang Đồng Nhan Quách Mai Thịnh Lâm Điêu Chung Từ Khâu Lạc Cao Hạ Thái Điền Phàn Hồ Lăng Hoắc
+11772|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 10, "Đang đào……");
+11773|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Trà Hoa Nhài（2）");
+11774|<O>| send_user(me, "%c%s", ':', "Bạn nhận được " + result + ".");
+11775|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Chiếc Giường Đẹp（1）");
+11776|<O>| return	mix1(me, ({ item[0],item[1] }));	//Đá rèn rèn trang bị
+11777|<O>| if (work == 5 && who->get("time") >= 10)    // Thu hoạch
+11778|<O>| private static object* dbHire = ({ });		// Lính đánh thuê bên tấn công
+11779|<O>| else if (rate < 6000 * rate1 / 100)	//Công thức xanh ngẫu nhiên cấp 80
+11780|<O>| private string Owner;                   // Chủ hộp thư
+11781|<O>| send_user(who, "%c%s", '!', "Tỷ lệ chia lợi nhuận phải nằm trong khoảng 40～80%%.");
+11782|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Khói Trên Phong Hỏa Đài");
+11783|<O>| &&      item2->get_talisman_type() == 3    // Nhiếp Hồn Linh
+11784|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Bảo Thạch Hoàn Mỹ（2）");
+11785|<O>| // Ngoài ra, item cần cung cấp điểm số và ID duy nhất, ở đây mượn dùng: get_value(), 8888
+11786|<O>| case 'P': send_user(me, "%c%s", '!', "KEY truyền vào sai!");
+11787|<O>| send_user(who, "%c%s", ';', "Mất Dê Sửa Chuồng Kinh nghiệm 500 Tiềm năng 10");
+11788|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Đại Triển Thần Uy（2）");
+11789|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Đại Triển Thần Uy（3）");
+11790|<O>| tell_user(me, "Hiện tại:%s  ＩＰ:%s  Phát dại:%d giây account:%d",
+11791|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Mua Hộp Trả Ngọc(1)");
+11792|<O>| npc->set_name(sprintf("Đậu Binh(%s)", me->get_name()));
 11793|<O>| /*              me->set_login_flag(2);    // Bảo vệ chuyển tiếp
-11794|<O>| // NGUYÊN NHÂN: NPC heart_beat bịCấm dùng，không biết player Tạiphụ cận
-11795|<O>| ESC "Đả mởTruyền tốngbản đồ\n"+sprintf("talk %x# goto.map\n",id)+
-11796|<O>| iFinish = mktime(year,mon,day,hour,min,0);	//Kết thúcgiờgian
-11797|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Thần Vong Xỉ Hàn（4）");
-11798|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"mạt Lợi Hoa trà（4）");
+11794|<O>| // NGUYÊN NHÂN: NPC heart_beat bị vô hiệu hóa, không biết player ở gần
+11795|<O>| ESC "Mở bản đồ truyền tống\n"+sprintf("talk %x# goto.map\n",id)+
+11796|<O>| iFinish = mktime(year,mon,day,hour,min,0);	//Thời gian kết thúc
+11797|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Môi Hở Răng Lạnh（4）");
+11798|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Trà Hoa Nhài（4）");

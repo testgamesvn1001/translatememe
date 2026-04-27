@@ -1,89 +1,89 @@
-﻿17085|<O>| case "茅山" : hp = me->get_con() * 3;
-17086|<O>| else if (rate < 86000)	//物理防御提高100点
-17087|<O>| else if (item1->get_name() == "凤镯")
-17088|<O>| sprintf("%s:\n    你还处身于帮派中，不能自杀。\n"
-17089|<O>| desc = "加入生姜一起煮，14秒内恢复玩家1400点气血值。";
-17090|<O>| string get_name() { return "白马庄"; }
-17091|<O>| string get_name() { return "白云峰"; }
-17092|<O>| else if (rand < 9980)//50—90级随机蓝色图纸
-17093|<O>| write_user(me, ECHO "您在田地里种植下种子。");
-17094|<O>| "兽皮拳套" : "\"/item/final/70/1030\"",
-17095|<O>| USER_D->gm_channel(HIY"ＧＭ正常开启活动") ;
-17096|<O>| string get_name() { return "魔神殿"; }
-17097|<O>| printf(ECHO "只能对自己或者队友使用" PF_NAME);
-17098|<O>| if (who->get("anti_no_move"))	//抗冻结
-17099|<O>| monster_list -= ({ 0 });//去掉已经死亡的怪。
-17100|<O>| "冰魄银针" : "\"/item/final/71/1080\"",
-17101|<O>| "死神珑手" : "\"/item/final/70/1085\"",
-17102|<O>| string get_name() { return "函谷关"; }
-17103|<O>| "高级法防" : "\"/item/final/15/1516\"",
-17104|<O>| SAY_CMD->say(me, "你的死期到了，看我的直捣黄龙");
-17105|<O>| "生姜煮鱼" : "\"/item/final/33/1716\"",
-17106|<O>| string* attr = ({ "妖","厉害","空手" });
-17107|<O>| item = new ("item/44/4488");//宠物技能丹
-17108|<O>| "木制轴承" : "\"/item/final/16/1604\"",
-17109|<O>| ESC "我决定从头再来\ntalk %x# welcome.2\n"
-17110|<O>| "冥光嗜魂" : "\"/item/final/76/1110\"",
-17111|<O>| "极效血气" : "\"/item/final/15/1524\"",
-17112|<O>| #define THIS_SORT      	1				// 小类别
-17113|<O>| string get_name() { return "比武场"; }
-17114|<O>| set("event_mode", 1);  // 标记为事件驱动模式
-17115|<O>| "毡帽唐门" : "\"/item/final/65/4055\"",
-17116|<O>| case "穷家女孩": type = "GIRL";  break;
-17117|<O>| "冥光寒戟" : "\"/item/final/74/1110\"",
-17118|<O>| "含沙射影" : "\"/item/final/71/1070\"",
-17119|<O>| ESC"队伍参加长平之战\ntalk %x# welcome.2\n"
-17120|<O>| npc->add_max_hp(100);    // 小心准备 me
-17121|<O>| "鹰爪拳套" : "\"/item/final/70/1070\"",
-17122|<O>| "初级法攻" : "\"/item/final/15/1504\"",
-17123|<O>| "机械蜘蛛" : "\"/item/final/16/1632\"",
-17124|<O>| "中级物防" : "\"/item/final/15/1509\"",
-17125|<O>| CITY_D->city_vote(city);    // 城市选举
-17126|<O>| string get_name() { return "飞行术"; }
-17127|<O>| name2 != "唐门"	? HIR :	NOR );	break;
-17128|<O>| return "任务物品。杂货店老板常用的信笺，用来记录发货情况。";
-17129|<O>| "机械小鸡" : "\"/item/final/16/1625\"",
-17130|<O>| printf(ECHO "你取消“" PF_NAME "”的状态");
-17131|<O>| printf(ECHO "您凝神运起“%s”。", PF_NAME);
-17132|<O>| string get_name() { return "太行山"; }
-17133|<O>| set_heart_idle(me, 0);    // 清除空闲心跳
-17134|<O>| return "持续1小时内变身为楚国刀兵，可提升1%物理攻击力。";
-17135|<O>| printf(ECHO "您选的 %d 号时空导标不正确。", p);
-17136|<O>| string get_name() { return "雁门关"; }
-17137|<O>| "初级法力" : "\"/item/final/15/1501\"",
-17138|<O>| "冰晶珑手" : "\"/item/final/70/1095\"",
-17139|<O>| ESC "齐国\n" + "findgm setmap 10\n" +
-17140|<O>| ESC"了解攻城规则\ntalk %x# welcome.104\n"
-17141|<O>| if ((status & 32) == 0)    // 第一次升级
-17142|<O>| #define THIS_SORT      	6				// 小类别
-17143|<O>| ESC"给予重阳四宝任意1件\ntalk %x# bonus.3\n"
-17144|<O>| string get_name() { return "虚陵洞"; }
-17145|<O>| return "持续1小时内变身为燕军枪兵，可提升2%物理攻击力。";
-17146|<O>| result += ESC "开启新的背包空间。\n" + cmd1;
-17147|<O>| "战国全席" : "\"/item/final/33/1719\"",
-17148|<O>| #define THIS_SORT      	3				// 小类别
-17149|<O>| npc->set_level_0(level);    // 道法神通
-17150|<O>| ESC "交纳年兽的角\ntalk %x# welcome.61\n"
-17151|<O>| string get_name() { return "桃花源"; }
-17152|<O>| return "持续1小时内变身为高级鬼卒，可提升2%法术攻击力。";
-17153|<O>| "斩妖泣血" : "\"/item/final/72/1100\"",
-17154|<O>| private string RealName;		// 物品真实名字
-17155|<O>| "冥光引魂" : "\"/item/final/75/1100\"",
-17156|<O>| "自走装置" : "\"/item/final/16/1628\"",
-17157|<O>| "机械小猴" : "\"/item/final/16/1624\"",
-17158|<O>| ESC "大赦令，取消搜捕有 PK 标志的人。\n" + cmd2 +
-17159|<O>| "土制炸弹" : "\"/item/final/16/1602\"",
-17160|<O>| ESC "襄陵\n" + "findgm setmap 21\n" +
-17161|<O>| return "［自动射击］\n利用暗器攻击远处一个敌对目标。\n";
-17162|<O>| if (fam == "" || !fam) fam = "无门派";
-17163|<O>| int cast_done(object me)    // 无目标时
-17164|<O>| "强效物攻" : "\"/item/final/15/1518\"",
-17165|<O>| log_file(LIST_LOG, "\n编号 名称 种类\n");
-17166|<O>| ESC "戒严令，全城搜捕有 PK 标志的人。\n" + cmd1 +
-17167|<O>| desc = "被炸成金黄色的地瓜片，14秒内恢复玩家665点气血";
-17168|<O>| else if (rate < 95000)	//法力上限增加200点
-17169|<O>| "大夏龙雀" : "\"/item/final/72/1080\"",
-17170|<O>| "强效物防" : "\"/item/final/15/1521\"",
-17171|<O>| string get_name() { return "朝阳峰"; }
-17172|<O>| return "持续1小时内变身为高级豆兵，可提升2%法术攻击力。";
-17173|<O>| #define THIS_SORT      	2				// 小类别
+﻿17085|<O>| case "Mao Sơn" : hp = me->get_con() * 3;
+17086|<O>| else if (rate < 86000)	//Tăng phòng thủ vật lý 100 điểm
+17087|<O>| else if (item1->get_name() == "Phượng Trác")
+17088|<O>| sprintf("%s:\n    Bạn còn trong bang phái, không thể tự vẫn.\n"
+17089|<O>| desc = "Nấu cùng gừng, trong 14 giây hồi phục 1400 điểm khí huyết cho người chơi.";
+17090|<O>| string get_name() { return "Bạch Mã Trang"; }
+17091|<O>| string get_name() { return "Bạch Vân Phong"; }
+17092|<O>| else if (rand < 9980)//Bản vẽ xanh ngẫu nhiên cấp 50-90
+17093|<O>| write_user(me, ECHO "Bạn đã gieo hạt giống trên ruộng.");
+17094|<O>| "Thú Bì Quyền Sáo" : "\"/item/final/70/1030\"",
+17095|<O>| USER_D->gm_channel(HIY"GM mở hoạt động bình thường") ;
+17096|<O>| string get_name() { return "Ma Thần Điện"; }
+17097|<O>| printf(ECHO "Chỉ có thể dùng " PF_NAME " cho bản thân hoặc đồng đội");
+17098|<O>| if (who->get("anti_no_move"))	//Kháng đóng băng
+17099|<O>| monster_list -= ({ 0 });//Loại bỏ quái đã chết.
+17100|<O>| "Băng Phách Ngân Châm" : "\"/item/final/71/1080\"",
+17101|<O>| "Tử Thần Lung Thủ" : "\"/item/final/70/1085\"",
+17102|<O>| string get_name() { return "Hàm Cốc Quan"; }
+17103|<O>| "Cao Cấp Pháp Phòng" : "\"/item/final/15/1516\"",
+17104|<O>| SAY_CMD->say(me, "Ngày tận số của ngươi đã đến, xem chiêu Trực Đảo Hoàng Long của ta");
+17105|<O>| "Cá Nấu Gừng" : "\"/item/final/33/1716\"",
+17106|<O>| string* attr = ({ "Yêu","Lợi hại","Tay không" });
+17107|<O>| item = new ("item/44/4488");//Đan Kỹ Năng Thú Cưng
+17108|<O>| "Trục Gỗ" : "\"/item/final/16/1604\"",
+17109|<O>| ESC "Tôi quyết định làm lại từ đầu\ntalk %x# welcome.2\n"
+17110|<O>| "Minh Quang Thí Hồn" : "\"/item/final/76/1110\"",
+17111|<O>| "Cực Hiệu Huyết Khí" : "\"/item/final/15/1524\"",
+17112|<O>| #define THIS_SORT      	1				// Loại nhỏ
+17113|<O>| string get_name() { return "Đấu Trường"; }
+17114|<O>| set("event_mode", 1);  // Đánh dấu chế độ sự kiện
+17115|<O>| "Mũ Nỉ Đường Môn" : "\"/item/final/65/4055\"",
+17116|<O>| case "Cô Gái Nhà Nghèo": type = "GIRL";  break;
+17117|<O>| "Minh Quang Hàn Kích" : "\"/item/final/74/1110\"",
+17118|<O>| "Hàm Sa Xạ Ảnh" : "\"/item/final/71/1070\"",
+17119|<O>| ESC"Đội ngũ tham gia Trường Bình Chi Chiến\ntalk %x# welcome.2\n"
+17120|<O>| npc->add_max_hp(100);    // Cẩn thận chuẩn bị me
+17121|<O>| "Ưng Trảo Quyền Sáo" : "\"/item/final/70/1070\"",
+17122|<O>| "Sơ Cấp Pháp Công" : "\"/item/final/15/1504\"",
+17123|<O>| "Nhện Máy" : "\"/item/final/16/1632\"",
+17124|<O>| "Trung Cấp Vật Phòng" : "\"/item/final/15/1509\"",
+17125|<O>| CITY_D->city_vote(city);    // Bầu cử thành phố
+17126|<O>| string get_name() { return "Phi Hành Thuật"; }
+17127|<O>| name2 != "Đường Môn"	? HIR :	NOR );	break;
+17128|<O>| return "Vật phẩm nhiệm vụ. Giấy ghi chép thường dùng của ông chủ tiệm tạp hóa, dùng để ghi tình hình phát hàng.";
+17129|<O>| "Gà Máy" : "\"/item/final/16/1625\"",
+17130|<O>| printf(ECHO "Bạn hủy trạng thái \"" PF_NAME "\"");
+17131|<O>| printf(ECHO "Bạn tập trung vận \"" PF_NAME "\".", PF_NAME);
+17132|<O>| string get_name() { return "Thái Hành Sơn"; }
+17133|<O>| set_heart_idle(me, 0);    // Xóa nhịp tim nhàn rỗi
+17134|<O>| return "Trong 1 giờ biến thành đao binh Sở Quốc, tăng 1% tấn công vật lý.";
+17135|<O>| printf(ECHO "Điểm dẫn đường thời không số %d bạn chọn không đúng.", p);
+17136|<O>| string get_name() { return "Nhạn Môn Quan"; }
+17137|<O>| "Sơ Cấp Pháp Lực" : "\"/item/final/15/1501\"",
+17138|<O>| "Băng Tinh Lung Thủ" : "\"/item/final/70/1095\"",
+17139|<O>| ESC "Tề Quốc\n" + "findgm setmap 10\n" +
+17140|<O>| ESC"Tìm hiểu quy tắc công thành\ntalk %x# welcome.104\n"
+17141|<O>| if ((status & 32) == 0)    // Nâng cấp lần đầu
+17142|<O>| #define THIS_SORT      	6				// Loại nhỏ
+17143|<O>| ESC"Giao bất kỳ 1 cái Trùng Dương Tứ Bảo\ntalk %x# bonus.3\n"
+17144|<O>| string get_name() { return "Hư Lăng Động"; }
+17145|<O>| return "Trong 1 giờ biến thành thương binh quân Yên, tăng 2% tấn công vật lý.";
+17146|<O>| result += ESC "Mở không gian ba lô mới.\n" + cmd1;
+17147|<O>| "Chiến Quốc Toàn Tịch" : "\"/item/final/33/1719\"",
+17148|<O>| #define THIS_SORT      	3				// Loại nhỏ
+17149|<O>| npc->set_level_0(level);    // Đạo Pháp Thần Thông
+17150|<O>| ESC "Nộp sừng Niên Thú\ntalk %x# welcome.61\n"
+17151|<O>| string get_name() { return "Đào Hoa Nguyên"; }
+17152|<O>| return "Trong 1 giờ biến thành quỷ tốt cao cấp, tăng 2% tấn công pháp thuật.";
+17153|<O>| "Trảm Yêu Khấp Huyết" : "\"/item/final/72/1100\"",
+17154|<O>| private string RealName;		// Tên thật vật phẩm
+17155|<O>| "Minh Quang Dẫn Hồn" : "\"/item/final/75/1100\"",
+17156|<O>| "Thiết Bị Tự Hành" : "\"/item/final/16/1628\"",
+17157|<O>| "Khỉ Máy" : "\"/item/final/16/1624\"",
+17158|<O>| ESC "Đại xá lệnh, hủy truy bắt người có dấu PK.\n" + cmd2 +
+17159|<O>| "Bom Đất" : "\"/item/final/16/1602\"",
+17160|<O>| ESC "Tương Lăng\n" + "findgm setmap 21\n" +
+17161|<O>| return "［Tự Động Xạ Kích］\nDùng ám khí tấn công một mục tiêu thù địch ở xa.\n";
+17162|<O>| if (fam == "" || !fam) fam = "Vô Môn Phái";
+17163|<O>| int cast_done(object me)    // Khi không có mục tiêu
+17164|<O>| "Cường Hiệu Vật Công" : "\"/item/final/15/1518\"",
+17165|<O>| log_file(LIST_LOG, "\nMã số Tên Loại\n");
+17166|<O>| ESC "Giới nghiêm lệnh, toàn thành truy bắt người có dấu PK.\n" + cmd1 +
+17167|<O>| desc = "Khoai lang chiên vàng ươm, trong 14 giây hồi phục 665 điểm khí huyết cho người chơi";
+17168|<O>| else if (rate < 95000)	//Tăng giới hạn pháp lực 200 điểm
+17169|<O>| "Đại Hạ Long Tước" : "\"/item/final/72/1080\"",
+17170|<O>| "Cường Hiệu Vật Phòng" : "\"/item/final/15/1521\"",
+17171|<O>| string get_name() { return "Triều Dương Phong"; }
+17172|<O>| return "Trong 1 giờ biến thành đậu binh cao cấp, tăng 2% tấn công pháp thuật.";
+17173|<O>| #define THIS_SORT      	2				// Loại nhỏ

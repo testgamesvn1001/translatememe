@@ -1,89 +1,89 @@
-﻿16907|<O>| "水果拼盘" : "\"/item/final/33/1707\"",
-16908|<O>| "初级物防" : "\"/item/final/15/1503\"",
-16909|<O>| desc = "很好吃的荷包蛋，14秒内恢复玩家1120点气血值。";
-16910|<O>| string get_name() { return "桃源村"; }
-16911|<O>| "虎王之爪" : "\"/item/final/70/1115\"",
-16912|<O>| string get_name() { return "御毒术"; }
-16913|<O>| "神龙噬火" : "\"/item/final/74/1100\"",
-16914|<O>| "高级物防" : "\"/item/final/15/1515\"",
-16915|<O>| result += ESC"开放合服补偿\nparty 202\n";
-16916|<O>| desc = "一种烧烤的面饼，20秒内恢复玩家1800点气血值。";
-16917|<O>| string get_name() { return "东海岛"; }
-16918|<O>| desc = "都是苹果的牛肉，14秒内恢复玩家1120点气血值。";
-16919|<O>| me->set_2("jiguan.do", 500);	//	爆击+
-16920|<O>| "永动核心" : "\"/item/final/16/1609\"",
-16921|<O>| string get_name() { return "附妖术"; }
-16922|<O>| ESC "魏国\n" + "findgm setmap 40\n" +
-16923|<O>| string get_name() { return "御命术"; }
-16924|<O>| else if (p < 60)    // 坏的事件(职业经验加倍)
-16925|<O>| string get_name() { return "马踏湖"; }
-16926|<O>| "高级血气" : "\"/item/final/15/1512\"",
-16927|<O>| "极效法攻" : "\"/item/final/15/1528\"",
-16928|<O>| item = new ("/item/08/0015");//干将宝石
-16929|<O>| return "［阴阳五行］提升法术攻击力，每级提升 2 点。\n";
-16930|<O>| "飓风拳套" : "\"/item/final/70/1090\"",
-16931|<O>| gold = obj->get_money();    // 钱票的钱
-16932|<O>| ESC"离开", who->get_name(), id, id));
-16933|<O>| "血饮狂刀" : "\"/item/final/72/1060\"",
-16934|<O>| item = new("item/std/5211");		//鹤顶红
-16935|<O>| tell_user(me, "ＩＰ是 %s 的玩家有:", arg);
-16936|<O>| case "老板": type = "SELLER";  break;
-16937|<O>| string get_name() { return "东海岸"; }
-16938|<O>| "高级物攻" : "\"/item/final/15/1514\"",
-16939|<O>| case "布衣": type = "F_BUYI";  break;
-16940|<O>| "星梅点点" : "\"/item/final/71/1115\"",
-16941|<O>| "耀日神针" : "\"/item/final/71/1100\"",
-16942|<O>| item = new ("/item/01/0202");//紫金宝箱
-16943|<O>| "追星赶月" : "\"/item/final/72/1110\"",
-16944|<O>| string get_name() { return "上庸关"; }
-16945|<O>| "玄铁钥匙" : "\"/item/final/16/1630\"",
-16946|<O>| ESC"查看已交令牌数目\ntalk %x# welcome.7\n"
-16947|<O>| result += ESC"设置活动时间\nparty 123\n";
-16948|<O>| else if (arrayp(team2))    // 对方有队伍
-16949|<O>| + sprintf(ESC"检查活动状态\nparty 160\n")
-16950|<O>| ESC "禁锢玩家\n" + "gmfight busy ?\n" +
-16951|<O>| "破军蛇矛" : "\"/item/final/74/1105\"",
-16952|<O>| "钻石星尘" : "\"/item/final/70/1105\"",
-16953|<O>| "极效物防" : "\"/item/final/15/1527\"",
-16954|<O>| ESC"个人参加长平之战\ntalk %x# welcome.1\n"
-16955|<O>| if (remove_from_user())    // 是否在身上
-16956|<O>| "雷光拳套" : "\"/item/final/70/1080\"",
-16957|<O>| else if (npc->get_name() == "陵墓宝箱")
-16958|<O>| "高爆炸弹" : "\"/item/final/16/1617\"",
-16959|<O>| string get_name() { return "海滨2"; }
-16960|<O>| sprintf("%s:\n    你的现金不足%d，无法鉴定%s。"
-16961|<O>| return "增加制造物品数值提升几率的道具，增加20%的成功率";
-16962|<O>| string get_name() { return "封神台"; }
-16963|<O>| "初级法防" : "\"/item/final/15/1505\"",
-16964|<O>| notify( "在学习这样技能之前，您得先学会“中医药理”。" );
-16965|<O>| result += ESC"检查活动状态\nparty 156\n";
-16966|<O>| write_user(who, ECHO "您获得1000金钱。");
-16967|<O>| "初级血气" : "\"/item/final/15/1500\"",
-16968|<O>| write_user(me, ECHO "您一不小心让鱼溜走了。");
-16969|<O>| return "［金刚不坏］自动减少物理攻击对自身造成的伤害。\n";
-16970|<O>| notify( "在学习这样技能之前，您得先学会“道家学说”。" );
-16971|<O>| if (inv[i]->get_name() != "战国劳动奖章")
-16972|<O>| ESC "我要鉴定装备\nrepair %x# identify\n"
-16973|<O>| return "任务物品。请尽快交与东海岛东北方的极限穿越审查官。";
-16974|<O>| return "这是你成功捕获的月兔，很有可能会是玉兔所伪装的哟。";
-16975|<O>| "玄铁炸弹" : "\"/item/final/16/1631\"",
-16976|<O>| result += ESC "换取额外的双倍时间\n" + cmd6;
-16977|<O>| "一缕情思一颗红豆，月圆时分我会让玉兔送去我特制的月饼！中秋快乐！",
-16978|<O>| string get_name() { return "大别山"; }
-16979|<O>| "高级法力" : "\"/item/final/15/1513\"",
-16980|<O>| "中级血气" : "\"/item/final/15/1508\"",
-16981|<O>| else    total = 1;    // 非叠加物品数量为 1
-16982|<O>| #define THIS_SORT      	4				// 小类别
-16983|<O>| string get_name() { return "云梦泽"; }
-16984|<O>| return "［潜隐心法］提升法术力上限，每级提升1.6点。\n";
-16985|<O>| SAY_CMD->say(me, "让你们尝试下上古太拳的厉害！");
-16986|<O>| name2 != "蜀山"	? HIR :	NOR );	break;
-16987|<O>| "天玑拳套" : "\"/item/final/70/1120\"",
-16988|<O>| return "持续1小时内变身为燕军剑兵，可提升2%法术攻击力。";
-16989|<O>| string get_name() { return "无双宫"; }
-16990|<O>| case "僵尸": type = "ZOMBIE";  break;
-16991|<O>| "中级法力" : "\"/item/final/15/1506\"",
-16992|<O>| "强效法攻" : "\"/item/final/15/1523\"",
-16993|<O>| //	for(i=0;i<number*4;i++)	//4个游魂祸害
-16994|<O>| return "持续1小时内变身为高级天兵，可提升2%物理防御力。";
-16995|<O>| ESC"如何精炼装备？\ntalk %x# welcome.53\n"
+﻿16907|<O>| "Đĩa Trái Cây" : "\"/item/final/33/1707\"",
+16908|<O>| "Sơ Cấp Vật Phòng" : "\"/item/final/15/1503\"",
+16909|<O>| desc = "Trứng ốp la rất ngon, trong 14 giây hồi phục 1120 điểm khí huyết cho người chơi.";
+16910|<O>| string get_name() { return "Đào Nguyên Thôn"; }
+16911|<O>| "Hổ Vương Chi Trảo" : "\"/item/final/70/1115\"",
+16912|<O>| string get_name() { return "Ngự Độc Thuật"; }
+16913|<O>| "Thần Long Phệ Hỏa" : "\"/item/final/74/1100\"",
+16914|<O>| "Cao Cấp Vật Phòng" : "\"/item/final/15/1515\"",
+16915|<O>| result += ESC"Mở bồi thường hợp server\nparty 202\n";
+16916|<O>| desc = "Loại bánh nướng, trong 20 giây hồi phục 1800 điểm khí huyết cho người chơi.";
+16917|<O>| string get_name() { return "Đông Hải Đảo"; }
+16918|<O>| desc = "Thịt bò toàn táo, trong 14 giây hồi phục 1120 điểm khí huyết cho người chơi.";
+16919|<O>| me->set_2("jiguan.do", 500);	//	Bạo kích+
+16920|<O>| "Lõi Vĩnh Động" : "\"/item/final/16/1609\"",
+16921|<O>| string get_name() { return "Phụ Yêu Thuật"; }
+16922|<O>| ESC "Ngụy Quốc\n" + "findgm setmap 40\n" +
+16923|<O>| string get_name() { return "Ngự Mệnh Thuật"; }
+16924|<O>| else if (p < 60)    // Sự kiện xấu (kinh nghiệm nghề nghiệp nhân đôi)
+16925|<O>| string get_name() { return "Mã Đạp Hồ"; }
+16926|<O>| "Cao Cấp Huyết Khí" : "\"/item/final/15/1512\"",
+16927|<O>| "Cực Hiệu Pháp Công" : "\"/item/final/15/1528\"",
+16928|<O>| item = new ("/item/08/0015");//Bảo Thạch Can Tương
+16929|<O>| return "［Âm Dương Ngũ Hành］Tăng sức tấn công pháp thuật, mỗi cấp tăng 2 điểm.\n";
+16930|<O>| "Cự Phong Quyền Sáo" : "\"/item/final/70/1090\"",
+16931|<O>| gold = obj->get_money();    // Tiền của phiếu tiền
+16932|<O>| ESC"Rời đi", who->get_name(), id, id));
+16933|<O>| "Huyết Ẩm Cuồng Đao" : "\"/item/final/72/1060\"",
+16934|<O>| item = new("item/std/5211");		//Hạc Đỉnh Hồng
+16935|<O>| tell_user(me, "Người chơi có IP %s:", arg);
+16936|<O>| case "Ông Chủ": type = "SELLER";  break;
+16937|<O>| string get_name() { return "Đông Hải Ngạn"; }
+16938|<O>| "Cao Cấp Vật Công" : "\"/item/final/15/1514\"",
+16939|<O>| case "Bố Y": type = "F_BUYI";  break;
+16940|<O>| "Tinh Mai Điểm Điểm" : "\"/item/final/71/1115\"",
+16941|<O>| "Diệu Nhật Thần Châm" : "\"/item/final/71/1100\"",
+16942|<O>| item = new ("/item/01/0202");//Rương Tử Kim
+16943|<O>| "Truy Tinh Cản Nguyệt" : "\"/item/final/72/1110\"",
+16944|<O>| string get_name() { return "Thượng Dung Quan"; }
+16945|<O>| "Chìa Khóa Huyền Thiết" : "\"/item/final/16/1630\"",
+16946|<O>| ESC"Xem số lệnh bài đã giao\ntalk %x# welcome.7\n"
+16947|<O>| result += ESC"Thiết lập thời gian hoạt động\nparty 123\n";
+16948|<O>| else if (arrayp(team2))    // Đối phương có đội
+16949|<O>| + sprintf(ESC"Kiểm tra trạng thái hoạt động\nparty 160\n")
+16950|<O>| ESC "Giam giữ người chơi\n" + "gmfight busy ?\n" +
+16951|<O>| "Phá Quân Xà Mâu" : "\"/item/final/74/1105\"",
+16952|<O>| "Kim Cương Tinh Trần" : "\"/item/final/70/1105\"",
+16953|<O>| "Cực Hiệu Vật Phòng" : "\"/item/final/15/1527\"",
+16954|<O>| ESC"Cá nhân tham gia Trường Bình Chi Chiến\ntalk %x# welcome.1\n"
+16955|<O>| if (remove_from_user())    // Có trên người không
+16956|<O>| "Lôi Quang Quyền Sáo" : "\"/item/final/70/1080\"",
+16957|<O>| else if (npc->get_name() == "Rương Bảo Lăng Mộ")
+16958|<O>| "Bom Nổ Mạnh" : "\"/item/final/16/1617\"",
+16959|<O>| string get_name() { return "Hải Tân 2"; }
+16960|<O>| sprintf("%s:\n    Tiền mặt không đủ %d, không thể giám định %s."
+16961|<O>| return "Đạo cụ tăng xác suất nâng giá trị vật phẩm chế tạo, tăng 20% tỷ lệ thành công";
+16962|<O>| string get_name() { return "Phong Thần Đài"; }
+16963|<O>| "Sơ Cấp Pháp Phòng" : "\"/item/final/15/1505\"",
+16964|<O>| notify( "Trước khi học kỹ năng này, bạn phải học \"Trung Y Dược Lý\" trước." );
+16965|<O>| result += ESC"Kiểm tra trạng thái hoạt động\nparty 156\n";
+16966|<O>| write_user(who, ECHO "Bạn nhận được 1000 vàng.");
+16967|<O>| "Sơ Cấp Huyết Khí" : "\"/item/final/15/1500\"",
+16968|<O>| write_user(me, ECHO "Bạn lỡ tay để cá trốn mất rồi.");
+16969|<O>| return "［Kim Cương Bất Hoại］Tự động giảm sát thương vật lý gây ra cho bản thân.\n";
+16970|<O>| notify( "Trước khi học kỹ năng này, bạn phải học \"Đạo Gia Học Thuyết\" trước." );
+16971|<O>| if (inv[i]->get_name() != "Huy Chương Lao Động Chiến Quốc")
+16972|<O>| ESC "Tôi muốn giám định trang bị\nrepair %x# identify\n"
+16973|<O>| return "Vật phẩm nhiệm vụ. Xin nhanh chóng giao cho Quan Thẩm Tra Cực Hạn Xuyên Việt ở đông bắc Đông Hải Đảo.";
+16974|<O>| return "Đây là con thỏ nguyệt bạn bắt được, rất có thể là Ngọc Thố giả dạng đấy.";
+16975|<O>| "Bom Huyền Thiết" : "\"/item/final/16/1631\"",
+16976|<O>| result += ESC "Đổi thêm thời gian nhân đôi\n" + cmd6;
+16977|<O>| "Một sợi tình tơ một hạt đậu đỏ, trăng tròn ta sẽ nhờ Ngọc Thố gửi đến bạn chiếc bánh Trung Thu đặc biệt! Chúc Trung Thu vui vẻ!",
+16978|<O>| string get_name() { return "Đại Biệt Sơn"; }
+16979|<O>| "Cao Cấp Pháp Lực" : "\"/item/final/15/1513\"",
+16980|<O>| "Trung Cấp Huyết Khí" : "\"/item/final/15/1508\"",
+16981|<O>| else    total = 1;    // Vật phẩm không chồng, số lượng là 1
+16982|<O>| #define THIS_SORT      	4				// Loại nhỏ
+16983|<O>| string get_name() { return "Vân Mộng Trạch"; }
+16984|<O>| return "［Tiềm Ẩn Tâm Pháp］Tăng giới hạn pháp lực, mỗi cấp tăng 1.6 điểm.\n";
+16985|<O>| SAY_CMD->say(me, "Để cho các ngươi nếm thử sức mạnh của Thượng Cổ Thái Quyền!");
+16986|<O>| name2 != "Thục Sơn"	? HIR :	NOR );	break;
+16987|<O>| "Thiên Cơ Quyền Sáo" : "\"/item/final/70/1120\"",
+16988|<O>| return "Trong 1 giờ biến thành kiếm binh quân Yên, tăng 2% tấn công pháp thuật.";
+16989|<O>| string get_name() { return "Vô Song Cung"; }
+16990|<O>| case "Cương Thi": type = "ZOMBIE";  break;
+16991|<O>| "Trung Cấp Pháp Lực" : "\"/item/final/15/1506\"",
+16992|<O>| "Cường Hiệu Pháp Công" : "\"/item/final/15/1523\"",
+16993|<O>| //	for(i=0;i<number*4;i++)	//4 Du Hồn Họa Hại
+16994|<O>| return "Trong 1 giờ biến thành thiên binh cao cấp, tăng 2% phòng thủ vật lý.";
+16995|<O>| ESC"Làm sao tinh luyện trang bị?\ntalk %x# welcome.53\n"

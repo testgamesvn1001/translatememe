@@ -1,68 +1,68 @@
-﻿11867|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"mạt Lợi Hoa trà（3）");
-11868|<O>| ({"nhặtđếnsử Mệnh Vật PhẩmsaucầngiaochoaiTài Năng nãđếnphần thưởng？","Vệ độidài","Lão thôndài","Lýlớnbá","Ngưu Nhị"}),
-11869|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Loạn trập Nhâncủanhỏmật phong");
-11870|<O>| log_file(LIST_LOG, "\nbiên hiệu Tên Địa biểu Đồ Đạo cụ Đồ lượng từ tính biệt Cấp độ\n");
-11871|<O>| result += sprintf("lương Thảo:%10d\n", city->get_food());
-11872|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 10, "mở thảigiữa……");
-11873|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Trịnh Quốc cừtrongcủakhốc Thanh");
-11874|<O>| #define MAX_PAWN        49              // Điển đương Vật Phẩm hạn chế
-11875|<O>| send_user(who, "%c%s", '!', "nhận được"HIR"Xảo Khắc Lực"NOR"Tam khối");
+﻿11867|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Trà Hoa Nhài（3）");
+11868|<O>| ({"Nhặt được vật phẩm sứ mệnh phải giao cho ai để nhận thưởng?","Đội trưởng vệ binh","Lão thôn trưởng","Bác Lý","Ngưu Nhị"}),
+11869|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Chú Ong Chích Bậy");
+11870|<O>| log_file(LIST_LOG, "\nMã số Tên Ảnh bản đồ Ảnh đạo cụ Lượng từ Giới tính Cấp độ\n");
+11871|<O>| result += sprintf("Lương thảo:%10d\n", city->get_food());
+11872|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 10, "Đang khai thác……");
+11873|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tiếng Khóc Trong Kênh Trịnh Quốc");
+11874|<O>| #define MAX_PAWN        49              // Giới hạn vật phẩm cầm đồ
+11875|<O>| send_user(who, "%c%s", '!', "Nhận được "HIR"Sô Cô La"NOR" ba miếng");
 11876|<O>| result2 = sprintf("Tiềm năng %d", who->get_potential());
-11877|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Cửu Đạo CốctrongcủaBảo Vật");
-11878|<O>| log_file("boss.txt", short_time() + " khu thi ĐạodàiXuất hiện\n");
-11879|<O>| tell_user(who, "%c%s", '>', "công cáođãmãn,Xin TiênXóavô dùngcủacông cáo!");
-11880|<O>| case 'I': send_user(me, "%c%s", '!', "dùng Hộ trướng hiệukhôngtồnTại！");
-11881|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"bệnh nan y（3）");
-11882|<O>| write_user(who, ECHO "Bạncủatuần laNhiệm vụThất bại！(thành Tín -1, Thanh vọng -1)");
-11883|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"thành vì thủ Vệcủađiềukiện");
-11884|<O>| return "［đằng na trốn Thiểm］khinh Công Tâm Pháp，NăngNângTu Luyện giảcủaHồi tỵ Năng Lực。mỗicấpTăng0.15％củaHồi tỵ suất。\n";
-11885|<O>| + sprintf(ESC"Trực tiếpMở(Kiểm tradùng,khôngcầnTạichính thứchoạt độnggiờSử dụng!)\nparty 34\n")
-11886|<O>| send_user(me, "%c%s", '!', "nhận được nhiệm vụ "HIY"tổ PhụcủaDi sản（2）");
-11887|<O>| thuần vu đơn vu Thái thúc thân đồ công Tôn Trọng Tôn hiên viên Lệnh Hồ Chung ly Vũ Văn dàiTôn mộ dung tiên vu lư Khâu tư đồ tư Không Kỳ quan tư Khấu Chưởng đốc Tử Xa
-11888|<O>| ẩu thù ốc Lợi Uất Việt Quỳ long Sư củng Xá Nhiếp Triều câu Ngao dung Lãnh Tử tân Khám đógiản Nhiêu Không tằng vô sa miết dưỡng cúc Tu Phong sào quan Khoái Tương trasauKinh Hồng
-11889|<O>| send_user(who, "%c%s", ';', "trang Sức phòng ốc Kinh nghiệm 250 Tiềm năng 10");
-11890|<O>| who->delete_save_2("vip_package.trial");	//thử dùngVIPbao
-11891|<O>| send_user(who, "%c%s", '!', "đối vớiPhươngTạiChiến trườngtrong，Không thể sử dụngĐồng Tâm TỏaTruyền tống。");
-11892|<O>| if (gone_time(get_drop_time()) > 2400)    // 40phút
-11893|<O>| send_user(who, "%c%s", '!', "bạncủaCấp độTháithấp，khôngthích Hợp Lộ đồcủađiên bá。");
-11894|<O>| log_file("boss.txt", short_time() + "Âm gian phản đồbịtiêu Diệt\n");
-11895|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"bệnh nan y（1）");
-11896|<O>| send_user(who, "%c%c%w%s", ':', 3, 0, "bang pháitrữ bịkhôngtúc！");
-11897|<O>| _DEBUG(sprintf("DEBUG -- dướilầnHồi điềugiờChung biên hiệu:%d", next_st));
-11898|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Mua Độc Hoàn Châu(5)");
+11877|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Bảo Vật Trong Cửu Đạo Cốc");
+11878|<O>| log_file("boss.txt", short_time() + " Khu Thi Đạo Trưởng xuất hiện\n");
+11879|<O>| tell_user(who, "%c%s", '>', "Công cáo đã đầy, vui lòng xóa bớt công cáo không cần thiết!");
+11880|<O>| case 'I': send_user(me, "%c%s", '!', "Tài khoản người dùng không tồn tại!");
+11881|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Nghi Nan Tạp Chứng（3）");
+11882|<O>| write_user(who, ECHO "Nhiệm vụ tuần tra của bạn thất bại! (Thành tín -1, Thanh danh -1)");
+11883|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Điều Kiện Trở Thành Vệ Binh");
+11884|<O>| return "［Đằng Na Tránh Né］Tâm pháp khinh công, có thể nâng cao khả năng né tránh của người tu luyện. Mỗi cấp tăng 0.15% tỷ lệ né tránh.\n";
+11885|<O>| + sprintf(ESC"Mở trực tiếp(dùng để test, không dùng khi hoạt động chính thức!)\nparty 34\n")
+11886|<O>| send_user(me, "%c%s", '!', "Nhận nhiệm vụ "HIY"Di Sản Của Ông Nội（2）");
+11887|<O>| Chuyên Tôn Đoan Mộc Vu Mã Công Tây Tất Điêu Nhạc Chính Nhưỡng Tứ Công Lương Thác Bạt Giáp Cốc Tể Phụ Cốc Lương Tấn Sở Diêm Pháp Nhữ Yên Đồ Khâm Đoạn Can Bách Lý Đông Quách Nam Môn
+11888|<O>| Ẩu Thù Ốc Lợi Úy Việt Quỳ Long Sư Củng Khố Nhiếp Triều Câu Ngao Dung Lãnh Tí Tân Khảm Na Giản Nhiêu Không Tằng Vô Sa Miệt Dưỡng Cúc Tu Phong Sào Quan Khoái Tương Tra Hậu Kinh Hồng
+11889|<O>| send_user(who, "%c%s", ';', "Trang Trí Nhà Cửa Kinh nghiệm 250 Tiềm năng 10");
+11890|<O>| who->delete_save_2("vip_package.trial");	//Gói VIP dùng thử
+11891|<O>| send_user(who, "%c%s", '!', "Đối phương đang trong chiến trường, không thể sử dụng Đồng Tâm Khóa truyền tống.");
+11892|<O>| if (gone_time(get_drop_time()) > 2400)    // 40 phút
+11893|<O>| send_user(who, "%c%s", '!', "Cấp độ của bạn quá thấp, không phù hợp cho cuộc hành trình vất vả.");
+11894|<O>| log_file("boss.txt", short_time() + " Phản Đồ Âm Gian bị tiêu diệt\n");
+11895|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Nghi Nan Tạp Chứng（1）");
+11896|<O>| send_user(who, "%c%c%w%s", ':', 3, 0, "Dự trữ bang phái không đủ!");
+11897|<O>| _DEBUG(sprintf("DEBUG -- Mã đồng hồ gọi lại tiếp theo:%d", next_st));
+11898|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Mua Hộp Trả Ngọc(5)");
 11899|<O>| DEBUG(team[i],sprintf("Kiểm tra--npc_die key=%d",key));
-11900|<O>| CHAR_CHAR_D->stop_poison_effect(me);    // giữađoạnĐộcDược hiệu Quả
-11901|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Vong Dương Bổ Lao(1)");
-11902|<O>| Vân Tô Phan Cát Hề Phạm Bành lang Lỗ Vi Xương Mã miêuPhượngHoa Phương Du nhiệm Viên Liễu Phong Bào Sử Đường phí liêm Sầm Tiết LôiHạ Nghê thang Đằng Ân La tất Hác Ô An thường
-11903|<O>| damage += me->get("add_magic_damage");	//Pháp Thuật Thương hại hiệu Quả phụ Gia
-11904|<O>| if (level >= me->get_level() + 10)    // hạn chế:Cấp độ、tốicao
-11905|<O>| send_user(who, "%c%s", ';', "Ngưu NhịBáo Ân Kinh nghiệm 160 Tiềm năng 10");
-11906|<O>| write_user(me, ECHO "Bạnkhông thểkhống chế%s。", who->get_name());
-11907|<O>| gold2 = gold - obj->get_orgin_money();    // kiếmđếncủatiền
-11908|<O>| if (who->get_level() < 50) return 0;    // độidàiCấp độkhôngđủ
-11909|<O>| tell_user(me, sprintf("%d: thiết trí %s", id, userid2));
-11910|<O>| if (objectp(npc = new("/npc/01/0020"))    // Bách HợpTiênTử
-11911|<O>| return "Nhị ThậpphúttrongKhí Huyết、Pháp Lực、Tấn công、Phòng thủ、Pháp Công、Pháp phòngtăng Cường 45%，đảnSau đóBángiờNguyên khílớnThương";
-11912|<O>| private static int MaxDamage = 0;       // thụđếntốilớnThương hại
-11913|<O>| if (npc->get_hp() <= npc->get_max_hp() / 10)	//Thắng Lợi
-11914|<O>| private static object Enemy4;           // kéo dàiTấn côngđối tượng
-11915|<O>| private static int Level0 = 1;          // Cấp độ(chủ Nhân)
-11916|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Tứ Diện Sở Ca（4）");
-11917|<O>| write_user(owner, ECHO HIY "chiêu Hồn phiên" ECHO "Tướng Bạn cứu Khởi đến。");
-11918|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"sách thủ Tháiloại（1）");
-11919|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Thần Vong Xỉ Hàn（2）");
-11920|<O>| result = sprintf(HIY "%sNhậnThành chủ%scử tiến，ủy nhiệm%s(%d)Xuất nhiệm phó Thành chủ。",
-11921|<O>| case 'I': send_user(me, "%c%s", '!', "Bạncủatrướng hiệukhôngtồnTại！");
-11922|<O>| item->set( SEAL_INTERVAL, 10+i*5 );    // cẩn thận chuẩn bị me
-11923|<O>| //        set_char_type(FIGHTER_TYPE);    // trọng thiết loại hình
-11924|<O>| send_user(who, "%c%s", '!', HIY"trừng trị Ác Tướng"NOR" Nhiệm vụHoàn thành");
-11925|<O>| Chuyên Tôn đoanMộc vu Mã công Tây tất Điêu lạc chính nhưỡng tứ công lương thác bạt hiệp Cốc tể Phụ Cốc lương Tấn Sở Diêm Pháp nhữ Yên đồ Khâm đoạn can Báchtrong Đông Quách Nam Môn
-11926|<O>| notify("Bạn bán Xuất%snhận được %d Vàng。", item->get_name(), value);
-11927|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Thần Vong Xỉ Hàn（3）");
-11928|<O>| send_user(who,"%c%s",'!',"bạnSâm Gia thủ tịchlớnđệ Tửcủacạnh tuyển，không thểbối phản Sư Môn！");
-11929|<O>| me->set_force_command("pf " + arg);    // tạm tồn đặc thù kỹ Mệnh Lệnh
-11930|<O>| lạc vugiờPhó Bì thẻ Tề Khang ngũ dư Nguyên Bốc cố Mạnh bình Hoàng vàMục Tiêu Doãn Diêu Thiệu kham Uông Kỳ mao Vũ Địch mễ bối Minh Tang Kế Phục thành đới đàm Tống Mao Bàng
-11931|<O>| return HIR + PF_NAME + "\nKỹ năng yêu cầu:1cấp\n    phảnTriệu hồiđãTriệu hồisinh Vật";
-11932|<O>| "    TạiTân Thủ ThônvàSở QuốcbạnđềuNăng muađếnthông dùngcủaTrang bị。Tân Thủ ThônđềuLà0cấpcủa，màSở QuốcTắcLàphán bán10cấpcủaTrang bị。\n"
+11900|<O>| CHAR_CHAR_D->stop_poison_effect(me);    // Ngắt hiệu ứng thuốc độc
+11901|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Mất Dê Sửa Chuồng(1)");
+11902|<O>| Vân Tô Phan Cát Hề Phạm Bành Lang Lỗ Vi Xương Mã Miêu Phượng Hoa Phương Du Nhiệm Viên Liễu Phong Bào Sử Đường Phí Liêm Sầm Tiết Lôi Hạ Nghê Thang Đằng Ân La Tất Hách Ổ An Thường
+11903|<O>| damage += me->get("add_magic_damage");	//Hiệu ứng phụ thêm sát thương pháp thuật
+11904|<O>| if (level >= me->get_level() + 10)    // Giới hạn: cấp độ, tối đa
+11905|<O>| send_user(who, "%c%s", ';', "Ngưu Nhị Báo Ơn Kinh nghiệm 160 Tiềm năng 10");
+11906|<O>| write_user(me, ECHO "Bạn không thể khống chế %s.", who->get_name());
+11907|<O>| gold2 = gold - obj->get_orgin_money();    // Tiền kiếm được
+11908|<O>| if (who->get_level() < 50) return 0;    // Cấp đội trưởng không đủ
+11909|<O>| tell_user(me, sprintf("%d: Thiết lập %s", id, userid2));
+11910|<O>| if (objectp(npc = new("/npc/01/0020"))    // Bách Hợp Tiên Tử
+11911|<O>| return "Trong 20 phút khí huyết, pháp lực, tấn công, phòng thủ, pháp công, pháp phòng tăng 45%, nhưng sau đó nửa giờ sẽ suy yếu nghiêm trọng";
+11912|<O>| private static int MaxDamage = 0;       // Sát thương tối đa nhận được
+11913|<O>| if (npc->get_hp() <= npc->get_max_hp() / 10)	//Chiến thắng
+11914|<O>| private static object Enemy4;           // Đối tượng tấn công liên tục
+11915|<O>| private static int Level0 = 1;          // Cấp độ(chủ nhân)
+11916|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tứ Diện Sở Ca（4）");
+11917|<O>| write_user(owner, ECHO HIY "Chiêu Hồn Phiên" ECHO "đã cứu sống bạn.");
+11918|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Thu Thập Giống Rau（1）");
+11919|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Môi Hở Răng Lạnh（2）");
+11920|<O>| result = sprintf(HIY "%s chấp nhận đề cử của thành chủ %s, ủy nhiệm %s(%d) làm phó thành chủ.",
+11921|<O>| case 'I': send_user(me, "%c%s", '!', "Tài khoản của bạn không tồn tại!");
+11922|<O>| item->set( SEAL_INTERVAL, 10+i*5 );    // Cẩn thận chuẩn bị me
+11923|<O>| //        set_char_type(FIGHTER_TYPE);    // Đặt lại loại
+11924|<O>| send_user(who, "%c%s", '!', HIY"Trừng Phạt Ác Tướng"NOR" Nhiệm vụ hoàn thành");
+11925|<O>| Chuyên Tôn Đoan Mộc Vu Mã Công Tây Tất Điêu Nhạc Chính Nhưỡng Tứ Công Lương Thác Bạt Giáp Cốc Tể Phụ Cốc Lương Tấn Sở Diêm Pháp Nhữ Yên Đồ Khâm Đoạn Can Bách Lý Đông Quách Nam Môn
+11926|<O>| notify("Bạn bán %s được %d vàng.", item->get_name(), value);
+11927|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Môi Hở Răng Lạnh（3）");
+11928|<O>| send_user(who,"%c%s",'!',"Bạn đã tham gia tranh cử Thủ Tịch Đại Đệ Tử, không thể phản bội sư môn!");
+11929|<O>| me->set_force_command("pf " + arg);    // Lưu tạm lệnh đặc kỹ
+11930|<O>| Nhạc Vu Thời Phó Bì Biện Tề Khang Ngũ Dư Nguyên Bốc Cố Mạnh Bình Hoàng Hòa Mục Tiêu Doãn Diêu Thiệu Kham Uông Kỳ Mao Vũ Địch Mễ Bối Minh Tang Kế Phục Thành Đới Đàm Tống Mao Bàng
+11931|<O>| return HIR + PF_NAME + "\nYêu cầu kỹ năng: cấp 1\n    Phản triệu hoán sinh vật đã triệu hoán";
+11932|<O>| "    Ở Làng Tân Thủ và Sở Quốc đều có bán trang bị thông dụng. Làng Tân Thủ bán cấp 0, còn Sở Quốc bán trang bị cấp 10.\n"
 11933|<O>| "npc/88/8800"->game_over(map, qin ? "Tần Quốc" : "Triệu Quốc");
-11934|<O>| private string Owner;                   // đương phố chủ Nhân tiêu Thức
+11934|<O>| private string Owner;                   // Chủ tiệm cầm đồ

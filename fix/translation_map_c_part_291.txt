@@ -1,64 +1,64 @@
-﻿10749|<O>| #define SKILL_FINAL	"/item/final/86/6075"				// 制作的结果
-10750|<O>| #define SKILL_FINAL	"/item/final/86/4120"				// 制作的结果
-10751|<O>| #define SKILL_FINAL	"/item/final/86/2035"				// 制作的结果
-10752|<O>| #define SKILL_FINAL	"/item/final/88/3075"				// 制作的结果
-10753|<O>| damage = damage * (100+skill_0430*2)/100;		// 帮派的伤害强化
-10754|<O>| ({"装备的耐久不够，应该找谁恢复？","修理店老板","防具店老板","武器店老板","当铺老板"}),
-10755|<O>| #define SKILL_FINAL	"/item/final/86/1105"				// 制作的结果
-10756|<O>| #define SKILL_FINAL	"/item/final/86/2120"				// 制作的结果
-10757|<O>| #define SKILL_FINAL	"/item/final/88/1110"				// 制作的结果
-10758|<O>| #define SKILL_FINAL	"/item/final/88/4115"				// 制作的结果
-10759|<O>| #define SKILL_FINAL	"/item/final/60/4065"				// 制作的结果
-10760|<O>| npc->set_name( sprintf( "神将(%s)", me->get_name() ) );
-10761|<O>| #define SKILL_FINAL	"/item/final/60/6115"				// 制作的结果
-10762|<O>| #define SKILL_FINAL	"/item/final/86/1120"				// 制作的结果
-10763|<O>| #define SKILL_FINAL	"/item/final/60/5095"				// 制作的结果
-10764|<O>| #define SKILL_FINAL	"/item/final/88/1085"				// 制作的结果
-10765|<O>| send_user(who, "%c%s", '!', sprintf(HIY"轴 %d/1", 1));
-10766|<O>| #define SKILL_FINAL	"/item/final/86/3105"				// 制作的结果
-10767|<O>| #define SKILL_FINAL	"/item/final/86/4119"				// 制作的结果
-10768|<O>| #define SKILL_FINAL	"/item/final/88/3085"				// 制作的结果
-10769|<O>| #define SKILL_FINAL	"/item/final/86/5120"				// 制作的结果
-10770|<O>| #define SKILL_FINAL	"/item/final/86/5065"				// 制作的结果
-10771|<O>| #define SKILL_FINAL	"/item/final/60/3045"				// 制作的结果
-10772|<O>| #define SKILL_FINAL	"/item/final/86/5085"				// 制作的结果
-10773|<O>| #define SKILL_FINAL	"/item/final/86/7055"				// 制作的结果
-10774|<O>| #define SKILL_FINAL	"/item/final/70/1120"				// 制作的结果
-10775|<O>| else    tell_user(me, who->get_name() + "VIP频道:打开。");
-10776|<O>| private static object* dbPlayer = ({ });       	// 玩家
-10777|<O>| #define SKILL_FINAL	"/item/final/60/3035"				// 制作的结果
-10778|<O>| #define SKILL_FINAL	"/item/final/60/6110"				// 制作的结果
-10779|<O>| if (who->get_login_flag() < 3) return 1;    // 没有准备就绪
-10780|<O>| #define SKILL_FINAL	"/item/final/88/5115"				// 制作的结果
-10781|<O>| #define SKILL_FINAL	"/item/final/65/2120"				// 制作的结果
-10782|<O>| #define SKILL_FINAL	"/item/final/86/2095"				// 制作的结果
-10783|<O>| sprintf(ESC "矿业(%d)。\n", city->get_mining()) + cmd4 +
-10784|<O>| #define SKILL_FINAL	"/item/final/72/1120"				// 制作的结果
-10785|<O>| #define SKILL_FINAL	"/item/final/60/1055"				// 制作的结果
-10786|<O>| npc->set_name( sprintf( "天兵(%s)", me->get_name() ) );
-10787|<O>| #define SKILL_FINAL	"/item/final/65/2085"				// 制作的结果
-10788|<O>| if (TASK_LEGEND_D->check_task_item(who, "姜", 1) != 1)
-10789|<O>| #define SKILL_FINAL	"/item/final/86/4105"				// 制作的结果
-10790|<O>| #define SKILL_FINAL	"/item/final/60/3055"				// 制作的结果
-10791|<O>| case 'X': send_user(me, "%c%s", '!', "您输入了空的帐号或密码！");
-10792|<O>| #define SKILL_FINAL	"/item/final/86/3115"				// 制作的结果
-10793|<O>| result = sprintf(HIR"%s打开帮派虚宝包，得到", who->get_name());
-10794|<O>| #define SKILL_FINAL	"/item/final/88/5055"				// 制作的结果
-10795|<O>| #define SKILL_FINAL	"/item/final/88/1105"				// 制作的结果
-10796|<O>| #define SKILL_FINAL	"/item/final/65/5105"				// 制作的结果
-10797|<O>| _DEBUG(sprintf("DEBUG_f -- 回调测试函数2 剩余次数 %d", times));
-10798|<O>| #define SKILL_FINAL	"/item/final/65/1045"				// 制作的结果
-10799|<O>| #define SKILL_FINAL	"/item/final/65/5065"				// 制作的结果
-10800|<O>| case BATTLE_MAP: printf(ECHO "战场不能使用“" PF_NAME "”。");
-10801|<O>| return "击败大话年兽获得的年兽的角。\n可以拿去给神仙爷爷，换取红包，切记千万不可胡乱使用……";
-10802|<O>| #define SKILL_FINAL	"/item/final/86/6065"				// 制作的结果
-10803|<O>| if( get_effect(who, EFFECT_CHAR_MISS2) )    // 云梦的灵气甲
-10804|<O>| #define SKILL_FINAL	"/item/final/65/3105"				// 制作的结果
-10805|<O>| #define SKILL_FINAL	"/item/final/88/2065"				// 制作的结果
-10806|<O>| #define SKILL_FINAL	"/item/final/74/1105"				// 制作的结果
-10807|<O>| if (time / 60) result += sprintf(" %d 分", time / 60);
-10808|<O>| #define SKILL_FINAL	"/item/final/65/1055"				// 制作的结果
-10809|<O>| printf( ECHO "使用“" PF_NAME "”需要 %d 点元气。", SUB_YUAN );
-10810|<O>| #define SKILL_FINAL	"/item/final/74/1120"				// 制作的结果
-10811|<O>| #define SKILL_FINAL	"/item/final/65/3095"				// 制作的结果
-10812|<O>| #define SKILL_FINAL	"/item/final/60/2065"				// 制作的结果
+﻿10749|<O>| #define SKILL_FINAL	"/item/final/86/6075"				// Kết quả chế tạo
+10750|<O>| #define SKILL_FINAL	"/item/final/86/4120"				// Kết quả chế tạo
+10751|<O>| #define SKILL_FINAL	"/item/final/86/2035"				// Kết quả chế tạo
+10752|<O>| #define SKILL_FINAL	"/item/final/88/3075"				// Kết quả chế tạo
+10753|<O>| damage = damage * (100+skill_0430*2)/100;		// Cường hóa sát thương bang phái
+10754|<O>| ({"Độ bền trang bị không đủ, nên tìm ai để khôi phục?","Chủ tiệm sửa chữa","Chủ tiệm phòng cụ","Chủ tiệm vũ khí","Chủ tiệm cầm đồ"}),
+10755|<O>| #define SKILL_FINAL	"/item/final/86/1105"				// Kết quả chế tạo
+10756|<O>| #define SKILL_FINAL	"/item/final/86/2120"				// Kết quả chế tạo
+10757|<O>| #define SKILL_FINAL	"/item/final/88/1110"				// Kết quả chế tạo
+10758|<O>| #define SKILL_FINAL	"/item/final/88/4115"				// Kết quả chế tạo
+10759|<O>| #define SKILL_FINAL	"/item/final/60/4065"				// Kết quả chế tạo
+10760|<O>| npc->set_name( sprintf( "Thần Tướng(%s)", me->get_name() ) );
+10761|<O>| #define SKILL_FINAL	"/item/final/60/6115"				// Kết quả chế tạo
+10762|<O>| #define SKILL_FINAL	"/item/final/86/1120"				// Kết quả chế tạo
+10763|<O>| #define SKILL_FINAL	"/item/final/60/5095"				// Kết quả chế tạo
+10764|<O>| #define SKILL_FINAL	"/item/final/88/1085"				// Kết quả chế tạo
+10765|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Trục %d/1", 1));
+10766|<O>| #define SKILL_FINAL	"/item/final/86/3105"				// Kết quả chế tạo
+10767|<O>| #define SKILL_FINAL	"/item/final/86/4119"				// Kết quả chế tạo
+10768|<O>| #define SKILL_FINAL	"/item/final/88/3085"				// Kết quả chế tạo
+10769|<O>| #define SKILL_FINAL	"/item/final/86/5120"				// Kết quả chế tạo
+10770|<O>| #define SKILL_FINAL	"/item/final/86/5065"				// Kết quả chế tạo
+10771|<O>| #define SKILL_FINAL	"/item/final/60/3045"				// Kết quả chế tạo
+10772|<O>| #define SKILL_FINAL	"/item/final/86/5085"				// Kết quả chế tạo
+10773|<O>| #define SKILL_FINAL	"/item/final/86/7055"				// Kết quả chế tạo
+10774|<O>| #define SKILL_FINAL	"/item/final/70/1120"				// Kết quả chế tạo
+10775|<O>| else    tell_user(me, who->get_name() + " kênh VIP: Mở.");
+10776|<O>| private static object* dbPlayer = ({ });       	// Người chơi
+10777|<O>| #define SKILL_FINAL	"/item/final/60/3035"				// Kết quả chế tạo
+10778|<O>| #define SKILL_FINAL	"/item/final/60/6110"				// Kết quả chế tạo
+10779|<O>| if (who->get_login_flag() < 3) return 1;    // Chưa sẵn sàng
+10780|<O>| #define SKILL_FINAL	"/item/final/88/5115"				// Kết quả chế tạo
+10781|<O>| #define SKILL_FINAL	"/item/final/65/2120"				// Kết quả chế tạo
+10782|<O>| #define SKILL_FINAL	"/item/final/86/2095"				// Kết quả chế tạo
+10783|<O>| sprintf(ESC "Khoáng nghiệp(%d).\n", city->get_mining()) + cmd4 +
+10784|<O>| #define SKILL_FINAL	"/item/final/72/1120"				// Kết quả chế tạo
+10785|<O>| #define SKILL_FINAL	"/item/final/60/1055"				// Kết quả chế tạo
+10786|<O>| npc->set_name( sprintf( "Thiên Binh(%s)", me->get_name() ) );
+10787|<O>| #define SKILL_FINAL	"/item/final/65/2085"				// Kết quả chế tạo
+10788|<O>| if (TASK_LEGEND_D->check_task_item(who, "Gừng", 1) != 1)
+10789|<O>| #define SKILL_FINAL	"/item/final/86/4105"				// Kết quả chế tạo
+10790|<O>| #define SKILL_FINAL	"/item/final/60/3055"				// Kết quả chế tạo
+10791|<O>| case 'X': send_user(me, "%c%s", '!', "Bạn đã nhập tài khoản hoặc mật khẩu trống!");
+10792|<O>| #define SKILL_FINAL	"/item/final/86/3115"				// Kết quả chế tạo
+10793|<O>| result = sprintf(HIR"%s mở hộp hư bảo bang phái, nhận được", who->get_name());
+10794|<O>| #define SKILL_FINAL	"/item/final/88/5055"				// Kết quả chế tạo
+10795|<O>| #define SKILL_FINAL	"/item/final/88/1105"				// Kết quả chế tạo
+10796|<O>| #define SKILL_FINAL	"/item/final/65/5105"				// Kết quả chế tạo
+10797|<O>| _DEBUG(sprintf("DEBUG_f -- Hàm thử nghiệm gọi lại 2 số lần còn lại %d", times));
+10798|<O>| #define SKILL_FINAL	"/item/final/65/1045"				// Kết quả chế tạo
+10799|<O>| #define SKILL_FINAL	"/item/final/65/5065"				// Kết quả chế tạo
+10800|<O>| case BATTLE_MAP: printf(ECHO "Chiến trường không thể sử dụng \"" PF_NAME "\".");
+10801|<O>| return "Sừng Niên Thú nhận được khi đánh bại Đại Thoại Niên Thú.\nCó thể mang đến cho Thần Tiên Ông Ông đổi lấy lì xì, nhớ kỹ đừng sử dụng bừa bãi……";
+10802|<O>| #define SKILL_FINAL	"/item/final/86/6065"				// Kết quả chế tạo
+10803|<O>| if( get_effect(who, EFFECT_CHAR_MISS2) )    // Linh Khí Giáp của Vân Mộng
+10804|<O>| #define SKILL_FINAL	"/item/final/65/3105"				// Kết quả chế tạo
+10805|<O>| #define SKILL_FINAL	"/item/final/88/2065"				// Kết quả chế tạo
+10806|<O>| #define SKILL_FINAL	"/item/final/74/1105"				// Kết quả chế tạo
+10807|<O>| if (time / 60) result += sprintf(" %d phút", time / 60);
+10808|<O>| #define SKILL_FINAL	"/item/final/65/1055"				// Kết quả chế tạo
+10809|<O>| printf( ECHO "Sử dụng \"" PF_NAME "\" cần %d điểm nguyên khí.", SUB_YUAN );
+10810|<O>| #define SKILL_FINAL	"/item/final/74/1120"				// Kết quả chế tạo
+10811|<O>| #define SKILL_FINAL	"/item/final/65/3095"				// Kết quả chế tạo
+10812|<O>| #define SKILL_FINAL	"/item/final/60/2065"				// Kết quả chế tạo

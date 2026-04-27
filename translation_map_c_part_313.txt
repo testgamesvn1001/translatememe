@@ -1,69 +1,69 @@
 ﻿12211|<O>| set_save_2(sprintf("elect.Thục Sơn.%d.level",i),i*10);
-12212|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Hàn tổng quảncủaBang Trợ");
-12213|<O>| private int Skill;                     	// lớnKỹ năngbiên hiệu
-12214|<O>| private static string Perform;          // đặc thù kỹtệp tin
-12215|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Hàn tổng quảncủathác phó");
-12216|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"dàiThànhtrêncủakhốc khấp");
-12217|<O>| send_user(me, "%c%s", ';', "Thành côngMởQuốc khánh tiếthoạt độngChi——Tây qua bá bá！");
-12218|<O>| send_user(who, "%c%s", ';', "Phá tổncủaSắttiêu Kinh nghiệm 80 Tiềm năng 5");
-12219|<O>| if( bag & BAG_TYPE_1 ) b = MAX_CARRY_2;    // Bao gói
-12220|<O>| //	localtime Quay vềcủathángphần sốLà  0-11 nàytrongrấtkhôngtốtlý Giải nhân thử+1đã kiêm dung mktime
+12212|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Sự Giúp Đỡ Của Hàn Tổng Quản");
+12213|<O>| private int Skill;                     	// Mã kỹ năng lớn
+12214|<O>| private static string Perform;          // File đặc kỹ
+12215|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Lời Ủy Thác Của Hàn Tổng Quản");
+12216|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tiếng Khóc Trên Trường Thành");
+12217|<O>| send_user(me, "%c%s", ';', "Mở thành công hoạt động Quốc Khánh——Bác Dưa Hấu!");
+12218|<O>| send_user(who, "%c%s", ';', "Xẻng Sắt Hỏng Kinh nghiệm 80 Tiềm năng 5");
+12219|<O>| if( bag & BAG_TYPE_1 ) b = MAX_CARRY_2;    // Ba lô
+12220|<O>| //	localtime trả về tháng là 0-11, rất khó hiểu nên +1 để tương thích mktime
 12221|<O>| result2 = sprintf("Thể lực %d", who->get_strength());
-12222|<O>| name = "Thái Hành kiếp phỉ";picid = 8011; citypoint = 4;break;
-12223|<O>| int get_zombie_type() { return 99; }     // Phán đoán chủng loại
-12224|<O>| send_user(who, "%c%s", ';', "nhỏKê cô cô Kinh nghiệm 100 cát Tử 5");
-12225|<O>| send_user(me, "%c%s", '!', "NhậnCực hạn xuyên ViệtNhiệm vụsauKhông thể sử dụngPhi Hành Phù。");
-12226|<O>| if (!me->is_actor())    // lạilầnxác nhận，phòng hoán chức nghiệp level của BUG
-12227|<O>| private int Temp;                     	// Làphủ lâmgiờtiêu Chí
+12222|<O>| name = "Thái Hành Kiếp Phỉ";picid = 8011; citypoint = 4;break;
+12223|<O>| int get_zombie_type() { return 99; }     // Phân loại
+12224|<O>| send_user(who, "%c%s", ';', "Gà Con Cục Cục Kinh nghiệm 100 Quýt 5");
+12225|<O>| send_user(me, "%c%s", '!', "Sau khi nhận nhiệm vụ Vượt Giới Hạn không thể sử dụng Phi Hành Phù.");
+12226|<O>| if (!me->is_actor())    // Xác nhận lại, ngăn BUG đổi nghề level
+12227|<O>| private int Temp;                     	// Cờ đánh dấu tạm thời
 12228|<O>| //  case "Thục Sơn" : if( get_weapon_code() == BLADE )
-12229|<O>| string get_suit_name() { return "Cuồng Sư"; }	//Thuộc bộ trang bị nào đó
-12230|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Trân quýcủaHồngBảo Thạch");
-12231|<O>| private static string orgname;           // bang pháiDanh tự
-12232|<O>| private string MasterName3;             // Thành chủ３tính Danh
-12233|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Tiêu Độc Quý（1）");
-12234|<O>| if (distance_between(me, owner) <= 3)    // Tam cách Chitrong
-12235|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"tìm cầu VươngcủaBang Trợ");
-12236|<O>| result = sprintf("bạnÝngoàinhận đượcNhất Bản%s。", obj->get_name());
-12237|<O>| int get_cast_seal() { return 42100; }    // Phù Chỉthuận Toàn
-12238|<O>| private static string Defense;          // Chiến trường phòng thủ Phương
-12239|<O>| send_user(who, "%c%s", '!', "nhận được"HIR"cát Tử"NOR"5");
-12240|<O>| private static int Type2;               // bối Sức đại mã2
-12241|<O>| if (owner = who->get_owner()) who = owner;//Cóchủ Nhân。
-12242|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"banđiểmcẩucủaHuyết dịch");
-12243|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 6, "đào khoánggiữa……");
-12244|<O>| USER_D->user_channel(HIR "du hí trọngmớikhải Động，Xin sảo Hậu Nhấtphútlại trọngmớiđăng lục。");
-12245|<O>| private static int Type1;               // bối Sức đại mã1
-12246|<O>| if (!get_effect(me, EFFECT_CHAR_DREAM_0))		//khôngMộng du
-12247|<O>| log_file("boss.txt", short_time() + " SơnlớnVương Xuất hiện\n");
-12248|<O>| int get_hp() { return get_max_hp(); }    // vô Pháp Sát Tử
-12249|<O>| send_user(me, "%c%s", '!', "Bạncủatrướng hiệukhôngtồnTạiHoặckhông cókích hoạt nênlớnkhu。");
-12250|<O>| send_user(me, "%c%s", '!', "XinĐóngsong khẩu trọngmớiĐả mở thuộc tính song khẩu loátmớithuộc tính");
-12251|<O>| pf = ({ });  pf2 = ({ });    // pf tốtcủahiệu Quả；pf2 xấucủahiệu Quả
-12252|<O>| if ( !mapp(mpTmp1) || !mapp(mpTmp1[id]) )	//Làphủ tồnTại
-12253|<O>| if (map->get_no_fight()) notify( "Bạn sởTạicủabản đồkhông thểPK" );
-12254|<O>| if (!clonep(me)) return "［Tinh luyện］ Pháp Công\n［Trang bị thích hợp］ Vũ khí、Hạng Liên";
-12255|<O>| else if (rate < 100000)	//hấp thủchodưđối vớiPhương Pháp Thuật Thương hạicủa5%làm vìbản thâncủaPháp LựcPhục hồi
-12256|<O>| result += sprintf(ESC "thế nàodạng TàiLàtốitốtcủaPhốiđiểm？\n%s\n", cmd3);
-12257|<O>| private int Tool;                     	// Kỹ năngcầncầu công cụ
-12258|<O>| void into_effect(object me, int flag)    // Người chơiSử dụng
-12259|<O>| thresh3 = 9500 * rate / 100;    // Tạp vật１ threshold
-12260|<O>| send_user(who, "%c%s", '!', "đệ Nhấtlầnkhuếch triển hồ lô，Xin Tiênđemhồ lô Phóng Xuất。");
-12261|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Đồng Tâm Tỏa（4）");
-12262|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"vạn Nhân khanhcủakhô lâu");
-12263|<O>| cmd1 = sprintf(ESC"trêngiao1kiệnVàngSắcTrang bị\ntalk %x# bonus.1\n"
-12264|<O>| "làmtốtchuẩn bị，Tại"HIR"Chu QuốccủaVương bổ đầu"NOR"xử lĩnh thủ đào Bảonhỏsừ đầu。",interval/60));
-12265|<O>| private string MasterName2;             // Thành chủ２tính Danh
-12266|<O>| SAY_CMD->say(me, "tôikhảo!ChândướiHắc Thủ a!biệt quáitôiphiên kiểm vô Tình，thường thườngtôicủaMao Sơnvô Ảnh cước!");
-12267|<O>| send_user(who, "%c%s", ';', "vận rương Tử Kinh nghiệm 250 Tiềm năng 20");
-12268|<O>| private string MasterId2;               // Bang chủ trướng hiệu２
-12269|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"hồ khẩu thôncủaHuyết tích");
-12270|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"lớnhồ lô（1）");
+12229|<O>| string get_suit_name() { return "Cuồng Sư"; }	//Thuộc bộ trang phục nào
+12230|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Hồng Bảo Thạch Quý");
+12231|<O>| private static string orgname;           // Tên bang phái
+12232|<O>| private string MasterName3;             // Tên thành chủ 3
+12233|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tiêu Độc Quý（1）");
+12234|<O>| if (distance_between(me, owner) <= 3)    // Trong 3 ô
+12235|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Cầu Xin Sự Giúp Đỡ Của Vương");
+12236|<O>| result = sprintf("Bạn bất ngờ nhận được một cuốn %s.", obj->get_name());
+12237|<O>| int get_cast_seal() { return 42100; }    // Phù Chỉ Thuận Toàn
+12238|<O>| private static string Defense;          // Bên phòng thủ chiến trường
+12239|<O>| send_user(who, "%c%s", '!', "Nhận được "HIR"Quýt"NOR" 5 quả");
+12240|<O>| private static int Type2;               // Mã trang sức lưng 2
+12241|<O>| if (owner = who->get_owner()) who = owner;//Có chủ nhân.
+12242|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Máu Của Chó Đốm");
+12243|<O>| send_user(who, "%c%c%w%s", 0x5a, 0, 6, "Đang đào mỏ……");
+12244|<O>| USER_D->user_channel(HIR "Game khởi động lại, vui lòng đợi một phút rồi đăng nhập lại.");
+12245|<O>| private static int Type1;               // Mã trang sức lưng 1
+12246|<O>| if (!get_effect(me, EFFECT_CHAR_DREAM_0))		//Không mộng du
+12247|<O>| log_file("boss.txt", short_time() + " Sơn Đại Vương xuất hiện\n");
+12248|<O>| int get_hp() { return get_max_hp(); }    // Không thể giết
+12249|<O>| send_user(me, "%c%s", '!', "Tài khoản của bạn không tồn tại hoặc chưa kích hoạt khu vực này.");
+12250|<O>| send_user(me, "%c%s", '!', "Vui lòng đóng cửa sổ và mở lại cửa sổ thuộc tính để làm mới");
+12251|<O>| pf = ({ });  pf2 = ({ });    // pf hiệu ứng tốt; pf2 hiệu ứng xấu
+12252|<O>| if ( !mapp(mpTmp1) || !mapp(mpTmp1[id]) )	//Có tồn tại không
+12253|<O>| if (map->get_no_fight()) notify( "Bản đồ bạn đang ở không thể PK" );
+12254|<O>| if (!clonep(me)) return "［Tinh Luyện］ Pháp công\n［Trang bị phù hợp］ Vũ khí, vòng cổ";
+12255|<O>| else if (rate < 100000)	//Hút 5% sát thương pháp thuật gây ra cho đối phương để hồi phục pháp lực bản thân
+12256|<O>| result += sprintf(ESC "Cách phân điểm tốt nhất?\n%s\n", cmd3);
+12257|<O>| private int Tool;                     	// Công cụ yêu cầu kỹ năng
+12258|<O>| void into_effect(object me, int flag)    // Người chơi sử dụng
+12259|<O>| thresh3 = 9500 * rate / 100;    // Tạp vật 1 threshold
+12260|<O>| send_user(who, "%c%s", '!', "Mở rộng hồ lô lần đầu, hãy lấy hồ lô ra trước.");
+12261|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Đồng Tâm Khóa（4）");
+12262|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Hài Cốt Trong Hố Chôn Vạn Người");
+12263|<O>| cmd1 = sprintf(ESC"Nộp 1 trang bị vàng\ntalk %x# bonus.1\n"
+12264|<O>| "Chuẩn bị sẵn sàng, đến "HIR"Vương Bổ Đầu Ở Chu Quốc"NOR" nhận cuốc đào bảo nhỏ.",interval/60));
+12265|<O>| private string MasterName2;             // Tên thành chủ 2
+12266|<O>| SAY_CMD->say(me, "Tao đây! Ra tay nặng thật đấy! Đừng trách tao trở mặt, nếm thử cước Mao Sơn Vô Ảnh của tao!");
+12267|<O>| send_user(who, "%c%s", ';', "Vận Hòm Kinh nghiệm 250 Tiềm năng 20");
+12268|<O>| private string MasterId2;               // Tài khoản bang chủ 2
+12269|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Vết Máu Ở Hồ Khẩu Thôn");
+12270|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Đại Hồ Lô（1）");
 12271|<O>| npc->set_name(HIR + me->get_city_name() + "Binh Sĩ");
-12272|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Tiêu Độc Quý（4）");
-12273|<O>| USER_SLAVE_D->save_all_slave(me);    // Triệu hồithú bảo lưu１phút
-12274|<O>| else if (rate < 5000 * rate1 / 100)		//40cấpNgẫu nhiênPhối Phương lưỡng
-12275|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Bình Dương Chi Loạn1");
-12276|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Bí Mật（4）");
-12277|<O>| private static int BeenSlave = 0;       // tằngbịmị Hoặc
-12278|<O>| if( bag & BAG_TYPE_3 ) d = MAX_CARRY;    // càn khôn đại
-12279|<O>| send_user(who, "%c%s", '!', "nhận được nhiệm vụ "HIY"Truyền văncủaBảo tàng");
+12272|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Tiêu Độc Quý（4）");
+12273|<O>| USER_SLAVE_D->save_all_slave(me);    // Triệu hoán thú giữ lại 1 phút
+12274|<O>| else if (rate < 5000 * rate1 / 100)		//2 công thức ngẫu nhiên cấp 40
+12275|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Bình Dương Chi Loạn 1");
+12276|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Bí Mật（4）");
+12277|<O>| private static int BeenSlave = 0;       // Đã từng bị mê hoặc
+12278|<O>| if( bag & BAG_TYPE_3 ) d = MAX_CARRY;    // Càn Khôn Đại
+12279|<O>| send_user(who, "%c%s", '!', "Nhận nhiệm vụ "HIY"Truyền Thuyết Kho Báu");

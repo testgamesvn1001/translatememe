@@ -1,76 +1,76 @@
-﻿13953|<O>| send_user(who, "%c%s", '!', "bạnTừ bỏSâm dữTrường BìnhChi Chiến！");
-13954|<O>| send_user(who, "%c%s", '!', HIY"LamMaChi lệ 1/1");
-13955|<O>| send_user(me, "%c%s", ':', "Bạn muốn TướngTriệu hồithú Thăng Chínhiềuítcấp？\n"
-13956|<O>| item214_1 = new ("item/04/0425");    //Xảo Khắc Lực đậu
-13957|<O>| send_user(who, "%c%s", '!', "Bạn Thântrênkhông cótúc đủcủaKhông vị！");
-13958|<O>| send_user(who, "%c%s", ';', "phi kiện Khanggiờgiankhông thểmở Bảo rương。");
-13959|<O>| return "CổgiờHành quân Đả trượng thường dùngcủaMột loạiliệu Thương Dược,ngay lập tức phục hồi200điểm Khí Huyết，Thời gian hồi15giây";
-13960|<O>| rand_int = random(100);			//	100 mấy suất đi làmmột sốthông dùng thiết trí
-13961|<O>| send_user(who, "%c%s", '!', HIY"như Ý Ngọc bài 1/1");
-13962|<O>| cTmp = sprintf("BạncònCó%dđiểmKinh nghiệmcủabồi thường vị lĩnh thủ。", iRemExp);
-13963|<O>| if (get_char_type() == OFFICER_TYPE)	//phổ thông trạng thái
-13964|<O>| send_user(who, "%c%s", '!', "Đái Vật phẩm quý giáKhông thể sử dụng。");
-13965|<O>| send_user( who, "%c%s", '!', "ThậpcấpTài Năng lĩnh thủNhiệm vụ。" );
-13966|<O>| send_user(me, "%c%s", '!', "Tạiphó bảntrongKhông thể sử dụngThổHành Châu。");
-13967|<O>| send_user(who, "%c%s", ';', "phi kiện KhanggiờgianKhông thể sử dụngcẩm nang");
-13968|<O>| destroy_yuebing();//Tạihoạt độngKết thúcDĩsauTrực tiếp Tướng Ngọc thỏvàthángbínhtừtrường cảnhtrongDiện Thanh trừ。
-13969|<O>| send_user(who, "%c%s", '!', "không cóký tồngiữacủatế Thế hồ lô！");
-13970|<O>| send_user(who, "%c%s", ';', "bạncủatrọng Dương Tứ Bảo số lượngkhôngtúc！");
-13971|<O>| else if (p < 9870 * rate / 100)    // Vũ khí、Trang bị
-13972|<O>| send_user(me, "%c%s", ';', "phi kiện Khanggiờgiankhông thểĐả mở Bảo rương！");
-13973|<O>| if (sscanf(arg, ">%d", d))    // chuyển Thân Chỉ Lệnh(khôngquản mang Loạn)
-13974|<O>| add_dp(-1 * get_dp() * 25 / 100);    //Vật lýPhòng thủ
-13975|<O>| private string OwnerName;          	// chủ Nhân nật xưng
-13976|<O>| && !who->is_have_been_slave())    // thủlầnbịmị Hoặcgiờ
-13977|<O>| TASK_LEGEND_D->remove_task_item(who, "chứng cứ");
+﻿13953|<O>| send_user(who, "%c%s", '!', "Bạn đã từ bỏ tham gia Trường Bình Chi Chiến!");
+13954|<O>| send_user(who, "%c%s", '!', HIY"Nước Mắt Lam Ma 1/1");
+13955|<O>| send_user(me, "%c%s", ':', "Bạn muốn nâng cấp triệu hoán thú lên cấp bao nhiêu?\n"
+13956|<O>| item214_1 = new ("item/04/0425");    //Sô-cô-la
+13957|<O>| send_user(who, "%c%s", '!', "Bạn không còn đủ ô trống!");
+13958|<O>| send_user(who, "%c%s", ';', "Thời gian không lành mạnh không thể mở rương.");
+13959|<O>| return "Một loại thuốc chữa thương thường dùng trong hành quân thời cổ, lập tức hồi phục 200 điểm khí huyết, thời gian hồi chiêu 15 giây";
+13960|<O>| rand_int = random(100);			//	Xác suất 100 để thực hiện một số thiết lập chung
+13961|<O>| send_user(who, "%c%s", '!', HIY"Như Ý Ngọc Bài 1/1");
+13962|<O>| cTmp = sprintf("Bạn còn %d điểm kinh nghiệm bồi thường chưa nhận.", iRemExp);
+13963|<O>| if (get_char_type() == OFFICER_TYPE)	//Trạng thái bình thường
+13964|<O>| send_user(who, "%c%s", '!', "Mang theo vật phẩm quý giá không thể sử dụng.");
+13965|<O>| send_user( who, "%c%s", '!', "Cấp 10 mới có thể nhận nhiệm vụ." );
+13966|<O>| send_user(me, "%c%s", '!', "Trong phụ bản không thể sử dụng Thổ Hành Châu.");
+13967|<O>| send_user(who, "%c%s", ';', "Thời gian không lành mạnh không thể dùng cẩm nang");
+13968|<O>| destroy_yuebing();//Sau khi hoạt động kết thúc, xóa trực tiếp Ngọc Thỏ và bánh trung thu khỏi cảnh.
+13969|<O>| send_user(who, "%c%s", '!', "Không có Tế Thế Hồ Lô đang ký gửi!");
+13970|<O>| send_user(who, "%c%s", ';', "Số lượng Tứ Bảo Trùng Dương của bạn không đủ!");
+13971|<O>| else if (p < 9870 * rate / 100)    // Vũ khí, trang bị
+13972|<O>| send_user(me, "%c%s", ';', "Thời gian không lành mạnh không thể mở rương!");
+13973|<O>| if (sscanf(arg, ">%d", d))    // Lệnh quay người (bất kể bận rộn)
+13974|<O>| add_dp(-1 * get_dp() * 25 / 100);    //Phòng thủ vật lý
+13975|<O>| private string OwnerName;          	// Tên chủ nhân
+13976|<O>| && !who->is_have_been_slave())    // Lần đầu bị mê hoặc
+13977|<O>| TASK_LEGEND_D->remove_task_item(who, "Chứng Cứ");
 13978|<O>| string get_family_name() { return " Côn Lôn Sơn"; }
-13979|<O>| path = absolute_path(me, arg);    // hoạch thủ Tuyệtđối vớiLộ kính
-13980|<O>| SAY_CMD->say(this_object(), "ha ha，nàyliềnLàtôicủahận……");
-13981|<O>| send_user(me, "%c%s", '!', "Đái Tiền PhiếuKhông thể sử dụngHồi Môn Phù。");
-13982|<O>| return "Sư MônVật phẩm nhiệm vụ。thử Dược nãiLàVân duThương Nhânngao du vungàyĐịa Chi gian sở được，Nhất bàn tác Dược Dẫn sở dùng。";
-13983|<O>| send_user(who, "%c%s", '!', "hoạt độnggiờgian đã qua，không thểMở");
-13984|<O>| case 5 :	result += sprintf( "Môn phái thích hợp: %sMao Sơn\n",
-13985|<O>| // ưu thế: tiêu trừsprintf、map lookup、class castcủatrọng phục Thao tác
-13986|<O>| private int skill_cache_window = 1;    // giây
+13979|<O>| path = absolute_path(me, arg);    // Lấy đường dẫn tuyệt đối
+13980|<O>| SAY_CMD->say(this_object(), "Haha, đây chính là hận thù của ta……");
+13981|<O>| send_user(me, "%c%s", '!', "Mang theo phiếu tiền không thể sử dụng Hồi Môn Phù.");
+13982|<O>| return "Vật phẩm nhiệm vụ sư môn. Thuốc này do thương nhân du hành thu thập được khi ngao du thiên hạ, thường dùng làm dẫn dược.";
+13983|<O>| send_user(who, "%c%s", '!', "Thời gian hoạt động đã qua, không thể mở");
+13984|<O>| case 5 :	result += sprintf( "Môn phái áp dụng: %sMao Sơn\n",
+13985|<O>| // Ưu điểm: Loại bỏ thao tác trùng lặp sprintf, map lookup, class cast
+13986|<O>| private int skill_cache_window = 1;    // Giây
 13987|<O>| string get_family_name() { return " Vân Mộng Trạch"; }
-13988|<O>| printf(ECHO "NhậnCực hạn xuyên ViệtNhiệm vụsauKhông thể sử dụng“" PF_NAME "”。");
-13989|<O>| send_user(me, "%c%s", '!', "Cường hóakỹcó thể khôngSiêu qua10cấp。");
-13990|<O>| //	Chỉ địnhgiờgian chỉnh sốcủagiảm Thao tác -- bịgiảm sốNếuSiêu Xuất Bản Tinh kỳcủaPhạm vi Tắc Luân tìmđếntrênNhất Tinh kỳcủagiờgian Trị
-13991|<O>| TASK_LEGEND_D->remove_task_item(who, "thải Y");
-13992|<O>| tell_user(me, "chinh trạngtình huống:%s", what->get_name());
-13993|<O>| // xúc phátđiểm: Enemy dies hoặc flee distance exceeded
-13994|<O>| printf(ECHO "đối vớiPhươngTạiphó bảnbản đồgiữa，Không thể sử dụng“" PF_NAME "”。");
-13995|<O>| if (present("Vật phẩm quý giá", who, 1, MAX_CARRY * 4))
-13996|<O>| send_user(who, "%c%s", '!', "Thànhtrongcủaquân lươngđãtúc đủ。");
-13997|<O>| city->set_relation(city7, 2);    // Dĩsaucầnđối vớiPhương xác nhận
-13998|<O>| sprintf("%s:\n    phổ thông Tu lýtất cảTrang bịcầnHoa phí%dVàng，bạnLàphủ Đồng Ý？\n"
-13999|<O>| "/sys/sys/count"->add_income("Sơn Trân Thu cấu", cash);
-14000|<O>| send_user(who, "%c%s", '!', "bạncủadu hínhân vậtXóaThành công。");
-14001|<O>| if( MAP_D->is_inside_battle(z) )    // Chiến trường Chitrên
-14002|<O>| send_user(who, "%c%s", '!', "BạnchỉNăng quản lý cư dâncủatần Đạo。");
-14003|<O>| return "Chiến Quốc Lệnh1、Chiến Quốc Hiệu Giác1、Thượng Phương hàm Ngư1、nhỏHuyết Thạch1、tế Thế Bảo Ngọc1。";
-14004|<O>| return "Năngnhanhtốc Tướng bệnh thống Giải trừcủaĐan Dược,ngay lập tức phục hồi1850điểm Khí Huyết，1900điểm Pháp Lực。";
-14005|<O>| notify("%skhôngLàBảo Thạch，không thểHợp thành", item[i]->get_name());
-14006|<O>| CHAT_D->add_chat(me);    // trade dữ chat cộng dùng
-14007|<O>| //                ESC "đổi hoánBảo Thạch、Trang bị。\n" + cmd1 +
-14008|<O>| + sprintf(ESC"giữachỉ Quốc khánh tiếthoạt độngChi——Tây qua bá bá\nparty 150\n")
-14009|<O>| count = get_heart_count_2(me);    // hoạch thủ Tâm nhảy tiêu ký
-14010|<O>| sprintf("%s:\n    tôiKimngàyrấtCảm ơnbạn，Tuy nhiênnàylầncơsẽcònLàđểchobiệt Nhân 。\n"
-14011|<O>| return "Truyền nóigiữacủaĐan Dược，mấy hồ Năng Khởi Tử Hồi sinh，ngay lập tức phục hồi800điểm Khí Huyết，Thời gian hồi15giây";
-14012|<O>| who->delete_task("robber");    // Hoàn thành nhiệm vụ，Xóatiêu Chí
-14013|<O>| // mỗ ta NPC loại hình ứng nên tổngLà active（guards, quest NPCs）
-14014|<O>| notify("vô Pháp hoạch đượcTrang bị:" + item->get_name() + "。");
+13988|<O>| printf(ECHO "Sau khi nhận nhiệm vụ Cực Hạn Xuyên Việt không thể sử dụng \"" PF_NAME "\".");
+13989|<O>| send_user(me, "%c%s", '!', "Kỹ năng cường hóa không thể vượt quá cấp 10.");
+13990|<O>| //	Phép trừ số nguyên thời gian chỉ định -- Nếu kết quả vượt phạm vi tuần thì chuyển sang tuần trước
+13991|<O>| TASK_LEGEND_D->remove_task_item(who, "Áo Sặc Sỡ");
+13992|<O>| tell_user(me, "Tình trạng triệu chứng:%s", what->get_name());
+13993|<O>| // Điểm kích hoạt: Enemy dies hoặc flee distance exceeded
+13994|<O>| printf(ECHO "Đối phương đang trong bản đồ phụ bản, không thể sử dụng \"" PF_NAME "\".");
+13995|<O>| if (present("Vật Phẩm Quý Giá", who, 1, MAX_CARRY * 4))
+13996|<O>| send_user(who, "%c%s", '!', "Quân lương trong thành đã đầy đủ rồi.");
+13997|<O>| city->set_relation(city7, 2);    // Sau này cần bên kia xác nhận
+13998|<O>| sprintf("%s:\n    Sửa chữa thường tất cả trang bị tốn %d vàng, bạn đồng ý không?\n"
+13999|<O>| "/sys/sys/count"->add_income("Thu Mua Sơn Trân", cash);
+14000|<O>| send_user(who, "%c%s", '!', "Nhân vật game của bạn đã xóa thành công.");
+14001|<O>| if( MAP_D->is_inside_battle(z) )    // Trên chiến trường
+14002|<O>| send_user(who, "%c%s", '!', "Bạn chỉ có thể quản lý kênh của cư dân.");
+14003|<O>| return "1 Chiến Quốc Lệnh, 1 Chiến Quốc Hiệu Giác, 1 Thượng Phương Hàm Ngư, 1 Tiểu Huyết Thạch, 1 Tế Thế Bảo Ngọc.";
+14004|<O>| return "Loại thuốc có thể nhanh chóng chữa lành bệnh, lập tức hồi phục 1850 điểm khí huyết, 1900 điểm pháp lực.";
+14005|<O>| notify("%s không phải bảo thạch, không thể hợp thành", item[i]->get_name());
+14006|<O>| CHAT_D->add_chat(me);    // trade và chat dùng chung
+14007|<O>| //                ESC "Đổi bảo thạch, trang bị.\n" + cmd1 +
+14008|<O>| + sprintf(ESC"Dừng hoạt động Quốc Khánh——Bác Dưa Hấu\nparty 150\n")
+14009|<O>| count = get_heart_count_2(me);    // Lấy đánh dấu nhịp tim
+14010|<O>| sprintf("%s:\n    Hôm nay tôi rất cảm ơn bạn, nhưng lần này hãy nhường cơ hội cho người khác nhé.\n"
+14011|<O>| return "Viên đan huyền thoại, gần như có thể hồi sinh, lập tức hồi phục 800 điểm khí huyết, thời gian hồi chiêu 15 giây";
+14012|<O>| who->delete_task("robber");    // Hoàn thành nhiệm vụ, xóa cờ đánh dấu
+14013|<O>| // Một số loại NPC nên luôn active (lính canh, NPC nhiệm vụ)
+14014|<O>| notify("Không thể nhận trang bị: " + item->get_name() + ".");
 14015|<O>| if (who->is_npc())    // Sao chép từ /sys/user/fight
-14016|<O>| printf(ECHO "bạncủaKhí Huyếtkhôngtúc，vô PhápSử dụngPháp Thuật“" PF_NAME "”。");
-14017|<O>| return "［Thạch Khắc］có thểđểNgười chơiđối vớiTrang bịcủatương khảm。cũngcó thểChế tạoHạng Liên。đối vớiTrang bịcủaPhân giải。\n";
-14018|<O>| send_user(me, "%c%s", '!', "BạnkhôngLànông Phu，khônghiểu được canhloại。");
-14019|<O>| send_user(me, "%c%s", '!', "nàytrongcủaThảo DượcđãThu thậpQuang。");
-14020|<O>| else if (num2 == MAX_CARRY * 2)    // càn khôn đại Chitrong
-14021|<O>| switch (who->get_occupation())    // Xóachức nghiệp Chỉ Lệnh
-14022|<O>| send_user(me, "%c%s", '!', "chínhTạigiao dịchsố lượng Siêu qua20bút！");
-14023|<O>| return desc = "Tăngsủng vậtTrung thànhcủaMột loạikhẩu lương，mỗiThực dùng Nhấtlần，Trung thành độTăng10。";
-14024|<O>| send_user(me, "%c%s", '!', "điệp Gia loại Vật Phẩmkhôngdoãn hứa Gia Tỏa～！");
-14025|<O>| set_name("Môn pháichiêu mộ viên||||" + me->get_fam_name());
-14026|<O>| who->add_strength(-1);    // Thể lực -1, thư sinhKinh nghiệm +1
-14027|<O>| tell_user(me, who->get_name() + "khôngsẽnhiệm HàKỹ năng。");
-14028|<O>| item = present("ThuYêuhồ", who, 1, MAX_CARRY*4);
+14016|<O>| printf(ECHO "Khí huyết không đủ, không thể sử dụng pháp thuật \"" PF_NAME "\".");
+14017|<O>| return "［Khắc Thạch］Cho phép người chơi khảm nạm trang bị. Cũng có thể chế tạo vòng cổ. Phân giải trang bị.\n";
+14018|<O>| send_user(me, "%c%s", '!', "Bạn không phải nông dân, không biết cày cấy.");
+14019|<O>| send_user(me, "%c%s", '!', "Thảo dược ở đây đã hái hết rồi.");
+14020|<O>| else if (num2 == MAX_CARRY * 2)    // Bên trong Càn Khôn Đại
+14021|<O>| switch (who->get_occupation())    // Xóa lệnh nghề nghiệp
+14022|<O>| send_user(me, "%c%s", '!', "Số giao dịch đang xử lý vượt quá 20 lệnh!");
+14023|<O>| return desc = "Một loại thức ăn giúp tăng trung thành thú cưng, mỗi lần sử dụng tăng 10 điểm trung thành.";
+14024|<O>| send_user(me, "%c%s", '!', "Vật phẩm xếp chồng không được khóa～!");
+14025|<O>| set_name("Nhân Viên Tuyển Dụng Môn Phái||||" + me->get_fam_name());
+14026|<O>| who->add_strength(-1);    // Thể lực -1, kinh nghiệm thư sinh +1
+14027|<O>| tell_user(me, who->get_name() + " không biết kỹ năng nào.");
+14028|<O>| item = present("Hồ Thu Yêu", who, 1, MAX_CARRY*4);

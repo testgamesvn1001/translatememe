@@ -1,80 +1,80 @@
-﻿14653|<O>| send_user(who, "%c%s", '!', "cô Trúc tộc sử tiết 1/1");
-14654|<O>| send_user(who, "%c%s", '!', "Bạn hiệnTạicủaThể lựckhôngđủ。");
-14655|<O>| else if (p < 9997 * rate / 100)    // Tạp vật２
-14656|<O>| npc=new(FILE_SENDER);  //mớikiến Nhấtphó bảnNPC-->trường cảnhTruyền tốngNhân
-14657|<O>| else if (p < 9900 * rate / 100)    // Tạp vật１
-14658|<O>| else if (p < 9900 * rate / 100)    // Tạp vật２
-14659|<O>| TEACHER_D->add_shifu_exp(me, 1);	//phần thưởngSư PhóKinh nghiệm
-14660|<O>| reduce_item_amount(who, "trang xấunhỏHầucủaThầnKỳ hồ lô", 3);
-14661|<O>| else if (p < 9397 * rate / 100)    // Tạp vật１
-14662|<O>| ESC"lưỡngchỉcầu(Hắc+Lam)đổi hoán2TrươngTàng Bảo Đồ\ntalk %x# bonus.22\n"
-14663|<O>| send_user(who, "%c%s", '!', "hiệnTạikhông cótuyển cửhoạt động。");
-14664|<O>| if( owner == who ) return 0;    // Cấm chỉTấn côngchủ Nhân
-14665|<O>| mapping DefenceMap = ([ ]);	// tất cảHoàng Thành bảo Vệ Chiếncủabản đồ
-14666|<O>| notify(sprintf("Bạncủabang pháicống hiếnkhôngtúc%d。", contrib));
-14667|<O>| send_user(me, "%c%s", '!', "Bạn đào Bảocủavị tríkhôngđối với。");
-14668|<O>| else if (p < 2897 * rate / 100)    // Tiền vàng
-14669|<O>| else if (p < 7183 * rate / 100)    // Tiền vàng
-14670|<O>| else if (p < 9255 * rate / 100)    // Tiền vàng
-14671|<O>| send_user(me, "%c%s", '!', "không thểTruyền tốngđếnphó bảntrong。");
-14672|<O>| else if (p < 7225 * rate / 100)    // Tiền vàng
-14673|<O>| who->set_legend(TASK_49, 9);	//Hủy bỏmất thấtcủaThủ trácNhiệm vụ
-14674|<O>| } else if(rand_int < 90 ) {		//	dàiHuyếtcaoVật phòngcaoPháp phòng
-14675|<O>| else if (p < 5190 * rate / 100)    // Tiền vàng
-14676|<O>| + ESC"600VàngThu cấu banđiểmoa Nhấtchỉ\ntalk %x# welcome.5\n"
-14677|<O>| Nếuhoạt độnggiờgianchưa cóđếnHoặchoạt độnggiờgianđãKết thúc，nàytrongdạngcủaliềnkhôngXuất hiệnnàyhoạch thủ đào Bảonhỏsừ đầu tuyển Hạng
-14678|<O>| send_user(me, "%c%s", '!', "Tình Nhân tiếthoạt độngMở!");
-14679|<O>| send_user(who, "%c%s", '!', "Bạn nhận đượchồ Cátcủaquỹ tặng");
-14680|<O>| else if (p < 5144 * rate / 100)    // Tiền vàng
-14681|<O>| log_file(LIST_LOG, "<!-- tàn thiếuBảo Thạch -->\n\n");
-14682|<O>| else if (p < 7591 * rate / 100)    // Tiền vàng
-14683|<O>| send_user(who, "%c%s", '!', "bạnđãBáo qua Danh！");
-14684|<O>| else if (p < 5870 * rate / 100)    // Tiền vàng
+﻿14653|<O>| send_user(who, "%c%s", '!', "Sứ Tiết Cô Trúc Tộc 1/1");
+14654|<O>| send_user(who, "%c%s", '!', "Thể lực hiện tại của bạn không đủ.");
+14655|<O>| else if (p < 9997 * rate / 100)    // Tạp vật 2
+14656|<O>| npc=new(FILE_SENDER);  //Tạo mới NPC phụ bản-->Người truyền tống cảnh
+14657|<O>| else if (p < 9900 * rate / 100)    // Tạp vật 1
+14658|<O>| else if (p < 9900 * rate / 100)    // Tạp vật 2
+14659|<O>| TEACHER_D->add_shifu_exp(me, 1);	//Thưởng kinh nghiệm sư phụ
+14660|<O>| reduce_item_amount(who, "Hồ Lô Thần Kỳ Đựng Khỉ Hư", 3);
+14661|<O>| else if (p < 9397 * rate / 100)    // Tạp vật 1
+14662|<O>| ESC"2 quả cầu (đen+xanh) đổi 2 tấm bản đồ tàng bảo\ntalk %x# bonus.22\n"
+14663|<O>| send_user(who, "%c%s", '!', "Hiện tại không có bầu cử.");
+14664|<O>| if( owner == who ) return 0;    // Cấm tấn công chủ nhân
+14665|<O>| mapping DefenceMap = ([ ]);	// Tất cả bản đồ bảo vệ hoàng thành
+14666|<O>| notify(sprintf("Cống hiến bang phái của bạn không đủ %d.", contrib));
+14667|<O>| send_user(me, "%c%s", '!', "Vị trí đào bảo của bạn không đúng.");
+14668|<O>| else if (p < 2897 * rate / 100)    // Vàng
+14669|<O>| else if (p < 7183 * rate / 100)    // Vàng
+14670|<O>| else if (p < 9255 * rate / 100)    // Vàng
+14671|<O>| send_user(me, "%c%s", '!', "Không thể truyền tống vào phụ bản.");
+14672|<O>| else if (p < 7225 * rate / 100)    // Vàng
+14673|<O>| who->set_legend(TASK_49, 9);	//Hủy nhiệm vụ vòng tay bị mất
+14674|<O>| } else if(rand_int < 90 ) {		//	Khí huyết cao, phòng vật lý cao, phòng pháp thuật cao
+14675|<O>| else if (p < 5190 * rate / 100)    // Vàng
+14676|<O>| + ESC"600 vàng thu mua một con Ếch Đốm\ntalk %x# welcome.5\n"
+14677|<O>| Nếu thời gian hoạt động chưa đến hoặc đã kết thúc thì không hiện tùy chọn nhận cuốc đào bảo nhỏ
+14678|<O>| send_user(me, "%c%s", '!', "Hoạt động Lễ Tình Nhân đã mở!");
+14679|<O>| send_user(who, "%c%s", '!', "Bạn nhận được quà tặng của Hồ Cát");
+14680|<O>| else if (p < 5144 * rate / 100)    // Vàng
+14681|<O>| log_file(LIST_LOG, "<!-- Bảo Thạch Tàn Khuyết -->\n\n");
+14682|<O>| else if (p < 7591 * rate / 100)    // Vàng
+14683|<O>| send_user(who, "%c%s", '!', "Bạn đã đăng ký rồi!");
+14684|<O>| else if (p < 5870 * rate / 100)    // Vàng
 14685|<O>| //			else if ( map->get("win") == "Triệu Quốc" )
-14686|<O>| else if (p < 4594 * rate / 100)    // Tiền vàng
-14687|<O>| else if (p < 5049 * rate / 100)    // Tiền vàng
-14688|<O>| return "Năngđối vớimẫn tiệp lâmgiờĐềcao，lâmgiờĐềcao10%mẫn tiệp，kéo dài10phút，Hồi chiêu2giây";
-14689|<O>| string get_skill_name() { return "Thầndu"; }
-14690|<O>| else if (p < 6300 * rate / 100)    // Tiền vàng
-14691|<O>| send_user(me, "%c%s", '!', "BạnchỉNăngđemthi Thể Suy mở。");
-14692|<O>| else if (p < 6659 * rate / 100)    // Tiền vàng
-14693|<O>| send_user(who, "%c%s", '!', "Xinkhôngcầntần phồnSử dụng！");
-14694|<O>| else if (p < 5523 * rate / 100)    // Tiền vàng
-14695|<O>| && item->get_lasting() >= 100)    // nại cửu độ
-14696|<O>| else if (p < 8856 * rate / 100)    // Tiền vàng
-14697|<O>| desc = "dùng Ngưu Nhục lương sái thànhcủaMột loạiNhục chế Phẩm，20giây phục hồi cho người chơi1600điểm Khí Huyết。";
+14686|<O>| else if (p < 4594 * rate / 100)    // Vàng
+14687|<O>| else if (p < 5049 * rate / 100)    // Vàng
+14688|<O>| return "Tạm thời tăng nhanh nhẹn, tăng 10% nhanh nhẹn, kéo dài 10 phút, hồi chiêu 2 giây";
+14689|<O>| string get_skill_name() { return "Thần Du"; }
+14690|<O>| else if (p < 6300 * rate / 100)    // Vàng
+14691|<O>| send_user(me, "%c%s", '!', "Bạn chỉ có thể đẩy thi thể đi.");
+14692|<O>| else if (p < 6659 * rate / 100)    // Vàng
+14693|<O>| send_user(who, "%c%s", '!', "Vui lòng không sử dụng quá thường xuyên!");
+14694|<O>| else if (p < 5523 * rate / 100)    // Vàng
+14695|<O>| && item->get_lasting() >= 100)    // Độ bền
+14696|<O>| else if (p < 8856 * rate / 100)    // Vàng
+14697|<O>| desc = "Thịt bò phơi khô, trong 20 giây hồi phục 1600 điểm khí huyết cho người chơi.";
 14698|<O>| else if (p < 9970 * rate / 100)    // Vũ khí
-14699|<O>| else if (rand < 9995)//VàngSắcTrang bị/item/01/0202
-14700|<O>| write_user(who, ECHO "Nhiệm vụHoàn thành，Xin tìm Vệ độidàilĩnh thủphần thưởng。");
-14701|<O>| send_user(me, "%c%s", '!', "MụccủaĐịa Thái qua ủng tề。");
-14702|<O>| return "［" PF_NAME "］\nTạiChu Quốccủabày thán khu bày thán bánđồ vật。\n";
-14703|<O>| "/sys/sys/count"->add_use("thử Kỵ sủng", 10000);
-14704|<O>| else if (p < 8958 * rate / 100)    // Tiền vàng
-14705|<O>| gift = new("item/final/16/1610");	//Truyền Động cơ cấu
-14706|<O>| send_user(who, "%c%s", '!', "khô lâuYêuVương 1/1");
-14707|<O>| send_user(who, "%c%s", '!', "mê Hồn Tinh Linh 1/1");
-14708|<O>| send_user(me, "%c%s", '!', "Thu thậpCông Năng Thượng vị mở Phóng。");
-14709|<O>| get_name() + ":\nCảm ơnBạn，ChânLàvì dân trừ hạicủalớnAnh Hùng a。\n" );
-14710|<O>| return "giữathu tiết Truyền thống Thực Vật，20giâytrongPhục hồi400điểm Khí Huyếtvà400điểm Pháp Lực。";
-14711|<O>| send_user(who, "%c%s", '!', "Địa bĩ Thạch Lục 1/1");
-14712|<O>| send_user(me, "%c%s", '!', "Bạn cự ly thi Thể Thái Viễn。");
-14713|<O>| else if (p < 9049 * rate / 100)    // Tiền vàng
+14699|<O>| else if (rand < 9995)//Trang bị vàng/item/01/0202
+14700|<O>| write_user(who, ECHO "Nhiệm vụ hoàn thành, hãy tìm Đội Trưởng Vệ Binh nhận thưởng.");
+14701|<O>| send_user(me, "%c%s", '!', "Điểm đến quá đông người.");
+14702|<O>| return "［" PF_NAME "］\nBày bán tại khu bày bán của Chu Quốc.\n";
+14703|<O>| "/sys/sys/count"->add_use("Thử Cưỡi Thú", 10000);
+14704|<O>| else if (p < 8958 * rate / 100)    // Vàng
+14705|<O>| gift = new("item/final/16/1610");	//Cơ cấu truyền động
+14706|<O>| send_user(who, "%c%s", '!', "Cốt Lâu Yêu Vương 1/1");
+14707|<O>| send_user(who, "%c%s", '!', "Mê Hồn Tinh Linh 1/1");
+14708|<O>| send_user(me, "%c%s", '!', "Chức năng thu thập chưa mở.");
+14709|<O>| get_name() + ":\nCảm ơn bạn, thật là vị đại anh hùng diệt trừ ác nhân.\n" );
+14710|<O>| return "Thức ăn truyền thống Tết Trung Thu, trong 20 giây hồi phục 400 điểm khí huyết và 400 điểm pháp lực.";
+14711|<O>| send_user(who, "%c%s", '!', "Đầu Gấu Thạch Lục 1/1");
+14712|<O>| send_user(me, "%c%s", '!', "Bạn cách thi thể quá xa.");
+14713|<O>| else if (p < 9049 * rate / 100)    // Vàng
 14714|<O>| send_user(who, "%c%s", '!', "Ác Bá Triệu Lục 1/1");
-14715|<O>| else if (p < 4790 * rate / 100)    // Tiền vàng
-14716|<O>| return "“ÁmSát giả Chí Bảo，Sát Nhân vu vô hình”\nsửbạndùngĐộccủatổng cộng Thương hại Đềcao100điểm";
-14717|<O>| else if (p < 3376 * rate / 100)    // Tiền vàng
-14718|<O>| else if (rate < 53000)	//TăngPháp Thuật sở tạo thànhcủaThương hại hiệu Quả12điểm
-14719|<O>| else if (p < 6288 * rate / 100)    // Tiền vàng
+14715|<O>| else if (p < 4790 * rate / 100)    // Vàng
+14716|<O>| return ""Chí bảo ám sát giả, giết người vô hình"\nTăng tổng sát thương dùng độc thêm 100 điểm";
+14717|<O>| else if (p < 3376 * rate / 100)    // Vàng
+14718|<O>| else if (rate < 53000)	//Tăng hiệu quả sát thương pháp thuật 12 điểm
+14719|<O>| else if (p < 6288 * rate / 100)    // Vàng
 14720|<O>| string get_skill_name() { return "Cơ Quan"; }
-14721|<O>| notify(item->get_name() + "đã đưa lên kệ，Không thể sử dụng。");
-14722|<O>| if ( give_yuebing(player,"nhỏthángthỏ",1) == 0 )
-14723|<O>| ESC"khônggì。", me->get_name(), id, id, id));
-14724|<O>| else if (p < 9242 * rate / 100)    // Tiền vàng
-14725|<O>| else if (p < 3304 * rate / 100)    // Tiền vàng
-14726|<O>| else if (p < 7120 * rate / 100)    // Tiền vàng
-14727|<O>| send_user(who, "%c%s", '!', "bạnThântrêncủađồ vậtTháinhiều");
-14728|<O>| else if (p < 3297 * rate / 100)    // Tiền vàng
-14729|<O>| else if (p < 8938 * rate / 100)    // Tiền vàng
-14730|<O>| send_user(me, "%c%s", '!', "Bạnkhông thểTruyền tốngBạnbản thân。");
-14731|<O>| result += ESC "Hủy bỏvô Địch\ngmset no_hurt 0\n";
-14732|<O>| send_user(who, "%c%s", '!', "nhận đượcThầnBícủaloạiTử");
+14721|<O>| notify(item->get_name() + " đã lên kệ, không thể sử dụng.");
+14722|<O>| if ( give_yuebing(player,"Ngọc Thỏ Nhỏ",1) == 0 )
+14723|<O>| ESC"Không có gì.", me->get_name(), id, id, id));
+14724|<O>| else if (p < 9242 * rate / 100)    // Vàng
+14725|<O>| else if (p < 3304 * rate / 100)    // Vàng
+14726|<O>| else if (p < 7120 * rate / 100)    // Vàng
+14727|<O>| send_user(who, "%c%s", '!', "Bạn mang theo quá nhiều đồ vật");
+14728|<O>| else if (p < 3297 * rate / 100)    // Vàng
+14729|<O>| else if (p < 8938 * rate / 100)    // Vàng
+14730|<O>| send_user(me, "%c%s", '!', "Bạn không thể truyền tống chính mình.");
+14731|<O>| result += ESC "Hủy bất tử\ngmset no_hurt 0\n";
+14732|<O>| send_user(who, "%c%s", '!', "Nhận được Hạt Giống Bí Ẩn");

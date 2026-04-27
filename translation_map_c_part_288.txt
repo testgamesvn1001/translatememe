@@ -1,34 +1,34 @@
-﻿10557|<O>| send_user(who, "%c%s", '!', "bạnlĩnh thủ"HIY"YêuNgôn Hoặc Chúng"NOR"củaNhiệm vụ！");
-10558|<O>| ESC "Rời khỏi\nCLOSE\n", me->get_name(), name, getoid(me)));
-10559|<O>| send_user(who, "%c%s", '!', sprintf(HIY"nếp mễ %d/8", i));
-10560|<O>| //		send_user( who, "%c%s", '!', HIY"chính nghĩa Chi Chiến"NOR" Nhiệm vụHoàn thành");
-10561|<O>| if (TASK_LEGEND_D->check_task_item(who, "Tửu tiền", 1) != 1)
-10562|<O>| write_user(who, ECHO "%ssinh khí，đemBạn thế Xuất đi。", me->get_name());
-10563|<O>| return sprintf("Tăng%d％củatrốn Thiểm。\n", me->get_save("02421#"));
-10564|<O>| return ("Ngụ ý:trướcVệmớitriều\nSử dụngsauVật lý tấn côngTăng30%，kéo dài60phút\n"HIR"Người sử dụng cần là nam");
-10565|<O>| if (TASK_LEGEND_D->check_task_item(who, "trạng chỉ", 1) != 1)
-10566|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Liên ngẫu %d/3", i));
-10567|<O>| send_user(who, "%c%s", '!', sprintf(HIY"đạo Tử %d/9", i));
-10568|<O>| HeartSec = -(180 - Heart % 180);    // ３phútthặng dư( 3 * 60 )
-10569|<O>| if(   ( npc = me->get_quest("escort.npc") )    // vận tiêu Nhân Vật
-10570|<O>| if (TASK_LEGEND_D->check_task_item(who, "mặc khối", 1) != 1)
+﻿10557|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận nhiệm vụ "HIY"Yêu Ngôn Hoặc Chúng"NOR"!");
+10558|<O>| ESC "Rời đi\nCLOSE\n", me->get_name(), name, getoid(me)));
+10559|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Gạo Nếp %d/8", i));
+10560|<O>| //		send_user( who, "%c%s", '!', HIY"Chính Nghĩa Chi Chiến"NOR" nhiệm vụ hoàn thành");
+10561|<O>| if (TASK_LEGEND_D->check_task_item(who, "Tiền Rượu", 1) != 1)
+10562|<O>| write_user(who, ECHO "%s tức giận rồi, đá bạn ra ngoài.", me->get_name());
+10563|<O>| return sprintf("Tăng %d%% né tránh.\n", me->get_save("02421#"));
+10564|<O>| return ("Ngụ ý: Tiên phong thời thượng\nSử dụng sau tấn công vật lý tăng 30%, kéo dài 60 phút\n"HIR"Người sử dụng phải là nam");
+10565|<O>| if (TASK_LEGEND_D->check_task_item(who, "Đơn Kiện", 1) != 1)
+10566|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Ngó Sen %d/3", i));
+10567|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Lúa %d/9", i));
+10568|<O>| HeartSec = -(180 - Heart % 180);    // 3 phút còn lại( 3 * 60 )
+10569|<O>| if(   ( npc = me->get_quest("escort.npc") )    // Nhân vật vận tiêu
+10570|<O>| if (TASK_LEGEND_D->check_task_item(who, "Khối Mực", 1) != 1)
 10571|<O>| if (TASK_LEGEND_D->check_task_item(who, "Nhị Hồ", 1) != 1)
-10572|<O>| send_user(player, "%c%s", '!', "bạnhiệnTạiLàphi kiện Khang du hígiờgian，không thểSâm Giahoạt động！");
-10573|<O>| return ("Ngụ ý:thâmkhôngcó thể trắc\nSử dụngsauPháp ThuậtTấn côngTăng30%，kéo dài60phút\n"HIR"Người sử dụng cần là nam");
-10574|<O>| who->set("pf.armorfall2", -SUB_EFFECT2);    // cẩn thận chuẩn bị me
-10575|<O>| if(     me->get_skill(SKILL_0348) >= 52    // cầncầu“Binh Pháp”Cấp độ
-10576|<O>| send_user(who, "%c%s", '!', sprintf(HIY"TuyếtThủy %d/1", 1));
-10577|<O>| tell_user(me, "thiết trícủaChỉ Lệnh cách thứcLà:/set_party_time năm-tháng-Nhật giờ:phút:giây");
+10572|<O>| send_user(player, "%c%s", '!', "Bạn đang ở thời gian chơi game không lành mạnh, không thể tham gia hoạt động!");
+10573|<O>| return ("Ngụ ý: Sâu không đo lường\nSử dụng sau tấn công pháp thuật tăng 30%, kéo dài 60 phút\n"HIR"Người sử dụng phải là nam");
+10574|<O>| who->set("pf.armorfall2", -SUB_EFFECT2);    // Cẩn thận chuẩn bị me
+10575|<O>| if(     me->get_skill(SKILL_0348) >= 52    // Yêu cầu cấp "Binh Pháp"
+10576|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Nước Tuyết %d/1", 1));
+10577|<O>| tell_user(me, "Định dạng lệnh thiết lập là: /set_party_time năm-tháng-ngày giờ:phút:giây");
 10578|<O>| if (TASK_LEGEND_D->check_task_item(who, "Cổ Ngọc", 1) != 1)
-10579|<O>| z = COPY_CTROL->new_scene(d,"/map/copy/0001","PhongYêuKính Kính tượng");
+10579|<O>| z = COPY_CTROL->new_scene(d,"/map/copy/0001","Phong Yêu Kính Ảnh Tượng");
 10580|<O>| result2 = sprintf("Môn cống %d", who->get_fam_contribute());
-10581|<O>| return "trênDiện tả “ngàydàiĐịa cửu，hữu nghị Vĩnh tồn”mấy tự。có thểTướng Chỉ địnhcủađội hữunhanhtốcTriệu hồiđếnbản thânThân Biên。Thời gian hồi2giây。";
-10582|<O>| send_user(who, "%c%s", '!', "có thể tồnKinh nghiệmthấpvu10000củatế Thế hồ lôkhôngcó thểPhóng Xuất。");
-10583|<O>| if (TASK_LEGEND_D->check_task_item(who, "nhỏmạch", 3) != 1)
+10581|<O>| return "Trên đó viết mấy chữ \"Thiên trường địa cửu, tình bạn mãi mãi\". Có thể nhanh chóng triệu hồi đồng đội chỉ định đến bên mình. Thời gian hồi chiêu 2 giây.";
+10582|<O>| send_user(who, "%c%s", '!', "Tế Thế Hồ Lô có kinh nghiệm lưu trữ dưới 10000 không thể thả ra.");
+10583|<O>| if (TASK_LEGEND_D->check_task_item(who, "Tiểu Mạch", 3) != 1)
 10584|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Tà Linh %d/7", i));
-10585|<O>| send_user(who, "%c%s", '!', sprintf(HIY"VàngTinh %d/5", i));
+10585|<O>| send_user(who, "%c%s", '!', sprintf(HIY"Kim Tinh %d/5", i));
 10586|<O>| #define SKILL_FINAL	"/item/final/76/1120"				// Kết quả chế tạo
-10587|<O>| return HIC+get_name()+"\nSủng vật sở hữu kỹ năng này，Sử dụngthửKỹ năngsẽdùngThủyPháp ThuậtTấn côngđơn Nhấtmục tiêu。";
+10587|<O>| return HIC+get_name()+"\nThú cưng sở hữu kỹ năng này, sử dụng kỹ năng sẽ dùng pháp thuật nước tấn công đơn mục tiêu.";
 10588|<O>| #define SKILL_FINAL	"/item/final/60/1105"				// Kết quả chế tạo
 10589|<O>| #define SKILL_FINAL	"/item/final/71/1035"				// Kết quả chế tạo
 10590|<O>| #define SKILL_FINAL	"/item/final/86/1075"				// Kết quả chế tạo
@@ -39,26 +39,26 @@
 10595|<O>| case "Côn Lôn Sơn": if (get_level() >= 38 && random(100) < 3)
 10596|<O>| #define SKILL_FINAL	"/item/final/86/7085"				// Kết quả chế tạo
 10597|<O>| #define SKILL_FINAL	"/item/final/88/3115"				// Kết quả chế tạo
-10598|<O>| return "Truyền nói vì Vương gia tư tàngcủaTrân hiĐan Dược，Sau khi sử dụng mỗi2giâyTự Động Hồi phục1điểmNguyên khí，\nkéo dài5phút。Thời gian hồi2giây。";
-10599|<O>| if (gift > me->get_gift_point()) return 1;    // điểmsố quanhiều
+10598|<O>| return "Truyền thuyết là đan dược trân quý riêng tư của Vương Gia, sau khi sử dụng mỗi 2 giây tự động hồi phục 1 điểm nguyên khí,\nkéo dài 5 phút. Thời gian hồi chiêu 2 giây.";
+10599|<O>| if (gift > me->get_gift_point()) return 1;    // Điểm quá nhiều
 10600|<O>| #define SKILL_FINAL	"/item/final/86/2065"				// Kết quả chế tạo
 10601|<O>| #define SKILL_FINAL	"/item/final/86/4115"				// Kết quả chế tạo
 10602|<O>| #define SKILL_FINAL	"/item/final/75/1115"				// Kết quả chế tạo
 10603|<O>| #define SKILL_FINAL	"/item/final/86/5045"				// Kết quả chế tạo
-10604|<O>| private class Group Family = new(class Group);// Môn pháithuộc tính
-10605|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận"HIY"mất thấtcủaThủ trác"NOR"Nhiệm vụ");
-10606|<O>| dfile = get_dir(path) - ({ ".", ".." });    // hoạch thủtệp tinliệt biểu
+10604|<O>| private class Group Family = new(class Group);// Thuộc tính môn phái
+10605|<O>| send_user(who, "%c%s", '!', "Bạn đã nhận nhiệm vụ "HIY"Vòng Tay Thất Lạc"NOR"");
+10606|<O>| dfile = get_dir(path) - ({ ".", ".." });    // Lấy danh sách file
 10607|<O>| #define SKILL_FINAL	"/item/final/86/7119"				// Kết quả chế tạo
 10608|<O>| #define SKILL_FINAL	"/item/final/88/4110"				// Kết quả chế tạo
 10609|<O>| #define SKILL_FINAL	"/item/final/65/5055"				// Kết quả chế tạo
 10610|<O>| #define SKILL_FINAL	"/item/final/72/1115"				// Kết quả chế tạo
-10611|<O>| if (TASK_LEGEND_D->check_task_item(who, "Tín", 1) != 1)
-10612|<O>| case 'N': send_user(me, "%c%s", '!', "nàygiữaVăn DanhđãCóNhân dùng！");
-10613|<O>| private class Group Org = new(class Group);   // bang pháithuộc tính
+10611|<O>| if (TASK_LEGEND_D->check_task_item(who, "Thư", 1) != 1)
+10612|<O>| case 'N': send_user(me, "%c%s", '!', "Tên tiếng Trung này đã có người dùng rồi!");
+10613|<O>| private class Group Org = new(class Group);   // Thuộc tính bang phái
 10614|<O>| #define SKILL_FINAL	"/item/final/60/7055"				// Kết quả chế tạo
-10615|<O>| result = me->get_name() + ":\n    BạnkhôngLàBản QuốccủaNhân，không thểđổi hoán Kỵ sủng。\n";
+10615|<O>| result = me->get_name() + ":\n    Bạn không phải người của nước này, không thể đổi kỵ sủng.\n";
 10616|<O>| #define SKILL_FINAL	"/item/final/60/7045"				// Kết quả chế tạo
 10617|<O>| #define SKILL_FINAL	"/item/final/88/6095"				// Kết quả chế tạo
 10618|<O>| #define SKILL_FINAL	"/item/final/88/2095"				// Kết quả chế tạo
-10619|<O>| send_user(who, "%c%s", ';', "rất bão khiểm，bạntrảocủaxấunhỏTrư số lượngkhôngtúc ồ，Tiếp tụcnỗ Lực ");
+10619|<O>| send_user(who, "%c%s", ';', "Rất tiếc, số lượng heo con hư bạn bắt chưa đủ, hãy cố gắng tiếp nhé");
 10620|<O>| #define SKILL_FINAL	"/item/final/88/6115"				// Kết quả chế tạo
